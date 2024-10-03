@@ -1,0 +1,493 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "dc:bibliographicCitation ": "Haspelmath, Martin & Tadmor, Uri (eds.) 2009.\nWorld Loanword Database.\nLeipzig: Max Planck Institute for Evolutionary Anthropology.\n(Available online at http://wold.clld.org, Accessed on 2018-04-25.)\n",
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:creator": "Haspelmath, Martin & Tadmor, Uri",
+    "dc:identifier": "http://wold.clld.org/",
+    "dc:issued": "2009-08-15",
+    "dc:license": "http://creativecommons.org/licenses/by/3.0/de/",
+    "dc:publisher": "Max Planck Institute for Evolutionary Anthropology, Leipzig",
+    "dc:source": "sources.bib",
+    "dc:title": "WOLD",
+    "dcat:accessURL": "http://wold.clld.org/download",
+    "dialect": {
+        "commentPrefix": null
+    },
+    "tables": [
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "aboutUrl": "http://wold.clld.org/values/{ID}",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "required": true,
+                        "name": "Parameter_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
+                        "required": true,
+                        "name": "Form"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
+                        "required": false,
+                        "separator": " ",
+                        "name": "Segments"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "required": false,
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": false,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "valueUrl": "http://wold.clld.org/vocabulary/{contribution}",
+                        "name": "Contribution_ID"
+                    },
+                    {
+                        "valueUrl": "http://wold.clld.org/word/{Word_ID}",
+                        "name": "Word_ID"
+                    },
+                    {
+                        "datatype": "float",
+                        "name": "BorrowedScore"
+                    },
+                    {
+                        "datatype": "float",
+                        "name": "AgeScore"
+                    },
+                    {
+                        "datatype": "float",
+                        "name": "SimplicityScore"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Borrowed"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Analyzability"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Age"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "ContactSituation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "age_label"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "borrowed_base"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "calqued"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "colonial_word"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "comment_on_borrowed"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "comment_on_word_form"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "effect"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "etymological_note"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "grammatical_info"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "integration"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "lexical_stratum"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "loan_history"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "numeric_frequency"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "original_script"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "other_comments"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "reference"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "register"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "relative_frequency"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "salience"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "word_source"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Parameter_ID"
+                        ],
+                        "reference": {
+                            "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Contribution_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributions.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "forms.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "aboutUrl": "http://wold.clld.org/meaning/{ID}",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "valueUrl": "http://wold.clld.org/meaning/{ID}",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SemanticField"
+                    },
+                    {
+                        "datatype": "float",
+                        "name": "BorrowedScore"
+                    },
+                    {
+                        "datatype": "float",
+                        "name": "AgeScore"
+                    },
+                    {
+                        "datatype": "float",
+                        "name": "SimplicityScore"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SemanticCategory"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "IDS_code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "TypicalContext"
+                    },
+                    {
+                        "datatype": "boolean",
+                        "name": "CoreList"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "parameters.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "aboutUrl": "http://wold.clld.org/language/{ID}",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "valueUrl": "http://wold.clld.org/language/{ID}",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "required": false,
+                        "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9]{4}[1-9][0-9]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "required": false,
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
+                        "required": false,
+                        "name": "ISO639P3code"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "languages.csv"
+        },
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Contributors"
+                    }
+                ]
+            },
+            "url": "contributions.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#BorrowingTable",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#targetFormReference",
+                        "required": true,
+                        "name": "Target_Form_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#sourceFormReference",
+                        "required": false,
+                        "name": "Source_Form_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "required": false,
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": false,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "relation"
+                    },
+                    {
+                        "datatype": "boolean",
+                        "name": "certain"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "name": "Language_ID"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Target_Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Source_Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "borrowings.csv"
+        }
+    ]
+}

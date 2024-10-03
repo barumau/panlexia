@@ -4,28 +4,30 @@
 
 Panlexia is a collection of interlinked word lists.
 Each language has its own word list file.
-The file names consist of a three-letter language code from the ISO 639-3 standard and `.txt` suffix.
-For example, the name of the word list file for English is `eng.txt` and the one for Mandarin Chinese is `cmn.txt`.
+The file names consist of a three-letter language code from the ISO 639-3 standard and `.tsv` suffix.
+For example, the name of the word list file for English is `eng.tsv` and the one for Mandarin Chinese is `cmn.tsv`.
 
 There can be also other language specific files for storing additional information,
-such as pronunciation instructions in the International Phonetic Alphabet (IPA) or other systems.
-Names of such files consists of the three-letter language code, a dash (`-`), the name of the transcription system, and `.txt` suffix.
-For example, the name of IPA pronunciation file for English is `eng-ipa.txt`
-and the name of Pinyin Romanized file for Mandarin Chinese is `cmn-pinyin.txt`.
+for example phonetic transcription or grammatical information.
+The name of a transcription file consists of the three-letter language code, a dash (`-`), the name of the transcription system, and `.tsv` suffix.
+For example, the name of IPA pronunciation file for English is `eng-IPA.tsv`
+and the name of Pinyin Romanized file for Mandarin Chinese is `cmn-pinyin.tsv`.
 
 If for some reason there is two word lists for one language,
-the second and greater ones are suffixed with a number.
-For example, `eng-2.txt` and `eng-2-ipa.txt`.
+the second and greater ones are suffixed with an underscrore and a number.
+For example, `eng_2.tsv` and `eng_2-IPA.tsv`.
 
-Each word list file consists of lines that include an entry identifier, a column (`|`) and words in the given language.
+Each word list file consists of lines that include an entry identifier, a tab (i.e. character tabulation) and a word or words in the given language.
 The entry identifier is a unique code.
-The words are the translation of the concept to a given language.
+The word is the translation of the concept in the language in question.
 The entry identifiers link translations in different languages together.
 
-    001001sp|I
-    001001op|me
-    001002sp|you, thou
-    001002op|you, thee
+``` 
+001001sp	I
+001001op	me
+001002sp	you, thou
+001002op	you, thee
+```
 
 The repository includes also some Python and shell scripts for generating dictionaries.
 
@@ -43,6 +45,15 @@ See examples of proper attribution below.
 > "Panlexia" (https://github.com/barumau/panlexia) by Risto Kupsala et al. is licensed under Creative Commons Attribution 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 Details of the license are in [LICENSE.md](LICENSE.md).
+
+## Acknowledgments
+
+The Panlexia project re-uses material from the following sources:
+
+- *NorthEuraLex* (http://northeuralex.org/), which is edited by Johannes Dellert & Gerhard Jäger and which is licensed under the
+  [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+- *The World Loanword Database (WOLD)*, which is edited by Martin Haspelmath & Uri Tadmor and which is licensed under the
+  [Creative Commons Attribution 3.0 Germany License](http://creativecommons.org/licenses/by/3.0/de/)
 
 ## Let's work together!
 
