@@ -143,48 +143,48 @@ Familia:widow.N	2-76
 Familia:widower.N	2-77		
 Familia:relatives.N	2-81		
 Familia:family.N	2-82	Familie::N	‘group of closely related relatives, consisting minimally of parents and children’
-Familia:I.PRN	2-91	ich::PRN	
-Familia:you (singular).?	2-92		
-Familia:he/she/it.?	2-93		(third person singular pronoun, regardless of gender/sex)
-Familia:we.PRN	2-94	wir::PRN	
-Familia:we (inclusive).?	2-941		
-Familia:we (exclusive).?	2-942		
-Familia:you (plural).?	2-95		
-Familia:they.PRN	2-96	sie::PRN	
+Grammatica:1SG.PRN	2-91	ich::PRN	
+Grammatica:2SG.PRN	2-92	du::PRN	
+Grammatica:3SG.PRN	2-93		(third person singular pronoun, regardless of gender/sex)
+Grammatica:1PL.PRN	2-94	wir::PRN	
+Grammatica:1PL INCL.PRN	2-941		
+Grammatica:1PL EXCL.PRN	2-942		
+Grammatica:2PL.PRN	2-95	ihr::PRN	
+Grammatica:3PL.PRN	2-96	sie::PRN	
 Animalia:animal.N	3-11	Tier::N	'living creature that can move (including or excluding humans)'
-Animalia:male(2).?	3-12		(of animals) cf. 2.23
-Animalia:female(2).?	3-13		(of animals) cf. 2.24
+Animalia:mas.N	3-12		(of animals) cf. 2.23
+Animalia:fem.N	3-13		(of animals) cf. 2.24
 Animalia:livestock.N	3-15		'domestic mammals kept for service or for useful products (cows, horses, donkeys, sheep, goats, pigs, reindeer, camels, etc.)'
 Animalia:pasture.N	3-16	Weide::N	'land or field that is covered with grass and is used for livestock to feed on'
 Animalia:herdsman.N	3-18		'a man who looks after a herd of animals'
 Animalia:stable or stall.N	3-19		'building where domestic animals (any kind, not just horses) are kept'
 Animalia:cattle.N	3-2		'(collection of) domestic bovine animals'
-Animalia:bull.N	3-21	Bulle::N	'male bovine (not castrated)'
-Animalia:ox.N	3-22		'a castrated bull, often used for working on farms'
-Animalia:cow.N	3-23	Kuh::N	'female bovine'
-Animalia:calf.N	3-24		'young of a cow'
-Animalia:sheep.N	3-25	Schaf::N	
-Animalia:ram.N	3-26		'male sheep'
-Animalia:ewe.N	3-28		'female sheep'
-Animalia:lamb.N	3-29		'young of a sheep'
-Animalia:boar.N	3-32		
-Animalia:sow.N	3-34		'female pig'
-Animalia:pig.N	3-35	Schwein::N	
-Animalia:goat.N	3-36		'(female or generic) goat'
-Animalia:he-goat.N	3-37		'male goat'
-Animalia:kid.N	3-38		'young of a goat'
-Animalia:horse.N	3-41	Pferd::N	
-Animalia:stallion.N	3-42		'male horse'
-Animalia:mare.N	3-44		'female horse'
-Animalia:foal or colt.N	3-45		‘the young of horses’
-Animalia:donkey.N	3-46		
-Animalia:mule.N	3-47		'an animal that has a donkey and a horse as parents'
+Animalia:Bos taurus mas.N	3-21	Bulle::N	'male bovine (not castrated)'
+Animalia:Bos taurus cas.N	3-22		'a castrated bull, often used for working on farms'
+Animalia:Bos taurus fem.N	3-23	Kuh::N	'female bovine'
+Animalia:Bos taurus jun.N	3-24		'young of a cow'
+Animalia:Ovis aries.N	3-25	Schaf::N	
+Animalia:Ovis aries mas.N	3-26		'male sheep'
+Animalia:Ovis aries fem.N	3-28		'female sheep'
+Animalia:Ovis aries jun.N	3-29		'young of a sheep'
+Animalia:Sus scrofa mas.N	3-32		
+Animalia:Sus scrofa fem.N	3-34		'female pig'
+Animalia:Sus scrofa domestica.N	3-35	Schwein::N	
+Animalia:Capra aegagrus hircus.N	3-36		'(female or generic) goat'
+Animalia:Capra aegagrus mas.N	3-37		'male goat'
+Animalia:Capra aegagrus jun.N	3-38		'young of a goat'
+Animalia:Equus caballus.N	3-41	Pferd::N	
+Animalia:Equus caballus mas.N	3-42		'male horse'
+Animalia:Equus caballus fem.N	3-44		'female horse'
+Animalia:Equus caballus jun.N	3-45		‘the young of horses’
+Animalia:Equus asinus.N	3-46		
+Animalia:Equus asinus × caballus.N	3-47		'an animal that has a donkey and a horse as parents'
 Animalia:fowl.N	3-5		'a bird that is kept for its meat and eggs'
-Animalia:cock/rooster.N	3-52		
-Animalia:hen.N	3-54		
-Animalia:chicken.N	3-55	Huhn::N	(Fill in only if there is a general term for 'rooster or hen'.)
-Animalia:goose.N	3-56	Gans::N	'domesticated goose'
-Animalia:duck.N	3-57	Ente::N	'domesticated duck'
+Animalia:Gallus gallus mas.N	3-52		
+Animalia:Gallus gallus fem.N	3-54		
+Animalia:Gallus gallus domesticus.N	3-55	Huhn::N	general term for 'rooster or hen'
+Animalia:Anser anser.N	3-56	Gans::N	'domesticated goose'
+Animalia:Anas platyrhynchos domestica.N	3-57	Ente::N	'domesticated duck'
 Animalia:nest.N	3-58	Nest::N	
 Animalia:bird.N	3-581	Vogel::N	
 Animalia:seagull.N	3-582		
@@ -197,9 +197,9 @@ Animalia:parrot.N	3-592
 Animalia:crow.N	3-593	Krähe::N	
 Animalia:dove.N	3-594		
 Animalia:owl.N	3-596	Eule::N	
-Animalia:dog.N	3-61	Hund::N	
+Animalia:Lupus canis.N	3-61	Hund::N	
 Animalia:rabbit.N	3-614		
-Animalia:cat.N	3-62	Katze::N	
+Animalia:Felis cattus.N	3-62	Katze::N	
 Animalia:opossum.N	3-622		
 Animalia:mouse or rat.N	3-63		
 Animalia:fish.N	3-65	Fisch::N	
@@ -556,7 +556,7 @@ Domestica:cookhouse.N	7-17
 Domestica:meeting house.N	7-18		
 Domestica:room.N	7-21		
 Domestica:door or gate.N	7-22		
-Domestica:doorpost.N	7-221		= ‘jamb, side post of a door’
+Domestica:doorpost.N	7-221		‘jamb, side post of a door’
 Domestica:lock.N	7-23	Schloss::N	
 Domestica:latch or door-bolt.N	7-231		
 Domestica:key.N	7-24		
@@ -580,7 +580,7 @@ Domestica:thatch.N	7-52		‘natural roofing material such as straw, reeds, leave
 Domestica:ridgepole.N	7-53		'the highest horizontal beam in a roof'
 Domestica:rafter.N	7-54		'a horizontal beam that supports the roof'
 Domestica:beam.N	7-55		
-Domestica:post or pole.N	7-56		= ‘a strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something’
+Domestica:post or pole.N	7-56		‘a strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something’
 Domestica:board.N	7-57	Brett::N	
 Domestica:arch.N	7-58		
 Domestica:mason.N	7-61		
@@ -824,7 +824,7 @@ Motion:rudder.N	10-86
 Motion:mast.N	10-87		
 Motion:sail.N	10-88		
 Motion:anchor.N	10-89		
-Motion:port.N	10-91		(= harbour)
+Motion:port.N	10-91		harbour
 Motion:land.N	10-92	Festland::N	
 Possession:have.V	11-11		'have temporarily (including things that one does not strictly speaking possess)'
 Possession:own.V	11-12	besitzen::V	'possess, have permanently as legal possession'
@@ -1488,9 +1488,9 @@ Familia:sibling’s child.N	2-541
 Familia:parents-in-law.N	2-622		
 Familia:child-in-law.N	2-6411		
 Familia:sibling-in-law.N	2-6412		
-Familia:he.PRN	2-931	er::PRN	
-Familia:she.?	2-932		
-Familia:it.?	2-933		
+Grammatica:3SG M.PRN	2-931	er::PRN	
+Grammatica:3SG F.PRN	2-932		
+Grammatica:3SG nonhuman.PRN	2-933		
 Anatomia:life.N	4-741	Leben::N	
 Anatomia:carcass.N	4-771		'body of a dead animal'
 Anatomia:disease.N	4-844		
@@ -2100,9 +2100,7 @@ Alia:already.ADV		schon::ADV	[]
 Alia:next to.PRP		neben::PRP	[]
 Alia:between.PRP		zwischen::PRP	[]
 Alia:because of.PRP		wegen::PRP	[]
-Alia:everything.PRN		alles::PRN	[]
-Alia:thou.PRN		du::PRN	[]
-Alia:you.PRN		ihr::PRN	[plural]
+Grammatica:everything.PRN		alles::PRN	[]
 Alia:what.FPRN		was::FPRN	[]
 Alia:who.FPRN		wer::FPRN	[]
 Alia:where.FADV		wo::FADV	[]
