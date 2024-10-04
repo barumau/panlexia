@@ -18,15 +18,23 @@ the second and greater ones are suffixed with an underscrore and a number.
 For example, `eng_2.tsv` and `eng_2-IPA.tsv`.
 
 Each word list file consists of lines that include an entry identifier, a tab (i.e. character tabulation) and a word or words in the given language.
-The entry identifier is a unique code.
+The entry identifier is a unique code that consists of the following parts:
+
+- the semantic field in Latin or pseudo-Latin
+- a colon (`:`)
+- the term in a standardized (scientific, technological or other) terminology or in plain English
+- a period (`.`)
+- a word class identifier, such as `N` for nouns, `ADJ` for adjectives and `V` for verbs
+
 The word is the translation of the concept in the language in question.
 The entry identifiers link translations in different languages together.
 
 ``` 
-001001sp	I
-001001op	me
-001002sp	you, thou
-001002op	you, thee
+Anatomia:head.N head
+Anatomia:face.N	face
+Anatomia:face.A facial
+Animalia:Felis cattus.N cat
+Animalia:Lupus canis.N  dog
 ```
 
 The repository includes also some Python and shell scripts for generating dictionaries.
@@ -50,9 +58,9 @@ Details of the license are in [LICENSE.md](LICENSE.md).
 
 The Panlexia project re-uses material from the following sources:
 
-- *NorthEuraLex* (http://northeuralex.org/), which is edited by Johannes Dellert & Gerhard Jäger and which is licensed under the
+- [NorthEuraLex](http://northeuralex.org/), which is edited by Johannes Dellert & Gerhard Jäger and which is licensed under the
   [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-- *The World Loanword Database (WOLD)*, which is edited by Martin Haspelmath & Uri Tadmor and which is licensed under the
+- *[he World Loanword Database (WOLD)](https://wold.clld.org), which is edited by Martin Haspelmath & Uri Tadmor and which is licensed under the
   [Creative Commons Attribution 3.0 Germany License](http://creativecommons.org/licenses/by/3.0/de/)
 
 ## Let's work together!
