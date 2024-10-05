@@ -1,41 +1,41 @@
 id	WOLD id	NorthEuraLex id	Description
 Natura:world.N	1-1	Welt::N	
-Natura:land.N	1-21	Festland::N	'the hard surface of the earth, when compared to the area covered by sea'
-Natura:soil.N	1-212		'the substance that plants naturally grow in'
-Natura:dust.N	1-213	Staub::N	'dry powder consisting of extremely small bits of matter, found outside or inside buildings'
-Natura:mud.N	1-214		'wet earth that has become soft and sticky'
+Natura:land.N	1-21	Festland::N	the hard surface of the earth, when compared to the area covered by sea
+Natura:soil.N	1-212		the substance that plants naturally grow in
+Natura:dust.N	1-213	Staub::N	dry powder consisting of extremely small bits of matter, found outside or inside buildings
+Natura:mud.N	1-214		wet earth that has become soft and sticky
 Natura:sand.N	1-215	Sand::N	
 Natura:mountain or hill.N	1-22		
-Natura:cliff or precipice.N	1-222		'a high rock with a very steep side (often near the sea)'
-Natura:plain.N	1-23		'expanse of level ground, open country'
+Natura:cliff or precipice.N	1-222		a high rock with a very steep side (often near the sea)
+Natura:plain.N	1-23		expanse of level ground, open country
 Natura:valley.N	1-24		
 Natura:island.N	1-25	Insel::N	
-Natura:mainland.N	1-26		'the main area of land that forms a country, as compared to islands near it'
-Natura:shore.N	1-27	Ufer::N	'the land along the edge of a large body of water, such as an ocean or a lake'
+Natura:mainland.N	1-26		the main area of land that forms a country, as compared to islands near it
+Natura:shore.N	1-27	Ufer::N	the land along the edge of a large body of water, such as an ocean or a lake
 Natura:cave.N	1-28	Höhle::N	
-Natura:water.N	1-31	Wasser::N	‘drinking water’
-Natura:water.V	1-31	gießen::V	‘drinking water’
+Natura:water.N	1-31	Wasser::N	drinking water
+Natura:water.V	1-31	gießen::V	drinking water
 Natura:sea.N	1-32	Meer::N	
-Natura:calm.N	1-322	Ruhe::N	'smooth or having only gentle waves'
-Natura:rough(2).?	1-323		'with large waves'
+Natura:calm.N	1-322	Ruhe::N	smooth or having only gentle waves
+Natura:rough(2).?	1-323		with large waves
 Natura:foam.N	1-324	Schaum::N	
-Natura:ocean.N	1-329		'any of the world's major bodies of salt water'; generally larger than 'sea'
+Natura:ocean.N	1-329		any of the worlds major bodies of salt water; generally larger than sea
 Natura:lake.N	1-33	See::N	
-Natura:bay.N	1-34		'an area of the sea that curves inwards towards the land'
-Natura:lagoon.N	1-341		'a body of sea water partly or completely separated from the sea by sand, rock etc., generally smaller than a bay’
-Natura:reef.N	1-342		'a line mass of sharp rocks, often made of coral, near the surface of the sea'
-Natura:cape.N	1-343		'a large piece of land surrounded on three sides by the sea'
+Natura:bay.N	1-34		an area of the sea that curves inwards towards the land
+Natura:lagoon.N	1-341		a body of sea water partly or completely separated from the sea by sand, rock etc., generally smaller than a bay
+Natura:reef.N	1-342		a line mass of sharp rocks, often made of coral, near the surface of the sea
+Natura:cape.N	1-343		a large piece of land surrounded on three sides by the sea
 Natura:wave.N	1-35	Welle::N	
-Natura:tide.N	1-352		'the regular rising and lowering of the level of the sea'
+Natura:tide.N	1-352		the regular rising and lowering of the level of the sea
 Natura:low tide.N	1-353		
 Natura:high tide.N	1-354		
 Natura:river or stream.N	1-36		
-Natura:whirlpool.N	1-362		'a powerful current of water that spins around and can pull things down into it'
-Natura:spring or well.N	1-37		'natural (spring) or artificial (well) source of water'
+Natura:whirlpool.N	1-362		a powerful current of water that spins around and can pull things down into it
+Natura:spring or well.N	1-37		natural (spring) or artificial (well) source of water
 Natura:swamp.N	1-38	Sumpf::N	
 Natura:waterfall.N	1-39		
 Natura:woods or forest.N	1-41		
-Natura:wood.N	1-43	Holz::N	‘material that people get from trees’
+Natura:wood.N	1-43	Holz::N	material that people get from trees
 Natura:stone or rock.N	1-44		
 Natura:earthquake.N	1-45		
 Natura:sky.N	1-51	Himmel::N	
@@ -45,7 +45,7 @@ Natura:star.N	1-54	Stern::N
 Natura:lightning.N	1-55		
 Natura:thunder.N	1-56	Donner::N	
 Natura:thunder.V	1-56	donnern::V	
-Natura:bolt of lightning.N	1-57		'a flash of lightning and a noise of thunder together, which hits something'
+Natura:bolt of lightning.N	1-57		a flash of lightning and a noise of thunder together, which hits something
 Natura:storm.N	1-58		
 Natura:rainbow.N	1-59	Regenbogen::N	
 Natura:light.N	1-61	Licht::N	
@@ -62,21 +62,21 @@ Natura:rain.V	1-75	regnen::V
 Natura:snow.N	1-76	Schnee::N	
 Natura:ice.N	1-77	Eis::N	
 Natura:weather.N	1-78	Wetter::N	
-Natura:fire.N	1-81	Feuer::N	‘a fire lit deliberately for heating or cooking’
+Natura:fire.N	1-81	Feuer::N	a fire lit deliberately for heating or cooking
 Natura:flame.N	1-82		
 Natura:smoke.N	1-83	Rauch::N	
 Natura:smoke.V	1-83	rauchen::V	
 Natura:ash.N	1-84	Asche::N	
-Natura:embers.N	1-841		'pieces of wood or coal in a fire that are no longer burning but are still red and very hot'
-Natura:burn(1).V	1-851		'partially or fully destroy with fire'
-Natura:burn(2).V	1-852		'be on fire, be consumed by fire'
-Natura:light.N	1-86	Licht::N	'make something burn'
-Natura:light.V	1-86	anzünden::V	'make something burn'
+Natura:embers.N	1-841		pieces of wood or coal in a fire that are no longer burning but are still red and very hot
+Natura:burn(1).V	1-851		partially or fully destroy with fire
+Natura:burn(2).V	1-852		be on fire, be consumed by fire
+Natura:light.N	1-86	Licht::N	make something burn
+Natura:light.V	1-86	anzünden::V	make something burn
 Natura:extinguish.V	1-861		
-Natura:match.N	1-87		'a small wooden stick used to light a fire'
+Natura:match.N	1-87		a small wooden stick used to light a fire
 Natura:firewood.N	1-88		
 Natura:charcoal.N	1-89		
-Familia:person.N	2-1		‘human being’
+Familia:person.N	2-1		human being
 Familia:man.N	2-21	Mann::N	(vs. woman)
 Familia:woman.N	2-22	Frau::N	
 Familia:male(1).?	2-23		(of humans, cf. 3.12)
@@ -85,8 +85,8 @@ Familia:boy.N	2-25	Junge::N
 Familia:young man.N	2-251		
 Familia:girl.N	2-26	Mädchen::N	
 Familia:young woman.N	2-261		
-Familia:child(1).N	2-27		'young human' (not kinship term) (cf. 2.43)
-Familia:baby.N	2-28		‘very young human that cannot walk yet’
+Familia:child(1).N	2-27		young human (not kinship term) (cf. 2.43)
+Familia:baby.N	2-28		very young human that cannot walk yet
 Familia:husband.N	2-31	Ehemann::N	
 Familia:wife.N	2-32	Ehefrau::N	
 Familia:marry.V	2-33		
@@ -100,7 +100,7 @@ Familia:married woman.N	2-39
 Familia:son.N	2-41	Sohn::N	
 Familia:daughter.N	2-42	Tochter::N	
 Animalia:porpoise or dolphin.N	3-662		
-Familia:child(2).N	2-43		‘immediate descendant, son or daughter’ (kinship term) (cf. 2.27)
+Familia:child(2).N	2-43		immediate descendant, son or daughter (kinship term) (cf. 2.27)
 Familia:brother.N	2-44	Bruder::N	
 Familia:older brother.N	2-444		
 Familia:younger brother.N	2-445		
@@ -121,8 +121,8 @@ Familia:father's brother.N	2-512
 Familia:aunt.N	2-52	Tante::N	
 Familia:mother's sister.N	2-521		
 Familia:father's sister.N	2-522		
-Familia:nephew.N	2-53		‘sibling’s son’
-Familia:niece.N	2-54		‘sibling’s daughter’
+Familia:nephew.N	2-53		siblings son
+Familia:niece.N	2-54		siblings daughter
 Familia:cousin.N	2-55		
 Familia:ancestors.N	2-56		
 Familia:descendants.N	2-57		
@@ -142,7 +142,7 @@ Familia:orphan.N	2-75
 Familia:widow.N	2-76		
 Familia:widower.N	2-77		
 Familia:relatives.N	2-81		
-Familia:family.N	2-82	Familie::N	‘group of closely related relatives, consisting minimally of parents and children’
+Familia:family.N	2-82	Familie::N	group of closely related relatives, consisting minimally of parents and children
 Grammatica:1SG.PRN	2-91	ich::PRN	
 Grammatica:2SG.PRN	2-92	du::PRN	
 Grammatica:3SG.PRN	2-93		(third person singular pronoun, regardless of gender/sex)
@@ -151,40 +151,40 @@ Grammatica:1PL INCL.PRN	2-941
 Grammatica:1PL EXCL.PRN	2-942		
 Grammatica:2PL.PRN	2-95	ihr::PRN	
 Grammatica:3PL.PRN	2-96	sie::PRN	
-Animalia:animal.N	3-11	Tier::N	'living creature that can move (including or excluding humans)'
+Animalia:animal.N	3-11	Tier::N	living creature that can move (including or excluding humans)
 Animalia:mas.N	3-12		(of animals) cf. 2.23
 Animalia:fem.N	3-13		(of animals) cf. 2.24
-Animalia:livestock.N	3-15		'domestic mammals kept for service or for useful products (cows, horses, donkeys, sheep, goats, pigs, reindeer, camels, etc.)'
-Animalia:pasture.N	3-16	Weide::N	'land or field that is covered with grass and is used for livestock to feed on'
-Animalia:herdsman.N	3-18		'a man who looks after a herd of animals'
-Animalia:stable or stall.N	3-19		'building where domestic animals (any kind, not just horses) are kept'
-Animalia:cattle.N	3-2		'(collection of) domestic bovine animals'
-Animalia:Bos taurus mas.N	3-21	Bulle::N	'male bovine (not castrated)'
-Animalia:Bos taurus cas.N	3-22		'a castrated bull, often used for working on farms'
-Animalia:Bos taurus fem.N	3-23	Kuh::N	'female bovine'
-Animalia:Bos taurus jun.N	3-24		'young of a cow'
+Animalia:livestock.N	3-15		domestic mammals kept for service or for useful products (cows, horses, donkeys, sheep, goats, pigs, reindeer, camels, etc.)
+Animalia:pasture.N	3-16	Weide::N	land or field that is covered with grass and is used for livestock to feed on
+Animalia:herdsman.N	3-18		a man who looks after a herd of animals
+Animalia:stable or stall.N	3-19		building where domestic animals (any kind, not just horses) are kept
+Animalia:cattle.N	3-2		(collection of) domestic bovine animals
+Animalia:Bos taurus mas.N	3-21	Bulle::N	male bovine (not castrated)
+Animalia:Bos taurus cas.N	3-22		a castrated bull, often used for working on farms
+Animalia:Bos taurus fem.N	3-23	Kuh::N	female bovine
+Animalia:Bos taurus jun.N	3-24		young of a cow
 Animalia:Ovis aries.N	3-25	Schaf::N	
-Animalia:Ovis aries mas.N	3-26		'male sheep'
-Animalia:Ovis aries fem.N	3-28		'female sheep'
-Animalia:Ovis aries jun.N	3-29		'young of a sheep'
+Animalia:Ovis aries mas.N	3-26		male sheep
+Animalia:Ovis aries fem.N	3-28		female sheep
+Animalia:Ovis aries jun.N	3-29		young of a sheep
 Animalia:Sus scrofa mas.N	3-32		
-Animalia:Sus scrofa fem.N	3-34		'female pig'
+Animalia:Sus scrofa fem.N	3-34		female pig
 Animalia:Sus scrofa domestica.N	3-35	Schwein::N	
-Animalia:Capra aegagrus hircus.N	3-36		'(female or generic) goat'
-Animalia:Capra aegagrus mas.N	3-37		'male goat'
-Animalia:Capra aegagrus jun.N	3-38		'young of a goat'
+Animalia:Capra aegagrus hircus.N	3-36		(female or generic) goat
+Animalia:Capra aegagrus mas.N	3-37		male goat
+Animalia:Capra aegagrus jun.N	3-38		young of a goat
 Animalia:Equus caballus.N	3-41	Pferd::N	
-Animalia:Equus caballus mas.N	3-42		'male horse'
-Animalia:Equus caballus fem.N	3-44		'female horse'
-Animalia:Equus caballus jun.N	3-45		‘the young of horses’
+Animalia:Equus caballus mas.N	3-42		male horse
+Animalia:Equus caballus fem.N	3-44		female horse
+Animalia:Equus caballus jun.N	3-45		the young of horses
 Animalia:Equus asinus.N	3-46		
-Animalia:Equus asinus × caballus.N	3-47		'an animal that has a donkey and a horse as parents'
-Animalia:fowl.N	3-5		'a bird that is kept for its meat and eggs'
+Animalia:Equus asinus × caballus.N	3-47		an animal that has a donkey and a horse as parents
+Animalia:fowl.N	3-5		a bird that is kept for its meat and eggs
 Animalia:Gallus gallus mas.N	3-52		
 Animalia:Gallus gallus fem.N	3-54		
-Animalia:Gallus gallus domesticus.N	3-55	Huhn::N	general term for 'rooster or hen'
-Animalia:Anser anser.N	3-56	Gans::N	'domesticated goose'
-Animalia:Anas platyrhynchos domestica.N	3-57	Ente::N	'domesticated duck'
+Animalia:Gallus gallus domesticus.N	3-55	Huhn::N	general term for rooster or hen
+Animalia:Anser anser.N	3-56	Gans::N	domesticated goose
+Animalia:Anas platyrhynchos domestica.N	3-57	Ente::N	domesticated duck
 Animalia:nest.N	3-58	Nest::N	
 Animalia:bird.N	3-581	Vogel::N	
 Animalia:seagull.N	3-582		
@@ -204,8 +204,8 @@ Animalia:opossum.N	3-622
 Animalia:mouse or rat.N	3-63		
 Animalia:fish.N	3-65	Fisch::N	
 Animalia:fish.V	3-65	fischen::V	
-Animalia:fin.N	3-652		'one of the thin body parts that a fish uses to swim'
-Animalia:scale.N	3-653		'one of the small flat pieces of skin that cover the bodies of fish'
+Animalia:fin.N	3-652		one of the thin body parts that a fish uses to swim
+Animalia:scale.N	3-653		one of the small flat pieces of skin that cover the bodies of fish
 Animalia:gill.N	3-654		
 Animalia:shell.N	3-655		
 Animalia:shark.N	3-661		
@@ -222,7 +222,7 @@ Animalia:elephant.N	3-77
 Animalia:camel.N	3-78		
 Animalia:insect.N	3-81		
 Animalia:head louse.N	3-811		
-Animalia:nit.N	3-812		'an egg of a louse that is sometimes found in people's hair'
+Animalia:nit.N	3-812		an egg of a louse that is sometimes found in peoples hair
 Animalia:flea.N	3-813		
 Animalia:centipede.N	3-814		
 Animalia:scorpion.N	3-815		
@@ -248,10 +248,10 @@ Animalia:frog.N	3-95
 Animalia:lizard.N	3-96		
 Animalia:crocodile or alligator.N	3-97		
 Animalia:turtle.N	3-98		
-Anatomia:body.N	4-11	Körper::N	‘the body of a live human’
+Anatomia:body.N	4-11	Körper::N	the body of a live human
 Anatomia:skin or hide.N	4-12		(skin: of a human; hide: of an animal)
 Anatomia:flesh.N	4-13		
-Anatomia:hair.N	4-14	Haar::N	‘hair on a person’s head’
+Anatomia:hair.N	4-14	Haar::N	hair on a persons head
 Anatomia:beard.N	4-142	Bart::N	
 Anatomia:body hair.N	4-144		
 Anatomia:pubic hair.N	4-145		
@@ -262,23 +262,23 @@ Anatomia:bone.N	4-16	Knochen::N
 Anatomia:rib.N	4-162		
 Anatomia:horn.N	4-17	Horn::N	(e.g. of a cow)
 Anatomia:tail.N	4-18	Schwanz::N	
-Anatomia:back.N	4-19	Rücken::N	‘the back of a human body’
-Anatomia:back.ADV	4-19	zurück::ADV	‘the back of a human body’
+Anatomia:back.N	4-19	Rücken::N	the back of a human body
+Anatomia:back.ADV	4-19	zurück::ADV	the back of a human body
 Anatomia:spine.N	4-191		
 Anatomia:head.N	4-2	Kopf::N	
-Anatomia:temples.N	4-201		‘the two fairly flat areas on each side of people’s forehead’, or more generally ‘the two sides of people’s head’
+Anatomia:temples.N	4-201		the two fairly flat areas on each side of peoples forehead, or more generally the two sides of peoples head
 Anatomia:skull.N	4-202		
 Anatomia:brain.N	4-203	Gehirn::N	
 Anatomia:face.N	4-204	Gesicht::N	
 Anatomia:forehead.N	4-205	Stirn::N	
-Anatomia:jaw.N	4-207	Kiefer[Anatomie]::N	‘the lower part of people’s face that moves when they eat’
+Anatomia:jaw.N	4-207	Kiefer[Anatomie]::N	the lower part of peoples face that moves when they eat
 Anatomia:cheek.N	4-208	Wange::N	
 Anatomia:chin.N	4-209	Kinn::N	
 Anatomia:eye.N	4-21	Auge::N	
 Anatomia:eyebrow.N	4-212		
 Anatomia:eyelid.N	4-213		
 Anatomia:eyelash.N	4-214		
-Anatomia:blink.V	4-215		‘to shut and open one’s eyes quickly’
+Anatomia:blink.V	4-215		to shut and open ones eyes quickly
 Anatomia:ear.N	4-22	Ohr::N	
 Anatomia:earlobe.N	4-221		
 Anatomia:earwax.N	4-222		
@@ -308,9 +308,9 @@ Anatomia:palm of the hand.N	4-331
 Anatomia:finger.N	4-34	Finger::N	
 Anatomia:thumb.N	4-342		
 Anatomia:fingernail.N	4-344	Fingernagel::N	
-Anatomia:claw.N	4-345	Klaue::N	‘the sharp curved nail on the toe of an animal or bird’
+Anatomia:claw.N	4-345	Klaue::N	the sharp curved nail on the toe of an animal or bird
 Anatomia:leg.N	4-35	Bein::N	
-Anatomia:thigh.N	4-351	Oberschenkel::N	‘the top part of the leg, between the knee and the hip’
+Anatomia:thigh.N	4-351	Oberschenkel::N	the top part of the leg, between the knee and the hip
 Anatomia:calf of the leg.N	4-352		
 Anatomia:knee.N	4-36	Knie::N	
 Anatomia:foot.N	4-37	Fuß::N	
@@ -321,20 +321,20 @@ Anatomia:toe.N	4-38	Zeh::N
 Anatomia:wing.N	4-392	Flügel::N	
 Anatomia:feather.N	4-393	Feder::N	
 Anatomia:chest.N	4-4		
-Anatomia:breast.N	4-41	Brust::N	‘the breast of a woman’
+Anatomia:breast.N	4-41	Brust::N	the breast of a woman
 Anatomia:nipple or teat.N	4-412		
-Anatomia:udder.N	4-42		‘the part of a cow/female goat/... that hangs down between its back legs and that produces milk’
+Anatomia:udder.N	4-42		the part of a cow/female goat/... that hangs down between its back legs and that produces milk
 Anatomia:navel.N	4-43	Nabel::N	
 Anatomia:heart.N	4-44	Herz::N	
 Anatomia:lung.N	4-441		
 Anatomia:liver.N	4-45	Leber::N	
 Anatomia:kidney.N	4-451		
 Anatomia:spleen.N	4-452		
-Anatomia:stomach.N	4-46	Magen::N	(internal organ, not 'belly')
+Anatomia:stomach.N	4-46	Magen::N	(internal organ, not belly)
 Anatomia:intestines or guts.N	4-461		
 Anatomia:waist.N	4-462		
 Anatomia:hip.N	4-463		
-Anatomia:buttocks.N	4-464		‘the fleshy part of one’s body that people sit on’
+Anatomia:buttocks.N	4-464		the fleshy part of ones body that people sit on
 Anatomia:womb.N	4-47		
 Anatomia:testicles.N	4-49		
 Anatomia:penis.N	4-492		
@@ -348,7 +348,7 @@ Anatomia:spit.V	4-56
 Anatomia:vomit.V	4-57		
 Anatomia:bite.V	4-58	beißen::V	
 Anatomia:lick.V	4-59	lecken::V	
-Anatomia:dribble.V	4-591		‘to let saliva flow out of one’s mouth onto one’s chin’
+Anatomia:dribble.V	4-591		to let saliva flow out of ones mouth onto ones chin
 Anatomia:sleep.N	4-61	Schlaf::N	
 Anatomia:sleep.V	4-61	schlafen::V	
 Anatomia:snore.V	4-612		
@@ -360,7 +360,7 @@ Anatomia:shit.V	4-66
 Anatomia:have sex.V	4-67		
 Anatomia:shiver.V	4-68		
 Anatomia:bathe.V	4-69		(intransitive)
-Anatomia:beget.V	4-71		‘become the father of’
+Anatomia:beget.V	4-71		become the father of
 Anatomia:be born.V	4-72	geboren werden::V	
 Anatomia:pregnant.?	4-73		
 Anatomia:conceive.V	4-732		
@@ -368,28 +368,28 @@ Anatomia:be alive.V	4-74
 Anatomia:die.V	4-75	sterben::V	
 Anatomia:drown.V	4-751		
 Anatomia:kill.V	4-76	töten::V	
-Anatomia:corpse.N	4-77		'body of a dead human'
-Anatomia:bury.V	4-78		‘bury a dead person’
+Anatomia:corpse.N	4-77		body of a dead human
+Anatomia:bury.V	4-78		bury a dead person
 Anatomia:grave.N	4-79	Grab::N	
 Anatomia:strong.?	4-81		
 Anatomia:weak.A	4-82	schwach::A	
 Anatomia:healthy.?	4-83		
 Anatomia:sick/ill.?	4-84		
 Anatomia:fever.N	4-841	Fieber::N	
-Anatomia:goitre/goiter.N	4-842		‘a disease of the thyroid gland that makes one’s neck very swollen’
-Anatomia:cold.A	4-843	kalt::A	‘the common cold’
+Anatomia:goitre/goiter.N	4-842		a disease of the thyroid gland that makes ones neck very swollen
+Anatomia:cold.A	4-843	kalt::A	the common cold
 Anatomia:wound or sore.N	4-85		
 Anatomia:bruise.N	4-852		
 Anatomia:swelling.N	4-853		
 Anatomia:itch.N	4-854		
 Anatomia:blister.N	4-855		
-Anatomia:boil.V	4-856	sieden::V	‘a painful infected swelling under someone’s skin’
-Anatomia:boil.V	4-856	kochen::V	‘a painful infected swelling under someone’s skin’
+Anatomia:boil.V	4-856	sieden::V	a painful infected swelling under someones skin
+Anatomia:boil.V	4-856	kochen::V	a painful infected swelling under someones skin
 Anatomia:pus.N	4-857		
 Anatomia:scar.N	4-858		
 Anatomia:cure.V	4-86		
 Anatomia:physician.N	4-87		
-Anatomia:medicine.N	4-88	Arznei::N	‘drug, medication’
+Anatomia:medicine.N	4-88	Arznei::N	drug, medication
 Anatomia:poison.N	4-89		
 Anatomia:tired.?	4-91		
 Anatomia:rest.V	4-912		
@@ -399,11 +399,11 @@ Anatomia:lame.?	4-94
 Anatomia:deaf.A	4-95	taub::A	
 Anatomia:mute.?	4-96		
 Anatomia:blind.A	4-97	blind::A	
-Anatomia:drunk.?	4-98		‘intoxicated’
+Anatomia:drunk.?	4-98		intoxicated
 Anatomia:naked.A	4-99	nackt::A	
 Gastronomia:eat.V	5-11	essen::V	(transitive)
 Gastronomia:food.N	5-12	Nahrung::N	
-Gastronomia:cooked.?	5-121		(contrasting with 'raw')
+Gastronomia:cooked.?	5-121		(contrasting with raw)
 Gastronomia:raw.A	5-122	roh::A	
 Gastronomia:ripe.A	5-123	reif::A	
 Gastronomia:unripe.?	5-124		
@@ -415,60 +415,60 @@ Gastronomia:be thirsty.V	5-15
 Gastronomia:suck.V	5-16		(transitive)
 Gastronomia:chew.V	5-18		
 Gastronomia:swallow.V	5-181	schlucken::V	
-Gastronomia:choke.V	5-19		'prevent from breathing (not necessarily leading to death)’
+Gastronomia:choke.V	5-19		prevent from breathing (not necessarily leading to death)
 Gastronomia:cook.V	5-21	zubereiten::V	(transitive)
 Gastronomia:boil.V	5-22	sieden::V	(intransitive)
 Gastronomia:boil.V	5-22	kochen::V	(intransitive)
 Gastronomia:roast or fry.V	5-23		
-Gastronomia:bake.V	5-24	backen::V	'in an oven, using dry heat' (transitive)
+Gastronomia:bake.V	5-24	backen::V	in an oven, using dry heat (transitive)
 Gastronomia:oven.N	5-25		
-Gastronomia:pot.N	5-26	Topf::N	'a container used for cooking which is round, deep, and usually made of metal'
-Gastronomia:kettle.N	5-27	Kessel::N	'a metal container with a lid, a handle, and a spout (= for pouring), used to boil water'
-Gastronomia:pan.N	5-28		'a round and relatively flat metal container used for cooking, with one long handle'
-Gastronomia:dish.N	5-31	Speise::N	'a relatively flat, round vessel from which food is served on the table'
-Gastronomia:plate.N	5-32		'a flat and usually round vessel that you eat from'
-Gastronomia:bowl.N	5-33		‘a concave container that is open at the top, usually used to hold food’
-Gastronomia:jug/pitcher.N	5-34		'a container for holding and pouring liquids with a handle and a spout'
-Gastronomia:cup.N	5-35	Tasse::N	‘a drinking vessel not made of glass’
-Gastronomia:saucer.N	5-36		'a small dish for placing a cup'
+Gastronomia:pot.N	5-26	Topf::N	a container used for cooking which is round, deep, and usually made of metal
+Gastronomia:kettle.N	5-27	Kessel::N	a metal container with a lid, a handle, and a spout (= for pouring), used to boil water
+Gastronomia:pan.N	5-28		a round and relatively flat metal container used for cooking, with one long handle
+Gastronomia:dish.N	5-31	Speise::N	a relatively flat, round vessel from which food is served on the table
+Gastronomia:plate.N	5-32		a flat and usually round vessel that you eat from
+Gastronomia:bowl.N	5-33		a concave container that is open at the top, usually used to hold food
+Gastronomia:jug/pitcher.N	5-34		a container for holding and pouring liquids with a handle and a spout
+Gastronomia:cup.N	5-35	Tasse::N	a drinking vessel not made of glass
+Gastronomia:saucer.N	5-36		a small dish for placing a cup
 Gastronomia:spoon.N	5-37	Löffel::N	
-Gastronomia:knife(1).N	5-38		'knife for eating' (as opposed to knife used for preparing food)
-Gastronomia:fork.N	5-39	Gabel::N	'tool used for picking up and eating food, with a handle and three or four points'
-Gastronomia:tongs.N	5-391		'a tool that consists of two movable bars joined at one end, used to pick up an object'
-Gastronomia:meal.N	5-41	Essen::N	'an occasion when one eats food, for example breakfast or lunch'
-Gastronomia:breakfast.N	5-42		'the meal one has in the morning'
-Gastronomia:lunch.N	5-43		'a meal eaten in the middle of the day'
-Gastronomia:dinner.N	5-44		'the main meal of the day, eaten in the middle of the day or in the evening'
-Gastronomia:supper.N	5-45		'the last meal of the evening'
-Gastronomia:peel.V	5-46		'remove the skin from food or vegetables'
-Gastronomia:sieve or to strain.V	5-47		'separate solid things from a liquid by pouring the mixture through a sieve (= a container with very small holes in it)'
-Gastronomia:scrape.V	5-48	kratzen::V	'remove something from a surface, using the edge of a knife, stick, etc.'
+Gastronomia:knife(1).N	5-38		knife for eating (as opposed to knife used for preparing food)
+Gastronomia:fork.N	5-39	Gabel::N	tool used for picking up and eating food, with a handle and three or four points
+Gastronomia:tongs.N	5-391		a tool that consists of two movable bars joined at one end, used to pick up an object
+Gastronomia:meal.N	5-41	Essen::N	an occasion when one eats food, for example breakfast or lunch
+Gastronomia:breakfast.N	5-42		the meal one has in the morning
+Gastronomia:lunch.N	5-43		a meal eaten in the middle of the day
+Gastronomia:dinner.N	5-44		the main meal of the day, eaten in the middle of the day or in the evening
+Gastronomia:supper.N	5-45		the last meal of the evening
+Gastronomia:peel.V	5-46		remove the skin from food or vegetables
+Gastronomia:sieve or to strain.V	5-47		separate solid things from a liquid by pouring the mixture through a sieve (= a container with very small holes in it)
+Gastronomia:scrape.V	5-48	kratzen::V	remove something from a surface, using the edge of a knife, stick, etc.
 Gastronomia:stir or to mix.V	5-49		
-Gastronomia:bread.N	5-51	Brot::N	'a common important food made from flour, water, and yeast'
-Gastronomia:dough.N	5-53		'a mixture of flour and water ready to be baked into bread, pastry etc.'
-Gastronomia:knead.V	5-54		'press a dough many times with one's hands'
+Gastronomia:bread.N	5-51	Brot::N	a common important food made from flour, water, and yeast
+Gastronomia:dough.N	5-53		a mixture of flour and water ready to be baked into bread, pastry etc.
+Gastronomia:knead.V	5-54		press a dough many times with ones hands
 Gastronomia:flour.N	5-55		
-Gastronomia:crush or to grind.V	5-56		'press [grain] in order to break it into very small pieces or powder'
+Gastronomia:crush or to grind.V	5-56		press grain in order to break it into very small pieces or powder
 Gastronomia:mill.N	5-57		
-Gastronomia:mortar(1).N	5-58		'a hard bowl in which substances are crushed with a pestle'
-Gastronomia:pestle.N	5-59		'a short stick with a heavy round end, used for crushing things in a mortar'
-Gastronomia:meat.N	5-61	Fleisch::N	'the flesh of animals or birds eaten as food'
+Gastronomia:mortar(1).N	5-58		a hard bowl in which substances are crushed with a pestle
+Gastronomia:pestle.N	5-59		a short stick with a heavy round end, used for crushing things in a mortar
+Gastronomia:meat.N	5-61	Fleisch::N	the flesh of animals or birds eaten as food
 Gastronomia:sausage.N	5-63		
 Gastronomia:soup.N	5-64	Suppe::N	
-Gastronomia:vegetables.N	5-65		'an edible plant grown in gardens that is not sweet'
+Gastronomia:vegetables.N	5-65		an edible plant grown in gardens that is not sweet
 Gastronomia:bean.N	5-66		
 Gastronomia:potato.N	5-7		
 Gastronomia:fruit.N	5-71		generic name for tree fruit covering apples, pears, mangos, oranges, etc.
-Gastronomia:bunch.N	5-712		'a group of flowers/fruit that are held together'
+Gastronomia:bunch.N	5-712		a group of flowers/fruit that are held together
 Gastronomia:fig.N	5-75		
 Gastronomia:grape.N	5-76		
 Gastronomia:nut.N	5-77		
 Gastronomia:olive.N	5-78		
-Gastronomia:oil.N	5-79	Öl::N	'a smooth, thick liquid made from plants or animals, used especially in cooking'
+Gastronomia:oil.N	5-79	Öl::N	a smooth, thick liquid made from plants or animals, used especially in cooking
 Gastronomia:grease or fat.N	5-791		
 Gastronomia:salt.N	5-81	Salz::N	
-Gastronomia:pepper.N	5-82		'black pepper, a table seasoning produced from the berries of the plant Piper nigrum'
-Gastronomia:chili pepper.N	5-821		'the fruit of the plant Capsicum'
+Gastronomia:pepper.N	5-82		black pepper, a table seasoning produced from the berries of the plant Piper nigrum
+Gastronomia:chili pepper.N	5-821		the fruit of the plant Capsicum
 Gastronomia:honey.N	5-84	Honig::N	
 Gastronomia:sugar.N	5-85		
 Gastronomia:milk.N	5-86	Milch::N	
@@ -477,37 +477,37 @@ Gastronomia:milk.N	5-87	Milch::N
 Gastronomia:milk.V	5-87	melken::V	
 Gastronomia:cheese.N	5-88		
 Gastronomia:butter.N	5-89	Butter::N	
-Gastronomia:drink.V	5-9	trinken::V	'any kind of beverage'
+Gastronomia:drink.V	5-9	trinken::V	any kind of beverage
 Gastronomia:mead.N	5-91		
 Gastronomia:wine.N	5-92		
 Gastronomia:beer.N	5-93		
 Gastronomia:fermented drink.N	5-94		
 Gastronomia:egg.N	5-97	Ei::N	
-Gastronomia:yolk.N	5-971		'the yellow part in the centre of an egg'
+Gastronomia:yolk.N	5-971		the yellow part in the centre of an egg
 Vestitura:put on.V	6-11	anziehen::V	(transitive)
 Vestitura:clothing or clothes.N	6-12		
 Vestitura:tailor.N	6-13		
-Vestitura:cloth.N	6-21	Stoff::N	'woven fabric'
+Vestitura:cloth.N	6-21	Stoff::N	woven fabric
 Vestitura:wool.N	6-22	Wolle::N	
-Vestitura:linen.N	6-23		'fabric woven of flax'
+Vestitura:linen.N	6-23		fabric woven of flax
 Vestitura:cotton.N	6-24		
 Vestitura:silk.N	6-25		
 Vestitura:felt.N	6-27		
 Vestitura:fur.N	6-28	Fell::N	
 Vestitura:leather.N	6-29	Leder::N	
-Vestitura:spin.V	6-31	drehen::V	'to draw out and twist fiber into thread'
-Vestitura:spindle.N	6-32		'a stick used in spinning fiber into thread'
+Vestitura:spin.V	6-31	drehen::V	to draw out and twist fiber into thread
+Vestitura:spindle.N	6-32		a stick used in spinning fiber into thread
 Vestitura:weave.V	6-33		
 Vestitura:loom.N	6-34		
 Vestitura:sew.V	6-35	nähen::V	
 Vestitura:needle(1).N	6-36		(for sewing)
-Vestitura:awl.N	6-37		'pointed tool for marking or piercing wood or leather'
+Vestitura:awl.N	6-37		pointed tool for marking or piercing wood or leather
 Vestitura:thread.N	6-38	Faden::N	
 Vestitura:dye.V	6-39	färben::V	
 Vestitura:cloak.N	6-41		
 Vestitura:poncho.N	6-411		
 Domestica:ladder.N	7-37	Leiter::N	
-Vestitura:(woman's) dress.N	6-42		'garment worn by women over the torso extending to the legs'
+Vestitura:(woman's) dress.N	6-42		garment worn by women over the torso extending to the legs
 Vestitura:coat.N	6-43		
 Vestitura:shirt.N	6-44	Hemd::N	
 Vestitura:collar.N	6-45	Kragen::N	
@@ -540,23 +540,23 @@ Vestitura:towel.N	6-82	Handtuch::N
 Vestitura:comb.N	6-91	Kamm::N	
 Vestitura:comb.V	6-91	kämmen::V	
 Vestitura:brush.N	6-92		
-Vestitura:plait/braid.N	6-921		‘a length of hair that has been separated into three parts and then woven together’
+Vestitura:plait/braid.N	6-921		a length of hair that has been separated into three parts and then woven together
 Vestitura:razor.N	6-93		
 Vestitura:ointment.N	6-94		
 Vestitura:soap.N	6-95		
 Vestitura:mirror.N	6-96	Spiegel::N	
-Domestica:live.V	7-11	leben::V	'dwell, reside'
+Domestica:live.V	7-11	leben::V	dwell, reside
 Domestica:house.N	7-12	Haus::N	
 Domestica:hut.N	7-13		
 Domestica:garden-house.N	7-131		
 Domestica:tent.N	7-14		
-Domestica:yard or court.N	7-15		‘enclosed area atttached to a house, whether outside or an inner court’
+Domestica:yard or court.N	7-15		enclosed area atttached to a house, whether outside or an inner court
 Domestica:men's house.N	7-16		
 Domestica:cookhouse.N	7-17		
 Domestica:meeting house.N	7-18		
 Domestica:room.N	7-21		
 Domestica:door or gate.N	7-22		
-Domestica:doorpost.N	7-221		‘jamb, side post of a door’
+Domestica:doorpost.N	7-221		jamb, side post of a door
 Domestica:lock.N	7-23	Schloss::N	
 Domestica:latch or door-bolt.N	7-231		
 Domestica:key.N	7-24		
@@ -573,32 +573,32 @@ Domestica:chair.N	7-43	Stuhl::N
 Domestica:table.N	7-44	Tisch::N	
 Domestica:lamp or torch.N	7-45		
 Domestica:candle.N	7-46		
-Domestica:shelf.N	7-47	Regal::N	‘a long flat narrow board fixed onto a wall or in a frame or cupboard, used for putting things on or stroing things on’
-Domestica:trough.N	7-48		‘a long narrow open container that holds water or food for animals’
+Domestica:shelf.N	7-47	Regal::N	a long flat narrow board fixed onto a wall or in a frame or cupboard, used for putting things on or stroing things on
+Domestica:trough.N	7-48		a long narrow open container that holds water or food for animals
 Domestica:roof.N	7-51	Dach::N	
-Domestica:thatch.N	7-52		‘natural roofing material such as straw, reeds, leaves, etc.’
-Domestica:ridgepole.N	7-53		'the highest horizontal beam in a roof'
-Domestica:rafter.N	7-54		'a horizontal beam that supports the roof'
+Domestica:thatch.N	7-52		natural roofing material such as straw, reeds, leaves, etc.
+Domestica:ridgepole.N	7-53		the highest horizontal beam in a roof
+Domestica:rafter.N	7-54		a horizontal beam that supports the roof
 Domestica:beam.N	7-55		
-Domestica:post or pole.N	7-56		‘a strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something’
+Domestica:post or pole.N	7-56		a strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something
 Domestica:board.N	7-57	Brett::N	
 Domestica:arch.N	7-58		
 Domestica:mason.N	7-61		
 Domestica:brick.N	7-62		
-Domestica:mortar(2).N	7-63		'a mixture of lime, sand and water, used in building for joining bricks or stones together'
-Domestica:adobe.N	7-64		‘earth and straw that are made into bricks for building houses’
+Domestica:mortar(2).N	7-63		a mixture of lime, sand and water, used in building for joining bricks or stones together
+Domestica:adobe.N	7-64		earth and straw that are made into bricks for building houses
 Agricultura:farmer.N	8-11		
 Agricultura:field.N	8-12		(for cultivation)
 Agricultura:garden.N	8-13		
 Agricultura:cultivate.V	8-15		
 Agricultura:fence.N	8-16	Zaun::N	
-Agricultura:ditch.N	8-17		‘a long narrow hole cut into the ground at the side of a field, road etc., especially for water to flow through’
+Agricultura:ditch.N	8-17		a long narrow hole cut into the ground at the side of a field, road etc., especially for water to flow through
 Agricultura:plough/plow.V	8-21		
 Agricultura:furrow.N	8-212		
 Agricultura:dig.V	8-22	graben::V	
-Agricultura:spade.N	8-23	Spaten::N	'tool with handle and blade used for digging in the ground'
-Agricultura:shovel.N	8-24	Schaufel::N	'tool with handle and scoop for lifting and throwing material such as soil'
-Agricultura:hoe.N	8-25		'tool with handle and blade with two or more prongs used for weeding, raking, etc.'
+Agricultura:spade.N	8-23	Spaten::N	tool with handle and blade used for digging in the ground
+Agricultura:shovel.N	8-24	Schaufel::N	tool with handle and scoop for lifting and throwing material such as soil
+Agricultura:hoe.N	8-25		tool with handle and blade with two or more prongs used for weeding, raking, etc.
 Agricultura:fork(2)/pitchfork.N	8-26		
 Agricultura:rake.N	8-27		
 Agricultura:sow.V	8-31		
@@ -614,7 +614,7 @@ Agricultura:barley.N	8-44
 Agricultura:rye.N	8-45		
 Agricultura:oats.N	8-46		
 Agricultura:maize/corn.N	8-47		
-Agricultura:rice.N	8-48		‘cooked rice as a meal’
+Agricultura:rice.N	8-48		cooked rice as a meal
 Agricultura:grass.N	8-51	Gras::N	
 Agricultura:hay.N	8-52	Heu::N	
 Agricultura:plant.N	8-53		
@@ -632,8 +632,8 @@ Agricultura:fir.N	8-65	Tanne::N
 Agricultura:acorn.N	8-66		
 Agricultura:vine.N	8-67		
 Agricultura:tobacco.N	8-68		
-Agricultura:smoke.N	8-69	Rauch::N	‘to smoke a cigarette’
-Agricultura:smoke.V	8-69	rauchen::V	‘to smoke a cigarette’
+Agricultura:smoke.N	8-69	Rauch::N	to smoke a cigarette
+Agricultura:smoke.V	8-69	rauchen::V	to smoke a cigarette
 Agricultura:pipe.N	8-691	Rohr::N	(for smoking)
 Agricultura:tree stump.N	8-72		
 Agricultura:tree trunk.N	8-73		
@@ -667,50 +667,50 @@ Action:chain.N	9-18
 Action:rope.N	9-19		
 Action:knot.N	9-192	Knoten::N	
 Action:strike or hit or beat.V	9-21		
-Action:pound.V	9-211		‘with fist’
+Action:pound.V	9-211		with fist
 Action:cut.V	9-22	schneiden::V	
 Action:cut down.V	9-221		
 Action:chop.V	9-222	hacken::V	
 Action:stab.V	9-223		
-Action:knife(2).N	9-23		'knife for preparing food'
+Action:knife(2).N	9-23		knife for preparing food
 Action:scissors or shears.N	9-24		
 Action:axe/ax.N	9-25		
-Action:adze.N	9-251		'a sharp tool with the blade at a right angle to the handle, used to shape pieces of wood'
+Action:adze.N	9-251		a sharp tool with the blade at a right angle to the handle, used to shape pieces of wood
 Action:break.V	9-26	brechen::V	
 Action:break.V	9-26	zerbrechen::V	
-Action:broken.?	9-261		'out of order, not working'
+Action:broken.?	9-261		out of order, not working
 Action:split.V	9-27		
-Action:tear.N	9-28	Träne::N	'damage [paper/cloth] by pulling it too hard'
-Action:tear.V	9-28	zerreißen::V	'damage [paper/cloth] by pulling it too hard'
+Action:tear.N	9-28	Träne::N	damage paper/cloth by pulling it too hard
+Action:tear.V	9-28	zerreißen::V	damage paper/cloth by pulling it too hard
 Action:statue.N	9-83		
-Action:skin.N	9-29	Haut::N	'strip or pull off the skin or hide of'
+Action:skin.N	9-29	Haut::N	strip or pull off the skin or hide of
 Action:rub.V	9-31	reiben::V	
-Action:stretch.V	9-32		'make [something elastic] bigger or looser by pulling it'
-Action:pull.V	9-33	ziehen::V	'use one's hand to make something move towards one or in the direction that one is moving'
+Action:stretch.V	9-32		make something elastic bigger or looser by pulling it
+Action:pull.V	9-33	ziehen::V	use ones hand to make something move towards one or in the direction that one is moving
 Action:spread out.V	9-34		
 Action:hang up.V	9-341	aufhängen::V	
-Action:press.V	9-342	drücken::V	'push something firmly against a surface'
-Action:squeeze.V	9-343		'press something tightly'
+Action:press.V	9-342	drücken::V	push something firmly against a surface
+Action:squeeze.V	9-343		press something tightly
 Action:pour.V	9-35	schütten::V	
 Action:wash.V	9-36	waschen::V	(transitive)
 Action:wash.V	9-36	sich waschen::V	(transitive)
-Action:sweep.V	9-37	fegen::V	'clean the dust/dirt from the floor/ground using a broom'
-Action:sweep.V	9-37	kehren::V	'clean the dust/dirt from the floor/ground using a broom'
-Action:broom.N	9-38	Besen::N	'a large brush with a long handle, used for sweeping floors'
-Action:tool.N	9-422		'an artifact (such as a hammer, a saw or a screwdriver) held in one's hand to help one in performing a particular job'
-Action:carpenter.N	9-43		'someone whose job is making and repairing wooden objects'
+Action:sweep.V	9-37	fegen::V	clean the dust/dirt from the floor/ground using a broom
+Action:sweep.V	9-37	kehren::V	clean the dust/dirt from the floor/ground using a broom
+Action:broom.N	9-38	Besen::N	a large brush with a long handle, used for sweeping floors
+Action:tool.N	9-422		an artifact (such as a hammer, a saw or a screwdriver) held in ones hand to help one in performing a particular job
+Action:carpenter.N	9-43		someone whose job is making and repairing wooden objects
 Action:build.V	9-44	bauen::V	
-Action:bore.V	9-46		'make a deep round hole in a hard surface'
-Action:hollow out.V	9-461		'make a hole or empty space by removing the inside part of something'
+Action:bore.V	9-46		make a deep round hole in a hard surface
+Action:hollow out.V	9-461		make a hole or empty space by removing the inside part of something
 Action:saw.N	9-48		
 Action:hammer.N	9-49		
-Action:nail.N	9-5	Nagel[Anatomie]::N	'a thin pointed piece of metal which one forces into a piece of wood with a hammer to fasten the wood to something else'
-Action:nail.N	9-5	Nagel::N	'a thin pointed piece of metal which one forces into a piece of wood with a hammer to fasten the wood to something else'
-Action:glue.V	9-56	kleben::V	'a sticky substance used for joining things together'
+Action:nail.N	9-5	Nagel[Anatomie]::N	a thin pointed piece of metal which one forces into a piece of wood with a hammer to fasten the wood to something else
+Action:nail.N	9-5	Nagel::N	a thin pointed piece of metal which one forces into a piece of wood with a hammer to fasten the wood to something else
+Action:glue.V	9-56	kleben::V	a sticky substance used for joining things together
 Action:blacksmith.N	9-6		
-Action:forge.V	9-61		'make something from a piece of metal by heating the metal and shaping it'
-Action:anvil.N	9-62		'a heavy iron block on which pieces of metal are shaped using a hammer'
-Action:cast.V	9-63		'form metal objects by pouring the molten metal into molds'
+Action:forge.V	9-61		make something from a piece of metal by heating the metal and shaping it
+Action:anvil.N	9-62		a heavy iron block on which pieces of metal are shaped using a hammer
+Action:cast.V	9-63		form metal objects by pouring the molten metal into molds
 Action:gold.N	9-64	Gold::N	
 Action:silver.N	9-65	Silber::N	
 Action:copper.N	9-66		
@@ -718,24 +718,24 @@ Action:iron.N	9-67	Eisen::N
 Action:lead.V	9-68	leiten::V	(a kind of metal)
 Action:tin or tinplate.N	9-69		
 Action:potter.N	9-71		
-Action:mould/mold.V	9-72		'form articles from clay or other plastic material by molding with the hands'
+Action:mould/mold.V	9-72		form articles from clay or other plastic material by molding with the hands
 Action:clay.N	9-73	Lehm::N	
 Action:glass.N	9-74	Glas::N	(the substance, not the drinking vessel)
-Action:weave or plait/braid.V	9-75		‘weave (a basket) or plait/braid (someone’s hair)’
+Action:weave or plait/braid.V	9-75		weave (a basket) or plait/braid (someones hair)
 Action:basket.N	9-76		
-Action:mat.N	9-77		'a small piece of thick rough material which covers part of the floor'
-Action:rug.N	9-771		'a piece of thick cloth or wool that is smaller than a carpet and is put on the floor as decoration'
-Action:netbag.N	9-78		'bag made of net used in Papua to carry things’
+Action:mat.N	9-77		a small piece of thick rough material which covers part of the floor
+Action:rug.N	9-771		a piece of thick cloth or wool that is smaller than a carpet and is put on the floor as decoration
+Action:netbag.N	9-78		bag made of net used in Papua to carry things
 Action:fan.N	9-79		
 Action:fan.V	9-791		
-Action:carve.V	9-81		'cut shapes out of wood or stone'
+Action:carve.V	9-81		cut shapes out of wood or stone
 Action:sculptor.N	9-82		
 Natura:beach.N	1-99901		
-Action:chisel.N	9-84		'a metal tool with a sharp edge, used to cut wood or stone'
-Action:paint.N	9-88	Farbe::N	'a liquid that one puts on a surface to make it a particular colour'
-Action:paint.V	9-88	malen::V	'a liquid that one puts on a surface to make it a particular colour'
-Action:paint.N	9-89	Farbe::N	'put paint on a surface'
-Action:paint.V	9-89	malen::V	'put paint on a surface'
+Action:chisel.N	9-84		a metal tool with a sharp edge, used to cut wood or stone
+Action:paint.N	9-88	Farbe::N	a liquid that one puts on a surface to make it a particular colour
+Action:paint.V	9-88	malen::V	a liquid that one puts on a surface to make it a particular colour
+Action:paint.N	9-89	Farbe::N	put paint on a surface
+Action:paint.V	9-89	malen::V	put paint on a surface
 Motion:move.V	10-11	sich bewegen::V	(transitive)
 Motion:move.V	10-11	rühren::V	(transitive)
 Motion:turn.V	10-12		(transitive)
@@ -766,8 +766,8 @@ Motion:fly.V	10-37	fliegen::V	(intransitive)
 Motion:blow.V	10-38	wehen::V	(intransitive)
 Motion:blow.V	10-38	blasen::V	(intransitive)
 Motion:crawl.V	10-41		
-Motion:kneel.V	10-412		'to get down on one's knees'
-Motion:crouch.V	10-413		‘lower one’s body close to the ground by bending one’s knees completely’
+Motion:kneel.V	10-412		to get down on ones knees
+Motion:crouch.V	10-413		lower ones body close to the ground by bending ones knees completely
 Motion:slide or slip.V	10-42		(intransitive)
 Motion:jump.V	10-43	springen::V	
 Motion:kick.V	10-431	treten::V	
@@ -783,8 +783,8 @@ Motion:go down.V	10-473
 Motion:go out.V	10-474		
 Motion:come.V	10-48	kommen::V	
 Motion:come back.V	10-481	zurückkommen::V	
-Motion:leave.V	10-49	zurücklassen::V	(intransitive) ‘depart, go away’
-Motion:leave.V	10-49	verlassen::V	(intransitive) ‘depart, go away’
+Motion:leave.V	10-49	zurücklassen::V	(intransitive) depart, go away
+Motion:leave.V	10-49	verlassen::V	(intransitive) depart, go away
 Motion:disappear.V	10-491	verschwinden::V	
 Motion:flee.V	10-51	fliehen::V	
 Motion:follow.V	10-52		
@@ -826,26 +826,26 @@ Motion:sail.N	10-88
 Motion:anchor.N	10-89		
 Motion:port.N	10-91		harbour
 Motion:land.N	10-92	Festland::N	
-Possession:have.V	11-11		'have temporarily (including things that one does not strictly speaking possess)'
-Possession:own.V	11-12	besitzen::V	'possess, have permanently as legal possession'
-Possession:take.V	11-13	nehmen::V	'seize a concrete object in the hand and hold it'
-Possession:grasp.V	11-14	begreifen::V	'take and hold something firmly with one's hands'
-Possession:hold.V	11-15	halten::V	'to have something in one's hand or arms'
-Possession:get.V	11-16	bekommen::V	'come into possession of something' (neutral between ‘obtain’ and ‘receive’)
-Possession:keep.V	11-17	aufbewahren::V	'retain, remain in possession of something'
-Possession:thing.N	11-18	Sache::N	'concrete object of any kind'
-Possession:give.V	11-21	geben::V	'physical transfer of an object with one's hands that passes into possession of the recipient'
-Possession:give.V	11-21	schenken::V	'physical transfer of an object with one's hands that passes into possession of the recipient'
-Possession:give back.V	11-22		'give something that was earlier in the recipient's possession'
-Possession:preserve.V	11-24	bewahren::V	‘save something/someone from being harmed or destroyed’
+Possession:have.V	11-11		have temporarily (including things that one does not strictly speaking possess)
+Possession:own.V	11-12	besitzen::V	possess, have permanently as legal possession
+Possession:take.V	11-13	nehmen::V	seize a concrete object in the hand and hold it
+Possession:grasp.V	11-14	begreifen::V	take and hold something firmly with ones hands
+Possession:hold.V	11-15	halten::V	to have something in ones hand or arms
+Possession:get.V	11-16	bekommen::V	come into possession of something (neutral between obtain and receive)
+Possession:keep.V	11-17	aufbewahren::V	retain, remain in possession of something
+Possession:thing.N	11-18	Sache::N	concrete object of any kind
+Possession:give.V	11-21	geben::V	physical transfer of an object with ones hands that passes into possession of the recipient
+Possession:give.V	11-21	schenken::V	physical transfer of an object with ones hands that passes into possession of the recipient
+Possession:give back.V	11-22		give something that was earlier in the recipients possession
+Possession:preserve.V	11-24	bewahren::V	save something/someone from being harmed or destroyed
 Natura:coal.N	1-99903	Kohle::N	
-Possession:rescue.V	11-25	retten::V	'make someone safe from danger or harm'
-Possession:destroy.V	11-27	zerstören::V	'damage something so badly that it cannot be repaired or so that it no longer exists'
-Possession:injure.V	11-28		'to cause bodily harm'
+Possession:rescue.V	11-25	retten::V	make someone safe from danger or harm
+Possession:destroy.V	11-27	zerstören::V	damage something so badly that it cannot be repaired or so that it no longer exists
+Possession:injure.V	11-28		to cause bodily harm
 Possession:look for.V	11-31	suchen::V	
 Possession:find.V	11-32	finden::V	
 Possession:lose.V	11-33	verlieren::V	
-Possession:let go.V	11-34		‘stop holding something/someone’
+Possession:let go.V	11-34		stop holding something/someone
 Possession:money.N	11-43	Geld::N	
 Possession:coin.N	11-44		
 Possession:rich.A	11-51	reich::A	
@@ -855,24 +855,24 @@ Possession:stingy.A	11-54	geizig::A
 Possession:lend.V	11-61		
 Possession:borrow.V	11-62		
 Possession:owe.V	11-63		
-Possession:debt.N	11-64		'sum of money that one owes'
+Possession:debt.N	11-64		sum of money that one owes
 Possession:pay.V	11-65	zahlen::V	
-Possession:bill.N	11-66		‘written list showing how much a customer has to pay’
+Possession:bill.N	11-66		written list showing how much a customer has to pay
 Possession:tax.N	11-69		
-Possession:hire.V	11-77		‘employ’
-Possession:wages.N	11-78		'the money a worker receives for the work done'
-Possession:earn.V	11-79		'receive [money] for regular work'
+Possession:hire.V	11-77		employ
+Possession:wages.N	11-78		the money a worker receives for the work done
+Possession:earn.V	11-79		receive money for regular work
 Possession:buy.V	11-81	kaufen::V	
 Possession:sell.V	11-82	verkaufen::V	
 Possession:trade or barter.V	11-83		
-Possession:merchant.N	11-84		'someone who buys and sells goods in large quantities'
+Possession:merchant.N	11-84		someone who buys and sells goods in large quantities
 Possession:market.N	11-85		(place)
 Possession:shop/store.N	11-86		
 Possession:price.N	11-87	Preis::N	
 Possession:expensive.A	11-88	teuer::A	
 Possession:cheap.A	11-89	billig::A	
-Possession:share.V	11-91		'let someone have part of something that belongs to oneself'
-Possession:weigh.V	11-92		'have a certain weight'
+Possession:share.V	11-91		let someone have part of something that belongs to oneself
+Possession:weigh.V	11-92		have a certain weight
 Spatium:after.?	12-01		
 Spatium:behind.PRP	12-011	hinter::PRP	
 Spatium:beside.?	12-02		
@@ -903,7 +903,7 @@ Spatium:open.V	12-24	öffnen::V	(transitive)
 Spatium:shut.V	12-25		(transitive)
 Spatium:cover.V	12-26	bedecken::V	
 Spatium:cover.V	12-26	zudecken::V	
-Spatium:hide.V	12-27	verstecken::V	‘conceal’ (transitive)
+Spatium:hide.V	12-27	verstecken::V	conceal (transitive)
 Spatium:high.?	12-31		
 Spatium:low.?	12-32		
 Spatium:top.N	12-33		
@@ -923,7 +923,7 @@ Spatium:north.N	12-47	Norden::N
 Spatium:south.N	12-48	Süden::N	
 Spatium:grow.V	12-53	wachsen::V	
 Spatium:measure.V	12-54	messen::V	(transitive)
-Spatium:fathom.N	12-541		‘a unit of length (originally outstretched arms), equal to about 1.8 metres’
+Spatium:fathom.N	12-541		a unit of length (originally outstretched arms), equal to about 1.8 metres
 Spatium:big.A	12-55	groß::A	
 Spatium:small.?	12-56		
 Spatium:long.A	12-57	lang::A	
@@ -945,7 +945,7 @@ Spatium:cross.N	12-77	Kreuz::N
 Spatium:square.N	12-78		
 Spatium:round.A	12-81	rund::A	
 Spatium:circle.N	12-82	Kreis::N	
-Spatium:ball.N	12-83		‘sphere’
+Spatium:ball.N	12-83		sphere
 Spatium:line.N	12-84	Linie::N	
 Spatium:hole.N	12-85	Loch::N	
 Spatium:similar.?	12-92		
@@ -967,29 +967,29 @@ Quantita:fifteen.?	13-103
 Quantita:twenty.NUM	13-104	zwanzig::NUM	
 Quantita:a hundred.NUM	13-105	hundert::NUM	
 Quantita:a thousand.NUM	13-106	tausend::NUM	
-Quantita:count.N	13-107	Anzahl::N	'count objects in a set in order to determine the total'
-Quantita:count.V	13-107	zählen::V	'count objects in a set in order to determine the total'
-Quantita:all.?	13-14		'the complete set of' (applied to a conceptually countable and nonsingular noun)
-Quantita:many.?	13-15		'a large number of' (applied to a conceptually countable and nonsingular noun)
-Quantita:more.?	13-16		'a larger number of'
-Quantita:few.?	13-17		'a large number of'
+Quantita:count.N	13-107	Anzahl::N	count objects in a set in order to determine the total
+Quantita:count.V	13-107	zählen::V	count objects in a set in order to determine the total
+Quantita:all.?	13-14		the complete set of (applied to a conceptually countable and nonsingular noun)
+Quantita:many.?	13-15		a large number of (applied to a conceptually countable and nonsingular noun)
+Quantita:more.?	13-16		a larger number of
+Quantita:few.?	13-17		a large number of
 Quantita:enough.?	13-18		
-Quantita:some.?	13-181		'a certain number of' (applied to a conceptually countable and nonsingular noun)
-Quantita:crowd.N	13-19		'a large number of people in one place'
+Quantita:some.?	13-181		a certain number of (applied to a conceptually countable and nonsingular noun)
+Quantita:crowd.N	13-19		a large number of people in one place
 Quantita:full.A	13-21	voll::A	
 Quantita:empty.A	13-22	leer::A	
 Quantita:part.N	13-23	Teil::N	
-Quantita:half.N	13-24	Hälfte::N	'either of the two equal parts into which something is divided'
+Quantita:half.N	13-24	Hälfte::N	either of the two equal parts into which something is divided
 Quantita:only.ADV	13-33	nur::ADV	
 Quantita:first.A	13-34	erster::A	
 Quantita:last.A	13-35	letzter::A	
 Quantita:second.A	13-36	zweiter::A	
-Quantita:pair.N	13-37		'two things of the same kind that are used together'
+Quantita:pair.N	13-37		two things of the same kind that are used together
 Quantita:twice/two times.?	13-38		
 Quantita:third.A	13-42	dritter::A	
 Quantita:three times.?	13-44		
 Tempus:time.N	14-11	Zeit::N	
-Tempus:age.N	14-12	Alter::N	‘time of life’
+Tempus:age.N	14-12	Alter::N	time of life
 Tempus:new.A	14-13	neu::A	
 Tempus:young.A	14-14	jung::A	
 Tempus:old.A	14-15	alt::A	
@@ -997,15 +997,15 @@ Tempus:early.?	14-16
 Tempus:late.?	14-17		
 Tempus:now.ADV	14-18	jetzt::ADV	
 Tempus:immediately.?	14-19		
-Tempus:fast.?	14-21		‘quickly’ (adverb)
+Tempus:fast.?	14-21		quickly (adverb)
 Tempus:slow.?	14-22		(adverb)
 Tempus:hurry.V	14-23	sich beeilen::V	(intransitive)
 Tempus:be late.V	14-24		to tarry
 Tempus:begin.V	14-25	beginnen::V	(transitive)
-Tempus:last.A	14-252	letzter::A	‘take up’
+Tempus:last.A	14-252	letzter::A	take up
 Tempus:end(2).N	14-26		(temporal)
 Tempus:finish.V	14-27	beenden::V	
-Tempus:cease.V	14-28		‘to stop doing something’
+Tempus:cease.V	14-28		to stop doing something
 Tempus:ready.?	14-29		
 Tempus:always.ADV	14-31	immer::ADV	
 Tempus:often.ADV	14-32	oft::ADV	
@@ -1014,7 +1014,7 @@ Tempus:soon.ADV	14-331	bald::ADV
 Tempus:for a long time.?	14-332		
 Tempus:never.ADV	14-34	niemals::ADV	
 Tempus:again.ADV	14-35	wieder::ADV	
-Tempus:day(1).N	14-41		(as opposed to 'night')
+Tempus:day(1).N	14-41		(as opposed to night)
 Tempus:night.N	14-42	Nacht::N	
 Tempus:dawn.N	14-43		
 Tempus:morning.N	14-44	Morgen::N	
@@ -1043,31 +1043,31 @@ Tempus:spring(2).N	14-75
 Tempus:summer.N	14-76	Sommer::N	
 Tempus:autumn/fall.N	14-77		
 Tempus:season.N	14-78		
-Perception:smell(1).V	15-21		'(intransitive) to have a particular smell'
+Perception:smell(1).V	15-21		(intransitive) to have a particular smell
 Perception:wrinkled.?	15-89		
-Perception:sniff.V	15-212		'to inhale through one's nose in order to smell something'
-Perception:smell(2).V	15-22		'(transitive) to notice a particular smell'
-Perception:fragrant.?	15-25		‘good smelling’
-Perception:stinking.?	15-26		‘bad smelling’
-Perception:taste.V	15-31	probieren::V	'have a particular taste'
+Perception:sniff.V	15-212		to inhale through ones nose in order to smell something
+Perception:smell(2).V	15-22		(transitive) to notice a particular smell
+Perception:fragrant.?	15-25		good smelling
+Perception:stinking.?	15-26		bad smelling
+Perception:taste.V	15-31	probieren::V	have a particular taste
 Perception:sweet.A	15-35	süß::A	
 Perception:salty.?	15-36		
 Perception:bitter.A	15-37	bitter::A	
 Perception:sour.A	15-38	sauer::A	
-Perception:brackish.?	15-39		brackish water: 'water that is not pure but is slightly salty'
+Perception:brackish.?	15-39		brackish water: water that is not pure but is slightly salty
 Perception:hear.V	15-41	hören::V	
 Perception:hear.V	15-41	vernehmen::V	
-Perception:listen.V	15-42	zuhören::V	'pay attention to a sound that one can hear'
-Perception:sound or noise.N	15-44		'something that one can hear'
+Perception:listen.V	15-42	zuhören::V	pay attention to a sound that one can hear
+Perception:sound or noise.N	15-44		something that one can hear
 Perception:loud.?	15-45		
-Perception:quiet.?	15-46		'not making much noise'
+Perception:quiet.?	15-46		not making much noise
 Perception:see.V	15-51	sehen::V	
 Perception:look.V	15-52		
 Perception:show.V	15-55	zu sehen sein::V	
 Perception:show.V	15-55	zeigen::V	
 Perception:shine.V	15-56	scheinen[Sonne]::V	
 Perception:shine.V	15-56	glänzen::V	
-Perception:bright.A	15-57	hell::A	'having a lot of light'
+Perception:bright.A	15-57	hell::A	having a lot of light
 Perception:colour/color.N	15-61		
 Perception:light(2).?	15-62		(as opposed to dark)
 Perception:dark.A	15-63	dunkel::A	
@@ -1077,20 +1077,20 @@ Perception:red.A	15-66	rot::A
 Perception:blue.A	15-67	blau::A	
 Perception:green.A	15-68	grün::A	
 Perception:yellow.A	15-69	gelb::A	
-Perception:touch.V	15-71	berühren::V	'put one's hand on something/someone so that one can feel them'
-Perception:pinch.V	15-712		'press a part of someone's flesh very tightly between one's finger and thumb (so that it hurts)'
-Perception:feel.V	15-72	fühlen::V	'touch something to get a tactile perception of it'
-Perception:hard.A	15-74	hart::A	'difficult to press down, break or cut'
-Perception:soft.A	15-75	weich::A	'not hard, easy to press/break/cut'
-Perception:rough(1).?	15-76		'having an uneven surface'
-Perception:smooth.A	15-77	glatt::A	'completely even/flat, so that the hand moves easiy over it'
+Perception:touch.V	15-71	berühren::V	put ones hand on something/someone so that one can feel them
+Perception:pinch.V	15-712		press a part of someones flesh very tightly between ones finger and thumb (so that it hurts)
+Perception:feel.V	15-72	fühlen::V	touch something to get a tactile perception of it
+Perception:hard.A	15-74	hart::A	difficult to press down, break or cut
+Perception:soft.A	15-75	weich::A	not hard, easy to press/break/cut
+Perception:rough(1).?	15-76		having an uneven surface
+Perception:smooth.A	15-77	glatt::A	completely even/flat, so that the hand moves easiy over it
 Perception:sharp.A	15-78	scharf::A	
 Perception:blunt.A	15-79	stumpf::A	
 Perception:heavy.A	15-81	schwer::A	
 Perception:light(1).?	15-82		(in weight)
-Perception:wet.A	15-83	nass::A	'covered in or full of liquid'
-Perception:dry.A	15-84	trocken::A	'without water or liquid inside or on the surface'
-Perception:dry.V	15-84	trocknen::V	'without water or liquid inside or on the surface'
+Perception:wet.A	15-83	nass::A	covered in or full of liquid
+Perception:dry.A	15-84	trocken::A	without water or liquid inside or on the surface
+Perception:dry.V	15-84	trocknen::V	without water or liquid inside or on the surface
 Perception:hot.A	15-85	heiß::A	
 Perception:warm.A	15-851	warm::A	
 Perception:cold.A	15-86	kalt::A	
@@ -1113,7 +1113,7 @@ Emotion:grief.N	16-32	Kummer::N
 Emotion:anxiety.N	16-33		
 Emotion:regret or be sorry.V	16-34		
 Emotion:pity.N	16-35		
-Emotion:cry.V	16-37		‘to weep’
+Emotion:cry.V	16-37		to weep
 Emotion:tear.N	16-38	Träne::N	
 Emotion:tear.V	16-38	zerreißen::V	
 Emotion:groan.V	16-39	stöhnen::V	
@@ -1126,17 +1126,17 @@ Emotion:dare.V	16-51
 Emotion:brave.?	16-52		
 Emotion:fear.N	16-53		
 Emotion:danger.N	16-54		
-Emotion:want.V	16-62	wollen::V	‘to desire’
+Emotion:want.V	16-62	wollen::V	to desire
 Emotion:choose.V	16-622	wählen::V	
 Emotion:hope.V	16-63		
 Emotion:faithful.?	16-65		
 Emotion:true.A	16-66	wahr::A	
-Emotion:lie(2).V	16-67		‘tell lies’
+Emotion:lie(2).V	16-67		tell lies
 Emotion:deceit.N	16-68		
 Emotion:forgive.V	16-69		
 Emotion:good.A	16-71	gut::A	
 Emotion:bad.A	16-72	schlecht::A	
-Emotion:right(2).?	16-73		‘correct’
+Emotion:right(2).?	16-73		correct
 Emotion:wrong.?	16-74		
 Emotion:fault.N	16-76	Schuld::N	
 Emotion:mistake.N	16-77	Fehler::N	
@@ -1146,10 +1146,10 @@ Emotion:beautiful.A	16-81	schön::A
 Emotion:ugly.?	16-82		
 Emotion:greedy.?	16-83		
 Emotion:clever.A	16-84	klug::A	
-Cognition:mind.N	17-11	Verstand::N	'the seat of intelligence (as opposed to 'heart’ or 'soul’ as the seat of emotions)'
-Cognition:think(1).V	17-13		‘reflect’
-Cognition:think(2).V	17-14		‘be of the opinion’
-Cognition:believe.V	17-15	glauben::V	'be sure that someone is telling the truth'
+Cognition:mind.N	17-11	Verstand::N	the seat of intelligence (as opposed to heart or soul as the seat of emotions)
+Cognition:think(1).V	17-13		reflect
+Cognition:think(2).V	17-14		be of the opinion
+Cognition:believe.V	17-15	glauben::V	be sure that someone is telling the truth
 Cognition:understand.V	17-16	verstehen::V	
 Cognition:know.V	17-17	wissen::V	
 Cognition:guess.V	17-171		
@@ -1158,7 +1158,7 @@ Cognition:seem.V	17-18	scheinen::V
 Cognition:idea.N	17-19		
 Cognition:wise.?	17-21		
 Cognition:stupid.A	17-22	dumm::A	
-Cognition:mad.?	17-23		‘insane’
+Cognition:mad.?	17-23		insane
 Cognition:learn.V	17-24	lernen::V	
 Cognition:study.V	17-242		
 Cognition:teach.V	17-25	lehren::V	
@@ -1167,8 +1167,8 @@ Cognition:teacher.N	17-27	Lehrer::N
 Cognition:school.N	17-28		
 Cognition:remember.V	17-31	sich erinnern an::V	
 Cognition:forget.V	17-32	vergessen::V	
-Cognition:clear.?	17-34		‘clear to the mind’ (the opposite of ‘obscure’)
-Cognition:obscure.?	17-35		‘obscure to the mind’
+Cognition:clear.?	17-34		clear to the mind (the opposite of obscure)
+Cognition:obscure.?	17-35		obscure to the mind
 Cognition:secret.?	17-36		
 Cognition:certain.?	17-37		
 Cognition:explain.V	17-38		
@@ -1180,8 +1180,8 @@ Cognition:betray.V	17-441
 Cognition:need or necessity.N	17-45		
 Cognition:easy.?	17-46		
 Cognition:difficult.?	17-47		
-Cognition:try.V	17-48	versuchen::V	‘to attempt (to do something)’
-Cognition:manner.N	17-49		‘the way in which something is done or happens’
+Cognition:try.V	17-48	versuchen::V	to attempt (to do something)
+Cognition:manner.N	17-49		the way in which something is done or happens
 Cognition:and.CNJ	17-51	und::CNJ	
 Cognition:because.?	17-52		
 Cognition:if.?	17-53		
@@ -1201,31 +1201,31 @@ Lingua:voice.N	18-11	Stimme::N
 Lingua:sing.V	18-12	singen::V	
 Lingua:shout.V	18-13	schreien::V	
 Lingua:whisper.V	18-15		
-Lingua:mumble.V	18-16		‘to say something too quietly and not clearly enough, so that it is difficult or impossible to hear’
+Lingua:mumble.V	18-16		to say something too quietly and not clearly enough, so that it is difficult or impossible to hear
 Lingua:whistle.V	18-17	pfeifen::V	
-Lingua:shriek.V	18-18		‘to make a very high, loud sound’
-Lingua:howl.V	18-19	heulen::V	‘(dog/wolf/other mammal:) to make a long, loud sound’
+Lingua:shriek.V	18-18		to make a very high, loud sound
+Lingua:howl.V	18-19	heulen::V	(dog/wolf/other mammal:) to make a long, loud sound
 Lingua:speak or talk.V	18-21		
 Lingua:stutter or stammer.V	18-211		
 Lingua:say.V	18-22	sagen::V	
-Lingua:tell.V	18-221	erzählen::V	‘tell (a story)’
-Lingua:speech.N	18-222	Rede::N	‘oration’
+Lingua:tell.V	18-221	erzählen::V	tell (a story)
+Lingua:speech.N	18-222	Rede::N	oration
 Lingua:be silent.V	18-23		
 Lingua:language.N	18-24	Sprache::N	
 Lingua:word.N	18-26	Wort::N	
 Lingua:name.N	18-28	Name::N	
 Lingua:name.V	18-28	nennen::V	
-Lingua:ask(1).V	18-31		‘ask a question, inquire’
+Lingua:ask(1).V	18-31		ask a question, inquire
 Lingua:answer.V	18-32		
 Lingua:admit.V	18-33		
 Lingua:deny.V	18-34		
-Lingua:ask(2).V	18-35		‘ask for something, request’
+Lingua:ask(2).V	18-35		ask for something, request
 Lingua:promise.V	18-36	versprechen::V	
 Lingua:refuse.V	18-37		
 Lingua:forbid.V	18-38		
-Lingua:scold.V	18-39		‘to rebuke’
-Lingua:call(1).V	18-41		‘to summon’
-Lingua:call(2).V	18-42		‘to give a name’
+Lingua:scold.V	18-39		to rebuke
+Lingua:call(1).V	18-41		to summon
+Lingua:call(2).V	18-42		to give a name
 Lingua:announce.V	18-43		
 Lingua:threaten.V	18-44		
 Lingua:boast.V	18-45		
@@ -1238,57 +1238,57 @@ Lingua:poet.N	18-67
 Lingua:flute.N	18-71		
 Lingua:drum.N	18-72		
 Lingua:horn or trumpet.N	18-73		
-Lingua:rattle.N	18-74		‘a wooden instrument that makes a loud knocking noise [used by people watching football games]’
+Lingua:rattle.N	18-74		a wooden instrument that makes a loud knocking noise used by people watching football games
 Societa:country.N	19-11	Land::N	
 Societa:native country.N	19-12		
-Societa:town.N	19-15	Stadt::N	‘an urban settlement’
-Societa:village.N	19-16	Dorf::N	‘a rural settlement’
+Societa:town.N	19-15	Stadt::N	an urban settlement
+Societa:village.N	19-16	Dorf::N	a rural settlement
 Societa:boundary.N	19-17		
-Societa:people.N	19-21	Leute::N	'the populace, the inhabitants of a country (as opposed to the ruling class)'
-Societa:clan.N	19-23		‘extended family’
-Societa:chieftain.N	19-24		'leader/ruler of a tribe/clan'
+Societa:people.N	19-21	Leute::N	the populace, the inhabitants of a country (as opposed to the ruling class)
+Societa:clan.N	19-23		extended family
+Societa:chieftain.N	19-24		leader/ruler of a tribe/clan
 Societa:walking stick.N	19-25		
 Societa:rule or govern.V	19-31		
 Societa:king.N	19-32	König::N	
-Societa:queen.N	19-33		'female monarch', not 'king's wife'
+Societa:queen.N	19-33		female monarch, not kings wife
 Societa:noble.N	19-36		
 Societa:citizen.N	19-37		
-Societa:master.N	19-41	Meister::N	as opposed to 'slave, servant'
+Societa:master.N	19-41	Meister::N	as opposed to slave, servant
 Societa:slave.N	19-42		
 Societa:servant.N	19-43		
 Societa:freeman.N	19-44		
-Societa:command or order.V	19-45		'tell someone to do something, using one's authority or power'
+Societa:command or order.V	19-45		tell someone to do something, using ones authority or power
 Societa:obey.V	19-46		
 Societa:permit.V	19-47		
 Societa:friend.N	19-51	Freund::N	
 Societa:enemy.N	19-52	Feind::N	
 Societa:neighbour.N	19-54		
-Societa:stranger.N	19-55		'someone whom one does not know'
+Societa:stranger.N	19-55		someone whom one does not know
 Societa:guest.N	19-56	Gast::N	
 Societa:host.N	19-57		
 Societa:help.N	19-58	Hilfe::N	
 Societa:prevent.V	19-59		
 Societa:custom.N	19-61		
 Societa:quarrel.N	19-62		
-Societa:plot.N	19-63		‘conspiracy’
+Societa:plot.N	19-63		conspiracy
 Societa:meet.V	19-65	treffen::V	
 Societa:prostitute.N	19-72		
 Militia:fight.N	20-11	Kampf::N	
 Militia:war or battle.N	20-13		
 Militia:peace.N	20-14		
-Militia:army.N	20-15		‘military forces’
+Militia:army.N	20-15		military forces
 Militia:soldier.N	20-17		
 Militia:weapons.N	20-21		
-Militia:club.N	20-22		‘large stick used as weapon’
+Militia:club.N	20-22		large stick used as weapon
 Militia:battle-axe.N	20-222		
 Militia:sling.N	20-23		
-Militia:bow.N	20-24	Bogen[Waffe]::N	'used to shoot arrows'
-Militia:bow.V	20-24	beugen::V	'used to shoot arrows'
-Militia:arrow.N	20-25	Pfeil::N	'used as a weapon'
+Militia:bow.N	20-24	Bogen[Waffe]::N	used to shoot arrows
+Militia:bow.V	20-24	beugen::V	used to shoot arrows
+Militia:arrow.N	20-25	Pfeil::N	used as a weapon
 Militia:spear.N	20-26		
-Militia:sword.N	20-27		'metal weapon with a handle, blade , and sheath'
-Militia:gun.N	20-28	Gewehr::N	‘rifle’
-Militia:armour.N	20-31		‘metal or leather clothing worn by soldiers in former times to protect their body’
+Militia:sword.N	20-27		metal weapon with a handle, blade , and sheath
+Militia:gun.N	20-28	Gewehr::N	rifle
+Militia:armour.N	20-31		metal or leather clothing worn by soldiers in former times to protect their body
 Militia:helmet.N	20-33		
 Militia:shield.N	20-34		
 Militia:fortress.N	20-35		
@@ -1311,53 +1311,53 @@ Militia:fish trap.N	20-55
 Militia:bait.N	20-56		
 Militia:hunt.V	20-61	jagen::V	
 Militia:shoot.V	20-62	schießen::V	
-Militia:miss.V	20-63		‘miss a target’
+Militia:miss.V	20-63		miss a target
 Militia:trap.N	20-64	Falle::N	
 Militia:trap.N	20-65	Falle::N	
-Jus:law.N	21-11		'a rule that people in a particular country (or administrative area) must obey'
-Jus:court.N	21-15		'(the judge and/or the jury in a) place where all the information concerning a crime is given so that it can be judged'
+Jus:law.N	21-11		a rule that people in a particular country (or administrative area) must obey
+Jus:court.N	21-15		(the judge and/or the jury in a) place where all the information concerning a crime is given so that it can be judged
 Spatium:at.?	12-013		
-Jus:adjudicate.V	21-16		'decide whether someone is guilty of a crime in court'
-Jus:judgment.N	21-17		'official decision given by a judge or a court of law'
+Jus:adjudicate.V	21-16		decide whether someone is guilty of a crime in court
+Jus:judgment.N	21-17		official decision given by a judge or a court of law
 Jus:judge.N	21-18		
 Jus:plaintiff.N	21-21		
 Jus:defendant.N	21-22		
 Jus:witness.N	21-23		
-Jus:swear.V	21-24		'make a public official promise, especially in a court of law'
-Jus:oath.N	21-25		'act of swearing'
+Jus:swear.V	21-24		make a public official promise, especially in a court of law
+Jus:oath.N	21-25		act of swearing
 Jus:accuse.V	21-31		
 Jus:condemn.V	21-32		to find guilty or to sentence
-Jus:convict.V	21-33		‘to find guilty’
+Jus:convict.V	21-33		to find guilty
 Jus:acquit.V	21-34		
 Jus:guilty.?	21-35		
 Jus:innocent.?	21-36		
 Jus:penalty or punishment.N	21-37		
 Jus:fine.N	21-38		
 Jus:prison.N	21-39		
-Jus:murder.N	21-42		'the crime of deliberately killing someone'
+Jus:murder.N	21-42		the crime of deliberately killing someone
 Jus:adultery.N	21-43		
 Jus:rape.N	21-44		
-Jus:arson.N	21-46		‘deliberately setting fire to something to cause damage’
+Jus:arson.N	21-46		deliberately setting fire to something to cause damage
 Jus:perjury.N	21-47		
 Jus:steal.V	21-51	stehlen::V	
 Jus:thief.N	21-52		
 Religion:religion.N	22-11		
 Religion:god.N	22-12	Gott::N	
-Religion:temple.N	22-13		‘general term for house of worship’
-Religion:altar.N	22-14		‘a raised place on which religious rites are performed’
-Religion:sacrifice.N	22-15		‘ritual killing of an animal’
-Religion:worship.V	22-16		‘to perform a rite in honor of a deity’
-Religion:pray.V	22-17		‘to ask a deity for something’
-Religion:priest.N	22-18		‘clergy of any religion’
+Religion:temple.N	22-13		general term for house of worship
+Religion:altar.N	22-14		a raised place on which religious rites are performed
+Religion:sacrifice.N	22-15		ritual killing of an animal
+Religion:worship.V	22-16		to perform a rite in honor of a deity
+Religion:pray.V	22-17		to ask a deity for something
+Religion:priest.N	22-18		clergy of any religion
 Religion:holy.?	22-19		
 Religion:preach.V	22-22		
 Religion:bless.V	22-23		
 Religion:curse.V	22-24		
-Religion:fast.V	22-26		‘to refrain from eating’
-Religion:heaven.N	22-31		‘the abode of deities’
+Religion:fast.V	22-26		to refrain from eating
+Religion:heaven.N	22-31		the abode of deities
 Religion:hell.N	22-32		
-Religion:demon.N	22-35		‘evil spirit’
-Religion:idol.N	22-37		‘statue of a deity’
+Religion:demon.N	22-35		evil spirit
+Religion:idol.N	22-37		statue of a deity
 Religion:magic.N	22-42		
 Religion:sorcerer or witch.N	22-43		
 Religion:fairy or elf.N	22-44		
@@ -1367,7 +1367,7 @@ Modernita:radio.N	23-1
 Modernita:television.N	23-11		
 Modernita:telephone.N	23-12		
 Modernita:motorcycle.N	23-135		
-Modernita:car.N	23-14		‘motor vehicle’
+Modernita:car.N	23-14		motor vehicle
 Modernita:bus.N	23-15		
 Modernita:airplane.N	23-16		
 Modernita:electricity.N	23-17		
@@ -1377,29 +1377,29 @@ Modernita:nurse.N	23-21
 Modernita:pill or tablet.N	23-22		
 Modernita:injection.N	23-23		(of liquid drugs into the body)
 Modernita:tap/faucet.N	23-5		
-Modernita:sink.V	23-51	versinken::V	‘washbasin’
+Modernita:sink.V	23-51	versinken::V	washbasin
 Modernita:toilet.N	23-52		
 Modernita:mattress.N	23-53		
 Modernita:government.N	23-3		
 Modernita:president.N	23-31		
-Modernita:minister.N	23-32		'political (not religious)'
+Modernita:minister.N	23-32		political (not religious)
 Modernita:police.N	23-33		
 Modernita:driver's license.N	23-34		
 Modernita:crime.N	23-37		
 Modernita:election.N	23-38		
 Modernita:post/mail.N	23-4		
 Modernita:postage stamp.N	23-41		
-Modernita:letter.N	23-42	Brief::N	‘epistula’
-Modernita:bank.N	23-44		‘financial institution’
-Modernita:tin/can.N	23-54		‘hermetically sealed metal container for preserved food’
+Modernita:letter.N	23-42	Brief::N	epistula
+Modernita:bank.N	23-44		financial institution
+Modernita:tin/can.N	23-54		hermetically sealed metal container for preserved food
 Modernita:screw.N	23-55		
 Modernita:screwdriver.N	23-555		
-Modernita:bottle.N	23-56		‘glass container for liquids with narrow neck’
+Modernita:bottle.N	23-56		glass container for liquids with narrow neck
 Modernita:candy/sweets.N	23-565		
 Modernita:spectacles/glasses.N	23-24		
 Modernita:plastic.N	23-57		
 Modernita:bomb.N	23-575		
-Modernita:workshop.N	23-58		‘small factory’
+Modernita:workshop.N	23-58		small factory
 Modernita:cigarette.N	23-59		
 Modernita:calendar.N	23-61		
 Modernita:film/movie.N	23-62		movie
@@ -1431,7 +1431,7 @@ Function:that.PRN	24-08	das::PRN
 Function:here.ADV	24-09	hier::ADV	
 Function:there.ADV	24-1	dort::ADV	
 Function:other.A	24-11	anderer::A	
-Anatomia:vagina.N	4-493		‘the passage from a woman’s outer sexual organs to her womb’
+Anatomia:vagina.N	4-493		the passage from a womans outer sexual organs to her womb
 Modernita:tea.N	23-9	Tee::N	
 Modernita:coffee.N	23-91		
 Function:next.?	24-12		
@@ -1446,19 +1446,19 @@ Animalia:beaver.N	3-873
 Motion:sledge/sled.N	10-79		
 Agricultura:lasso.N	8-29		
 Agricultura:larch.N	8-991		a tree (Larix) of the pine family
-Agricultura:needle(2).N	8-993		‘needle of coniferous tree’
-Natura:arctic lights.N	1-771		‘aurora borealis’
+Agricultura:needle(2).N	8-993		needle of coniferous tree
+Natura:arctic lights.N	1-771		aurora borealis
 Anatomia:sinew or tendon.N	4-465		
-Domestica:tan.V	7-67		‘to make animal skin into leather by by treating it with tannin (=a kind of acid)’
+Domestica:tan.V	7-67		to make animal skin into leather by by treating it with tannin (=a kind of acid)
 Vestitura:snowshoe.N	6-98		
 Religion:circumcision.N	22-5		
 Religion:initiation ceremony.N	22-51		
-Agricultura:cone.N	8-996		‘fruit of a pine or fir tree’
+Agricultura:cone.N	8-996		fruit of a pine or fir tree
 Animalia:body louse.N	3-8112		
-Anatomia:vulva.N	4-494		‘the outer part of a woman’s sexual organs’
+Anatomia:vulva.N	4-494		the outer part of a womans sexual organs
 Animalia:tapir.N	3-99		
 Action:whetstone.N	9-93		
-Action:tumpline.N	9-92		'a strap slung over the forehead or chest used (especially by native Americans) for carrying packs or loads'
+Action:tumpline.N	9-92		a strap slung over the forehead or chest used (especially by native Americans) for carrying packs or loads
 Domestica:camp.N	7-65		
 Agricultura:digging stick (=yamstick).N	8-28		
 Animalia:cormorant.N	3-597		(Phalacrocorax etc)
@@ -1478,7 +1478,7 @@ Action:draw water.V	9-9
 Action:peg.N	9-91		
 Motion:go or return home.V	10-58		
 Animalia:buffalo.N	3-917		
-Natura:savanna.N	1-411		'a large open grassland in tropical and subtropical regions'
+Natura:savanna.N	1-411		a large open grassland in tropical and subtropical regions
 Natura:steam.N	1-831		
 Familia:older sibling.N	2-4561		
 Familia:younger sibling.N	2-4562		
@@ -1492,10 +1492,10 @@ Grammatica:3SG M.PRN	2-931	er::PRN
 Grammatica:3SG F.PRN	2-932		
 Grammatica:3SG nonhuman.PRN	2-933		
 Anatomia:life.N	4-741	Leben::N	
-Anatomia:carcass.N	4-771		'body of a dead animal'
+Anatomia:carcass.N	4-771		body of a dead animal
 Anatomia:disease.N	4-844		
 Domestica:padlock.N	7-232		
-Agricultura:paddy.N	8-121		'wet land in which rice is grown'
+Agricultura:paddy.N	8-121		wet land in which rice is grown
 Possession:damage.N	11-29	Schaden::N	
 Possession:damage.V	11-29	beschädigen::V	
 Spatium:above.ADV	12-081	oben::ADV	
@@ -1503,12 +1503,12 @@ Quantita:piece.N	13-231	Stück::N
 Quantita:alone.ADV	13-331	allein::ADV	
 Tempus:beginning.N	14-251		beginning
 Tempus:day(2).N	14-411		(unit of time, 24 hours)
-Religion:church.N	22-131	Kirche::N	‘a Christian house of worship’
-Religion:mosque.N	22-132		‘a Muslim house of worship’
+Religion:church.N	22-131	Kirche::N	a Christian house of worship
+Religion:mosque.N	22-132		a Muslim house of worship
 Function:nothing.?	24-14		
 Anatomia:dead.?	4-7501		
-Anatomia:scratch.V	4-8541		‘to scratch an itch’
-Action:make.V	9-111	machen::V	‘produce by working’
+Anatomia:scratch.V	4-8541		to scratch an itch
+Action:make.V	9-111	machen::V	produce by working
 Anatomia:belly.N	4-431	Bauch::N	
 Action:wipe.V	9-311	abwischen::V	
 Natura:freeze.V	1-775	gefrieren::V	
@@ -1523,8 +1523,8 @@ Natura:spring.N	1-9991	Frühling::N
 Natura:blaze.V	1-99911		
 Natura:melt.V	1-99912	schmelzen::V	
 Familia:step-.?	2-99902		
-Familia:co-father-in-law.N	2-99903		the father-in-law of ego’s child
-Familia:co-mother-in-law.N	2-99904		the mother-in-law of ego’s child
+Familia:co-father-in-law.N	2-99903		the father-in-law of egos child
+Familia:co-mother-in-law.N	2-99904		the mother-in-law of egos child
 Familia:father-in-law.N	2-99905		
 Familia:German.N	2-99906		
 Familia:Hungarian.N	2-99907		
@@ -1604,7 +1604,7 @@ Gastronomia:Japanese fish cake.N	5-99911
 Gastronomia:jelly.N	5-99912		
 Gastronomia:manioc juice.N	5-99913		
 Gastronomia:mochi.N	5-99914		
-Gastronomia:ramen noodles.N	5-99915		called 'saimin' in Hawaii
+Gastronomia:ramen noodles.N	5-99915		called saimin in Hawaii
 Gastronomia:rice ball or musubi.N	5-99916		
 Gastronomia:roasted cassava meal.N	5-99917		
 Gastronomia:smoked food.N	5-99918		
@@ -1667,7 +1667,7 @@ Agricultura:rubber tree.N	8-99944
 Agricultura:sensitive mimosa.N	8-99945		
 Agricultura:straw.N	8-99946		
 Agricultura:sugar beet.N	8-99947		
-Agricultura:tar.N	8-99948		‘pitch/sap from coniferous trees’
+Agricultura:tar.N	8-99948		pitch/sap from coniferous trees
 Agricultura:taro.N	8-99949		
 Agricultura:tree dye.N	8-9995		
 Agricultura:turnip.N	8-99952		
@@ -1678,7 +1678,7 @@ Agricultura:wild maize.N	8-99956
 Agricultura:willow.N	8-99957	Weide[Baum]::N	
 Agricultura:woody shrub.N	8-99958		Plant whose wood is used for building huts
 Agricultura:yerba mate.N	8-99959		k.o. leaves that are dried and made into an infusion like tea
-Agricultura:grow(2).V	8-9996		to cause to grow [a plant] (transitive)
+Agricultura:grow(2).V	8-9996		to cause to grow a plant (transitive)
 Agricultura:pick.V	8-99961	pflücken::V	
 Agricultura:raise.V	8-99962	heben::V	to breed and care for to maturity (transitive)
 Action:barrel.N	9-99901		
@@ -1752,7 +1752,7 @@ Perception:orange.?	15-99903		colour term
 Perception:pink.?	15-99904		
 Perception:trace.N	15-99905		
 Perception:violet.?	15-99906		colour term
-Emotion:better.?	16-99901		comparative of ‘good’
+Emotion:better.?	16-99901		comparative of good
 Emotion:in vain.ADV	16-99902	vergebens::ADV	
 Emotion:thank you!.?	16-99903		
 Emotion:evil.A	16-99904	böse::A	
@@ -1766,7 +1766,7 @@ Emotion:look forward.V	16-99911
 Emotion:praise.V	16-99912	loben::V	
 Emotion:voluptuous.?	16-99913		
 Emotion:wild.?	16-99914		
-Emotion:worse.?	16-99915		comparative of ‘bad’
+Emotion:worse.?	16-99915		comparative of bad
 Cognition:on purpose.?	17-99901		
 Cognition:possibility.N	17-99902		
 Cognition:same.N	17-99903		
@@ -1841,7 +1841,7 @@ Religion:Christmas.?	22-99902
 Religion:Easter.?	22-99903		term used by Catholics
 Religion:bishop.N	22-99904		term used by Episcopalians
 Religion:funeral.N	22-99905		
-Religion:holiday.N	22-99906		‘a religious feast day’
+Religion:holiday.N	22-99906		a religious feast day
 Religion:hymn.N	22-99907		
 Religion:lent.N	22-99908		
 Religion:Muslim.N	22-99909		
@@ -1858,7 +1858,7 @@ Function:(interrogative).?	24-99905		The word is used in the interrogation and i
 Function:let.V	24-99906	lassen::V	optative particle
 Function:(negative marker).?	24-99907		
 Function:neither.?	24-99908		
-Function:nor.?	24-99909		second part of the complex coordinating conjunction ‘neither – nor’
+Function:nor.?	24-99909		second part of the complex coordinating conjunction neither – nor
 Function:someone.?	24-9991		
 Function:(superlative marker).?	24-99911		
 Function:then.ADV	24-99912	dann::ADV	
@@ -1868,386 +1868,386 @@ Function:which.?	24-99917		relative particle
 Function:you (dual).?	24-99919		
 Animalia:chipmunk.N	3-99944		
 Societa:mate.?	19-99944		
-Alia:moustache.N		Schnurrbart::N	[of a man]
-Alia:nape.N		Genick::N	[back side of neck]
-Alia:bosom.N		Busen::N	[female breast]
-Alia:palm.N		Handfläche::N	[[anatomy]]
-Alia:vein.N		Ader::N	[[anatomy]]
-Alia:sinew.N		Sehne::N	[[anatomy]]
-Alia:breath.N		Atem::N	[breathing]
-Alia:hunger.N		Hunger::N	[condition]
-Alia:flavour.N		Geschmack::N	[of something]
-Alia:odour.N		Geruch::N	[of something]
-Alia:stone.N		Stein::N	[substance]
-Alia:ground.N		Boden::N	[soil, earth]
-Alia:earth.N		Erde::N	[substance]
-Alia:spark.N		Funke::N	[from a fire]
-Alia:shadow.N		Schatten::N	[shady place]
-Alia:frost.N		Frost::N	[temperature below freezing point]
-Alia:chill.N		Kälte::N	[low temperature]
-Alia:heat.N		Hitze::N	[high temperature]
-Alia:hoarfrost.N		Raureif::N	[]
-Alia:current.N		Strömung::N	[of a river]
-Alia:dirt.N		Schmutz::N	[on objects]
-Alia:moor.N		Moor::N	[wasteland covered by heath]
-Alia:meadow.N		Wiese::N	[land covered with grass]
-Alia:forest.N		Wald::N	[]
-Alia:hill.N		Hügel::N	[possibly wooded]
-Alia:elevation.N		Anhöhe::N	[of the ground]
-Alia:mountain.N		Berg::N	[woodless]
-Alia:summit.N		Gipfel::N	[of a mountain]
-Alia:slope.N		Abhang::N	[of a mountain]
-Alia:source.N		Quelle::N	[of a river]
-Alia:brook.N		Bach::N	[small river]
-Alia:coast.N		Küste::N	[seashore]
-Alia:cove, bay.N		Bucht::N	[small coastal inlet]
-Alia:trunk.N		Stamm::N	[of a tree]
-Alia:limb.N		Ast::N	[of a tree]
-Alia:twig.N		Zweig::N	[of a tree]
-Alia:paw.N		Kralle::N	[EX:of a cat]
-Alia:lair.N		Bau::N	[EX:of a fox]
-Alia:flock.N		Herde::N	[EX:of sheep]
-Alia:elk.N		Elch::N	[]
-Alia:mouse.N		Maus::N	[]
-Alia:swarm.N		Schwarm::N	[EX:of birds]
-Alia:cock.N		Hahn::N	[male chicken]
-Alia:crane.N		Kranich::N	[]
-Alia:cuckoo.N		Kuckuck::N	[]
-Alia:swan.N		Schwan::N	[]
-Alia:perch.N		Barsch::N	[]
-Alia:pike.N		Hecht::N	[]
-Alia:gnat.N		Mücke::N	[]
-Alia:berry.N		Beere::N	[generic term]
-Alia:peel, husk.N		Schale::N	[EX:of an apple]
-Alia:pit.N		Grube::N	[hole in the ground]
-Alia:noose.N		Schlinge::N	[EX:on a rope]
-Alia:track.N		Spur::N	[EX:of an animal]
-Alia:filth.N		Dreck::N	[that which soils or defiles]
-Alia:human.N		Mensch::N	[human being]
-Alia:child.N		Kind::N	[EX:10 years old]
-Alia:joy.N		Freude::N	[emotion]
-Alia:laughter.N		Gelächter::N	[]
-Alia:happiness.N		Glück::N	[]
-Alia:wish.N		Wunsch::N	[longing]
-Alia:desire.N		Lust::N	[to have something]
-Alia:spirit.N		Geist::N	[inner energy of a being]
-Alia:thought.N		Gedanke::N	[]
-Alia:memory.N		Gedächtnis::N	[human ability to record information]
-Alia:meaning.N		Sinn::N	[denotation]
-Alia:reason.N		Grund::N	[motive, rationale]
-Alia:truth.N		Wahrheit::N	[]
-Alia:talk.N		Gespräch::N	[conversation]
-Alia:story.N		Erzählung::N	[oral narration]
-Alia:message.N		Nachricht::N	[]
-Alia:news.N		Neuigkeit::N	[]
-Alia:puzzle.N		Rätsel::N	[riddle]
-Alia:sign.N		Zeichen::N	[object bearing a message]
-Alia:call.N		Ruf::N	[appeal]
-Alia:noise.N		Lärm::N	[unwanted loud sounds]
-Alia:sound.N		Laut::N	[sensation perceived by the ear]
-Alia:tone.N		Ton::N	[sound of a specific pitch]
-Alia:nation.N		Volk::N	[community of people with a common culture]
-Alia:game.N		Spiel::N	[playful activity]
-Alia:company.N		Gesellschaft::N	[companionship]
-Alia:companion.N		Kamerad::N	[with whom one spends time]
-Alia:matter.N		Angelegenheit::N	[affair]
-Alia:sort.N		Art::N	[type]
-Alia:stroke.N		Strich::N	[drawn with a writing implement]
-Alia:gap.N		Abstand::N	[between objects]
-Alia:distance.N		Entfernung::N	[between two points]
-Alia:area.N		Gegend::N	[extent of surface, region]
-Alia:space.N		Platz::N	[available space between things, EX:in a closet]
-Alia:item.N		Gegenstand::N	[physical object]
-Alia:tip.N		Spitze::N	[of a pointy object]
-Alia:end.N		Ende::N	[of a long object]
-Alia:angle.N		Winkel::N	[internal, EX:of a room]
-Alia:pattern.N		Muster::N	[regular repeated elements]
-Alia:size.N		Größe::N	[dimensions of an object]
-Alia:length.N		Länge::N	[]
-Alia:height.N		Höhe::N	[]
-Alia:weight.N		Gewicht::N	[mass as measured]
-Alia:amount.N		Menge::N	[measurable quantity of a material]
-Alia:heap.N		Haufen::N	[]
-Alia:sleigh.N		Schlitten::N	[]
-Alia:ski.N		Ski::N	[]
-Alia:campfire.N		Lagerfeuer::N	[]
-Alia:load.N		Last::N	[on a vehicle]
-Alia:slab.N		Platte::N	[flat piece of solid material]
-Alia:support, rest.N		Stütze::N	[something which keeps upright]
-Alia:pole.N		Stange::N	[long and slender piece of wood]
-Alia:stick.N		Stock::N	[piece of wood used as a tool]
-Alia:staff.N		Stab::N	[long straight stick]
-Alia:home.N		Heim::N	[one’s own dwelling place]
-Alia:cradle.N		Wiege::N	[]
-Alia:box.N		Kiste::N	[]
-Alia:door.N		Tür::N	[]
-Alia:gate.N		Tor::N	[]
-Alia:knife.N		Messer::N	[]
-Alia:net.N		Netz::N	[mesh of string]
-Alia:handle.N		Griff::N	[part of an object which is held]
-Alia:picture.N		Bild::N	[]
-Alia:figure.N		Figur::N	[EX:representing a god]
-Alia:doll.N		Puppe::N	[]
-Alia:pouch.N		Beutel::N	[]
-Alia:bundle.N		Bündel::N	[group of objects tied together]
-Alia:cover, lid.N		Deckel::N	[of a container]
-Alia:dishes.N		Geschirr::N	[dishware, crockery]
-Alia:corn.N		Getreide::N	[cereal plant grown for its grain]
-Alia:mush.N		Brei::N	[]
-Alia:slice.N		Scheibe::N	[EX:of bread]
-Alia:fat.N		Fett::N	[]
-Alia:needle.N		Nadel::N	[for sewing]
-Alia:clothes.N		Kleidung::N	[]
-Alia:cap.N		Mütze::N	[head covering]
-Alia:ribbon.N		Band::N	[strip of cloth]
-Alia:strap.N		Riemen::N	[EX:strip of leather]
-Alia:string.N		Schnur::N	[made from twisted threads]
-Alia:leash.N		Leine::N	[EX:dog leash]
-Alia:scarf.N		Tuch::N	[light, worn around the shoulders]
-Alia:health.N		Gesundheit::N	[]
-Alia:illness.N		Krankheit::N	[]
-Alia:wound.N		Wunde::N	[]
-Alia:way.N		Weg::N	[connection between places]
-Alia:character.N		Buchstabe::N	[written symbol, letter]
-Alia:death.N		Tod::N	[]
-Alia:sin.N		Sünde::N	[]
-Alia:worker.N		Arbeiter::N	[]
-Alia:boss.N		Chef::N	[supervisor]
-Alia:doctor.N		Arzt::N	[physician]
-Alia:business.N		Geschäft::N	[commercial activity]
-Alia:shop.N		Laden::N	[]
-Alia:ware.N		Ware::N	[]
-Alia:benefit.N		Nutzen::N	[advantage]
-Alia:wealth.N		Reichtum::N	[]
-Alia:border.N		Grenze::N	[between states]
-Alia:war.N		Krieg::N	[]
-Alia:violence.N		Gewalt::N	[use of force]
-Alia:lie.N		Lüge::N	[]
-Alia:misfortune.N		Unglück::N	[undesirable condition]
-Alia:end.N		Schluss::N	[conclusion]
-Alia:day.N		Tag::N	[]
-Alia:noon.N		Mittag::N	[]
-Alia:autumn.N		Herbst::N	[]
-Alia:January.N		Januar::N	[]
-Alia:February.N		Februar::N	[]
-Alia:March.N		März::N	[]
-Alia:April.N		April::N	[]
-Alia:May.N		Mai::N	[]
-Alia:June.N		Juni::N	[]
-Alia:July.N		Juli::N	[]
-Alia:August.N		August::N	[]
-Alia:September.N		September::N	[]
-Alia:October.N		Oktober::N	[]
-Alia:November.N		November::N	[]
-Alia:December.N		Dezember::N	[]
-Alia:little.A		klein::A	[EX:rock]
-Alia:dense.A		dicht::A	[EX:hair, forest]
-Alia:delicate, fine.A		fein::A	[EX:yarn, web]
-Alia:firm, solid.A		fest::A	[EX:wood, wall]
-Alia:cool.A		kühl::A	[]
-Alia:fresh.A		frisch::A	[EX:air]
-Alia:damp.A		feucht::A	[]
-Alia:closed.A		geschlossen::A	[EX:door]
-Alia:delicious.A		lecker::A	[tasty]
-Alia:colourful.A		bunt::A	[multicolored]
-Alia:precious.A		wertvoll::A	[]
-Alia:powerful.A		kräftig::A	[forceful]
-Alia:strong .A		stark::A	[tough]
-Alia:fat.A		fett::A	[person]
-Alia:slim.A		schlank::A	[]
-Alia:pretty.A		hübsch::A	[]
-Alia:diligent.A		fleißig::A	[]
-Alia:skilful.A		geschickt::A	[]
-Alia:dear.A		lieb::A	[beloved]
-Alia:merry.A		lustig::A	[]
-Alia:gentle.A		sanft::A	[tender]
-Alia:hungry.A		hungrig::A	[]
-Alia:sick, ill.A		krank::A	[]
-Alia:sad.A		traurig::A	[emotion]
-Alia:living.A		lebendig::A	[]
-Alia:correct.A		richtig::A	[]
-Alia:nasty, dire.A		schlimm::A	[]
-Alia:former.A		ehemalig::A	[erstwhile]
-Alia:aged, old.A		alt[Lebewesen]::A	[person]
-Alia:familiar.A		bekannt::A	[]
-Alia:famous.A		berühmt::A	[]
-Alia:foreign.A		fremd::A	[]
-Alia:different.A		verschieden::A	[]
-Alia:right.A		rechter::A	[EX:right leg]
-Alia:at once.ADV		auf einmal::ADV	[in one go]
-Alia:together.ADV		zusammen::ADV	[]
-Alia:suddenly.ADV		plötzlich::ADV	[]
-Alia:instantly.ADV		sofort::ADV	[]
-Alia:later.ADV		später::ADV	[]
-Alia:once.ADV		einst::ADV	[once upon a time]
-Alia:at that time.ADV		damals::ADV	[]
-Alia:afterwards.ADV		danach::ADV	[]
-Alia:at first.ADV		zuerst::ADV	[]
-Alia:once.ADV		einmal::ADV	[]
-Alia:hither.ADV		hierhin::ADV	[]
-Alia:hence.ADV		von hier::ADV	[]
-Alia:thither.ADV		dorthin::ADV	[]
-Alia:ahead.ADV		geradeaus::ADV	[]
-Alia:forward.ADV		vorwärts::ADV	[]
-Alia:backward.ADV		rückwärts::ADV	[]
-Alia:below.ADV		unten::ADV	[]
-Alia:everywhere.ADV		überall::ADV	[]
-Alia:hardly.ADV		kaum::ADV	[]
-Alia:very.ADV		sehr::ADV	[]
-Alia:so.ADV		so::ADV	[]
-Alia:still.ADV		noch::ADV	[]
-Alia:already.ADV		schon::ADV	[]
-Alia:next to.PRP		neben::PRP	[]
-Alia:between.PRP		zwischen::PRP	[]
-Alia:because of.PRP		wegen::PRP	[]
-Grammatica:everything.PRN		alles::PRN	[]
-Alia:what.FPRN		was::FPRN	[]
-Alia:who.FPRN		wer::FPRN	[]
-Alia:where.FADV		wo::FADV	[]
-Alia:where to.FADV		wohin::FADV	[]
-Alia:how.FADV		wie::FADV	[]
-Alia:why.FADV		warum::FADV	[]
-Alia:how much.FNUM		wieviel::FNUM	[]
-Alia:forty.NUM		vierzig::NUM	[]
-Alia:fifty.NUM		fünfzig::NUM	[]
-Alia:sixty.NUM		sechzig::NUM	[]
-Alia:seventy.NUM		siebzig::NUM	[]
-Alia:eighty.NUM		achtzig::NUM	[]
-Alia:ninety.NUM		neunzig::NUM	[]
-Alia:lie.V		liegen::V	[of a person]
-Alia:hang.V		hängen::V	[EX:``the coat is hanging'']
-Alia:happen.V		passieren::V	[occur]
-Alia:end.V		enden::V	[stop existing]
-Alia:set.V		untergehen[Sonne]::V	[of the sun]
-Alia:stream.V		strömen::V	[to flow in a continuous manner]
-Alia:revolve.V		sich drehen::V	[EX:of a wheel]
-Alia:sway.V		schwanken::V	[move backward and forward]
-Alia:swing.V		schwingen::V	[repeatedly move from side to side]
-Alia:burn.V		brennen::V	[BSP:of wood]
-Alia:thaw.V		tauen::V	[EX:of snow]
-Alia:rot.V		faulen::V	[EX:of meat]
-Alia:decay.V		verfaulen::V	[EX:of wood]
-Alia:snap.V		reißen::V	[EX:of a thread]
-Alia:appear.V		erscheinen::V	[EX:light, ghost]
-Alia:drop, descend.V		sinken::V	[EX:water level]
-Alia:decrease.V		abnehmen::V	[of quantity]
-Alia:increase.V		zunehmen::V	[of quantity]
-Alia:sparkle, twinkle.V		funkeln::V	[EX:of star, little light]
-Alia:be noisy.V		lärmen::V	[EX:children]
-Alia:chime.V		läuten::V	[EX:of bell]
-Alia:tinkle.V		klirren::V	[EX:glass]
-Alia:roar.V		brausen::V	[EX:storm, sea]
-Alia:rustle.V		rauschen::V	[EX:of leaves in breeze]
-Alia:sound.V		klingen::V	[EX:of instrument]
-Alia:tremble.V		zittern::V	[EX:with fear]
-Alia:get tired.V		müde werden::V	[]
-Alia:fall asleep.V		einschlafen::V	[]
-Alia:get up.V		aufstehen::V	[rise from one's bed]
-Alia:relax.V		sich erholen::V	[recreate]
-Alia:fall ill.V		krank werden::V	[]
-Alia:be ill.V		krank sein::V	[]
-Alia:ache.V		schmerzen::V	[EX:of head]
-Alia:recover.V		genesen::V	[from an illness]
-Alia:perish.V		umkommen::V	[die violently]
-Alia:budge.V		sich rühren::V	[change posture]
-Alia:stand up.V		sich erheben::V	[EX:from a chair]
-Alia:sit down.V		sich setzen::V	[assume a sitting position]
-Alia:tumble.V		hinfallen::V	[fall end over end]
-Alia:take a walk.V		spazierengehen::V	[]
-Alia:rush.V		eilen::V	[move in haste]
-Alia:dash.V		sausen::V	[EX:of a vehicle]
-Alia:seesaw.V		schaukeln::V	[use a seesaw]
-Alia:creep.V		kriechen::V	[of human]
-Alia:depart.V		abfahren::V	[set out on a journey]
-Alia:stop.V		anhalten::V	[cease moving]
-Alia:go in.V		hineingehen::V	[go into an enclosed space]
-Alia:stay.V		bleiben::V	[remain in a place]
-Alia:await.V		erwarten::V	[wait for someone]
-Alia:like.V		mögen::V	[favor, be in favor of]
-Alia:weep, cry.V		weinen::V	[shed tears]
-Alia:grumble.V		schimpfen::V	[complain in a surly manner]
-Alia:be annoyed.V		sich ärgern::V	[be irritated]
-Alia:be afraid.V		sich fürchten::V	[be frightened]
-Alia:be afraid of.V		fürchten::V	[fear]
-Alia:escape.V		flüchten::V	[get away, BSP:from captivity]
-Alia:look at.V		anschauen::V	[turn the eyes toward]
-Alia:watch.V		ansehen::V	[view for a period of time, EX:movie]
-Alia:smell.V		riechen::V	[sense the smell of]
-Alia:be cold.V		frieren::V	[feel the sensation of coldness]
-Alia:start.V		anfangen::V	[initiate, EX:a quarrel]
-Alia:stop.V		aufhören::V	[stop the current activity]
-Alia:succeed.V		gelingen::V	[be successful]
-Alia:turn out.V		geraten::V	[result, end up]
-Alia:lay.V		legen::V	[EX:money onto a table]
-Alia:connect.V		verbinden::V	[join, EX:using strings]
-Alia:produce.V		herstellen::V	[manufacture]
-Alia:repair, mend.V		reparieren::V	[EX:a car]
-Alia:improve.V		verbessern::V	[make better]
-Alia:alter.V		ändern::V	[make different]
-Alia:turn over.V		wenden::V	[EX:pancakes, pieces of meat]
-Alia:turn, turn around.V		umdrehen::V	[EX:palm]
-Alia:lift.V		hochheben::V	[EX:a box]
-Alia:seize.V		ergreifen::V	[grab, EX:a knife]
-Alia:tear off.V		abreißen::V	[EX:a doll's arm]
-Alia:cut off.V		abschneiden::V	[EX:a piece of cake]
-Alia:stick.V		stecken::V	[EX:a twig into a hole]
-Alia:knock.V		klopfen::V	[EX:on a wall]
-Alia:hit.V		hauen::V	[on purpose, EX:a table]
-Alia:spread.V		streichen::V	[EX:fat on a surface]
-Alia:sharpen.V		schleifen::V	[EX:a knife]
-Alia:jog.V		rütteln::V	[EX:on a door]
-Alia:swing.V		schwenken::V	[EX:a flag, cloth]
-Alia:drag.V		schleppen::V	[EX:the trunk of a tree]
-Alia:grab.V		packen::V	[EX:someone's arm]
-Alia:add.V		hinzufügen::V	[]
-Alia:select.V		auswählen::V	[]
-Alia:hinder.V		behindern::V	[]
-Alia:spoil.V		verderben::V	[EX:the mood]
-Alia:burn.V		verbrennen::V	[EX:paper, wood]
-Alia:wish.V		wünschen::V	[ЕX:luck]
-Alia:rock.V		wiegen::V	[a child]
-Alia:wake.V		wecken::V	[]
-Alia:guide.V		führen::V	[EX:to one's destination]
-Alia:instruct.V		unterrichten::V	[EX:children]
-Alia:bring up.V		aufziehen::V	[raise, ЕX:a child]
-Alia:urge.V		antreiben::V	[]
-Alia:unite.V		vereinigen::V	[]
-Alia:visit.V		besuchen::V	[EX:a friend]
-Alia:assemble.V		sich versammeln::V	[of a group]
-Alia:protect.V		schützen::V	[a person]
-Alia:brawl.V		sich schlagen::V	[]
-Alia:annoy.V		ärgern::V	[]
-Alia:beat.V		schlagen::V	[someone]
-Alia:sting.V		stechen::V	[EX:with a needle]
-Alia:shove.V		stoßen::V	[someone]
-Alia:disturb.V		stören::V	[]
-Alia:bother.V		belästigen::V	[]
-Alia:conceal.V		verbergen::V	[EX:a fact]
-Alia:deceive.V		täuschen::V	[]
-Alia:cheat.V		betrügen::V	[EX:someone of money]
-Alia:tie up.V		anbinden::V	[an animal]
-Alia:feed.V		füttern::V	[an animal]
-Alia:ripen.V		reifen::V	[of a plant, of a fruit]
-Alia:fry.V		braten::V	[EX:meat]
-Alia:stir.V		umrühren::V	[EX:soup]
-Alia:knit.V		stricken::V	[EX:a jacket]
-Alia:rinse.V		spülen::V	[EX:clothes, dishes]
-Alia:bath.V		baden::V	[EX:in a river]
-Alia:take off.V		ausziehen::V	[EX:one's coat]
-Alia:get dressed.V		sich anziehen::V	[]
-Alia:decorate.V		schmücken::V	[EX:a house]
-Alia:speak.V		sprechen::V	[]
-Alia:talk.V		reden::V	[]
-Alia:ask.V		fragen::V	[]
-Alia:request.V		bitten::V	[]
-Alia:convey.V		mitteilen::V	[]
-Alia:call.V		rufen::V	[someone to come]
-Alia:brag.V		prahlen::V	[]
-Alia:translate.V		übersetzen::V	[EX:text]
-Alia:think.V		denken::V	[]
-Alia:notice.V		bemerken::V	[]
-Alia:recognize.V		erkennen::V	[]
-Alia:calculate.V		rechnen::V	[reckon]
-Alia:pay for.V		bezahlen::V	[EX:goods]
-Alia:rule.V		beherrschen::V	[EX:country]
-Alia:endure.V		ertragen::V	[EX:pain]
+Alia:moustache.N		Schnurrbart::N	of a man
+Alia:nape.N		Genick::N	back side of neck
+Alia:bosom.N		Busen::N	female breast
+Alia:palm.N		Handfläche::N	anatomy
+Alia:vein.N		Ader::N	anatomy
+Alia:sinew.N		Sehne::N	anatomy
+Alia:breath.N		Atem::N	breathing
+Alia:hunger.N		Hunger::N	condition
+Alia:flavour.N		Geschmack::N	of something
+Alia:odour.N		Geruch::N	of something
+Alia:stone.N		Stein::N	substance
+Alia:ground.N		Boden::N	soil, earth
+Alia:earth.N		Erde::N	substance
+Alia:spark.N		Funke::N	from a fire
+Alia:shadow.N		Schatten::N	shady place
+Alia:frost.N		Frost::N	temperature below freezing point
+Alia:chill.N		Kälte::N	low temperature
+Alia:heat.N		Hitze::N	high temperature
+Alia:hoarfrost.N		Raureif::N	
+Alia:current.N		Strömung::N	of a river
+Alia:dirt.N		Schmutz::N	on objects
+Alia:moor.N		Moor::N	wasteland covered by heath
+Alia:meadow.N		Wiese::N	land covered with grass
+Alia:forest.N		Wald::N	
+Alia:hill.N		Hügel::N	possibly wooded
+Alia:elevation.N		Anhöhe::N	of the ground
+Alia:mountain.N		Berg::N	woodless
+Alia:summit.N		Gipfel::N	of a mountain
+Alia:slope.N		Abhang::N	of a mountain
+Alia:source.N		Quelle::N	of a river
+Alia:brook.N		Bach::N	small river
+Alia:coast.N		Küste::N	seashore
+Alia:cove, bay.N		Bucht::N	small coastal inlet
+Alia:trunk.N		Stamm::N	of a tree
+Alia:limb.N		Ast::N	of a tree
+Alia:twig.N		Zweig::N	of a tree
+Alia:paw.N		Kralle::N	EX:of a cat
+Alia:lair.N		Bau::N	EX:of a fox
+Alia:flock.N		Herde::N	EX:of sheep
+Alia:elk.N		Elch::N	
+Alia:mouse.N		Maus::N	
+Alia:swarm.N		Schwarm::N	EX:of birds
+Alia:cock.N		Hahn::N	male chicken
+Alia:crane.N		Kranich::N	
+Alia:cuckoo.N		Kuckuck::N	
+Alia:swan.N		Schwan::N	
+Alia:perch.N		Barsch::N	
+Alia:pike.N		Hecht::N	
+Alia:gnat.N		Mücke::N	
+Alia:berry.N		Beere::N	generic term
+Alia:peel, husk.N		Schale::N	EX:of an apple
+Alia:pit.N		Grube::N	hole in the ground
+Alia:noose.N		Schlinge::N	EX:on a rope
+Alia:track.N		Spur::N	EX:of an animal
+Alia:filth.N		Dreck::N	that which soils or defiles
+Alia:human.N		Mensch::N	human being
+Alia:child.N		Kind::N	EX:10 years old
+Alia:joy.N		Freude::N	emotion
+Alia:laughter.N		Gelächter::N	
+Alia:happiness.N		Glück::N	
+Alia:wish.N		Wunsch::N	longing
+Alia:desire.N		Lust::N	to have something
+Alia:spirit.N		Geist::N	inner energy of a being
+Alia:thought.N		Gedanke::N	
+Alia:memory.N		Gedächtnis::N	human ability to record information
+Alia:meaning.N		Sinn::N	denotation
+Alia:reason.N		Grund::N	motive, rationale
+Alia:truth.N		Wahrheit::N	
+Alia:talk.N		Gespräch::N	conversation
+Alia:story.N		Erzählung::N	oral narration
+Alia:message.N		Nachricht::N	
+Alia:news.N		Neuigkeit::N	
+Alia:puzzle.N		Rätsel::N	riddle
+Alia:sign.N		Zeichen::N	object bearing a message
+Alia:call.N		Ruf::N	appeal
+Alia:noise.N		Lärm::N	unwanted loud sounds
+Alia:sound.N		Laut::N	sensation perceived by the ear
+Alia:tone.N		Ton::N	sound of a specific pitch
+Alia:nation.N		Volk::N	community of people with a common culture
+Alia:game.N		Spiel::N	playful activity
+Alia:company.N		Gesellschaft::N	companionship
+Alia:companion.N		Kamerad::N	with whom one spends time
+Alia:matter.N		Angelegenheit::N	affair
+Alia:sort.N		Art::N	type
+Alia:stroke.N		Strich::N	drawn with a writing implement
+Alia:gap.N		Abstand::N	between objects
+Alia:distance.N		Entfernung::N	between two points
+Alia:area.N		Gegend::N	extent of surface, region
+Alia:space.N		Platz::N	available space between things, EX:in a closet
+Alia:item.N		Gegenstand::N	physical object
+Alia:tip.N		Spitze::N	of a pointy object
+Alia:end.N		Ende::N	of a long object
+Alia:angle.N		Winkel::N	internal, EX:of a room
+Alia:pattern.N		Muster::N	regular repeated elements
+Alia:size.N		Größe::N	dimensions of an object
+Alia:length.N		Länge::N	
+Alia:height.N		Höhe::N	
+Alia:weight.N		Gewicht::N	mass as measured
+Alia:amount.N		Menge::N	measurable quantity of a material
+Alia:heap.N		Haufen::N	
+Alia:sleigh.N		Schlitten::N	
+Alia:ski.N		Ski::N	
+Alia:campfire.N		Lagerfeuer::N	
+Alia:load.N		Last::N	on a vehicle
+Alia:slab.N		Platte::N	flat piece of solid material
+Alia:support, rest.N		Stütze::N	something which keeps upright
+Alia:pole.N		Stange::N	long and slender piece of wood
+Alia:stick.N		Stock::N	piece of wood used as a tool
+Alia:staff.N		Stab::N	long straight stick
+Alia:home.N		Heim::N	ones own dwelling place
+Alia:cradle.N		Wiege::N	
+Alia:box.N		Kiste::N	
+Alia:door.N		Tür::N	
+Alia:gate.N		Tor::N	
+Alia:knife.N		Messer::N	
+Alia:net.N		Netz::N	mesh of string
+Alia:handle.N		Griff::N	part of an object which is held
+Alia:picture.N		Bild::N	
+Alia:figure.N		Figur::N	EX:representing a god
+Alia:doll.N		Puppe::N	
+Alia:pouch.N		Beutel::N	
+Alia:bundle.N		Bündel::N	group of objects tied together
+Alia:cover, lid.N		Deckel::N	of a container
+Alia:dishes.N		Geschirr::N	dishware, crockery
+Alia:corn.N		Getreide::N	cereal plant grown for its grain
+Alia:mush.N		Brei::N	
+Alia:slice.N		Scheibe::N	EX:of bread
+Alia:fat.N		Fett::N	
+Alia:needle.N		Nadel::N	for sewing
+Alia:clothes.N		Kleidung::N	
+Alia:cap.N		Mütze::N	head covering
+Alia:ribbon.N		Band::N	strip of cloth
+Alia:strap.N		Riemen::N	EX:strip of leather
+Alia:string.N		Schnur::N	made from twisted threads
+Alia:leash.N		Leine::N	EX:dog leash
+Alia:scarf.N		Tuch::N	light, worn around the shoulders
+Alia:health.N		Gesundheit::N	
+Alia:illness.N		Krankheit::N	
+Alia:wound.N		Wunde::N	
+Alia:way.N		Weg::N	connection between places
+Alia:character.N		Buchstabe::N	written symbol, letter
+Alia:death.N		Tod::N	
+Alia:sin.N		Sünde::N	
+Alia:worker.N		Arbeiter::N	
+Alia:boss.N		Chef::N	supervisor
+Alia:doctor.N		Arzt::N	physician
+Alia:business.N		Geschäft::N	commercial activity
+Alia:shop.N		Laden::N	
+Alia:ware.N		Ware::N	
+Alia:benefit.N		Nutzen::N	advantage
+Alia:wealth.N		Reichtum::N	
+Alia:border.N		Grenze::N	between states
+Alia:war.N		Krieg::N	
+Alia:violence.N		Gewalt::N	use of force
+Alia:lie.N		Lüge::N	
+Alia:misfortune.N		Unglück::N	undesirable condition
+Alia:end.N		Schluss::N	conclusion
+Alia:day.N		Tag::N	
+Alia:noon.N		Mittag::N	
+Alia:autumn.N		Herbst::N	
+Alia:January.N		Januar::N	
+Alia:February.N		Februar::N	
+Alia:March.N		März::N	
+Alia:April.N		April::N	
+Alia:May.N		Mai::N	
+Alia:June.N		Juni::N	
+Alia:July.N		Juli::N	
+Alia:August.N		August::N	
+Alia:September.N		September::N	
+Alia:October.N		Oktober::N	
+Alia:November.N		November::N	
+Alia:December.N		Dezember::N	
+Alia:little.A		klein::A	EX:rock
+Alia:dense.A		dicht::A	EX:hair, forest
+Alia:delicate, fine.A		fein::A	EX:yarn, web
+Alia:firm, solid.A		fest::A	EX:wood, wall
+Alia:cool.A		kühl::A	
+Alia:fresh.A		frisch::A	EX:air
+Alia:damp.A		feucht::A	
+Alia:closed.A		geschlossen::A	EX:door
+Alia:delicious.A		lecker::A	tasty
+Alia:colourful.A		bunt::A	multicolored
+Alia:precious.A		wertvoll::A	
+Alia:powerful.A		kräftig::A	forceful
+Alia:strong .A		stark::A	tough
+Alia:fat.A		fett::A	person
+Alia:slim.A		schlank::A	
+Alia:pretty.A		hübsch::A	
+Alia:diligent.A		fleißig::A	
+Alia:skilful.A		geschickt::A	
+Alia:dear.A		lieb::A	beloved
+Alia:merry.A		lustig::A	
+Alia:gentle.A		sanft::A	tender
+Alia:hungry.A		hungrig::A	
+Alia:sick, ill.A		krank::A	
+Alia:sad.A		traurig::A	emotion
+Alia:living.A		lebendig::A	
+Alia:correct.A		richtig::A	
+Alia:nasty, dire.A		schlimm::A	
+Alia:former.A		ehemalig::A	erstwhile
+Alia:aged, old.A		alt[Lebewesen]::A	person
+Alia:familiar.A		bekannt::A	
+Alia:famous.A		berühmt::A	
+Alia:foreign.A		fremd::A	
+Alia:different.A		verschieden::A	
+Alia:right.A		rechter::A	EX:right leg
+Alia:at once.ADV		auf einmal::ADV	in one go
+Alia:together.ADV		zusammen::ADV	
+Alia:suddenly.ADV		plötzlich::ADV	
+Alia:instantly.ADV		sofort::ADV	
+Alia:later.ADV		später::ADV	
+Alia:once.ADV		einst::ADV	once upon a time
+Alia:at that time.ADV		damals::ADV	
+Alia:afterwards.ADV		danach::ADV	
+Alia:at first.ADV		zuerst::ADV	
+Alia:once.ADV		einmal::ADV	
+Alia:hither.ADV		hierhin::ADV	
+Alia:hence.ADV		von hier::ADV	
+Alia:thither.ADV		dorthin::ADV	
+Alia:ahead.ADV		geradeaus::ADV	
+Alia:forward.ADV		vorwärts::ADV	
+Alia:backward.ADV		rückwärts::ADV	
+Alia:below.ADV		unten::ADV	
+Alia:everywhere.ADV		überall::ADV	
+Alia:hardly.ADV		kaum::ADV	
+Alia:very.ADV		sehr::ADV	
+Alia:so.ADV		so::ADV	
+Alia:still.ADV		noch::ADV	
+Alia:already.ADV		schon::ADV	
+Alia:next to.PRP		neben::PRP	
+Alia:between.PRP		zwischen::PRP	
+Alia:because of.PRP		wegen::PRP	
+Grammatica:everything.PRN		alles::PRN	
+Alia:what.FPRN		was::FPRN	
+Alia:who.FPRN		wer::FPRN	
+Alia:where.FADV		wo::FADV	
+Alia:where to.FADV		wohin::FADV	
+Alia:how.FADV		wie::FADV	
+Alia:why.FADV		warum::FADV	
+Alia:how much.FNUM		wieviel::FNUM	
+Alia:forty.NUM		vierzig::NUM	
+Alia:fifty.NUM		fünfzig::NUM	
+Alia:sixty.NUM		sechzig::NUM	
+Alia:seventy.NUM		siebzig::NUM	
+Alia:eighty.NUM		achtzig::NUM	
+Alia:ninety.NUM		neunzig::NUM	
+Alia:lie.V		liegen::V	of a person
+Alia:hang.V		hängen::V	EX:``the coat is hanging
+Alia:happen.V		passieren::V	occur
+Alia:end.V		enden::V	stop existing
+Alia:set.V		untergehen[Sonne]::V	of the sun
+Alia:stream.V		strömen::V	to flow in a continuous manner
+Alia:revolve.V		sich drehen::V	EX:of a wheel
+Alia:sway.V		schwanken::V	move backward and forward
+Alia:swing.V		schwingen::V	repeatedly move from side to side
+Alia:burn.V		brennen::V	BSP:of wood
+Alia:thaw.V		tauen::V	EX:of snow
+Alia:rot.V		faulen::V	EX:of meat
+Alia:decay.V		verfaulen::V	EX:of wood
+Alia:snap.V		reißen::V	EX:of a thread
+Alia:appear.V		erscheinen::V	EX:light, ghost
+Alia:drop, descend.V		sinken::V	EX:water level
+Alia:decrease.V		abnehmen::V	of quantity
+Alia:increase.V		zunehmen::V	of quantity
+Alia:sparkle, twinkle.V		funkeln::V	EX:of star, little light
+Alia:be noisy.V		lärmen::V	EX:children
+Alia:chime.V		läuten::V	EX:of bell
+Alia:tinkle.V		klirren::V	EX:glass
+Alia:roar.V		brausen::V	EX:storm, sea
+Alia:rustle.V		rauschen::V	EX:of leaves in breeze
+Alia:sound.V		klingen::V	EX:of instrument
+Alia:tremble.V		zittern::V	EX:with fear
+Alia:get tired.V		müde werden::V	
+Alia:fall asleep.V		einschlafen::V	
+Alia:get up.V		aufstehen::V	rise from ones bed
+Alia:relax.V		sich erholen::V	recreate
+Alia:fall ill.V		krank werden::V	
+Alia:be ill.V		krank sein::V	
+Alia:ache.V		schmerzen::V	EX:of head
+Alia:recover.V		genesen::V	from an illness
+Alia:perish.V		umkommen::V	die violently
+Alia:budge.V		sich rühren::V	change posture
+Alia:stand up.V		sich erheben::V	EX:from a chair
+Alia:sit down.V		sich setzen::V	assume a sitting position
+Alia:tumble.V		hinfallen::V	fall end over end
+Alia:take a walk.V		spazierengehen::V	
+Alia:rush.V		eilen::V	move in haste
+Alia:dash.V		sausen::V	EX:of a vehicle
+Alia:seesaw.V		schaukeln::V	use a seesaw
+Alia:creep.V		kriechen::V	of human
+Alia:depart.V		abfahren::V	set out on a journey
+Alia:stop.V		anhalten::V	cease moving
+Alia:go in.V		hineingehen::V	go into an enclosed space
+Alia:stay.V		bleiben::V	remain in a place
+Alia:await.V		erwarten::V	wait for someone
+Alia:like.V		mögen::V	favor, be in favor of
+Alia:weep, cry.V		weinen::V	shed tears
+Alia:grumble.V		schimpfen::V	complain in a surly manner
+Alia:be annoyed.V		sich ärgern::V	be irritated
+Alia:be afraid.V		sich fürchten::V	be frightened
+Alia:be afraid of.V		fürchten::V	fear
+Alia:escape.V		flüchten::V	get away, BSP:from captivity
+Alia:look at.V		anschauen::V	turn the eyes toward
+Alia:watch.V		ansehen::V	view for a period of time, EX:movie
+Alia:smell.V		riechen::V	sense the smell of
+Alia:be cold.V		frieren::V	feel the sensation of coldness
+Alia:start.V		anfangen::V	initiate, EX:a quarrel
+Alia:stop.V		aufhören::V	stop the current activity
+Alia:succeed.V		gelingen::V	be successful
+Alia:turn out.V		geraten::V	result, end up
+Alia:lay.V		legen::V	EX:money onto a table
+Alia:connect.V		verbinden::V	join, EX:using strings
+Alia:produce.V		herstellen::V	manufacture
+Alia:repair, mend.V		reparieren::V	EX:a car
+Alia:improve.V		verbessern::V	make better
+Alia:alter.V		ändern::V	make different
+Alia:turn over.V		wenden::V	EX:pancakes, pieces of meat
+Alia:turn, turn around.V		umdrehen::V	EX:palm
+Alia:lift.V		hochheben::V	EX:a box
+Alia:seize.V		ergreifen::V	grab, EX:a knife
+Alia:tear off.V		abreißen::V	EX:a dolls arm
+Alia:cut off.V		abschneiden::V	EX:a piece of cake
+Alia:stick.V		stecken::V	EX:a twig into a hole
+Alia:knock.V		klopfen::V	EX:on a wall
+Alia:hit.V		hauen::V	on purpose, EX:a table
+Alia:spread.V		streichen::V	EX:fat on a surface
+Alia:sharpen.V		schleifen::V	EX:a knife
+Alia:jog.V		rütteln::V	EX:on a door
+Alia:swing.V		schwenken::V	EX:a flag, cloth
+Alia:drag.V		schleppen::V	EX:the trunk of a tree
+Alia:grab.V		packen::V	EX:someones arm
+Alia:add.V		hinzufügen::V	
+Alia:select.V		auswählen::V	
+Alia:hinder.V		behindern::V	
+Alia:spoil.V		verderben::V	EX:the mood
+Alia:burn.V		verbrennen::V	EX:paper, wood
+Alia:wish.V		wünschen::V	ЕX:luck
+Alia:rock.V		wiegen::V	a child
+Alia:wake.V		wecken::V	
+Alia:guide.V		führen::V	EX:to ones destination
+Alia:instruct.V		unterrichten::V	EX:children
+Alia:bring up.V		aufziehen::V	raise, ЕX:a child
+Alia:urge.V		antreiben::V	
+Alia:unite.V		vereinigen::V	
+Alia:visit.V		besuchen::V	EX:a friend
+Alia:assemble.V		sich versammeln::V	of a group
+Alia:protect.V		schützen::V	a person
+Alia:brawl.V		sich schlagen::V	
+Alia:annoy.V		ärgern::V	
+Alia:beat.V		schlagen::V	someone
+Alia:sting.V		stechen::V	EX:with a needle
+Alia:shove.V		stoßen::V	someone
+Alia:disturb.V		stören::V	
+Alia:bother.V		belästigen::V	
+Alia:conceal.V		verbergen::V	EX:a fact
+Alia:deceive.V		täuschen::V	
+Alia:cheat.V		betrügen::V	EX:someone of money
+Alia:tie up.V		anbinden::V	an animal
+Alia:feed.V		füttern::V	an animal
+Alia:ripen.V		reifen::V	of a plant, of a fruit
+Alia:fry.V		braten::V	EX:meat
+Alia:stir.V		umrühren::V	EX:soup
+Alia:knit.V		stricken::V	EX:a jacket
+Alia:rinse.V		spülen::V	EX:clothes, dishes
+Alia:bath.V		baden::V	EX:in a river
+Alia:take off.V		ausziehen::V	EX:ones coat
+Alia:get dressed.V		sich anziehen::V	
+Alia:decorate.V		schmücken::V	EX:a house
+Alia:speak.V		sprechen::V	
+Alia:talk.V		reden::V	
+Alia:ask.V		fragen::V	
+Alia:request.V		bitten::V	
+Alia:convey.V		mitteilen::V	
+Alia:call.V		rufen::V	someone to come
+Alia:brag.V		prahlen::V	
+Alia:translate.V		übersetzen::V	EX:text
+Alia:think.V		denken::V	
+Alia:notice.V		bemerken::V	
+Alia:recognize.V		erkennen::V	
+Alia:calculate.V		rechnen::V	reckon
+Alia:pay for.V		bezahlen::V	EX:goods
+Alia:rule.V		beherrschen::V	EX:country
+Alia:endure.V		ertragen::V	EX:pain
