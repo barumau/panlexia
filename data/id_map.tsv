@@ -1,7 +1,7 @@
 id	WOLD id	NorthEuraLex id	Description
 Action:adze.N	9-251		a sharp tool with the blade at a right angle to the handle, used to shape pieces of wood
 Action:anvil.N	9-62		a heavy iron block on which pieces of metal are shaped using a hammer
-Action:axe/ax.N	9-25		
+Action:axe.N	9-25		
 Action:barbecue.V	9-99928		
 Action:barrel.N	9-99901		
 Action:basket.N	9-76		
@@ -12,7 +12,7 @@ Action:boomerang.N	9-87
 Action:bore.V	9-46		make a deep round hole in a hard surface
 Action:break.V	9-26	brechen::V	
 Action:break.V	9-26	zerbrechen::V	
-Action:broken.?	9-261		out of order, not working
+Action:broken.A	9-261		out of order, not working
 Action:broom.N	9-38	Besen::N	a large brush with a long handle, used for sweeping floors
 Action:bucket.N	9-99903	Eimer::N	
 Action:build.V	9-44	bauen::V	
@@ -270,7 +270,6 @@ Alia:at that time.ADV		damals::ADV
 Alia:August.N		August::N	
 Alia:autumn.N		Herbst::N	
 Alia:await.V		erwarten::V	wait for someone
-Alia:backward.ADV		rückwärts::ADV	
 Alia:bath.V		baden::V	EX:in a river
 Alia:be afraid of.V		fürchten::V	fear
 Alia:be afraid.V		sich fürchten::V	be frightened
@@ -631,181 +630,6 @@ Alia:wish.N		Wunsch::N	longing
 Alia:wish.V		wünschen::V	ЕX:luck
 Alia:worker.N		Arbeiter::N	
 Alia:wound.N		Wunde::N	
-Anatomia:ankle.N	4-371		
-Anatomia:arm.N	4-31	Arm::N	
-Anatomia:armpit.N	4-312		
-Anatomia:back.ADV	4-19	zurück::ADV	the back of a human body
-Anatomia:back.N	4-19	Rücken::N	the back of a human body
-Anatomia:bald.?	4-93		
-Anatomia:barefoot.?	4-99901		
-Anatomia:bathe.V	4-69		(intransitive)
-Anatomia:be alive.V	4-74		
-Anatomia:be born.V	4-72	geboren werden::V	
-Anatomia:beak.N	4-241		
-Anatomia:beard.N	4-142	Bart::N	
-Anatomia:beget.V	4-71		become the father of
-Anatomia:belly.N	4-431	Bauch::N	
-Anatomia:bite.V	4-58	beißen::V	
-Anatomia:blind.A	4-97	blind::A	
-Anatomia:blink.V	4-215		to shut and open ones eyes quickly
-Anatomia:blister.N	4-855		
-Anatomia:blood.N	4-15	Blut::N	
-Anatomia:body hair.N	4-144		
-Anatomia:body.N	4-11	Körper::N	the body of a live human
-Anatomia:boil.V	4-856	sieden::V	a painful infected swelling under someones skin
-Anatomia:boil.V	4-856	kochen::V	a painful infected swelling under someones skin
-Anatomia:bone.N	4-16	Knochen::N	
-Anatomia:brain.N	4-203	Gehirn::N	
-Anatomia:breast.N	4-41	Brust::N	the breast of a woman
-Anatomia:breathe.V	4-51	atmen::V	
-Anatomia:bruise.N	4-852		
-Anatomia:bury.V	4-78		bury a dead person
-Anatomia:buttocks.N	4-464		the fleshy part of ones body that people sit on
-Anatomia:calf of the leg.N	4-352		
-Anatomia:canine tooth.N	4-99903		
-Anatomia:carcass.N	4-771		body of a dead animal
-Anatomia:cheek.N	4-208	Wange::N	
-Anatomia:chest.N	4-4		
-Anatomia:chin.N	4-209	Kinn::N	
-Anatomia:cholesterol.N	4-99904		
-Anatomia:claw.N	4-345	Klaue::N	the sharp curved nail on the toe of an animal or bird
-Anatomia:cold.A	4-843	kalt::A	the common cold
-Anatomia:collarbone.N	4-302		
-Anatomia:conceive.V	4-732		
-Anatomia:corpse.N	4-77		body of a dead human
-Anatomia:cough.V	4-53	husten::V	
-Anatomia:cure.V	4-86		
-Anatomia:dandruff.N	4-146		
-Anatomia:dead.?	4-7501		
-Anatomia:deaf.A	4-95	taub::A	
-Anatomia:die.V	4-75	sterben::V	
-Anatomia:disease.N	4-844		
-Anatomia:dream.N	4-62	Traum::N	
-Anatomia:dribble.N	4-99905		
-Anatomia:dribble.V	4-591		to let saliva flow out of ones mouth onto ones chin
-Anatomia:drown.V	4-751		
-Anatomia:drunk.?	4-98		intoxicated
-Anatomia:ear.N	4-22	Ohr::N	
-Anatomia:earlobe.N	4-221		
-Anatomia:earwax.N	4-222		
-Anatomia:elbow.N	4-32	Ellenbogen::N	
-Anatomia:eye.N	4-21	Auge::N	
-Anatomia:eyebrow.N	4-212		
-Anatomia:eyelash.N	4-214		
-Anatomia:eyelid.N	4-213		
-Anatomia:face.N	4-204	Gesicht::N	
-Anatomia:fart.V	4-64		
-Anatomia:feather.N	4-393	Feder::N	
-Anatomia:fever.N	4-841	Fieber::N	
-Anatomia:finger.N	4-34	Finger::N	
-Anatomia:fingernail.N	4-344	Fingernagel::N	
-Anatomia:fist.N	4-99906		
-Anatomia:flesh.N	4-13		
-Anatomia:foot.N	4-37	Fuß::N	
-Anatomia:footprint.N	4-374		
-Anatomia:forehead.N	4-205	Stirn::N	
-Anatomia:goitre/goiter.N	4-842		a disease of the thyroid gland that makes ones neck very swollen
-Anatomia:grave.N	4-79	Grab::N	
-Anatomia:gums.N	4-271		
-Anatomia:hair.N	4-14	Haar::N	hair on a persons head
-Anatomia:hand.N	4-33	Hand::N	
-Anatomia:hand.V	4-33	reichen::V	
-Anatomia:have sex.V	4-67		
-Anatomia:head.N	4-2	Kopf::N	
-Anatomia:healthy.?	4-83		
-Anatomia:heart.N	4-44	Herz::N	
-Anatomia:heel.N	4-372	Ferse::N	
-Anatomia:hiccough.V	4-521		
-Anatomia:hip.N	4-463		
-Anatomia:horn.N	4-17	Horn::N	(e.g. of a cow)
-Anatomia:intestines or guts.N	4-461		
-Anatomia:itch.N	4-854		
-Anatomia:itch.V	4-99914		
-Anatomia:jaw.N	4-207	Kiefer[Anatomie]::N	the lower part of peoples face that moves when they eat
-Anatomia:kidney.N	4-451		
-Anatomia:kill.V	4-76	töten::V	
-Anatomia:knee.N	4-36	Knie::N	
-Anatomia:lame.?	4-94		
-Anatomia:lap.N	4-99907		
-Anatomia:lazy.A	4-92	faul::A	
-Anatomia:leg.N	4-35	Bein::N	
-Anatomia:lick.V	4-59	lecken::V	
-Anatomia:life.N	4-741	Leben::N	
-Anatomia:lip.N	4-25	Lippe::N	
-Anatomia:liver.N	4-45	Leber::N	
-Anatomia:lung.N	4-441		
-Anatomia:medicine.N	4-88	Arznei::N	drug, medication
-Anatomia:metabolism.N	4-99908		
-Anatomia:molar tooth.N	4-272		
-Anatomia:mouth.N	4-24	Mund::N	
-Anatomia:mute.?	4-96		
-Anatomia:naked.A	4-99	nackt::A	
-Anatomia:nape of the neck.N	4-281		
-Anatomia:nasal mucus.N	4-232		
-Anatomia:navel.N	4-43	Nabel::N	
-Anatomia:neck.N	4-28	Hals::N	
-Anatomia:nipple or teat.N	4-412		
-Anatomia:nose.N	4-23	Nase::N	
-Anatomia:nostril.N	4-231		
-Anatomia:palm of the hand.N	4-331		
-Anatomia:penis.N	4-492		
-Anatomia:perspire.V	4-55		
-Anatomia:physician.N	4-87		
-Anatomia:piss.V	4-65		
-Anatomia:poison.N	4-89		
-Anatomia:pregnant.?	4-73		
-Anatomia:pubic hair.N	4-145		
-Anatomia:pus.N	4-857		
-Anatomia:rest.V	4-912		
-Anatomia:rib.N	4-162		
-Anatomia:saliva.N	4-9991		
-Anatomia:scabies.N	4-99911		
-Anatomia:scar.N	4-858		
-Anatomia:scratch.V	4-8541		to scratch an itch
-Anatomia:shit.V	4-66		
-Anatomia:shiver.V	4-68		
-Anatomia:shoulder.N	4-3	Schulter::N	
-Anatomia:shoulderblade.N	4-301		
-Anatomia:sick/ill.?	4-84		
-Anatomia:sinew or tendon.N	4-465		
-Anatomia:skin or hide.N	4-12		(skin: of a human; hide: of an animal)
-Anatomia:skull.N	4-202		
-Anatomia:sleep.N	4-61	Schlaf::N	
-Anatomia:sleep.V	4-61	schlafen::V	
-Anatomia:sneeze.V	4-54		
-Anatomia:snore.V	4-612		
-Anatomia:spine.N	4-191		
-Anatomia:spit.V	4-56		
-Anatomia:spleen.N	4-452		
-Anatomia:stomach.N	4-46	Magen::N	(internal organ, not belly)
-Anatomia:strength.N	4-99912	Stärke::N	
-Anatomia:strong.?	4-81		
-Anatomia:swelling.N	4-853		
-Anatomia:swollen.?	4-99902		
-Anatomia:tail.N	4-18	Schwanz::N	
-Anatomia:temples.N	4-201		the two fairly flat areas on each side of peoples forehead, or more generally the two sides of peoples head
-Anatomia:testicles.N	4-49		
-Anatomia:thigh.N	4-351	Oberschenkel::N	the top part of the leg, between the knee and the hip
-Anatomia:throat.N	4-29	Kehle::N	
-Anatomia:thumb.N	4-342		
-Anatomia:tired.?	4-91		
-Anatomia:toe.N	4-38	Zeh::N	
-Anatomia:tongue.N	4-26	Zunge::N	
-Anatomia:tooth.N	4-27	Zahn::N	
-Anatomia:udder.N	4-42		the part of a cow/female goat/... that hangs down between its back legs and that produces milk
-Anatomia:umbilical cord.N	4-99913		
-Anatomia:vagina.N	4-493		the passage from a womans outer sexual organs to her womb
-Anatomia:vein or artery.N	4-151		
-Anatomia:vomit.V	4-57		
-Anatomia:vulva.N	4-494		the outer part of a womans sexual organs
-Anatomia:waist.N	4-462		
-Anatomia:wake up.V	4-63	aufwachen::V	(intransitive)
-Anatomia:weak.A	4-82	schwach::A	
-Anatomia:wing.N	4-392	Flügel::N	
-Anatomia:womb.N	4-47		
-Anatomia:wound or sore.N	4-85		
-Anatomia:wrist.N	4-321		
-Anatomia:yawn.V	4-52		
 Animalia:agouti.N	3-99902		A burrowing rodent of the genus Dasyprocta, native to tropical America and usually having brown fur streaked with gray
 Animalia:amphibian.N	3-99903		
 Animalia:Anas platyrhynchos domestica.N	3-57	Ente::N	domesticated duck
@@ -963,8 +787,6 @@ Animalia:wasp.N	3-823
 Animalia:whale.N	3-663		
 Animalia:wolf.N	3-71	Wolf::N	
 Animalia:worm.N	3-84	Wurm::N	
-Cognition:and.CNJ	17-51	und::CNJ	
-Cognition:because.?	17-52		
 Cognition:believe.V	17-15	glauben::V	be sure that someone is telling the truth
 Cognition:betray.V	17-441		
 Cognition:cause.N	17-42		
@@ -977,23 +799,19 @@ Cognition:easy.?	17-46
 Cognition:explain.V	17-38		
 Cognition:forget.V	17-32	vergessen::V	
 Cognition:guess.V	17-171		
-Cognition:how many?.?	17-62		
-Cognition:how much?.?	17-63		
 Cognition:how?.?	17-61		
 Cognition:idea.N	17-19		
-Cognition:if.?	17-53		
 Cognition:imitate.V	17-172		
 Cognition:intention.N	17-41		
 Cognition:know.V	17-17	wissen::V	
 Cognition:learn.V	17-24	lernen::V	
-Cognition:mad.?	17-23		insane
+Cognition:mad.A	17-23		insane
 Cognition:manner.N	17-49		the way in which something is done or happens
 Cognition:mind.N	17-11	Verstand::N	the seat of intelligence (as opposed to heart or soul as the seat of emotions)
 Cognition:need or necessity.N	17-45		
 Cognition:no.?	17-56		
 Cognition:obscure.?	17-35		obscure to the mind
 Cognition:on purpose.?	17-99901		
-Cognition:or.CNJ	17-54	oder::CNJ	
 Cognition:possibility.N	17-99902		
 Cognition:pupil.N	17-26		
 Cognition:remember.V	17-31	sich erinnern an::V	
@@ -1021,6 +839,180 @@ Cognition:who?.?	17-68
 Cognition:why?.?	17-69		
 Cognition:wise.?	17-21		
 Cognition:yes.?	17-55		
+Corpus:ankle.N	4-371		
+Corpus:arm.N	4-31	Arm::N	
+Corpus:armpit.N	4-312		
+Corpus:back.N	4-19	Rücken::N	the back of a human body
+Corpus:bald.A	4-93		
+Corpus:barefoot.A	4-99901		
+Corpus:bathe.V	4-69		(intransitive)
+Corpus:be alive.V	4-74		
+Corpus:be born.V	4-72	geboren werden::V	
+Corpus:beak.N	4-241		
+Corpus:beard.N	4-142	Bart::N	
+Corpus:beget.V	4-71		become the father of
+Corpus:belly.N	4-431	Bauch::N	
+Corpus:bite.V	4-58	beißen::V	
+Corpus:blind.A	4-97	blind::A	
+Corpus:blink.V	4-215		to shut and open ones eyes quickly
+Corpus:blister.N	4-855		
+Corpus:blood.N	4-15	Blut::N	
+Corpus:body hair.N	4-144		
+Corpus:body.N	4-11	Körper::N	the body of a live human
+Corpus:boil.V	4-856	sieden::V	a painful infected swelling under someones skin
+Corpus:boil.V	4-856	kochen::V	a painful infected swelling under someones skin
+Corpus:bone.N	4-16	Knochen::N	
+Corpus:brain.N	4-203	Gehirn::N	
+Corpus:breast.N	4-41	Brust::N	the breast of a woman
+Corpus:breathe.V	4-51	atmen::V	
+Corpus:bruise.N	4-852		
+Corpus:bury.V	4-78		bury a dead person
+Corpus:buttocks.N	4-464		the fleshy part of ones body that people sit on
+Corpus:calf of the leg.N	4-352		
+Corpus:canine tooth.N	4-99903		
+Corpus:carcass.N	4-771		body of a dead animal
+Corpus:cheek.N	4-208	Wange::N	
+Corpus:chest.N	4-4		
+Corpus:chin.N	4-209	Kinn::N	
+Corpus:cholesterol.N	4-99904		
+Corpus:claw.N	4-345	Klaue::N	the sharp curved nail on the toe of an animal or bird
+Corpus:cold.A	4-843	kalt::A	the common cold
+Corpus:collarbone.N	4-302		
+Corpus:conceive.V	4-732		
+Corpus:corpse.N	4-77		body of a dead human
+Corpus:cough.V	4-53	husten::V	
+Corpus:cure.V	4-86		
+Corpus:dandruff.N	4-146		
+Corpus:dead.?	4-7501		
+Corpus:deaf.A	4-95	taub::A	
+Corpus:die.V	4-75	sterben::V	
+Corpus:disease.N	4-844		
+Corpus:dream.N	4-62	Traum::N	
+Corpus:dribble.N	4-99905		
+Corpus:dribble.V	4-591		to let saliva flow out of ones mouth onto ones chin
+Corpus:drown.V	4-751		
+Corpus:drunk.?	4-98		intoxicated
+Corpus:ear.N	4-22	Ohr::N	
+Corpus:earlobe.N	4-221		
+Corpus:earwax.N	4-222		
+Corpus:elbow.N	4-32	Ellenbogen::N	
+Corpus:eye.N	4-21	Auge::N	
+Corpus:eyebrow.N	4-212		
+Corpus:eyelash.N	4-214		
+Corpus:eyelid.N	4-213		
+Corpus:face.N	4-204	Gesicht::N	
+Corpus:fart.V	4-64		
+Corpus:feather.N	4-393	Feder::N	
+Corpus:fever.N	4-841	Fieber::N	
+Corpus:finger.N	4-34	Finger::N	
+Corpus:fingernail.N	4-344	Fingernagel::N	
+Corpus:fist.N	4-99906		
+Corpus:flesh.N	4-13		
+Corpus:foot.N	4-37	Fuß::N	
+Corpus:footprint.N	4-374		
+Corpus:forehead.N	4-205	Stirn::N	
+Corpus:goitre/goiter.N	4-842		a disease of the thyroid gland that makes ones neck very swollen
+Corpus:grave.N	4-79	Grab::N	
+Corpus:gums.N	4-271		
+Corpus:hair.N	4-14	Haar::N	hair on a persons head
+Corpus:hand.N	4-33	Hand::N	
+Corpus:hand.V	4-33	reichen::V	
+Corpus:have sex.V	4-67		
+Corpus:head.N	4-2	Kopf::N	
+Corpus:healthy.?	4-83		
+Corpus:heart.N	4-44	Herz::N	
+Corpus:heel.N	4-372	Ferse::N	
+Corpus:hiccough.V	4-521		
+Corpus:hip.N	4-463		
+Corpus:horn.N	4-17	Horn::N	(e.g. of a cow)
+Corpus:intestines or guts.N	4-461		
+Corpus:itch.N	4-854		
+Corpus:itch.V	4-99914		
+Corpus:jaw.N	4-207	Kiefer[Anatomie]::N	the lower part of peoples face that moves when they eat
+Corpus:kidney.N	4-451		
+Corpus:kill.V	4-76	töten::V	
+Corpus:knee.N	4-36	Knie::N	
+Corpus:lame.?	4-94		
+Corpus:lap.N	4-99907		
+Corpus:lazy.A	4-92	faul::A	
+Corpus:leg.N	4-35	Bein::N	
+Corpus:lick.V	4-59	lecken::V	
+Corpus:life.N	4-741	Leben::N	
+Corpus:lip.N	4-25	Lippe::N	
+Corpus:liver.N	4-45	Leber::N	
+Corpus:lung.N	4-441		
+Corpus:medicine.N	4-88	Arznei::N	drug, medication
+Corpus:metabolism.N	4-99908		
+Corpus:molar tooth.N	4-272		
+Corpus:mouth.N	4-24	Mund::N	
+Corpus:mute.?	4-96		
+Corpus:naked.A	4-99	nackt::A	
+Corpus:nape of the neck.N	4-281		
+Corpus:nasal mucus.N	4-232		
+Corpus:navel.N	4-43	Nabel::N	
+Corpus:neck.N	4-28	Hals::N	
+Corpus:nipple or teat.N	4-412		
+Corpus:nose.N	4-23	Nase::N	
+Corpus:nostril.N	4-231		
+Corpus:palm of the hand.N	4-331		
+Corpus:penis.N	4-492		
+Corpus:perspire.V	4-55		
+Corpus:physician.N	4-87		
+Corpus:piss.V	4-65		
+Corpus:poison.N	4-89		
+Corpus:pregnant.?	4-73		
+Corpus:pubic hair.N	4-145		
+Corpus:pus.N	4-857		
+Corpus:rest.V	4-912		
+Corpus:rib.N	4-162		
+Corpus:saliva.N	4-9991		
+Corpus:scabies.N	4-99911		
+Corpus:scar.N	4-858		
+Corpus:scratch.V	4-8541		to scratch an itch
+Corpus:shit.V	4-66		
+Corpus:shiver.V	4-68		
+Corpus:shoulder.N	4-3	Schulter::N	
+Corpus:shoulderblade.N	4-301		
+Corpus:sick/ill.?	4-84		
+Corpus:sinew or tendon.N	4-465		
+Corpus:skin or hide.N	4-12		(skin: of a human; hide: of an animal)
+Corpus:skull.N	4-202		
+Corpus:sleep.N	4-61	Schlaf::N	
+Corpus:sleep.V	4-61	schlafen::V	
+Corpus:sneeze.V	4-54		
+Corpus:snore.V	4-612		
+Corpus:spine.N	4-191		
+Corpus:spit.V	4-56		
+Corpus:spleen.N	4-452		
+Corpus:stomach.N	4-46	Magen::N	(internal organ, not belly)
+Corpus:strength.N	4-99912	Stärke::N	
+Corpus:strong.?	4-81		
+Corpus:swelling.N	4-853		
+Corpus:swollen.?	4-99902		
+Corpus:tail.N	4-18	Schwanz::N	
+Corpus:temples.N	4-201		the two fairly flat areas on each side of peoples forehead, or more generally the two sides of peoples head
+Corpus:testicles.N	4-49		
+Corpus:thigh.N	4-351	Oberschenkel::N	the top part of the leg, between the knee and the hip
+Corpus:throat.N	4-29	Kehle::N	
+Corpus:thumb.N	4-342		
+Corpus:tired.?	4-91		
+Corpus:toe.N	4-38	Zeh::N	
+Corpus:tongue.N	4-26	Zunge::N	
+Corpus:tooth.N	4-27	Zahn::N	
+Corpus:udder.N	4-42		the part of a cow/female goat/... that hangs down between its back legs and that produces milk
+Corpus:umbilical cord.N	4-99913		
+Corpus:vagina.N	4-493		the passage from a womans outer sexual organs to her womb
+Corpus:vein or artery.N	4-151		
+Corpus:vomit.V	4-57		
+Corpus:vulva.N	4-494		the outer part of a womans sexual organs
+Corpus:waist.N	4-462		
+Corpus:wake up.V	4-63	aufwachen::V	(intransitive)
+Corpus:weak.A	4-82	schwach::A	
+Corpus:wing.N	4-392	Flügel::N	
+Corpus:womb.N	4-47		
+Corpus:wound or sore.N	4-85		
+Corpus:wrist.N	4-321		
+Corpus:yawn.V	4-52		
 Domestica:adobe.N	7-64		earth and straw that are made into bricks for building houses
 Domestica:arch.N	7-58		
 Domestica:beam.N	7-55		
@@ -1375,7 +1367,11 @@ Grammatica:3SG F.PRN	2-932
 Grammatica:3SG M.PRN	2-931	er::PRN	
 Grammatica:3SG nonhuman.PRN	2-933		
 Grammatica:3SG.PRN	2-93		(third person singular pronoun, regardless of gender/sex)
+Grammatica:and.CNJ	17-51	und::CNJ	
+Grammatica:because.CNJ	17-52		
 Grammatica:everything.PRN		alles::PRN	
+Grammatica:if.CNJ	17-53		
+Grammatica:or.CNJ	17-54	oder::CNJ	
 Jus:accuse.V	21-31		
 Jus:acquit.V	21-34		
 Jus:adjudicate.V	21-16		decide whether someone is guilty of a crime in court
@@ -1896,6 +1892,8 @@ Quantita:five.NUM	13-05	fünf::NUM
 Quantita:four.NUM	13-04	vier::NUM	
 Quantita:full.A	13-21	voll::A	
 Quantita:half.N	13-24	Hälfte::N	either of the two equal parts into which something is divided
+Quantita:how many.ADV	17-62		
+Quantita:how much.ADV	17-63		
 Quantita:last.A	13-35	letzter::A	
 Quantita:many.?	13-15		a large number of (applied to a conceptually countable and nonsingular noun)
 Quantita:more.?	13-16		a larger number of
@@ -2042,7 +2040,7 @@ Spatium:after.?	12-01
 Spatium:apart.?	12-99901		
 Spatium:at.?	12-013		
 Spatium:back.ADV	12-99902	zurück::ADV	
-Spatium:back.N	12-99902	Rücken::N	
+Spatium:backward.ADV		rückwärts::ADV	
 Spatium:ball.N	12-83		sphere
 Spatium:before.ADV	12-04	vorher::ADV	
 Spatium:behind.PRP	12-011	hinter::PRP	
