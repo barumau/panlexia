@@ -1,15 +1,10 @@
 """Create initial Panlexia concept ids and map them to initial sources.
 
-1. Initial concept ids are created based on Concepticon data.
-2. They are mapped to NorthEuraLex ids by Concepticon ids.
-3. They are mapped to WOLD ids by IDS keys.
+Initial concept ids for Panlexia are created based on Concepticon data.
 
 Output:
-
-- eng_definition.tsv : Defines concepts in English.
-- id_Concepticon.tsv : maps Panlexia id to Concepticon id.
-- id_WOLD.tsv : maps Panlexia id to WOLD id.
-- id_NELex.tsv : maps Panlexia id to NorthEuraLex id.
+- id-concepticon-definition.tsv : Intermediate file for mapping Panlexia ids
+  to Concepticon ids and definitions
 
 Note! The ids are not final! They will be checked and improved manually.
 
@@ -19,7 +14,7 @@ import csv
 import re
 
 # Data files for id creation and id mapping
-Concepticon = '../data/Concepticon/concepticon.tsv'
+Concepticon = 'data/Concepticon/concepticon.tsv'
 
 class csv_reader:
     """Helper for opening and closing a CSV or TSV file for reading."""
@@ -40,30 +35,30 @@ class tsv_writer:
         self.file.close()
 
 simple_semantic_field_from = {
-    "The body" : "Body",
-    "Emotions and values" : "Emotion",
     "The physical world" : "Nature",
-    "The house" : "House",
+    "Kinship" : "Family",
     "Animals" : "Animalia",
-    "Spatial relations" : "Space",
-    "Religion and belief" : "Religion",
-    "Speech and language" : "Language",
-    "Time" : "Time",
+    "The body" : "Body",
+    "Food and drink" : "Gastronomy",
+    "Clothing and grooming" : "Clothing/Grooming",
+    "The house" : "House",
+    "Agriculture and vegetation" : "Agriculture/Plantae",
+    "Basic actions and technology" : "Action/Technology",
     "Motion" : "Motion",
-    "Law" : "Law",
-    "Warfare and hunting" : "Warfare and hunting",
-    "Agriculture and vegetation" : "Agriculture and vegetation",
-    "Sense perception" : "Perception",
-    "Cognition" : "Cognition",
-    "Basic actions and technology" : "Basic actions and technology",
-    "Food and drink" : "Food",
-    "Social and political relations" : "Society",
-    "Modern world" : "Modernity",
-    "Clothing and grooming" : "Clothing and grooming",
-    "Kinship" : "Kinship",
-    "Miscellaneous function words" : "Grammar",
     "Possession" : "Possession",
-    "Quantity" : "Quantity"
+    "Spatial relations" : "Space",
+    "Quantity" : "Quantity",
+    "Time" : "Time",
+    "Sense perception" : "Perception",
+    "Emotions and values" : "Emotion",
+    "Cognition" : "Cognition",
+    "Speech and language" : "Language",
+    "Social and political relations" : "Society",
+    "Warfare and hunting" : "Combat/Hunting",
+    "Law" : "Law",
+    "Religion and belief" : "Belief",
+    "Modern world" : "Modernity",
+    "Miscellaneous function words" : "Grammar"
 }
 
 word_class_from = {
@@ -71,7 +66,7 @@ word_class_from = {
     "Person/Thing" : "N",
     "Property" : "A",
     "Number" : "NUM",
-    "Classifier" : "CLAS",
+    "Classifier" : "CLF",
     "Other" : "?"
 }
 
@@ -85,7 +80,7 @@ def build_Panlexia_id(complex_semantic_field, gloss, ontological_category):
 
 def create_initial_concept_id_definition_map():
     concepticon = csv_reader(Concepticon, '\t')
-    id_writer = tsv_writer('../data/eng_definition.tsv', 'w')
+    id_writer = tsv_writer('data/id-concepticon-definition.tsv', 'w')
 
     for row in concepticon.dict:
         id = build_Panlexia_id(row["SEMANTICFIELD"], row["GLOSS"], row["ONTOLOGICAL_CATEGORY"])
