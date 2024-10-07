@@ -6,18 +6,15 @@ Output:
 
 CC-BY 2024 Panlexia (https://github.com/barumau/panlexia)
 """
-import re
 import helpers
 
-# Data files for id creation and id mapping
-Concepticon = 'data/Concepticon/concepticon.tsv'
-Concepticon_IDS = 'data/Concepticon/List-2020-1365.tsv'
+# The input files for id mapping:
 Concepticon_WOLD = 'data/Concepticon/Haspelmath-2009-1460.tsv'
-Panlexia_to_Concepticon = 'data/id-concepticon-definition.tsv'
-WOLD = '../data/WOLD/parameters.csv'
 NELex = 'data/NorthEuraLex/northeuralex-0.9-concept-data.tsv'
+Panlexia_to_Concepticon = 'data/id-concepticon-definition.tsv'
 
 def get_panlexia_id(concepticon_id):
+    """Get Panlexia id by Concepticon id."""
     panlexia = helpers.tsv_reader(Panlexia_to_Concepticon)
     for row in panlexia.dict:
         if row["Concepticon_id"] == concepticon_id:
@@ -25,6 +22,7 @@ def get_panlexia_id(concepticon_id):
     return "Undefined:?.?"
 
 def sort_and_write_to_file(id_map, filename, header):
+    """Sort the id map by Panlexia id and write TSV file with a header row."""
     sorted_map = sorted(id_map)
     id_writer = helpers.tsv_writer(filename, 'w')
     id_writer.dict.writerow(["id", header])
@@ -32,6 +30,7 @@ def sort_and_write_to_file(id_map, filename, header):
         id_writer.dict.writerow([pair[0], pair[1]])
 
 def map_WOLD_ids_via_Concepticon_to_Panlexia():
+    """Create file that maps Panlexia ids to WOLD ids."""
     concepticon = helpers.tsv_reader(Concepticon_WOLD)
     id_map = []
 
@@ -42,6 +41,7 @@ def map_WOLD_ids_via_Concepticon_to_Panlexia():
     sort_and_write_to_file(id_map, 'data/id-WOLD.tsv', "WOLD_id")
 
 def map_NELex_ids_via_Concepticon_to_Panlexia():
+    """Create file that maps Panlexia ids to NorthEuraLex ids."""
     concepticon = helpers.tsv_reader(NELex)
     id_map = []
 
