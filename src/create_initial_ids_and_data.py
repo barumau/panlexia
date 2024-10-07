@@ -81,6 +81,7 @@ def build_Panlexia_id(complex_semantic_field, gloss, ontological_category):
 def create_initial_concept_id_definition_map():
     concepticon = csv_reader(Concepticon, '\t')
     id_writer = tsv_writer('data/id-concepticon-definition.tsv', 'w')
+    id_writer.dict.writerow(["id", "Concepticon_id", "Definition"])
 
     for row in concepticon.dict:
         id = build_Panlexia_id(row["SEMANTICFIELD"], row["GLOSS"], row["ONTOLOGICAL_CATEGORY"])
