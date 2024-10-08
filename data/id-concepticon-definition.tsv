@@ -19,8 +19,6 @@ Action:blow (with mouth).V	176	To expel air through persed lips.
 Action:blow (with nose).V	2679	To clean one's nose by exhaling through it.
 Action:braid (verb) or weave (basket).V	3294	To braid together hair, threads, strings, twigs etc. in order to create a larger string-like object or to weave a basket or use similar techniques for creating other objects.
 Action:braid (verb).V	3295	To braid together hair, threads, strings, twigs etc. in order to create a larger string-like object (which can be linear as in a braid of hair or circular as in a wreath).
-Action:brawl (fight).V	2902	To be involved in a normally unarmed and ruleless scuffle.
-Action:brawl.N	3301	A normally unarmed and ruleless scuffle.
 Action:break (breaking).V	3020	To come apart or split into pieces (intransitive).
 Action:break (cleave).V	2558	To divide something with force in two or more parts.
 Action:break (destroy or get destroyed).V	680	To divide or be divided into pieces and thereby damaged.
@@ -88,7 +86,7 @@ Action:lean.V	3619	To bend or move from a vertical position or to make something
 Action:loose.A	2506	Being not tight.
 Action:loosen.V	1933	To make undone or untied ; to free from any fastening.
 Action:make dry.V	2015	To remove the moisture and make dry.
-Action:make noise.V	2895	To be loud.
+Sound:make noise.V	2895	To be loud.
 Action:make.V	734	To create something by combining or assembling materials or parts or by changing it.
 Action:manage.V	3073	To watch and direct someone and/or some activity; to be in charge.
 Action:massage (somebody).V	3119	To rub someone's body with the hands.
@@ -108,7 +106,7 @@ Action:protect.V	2900	To prevent something or somebody from being harmed.
 Action:pull out.V	2325	To pull something out.
 Action:pull.V	1455	To apply a force to (an object), in order that it moves towards the origin of the force that was applied.
 Action:put in order.V	3459	To arrange something in a tidy manner.
-Action:quickly.A	3365	To carry out an action in a quick manner.
+Action:quick.ADV	3365	To carry out an action in a quick manner.
 Action:recommend.V	2759	To suggest something or somebody.
 Action:rest or sleep.V	2116	Lie down or sleep.
 Action:result.N	3969	The final outcome or consequence of a causal chain, operation or set of circumstances.
@@ -119,7 +117,6 @@ Action:scatter.V	3705	To throw or drop things in different directions so that th
 Action:seat (somebody).V	2878	To cause somebody to sit (e.g. by offering a seat).
 Action:skilled.A	807	Experienced and clever, professional.
 Action:slap.V	3160	Hit with the open palm of the hand.
-Action:sleep (state).N	2972	Sleep is a naturally recurring state of mind and body characterized by altered consciousness, relatively inhibited sensory activity, inhibition of nearly all voluntary muscles, and reduced interactions with surroundings.
 Action:smear.V	364	To spread (a substance) across a surface by rubbing.
 Action:smoke (emit smoke).V	2859	To emit smoke (such as something which burns).
 Action:snap (of stick).V	459	Quick breaking or cracking sound or the action of producing such a sound.
@@ -631,6 +628,7 @@ Animalia:young animal.N	3254	Like a puppy of a dog, a general term for naming yo
 Animalia:young goat (kid).N	1972	A young goat.
 Animalia:zebra.N	3675	Any of several species of genus Equus with distinctive black-and-white striped coats, native to Africa.
 Art:picture (painting).N	3303	A painted image.
+Art:picture (photograph).N	3304	An image taken with a camera.
 Art:statue.N	1002	A three-dimension work of art, usually of a person or animal, usually created by sculpting, carving, moulding, or casting.
 Astronomy:evening star.N	3341	A name for Venus when it appears after sunset.
 Astronomy:meteoroid.N	2288	The visible path of a meteoroid as it enters the atmosphere, becoming a meteor.
@@ -717,7 +715,6 @@ Body:arm or hand.N	2121	Extremities emerging from the upper part of the human bo
 Body:arm.N	1673	The upper limb, extending from the shoulder to the wrist and sometimes including the hand.
 Body:armpit.N	1886	The hollow under the upper part of the arm at the shoulder.
 Body:artery.N	1925	A blood vessel transporting blood away from the heart.
-Body:awake.A	825	Not sleeping.
 Body:back of head.N	523	The back part of the head.
 Body:back.N	1291	The rear of body, especially the part between the neck and the end of the spine and opposite the chest and belly.
 Body:bald.A	1125	Without hair on the head.
@@ -795,9 +792,6 @@ Body:die.V	1494	To cease to live.
 Body:disabled person.N	3621	A person with a physical condition or mental disorder that is characterized by physical, sensory, cognitive or intellectual impairment.
 Body:disease.N	1986	A definite pathological process having a characteristic set of signs and symptoms which are detrimental to the well-being of the individual.
 Body:dislocate.V	551	To (accidentally) dislodge a skeletal bone from its joint.
-Body:dream (something).V	1920	To experience while sleeping.
-Body:dream.N	2374	Successions of images, ideas, emotions, and sensations that occur usually involuntarily in the mind during certain stages of sleep.
-Body:dreaming or dream.?	2455	Either the act of seeing images when sleeping, or the result of this act, the dream itself.
 Body:dribble.V	268	To let saliva flow out of one’s mouth onto one’s chin.
 Body:drown.V	1904	To be suffocated in water or other fluid; to perish by suffocation in water.
 Body:drowned.A	3187	To have perished by suffocation in water.
@@ -818,7 +812,6 @@ Body:eyelid.N	17	A skin flap that can be closed over an eye.
 Body:face.N	1560	The front part of the head, featuring the eyes, nose, and mouth and the surrounding area.
 Body:faeces (excrement).N	675	Substance that human and animal bodies release from time to time as a little pile of waste remaining from digestion, after it has been collected in the colon.
 Body:faint (pass out).V	3616	To become unconscious as a result of a temporary decrease in the blood supply to the brain.
-Body:fall asleep.V	1106	To go to sleep; to change from waking state to sleeping state.
 Body:fart.V	1159	To emit digestive gases through the anus.
 Body:fat (organic substance).N	323	Esters of three fatty acid chains and the alcohol glycerol which form a semi-solid substance in room temperature and occur in animals and plants.
 Body:fatigue.N	1140	A state of physical and/or mental weakness and a lack of vigor.
@@ -993,8 +986,6 @@ Body:skeleton.N	2668	The body part that forms the supporting structure inside of
 Body:skin (human).N	2613	The outer tissue of human beings.
 Body:skin.N	763	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.
 Body:skull.N	1605	The main bone of the head; the cranium.
-Body:sleep.V	1585	To rest in a state of decreased consciousness and reduced metabolism.
-Body:sleepy.A	3620	Feeling tired and willing to go to sleep.
 Body:smallpox.N	1054	A highly contagious viral disease characterized by fever and weakness and skin eruption with pustules that form scabs that slough off leaving scars.
 Body:sneeze.V	1621	To expel air rapidly as a reflex, usually induced by an irritation in the nose.
 Body:snore.V	1983	To make a noise during sleep by vibration of soft respiratory tissues (soft palate, base of the tongue and pharyngeal walls), particularly during inhalation.
@@ -1046,8 +1037,6 @@ Body:vein.N	1924	A blood vessel that transports blood from the capillaries back 
 Body:vomit.V	1278	To regurgitate the contents of the stomach.
 Body:vulva.N	1837	The external parts of the female genitalia, in human beings this consists of the labia, clitoris, opening of the urethra (meatus), and the opening of the vagina.
 Body:waist.N	1681	In human beings, the part between the thorax and hips.
-Body:wake up (someone).V	3174	Rouse from sleep.
-Body:wake up.V	1602	To stop sleeping.
 Body:wart.N	2665	Typically small, rough, and hard growths that are similar in color to the rest of the skin.
 Body:weak.A	1601	Lacking in force or ability.
 Body:wing.N	1257	The appendage of an animal's (bird, bat, insect) body that enables it to fly in the air.
@@ -1176,6 +1165,7 @@ Clothing/Grooming:wristband.N	3943	An article used as an adornment around the wr
 Clothing/Grooming:yarn.N	3445	Consists of multiple strings of natural or synthetic fibre twisted together in a continuous bulky thread; used in textile production.
 Cognition:agreement.N	3644	The state of sharing the same feeling or opinion.
 Cognition:attentive.A	1908	Giving attention.
+Cognition:awake.A	825	Not sleeping.
 Cognition:be ignorant.V	2651	Be in a state of not knowing something.
 Cognition:because.?	1157	Conjunction initiating a causal phrase.
 Cognition:believe.V	1890	To be confident about something.
@@ -1196,11 +1186,15 @@ Cognition:detect.V	3895	To notice or recognize something that is not particularl
 Cognition:difficult.A	584	Not easy, which needs hard work, patience and effort of either the physical or mental kind.
 Cognition:doubt (something).V	3536	Be unsure about the truth or accuracy of a matter.
 Cognition:doubt.N	1308	Uncertainty about the truth or accuracy of a matter.
+Cognition:dream.N	2374	Successions of images, ideas, emotions, and sensations that occur usually involuntarily in the mind during certain stages of sleep.
+Cognition:dream.V	1920	To experience while sleeping.
+Cognition:dreaming.N	2455	Either the act of seeing images when sleeping, or the result of this act, the dream itself.
 Cognition:easy.A	686	Requiring little skill or effort; posing no difficulty.
 Cognition:effect.N	3968	The manifestation of the particular influence of a given action on something.
 Cognition:err.V	839	To make a mistake.
 Cognition:experienced.A	2218	To have apprehended objects, thoughts, or emotions through senses and mind.
 Cognition:explain.V	1626	To inform about the reason for something, how something works, or how to do something.
+Cognition:fall asleep.V	1106	To go to sleep; to change from waking state to sleeping state.
 Cognition:few pieces.?	3451	More than one, but not as many as usual or as expected. (for countable nouns)
 Cognition:find out.V	2237	To apprehend something involuntarily.
 Cognition:foreign.A	109	Not belonging to that in which it is contained; introduced from an outside source.
@@ -1251,6 +1245,9 @@ Cognition:result in.V	1723	Having a specific result, a logical consequence.
 Cognition:school.N	673	An institution or building at which children and young people receive education.
 Cognition:secret.A	1121	Being or kept hidden from public perception.
 Cognition:seem.V	1521	To have a given outward appearance.
+Cognition:sleep.N	2972	Sleep is a naturally recurring state of mind and body characterized by altered consciousness, relatively inhibited sensory activity, inhibition of nearly all voluntary muscles, and reduced interactions with surroundings.
+Cognition:sleep.V	1585	To rest in a state of decreased consciousness and reduced metabolism.
+Cognition:sleepy.A	3620	Feeling tired and willing to go to sleep.
 Cognition:smart.A	2530	To be of high intelligence.
 Cognition:strange.A	600	Out of the ordinary.
 Cognition:study.V	1929	To follow a course of study; to be enrolled at an institute of learning.
@@ -1267,6 +1264,8 @@ Cognition:think.V	2271	Use ones mental power to form ideas or having used ones m
 Cognition:thought.N	2975	Thought refers to ideas or arrangements of ideas that are the result of the process of thinking.
 Cognition:try.V	1812	To attempt to do something.
 Cognition:understand.V	1536	To be aware of the meaning of.
+Cognition:wake up (someone).V	3174	Rouse from sleep.
+Cognition:wake up.V	1602	To stop sleeping.
 Cognition:what.?	1236	Which thing.
 Cognition:when.?	1238	At what time?
 Cognition:where.?	1237	At what place?
@@ -1281,8 +1280,11 @@ Combat:attack.N	722	The application of violent force to someone or something.
 Combat:attacking.V	3899	To use violence with the intention to harm.
 Combat:battle.N	579	An instance of combat in warfare between two or more parties wherein each group will seek to defeat the others.
 Combat:be at war.V	2208	To be in the state of belligerence.
+Combat:bomb.N	1804	A device filled with explosives used for destroying things.
 Combat:booty.N	1022	Profits from burglary, looting and raids.
 Combat:box (somebody or something).V	3108	The act of using fists to fight or hit.
+Combat:brawl.N	3301	A normally unarmed and ruleless scuffle.
+Combat:brawl.V	2902	To be involved in a normally unarmed and ruleless scuffle.
 Combat:captive.N	1073	A person held against his will.
 Combat:defeat.N	782	An end to a struggle or contest that did not end in success.
 Combat:defend.V	1330	To keep something or someone safe or prevent harm coming to someone or something.
@@ -1674,7 +1676,11 @@ Family:younger sister (of man).N	2420	The younger sister of a man.
 Family:younger sister (of woman).N	2421	The younger sister of a woman.
 Family:younger sister.N	1761	A female who is younger than one or more of her siblings.
 Fungi:mushroom.N	641	An organism belonging to a family of Basidiomycetes that are characterized by the production of spores on gills.
-Gastronomia:manioc flour.N	324	Flour made of the cassava plant or root.
+Game:darts.N	2587	A game in which small arrows are thrown on a target.
+Game:doll.N	1659	A model of a human, a humanoid, an animal or a fictional character, usually made of cloth or plastic.
+Game:dominoes.N	2594	A game played with rectangular ties.
+Game:ski.N	2991	A ski is a narrow strip of semi-rigid material worn underfoot to glide over snow.
+Game:tennis ball.N	3103	Yellow, spherical object used for playing the game of tennis.
 Gastronomy:alcohol (drink).N	2050	A drink (a liquor or brew) containing ethanol, commonly known as alcohol.
 Gastronomy:alcohol (fermented drink).N	404	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).
 Gastronomy:animal or meat.N	2096	Any living organism that is characterized by voluntary movement, be it alive or ready prepared to be eaten.
@@ -1711,6 +1717,8 @@ Gastronomy:brown sugar.N	3440	Unrefined natural sugar that owes its brown colour
 Gastronomy:bunch.N	1966	A group of things fastened or growing together.
 Gastronomy:butter.N	1245	A soft, fatty foodstuff that is made by churning the cream of milk (most often cows milk).
 Gastronomy:cabbage.N	774	An edible plant, Brassica oleracea, with many varieties.
+Gastronomy:cake.N	2408	Cake is a form of sweet dessert that is typically baked.
+Gastronomy:candy.N	874	Food item that is rich in sugar.
 Gastronomy:cauliflower.N	2843	One of several vegetables in the species Brassica oleracea in the genus Brassica.
 Gastronomy:celery.N	3727	A vegetable with a long greenish stalk of the carrot family.
 Gastronomy:cheese.N	1569	A curdled or cultured milk product.
@@ -1793,6 +1801,7 @@ Gastronomy:lunch.N	768	Meal usually eaten at midday.
 Gastronomy:lychee.N	3731	A tropical fruit with a hard brownish peel with a black seed in the inside and with flesh of a tree from the soapberry family.
 Gastronomy:machete.N	2680	A machete is a broad blade used either as an implement like an axe, or in combat like a short sword.
 Gastronomy:manioc bread.N	407	Bread made of the roots of the cassava plant.
+Gastronomy:manioc flour.N	324	Flour made of the cassava plant or root.
 Gastronomy:mantou.N	1969	Steamed bun made of flour, water and yeast originating from Chinese cuisine.
 Gastronomy:mead.N	941	Wine made of honey.
 Gastronomy:meal.N	1526	The act of eating food, usually at a specific time.
@@ -1878,6 +1887,7 @@ Gastronomy:tapioca.N	3940	Starch extracted from the root of manioc
 Gastronomy:taste.N	2190	The sensory impression of food or other substances on the tongue.
 Gastronomy:tasteless.A	1771	Having no flavour.
 Gastronomy:tasty.A	1813	Pleasing to the sense of taste.
+Gastronomy:tea.N	1373	The drink made by infusing dried leaves or buds in hot water.
 Gastronomy:thirst.N	848	A physiological need to drink.
 Gastronomy:thirsty.A	847	Feeling the need to drink.
 Gastronomy:tofu.N	3443	Coagulated soy milk that is bland in taste and formed into solid blocks; a popular ingredient in Asian and vegetarian cuisine.
@@ -1907,6 +1917,7 @@ Grammar:1DU.PRN	2634	The speaker and exactly one other person.
 Grammar:1PL EXCL.PRN	1130	Exclusive we: I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person).
 Grammar:1PL INCL.PRN	1131	Inclusive we: I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person).
 Grammar:1PL OBL.PRN	2310	Oblique case of the first person plural pronoun.
+Grammar:1PL POSS.A	780	Belonging to us; of us.
 Grammar:1PL.PRN	1212	The speaker or writer and at least one other person.
 Grammar:1SG OBL.PRN	2301	Oblique cases of the first person singular pronoun.
 Grammar:1SG.PRN	1209	The speaker or writer referring to himself or herself alone.
@@ -1950,7 +1961,6 @@ Grammar:opposite.A	885	The contrary; being opposed to something.
 Grammar:or.CNJ	1014	[Conjunction that indicates an alternative.]
 Grammar:other or some.?	3863	The rest of a group or an unspecified quantity or number.
 Grammar:other.?	197	The rest of a group of.
-Grammar:our.?	780	Belonging to us; of us.
 Grammar:same.?	200	Bearing full likeness by having precisely the same set of characteristics.
 Grammar:severe.A	419	Intensely or extremely bad or unpleasant in degree or quality.
 Grammar:that.?	78	The indicated object, item, etc. distant from the speaker.
@@ -1960,13 +1970,14 @@ Grammar:these (plural of this).?	3984	The indicated objects, items, etc. close t
 Grammar:this.?	1214	The indicated object, item, etc. close to the speaker.
 Grammar:those (plural of that).?	3985	The indicated objects, items, etc. distant from the speaker.
 Grammar:through.?	97	From one side of an opening to the other.
-Grammar:very.?	1311	To a high or large degree.
-Grammar:with.?	1340	In the company of.
-Grammar:without.?	1478	Not having, containing, characteristic of, etc.
+Grammar:very.ADV	1311	To a high or large degree.
+Grammar:with.ADP	1340	In the company of.
+Grammar:without.ADP	1478	Not having, containing, characteristic of, etc.
 House:adobe.N	901	An unburnt brick dried in the sun made of clay and dried grasses.
 House:arch.N	876	An arch-shaped arrangement of trapezoidal stones, designed to redistribute downward force outward.
 House:area under house.N	2632	The area under a house.
 House:bale-bale (raised platform in house).N	3177	An elevated wooden or bamboo platform on which people can sit, squat or sleep.
+House:bamboo mat.N	3240	A mat made from bamboo.
 House:barn or shed.N	3025	A building for storing agricultural products or sheltering livestock.
 House:beam.N	1132	A structural member loaded on its narrow face, and typically used in a horizontal or sloping position to span between bearing points.
 House:bed.N	1663	A piece of furniture, made for a person to sleep on.
@@ -1985,7 +1996,9 @@ House:chimney.N	1305	A vertical structure of brick, masonry, or steel that carri
 House:column.N	2045	An upright supporting beam.
 House:cookhouse.N	334	A small house where cooking takes place; a kitchen house.
 House:courtyard.N	4	An area wholly or partly surrounded by walls or buildings.
+House:cradle.N	2946	A bed for a baby.
 House:cupboard.N	3357	Storing space with a door that can be closed.
+House:curtain.N	2621	Piece of cloth on a window intended to obscure the interior of a room or to prevent people from looking inside.
 House:door.N	1567	An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.
 House:doorpost.N	80	The frame that supports a door.
 House:doorsills.N	2185	(Building) a horizontal member of wood, stone, etc, forming the bottom of a door frame.
@@ -2009,6 +2022,7 @@ House:latch.N	1012	A fastening for a door that has a bar that fits into a notch 
 House:lock.N	1596	Something used for fastening, which can only be opened with a key or combination.
 House:mason.N	877	A craftsman who builds in stone or brick otherwise known as masonry.
 House:mat.N	195	A flat object laid on the floor to protect a person from the hard floor.
+House:mattress.N	105	A pad on which a person can recline and sleep.
 House:meeting house.N	335	A building where people meet for a purpose.
 House:men's house.N	408	A separate building for male persons.
 House:mortar binder.N	1731	Paste made of a mixture of a binder (cement, plaster or lime), sand and water used in masonry to make bricks, stones, etc. stick together.
@@ -2124,8 +2138,8 @@ Language:roar.V	3896	To make a deep loud cry (of lions and comparable wild anima
 Language:rumour.N	63	A piece of information of questionable accuracy, from no known reliable source, usually spread by word of mouth.
 Language:say.V	1458	To utter specific words or notions.
 Language:scold.V	299	To rebuke.
-Language:scream (noise).N	2522	A loud vocalisation.
-Language:scream (produce a cry).V	3809	To give a loud cry out of pain, fear or excitement. The vocalisation resulted from screaming is distinct from that produced by shrieking in that it is typically characterized by a longer duration and lower pitch.
+Language:scream.N	2522	A loud vocalisation.
+Language:scream.V	3809	To give a loud cry out of pain, fear or excitement. The vocalisation resulted from screaming is distinct from that produced by shrieking in that it is typically characterized by a longer duration and lower pitch.
 Language:shout.V	715	To say something in a loud voice.
 Language:shriek.V	298	To make a short, loud and high-pitched sound in reaction to something.
 Language:sign.N	1720	Feature element which permits to refer to anything or any person.
@@ -2182,18 +2196,20 @@ Law:thief.N	1160	Someone who takes property belonging to someone else with the i
 Law:witness.N	1144	Someone who has a personal knowledge of something.
 Measure:catty (mass unit).CLF	2647	A traditional Chinese unit of mass used across East and Southeast Asia, notably for weighing food and other groceries in some wet markets, street markets, and shops.
 Measure:foot (unit).N	2688	A unit of length.
+Medicine:hospital.N	616	A place where people who are ill or injured are treated and taken care of by doctors and nurses.
+Medicine:injection.N	1805	A method of putting liquid into the body with a hollow needle and a syringe which is pierced through the skin long enough for the material to be forced into the body.
+Medicine:pill.N	395	A small, usually cylindrical object designed for easy swallowing, usually containing some sort of medication.
+Medicine:stethoscope.N	2599	An acousting medical device for auscultation.
 Modernity:abacus.N	2489	A calculating tool that was in use centuries before the adoption of the written modern numeral system and is still widely used by merchants, traders and clerks in Asia, Africa, and elsewhere.
 Modernity:address.N	591	Direction or superscription of a letter, or the name, title, and place of residence of the person addressed.
 Modernity:airplane.N	1597	A powered heavier-than-air aircraft with fixed wings that obtains lift by the Bernoulli effect and is used for transportation.
 Modernity:balloon.N	3083	A small, elastic hollow body used for decoration and as toy.
-Modernity:bamboo mat.N	3240	A mat made from bamboo.
 Modernity:bank.N	1284	A financial institution where one can borrow money (upon which interest is due) or deposit money (in order to collect interest).
 Modernity:barrel.N	2548	A cylindrical container for liquids and food.
 Modernity:battery.N	662	A cell or several cells connected together, each cell containing the essentials for producing voltaic electricity.
 Modernity:benefit.N	2929	The profit of some action.
 Modernity:bicycle.N	747	A vehicle with two wheels in tandem, pedals connected to the rear wheel by a chain, handlebars for steering, and a saddlelike seat.
 Modernity:birth certificate.N	397	Official document certifying the details of a person's birth. Name, date, and parents' names are always included; details such as parents' occupation and religion may be included.
-Modernity:bomb.N	1804	A device filled with explosives used for destroying things.
 Modernity:boss.N	2930	A boss is a person in charge, or a supervisor.
 Modernity:bottle.N	1321	A container, typically made of glass and having a tapered neck, used for holding liquids.
 Modernity:box or chest.N	3150	Either a generic manmade object with space in it that is used to keep and store many various different objects, or a strong box with a lid on top.
@@ -2201,38 +2217,28 @@ Modernity:box.N	1465	A generic man-made object with space in it (commonly made o
 Modernity:brake.V	966	Decelerate using a mechanical device.
 Modernity:bus.N	1070	A large, long-bodied motor vehicle equipped with seating for passengers, usually operating as part of a scheduled service.
 Modernity:business.N	2931	A business is an organizational entity involved in the provision of goods and services to consumers.
-Modernity:cake.N	2408	Cake is a form of sweet dessert that is typically baked.
 Modernity:calculate.V	2867	To determine by mathematical processes.
-Modernity:calendar.N	1967	A table showing the months and days of the year.
 Modernity:camera.N	2618	Optical instrument for storing images.
 Modernity:can.N	1051	A small, round-shaped metal container, used for different purposes like storing food or liquids, or collecting money.
-Modernity:candy.N	874	Food item that is rich in sugar.
 Modernity:car.N	1111	A four-wheeled motor vehicle used for land transport, usually propelled by a gasoline or diesel internal combustion engine.
 Modernity:card.N	2619	A flat device in rectangular form that fulfills various functions.
 Modernity:carriage.N	2620	A wheeled vehicle for people, usually horse-drawn.
 Modernity:channel.N	2423	In physical geography, a channel is a type of landform consisting of the outline of a path of relatively shallow and narrow body of fluid, most commonly the confine of a river, river delta or strait.
-Modernity:chime (action).V	2897	To ring the bells.
-Modernity:christmas.N	2405	Christmas or Christmas Day (Old English: Crīstesmæsse, meaning Christ's Mass) is an annual festival commemorating the birth of Jesus Christ, observed most commonly on December 25 as a religious and cultural celebration among billions of people around the world.
+Modernity:Christmas.N	2405	Christmas or Christmas Day (Old English: Crīstesmæsse, meaning Christ's Mass) is an annual festival commemorating the birth of Jesus Christ, observed most commonly on December 25 as a religious and cultural celebration among billions of people around the world.
 Modernity:cigarette.N	969	A product manufactured out of cured and finely cut leaves, which are rolled or stuffed into a paper-wrapped cylinder for smoking.
 Modernity:city.N	2547	A big village.
 Modernity:companionship.N	2983	An interpersonal relationship is a strong, deep, or close association or acquaintance between two or more people that may range in duration from brief to enduring.
 Modernity:compass.N	2606	An instrument for navigation and orientation.
 Modernity:computer.N	3086	A device for automatically performing sets of logical or arithmetical instructions.
-Modernity:cradle.N	2946	A bed for a baby.
 Modernity:crane (device).N	3745	A device for lifting and moving heavy objects, typically consisting of a moving boom, beam, or gantry from which lifting gear is suspended.
 Modernity:crime.N	1066	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public. (Source: BLACK)
-Modernity:curtain.N	2621	Piece of cloth on a window intended to obscure the interior of a room or to prevent people from looking inside.
 Modernity:damage (injury).N	2947	Loss or harm resulting from injury to person or objects.
-Modernity:darts.N	2587	A game in which small arrows are thrown on a target.
 Modernity:defect.N	1995	A fault or malfunction.
-Modernity:doll.N	1659	A model of a human, a humanoid, an animal or a fictional character, usually made of cloth or plastic.
-Modernity:dominoes.N	2594	A game played with rectangular ties.
 Modernity:door knocker.N	2598	An item at a door that allows people outside a house to alert those inside.
 Modernity:driver's license.N	599	Official document granting someone the authorisation to drive some vehicles.
 Modernity:election.N	240	A process by which members of a population vote to choose a person to hold public office.
 Modernity:electricity.N	59	A general term used for all phenomena caused by electric charge whether static or in motion.
 Modernity:engine.N	2622	Machine that converts energy into mechanical energy.
-Modernity:erhu.N	3052	A two-stringed fiddle common in Eastern Asia; Chinese violin, Chinese two-stringed fiddle.
 Modernity:escalator.N	2596	A moving staircase.
 Modernity:fairy tale.N	2937	A fairy tale is a type of short story that typically features folkloric fantasy characters, such as dwarves, dragons, elves, fairies, giants, gnomes, goblins, griffins, mermaids, talking animals, trolls, unicorns, or witches, and usually magic or enchantments.
 Modernity:faucet.N	1488	A device applied to the end of a pipe in order to interrupt and regulate the flow of a liquid or gas.
@@ -2242,10 +2248,7 @@ Modernity:frame.N	2624	A structural system of support.
 Modernity:funnel.N	2602	A pipe with a wide mouth used to channel liquid into containers with small opening.
 Modernity:garbage.N	909	Unwanted or undesired material, usually discarded.
 Modernity:globe.N	2588	A spherical representation of the earth.
-Modernity:government.N	815	A body that has the authority to make and the power to enforce laws within a civil, corporate, religious, academic, or other organization or group.
 Modernity:helicopter.N	2580	A type of rotorcraft in which lift and thrust are supplied by rotors.
-Modernity:hospital.N	616	A place where people who are ill or injured are treated and taken care of by doctors and nurses.
-Modernity:injection.N	1805	A method of putting liquid into the body with a hollow needle and a syringe which is pierced through the skin long enough for the material to be forced into the body.
 Modernity:ink.N	2643	A liquid or paste that contains pigments or dyes and is used to color a surface to produce an image, text, or design.
 Modernity:jack.N	50	A playing card marked with the figure of a servant or soldier.
 Modernity:lavish.A	222	Very generous; giving (money, praise, etc.) in abundance.
@@ -2256,7 +2259,6 @@ Modernity:logic.N	2429	Logic (from the Ancient Greek: λογική, logike) is t
 Modernity:machine.N	144	A device able to perform a particular, more or less complex, job.
 Modernity:mail.N	167	A batch of letters and parcels received via post.
 Modernity:map.N	2625	Symbolic depiction of areas and regions.
-Modernity:mattress.N	105	A pad on which a person can recline and sleep.
 Modernity:member.N	2424	A person who belongs to any organized or non-organized group of people.
 Modernity:method.N	3971	A specific technique or way of performing an action to achieve a particular goal.
 Modernity:minister.N	486	A person appointed to a high office in the government.
@@ -2272,9 +2274,7 @@ Modernity:pencil.N	2578	A writing device of solid pigment inside a protective wo
 Modernity:petrol.N	2344	A transparent, petroleum-derived liquid that is used primarily as a fuel in internal combustion engines.
 Modernity:petroleum.N	650	A comparatively volatile liquid bitumen composed principally of hydrocarbon, with traces of sulphur, nitrogen or oxygen compounds; can be removed from the earth in a liquid state.
 Modernity:photograph (something).V	3123	Use a light-sensitive device to take an image of something.
-Modernity:picture (photograph).N	3304	An image taken with a camera.
 Modernity:picture.N	2401	A photograph or a painting.
-Modernity:pill.N	395	A small, usually cylindrical object designed for easy swallowing, usually containing some sort of medication.
 Modernity:plastic.N	654	A polymeric material (usually organic) of large molecular weight which can be shaped by flow; usually refers to the final product with fillers, plasticizers, pigments, and stabilizers included (versus the resin, the homogeneous polymeric starting material); examples are polyvinyl chloride, polyethylene, and urea-formaldehyde.
 Modernity:police.N	656	Branch of the government which is charged with the preservation of public order, the promotion of public health and safety, and the prevention, detection, and punishment of crimes.
 Modernity:postage stamp.N	596	A piece of paper that is affixed to letters or packages to pay for their delivery.
@@ -2297,20 +2297,16 @@ Modernity:screwdriver.N	836	A hand tool used for driving screws.
 Modernity:scroll.N	2608	A roll of papyrus.
 Modernity:sewing machine.N	3097	A machine that partially automates the process of sewing, i.e. uniting pieces of material by using a needle and a thread.
 Modernity:sink (basin).N	915	A bowl for washing hands, dishwashing or other purposes, often affixed to a wall.
-Modernity:ski.N	2991	A ski is a narrow strip of semi-rigid material worn underfoot to glide over snow.
 Modernity:slab.N	2952	Thick plate or slice.
 Modernity:slice.N	2954	A thin flat piece cut from something.
 Modernity:spectacles.N	1898	A pair of lenses in a frame that are worn in front of the eyes and are used to correct faulty vision or protect the eyes.
 Modernity:state (politics).N	2955	A politically organized body of people usually occupying a definite territory.
-Modernity:stethoscope.N	2599	An acousting medical device for auscultation.
 Modernity:stilts.N	2593	Poles or pillars allowing a person to stand at a height above the ground.
 Modernity:street.N	1362	A paved part of road, usually in a village or a town.
 Modernity:stroke (of pen).N	2993	A single movement with a pen in order to write or paint something.
 Modernity:tablet.N	396	A pill; a small, easily swallowed portion of a substance.
-Modernity:tea.N	1373	The drink made by infusing dried leaves or buds in hot water.
 Modernity:telephone.N	1379	An electronic device used for calling people.
 Modernity:television.N	1788	A device for receiving television signals and displaying them in visual form.
-Modernity:tennis ball.N	3103	Yellow, spherical object used for playing the game of tennis.
 Modernity:theory.N	2433	Theory is a contemplative and rational type of abstract or generalizing thinking, or the results of such thinking. Depending on the context, the results might for example include generalized explanations of how nature works.
 Modernity:tin (can).N	1582	A tin-plate canister, often cylindrical, for preserved foods such as fruit, meat, or fish.
 Modernity:toilet.N	219	A room equipped with a toilet for urinating and defecating.
@@ -2632,10 +2628,10 @@ Nature:precipice or slope.N	3297	A very steep decline, typically found in the mo
 Nature:precipice.N	618	A very steep decline, typically found in the mountains or on shores.
 Nature:puddle.N	2290	A small accumulation of liquid, usually water, on a surface. It can form either by pooling in a depression on the surface, or by surface tension upon a flat surface. Puddles are usually formed from rain water or from irrigation.
 Nature:pure.A	1147	Free from contaminants or extraneous elements.
-Nature:rain (precipitation).N	658	Precipitation in the form of liquid water drops with diameters greater than 0.5 millimeters.
-Nature:rain (raining).V	1253	To fall from the clouds in drops of water.
+Nature:rain.N	658	Precipitation in the form of liquid water drops with diameters greater than 0.5 millimeters.
+Nature:rain.V	1253	To fall from the clouds in drops of water.
 Nature:rainbow.N	1733	A multicoloured arc in the sky caused by the refraction of light within droplets of rain in the air.
-Nature:raining or rain.N	2108	The process by which water falls from the clouds or the water that falls from the clouds.
+Nature:raining.N	2108	The process by which water falls from the clouds or the water that falls from the clouds.
 Nature:rapids.N	1670	Fast flowing section of a stream, often shallow and with exposed rock or boulders.
 Nature:ravine.N	1930	A deep narrow valley or gorge in the earth's surface worn by running water.
 Nature:reef.N	660	A line of rocks in the tidal zone of a coast, submerged at high water but partly uncovered at low water.
@@ -2673,7 +2669,7 @@ Nature:slope.N	3076	A stretch of ground forming a geological incline, e.g. a hil
 Nature:smoke (exhaust).N	778	An aerosol, consisting of visible particles and gases, produced by the incomplete burning of carbon-based materials, such as wood and fossil fuels.
 Nature:snow or ice.N	3322	Referring to frozen water irrespective of its exact nature, e.g. falling from the sky or being frozen on the ground.
 Nature:snow.N	784	The most common form of frozen precipitation, usually flakes or starlike crystals, matted ice needles, or combinations, and often rime-coated.
-Nature:snowing.V	1255	To fall from the clouds in the form of ice crystals.
+Nature:snow.V	1255	To fall from the clouds in the form of ice crystals.
 Nature:soil.V	1015	To make filthy.
 Nature:soot.N	830	Impure black carbon with oily compounds obtained from the incomplete combustion of resinous materials, oils, wood, or coal.
 Nature:spark.N	518	A small particle or body of shining or glowing matter, either molten or on fire.
@@ -3419,6 +3415,7 @@ Society:gift.N	2982	A gift or a present is an item given to someone without the 
 Society:gipsy.N	532	Gipsy is a common word used to indicate Romani people, Tinkers and Travellers.
 Society:gossip.V	3640	To talk about other people's private lives.
 Society:govern.V	382	To make and administer the public policy and affairs of; to exercise sovereign authority in.
+Society:government.N	815	A body that has the authority to make and the power to enforce laws within a civil, corporate, religious, academic, or other organization or group.
 Society:guest.N	1782	A person that visits and stays at a house, usually for one or more nights.
 Society:han chinese.N	3373	Referring to the Han Chinese people, their cultural practices or heritage.
 Society:help (assistance).N	3467	The act of helping someone.
@@ -3490,8 +3487,10 @@ Society:trust (somebody).V	3902	To have great confidence in someone that he or s
 Society:village.N	930	A group of houses and other buildings, such as a church, a school and some shops, which is smaller than a town, usually in the countryside.
 Society:visit.V	1377	To go and see a person or place.
 Society:win.V	866	To achieve a victory.
+Sound:chime.V	2897	To ring the bells.
 Sound:drum.N	908	A percussion instrument consisting of at least one membrane that is stretched over a shell and struck directly with the player's hands or with a drumstick.
 Sound:echo.N	2816	Reflection of sound.
+Sound:erhu.N	3052	A two-stringed fiddle common in Eastern Asia; Chinese violin, Chinese two-stringed fiddle.
 Sound:flute.N	777	A musical instrument of the woodwind family.
 Sound:folk song.N	2059	A traditional piece of music with words to sing.
 Sound:gong.N	2502	An African, East and South East Asian musical percussion instrument that takes the form of a flat, circular metal disc which is hit with a mallet.
@@ -3703,6 +3702,7 @@ Time:begin or start.V	3447	To begin doing an activity, of (of an activity) to be
 Time:begin.V	1806	To begin an activity.
 Time:beginning.N	1557	The beginning of an activity or event.
 Time:busy.A	2755	The state of being occupied with something.
+Time:calendar.N	1967	A table showing the months and days of the year.
 Time:cease.V	1928	To have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.
 Time:clock.N	1323	An instrument used to measure or keep track of time.
 Time:dawn.N	729	A period of time at the beginning of the day shortly before sunrise during which the light gradually becomes stronger.
