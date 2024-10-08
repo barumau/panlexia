@@ -10,7 +10,7 @@ import helpers
 
 # The input files for id mapping:
 Concepticon_WOLD = 'data/Concepticon/Haspelmath-2009-1460.tsv'
-NELex = 'data/NorthEuraLex/northeuralex-0.9-concept-data.tsv'
+NELex = 'data/Concepticon/Dellert-2017-1016.tsv'
 Panlexia_to_Concepticon = 'data/id-concepticon-definition.tsv'
 
 def get_panlexia_id(concepticon_id):
@@ -46,11 +46,11 @@ def map_NELex_ids_via_Concepticon_to_Panlexia():
     id_map = []
 
     for row in concepticon.dict:
-        id = get_panlexia_id(row["concepticon_id"])
-        id_map.append((id, row["id_nelex"]))
+        id = get_panlexia_id(row["CONCEPTICON_ID"])
+        id_map.append((id, row["NELEX_ID"]))
 
     sort_and_write_to_file(id_map, 'data/id-NELex.tsv', "NELex_id")
 
 # Execute functions
-map_WOLD_ids_via_Concepticon_to_Panlexia()
+#map_WOLD_ids_via_Concepticon_to_Panlexia()
 map_NELex_ids_via_Concepticon_to_Panlexia()
