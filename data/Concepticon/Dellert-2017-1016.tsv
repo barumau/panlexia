@@ -681,7 +681,7 @@ Dellert-2017-1016-679	679	490	-1.106772	liegen	liegen::V	lie	лежать	Mensch
 Dellert-2017-1016-680	680	457	-1.178046	hängen	hängen::V	hang	висеть	BSP:``der Mantel hängt''	EX:``the coat is hanging''	НАПР:о пальтo	HANG	2884	intransitive
 Dellert-2017-1016-681	681	54	-2.265655	werden	werden::V	become	стать	zu etwas	turn into	превратиться, НАПР:стать отцом	BECOME	1990	
 Dellert-2017-1016-682	682	511	-1.150125	passieren	passieren::V	happen	случиться	geschehen	occur	произойти	HAPPEN	248	
-Dellert-2017-1016-683	683	365	-1.196821	beginnen	beginnen::V	begin	начаться	anfangen zu bestehen	start existing	начать существовать			
+Dellert-2017-1016-683	683	365	-1.196821	beginnen	beginnen::V	begin	начаться	anfangen zu bestehen	start existing	начать существовать	BEGIN OR START	3447	
 Dellert-2017-1016-684	684	269	-1.134073	enden	enden::V	end	кончиться	aufhören zu bestehen	stop existing	перестать существовать	CEASE	1928	
 Dellert-2017-1016-685	685	597	-0.063613	wechseln	wechseln::V	change	меняться	zu etwas anderem werden	become something different	стать чем-то другим, НАПР:о погоде	CHANGE (BECOME DIFFERENT)	2857	
 Dellert-2017-1016-686	686	553	-0.050231	aufgehen[Sonne]	aufgehen[Sonne]::V	rise	взойти		of the sun	о солнце	RISE (MOVE UPWARDS)	568	RISE (HEAVENLY BODIES)
@@ -710,14 +710,14 @@ Dellert-2017-1016-708	708	336	-1.161068	versinken	versinken::V	sink	тонуть
 Dellert-2017-1016-709	709	830	-0.052688	vergehen	vergehen::V	pass	проходи́ть	Zeit	of time	о времени	PASS	1951	
 Dellert-2017-1016-710	710	699	-0.027745	erscheinen	erscheinen::V	appear	появиться	BSP:Licht, Geist	EX:light, ghost	НАПР:о свете, о призраке	EMERGE (APPEAR)	1076	
 Dellert-2017-1016-711	711	586	-0.081335	verschwinden	verschwinden::V	disappear	исчезнуть	BSP:Licht, Geist	EX:light, ghost	НАПР:о свете, о призраке	DISAPPEAR	485	
-Dellert-2017-1016-712	712	706	-0.014616	sinken	sinken::V	drop, descend	спадать	BSP:Wasserspiegel	EX:water level	понижаться, НАПР:об уровне воды			
+Dellert-2017-1016-712	712	706	-0.014616	sinken	sinken::V	drop, descend	спадать	BSP:Wasserspiegel	EX:water level	понижаться, НАПР:об уровне воды	GO DOWN (DESCEND)	2014	
 Dellert-2017-1016-713	713	878	-0.012607	abnehmen	abnehmen::V	decrease	уменьшиться	weniger werden	of quantity	стать меньше	DECREASE	2864	
 Dellert-2017-1016-714	714	874	-0.037772	zunehmen	zunehmen::V	increase	увеличиться	mehr werden	of quantity	в количестве	INCREASE	1041	
-Dellert-2017-1016-715	715	429	-1.144373	steigen	steigen::V	rise	подниматься	BSP:Wasserspiegel	EX:water level	НАПР:об уровне воды			
+Dellert-2017-1016-715	715	429	-1.144373	steigen	steigen::V	rise	подниматься	BSP:Wasserspiegel	EX:water level	НАПР:об уровне воды	GO UP OR RISE (ONESELF)	3207	
 Dellert-2017-1016-716	716	50	-2.286656	wachsen	wachsen::V	grow	расти	BSP:Pflanze	EX:of a plant	НАПР:о растении	GROW	479	
 Dellert-2017-1016-717	717	815	-0.088668	glänzen	glänzen::V	shine	блестеть	BSP:Metall, glänzende Oberfläche	EX:of metal, shiny surface	НАПР:о металле, поверхности			
 Dellert-2017-1016-718	718	1009	1.192674	funkeln	funkeln::V	sparkle, twinkle	сверкать	BSP:Stern, kleines Licht	EX:of star, little light	НАПР:о звезде, об огоньке	TWINKLE	2889	
-Dellert-2017-1016-719	719	1001	1.106422	lärmen	lärmen::V	be noisy	шуметь	BSP:Kinder	EX:children	НАПР:о детях			
+Dellert-2017-1016-719	719	1001	1.106422	lärmen	lärmen::V	be noisy	шуметь	BSP:Kinder	EX:children	НАПР:о детях	MAKE NOISE	2895	
 Dellert-2017-1016-720	720	825	-0.065415	läuten	läuten::V	chime	звонить	BSP:Glocke	EX:of bell	НАПР:о колоколе	CHIME (ACTION)	2897	
 Dellert-2017-1016-721	721	875	-0.034984	klingeln	klingeln::V	ring	звонить	BSP:Türklingel, Telefon	EX:doorbell, phone	НАПР:о дверном звонке, телефоне	RING (MAKE SOUND)	2875	
 Dellert-2017-1016-722	722	989	1.118415	klirren	klirren::V	tinkle	звякать	BSP:Glas	EX:glass	НАПР:о стакане, монетах	TINKLE	2888	
@@ -792,7 +792,7 @@ Dellert-2017-1016-790	790	922	0.007044	mögen	mögen::V	like	любить	gern h
 Dellert-2017-1016-791	791	174	-1.108193	lachen	lachen::V	laugh	смеяться				LAUGH	1355	
 Dellert-2017-1016-792	792	964	0.007087	rühren	rühren::V	move	растрогать	innerlich, emotional	arouse the feelings of	вызвать чувствa, приятно взволновать	MOVE (AFFECT EMOTIONALLY)	2873	
 Dellert-2017-1016-793	793	169	-1.126978	weinen	weinen::V	weep, cry	плакать	Tränen vergießen	shed tears	проливать слёзы	CRY	1839	
-Dellert-2017-1016-794	794	902	0.033374	schimpfen	schimpfen::V	grumble	ругаться	seinen Ärger kundtun	complain in a surly manner	браниться			
+Dellert-2017-1016-794	794	902	0.033374	schimpfen	schimpfen::V	grumble	ругаться	seinen Ärger kundtun	complain in a surly manner	браниться	CARP	2193	
 Dellert-2017-1016-795	795	869	-0.082379	sich ärgern	sich ärgern::V	be annoyed	сердиться	verärgert sein	be irritated	испытывать раздражение	BE ANGRY	2223	
 Dellert-2017-1016-796	796	354	-1.124223	sich fürchten	sich fürchten::V	be afraid	бояться, опасаться	Angst haben	be frightened	испытывать боязнь	FEAR (BE AFRAID)	1419	
 Dellert-2017-1016-797	797	507	-1.159431	fürchten	fürchten::V	be afraid of	бояться, страшиться	sich fürchten vor	fear	чего-либо			
@@ -808,7 +808,7 @@ Dellert-2017-1016-806	806	733	-0.034779	riechen	riechen::V	smell	нюхать	de
 Dellert-2017-1016-807	807	414	-1.181685	fühlen	fühlen::V	feel	чувствовать	spüren	sense	ощущать	FEEL (TACTUALLY)	2559	
 Dellert-2017-1016-808	808	664	-0.004274	scheinen	scheinen::V	seem	казаться	den Anschein haben	appear, be perceived as	производить впечатление	SEEM	1521	
 Dellert-2017-1016-809	809	696	-0.038833	zu sehen sein	zu sehen sein::V	show	виднеться	sichtbar sein	be visible	быть видным	VISIBLE	1868	
-Dellert-2017-1016-810	810	556	-0.047446	vernehmen	vernehmen::V	hear	услышать, узнать	erfahren, zu hören bekommen	receive information about	получить информацию о			
+Dellert-2017-1016-810	810	556	-0.047446	vernehmen	vernehmen::V	hear	услышать, узнать	erfahren, zu hören bekommen	receive information about	получить информацию о	HEAR OR LISTEN	3862	
 Dellert-2017-1016-811	811	917	0.026774	frieren	frieren::V	be cold	холодно	Kälte verspüren	feel the sensation of coldness	об ощущении холода, НАПР:``мне холодно''			
 Dellert-2017-1016-812	812	570	-0.020458	tun	tun::V	do	делать	BSP:``was tust du?''	EX:``what are you doing?''	НАПР:``что ты делаешь?''	DO	813	
 Dellert-2017-1016-813	813	187	-1.161166	können	können::V	can	мочь	in der Lage sein zu	be able to	быть в состоянии	BE ABLE	972	
@@ -820,8 +820,8 @@ Dellert-2017-1016-818	818	863	-0.094677	gelingen	gelingen::V	succeed	удать�
 Dellert-2017-1016-819	819	817	-0.077539	geraten	geraten::V	turn out	оказаться	ausfallen, sich herausstellen als	result, end up	получаться	RESULT IN	1723	
 Dellert-2017-1016-820	820	117	-2.23593	öffnen	öffnen::V	open	открыть	BSP:ein Fenster	EX:a window	НАПР:окно	OPEN	1156	
 Dellert-2017-1016-821	821	338	-1.159273	schließen	schließen::V	close	закрыть	BSP:ein Fenster	EX:a window	НАПР:окно	SHUT	1046	
-Dellert-2017-1016-822	822	51	-2.280914	stellen	stellen::V	put	поставить	aufrecht hinstellen, BSP:ein Glas	in upright position, EX:a glass	поместить вертикально, НАПР:стакан			
-Dellert-2017-1016-823	823	160	-1.155292	setzen	setzen::V	place	посадить	in eine sitzende Position bringen	cause someone to sit	сделать так, чтобы кто-либо сел			
+Dellert-2017-1016-822	822	51	-2.280914	stellen	stellen::V	put	поставить	aufrecht hinstellen, BSP:ein Glas	in upright position, EX:a glass	поместить вертикально, НАПР:стакан	PUT	998	
+Dellert-2017-1016-823	823	160	-1.155292	setzen	setzen::V	place	посадить	in eine sitzende Position bringen	cause someone to sit	сделать так, чтобы кто-либо сел	SEAT (SOMEBODY)	2878	
 Dellert-2017-1016-824	824	80	-2.211545	legen	legen::V	lay	класть	BSP:Geld auf einen Tisch	EX:money onto a table	НАПР:деньги на стол	LAY (VERB)	2071	
 Dellert-2017-1016-825	825	496	-1.19588	berühren	berühren::V	touch	трогать	in körperlichen Kontakt kommen mit	make physical contact with	прикасаться	TOUCH	1892	
 Dellert-2017-1016-826	826	565	-0.036099	verbinden	verbinden::V	connect	связать	verknüpfen, BSP:mit Schnüren	join, EX:using strings	скрепить вместе, НАПР:верёвками	CONNECT	2862	
@@ -839,12 +839,12 @@ Dellert-2017-1016-837	837	729	-0.043419	reparieren	reparieren::V	repair, mend	ч
 Dellert-2017-1016-838	838	801	-0.048424	verbessern	verbessern::V	improve	улучшить	besser machen	make better	сделать лучше	IMPROVE (SOMETHING)	2872	
 Dellert-2017-1016-839	839	456	-1.179458	ändern	ändern::V	alter	изменить	anders machen	make different	сделать иным	CHANGE	1264	
 Dellert-2017-1016-840	840	157	-1.166593	graben	graben::V	dig	копать, рыть	in Erde	in earth	землю	DIG	1418	
-Dellert-2017-1016-841	841	523	-1.118683	beugen	beugen::V	bow	согнуть	BSP:den Arm	EX:the arm	НАПР:руку			
+Dellert-2017-1016-841	841	523	-1.118683	beugen	beugen::V	bow	согнуть	BSP:den Arm	EX:the arm	НАПР:руку	BEND	2004	
 Dellert-2017-1016-842	842	286	-1.192001	biegen	biegen::V	bend	погнуть	BSP:ein Rohr	EX:a pipe	НАПР:трубу	BEND (SOMETHING)	2224	
 Dellert-2017-1016-843	843	604	-0.04799	drehen	drehen::V	spin	вертеть	BSP:einen Spieß	EX:a skewer	НАПР:вертел			
 Dellert-2017-1016-844	844	647	-0.044863	wenden	wenden::V	turn over	перевернуть	BSP:Pfannkuchen, Fleischstücke	EX:pancakes, pieces of meat	положить на другую сторону, НАПР:блины, куски мяса	TURN (SOMETHING)	1445	
-Dellert-2017-1016-845	845	967	0.02789	umdrehen	umdrehen::V	turn, turn around	повернуть, поворачивать	BSP:die Hand	EX:palm	НАПР:ладонь			
-Dellert-2017-1016-846	846	221	-1.150496	heben	heben::V	raise	поднимать	BSP:die Hand	EX:one's hand	переместить в верхнее положение, НАПР:руку, голову			
+Dellert-2017-1016-845	845	967	0.02789	umdrehen	umdrehen::V	turn, turn around	повернуть, поворачивать	BSP:die Hand	EX:palm	НАПР:ладонь	TURN AROUND	1444	
+Dellert-2017-1016-846	846	221	-1.150496	heben	heben::V	raise	поднимать	BSP:die Hand	EX:one's hand	переместить в верхнее положение, НАПР:руку, голову	RAISE	1317	
 Dellert-2017-1016-847	847	504	-1.173664	hochheben	hochheben::V	lift	поднять	BSP:eine Kiste	EX:a box	что-то тяжёлое, НАПР:ящик	LIFT	501	
 Dellert-2017-1016-848	848	860	-0.013547	ergreifen	ergreifen::V	seize	схватить	in die Hand nehmen, BSP:ein Messer	grab, EX:a knife	хватать, НАПР:нож	SEIZE	855	
 Dellert-2017-1016-849	849	93	-2.260106	halten	halten::V	hold	держать	in Händen	in one's hands	в руках	HOLD	1448	
@@ -856,7 +856,7 @@ Dellert-2017-1016-854	854	266	-1.139337	beißen	beißen::V	bite	кусать, у
 Dellert-2017-1016-855	855	522	-1.119245	abreißen	abreißen::V	tear off	оторвать	BSP:Arm einer Puppe	EX:a doll's arm	НАПР:руку у куклы			
 Dellert-2017-1016-856	856	760	-0.078726	abschneiden	abschneiden::V	cut off	отрезать	BSP:ein Stück Kuchen	EX:a piece of cake	НАПР:кусок пирога			!CUT OFF
 Dellert-2017-1016-857	857	52	-2.272992	binden	binden::V	tie	связать	BSP:mit einem Seil	EX:using a rope	НАПР:верёвкой	TIE	1917	
-Dellert-2017-1016-858	858	649	-0.038414	stecken	stecken::V	stick	воткнуть	hineinstecken, BSP:Zweig in Loch	EX:a twig into a hole	НАПР:палку в землю			
+Dellert-2017-1016-858	858	649	-0.038414	stecken	stecken::V	stick	воткнуть	hineinstecken, BSP:Zweig in Loch	EX:a twig into a hole	НАПР:палку в землю	INSERT	3071	
 Dellert-2017-1016-859	859	209	-1.178073	brechen	brechen::V	break	сломать	BSP:einen Knochen	EX:a bone	НАПР:кость	BREAK (DESTROY OR GET DESTROYED)	680	
 Dellert-2017-1016-860	860	790	-0.092148	klopfen	klopfen::V	knock	стучать	BSP:an eine Wand	EX:on a wall	НАПР:по стене	KNOCK	2396	
 Dellert-2017-1016-861	861	322	-1.190448	hauen	hauen::V	hit	ударить	BSP:auf einen Tisch	on purpose, EX:a table	EX:по столу	STRIKE (SOMETHING)	3309	
@@ -923,7 +923,7 @@ Dellert-2017-1016-921	921	439	-1.120828	spielen	spielen::V	play	играть	BSP
 Dellert-2017-1016-922	922	275	-1.120117	singen	singen::V	sing	петь				SING	1261	
 Dellert-2017-1016-923	923	685	-0.052985	tanzen	tanzen::V	dance	плясать, танцевать				DANCE	1879	
 Dellert-2017-1016-924	924	893	0.06391	sich trennen	sich trennen::V	separate	разойтись	verschiedener Wege gehen	part ways		SEPARATE	1359	
-Dellert-2017-1016-925	925	376	-1.175487	verlassen	verlassen::V	leave	покинуть	jemanden	someone	кого-то			
+Dellert-2017-1016-925	925	376	-1.175487	verlassen	verlassen::V	leave	покинуть	jemanden	someone	кого-то	ABANDON	1097	
 Dellert-2017-1016-926	926	658	-0.021409	retten	retten::V	rescue	спасти	jemanden	someone	кого-то	RESCUE	2008	
 Dellert-2017-1016-927	927	737	-0.023238	bewachen	bewachen::V	guard	охранять	BSP:Gebäude	EX:a building	НАПР:здание			POS
 Dellert-2017-1016-928	928	748	-0.094972	schützen	schützen::V	protect	уберегать	Person	a person	человека	PROTECT	2900	
@@ -935,7 +935,7 @@ Dellert-2017-1016-933	933	955	0.005035	ärgern	ärgern::V	annoy	сердить		
 Dellert-2017-1016-934	934	558	-0.046352	schlagen	schlagen::V	beat	ударить	jemanden	someone	кого-то	STRIKE (SOMEONE)	3308	
 Dellert-2017-1016-935	935	856	-0.024994	treten	treten::V	kick	пнуть	jemanden, einen Hund	someone, a dog	кого-то, собаку	KICK	1135	
 Dellert-2017-1016-936	936	606	-0.045148	stechen	stechen::V	sting	уколоть	BSP:mit einer Nadel	EX:with a needle	НАПР:иглой	STING	571	
-Dellert-2017-1016-937	937	684	-0.056466	stoßen	stoßen::V	shove	толкнуть	jemanden	someone	кого-то			
+Dellert-2017-1016-937	937	684	-0.056466	stoßen	stoßen::V	shove	толкнуть	jemanden	someone	кого-то	THRUST	246	
 Dellert-2017-1016-938	938	228	-1.13904	stehlen	stehlen::V	steal	украсть				STEAL	713	
 Dellert-2017-1016-939	939	901	0.03309	stören	stören::V	disturb	помешать				DISTURB	2883	
 Dellert-2017-1016-940	940	966	0.025794	belästigen	belästigen::V	bother	беспокоить, потревожить				BOTHER (HARASS)	2869	
@@ -949,7 +949,7 @@ Dellert-2017-1016-947	947	428	-1.144594	sammeln	sammeln::V	gather	собрать
 Dellert-2017-1016-948	948	544	-0.069326	pflücken	pflücken::V	pick	рвать	BSP:einen Apfel	EX:an apple	НАПР:яблоко с дерева	PICK	2148	
 Dellert-2017-1016-949	949	673	-0.096218	jagen	jagen::V	hunt	охотиться	auf die Jagd gehen			HUNT	1435	
 Dellert-2017-1016-950	950	916	0.088242	fischen	fischen::V	fish	рыбачить		catch fish	ловить рыбу	FISHING	2638	
-Dellert-2017-1016-951	951	416	-1.173761	fassen	fassen::V	catch	поймать	erbeuten, fangen	an animal	животное на охоте			catch in the sense of FANGEN/FASSEN
+Dellert-2017-1016-951	951	416	-1.173761	fassen	fassen::V	catch	поймать	erbeuten, fangen	an animal	животное на охоте	TRAP (CATCH)	1170	catch in the sense of FANGEN/FASSEN
 Dellert-2017-1016-952	952	590	-0.072541	hüten	hüten::V	herd	пасти	Vieh	cattle	скот	HERD (SOMETHING)	2885	
 Dellert-2017-1016-953	953	282	-1.104607	treiben	treiben::V	drive	гнать	Vieh	cattle	скот	DRIVE (CATTLE)	2868	
 Dellert-2017-1016-954	954	276	-1.118999	anbinden	anbinden::V	tie up	привязать	ein Tier	an animal	животное	TIE UP (TETHER)	2891	
@@ -995,7 +995,7 @@ Dellert-2017-1016-993	993	577	-0.005234	denken	denken::V	think	думать				T
 Dellert-2017-1016-994	994	196	-1.125419	glauben	glauben::V	believe	верить				BELIEVE	1890	
 Dellert-2017-1016-995	995	852	-0.049321	bemerken	bemerken::V	notice	заметить	merken, sich bewusst werden			NOTICE (SOMETHING)	2893	
 Dellert-2017-1016-996	996	328	-1.183136	erkennen	erkennen::V	recognize	узна́ть	wiedererkennen			RECOGNIZE (SOMEBODY)	2870	
-Dellert-2017-1016-997	997	771	-0.042509	begreifen	begreifen::V	grasp	пости́чь, поня́ть	verstandesmäßig	understand, become aware of the meaning of	усвоить смысл чего-либо			
+Dellert-2017-1016-997	997	771	-0.042509	begreifen	begreifen::V	grasp	пости́чь, поня́ть	verstandesmäßig	understand, become aware of the meaning of	усвоить смысл чего-либо	GRASP	2021	
 Dellert-2017-1016-998	998	438	-1.123614	verstehen	verstehen::V	understand	услышать	akustisch, BSP:einen Zuruf	acoustically, EX:a call	НАПР:оклик	UNDERSTAND	1536	
 Dellert-2017-1016-999	999	391	-1.137368	lernen	lernen::V	learn	учиться	BSP:zu nähen	EX:to sew	НАПР:шитью	LEARN	504	
 Dellert-2017-1016-1000	1000	64	-2.294674	wissen	wissen::V	know	знать	Kenntnis haben von	be aware of	быть осведомленным о	KNOW (SOMETHING)	1410	

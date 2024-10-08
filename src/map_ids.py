@@ -52,5 +52,5 @@ def map_NELex_ids_via_Concepticon_to_Panlexia():
     sort_and_write_to_file(id_map, 'data/id-NELex.tsv', "NELex_id")
 
 # Execute functions
-#map_WOLD_ids_via_Concepticon_to_Panlexia()
+map_WOLD_ids_via_Concepticon_to_Panlexia()
 map_NELex_ids_via_Concepticon_to_Panlexia()
