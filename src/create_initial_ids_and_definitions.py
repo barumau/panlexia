@@ -10,29 +10,11 @@ Note! The ids are not final! They will be checked and improved manually.
 
 CC-BY 2024 Panlexia (https://github.com/barumau/panlexia)
 """
-import csv
+import helpers
 import re
 
 # Data files for id creation and id mapping
 Concepticon = 'data/Concepticon/concepticon.tsv'
-
-class csv_reader:
-    """Helper for opening and closing a CSV or TSV file for reading."""
-    def __init__(self, file_name, delimiter):
-        self.file = open(file_name, 'r')
-        self.dict = csv.DictReader(self.file, delimiter=delimiter)
-
-    def __del__(self):
-        self.file.close()
-
-class tsv_writer:
-    """Helper for opening and closing a TSV file for writing."""
-    def __init__(self, file_name, open_mode):
-        self.file = open(file_name, open_mode)
-        self.dict = csv.writer(self.file, delimiter='\t')
-
-    def __del__(self):
-        self.file.close()
 
 simple_semantic_field_from = {
     "The physical world" : "Nature",
@@ -79,13 +61,43 @@ def build_Panlexia_id(complex_semantic_field, gloss, ontological_category):
     return id
 
 def create_initial_concept_id_definition_map():
-    concepticon = csv_reader(Concepticon, '\t')
-    id_writer = tsv_writer('data/id-concepticon-definition.tsv', 'w')
+    concepticon = helpers.csv_reader(Concepticon, '\t')
+    id_writer = helpers.tsv_writer('data/id-concepticon-definition.tsv', 'w')
     id_writer.dict.writerow(["id", "Concepticon_id", "Definition"])
 
     for row in concepticon.dict:
         id = build_Panlexia_id(row["SEMANTICFIELD"], row["GLOSS"], row["ONTOLOGICAL_CATEGORY"])
         id_writer.dict.writerow([id, row["ID"], row["DEFINITION"]])
 
+def create_id_and_definition_files():
+    """Writes id-concepticon.tsv and eng-definition.tsv files"""
+
+    id_writer = helpers.tsv_writer('data/id-concepticon.tsv', 'w')
+    id_writer.dict.writerow(["id", "Concepticon_id"])
+
+    definition_writer = helpers.tsv_writer('dict/eng-definition.tsv', 'w')
+    definition_writer.dict.writerow(["id", "Definition"])
+
+    combined = helpers.tsv_reader('data/id-concepticon-definition.tsv')
+    for row in combined.dict:
+        if row["Id_status"] == "ready":
+            id_writer.dict.writerow([row["id"], row["Concepticon_id"]])
+            definition_writer.dict.writerow([row["id"], row["Definition"]])
+
+def add_to_id_and_definition_files():
+    """Appends new ids to id-concepticon.tsv and eng-definition.tsv files"""
+
+    id_writer = helpers.tsv_writer('data/id-concepticon.tsv', 'a')
+    definition_writer = helpers.tsv_writer('dict/eng-definition.tsv', 'a')
+
+    combined = helpers.tsv_reader('data/id-concepticon-definition.tsv')
+    for row in combined.dict:
+        if row["Id_status"] == "ready":
+            id_writer.dict.writerow([row["id"], row["Concepticon_id"]])
+            definition_writer.dict.writerow([row["id"], row["Definition"]])
+
+
 # Execution begins
-create_initial_concept_id_definition_map()
+#create_initial_concept_id_definition_map()
+#create_id_and_definition_files()
+add_to_id_and_definition_files()

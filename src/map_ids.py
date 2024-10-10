@@ -11,7 +11,7 @@ import helpers
 # The input files for id mapping:
 Concepticon_WOLD = 'data/Concepticon/Haspelmath-2009-1460.tsv'
 NELex = 'data/Concepticon/Dellert-2017-1016.tsv'
-Panlexia_to_Concepticon = 'data/id-concepticon-definition.tsv'
+Panlexia_to_Concepticon = 'data/id-concepticon.tsv'
 
 def get_panlexia_id(concepticon_id):
     """Get Panlexia id by Concepticon id."""
