@@ -5,6 +5,8 @@ Animal:Canis lupus familiaris.N	A common four-legged animal, especially kept by 
 Animal:Canis lupus.N	A large wild canid (Canidae), closely related to the dog.
 Animal:Canis.N	Refers to *genus canis*, a genus containing seven to ten extant species, including wolves, domestic dogs, coyotes, and jackals.
 Animal:Felis catus.N	A common four-legged animal (Felis silvestris) that is often kept as a household pet.
+Animal:female.A	Of, relating to, or denoting the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).
+Animal:male.A	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.
 Animal:Vespinae.N	A flying stinging insect related to the bee, which is usually coloured yellow and black.
 Body:ankle.N	A joint formed where the foot and the leg meet.
 Body:anus.N	The lower opening of the digestive tract, through which faeces pass.
@@ -160,6 +162,50 @@ Element:Fe.N	A malleable ductile silvery-white ferromagnetic metallic element wi
 Element:Pb.N	A heavy toxic bluish-white metallic element with symbol Pb and atomic number 82 that is highly malleable; occurs principally as galena and is used in alloys, accumulators, cable sheaths, paints, and as a radiation shield.
 Element:S.N	A crystalline solid, nonmetallic chemical element of a distinct yellow colour, with assigned symbol S and proton number 16.
 Element:Sn.N	A metallic element with symbol Sn, occurring in cassiterite. It is a malleable silvery-white metal.
+Family:ancestor.N	Person from whom a person is descended, whether on the father's or mother's side, at any number of generations.
+Family:aunt.N	A woman with one or more siblings who have one or more children; a sister of someone's father or mother.
+Family:bride.N	A woman who is going to get married or has just got married.
+Family:brother (of man).N	The brother of a man.
+Family:brother (of woman).N	The brother of a woman.
+Family:brother-in-law.N	The brother of one's partner in a marriage.
+Family:brother.N	A male person who has the same parents as another person.
+Family:child-in-law.N	The spouse of someone's child.
+Family:child.N	A young human or the descendant of a human.
+Family:cousin.N	The child of the sibling of a parent of a person.
+Family:daughter.N	An animal's female offspring (including that of a human).
+Family:divorce.N	Legal dissolution of a marriage.
+Family:divorce.V	To end one's marriage by a legal process.
+Family:family.N	A group comprising parents, offsprings and others closely related or associated with them.
+Family:father.N	A male parent.
+Family:grandchild.N	A child of someone’s child.
+Family:granddaughter.N	A daughter of someone's child.
+Family:grandfather.N	The father of one of someone's parents.
+Family:grandmother.N	The mother of one of someone's parents.
+Family:grandparent.N	Either the grandfather or the grandmother.
+Family:grandparents.N	The parents of someone's parent.
+Family:grandson.N	A son of someone's child.
+Family:groom.N	A man who is going to get married or has just married.
+Family:husband.N	The male partner in a marriage.
+Family:marry off.V	To force someone to get married, usually a relative.
+Family:marry.V	To enter marriage; to take a husband or a wife.
+Family:mother.N	A woman who has at least one child.
+Family:orphan.N	A person one or both of whose parents have died, especially a minor.
+Family:parents.N	Father and mother of a child.
+Family:sibling.N	A person who has the same parents as another person.
+Family:sister.N	A female person who has the same parents as another person.
+Family:son-in-law.N	The male marital partner of someone's child.
+Family:son.N	One's male child.
+Family:spouse.N	One of the partners in a marriage, be they male or female.
+Family:stepchild.N	The child of one's spouse and his or her previous partner.
+Family:stepdaughter.N	The daughter of one's spouse and his or her previous partner.
+Family:stepfather.N	The husband of one's biological mother, other than one's biological father.
+Family:stepmother.N	The wife of one's biological father, other than one's biological mother.
+Family:stepson.N	The son of one's spouse and his or her previous partner.
+Family:uncle.N	The brother of someone’s father or mother.
+Family:wedding.N	A ceremony celebrating the beginning of a marriage, during which the marrying parties exchanges vows.
+Family:widow.N	A woman whose spouse has died.
+Family:widower.N	A man whose spouse has died.
+Family:wife.N	The female partner in a marriage.
 Flower:Prunus armeniaca.N	The flower of the Apricot Tree.
 Flower:Prunus salicina.N	The flower of the Chinese Plum.
 Food:alcohol.N	A drink (a liquor or brew) containing ethanol, commonly known as alcohol.
@@ -171,6 +217,63 @@ Food:Musa balbisiana.N	A kind of banana that is normally cooked and not eaten ra
 Food:Prunus armeniaca.N	A fruit of orange color with a fuzzy peel and a black seed inside, similar to a peach or plum of a tree from the family Prunus armeniaca.
 Food:saucer.N	A small dish for placing a cup.
 Food:sausage.N	A length of intestine, stuffed with ground (organ) meat, and other ingredients. Instead of intestines, a different kind of wrapper can be used.
+Mankind:adult.N	A fully grown and mature person.
+Mankind:baby.N	A very young human being, from birth to a year old.
+Mankind:bad person.N	A person with an evil character.
+Mankind:bastard.N	A child born of parents not married to each other.
+Mankind:black man.N	Term used to describe men who are perceived to be dark-skinned.
+Mankind:black woman.N	Term used to describe women who are perceived to be dark-skinned.
+Mankind:blind person.N	Person who has a complete lack of form and visual light perception.
+Mankind:boy or son.N	Either a son or a boy.
+Mankind:boy.N	A young male person, usually a child or teenager.
+Mankind:brave person.N	A person with a brave character.
+Mankind:child.N	A person below the age of puberty.
+Mankind:daughter or girl.N	Either a daughter or a girl.
+Mankind:deaf person.N	Person who is  partial or total unable to hear.
+Mankind:female.A	Relating to the female sex of humans.
+Mankind:girl.N	A young female person, usually a child or teenager.
+Mankind:male.A	Relating to the male sex of humans.
+Mankind:man or person.N	Either a man or a person (in general).
+Mankind:man.N	An adult human member of the sex that begets young by fertilizing ova.
+Mankind:old man.N	A male person who is old of age.
+Mankind:old person.N	An older person (usually considered to be above the age of 60).
+Mankind:old woman.N	An old woman.
+Mankind:people or person.N	Either multiple human beings or one human being.
+Mankind:person.N	A human being.
+Mankind:virgin.N	A person who has never engaged in sexual intercourse.
+Mankind:white man.N	Term used to describe men who are perceived to be light-skinned.
+Mankind:white woman.N	Term used to describe women who are perceived to be light-skinned.
+Mankind:woman.N	An adult human member of the sex that produces ova and bears young.
+Mankind:young man.N	A male juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.
+Mankind:young woman.N	A female juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.
+Music:accordion.N	A musical instrument.
+Music:bell.N	A simple sound-making device.
+Music:brass instrument.N	Any musical instrument that is a member of the brass family of musical instruments, usually a horn or a trumpet.
+Music:conduct.V	To lead some kind of musical performance.
+Music:dance.N	A series of rhythmic movements performed to music.
+Music:dance.V	To move with rhythmic steps or movements, especially in time to music.
+Music:drum.N	A percussion instrument consisting of at least one membrane that is stretched over a shell and struck directly with the player's hands or with a drumstick.
+Music:erhu.N	A two-stringed fiddle common in Eastern Asia; Chinese violin, Chinese two-stringed fiddle.
+Music:flute.N	A musical instrument of the woodwind family.
+Music:folk song.N	A traditional piece of music with words to sing.
+Music:gong.N	An African, East and South East Asian musical percussion instrument that takes the form of a flat, circular metal disc which is hit with a mallet.
+Music:guitar.N	Musical instrument with usually six strings.
+Music:harmonica.N	A mouth organ (musical instrument).
+Music:harp.N	A string musical instrument.
+Music:horn.N	A wind instrument made of a wound copper tube with a wide sound bucket and valves.
+Music:jingle.N	"One of a cluster of small bells, shaken or tapped on the palm of the player's hand. The small metal discs arranged around the frame of a tambourine are also called ""jingles""."
+Music:lute.N	A plucked string musical instrument with with a neck and a deep round back.
+Music:mouth harp.N	Lamellophone instrument consisting of a tongue or reed attached to a frame, placed in the performer's mouth and plucked; Jew's harp, jaw harp.
+Music:music.N	The artistic organisation of sounds or tones that expresses ideas and emotions through the elements of rhythm, melody, harmony and tonal colour.
+Music:piano.N	A large musical instrument with a row of black and white keys that are pressed to play notes.
+Music:play.V	Execute coordinated movements on or with a musical instrument to produce sounds.
+Music:rattle.N	A wooden instrument that makes a loud knocking noise [used by people watching football games].
+Music:sing.V	To produce harmonious sounds with one's voice.
+Music:song.N	A musical piece with lyrics (or words to sing); prose that one can sing.
+Music:tambourine.N	Musical instrument with round, wooden frame and covered by skin, plastic, etc. with metal discs around the frame.
+Music:tone.N	Traditionally in Western music, a musical tone is a steady periodic sound.
+Music:trumpet.N	A musical instrument in the brass family.
+Music:whistle.N	Wind instrument most often made out of metal or wood used for producing a loud, shrill tone.
 Plant:Ananas comosus.N	A tropical plant with edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.
 Plant:Betula.N	A tree of the genus Betula, with small leaves and a trunk that is white with darker blotches.
 Plant:bud.N	A bud is an undeveloped or embryonic shoot and normally occurs in the axil of a leaf or at the tip of the stem.
@@ -181,15 +284,6 @@ Plant:Prunus armeniaca.N	A tree that bears the apricot fruit.
 Plant:Prunus salicina.N	An Asian tree species classified in the Armeniaca section of the genus Prunus subgenus Prunus.
 Quantity:1.NUM	The natural number one (1).
 Quantity:10.NUM	The natural number ten (10).
-Quantity:10^10.NUM	The natural number ten billion (10000000000).
-Quantity:10^11.NUM	The natural number one hundred billion (100000000000).
-Quantity:10^12.NUM	The natural number one trillion (1000000000000).
-Quantity:10^4.NUM	The natural number ten thousand (10000).
-Quantity:10^5.NUM	The natural number one hundred thousand (100000).
-Quantity:10^6.NUM	The natural number one million (1000000).
-Quantity:10^7.NUM	The natural number ten million (10000000).
-Quantity:10^8.NUM	The natural number one hundred million (100000000).
-Quantity:10^9.NUM	The natural number one billion (1000000000).
 Quantity:100.NUM	The natural number one hundred (100).
 Quantity:1000.NUM	The natural number one thousand (1000).
 Quantity:1001.NUM	The natural number one thousand and one (1001).
@@ -202,6 +296,15 @@ Quantity:104.NUM	The natural number one hundred and forty (140).
 Quantity:105.NUM	The natural number one hundred and fifty (150).
 Quantity:1060.NUM	The natural number one thousand and sixty (1060).
 Quantity:108.NUM	The natural number one hundred and eight (108).
+Quantity:10^10.NUM	The natural number ten billion (10000000000).
+Quantity:10^11.NUM	The natural number one hundred billion (100000000000).
+Quantity:10^12.NUM	The natural number one trillion (1000000000000).
+Quantity:10^4.NUM	The natural number ten thousand (10000).
+Quantity:10^5.NUM	The natural number one hundred thousand (100000).
+Quantity:10^6.NUM	The natural number one million (1000000).
+Quantity:10^7.NUM	The natural number ten million (10000000).
+Quantity:10^8.NUM	The natural number one hundred million (100000000).
+Quantity:10^9.NUM	The natural number one billion (1000000000).
 Quantity:11.NUM	The natural number eleven (11).
 Quantity:110.NUM	The natural number one hundred and ten (110).
 Quantity:111.NUM	The natural number one hundred and eleven (111).
@@ -340,3 +443,38 @@ Quantity:97.NUM	The natural number ninety-seven (97).
 Quantity:98.NUM	The natural number ninety-eight (98).
 Quantity:99.NUM	The natural number ninety-nine (99).
 Quantity:999.NUM	The natural number nine hundred and ninety-nine (999).
+Sound:chime.V	To ring the bells.
+Sound:crow.V	To utter the characteristic cry of a rooster.
+Sound:echo.N	Reflection of sound.
+Sound:hear or listen.V	To perceive sound with the ear, with or without paying attention to it.
+Sound:hear.V	To perceive sound with the ear, without necessarily paying attention to it.
+Sound:listen.V	To perceive with the ear (paying attention to what is heard).
+Sound:loud.A	(Of a sound) to have a high volume.
+Sound:noise.N	Sound which is unwanted, either because of its effects on humans, its effect on fatigue or malfunction of physical equipment, or its interference with the perception or detection of other sounds.
+Sound:quiet.A	With little or no sound; denoting absence of disturbing noise.
+Sound:ring.V	Ring most broadly refers to a hollow circular shape or to a high-pitched sound.
+Sound:silence.N	Absence of sound, especially of noise.
+Sound:sound or noise.N	Any audible noise which is not necessarily unwanted or unpleasant to the hearer and of short or long duration.
+Sound:sound.V	The noise emitted by musical instruments or humans speaking.
+Sound:tinkle.V	Emit a sound suggestive of a tinkle.
+Time:age.N	The amount of time that a person, animal or plant has lived or that an object has existed.
+Time:autumn.N	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.
+Time:day (24 h).N	A period of time lasting 24 hours.
+Time:daytime.N	The period between sunrise and sunset where one enjoys daylight.
+Time:future.N	The future is what will happen in the time after the present.
+Time:hour.N	A time period of sixty minutes; one twenty-fourth of a day.
+Time:monsoon season.N	A period of heavy rain particularly during summer time.
+Time:month.N	A period into which a year is divided, historically based on the phases of the moon. In the Gregorian calendar there are twelve months.
+Time:morning.N	The period of time from the start of the day (midnight) until midday (12:00).
+Time:night.N	The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.
+Time:now or today.ADV	On the current day or in the current moment.
+Time:now.ADV	At present; at this time.
+Time:often.ADV	Many times, with short intervals between occasions.
+Time:old.A	Having lived or existed for a relatively long period of time.
+Time:one time.N	An instance or occurrence of an event.
+Time:season.N	One of the four equal periods into which the year is divided by the equinoxes and solstices, resulting from the apparent movement of the sun north and south of the equator during the course of the earth's orbit around it. These periods (spring, summer, autumn and winter) have their characteristic weather conditions in different regions, and occur at opposite times of the year in the N and S hemispheres.
+Time:springtime.N	Traditionally the first of the four seasons, the season of growth with an ever increasing amount of daytime.
+Time:summer.N	Traditionally the second of the four seasons regarded as being from June 21 to September 20 (or just June, July and August) in the Northern Hemisphere and from December 21 to March 20 (or just December, January and February) in the Southern Hemisphere.
+Time:week.N	A period of seven days.
+Time:winter.N	Traditionally, the fourth of the seasons, marked by the applicable hemisphere of the planet being at its minimum angle of exposure to the Sun, resulting in short days, long nights and typically in low temperatures.
+Time:year.N	The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).

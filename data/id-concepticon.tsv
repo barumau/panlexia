@@ -5,6 +5,8 @@ Animal:Canis lupus familiaris.N	2009
 Animal:Canis lupus.N	522
 Animal:Canis.N	2461
 Animal:Felis catus.N	1208
+Animal:female.A	1551
+Animal:male.A	1553
 Animal:Vespinae.N	1517
 Body:ankle.N	803
 Body:anus.N	1935
@@ -160,6 +162,50 @@ Element:Fe.N	621
 Element:Pb.N	627
 Element:S.N	3386
 Element:Sn.N	893
+Family:ancestor.N	1669
+Family:aunt.N	1272
+Family:bride.N	1266
+Family:brother (of man).N	559
+Family:brother (of woman).N	560
+Family:brother-in-law.N	2314
+Family:brother.N	1262
+Family:child-in-law.N	1060
+Family:child.N	2099
+Family:cousin.N	1643
+Family:daughter.N	1357
+Family:divorce.N	1134
+Family:divorce.V	3672
+Family:family.N	194
+Family:father.N	1217
+Family:grandchild.N	1617
+Family:granddaughter.N	1619
+Family:grandfather.N	1383
+Family:grandmother.N	1496
+Family:grandparent.N	2399
+Family:grandparents.N	305
+Family:grandson.N	1618
+Family:groom.N	3282
+Family:husband.N	1200
+Family:marry off.V	556
+Family:marry.V	203
+Family:mother.N	1216
+Family:orphan.N	1149
+Family:parents.N	505
+Family:sibling.N	1640
+Family:sister.N	1263
+Family:son-in-law.N	1056
+Family:son.N	1620
+Family:spouse.N	2514
+Family:stepchild.N	3910
+Family:stepdaughter.N	1058
+Family:stepfather.N	237
+Family:stepmother.N	236
+Family:stepson.N	1059
+Family:uncle.N	1327
+Family:wedding.N	1259
+Family:widow.N	1756
+Family:widower.N	1981
+Family:wife.N	1199
 Flower:Prunus armeniaca.N	2745
 Flower:Prunus salicina.N	2744
 Food:alcohol.N	2050
@@ -171,6 +217,63 @@ Food:Musa balbisiana.N	399
 Food:Prunus armeniaca.N	3730
 Food:saucer.N	271
 Food:sausage.N	1874
+Mankind:adult.N	3635
+Mankind:baby.N	1289
+Mankind:bad person.N	2197
+Mankind:bastard.N	1947
+Mankind:black man.N	2806
+Mankind:black woman.N	2807
+Mankind:blind person.N	457
+Mankind:boy or son.N	2391
+Mankind:boy.N	1366
+Mankind:brave person.N	2226
+Mankind:child.N	1304
+Mankind:daughter or girl.N	2392
+Mankind:deaf person.N	458
+Mankind:female.A	2260
+Mankind:girl.N	1646
+Mankind:male.A	2261
+Mankind:man or person.N	2645
+Mankind:man.N	1554
+Mankind:old man.N	406
+Mankind:old person.N	725
+Mankind:old woman.N	907
+Mankind:people or person.N	2661
+Mankind:person.N	683
+Mankind:virgin.N	2298
+Mankind:white man.N	2839
+Mankind:white woman.N	2840
+Mankind:woman.N	962
+Mankind:young man.N	76
+Mankind:young woman.N	77
+Music:accordion.N	2603
+Music:bell.N	2246
+Music:brass instrument.N	2136
+Music:conduct.V	3111
+Music:dance.N	3472
+Music:dance.V	1879
+Music:drum.N	908
+Music:erhu.N	3052
+Music:flute.N	777
+Music:folk song.N	2059
+Music:gong.N	2502
+Music:guitar.N	3090
+Music:harmonica.N	2590
+Music:harp.N	2597
+Music:horn.N	939
+Music:jingle.N	3993
+Music:lute.N	2681
+Music:mouth harp.N	3048
+Music:music.N	642
+Music:piano.N	3994
+Music:play.V	3124
+Music:rattle.N	300
+Music:sing.V	1261
+Music:song.N	1096
+Music:tambourine.N	3141
+Music:tone.N	2995
+Music:trumpet.N	775
+Music:whistle.N	3107
 Plant:Ananas comosus.N	2440
 Plant:Betula.N	1855
 Plant:bud.N	1684
@@ -181,15 +284,6 @@ Plant:Prunus armeniaca.N	2357
 Plant:Prunus salicina.N	2356
 Quantity:1.NUM	1493
 Quantity:10.NUM	1515
-Quantity:10^10.NUM	3600
-Quantity:10^11.NUM	3601
-Quantity:10^12.NUM	3602
-Quantity:10^4.NUM	2078
-Quantity:10^5.NUM	3532
-Quantity:10^6.NUM	3533
-Quantity:10^7.NUM	3597
-Quantity:10^8.NUM	3598
-Quantity:10^9.NUM	3599
 Quantity:100.NUM	1634
 Quantity:1000.NUM	1843
 Quantity:1001.NUM	3773
@@ -202,6 +296,15 @@ Quantity:104.NUM	3506
 Quantity:105.NUM	3508
 Quantity:1060.NUM	3775
 Quantity:108.NUM	3784
+Quantity:10^10.NUM	3600
+Quantity:10^11.NUM	3601
+Quantity:10^12.NUM	3602
+Quantity:10^4.NUM	2078
+Quantity:10^5.NUM	3532
+Quantity:10^6.NUM	3533
+Quantity:10^7.NUM	3597
+Quantity:10^8.NUM	3598
+Quantity:10^9.NUM	3599
 Quantity:11.NUM	1706
 Quantity:110.NUM	3503
 Quantity:111.NUM	3771
@@ -222,8 +325,8 @@ Quantity:17.NUM	2453
 Quantity:18.NUM	1713
 Quantity:180.NUM	3510
 Quantity:19.NUM	1714
-Quantity:2.NUM	1710
 Quantity:2.NUM	1498
+Quantity:2.NUM	1710
 Quantity:200.NUM	2676
 Quantity:2000.NUM	3524
 Quantity:2000000.NUM	3794
@@ -259,8 +362,8 @@ Quantity:37.NUM	3486
 Quantity:38.NUM	3487
 Quantity:39.NUM	3488
 Quantity:399.NUM	3514
-Quantity:4.NUM	1716
 Quantity:4.NUM	1500
+Quantity:4.NUM	1716
 Quantity:400.NUM	3515
 Quantity:4000.NUM	3526
 Quantity:41.NUM	3556
@@ -340,3 +443,38 @@ Quantity:97.NUM	3595
 Quantity:98.NUM	3596
 Quantity:99.NUM	3501
 Quantity:999.NUM	3521
+Sound:chime.V	2897
+Sound:crow.V	2074
+Sound:echo.N	2816
+Sound:hear or listen.V	3862
+Sound:hear.V	1408
+Sound:listen.V	1608
+Sound:loud.A	377
+Sound:noise.N	1182
+Sound:quiet.A	1314
+Sound:ring.V	2875
+Sound:silence.N	3458
+Sound:sound or noise.N	1811
+Sound:sound.V	2879
+Sound:tinkle.V	2888
+Time:age.N	1789
+Time:autumn.N	1276
+Time:day (24 h).N	1260
+Time:daytime.N	1225
+Time:future.N	2427
+Time:hour.N	1353
+Time:monsoon season.N	3323
+Time:month.N	1370
+Time:morning.N	1339
+Time:night.N	1233
+Time:now or today.ADV	2097
+Time:now.ADV	1376
+Time:often.ADV	1852
+Time:old.A	1229
+Time:one time.N	374
+Time:season.N	691
+Time:springtime.N	1537
+Time:summer.N	1342
+Time:week.N	1469
+Time:winter.N	1471
+Time:year.N	1226

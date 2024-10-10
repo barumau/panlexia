@@ -152,7 +152,6 @@ Action/Technology:pearl.N	3325	A small hard shiny ball formed in mussels or oyst
 Action/Technology:powerful.A	3001	Being done using a huge amount of energy.
 Action/Technology:rustle (of leaves).V	2877	A sound emitted by leaves moving in the trees.
 Action/Technology:snowman.N	3098	A mass of snow sculptured into the shape of a human.
-Action/Technology:sound (of instrument or voice).V	2879	The noise emitted by musical instruments or humans speaking.
 Action/Technology:tinplate.N	358	A thin sheet of steel coated with tin to prevent rusting; used to make cans etc.
 Agriculture:burn land.V	3539	Clear an area with fire.
 Agriculture:corn field.N	449	A field in which corn is grown.
@@ -348,7 +347,6 @@ Animal:female dog.N	2481	A female dog.
 Animal:female goat.N	2476	A female goat.
 Animal:female pig.N	2488	A female pig.
 Animal:female yak.N	2479	A female yak.
-Animal:female.A	1551	Of, relating to, or denoting the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).
 Animal:fin.N	213	An appendage of a fish used for swimming.
 Animal:finch.N	3721	A bird with a conical beak of the family Fringillidae.
 Animal:firefly.N	206	A nocturnal, bioluminescent beetle of the family Lampyridae.
@@ -584,6 +582,7 @@ Animal:trout.N	795	Fresh water salmon.
 Animal:turkey.N	2386	A large bird from the family of Phasanidae.
 Animal:turtle.N	112	A reptile of the order Testudines (the crown group of the superorder Chelonia), characterised by a special bony or cartilaginous shell developed from their ribs that acts as a shield.
 Animal:tusk.N	3280	A pointed elongated tooth, usually one of a pair, extending outside the mouth of a mammal.
+Animal:twins.N	1005	A case of multiple birth in which the mother gives birth to two offspring from the same pregnancy.
 Animal:untamed or wild.A	2230	Not cultivated, domesticated or controlled by humans.
 Animal:vermin.N	929	Small animals and insects that can be harmful and which are difficult to control when they appear in large numbers. (Source: CAMB)
 Animal:viper.N	2654	A family of venomous snakes found in most parts of the world.
@@ -871,6 +870,7 @@ Body:sunbathe.V	3131	Sit or lie in the sun in order to tan the skin.
 Body:sweat (perspire).V	126	To secrete sweat.
 Body:sweat (substance).N	125	A fluid that is secreted by sweat glands in the skin in order to regulate body temperature.
 Body:swelling.N	1903	Abnormal protuberance or localized enlargement.
+Body:tear.N	1651	A drop of liquid produced from the eyes by crying or irritation.
 Body:temples.N	1604	The region of the skull on either side of the forehead.
 Body:tickle (somebody).V	3647	To move your fingers lightly on a sensitive part of somebody's body to make them feel uncomfortable and cause them to laugh.
 Body:tinea.N	3173	Dermatophytosis, fungal skin infection making white spots/non-symmetrical white patches on the skin.
@@ -1301,7 +1301,6 @@ Emotion:stubborn.A	3634	Unyielding; unlikely to change one's mind and determined
 Emotion:surprise (feeling).N	3848	A feeling caused by something unexpected.
 Emotion:surprise (somebody).V	3627	To make someone feel surprised by giving, telling or doing something unexpected.
 Emotion:surprised.A	1572	Feeling that something unexpected has happened.
-Emotion:tear (of eye).N	1651	A drop of liquid produced from the eyes by crying or irritation.
 Emotion:trauma.N	3965	A physical wound and, in particular, a psychological state of pain, ensued from a harmful experience of set of events.
 Emotion:triumph.N	3849	A feeling of extreme pleasure and excitement as a result of success or a victory.
 Emotion:true.A	1657	Concurring with a given set of facts.
@@ -1316,96 +1315,49 @@ Emotion:vulgar.A	1080	Rude and likely to offend, using allusions on the sexual l
 Emotion:want.V	1784	To want to do something or to wish for something to happen.
 Emotion:worry.V	150	To be anxious about something.
 Emotion:wrong.A	1390	Not correct.
-Family:adult.N	3635	A fully grown and mature person.
-Family:ancestors.N	1669	Person from whom a person is descended, whether on the father's or mother's side, at any number of generations.
 Family:aunt or mother-in-law.N	2383	Either an aunt or the mother-in-law of a person.
 Family:aunt or uncle.N	2682	The brother or mother of someone’s father or mother.
-Family:aunt.N	1272	A woman with one or more siblings who have one or more children; a sister of someone's father or mother.
-Family:baby.N	1289	A very young human being, from birth to a year old.
-Family:bad person.N	2197	A person with an evil character.
-Family:bastard.N	1947	A child born of parents not married to each other.
-Family:black man.N	2806	Term used to describe men who are perceived to be dark-skinned.
-Family:black woman.N	2807	Term used to describe women who are perceived to be dark-skinned.
-Family:blind person.N	457	Person who has a complete lack of form and visual light perception.
-Family:boy or son.N	2391	Either a son or a boy.
-Family:boy.N	1366	A young male person, usually a child or teenager.
-Family:brave person.N	2226	A person with a brave character.
-Family:bride.N	1266	A woman who is going to get married or has just got married.
-Family:brother (of man).N	559	The brother of a man.
-Family:brother (of woman).N	560	The brother of a woman.
 Family:brother-in-law (husband's older brother).N	2698	Husband of one's older brother.
 Family:brother-in-law (husband's younger brother).N	2699	Husband of one's younger brother.
 Family:brother-in-law (of man).N	2380	The brother of a man's partner in a marriage.
 Family:brother-in-law (older sister's husband).N	2696	Husband of one's older sister.
 Family:brother-in-law (younger sister's husband).N	2697	Husband of one's younger sister.
-Family:brother-in-law.N	2314	The brother of one's partner in a marriage.
-Family:brother.N	1262	A male person who has the same parents as another person.
-Family:chatterer.N	2207	A person who talks a lot.
-Family:child (descendant).N	1801	Biological offspring.
-Family:child (young human).N	1304	A person below the age of puberty.
-Family:child-in-law.N	1060	The spouse of someone's child.
-Family:child.N	2099	A young human or the descendant of a human.
+Family:child.N	1801	Biological offspring.
 Family:co-wife.N	3636	Another female partner in a polygamous marriage.
 Family:cousin or sister-in-law.N	2384	Either a cousin or a sister-in-law.
-Family:cousin.N	1643	The child of the sibling of a parent of a person.
 Family:cross-cousin.N	3162	The child of a parent’s opposite-sex sibling, for example the father’s sister’s son.
 Family:daughter (of male ego).N	3778	A daughter, as referred to by her father.
 Family:daughter (of woman).N	3930	Daughter of a mother
-Family:daughter or girl.N	2392	Either a daughter or a girl.
 Family:daughter-in-law (of man).N	2265	The daughter-in-law of a man.
 Family:daughter-in-law (of woman).N	2264	The daughter-in-law of a woman.
 Family:daughter-in-law.N	1057	The female marital partner of someone's child.
-Family:daughter.N	1357	An animal's female offspring (including that of a human).
-Family:deaf person.N	458	Person who is  partial or total unable to hear.
 Family:descendants.N	490	One who is the progeny of someone at any distance of time.
 Family:different-sex older sibling.N	3039	A person of the different sex who is born before another person who has the same parents.
 Family:different-sex younger sibling.N	3040	A person of the different sex who is born after another person who has the same parents.
-Family:divorce (separate).V	3672	To end one's marriage by a legal process.
-Family:divorce.N	1134	Legal dissolution of a marriage.
-Family:family.N	194	A group comprising parents, offsprings and others closely related or associated with them.
 Family:father (of a man).N	3906	A male parent of a man.
 Family:father (of a woman).N	3905	A male parent of a woman.
 Family:father-in-law (of man).N	2255	The father-in-law of a man.
 Family:father-in-law (of woman).N	2254	The father-in-law of a woman.
 Family:father-in-law.N	1055	The father of someone's spouse.
-Family:father.N	1217	A male parent.
 Family:father's sister.N	170	The sister of one's father.
-Family:female (of person).A	2260	Relating to the female sex of humans.
 Family:female cousin.N	3823	The female child of the sibling of a parent of a person.
 Family:female person or mother.N	2800	A human belonging to the female sex or a woman who has at least one child.
 Family:female person.N	2105	A human belonging to the female sex.
-Family:girl.N	1646	A young female person, usually a child or teenager.
 Family:give birth.V	1195	To release an offspring from one's own body; to cause to be born.
 Family:grandchild (daughter's offspring).N	2703	Offspring of one's daughter.
 Family:grandchild (of female ego).N	3782	The child in the second generation in relation to a female individual.
 Family:grandchild (son's offspring).N	3909	Offspring of one's son.
-Family:grandchild.N	1617	A child of someone’s child.
-Family:granddaughter.N	1619	A daughter of someone's child.
 Family:grandfather or older brother.N	2644	Either the grandfather or the older brother of a person.
-Family:grandfather.N	1383	The father of one of someone's parents.
-Family:grandmother.N	1496	The mother of one of someone's parents.
-Family:grandparent.N	2399	Either the grandfather or the grandmother.
-Family:grandparents.N	305	The parents of someone's parent.
 Family:grandson (son's son).N	2702	Son of one's son.
-Family:grandson.N	1618	A son of someone's child.
-Family:groom.N	3282	A man who is going to get married or has just married.
-Family:guest or stranger.N	2908	Either a guest or a stranger.
 Family:husband or male person.N	2646	Either the male partner in a marriage or a male person.
-Family:husband.N	1200	The male partner in a marriage.
-Family:male (of person).A	2261	Relating to the male sex of humans.
 Family:male cousin.N	3822	The male child of the sibling of a parent of a person.
 Family:male person.N	2106	A human belonging to the male sex.
-Family:male.A	1553	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.
-Family:man or person.N	2645	Either a man or a person (in general).
-Family:man.N	1554	An adult human member of the sex that begets young by fertilizing ova.
 Family:marriage or wedding.N	3182	The ceremony of marrying someone or the state of being married.
 Family:marriage.N	2432	Marriage, also called matrimony or wedlock, is a socially or ritually recognized union or legal contract between spouses that establishes rights and obligations between them, between them and their children, and between them and their in-laws.
 Family:married man.N	424	A married man.
 Family:married woman.N	426	A married woman.
 Family:marry (as man).V	2164	To enter marriage from the perspective of a man.
 Family:marry (as woman).V	2163	To enter marriage from the perspective of a woman.
-Family:marry off.V	556	To force someone to get married, usually a relative.
-Family:marry.V	203	To enter marriage; to take a husband or a wife.
 Family:maternal aunt (mother's older sister).N	3042	The older sister of one's mother.
 Family:maternal aunt (mother's sister).N	2693	The sister of one's mother.
 Family:maternal aunt (mother's younger sister).N	3043	The younger sister of one's mother.
@@ -1423,15 +1375,11 @@ Family:mother (of a woman).N	3907	A female parent of a woman.
 Family:mother-in-law (of man).N	2257	The mother-in-law of a man.
 Family:mother-in-law (of woman).N	2256	The mother-in-law of a woman.
 Family:mother-in-law.N	1050	The mother of someone's spouse.
-Family:mother.N	1216	A woman who has at least one child.
 Family:mother's brother.N	1984	The brother of someone’s mother.
 Family:mother's sister.N	171	The sister of one's mother.
 Family:nephew or niece.N	3890	A child of someone's brother or sister.
 Family:nephew.N	1063	A son of someone's brother or sister.
 Family:niece.N	1642	A daughter of someone’s brother or sister.
-Family:old man.N	406	A male person who is old of age.
-Family:old person.N	725	An older person (usually considered to be above the age of 60).
-Family:old woman.N	907	An old woman.
 Family:older brother (of man).N	2414	The older brother of a man.
 Family:older brother (of woman).N	2415	The older brother of a woman.
 Family:older brother.N	1759	A male with more years of age than one or more of his siblings.
@@ -1439,9 +1387,7 @@ Family:older sibling.N	405	A person who is born before another person who has th
 Family:older sister (of man).N	2418	The older sister of a man.
 Family:older sister (of woman).N	2419	The older sister of a woman.
 Family:older sister.N	1758	A female with more years of age than one or more of her siblings.
-Family:orphan.N	1149	A person one or both of whose parents have died, especially a minor.
 Family:parents-in-law.N	306	The parents of someone's spouse
-Family:parents.N	505	Father and mother of a child.
 Family:paternal aunt (father's older sister).N	3041	The older sister of one's father.
 Family:paternal aunt (father's sister).N	2691	The sister of one's father.
 Family:paternal aunt (wife of father's older brother).N	2170	Wife of father's elder brother.
@@ -1453,14 +1399,10 @@ Family:paternal uncle (father's brother).N	1985	The brother of one’s father.
 Family:paternal uncle (father's older brother).N	2173	Father's elder brother.
 Family:paternal uncle (father's younger brother).N	2174	Father's younger brother.
 Family:paternal uncle.N	3763	Father's brother or father's sibling's husband.
-Family:people or person.N	2661	Either multiple human beings or one human being.
-Family:person.N	683	A human being.
 Family:relatives.N	1644	A person that is considered to be of the same family due to shared ancestors, marriage or adoption.
 Family:same-sex older sibling.N	3037	A person of the same sex who is born before another person who has the same parents.
 Family:same-sex younger sibling.N	3038	A person of the same sex who is born after another person who has the same parents.
-Family:self.?	1993	The essential qualities that make a person or a thing distinct from all others.
 Family:sibling-in-law.N	1832	The husband of one's sister.
-Family:sibling.N	1640	A person who has the same parents as another person.
 Family:sibling's child.N	173	The child of a sibling.
 Family:sister (of man).N	561	The sister of a man.
 Family:sister (of woman).N	562	The sister of a woman.
@@ -1469,34 +1411,13 @@ Family:sister-in-law (husband's younger sister).N	2701	Husband of one's younger 
 Family:sister-in-law (of female ego).N	3781	The sister of a woman's husband or the wife of a woman's brother.
 Family:sister-in-law (older brother's wife).N	2695	Wife of one's older brother.
 Family:sister-in-law.N	2317	The sister of one's partner in a marriage.
-Family:sister.N	1263	A female person who has the same parents as another person.
 Family:son (of male ego).N	3779	A son, as referred to by his father.
 Family:son of woman.N	3939	Son of a mother
 Family:son-in-law (of man).N	2267	The son-in-law of a man.
 Family:son-in-law (of woman).N	2266	The son-in-law of a woman.
-Family:son-in-law.N	1056	The male marital partner of someone's child.
-Family:son.N	1620	One's male child.
-Family:spouse.N	2514	One of the partners in a marriage, be they male or female.
-Family:stepchild.N	3910	The child of one's spouse and his or her previous partner.
-Family:stepdaughter.N	1058	The daughter of one's spouse and his or her previous partner.
-Family:stepfather.N	237	The husband of one's biological mother, other than one's biological father.
-Family:stepmother.N	236	The wife of one's biological father, other than one's biological mother.
-Family:stepson.N	1059	The son of one's spouse and his or her previous partner.
 Family:surname.N	3426	The family name of a person.
-Family:twins.N	1005	A case of multiple birth in which the mother gives birth to two offspring from the same pregnancy.
 Family:uncle (husband of father's sister).N	2690	The husband of the sister of one's father.
 Family:uncle or father-in-law.N	2387	Either an uncle or the father-in-law.
-Family:uncle.N	1327	The brother of someone’s father or mother.
-Family:virgin.N	2298	A person who has never engaged in sexual intercourse.
-Family:wedding.N	1259	A ceremony celebrating the beginning of a marriage, during which the marrying parties exchanges vows.
-Family:white man.N	2839	Term used to describe men who are perceived to be light-skinned.
-Family:white woman.N	2840	Term used to describe women who are perceived to be light-skinned.
-Family:widow.N	1756	A woman whose spouse has died.
-Family:widower.N	1981	A man whose spouse has died.
-Family:wife.N	1199	The female partner in a marriage.
-Family:woman.N	962	An adult human member of the sex that produces ova and bears young.
-Family:young man.N	76	A male juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.
-Family:young woman.N	77	A female juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.
 Family:younger brother (of man).N	2416	The younger brother of a man.
 Family:younger brother (of woman).N	2417	The younger brother of a woman.
 Family:younger brother.N	1760	A male with fewer years of age than one or more of his siblings.
@@ -2017,6 +1938,8 @@ Law:swear.V	1939	To declare or affirm solemnly and formally as true.
 Law:swindle.V	3055	To deceive or deprive by trickery and fraud; to cheat.
 Law:thief.N	1160	Someone who takes property belonging to someone else with the intention of keeping it or selling it.
 Law:witness.N	1144	Someone who has a personal knowledge of something.
+Mankind:chatterer.N	2207	A person who talks a lot.
+Mankind:self.N	1993	The essential qualities that make a person or a thing distinct from all others.
 Measure:catty (mass unit).CLF	2647	A traditional Chinese unit of mass used across East and Southeast Asia, notably for weighing food and other groceries in some wet markets, street markets, and shops.
 Measure:foot (unit).N	2688	A unit of length.
 Medicine:dentist.N	3876	A person who is medically trained and licensed to practice the prevention, diagnosis, and treatment of diseases, injuries, and malformations of the teeth, jaws, and mouth.
@@ -2191,8 +2114,6 @@ Motion:crawl or creep.V	3456	To move using ones hands and knees or with one's be
 Motion:crawl.V	96	To move using ones hands and knees.
 Motion:creep.V	3215	To move with one's belly touching the ground.
 Motion:crouch.V	296	To lower one's body close to the ground by bending one's knees completely.
-Motion:dance (movement).N	3472	A series of rhythmic movements performed to music.
-Motion:dance.V	1879	To move with rhythmic steps or movements, especially in time to music.
 Motion:dash (of vehicle).V	2863	To move quickly (of a vehicle).
 Motion:deliver.V	2033	To bring or transport something to its destination.
 Motion:disappear.V	485	To cease to appear, to not be visible anymore.
@@ -2312,10 +2233,6 @@ Motion:wheel.N	710	A circular object that spins around a central axe thereby all
 Motion:wrap.V	1113	To surround on all sides.
 Motion:yoke (verb).V	2217	To put a yoke or a harness on animals.
 Motion:yoke.N	14	A device for joining together a pair of draft animals.
-Music:accordion.N	2603	A musical instrument.
-Music:bell.N	2246	A simple sound-making device.
-Music:brass instrument (horn or trumpet).N	2136	Any musical instrument that is a member of the brass family of musical instruments, usually a horn or a trumpet.
-Music:conduct.V	3111	To lead some kind of musical performance.
 Nature:active.A	1861	Characterized by energetic activity.
 Nature:air.N	27	A predominantly mechanical mixture of a variety of individual gases forming the earth's enveloping atmosphere.
 Nature:arctic lights.N	261	A natural light display in the sky particularly in the Arctic regions.
@@ -3073,6 +2990,7 @@ Society:gipsy.N	532	Gipsy is a common word used to indicate Romani people, Tinke
 Society:gossip.V	3640	To talk about other people's private lives.
 Society:govern.V	382	To make and administer the public policy and affairs of; to exercise sovereign authority in.
 Society:government.N	815	A body that has the authority to make and the power to enforce laws within a civil, corporate, religious, academic, or other organization or group.
+Society:guest or stranger.N	2908	Either a guest or a stranger.
 Society:guest.N	1782	A person that visits and stays at a house, usually for one or more nights.
 Society:han chinese.N	3373	Referring to the Han Chinese people, their cultural practices or heritage.
 Society:help (assistance).N	3467	The act of helping someone.
@@ -3144,46 +3062,11 @@ Society:trust (somebody).V	3902	To have great confidence in someone that he or s
 Society:village.N	930	A group of houses and other buildings, such as a church, a school and some shops, which is smaller than a town, usually in the countryside.
 Society:visit.V	1377	To go and see a person or place.
 Society:win.V	866	To achieve a victory.
-Sound:chime.V	2897	To ring the bells.
-Sound:crow (verb).V	2074	To utter the characteristic cry of a rooster.
-Sound:drum.N	908	A percussion instrument consisting of at least one membrane that is stretched over a shell and struck directly with the player's hands or with a drumstick.
-Sound:echo.N	2816	Reflection of sound.
-Sound:erhu.N	3052	A two-stringed fiddle common in Eastern Asia; Chinese violin, Chinese two-stringed fiddle.
-Sound:flute.N	777	A musical instrument of the woodwind family.
-Sound:folk song.N	2059	A traditional piece of music with words to sing.
-Sound:gong.N	2502	An African, East and South East Asian musical percussion instrument that takes the form of a flat, circular metal disc which is hit with a mallet.
-Sound:guitar.N	3090	Musical instrument with usually six strings.
-Sound:harmonica.N	2590	A mouth organ (musical instrument).
-Sound:harp.N	2597	A string musical instrument.
-Sound:hear or listen.V	3862	To perceive sound with the ear, with or without paying attention to it.
-Sound:hear.V	1408	To perceive sound with the ear, without necessarily paying attention to it.
 Sound:hearing sense.N	2518	The sense that enables to perceive sounds.
 Sound:hoarse.A	3987	(Of a voice or a person) Having a rough voice, often because of a sore throat or a cold.
-Sound:horn.N	939	A wind instrument made of a wound copper tube with a wide sound bucket and valves.
 Sound:jew’s harp.N	3319	A small musical instruments put between the teeth and played with a finger.
-Sound:jingle (instrument).N	3993	"One of a cluster of small bells, shaken or tapped on the palm of the player's hand. The small metal discs arranged around the frame of a tambourine are also called ""jingles""."
-Sound:listen.V	1608	To perceive with the ear (paying attention to what is heard).
-Sound:loud.A	377	(Of a sound) to have a high volume.
-Sound:lute.N	2681	A plucked string musical instrument with with a neck and a deep round back.
 Sound:make noise.V	2895	To be loud.
-Sound:mouth harp.N	3048	Lamellophone instrument consisting of a tongue or reed attached to a frame, placed in the performer's mouth and plucked; Jew's harp, jaw harp.
-Sound:music.N	642	The artistic organisation of sounds or tones that expresses ideas and emotions through the elements of rhythm, melody, harmony and tonal colour.
-Sound:noise.N	1182	Sound which is unwanted, either because of its effects on humans, its effect on fatigue or malfunction of physical equipment, or its interference with the perception or detection of other sounds.
 Sound:noisy.A	3883	To make a lot of noise.
-Sound:piano (instrument).N	3994	A large musical instrument with a row of black and white keys that are pressed to play notes.
-Sound:play (instrument).V	3124	Execute coordinated movements on or with a musical instrument to produce sounds.
-Sound:quiet.A	1314	With little or no sound; denoting absence of disturbing noise.
-Sound:rattle.N	300	A wooden instrument that makes a loud knocking noise [used by people watching football games].
-Sound:ring (make sound).V	2875	Ring most broadly refers to a hollow circular shape or to a high-pitched sound.
-Sound:silence.N	3458	Absence of sound, especially of noise.
-Sound:sing.V	1261	To produce harmonious sounds with one's voice.
-Sound:song.N	1096	A musical piece with lyrics (or words to sing); prose that one can sing.
-Sound:sound or noise.N	1811	Any audible noise which is not necessarily unwanted or unpleasant to the hearer and of short or long duration.
-Sound:tambourine.N	3141	Musical instrument with round, wooden frame and covered by skin, plastic, etc. with metal discs around the frame.
-Sound:tinkle.V	2888	Emit a sound suggestive of a tinkle.
-Sound:tone.N	2995	Traditionally in Western music, a musical tone is a steady periodic sound.
-Sound:trumpet.N	775	A musical instrument in the brass family.
-Sound:whistle.N	3107	Wind instrument most often made out of metal or wood used for producing a loud, shrill tone.
 Space:above.?	1741	Situated in a higher place than something else.
 Space:across.?	2670	Located directly across from something else, or from each other.
 Space:after.?	1685	Subsequent, following, in time or space.
@@ -3344,7 +3227,6 @@ Space:wide.A	1243	Having a long distance or area between two points, especially 
 Time:afternoon.N	1807	The part of the day which follows noon, between noon and evening.
 Time:afterwards.?	2093	Later or after something else has happened or happens.
 Time:again.?	204	Once more.
-Time:age.N	1789	The amount of time that a person, animal or plant has lived or that an object has existed.
 Time:already.?	2576	Prior to a specified point in time.
 Time:always.?	1676	At all times.
 Time:april.N	2847	The 4th month of the Gregorian calendar.
@@ -3353,7 +3235,6 @@ Time:at first.?	2915	When first seen or considered.
 Time:at that time.?	2922	At a certain time in the past.
 Time:august.N	2851	The 8th month of the Gregorian calendar.
 Time:autumn or harvest season.?	3327	The time during which crops are typically harvested, often co-occurring with the season of autumn.
-Time:autumn.N	1276	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.
 Time:be dead or die.V	2101	To cease or have ceased to live.
 Time:be late.A	425	To be later than the expected time.
 Time:before.?	1882	At a time before that.
@@ -3365,8 +3246,6 @@ Time:calendar.N	1967	A table showing the months and days of the year.
 Time:cease.V	1928	To have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.
 Time:clock.N	1323	An instrument used to measure or keep track of time.
 Time:dawn.N	729	A period of time at the beginning of the day shortly before sunrise during which the light gradually becomes stronger.
-Time:day (24 hours).N	1260	A period of time lasting 24 hours.
-Time:day (not night).N	1225	The period between sunrise and sunset where one enjoys daylight.
 Time:day after tomorrow.?	1179	On the day following tomorrow.
 Time:day before yesterday.?	1180	On the day before yesterday.
 Time:december.N	2855	The 12th month of the Gregorian calendar.
@@ -3385,10 +3264,8 @@ Time:former.?	3004	Coming before in time.
 Time:four days before now.?	3278	Four days before today.
 Time:four days from now.?	3277	Four days from today.
 Time:friday.N	1692	The fifth day of the week in Europe and in systems using the ISO 8601 norm; the sixth day of the week in the United States of America.
-Time:future.N	2427	The future is what will happen in the time after the present.
 Time:harmattan.N	451	Dry, dusty and cold West African trade wind from northeastern direction.
 Time:hot season.N	3047	Period of the year associated with hot or warm weather.
-Time:hour.N	1353	A time period of sixty minutes; one twenty-fourth of a day.
 Time:how long.?	2338	Asking for the duration of an event.
 Time:hurry.V	754	To move or do something at a fast pace.
 Time:idle.N	2756	The state of not being occupied with anything.
@@ -3408,45 +3285,33 @@ Time:may (month).N	2848	The 5th month of the Gregorian calendar.
 Time:midday.N	12	Time of day when the sun is in its zenith.
 Time:midnight.N	2656	In the middle of the night.
 Time:monday.N	1697	The first day of the week in Europe and in systems using the ISO 8601 norm; the second day of the week in the United States of America.
-Time:monsoon season.N	3323	A period of heavy rain particularly during summer time.
-Time:month.N	1370	A period into which a year is divided, historically based on the phases of the moon. In the Gregorian calendar there are twelve months.
-Time:morning.N	1339	The period of time from the start of the day (midnight) until midday (12:00).
 Time:never.?	1656	At no time.
 Time:new.A	1231	Recently made, created or begun.
 Time:next month.N	2793	The month after this month.
 Time:next year.?	515	The year after the current one.
-Time:night.N	1233	The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.
 Time:noon.N	2490	12 o'clock in the daytime.
 Time:november.N	2854	The 11th month of the Gregorian calendar.
-Time:now or today.?	2097	On the current day or in the current moment.
-Time:now.?	1376	At present; at this time.
 Time:october.N	2853	The 10th month of the Gregorian calendar.
-Time:often.?	1852	Many times, with short intervals between occasions.
 Time:old (aged).A	2112	To be old (of persons).
 Time:old (of man).A	565	Old of a man as opposed to old of a woman.
 Time:old (of woman).A	566	Old of a woman as opposed to old of a man.
 Time:old (used).A	2113	To be old (of things).
-Time:old.A	1229	Having lived or existed for a relatively long period of time.
 Time:once (in the past).?	2914	One time during a certain time in the past.
-Time:one time.?	374	An instance or occurrence of an event.
 Time:pass.V	1951	Of time, to elapse, to be spent.
 Time:perhaps.?	2278	(Of an event) to be possible to occur or to have occurred.
 Time:period.N	508	A length of time.
 Time:rainy season.N	453	Period of year when most of a region's average annual rainfall occurs.
 Time:ready.A	790	Prepared for immediate action or use.
 Time:saturday.N	1700	The sixth day of the week in Europe and in systems using the ISO 8601 norm; the seventh day of the week in the United States of America.
-Time:season.N	691	One of the four equal periods into which the year is divided by the equinoxes and solstices, resulting from the apparent movement of the sun north and south of the equator during the course of the earth's orbit around it. These periods (spring, summer, autumn and winter) have their characteristic weather conditions in different regions, and occur at opposite times of the year in the N and S hemispheres.
 Time:second day of the month.N	3355	The second day of the month.
 Time:september.N	2852	The 9th month of the Gregorian calendar.
 Time:short (time).?	3312	For a brief period or a short amount of time.
 Time:slow.A	701	With low speed.
 Time:sometimes.?	1544	On certain occasions, or in certain circumstances, but not always.
 Time:soon.?	703	In a near future.
-Time:springtime.N	1537	Traditionally the first of the four seasons, the season of growth with an ever increasing amount of daytime.
 Time:start.V	3449	(Of an activity) to begin.
 Time:still (continuing).?	2919	Continuance of motion or state.
 Time:suddenly.?	2920	Happening unexpectedly.
-Time:summer.N	1342	Traditionally the second of the four seasons regarded as being from June 21 to September 20 (or just June, July and August) in the Northern Hemisphere and from December 21 to March 20 (or just December, January and February) in the Southern Hemisphere.
 Time:sunday.N	1699	The seventh day of the week in Europe and in systems using the ISO 8601 standard, or the first day of the week in the United States of America, the Sabbath for most Christians.
 Time:sunrise.N	2296	The instant at which the upper edge of the Sun appears over the eastern horizon in the morning.
 Time:sunset.N	2295	The daily disappearance of the Sun below the western horizon as a result of Earth's rotation.
@@ -3464,13 +3329,10 @@ Time:tomorrow.?	1329	The day after the present day.
 Time:tuesday.N	1695	The second day of the week in Europe and in systems using the ISO 8601 norm; the third day of the week in the United States of America.
 Time:until.?	2753	Up to that point in time.
 Time:wednesday.N	1694	The third day of the week in Europe and in systems using the ISO 8601 norm; the fourth day of the week in the United States of America.
-Time:week.N	1469	A period of seven days.
 Time:while.N	726	A certain duration of time, a period of time.
-Time:winter.N	1471	Traditionally, the fourth of the seasons, marked by the applicable hemisphere of the planet being at its minimum angle of exposure to the Sun, resulting in short days, long nights and typically in low temperatures.
 Time:wristwatch.N	3349	An instrument used to measure or keep track of time that is carried around the wrist.
 Time:year after next year.?	2330	The year after the next year.
 Time:year before last year.?	2331	The year before the last year.
-Time:year.N	1226	The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).
 Time:yesterday.?	1174	The day before today.
 Time:yet.?	2577	Up to a particular time.
 Time:young (of man).A	564	Young of a man as opposed to young of a woman.
