@@ -20,7 +20,7 @@ For example, `eng_2.tsv` and `eng_2-IPA.tsv`.
 Each word list file consists of lines that include an entry identifier, a tab (i.e. character tabulation) and a word or words in the given language.
 The entry identifier is a unique code that consists of the following parts:
 
-- the semantic field in Latin or pseudo-Latin
+- the semantic field or theme in English
 - a colon (`:`)
 - the term in a standardized (scientific, technological or other) terminology or in plain English
 - a period (`.`)
@@ -30,11 +30,14 @@ The word is the translation of the concept in the language in question.
 The entry identifiers link translations in different languages together.
 
 ``` 
-Anatomia:head.N head
-Anatomia:face.N	face
-Anatomia:face.A facial
-Animalia:Felis cattus.N cat
-Animalia:Lupus canis.N  dog
+Animal:Felis catus.N cat
+Animal:Canis lupus.N  wolf
+Animal:Canis lupus familiaris.N dog
+Body:head.N head
+Body:face.N	face
+Body:face.A facial
+Food:Malus domestica.N  apple
+Plant:Malus domestica.N apple tree
 ```
 
 The repository includes also some Python and shell scripts for generating dictionaries.
