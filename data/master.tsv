@@ -37,6 +37,163 @@ Animal:Sus scrofa domestica.N	Animal:pig.N	A common, four-legged animal (Sus scr
 Animal:Testudines.N	Animal:turtle.N	A reptile of the order Testudines (the crown group of the superorder Chelonia), characterised by a special bony or cartilaginous shell developed from their ribs that acts as a shield.	112	3-98		934
 Animal:Vespinae.N	Animal:wasp.N	A flying stinging insect related to the bee, which is usually coloured yellow and black.	1517	3-823		
 Animal:Vulpes.N	Animal:fox.N	A carnivorous relatively small canine of the species Vulpes Vulpes.	1312	3-74	Fuchs::N	964
+Quantity:0.NUM	Quantity:zero.NUM	The integer zero (0).	1294	13		
+Quantity:1.NUM	Quantity:one.NUM	The natural number one (1).	1493	13-01	eins::NUM	
+Quantity:10.NUM	Quantity:ten.NUM	The natural number ten (10).	1515	13-1	zehn::NUM	
+Quantity:10^10.NUM	Quantity:ten billion.NUM	The natural number ten billion (10000000000).	3600			
+Quantity:10^11.NUM	Quantity:one hundred billion.NUM	The natural number one hundred billion (100000000000).	3601			
+Quantity:10^12.NUM	Quantity:trillion.NUM	The natural number one trillion (1000000000000).	3602			
+Quantity:10^4.NUM	Quantity:ten thousand.NUM	The natural number ten thousand (10000).	2078			
+Quantity:10^5.NUM	Quantity:one hundred thousand.NUM	The natural number one hundred thousand (100000).	3532			
+Quantity:10^6.NUM	Quantity:one million.NUM	The natural number one million (1000000).	3533			
+Quantity:10^7.NUM	Quantity:ten million.NUM	The natural number ten million (10000000).	3597			
+Quantity:10^8.NUM	Quantity:one hundred million.NUM	The natural number one hundred million (100000000).	3598			
+Quantity:100.NUM	Quantity:hundred.NUM	The natural number one hundred (100).	1634	13-105	hundert::NUM	
+Quantity:1000.NUM	Quantity:thousand.NUM	The natural number one thousand (1000).	1843	13-106	tausend::NUM	
+Quantity:1001.NUM	Quantity:one thousand and one.NUM	The natural number one thousand and one (1001).	3773			
+Quantity:101.NUM	Quantity:one hundred and one.NUM	The natural number one hundred and one (101).	3502			
+Quantity:102.NUM	Quantity:one hundred and two.NUM	The natural number one hundred and two (102).	3770			
+Quantity:1027.NUM	Quantity:one thousand and twenty seven.NUM	The natural number one thousand and twenty-seven (1027).	3790			
+Quantity:103.NUM	Quantity:one hundred and three.NUM	The natural number one hundred and three (103).	3783			
+Quantity:1060.NUM	Quantity:one thousand and sixty.NUM	The natural number one thousand and sixty (1060).	3775			
+Quantity:108.NUM	Quantity:one hundred and eight.NUM	The natural number one hundred and eight (108).	3784			
+Quantity:11.NUM	Quantity:eleven.NUM	The natural number eleven (11).	1706	13-101	elf::NUM	
+Quantity:110.NUM	Quantity:one hundred and ten.NUM	The natural number one hundred and ten (110).	3503			
+Quantity:111.NUM	Quantity:one hundred and eleven.NUM	The natural number one hundred and eleven (111).	3771			
+Quantity:12.NUM	Quantity:twelve.NUM	The natural number twelve (12).	1707	13-102	zwölf::NUM	
+Quantity:120.NUM	Quantity:one hundred and twenty.NUM	The natural number one hundred and twenty (120).	3504			
+Quantity:123.NUM	Quantity:one hundred and twenty three.NUM	The natural number one hundred and twenty-three (123).	3164			
+Quantity:13.NUM	Quantity:thirteen.NUM	The natural number thirteen (13).	1708			
+Quantity:133.NUM	Quantity:one hundred and thirty three.NUM	The natural number one hundred and thirty-three (133).	3505			
+Quantity:14.NUM	Quantity:fourteen.NUM	The natural number fourteen (14).	2451			
+Quantity:140.NUM	Quantity:one hundred and forty.NUM	The natural number one hundred and forty (140).	3506			
+Quantity:144.NUM	Quantity:one hundred and forty four.NUM	The natural number one hundred and forty-four (144).	3507			
+Quantity:15.NUM	Quantity:fifteen.NUM	The natural number fifteen (15).	1709	13-103		
+Quantity:150.NUM	Quantity:one hundred and fifty.NUM	The natural number one hundred and fifty (150).	3508			
+Quantity:16.NUM	Quantity:sixteen.NUM	The natural number sixteen (16).	2454			
+Quantity:160.NUM	Quantity:one hundred and sixty.NUM	The natural number one hundred and sixty (160).	3509			
+Quantity:17.NUM	Quantity:seventeen.NUM	The natural number seventeen (17).	2453			
+Quantity:18.NUM	Quantity:eighteen.NUM	The natural number eighteen (18).	1713			
+Quantity:180.NUM	Quantity:one hundred and eighty.NUM	The natural number one hundred and eighty (180).	3510			
+Quantity:19.NUM	Quantity:nineteen.NUM	The natural number nineteen (19).	1714			
+Quantity:2.NUM	Quantity:two.NUM	The natural number two (2).	1498	13-02	zwei::NUM	
+Quantity:20.NUM	Quantity:twenty.NUM	The natural number twenty (20).	1710	13-104	zwanzig::NUM	
+Quantity:200.NUM	Quantity:two hundred.NUM	The natural number two hundred (200).	2676			
+Quantity:2000.NUM	Quantity:two thousand.NUM	The natural number two thousand (2000).	3524			
+Quantity:2000000.NUM	Quantity:two million.NUM	The natural number two million (2000000).	3794			
+Quantity:2002.NUM	Quantity:two thousand and two.NUM	The natural number two thousand and two (2002).	3776			
+Quantity:201.NUM	Quantity:two hundred and one.NUM	The natural number two hundred and one (201).	3511			
+Quantity:202.NUM	Quantity:two hundred and two.NUM	The natural number two hundred and two (202).	3785			
+Quantity:21.NUM	Quantity:twenty one.NUM	The natural number twenty-one (21).	1734			
+Quantity:210.NUM	Quantity:two hundred and ten.NUM	The natural number two hundred and ten (210).	3772			
+Quantity:216.NUM	Quantity:two hundred and sixteen.NUM	The natural number two hundred and sixteen (216).	3512			
+Quantity:22.NUM	Quantity:twenty two.NUM	The natural number twenty-two (22).	3166			
+Quantity:23.NUM	Quantity:twenty three.NUM	The natural number twenty-three (23).	3165			
+Quantity:231.NUM	Quantity:two hundred and thirty one.NUM	The natural number two hundred and thirty-one (231).	3786			
+Quantity:24.NUM	Quantity:twenty four.NUM	The natural number twenty-four (24).	1736			
+Quantity:240.NUM	Quantity:two hundred and forty.NUM	The natural number two hundred and forty (240).	3787			
+Quantity:25.NUM	Quantity:twenty five.NUM	The natural number twenty-five (25).	1738			
+Quantity:250.NUM	Quantity:two hundred and fifty.NUM	The natural number two hundred and fifty (250).	3788			
+Quantity:26.NUM	Quantity:twenty six.NUM	The natural number twenty-six (26).	3476			
+Quantity:27.NUM	Quantity:twenty seven.NUM	The natural number twenty-seven (27).	3477			
+Quantity:28.NUM	Quantity:twenty eight.NUM	The natural number twenty-eight (28).	3478			
+Quantity:29.NUM	Quantity:twenty nine.NUM	The natural number twenty-nine (29).	3479			
+Quantity:3.NUM	Quantity:three.NUM	The natural number three (3).	492	13-03	drei::NUM	
+Quantity:30.NUM	Quantity:thirty.NUM	The natural number thirty (30).	1715		dreißig::NUM	
+Quantity:300.NUM	Quantity:three hundred.NUM	The natural number three hundred (300).	3513			
+Quantity:3000.NUM	Quantity:three thousand.NUM	The natural number three thousand (3000).	3525			
+Quantity:304.NUM	Quantity:three hundred and four.NUM	The natural number three hundred and four (304).	3789			
+Quantity:31.NUM	Quantity:thirty one.NUM	The natural number thirty-one (31).	3480			
+Quantity:32.NUM	Quantity:thirty two.NUM	The natural number thirty-two (32).	3481			
+Quantity:33.NUM	Quantity:thirty three.NUM	The natural number thirty-three (33).	3482			
+Quantity:34.NUM	Quantity:thirty four.NUM	The natural number thirty-four (34).	3483			
+Quantity:35.NUM	Quantity:thirty five.NUM	The natural number thirty-five (35).	3484			
+Quantity:36.NUM	Quantity:thirty six.NUM	The natural number thirty-six (36).	3485			
+Quantity:37.NUM	Quantity:thirty seven.NUM	The natural number thirty-seven (37).	3486			
+Quantity:38.NUM	Quantity:thirty eight.NUM	The natural number thirty-eight (38).	3487			
+Quantity:39.NUM	Quantity:thirty nine.NUM	The natural number thirty-nine (39).	3488			
+Quantity:399.NUM	Quantity:three hundred and ninety nine.NUM	The natural number three hundred and ninety-nine (399).	3514			
+Quantity:4.NUM	Quantity:four.NUM	The natural number four (4).	1500	13-04	vier::NUM	
+Quantity:40.NUM	Quantity:forty.NUM	The natural number forty (40).	1716		vierzig::NUM	
+Quantity:400.NUM	Quantity:four hundred.NUM	The natural number four hundred (400).	3515			
+Quantity:4000.NUM	Quantity:four thousand.NUM	The natural number four thousand (4000).	3526			
+Quantity:41.NUM	Quantity:forty one.NUM	The natural number forty-one (41).	3556			
+Quantity:42.NUM	Quantity:forty two.NUM	The natural number forty-two (42).	3557			
+Quantity:43.NUM	Quantity:forty three.NUM	The natural number forty-three (43).	3489			
+Quantity:44.NUM	Quantity:forty four.NUM	The natural number forty-four (44).	3490			
+Quantity:45.NUM	Quantity:forty five.NUM	The natural number forty-five (45).	3491			
+Quantity:46.NUM	Quantity:forty six.NUM	The natural number forty-six (46).	3558			
+Quantity:46656.NUM	Quantity:forty six thousand six hundred and fifty six.NUM	The natural number forty six thousand six hundred and fifty six (46656).	3531			
+Quantity:47.NUM	Quantity:forty seven.NUM	The natural number forty-seven (47).	3559			
+Quantity:48.NUM	Quantity:forty eight.NUM	The natural number forty-eight (48).	3492			
+Quantity:49.NUM	Quantity:forty nine.NUM	The natural number forty-nine (49).	3560			
+Quantity:5.NUM	Quantity:five.NUM	The natural number five (5).	493	13-05	fünf::NUM	
+Quantity:50.NUM	Quantity:fifty.NUM	The natural number fifty (50).	1717		fünfzig::NUM	
+Quantity:500.NUM	Quantity:five hundred.NUM	The natural number five hundred (500).	3516			
+Quantity:5000.NUM	Quantity:five thousand.NUM	The natural number five thousand (5000).	3527			
+Quantity:51.NUM	Quantity:fifty one.NUM	The natural number fifty-one (51).	3561			
+Quantity:52.NUM	Quantity:fifty two.NUM	The natural number fifty-two (52).	3562			
+Quantity:53.NUM	Quantity:fifty three.NUM	The natural number fifty-three (53).	3493			
+Quantity:54.NUM	Quantity:fifty four.NUM	The natural number fifty-four (54).	3563			
+Quantity:55.NUM	Quantity:fifty five.NUM	The natural number fifty-five (55).	3494			
+Quantity:56.NUM	Quantity:fifty six.NUM	The natural number fifty-six (56).	3564			
+Quantity:57.NUM	Quantity:fifty seven.NUM	The natural number fifty-seven (57).	3565			
+Quantity:58.NUM	Quantity:fifty eight.NUM	The natural number fifty-eight (58).	3566			
+Quantity:59.NUM	Quantity:fifty nine.NUM	The natural number fifty-nine (59).	3567			
+Quantity:6.NUM	Quantity:six.NUM	The natural number six (6).	1703	13-06	sechs::NUM	
+Quantity:60.NUM	Quantity:sixty.NUM	The natural number sixty (60).	1718		sechzig::NUM	
+Quantity:600.NUM	Quantity:six hundred.NUM	The natural number six hundred (600).	3517			
+Quantity:6000.NUM	Quantity:six thousand.NUM	The natural number six thousand (6000).	3792			
+Quantity:61.NUM	Quantity:sixty one.NUM	The natural number sixty-one (61).	3568			
+Quantity:62.NUM	Quantity:sixty two.NUM	The natural number sixty-two (62).	3569			
+Quantity:63.NUM	Quantity:sixty three.NUM	The natural number sixty-three (63).	3495			
+Quantity:64.NUM	Quantity:sixty four.NUM	The natural number sixty-four (64).	3570			
+Quantity:65.NUM	Quantity:sixty five.NUM	The natural number sixty-five (65).	3571			
+Quantity:66.NUM	Quantity:sixty six.NUM	The natural number sixty-six (66).	3572			
+Quantity:67.NUM	Quantity:sixty seven.NUM	The natural number sixty-seven (67).	3573			
+Quantity:68.NUM	Quantity:sixty eight.NUM	The natural number sixty-eight (68).	3574			
+Quantity:69.NUM	Quantity:sixty nine.NUM	The natural number sixty-nine (69).	3575			
+Quantity:7.NUM	Quantity:seven.NUM	The natural number seven (7).	1704	13-07	sieben::NUM	
+Quantity:70.NUM	Quantity:seventy.NUM	The natural number seventy (70).	1721		siebzig::NUM	
+Quantity:700.NUM	Quantity:seven hundred.NUM	The natural number seven hundred (700).	3518			
+Quantity:7000.NUM	Quantity:seven thousand.NUM	The natural number seven thousand (7000).	3528			
+Quantity:71.NUM	Quantity:seventy one.NUM	The natural number seventy-one (71).	3576			
+Quantity:72.NUM	Quantity:seventy two.NUM	The natural number seventy-two (72).	3496			
+Quantity:73.NUM	Quantity:seventy three.NUM	The natural number seventy-three (73).	3497			
+Quantity:74.NUM	Quantity:seventy four.NUM	The natural number seventy-four (74).	3577			
+Quantity:75.NUM	Quantity:seventy five.NUM	The natural number seventy-five (75).	3578			
+Quantity:76.NUM	Quantity:seventy six.NUM	The natural number seventy-six (76).	3579			
+Quantity:77.NUM	Quantity:seventy seven.NUM	The natural number seventy-seven (77).	3580			
+Quantity:7776.NUM	Quantity:seven thousand seven hundred and seventy six.NUM	The natural number seven thousand seven hundred and seventy-six (7776).	3529			
+Quantity:78.NUM	Quantity:seventy eight.NUM	The natural number seventy-eight (78).	3581			
+Quantity:79.NUM	Quantity:seventy nine.NUM	The natural number seventy-nine (79).	3582			
+Quantity:8.NUM	Quantity:eight.NUM	The natural number eight (8).	1705	13-08	acht::NUM	
+Quantity:80.NUM	Quantity:eighty.NUM	The natural number eighty (80).	1722		achtzig::NUM	
+Quantity:800.NUM	Quantity:eight hundred.NUM	The natural number eight hundred (800).	3519			
+Quantity:8000.NUM	Quantity:eight thousand.NUM	The natural number eight thousand (8000).	3793			
+Quantity:81.NUM	Quantity:eighty one.NUM	The natural number eighty-one (81).	3583			
+Quantity:82.NUM	Quantity:eighty two.NUM	The natural number eighty-two (82).	3584			
+Quantity:83.NUM	Quantity:eighty three.NUM	The natural number eighty-three (83).	3498			
+Quantity:84.NUM	Quantity:eighty four.NUM	The natural number eighty-four (84).	3585			
+Quantity:85.NUM	Quantity:eighty five.NUM	The natural number eighty-five (85).	3586			
+Quantity:86.NUM	Quantity:eighty six.NUM	The natural number eighty-six (86).	3587			
+Quantity:87.NUM	Quantity:eighty seven.NUM	The natural number eighty-seven (87).	3588			
+Quantity:88.NUM	Quantity:eighty eight.NUM	The natural number eighty-eight (88).	3589			
+Quantity:89.NUM	Quantity:eighty nine.NUM	The natural number eighty-nine (89).	3590			
+Quantity:9.NUM	Quantity:nine.NUM	The natural number nine (9).	1483	13-09	neun::NUM	
+Quantity:90.NUM	Quantity:ninety.NUM	The natural number ninety (90).	1724		neunzig::NUM	
+Quantity:900.NUM	Quantity:nine hundred.NUM	The natural number nine hundred (900).	3520			
+Quantity:9000.NUM	Quantity:nine thousand.NUM	The natural number nine thousand (9000).	3530			
+Quantity:91.NUM	Quantity:ninety one.NUM	The natural number ninety-one (91).	3499			
+Quantity:92.NUM	Quantity:ninety two.NUM	The natural number ninety-two (92).	3591			
+Quantity:93.NUM	Quantity:ninety three.NUM	The natural number ninety-three (93).	3592			
+Quantity:94.NUM	Quantity:ninety four.NUM	The natural number ninety-four (94).	3593			
+Quantity:95.NUM	Quantity:ninety five.NUM	The natural number ninety-five (95).	3594			
+Quantity:96.NUM	Quantity:ninety six.NUM	The natural number ninety-six (96).	3500			
+Quantity:97.NUM	Quantity:ninety seven.NUM	The natural number ninety-seven (97).	3595			
+Quantity:98.NUM	Quantity:ninety eight.NUM	The natural number ninety-eight (98).	3596			
+Quantity:99.NUM	Quantity:ninety nine.NUM	The natural number ninety-nine (99).	3501			
+Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number nine hundred and ninety-nine (999).	3521			
 	Action/Technology:a little.?	More than one, but not as much as usual or as expected. (for mass nouns)	2924		ein wenig::ADV	
 	Action/Technology:accept.V	To take or get something that was offered by someone.	3898			
 	Action/Technology:accustom.V	Get used to something.	1118			
@@ -4819,59 +4976,15 @@ Animal:Vulpes.N	Animal:fox.N	A carnivorous relatively small canine of the specie
 	Quantity:door (classifier).CLF	Classifier for doors and gates.	2734			
 	Quantity:drop (classifier).CLF	Classifier for small units of liquid, like water.	2087			
 	Quantity:egg (classifier).CLF	Classifier for eggs.	3417			
-	Quantity:eight hundred.NUM	The natural number eight hundred (800).	3519			
-	Quantity:eight thousand.NUM	The natural number eight thousand (8000).	3793			
-	Quantity:eight.NUM	The natural number eight (8).	1705	13-08	acht::NUM	
-	Quantity:eighteen.NUM	The natural number eighteen (18).	1713			
-	Quantity:eighty eight.NUM	The natural number eighty-eight (88).	3589			
-	Quantity:eighty five.NUM	The natural number eighty-five (85).	3586			
-	Quantity:eighty four.NUM	The natural number eighty-four (84).	3585			
-	Quantity:eighty nine.NUM	The natural number eighty-nine (89).	3590			
-	Quantity:eighty one.NUM	The natural number eighty-one (81).	3583			
-	Quantity:eighty seven.NUM	The natural number eighty-seven (87).	3588			
-	Quantity:eighty six.NUM	The natural number eighty-six (86).	3587			
-	Quantity:eighty three.NUM	The natural number eighty-three (83).	3498			
-	Quantity:eighty two.NUM	The natural number eighty-two (82).	3584			
-	Quantity:eighty.NUM	The natural number eighty (80).	1722		achtzig::NUM	
-	Quantity:eleven.NUM	The natural number eleven (11).	1706	13-101	elf::NUM	
 	Quantity:empty.A	Without content.	1624	13-22	leer::A	
 	Quantity:empty.A	empty 				2686
 	Quantity:enough.?	All that is required, needed, or appropriate.	1881	13-18		
 	Quantity:few.?	More than one, but not as many as usual or as expected.	1242	13-17		
 	Quantity:few.A	few (a small number of) 				2643
-	Quantity:fifteen.NUM	The natural number fifteen (15).	1709	13-103		
-	Quantity:fifty eight.NUM	The natural number fifty-eight (58).	3566			
-	Quantity:fifty five.NUM	The natural number fifty-five (55).	3494			
-	Quantity:fifty four.NUM	The natural number fifty-four (54).	3563			
-	Quantity:fifty nine.NUM	The natural number fifty-nine (59).	3567			
-	Quantity:fifty one.NUM	The natural number fifty-one (51).	3561			
-	Quantity:fifty seven.NUM	The natural number fifty-seven (57).	3565			
-	Quantity:fifty six.NUM	The natural number fifty-six (56).	3564			
-	Quantity:fifty three.NUM	The natural number fifty-three (53).	3493			
-	Quantity:fifty two.NUM	The natural number fifty-two (52).	3562			
-	Quantity:fifty.NUM	The natural number fifty (50).	1717		fünfzig::NUM	
 	Quantity:fill.V	To make full.	2006		füllen::V	
 	Quantity:first.?	Having no predecessor. The ordinal number corresponding to one.	728	13-34	erster::A	
 	Quantity:fish (classifier).CLF	Classifier for fishes.	2720			
-	Quantity:five hundred.NUM	The natural number five hundred (500).	3516			
-	Quantity:five thousand.NUM	The natural number five thousand (5000).	3527			
-	Quantity:five.NUM	The natural number five (5).	493	13-05	fünf::NUM	
 	Quantity:foot (measure).N	A measure unit.	2782			
-	Quantity:forty eight.NUM	The natural number forty-eight (48).	3492			
-	Quantity:forty five.NUM	The natural number forty-five (45).	3491			
-	Quantity:forty four.NUM	The natural number forty-four (44).	3490			
-	Quantity:forty nine.NUM	The natural number forty-nine (49).	3560			
-	Quantity:forty one.NUM	The natural number forty-one (41).	3556			
-	Quantity:forty seven.NUM	The natural number forty-seven (47).	3559			
-	Quantity:forty six thousand six hundred and fifty six.NUM	The natural number forty six thousand six hundred and fifty six (46656).	3531			
-	Quantity:forty six.NUM	The natural number forty-six (46).	3558			
-	Quantity:forty three.NUM	The natural number forty-three (43).	3489			
-	Quantity:forty two.NUM	The natural number forty-two (42).	3557			
-	Quantity:forty.NUM	The natural number forty (40).	1716		vierzig::NUM	
-	Quantity:four hundred.NUM	The natural number four hundred (400).	3515			
-	Quantity:four thousand.NUM	The natural number four thousand (4000).	3526			
-	Quantity:four.NUM	The natural number four (4).	1500	13-04	vier::NUM	
-	Quantity:fourteen.NUM	The natural number fourteen (14).	2451			
 	Quantity:fruit (classifier).CLF	The measure word used for typical fruits.	3246			
 	Quantity:full.A	Containing the most or maximum amount possible in the given available space.	1429	13-21	voll::A	
 	Quantity:full.A	full, filled 				2685
@@ -4880,7 +4993,6 @@ Animal:Vulpes.N	Animal:fox.N	A carnivorous relatively small canine of the specie
 	Quantity:half.N	One of the two equal parts of a whole.	816	13-24	Hälfte::N	
 	Quantity:hat (classifier).CLF	Classifier for hat or hat-like objects.	2730			
 	Quantity:house (classifier).CLF	Classifier for house or building.	2732			
-	Quantity:hundred.NUM	The natural number one hundred (100).	1634	13-105	hundert::NUM	
 	Quantity:increase.V	increase (become or make greater in quantity) 				2622
 	Quantity:kilogram.N	kilogram				2612
 	Quantity:knife (classifier).CLF	Classifier for knife-like objects.	2082			
@@ -4904,50 +5016,13 @@ Animal:Vulpes.N	Animal:fox.N	A carnivorous relatively small canine of the specie
 	Quantity:multiply.V	multiply 				2624
 	Quantity:multitude.N	A large number of something.	538			
 	Quantity:needle (classifier).CLF	Classifier for needle or similar objects.	2731			
-	Quantity:nine hundred and ninety nine.NUM	The natural number nine hundred and ninety-nine (999).	3521			
-	Quantity:nine hundred.NUM	The natural number nine hundred (900).	3520			
-	Quantity:nine thousand.NUM	The natural number nine thousand (9000).	3530			
-	Quantity:nine.NUM	The natural number nine (9).	1483	13-09	neun::NUM	
-	Quantity:nineteen.NUM	The natural number nineteen (19).	1714			
-	Quantity:ninety eight.NUM	The natural number ninety-eight (98).	3596			
-	Quantity:ninety five.NUM	The natural number ninety-five (95).	3594			
-	Quantity:ninety four.NUM	The natural number ninety-four (94).	3593			
-	Quantity:ninety nine.NUM	The natural number ninety-nine (99).	3501			
-	Quantity:ninety one.NUM	The natural number ninety-one (91).	3499			
-	Quantity:ninety seven.NUM	The natural number ninety-seven (97).	3595			
-	Quantity:ninety six.NUM	The natural number ninety-six (96).	3500			
-	Quantity:ninety three.NUM	The natural number ninety-three (93).	3592			
-	Quantity:ninety two.NUM	The natural number ninety-two (92).	3591			
-	Quantity:ninety.NUM	The natural number ninety (90).	1724		neunzig::NUM	
 	Quantity:nobody.?	No person; not one member out of a group of people.	3887			
 	Quantity:number.N	number, numeral (a word or symbol indicating quantity)				2601
-	Quantity:one hundred and eight.NUM	The natural number one hundred and eight (108).	3784			
-	Quantity:one hundred and eighty.NUM	The natural number one hundred and eighty (180).	3510			
-	Quantity:one hundred and eleven.NUM	The natural number one hundred and eleven (111).	3771			
-	Quantity:one hundred and fifty.NUM	The natural number one hundred and fifty (150).	3508			
-	Quantity:one hundred and forty four.NUM	The natural number one hundred and forty-four (144).	3507			
-	Quantity:one hundred and forty.NUM	The natural number one hundred and forty (140).	3506			
-	Quantity:one hundred and one.NUM	The natural number one hundred and one (101).	3502			
-	Quantity:one hundred and sixty.NUM	The natural number one hundred and sixty (160).	3509			
-	Quantity:one hundred and ten.NUM	The natural number one hundred and ten (110).	3503			
-	Quantity:one hundred and thirty three.NUM	The natural number one hundred and thirty-three (133).	3505			
-	Quantity:one hundred and three.NUM	The natural number one hundred and three (103).	3783			
-	Quantity:one hundred and twenty three.NUM	The natural number one hundred and twenty-three (123).	3164			
-	Quantity:one hundred and twenty.NUM	The natural number one hundred and twenty (120).	3504			
-	Quantity:one hundred and two.NUM	The natural number one hundred and two (102).	3770			
-	Quantity:one hundred billion.NUM	The natural number one hundred billion (100000000000).	3601			
-	Quantity:one hundred million.NUM	The natural number one hundred million (100000000).	3598			
-	Quantity:one hundred thousand.NUM	The natural number one hundred thousand (100000).	3532			
-	Quantity:one million.NUM	The natural number one million (1000000).	3533			
 	Quantity:one third.N	One of three equal parts of a whole.	3842			
-	Quantity:one thousand and one.NUM	The natural number one thousand and one (1001).	3773			
-	Quantity:one thousand and sixty.NUM	The natural number one thousand and sixty (1060).	3775			
-	Quantity:one thousand and twenty seven.NUM	The natural number one thousand and twenty-seven (1027).	3790			
 	Quantity:one thousand and two.NUM	The natural number one thousand and two (1002).	3774			
 	Quantity:one thousand two hundred and ninety six.NUM	The natural number one thousand two hundred and ninety-six (1296).	3523			
 	Quantity:one thousand two hundred and twenty one.NUM	The natural number one thousand two hundred and twenty-one (1221).	3522			
 	Quantity:one thousand two hundred.NUM	The natural number one thousand two hundred (1200).	3791			
-	Quantity:one.NUM	The natural number one (1).	1493	13-01	eins::NUM	
 	Quantity:only.?	Nothing more than.	1580	13-33	nur::ADV	
 	Quantity:pair (classifier).CLF	Classifier for objects that occur in pairs.	2089			
 	Quantity:pair.N	Two similar or identical things taken together.	1888	13-37		
@@ -4971,37 +5046,8 @@ Animal:Vulpes.N	Animal:fox.N	A carnivorous relatively small canine of the specie
 	Quantity:section.N	section, segment (a part somehow different/separated from others)				2662
 	Quantity:sentence (classifier).CLF	Classifier for sentences.	3421			
 	Quantity:set.N	set (complete group of similar items e.g. character set, chess set)				2632
-	Quantity:seven hundred.NUM	The natural number seven hundred (700).	3518			
-	Quantity:seven thousand seven hundred and seventy six.NUM	The natural number seven thousand seven hundred and seventy-six (7776).	3529			
-	Quantity:seven thousand.NUM	The natural number seven thousand (7000).	3528			
-	Quantity:seven.NUM	The natural number seven (7).	1704	13-07	sieben::NUM	
-	Quantity:seventeen.NUM	The natural number seventeen (17).	2453			
-	Quantity:seventy eight.NUM	The natural number seventy-eight (78).	3581			
-	Quantity:seventy five.NUM	The natural number seventy-five (75).	3578			
-	Quantity:seventy four.NUM	The natural number seventy-four (74).	3577			
-	Quantity:seventy nine.NUM	The natural number seventy-nine (79).	3582			
-	Quantity:seventy one.NUM	The natural number seventy-one (71).	3576			
-	Quantity:seventy seven.NUM	The natural number seventy-seven (77).	3580			
-	Quantity:seventy six.NUM	The natural number seventy-six (76).	3579			
-	Quantity:seventy three.NUM	The natural number seventy-three (73).	3497			
-	Quantity:seventy two.NUM	The natural number seventy-two (72).	3496			
-	Quantity:seventy.NUM	The natural number seventy (70).	1721		siebzig::NUM	
 	Quantity:sheet (classifier).CLF	Classifier for sheets or blankets.	2729			
 	Quantity:ship (classifier).CLF	Classifier for ships.	2736			
-	Quantity:six hundred.NUM	The natural number six hundred (600).	3517			
-	Quantity:six thousand.NUM	The natural number six thousand (6000).	3792			
-	Quantity:six.NUM	The natural number six (6).	1703	13-06	sechs::NUM	
-	Quantity:sixteen.NUM	The natural number sixteen (16).	2454			
-	Quantity:sixty eight.NUM	The natural number sixty-eight (68).	3574			
-	Quantity:sixty five.NUM	The natural number sixty-five (65).	3571			
-	Quantity:sixty four.NUM	The natural number sixty-four (64).	3570			
-	Quantity:sixty nine.NUM	The natural number sixty-nine (69).	3575			
-	Quantity:sixty one.NUM	The natural number sixty-one (61).	3568			
-	Quantity:sixty seven.NUM	The natural number sixty-seven (67).	3573			
-	Quantity:sixty six.NUM	The natural number sixty-six (66).	3572			
-	Quantity:sixty three.NUM	The natural number sixty-three (63).	3495			
-	Quantity:sixty two.NUM	The natural number sixty-two (62).	3569			
-	Quantity:sixty.NUM	The natural number sixty (60).	1718		sechzig::NUM	
 	Quantity:some.?	An unspecified quantity or number of.	1241	13-181		
 	Quantity:someone.?	An unspecified person.	2422			
 	Quantity:song (classifier).CLF	Classifier for songs.	3422			
@@ -5012,63 +5058,17 @@ Animal:Vulpes.N	Animal:fox.N	A carnivorous relatively small canine of the specie
 	Quantity:storey (classifier).CLF	Classifier for storeys (of a building).	3420			
 	Quantity:subtract.V	subtract, remove 				2621
 	Quantity:suffice.?	To be enough for a particular purpose.	3475			
-	Quantity:ten billion.NUM	The natural number ten billion (10000000000).	3600			
-	Quantity:ten million.NUM	The natural number ten million (10000000).	3597			
-	Quantity:ten thousand.NUM	The natural number ten thousand (10000).	2078			
-	Quantity:ten.NUM	The natural number ten (10).	1515	13-1	zehn::NUM	
 	Quantity:third.?	The ordinal form of the cardinal number three.	1859	13-42	dritter::A	
-	Quantity:thirteen.NUM	The natural number thirteen (13).	1708			
-	Quantity:thirty eight.NUM	The natural number thirty-eight (38).	3487			
-	Quantity:thirty five.NUM	The natural number thirty-five (35).	3484			
-	Quantity:thirty four.NUM	The natural number thirty-four (34).	3483			
-	Quantity:thirty nine.NUM	The natural number thirty-nine (39).	3488			
-	Quantity:thirty one.NUM	The natural number thirty-one (31).	3480			
-	Quantity:thirty seven.NUM	The natural number thirty-seven (37).	3486			
-	Quantity:thirty six.NUM	The natural number thirty-six (36).	3485			
-	Quantity:thirty three.NUM	The natural number thirty-three (33).	3482			
-	Quantity:thirty two.NUM	The natural number thirty-two (32).	3481			
-	Quantity:thirty.NUM	The natural number thirty (30).	1715		dreißig::NUM	
-	Quantity:thousand.NUM	The natural number one thousand (1000).	1843	13-106	tausend::NUM	
-	Quantity:three hundred and four.NUM	The natural number three hundred and four (304).	3789			
-	Quantity:three hundred and ninety nine.NUM	The natural number three hundred and ninety-nine (399).	3514			
-	Quantity:three hundred.NUM	The natural number three hundred (300).	3513			
-	Quantity:three thousand.NUM	The natural number three thousand (3000).	3525			
 	Quantity:three times.?	Three times.	417	13-44		
-	Quantity:three.NUM	The natural number three (3).	492	13-03	drei::NUM	
 	Quantity:total.N	total, sum, aggregate				2630
 	Quantity:tree (classifier).CLF	Classifier for trees.	2721			
-	Quantity:trillion.NUM	The natural number one trillion (1000000000000).	3602			
 	Quantity:tuft (classifier).CLF	Classifier for grass.	2722			
-	Quantity:twelve.NUM	The natural number twelve (12).	1707	13-102	zwölf::NUM	
-	Quantity:twenty eight.NUM	The natural number twenty-eight (28).	3478			
-	Quantity:twenty five.NUM	The natural number twenty-five (25).	1738			
-	Quantity:twenty four.NUM	The natural number twenty-four (24).	1736			
-	Quantity:twenty nine.NUM	The natural number twenty-nine (29).	3479			
-	Quantity:twenty one.NUM	The natural number twenty-one (21).	1734			
-	Quantity:twenty seven.NUM	The natural number twenty-seven (27).	3477			
-	Quantity:twenty six.NUM	The natural number twenty-six (26).	3476			
-	Quantity:twenty three.NUM	The natural number twenty-three (23).	3165			
-	Quantity:twenty two.NUM	The natural number twenty-two (22).	3166			
-	Quantity:twenty.NUM	The natural number twenty (20).	1710	13-104	zwanzig::NUM	
 	Quantity:twice.?	Two times.	1546	13-38		
-	Quantity:two hundred and fifty.NUM	The natural number two hundred and fifty (250).	3788			
-	Quantity:two hundred and forty.NUM	The natural number two hundred and forty (240).	3787			
-	Quantity:two hundred and one.NUM	The natural number two hundred and one (201).	3511			
-	Quantity:two hundred and sixteen.NUM	The natural number two hundred and sixteen (216).	3512			
-	Quantity:two hundred and ten.NUM	The natural number two hundred and ten (210).	3772			
-	Quantity:two hundred and thirty one.NUM	The natural number two hundred and thirty-one (231).	3786			
-	Quantity:two hundred and two.NUM	The natural number two hundred and two (202).	3785			
-	Quantity:two hundred.NUM	The natural number two hundred (200).	2676			
 	Quantity:two miles.?	The distance of two miles.	2179			
-	Quantity:two million.NUM	The natural number two million (2000000).	3794			
 	Quantity:two ounces.?	The weight of two ounces.	2180			
-	Quantity:two thousand and two.NUM	The natural number two thousand and two (2002).	3776			
-	Quantity:two thousand.NUM	The natural number two thousand (2000).	3524			
-	Quantity:two.NUM	The natural number two (2).	1498	13-02	zwei::NUM	
 	Quantity:vehicle (classifier).CLF	Classifier for vehicles.	2167			
 	Quantity:walk (classifier).CLF	Classifier for walks (strolls).	2739			
 	Quantity:whole.A	whole, entire, complete 				2640
-	Quantity:zero.NUM	The integer zero (0).	1294	13		
 	Society:ability.N	Capacity to do specific things.	2527			
 	Society:allow or permit.V	To give permission to an action or to not try to stop someone from doing it.	3237			
 	Society:allow.V	To not try to stop someone from doing something.	3238			
