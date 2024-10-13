@@ -61,14 +61,15 @@ Details of the license are in [LICENSE.md](LICENSE.md).
 
 The Panlexia project re-uses material from the following sources:
 
-- [NorthEuraLex](http://northeuralex.org/), which is edited by Johannes Dellert & Gerhard Jäger and which is licensed under the
-  [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-- [The World Loanword Database (WOLD)](https://wold.clld.org), which is edited by Martin Haspelmath & Uri Tadmor and which is licensed under the
-  [Creative Commons Attribution 3.0 Germany License](http://creativecommons.org/licenses/by/3.0/de/)
 - [Concepticon](https://concepticon.clld.org/), which is  edited by
   List, Johann Mattis & Tjuka, Annika & van Zantwijk, Mathilda & Blum, Frederic & Ugarte, Carlos Barrientos & Rzymski, Christoph & Greenhill, Simon & Forkel, Robert
   and is licensed under a
   [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+- [NorthEuraLex](http://northeuralex.org/), which is edited by Johannes Dellert & Gerhard Jäger and which is licensed under the
+  [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+- Universal Language Dictionary (ULD) by Rick Harrison et al.
+- [The World Loanword Database (WOLD)](https://wold.clld.org), which is edited by Martin Haspelmath & Uri Tadmor and which is licensed under the
+  [Creative Commons Attribution 3.0 Germany License](http://creativecommons.org/licenses/by/3.0/de/)
 
 ## Let's work together!
 
