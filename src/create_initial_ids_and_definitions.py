@@ -3,10 +3,12 @@
 Initial concept ids for Panlexia are created based on Concepticon and ULD data.
 
 Output:
-- main.tsv : Tas separated values file for mapping initial Panlexia ids
-  to Concepticon definition and other ids.
+- master.tsv : Tab-separated values file for mapping initial Panlexia ids
+  to Concepticon or ULD definition and other ids.
 
-Note! The initial_ids are not final! They will be checked and improved manually.
+Note! This script is run only once in the beginning of this project.
+The initial_ids that it creates are not final. They will be validated and adjusted manually.
+
 
 CC-BY 2024 Panlexia (https://github.com/barumau/panlexia)
 """
@@ -16,6 +18,7 @@ import helpers
 Concepticon = 'data/Concepticon/concepticon.tsv'
 Concepticon_WOLD = 'data/Concepticon/Haspelmath-2009-1460.tsv'
 NorthEuraLex = 'data/Concepticon/Dellert-2017-1016.tsv'
+ULD_file = 'data/ULD/ULD.tsv'
 
 simple_semantic_field_from = {
     "The physical world" : "Nature",
@@ -53,10 +56,8 @@ word_class_from = {
     "Other" : "?"
 }
 
-def build_Panlexia_id(complex_semantic_field, gloss, ontological_category):
+def build_Panlexia_id(semantic_field, gloss, word_class):
     """Builds the preliminary Panlexia id based on semantic field, gloss and word class"""
-    semantic_field = simple_semantic_field_from[complex_semantic_field]
-    word_class = word_class_from[ontological_category]
     id = semantic_field + ":" + gloss.lower() + "." + word_class
     #print(id)
     return id
@@ -86,22 +87,87 @@ def create_initial_concept_id_definition_map(id_map):
     concepticon = helpers.csv_reader(Concepticon, '\t')
 
     for row in concepticon.dict:
-        id = build_Panlexia_id(row["SEMANTICFIELD"], row["GLOSS"], row["ONTOLOGICAL_CATEGORY"])
+        word_class = word_class_from[row["ONTOLOGICAL_CATEGORY"]]
+        semantic_field = simple_semantic_field_from[row["SEMANTICFIELD"]]
+        id = build_Panlexia_id(semantic_field, row["GLOSS"], word_class)
         WOLD_id = get_WOLD_id_by_Concepticon_id(row["ID"])
         NELex_id = get_NELex_id_by_Concepticon_id(row["ID"])
         # Saves the following data:
-        # Initial_id | Definition | Concepticon_id | WOLD_id | NELex_id
-        id_map.append([id, row["DEFINITION"], row["ID"], WOLD_id, NELex_id])
+        # Initial_id | Definition | Concepticon_id | WOLD_id | NELex_id | ULD_id
+        id_map.append([id, row["DEFINITION"], row["ID"], WOLD_id, NELex_id, ""])
+
+def get_gloss(description):
+    """Retuns substring before first occurence of ',' '(' or '['."""
+    return description.replace(" (", ",").replace(" [", ",").split(',')[0]
+
+uld_word_class = {
+    "aj" : "A",
+    "aj/av" : "A",
+    "aj/pn" : "PRN",
+    "aj/pfx" : "A",
+    "aux v" : "V",
+    "av" : "ADV",
+    "cj" : "CNJ",
+    "num" : "NUM",
+    "pn" : "PRN",
+    "pr" : "ADP",
+    "pr/cj" : "ADP",
+    "v" : "V",
+    "vi" : "V",
+    "vt" : "V"
+}
+
+def get_word_class(description):
+    """Returns word class based on ULD word class."""
+    # Get substring between square brackets, like [v], [aux v], [aj] or [pr].
+    if "[" in description:
+        # initializing substrings
+        sub1 = "["
+        sub2 = "]"
+        
+        # getting index of substrings
+        idx1 = description.index(sub1)
+        idx2 = description.index(sub2)
+        
+        res = ''
+        # getting elements in between
+        for idx in range(idx1 + len(sub1), idx2):
+            res = res + description[idx]
+
+        if res in uld_word_class:
+            return uld_word_class[res]
+        else:
+            print(res)
+
+    return "N"
+
+def get_definition(description):
+    """Retuns substring before '['."""
+    return description.split('[')[0]
+
+def create_initial_concept_ids_from_ULD(id_map):
+    """ Creates initial Panlexia id and maps it to ULD definition and id."""
+    uld = helpers.csv_reader(ULD_file, '\t')
+    for row in uld.dict:
+        if row["number"] != "":
+            gloss = get_gloss(row["English"])
+            word_class = get_word_class(row["English"])
+            definition = get_definition(row["English"])
+            id = build_Panlexia_id(row["category"], gloss, word_class)
+            # Saves the following data:
+            # Initial_id | Definition | Concepticon_id | WOLD_id | NELex_id | ULD_id
+            id_map.append([id, definition, "", "", "", row["number"]])
 
 def sort_and_write_to_file(id_map, filename):
     """Sort the id map by Panlexia id and write TSV file with a header row."""
     sorted_map = sorted(id_map)
     id_writer = helpers.tsv_writer(filename, 'w')
-    id_writer.dict.writerow(["id", "initial_id", "Definition", "Concepticon_id", "WOLD_id", "NELex_id"])
+    id_writer.dict.writerow(["id", "initial_id", "Definition", "Concepticon_id", "WOLD_id", "NELex_id", "ULD_id"])
     for row in sorted_map:
-        id_writer.dict.writerow(["", row[0], row[1], row[2], row[3], row[4]])
+        id_writer.dict.writerow(["", row[0], row[1], row[2], row[3], row[4], row[5]])
 
 # Execution begins
 id_map = []
 create_initial_concept_id_definition_map(id_map)
-sort_and_write_to_file(id_map, "data/main.tsv")
+create_initial_concept_ids_from_ULD(id_map)
+sort_and_write_to_file(id_map, "data/master.tsv")
