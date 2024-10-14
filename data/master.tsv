@@ -1,4 +1,6 @@
 id	initial_id	Definition	Concepticon_id	WOLD_id	NELex_id	ULD_id
+Agriculture:farm.N	Agriculture/Plant:farm.N	Any tract of land or building used for agricultural purposes, such as for raising crops and livestock.	201			1595
+Agriculture:farmer.N	Agriculture/Plant:farmer.N	A person who works the land or who keeps livestock, especially on a farm.	979	8-11		
 Animal:Acridomorpha.N	Animal:grasshopper.N	A plant-eating insect with long back legs that can jump very high and makes a sharp high noise using its back legs or wings.	607	3-93		913
 Animal:Anatidae.N	Animal:duck.N	An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	1360	3-57	Ente::N	982
 Animal:animal.N	Animal:animal.N	Any living organism characterized by voluntary movement, the possession of cells with noncellulose cell walls and specialized sense organs enabling rapid response to stimuli, and the ingestion of complex organic substances such as plants and other animals.	619	3-11	Tier::N	904
@@ -6,6 +8,7 @@ Animal:Annelida.N	Animal:worm.N	A generally tubular invertebrate of the annelid 
 Animal:Anthophila.N	Animal:bee.N	Any of the membranous-winged insects which compose the superfamily Apoidea in the order Hymenoptera characterized by a hairy body and by sucking and chewing mouthparts.	665	3-82		920
 Animal:Anura.N	Animal:frog.N	Any insectivorous anuran amphibian of the family Ranidae, such as Rana temporaria of Europe, having a short squat tailless body with a moist smooth skin and very long hind legs specialized for hopping.	503	3-95		945
 Animal:Araneae.N	Animal:spider.N	Any predatory silk-producing arachnid of the order Araneae, having four pairs of legs and a rounded unsegmented body consisting of abdomen and cephalothorax.	843	3-818	Spinne::N	948
+Animal:Aves.N	Animal:bird.N	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	937	3-581	Vogel::N	980
 Animal:Blattodea.N	Animal:cockroach.N	The most primitive of the living winged insects.	1575	3-816		915
 Animal:Bos taurus.N	Animal:cattle.N	Domesticated bovine animals, including cows, steers and bulls, raised and bred on a ranch or farm.	1153	3-2		950
 Animal:Canis lupus familiaris.N	Animal:dog.N	A common four-legged animal, especially kept by people as a pet or to hunt or guard things.	2009	3-61	Hund::N	975
@@ -131,6 +134,7 @@ Body:cheek.N	Body:cheek.N	The soft skin on each side of the face, between the ey
 Body:chest.N	Body:chest.N	The portion of the body from the base of the neck to the top of the abdomen; the thorax.	1592	4-4	Brust::N	504
 Body:chin.N	Body:chin.N	The bottom of the face, below the mouth.	1510	4-209	Kinn::N	513
 Body:clitoris.N	Body:clitoris.N	A part of the female genitalia located at the front of the vulva, consisting of a sensitive erectile body.	3257			
+Body:close eyes.V	Motion:close the eyes.V	To shut down the eyes such that one cannot see anything anymore.	2211			
 Body:close mouth.V	Body:close (mouth).V	To close one's mouth.	3547			
 Body:collarbone.N	Body:collarbone.N	Bone linking the scapula and sternum.	1994	4-302		
 Body:ear.N	Body:ear.N	The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.	1247	4-22	Ohr::N	514
@@ -278,6 +282,54 @@ Body:wound.N	Body:wound.N	A type of injury in which in skin or tisue is torn, cu
 Body:wrinkle.N	Body:wrinkle.N	A fold, ridge or crease in the skin.	2294			
 Body:wrist.N	Body:wrist.N	The flexible and narrower connection between the forearm and the hand.	799	4-321		533
 Body:yawn.V	Body:yawn.V	To open the mouth widely and take a long, deep breath because of tiredness or boredom.	1028	4-52		
+Building:adobe.N	Building:adobe.N	An unburnt brick dried in the sun made of clay and dried grasses.	901	7-64		
+Building:arch.N	Building:arch.N	An arch-shaped arrangement of trapezoidal stones, designed to redistribute downward force outward.	876	7-58		
+Building:area under house.N	Building:area under house.N	The area under a house.	2632			
+Building:beam.N	Building:beam.N	A structural member loaded on its narrow face, and typically used in a horizontal or sloping position to span between bearing points.	1132	7-55		
+Building:board.N	Building:board.N	A piece of wood or similar material that has been sawn into a regular shape, usually in preparation for using it in some sort of construction.	1227	7-57	Brett::N	1593
+Building:brick.N	Building:brick.N	A building material usually made from clay, molded as a rectangular block, and baked or burned in a kiln.	1006	7-62		1594
+Building:building.N	Building:building.N	A solid construction comprised of walls and a roof.	3396			1501
+Building:camp.N	Building:camp.N	Tents, cabins, etc., used as temporary lodgings by a group of travellers, holiday-makers, Scouts, Gypsies, etc.	1105	7-65		1557
+Building:ceiling.N	Building:ceiling.N	ceiling				1511
+Building:cellar.N	Building:cellar.N	cellar, basement				1532
+Building:chimney.N	Building:chimney.N	A vertical structure of brick, masonry, or steel that carries smoke or steam away from a fire, engine, etc.	1305	7-33		1521
+Building:church.N	Building:church.N	Building or institution of public worship in Christianity.				1561
+Building:column.N	Building:column.N	An upright supporting beam.	2045			
+Building:cookhouse.N	Building:cookhouse.N	A small house where cooking takes place; a kitchen house.	334	7-17		
+Building:courtyard.N	Building:courtyard.N	An area wholly or partly surrounded by walls or buildings.	4			
+Building:dam.N	Building:dam.N	A wall to stop or control the flow of a stream or river.				1592
+Building:door.N	Building:door.N	An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.	1567	7-22	Tür::N	1515
+Building:doorpost.N	Building:doorpost.N	The frame that supports a door.	80	7-221		
+Building:doorsill.N	Building:doorsills.N	A horizontal member of wood, stone, etc, forming the bottom of a door frame on which the threshold is put on.	2185			
+Building:fireplace.N	Building:fireplace.N	An open recess in a wall at the base of a chimney where a fire may be built, or a hearth.	185	7-31		1520
+Building:floor.N	Building:floor.N	The bottom or lower part of any room; the supporting surface of a room.	1632	7-26	Fußboden::N	1512
+Building:frame.N	Building:frame.N	frame (structure supporting or surrounding something)				1330
+Building:garden-house.N	Building:garden-house.N	A small building in a garden, such as a shed, which is not usually build to be inhabitated for long times.	403	7-131		
+Building:gate.N	Building:gate.N	A gate or gateway is a point of entry to a space which is enclosed by walls.	2940		Tor::N	
+Building:house.N	Building:house.N	The abode of a human being, their place of residence.	1252	7-12	Haus::N	1550
+Building:hut.N	Building:hut.N	A simple roofed shelter, often with one  open side.	1678	7-13		
+Building:igloo.N	Building:igloo.N	A snow hut built from snow and serving as a shelter.	2592			
+Building:mason.N	Building:mason.N	A craftsman who builds in stone or brick otherwise known as masonry.	877	7-61		
+Building:mortar binder.N	Building:mortar binder.N	Paste made of a mixture of a binder (cement, plaster or lime), sand and water used in masonry to make bricks, stones, etc. stick together.	1731	7-63		
+Building:porch.N	Building:porch.N	A structure attached to the exterior of a building, often acting as a roofed entrance; a balcony; a veranda.	3269			1534
+Building:post.N	Building:post.N	A strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something.	281	7-56	Stange::N	
+Building:pyramid.N	Building:pyramid.N	A structure whose outer surfaces are triangular and converge to a single point at the top.	2600			
+Building:rafter.N	Building:rafter.N	One of several parallel sloping beams that extend from the ridge to the wall-plate, to support the roof and its associated loads; the sloping top member of a roof truss, which carries the purlins.	829	7-54		
+Building:ridgepole.N	Building:ridgepole.N	The highest horizontal beam in a roof.	280	7-53		
+Building:roof.N	Building:roof.N	The structure covering a building.	769	7-51	Dach::N	1510
+Building:room.N	Building:room.N	A separate part of a building, enclosed by walls, a floor and a ceiling.	1450	7-21		1530
+Building:shed.N	Building:shed.N	A building for storing agricultural products or sheltering livestock.	3025			
+Building:stairs.N	Building:stairs.N	A contiguous set of steps connecting two floors.	34			1516
+Building:step.N	Building:step.N	A flat surface or support that facilitates the ascent or descent of a stairway or step-ladder.	1158			
+Building:tent.N	Building:tent.N	A portable lodging (usually made from waterproof plastic, animal hide or canvas streched by poles) that is used for sheltering people and objects from the weather when camping or at festivals.	1316	7-14		
+Building:thatch or roof.N	Building:thatch or roof.N	The cover of a house or a hut.	2100			
+Building:thatch.N	Building:thatch.N	Natural roofing material such as straw, reeds, leaves, etc.	279	7-52		
+Building:threshold.N	Building:threshold.N	The bottom-most part of a doorway that one crosses to enter; a sill.	1727			
+Building:tile.N	Building:tile.N	The long-lasting material that is manufactured in multiple pieces and used for covering flat surfaces of a building, such as a roof, walls, or floor.	3404			
+Building:tower.N	Combat/Hunting:tower.N	Structure, usually taller than it is wide, often used as a lookout.	1671	20-36		1591
+Building:wall.N	Building:wall.N	The outer structure which encloses a building and supports the roof.	933	7-27		1513
+Building:window.N	Building:window.N	An opening, usually covered by one or more panes of clear glass, to allow light from outside to enter a building or vehicle.	1375	7-25	Fenster::N	1514
+Building:yard.N	Building:yard.N	A small, usually uncultivated area adjoining or within the precincts of a house or other building.	736	7-15		
 Clothing:naked.A	Body:naked.A	Without clothing.	590	4-99	nackt::A	645
 Combat:fight.N	Action/Technology:fight (combat).N	A hostile encounter, such as a battle or combat.	3880		Kampf::N	
 Combat:fight.V	Combat/Hunting:fight.V	To be involved in a physical confrontation.	1423	20-11		782
@@ -286,6 +338,25 @@ Hunting:hunt.V	Combat/Hunting:hunt.V	To chase down prey and (usually) kill it.	1
 Hunting:hunter.N	Combat/Hunting:hunter.N	A person who hunts game.	1053			
 Hunting:hunting dog.N	Combat/Hunting:hunting dog.N	A type of canine bred for hunting or a dog trained to assist humans with hunting.	3380			
 Mind:mad person.N	Body:mad person.N	A person that has mental problems.	2321			
+Motion:approach.V	Motion:approach.V	To come near to; to move towards.	1778	10-56		
+Motion:arrive.V	Motion:arrive.V	To come to a destination.	1387	10-55	ankommen::V	
+Motion:bring.V	Motion:bring.V	To transport toward somewhere; to take something or somebody with oneself somewhere.	692	10-62	bringen::V	3032
+Motion:carry.V	Motion:carry.V	To lift and bring to somewhere else; to transport by lifting.	700	10-61	tragen::V	3034
+Motion:catch.V	Motion:catch.V	To take hold of, especially in the hands, so as to seize or restrain or stop the motion of.	702	10-252	fangen::V	751
+Motion:climb.V	Motion:climb.V	To mount to a high or little accessible place using feet and hands, e.g. a tree, a mountain or a ladder.	1102	10-472	klettern::V	
+Motion:come back.V	Motion:come back.V	To go there where one was before.	581	10-481	zurückkommen::V	3047
+Motion:come.V	Motion:come.V	To move toward or to reach either the speaker, the person spoken to, or the subject of the speaker's narrative.	1446	10-48	kommen::V	3002
+Motion:crawl or creep.V	Motion:crawl or creep.V	To move using ones hands and knees or with one's belly touching the ground.	3456	10-41		
+Motion:crawl.V	Motion:crawl.V	To move using ones hands and knees.	96			
+Motion:creep.V	Motion:creep.V	To move with one's belly touching the ground.	3215		kriechen::V	
+Motion:enter.V	Motion:enter.V	To go into.	749	10-57	hineingehen::V	3036
+Motion:fall.V	Motion:fall.V	To descend in free fall due to the effect of gravity.	1280	10-23	fallen::V	
+Motion:fly.V	Motion:fly (move through air).V	To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	1441	10-37	fliegen::V	3038
+Motion:go.V	Motion:go.V	To get from one place to another by any means.	695	10-47	gehen::V	3001
+Motion:leave.V	Motion:leave.V	To move away from a place, a situation or a talk.	1752	10-49	weggehen::V	3003
+Motion:lift.V	Motion:lift.V	To cause an object to have a higher location than previously.	501	10-22	hochheben::V	
+Motion:raise.V	Motion:raise.V	To cause to rise; to move something from a lower position to a higher one.	1317		heben::V	
+Motion:ride.V	Motion:ride.V	To transport oneself by sitting on and directing an animal.	367	10-66		3048
 Quantity:0.NUM	Quantity:zero.NUM	The integer zero (0).	1294	13		2500
 Quantity:1.NUM	Quantity:one.NUM	The natural number one (1).	1493	13-01	eins::NUM	2501
 Quantity:10.NUM	Quantity:ten.NUM	The natural number ten (10).	1515	13-1	zehn::NUM	2510
@@ -443,6 +514,7 @@ Quantity:97.NUM	Quantity:ninety seven.NUM	The natural number ninety-seven (97).	
 Quantity:98.NUM	Quantity:ninety eight.NUM	The natural number ninety-eight (98).	3596			
 Quantity:99.NUM	Quantity:ninety nine.NUM	The natural number ninety-nine (99).	3501			
 Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number nine hundred and ninety-nine (999).	3521			
+Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110			
 	Action/Technology:a little.?	More than one, but not as much as usual or as expected. (for mass nouns)	2924		ein wenig::ADV	
 	Action/Technology:accept.V	To take or get something that was offered by someone.	3898			
 	Action/Technology:accustom.V	Get used to something.	1118			
@@ -925,8 +997,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Agriculture/Plant:elm.N	A tall tree with broad leaves.	3317			
 	Agriculture/Plant:eucalypt.N	Tree or wood for plants with capsule fruiting bodies belonging to closely related genera found across Australia.	3007			
 	Agriculture/Plant:famine.N	A severe shortage of food, as through crop failure or over population. It may be due to poor harvests following drought, floods, earthquake, war, social conflict, etc.	199	5-141		
-	Agriculture/Plant:farm.N	Any tract of land or building used for agricultural purposes, such as for raising crops and livestock.	201			
-	Agriculture/Plant:farmer.N	A person who works the land or who keeps livestock, especially on a farm.	979	8-11		
 	Agriculture/Plant:fell (a tree).V	To cut down a tree.	463			
 	Agriculture/Plant:fence.N	Delimitation for an area.	1690	8-16	Zaun::N	
 	Agriculture/Plant:fern.N	Any member of a large group of vascular plants in the family Filices who have neither flowers nor seeds.	3802			
@@ -1139,7 +1209,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Animal:beetle.N	A group of insects which are biologically classified in the order Coleoptera /ko?li???pt?r?/.	2242			
 	Animal:bird nest.N	A nest in which birds lay and hatch their eggs.	3549			
 	Animal:bird of paradise.N	A bird of the family Paradisaeidae.	2673			
-	Animal:bird.N	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	937	3-581	Vogel::N	980
 	Animal:bison.N	Large horned wild animal of the Bovidae family. Related to buffalo but differs, for example, in horn shape and form.	3142			
 	Animal:bivalvia (mussels or oysters).N	A class of marine and freshwater molluscs that have laterally compressed bodies enclosed by a shell consisting of two hinged parts.	2785			
 	Animal:black cockatoo.N	Black cockatoo, usually the Palm cockatoo.	3013			
@@ -1594,7 +1663,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Body:breath or breathe.?	The air that goes into one's lungs or the act of breathing.	3183			
 	Body:castrate.V	Any action, surgical, chemical, or otherwise, by which a biological male loses use of the testicles.	2563			
 	Body:catch a cold.V	To become sick with a cold.	2184			
-	Body:catch.V	catch (seize in the hands) 				751
 	Body:claw or nail.N	The hard, keratin part growing at the feet of animals or the hands and legs of humans.	2128			
 	Body:climb.V	climb 				704
 	Body:coffin.N	The box in which the body of a dead person is placed for burial.	2011			
@@ -1781,54 +1849,35 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Building:bathroom.N	bathroom				1539
 	Building:bedroom.N	bedroom				1538
 	Building:block of flats.N	block of flats, apartment building				1555
-	Building:board.N	board				1593
 	Building:bookstore.N	bookstore				1582
-	Building:brick.N	brick (hard clay block)				1594
-	Building:bridge.N	bridge				1590
-	Building:building.N	building, edifice (structure with walls and roof)				1501
-	Building:camp.N	camp, bivouac, temporary shelter				1557
-	Building:ceiling.N	ceiling				1511
-	Building:cellar.N	cellar, basement				1532
-	Building:chimney.N	chimney				1521
-	Building:church.N	church (building or institution of public worship)				1561
 	Building:closet.N	closet				1540
-	Building:corner.N	corner (area in a room where perpendicular walls meet)				1518
-	Building:dam.N	dam				1592
 	Building:dining room.N	dining room				1536
-	Building:door.N	door				1515
-	Building:elevator {british: lift}.N	elevator {British: lift}				1517
+	Building:elevator.N	elevator {British: lift}				1517
 	Building:factory.N	factory				1562
-	Building:farm.N	farm				1595
-	Building:fireplace.N	fireplace, hearth				1520
-	Building:floor.N	floor (bottom surface of a room)				1512
 	Building:genkan.N	genkan (entrance area of Japanese house where shoes are removed)				1533
 	Building:grocery store.N	grocery store				1581
+	Building:home.N	The place where one lives.	2406		Heim::N	
 	Building:hospital.N	hospital				1564
 	Building:hotel.N	hotel, inn				1565
-	Building:house.N	house (a free-standing man-made dwelling-building)				1550
 	Building:kitchen.N	kitchen				1535
 	Building:library.N	library				1566
 	Building:living room.N	living room				1537
-	Building:market.N	market (place of many sellers, usually outdoors or semi-enclosed)				1598
+	Building:meeting house.N	A building where people meet for a purpose.	335	7-18		
+	Building:men's house.N	A separate building for male persons.	408	7-16		
 	Building:mill.N	mill (place where raw materials are processed)				1563
 	Building:museum.N	museum				1567
 	Building:park.N	park (public outdoor area)				1596
-	Building:porch.N	porch (any semi-outdoor area attached to a house)				1534
 	Building:post office.N	post office				1568
 	Building:prison.N	prison				1569
+	Building:rail.N	rail (usually horizontal bar for restraining/supporting things)				1332
 	Building:reside.V	reside, dwell, live 				1556
 	Building:restaurant.N	restaurant				1572
-	Building:roof.N	roof				1510
-	Building:room.N	room (a distinct segment of a building)				1530
 	Building:school.N	school				1570
 	Building:stadium.N	stadium				1597
-	Building:stair(s).N	stair(s)				1516
 	Building:store.N	store, shop, boutique				1580
 	Building:theater.N	theater, theatre				1574
-	Building:tower.N	tower				1591
+	Building:toilet.N	toilet, water closet				1362
 	Building:university.N	university				1571
-	Building:wall.N	wall				1513
-	Building:window.N	window				1514
 	Business:accept.V	accept (willingly receive) 				1721
 	Business:account.N	account (record of money received/paid/owed)				1775
 	Business:available.N	available				1740
@@ -1881,6 +1930,54 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Business:ticket.N	ticket				1779
 	Business:value.N	value, worth				1758
 	Business:wages.N	wages				1797
+	Clothing:apron.N	apron				1440
+	Clothing:belt.N	belt				1441
+	Clothing:blanket.N	blanket (large piece of soft material used as a cover)				1485
+	Clothing:cap.N	cap (a brimless or informal hat)				1431
+	Clothing:cloth.N	cloth, fabric (material made of threads)				1401
+	Clothing:coat.N	coat (heavy outer garment with sleeves)				1450
+	Clothing:collar.N	collar (portion of shirt around neck)				1480
+	Clothing:curtain.N	curtain				1486
+	Clothing:dress.N	dress (a garment that combines bodice and skirt)				1452
+	Clothing:flag.N	flag				1490
+	Clothing:garment.N	garment (item of clothing)				1435
+	Clothing:glove.N	glove				1442
+	Clothing:harness.N	harness				1443
+	Clothing:hat.N	hat				1430
+	Clothing:helmet.N	helmet				1432
+	Clothing:jacket.N	jacket (a short and/or lightweight coat)				1451
+	Clothing:jeans.N	jeans, blue-jeans				1461
+	Clothing:leather.N	leather (prepared hide)				1404
+	Clothing:loom.N	loom				1411
+	Clothing:necktie.N	necktie				1444
+	Clothing:needle.N	needle				1410
+	Clothing:pants.N	pants, trousers				1460
+	Clothing:patch.N	patch (piece of material used to cover or repair a flaw)				1495
+	Clothing:pocket.N	pocket				1481
+	Clothing:put on.V	put on (to begin to wear a garment) 				1426
+	Clothing:rope.N	rope				1417
+	Clothing:rug.N	rug				1487
+	Clothing:sail.N	sail				1491
+	Clothing:sew.V	sew 				1420
+	Clothing:shirt.N	shirt				1453
+	Clothing:shoe.N	shoe				1470
+	Clothing:shorts.N	shorts (outer pants extending no lower than knees)				1463
+	Clothing:silk.N	silk				1402
+	Clothing:skirt.N	skirt				1462
+	Clothing:slipper.N	slipper (lightweight shoe worn indoors)				1472
+	Clothing:sock.N	sock (a snug-fitting cloth covering for the foot and ankle)				1471
+	Clothing:string.N	string (thicker than thread and thinner than rope)				1416
+	Clothing:suit.N	suit (combo of jacket, dress shirt, slacks, and usually necktie)				1437
+	Clothing:t-shirt.N	T-shirt (a collarless short-sleeved casual shirt or undershirt)				1454
+	Clothing:take off.V	take off (to remove a garment from the body) 				1427
+	Clothing:thread.N	thread				1415
+	Clothing:towel.N	towel				1488
+	Clothing:underpants.N	underpants				1464
+	Clothing:uniform.N	uniform (special garments worn by members of a group)				1436
+	Clothing:veil.N	veil				1445
+	Clothing:wear.V	wear (to have a garment on the body) 				1425
+	Clothing:weave.V	weave 				1421
+	Clothing:wool.N	wool				1403
 	Clothing/Grooming:adorned.A	Something that is crested with adornment.	2496			
 	Clothing/Grooming:adornment.N	Something that beautifies or adorns.	1822			
 	Clothing/Grooming:apron.N	A piece of cloth or plastic, worn over the front of the clothes for protection against dirt.	2046			
@@ -1993,54 +2090,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Clothing/Grooming:wrapper.N	A colorful women's garment widely worn in West Africa.	462			
 	Clothing/Grooming:wristband.N	An article used as an adornment around the wrist	3943			
 	Clothing/Grooming:yarn.N	Consists of multiple strings of natural or synthetic fibre twisted together in a continuous bulky thread; used in textile production.	3445			
-	Clothing:apron.N	apron				1440
-	Clothing:belt.N	belt				1441
-	Clothing:blanket.N	blanket (large piece of soft material used as a cover)				1485
-	Clothing:cap.N	cap (a brimless or informal hat)				1431
-	Clothing:cloth.N	cloth, fabric (material made of threads)				1401
-	Clothing:coat.N	coat (heavy outer garment with sleeves)				1450
-	Clothing:collar.N	collar (portion of shirt around neck)				1480
-	Clothing:curtain.N	curtain				1486
-	Clothing:dress.N	dress (a garment that combines bodice and skirt)				1452
-	Clothing:flag.N	flag				1490
-	Clothing:garment.N	garment (item of clothing)				1435
-	Clothing:glove.N	glove				1442
-	Clothing:harness.N	harness				1443
-	Clothing:hat.N	hat				1430
-	Clothing:helmet.N	helmet				1432
-	Clothing:jacket.N	jacket (a short and/or lightweight coat)				1451
-	Clothing:jeans.N	jeans, blue-jeans				1461
-	Clothing:leather.N	leather (prepared hide)				1404
-	Clothing:loom.N	loom				1411
-	Clothing:necktie.N	necktie				1444
-	Clothing:needle.N	needle				1410
-	Clothing:pants.N	pants, trousers				1460
-	Clothing:patch.N	patch (piece of material used to cover or repair a flaw)				1495
-	Clothing:pocket.N	pocket				1481
-	Clothing:put on.V	put on (to begin to wear a garment) 				1426
-	Clothing:rope.N	rope				1417
-	Clothing:rug.N	rug				1487
-	Clothing:sail.N	sail				1491
-	Clothing:sew.V	sew 				1420
-	Clothing:shirt.N	shirt				1453
-	Clothing:shoe.N	shoe				1470
-	Clothing:shorts.N	shorts (outer pants extending no lower than knees)				1463
-	Clothing:silk.N	silk				1402
-	Clothing:skirt.N	skirt				1462
-	Clothing:slipper.N	slipper (lightweight shoe worn indoors)				1472
-	Clothing:sock.N	sock (a snug-fitting cloth covering for the foot and ankle)				1471
-	Clothing:string.N	string (thicker than thread and thinner than rope)				1416
-	Clothing:suit.N	suit (combo of jacket, dress shirt, slacks, and usually necktie)				1437
-	Clothing:t-shirt.N	T-shirt (a collarless short-sleeved casual shirt or undershirt)				1454
-	Clothing:take off.V	take off (to remove a garment from the body) 				1427
-	Clothing:thread.N	thread				1415
-	Clothing:towel.N	towel				1488
-	Clothing:underpants.N	underpants				1464
-	Clothing:uniform.N	uniform (special garments worn by members of a group)				1436
-	Clothing:veil.N	veil				1445
-	Clothing:wear.V	wear (to have a garment on the body) 				1425
-	Clothing:weave.V	weave 				1421
-	Clothing:wool.N	wool				1403
 	Cognition:agreement.N	The state of sharing the same feeling or opinion.	3644			
 	Cognition:and.?	Used to connect two homogeneous words or phrases.	1577	17-51	und::CNJ	
 	Cognition:attentive.A	Giving attention.	1908			
@@ -2147,6 +2196,12 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Cognition:why.?	For what reason.	1270	17-69	warum::FADV	
 	Cognition:wise.A	Showing good judgement or the benefit of experience.	698	17-21		
 	Cognition:yes.?	A word used to show agreement or affirmation of something.	1268	17-55		
+	Combat:army.N	army				1631
+	Combat:military.A	military 				1630
+	Combat:navy.N	navy				1632
+	Combat:peace.N	peace (freedom from fighting or turmoil)				1636
+	Combat:submission.N	submission, surrender				1637
+	Combat:war.N	war				1635
 	Combat/Hunting:ambush.N	The act of concealing yourself and lying in wait to attack by surprise.	65	20-49		
 	Combat/Hunting:armour.N	Clothing that soldiers wear to protect themselves during combat. Historically made of leather or metal, today special materials like kevlar are used.	1061	20-31		
 	Combat/Hunting:army.N	A large, military force concerned mainly with ground operations.	1561	20-15		
@@ -2205,19 +2260,12 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Combat/Hunting:sword.N	A long-bladed weapon that has a handle (and sometimes a hilt) and is designed to stab, cut or slash.	1535	20-27		
 	Combat/Hunting:tank.N	Armoured vehicle used by the military.	3102			
 	Combat/Hunting:torture.V	To intentionally inflict physical or mental suffering upon a person or an animal in order to punish, to coerce or for sheer cruelty.	1952			
-	Combat/Hunting:tower.N	Structure, usually taller than it is wide, often used as a lookout.	1671	20-36		
 	Combat/Hunting:trap (catch).V	To catch in a trap, to immobilize.	1170	20-65	fassen::V	
 	Combat/Hunting:trap (pitfall).N	A device for catching and holding animals.	1075	20-64	Falle::N	
 	Combat/Hunting:victory.N	An end to a struggle or contest that did end in success.	783	20-41		
 	Combat/Hunting:war.N	A conflict or a state of hostility between two or more parties, nations or states, in which armed forces or military operations are used.	935		Krieg::N	
 	Combat/Hunting:waste.V	To cause extensive destruction or ruin utterly.	79			
 	Combat/Hunting:weapons.N	An instrument of attack or defense in combat, as a gun, missile, or sword.	951	20-21		
-	Combat:army.N	army				1631
-	Combat:military.A	military 				1630
-	Combat:navy.N	navy				1632
-	Combat:peace.N	peace (freedom from fighting or turmoil)				1636
-	Combat:submission.N	submission, surrender				1637
-	Combat:war.N	war				1635
 	Communication:address.N	address (postal co-ordinates)				2262
 	Communication:admit.V	admit, confess 				2210
 	Communication:advertisement.N	advertisement				2270
@@ -2682,11 +2730,11 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Family:family.N	A group comprising parents, offsprings and others closely related or associated with them.	194	2-82	Familie::N	
 	Family:father (of a man).N	A male parent of a man.	3906			
 	Family:father (of a woman).N	A male parent of a woman.	3905			
-	Family:father's sister.N	The sister of one's father.	170			
 	Family:father-in-law (of man).N	The father-in-law of a man.	2255	2-61		
 	Family:father-in-law (of woman).N	The father-in-law of a woman.	2254	2-611		
 	Family:father-in-law.N	The father of someone's spouse.	1055			
 	Family:father.N	A male parent.	1217	2-35	Vater::N	
+	Family:father's sister.N	The sister of one's father.	170			
 	Family:female (of person).A	Relating to the female sex of humans.	2260	2-24		
 	Family:female cousin.N	The female child of the sibling of a parent of a person.	3823			
 	Family:female person or mother.N	A human belonging to the female sex or a woman who has at least one child.	2800			
@@ -2743,12 +2791,12 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Family:me.?	Oblique cases of the first person singular pronoun.	2301			
 	Family:mother (of a man).N	A female parent of a man.	3908			
 	Family:mother (of a woman).N	A female parent of a woman.	3907			
-	Family:mother's brother.N	The brother of someone’s mother.	1984			
-	Family:mother's sister.N	The sister of one's mother.	171			
 	Family:mother-in-law (of man).N	The mother-in-law of a man.	2257	2-62		
 	Family:mother-in-law (of woman).N	The mother-in-law of a woman.	2256	2-621		
 	Family:mother-in-law.N	The mother of someone's spouse.	1050			
 	Family:mother.N	A woman who has at least one child.	1216	2-36	Mutter::N	
+	Family:mother's brother.N	The brother of someone’s mother.	1984			
+	Family:mother's sister.N	The sister of one's mother.	171			
 	Family:nephew or niece.N	A child of someone's brother or sister.	3890			
 	Family:nephew.N	A son of someone's brother or sister.	1063	2-53		
 	Family:niece.N	A daughter of someone’s brother or sister.	1642	2-54		
@@ -2783,9 +2831,9 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Family:same-sex younger sibling.N	A person of the same sex who is born after another person who has the same parents.	3038			
 	Family:self.?	The essential qualities that make a person or a thing distinct from all others.	1993			
 	Family:she.?	A female other; the female previously mentioned. 3rd person singular feminine subject pronoun.	1834	2-932		
-	Family:sibling's child.N	The child of a sibling.	173	2-541		
 	Family:sibling-in-law.N	The husband of one's sister.	1832	2-6412		
 	Family:sibling.N	A person who has the same parents as another person.	1640	2-456		
+	Family:sibling's child.N	The child of a sibling.	173	2-541		
 	Family:sister (of man).N	The sister of a man.	561			
 	Family:sister (of woman).N	The sister of a woman.	562			
 	Family:sister-in-law (husband's older sister).N	Husband of one's older sister.	2700			
@@ -3339,58 +3387,33 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Group:team.N	team				460
 	Group:the public.N	the public				435
 	Group:tribe.N	tribe (group of families living in proximity and having the same chief)				445
-	House:adobe.N	An unburnt brick dried in the sun made of clay and dried grasses.	901	7-64		
-	House:arch.N	An arch-shaped arrangement of trapezoidal stones, designed to redistribute downward force outward.	876	7-58		
-	House:area under house.N	The area under a house.	2632			
 	House:bale-bale (raised platform in house).N	An elevated wooden or bamboo platform on which people can sit, squat or sleep.	3177			
-	House:barn or shed.N	A building for storing agricultural products or sheltering livestock.	3025			
 	House:barrel.N	barrel, cask				1301
 	House:basket.N	basket				1302
 	House:bathtub.N	bathtub				1361
-	House:beam.N	A structural member loaded on its narrow face, and typically used in a horizontal or sloping position to span between bearing points.	1132	7-55		
 	House:bed.N	A piece of furniture, made for a person to sleep on.	1663	7-42	Bett::N	
 	House:bed.N	bed				1341
 	House:bedroom.N	The area where people sleep.	2505			
 	House:bench.N	A piece of furniture offering place for many people.	2584			
 	House:blackboard.N	Reusable surface for writing or drawing.	3084			
 	House:blanket.N	A large cloth used for warmth and for sleeping.	806	7-422	Decke::N	
-	House:board.N	A piece of wood or similar material that has been sawn into a regular shape, usually in preparation for using it in some sort of construction.	1227	7-57	Brett::N	
 	House:bookcase.N	bookcase				1345
 	House:bottle.N	bottle				1303
 	House:bowl.N	bowl (deep round dish)				1304
 	House:box.N	box (rigid rectangular receptacle)				1305
-	House:brick.N	A building material usually made from clay, molded as a rectangular block, and baked or burned in a kiln.	1006	7-62		
 	House:bucket.N	bucket, pail				1306
-	House:building.N	A solid construction comprised of walls and a roof.	3396			
-	House:camp.N	Tents, cabins, etc., used as temporary lodgings by a group of travellers, holiday-makers, Scouts, Gypsies, etc.	1105	7-65		
 	House:can.N	can (presealed metal container) {British: tin}				1307
 	House:candle.N	A light source consisting of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin.	1273	7-46		
 	House:chair.N	An item of furniture comprising a seat, legs, back, and sometimes arm rests, on which or in which one people can sit.	1476	7-43	Stuhl::N	
 	House:chair.N	chair (furniture for one person to sit on)				1342
-	House:chimney.N	A vertical structure of brick, masonry, or steel that carries smoke or steam away from a fire, engine, etc.	1305	7-33		
-	House:column.N	An upright supporting beam.	2045			
 	House:container.N	container				1300
-	House:cookhouse.N	A small house where cooking takes place; a kitchen house.	334	7-17		
-	House:courtyard.N	An area wholly or partly surrounded by walls or buildings.	4			
 	House:cup.N	cup (small bowl with handle)				1308
 	House:cupboard.N	Storing space with a door that can be closed.	3357			
 	House:desk.N	desk				1347
 	House:dish.N	dish (any shallow concave container)				1309
-	House:door.N	An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.	1567	7-22	Tür::N	
-	House:doorpost.N	The frame that supports a door.	80	7-221		
-	House:doorsills.N	(Building) a horizontal member of wood, stone, etc, forming the bottom of a door frame.	2185			
 	House:dwell (live, reside).V	To live; to reside; to remain or continue.	363	7-11	wohnen::V	
-	House:fireplace.N	An open recess in a wall at the base of a chimney where a fire may be built, or a hearth.	185	7-31		
-	House:floor.N	The bottom or lower part of any room; the supporting surface of a room.	1632	7-26	Fußboden::N	
-	House:frame.N	frame (structure supporting or surrounding something)				1330
 	House:furniture.N	furniture				1340
-	House:garden-house.N	A small building in a garden, such as a shed, which is not usually build to be inhabitated for long times.	403	7-131		
-	House:gate.N	A gate or gateway is a point of entry to a space which is enclosed by walls.	2940		Tor::N	
 	House:hammock.N	A swinging couch or bed, usually made of netting or canvas about six feet (1.8 m) wide, suspended by clews or cords at the ends.	2019	7-66		
-	House:home.N	The place where one lives.	2406		Heim::N	
-	House:house.N	The abode of a human being, their place of residence.	1252	7-12	Haus::N	
-	House:hut.N	A simple roofed shelter, often with one  open side.	1678	7-13		
-	House:igloo.N	A snow hut built from snow and serving as a shelter.	2592			
 	House:incense.N	An aromatic material that releases fragrant smoke when burned.	3356			
 	House:inside a house.?	Inside a building as opposed to outside in the open air.	3305			
 	House:jar.N	jar, jug (big wide-mouthed bottle)				1310
@@ -3400,10 +3423,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	House:lamp.N	A device that produces light, such as an electric lamp.	625			
 	House:latch.N	A fastening for a door that has a bar that fits into a notch or slot, and is lifted by a lever or string from either side.	1012	7-231		
 	House:lock.N	Something used for fastening, which can only be opened with a key or combination.	1596	7-23	Schloss::N	
-	House:mason.N	A craftsman who builds in stone or brick otherwise known as masonry.	877	7-61		
-	House:meeting house.N	A building where people meet for a purpose.	335	7-18		
-	House:men's house.N	A separate building for male persons.	408	7-16		
-	House:mortar binder.N	Paste made of a mixture of a binder (cement, plaster or lime), sand and water used in masonry to make bricks, stones, etc. stick together.	1731	7-63		
 	House:package.N	package, packet, parcel				1311
 	House:padlock.N	A detachable lock that can be used to secure something by means of a sliding or hinged shackle.	336	7-232		
 	House:pan.N	pan (broad shallow cooking dish)				1312
@@ -3411,46 +3430,26 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	House:pillow.N	pillow				1343
 	House:plate.N	plate (shallow dish, usually round)				1313
 	House:pole.N	A strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something.	282			
-	House:porch.N	A structure attached to the exterior of a building, often acting as a roofed entrance; a balcony; a veranda.	3269			
-	House:post.N	A strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something.	281	7-56	Stange::N	
 	House:pot.N	pot (deep round vessel)				1314
-	House:pyramid.N	A structure whose outer surfaces are triangular and converge to a single point at the top.	2600			
 	House:rack (for storing food).N	Bamboo shelves in the kitchen to store food and utensils.	3176			
 	House:rack.N	rack (framework of bars for storage)				1331
-	House:rafter.N	One of several parallel sloping beams that extend from the ridge to the wall-plate, to support the roof and its associated loads; the sloping top member of a roof truss, which carries the purlins.	829	7-54		
-	House:rail.N	rail (usually horizontal bar for restraining/supporting things)				1332
 	House:rattan.N	Material from rattan palms which is used to create furniture.	2497			
 	House:reside.V	To have permanent residence.	1099			
-	House:ridgepole.N	The highest horizontal beam in a roof.	280	7-53		
-	House:ritual ground.N	An uncovered open area used for ritual activities and public meetings.	3178			
-	House:roof.N	The structure covering a building.	769	7-51	Dach::N	
-	House:room.N	A separate part of a building, enclosed by walls, a floor and a ceiling.	1450	7-21		
 	House:sack.N	sack, bag				1315
 	House:sago thatch.N	A roof made from the Sago palm.	2616			
 	House:shelf.N	A flat, rigid, rectangular structure, fixed at right angles to a wall, and used to support, store or display objects.	745	7-47	Regal::N	
 	House:shelf.N	shelf				1344
 	House:sink.N	sink (washbasin for hands)				1360
 	House:sofa.N	Piece of furniture usually stuffed and used for seating two or more persons.	3099			
-	House:stairs.N	A contiguous set of steps connecting two floors.	34			
-	House:step.N	A flat surface or support that facilitates the ascent or descent of a stairway or step-ladder.	1158			
 	House:stool.N	A chair without back and arm rests.	2058			
 	House:stove.N	A chamber within which a fuel-air mixture is burned to provide heat, the heat itself being radiated outward from the chamber; used for space heating, process-fluid heating, and steel blast furnaces.	859	7-32	Ofen::N	
 	House:table.N	A piece of furniture that generally consists of a hard, flat, horizontal surface, which is elevated and stabilised by 3 or more legs (usually 4).	1775	7-44	Tisch::N	
 	House:table.N	table (piece of furniture with flat top)				1346
 	House:tan.V	To treat skins and hides with tannic acid so as to convert them into leather.	247	7-67		
-	House:tent.N	A portable lodging (usually made from waterproof plastic, animal hide or canvas streched by poles) that is used for sheltering people and objects from the weather when camping or at festivals.	1316	7-14		
-	House:thatch or roof.N	The cover of a house or a hut.	2100			
-	House:thatch.N	Natural roofing material such as straw, reeds, leaves, etc.	279	7-52		
-	House:threshold.N	The bottom-most part of a doorway that one crosses to enter; a sill.	1727			
-	House:tile.N	The long-lasting material that is manufactured in multiple pieces and used for covering flat surfaces of a building, such as a roof, walls, or floor.	3404			
-	House:toilet.N	toilet, water closet				1362
 	House:torch.N	A stick with a flame on one end used as a light source.	1919			
 	House:tray.N	tray (shallow rectangular dish)				1316
 	House:trough.N	A long, narrow container, open on top, for feeding or watering animals.	205	7-48		
-	House:wall (of house).N	The outer structure which encloses a building.	933	7-27		
 	House:wardrobe.N	Large object, often made out of wood, used for storing clothes or other fabrics.	3106			
-	House:window.N	An opening, usually covered by one or more panes of clear glass, to allow light from outside to enter a building or vehicle.	1375	7-25	Fenster::N	
-	House:yard.N	A small, usually uncultivated area adjoining or within the precincts of a house or other building.	736	7-15		
 	Identity:change.V	change (become/make different), vary 				2412
 	Identity:common.A	common, general (shared by all members of a group) 				2428
 	Identity:consist of.V	consist of, be composed of 				2442
@@ -3933,8 +3932,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Motion:accompany.V	To go or travel in the company of someone.	1542			
 	Motion:aim.V	aim (to point/direct X toward Y) 				3030
 	Motion:anchor.N	Something, usually a heavy piece of metal with points which dig into the sea-bed, used to hold a boat in one position.	1870	10-89		
-	Motion:approach.V	To come near to; to move towards.	1778	10-56		
-	Motion:arrive.V	To come to a destination.	1387	10-55	ankommen::V	
 	Motion:attract.V	attract 				3020
 	Motion:avoid.V	avoid, evade, keep away from 				3031
 	Motion:axle.N	The central part of a wheel, that usually does not turn.	1769	10-77		
@@ -3943,9 +3940,7 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Motion:blow (of wind).V	(Of the wind or a current of air) To move.	175	10-38	wehen::V	
 	Motion:boat.N	A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind.	1844	10-83	Boot::N	
 	Motion:bolt (move in haste).V	Move in great haste.	2860		eilen::V	
-	Motion:bridge.N	A structure that spans and provides a passage over a road, railway, river, or some other obstacle.	1011	10-74	Brücke::N	
-	Motion:bring.V	To transport toward somewhere; to take something or somebody with oneself somewhere.	692	10-62	bringen::V	
-	Motion:bring.V	bring (cause something to come along with one toward a place) 				3032
+	Motion:bridge.N	A structure that spans and provides a passage over a road, railway, river, or some other obstacle.	1011	10-74	Brücke::N	1590
 	Motion:budge (oneself).V	To move oneself.	2861		sich rühren::V	
 	Motion:canoe.N	A light narrow boat driven by a paddle.	1970	10-831		
 	Motion:capture.V	capture, seize 				3033
@@ -3955,22 +3950,10 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Motion:carry on shoulder.V	To hold or to take something from one place to another on one shoulder.	413	10-613		
 	Motion:carry person on back.V	To hold or take some person fron one place to another on the back.	2153			
 	Motion:carry under arm.V	To hold or to take something from one place to another under the arm.	415	10-615		
-	Motion:carry.V	To lift and bring to somewhere else; to transport by lifting.	700	10-61	tragen::V	
-	Motion:carry.V	carry (move while supporting) 				3034
 	Motion:cart.N	A two-wheeled vehicle, commonly without springs, drawn by mules, oxen, or the like, used for the conveyance of heavy goods.	122	10-75		
-	Motion:catch.V	To take hold of, especially in the hands, so as to seize or restrain or stop the motion of.	702	10-252	fangen::V	
-	Motion:clap.V	Make noise by putting one's hand together.	3110			
 	Motion:clean (something).V	To cause something to be no longer dirty.	2235		reinigen::V	
-	Motion:climb.V	To mount to a high or little accessible place using feet and hands, e.g. a tree, a mountain or a ladder.	1102	10-472	klettern::V	
-	Motion:close the eyes.V	To shut down the eyes such that one cannot see anything anymore.	2211			
 	Motion:clumsy.A	Moving carelessly or gracelessly, causing things to break or get knocked over.	3900			
-	Motion:come back.V	To go there where one was before.	581	10-481	zurückkommen::V	
-	Motion:come.V	To move toward or to reach either the speaker, the person spoken to, or the subject of the speaker's narrative.	1446	10-48	kommen::V	
-	Motion:come.V	come, arrive (at indicated place) 				3002
 	Motion:connect.V	To link two objects with each other.	2862		verbinden::V	
-	Motion:crawl or creep.V	To move using ones hands and knees or with one's belly touching the ground.	3456	10-41		
-	Motion:crawl.V	To move using ones hands and knees.	96			
-	Motion:creep.V	To move with one's belly touching the ground.	3215		kriechen::V	
 	Motion:crouch.V	To lower one's body close to the ground by bending one's knees completely.	296	10-413		
 	Motion:dance (movement).N	A series of rhythmic movements performed to music.	3472			
 	Motion:dance.V	To move with rhythmic steps or movements, especially in time to music.	1879	10-44	tanzen::V	746
@@ -3989,26 +3972,19 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Motion:drumming.V	To produce sound with a drum.	111			
 	Motion:dugout.N	A boat made from a hollowed tree trunk.	2189			
 	Motion:emit.V	emit (to send out any form of matter/energy in any manner) 				3016
-	Motion:enter.V	To go into.	749	10-57	hineingehen::V	
-	Motion:enter.V	enter, go into 				3036
 	Motion:escape.V	escape, flee from 				3037
 	Motion:fall (of snow and rain).V	The process by which rain or snow descend from the clouds to the earth.	2234			
-	Motion:fall.V	To descend in free fall due to the effect of gravity.	1280	10-23	fallen::V	
 	Motion:fetch.V	To go after something or somebody and bring them back.	3551			
 	Motion:firedrill.N	A fire drill is a method of practicing the evacuation of a building for a fire or other emergency.	517			
 	Motion:flee.V	Leaving a dangerous or unpleasant situation.	956	10-51	fliehen::V	
 	Motion:float.V	Of an object or substance, to be supported by a liquid of greater density than the object so as that part of the object or substance remains above the surface. [WK:float]	1574	10-34		
 	Motion:flow.V	To move as a fluid from one position to another (e.g. of water or of people).	2003	10-32	fließen::V	
-	Motion:fly (move through air).V	To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	1441	10-37	fliegen::V	
-	Motion:fly.V	fly (move through the air) 				3038
 	Motion:follow.V	To go or come after (in physical space) someone or something.	1085	10-52		
 	Motion:gather.V	gather, collect (bring or come together) 				3039
 	Motion:go down (descend).V	To go from a higher to a lower place.	2014	10-473	sinken::V	
 	Motion:go out.V	To move out of or depart from.	1107	10-474		
 	Motion:go up (ascend).V	To move from a lower to a higher position by walking or climbing.	705	10-471		
 	Motion:go up or rise (oneself).V	To move from a lower to a higher position or to get up from a lying, sitting, or kneeling position.	3207		steigen::V	
-	Motion:go.V	To get from one place to another by any means.	695	10-47	gehen::V	
-	Motion:go.V	go (move from starting point to elsewhere) 				3001
 	Motion:hitchhike.V	Travel by means of lifts in vehicles.	3117			
 	Motion:impel.V	Cause objects, people or animals to move (typically by following them).	3290			
 	Motion:insert.V	To cause something to go into; to infix; to introduce.	3071		stecken::V	
@@ -4021,9 +3997,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Motion:lame person.N	A person that is not able to walk.	2322			
 	Motion:land (descend).V	To descend to a surface, especially from the air.	1922	10-92		
 	Motion:lead (guide).V	To guide by moving in front.	43	10-64	führen::V	
-	Motion:leave.V	To move away from a place, a situation or a talk.	1752	10-49	weggehen::V	
-	Motion:leave.V	leave, depart, go away from 				3003
-	Motion:lift.V	To cause an object to have a higher location than previously.	501	10-22	hochheben::V	
 	Motion:limp.V	To walk lamely, as if favouring one leg.	366	10-451		
 	Motion:load.N	load, burden				3074
 	Motion:mast.N	Post of wood or steel, long, round and straight, standing on a ship, intended to carry the sails, flags, floodlights, or communications equipment.	184	10-87		
@@ -4047,17 +4020,12 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Motion:put (in a standing position).V	To put someone or oneself in a standing position.	3833			
 	Motion:put.V	put (cause item X to be located at place Y) 				3012
 	Motion:raft.N	A collection of logs, planks, casks, etc., fastened together for floating on water.	1664	10-84		
-	Motion:raise.V	To cause to rise; to move something from a lower position to a higher one.	1317		heben::V	
 	Motion:reach.V	reach, extend as far as 				3042
 	Motion:release.V	release (quit keeping/restraining) 				3043
-	Motion:remain.V	remain, stay 				3044
 	Motion:repel.V	repel 				3021
 	Motion:restrain.V	restrain, inhibit, hold back 				3045
 	Motion:retrieve.V	retrieve, fetch (go to X and bring it back) 				3046
 	Motion:return home.V	To go to one's home after having left it, such as after a working day or holidays.	142	10-58		
-	Motion:return.V	return (go or send back to previous place/condition) 				3047
-	Motion:ride.V	To transport oneself by sitting on and directing an animal.	367	10-66		
-	Motion:ride.V	ride (sit/perch in/on a vehicle/horse/etc. and travel) 				3048
 	Motion:rise (oneself).V	To get up from a lying, sitting, or kneeling position.	1512			
 	Motion:road.N	A long piece of hard ground that people can drive along from one place to another.	667	10-71	Straße::N	
 	Motion:roll.V	To tip laterally.	827	10-15		
@@ -4740,7 +4708,7 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Possession:let go or set free.V	To give freedom; to stop holding; to release from confinement or restraint.	1095	11-34		
 	Possession:look for.V	To try to find something.	1468	11-31	suchen::V	
 	Possession:lose.V	To be beaten or to fail to win in a fight, game, or similar, or to place something in a place where one cannot find it again or in a wrong place; to lose something.	1660			
-	Possession:market.N	Place of commercial activity in which articles are bought and sold.	633	11-85		
+	Possession:market.N	Place of commercial activity in which articles are bought and sold.	633	11-85		1598
 	Possession:matter.N	That which is considered to exist as a separate physical entity.	2150			
 	Possession:merchandise.N	Products offered to retail customers for money.	3406			
 	Possession:merchant.N	A businessperson engaged in trade.	1082	11-84		
@@ -5046,6 +5014,7 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Society:rebel.V	To resist or become defiant toward an authority.	567			
 	Society:receive visitors.V	To receive visitors.	2225			
 	Society:rely on.V	To trust someone's ability to help or expect something to happen in a particular way.	3370			
+	Society:ritual ground.N	An uncovered open area used for ritual activities and public meetings.	3178			
 	Society:rule.V	To exercise power or authority over a person, a group of persons, animals, territories or an organization.	1846	19-31	beherrschen::V	
 	Society:servant.N	A person performing duties for others. For example a person employed in a household which cares about the domestic duties.	255	19-43		
 	Society:serve (someone).V	To perform the duties of a servant.	3648			
@@ -5108,7 +5077,7 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Space:circular (round in two dimensions).A	Having a circular shape.	2302			
 	Space:closed.A	Inaccessible.	589		geschlossen::A	
 	Space:coarse.A	Unrefined with reference to material.	2151			
-	Space:corner.N	The area around the point where two converging walls meet.	192	12-76	Ecke::N	
+	Space:corner.N	The area around the point where two converging walls meet.	192	12-76	Ecke::N	1518
 	Space:cover.V	To place something over or upon to conceal or protect.	761	12-26	bedecken::V	
 	Space:crooked.A	Opposite of straight.	297	12-74		
 	Space:cross.N	A geometrical figure consisting of two straight lines or bars bisecting each other, or any figure or object of similar shape.	1367	12-77	Kreuz::N	
@@ -5184,7 +5153,7 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Space:point (pointed end).N	The pointed, sharp end of an object like e.g. a spear or arrowhead.	3255			
 	Space:pointed.A	Ending in an acute point.	372	12-352	spitz::A	
 	Space:put.V	To set or place an object somewhere.	998	12-12	stellen::V	
-	Space:remain.V	To continue to be in the same place or state.	987	12-16	bleiben::V	
+	Space:remain.V	To continue to be in the same place or state.	987	12-16	bleiben::V	3044
 	Space:remains.N	What remains after other things have been taken away (e.g. eaten or destroyed).	838	12-17		
 	Space:resemble.V	To be like or similar to something else.	1777			
 	Space:right.A	Something that is on the right side relative to another object.	1019	12-41	rechter::A	
