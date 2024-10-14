@@ -1,6 +1,7 @@
 id	initial_id	Definition	Concepticon_id	WOLD_id	NELex_id	ULD_id
 Agriculture:farm.N	Agriculture/Plant:farm.N	Any tract of land or building used for agricultural purposes, such as for raising crops and livestock.	201			1595
 Agriculture:farmer.N	Agriculture/Plant:farmer.N	A person who works the land or who keeps livestock, especially on a farm.	979	8-11		
+Agriculture:winnowing.V	Action/Technology:winnowing.V	Wind winnowing is an agricultural method developed by ancient cultures for separating grain from chaff.	2462			
 Animal:Acridomorpha.N	Animal:grasshopper.N	A plant-eating insect with long back legs that can jump very high and makes a sharp high noise using its back legs or wings.	607	3-93		913
 Animal:Anatidae.N	Animal:duck.N	An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	1360	3-57	Ente::N	982
 Animal:animal.N	Animal:animal.N	Any living organism characterized by voluntary movement, the possession of cells with noncellulose cell walls and specialized sense organs enabling rapid response to stimuli, and the ingestion of complex organic substances such as plants and other animals.	619	3-11	Tier::N	904
@@ -288,6 +289,7 @@ Building:area under house.N	Building:area under house.N	The area under a house.	
 Building:beam.N	Building:beam.N	A structural member loaded on its narrow face, and typically used in a horizontal or sloping position to span between bearing points.	1132	7-55		
 Building:board.N	Building:board.N	A piece of wood or similar material that has been sawn into a regular shape, usually in preparation for using it in some sort of construction.	1227	7-57	Brett::N	1593
 Building:brick.N	Building:brick.N	A building material usually made from clay, molded as a rectangular block, and baked or burned in a kiln.	1006	7-62		1594
+Building:build.V	Action/Technology:build.V	To form by combining materials or parts.	1840	9-44	bauen::V	3715
 Building:building.N	Building:building.N	A solid construction comprised of walls and a roof.	3396			1501
 Building:camp.N	Building:camp.N	Tents, cabins, etc., used as temporary lodgings by a group of travellers, holiday-makers, Scouts, Gypsies, etc.	1105	7-65		1557
 Building:ceiling.N	Building:ceiling.N	ceiling				1511
@@ -328,12 +330,131 @@ Building:threshold.N	Building:threshold.N	The bottom-most part of a doorway that
 Building:tile.N	Building:tile.N	The long-lasting material that is manufactured in multiple pieces and used for covering flat surfaces of a building, such as a roof, walls, or floor.	3404			
 Building:tower.N	Combat/Hunting:tower.N	Structure, usually taller than it is wide, often used as a lookout.	1671	20-36		1591
 Building:wall.N	Building:wall.N	The outer structure which encloses a building and supports the roof.	933	7-27		1513
+Building:windmill.N	Action/Technology:windmill.N	A large structure or building with long revolving blades or sails that is used for converting wind energy in order to produce electricity or to directly power an attached mechanical construction for grinding.	3841			
 Building:window.N	Building:window.N	An opening, usually covered by one or more panes of clear glass, to allow light from outside to enter a building or vehicle.	1375	7-25	Fenster::N	1514
 Building:yard.N	Building:yard.N	A small, usually uncultivated area adjoining or within the precincts of a house or other building.	736	7-15		
 Clothing:naked.A	Body:naked.A	Without clothing.	590	4-99	nackt::A	645
 Combat:fight.N	Action/Technology:fight (combat).N	A hostile encounter, such as a battle or combat.	3880		Kampf::N	
 Combat:fight.V	Combat/Hunting:fight.V	To be involved in a physical confrontation.	1423	20-11		782
 Combat:wrestle.V	Body:wrestle.V	wrestle 				783
+Element:Ac.N		Actinium, the chemical element with atomic number 89 and symbol Ac.				
+Element:Ag.N	Action/Technology:silver.N	A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	759	9-65	Silber::N	3324
+Element:Al.N		Aluminium, the chemical element with atomic number 13 and symbol Al.				3329
+Element:Am.N		Americium, the chemical element with atomic number 95 and symbol Am.				
+Element:Ar.N		Argon, the chemical element with atomic number 18 and symbol Ar.				
+Element:As.N		Astatine, the chemical element with atomic number 85 and symbol As.				
+Element:As.N		Arsenic, the chemical element with atomic number 33 and symbol As.				
+Element:Au.N	Action/Technology:gold.N	A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au.	1369	9-64	Gold::N	3323
+Element:B.N		Boron, the chemical element with atomic number 5 and symbol B.				
+Element:Ba.N		Barium, the chemical element with atomic number 56 and symbol Ba.				
+Element:Be.N		Beryllium, the chemical element with atomic number 4 and symbol Be.				
+Element:Bh.N		Bohrium, the chemical element with atomic number 107 and symbol Bh.				
+Element:Bi.N		Bismuth, the chemical element with atomic number 83 and symbol Bi.				
+Element:Bk.N		Berkelium, the chemical element with atomic number 97 and symbol Bk.				
+Element:Br.N		Bromine, the chemical element with atomic number 35 and symbol Br.				
+Element:C.N		Carbon (Coal), the chemical element with atomic number 6 and symbol C.				3380
+Element:Ca.N		Calcium (Ca), the chemical element with atomic number 20 and symbol Ca.				
+Element:Cd.N		Cadmium, the chemical element with atomic number 48 and symbol Cd.				
+Element:Ce.N		Cerium, the chemical element with atomic number 58 and symbol Ce.				
+Element:Cf.N		Californium, the chemical element with atomic number 98 and symbol Cf.				
+Element:Cl.N		Chlorine, the chemical element with atomic number 17 and symbol Cl.				
+Element:Cm.N		Curium, the chemical element with atomic number 96 and symbol Cm.				
+Element:Cn.N		Copernicium, the chemical element with atomic number 112 and symbol Cn.				
+Element:Co.N		Cobalt, the chemical element with atomic number 27 and symbol Co.				
+Element:Cr.N		Chromium, the chemical element with atomic number 24 and symbol Cr.				
+Element:Cs.N		Caesium, the chemical element with atomic number 55 and symbol Cs.				
+Element:Cu.N	Action/Technology:copper.N	Chemical element with symbol Cu and atomic number 29; one of the most important nonferrous metals; a ductile and malleable metal found in various ores and used in industry, engineering, and the arts in both pure and alloyed form.	1825	9-66		3322
+Element:Db.N		Dubnium, the chemical element with atomic number 105 and symbol Db.				
+Element:Ds.N		Darmstadtium, the chemical element with atomic number 110 and symbol Ds.				
+Element:Dy.N		Dysprosium, the chemical element with atomic number 66 and symbol Dy.				
+Element:Er.N		Erbium, the chemical element with atomic number 68 and symbol Er.				
+Element:Es.N		Einsteinium, the chemical element with atomic number 99 and symbol Es.				
+Element:Eu.N		Europium, the chemical element with atomic number 63 and symbol Eu.				
+Element:F.N		Fluorine, the chemical element with atomic number 9 and symbol F.				
+Element:Fe.N	Action/Technology:iron.N	A malleable ductile silvery-white ferromagnetic metallic element with symbol Fe and atomic number 26, occurring principally in haematite and magnetite. It is widely used for structural and engineering purposes.	621	9-67	Eisen::N	3325
+Element:Fl.N		Flerovium, the chemical element with atomic number 114 and symbol Fl.				
+Element:Fm.N		Fermium, the chemical element with atomic number 100 and symbol Fm.				
+Element:Fr.N		Francium, the chemical element with atomic number 87 and symbol Fr.				
+Element:Ga.N		Gallium, the chemical element with atomic number 31 and symbol Ga.				
+Element:Gd.N		Gadolinium, the chemical element with atomic number 64 and symbol Gd.				
+Element:Ge.N		Germanium, the chemical element with atomic number 32 and symbol Ge.				
+Element:H.N		Hydrogen, the chemical element with atomic number 1 and symbol H.				3374
+Element:He.N		Helium, the chemical element with atomic number 2 and symbol He.				
+Element:Hf.N		Hafnium, the chemical element with atomic number 72 and symbol Hf.				
+Element:Hg.N		Mercury (Quicksilver), the chemical element with atomic number 80 and symbol Hg.				3384
+Element:Ho.N		Holmium, the chemical element with atomic number 67 and symbol Ho.				
+Element:Hs.N		Hassium, the chemical element with atomic number 108 and symbol Hs.				
+Element:I.N		Iodine, the chemical element with atomic number 53 and symbol I.				
+Element:In.N		Indium, the chemical element with atomic number 49 and symbol In.				
+Element:Ir.N		Iridium, the chemical element with atomic number 77 and symbol Ir.				
+Element:K.N		Potassium, the chemical element with atomic number 19 and symbol K.				3382
+Element:Kr.N		Krypton, the chemical element with atomic number 36 and symbol Kr.				
+Element:La.N		Lanthanum, the chemical element with atomic number 57 and symbol La.				
+Element:Li.N		Lithium, the chemical element with atomic number 3 and symbol Li.				
+Element:Lr.N		Lawrencium, the chemical element with atomic number 103 and symbol Lr.				
+Element:Lu.N		Lutetium, the chemical element with atomic number 71 and symbol Lu.				
+Element:Lv.N		Livermorium, the chemical element with atomic number 116 and symbol Lv.				
+Element:Mc.N		Moscovium, the chemical element with atomic number 115 and symbol Mc.				
+Element:Md.N		Mendelevium, the chemical element with atomic number 101 and symbol Md.				
+Element:Mg.N		Magnesium, the chemical element with atomic number 12 and symbol Mg.				
+Element:Mn.N		Manganese, the chemical element with atomic number 25 and symbol Mn.				
+Element:Mo.N		Molybdenum, the chemical element with atomic number 42 and symbol Mo.				
+Element:Mt.N		Meitnerium, the chemical element with atomic number 109 and symbol Mt.				
+Element:N.N		Nitrogen, the chemical element with atomic number 7 and symbol N.				3378
+Element:Na.N		Sodium, the chemical element with atomic number 11 and symbol Na.				3386
+Element:Nb.N		Niobium, the chemical element with atomic number 41 and symbol Nb.				
+Element:Nd.N		Neodymium, the chemical element with atomic number 60 and symbol Nd.				
+Element:Ne.N		Neon, the chemical element with atomic number 10 and symbol Ne.				3376
+Element:Nh.N		Nihonium, the chemical element with atomic number 113 and symbol Nh.				
+Element:Ni.N		Nickel, the chemical element with atomic number 28 and symbol Ni.				
+Element:No.N		Nobelium, the chemical element with atomic number 102 and symbol No.				
+Element:Np.N		Neptunium, the chemical element with atomic number 93 and symbol Np.				
+Element:O.N		Oxygen, the chemical element with atomic number 8 and symbol O.				3372
+Element:Og.N		Oganesson, the chemical element with atomic number 118 and symbol Og.				
+Element:Os.N		Osmium, the chemical element with atomic number 76 and symbol Os.				
+Element:P.N		Phosphorus, the chemical element with atomic number 15 and symbol P.				
+Element:Pa.N		Protactinium, the chemical element with atomic number 91 and symbol Pa.				
+Element:Pb.N		Lead, the chemical element with atomic number 82 and symbol Pb.				3327
+Element:Pd.N		Palladium, the chemical element with atomic number 46 and symbol Pd.				
+Element:Pm.N		Promethium, the chemical element with atomic number 61 and symbol Pm.				
+Element:Po.N		Polonium, the chemical element with atomic number 84 and symbol Po.				
+Element:Pr.N		Praseodymium, the chemical element with atomic number 59 and symbol Pr.				
+Element:Pt.N		Platinum, the chemical element with atomic number 78 and symbol Pt.				
+Element:Pu.N		Plutonium, the chemical element with atomic number 94 and symbol Pu.				
+Element:Ra.N		Radium, the chemical element with atomic number 88 and symbol Ra.				
+Element:Rb.N		Rubidium, the chemical element with atomic number 37 and symbol Rb.				
+Element:Re.N		Rhenium, the chemical element with atomic number 75 and symbol Re.				
+Element:Rf.N		Rutherfordium, the chemical element with atomic number 104 and symbol Rf.				
+Element:Rg.N		Roentgenium, the chemical element with atomic number 111 and symbol Rg.				
+Element:Rh.N		Rhodium, the chemical element with atomic number 45 and symbol Rh.				
+Element:Rn.N		Radon, the chemical element with atomic number 86 and symbol Rn.				
+Element:Ru.N		Ruthenium, the chemical element with atomic number 44 and symbol Ru.				
+Element:S.N		Sulfur (Brimstone), the chemical element with atomic number 16 and symbol S.				3388
+Element:Sb.N		Antimony, the chemical element with atomic number 51 and symbol Sb.				
+Element:Sc.N		Scandium, the chemical element with atomic number 21 and symbol Sc.				
+Element:Se.N		Selenium, the chemical element with atomic number 34 and symbol Se.				
+Element:Sg.N		Seaborgium, the chemical element with atomic number 106 and symbol Sg.				
+Element:Si.N		Silicon, the chemical element with atomic number 14 and symbol Si.				
+Element:Sm.N		Samarium, the chemical element with atomic number 62 and symbol Sm.				
+Element:Sn.N		Tin, the chemical element with atomic number 50 and symbol Sn.				3328
+Element:Sr.N		Strontium, the chemical element with atomic number 38 and symbol Sr.				
+Element:Ta.N		Tantalum, the chemical element with atomic number 73 and symbol Ta.				
+Element:Tb.N		Terbium, the chemical element with atomic number 65 and symbol Tb.				
+Element:Tc.N		Technetium, the chemical element with atomic number 43 and symbol Tc.				
+Element:Te.N		Tellurium, the chemical element with atomic number 52 and symbol Te.				
+Element:Th.N		Thorium, the chemical element with atomic number 90 and symbol Th.				
+Element:Ti.N		Titanium, the chemical element with atomic number 22 and symbol Ti.				
+Element:Tl.N		Thallium, the chemical element with atomic number 81 and symbol Tl.				
+Element:Tm.N		Thulium, the chemical element with atomic number 69 and symbol Tm.				
+Element:Ts.N		Tennessine, the chemical element with atomic number 117 and symbol Ts.				
+Element:U.N		Uranium, the chemical element with atomic number 92 and symbol U.				
+Element:V.N		Vanadium, the chemical element with atomic number 23 and symbol V.				
+Element:W.N		Tungsten (Wolfram), the chemical element with atomic number 74 and symbol W.				
+Element:Xe.N		Xenon, the chemical element with atomic number 54 and symbol Xe.				
+Element:Y.N		Yttrium, the chemical element with atomic number 39 and symbol Y.				
+Element:Yb.N		Ytterbium, the chemical element with atomic number 70 and symbol Yb.				
+Element:Zn.N		Zinc, the chemical element with atomic number 30 and symbol Zn.				
+Element:Zr.N		Zirconium, the chemical element with atomic number 40 and symbol Zr.				
 Hunting:hunt.V	Combat/Hunting:hunt.V	To chase down prey and (usually) kill it.	1435	20-61	jagen::V	781
 Hunting:hunter.N	Combat/Hunting:hunter.N	A person who hunts game.	1053			
 Hunting:hunting dog.N	Combat/Hunting:hunting dog.N	A type of canine bred for hunting or a dog trained to assist humans with hunting.	3380			
@@ -357,6 +478,7 @@ Motion:leave.V	Motion:leave.V	To move away from a place, a situation or a talk.	
 Motion:lift.V	Motion:lift.V	To cause an object to have a higher location than previously.	501	10-22	hochheben::V	
 Motion:raise.V	Motion:raise.V	To cause to rise; to move something from a lower position to a higher one.	1317		heben::V	
 Motion:ride.V	Motion:ride.V	To transport oneself by sitting on and directing an animal.	367	10-66		3048
+Music:accordion.N	Modernity:accordion.N	A musical instrument.	2603			
 Quantity:0.NUM	Quantity:zero.NUM	The integer zero (0).	1294	13		2500
 Quantity:1.NUM	Quantity:one.NUM	The natural number one (1).	1493	13-01	eins::NUM	2501
 Quantity:10.NUM	Quantity:ten.NUM	The natural number ten (10).	1515	13-1	zehn::NUM	2510
@@ -567,7 +689,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Action/Technology:broken.A	Not capable of working or broken into pieces.	588			
 	Action/Technology:broom.N	A tool used to sweep and clean the floor, made of a bundle of straws or twigs attached to a long handle.	245	9-38	Besen::N	
 	Action/Technology:bucket.N	Typically a watertight, vertical cylinder or truncated cone, with an open top and a flat bottom, attached to a semicircular carrying handle called the bail.	2052		Eimer::N	
-	Action/Technology:build.V	To form by combining materials or parts.	1840	9-44	bauen::V	
 	Action/Technology:bundle.N	A group of things fastened together.	2943		Bündel::N	
 	Action/Technology:burden stick.N	A long piece of wood used to carry a burden.	3159			
 	Action/Technology:burn.V	To put fire on something or to be on fire.	2102			
@@ -597,7 +718,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Action/Technology:compare.V	To estimate something in terms of similar or contrasting features as opposed to the other(s).	3429			
 	Action/Technology:continue.V	To carry on with something or to keep existing or happening.	3699			
 	Action/Technology:convey (a message).V	To share a message with somebody.	2898		mitteilen::V	
-	Action/Technology:copper.N	Chemical element with symbol Cu and atomic number 29; one of the most important nonferrous metals; a ductile and malleable metal found in various ores and used in industry, engineering, and the arts in both pure and alloyed form.	1825	9-66		
 	Action/Technology:cough (act of coughing).N	The act of coughing or the sound of coughing.	3913			
 	Action/Technology:crow (verb).V	To utter the characteristic cry of a rooster.	2074			
 	Action/Technology:cut (with axe).V	To chop with an axe, e.g. wood in order to use it as firewood.	3151			
@@ -654,7 +774,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Action/Technology:glasses.N	Frames bearing lenses worn in front of the eyes used for vision correction.	2292			
 	Action/Technology:glue.N	Substance used for sticking objects together.	1069	9-56	kleben::V	
 	Action/Technology:gnaw.V	Treat some material with one's teeth.	2706			
-	Action/Technology:gold.N	A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au.	1369	9-64	Gold::N	
 	Action/Technology:grate (something).V	To abrade an object by rubbing it against a rough surface.	3114			
 	Action/Technology:gridiron.N	Wooden grill used to dry or smoke meat or fish	3932			
 	Action/Technology:grindstone.N	A grindstone is a round sharpening stone used for grinding or sharpening ferrous tools.	2459			
@@ -679,7 +798,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Action/Technology:inhale.V	Breathe in some substance (smoke, steam) other than air.	2705			
 	Action/Technology:intact.A	That has not been impaired or altered; lacking nothing essential, especially not damaged.	220			
 	Action/Technology:iron or metal.N	A generic way of referring to either the ore or the finished product.	3324			
-	Action/Technology:iron.N	A malleable ductile silvery-white ferromagnetic metallic element with symbol Fe and atomic number 26, occurring principally in haematite and magnetite. It is widely used for structural and engineering purposes.	621	9-67	Eisen::N	
 	Action/Technology:jog (something).V	To shake something.	2899		rütteln::V	
 	Action/Technology:knit.V	To create a textile by manipulating yarn with the help of two long needles.	2905		stricken::V	
 	Action/Technology:knot.N	A loop of string or any other long flexible material which cannot be untied without pulling part of the string through the loops.	760	9-192	Knoten::N	
@@ -806,7 +924,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Action/Technology:shepherd.N	The person that watches over sheep.	2544			
 	Action/Technology:shoulder pole.N	A pole that is used to carry things on the shoulder.	3432			
 	Action/Technology:sieve (tool).N	A device for separating wanted elements from unwanted material.	3353			
-	Action/Technology:silver.N	A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	759	9-65	Silber::N	
 	Action/Technology:skilled.A	Experienced and clever, professional.	807			
 	Action/Technology:slap.V	Hit with the open palm of the hand.	3160			
 	Action/Technology:slaughter.V	To kill animals for food.	1796			
@@ -881,8 +998,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Action/Technology:weaver.N	A person whose occupation is weaving cloth, carpets, or baskets.	3637			
 	Action/Technology:whetstone.N	A stone that is used for whetting a knife or edge tools.	295	9-93		
 	Action/Technology:whistle (instrument).N	Wind instrument most often made out of metal or wood used for producing a loud, shrill tone.	3107			
-	Action/Technology:windmill.N	A large structure or building with long revolving blades or sails that is used for converting wind energy in order to produce electricity or to directly power an attached mechanical construction for grinding.	3841			
-	Action/Technology:winnowing.V	Wind winnowing is an agricultural method developed by ancient cultures for separating grain from chaff.	2462			
 	Action/Technology:wipe.V	To move an object or utensil over a surface or other object while maintaining contact, in order that a substance be removed from its surface.	1454	9-311	abwischen::V	
 	Action/Technology:work (activity).V	To do a specific task by employing physical or mental powers.	1086		arbeiten::V	
 	Action/Technology:work (labour).N	Productive activity, service, trade, or craft for which one is regularly paid.	984	9-12	Arbeit::N	
@@ -3603,7 +3718,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Matter:air.N	air				3305
 	Matter:alcohol.N	alcohol				3358
 	Matter:alkaline.A	alkaline 				3802
-	Matter:aluminum.N	aluminum				3329
 	Matter:ash.N	ash				3311
 	Matter:atom.N	atom				3815
 	Matter:balance.N	balance, equilibrium				3842
@@ -3613,17 +3727,14 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Matter:bounce.V	bounce, rebound 				3711
 	Matter:brass.N	brass (copper-zinc alloy)				3321
 	Matter:break.V	break (into pieces) 				3713
-	Matter:build.V	build (join materials to create), construct 				3715
 	Matter:burn.V	burn 				3717
 	Matter:burst.V	burst 				3719
-	Matter:carbon.N	carbon				3380
 	Matter:chalk.N	chalk				3337
 	Matter:chemical.N	chemical (substance made by or used in chemistry)				3395
 	Matter:clay.N	clay				3334
 	Matter:coal.N	coal				3336
 	Matter:consume.V	consume, deplete, expend, exhaust, use up 				3721
 	Matter:contain.V	contain 				3723
-	Matter:copper.N	copper				3322
 	Matter:crush.V	crush (press on so as to break or re-shape) 				3725
 	Matter:cut.V	cut 				3727
 	Matter:dig.V	dig 				3729
@@ -3645,33 +3756,25 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Matter:garbage.N	garbage, trash, rubbish				3399
 	Matter:gentle.A	gentle, mild 				3811
 	Matter:glass.N	glass				3350
-	Matter:gold.N	gold (the precious metal)				3323
 	Matter:gravity.N	gravity				3840
 	Matter:grind.V	grind 				3745
 	Matter:hang.V	hang, suspend, dangle 				3747
 	Matter:hit.V	hit, strike 				3749
-	Matter:hydrogen.N	hydrogen				3374
 	Matter:ice.N	ice				3302
 	Matter:ink.N	ink				3353
-	Matter:iron.N	iron				3325
 	Matter:jade.N	jade (the tough green gemstone)				3339
 	Matter:jewel.N	jewel, gem				3338
-	Matter:lead.N	lead (the metal)				3327
 	Matter:magnet.N	magnet				3841
 	Matter:medicine.N	medicine (substance that makes one healthy)				3356
 	Matter:melt.V	melt 				3751
-	Matter:mercury.N	mercury (the element)				3384
 	Matter:metal.N	metal				3320
 	Matter:mineral.N	mineral, ore				3335
 	Matter:mix.V	mix, blend 				3753
 	Matter:molecule.N	molecule				3816
 	Matter:mud.N	mud				3332
 	Matter:negative.A	negative 				3833
-	Matter:neon.N	neon				3376
-	Matter:nitrogen.N	nitrogen				3378
 	Matter:oil.N	oil (a combustible fatty liquid that will not mix with water)				3359
 	Matter:oil.N	oil (crude oil), petroleum				3360
-	Matter:oxygen.N	oxygen				3372
 	Matter:paint.N	paint				3354
 	Matter:paper.N	paper				3355
 	Matter:plastic.N	plastic (synthetic/processed moldable material)				3351
@@ -3679,7 +3782,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Matter:polarity.N	polarity (electric, magnetic, etc.)				3831
 	Matter:pollute.V	pollute, contaminate 				3755
 	Matter:positive.A	positive 				3832
-	Matter:potassium.N	potassium				3382
 	Matter:pour.V	pour (cause to flow) 				3757
 	Matter:power.N	power				3826
 	Matter:preserve.V	preserve, maintain (keep X in good condition) 				3759
@@ -3695,10 +3797,8 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Matter:sand.N	sand				3331
 	Matter:shake.V	shake 				3773
 	Matter:shoot.V	shoot (cause to rapidly go forth) 				3775
-	Matter:silver.N	silver (the metal)				3324
 	Matter:sink.V	sink 				3777
 	Matter:soap.N	soap				3364
-	Matter:sodium.N	sodium				3386
 	Matter:spill.V	spill (accidentally emit liquid) 				3779
 	Matter:spread.V	spread (begin to cover or cause X to cover more area) 				3781
 	Matter:stab.V	stab, jab 				3783
@@ -3709,12 +3809,10 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Matter:stroke.N	stroke, jolt, blow of force				3823
 	Matter:substance.N	substance				3300
 	Matter:suck.V	suck 				3787
-	Matter:sulfur.N	sulfur				3388
 	Matter:sweep.V	sweep 				3789
 	Matter:tar.N	tar (dark viscous liquid obtained by destructive distillation)				3362
 	Matter:tear.V	tear, rip 				3791
 	Matter:tie.V	tie, bind 				3793
-	Matter:tin.N	tin (the metal)				3328
 	Matter:trim.V	trim, prune (cut off ragged edges) 				3795
 	Matter:violent.A	violent, harsh 				3812
 	Matter:wash.V	wash 				3797
@@ -3768,7 +3866,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Mind:want.V	want, wish, desire 				2030
 	Mind:whim.N	whim, caprice				2035
 	Modernity:abacus.N	A calculating tool that was in use centuries before the adoption of the written modern numeral system and is still widely used by merchants, traders and clerks in Asia, Africa, and elsewhere.	2489			
-	Modernity:accordion.N	A musical instrument.	2603			
 	Modernity:address.N	Direction or superscription of a letter, or the name, title, and place of residence of the person addressed.	591	23-385		
 	Modernity:airplane.N	A powered heavier-than-air aircraft with fixed wings that obtains lift by the Bernoulli effect and is used for transportation.	1597	23-16		
 	Modernity:balloon.N	A small, elastic hollow body used for decoration and as toy.	3083			
