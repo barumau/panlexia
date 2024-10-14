@@ -1,13 +1,19 @@
 id	initial_id	Definition	Concepticon_id	WOLD_id	NELex_id	ULD_id
 Animal:Acridomorpha.N	Animal:grasshopper.N	A plant-eating insect with long back legs that can jump very high and makes a sharp high noise using its back legs or wings.	607	3-93		913
 Animal:Anatidae.N	Animal:duck.N	An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	1360	3-57	Ente::N	982
+Animal:animal.N	Animal:animal.N	Any living organism characterized by voluntary movement, the possession of cells with noncellulose cell walls and specialized sense organs enabling rapid response to stimuli, and the ingestion of complex organic substances such as plants and other animals.	619	3-11	Tier::N	904
+Animal:Annelida.N	Animal:worm.N	A generally tubular invertebrate of the annelid phylum.	1219	3-84	Wurm::N	916
+Animal:Anthophila.N	Animal:bee.N	Any of the membranous-winged insects which compose the superfamily Apoidea in the order Hymenoptera characterized by a hairy body and by sucking and chewing mouthparts.	665	3-82		920
 Animal:Anura.N	Animal:frog.N	Any insectivorous anuran amphibian of the family Ranidae, such as Rana temporaria of Europe, having a short squat tailless body with a moist smooth skin and very long hind legs specialized for hopping.	503	3-95		945
 Animal:Araneae.N	Animal:spider.N	Any predatory silk-producing arachnid of the order Araneae, having four pairs of legs and a rounded unsegmented body consisting of abdomen and cephalothorax.	843	3-818	Spinne::N	948
+Animal:Blattodea.N	Animal:cockroach.N	The most primitive of the living winged insects.	1575	3-816		915
+Animal:Bos taurus.N	Animal:cattle.N	Domesticated bovine animals, including cows, steers and bulls, raised and bred on a ranch or farm.	1153	3-2		950
 Animal:Canis lupus familiaris.N	Animal:dog.N	A common four-legged animal, especially kept by people as a pet or to hunt or guard things.	2009	3-61	Hund::N	975
 Animal:Canis lupus.N	Animal:wolf.N	A large wild canid (Canidae), closely related to the dog.	522	3-71	Wolf::N	965
 Animal:Canis.N	Animal:wolf-like animal.N	Refers to *genus canis*, a genus containing seven to ten extant species, including wolves, domestic dogs, coyotes, and jackals.	2461			
 Animal:Capra hircus.N	Animal:goat.N	A common four-legged animal (Capra) that is related to sheep and bred by humans for its coat and milk.	1502	3-36		953
 Animal:Cervidae.N	Animal:deer.N	The common name for 41 species of even-toed ungulates that compose the family Cervidae in the order Artiodactyla; males have antlers.	1936	3-75		961
+Animal:Cetacea.N	Animal:whale.N	Large marine mammals of the order Cetacea; the body is streamlined, the broad flat tail is used for propulsion, and the limbs are balancing structures.	957	3-663		942
 Animal:Corvus.N	Animal:crow.N	A bird, usually black, of the genus Corvus, having a strong conical beak, with projecting bristles; it has a harsh, croaking call.	913	3-593	Krähe::N	984
 Animal:Culicidae.N	Animal:mosquito.N	A small flying insect (of the family Culicidae) known for biting and sucking blood.	1509	3-832	Mücke::N	924
 Animal:Diptera.N	Animal:fly (insect).N	A common insect; any species of insect of the order Diptera.	1504	3-83	Fliege::N	923
@@ -19,6 +25,7 @@ Animal:Felis catus.N	Animal:cat.N	A common four-legged animal (Felis silvestris)
 Animal:Felis leo.N	Animal:lion.N	A large cat (Panthera leo) that is native to Africa, Asia and formerly much of Europe.	1386	3-72		962
 Animal:Felis tigris.N	Animal:tiger.N	A large carnivorous animal (Panthera tigris) of the cat family indigenous to Asia.	846			963
 Animal:fish.N	Animal:fish.N	A cold-blooded vertebrate animal that lives in water that moves with the help of fins and breathes using gills (Pisces).	227	3-65	Fisch::N	940
+Animal:Formicidae.N	Animal:ant.N	Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies.	587	3-817	Ameise::N	910
 Animal:Gallus gallus domesticus.N	Animal:chicken.N	A type of domesticated bird from the order of Galliformes which is often raised as a type of poultry (Gallus gallus domesticus).	1318	3-55	Huhn::N	981
 Animal:Grylloidea.N	Animal:cricket.N	Insects related to grasshoppers.	2354			912
 Animal:Insecta.N	Animal:insect.N	A class of the Arthropoda typically having a segmented body with an external chitinous covering, a pair of compound eyes, a pair of antennae, three pairs of mouthparts, and two pairs of wings.	620	3-81		905
@@ -31,25 +38,267 @@ Animal:mouse.N	Animal:mouse.N	Any of numerous small rodents of the genus ''mus''
 Animal:Nephropidae.N	Animal:lobster.N	Clawed lobsters comprise a family (Nephropidae, sometimes also Homaridae) of large marine crustaceans.	2397			941
 Animal:Ovis aries.N	Animal:sheep.N	A common, four-legged animal (Ovis) that is commonly kept by humans for its wool.	1331	3-25	Schaf::N	956
 Animal:Passeridae.N	Animal:sparrow.N	A small song bird, in the family Passeridae.	1854			985
+Animal:Rhopalocera.N	Animal:butterfly.N	A lepidopteran that is active at day.	1791	3-92	Schmetterling::N	921
 Animal:Sciuridae.N	Animal:squirrel.N	A small or medium-sized rodent of the family Sciuridae.	1628	3-869	Eichhörnchen::N	970
 Animal:Serpentes.N	Animal:snake.N	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	730	3-85	Schlange[Tier]::N	932
+Animal:Simiiformes.N	Animal:monkey.N	A primate from the group *New World monkeys* or *Old World monkeys* (Simiiformes, excluding the superfamily Hominoidea or apes) that lives mainly in rainforests and is distinguished from an Ape by its smaller size and its tail.	1350	3-76		966
 Animal:Sus scrofa domestica.N	Animal:pig.N	A common, four-legged animal (Sus scrofa) that has cloven hooves, bristles and a nose adapted for digging and is farmed by humans for its meat.	1337	3-35	Schwein::N	955
 Animal:Testudines.N	Animal:turtle.N	A reptile of the order Testudines (the crown group of the superorder Chelonia), characterised by a special bony or cartilaginous shell developed from their ribs that acts as a shield.	112	3-98		934
+Animal:unicorn.N	Belief:unicorn.N	A legendary animal with a horn on the forehead.	2601			
+Animal:Ursidae.N	Animal:bear.N	A large beast of prey of the family Ursidae, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet.	1820	3-73	Bär::N	960
 Animal:Vespinae.N	Animal:wasp.N	A flying stinging insect related to the bee, which is usually coloured yellow and black.	1517	3-823		
 Animal:Vulpes.N	Animal:fox.N	A carnivorous relatively small canine of the species Vulpes Vulpes.	1312	3-74	Fuchs::N	964
-Quantity:0.NUM	Quantity:zero.NUM	The integer zero (0).	1294	13		
-Quantity:1.NUM	Quantity:one.NUM	The natural number one (1).	1493	13-01	eins::NUM	
-Quantity:10.NUM	Quantity:ten.NUM	The natural number ten (10).	1515	13-1	zehn::NUM	
+Belief:altar.N	Belief:altar.N	Table for religious ceremonies.	853	22-14		
+Belief:amulet.N	Belief:amulet.N	An object whose most important characteristic is the power ascribed to it to protect its owner from danger or harm.	2804			
+Belief:angel.N	Belief:angel.N	A supernatural messenger from a god, often depicted in art as a youthful winged human figure.				1811
+Belief:atheism.N	Belief:atheism.N	atheism				1860
+Belief:bless.V	Belief:bless.V	To confer divine aid or favor upon someone or something.	391	22-23		1821
+Belief:buddha.N	Belief:buddha.N	One who has purified obscurations and developed pristine cognition.	2061			
+Belief:Buddhism.N	Belief:buddhism.N	Buddhism				1865
+Belief:Catholic priest.N	Belief:Catholic priest.N	A minister of the Catholic church empowered to administer the sacraments, most particularly that of the Eucharist or Holy Communion, as well as those of confession and extreme unction.	852	22-18		
+Belief:Christianity.N	Belief:christianity.N	Christianity				1870
+Belief:curse.V	Belief:curse.V	To imprecate evil or misfortune upon someone or something, usually by means of a prayer or implication.	8	22-24		1822
+Belief:deity.N	Belief:deity.N	A supernatural, typically immortal being with superior powers.	3231	22-12	Gott::N	1810
+Belief:demon.N	Belief:demon.N	Evil spirit or person that is wicked or cruel in their actions.	1973	22-35		
+Belief:Devil.N	Belief:Devil.N	The personal supreme spirit of evil often represented in Christian belief as the tempter of humankind, the leader of all apostate angels, and the ruler of hell.	3917			1813
+Belief:fairy (fem).N	Belief:fairy.N	One of a class of female supernatural beings, generally conceived as having a diminutive human form and possessing magical powers.	1138			
+Belief:fairy.N	Belief:fairy.N	A supernatural flying humanoid possessing magical powers.				1812
+Belief:false idol.N	Belief:graven image.N	A representation of a deity who is considered to be false.	3205			
+Belief:funeral.N	Belief:funeral.V	The ceremonial act of bidding farewell to a deceased person or animal.	3336			1891
+Belief:ghost.N	Belief:ghost.N	The visible disembodied soul of a dead person.	1175	22-45		1831
+Belief:God.N	Belief:god.N	The deity of a monotheistic religion.	1944			
+Belief:heaven.N	Belief:heaven.N	The abode of gods sometimes believed to be in the sky.	1565	22-31		1840
+Belief:hell.N	Belief:hell.N	In various religions, the place where sinners are said to go after death.	878	22-32		1841
+Belief:Hinduism.N	Belief:hinduism.N	Hinduism				1875
+Belief:holy.A	Belief:holy.A	Specially recognized as or declared sacred by religious use or authority.	1702	22-19		1850
+Belief:idol.N	Belief:idol.N	A representation of a deity, notably a statue or a statuette.	1945	22-37	Figur::N	
+Belief:Islam.N	Belief:Islam.N	Islam				1880
+Belief:Judaism.N	Belief:Judaism.N	Judaism				1885
+Belief:legendary creature.N	Belief:legendary creature.N	A human or an animal described in non-historical or yet to be verified stories that sometimes involve the supernatural.	2138			
+Belief:magic.N	Belief:magic.N	The use of rituals or actions, especially based on supernatural or occult knowledge, to manipulate or obtain information about the natural world, especially when seen as falling outside the realm of religion.	392	22-42		1802
+Belief:magician.N	Belief:magician.N	A person who practices magic.	2137	22-43		
+Belief:miracle.N	Belief:miracle.N	The happening of something impossible.	2541			
+Belief:mosque.N	Belief:mosque.N	A place of worship for followers of the Islamic faith.	1603	22-132		
+Belief:mythical being.N	Belief:mythical being.N	Any living creature that occurs in stories and fairytales and does not exist in the real world.	2641			
+Belief:omen.N	Belief:omen.N	A sign that is supposed to reveal whether the future will be favourable or not.	107	22-47		
+Belief:pray.V	Belief:pray.V	To address God or a higher being with praise, thanksgiving, confession or supplication.	24	22-17		1820
+Belief:priest.N	Belief:priest or shaman.N	A generic way of referring to a person of religious authority, like a priest or a shaman, irrespective of specific religious schools.	3332			1803
+Belief:pyre.N	Belief:pyre.N	Structure made from wood for burning a body as part of a rite.	2832			
+Belief:religion.N	Belief:religion.N	The expression of man's belief in and reverence for a superhuman power recognized as the creator and governor of the universe.	661	22-11		1801
+Belief:rite.N	Belief:rite.N	A specific process or action used to practise religious beliefs.	3334			1890
+Belief:sacred grove.N	Belief:sacred grove.N	A place in nature believed to hold special religious, magical, etc. powers.	3335			
+Belief:sermon.N	Belief:sermon.N	A religious lecture or speech, addressing issues of religion or morality.	3167			
+Belief:sermon.V	Belief:preach.V	To deliver a sermon.	304	22-22		
+Belief:shaman.N	Belief:shaman (folk healer).N	A traditional (prescientific) faith healer; a member of certain tribal societies who acts as a religious medium between the concrete and spirit worlds.	394			
+Belief:soul.N	Belief:soul.N	In philosophical or religious belief the immaterial part of a human being that is believed to outlive the body.	811	16-11		1830
+Belief:sphinx.N	Belief:sphinx.N	A fable animal that occurs in Greek mythology.	2609			
+Belief:spirit.N	Belief:spirit.N	A spiritual entity that is not as powerful as a deity.	53		Geist::N	
+Belief:temple.N	Belief:temple.N	A house of worship and spiritual activities.	911	22-13		
+Belief:witch.N	Belief:witch.N	A female person who practices magic.	824			
+Belief:worship.V	Belief:worship.V	To show devotion and obeisance to.	257	22-16		
+Body:ankle.N	Body:ankle.N	A joint formed where the foot and the leg meet.	803	4-371		
+Body:anus.N	Body:anus.N	The lower opening of the digestive tract, through which faeces pass.	1935			558
+Body:arm or hand.N	Body:arm or hand.N	Extremities emerging from the upper part of the human body.	2121			
+Body:arm.N	Body:arm.N	The upper limb, extending from the shoulder to the wrist and sometimes including the hand.	1673	4-31	Arm::N	531
+Body:artery.N	Body:artery.N	A blood vessel transporting blood away from the heart.	1925			
+Body:back.N	Body:back.N	The rear of body, especially the part between the neck and the end of the spine and opposite the chest and belly.	1291	4-19	Rücken::N	503
+Body:bald.A	Body:bald.A	Without hair on the head.	1125	4-93		
+Body:beak.N	Body:beak.N	External anatomical structure of birds which is used for taking food and for eating.	73	4-241		
+Body:beard.N	Body:beard.N	Facial hair of humans on the chin, cheeks and jaw.	678	4-142	Bart::N	519
+Body:belly.N	Body:belly.N	The lower part of the front of the torso (or a comparable part of an animal), confined by the upper side by the midriff and the lowerside by the pelvis. Contains the intestines.	1251	4-431	Bauch::N	
+Body:bile.N	Body:bile.N	A bitter brownish-yellow or greenish-yellow secretion produced by the liver, stored in the gallbladder, and discharged into the duodenum where it aids the process of digestion.	1780			
+Body:bladder.N	Body:bladder.N	A hollow muscular balloon-shaped organ that stores urine until it is excreted from the body.	1746			
+Body:bleed.V	Body:bleed.V	To lose blood because of a disease or an injury.	3615			
+Body:blink.V	Body:blink.V	To make a quick wink of one or both eyelids, often repeatedly.	1655	4-215		
+Body:blister.N	Body:blister.N	A small bubble on the skin, that contains watery fluid and is caused by heat, pressure or infection.	1584	4-855		
+Body:blood vessel.N	Body:blood vessel.N	The blood vessels are the part of the circulatory system that transports blood throughout the human body or an animal body.	525	4-151		
+Body:blood.N	Body:blood.N	A fluid connective tissue consisting of the plasma and cells that circulate in the blood vessels.	946	4-15	Blut::N	565
+Body:body hair.N	Body:hair (body).N	The terminal hair that develops on the human body during and after puberty.	189	4-144		517
+Body:body.N	Body:body.N	The physical structure of a human or animal.	1480	4-11	Körper::N	500
+Body:boil.N	Body:boil.N	A painful, local inflammation of the skin, caused by infection of a hair follicle. Usually, a hard core and pus are present.	793	4-856		
+Body:bone.N	Body:bone.N	Any of the components of an endoskeleton, consisting mainly of calcium phosphate, collagen and cells.	1394	4-16	Knochen::N	560
+Body:brain.N	Body:brain.N	The organ of the central nervous system of an animal or human located in the skull that controls the actions and thoughts of the animal or human.	1583	4-203	Gehirn::N	571
+Body:breast.N	Body:breast.N	The fleshy organ on the chest of a sexually mature human female containing mammary glands.	1402	4-41	Busen::N	550
+Body:breastbone.N	Body:breastbone.N	Long flat bone located in the center of the chest.	2810			
+Body:breath.N	Body:breath.N	The air inhaled and exhaled through the lungs.	870		Atem::N	
+Body:breath.V	Body:breath.V	To repeatedly draw air into, and expel it from, the lungs, in order to extract oxygen from it and excrete waste products.	1407	4-51	atmen::V	710
+Body:bruise.N	Body:bruise.N	A collection of blood in the body tissue outside the blood vessels	1148	4-852		
+Body:burn.N	Body:burn.N	An injury caused by exposure to heat, fire or chemical agents.	3622			
+Body:buttock.N	Body:buttocks.N	The fleshy part of the human body that one sits on.	834	4-464		557
+Body:calf of leg.N	Body:calf of leg.N	The fleshy backside of the lower part of the leg.	498	4-352		
+Body:carcass.N	Body:carcass.N	The body of a dead animal, on which other animals have begun to feed.	1770	4-771		
+Body:cheek.N	Body:cheek.N	The soft skin on each side of the face, between the eyes and the chin; the outer surface of the sides of the oral cavity.	1730	4-208	Wange::N	512
+Body:chest.N	Body:chest.N	The portion of the body from the base of the neck to the top of the abdomen; the thorax.	1592	4-4	Brust::N	504
+Body:chin.N	Body:chin.N	The bottom of the face, below the mouth.	1510	4-209	Kinn::N	513
+Body:clitoris.N	Body:clitoris.N	A part of the female genitalia located at the front of the vulva, consisting of a sensitive erectile body.	3257			
+Body:close mouth.V	Body:close (mouth).V	To close one's mouth.	3547			
+Body:collarbone.N	Body:collarbone.N	Bone linking the scapula and sternum.	1994	4-302		
+Body:ear.N	Body:ear.N	The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.	1247	4-22	Ohr::N	514
+Body:earhole.N	Body:earhole.N	The outer opening of the ear.	3891			
+Body:earlobe.N	Body:earlobe.N	The lower fleshy part of the human ear.	18	4-221		
+Body:earwax.N	Body:earwax.N	A yellowish, waxlike secretion from certain glands in the external auditory canal.	32	4-222		
+Body:egg.N	Body:egg.N	egg				590
+Body:elbow.N	Body:elbow.N	The joint between arm and forearm.	981	4-32	Ellenbogen::N	532
+Body:eye.N	Body:eye.N	The organ that is sensitive to light, which it converts to electrical signals passed to the brain, by which means animals and humans see.	1248	4-21	Auge::N	515
+Body:eyeball.N	Body:eyeball.N	The partly visible orb nesting in the eye socket which contains for example pupil, retina and iris and is connected to the brain via the optic nerve.	3807			
+Body:eyebrow.N	Body:eyebrow.N	The hair that grows over the bone ridge above the eye socket.	1173	4-212		
+Body:eyelash.N	Body:eyelash.N	One of the hairs that grows on the eyelid, around the eyes.	1540	4-214		
+Body:eyelid.N	Body:eyelid.N	A skin flap that can be closed over an eye.	17	4-213		
+Body:face.N	Body:face.N	The front part of the head, featuring the eyes, nose, and mouth and the surrounding area.	1560	4-204	Gesicht::N	510
+Body:fart.V	Body:fart.V	To emit digestive gases through the anus.	1159	4-64		
+Body:fat.N	Body:fat.N	Esters of three fatty acid chains and the alcohol glycerol which form a semi-solid substance in room temperature and occur in animals and plants.	323	5-791	Fett::N	
+Body:feather.N	Body:feather.N	A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	1201	4-393	Feder::N	592
+Body:feces.N	Body:faeces.N	Substance that human and animal bodies release from time to time as a little pile of waste remaining from digestion, after it has been collected in the colon.	675			566
+Body:feces.V	Body:shit (defecate).V	To excrete faeces from one's body through the anus.	676	4-66		
+Body:finger or toe.N	Body:finger or toe.N	Limb of the human body found in the hands and foots of humans and primates.	2120			
+Body:finger.N	Body:finger.N	One of the long extremities of the hand that is used for gripping objects.	1303	4-34	Finger::N	535
+Body:fingernail.N	Body:fingernail.N	The hard, flat, translucent covering near the tip of a human finger, useful for scratching and fine manipulation.	1258	4-344	Fingernagel::N	
+Body:fingertip.N	Body:fingertip.N	The top of the finger.	2773			
+Body:fishbone.N	Body:fishbone.N	Any of the bones forming the skeleton of a fish, especially one of the sharp slender bones attached to the backbone.	3799			
+Body:fist.N	Body:fist.N	The closed hand with the fingers on the palm.	1473			537
+Body:flesh or meat.N	Body:flesh or meat.N	Either referring to the soft substance of the body of living things (flesh), or to the soft substance in animals as an important source of food for humans.	2615			
+Body:flesh.N	Body:flesh.N	The soft substance in the body of living things.	2259	4-13		577
+Body:foot or leg.N	Body:foot or leg.N	Lower part of the human body which is used for walking.	2098			
+Body:foot.N	Body:foot.N	The part of a human’s body below the ankle that is used in order to stand and walk.	1301	4-37	Fuß::N	542
+Body:footprint.N	Body:footprint.N	The impression of the foot in a soft substance such as sand or snow.	318	4-374	Spur::N	
+Body:forefinger.N	Body:forefinger.N	The finger between thumb and long finger.	577			
+Body:forehead.N	Body:forehead.N	The part of the face between the hairline and the eyebrows.	123	4-205	Stirn::N	511
+Body:front tooth.N	Body:front tooth (incisor).N	Aeveral teeth located above and below in the mouth of mammals (including humans) to bite food off.	442			
+Body:fur.N	Body:fur.N	The body-hair of an animal (excluding humans) or a piece of clothing made thereof.	580	6-28	Fell::N	
+Body:gall bladder.N	Body:gall bladder.N	A pear-shaped organ located beneath the liver that serves as a storage sac for bile until it is released into the small intestine.	3372			
+Body:genitalia.N	Body:genitalia.N	The sexual organs: the testicles and penis of a male; or the labia, clitoris, and vagina of a female.	198			
+Body:goiter.N	Body:goiter.N	Enlargement of the thyroid gland.	1957	4-842		
+Body:gum.N	Body:gums.N	The mucosal tissue that partly lies over the teeth in the mouth.	139	4-271		
+Body:guts.N	Body:guts.N	The internal organs of an animal or human.	1334			
+Body:hair.N	Body:hair.N	The hair on humans, usually on the head but also including the hair on the body.	1040		Haar::N	
+Body:hand.N	Body:hand.N	That part of the fore limb below the forearm or wrist in primates (including humans).	1277	4-33	Hand::N	534
+Body:head hair.N	Body:hair (head).N	The hair on the head of humans (rather than the hair in general or the hair on the body).	2648	4-14		518
+Body:heart.N	Body:heart.N	A muscular organ that pumps blood through the body.	1223	4-44	Herz::N	572
+Body:heel.N	Body:heel.N	The part of the human foot on the backside where it becomes the leg.	980	4-372	Ferse::N	544
+Body:hip.N	Body:hip.N	The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.	1745	4-463		552
+Body:hoof.N	Body:hoof.N	Natural horn covering of an animal's foot.	152			
+Body:horn.N	Body:horn (anatomy).N	A hard growth of keratin that protrudes from the top of the head of certain animals.	1393	4-17	Horn::N	593
+Body:human skin.N	Body:skin (human).N	The outer tissue of human beings.	2613			
+Body:intestines.N	Body:intestines.N	The alimentary canal of an animal or human through which food passes after having passed all stomachs.	1991	4-461		573
+Body:jaw.N	Body:jaw.N	Either of the two opposable structures forming, or near the entrance to, the mouth.	798	4-207	Kiefer[Anatomie]::N	
+Body:joint.N	Body:joint.N	Any part of the body where two bones join.	999			
+Body:kidney.N	Body:kidney.N	An organ in the body that produces urine.	489	4-451		574
+Body:knee.N	Body:knee.N	In man, the joint in the middle part of the leg.	1371	4-36	Knie::N	541
+Body:knuckle.N	Body:knuckle.N	Joints of the fingers brought to prominence when hand is clenched.	2824			
+Body:lap.N	Body:lap.N	The front area from waist to knees, especially when sitting.	3263			
+Body:larynx.N	Body:larynx.N	Organ on the upper end of the trachea.	3714			
+Body:left hand.N	Body:left hand.N	The left hand of a human.	2182			
+Body:leg.N	Body:leg.N	The limb of an animal (including humans) that extends from the groin to the ankle.	1297	4-35	Bein::N	540
+Body:lip.N	Body:lip.N	Either of the two fleshy protrusions around the opening of the mouth.	478	4-25	Lippe::N	522
+Body:liver.N	Body:liver.N	A large organ in the body that stores and metabolizes nutrients, destroys toxins and produces bile. Responsible for thousands of biochemical reactions.	1224	4-45	Leber::N	575
+Body:loin.N	Body:loin.N	The part of the body (of humans and quadrupeds) each side of the backbone between the ribs and hips.	187			
+Body:lower arm.N	Body:lower arm.N	The part of the arm between the elbow and the hand.	446			
+Body:lower back.N	Body:lower back.N	The lower part of the spine, also known as the lumbar region, which is situated between the rib cage and the pelvis.	3613			
+Body:lower leg.N	Body:lower leg.N	Part of the leg between the knee and the foot.	447			
+Body:lower lip.N	Body:lower lip.N	The lower fleshy protrusion around the opening of the mouth.	3944			
+Body:lung.N	Body:lung.N	A biological organ that extracts oxygen from the air.	688	4-441		576
+Body:mane.N	Body:mane.N	The long hair in the neck of horses and lions.	1918			
+Body:marrow.N	Body:marrow.N	The spongy tissue in the hollow parts of bones.	1835			
+Body:middle finger.N	Body:middle finger.N	The third and longest finger on the human hand.	3387			
+Body:molar tooth.N	Body:molar tooth.N	A tooth located in the back of the mouth used for crushing and grinding food.	1049	4-272		
+Body:moustache.N	Body:moustache.N	A growth of facial hair between the nose and the upper lip.	1165		Schnurrbart::N	
+Body:mouth.N	Body:mouth.N	Opening in the lower half of a human face which is used for food ingestion and articulation.	674	4-24	Mund::N	521
+Body:muscle.N	Body:muscle.N	An organ formed by contractile tissue that moves other organs.	1004			578
+Body:nail.N	Body:fingernail or toenail.N	Hard keratin part growing at the end of a human's finger or toe.	1896		Nagel[Anatomie]::N	538
+Body:nape.N	Body:nape (of neck).N	The back part of the neck.	1347	4-281	Genick::N	
+Body:navel.N	Body:navel.N	A scar where the umbilical cord was attached.	1838	4-43	Nabel::N	553
+Body:neck.N	Body:neck.N	The part of the body (found in some animals, including humans) that connects the head and the trunk.	1333	4-28	Hals::N	502
+Body:nerve.N	Body:nerve.N	An enclosed, cable-like bundle of axons (nerve fibers, the long and slender projections of neurons) in the peripheral nervous system.	2626			579
+Body:nipple.N	Body:nipple.N	The projection of a mammary gland from which, on female mammals, milk can be secreted.	796	4-412		
+Body:nose.N	Body:nose.N	The organ of the face used to breath and smell.	1221	4-23	Nase::N	520
+Body:nostril.N	Body:nostril.N	Either of the two orifices located on the nose (or on the beak of a bird); used as a passage for air and other gases to travel the nasal passages.	1178	4-231		
+Body:obese.A	Space:fat (obese).A	Carrying a larger-than-normal amount of fat or weight.	1279		fett::A	640
+Body:ovary.N	Body:ovary.N	The female sex organ which is often paired and produces eggs for procreation.	3716			
+Body:palate.N	Body:palate.N	The palate is the roof of the mouth in humans and other mammals.	540			
+Body:palm.N	Body:palm of hand.N	The inner and somewhat concave part of the human hand that extends from the wrist to the bases of the fingers.	1183	4-331	Handfläche::N	539
+Body:pancreas.N	Body:pancreas.N	An organ of the digestive system of vertebrates.	3252			
+Body:penis.N	Body:penis.N	The male sexual organ for copulation and urination; the tubular portion of the male genitalia (excluding the scrotum).	1222	4-492		555
+Body:pharynx.N	Body:pharynx.N	The inner part of the neck which starts after the oral and nasal cavity.	3713			
+Body:phlegm.N	Body:phlegm.N	Mucus secreted by the respiratory tract, particularly during respiratory infections, usually thick and sticky.	3061			
+Body:pimple.N	Body:pimple.N	A result of a blockage of the skin's pore.	1809			
+Body:piss.N	Body:urine.N	Liquid excrement consisting of water, salts and urea, which is made in the kidneys, stored in the bladder, then released through the urethra.	1142			569
+Body:piss.V	Body:piss.V	To allow urine to flow from the bladder out of the body.	592	4-65		
+Body:placenta.N	Body:placenta.N	A vascular organ that is formed inside the womb to ensure the transfer of vital nutrients and regulation of metabolic exchange between mother and the foetus.	3388			
+Body:pubic hair.N	Body:pubic hair.N	Dense, coarse hair that grows on the male and female genital area beginning in puberty.	36	4-145		
+Body:pulse.N	Body:pulse.N	The rhytmic contraction and expansion of arteries at each heart beat, often discernible at points such the wrists and the neck.	3267			
+Body:pupil.N	Body:pupil.N	Contractile aperture in iris.	1658			
+Body:rib.N	Body:rib.N	One of the long curved bones which form the rib cage.	801	4-162		
+Body:right hand.N	Body:right hand.N	The right hand of a human.	2183			
+Body:saliva.N	Body:saliva.N	A secretion from the salivary glands (found in the mouth) that can be spat out.	1503			
+Body:scab.N	Body:scab.N	A hard coating on the skin formed during the wound healing reconstruction phase.	2664			
+Body:scar.N	Body:scar.N	A permanent mark on the skin resulting from a wound.	497	4-858		
+Body:scrotum.N	Body:scrotum.N	Anatomical male reproductive structure.	2834			
+Body:semen.N	Body:semen.N	An organic fluid that may contain spermatozoa. It is secreted by the gonads (sexual glands) and other sexual organs of male or hermaphroditic animals and can fertilize female ova.	2283			
+Body:shell.N	Animal:shell.N	A hard outer covering of an animal, as the hard case of a mollusk.	598	3-655		591
+Body:shin.N	Body:shin.N	The front part of the leg below the knee.	186			
+Body:shoulder.N	Body:shoulder.N	One side of the top of the torso, where an arm attaches or joins.	1482	4-3	Schulter::N	530
+Body:side.N	Body:side (body).N	The side of the body.	3344			
+Body:skeleton.N	Body:skeleton.N	The body part that forms the supporting structure inside of the human body or the body of animals.	2668			561
+Body:skin.N	Body:skin.N	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.	763	4-12	Haut::N	580
+Body:skull.N	Body:skull.N	The main bone of the head; the cranium.	1605	4-202		
+Body:sole.N	Body:sole (foot).N	The bottom of the foot.	2666			
+Body:sperm.N	Body:sperm.N	Men's semen.	1505			
+Body:spine.N	Body:spine.N	The body part that consists of a row of vertebrae, that support the head and torso and that forms a canal for nerves.	805	4-191		562
+Body:spit.V	Body:spit.V	To forcefully evacuate saliva from the mouth.	1440	4-56		723
+Body:spleen.N	Body:spleen.N	A ductless vascular gland, located in the left upper abdomen near the stomach.	1744	4-452		
+Body:stomach.N	Body:stomach.N	An organ in the body, involved in digestion of food.	819	4-46	Magen::N	581
+Body:sweat.N	Body:sweat (substance).N	A fluid that is secreted by sweat glands in the skin in order to regulate body temperature.	125			567
+Body:sweat.V	Body:sweat (perspire).V	To secrete sweat.	126	4-55		
+Body:tail.N	Body:tail.N	The appendage of an animal that is attached to its posterior and near the anus.	1220	4-18	Schwanz::N	594
+Body:tear.N	Body:tear.N	tear, teardrop				568
+Body:temple.N	Body:temples.N	The region of the skull on either side of the forehead.	1604	4-201		
+Body:tendon.N	Body:tendon.N	Tissue that connects muscle to bone.	1137	4-465	Sehne::N	
+Body:testicle.N	Body:testicles.N	The male sex gland that produces sperm and male hormones, found in some types of animals and humans.	797	4-49		556
+Body:thigh.N	Body:thigh.N	The area between the pelvis and buttocks and the knee.	800			
+Body:throat.N	Body:throat.N	The front part of the neck.	1346	4-29	Kehle::N	525
+Body:thumb.N	Body:thumb.N	The shortest and thickest of the fingers that can be placed against the others in order to create a firm grip.	1781	4-342		536
+Body:toe.N	Body:toe.N	One of the extremities of the foot.	1389	4-38	Zeh::N	543
+Body:tongue tip.N	Body:tip (of tongue).N	The front part of the tongue.	443			
+Body:tongue.N	Body:tongue.N	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.	1205	4-26	Zunge::N	523
+Body:tooth.N	Body:tooth.N	A hard, calcareous structure present in the mouth of many vertebrate animals (including humans), generally used for eating.	1380	4-27	Zahn::N	524
+Body:torso.N	Body:torso.N	The central part of the human body, from which neck and limbs extend.	2667			
+Body:udder.N	Body:udder.N	An organ in female quadruped mammals which consists of mammary glands and has several teats.	154	4-42		
+Body:ulcer.N	Body:ulcer.N	An open sore of the skin, eyes or mucous membrane, often caused by an initial abrasion and generally maintained by an inflammation and/or an infection.	1189			
+Body:umbilical cord.N	Body:umbilical cord.N	A conduit between the developing embryo or fetus and the placenta.	2663			
+Body:upper arm.N	Body:upper arm.N	The part of the arm between the shoulder and the elbow.	431			
+Body:upper back.N	Body:upper back.N	The upper part of the back.	445			
+Body:upper leg.N	Body:upper leg (thigh).N	The part of the leg between the pelvis and the knee.	471	4-351	Oberschenkel::N	
+Body:uvula.N	Body:uvula.N	A conic projection from the posterior edge of the middle of the soft palate.	2293			
+Body:vagina.N	Body:vagina.N	The lower part of the female reproductive tract; a moist canal in female mammals (including humans) extending from the labia minora to the uterus.	1836	4-493		554
+Body:vulva.N	Body:vulva.N	The external parts of the female genitalia, in human beings this consists of the labia, clitoris, opening of the urethra (meatus), and the opening of the vagina.	1837	4-494		
+Body:waist.N	Body:waist.N	In human beings, the part between the thorax and hips.	1681	4-462		551
+Body:wing.N	Body:wing.N	The appendage of an animal's (bird, bat, insect) body that enables it to fly in the air.	1257	4-392	Flügel::N	595
+Body:womb.N	Body:womb.N	The major female reproductive organ of most mammals, including humans. It is a large muscle enveloping the phoetus during pregnancy.	804	4-47		
+Body:wound.N	Body:wound.N	A type of injury in which in skin or tisue is torn, cut,  punctured or otherwise hurt.	1109	4-85	Wunde::N	632
+Body:wrinkle.N	Body:wrinkle.N	A fold, ridge or crease in the skin.	2294			
+Body:wrist.N	Body:wrist.N	The flexible and narrower connection between the forearm and the hand.	799	4-321		533
+Body:yawn.V	Body:yawn.V	To open the mouth widely and take a long, deep breath because of tiredness or boredom.	1028	4-52		
+Clothing:naked.A	Body:naked.A	Without clothing.	590	4-99	nackt::A	645
+Combat:fight.N	Action/Technology:fight (combat).N	A hostile encounter, such as a battle or combat.	3880		Kampf::N	
+Combat:fight.V	Combat/Hunting:fight.V	To be involved in a physical confrontation.	1423	20-11		782
+Combat:wrestle.V	Body:wrestle.V	wrestle 				783
+Hunting:hunt.V	Combat/Hunting:hunt.V	To chase down prey and (usually) kill it.	1435	20-61	jagen::V	781
+Hunting:hunter.N	Combat/Hunting:hunter.N	A person who hunts game.	1053			
+Hunting:hunting dog.N	Combat/Hunting:hunting dog.N	A type of canine bred for hunting or a dog trained to assist humans with hunting.	3380			
+Mind:mad person.N	Body:mad person.N	A person that has mental problems.	2321			
+Quantity:0.NUM	Quantity:zero.NUM	The integer zero (0).	1294	13		2500
+Quantity:1.NUM	Quantity:one.NUM	The natural number one (1).	1493	13-01	eins::NUM	2501
+Quantity:10.NUM	Quantity:ten.NUM	The natural number ten (10).	1515	13-1	zehn::NUM	2510
 Quantity:10^10.NUM	Quantity:ten billion.NUM	The natural number ten billion (10000000000).	3600			
 Quantity:10^11.NUM	Quantity:one hundred billion.NUM	The natural number one hundred billion (100000000000).	3601			
 Quantity:10^12.NUM	Quantity:trillion.NUM	The natural number one trillion (1000000000000).	3602			
 Quantity:10^4.NUM	Quantity:ten thousand.NUM	The natural number ten thousand (10000).	2078			
 Quantity:10^5.NUM	Quantity:one hundred thousand.NUM	The natural number one hundred thousand (100000).	3532			
-Quantity:10^6.NUM	Quantity:one million.NUM	The natural number one million (1000000).	3533			
+Quantity:10^6.NUM	Quantity:one million.NUM	The natural number one million (1000000).	3533			2525
 Quantity:10^7.NUM	Quantity:ten million.NUM	The natural number ten million (10000000).	3597			
 Quantity:10^8.NUM	Quantity:one hundred million.NUM	The natural number one hundred million (100000000).	3598			
-Quantity:100.NUM	Quantity:hundred.NUM	The natural number one hundred (100).	1634	13-105	hundert::NUM	
-Quantity:1000.NUM	Quantity:thousand.NUM	The natural number one thousand (1000).	1843	13-106	tausend::NUM	
+Quantity:100.NUM	Quantity:hundred.NUM	The natural number one hundred (100).	1634	13-105	hundert::NUM	2515
+Quantity:1000.NUM	Quantity:thousand.NUM	The natural number one thousand (1000).	1843	13-106	tausend::NUM	2520
 Quantity:1001.NUM	Quantity:one thousand and one.NUM	The natural number one thousand and one (1001).	3773			
 Quantity:101.NUM	Quantity:one hundred and one.NUM	The natural number one hundred and one (101).	3502			
 Quantity:102.NUM	Quantity:one hundred and two.NUM	The natural number one hundred and two (102).	3770			
@@ -76,7 +325,7 @@ Quantity:17.NUM	Quantity:seventeen.NUM	The natural number seventeen (17).	2453
 Quantity:18.NUM	Quantity:eighteen.NUM	The natural number eighteen (18).	1713			
 Quantity:180.NUM	Quantity:one hundred and eighty.NUM	The natural number one hundred and eighty (180).	3510			
 Quantity:19.NUM	Quantity:nineteen.NUM	The natural number nineteen (19).	1714			
-Quantity:2.NUM	Quantity:two.NUM	The natural number two (2).	1498	13-02	zwei::NUM	
+Quantity:2.NUM	Quantity:two.NUM	The natural number two (2).	1498	13-02	zwei::NUM	2502
 Quantity:20.NUM	Quantity:twenty.NUM	The natural number twenty (20).	1710	13-104	zwanzig::NUM	
 Quantity:200.NUM	Quantity:two hundred.NUM	The natural number two hundred (200).	2676			
 Quantity:2000.NUM	Quantity:two thousand.NUM	The natural number two thousand (2000).	3524			
@@ -98,7 +347,7 @@ Quantity:26.NUM	Quantity:twenty six.NUM	The natural number twenty-six (26).	3476
 Quantity:27.NUM	Quantity:twenty seven.NUM	The natural number twenty-seven (27).	3477			
 Quantity:28.NUM	Quantity:twenty eight.NUM	The natural number twenty-eight (28).	3478			
 Quantity:29.NUM	Quantity:twenty nine.NUM	The natural number twenty-nine (29).	3479			
-Quantity:3.NUM	Quantity:three.NUM	The natural number three (3).	492	13-03	drei::NUM	
+Quantity:3.NUM	Quantity:three.NUM	The natural number three (3).	492	13-03	drei::NUM	2503
 Quantity:30.NUM	Quantity:thirty.NUM	The natural number thirty (30).	1715		dreißig::NUM	
 Quantity:300.NUM	Quantity:three hundred.NUM	The natural number three hundred (300).	3513			
 Quantity:3000.NUM	Quantity:three thousand.NUM	The natural number three thousand (3000).	3525			
@@ -113,7 +362,7 @@ Quantity:37.NUM	Quantity:thirty seven.NUM	The natural number thirty-seven (37).	
 Quantity:38.NUM	Quantity:thirty eight.NUM	The natural number thirty-eight (38).	3487			
 Quantity:39.NUM	Quantity:thirty nine.NUM	The natural number thirty-nine (39).	3488			
 Quantity:399.NUM	Quantity:three hundred and ninety nine.NUM	The natural number three hundred and ninety-nine (399).	3514			
-Quantity:4.NUM	Quantity:four.NUM	The natural number four (4).	1500	13-04	vier::NUM	
+Quantity:4.NUM	Quantity:four.NUM	The natural number four (4).	1500	13-04	vier::NUM	2504
 Quantity:40.NUM	Quantity:forty.NUM	The natural number forty (40).	1716		vierzig::NUM	
 Quantity:400.NUM	Quantity:four hundred.NUM	The natural number four hundred (400).	3515			
 Quantity:4000.NUM	Quantity:four thousand.NUM	The natural number four thousand (4000).	3526			
@@ -127,7 +376,7 @@ Quantity:46656.NUM	Quantity:forty six thousand six hundred and fifty six.NUM	The
 Quantity:47.NUM	Quantity:forty seven.NUM	The natural number forty-seven (47).	3559			
 Quantity:48.NUM	Quantity:forty eight.NUM	The natural number forty-eight (48).	3492			
 Quantity:49.NUM	Quantity:forty nine.NUM	The natural number forty-nine (49).	3560			
-Quantity:5.NUM	Quantity:five.NUM	The natural number five (5).	493	13-05	fünf::NUM	
+Quantity:5.NUM	Quantity:five.NUM	The natural number five (5).	493	13-05	fünf::NUM	2505
 Quantity:50.NUM	Quantity:fifty.NUM	The natural number fifty (50).	1717		fünfzig::NUM	
 Quantity:500.NUM	Quantity:five hundred.NUM	The natural number five hundred (500).	3516			
 Quantity:5000.NUM	Quantity:five thousand.NUM	The natural number five thousand (5000).	3527			
@@ -140,7 +389,7 @@ Quantity:56.NUM	Quantity:fifty six.NUM	The natural number fifty-six (56).	3564
 Quantity:57.NUM	Quantity:fifty seven.NUM	The natural number fifty-seven (57).	3565			
 Quantity:58.NUM	Quantity:fifty eight.NUM	The natural number fifty-eight (58).	3566			
 Quantity:59.NUM	Quantity:fifty nine.NUM	The natural number fifty-nine (59).	3567			
-Quantity:6.NUM	Quantity:six.NUM	The natural number six (6).	1703	13-06	sechs::NUM	
+Quantity:6.NUM	Quantity:six.NUM	The natural number six (6).	1703	13-06	sechs::NUM	2506
 Quantity:60.NUM	Quantity:sixty.NUM	The natural number sixty (60).	1718		sechzig::NUM	
 Quantity:600.NUM	Quantity:six hundred.NUM	The natural number six hundred (600).	3517			
 Quantity:6000.NUM	Quantity:six thousand.NUM	The natural number six thousand (6000).	3792			
@@ -153,7 +402,7 @@ Quantity:66.NUM	Quantity:sixty six.NUM	The natural number sixty-six (66).	3572
 Quantity:67.NUM	Quantity:sixty seven.NUM	The natural number sixty-seven (67).	3573			
 Quantity:68.NUM	Quantity:sixty eight.NUM	The natural number sixty-eight (68).	3574			
 Quantity:69.NUM	Quantity:sixty nine.NUM	The natural number sixty-nine (69).	3575			
-Quantity:7.NUM	Quantity:seven.NUM	The natural number seven (7).	1704	13-07	sieben::NUM	
+Quantity:7.NUM	Quantity:seven.NUM	The natural number seven (7).	1704	13-07	sieben::NUM	2507
 Quantity:70.NUM	Quantity:seventy.NUM	The natural number seventy (70).	1721		siebzig::NUM	
 Quantity:700.NUM	Quantity:seven hundred.NUM	The natural number seven hundred (700).	3518			
 Quantity:7000.NUM	Quantity:seven thousand.NUM	The natural number seven thousand (7000).	3528			
@@ -167,7 +416,7 @@ Quantity:77.NUM	Quantity:seventy seven.NUM	The natural number seventy-seven (77)
 Quantity:7776.NUM	Quantity:seven thousand seven hundred and seventy six.NUM	The natural number seven thousand seven hundred and seventy-six (7776).	3529			
 Quantity:78.NUM	Quantity:seventy eight.NUM	The natural number seventy-eight (78).	3581			
 Quantity:79.NUM	Quantity:seventy nine.NUM	The natural number seventy-nine (79).	3582			
-Quantity:8.NUM	Quantity:eight.NUM	The natural number eight (8).	1705	13-08	acht::NUM	
+Quantity:8.NUM	Quantity:eight.NUM	The natural number eight (8).	1705	13-08	acht::NUM	2508
 Quantity:80.NUM	Quantity:eighty.NUM	The natural number eighty (80).	1722		achtzig::NUM	
 Quantity:800.NUM	Quantity:eight hundred.NUM	The natural number eight hundred (800).	3519			
 Quantity:8000.NUM	Quantity:eight thousand.NUM	The natural number eight thousand (8000).	3793			
@@ -180,7 +429,7 @@ Quantity:86.NUM	Quantity:eighty six.NUM	The natural number eighty-six (86).	3587
 Quantity:87.NUM	Quantity:eighty seven.NUM	The natural number eighty-seven (87).	3588			
 Quantity:88.NUM	Quantity:eighty eight.NUM	The natural number eighty-eight (88).	3589			
 Quantity:89.NUM	Quantity:eighty nine.NUM	The natural number eighty-nine (89).	3590			
-Quantity:9.NUM	Quantity:nine.NUM	The natural number nine (9).	1483	13-09	neun::NUM	
+Quantity:9.NUM	Quantity:nine.NUM	The natural number nine (9).	1483	13-09	neun::NUM	2509
 Quantity:90.NUM	Quantity:ninety.NUM	The natural number ninety (90).	1724		neunzig::NUM	
 Quantity:900.NUM	Quantity:nine hundred.NUM	The natural number nine hundred (900).	3520			
 Quantity:9000.NUM	Quantity:nine thousand.NUM	The natural number nine thousand (9000).	3530			
@@ -314,7 +563,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Action/Technology:fan (object).N	A device for creating a current of air by movement of a surface or surfaces. (WN:360)	1971	9-79		
 	Action/Technology:fasten.V	Tighten and close, for example a belt.	1094			
 	Action/Technology:feel (tactually).V	To sense something by touching its surface.	2559		fühlen::V	
-	Action/Technology:fight (combat).N	A hostile encounter, such as a battle or combat.	3880		Kampf::N	
 	Action/Technology:file (tool).N	A hand tool with a long flat metal bar used to re-shape objects.	3407			
 	Action/Technology:fire stick.N	Sticks used specifically to set fire to something or to burn.	3016			
 	Action/Technology:fishing (with a net).V	To hunt for fishes by using a fishnet.	2639			
@@ -872,10 +1120,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Animal:alligator.N	A reptile belonging to the subfamily Alligatorinae in the family Alligatoridae in the order Crocodylia.	1581			
 	Animal:american black bear.N	A member of the Urisdae family (Ursus americanus) native to North America.	3611			
 	Animal:anaconda (water boa).N	Any of various large non-venomous snakes of the genus Eunectes, found mainly in northern South America.	896			
-	Animal:animal.N	Any living organism characterized by voluntary movement, the possession of cells with noncellulose cell walls and specialized sense organs enabling rapid response to stimuli, and the ingestion of complex organic substances such as plants and other animals.	619	3-11	Tier::N	
-	Animal:animal.N	animal				904
-	Animal:ant.N	Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies.	587	3-817	Ameise::N	
-	Animal:ant.N	ant (insect of family Formicidae)				910
 	Animal:anteater.N	A mammal of the suborder Vermilingua having elongated snouts and feeding on ants and termites.	181	3-89		
 	Animal:antelope.N	Any of even-toed deer-like mammals of the family Bovidae, indigenous to various parts of Africa and Eurasia.	3674			
 	Animal:anthill.N	A mound of earth made by ants as they dig their nest.	1873			
@@ -888,19 +1132,14 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Animal:bark or shell.?	Cover of the bodies of animals and plants, including the hard exterior part of mollusks, oysters, etc.	3865			
 	Animal:barking.V	To produce a loud, short, explosive sound similar to that of a dog.	1206		bellen::V	
 	Animal:bat.N	A small, nocturnal, flying mammal of the order Chiroptera, which navigates by means of echolocation. It looks like a mouse with membranous wings extending from the forelimbs to the hind limbs or tail.	1793	3-591		
-	Animal:bear.N	A large beast of prey of the family Ursidae, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet.	1820	3-73	Bär::N	
-	Animal:bear.N	bear (animal of Ursidae family)				960
 	Animal:beaver.N	A mammal of the genus Castor, having a wide, flat tail and webbed feet.	1194	3-873		
 	Animal:bedbug.N	A small blood-sucking insect that lives in houses, especially beds.	1949			
-	Animal:bee.N	Any of the membranous-winged insects which compose the superfamily Apoidea in the order Hymenoptera characterized by a hairy body and by sucking and chewing mouthparts.	665	3-82		
-	Animal:bee.N	bee (member of genus Apis)				920
 	Animal:beehive.N	A structure that provides a natural habitation for bees; as in a hollow tree.	88	3-822		
 	Animal:beeswax.N	A yellowish or dark brown wax secreted by honeybees for constructing honeycombs.	1931	3-821		
-	Animal:beetle.N	A group of insects which are biologically classified in the order Coleoptera /koʊliːˈɒptərə/.	2242			
+	Animal:beetle.N	A group of insects which are biologically classified in the order Coleoptera /ko?li???pt?r?/.	2242			
 	Animal:bird nest.N	A nest in which birds lay and hatch their eggs.	3549			
 	Animal:bird of paradise.N	A bird of the family Paradisaeidae.	2673			
-	Animal:bird.N	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	937	3-581	Vogel::N	
-	Animal:bird.N	bird (egg-laying feathered animal with wings)				980
+	Animal:bird.N	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	937	3-581	Vogel::N	980
 	Animal:bison.N	Large horned wild animal of the Bovidae family. Related to buffalo but differs, for example, in horn shape and form.	3142			
 	Animal:bivalvia (mussels or oysters).N	A class of marine and freshwater molluscs that have laterally compressed bodies enclosed by a shell consisting of two hinged parts.	2785			
 	Animal:black cockatoo.N	Black cockatoo, usually the Palm cockatoo.	3013			
@@ -915,8 +1154,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Animal:buffalo.N	A wild heavy bison of the species Bison bison, having a broad massive horned head.	934	3-917		
 	Animal:bug.N	Any of the suborder Heteroptera, having piercing and sucking mouthparts, specialized as a beak. (Source: CED)	1027			
 	Animal:bull.N	Male bovine animal.	1008	3-21	Bulle::N	
-	Animal:butterfly.N	A lepidopteran that is active at day.	1791	3-92	Schmetterling::N	
-	Animal:butterfly.N	butterfly				921
 	Animal:buzzard.N	Diurnal bird of prey belonging to the Accipitridae family.	1865			
 	Animal:cackle.V	To produce an unpleasant, sharp sound, characteristic of a hen, especially after laying an egg.	3683			
 	Animal:cage.N	A structure, usually made with bars or wire, for confining animals.	3283			
@@ -930,10 +1167,8 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Animal:carp (fish).N	Oily freshwater fish from the family Cyprinidae.	2685			
 	Animal:cassowary.N	A big flightless bird native to tropical forests of New Guinea, nearby islands and northeastern Australia.	466			
 	Animal:castrated boar.N	A castrated male pig.	2565			
-	Animal:caterpillar.N	The larvae of members of the order Lepidoptera (the insect order comprising butterflies and moths).	2247			
-	Animal:caterpillar.N	caterpillar				911
+	Animal:caterpillar.N	The larvae of members of the order Lepidoptera (the insect order comprising butterflies and moths).	2247			911
 	Animal:catfish.N	Any of ray-finned fish with long stiff barbels, resembling a cat's whiskers. There are diverse types of catfish, ranging in size and appearance and inhabiting mostly freshwater environments.	3777			
-	Animal:cattle.N	Domesticated bovine animals, including cows, steers and bulls, raised and bred on a ranch or farm.	1153	3-2		
 	Animal:cebus monkey.N	A Central and South American monkey, Cebus capucinus, having a prehensile tail and hair on the head resembling a cowl.	439			
 	Animal:centipede.N	Any of various flattened, wormlike arthropods of the class Chilopoda, whose bodies are divided into many segments, each with one pair of legs.	1974	3-814		
 	Animal:chameleon.N	(Chamaeleonidae) A squamate that belong to one of the best-known lizard families.	1555	3-913		
@@ -947,19 +1182,16 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Animal:civet.N	A carnivorous mammal of the Viverridae family, found across South East Asia.	3157			
 	Animal:claw.N	The hard, keratin part growing at the feet of animals.	72	4-345	Klaue::N	
 	Animal:coati (coatimundi).N	Coatis, genera Nasua and Nasuella, also known as the coatimundi, Mexican tejón, cholugo, or moncún, Costa Rican pizote, hog-nosed coon,[3] Colombian cusumbo, and other names, are members of the raccoon family (Procyonidae).	2389			
-	Animal:cockroach.N	The most primitive of the living winged insects.	1575	3-816		
-	Animal:cockroach.N	cockroach (insect of order Blattaria)				915
 	Animal:collared peccary.N	Piglike hoofed mammal of the genus Tayassu,  of North and South America,  having a dark gray coat with a white collar.	435			
 	Animal:comb of bird.N	A fleshy growth on the top of the head of some birds.	188			
 	Animal:coral snake.N	A large group of elapid snakes that can be subdivided into two distinct groups, Old World coral snakes and New World coral snakes.	2240			
 	Animal:cormorant.N	Medium sized, black water bird from the family of the cormorants (Phalacrocoracidae), scientific name: Phalacrocorax carbo	840	3-597		
 	Animal:cow dung.N	The faeces of a cow.	3435			
 	Animal:cow.N	Female bovine animal (Bos taurus) of the subfamily Bovinae of the family Bovidae.	1007	3-23	Kuh::N	
-	Animal:cow/bull.N	cow/bull, cattle (bovine animal of either sex)				950
 	Animal:cowshed.N	A barn for cows.	3400			
 	Animal:coyote.N	(Canis latrans) A member of the Canidae family native to North America.	912	3-862		
 	Animal:crab claw.N	Curved pointed appendage of crabs.	2812			
-	Animal:crab.N	Decapod crustaceans of the infraorder Brachyura, which typically have a very short projecting tail (abdomen) (Greek: βραχύς / brachys = short, οὐρά / οura = tail), usually entirely hidden under the thorax.	2348			
+	Animal:crab.N	Decapod crustaceans of the infraorder Brachyura, which typically have a very short projecting tail (abdomen) (Greek: ?????? / brachys = short, ???? / ?ura = tail), usually entirely hidden under the thorax.	2348			
 	Animal:crane.N	A large bird of the order Gruiformes and the family Gruidae having long legs and a long neck which it extends when flying.	1830		Kranich::N	
 	Animal:crayfish (freshwater).N	Freshwater crustaceans resembling small lobsters.	2813			
 	Animal:crayfish.N	A freshwater crustacean resembling a small lobster.	467			
@@ -1092,8 +1324,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Animal:mole.N	Small insectivorous mammal, especially of the family Talpidae, living chiefly underground, and having velvety fur, very small eyes, and strong forefeet.	1907			
 	Animal:mongoose.N	A common name for several species of tropical ferret-like carnivorous mammals, distinguished by a long body and tail.	3677			
 	Animal:monitor lizard.N	Monitor lizard of the genus Varanus, such as the goanna and the Komodo dragon.	3017			
-	Animal:monkey.N	A primate from the group *New World monkeys* or *Old World monkeys* (Simiiformes, excluding the superfamily Hominoidea or apes) that lives mainly in rainforests and is distinguished from an Ape by its smaller size and its tail.	1350	3-76		
-	Animal:monkey.N	monkey, small primate				966
 	Animal:moth.N	Group of insects related to butterflies.	2828			
 	Animal:mule.N	The offspring of a male donkey and a female horse.	890	3-47		
 	Animal:muntjacs.N	Also known as barking deer, a kind of small deer of the genus Muntiacus.	3152			
@@ -1177,7 +1407,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Animal:shear.V	To remove the fleece from a sheep etc. by clipping.	1532			
 	Animal:sheep dung.N	The faeces of a sheep.	3381			
 	Animal:sheepfold.N	A barn for sheep.	3402			
-	Animal:shell.N	A hard outer covering of an animal, as the hard case of a mollusk.	598	3-655		
 	Animal:shrew.N	Any of small, mole-like mammals with a long pointed snout from the family Soricidae of the order Eulipotyphla.	3676			
 	Animal:shrimp.N	Refers to some decapod crustaceans, although the exact animals covered can vary. Used broadly, it may cover any of the groups with elongated bodies and a primarily swimming mode of locomotion – chiefly Caridea and Dendrobranchiata.	2349			
 	Animal:silkworm.N	The larva or caterpillar of the domesticated silkmoth (Bombyx mori).	2351			
@@ -1225,8 +1454,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Animal:water leech.N	A worm-like creature that lives in water and sucks blood from animals.	949			
 	Animal:wax.N	Organic solid compounds of animals or vegetal origin	3942			
 	Animal:weasel.N	A small predator of the genus Mustela characterized by a slender body that lets it hunt burrowing animals.	3384			
-	Animal:whale.N	Large marine mammals of the order Cetacea; the body is streamlined, the broad flat tail is used for propulsion, and the limbs are balancing structures.	957	3-663		
-	Animal:whale.N	whale (large marine mammal of order Cetacea)				942
 	Animal:white cockatoo.N	Large white cockatoo, species C. galerita.	3009			
 	Animal:white-lipped peccary.N	Piglike hoofed mammal, of North and South America, having a black gray coat with whitish cheeks; larger than the collared peccary.	436			
 	Animal:wild animal.N	A non-domesticated animal living independently of man.	958			
@@ -1237,8 +1464,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Animal:wild.A	wild, feral, untamed 				993
 	Animal:wombat.N	Short-legged muscular quadrupedal marsupials native to Australia.	2841			
 	Animal:woodpecker.N	Part of the Picidae family, a group of near-passerine birds that also consist of piculets, wrynecks, and sapsuckers.	2447			
-	Animal:worm.N	A generally tubular invertebrate of the annelid phylum.	1219	3-84	Wurm::N	
-	Animal:worm.N	worm (broad category of insect larvae)				916
 	Animal:yak.N	A long-haired bovid found throughout the Himalaya region of southern Central Asia, the Tibetan Plateau and as far north as Mongolia and Russia.	2477			
 	Animal:yearling (horse).N	A young horse between one and two years old.	3329			
 	Animal:yellow croaker.N	A species of croaker native to the western Pacific, generally in temperate waters such as the East China Sea and the Yellow Sea.	2347			
@@ -1315,90 +1540,26 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Behavior:wise.A	wise 				2108
 	Behavior:withstand.V	withstand, endure, remain intact in spite of 				2160
 	Belief:abstain from food.V	To refrain from eating.	303	22-26		
-	Belief:altar.N	Table for religious ceremonies.	853	22-14		
-	Belief:amulet.N	An object whose most important characteristic is the power ascribed to it to protect its owner from danger or harm.	2804			
-	Belief:angel.N	angel				1811
-	Belief:atheism.N	atheism				1860
 	Belief:belief (religious).V	A school of thought rooted in religious beliefs and traditions and used for guiding actions.	3333			
 	Belief:bewitch.V	To cast a spell on someone or something.	118			
-	Belief:bless.V	To make something blessed; to confer blessing upon.	391	22-23		
-	Belief:bless.V	bless (wish good upon) 				1821
 	Belief:blessed.N	To have received blessing.	2529			
-	Belief:buddha.N	One who has purified obscurations (སངས) and developed pristine cognition (རྒྱས).	2061			
-	Belief:buddhism.N	Buddhism				1865
 	Belief:burial mound.N	A mound of earth raised around burial sites/graves.	3337			
-	Belief:christianity.N	Christianity				1870
 	Belief:church.N	A building where Christian religious activities take place.	1349	22-131	Kirche::N	
 	Belief:circumcision.N	The act of excising or amputating the prepuce (the foreskin on penises, the clitoral hood on clitorises)	393	22-5		
 	Belief:conjure.V	To practice witchcraft or magic.	2222			
-	Belief:curse.V	To imprecate evil or misfortune upon someone or something, usually by means of a prayer or implication.	8	22-24		
-	Belief:curse.V	curse, damn (wish evil upon) 				1822
-	Belief:deity.N	A supernatural, typically immortal being with superior powers.	3231	22-12	Gott::N	
-	Belief:demon.N	Evil spirit or person that is wicked or cruel in their actions.	1973	22-35		
-	Belief:devil.N	The personal supreme spirit of evil often represented in Christian belief as the tempter of humankind, the leader of all apostate angels, and the ruler of hell.	3917			
-	Belief:devil.N	devil				1813
 	Belief:elf or fairy.N	A mythical being similar to but distinct from human, related to nature, and usually with supernatural or magic powers.	3206	22-44		
 	Belief:elf.N	A mythical creature of Germanic mythology. In Norse mythology they were originally minor gods of nature and fertility. They are often pictured as youthful-seeming men and women of great beauty living in forests and other natural places, underground, or in wells and springs. They have been portrayed to be long-lived or immortal and they have magical powers attributed to them.	1037			
-	Belief:fairy.N	One of a class of female supernatural beings, generally conceived as having a diminutive human form and possessing magical powers.	1138			
-	Belief:fairy.N	fairy (supernatural flying humanoid)				1812
 	Belief:fasting.V	To consume little or no food for a specific period of time, usually done for religious reasons.	3331			
 	Belief:fate.N	The power or agency that, according to certain belief systems, predetermines and orders unalterably the course of events.	1688			
-	Belief:funeral.N	funeral				1891
-	Belief:funeral.V	The ceremonial act of bidding farewell to a deceased person or animal.	3336			
-	Belief:ghost.N	The visible disembodied soul of a dead person.	1175	22-45		
-	Belief:ghost.N	ghost (manifestation of dead person's soul)				1831
-	Belief:god.N	The deity of a monotheistic religion.	1944			
-	Belief:god.N	god, diety				1810
-	Belief:graven image.N	A representation of a deity who is considered to be false.	3205			
-	Belief:heaven.N	Outer space visible from the Earth's surface, infinitely extending above us and limited by the horizon.	1565	22-31		
-	Belief:heaven.N	heaven				1840
-	Belief:hell.N	In various religions, the place where sinners are said to go after death.	878	22-32		
-	Belief:hell.N	hell, Hades				1841
-	Belief:hinduism.N	Hinduism				1875
-	Belief:holy.A	Specially recognized as or declared sacred by religious use or authority.	1702	22-19		
-	Belief:holy.A	holy, sacred 				1850
-	Belief:idol.N	A representation of a deity, notably a statue or a statuette.	1945	22-37	Figur::N	
 	Belief:initiation ceremony.N	A formal entry into an organization or position or office.	1946	22-51		
-	Belief:islam.N	Islam				1880
-	Belief:judaism.N	Judaism				1885
-	Belief:legendary creature.N	A human or an animal described in non-historical or yet to be verified stories that sometimes involve the supernatural.	2138			
 	Belief:libate.V	The act of pouring a liquid over a site/object in an act of honour.	3338			
-	Belief:magic.N	The use of rituals or actions, especially based on supernatural or occult knowledge, to manipulate or obtain information about the natural world, especially when seen as falling outside the realm of religion.	392	22-42		
-	Belief:magic.N	magic, sorcery				1802
-	Belief:magician.N	A person who practices magic.	2137	22-43		
-	Belief:miracle.N	The happening of something impossible.	2541			
 	Belief:monster.N	monster				1814
-	Belief:mosque.N	A place of worship for followers of the Islamic faith.	1603	22-132		
-	Belief:mythical being.N	Any living creature that occurs in stories and fairytales and does not exist in the real world.	2641			
-	Belief:omen.N	A sign that is supposed to reveal whether the future will be favourable or not.	107	22-47		
-	Belief:pray.V	To address God or a higher being with praise, thanksgiving, confession or supplication.	24	22-17		
-	Belief:pray.V	pray 				1820
-	Belief:preach.V	To deliver a sermon.	304	22-22		
-	Belief:priest or shaman.N	A generic way of referring to a person of religious authority, irrespective of specific religious schools.	3332			
-	Belief:priest.N	A minister of the Catholic church empowered to administer the sacraments, most particularly that of the Eucharist or Holy Communion, as well as those of confession and extreme unction.	852	22-18		
-	Belief:priest.N	priest, clergyman				1803
-	Belief:pyre.N	Structure made from wood for burning a body as part of a rite.	2832			
-	Belief:religion.N	The expression of man's belief in and reverence for a superhuman power recognized as the creator and governor of the universe.	661	22-11		
-	Belief:religion.N	religion				1801
 	Belief:revelation.N	revelation, mystical vision				1804
-	Belief:rite.N	A specific process or action used to practise religious beliefs.	3334			
-	Belief:ritual.N	ritual, rite, ceremony				1890
-	Belief:sacred grove.N	A place in nature believed to hold special religious, magical, etc. powers.	3335			
 	Belief:sacrifice.N	Something surrendered or lost in order to gain an objective.	1103	22-15		
 	Belief:scripture.N	scripture				1806
-	Belief:sermon.N	A religious lecture or speech, addressing issues of religion or morality.	3167			
-	Belief:shaman (folk healer).N	A traditional (prescientific) faith healer; a member of certain tribal societies who acts as a religious medium between the concrete and spirit worlds.	394			
 	Belief:sin.N	In a religious context, sin is the act of violating God's will by transgressing his commandments.	2971		Sünde::N	
 	Belief:sorcerer.N	A male person who practices magic.	823			
-	Belief:soul.N	In philosophical or religious belief the immaterial part of a human being.	811	16-11		
-	Belief:soul.N	soul, spirit (believed to outlive the body)				1830
-	Belief:sphinx.N	A fable animal that occurs in Greek mythology.	2609			
-	Belief:spirit.N	A spiritual entity that is not as powerful as a deity.	53		Geist::N	
 	Belief:tell fortunes.V	To predict information about a person's future.	226			
-	Belief:temple.N	A house of worship and spiritual activities.	911	22-13		
-	Belief:unicorn.N	A legendary animal with a horn on the forehead.	2601			
-	Belief:witch.N	A female person who practices magic.	824			
-	Belief:worship.V	To show devotion and obeisance to.	257	22-16		
 	Body:abdomen.N	abdomen				505
 	Body:abortion.N	An intervention in a pregnancy by removal or expulsion of an embryo or fetus resulting in termination of the pregnancy.	3866			
 	Body:ache.V	To be in continuous pain.	1815		schmerzen::V	
@@ -1406,22 +1567,11 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Body:alcoholic (person).N	A person who is affected by alcoholism in that they frequently drink alcohol which leads to addiction.	3867			
 	Body:alive.A	alive 				620
 	Body:allergy.N	A bodily reaction due to a hypersensitivity to an antigen or a pathological immunological reaction to substances, situations, or physical states.	3868			
-	Body:ankle.N	A joint formed where the foot and the leg meet.	803	4-371		
-	Body:anus.N	The lower opening of the digestive tract, through which faeces pass.	1935			
-	Body:anus.N	anus				558
 	Body:appearance.N	The outward or visible aspect of a person or thing.	1017			
 	Body:apply (ointment).V	To put and spread some substance on the skin.	3650			
-	Body:arm or hand.N	Extremities emerging from the upper part of the human body.	2121			
-	Body:arm.N	The upper limb, extending from the shoulder to the wrist and sometimes including the hand.	1673	4-31	Arm::N	
-	Body:arm.N	arm (shoulder to hand)				531
 	Body:armpit.N	The hollow under the upper part of the arm at the shoulder.	1886	4-312		
-	Body:artery.N	A blood vessel transporting blood away from the heart.	1925			
-	Body:awake.A	Not sleeping.	825			
-	Body:awake.A	awake 				664
+	Body:awake.A	Not sleeping.	825			664
 	Body:back of head.N	The back part of the head.	523			
-	Body:back.N	The rear of body, especially the part between the neck and the end of the spine and opposite the chest and belly.	1291	4-19	Rücken::N	
-	Body:back.N	back (rear portion of torso)				503
-	Body:bald.A	Without hair on the head.	1125	4-93		
 	Body:bark or skin.N	Cover of the bodies of animals and plants.	2127			
 	Body:bathe (someone).V	Clean someone else with water.	3170			
 	Body:bathe.V	To clean oneself by immersion in water.	138	4-69	baden::V	
@@ -1430,71 +1580,29 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Body:be born.V	To start living.	1090	4-72	geboren werden::V	
 	Body:be dead or death or die.?	To be not alive or the end of a life or to cease to live.	3186			
 	Body:be dead or die or kill.?	To be not alive or to cease to live or to cause the end of a life.	3185			
-	Body:beak.N	External anatomical structure of birds which is used for taking food and for eating.	73	4-241		
-	Body:beard.N	Facial hair of humans on the chin, cheeks and jaw.	678	4-142	Bart::N	
-	Body:beard.N	beard				519
 	Body:beget.V	(Especially of a male parent) to procreate or generate.	1152	4-71		
 	Body:belly or stomach.N	The lower part of the front of the torso, including the interior part below.	2114			
-	Body:belly.N	The lower part of the front of the torso (or a comparable part of an animal), confined by the upper side by the midriff and the lowerside by the pelvis. Contains the intestines.	1251	4-431	Bauch::N	
 	Body:bellybutton.N	The middle of the belly where the umbilical cord has grown in the womb during pregnancy.	3715			
-	Body:bile.N	A bitter brownish-yellow or greenish-yellow secretion produced by the liver, stored in the gallbladder, and discharged into the duodenum where it aids the process of digestion.	1780			
 	Body:birth.N	birth				603
 	Body:birthmark.N	A birthmark is a benign irregularity on the skin which is present at birth or appears shortly after birth, usually in the first month. Birthmarks are caused by overgrowth of blood vessels, melanocytes, smooth muscle, fat, fibroblasts, or keratinocytes.	1751			
-	Body:bite.V	Clamping the teeth hard on something.	1403	4-58	beißen::V	
-	Body:bite.V	bite 				722
-	Body:bladder.N	A hollow muscular balloon-shaped organ that stores urine until it is excreted from the body.	1746			
-	Body:bleed.V	To lose blood because of a disease or an injury.	3615			
+	Body:bite.V	Clamping the teeth hard on something.	1403	4-58	beißen::V	722
 	Body:blind.A	Unable to see.	1653	4-97	blind::A	
-	Body:blink.V	To make a quick wink of one or both eyelids, often repeatedly.	1655	4-215		
-	Body:blister.N	A small bubble on the skin, that contains watery fluid and is caused by heat, pressure or infection.	1584	4-855		
 	Body:blond.A	A pale yellowish-brown color usually of hair.	3872			
-	Body:blood vessel.N	The blood vessels are the part of the circulatory system that transports blood throughout the human body or an animal body.	525	4-151		
-	Body:blood.N	A fluid connective tissue consisting of the plasma and cells that circulate in the blood vessels.	946	4-15	Blut::N	
-	Body:blood.N	blood				565
 	Body:body part.N	Part of a human body or an animal body.	2213			
-	Body:body.N	The physical structure of a human or animal.	1480	4-11	Körper::N	
-	Body:body.N	body				500
-	Body:boil (of skin).N	A painful, local inflammation of the skin, caused by infection of a hair follicle. Usually, a hard core and pus are present.	793	4-856		
-	Body:bone.N	Any of the components of an endoskeleton, consisting mainly of calcium phosphate, collagen and cells.	1394	4-16	Knochen::N	
-	Body:bone.N	bone				560
-	Body:brain.N	The organ of the central nervous system of an animal or human located in the skull that controls the actions and thoughts of the animal or human.	1583	4-203	Gehirn::N	
-	Body:brain.N	brain				571
 	Body:breast milk.N	The milk of humans.	3912			
 	Body:breast or milk.N	Either the organ of females which gives nourishing substance for newborns, or the substance itself.	2129			
-	Body:breast.N	The fleshy organ on the chest of a sexually mature human female containing mammary glands.	1402	4-41	Busen::N	
-	Body:breast.N	breast (mound of flesh culminating in a nipple on a woman)				550
-	Body:breastbone.N	Long flat bone located in the center of the chest.	2810			
 	Body:breath or breathe.?	The air that goes into one's lungs or the act of breathing.	3183			
-	Body:breath.N	The air inhaled and exhaled through the lungs.	870		Atem::N	
-	Body:breathe.V	To repeatedly draw air into, and expel it from, the lungs, in order to extract oxygen from it and excrete waste products.	1407	4-51	atmen::V	
-	Body:breathe.V	breathe 				710
-	Body:bruise.N	A collection of blood in the body tissue outside the blood vessels	1148	4-852		
-	Body:burn (injury).N	An injury caused by exposure to heat, fire or chemical agents.	3622			
-	Body:buttock(s).N	buttock(s)				557
-	Body:buttocks.N	The fleshy part of the human body that one sits on.	834	4-464		
-	Body:calf of leg.N	The fleshy backside of the lower part of the leg.	498	4-352		
-	Body:carcass.N	The body of a dead animal, on which other animals have begun to feed.	1770	4-771		
 	Body:castrate.V	Any action, surgical, chemical, or otherwise, by which a biological male loses use of the testicles.	2563			
 	Body:catch a cold.V	To become sick with a cold.	2184			
 	Body:catch.V	catch (seize in the hands) 				751
-	Body:cheek.N	The soft skin on each side of the face, between the eyes and the chin; the outer surface of the sides of the oral cavity.	1730	4-208	Wange::N	
-	Body:cheek.N	cheek (side of face below eye)				512
-	Body:chest.N	The portion of the body from the base of the neck to the top of the abdomen; the thorax.	1592	4-4	Brust::N	
-	Body:chest.N	chest (upper front of torso)				504
-	Body:chin.N	The bottom of the face, below the mouth.	1510	4-209	Kinn::N	
-	Body:chin.N	chin				513
 	Body:claw or nail.N	The hard, keratin part growing at the feet of animals or the hands and legs of humans.	2128			
 	Body:climb.V	climb 				704
-	Body:clitoris.N	A part of the female genitalia located at the front of the vulva, consisting of a sensitive erectile body.	3257			
-	Body:close (mouth).V	To close one's mouth.	3547			
 	Body:coffin.N	The box in which the body of a dead person is placed for burial.	2011			
-	Body:collarbone.N	Bone linking the scapula and sternum.	1994	4-302		
 	Body:common cold (disease).N	A contagious, viral infectious disease of the upper respiratory system; common symptoms include cough, sore throat, runny nose, nasal congestion and sneezing.	102	4-843		
 	Body:conceive.V	To become pregnant.	1087	4-732		
 	Body:congeal (blood).V	The process by which frech blood gets dry and hard.	2395			
 	Body:conjunctivitis.N	An inflammation of the eye conjunctiva.	3026			
-	Body:copulate.V	To engage in sexual intercourse.	549	4-67		
-	Body:copulate.V	copulate, have sex (with) 				762
+	Body:copulate.V	To engage in sexual intercourse.	549	4-67		762
 	Body:corpse.N	A dead body.	767	4-77		
 	Body:cough.V	To force air from the lungs out the mouth, sometimes involuntarily, accompanied by a rough sound.	879	4-53	husten::V	
 	Body:crawl.V	crawl 				705
@@ -1502,10 +1610,8 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Body:cry out.V	cry out, shout, yell 				741
 	Body:cry.V	cry, weep 				740
 	Body:cure.V	To remedy an illness using medical or medicamentous treatment; to provide a cure for.	499	4-86		
-	Body:dance.V	dance 				746
 	Body:dandruff.N	Small portion of dead skin cells shedding from the scalp.	576	4-146		
-	Body:dead.A	Not alive; lacking life.	1625	4-7501		
-	Body:dead.A	dead 				625
+	Body:dead.A	Not alive; lacking life.	1625	4-7501		625
 	Body:deaf.A	Not having the faculty of hearing, or only having a restricted capability to hear.	996	4-95	taub::A	
 	Body:death.N	The end of life.	910		Tod::N	
 	Body:dentist.N	A person who is medically trained and licensed to practice the prevention, diagnosis, and treatment of diseases, injuries, and malformations of the teeth, jaws, and mouth.	3876			
@@ -1529,258 +1635,107 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Body:drunk.A	drunk (inebriated) 				652
 	Body:dumb.A	Unable to speak; lacking power of speech.	1492			
 	Body:ear or hear.N	Either the organ with which one perceives noise, or the action of perceiving noise.	2126			
-	Body:ear.N	The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.	1247	4-22	Ohr::N	
-	Body:ear.N	ear				514
-	Body:earhole.N	The outer opening of the ear.	3891			
-	Body:earlobe.N	The lower fleshy part of the human ear.	18	4-221		
-	Body:earwax.N	A yellowish, waxlike secretion from certain glands in the external auditory canal.	32	4-222		
 	Body:eat.V	eat 				720
-	Body:egg.N	egg				590
-	Body:elbow.N	The joint between arm and forearm.	981	4-32	Ellenbogen::N	
-	Body:elbow.N	elbow				532
 	Body:excreta.N	Waste matter, such as sweat, urine, or faeces, discharged from the body.	47			
-	Body:eye.N	The organ that is sensitive to light, which it converts to electrical signals passed to the brain, by which means animals and humans see.	1248	4-21	Auge::N	
-	Body:eye.N	eye				515
-	Body:eyeball.N	The partly visible orb nesting in the eye socket which contains for example pupil, retina and iris and is connected to the brain via the optic nerve.	3807			
-	Body:eyebrow.N	The hair that grows over the bone ridge above the eye socket.	1173	4-212		
-	Body:eyelash.N	One of the hairs that grows on the eyelid, around the eyes.	1540	4-214		
-	Body:eyelid.N	A skin flap that can be closed over an eye.	17	4-213		
-	Body:face.N	The front part of the head, featuring the eyes, nose, and mouth and the surrounding area.	1560	4-204	Gesicht::N	
-	Body:face.N	face				510
-	Body:faeces (excrement).N	Substance that human and animal bodies release from time to time as a little pile of waste remaining from digestion, after it has been collected in the colon.	675			
 	Body:faint (pass out).V	To become unconscious as a result of a temporary decrease in the blood supply to the brain.	3616			
 	Body:fall asleep.V	To go to sleep; to change from waking state to sleeping state.	1106		einschlafen::V	
-	Body:fart.V	To emit digestive gases through the anus.	1159	4-64		
-	Body:fat (organic substance).N	Esters of three fatty acid chains and the alcohol glycerol which form a semi-solid substance in room temperature and occur in animals and plants.	323	5-791	Fett::N	
-	Body:fat.N	fat, obese				640
 	Body:fatigue.N	A state of physical and/or mental weakness and a lack of vigor.	1140			
 	Body:feather or fur or hair.N	The cover of a mammal or a bird.	2381			
-	Body:feather.N	A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	1201	4-393	Feder::N	
-	Body:feather.N	feather				592
-	Body:feces.N	feces, excrement				566
 	Body:female.A	female 				612
 	Body:fetus.N	fetus (foetus), embryo				602
 	Body:fever.N	A higher than normal temperature of a person (or generally a mammal).	1534	4-841	Fieber::N	
 	Body:fever.N	fever				635
-	Body:fight.V	fight, combat 				782
-	Body:finger or toe.N	Limb of the human body found in the hands and foots of humans and primates.	2120			
-	Body:finger.N	One of the long extremities of the hand that is used for gripping objects.	1303	4-34	Finger::N	
-	Body:finger.N	finger				535
-	Body:fingernail or toenail.N	Hard keratin part growing at the end of a human's finger or toe.	1896		Nagel[Anatomie]::N	
-	Body:fingernail.N	The hard, flat, translucent covering near the tip of a human finger, useful for scratching and fine manipulation.	1258	4-344	Fingernagel::N	
-	Body:fingertip.N	The top of the finger.	2773			
-	Body:fishbone.N	Any of the bones forming the skeleton of a fish, especially one of the sharp slender bones attached to the backbone.	3799			
-	Body:fist.N	The closed hand with the fingers on the palm.	1473			
-	Body:fist.N	fist				537
-	Body:flesh or meat.N	Either referring to the soft substance of the body of living things (flesh), or to the soft substance in animals as an important source of food for humans.	2615			
-	Body:flesh.N	The soft substance in the body of living things.	2259	4-13		
-	Body:flesh.N	flesh				577
-	Body:foot or leg.N	Lower part of the human body which is used for walking.	2098			
 	Body:foot or walk.?	Either the body part or the action by which one uses the body part to advance.	2450			
-	Body:foot.N	The part of a human’s body below the ankle that is used in order to stand and walk.	1301	4-37	Fuß::N	
-	Body:foot.N	foot				542
-	Body:footprint.N	The impression of the foot in a soft substance such as sand or snow.	318	4-374	Spur::N	
-	Body:forefinger.N	The finger between thumb and long finger.	577			
-	Body:forehead.N	The part of the face between the hairline and the eyebrows.	123	4-205	Stirn::N	
-	Body:forehead.N	forehead				511
 	Body:fornicate.V	To have sexual intercourse outside of marriage, especially with varying partners.	103			
 	Body:freckle.N	A small brownish or reddish pigmentation spot on the surface of the skin.	530			
-	Body:front tooth (incisor).N	Aeveral teeth located above and below in the mouth of mammals (including humans) to bite food off.	442			
-	Body:fur.N	The body-hair of an animal (excluding humans) or a piece of clothing made thereof.	580	6-28	Fell::N	
-	Body:gall bladder.N	A pear-shaped organ located beneath the liver that serves as a storage sac for bile until it is released into the small intestine.	3372			
 	Body:gene.N	gene				601
-	Body:genitalia.N	The sexual organs: the testicles and penis of a male; or the labia, clitoris, and vagina of a female.	198			
 	Body:gesture.V	gesture 				747
 	Body:get tired.V	To become tired through overuse or great strain or stress.	1996		müde werden::V	
-	Body:goiter.N	Enlargement of the thyroid gland.	1957	4-842		
 	Body:grave.N	A place (commonly marked with a headstone) where one or more people are buried (usually in a coffin underneath the ground).	1773	4-79	Grab::N	
 	Body:graveyard.N	A tract of land used for burials; burial ground; cemetery.	3284			
-	Body:gums.N	The mucosal tissue that partly lies over the teeth in the mouth.	139	4-271		
 	Body:guts or heart.N	Either the human heart or the human guts.	2436			
-	Body:guts.N	The internal organs of an animal or human.	1334			
-	Body:hair (body).N	The terminal hair that develops on the human body during and after puberty.	189	4-144		
-	Body:hair (head).N	The hair on the head of humans (rather than the hair in general or the hair on the body).	2648	4-14		
 	Body:hair or forehead.N	The head hear or the forehead of a person.	2107			
 	Body:hair or fur.N	The hair covering the body of a mammal, including the body hair of humans.	2678			
-	Body:hair.N	The hair on humans, usually on the head but also including the hair on the body.	1040		Haar::N	
-	Body:hair.N	hair (a strand of fibrous material growing from the body)				517
-	Body:hair.N	hair (the hairs atop one's head thought of as a collective entity)				518
-	Body:hand.N	That part of the fore limb below the forearm or wrist in primates (including humans).	1277	4-33	Hand::N	
-	Body:hand.N	hand				534
 	Body:handspan.N	The distance between splayed out thumb and little finger or index finger of a human hand. Formerly used as a unit of measurement or for roughly gauging small lengths around 20 centimeters.	3838			
 	Body:have sex.V	To take part in sexual activity (most commonly sexual intercourse) with another person for the purposes of sexual pleasure.	1785			
-	Body:head.N	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	1256	4-2	Kopf::N	
-	Body:head.N	head				501
+	Body:head.N	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	1256	4-2	Kopf::N	501
 	Body:headache.N	A pain in the head.	3625			
 	Body:healthiness.N	Relating to the general state of health and well-being.	3828			
 	Body:healthy.A	In good physical and mental condition; free from disease.	1364	4-83	Gesundheit::N	
 	Body:healthy.A	healthy 				630
-	Body:heart.N	A muscular organ that pumps blood through the body.	1223	4-44	Herz::N	
-	Body:heart.N	heart (blood-pumping organ)				572
-	Body:heel.N	The part of the human foot on the backside where it becomes the leg.	980	4-372	Ferse::N	
-	Body:heel.N	heel				544
 	Body:hiccough.V	To have spasms of the diaphragm.	162	4-521		
 	Body:hip bone.N	Large, flat bone in the center.	2820			
-	Body:hip.N	The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.	1745	4-463		
-	Body:hip.N	hip				552
 	Body:hold.V	hold, grasp 				752
-	Body:hoof.N	Natural horn covering of an animal's foot.	152			
-	Body:horn (anatomy).N	A hard growth of keratin that protrudes from the top of the head of certain animals.	1393	4-17	Horn::N	
-	Body:horn.N	horn (bone-like growth from animal's head)				593
 	Body:hump.N	A hump may refer to a camel's hump containing its fat reservoir or alternatively to the curve on an upper spine that causes a hunchback.	534			
 	Body:hunchback.N	A person whose back is hunched because of abnormal curvature of the upper spine.	99			
-	Body:hunt.V	hunt (pursue with intent to capture and/or devour) 				781
 	Body:hurt or pain.?	To experience an unpleasant physical sensation that is often the result of an injury, disease or other ailment; an unpleasant physical sensation itself.	3864			
 	Body:infected.A	Referring to something that has received an infection.	548			
 	Body:influenza.N	influenza				634
 	Body:injure.V	To cause physical harm to a living creature.	44	11-28		
 	Body:instep.N	The arched part of the human foot between the ankle and the toes.	3736			
-	Body:intestines.N	The alimentary canal of an animal or human through which food passes after having passed all stomachs.	1991	4-461		
-	Body:intestines.N	intestines, gut(s), viscera				573
 	Body:iris.N	iris (of eye)				516
 	Body:itch (cause itching or feel itchy).V	To have an unpleasant sensation on the skin that provokes the need to scratch; to be the cause of this sensation.	3855			
 	Body:itch or itchy or itching.?	To have an unpleasant sensation on the skin that provokes the need to scratch or to be the cause of this sensation; the result of itching, i.e. an unpleasant sensation on the skin, or the property of having or producing such a sensation.	3856			
 	Body:itch.N	An unpleasant sensation on the skin that provokes the desire to scratch.	148	4-854		
-	Body:jaw.N	Either of the two opposable structures forming, or near the entrance to, the mouth.	798	4-207	Kiefer[Anatomie]::N	
-	Body:joint.N	Any part of the body where two bones join.	999			
 	Body:jump.V	jump, leap 				703
 	Body:kick.V	kick 				754
-	Body:kidney.N	An organ in the body that produces urine.	489	4-451		
-	Body:kidney.N	kidney				574
 	Body:kill.V	To put to death; to end a life.	1417	4-76	töten::V	
 	Body:kill.V	kill 				627
 	Body:kiss.V	kiss 				761
-	Body:knee.N	In man, the joint in the middle part of the leg.	1371	4-36	Knie::N	
-	Body:knee.N	knee				541
-	Body:knuckle.N	Joints of the fingers brought to prominence when hand is clenched.	2824			
 	Body:lame.A	Moving with pain or difficulty on account of injury, defect or temporary obstruction of a function.	320	4-94		
-	Body:lap.N	The front area from waist to knees, especially when sitting.	3263			
-	Body:larynx.N	Organ on the upper end of the trachea.	3714			
 	Body:laugh.V	laugh 				743
 	Body:lazy.A	Unwilling to do work or make an effort.	1564	4-92	faul::A	
 	Body:lean (meat).A	Carry little fat (of meat).	2219			
-	Body:left hand.N	The left hand of a human.	2182			
-	Body:leg.N	The limb of an animal (including humans) that extends from the groin to the ankle.	1297	4-35	Bein::N	
-	Body:leg.N	leg				540
 	Body:leprosy.N	An infectious disease caused by the bacteria Mycobacterium leprae that affects the skin as well as the peripheral nerves.	3624			
 	Body:lick.V	To stroke with the tongue.	319	4-59	lecken::V	
 	Body:lie.V	lie (recline horizontally) 				737
 	Body:life.N	The time between birth or conception and death.	210	4-741	Leben::N	
-	Body:lip.N	Either of the two fleshy protrusions around the opening of the mouth.	478	4-25	Lippe::N	
-	Body:lip.N	lip				522
 	Body:little finger.N	The smallest of the five fingers.	2774			
 	Body:live.V	To be alive; to have a life.	2309			
 	Body:live.V	live (be alive) 				621
-	Body:liver.N	A large organ in the body that stores and metabolizes nutrients, destroys toxins and produces bile. Responsible for thousands of biochemical reactions.	1224	4-45	Leber::N	
-	Body:liver.N	liver				575
 	Body:living.A	Being alive.	3000			
-	Body:loin.N	The part of the body (of humans and quadrupeds) each side of the backbone between the ribs and hips.	187			
 	Body:long hair.N	Hair that is not cut.	444			
-	Body:lower arm.N	The part of the arm between the elbow and the hand.	446			
-	Body:lower back.N	The lower part of the spine, also known as the lumbar region, which is situated between the rib cage and the pelvis.	3613			
-	Body:lower leg.N	Part of the leg between the knee and the foot.	447			
-	Body:lower lip.N	The lower fleshy protrusion around the opening of the mouth.	3944			
-	Body:lung.N	A biological organ that extracts oxygen from the air.	688	4-441		
-	Body:lung.N	lung				576
-	Body:mad person.N	A person that has mental problems.	2321			
 	Body:malaria.N	Infectious disease characterized by chills, fevers, and sweating, caused by a protozoan of the genus Plasmodium and transmitted by infected Anopheles mosquitoes.	3059			
 	Body:male.A	male 				614
-	Body:mane.N	The long hair in the neck of horses and lions.	1918			
-	Body:marrow.N	The spongy tissue in the hollow parts of bones.	1835			
 	Body:measles.N	A contagious airborne disease caused by Measles morbillivirus and characterized by red rash, Koplik's spots, and fever.	3389			
 	Body:medicine.N	A substance which specifically promotes healing.	1372	4-88	Arznei::N	
 	Body:menstruation.N	The period in the menstrual cycle when the endometrium is shed when conception did not take place.	766			
-	Body:middle finger.N	The third and longest finger on the human hand.	3387			
-	Body:molar tooth.N	A tooth located in the back of the mouth used for crushing and grinding food.	1049	4-272		
-	Body:moustache.N	A growth of facial hair between the nose and the upper lip.	1165		Schnurrbart::N	
-	Body:mouth.N	Opening in the lower half of a human face which is used for food ingestion and articulation.	674	4-24	Mund::N	
-	Body:mouth.N	mouth				521
-	Body:muscle.N	An organ formed by contractile tissue that moves other organs.	1004			
-	Body:muscle.N	muscle				578
 	Body:mute person.N	A person that is not able to speak.	2320			
 	Body:mute.A	Not making a sound.	1666	4-96		
-	Body:nail.N	nail (fingernail)				538
-	Body:naked.A	Without clothing.	590	4-99	nackt::A	
-	Body:naked.A	naked, nude 				645
-	Body:nape (of neck).N	The back part of the neck.	1347	4-281	Genick::N	
 	Body:nasal mucus (snot).N	Mucus from the nose.	208	4-232		
-	Body:navel.N	A scar where the umbilical cord was attached.	1838	4-43	Nabel::N	
-	Body:navel.N	navel				553
-	Body:neck.N	The part of the body (found in some animals, including humans) that connects the head and the trunk.	1333	4-28	Hals::N	
-	Body:neck.N	neck				502
-	Body:nerve.N	An enclosed, cable-like bundle of axons (nerve fibers, the long and slender projections of neurons) in the peripheral nervous system.	2626			
-	Body:nerve.N	nerve				579
 	Body:neuter.A	neuter (neither male nor female) 				616
-	Body:nipple.N	The projection of a mammary gland from which, on female mammals, milk can be secreted.	796	4-412		
-	Body:nose.N	The organ of the face used to breath and smell.	1221	4-23	Nase::N	
-	Body:nose.N	nose				520
-	Body:nostril.N	Either of the two orifices located on the nose (or on the beak of a bird); used as a passage for air and other gases to travel the nasal passages.	1178	4-231		
 	Body:operate (medicine).V	Perform a medical procedure by cutting or making incisions.	3121			
 	Body:oral cavity.N	Cavity that is limited by the lips in front, the cheeks on the side, the soft and hard palate at the top and the floor of the mouth below.	2674			
 	Body:organ.N	organ (of body)				570
-	Body:ovary.N	The female sex organ which is often paired and produces eggs for procreation.	3716			
-	Body:palate.N	The palate is the roof of the mouth in humans and other mammals.	540			
-	Body:palm of hand.N	The inner and somewhat concave part of the human hand that extends from the wrist to the bases of the fingers.	1183	4-331	Handfläche::N	
-	Body:palm.N	palm (of hand)				539
-	Body:pancreas.N	An organ of the digestive system of vertebrates.	3252			
 	Body:pant.V	To breathe quickly and loudly as a result of running or exercising.	3614			
 	Body:patient (sick person).N	A person registered as a recipient of medical services.	3375			
-	Body:penis.N	The male sexual organ for copulation and urination; the tubular portion of the male genitalia (excluding the scrotum).	1222	4-492		
-	Body:penis.N	penis				555
 	Body:perspire or sweat.?	Either the action of sweating or the product.	2458			
-	Body:pharynx.N	The inner part of the neck which starts after the oral and nasal cavity.	3713			
-	Body:phlegm.N	Mucus secreted by the respiratory tract, particularly during respiratory infections, usually thick and sticky.	3061			
 	Body:physician.N	A person who has completed a study of medicine, and as such tries to diagnose and cure diseases in patients.	597	4-87	Arzt::N	
 	Body:pig liver.N	The liver of a pig.	2778			
 	Body:pig tongue.N	The tongue of a pig.	2777			
-	Body:pimple.N	A result of a blockage of the skin's pore.	1809			
-	Body:piss.V	To allow urine to flow from the bladder out of the body.	592	4-65		
-	Body:placenta.N	A vascular organ that is formed inside the womb to ensure the transfer of vital nutrients and regulation of metabolic exchange between mother and the foetus.	3388			
 	Body:point (with finger).N	To use the finger to show something to somebody.	2669			
 	Body:poison.N	A substance which, when ingested, inhaled, or absorbed, or when applied to, injected into, or developed within the body, in relatively small amounts, may cause injury, harm, or destruction to organs, tissue, or life.	655	4-89		
 	Body:poisonous.A	That acts like a poison.	888			
 	Body:pregnant.A	Carrying developing offspring within the body.	1123	4-73		
-	Body:pubic hair.N	Dense, coarse hair that grows on the male and female genital area beginning in puberty.	36	4-145		
-	Body:pulse.N	The rhytmic contraction and expansion of arteries at each heart beat, often discernible at points such the wrists and the neck.	3267			
-	Body:pupil.N	Contractile aperture in iris.	1658			
 	Body:pus.N	A whitish-yellow or yellow substance produced during inflammatory responses of the body that can be found in regions of pyogenic bacterial infections.	1808	4-857		
 	Body:rabid.A	Suffering from rabies.	2203			
 	Body:rabies.N	A viral disease that causes acute inflammation of the brain in humans and other warm-blooded animals.	2206			
 	Body:recover.V	To return to health and strength after illness.	1978		genesen::V	
 	Body:refreshed.A	refreshed, perky 				651
 	Body:rest.V	To cease working, moving or thinking for some time in order to relieve fatigue.	168	4-912	sich erholen::V	
-	Body:rib.N	One of the long curved bones which form the rib cage.	801	4-162		
-	Body:right hand.N	The right hand of a human.	2183			
 	Body:ringworm.N	Dermatophytosis, fungal skin infection making round patches on the skin.	3171			
 	Body:run.V	run 				702
-	Body:saliva.N	A secretion from the salivary glands (found in the mouth) that can be spat out.	1503			
-	Body:scab.N	A hard coating on the skin formed during the wound healing reconstruction phase.	2664			
 	Body:scabies.N	A contagious skin rash caused by the mite Sarcoptes scabiei.	3172			
 	Body:scald (burn oneself with liquid).V	To cause an injury by contact with steam or hot liquid.	3383			
-	Body:scar.N	A permanent mark on the skin resulting from a wound.	497	4-858		
 	Body:scratch.V	To rub or scrape (a part of the body) with a sharp object (e.g. to relieve an itching).	1436	4-8541		
-	Body:scrotum.N	Anatomical male reproductive structure.	2834			
-	Body:semen.N	An organic fluid that may contain spermatozoa. It is secreted by the gonads (sexual glands) and other sexual organs of male or hermaphroditic animals and can fertilize female ova.	2283			
 	Body:sex.N	sex (male or female status), gender				610
 	Body:shave.V	shave (scrape off beard-hairs with a blade) 				771
-	Body:shell.N	shell (of snail, clam, tortoise etc.)				591
-	Body:shin.N	The front part of the leg below the knee.	186			
-	Body:shit (defecate).V	To excrete faeces from one's body through the anus.	676	4-66		
 	Body:shiver.V	To shake nervously, as if from fear.	52	4-68	zittern::V	
-	Body:shoulder.N	One side of the top of the torso, where an arm attaches or joins.	1482	4-3	Schulter::N	
-	Body:shoulder.N	shoulder				530
 	Body:shoulderblade.N	A large flat bone located at the back of each shoulder.	172	4-301		
 	Body:sick.A	Whose health is altered.	1847	4-84	krank::A	
 	Body:sick.A	sick, ill 				631
-	Body:side (body).N	The side of the body.	3344			
 	Body:sit.V	sit (be in a sitting position) 				733
-	Body:skeleton.N	The body part that forms the supporting structure inside of the human body or the body of animals.	2668			
-	Body:skeleton.N	skeleton				561
-	Body:skin (human).N	The outer tissue of human beings.	2613			
-	Body:skin.N	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.	763	4-12	Haut::N	
-	Body:skin.N	skin				580
 	Body:skinny.A	skinny, thin (bodily) 				641
-	Body:skull.N	The main bone of the head; the cranium.	1605	4-202		
 	Body:sleep.V	To rest in a state of decreased consciousness and reduced metabolism.	1585	4-61	schlafen::V	
 	Body:sleep.V	sleep 				660
 	Body:sleepy.A	Feeling tired and willing to go to sleep.	3620			
@@ -1789,14 +1744,7 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Body:sneeze.V	To expel air rapidly as a reflex, usually induced by an irritation in the nose.	1621	4-54		
 	Body:sneeze.V	sneeze 				711
 	Body:snore.V	To make a noise during sleep by vibration of soft respiratory tissues (soft palate, base of the tongue and pharyngeal walls), particularly during inhalation.	1983	4-612		
-	Body:sole (foot).N	The bottom of the foot.	2666			
 	Body:sore.N	An injured, infected, inflamed or diseased patch of skin.	51			
-	Body:sperm.N	Men's semen.	1505			
-	Body:spine.N	The body part that consists of a row of vertebrae, that support the head and torso and that forms a canal for nerves.	805	4-191		
-	Body:spine.N	spine, backbone				562
-	Body:spit.V	To forcefully evacuate saliva from the mouth.	1440	4-56		
-	Body:spit.V	spit 				723
-	Body:spleen.N	A ductless vascular gland, located in the left upper abdomen near the stomach.	1744	4-452		
 	Body:squat.V	squat 				735
 	Body:squint-eyed.A	Directed to one side with or as if with doubt or suspicion (used especially of glances).	87			
 	Body:stab to death.V	To kill by stabbing with a knife.	3189	9-223		
@@ -1804,79 +1752,29 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Body:starve.V	starve (die from lack of food) 				792
 	Body:sting.V	To hurt, usually by introducing poison or a sharp point, or both.	571		stechen::V	
 	Body:stinger.N	The pointed stinging organ of an animal, usually an insect, which is able to penetrate skin. Sometimes used to inject poison.	3798			
-	Body:stomach.N	An organ in the body, involved in digestion of food.	819	4-46	Magen::N	
-	Body:stomach.N	stomach				581
 	Body:strength.N	Muscular capacity to modify the speed of an external physical object, to deform it or to oppose another force.	202		Stärke::N	
 	Body:strong.A	Capable of producing great physical force.	785	4-81	stark::A	
 	Body:suffer.V	To physically feel a damage, a pain, a disease or a punishment.	1101			
 	Body:sunbathe.V	Sit or lie in the sun in order to tan the skin.	3131			
 	Body:swallow.V	swallow 				724
-	Body:sweat (perspire).V	To secrete sweat.	126	4-55		
-	Body:sweat (substance).N	A fluid that is secreted by sweat glands in the skin in order to regulate body temperature.	125			
-	Body:sweat.N	sweat, perspiration				567
 	Body:swelling.N	Abnormal protuberance or localized enlargement.	1903	4-853		
 	Body:swim.V	swim 				706
-	Body:tail.N	The appendage of an animal that is attached to its posterior and near the anus.	1220	4-18	Schwanz::N	
-	Body:tail.N	tail				594
-	Body:tear.N	tear, teardrop				568
-	Body:temples.N	The region of the skull on either side of the forehead.	1604	4-201		
-	Body:tendon.N	Tissue that connects muscle to bone.	1137	4-465	Sehne::N	
-	Body:testicle.N	testicle				556
-	Body:testicles.N	The male sex gland that produces sperm and male hormones, found in some types of animals and humans.	797	4-49		
-	Body:thigh.N	The area between the pelvis and buttocks and the knee.	800			
-	Body:throat.N	The front part of the neck.	1346	4-29	Kehle::N	
-	Body:throat.N	throat				525
 	Body:throw.V	throw 				753
-	Body:thumb.N	The shortest and thickest of the fingers that can be placed against the others in order to create a firm grip.	1781	4-342		
-	Body:thumb.N	thumb				536
 	Body:tickle (somebody).V	To move your fingers lightly on a sensitive part of somebody's body to make them feel uncomfortable and cause them to laugh.	3647			
 	Body:tinea.N	Dermatophytosis, fungal skin infection making white spots/non-symmetrical white patches on the skin.	3173			
-	Body:tip (of tongue).N	The front part of the tongue.	443			
 	Body:tired.A	In need of some rest or sleep, due to lack of sleep or as a result of hard work or physical activity.	1757	4-91		
 	Body:tired.A	tired, weary 				650
-	Body:toe.N	One of the extremities of the foot.	1389	4-38	Zeh::N	
-	Body:toe.N	toe				543
 	Body:toenail.N	The hard keratin substance covering the tips of the feet of human beings.	2662			
-	Body:tongue.N	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.	1205	4-26	Zunge::N	
-	Body:tongue.N	tongue				523
-	Body:tooth.N	A hard, calcareous structure present in the mouth of many vertebrate animals (including humans), generally used for eating.	1380	4-27	Zahn::N	
-	Body:tooth.N	tooth				524
-	Body:torso.N	The central part of the human body, from which neck and limbs extend.	2667			
 	Body:touch.V	touch 				750
-	Body:udder.N	An organ in female quadruped mammals which consists of mammary glands and has several teats.	154	4-42		
-	Body:ulcer.N	An open sore of the skin, eyes or mucous membrane, often caused by an initial abrasion and generally maintained by an inflammation and/or an infection.	1189			
-	Body:umbilical cord.N	A conduit between the developing embryo or fetus and the placenta.	2663			
-	Body:upper arm.N	The part of the arm between the shoulder and the elbow.	431			
-	Body:upper back.N	The upper part of the back.	445			
-	Body:upper leg (thigh).N	The part of the leg between the pelvis and the knee.	471	4-351	Oberschenkel::N	
-	Body:urine.N	Liquid excrement consisting of water, salts and urea, which is made in the kidneys, stored in the bladder, then released through the urethra.	1142			
-	Body:urine.N	urine				569
-	Body:uvula.N	A conic projection from the posterior edge of the middle of the soft palate.	2293			
-	Body:vagina.N	The lower part of the female reproductive tract; a moist canal in female mammals (including humans) extending from the labia minora to the uterus.	1836	4-493		
-	Body:vagina.N	vagina				554
-	Body:vein.N	A blood vessel that transports blood from the capillaries back to the heart.	1924		Ader::N	
-	Body:vein.N	vein				582
+	Body:vein.N	A blood vessel that transports blood from the capillaries back to the heart.	1924		Ader::N	582
 	Body:vomit.V	To regurgitate the contents of the stomach.	1278	4-57		
 	Body:vomit.V	vomit 				725
-	Body:vulva.N	The external parts of the female genitalia, in human beings this consists of the labia, clitoris, opening of the urethra (meatus), and the opening of the vagina.	1837	4-494		
-	Body:waist.N	In human beings, the part between the thorax and hips.	1681	4-462		
-	Body:waist.N	waist				551
 	Body:wake up (someone).V	Rouse from sleep.	3174		wecken::V	
 	Body:wake up.V	To stop sleeping.	1602	4-63	aufwachen::V	
 	Body:wake up.V	wake up (become awake) 				665
 	Body:walk.V	walk 				701
 	Body:wart.N	Typically small, rough, and hard growths that are similar in color to the rest of the skin.	2665			
 	Body:weak.A	Lacking in force or ability.	1601	4-82	schwach::A	
-	Body:wing.N	The appendage of an animal's (bird, bat, insect) body that enables it to fly in the air.	1257	4-392	Flügel::N	
-	Body:wing.N	wing (of bird etc.)				595
-	Body:womb.N	The major female reproductive organ of most mammals, including humans. It is a large muscle enveloping the phoetus during pregnancy.	804	4-47		
-	Body:wound.N	A type of injury in which in skin or tisue is torn, cut,  punctured or otherwise hurt.	1109	4-85	Wunde::N	
-	Body:wound.N	wound				632
-	Body:wrestle.V	wrestle 				783
-	Body:wrinkle.N	A fold, ridge or crease in the skin.	2294			
-	Body:wrist.N	The flexible and narrower connection between the forearm and the hand.	799	4-321		
-	Body:wrist.N	wrist				533
-	Body:yawn.V	To open the mouth widely and take a long, deep breath because of tiredness or boredom.	1028	4-52		
 	Building:attic.N	attic, garret				1531
 	Building:bank.N	bank (monetary institution)				1560
 	Building:bar.N	bar (where alcoholic drinks are served), pub				1573
@@ -2273,7 +2171,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Combat/Hunting:crossbow.N	A weapon based on the bow, consisting of a bow mounted on a stock.	3193			
 	Combat/Hunting:defeat.N	An end to a struggle or contest that did not end in success.	782	20-42		
 	Combat/Hunting:defend.V	To keep something or someone safe or prevent harm coming to someone or something.	1330	20-44	verteidigen::V	
-	Combat/Hunting:fight.V	To be involved in a physical confrontation.	1423	20-11		
 	Combat/Hunting:fish trap.N	A contraption made of wires, rods, fishing-net or other suitable materials with the purpose of catching fish alive.	389	20-55		
 	Combat/Hunting:fisherman.N	A person whose profession is catching fish.	1858	20-51		
 	Combat/Hunting:fishhook.N	A metal hook for catching fish.	1074	20-52		
@@ -2289,9 +2186,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Combat/Hunting:harness (armour).N	A specific suit that protects people who fight.	2552			
 	Combat/Hunting:helmet.N	Any of various forms of protective head covering worn e.g.  by soldiers, firefighters, divers, cyclists, etc.	1680	20-33		
 	Combat/Hunting:hook.N	A rod bent into a curved shape, for catching, holding, or sustaining anything.	1071	12-75	Haken::N	
-	Combat/Hunting:hunt.V	To chase down prey and (usually) kill it.	1435	20-61	jagen::V	
-	Combat/Hunting:hunter.N	A person who hunts game.	1053			
-	Combat/Hunting:hunting dog.N	A type of canine bred for hunting or a dog trained to assist humans with hunting.	3380			
 	Combat/Hunting:peace.N	A state free of war, in particular war between different countries.	1338	20-14		
 	Combat/Hunting:pistol.N	A handgun with the chamber integral to its gun barrel.	3881			
 	Combat/Hunting:prisoner.N	A person confined in a prison, while on trial or serving a sentence.	1072	20-47		
@@ -4079,7 +3973,7 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Motion:creep.V	To move with one's belly touching the ground.	3215		kriechen::V	
 	Motion:crouch.V	To lower one's body close to the ground by bending one's knees completely.	296	10-413		
 	Motion:dance (movement).N	A series of rhythmic movements performed to music.	3472			
-	Motion:dance.V	To move with rhythmic steps or movements, especially in time to music.	1879	10-44	tanzen::V	
+	Motion:dance.V	To move with rhythmic steps or movements, especially in time to music.	1879	10-44	tanzen::V	746
 	Motion:dash (of vehicle).V	To move quickly (of a vehicle).	2863		sausen::V	
 	Motion:disappear.V	To cease to appear, to not be visible anymore.	485	10-491	verschwinden::V	
 	Motion:dispel.V	Force to go away.	30			
@@ -4435,8 +4329,7 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Nature:shore.N	The margin or shore of a river, lake, or ocean.	113	1-27		
 	Nature:shrink.V	To decrease in size, range, or extent.	54			
 	Nature:skunk.N	Mammals of the family Mephitidae, typically found in North and South America. These animals are known for their ability to spray attackers with a strong-smelling liquid.	3888			
-	Nature:sky.N	The part of the earth's atmosphere and space outside it that is visible from earth's surface. During the day it is perceived as blue, and at night as black.	1732	1-51	Himmel::N	
-	Nature:sky.N	sky				1112
+	Nature:sky.N	The part of the earth's atmosphere and space outside it that is visible from earth's surface. During the day it is perceived as blue, and at night as black.	1732	1-51	Himmel::N	1112
 	Nature:slope.N	A stretch of ground forming a geological incline, e.g. a hillside.	3076		Abhang::N	
 	Nature:smoke (exhaust).N	An aerosol, consisting of visible particles and gases, produced by the incomplete burning of carbon-based materials, such as wood and fossil fuels.	778	1-83	Rauch::N	
 	Nature:snow or ice.N	Referring to frozen water irrespective of its exact nature, e.g. falling from the sky or being frozen on the ground.	3322			
@@ -4509,27 +4402,12 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Nature:windy.A	When there is a lot of wind.	3758			
 	Nature:wood.N	The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.	1803	1-43	Holz::N	
 	Nature:woods.N	A vegetation community dominated by trees and other woody shrubs, growing close enough together that the tree tops touch or overlap, creating various degrees of shade on the forest floor.	2311			
-	Nature:world.N	The Earth with all its inhabitants and all things upon it.	965	1-1	Welt::N	
-	Nature:world.N	world				1101
-	Number:eight.NUM	eight 				2508
+	Nature:world.N	The Earth with all its inhabitants and all things upon it.	965	1-1	Welt::N	1101
 	Number:first.NUM	first 				2541
-	Number:five.NUM	five 				2505
-	Number:four.NUM	four 				2504
 	Number:half.NUM	half (1/2) 				2530
-	Number:hundred.NUM	hundred 				2515
-	Number:million.NUM	million 				2525
-	Number:nine.NUM	nine 				2509
 	Number:once.ADV	once (occurring one time; for one iteration) 				2551
-	Number:one.NUM	one 				2501
 	Number:second.NUM	second 				2542
-	Number:seven.NUM	seven 				2507
-	Number:six.NUM	six 				2506
-	Number:ten.NUM	ten 				2510
-	Number:thousand.NUM	thousand 				2520
-	Number:three.NUM	three 				2503
 	Number:twice.ADV	twice (happening two times; for two iterations) 				2552
-	Number:two.NUM	two 				2502
-	Number:zero.NUM	zero 				2500
 	People:adult.N	adult				312
 	People:ambassador.N	ambassador				398
 	People:aunt.N	aunt				345
@@ -5247,7 +5125,6 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 	Space:end (of space).N	Extreme part.	742	12-35	Ende::N	
 	Space:everywhere.?	In all places.	2999		überall::ADV	
 	Space:far.A	Having a large intervening distance with regard to something.	1406	12-44	fern::A	
-	Space:fat (obese).A	Carrying a larger-than-normal amount of fat or weight.	1279		fett::A	
 	Space:fathom.N	A linear unit of measurement, equal to 6 feet, for water depth.	81	12-541		
 	Space:fine or thin.A	Of a substance: divided into or consisting of very small pieces.	2157		fein::A	
 	Space:flat.A	Having no variations in altitude.	1633	12-71	flach::A	
