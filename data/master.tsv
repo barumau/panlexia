@@ -28,14 +28,21 @@ Animal:Equus ferus caballus.N	Animal:horse.N	A large animal with four legs of th
 Animal:Felis catus.N	Animal:cat.N	A common four-legged animal (Felis silvestris) that is often kept as a household pet.	1208	3-62	Katze::N	977
 Animal:Felis leo.N	Animal:lion.N	A large cat (Panthera leo) that is native to Africa, Asia and formerly much of Europe.	1386	3-72		962
 Animal:Felis tigris.N	Animal:tiger.N	A large carnivorous animal (Panthera tigris) of the cat family indigenous to Asia.	846			963
+Animal:female in general.A	Animal:female.A	Of, relating to, or denoting the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	1551			
+Animal:female.A	Animal:female (of animal).A	Relating to the female sex of animals (adjective).	2262	3-13		
+Animal:female.N	Animal:female animal.N	A female animal (Noun)	3923			
 Animal:fish.N	Animal:fish.N	A cold-blooded vertebrate animal that lives in water that moves with the help of fins and breathes using gills (Pisces).	227	3-65	Fisch::N	940
 Animal:Formicidae.N	Animal:ant.N	Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies.	587	3-817	Ameise::N	910
 Animal:Gallus gallus domesticus.N	Animal:chicken.N	A type of domesticated bird from the order of Galliformes which is often raised as a type of poultry (Gallus gallus domesticus).	1318	3-55	Huhn::N	981
 Animal:Grylloidea.N	Animal:cricket.N	Insects related to grasshoppers.	2354			912
+Animal:Homo sapiens.N	Family:person.N	A human being, any living member of Homo sapiens.	683	2-1	Mensch::N	301
 Animal:Insecta.N	Animal:insect.N	A class of the Arthropoda typically having a segmented body with an external chitinous covering, a pair of compound eyes, a pair of antennae, three pairs of mouthparts, and two pairs of wings.	620	3-81		905
 Animal:Lacertidae.N	Animal:lizard.N	Any reptile of the suborder Lacertilia, especially those of the family Lacertidae, typically having an elongated body, four limbs, and a small tail: includes the gechos, iguanas, chameleons, monitors, and slow worms.	632	3-96		930
 Animal:Lampyridae.N	Animal:firefly.N	A nocturnal, bioluminescent beetle of the family Lampyridae.	206	3-91		922
 Animal:Leporidae.N	Animal:rabbit.N	One of several small mammals of the family Leporidae, with long ears, long hind legs and a short, fluffy tail.	1136	3-614		967
+Animal:male in general.A	Family:male.A	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.	1553			
+Animal:male.A	Animal:male (of animal).A	Relating to the male sex of animals.	2263	3-12		
+Animal:male.N	Animal:male animal.N	A male animal (Noun)	3924			
 Animal:Mantodea.N	Animal:mantis.N	A predatory insect of the order Mantodea; mantid; praying mantis.	3279			914
 Animal:Meleagris gallopavo.N	Animal:turkey.N	A large bird from the family of Phasanidae.	2386			983
 Animal:mouse.N	Animal:mouse.N	Any of numerous small rodents of the genus ''mus'' or various related genera of the ''Muridæ'' family characterised by a long hairless tail, rounded ears, and a pointed nose.	1491		Maus::N	971
@@ -104,12 +111,15 @@ Body:ankle.N	Body:ankle.N	A joint formed where the foot and the leg meet.	803	4-
 Body:anus.N	Body:anus.N	The lower opening of the digestive tract, through which faeces pass.	1935			558
 Body:arm or hand.N	Body:arm or hand.N	Extremities emerging from the upper part of the human body.	2121			
 Body:arm.N	Body:arm.N	The upper limb, extending from the shoulder to the wrist and sometimes including the hand.	1673	4-31	Arm::N	531
+Body:armpit.N	Body:armpit.N	The hollow under the upper part of the arm at the shoulder.	1886	4-312		
 Body:artery.N	Body:artery.N	A blood vessel transporting blood away from the heart.	1925			
 Body:back.N	Body:back.N	The rear of body, especially the part between the neck and the end of the spine and opposite the chest and belly.	1291	4-19	Rücken::N	503
 Body:bald.A	Body:bald.A	Without hair on the head.	1125	4-93		
 Body:beak.N	Body:beak.N	External anatomical structure of birds which is used for taking food and for eating.	73	4-241		
 Body:beard.N	Body:beard.N	Facial hair of humans on the chin, cheeks and jaw.	678	4-142	Bart::N	519
+Body:belly or stomach.N	Body:belly or stomach.N	The lower part of the front of the torso, including the interior part below.	2114			
 Body:belly.N	Body:belly.N	The lower part of the front of the torso (or a comparable part of an animal), confined by the upper side by the midriff and the lowerside by the pelvis. Contains the intestines.	1251	4-431	Bauch::N	
+Body:bellybutton.N	Body:bellybutton.N	The middle of the belly where the umbilical cord has grown in the womb during pregnancy.	3715			
 Body:bile.N	Body:bile.N	A bitter brownish-yellow or greenish-yellow secretion produced by the liver, stored in the gallbladder, and discharged into the duodenum where it aids the process of digestion.	1780			
 Body:bladder.N	Body:bladder.N	A hollow muscular balloon-shaped organ that stores urine until it is excreted from the body.	1746			
 Body:bleed.V	Body:bleed.V	To lose blood because of a disease or an injury.	3615			
@@ -122,6 +132,8 @@ Body:body.N	Body:body.N	The physical structure of a human or animal.	1480	4-11	K
 Body:boil.N	Body:boil.N	A painful, local inflammation of the skin, caused by infection of a hair follicle. Usually, a hard core and pus are present.	793	4-856		
 Body:bone.N	Body:bone.N	Any of the components of an endoskeleton, consisting mainly of calcium phosphate, collagen and cells.	1394	4-16	Knochen::N	560
 Body:brain.N	Body:brain.N	The organ of the central nervous system of an animal or human located in the skull that controls the actions and thoughts of the animal or human.	1583	4-203	Gehirn::N	571
+Body:breast milk.N	Body:breast milk.N	The milk of humans.	3912			
+Body:breast or milk.N	Body:breast or milk.N	Either the organ of females which gives nourishing substance for newborns, or the substance itself.	2129			
 Body:breast.N	Body:breast.N	The fleshy organ on the chest of a sexually mature human female containing mammary glands.	1402	4-41	Busen::N	550
 Body:breastbone.N	Body:breastbone.N	Long flat bone located in the center of the chest.	2810			
 Body:breath.N	Body:breath.N	The air inhaled and exhaled through the lungs.	870		Atem::N	
@@ -134,6 +146,7 @@ Body:carcass.N	Body:carcass.N	The body of a dead animal, on which other animals 
 Body:cheek.N	Body:cheek.N	The soft skin on each side of the face, between the eyes and the chin; the outer surface of the sides of the oral cavity.	1730	4-208	Wange::N	512
 Body:chest.N	Body:chest.N	The portion of the body from the base of the neck to the top of the abdomen; the thorax.	1592	4-4	Brust::N	504
 Body:chin.N	Body:chin.N	The bottom of the face, below the mouth.	1510	4-209	Kinn::N	513
+Body:claw or nail.N	Body:claw or nail.N	The hard, keratin part growing at the feet of animals or the hands and legs of humans.	2128			
 Body:clitoris.N	Body:clitoris.N	A part of the female genitalia located at the front of the vulva, consisting of a sensitive erectile body.	3257			
 Body:close eyes.V	Motion:close the eyes.V	To shut down the eyes such that one cannot see anything anymore.	2211			
 Body:close mouth.V	Body:close (mouth).V	To close one's mouth.	3547			
@@ -178,6 +191,7 @@ Body:guts.N	Body:guts.N	The internal organs of an animal or human.	1334
 Body:hair.N	Body:hair.N	The hair on humans, usually on the head but also including the hair on the body.	1040		Haar::N	
 Body:hand.N	Body:hand.N	That part of the fore limb below the forearm or wrist in primates (including humans).	1277	4-33	Hand::N	534
 Body:head hair.N	Body:hair (head).N	The hair on the head of humans (rather than the hair in general or the hair on the body).	2648	4-14		518
+Body:head.N	Body:head.N	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	1256	4-2	Kopf::N	501
 Body:heart.N	Body:heart.N	A muscular organ that pumps blood through the body.	1223	4-44	Herz::N	572
 Body:heel.N	Body:heel.N	The part of the human foot on the backside where it becomes the leg.	980	4-372	Ferse::N	544
 Body:hip.N	Body:hip.N	The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.	1745	4-463		552
@@ -218,6 +232,7 @@ Body:nipple.N	Body:nipple.N	The projection of a mammary gland from which, on fem
 Body:nose.N	Body:nose.N	The organ of the face used to breath and smell.	1221	4-23	Nase::N	520
 Body:nostril.N	Body:nostril.N	Either of the two orifices located on the nose (or on the beak of a bird); used as a passage for air and other gases to travel the nasal passages.	1178	4-231		
 Body:obese.A	Space:fat (obese).A	Carrying a larger-than-normal amount of fat or weight.	1279		fett::A	640
+Body:organ.N	Body:organ.N	organ (of body)				570
 Body:ovary.N	Body:ovary.N	The female sex organ which is often paired and produces eggs for procreation.	3716			
 Body:palate.N	Body:palate.N	The palate is the roof of the mouth in humans and other mammals.	540			
 Body:palm.N	Body:palm of hand.N	The inner and somewhat concave part of the human hand that extends from the wrist to the bases of the fingers.	1183	4-331	Handfläche::N	539
@@ -263,6 +278,7 @@ Body:thigh.N	Body:thigh.N	The area between the pelvis and buttocks and the knee.
 Body:throat.N	Body:throat.N	The front part of the neck.	1346	4-29	Kehle::N	525
 Body:thumb.N	Body:thumb.N	The shortest and thickest of the fingers that can be placed against the others in order to create a firm grip.	1781	4-342		536
 Body:toe.N	Body:toe.N	One of the extremities of the foot.	1389	4-38	Zeh::N	543
+Body:toenail.N	Body:toenail.N	The hard keratin substance covering the tips of the feet of human beings.	2662			
 Body:tongue tip.N	Body:tip (of tongue).N	The front part of the tongue.	443			
 Body:tongue.N	Body:tongue.N	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.	1205	4-26	Zunge::N	523
 Body:tooth.N	Body:tooth.N	A hard, calcareous structure present in the mouth of many vertebrate animals (including humans), generally used for eating.	1380	4-27	Zahn::N	524
@@ -275,8 +291,10 @@ Body:upper back.N	Body:upper back.N	The upper part of the back.	445
 Body:upper leg.N	Body:upper leg (thigh).N	The part of the leg between the pelvis and the knee.	471	4-351	Oberschenkel::N	
 Body:uvula.N	Body:uvula.N	A conic projection from the posterior edge of the middle of the soft palate.	2293			
 Body:vagina.N	Body:vagina.N	The lower part of the female reproductive tract; a moist canal in female mammals (including humans) extending from the labia minora to the uterus.	1836	4-493		554
+Body:vein.N	Body:vein.N	A blood vessel that transports blood from the capillaries back to the heart.	1924		Ader::N	582
 Body:vulva.N	Body:vulva.N	The external parts of the female genitalia, in human beings this consists of the labia, clitoris, opening of the urethra (meatus), and the opening of the vagina.	1837	4-494		
 Body:waist.N	Body:waist.N	In human beings, the part between the thorax and hips.	1681	4-462		551
+Body:wart.N	Body:wart.N	Typically small, rough, and hard growths that are similar in color to the rest of the skin.	2665			
 Body:wing.N	Body:wing.N	The appendage of an animal's (bird, bat, insect) body that enables it to fly in the air.	1257	4-392	Flügel::N	595
 Body:womb.N	Body:womb.N	The major female reproductive organ of most mammals, including humans. It is a large muscle enveloping the phoetus during pregnancy.	804	4-47		
 Body:wound.N	Body:wound.N	A type of injury in which in skin or tisue is torn, cut,  punctured or otherwise hurt.	1109	4-85	Wunde::N	632
@@ -334,9 +352,19 @@ Building:windmill.N	Action/Technology:windmill.N	A large structure or building w
 Building:window.N	Building:window.N	An opening, usually covered by one or more panes of clear glass, to allow light from outside to enter a building or vehicle.	1375	7-25	Fenster::N	1514
 Building:yard.N	Building:yard.N	A small, usually uncultivated area adjoining or within the precincts of a house or other building.	736	7-15		
 Clothing:naked.A	Body:naked.A	Without clothing.	590	4-99	nackt::A	645
+Combat:bomb.N	Modernity:bomb.N	A device filled with explosives used for destroying things.	1804	23-575		
 Combat:fight.N	Action/Technology:fight (combat).N	A hostile encounter, such as a battle or combat.	3880		Kampf::N	
 Combat:fight.V	Combat/Hunting:fight.V	To be involved in a physical confrontation.	1423	20-11		782
 Combat:wrestle.V	Body:wrestle.V	wrestle 				783
+Cosmos:Milky Way.N	Nature:milky way.N	The galaxy that contains our Solar System. Its name milky is derived from its appearance as a dim glowing band arching across the night sky in which the naked eye cannot distinguish individual stars.	2289			1138
+Cosmos:moon.N	Nature:moon.N	A natural satellite of a planet.	1313	1-53	Mond::N	1126
+Cosmos:Orion.N	Nature:orion's constellation.N	A constellation of stars visible from around the world.	3945			
+Cosmos:Orion’s Belt.N	Nature:orion’s belt.N	A pattern of three stars in the constellation Orion.	3343			
+Cosmos:Polaris.N	Nature:polar star.N	Referring to Polaris or Alpha Ursae Minoris, a star aligned with earth’s axis of rotation and often used for navigation.	3339			
+Cosmos:star.N	Nature:star.N	A luminous celestial body that is made from gases (particularly hydrogen and helium) and forms the shape of a sphere.	1430	1-54	Stern::N	1131
+Cosmos:starlight.N	Nature:starlight.N	Light emitted by stars.	2836			
+Cosmos:Sun.N	Nature:sun.N	The particular star at the centre of our solar system, from which the Earth gets light and heat.	1343	1-52	Sonne::N	1133
+Cosmos:Ursa major.N	Nature:ursa major.N	A large group of stars in the shape of a bear visible on the northern hemisphere.	3342			
 Element:Ac.N		Actinium, the chemical element with atomic number 89 and symbol Ac.				
 Element:Ag.N	Action/Technology:silver.N	A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	759	9-65	Silber::N	3324
 Element:Al.N		Aluminium, the chemical element with atomic number 13 and symbol Al.				3329
@@ -455,6 +483,67 @@ Element:Y.N		Yttrium, the chemical element with atomic number 39 and symbol Y.
 Element:Yb.N		Ytterbium, the chemical element with atomic number 70 and symbol Yb.				
 Element:Zn.N		Zinc, the chemical element with atomic number 30 and symbol Zn.				
 Element:Zr.N		Zirconium, the chemical element with atomic number 40 and symbol Zr.				
+Family:ancestors.N	Family:ancestors.N	Person from whom a person is descended, whether on the father's or mother's side, at any number of generations.	1669	2-56		
+Family:aunt or uncle.N	Family:aunt or uncle.N	The brother or mother of someone’s father or mother.	2682			
+Family:aunt.N	Family:aunt.N	A woman with one or more siblings who have one or more children; a sister of someone's father or mother.	1272	2-52	Tante::N	345
+Family:bride.N	Family:bride.N	A woman who is going to get married or has just got married.	1266			
+Family:brother.N	Family:brother.N	A male person who has the same parents as another person.	1262	2-44	Bruder::N	354
+Family:child-in-law.N	Family:child-in-law.N	The spouse of someone's child.	1060	2-6411		
+Family:child.N	Family:child (descendant).N	Biological offspring.	1801	2-43		
+Family:co-wife.N	Family:co-wife.N	Another female partner in a polygamous marriage.	3636			
+Family:cousin.N	Family:cousin.N	The child of the sibling of a parent of a person.	1643	2-55		
+Family:daughter.N	Family:daughter.N	An animal's female offspring (including that of a human).	1357	2-42	Tochter::N	352
+Family:descendant.N	Family:descendants.N	One who is the progeny of someone at any distance of time.	490	2-57		
+Family:divorce.N	Family:divorce.N	Legal dissolution of a marriage.	1134	2-341		
+Family:divorce.V	Family:divorce (separate).V	To end one's marriage by a legal process.	3672			
+Family:family name.N	Family:surname.N	The family name of a person.	3426			
+Family:family.N	Family:family.N	A group comprising parents, offsprings and others closely related or associated with them.	194	2-82	Familie::N	320
+Family:father.N	Family:father.N	A male parent.	1217	2-35	Vater::N	322
+Family:grandchild.N	Family:grandchild.N	A child of someone’s child.	1617	2-5		
+Family:granddaughter.N	Family:granddaughter.N	A daughter of someone's child.	1619	2-49		
+Family:grandfather.N	Family:grandfather.N	The father of one of someone's parents.	1383	2-46	Großvater::N	330
+Family:grandmother.N	Family:grandmother.N	The mother of one of someone's parents.	1496	2-47	Großmutter::N	335
+Family:grandparent.N	Family:grandparent.N	Either the grandfather or the grandmother.	2399			
+Family:grandparents.N	Family:grandparents.N	The parents of someone's parent.	305	2-4711		
+Family:grandson.N	Family:grandson.N	A son of someone's child.	1618	2-48		
+Family:groom.N	Family:groom.N	A man who is going to get married or has just married.	3282			
+Family:husband.N	Family:husband.N	The male partner in a marriage.	1200	2-31	Ehemann::N	361
+Family:marriage or wedding.N	Family:marriage or wedding.N	The ceremony of marrying someone or the state of being married.	3182			
+Family:marriage.N	Family:marriage.N	Marriage, also called matrimony or wedlock, is a socially or ritually recognized union or legal contract between spouses that establishes rights and obligations between them, between them and their children, and between them and their in-laws.	2432			360
+Family:married man.N	Family:married man.N	A married man.	424	2-38		
+Family:married woman.N	Family:married woman.N	A married woman.	426	2-39		
+Family:marry off.V	Family:marry off.V	To force someone to get married, usually a relative.	556			
+Family:marry.V	Family:marry.V	To enter marriage; to take a husband or a wife.	203	2-33		
+Family:mother.N	Family:mother.N	A woman who has at least one child.	1216	2-36	Mutter::N	324
+Family:nephew or niece.N	Family:nephew or niece.N	A child of someone's brother or sister.	3890			
+Family:nephew.N	Family:nephew.N	A son of someone's brother or sister.	1063	2-53		
+Family:niece.N	Family:niece.N	A daughter of someone’s brother or sister.	1642	2-54		
+Family:older brother.N	Family:older brother.N	A male with more years of age than one or more of his siblings.	1759	2-444		
+Family:older sibling.N	Family:older sibling.N	A person who is born before another person who has the same parents.	405	2-4561		
+Family:older sister.N	Family:older sister.N	A female with more years of age than one or more of her siblings.	1758	2-454		
+Family:orphan.N	Family:orphan.N	A person one or both of whose parents have died, especially a minor.	1149	2-75		
+Family:parents.N	Family:parents.N	Father and mother of a child.	505	2-37	Eltern::N	
+Family:relatives.N	Family:relatives.N	A person that is considered to be of the same family due to shared ancestors, marriage or adoption.	1644	2-81		
+Family:sibling-in-law.N	Family:sibling-in-law.N	The husband of one's sister.	1832	2-6412		
+Family:sibling.N	Family:sibling.N	A person who has the same parents as another person.	1640	2-456		
+Family:sister.N	Family:sister.N	A female person who has the same parents as another person.	1263	2-45	Schwester::N	357
+Family:son.N	Family:son.N	One's male child.	1620	2-41	Sohn::N	350
+Family:spouse.N	Family:spouse.N	One of the partners in a marriage, be they male or female.	2514			
+Family:stepchild.N	Family:stepchild.N	The child of one's spouse and his or her previous partner.	3910			
+Family:stepdaughter.N	Family:stepdaughter.N	The daughter of one's spouse and his or her previous partner.	1058	2-74		
+Family:stepfather.N	Family:stepfather.N	The husband of one's biological mother, other than one's biological father.	237	2-71		
+Family:stepmother.N	Family:stepmother.N	The wife of one's biological father, other than one's biological mother.	236	2-72		
+Family:stepson.N	Family:stepson.N	The son of one's spouse and his or her previous partner.	1059	2-73		
+Family:uncle.N	Family:uncle.N	The brother of someone’s father or mother.	1327	2-51	Onkel::N	340
+Family:wedding.N	Family:wedding.N	A ceremony celebrating the beginning of a marriage, during which the marrying parties exchanges vows.	1259	2-34		
+Family:widow.N	Family:widow.N	A woman whose spouse has died.	1756	2-76		
+Family:widower.N	Family:widower.N	A man whose spouse has died.	1981	2-77		
+Family:wife.N	Family:wife.N	The female partner in a marriage.	1199	2-32	Ehefrau::N	362
+Family:younger brother.N	Family:younger brother.N	A male with fewer years of age than one or more of his siblings.	1760	2-445		
+Family:younger sibling.N	Family:younger sibling.N	A person who is born after another person who has the same parents.	427	2-4562		
+Family:younger sister.N	Family:younger sister.N	A female who is younger than one or more of her siblings.	1761	2-455		
+Food:candy.N	Modernity:candy.N	Food item that is rich in sugar.	874	23-565		
+Food:tea.N	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.	1373	23-9	Tee::N	
 Hunting:hunt.V	Combat/Hunting:hunt.V	To chase down prey and (usually) kill it.	1435	20-61	jagen::V	781
 Hunting:hunter.N	Combat/Hunting:hunter.N	A person who hunts game.	1053			
 Hunting:hunting dog.N	Combat/Hunting:hunting dog.N	A type of canine bred for hunting or a dog trained to assist humans with hunting.	3380			
@@ -479,6 +568,48 @@ Motion:lift.V	Motion:lift.V	To cause an object to have a higher location than pr
 Motion:raise.V	Motion:raise.V	To cause to rise; to move something from a lower position to a higher one.	1317		heben::V	
 Motion:ride.V	Motion:ride.V	To transport oneself by sitting on and directing an animal.	367	10-66		3048
 Music:accordion.N	Modernity:accordion.N	A musical instrument.	2603			
+Music:erhu.N	Modernity:erhu.N	A two-stringed fiddle common in Eastern Asia; Chinese violin, Chinese two-stringed fiddle.	3052			
+Music:gong.N	Modernity:gong.N	An African, East and South East Asian musical percussion instrument that takes the form of a flat, circular metal disc which is hit with a mallet.	2502			
+Music:government.N	Modernity:government.N	A body that has the authority to make and the power to enforce laws within a civil, corporate, religious, academic, or other organization or group.	815	23-3		
+Music:harmonica.N	Modernity:harmonica.N	A mouth organ (musical instrument).	2590			
+Music:harp.N	Modernity:harp.N	A string musical instrument.	2597			
+Music:mouth harp.N	Modernity:mouth harp.N	Lamellophone instrument consisting of a tongue or reed attached to a frame, placed in the performer's mouth and plucked; Jew's harp, jaw harp.	3048			
+Music:reed pipe.N	Modernity:reed pipe.N	Organ pipe that is sounded by a vibrating a metal tongue which rests against a tunnel.	3051			
+Music:song.N	Modernity:song.N	A musical piece with lyrics (or words to sing); prose that one can sing.	1096	23-64	Lied::N	
+People:adult.N	Family:adult.N	A fully grown and mature person.	3635			312
+People:baby.N	Family:baby.N	A very young human being, from birth to a year old.	1289	2-28		303
+People:bad person.N	Family:bad person.N	A person with an evil character.	2197			
+People:bastard.N	Family:bastard.N	A child born of parents not married to each other.	1947			
+People:black man.N	Family:black man.N	Term used to describe men who are perceived to be dark-skinned.	2806			
+People:black woman.N	Family:black woman.N	Term used to describe women who are perceived to be dark-skinned.	2807			
+People:blind person.N	Family:blind person.N	Person who has a complete lack of form and visual light perception.	457			
+People:boy or son.N	Family:boy or son.N	Either a son or a boy.	2391			
+People:boy.N	Family:boy.N	A young male person, usually a child or teenager.	1366	2-25	Junge::N	307
+People:brave person.N	Family:brave person.N	A person with a brave character.	2226			
+People:chatterer.N	Family:chatterer.N	A person who talks a lot.	2207			
+People:child or offspring.N	Family:child.N	A young human or the descendant of a human.	2099			
+People:child.N	Family:child (young human).N	A person below the age of puberty.	1304	2-27	Kind::N	305
+People:daughter or girl.N	Family:daughter or girl.N	Either a daughter or a girl.	2392			
+People:deaf person.N	Family:deaf person.N	Person who is  partial or total unable to hear.	458			
+People:female.A	Family:female (of person).A	Relating to the female sex of humans.	2260	2-24		612
+People:female.N	Family:female person.N	A human belonging to the female sex.	2105			
+People:girl.N	Family:girl.N	A young female person, usually a child or teenager.	1646	2-26	Mädchen::N	309
+People:guest or stranger.N	Family:guest or stranger.N	Either a guest or a stranger.	2908			
+People:husband or man.N	Family:husband or male person.N	Either the male partner in a marriage or a male person.	2646			
+People:male.A	Family:male (of person).A	Relating to the male sex of humans.	2261	2-23		614
+People:man or person.N	Family:man or person.N	Either a man or a person (in general).	2645			
+People:man.N	Family:man.N	An adult human member of the sex that begets young by fertilizing ova.	1554	2-21	Mann::N	314
+People:old man.N	Family:old man.N	A male person who is old of age.	406	2-461		
+People:old person.N	Family:old person.N	An older person (usually considered to be above the age of 60).	725			
+People:old woman.N	Family:old woman.N	An old woman.	907	2-471		
+People:people.N	Family:people or person.N	Either multiple human beings or one human being.	2661		Leute::N	
+People:twins.N	Family:twins.N	A case of multiple birth in which the mother gives birth to two offspring from the same pregnancy.	1005	2-458		
+People:virgin.N	Family:virgin.N	A person who has never engaged in sexual intercourse.	2298			
+People:white man.N	Family:white man.N	Term used to describe men who are perceived to be light-skinned.	2839			
+People:white woman.N	Family:white woman.N	Term used to describe women who are perceived to be light-skinned.	2840			
+People:woman.N	Family:woman.N	An adult human member of the sex that produces ova and bears young.	962	2-22	Frau::N	316
+People:young man.N	Family:young man.N	A male juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.	76	2-251		
+People:young woman.N	Family:young woman.N	A female juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.	77	2-261		
 Quantity:0.NUM	Quantity:zero.NUM	The integer zero (0).	1294	13		2500
 Quantity:1.NUM	Quantity:one.NUM	The natural number one (1).	1493	13-01	eins::NUM	2501
 Quantity:10.NUM	Quantity:ten.NUM	The natural number ten (10).	1515	13-1	zehn::NUM	2510
@@ -1405,13 +1536,10 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Animal:emu.N	Second-largest living bird by height.	2817			
 	Animal:ewe.N	A female sheep.	1345	3-28		
 	Animal:falcon.N	A bird of prey of genus Falco, which kill preys with its beak (unlike Accipitridae as eagles and hawks, which kill with its feet).	3258			
-	Animal:female (of animal).A	Relating to the female sex of animals (adjective).	2262	3-13		
-	Animal:female animal.N	A female animal (Noun)	3923			
 	Animal:female dog.N	A female dog.	2481			
 	Animal:female goat.N	A female goat.	2476			
 	Animal:female pig.N	A female pig.	2488			
 	Animal:female yak.N	A female yak.	2479			
-	Animal:female.A	Of, relating to, or denoting the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	1551			
 	Animal:fin.N	An appendage of a fish used for swimming.	213	3-652		
 	Animal:finch.N	A bird with a conical beak of the family Fringillidae.	3721			
 	Animal:flamingo.N	A bird with deep pink colored feathers of the family Phoenicopteridae.	3722			
@@ -1491,8 +1619,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Animal:lynx.N	A wild animal of the Lynx genus, with characteristic spots on its fur and a short tail.	3314			
 	Animal:macaw.N	Large colorful parrots of the Americas, classified into six of the many Psittacidae genera: Ara, Anodorhynchus, Cyanopsitta, Primolius, Orthopsittaca, and Diopsittaca.	1630			
 	Animal:magpie.N	One of several kinds of bird in the family Corvidae, especially Pica pica.	2039			
-	Animal:male (of animal).A	Relating to the male sex of animals.	2263	3-12		
-	Animal:male animal.N	A male animal (Noun)	3924			
 	Animal:male cat.N	A male of the Felis catus species.	3825			
 	Animal:male dog.N	A male dog.	2480			
 	Animal:male goat.N	A male goat.	2475	3-37		
@@ -1753,7 +1879,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Body:allergy.N	A bodily reaction due to a hypersensitivity to an antigen or a pathological immunological reaction to substances, situations, or physical states.	3868			
 	Body:appearance.N	The outward or visible aspect of a person or thing.	1017			
 	Body:apply (ointment).V	To put and spread some substance on the skin.	3650			
-	Body:armpit.N	The hollow under the upper part of the arm at the shoulder.	1886	4-312		
 	Body:awake.A	Not sleeping.	825			664
 	Body:back of head.N	The back part of the head.	523			
 	Body:bark or skin.N	Cover of the bodies of animals and plants.	2127			
@@ -1765,20 +1890,15 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Body:be dead or death or die.?	To be not alive or the end of a life or to cease to live.	3186			
 	Body:be dead or die or kill.?	To be not alive or to cease to live or to cause the end of a life.	3185			
 	Body:beget.V	(Especially of a male parent) to procreate or generate.	1152	4-71		
-	Body:belly or stomach.N	The lower part of the front of the torso, including the interior part below.	2114			
-	Body:bellybutton.N	The middle of the belly where the umbilical cord has grown in the womb during pregnancy.	3715			
 	Body:birth.N	birth				603
 	Body:birthmark.N	A birthmark is a benign irregularity on the skin which is present at birth or appears shortly after birth, usually in the first month. Birthmarks are caused by overgrowth of blood vessels, melanocytes, smooth muscle, fat, fibroblasts, or keratinocytes.	1751			
 	Body:bite.V	Clamping the teeth hard on something.	1403	4-58	beißen::V	722
 	Body:blind.A	Unable to see.	1653	4-97	blind::A	
 	Body:blond.A	A pale yellowish-brown color usually of hair.	3872			
 	Body:body part.N	Part of a human body or an animal body.	2213			
-	Body:breast milk.N	The milk of humans.	3912			
-	Body:breast or milk.N	Either the organ of females which gives nourishing substance for newborns, or the substance itself.	2129			
 	Body:breath or breathe.?	The air that goes into one's lungs or the act of breathing.	3183			
 	Body:castrate.V	Any action, surgical, chemical, or otherwise, by which a biological male loses use of the testicles.	2563			
 	Body:catch a cold.V	To become sick with a cold.	2184			
-	Body:claw or nail.N	The hard, keratin part growing at the feet of animals or the hands and legs of humans.	2128			
 	Body:climb.V	climb 				704
 	Body:coffin.N	The box in which the body of a dead person is placed for burial.	2011			
 	Body:common cold (disease).N	A contagious, viral infectious disease of the upper respiratory system; common symptoms include cough, sore throat, runny nose, nasal congestion and sneezing.	102	4-843		
@@ -1824,7 +1944,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Body:fall asleep.V	To go to sleep; to change from waking state to sleeping state.	1106		einschlafen::V	
 	Body:fatigue.N	A state of physical and/or mental weakness and a lack of vigor.	1140			
 	Body:feather or fur or hair.N	The cover of a mammal or a bird.	2381			
-	Body:female.A	female 				612
 	Body:fetus.N	fetus (foetus), embryo				602
 	Body:fever.N	A higher than normal temperature of a person (or generally a mammal).	1534	4-841	Fieber::N	
 	Body:fever.N	fever				635
@@ -1841,7 +1960,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Body:hair or fur.N	The hair covering the body of a mammal, including the body hair of humans.	2678			
 	Body:handspan.N	The distance between splayed out thumb and little finger or index finger of a human hand. Formerly used as a unit of measurement or for roughly gauging small lengths around 20 centimeters.	3838			
 	Body:have sex.V	To take part in sexual activity (most commonly sexual intercourse) with another person for the purposes of sexual pleasure.	1785			
-	Body:head.N	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	1256	4-2	Kopf::N	501
 	Body:headache.N	A pain in the head.	3625			
 	Body:healthiness.N	Relating to the general state of health and well-being.	3828			
 	Body:healthy.A	In good physical and mental condition; free from disease.	1364	4-83	Gesundheit::N	
@@ -1879,7 +1997,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Body:living.A	Being alive.	3000			
 	Body:long hair.N	Hair that is not cut.	444			
 	Body:malaria.N	Infectious disease characterized by chills, fevers, and sweating, caused by a protozoan of the genus Plasmodium and transmitted by infected Anopheles mosquitoes.	3059			
-	Body:male.A	male 				614
 	Body:measles.N	A contagious airborne disease caused by Measles morbillivirus and characterized by red rash, Koplik's spots, and fever.	3389			
 	Body:medicine.N	A substance which specifically promotes healing.	1372	4-88	Arznei::N	
 	Body:menstruation.N	The period in the menstrual cycle when the endometrium is shed when conception did not take place.	766			
@@ -1889,7 +2006,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Body:neuter.A	neuter (neither male nor female) 				616
 	Body:operate (medicine).V	Perform a medical procedure by cutting or making incisions.	3121			
 	Body:oral cavity.N	Cavity that is limited by the lips in front, the cheeks on the side, the soft and hard palate at the top and the floor of the mouth below.	2674			
-	Body:organ.N	organ (of body)				570
 	Body:pant.V	To breathe quickly and loudly as a result of running or exercising.	3614			
 	Body:patient (sick person).N	A person registered as a recipient of medical services.	3375			
 	Body:perspire or sweat.?	Either the action of sweating or the product.	2458			
@@ -1947,16 +2063,13 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Body:tinea.N	Dermatophytosis, fungal skin infection making white spots/non-symmetrical white patches on the skin.	3173			
 	Body:tired.A	In need of some rest or sleep, due to lack of sleep or as a result of hard work or physical activity.	1757	4-91		
 	Body:tired.A	tired, weary 				650
-	Body:toenail.N	The hard keratin substance covering the tips of the feet of human beings.	2662			
 	Body:touch.V	touch 				750
-	Body:vein.N	A blood vessel that transports blood from the capillaries back to the heart.	1924		Ader::N	582
 	Body:vomit.V	To regurgitate the contents of the stomach.	1278	4-57		
 	Body:vomit.V	vomit 				725
 	Body:wake up (someone).V	Rouse from sleep.	3174		wecken::V	
 	Body:wake up.V	To stop sleeping.	1602	4-63	aufwachen::V	
 	Body:wake up.V	wake up (become awake) 				665
 	Body:walk.V	walk 				701
-	Body:wart.N	Typically small, rough, and hard growths that are similar in color to the rest of the skin.	2665			
 	Body:weak.A	Lacking in force or ability.	1601	4-82	schwach::A	
 	Building:attic.N	attic, garret				1531
 	Building:bank.N	bank (monetary institution)				1560
@@ -2796,21 +2909,7 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Event:use.V	use, utilize 				3970
 	Event:waste.V	waste, misuse 				3971
 	Event:work.N	work, effort, labor, toil				3926
-	Family:adult.N	A fully grown and mature person.	3635			
-	Family:ancestors.N	Person from whom a person is descended, whether on the father's or mother's side, at any number of generations.	1669	2-56		
 	Family:aunt or mother-in-law.N	Either an aunt or the mother-in-law of a person.	2383			
-	Family:aunt or uncle.N	The brother or mother of someone’s father or mother.	2682			
-	Family:aunt.N	A woman with one or more siblings who have one or more children; a sister of someone's father or mother.	1272	2-52	Tante::N	
-	Family:baby.N	A very young human being, from birth to a year old.	1289	2-28		
-	Family:bad person.N	A person with an evil character.	2197			
-	Family:bastard.N	A child born of parents not married to each other.	1947			
-	Family:black man.N	Term used to describe men who are perceived to be dark-skinned.	2806			
-	Family:black woman.N	Term used to describe women who are perceived to be dark-skinned.	2807			
-	Family:blind person.N	Person who has a complete lack of form and visual light perception.	457			
-	Family:boy or son.N	Either a son or a boy.	2391			
-	Family:boy.N	A young male person, usually a child or teenager.	1366	2-25	Junge::N	
-	Family:brave person.N	A person with a brave character.	2226			
-	Family:bride.N	A woman who is going to get married or has just got married.	1266			
 	Family:brother (of man).N	The brother of a man.	559			
 	Family:brother (of woman).N	The brother of a woman.	560			
 	Family:brother-in-law (husband's older brother).N	Husband of one's older brother.	2698			
@@ -2819,78 +2918,38 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Family:brother-in-law (older sister's husband).N	Husband of one's older sister.	2696			
 	Family:brother-in-law (younger sister's husband).N	Husband of one's younger sister.	2697			
 	Family:brother-in-law.N	The brother of one's partner in a marriage.	2314			
-	Family:brother.N	A male person who has the same parents as another person.	1262	2-44	Bruder::N	
-	Family:chatterer.N	A person who talks a lot.	2207			
-	Family:child (descendant).N	Biological offspring.	1801	2-43		
-	Family:child (young human).N	A person below the age of puberty.	1304	2-27	Kind::N	
-	Family:child-in-law.N	The spouse of someone's child.	1060	2-6411		
-	Family:child.N	A young human or the descendant of a human.	2099			
-	Family:co-wife.N	Another female partner in a polygamous marriage.	3636			
 	Family:cousin or sister-in-law.N	Either a cousin or a sister-in-law.	2384			
-	Family:cousin.N	The child of the sibling of a parent of a person.	1643	2-55		
 	Family:cross-cousin.N	The child of a parent’s opposite-sex sibling, for example the father’s sister’s son.	3162			
 	Family:daughter (of male ego).N	A daughter, as referred to by her father.	3778			
 	Family:daughter (of woman).N	Daughter of a mother	3930			
-	Family:daughter or girl.N	Either a daughter or a girl.	2392			
 	Family:daughter-in-law (of man).N	The daughter-in-law of a man.	2265	2-64		
 	Family:daughter-in-law (of woman).N	The daughter-in-law of a woman.	2264	2-641		
 	Family:daughter-in-law.N	The female marital partner of someone's child.	1057			
-	Family:daughter.N	An animal's female offspring (including that of a human).	1357	2-42	Tochter::N	
-	Family:deaf person.N	Person who is  partial or total unable to hear.	458			
-	Family:descendants.N	One who is the progeny of someone at any distance of time.	490	2-57		
 	Family:different-sex older sibling.N	A person of the different sex who is born before another person who has the same parents.	3039			
 	Family:different-sex younger sibling.N	A person of the different sex who is born after another person who has the same parents.	3040			
-	Family:divorce (separate).V	To end one's marriage by a legal process.	3672			
-	Family:divorce.N	Legal dissolution of a marriage.	1134	2-341		
-	Family:family.N	A group comprising parents, offsprings and others closely related or associated with them.	194	2-82	Familie::N	
 	Family:father (of a man).N	A male parent of a man.	3906			
 	Family:father (of a woman).N	A male parent of a woman.	3905			
 	Family:father-in-law (of man).N	The father-in-law of a man.	2255	2-61		
 	Family:father-in-law (of woman).N	The father-in-law of a woman.	2254	2-611		
 	Family:father-in-law.N	The father of someone's spouse.	1055			
-	Family:father.N	A male parent.	1217	2-35	Vater::N	
 	Family:father's sister.N	The sister of one's father.	170			
-	Family:female (of person).A	Relating to the female sex of humans.	2260	2-24		
 	Family:female cousin.N	The female child of the sibling of a parent of a person.	3823			
 	Family:female person or mother.N	A human belonging to the female sex or a woman who has at least one child.	2800			
-	Family:female person.N	A human belonging to the female sex.	2105			
-	Family:girl.N	A young female person, usually a child or teenager.	1646	2-26	Mädchen::N	
 	Family:give birth.V	To release an offspring from one's own body; to cause to be born.	1195			
 	Family:grandchild (daughter's offspring).N	Offspring of one's daughter.	2703			
 	Family:grandchild (of female ego).N	The child in the second generation in relation to a female individual.	3782			
 	Family:grandchild (son's offspring).N	Offspring of one's son.	3909			
-	Family:grandchild.N	A child of someone’s child.	1617	2-5		
-	Family:granddaughter.N	A daughter of someone's child.	1619	2-49		
 	Family:grandfather or older brother.N	Either the grandfather or the older brother of a person.	2644			
-	Family:grandfather.N	The father of one of someone's parents.	1383	2-46	Großvater::N	
-	Family:grandmother.N	The mother of one of someone's parents.	1496	2-47	Großmutter::N	
-	Family:grandparent.N	Either the grandfather or the grandmother.	2399			
-	Family:grandparents.N	The parents of someone's parent.	305	2-4711		
 	Family:grandson (son's son).N	Son of one's son.	2702			
-	Family:grandson.N	A son of someone's child.	1618	2-48		
-	Family:groom.N	A man who is going to get married or has just married.	3282			
-	Family:guest or stranger.N	Either a guest or a stranger.	2908			
 	Family:he or she or it.?	Third person singular pronoun, regardless of gender/sex.	262	2-93		
 	Family:he or she.?	Third person singular addressing living things or persons.	2642			
 	Family:he.?	A male other; the male previously mentioned; himself.  3rd person singular masculine subject pronoun.	1211	2-931	er::PRN	
-	Family:husband or male person.N	Either the male partner in a marriage or a male person.	2646			
-	Family:husband.N	The male partner in a marriage.	1200	2-31	Ehemann::N	
 	Family:i.?	The speaker or writer referring to himself or herself alone.	1209	2-91	ich::PRN	
 	Family:it.?	An inanimate object, an animate object of unspecified sex, or a subject that is previously mentioned.	169	2-933		
-	Family:male (of person).A	Relating to the male sex of humans.	2261	2-23		
 	Family:male cousin.N	The male child of the sibling of a parent of a person.	3822			
 	Family:male person.N	A human belonging to the male sex.	2106			
-	Family:male.A	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.	1553			
-	Family:man or person.N	Either a man or a person (in general).	2645			
-	Family:man.N	An adult human member of the sex that begets young by fertilizing ova.	1554	2-21	Mann::N	
-	Family:marriage or wedding.N	The ceremony of marrying someone or the state of being married.	3182			
-	Family:marriage.N	Marriage, also called matrimony or wedlock, is a socially or ritually recognized union or legal contract between spouses that establishes rights and obligations between them, between them and their children, and between them and their in-laws.	2432			
-	Family:married man.N	A married man.	424	2-38		
-	Family:married woman.N	A married woman.	426	2-39		
 	Family:marry (as man).V	To enter marriage from the perspective of a man.	2164			
 	Family:marry (as woman).V	To enter marriage from the perspective of a woman.	2163			
-	Family:marry off.V	To force someone to get married, usually a relative.	556			
-	Family:marry.V	To enter marriage; to take a husband or a wife.	203	2-33		
 	Family:maternal aunt (mother's older sister).N	The older sister of one's mother.	3042			
 	Family:maternal aunt (mother's sister).N	The sister of one's mother.	2693	2-521		
 	Family:maternal aunt (mother's younger sister).N	The younger sister of one's mother.	3043			
@@ -2909,25 +2968,13 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Family:mother-in-law (of man).N	The mother-in-law of a man.	2257	2-62		
 	Family:mother-in-law (of woman).N	The mother-in-law of a woman.	2256	2-621		
 	Family:mother-in-law.N	The mother of someone's spouse.	1050			
-	Family:mother.N	A woman who has at least one child.	1216	2-36	Mutter::N	
 	Family:mother's brother.N	The brother of someone’s mother.	1984			
 	Family:mother's sister.N	The sister of one's mother.	171			
-	Family:nephew or niece.N	A child of someone's brother or sister.	3890			
-	Family:nephew.N	A son of someone's brother or sister.	1063	2-53		
-	Family:niece.N	A daughter of someone’s brother or sister.	1642	2-54		
-	Family:old man.N	A male person who is old of age.	406	2-461		
-	Family:old person.N	An older person (usually considered to be above the age of 60).	725			
-	Family:old woman.N	An old woman.	907	2-471		
 	Family:older brother (of man).N	The older brother of a man.	2414			
 	Family:older brother (of woman).N	The older brother of a woman.	2415			
-	Family:older brother.N	A male with more years of age than one or more of his siblings.	1759	2-444		
-	Family:older sibling.N	A person who is born before another person who has the same parents.	405	2-4561		
 	Family:older sister (of man).N	The older sister of a man.	2418			
 	Family:older sister (of woman).N	The older sister of a woman.	2419			
-	Family:older sister.N	A female with more years of age than one or more of her siblings.	1758	2-454		
-	Family:orphan.N	A person one or both of whose parents have died, especially a minor.	1149	2-75		
 	Family:parents-in-law.N	The parents of someone's spouse	306	2-622		
-	Family:parents.N	Father and mother of a child.	505	2-37	Eltern::N	
 	Family:paternal aunt (father's older sister).N	The older sister of one's father.	3041			
 	Family:paternal aunt (father's sister).N	The sister of one's father.	2691	2-522		
 	Family:paternal aunt (wife of father's older brother).N	Wife of father's elder brother.	2170			
@@ -2939,15 +2986,10 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Family:paternal uncle (father's older brother).N	Father's elder brother.	2173			
 	Family:paternal uncle (father's younger brother).N	Father's younger brother.	2174			
 	Family:paternal uncle.N	Father's brother or father's sibling's husband.	3763			
-	Family:people or person.N	Either multiple human beings or one human being.	2661		Leute::N	
-	Family:person.N	A human being.	683	2-1	Mensch::N	
-	Family:relatives.N	A person that is considered to be of the same family due to shared ancestors, marriage or adoption.	1644	2-81		
 	Family:same-sex older sibling.N	A person of the same sex who is born before another person who has the same parents.	3037			
 	Family:same-sex younger sibling.N	A person of the same sex who is born after another person who has the same parents.	3038			
 	Family:self.?	The essential qualities that make a person or a thing distinct from all others.	1993			
 	Family:she.?	A female other; the female previously mentioned. 3rd person singular feminine subject pronoun.	1834	2-932		
-	Family:sibling-in-law.N	The husband of one's sister.	1832	2-6412		
-	Family:sibling.N	A person who has the same parents as another person.	1640	2-456		
 	Family:sibling's child.N	The child of a sibling.	173	2-541		
 	Family:sister (of man).N	The sister of a man.	561			
 	Family:sister (of woman).N	The sister of a woman.	562			
@@ -2956,58 +2998,34 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Family:sister-in-law (of female ego).N	The sister of a woman's husband or the wife of a woman's brother.	3781			
 	Family:sister-in-law (older brother's wife).N	Wife of one's older brother.	2695			
 	Family:sister-in-law.N	The sister of one's partner in a marriage.	2317			
-	Family:sister.N	A female person who has the same parents as another person.	1263	2-45	Schwester::N	
 	Family:son (of male ego).N	A son, as referred to by his father.	3779			
 	Family:son of woman.N	Son of a mother	3939			
 	Family:son-in-law (of man).N	The son-in-law of a man.	2267	2-63		
 	Family:son-in-law (of woman).N	The son-in-law of a woman.	2266	2-631		
 	Family:son-in-law.N	The male marital partner of someone's child.	1056			
-	Family:son.N	One's male child.	1620	2-41	Sohn::N	
-	Family:spouse.N	One of the partners in a marriage, be they male or female.	2514			
-	Family:stepchild.N	The child of one's spouse and his or her previous partner.	3910			
-	Family:stepdaughter.N	The daughter of one's spouse and his or her previous partner.	1058	2-74		
-	Family:stepfather.N	The husband of one's biological mother, other than one's biological father.	237	2-71		
-	Family:stepmother.N	The wife of one's biological father, other than one's biological mother.	236	2-72		
-	Family:stepson.N	The son of one's spouse and his or her previous partner.	1059	2-73		
-	Family:surname.N	The family name of a person.	3426			
 	Family:thee (oblique case of you).?	Oblique cases of the second person singular pronoun.	2304			
 	Family:they two.?	The third person dual of the personal pronoun.	2635			
 	Family:they.?	The third person plural of the personal pronoun that designates more than one person or animal, thing or idea which have already been mentioned previously.	817	2-96	sie::PRN	
 	Family:thou (honorific).?	The person addressed (honorific).	3292			
 	Family:thou.?	The person addressed.	1215	2-92	du::PRN	
-	Family:twins.N	A case of multiple birth in which the mother gives birth to two offspring from the same pregnancy.	1005	2-458		
 	Family:uncle (husband of father's sister).N	The husband of the sister of one's father.	2690			
 	Family:uncle or father-in-law.N	Either an uncle or the father-in-law.	2387			
-	Family:uncle.N	The brother of someone’s father or mother.	1327	2-51	Onkel::N	
 	Family:us (oblique case of we).?	Oblique case of the first person plural pronoun.	2310			
-	Family:virgin.N	A person who has never engaged in sexual intercourse.	2298			
 	Family:we (exclusive).?	Exclusive we: I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person).	1130	2-942		
 	Family:we (inclusive).?	Inclusive we: I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person).	1131	2-941		
 	Family:we two (exclusive).?	Exclusive dual of the first person: I and exactly one other person, but not the addressed person (you).	2636			
 	Family:we two (inclusive).?	Inclusive dual of the first person: I and exactly one other person, including the addressed person (you).	2637			
 	Family:we two.?	The speaker and exactly one other person.	2634			
 	Family:we.?	The speaker or writer and at least one other person.	1212	2-94	wir::PRN	
-	Family:wedding.N	A ceremony celebrating the beginning of a marriage, during which the marrying parties exchanges vows.	1259	2-34		
-	Family:white man.N	Term used to describe men who are perceived to be light-skinned.	2839			
-	Family:white woman.N	Term used to describe women who are perceived to be light-skinned.	2840			
-	Family:widow.N	A woman whose spouse has died.	1756	2-76		
-	Family:widower.N	A man whose spouse has died.	1981	2-77		
-	Family:wife.N	The female partner in a marriage.	1199	2-32	Ehefrau::N	
-	Family:woman.N	An adult human member of the sex that produces ova and bears young.	962	2-22	Frau::N	
 	Family:you (formal address).?	The formal way to address the second person.	2844			
 	Family:you (honorific).?	The group of persons addressed (honorific).	3293			
 	Family:you (oblique case of you).?	The oblique case of the second person plural pronoun.	2312			
 	Family:you two.?	Addressing two persons (second person dual).	2111			
 	Family:you.?	The group of persons addressed.	1213	2-95	ihr::PRN	
-	Family:young man.N	A male juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.	76	2-251		
-	Family:young woman.N	A female juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.	77	2-261		
 	Family:younger brother (of man).N	The younger brother of a man.	2416			
 	Family:younger brother (of woman).N	The younger brother of a woman.	2417			
-	Family:younger brother.N	A male with fewer years of age than one or more of his siblings.	1760	2-445		
-	Family:younger sibling.N	A person who is born after another person who has the same parents.	427	2-4562		
 	Family:younger sister (of man).N	The younger sister of a man.	2420			
 	Family:younger sister (of woman).N	The younger sister of a woman.	2421			
-	Family:younger sister.N	A female who is younger than one or more of her siblings.	1761	2-455		
 	Food:alcohol (drink).N	A drink (a liquor or brew) containing ethanol, commonly known as alcohol.	2050			
 	Food:alcohol (fermented drink).N	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	404	5-94		
 	Food:animal or meat.N	Any living organism that is characterized by voluntary movement, be it alive or ready prepared to be eaten.	2096			
@@ -3876,7 +3894,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Modernity:benefit.N	The profit of some action.	2929		Nutzen::N	
 	Modernity:bicycle.N	A vehicle with two wheels in tandem, pedals connected to the rear wheel by a chain, handlebars for steering, and a saddlelike seat.	747	23-13		
 	Modernity:birth certificate.N	Official document certifying the details of a person's birth. Name, date, and parents' names are always included; details such as parents' occupation and religion may be included.	397	23-36		
-	Modernity:bomb.N	A device filled with explosives used for destroying things.	1804	23-575		
 	Modernity:boss.N	A boss is a person in charge, or a supervisor.	2930		Chef::N	
 	Modernity:bottle.N	A container, typically made of glass and having a tapered neck, used for holding liquids.	1321	23-56		
 	Modernity:box or chest.N	Either a generic manmade object with space in it that is used to keep and store many various different objects, or a strong box with a lid on top.	3150			
@@ -3889,7 +3906,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Modernity:calendar.N	A table showing the months and days of the year.	1967	23-61		
 	Modernity:camera.N	Optical instrument for storing images.	2618			
 	Modernity:can.N	A small, round-shaped metal container, used for different purposes like storing food or liquids, or collecting money.	1051	23-54		
-	Modernity:candy.N	Food item that is rich in sugar.	874	23-565		
 	Modernity:car.N	A four-wheeled motor vehicle used for land transport, usually propelled by a gasoline or diesel internal combustion engine.	1111	23-14		
 	Modernity:card.N	A flat device in rectangular form that fulfills various functions.	2619			
 	Modernity:carriage.N	A wheeled vehicle for people, usually horse-drawn.	2620			
@@ -3915,7 +3931,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Modernity:election.N	A process by which members of a population vote to choose a person to hold public office.	240	23-38		
 	Modernity:electricity.N	A general term used for all phenomena caused by electric charge whether static or in motion.	59	23-17		
 	Modernity:engine.N	Machine that converts energy into mechanical energy.	2622			
-	Modernity:erhu.N	A two-stringed fiddle common in Eastern Asia; Chinese violin, Chinese two-stringed fiddle.	3052			
 	Modernity:escalator.N	A moving staircase.	2596			
 	Modernity:fairy tale.N	A fairy tale is a type of short story that typically features folkloric fantasy characters, such as dwarves, dragons, elves, fairies, giants, gnomes, goblins, griffins, mermaids, talking animals, trolls, unicorns, or witches, and usually magic or enchantments.	2937		Märchen::N	
 	Modernity:faucet.N	A device applied to the end of a pipe in order to interrupt and regulate the flow of a liquid or gas.	1488	23-5		
@@ -3925,10 +3940,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Modernity:funnel.N	A pipe with a wide mouth used to channel liquid into containers with small opening.	2602			
 	Modernity:garbage.N	Unwanted or undesired material, usually discarded.	909			
 	Modernity:globe.N	A spherical representation of the earth.	2588			
-	Modernity:gong.N	An African, East and South East Asian musical percussion instrument that takes the form of a flat, circular metal disc which is hit with a mallet.	2502			
-	Modernity:government.N	A body that has the authority to make and the power to enforce laws within a civil, corporate, religious, academic, or other organization or group.	815	23-3		
-	Modernity:harmonica.N	A mouth organ (musical instrument).	2590			
-	Modernity:harp.N	A string musical instrument.	2597			
 	Modernity:helicopter.N	A type of rotorcraft in which lift and thrust are supplied by rotors.	2580			
 	Modernity:hospital.N	A place where people who are ill or injured are treated and taken care of by doctors and nurses.	616	23-2		
 	Modernity:injection.N	A method of putting liquid into the body with a hollow needle and a syringe which is pierced through the skin long enough for the material to be forced into the body.	1805	23-23		
@@ -3948,7 +3959,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Modernity:minister.N	A person appointed to a high office in the government.	486	23-32		
 	Modernity:motor.N	A machine in which power is applied to do work by the conversion of various forms of energy into mechanical force and motion.	110	23-185		
 	Modernity:motorcycle.N	Single-track, two-wheeled motor vehicle.	638	23-135		
-	Modernity:mouth harp.N	Lamellophone instrument consisting of a tongue or reed attached to a frame, placed in the performer's mouth and plucked; Jew's harp, jaw harp.	3048			
 	Modernity:movie.N	A sequence of animated images.	216	23-62		
 	Modernity:music.N	The artistic organisation of sounds or tones that expresses ideas and emotions through the elements of rhythm, melody, harmony and tonal colour.	642	23-63		
 	Modernity:newspaper.N	A publication (usually published daily or weekly and printed on cheap, low-quality paper) that contains news and other articles.	1298	23-6	Zeitung::N	
@@ -3976,7 +3986,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Modernity:racket.N	Tool used for hitting a ball in tennis-like games.	3096			
 	Modernity:racquet.N	A sports implement consisting of a handled frame with an open hoop across which a network of strings is streched tightly.	2585			
 	Modernity:radio.N	A device that can capture the signal sent over radio waves and render the modulated signal as sound.	1315	23-1		
-	Modernity:reed pipe.N	Organ pipe that is sounded by a vibrating a metal tongue which rests against a tunnel.	3051			
 	Modernity:refrigerator.N	A storage box, compartment or room to stock goods by means of mechanical refrigeration.	3952			
 	Modernity:revolution.N	A revolution (from the Latin revolutio, a turn around) is a fundamental change in power or organizational structures that takes place in a relatively short period of time.	2431			
 	Modernity:santa claus.N	Santa Claus, also known as Saint Nicholas, Father Christmas, Kris Kringle and simply Santa, is an important figure with legendary, historical and folkloric origins who, in many Western cultures, is said to bring gifts to the homes of the good children on 24 December, the night before Christmas Day.	2404			
@@ -3988,7 +3997,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Modernity:ski.N	A ski is a narrow strip of semi-rigid material worn underfoot to glide over snow.	2991		Ski::N	
 	Modernity:slab.N	Thick plate or slice.	2952		Platte::N	
 	Modernity:slice.N	A thin flat piece cut from something.	2954		Scheibe::N	
-	Modernity:song.N	A musical piece with lyrics (or words to sing); prose that one can sing.	1096	23-64	Lied::N	
 	Modernity:spectacles.N	A pair of lenses in a frame that are worn in front of the eyes and are used to correct faulty vision or protect the eyes.	1898	23-24		
 	Modernity:state (politics).N	A politically organized body of people usually occupying a definite territory.	2955		Staat::N	
 	Modernity:stethoscope.N	An acousting medical device for auscultation.	2599			
@@ -3996,7 +4004,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Modernity:street.N	A paved part of road, usually in a village or a town.	1362	23-395		
 	Modernity:stroke (of pen).N	A single movement with a pen in order to write or paint something.	2993		Strich::N	
 	Modernity:tablet.N	A pill; a small, easily swallowed portion of a substance.	396			
-	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.	1373	23-9	Tee::N	
 	Modernity:telephone.N	An electronic device used for calling people.	1379	23-12		
 	Modernity:television.N	A device for receiving television signals and displaying them in visual form.	1788	23-11		
 	Modernity:tennis ball.N	Yellow, spherical object used for playing the game of tennis.	3103			
@@ -4319,11 +4326,7 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Nature:mess.N	A state of confusion and disorderliness.	1083			
 	Nature:metal.N	A material (an element, compound, or alloy) that is typically hard, opaque, shiny, and has good electrical and thermal conductivity.	2244			
 	Nature:meteoroid (shooting or shining star).N	The visible path of a meteoroid as it enters the atmosphere, becoming a meteor.	2288			
-	Nature:milky way.N	Milky Way				1138
-	Nature:milky way.N	The galaxy that contains our Solar System. Its name milky is derived from its appearance as a dim glowing band arching across the night sky in which the naked eye cannot distinguish individual stars.	2289			
 	Nature:moon or month.N	Either the moon as the object or the time period.	2463			
-	Nature:moon.N	A natural satellite of a planet.	1313	1-53	Mond::N	
-	Nature:moon.N	moon				1126
 	Nature:moorland.N	Moorland or moor is a type of habitat found in upland areas in temperate grasslands, savannas, and shrublands and montane grasslands and shrublands biomes, characterised by low-growing vegetation on acidic soils.	2962		Moor::N	
 	Nature:morning star.N	A name for Venus when it appears before sunrise.	3340			
 	Nature:mountain foot.N	Lower part in front of a mountain, before the mountain begins.	2122			
@@ -4339,15 +4342,12 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Nature:new moon.N	The lunar phase when the moon appears in the sky as a slender crescent shortly after its conjunction with the sun.	3691			
 	Nature:ocean.N	The mass of water occupying all of the Earth's surface not occupied by land, but excluding all lakes and inland seas.	645	1-329		
 	Nature:oil (hydrophobic liquid).N	Any viscous liquid substance which is hydrophobic and lipophilic.	2556			
-	Nature:orion's constellation.N	A constellation of stars visible from around the world.	3945			
-	Nature:orion’s belt.N	A pattern of three stars in the constellation Orion.	3343			
 	Nature:pattern.N	A pattern is a discernible regularity in the world or in a man-made design.	2988		Muster::N	
 	Nature:pebbles.N	Small stone abraded by water.	961			
 	Nature:pit (pothole).N	A naturally formed or excavated hole in the ground.	2539		Grube::N	
 	Nature:plain.N	Level or rolling open land, usually at a low elevation.	652	1-23		
 	Nature:planet.N	planet				1127
 	Nature:plateau.N	A large flat area of land that is high above sea level.	3988			
-	Nature:polar star.N	Referring to Polaris or Alpha Ursae Minoris, a star aligned with earth’s axis of rotation and often used for navigation.	3339			
 	Nature:pond or lake.N	A body of water of undefined size, e.g. ranging from small ponds to large lakes.	3321			
 	Nature:pond.N	A natural body of standing fresh water occupying a small surface depression, usually smaller than a lake and larger than a pool.	2035			
 	Nature:precipice or slope.N	A very steep decline, typically found in the mountains or on shores, or a stretch of ground forming a geological incline, e.g. a hillside.	3297			
@@ -4408,9 +4408,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Nature:spring (of water).N	A place where ground water flows naturally from a rock or the soil onto the land surface or into a body of surface water.	849		Quelle::N	
 	Nature:spring or well.N	A natural or human-made source of fresh water.	2144	1-37		
 	Nature:squeak.V	To make a short, high-pitched sound.	3692			
-	Nature:star.N	A luminous celestial body that is made from gases (particularly hydrogen and helium) and forms the shape of a sphere.	1430	1-54	Stern::N	
-	Nature:star.N	star				1131
-	Nature:starlight.N	Light emitted by stars.	2836			
 	Nature:steam.N	The gas phase of water.	1193	1-831		
 	Nature:stick.N	A long, thin piece of wood, mainly left in the shape in which it grew, that does not bend.	1295		Stock::N	
 	Nature:sticking.V	To stick or hold together and resist separation.	254			
@@ -4424,8 +4421,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Nature:stream.N	A small river or large creek; a body of moving water confined by banks.	947			
 	Nature:sulphur.N	A crystalline solid, nonmetallic chemical element of a distinct yellow colour, with assigned symbol S and proton number 16.	3386			
 	Nature:summit.N	The highest point of a mountain.	1614		Gipfel::N	
-	Nature:sun.N	The particular star at the centre of our solar system, from which the Earth gets light and heat.	1343	1-52	Sonne::N	
-	Nature:sun.N	sun				1133
 	Nature:sunny day.N	A day full of sunshine.	2742			
 	Nature:sunny.A	Full of sunshine (mostly referring to a sunny day).	2340			
 	Nature:sunshine.N	The light emitted by the sun.	3276			
@@ -4445,7 +4440,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Nature:trench (fosse).N	A naturally formed or excavated long cavity in the ground.	2538			
 	Nature:turbid.N	A fluid which is cloudy or hazy due to large numbers of individual particles that are generally invisible to the naked eye, similar to smoke in air.	537			
 	Nature:universe.N	universe				1100
-	Nature:ursa major.N	A large group of stars in the shape of a bear visible on the northern hemisphere.	3342			
 	Nature:valley.N	Any low-lying land bordered by higher ground; especially an elongate, relatively large, gently sloping depression of the Earth's surface, commonly situated between two mountains or between ranges of hills or mountains, and often containing a stream with an outlet.	921	1-24		
 	Nature:valley.N	valley				1173
 	Nature:volcano.N	A rupture on the crust of a planetary-mass object, such as Earth, that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface.	2291			
@@ -4473,47 +4467,24 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Number:once.ADV	once (occurring one time; for one iteration) 				2551
 	Number:second.NUM	second 				2542
 	Number:twice.ADV	twice (happening two times; for two iterations) 				2552
-	People:adult.N	adult				312
 	People:ambassador.N	ambassador				398
-	People:aunt.N	aunt				345
-	People:baby.N	baby				303
-	People:boy.N	boy				307
-	People:brother.N	brother				354
 	People:chief.N	chief (leader of a tribe)				392
-	People:child.N	child				305
-	People:daughter.N	daughter				352
 	People:dictator.N	dictator, tyrant				397
 	People:doctor.N	doctor (medical expert)				380
 	People:enemy.N	enemy				375
-	People:family.N	family				320
-	People:father.N	father				322
-	People:friend.N	friend				374
-	People:girl.N	girl				309
-	People:grandfather.N	grandfather				330
-	People:grandmother.N	grandmother				335
 	People:hermit.N	hermit				382
-	People:human being.N	human being, person (any living member of Homo sapiens)				301
-	People:husband.N	husband				361
 	People:king.N	king				390
 	People:leader.N	leader				370
-	People:man.N	man (adult male person)				314
-	People:marriage.N	marriage (spousal relationship)				360
 	People:master.N	master (person who commands slaves, animals, etc)				372
 	People:mayor.N	mayor				393
 	People:member.N	member (of group/organization)				371
-	People:mother.N	mother				324
 	People:president.N	president				395
 	People:prime minister.N	prime minister				396
 	People:queen.N	queen				391
-	People:sister.N	sister				357
 	People:slave.N	slave				373
 	People:soldier.N	soldier				384
-	People:son.N	son				350
 	People:thief.N	thief				386
 	People:traveler.N	traveler, traveller				388
-	People:uncle.N	uncle				340
-	People:wife.N	wife				362
-	People:woman.N	woman (adult female person)				316
 	Perception:beautiful.A	beautiful 				851
 	Perception:become numb.V	Be caused not to be sensitive (usually of body parts).	2216			
 	Perception:beige.A	A kind of yellowish color, mixed with gray.	3707			
@@ -5057,7 +5028,7 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Society:festival.N	Manifestation of collective joy, lasting longer than a few minutes.	131			
 	Society:fool.N	A person with poor judgment or little intelligence.	1438			
 	Society:freeman.N	A free man, one who is not a serf or slave.	384	19-44		
-	Society:friend.N	A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.	1325	19-51	Freund::N	
+	Society:friend.N	A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.	1325	19-51	Freund::N	374
 	Society:friendship.N	A feeling of affection, good disposition, and sympathy experienced towards someone.	3954			
 	Society:game.N	A game is structured form of play, usually undertaken for enjoyment and sometimes used as an educational tool.	2467		Spiel::N	
 	Society:gipsy.N	Gipsy is a common word used to indicate Romani people, Tinkers and Travellers.	532			
