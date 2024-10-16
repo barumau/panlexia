@@ -1,8 +1,51 @@
 # Contents of Panlexia
 
+## Directory structure
+
+The overall directory structure of the Panlexia repository is shown below.
+Only 1–3 files are listed per directory for brevity.
+
+    panlexia/
+    ├─ doc/
+    │  ├─ index.md
+    │  ├─ id.md
+    │  └─ ...
+    ├─ base/
+    │  ├─ Concepticon/
+    │  ├─ NorthEuraLex/
+    │  ├─ ULD/
+    │  ├─ WOLD/
+    │  └─ master.tsv
+    ├─ dict/
+    │  ├─ definition
+    │  │  └─ eng-definition.tsv
+    │  ├─ conlangs
+    │  │  ├─ epo.tsv
+    │  │  ├─ pandunia.tsv
+    │  │  └─ ...
+    │  └─ natlangs
+    │     ├─ eng.tsv
+    │     ├─ yue.tsv
+    │     └─ ...
+    ├─ src/
+    │  ├─ create_initial_ids_and_definitions.py
+    │  ├─ generate_pdf_dictionary.sh
+    │  └─ ...
+    ├─ LICENSE.md
+    └─ README.md
+ 
+- `base`: Files for creating first Panlexia dictionaries from external sources, like Concepticon, NorthEuraLex, WOLD and ULD.
+- `doc`: Documentation about structure, contents and use of Panlexia.
+- `natlangs`: Dictionary data of natural languages.
+    - File names are 3-letter language codes according to the *ISO 639-3* standard.
+- `conlangs`: Dictionary data of constructed languages.
+    - File names are full names of languages unless they have the 3-letter *ISO 639-3* code.
+- `src`: Source code for programs for processing Panlexia data.
+
 ## Language-specific word lists
 
-Language-specific word list files consist in minimum of the following three columns.
+Language-specific word list files are located in the `dict` directory.
+They consist in minimum of the following three columns.
 
 1. `id`: The Panlexia concept identifier that links definitions and words and in different languages together.
    Fields in this column shall never be empty.
