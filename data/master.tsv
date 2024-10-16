@@ -1,6 +1,8 @@
 id	initial_id	Definition	Concepticon_id	WOLD_id	NELex_id	ULD_id
 Agriculture:farm.N	Agriculture/Plant:farm.N	Any tract of land or building used for agricultural purposes, such as for raising crops and livestock.	201			1595
 Agriculture:farmer.N	Agriculture/Plant:farmer.N	A person who works the land or who keeps livestock, especially on a farm.	979	8-11		
+Agriculture:harvest or harvest season.N	Agriculture/Plant:harvest or harvest season.N	The crop gathered in a season and the time during which crops are typically harvested.	3541	8-41		
+Agriculture:harvest.N	Agriculture/Plant:harvest.N	The crop gathered in a season.	611			
 Agriculture:winnowing.V	Action/Technology:winnowing.V	Wind winnowing is an agricultural method developed by ancient cultures for separating grain from chaff.	2462			
 Animal:Acridomorpha.N	Animal:grasshopper.N	A plant-eating insect with long back legs that can jump very high and makes a sharp high noise using its back legs or wings.	607	3-93		913
 Animal:Anatidae.N	Animal:duck.N	An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	1360	3-57	Ente::N	982
@@ -768,6 +770,48 @@ Quantity:98.NUM	Quantity:ninety eight.NUM	The natural number ninety-eight (98).	
 Quantity:99.NUM	Quantity:ninety nine.NUM	The natural number ninety-nine (99).	3501			
 Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number nine hundred and ninety-nine (999).	3521			
 Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110			
+Time:autumn or harvest season.N	Time:autumn or harvest season.?	The time during which crops are typically harvested, often co-occurring with the season of autumn.	3327			
+Time:autumn.N	Time:autumn.N	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.	1276	14-77	Herbst::N	3272
+Time:dry season.N	Time:dry season.N	Yearly period of low rainfall in the tropics.	452			
+Time:final.A	Quantity:last (final).?	The last, after all the others.	1529	13-35	letzter::A	3261
+Time:hot season.N	Time:hot season.N	Period of the year associated with hot or warm weather.	3047			
+Time:hour.N	Time:hour.N	A time period of sixty minutes; one twenty-fourth of a day.	1353	14-51		3291
+Time:last month.N	Time:last month.N	The month before this month.	2792			
+Time:last year.N	Time:last year.?	The year before the current one.	514			
+Time:last.V	Time:last (endure).V	To endure, continue over time.	1186	14-252		
+Time:late.ADV	Time:late.?	Towards the end of a time period.	477	14-17		3252
+Time:long ago.ADV	Time:long ago.?	At a time in the past, especially the distant past.	373			3204
+Time:monsoon season.N	Time:monsoon season.N	A period of heavy rain particularly during summer time.	3323			
+Time:month.N	Time:month.N	A period into which a year is divided, historically based on the phases of the moon. In the Gregorian calendar there are twelve months.	1370	14-71	Monat::N	3279
+Time:never.ADV	Time:never.?	At no time.	1656	14-34	niemals::ADV	3244
+Time:new.A	Time:new.A	Recently made, created or begun.	1231	14-13	neu::A	3214
+Time:night.N	Time:night.N	The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.	1233	14-42	Nacht::N	3284
+Time:now or today.ADV	Time:now or today.?	On the current day or in the current moment.	2097			
+Time:now.ADV	Time:now.?	At present; at this time.	1376	14-18	jetzt::ADV	3206
+Time:often.ADV	Time:often.?	Many times, with short intervals between occasions.	1852	14-32	oft::ADV	
+Time:old (of man).A	Time:old (of man).A	Old of a man as opposed to old of a woman.	565			
+Time:old (of person).A	Time:old (aged).A	To be old (of persons).	2112		alt[Lebewesen]::A	
+Time:old (of woman).A	Time:old (of woman).A	Old of a woman as opposed to old of a man.	566			
+Time:old (used).A	Time:old (used).A	To be old (of things). That which has been used for a long time.	2113			3215
+Time:old.A	Time:old.A	Having lived or existed for a relatively long period of time.	1229	14-15	alt::A	3213
+Time:one time.ADV	Time:one time.?	An instance or occurrence of an event.	374		einmal::ADV	
+Time:pass.V	Time:pass.V	Of time, to elapse, to be spent.	1951		vergehen::V	
+Time:period.N	Time:period.N	A length of time.	508			3240
+Time:rainy season.N	Time:rainy season.N	Period of year when most of a region's average annual rainfall occurs.	453			
+Time:season.N	Time:season.N	One of the four equal periods into which the year is divided by the equinoxes and solstices, resulting from the apparent movement of the sun north and south of the equator during the course of the earth's orbit around it. These periods (spring, summer, autumn and winter) have their characteristic weather conditions in different regions, and occur at opposite times of the year in the N and S hemispheres.	691	14-78		3269
+Time:short.ADV	Time:short (time).?	For a brief period or a short amount of time.	3312			3232
+Time:springtime.N	Time:springtime.N	Traditionally the first of the four seasons, the season of growth with an ever increasing amount of daytime.	1537	14-75	Frühling::N	3270
+Time:still.ADV	Time:still (continuing).?	Continuance of motion or state even until the time mentioned.	2919		noch::ADV	3246
+Time:summer.N	Time:summer.N	Traditionally the second of the four seasons regarded as being from June 21 to September 20 (or just June, July and August) in the Northern Hemisphere and from December 21 to March 20 (or just December, January and February) in the Southern Hemisphere.	1342	14-76	Sommer::N	3271
+Time:three days before now.ADV	Time:three days before now.?	Three days before today.	2333			
+Time:three days from now.ADV	Time:three days from now.?	Three days from today.	2332			
+Time:time.N	Time:time.N	The dimension of the physical universe which, at a given place, orders the sequence of events. The continuum of past-present-future.	892	14-11	Zeit::N	3200
+Time:today.ADV	Time:today.?	On the current day or date.	1283	14-47	heute::ADV	3266
+Time:tomorrow or yesterday.ADV	Time:tomorrow or yesterday.?	The day after the present day or the day before today.	2801			
+Time:tomorrow.ADV	Time:tomorrow.?	The day after the present day.	1329	14-48	morgen::ADV	3267
+Time:winter.N	Time:winter.N	Traditionally, the fourth of the seasons, marked by the applicable hemisphere of the planet being at its minimum angle of exposure to the Sun, resulting in short days, long nights and typically in low temperatures.	1471	14-74	Winter::N	3273
+Time:year.N	Time:year.N	The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	1226	14-73	Jahr::N	3278
+Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::ADV	3265
 	Action/Technology:a little.?	More than one, but not as much as usual or as expected. (for mass nouns)	2924		ein wenig::ADV	
 	Action/Technology:accept.V	To take or get something that was offered by someone.	3898			
 	Action/Technology:accustom.V	Get used to something.	1118			
@@ -1278,8 +1322,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Agriculture/Plant:grow plants.V	To cultivate a specific type of plant in order to harvest it.	3461			
 	Agriculture/Plant:harrow (tool).N	An agricultural implement consisting of many spikes, tines or discs dragged across the soil.	2545			
 	Agriculture/Plant:harvest crops.V	To gather the ripened crop.	1827			
-	Agriculture/Plant:harvest or harvest season.N	The crop gathered in a season and the time during which crops are typically harvested.	3541	8-41		
-	Agriculture/Plant:harvest.N	The crop gathered in a season.	611			
 	Agriculture/Plant:hawthorn.N	Any of various shrubs and small trees of the genus Crataegus having small, apple-like fruits and thorny branches.	1168			
 	Agriculture/Plant:hay.N	Cut and dried grass for use as animal fodder.	342	8-52	Heu::N	
 	Agriculture/Plant:hemp.N	A tall annual herb, Cannabis sativa, native to Asia.	2041			
@@ -4910,7 +4952,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Quantity:increase.V	increase (become or make greater in quantity) 				2622
 	Quantity:kilogram.N	kilogram				2612
 	Quantity:knife (classifier).CLF	Classifier for knife-like objects.	2082			
-	Quantity:last (final).?	After all the others.	1529	13-35	letzter::A	
 	Quantity:least.A	least (the smallest quantity of) 				2649
 	Quantity:less.A	less (a smaller quantity of) 				2648
 	Quantity:level.N	The amount or degree of something; the height of the surface of something liquid with respect to its bottom.	3469			
@@ -5289,9 +5330,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Time:at that time.?	At a certain time in the past.	2922		damals::ADV	
 	Time:august.N	August				4008
 	Time:august.N	The 8th month of the Gregorian calendar.	2851		August::N	
-	Time:autumn or harvest season.?	The time during which crops are typically harvested, often co-occurring with the season of autumn.	3327			
-	Time:autumn.N	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.	1276	14-77	Herbst::N	
-	Time:autumn.N	autumn, fall				3272
 	Time:be dead or die.V	To cease or have ceased to live.	2101			
 	Time:be late.A	To be later than the expected time.	425	14-24		
 	Time:before.?	At a time before that.	1882	12-04	vorher::ADV	
@@ -5319,7 +5357,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Time:december.N	December				4012
 	Time:december.N	The 12th month of the Gregorian calendar.	2855		Dezember::N	
 	Time:delay.V	delay, retard, tarry 				3253
-	Time:dry season.N	Yearly period of low rainfall in the tropics.	452			
 	Time:duration.N	duration (amount of time consumed)				3230
 	Time:dusk.N	The darkest stage of twilight in the evening.	2297			
 	Time:early.A	Before the expected time or towards the beginning of a time period.	672	14-16		
@@ -5350,9 +5387,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Time:graveyard shift.N	graveyard shift, middle of the night (midnight to dawn)				3290
 	Time:harmattan.N	Dry, dusty and cold West African trade wind from northeastern direction.	451			
 	Time:holiday.N	holiday				3294
-	Time:hot season.N	Period of the year associated with hot or warm weather.	3047			
-	Time:hour.N	A time period of sixty minutes; one twenty-fourth of a day.	1353	14-51		
-	Time:hour.N	hour (60 minutes)				3291
 	Time:how long.?	Asking for the duration of an event.	2338			
 	Time:hurry.V	To move or do something at a fast pace.	754	14-23	sich beeilen::V	
 	Time:idle.N	The state of not being occupied with anything.	2756			
@@ -5367,14 +5401,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Time:june.N	June				4006
 	Time:june.N	The 6th month of the Gregorian calendar.	2849		Juni::N	
 	Time:just.?	Only a very short time before.	84			
-	Time:last (endure).V	To endure, continue over time.	1186	14-252		
-	Time:last month.N	The month before this month.	2792			
-	Time:last year.?	The year before the current one.	514			
-	Time:last.A	last, final (after all others) 				3261
-	Time:late.?	Towards the end of a time period.	477	14-17		
-	Time:late.A	late, tardy 				3252
-	Time:long ago.?	At a time in the past, especially the distant past.	373			
-	Time:long ago.ADV	long ago (in the far past) 				3204
 	Time:long.A	long (of much duration) 				3231
 	Time:march.N	March				4003
 	Time:march.N	The third month of the Gregorian calendar.	2846		März::N	
@@ -5388,48 +5414,23 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Time:moment.N	moment, an instant				3241
 	Time:monday.N	Monday				4021
 	Time:monday.N	The first day of the week in Europe and in systems using the ISO 8601 norm; the second day of the week in the United States of America.	1697	14-63	Montag::N	
-	Time:monsoon season.N	A period of heavy rain particularly during summer time.	3323			
-	Time:month.N	A period into which a year is divided, historically based on the phases of the moon. In the Gregorian calendar there are twelve months.	1370	14-71	Monat::N	
-	Time:month.N	month				3279
 	Time:morning.N	The period of time from the start of the day (midnight) until midday (12:00).	1339	14-44	Morgen::N	
 	Time:morning.N	morning (dawn to noon)				3285
-	Time:never.?	At no time.	1656	14-34	niemals::ADV	
-	Time:never.ADV	never 				3244
-	Time:new.A	Recently made, created or begun.	1231	14-13	neu::A	
-	Time:new.A	new, novel, recent (having been known for a brief time) 				3214
 	Time:next month.N	The month after this month.	2793			
 	Time:next year.?	The year after the current one.	515			
 	Time:next.A	"next (coming immediately after; ""tomorrow"" = the next day) "				3263
-	Time:night.N	The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.	1233	14-42	Nacht::N	
-	Time:night.N	night				3284
 	Time:noon.N	12 o'clock in the daytime.	2490			
 	Time:noon.N	noon				3286
 	Time:november.N	November				4011
 	Time:november.N	The 11th month of the Gregorian calendar.	2854		November::N	
-	Time:now or today.?	On the current day or in the current moment.	2097			
-	Time:now.?	At present; at this time.	1376	14-18	jetzt::ADV	
-	Time:now.ADV	now (at this time) 				3206
 	Time:october.N	October				4010
 	Time:october.N	The 10th month of the Gregorian calendar.	2853		Oktober::N	
-	Time:often.?	Many times, with short intervals between occasions.	1852	14-32	oft::ADV	
-	Time:old (aged).A	To be old (of persons).	2112		alt[Lebewesen]::A	
-	Time:old (of man).A	Old of a man as opposed to old of a woman.	565			
-	Time:old (of woman).A	Old of a woman as opposed to old of a man.	566			
-	Time:old (used).A	To be old (of things).	2113			
-	Time:old.A	Having lived or existed for a relatively long period of time.	1229	14-15	alt::A	
-	Time:old.A	old (of long standing; having been known for a long time) 				3215
-	Time:old.A	old (of much age; having existed/lived for a long time) 				3213
 	Time:once (in the past).?	One time during a certain time in the past.	2914		einst::ADV	
-	Time:one time.?	An instance or occurrence of an event.	374		einmal::ADV	
-	Time:pass.V	Of time, to elapse, to be spent.	1951		vergehen::V	
 	Time:pause.V	pause, hesitate, suspend action temporarily 				3237
 	Time:perhaps.?	(Of an event) to be possible to occur or to have occurred.	2278			
-	Time:period.N	A length of time.	508			
-	Time:period.N	period, era, epoch				3240
 	Time:permanent.A	permanent, perpetual 				3216
 	Time:prior.A	prior, preceding, previous, contra-next 				3262
 	Time:quickly.ADV	quickly, rapidly, swiftly (with much speed) 				3257
-	Time:rainy season.N	Period of year when most of a region's average annual rainfall occurs.	453			
 	Time:ready.A	Prepared for immediate action or use.	790	14-29		
 	Time:recently.ADV	recently (in the near past) 				3205
 	Time:regular.A	regular (at uniform intervals), periodic 				3221
@@ -5438,8 +5439,6 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Time:sabbath.N	sabbath (day of week with religious significance)				3295
 	Time:saturday.N	Saturday				4026
 	Time:saturday.N	The sixth day of the week in Europe and in systems using the ISO 8601 norm; the seventh day of the week in the United States of America.	1700	14-68	Samstag::N	
-	Time:season.N	One of the four equal periods into which the year is divided by the equinoxes and solstices, resulting from the apparent movement of the sun north and south of the equator during the course of the earth's orbit around it. These periods (spring, summer, autumn and winter) have their characteristic weather conditions in different regions, and occur at opposite times of the year in the N and S hemispheres.	691	14-78		
-	Time:season.N	season				3269
 	Time:second day of the month.N	The second day of the month.	3355			
 	Time:second.N	second (1/60th of a minute)				3293
 	Time:seldom.ADV	seldom, rarely 				3226
@@ -5447,23 +5446,15 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Time:september.N	The 9th month of the Gregorian calendar.	2852		September::N	
 	Time:sequence.N	sequence, order (temporal arrangement of events in a series)				3260
 	Time:series.N	series (a number of similar things following one another)				3259
-	Time:short (time).?	For a brief period or a short amount of time.	3312			
-	Time:short.A	short, brief (of little duration) 				3232
 	Time:slow.A	With low speed.	701	14-22		
 	Time:slowly.ADV	slowly (with little speed) 				3258
 	Time:sometimes.?	On certain occasions, or in certain circumstances, but not always.	1544	14-33	manchmal::ADV	
 	Time:soon.?	In a near future.	703	14-331	bald::ADV	
 	Time:soon.ADV	soon (in the near future) 				3207
 	Time:speed.N	speed, velocity (degree of fastness or slowness)				3256
-	Time:spring.N	spring (the season)				3270
-	Time:springtime.N	Traditionally the first of the four seasons, the season of growth with an ever increasing amount of daytime.	1537	14-75	Frühling::N	
 	Time:start.V	(Of an activity) to begin.	3449			
-	Time:still (continuing).?	Continuance of motion or state.	2919		noch::ADV	
-	Time:still.ADV	still, yet (even until the time mentioned) 				3246
 	Time:sudden.A	sudden, abrupt 				3234
 	Time:suddenly.?	Happening unexpectedly.	2920		plötzlich::ADV	
-	Time:summer.N	Traditionally the second of the four seasons regarded as being from June 21 to September 20 (or just June, July and August) in the Northern Hemisphere and from December 21 to March 20 (or just December, January and February) in the Southern Hemisphere.	1342	14-76	Sommer::N	
-	Time:summer.N	summer				3271
 	Time:sunday.N	Sunday				4027
 	Time:sunday.N	The seventh day of the week in Europe and in systems using the ISO 8601 standard, or the first day of the week in the United States of America, the Sabbath for most Christians.	1699	14-62	Sonntag::N	
 	Time:sunrise.N	The instant at which the upper edge of the Sun appears over the eastern horizon in the morning.	2296			
@@ -5478,19 +5469,10 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Time:third day of the month.N	The third day of the month.	3352			
 	Time:this month.N	The same month as today.	2791			
 	Time:this year.?	The current year.	513			
-	Time:three days before now.?	Three days before today.	2333			
-	Time:three days from now.?	Three days from today.	2332			
 	Time:thursday.N	The fourth day of the week in Europe and in systems using the ISO 8601 norm; the fifth day of the week in the United States of America.	1693	14-66	Donnerstag::N	
 	Time:thursday.N	Thursday				4024
-	Time:time.N	The dimension of the physical universe which, at a given place, orders the sequence of events.	892	14-11	Zeit::N	
 	Time:time.N	"time (e.g. ""do it 3 times""), occasion, instance, iteration"				3227
-	Time:time.N	time (the dimension/continuum of past-present-future)				3200
 	Time:timely.A	timely, prompt, on time 				3251
-	Time:today.?	On the current day or date.	1283	14-47	heute::ADV	
-	Time:today.ADV	today 				3266
-	Time:tomorrow or yesterday.?	The day after the present day or the day before today.	2801			
-	Time:tomorrow.?	The day after the present day.	1329	14-48	morgen::ADV	
-	Time:tomorrow.ADV	tomorrow 				3267
 	Time:tuesday.N	The second day of the week in Europe and in systems using the ISO 8601 norm; the third day of the week in the United States of America.	1695	14-64	Dienstag::N	
 	Time:tuesday.N	Tuesday				4022
 	Time:until.?	Up to that point in time.	2753			
@@ -5500,15 +5482,9 @@ Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110
 	Time:week.N	A period of seven days.	1469	14-61	Woche::N	
 	Time:week.N	week				3280
 	Time:while.N	A certain duration of time, a period of time.	726			
-	Time:winter.N	Traditionally, the fourth of the seasons, marked by the applicable hemisphere of the planet being at its minimum angle of exposure to the Sun, resulting in short days, long nights and typically in low temperatures.	1471	14-74	Winter::N	
-	Time:winter.N	winter				3273
 	Time:wristwatch.N	An instrument used to measure or keep track of time that is carried around the wrist.	3349			
 	Time:year after next year.?	The year after the next year.	2330			
 	Time:year before last year.?	The year before the last year.	2331			
-	Time:year.N	The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	1226	14-73	Jahr::N	
-	Time:year.N	year				3278
-	Time:yesterday.?	The day before today.	1174	14-49	gestern::ADV	
-	Time:yesterday.ADV	yesterday 				3265
 	Time:yet.?	Up to a particular time.	2577			
 	Time:young (of man).A	Young of a man as opposed to young of a woman.	564			
 	Time:young (of woman).A	Young of a woman as opposed to young of a man.	563			
