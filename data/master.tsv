@@ -119,6 +119,7 @@ Body:back.N	Body:back.N	The rear of body, especially the part between the neck a
 Body:bald.A	Body:bald.A	Without hair on the head.	1125	4-93		
 Body:beak.N	Body:beak.N	External anatomical structure of birds which is used for taking food and for eating.	73	4-241		
 Body:beard.N	Body:beard.N	Facial hair of humans on the chin, cheeks and jaw.	678	4-142	Bart::N	519
+Body:belch.V	Action/Technology:belch.V	To release gas from the digestive tract through the mouth.	2245			
 Body:belly or stomach.N	Body:belly or stomach.N	The lower part of the front of the torso, including the interior part below.	2114			
 Body:belly.N	Body:belly.N	The lower part of the front of the torso (or a comparable part of an animal), confined by the upper side by the midriff and the lowerside by the pelvis. Contains the intestines.	1251	4-431	Bauch::N	
 Body:bellybutton.N	Body:bellybutton.N	The middle of the belly where the umbilical cord has grown in the womb during pregnancy.	3715			
@@ -129,6 +130,8 @@ Body:blink.V	Body:blink.V	To make a quick wink of one or both eyelids, often rep
 Body:blister.N	Body:blister.N	A small bubble on the skin, that contains watery fluid and is caused by heat, pressure or infection.	1584	4-855		
 Body:blood vessel.N	Body:blood vessel.N	The blood vessels are the part of the circulatory system that transports blood throughout the human body or an animal body.	525	4-151		
 Body:blood.N	Body:blood.N	A fluid connective tissue consisting of the plasma and cells that circulate in the blood vessels.	946	4-15	Blut::N	565
+Body:blow nose.V	Action/Technology:blow (with nose).V	To clean one's nose by exhaling through it.	2679			
+Body:blow.V	Action/Technology:blow (with mouth).V	To expel air through persed lips.	176		blasen::V	
 Body:body hair.N	Body:hair (body).N	The terminal hair that develops on the human body during and after puberty.	189	4-144		517
 Body:body.N	Body:body.N	The physical structure of a human or animal.	1480	4-11	Körper::N	500
 Body:boil.N	Body:boil.N	A painful, local inflammation of the skin, caused by infection of a hair follicle. Usually, a hard core and pus are present.	793	4-856		
@@ -142,6 +145,7 @@ Body:breath.N	Body:breath.N	The air inhaled and exhaled through the lungs.	870		
 Body:breath.V	Body:breath.V	To repeatedly draw air into, and expel it from, the lungs, in order to extract oxygen from it and excrete waste products.	1407	4-51	atmen::V	710
 Body:bruise.N	Body:bruise.N	A collection of blood in the body tissue outside the blood vessels	1148	4-852		
 Body:burn.N	Body:burn.N	An injury caused by exposure to heat, fire or chemical agents.	3622			
+Body:burp.V	Action/Technology:burp.V	To release gas from the digestive tract through the mouth.	2789			
 Body:buttock.N	Body:buttocks.N	The fleshy part of the human body that one sits on.	834	4-464		557
 Body:calf of leg.N	Body:calf of leg.N	The fleshy backside of the lower part of the leg.	498	4-352		
 Body:carcass.N	Body:carcass.N	The body of a dead animal, on which other animals have begun to feed.	1770	4-771		
@@ -355,6 +359,8 @@ Building:window.N	Building:window.N	An opening, usually covered by one or more p
 Building:yard.N	Building:yard.N	A small, usually uncultivated area adjoining or within the precincts of a house or other building.	736	7-15		
 Clothing:naked.A	Body:naked.A	Without clothing.	590	4-99	nackt::A	645
 Combat:bomb.N	Modernity:bomb.N	A device filled with explosives used for destroying things.	1804	23-575		
+Combat:brawl.N	Action/Technology:brawl.V	A normally unarmed and ruleless scuffle.	3301			
+Combat:brawl.V	Action/Technology:brawl (fight).V	To be involved in a normally unarmed and ruleless scuffle.	2902		sich schlagen::V	
 Combat:fight.N	Action/Technology:fight (combat).N	A hostile encounter, such as a battle or combat.	3880		Kampf::N	
 Combat:fight.V	Combat/Hunting:fight.V	To be involved in a physical confrontation.	1423	20-11		782
 Combat:wrestle.V	Body:wrestle.V	wrestle 				783
@@ -369,7 +375,7 @@ Cosmos:Sun.N	Nature:sun.N	The particular star at the centre of our solar system,
 Cosmos:Ursa major.N	Nature:ursa major.N	A large group of stars in the shape of a bear visible on the northern hemisphere.	3342			
 Element:Ac.N		Actinium, the chemical element with atomic number 89 and symbol Ac.				
 Element:Ag.N	Action/Technology:silver.N	A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	759	9-65	Silber::N	3324
-Element:Al.N		Aluminium, the chemical element with atomic number 13 and symbol Al.				3329
+Element:Al.N	Nature:aluminium.N	A metallic chemical element of silver-white colour that occurs mainly in bauxite, with assigned symbol Al and proton number 13.	3385			3329
 Element:Am.N		Americium, the chemical element with atomic number 95 and symbol Am.				
 Element:Ar.N		Argon, the chemical element with atomic number 18 and symbol Ar.				
 Element:As.N		Astatine, the chemical element with atomic number 85 and symbol As.				
@@ -544,7 +550,20 @@ Family:wife.N	Family:wife.N	The female partner in a marriage.	1199	2-32	Ehefrau:
 Family:younger brother.N	Family:younger brother.N	A male with fewer years of age than one or more of his siblings.	1760	2-445		
 Family:younger sibling.N	Family:younger sibling.N	A person who is born after another person who has the same parents.	427	2-4562		
 Family:younger sister.N	Family:younger sister.N	A female who is younger than one or more of her siblings.	1761	2-455		
+Flower:Prunus armeniaca.N	Agriculture/Plant:apricot blossom.N	The flower of the Apricot Tree.	2745			
+Flower:Prunus salicina.N	Agriculture/Plant:plum blossom.N	The flower of the Chinese Plum.	2744			
+Food:alcohol.N	Food:alcohol (drink).N	A drink (a liquor or brew) containing ethanol, commonly known as alcohol.	2050			
+Food:bake.V	Food:bake.V	To cook (something) in an oven, but not in fat, or harden by means of dry heat.	183	5-24	backen::V	3493
 Food:candy.N	Modernity:candy.N	Food item that is rich in sugar.	874	23-565		
+Food:fermented alcohol.N	Food:alcohol (fermented drink).N	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	404	5-94		
+Food:Malus domestica.N	Agriculture/Plant:apple.N	The popular, crisp, round fruit of the apple tree, usually with red, yellow or green skin, light-coloured flesh and pips inside.	1320		Apfel::N	
+Food:Musa acuminata.N	Agriculture/Plant:banana.N	The fruit of the banana tree.	868	8-84		
+Food:Musa balbisiana.N	Agriculture/Plant:plantain.N	A kind of banana that is normally cooked and not eaten raw.	399			
+Food:Prunus armeniaca.N	Food:apricot.N	A fruit of orange color with a fuzzy peel and a black seed inside, similar to a peach or plum of a tree from the family Prunus armeniaca.	3730			
+Food:salad.N	Food:salad.N	A food made primarily of a mixture of raw or cold ingredients, typically vegetables, usually served with a dressing such as vinegar or mayonnaise.				3460
+Food:sandwich.N	Food:sandwich.N	Foodstuff where pieces of bread serve as the wrapper of some other food.				3461
+Food:sauce.N	Food:sauce.N	A liquid food accompanying a dish.	132			
+Food:sausage.N	Food:sausage.N	A length of intestine, stuffed with ground (organ) meat, and other ingredients. Instead of intestines, a different kind of wrapper can be used.	1874	5-63		3435
 Food:tea.N	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.	1373	23-9	Tee::N	
 Hunting:hunt.V	Combat/Hunting:hunt.V	To chase down prey and (usually) kill it.	1435	20-61	jagen::V	781
 Hunting:hunter.N	Combat/Hunting:hunter.N	A person who hunts game.	1053			
@@ -612,6 +631,14 @@ People:white woman.N	Family:white woman.N	Term used to describe women who are pe
 People:woman.N	Family:woman.N	An adult human member of the sex that produces ova and bears young.	962	2-22	Frau::N	316
 People:young man.N	Family:young man.N	A male juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.	76	2-251		
 People:young woman.N	Family:young woman.N	A female juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.	77	2-261		
+Plant:Ananas comosus.N	Agriculture/Plant:pineapple.N	A tropical plant with edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.	2440			
+Plant:Betula.N	Agriculture/Plant:birch.N	A tree of the genus Betula, with small leaves and a trunk that is white with darker blotches.	1855	8-63	Birke::N	
+Plant:bud.N	Agriculture/Plant:bud.N	A bud is an undeveloped or embryonic shoot and normally occurs in the axil of a leaf or at the tip of the stem.	1684			1021
+Plant:bulb.N	Agriculture/Plant:bulb.N	A bulb is the part of some plants that stores food while the plant is resting from growing.	2617			
+Plant:plant.N	Agriculture/Plant:plant (vegetation).N	Any living organism that synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion.	653	8-53		1000
+Plant:Prunus armeniaca.N	Agriculture/Plant:apricot tree.N	A tree that bears the apricot fruit.	2357			
+Plant:Prunus salicina.N	Agriculture/Plant:chinese plum.N	An Asian tree species classified in the Armeniaca section of the genus Prunus subgenus Prunus.	2356			
+Plant:stem.N	Agriculture/Plant:plant stem.N	One of two main structural axes of a vascular plant, the other being the root.	2628			
 Quantity:0.NUM	Quantity:zero.NUM	The integer zero (0).	1294	13		2500
 Quantity:1.NUM	Quantity:one.NUM	The natural number one (1).	1493	13-01	eins::NUM	2501
 Quantity:10.NUM	Quantity:ten.NUM	The natural number ten (10).	1515	13-1	zehn::NUM	2510
@@ -829,10 +856,9 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Action/Technology:basket.N	A lightweight container, generally round, open at the top, and tapering toward the bottom.	1539	9-76		
 	Action/Technology:be able.V	To have the ability to do something.	972		können::V	
 	Action/Technology:beat.V	To strike or pound repeatedly, usually in some sort of rhythm.	1665			
-	Action/Technology:because of.?	Undergo decomposition.	2918		wegen::PRP	
+	Action/Technology:because of.?	For the reason of.	2918		wegen::PRP	171
 	Action/Technology:become extinguished.V	Being stopped from burning or emitting light.	2209			
 	Action/Technology:become sick.V	To catch a disease.	2327		krank werden::V	
-	Action/Technology:belch.V	To release gas from the digestive tract through the mouth.	2245			
 	Action/Technology:bell.N	A simple sound-making device.	2246			
 	Action/Technology:bellows.N	A device that consists of a flexible leather air valve which can be expanded or contracted by operating the two handles, located on the opposite sides. It has many applications, especially blowing on a fire to supply it with air.	3658			
 	Action/Technology:bend (oneself).V	To turn oneself over.	2761			
@@ -842,8 +868,6 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Action/Technology:blacken.V	To change the color of something into black.	2808			
 	Action/Technology:blacksmith.N	A craftsman expert in iron and other metals work.	1001	9-6		
 	Action/Technology:block (the way).V	To prevent somebody or something from passing.	2762			
-	Action/Technology:blow (with mouth).V	To expel air through persed lips.	176		blasen::V	
-	Action/Technology:blow (with nose).V	To clean one's nose by exhaling through it.	2679			
 	Action/Technology:boomerang.N	A tool with a curved shape used as a weapon or for sport which returns when thrown into the air.	135	9-87		
 	Action/Technology:bore.V	To create a hole by removing material with a drill.	1501	9-46		
 	Action/Technology:bottom grindstone.N	The bottom element in a two-stone grindstone.	3023			
@@ -852,8 +876,6 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Action/Technology:braid (verb) or weave (basket).V	To braid together hair, threads, strings, twigs etc. in order to create a larger string-like object or to weave a basket or use similar techniques for creating other objects.	3294	9-75		
 	Action/Technology:braid (verb).V	To braid together hair, threads, strings, twigs etc. in order to create a larger string-like object (which can be linear as in a braid of hair or circular as in a wreath).	3295			
 	Action/Technology:brass.N	A yellow-colored metal made of the mixture of copper and zinc and used in the making of decorations and musical instruments.	3743			
-	Action/Technology:brawl (fight).V	To be involved in a normally unarmed and ruleless scuffle.	2902		sich schlagen::V	
-	Action/Technology:brawl.V	A normally unarmed and ruleless scuffle.	3301			
 	Action/Technology:break (breaking).V	To come apart or split into pieces (intransitive).	3020			
 	Action/Technology:break (cleave).V	To divide something with force in two or more parts.	2558		zerbrechen::V	
 	Action/Technology:break (destroy or get destroyed).V	To divide or be divided into pieces and thereby damaged.	680	9-26	brechen::V	
@@ -867,7 +889,6 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Action/Technology:bundle.N	A group of things fastened together.	2943		Bündel::N	
 	Action/Technology:burden stick.N	A long piece of wood used to carry a burden.	3159			
 	Action/Technology:burn.V	To put fire on something or to be on fire.	2102			
-	Action/Technology:burp.V	To release gas from the digestive tract through the mouth.	2789			
 	Action/Technology:bury.V	To put in the ground and cover with earth.	1719	4-78		
 	Action/Technology:bushfire.N	An uncontrolled fire in a wooded or grassy area.	2811			
 	Action/Technology:by (passive marker).?	Marker of the agent in a passive sentence.	2751			
@@ -1184,7 +1205,6 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Adposition:after.ADP	after (later than; in the future of) 				142
 	Adposition:around.ADP	around, encircling, surrounding 				160
 	Adposition:at.ADP	at (in the same location as) 				103
-	Adposition:because of.ADP	because of, due to 				171
 	Adposition:before.ADP	before, prior to, earlier than 				140
 	Adposition:behind.ADP	behind, in back of, to the rear of 				131
 	Adposition:between.ADP	between, among 				161
@@ -1216,15 +1236,11 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Agriculture/Plant:agave.N	A plant that grows in the hot, dry parts of the southern US and South America. There are many different types of agave and the plants have thick long or rounded leaves with sharp points on them, and tall flowers.	3989			
 	Agriculture/Plant:alang-alang grass.N	It is a perennial high grown grass native to Asia, Australia and Africa.	464			
 	Agriculture/Plant:almond.N	The edible and cultivated fruit of the tree Prunus dulcis in the family Rosaceae. It resembles a nut and can be sold shelled or unshelled.	3815			
-	Agriculture/Plant:apple.N	The popular, crisp, round fruit of the apple tree, usually with red, yellow or green skin, light-coloured flesh and pips inside.	1320		Apfel::N	
-	Agriculture/Plant:apricot blossom.N	The flower of the Apricot Tree.	2745			
-	Agriculture/Plant:apricot tree.N	A tree that bears the apricot fruit.	2357			
 	Agriculture/Plant:asparagus.N	A spring vegetable.	2605			
 	Agriculture/Plant:aspen.N	A kind of poplar tree (genus Populus; section Populus).	903			
 	Agriculture/Plant:babassu palm.N	Type of palm (Attalea speciosa) widely spread in Brazil; its fruit is edible and used to produce oil and medicine	3925			
 	Agriculture/Plant:bamboo.N	A group of woody perennial evergreen plants in the true grass family Poaceae, subfamily Bambusoideae, tribe Bambuseae.	1927	8-94		
 	Agriculture/Plant:banana tree.N	The tropical treelike plant which bears clusters of bananas. The plant, of the genus Musa, has large, elongated leaves.	1795			
-	Agriculture/Plant:banana.N	The fruit of the banana tree.	868	8-84		
 	Agriculture/Plant:banyan.N	A tropical Indian fig tree, Ficus benghalensis, that has many aerial roots.	346	8-85		
 	Agriculture/Plant:baobab tree.N	Genus of big trees (Adansonia) from the mallow family, growing in tropical countries.	997			
 	Agriculture/Plant:bark.N	The exterior covering of the trunk and branches of a tree.	1204	8-75	Rinde::N	
@@ -1234,7 +1250,6 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Agriculture/Plant:beer banana.N	Triploid banana cultivars originating from the African Great Lakes region.	2251			
 	Agriculture/Plant:betel pepper vine.N	A vine of the species 'Piper betle' whose leaves are chewed for its medicinal properties.	177			
 	Agriculture/Plant:betelnut.N	The seed of the areca palm (Areca catechu).	217			
-	Agriculture/Plant:birch.N	A tree of the genus Betula, with small leaves and a trunk that is white with darker blotches.	1855	8-63	Birke::N	
 	Agriculture/Plant:bitter buckwheat.N	Fagopyrum tataricum, a domesticated plant similar to the (sweet) buckwheat.	3256			
 	Agriculture/Plant:bloom.V	To bear flowers or to start bearing flowers; to blossom.	3287			
 	Agriculture/Plant:blueberry.N	Perennial flowering plants with indigo-coloured berries from the section Cyanococcus.	2809			
@@ -1245,8 +1260,6 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Agriculture/Plant:brazilian cedar.N	Native Brazilian tree  (Cedrela odorata). Its wood is often used for canoes	3929			
 	Agriculture/Plant:broad bean.N	Bean of the plant Vicia faba, also known as fava bean. It is typically large, of a pale green colour, and edible.	3839			
 	Agriculture/Plant:buckwheat.N	(Fagopyrum esculentum) An annual plant with clusters of small pinkish white flowers and small edible triangular seeds which are used whole or ground into flour.	2040			
-	Agriculture/Plant:bud.N	A bud is an undeveloped or embryonic shoot and normally occurs in the axil of a leaf or at the tip of the stem.	1684			
-	Agriculture/Plant:bulb.N	A bulb is the part of some plants that stores food while the plant is resting from growing.	2617			
 	Agriculture/Plant:burn land.V	Clear an area with fire.	3539			
 	Agriculture/Plant:bush.N	A plant resembling a small tree, but has no, and will never develop, a stem.	1683			
 	Agriculture/Plant:cactus.N	A mamber of the plant family Cactaceae.	2595			
@@ -1257,7 +1270,6 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Agriculture/Plant:cecropia.N	Common designation of several species of the Cecropia genus (genus Cecropia)	3931			
 	Agriculture/Plant:chaff (husk).N	The outer shell or coating of a seed.	2363			
 	Agriculture/Plant:chestnut tree.N	Any north temperate fagaceous tree of the genus Castanea, such as Castanea sativa, which produce flowers in long catkins and nuts in a prickly bur.	1009			
-	Agriculture/Plant:chinese plum.N	An Asian tree species classified in the Armeniaca section of the genus Prunus subgenus Prunus.	2356			
 	Agriculture/Plant:chonta palm.N	Species of flowering plant in the Arecaceae family, trunked palm tree which is endemic to the Juan Fernández Islands archipielago in the southeast Pacific Ocean west of Chile.	440			
 	Agriculture/Plant:citrus fruit.N	The fruits of a plant in the citrus genus. They have a leathery rind surrounding segments filled with pulp vesicles.	1126	8-83		
 	Agriculture/Plant:clove.N	The aromatic flower bud of a clove tree, used as a spice.	2000			
@@ -1386,17 +1398,12 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Agriculture/Plant:pear.N	A fruit produced by the pear tree.	922			
 	Agriculture/Plant:persimmon.N	Edible fruit of a number of species of trees of the genus Diospyros in the ebony wood family.	2044			
 	Agriculture/Plant:pine.N	Evergreen coniferous tree of the genus Pinus.	1740	8-64	Kiefer[Baum]::N	
-	Agriculture/Plant:pineapple.N	A tropical plant with edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.	2440			
 	Agriculture/Plant:pipe.N	A device consisting of a mouthpiece, a long pipe stem and a pipe bowl, that is used to smoke tobacco.	1124	8-691		
 	Agriculture/Plant:pitchfork.N	An agricultural tool comprising a fork attached to a long handle used for pitching hay or bales of hay high up onto a haystack.	337	8-26		
 	Agriculture/Plant:plant (something).V	To put a plant in the ground so that it strikes root and grows.	1486	8-531		
-	Agriculture/Plant:plant (vegetation).N	Any living organism that synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion.	653	8-53		
-	Agriculture/Plant:plant stem.N	One of two main structural axes of a vascular plant, the other being the root.	2628			
 	Agriculture/Plant:plantago.N	A plant of the genus Plantago, with a rosette of sessile leaves about 10 cm long with a narrow part instead of a petiole, and with a spike inflorescence with the flower spacing varying widely among the species.	3221			
-	Agriculture/Plant:plantain.N	A kind of banana that is normally cooked and not eaten raw.	399			
 	Agriculture/Plant:plough (instrument).N	An agricultural device pulled through the ground in order to break it open into furrows for planting.	2154			
 	Agriculture/Plant:plough.V	To use a plough on to prepare for planting.	1921	8-21		
-	Agriculture/Plant:plum blossom.N	The flower of the Chinese Plum.	2744			
 	Agriculture/Plant:poplar.N	Any of various deciduous trees of the genus Populus.	821			
 	Agriculture/Plant:prickly ash.N	A flowering plant in the family Rutaceae.	3253			
 	Agriculture/Plant:pull up weeds.V	To remove weeds from e.g. a field.	3548			
@@ -3068,15 +3075,10 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Family:younger brother (of woman).N	The younger brother of a woman.	2417			
 	Family:younger sister (of man).N	The younger sister of a man.	2420			
 	Family:younger sister (of woman).N	The younger sister of a woman.	2421			
-	Food:alcohol (drink).N	A drink (a liquor or brew) containing ethanol, commonly known as alcohol.	2050			
-	Food:alcohol (fermented drink).N	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	404	5-94		
 	Food:animal or meat.N	Any living organism that is characterized by voluntary movement, be it alive or ready prepared to be eaten.	2096			
-	Food:apricot.N	A fruit of orange color with a fuzzy peel and a black seed inside, similar to a peach or plum of a tree from the family Prunus armeniaca.	3730			
 	Food:astringent.A	A property describing a substance which causes the skin, membranes, or other tissue to contract. Tannins in unripe fruit are known to function as astringents.	3837			
 	Food:aubergine.N	An Asian plant, Solanum melongena, cultivated for its edible purple, green, or white ovoid fruit.	1146			
 	Food:avocado.N	A fruit with a soft, greenish peel and a brown round seed in the middle of a tree from the family Persea americana.	3725			
-	Food:bake.V	To cook (something) in an oven, but not in fat.	183	5-24	backen::V	
-	Food:bake.V	bake (cook or harden by means of dry heat) 				3493
 	Food:bamboo shoot.N	The edible shoots (new bamboo culms that come out of the ground) of many bamboo species.	2494			
 	Food:banisterium.N	A psychoactive infusion prepared from the Banisteriopsis spp.	276			
 	Food:baozi.N	A baozi or simply known as bao, bau, humbow, nunu, bausak, pow or pau is a type of steamed, filled bun or bread-like (i.e. made with yeast) item in various Chinese cuisines.	511			
@@ -3258,15 +3260,10 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Food:rum.N	Distilled alcohol beverage made from sugarcane.	2833			
 	Food:sago palm.N	Common name for several plants which are used to produce a starchy food known as sago.	2372			
 	Food:sago.N	Starch extracted from the spongy centre, or pith, of various tropical palm stems, especially Metroxylon sagu.	2270			
-	Food:salad.N	salad				3460
 	Food:salt.N	A condiment (NaCl - Sodium Chloride) used to add to or enhance the flavour of food (commonly with pepper).	1274	5-81	Salz::N	
 	Food:salt.N	salt				3466
-	Food:sandwich.N	sandwich				3461
 	Food:satiated.A	Having eaten enough.	106			
-	Food:sauce.N	A liquid food accompanying a dish.	132			
 	Food:saucer.N	A small dish for placing a cup.	271	5-36		
-	Food:sausage.N	A length of intestine, stuffed with ground (organ) meat, and other ingredients. Instead of intestines, a different kind of wrapper can be used.	1874	5-63		
-	Food:sausage.N	sausage				3435
 	Food:sheep meat.N	The meat of domestic sheep, such as lamb and mutton.	3394			
 	Food:shell (something).V	To remove the hard outer covering from nuts, peas, eggs, etc.	3660			
 	Food:sichuan pepper.N	A spice from Sichuan Province that is famous for causing tingling sensation and its unique citrus flavour.	3395			
@@ -4234,7 +4231,6 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Motion:yoke.N	A device for joining together a pair of draft animals.	14	10-78		
 	Nature:active.A	Characterized by energetic activity.	1861			
 	Nature:air.N	A predominantly mechanical mixture of a variety of individual gases forming the earth's enveloping atmosphere.	27	1-71	Luft::N	
-	Nature:aluminium.N	A metallic chemical element of silver-white colour that occurs mainly in bauxite, with assigned symbol Al and proton number 13.	3385			
 	Nature:arctic lights.N	A natural light display in the sky particularly in the Arctic regions.	261	1-771		
 	Nature:area.N	Area is the quantity that expresses the extent of a two-dimensional figure or shape, or planar lamina, in the plane.	2980		Gegend::N	
 	Nature:ash.N	The incombustible matter remaining after a substance has been incinerated.	646	1-84	Asche::N	
@@ -4706,7 +4702,6 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Plant:banana.N	banana (plant/fruit of genus Musa)				1031
 	Plant:bean.N	bean (lima/snap/etc.: plant/seed of genus Phaseolus or similar)				1080
 	Plant:berry.N	berry (small pulpy fruit)				1020
-	Plant:bud.N	bud (of flower/leaf)				1021
 	Plant:bush.N	bush, shrub				1002
 	Plant:cabbage.N	cabbage (plant/leaves of sp. Brassica oleracea capitata)				1081
 	Plant:carrot.N	carrot (plant/root of sp. Daucus carota sativus)				1082
@@ -4755,7 +4750,6 @@ Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::AD
 	Plant:pepper.N	pepper (black pepper; plant/seed of sp. Piper nigrum)				1069
 	Plant:pepper.N	pepper (hot/sweet/bell pepper -- plant/pod of genus Capsicum)				1093
 	Plant:pine.N	pine (coniferous tree of genus Pinus)				1045
-	Plant:plant.N	plant (a vegetable life-form)				1000
 	Plant:plant.V	plant 				1011
 	Plant:plum.N	plum (certain trees/fruits of genus Prunus)				1038
 	Plant:pod.N	pod (seed pod)				1026
