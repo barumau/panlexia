@@ -10,7 +10,7 @@ Only 1–3 files are listed per directory for brevity.
     │  ├─ index.md
     │  ├─ id.md
     │  └─ ...
-    ├─ base/
+    ├─ data/
     │  ├─ Concepticon/
     │  ├─ NorthEuraLex/
     │  ├─ ULD/
@@ -19,13 +19,12 @@ Only 1–3 files are listed per directory for brevity.
     ├─ dict/
     │  ├─ definition
     │  │  └─ eng-definition.tsv
-    │  ├─ conlangs
-    │  │  ├─ epo.tsv
-    │  │  ├─ pandunia.tsv
+    │  ├─ A
+    │  │  ├─ abk.tsv
     │  │  └─ ...
-    │  └─ natlangs
-    │     ├─ eng.tsv
-    │     ├─ yue.tsv
+    │  ├─ ...
+    │  └─ Z
+    │     ├─ zul.tsv
     │     └─ ...
     ├─ src/
     │  ├─ create_initial_ids_and_definitions.py
@@ -34,12 +33,12 @@ Only 1–3 files are listed per directory for brevity.
     ├─ LICENSE.md
     └─ README.md
  
-- `base`: Files for creating first Panlexia dictionaries from external sources, like Concepticon, NorthEuraLex, WOLD and ULD.
+- `data`: Files for creating first Panlexia dictionaries from external sources, like Concepticon, NorthEuraLex, WOLD and ULD.
 - `doc`: Documentation about structure, contents and use of Panlexia.
-- `natlangs`: Dictionary data of natural languages.
-    - File names are 3-letter language codes according to the *ISO 639-3* standard.
-- `conlangs`: Dictionary data of constructed languages.
-    - File names are full names of languages unless they have the 3-letter *ISO 639-3* code.
+- `dict`: Dictionary files for all languages.
+    - The dictionaries are filed to subdirectories by their first letter.
+    - Filename is either a 3-letter language code from the *ISO 639-3* standard
+      or, in case the language code is missing, the full name of the languages in lowercase Basic Latin letters.
 - `src`: Source code for programs for processing Panlexia data.
 
 ## Language-specific word lists
@@ -49,8 +48,7 @@ They consist in minimum of the following three columns.
 
 1. `id`: The Panlexia concept identifier that links definitions and words and in different languages together.
    Fields in this column shall never be empty.
-2. `num`: The number of the translation as a simple numeral, like `1`, `2`, `3`, `4`, etc.
-   An empty value means the same as `1`.
+2. `num`: The number of the translation for the same `id`, like `1`, `2`, `3`, `4`, etc.
 3. `word`: The word or phrase in the current language that expresses the meaning of the concept.
    Fields in this column shall never be empty.
 
@@ -62,8 +60,8 @@ Below is an excerpt of a minimal word list file for the Esperanto language in ta
 | Family:father.N    | 2   | paĉjo              |
 | Family:mother.N    | 1   | patrino            |
 | Family:mother.N    | 2   | panjo              |
-| People:man.N       |     | viro               |
-| People:woman.N     |     | virino             |
+| People:man.N       | 1   | viro               |
+| People:woman.N     | 1   | virino             |
 
 Word list files may include also some or all of the following additional columns.
 
