@@ -61,10 +61,10 @@ def sort_and_write_to_dictionary_file(lang_code, data):
 
     filename = "dict/" + lang_code[0].upper() + "/" + lang_code + ".tsv"
     outfile = helpers.tsv_writer(filename, 'w')
-    outfile.dict.writerow(["id", "num", "word", "pronunciation"])
+    outfile.dict.writerow(["id", "word", "pronunciation"])
 
     for row in sorted_map:
-        outfile.dict.writerow(["", row[0], row[1], row[2], row[3]])
+        outfile.dict.writerow([row[0], row[1], row[2]])
 
 
 def write_dictionary_for_one_language(datalist, i, n, NELex_to_Panlexia):
@@ -74,9 +74,6 @@ def write_dictionary_for_one_language(datalist, i, n, NELex_to_Panlexia):
     count = 0
     id_index = 0
     id_sum = len(NELex_to_Panlexia)
-
-    previous_id = ""
-    synonym_number = 1
 
     dictionary = []
 
@@ -89,13 +86,7 @@ def write_dictionary_for_one_language(datalist, i, n, NELex_to_Panlexia):
                 # Write only those words that have a Panlexia id.
                 if NELex_to_Panlexia[id_index][1] != "":
                     count = count + 1
-                    if NELex_id == previous_id:
-                        #Increase number of synonyms.
-                        synonym_number = synonym_number + 1
-                    else:
-                        synonym_number = 1
-                    dictionary.append([NELex_to_Panlexia[id_index][1], synonym_number, datalist[i][Word_Form], datalist[i][IPA]])
-                    previous_id = NELex_id
+                    dictionary.append([NELex_to_Panlexia[id_index][1], datalist[i][Word_Form], datalist[i][IPA]])
                 break
             id_index = id_index + 1
         i = i + 1
