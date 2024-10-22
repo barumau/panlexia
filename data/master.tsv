@@ -426,8 +426,6 @@ Building:wall.N	Building:wall.N	The outer structure which encloses a building an
 Building:windmill.N	Action/Technology:windmill.N	A large structure or building with long revolving blades or sails that is used for converting wind energy in order to produce electricity or to directly power an attached mechanical construction for grinding.	3841			
 Building:window.N	Building:window.N	An opening, usually covered by one or more panes of clear glass, to allow light from outside to enter a building or vehicle.	1375	7-25	Fenster::N	1514
 Building:yard.N	Building:yard.N	A small, usually uncultivated area adjoining or within the precincts of a house or other building.	736	7-15		
-Business:accept	Action/Technology:accept.V	To take or get something that was offered by someone, to willingly receive	3898			1721
-Business:offer.V	Business:offer.V	offer (present for acceptance or rejection) 				1720
 Cleaning:broom.N	Action/Technology:broom.N	A tool used to sweep and clean the floor, made of a bundle of straws or twigs attached to a long handle.	245	9-38	Besen::N	
 Cleaning:clean (sth).V	Motion:clean (something).V	To cause something to be no longer dirty.	2235		reinigen::V	
 Cleaning:clean.A	Perception:clean.A	Not dirty.	704	15-87	sauber::A	
@@ -442,6 +440,7 @@ Cleaning:wipe.V	Action/Technology:wipe.V	To move an object or utensil over a sur
 Cleaning:wring.V	Action/Technology:wring.V	To take a cloth and twist its ends into different directions in order to dry it.	3224			
 Clothing:knit.V	Action/Technology:knit.V	To create a textile by manipulating yarn with the help of two long needles.	2905		stricken::V	
 Clothing:naked.A	Body:naked.A	Without clothing.	590	4-99	nackt::A	645
+Combat:battle cry.N	Language:battle cry (war whoop).N	A shout, used by warriors in battle with the purpose of arousing aggression on their own side or intimidating the enemy.	3741			
 Combat:bomb.N	Modernity:bomb.N	A device filled with explosives used for destroying things.	1804	23-575		
 Combat:box.V	Action/Technology:box (somebody or something).V	The act of using fists to fight or hit.	3108			
 Combat:brawl.N	Action/Technology:brawl.V	A normally unarmed and ruleless scuffle.	3301			
@@ -450,17 +449,30 @@ Combat:fight.N	Action/Technology:fight (combat).N	A hostile encounter, such as a
 Combat:fight.V	Combat/Hunting:fight.V	To be involved in a physical confrontation.	1423	20-11		782
 Combat:strike (sb).V	Action/Technology:strike (someone).V	To intentionally hit someone with a sharp blow or to impel, usually with a hand or weapon.	3308		schlagen::V	
 Combat:wrestle.V	Body:wrestle.V	wrestle 				783
+Communication:accept	Action/Technology:accept.V	To take or get something that was offered by someone, to willingly receive	3898			1721
 Communication:answer.V	Language:answer.V	To communicate a message of any form in reaction to something that has been asked or expressed, to the being who expressed it; to react verbally.	1275	18-32		2272
+Communication:boast.V	Language:boast.V	To show off.	101	18-45	prahlen::V	
+Communication:call.V	Language:call.V	To address or summon someone.	1084	18-41	rufen::V	2213
 Communication:cellphone.N	Tool:cellphone.N	cellphone, cellular telephone				1278
+Communication:complain.V	Language:complain.V	To express one's dissatisfaction or unhappiness.	3642			
+Communication:deny.V	Language:deny.V	To refuse strongly and solemnly to own or acknowledge.	755	18-34		2215
 Communication:dialect.N	Language:dialect.N	A variety of a language that is characteristic of a particular group.	2815			
+Communication:forbid.V	Language:forbid.V	To tell not to do something.	83	18-38		
 Communication:gesture.V	Body:gesture.V	gesture 				747
+Communication:goodbye.N	Language:goodbye.N	A conventional expression, used as a farewell when parting.	3554			
+Communication:greet.V	Language:greet.V	To welcome someone; to address someone in a friendly and welcoming way upon meeting them.	3552			
+Communication:hello.N	Language:hello.N	A conventional expression, used as a greeting.	3553			
 Communication:language.N	Language:language.N	A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	1307	18-24	Sprache::N	
 Communication:letter.N	Modernity:letter.N	A text that is written to and for a specific person or set of people (and is most commonly sent to them by post).	1612	23-42	Brief::N	2261
+Communication:offer.V	Business:offer.V	offer (present for acceptance or rejection) 				1720
 Communication:phone.V	Language:talk (phone).V	To communicate by means of a telephone.	3133			
+Communication:refuse.V	Language:refuse.V	To not do what is being asked.	49	18-37		
 Communication:talk.V	Action/Technology:talk.V	To converse with one or more persons.	2708		reden::V	
 Communication:telephone.N	Modernity:telephone.N	An electronic device used for calling people.	1379	23-12		1274
 Communication:television set.N	Modernity:television.N	A device for receiving television signals and displaying them in visual form.	1788	23-11		1276
+Communication:tell.V	Language:tell.V	To talk about a story giving its details; to give a detailed account of.	1711	18-221	erzählen::V	
 Communication:translate.V	Action/Technology:translate.V	To communicate of the meaning of a source-language text by means of an equivalent target-language text.	2906		übersetzen::V	
+Communiction:call.N	Language:call (appeal).N	An act of calling with the voice.	2944		Ruf::N	
 Cosmos:full moon.N	Nature:full moon.N	The lunar phase when the moon is fully illuminated by the sun and appears in the sky as a full circle.	3690			
 Cosmos:Milky Way.N	Nature:milky way.N	The galaxy that contains our Solar System. Its name milky is derived from its appearance as a dim glowing band arching across the night sky in which the naked eye cannot distinguish individual stars.	2289			1138
 Cosmos:moon.N	Nature:moon.N	A natural satellite of a planet.	1313	1-53	Mond::N	1126
@@ -806,14 +818,29 @@ Motion:turn.V	Motion:turn.V	To change the direction of movement or the direction
 Motion:walk.N	Action/Technology:walk (manner).N	The act of walking, the way one walks.	2979		Gang::N	
 Motion:walking stick.N	Modernity:walking stick.N	An object, specifically for providing support when walking.	1296	19-25		
 Music:accordion.N	Modernity:accordion.N	A musical instrument.	2603			
+Music:brass instrument.N	Language:brass instrument (horn or trumpet).N	Any musical instrument that is a member of the brass family of musical instruments, usually a horn or a trumpet.	2136	18-73		
+Music:drum.N	Language:drum.N	A percussion instrument consisting of at least one membrane that is stretched over a shell and struck directly with the player's hands or with a drumstick.	908	18-72		
 Music:erhu.N	Modernity:erhu.N	A two-stringed fiddle common in Eastern Asia; Chinese violin, Chinese two-stringed fiddle.	3052			
+Music:folk song.N	Language:folk song.N	A traditional piece of music with words to sing.	2059			
 Music:gong.N	Modernity:gong.N	An African, East and South East Asian musical percussion instrument that takes the form of a flat, circular metal disc which is hit with a mallet.	2502			
 Music:government.N	Modernity:government.N	A body that has the authority to make and the power to enforce laws within a civil, corporate, religious, academic, or other organization or group.	815	23-3		
+Music:guitar.N	Language:guitar.N	Musical instrument with usually six strings.	3090			
 Music:harmonica.N	Modernity:harmonica.N	A mouth organ (musical instrument).	2590			
 Music:harp.N	Modernity:harp.N	A string musical instrument.	2597			
+Music:horn.N	Language:horn (instrument).N	A wind instrument made of a wound copper tube with a wide sound bucket and valves.	939			
+Music:jew’s harp.N	Language:jew’s harp.N	A small musical instruments put between the teeth and played with a finger.	3319			
+Music:jingle.N	Language:jingle (instrument).N	"One of a cluster of small bells, shaken or tapped on the palm of the player's hand. The small metal discs arranged around the frame of a tambourine are also called ""jingles""."	3993			
+Music:lute.N	Language:lute.N	A plucked string musical instrument with with a neck and a deep round back.	2681			
 Music:mouth harp.N	Modernity:mouth harp.N	Lamellophone instrument consisting of a tongue or reed attached to a frame, placed in the performer's mouth and plucked; Jew's harp, jaw harp.	3048			
+Music:music.N	Modernity:music.N	The artistic organisation of sounds or tones that expresses ideas and emotions through the elements of rhythm, melody, harmony and tonal colour.	642	23-63		
+Music:piano.N	Language:piano (instrument).N	A large musical instrument with a row of black and white keys that are pressed to play notes.	3994			
+Music:play.V	Language:play (instrument).V	Execute coordinated movements on or with a musical instrument to produce sounds.	3124			
 Music:reed pipe.N	Modernity:reed pipe.N	Organ pipe that is sounded by a vibrating a metal tongue which rests against a tunnel.	3051			
+Music:sing.V	Language:sing.V	To produce harmonious sounds with one's voice.	1261	18-12	singen::V	2317
 Music:song.N	Modernity:song.N	A musical piece with lyrics (or words to sing); prose that one can sing.	1096	23-64	Lied::N	
+Music:tambourine.N	Language:tambourine.N	Musical instrument with round, wooden frame and covered by skin, plastic, etc. with metal discs around the frame.	3141			
+Music:tone.N	Perception:tone (music).N	Traditionally in Western music, a musical tone is a steady periodic sound.	2995		Ton::N	
+Music:whistle instrument.N	Action/Technology:whistle (instrument).N	Wind instrument most often made out of metal or wood used for producing a loud, shrill tone.	3107			
 Nature:nature.N	Agriculture/Plant:nature.N	The physical world including all living things as well as the land and the seas.	3897			
 Nature:river bed.N	Nature:river bed.N	The channel containing or formerly containing the water of a river.	993			
 Nature:river mouth.N	Nature:river mouth.N	A river mouth or stream mouth is a part of a river where it flows into the sea, river, lake, reservoir or ocean.	1701			
@@ -896,6 +923,7 @@ Plant:treetop.N	Agriculture/Plant:treetop.N	The uppermost part of a tree; crown.
 Plant:twig.N	Agriculture/Plant:twig.N	A branch that doesn't arise from the trunk but from another branch.	3222		Zweig::N	
 Plant:vine.N	Agriculture/Plant:vine.N	A climbing plant which grows up or over things. This also includes types which do not produce grapes.	343	8-67		
 Possession:abandon.V	Motion:abandon.V	To give up control of, to surrender something.	1097		verlassen::V	
+Possession:beg.V	Language:beg.V	To make a living by asking people for money or food.	3534			
 Possession:exchange.V	Action/Technology:exchange.V	To hand out one thing while receiving another thing or to replace one thing with another.	2509			
 Possession:gift.N	Action/Technology:gift.N	A gift or a present is an item given to someone without the expectation of payment or return.	2982		Geschenk::N	
 Possession:rob.V	Action/Technology:rob (verb).V	To illegally take something from, especially using force or violence.	2073			
@@ -1060,28 +1088,31 @@ Quantity:a little.A	Quantity:a little.A	More than one, but not as much as usual 
 Quantity:add.V	Action/Technology:add.V	Join or unite so as to bring about an increase.	2882		hinzufügen::V	
 Quantity:decrease.V	Action/Technology:decrease.V	To become smaller in number or size.	2864		abnehmen::V	
 Quantity:increase.V	Action/Technology:increase.V	(Of a quantity) to become bigger.	1041		zunehmen::V	
+Society:help.N	Society:help.N	The act of helping someone.	3467		Hilfe::N	
+Society:help.V	Society:help.V	To give assistance or aid to.	1897	19-58		2155
+Sound:be silent.V	Language:be silent.V	To stop speaking or making noise.	48	18-23		
 Sound:bell.N	Action/Technology:bell.N	A simple sound-making device.	2246			
-Sound:brass instrument.N	Language:brass instrument (horn or trumpet).N	Any musical instrument that is a member of the brass family of musical instruments, usually a horn or a trumpet.	2136	18-73		
 Sound:chime.V	Modernity:chime (action).V	To ring the bells.	2897		läuten::V	
 Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110			
 Sound:crow.V	Action/Technology:crow (verb).V	To utter the characteristic cry of a rooster.	2074			
-Sound:drum.N	Language:drum.N	A percussion instrument consisting of at least one membrane that is stretched over a shell and struck directly with the player's hands or with a drumstick.	908	18-72		
 Sound:flute.N	Language:flute.N	A musical instrument of the woodwind family.	777	18-71		
-Sound:folk song.N	Language:folk song.N	A traditional piece of music with words to sing.	2059			
-Sound:horn.N	Language:horn (instrument).N	A wind instrument made of a wound copper tube with a wide sound bucket and valves.	939			
-Sound:jew’s harp.N	Language:jew’s harp.N	A small musical instruments put between the teeth and played with a finger.	3319			
-Sound:jingle.N	Language:jingle (instrument).N	"One of a cluster of small bells, shaken or tapped on the palm of the player's hand. The small metal discs arranged around the frame of a tambourine are also called ""jingles""."	3993			
-Sound:lute.N	Language:lute.N	A plucked string musical instrument with with a neck and a deep round back.	2681			
+Sound:hiss.V	Language:hiss.V	To produce a continuous voiceless sibilant sound like a long /s/.	3685			
+Sound:howl.N	Language:howling.N	A loud vocalisation inflicted by pain.	2523			
+Sound:howl.V	Language:howl.V	To cry like a wolf, dog, or other canids.	526	18-19	heulen::V	
 Sound:make noise.V	Action/Technology:make noise.V	To be loud.	2895		lärmen::V	
-Sound:music.N	Modernity:music.N	The artistic organisation of sounds or tones that expresses ideas and emotions through the elements of rhythm, melody, harmony and tonal colour.	642	23-63		
-Sound:piano.N	Language:piano (instrument).N	A large musical instrument with a row of black and white keys that are pressed to play notes.	3994			
-Sound:play.V	Language:play (instrument).V	Execute coordinated movements on or with a musical instrument to produce sounds.	3124			
 Sound:rattle.N	Language:rattle.N	A wooden instrument that makes a loud knocking noise [used by people watching football games].	300	18-74		
+Sound:roar.V	Language:roar.V	To make a deep loud cry (of lions and comparable wild animals); to make a deep loud cry, usually out of anger (of humans).	3896			
 Sound:rustle (of leaves).V	Action/Technology:rustle (of leaves).V	A sound emitted by leaves moving in the trees.	2877		rauschen::V	
+Sound:scream.N	Language:scream (noise).N	A loud vocalisation.	2522			
+Sound:scream.V	Language:scream (produce a cry).V	To give a loud cry out of pain, fear or excitement. The vocalisation resulted from screaming is distinct from that produced by shrieking in that it is typically characterized by a longer duration and lower pitch.	3809			
+Sound:shout.V	Language:shout.V	To say something in a loud voice.	715	18-13	schreien::V	
+Sound:shriek.V	Language:shriek.V	To make a short, loud and high-pitched sound in reaction to something.	298	18-18		
 Sound:sound (of instrument or voice).V	Action/Technology:sound (of instrument or voice).V	The noise emitted by musical instruments or humans speaking.	2879		klingen::V	
-Sound:tambourine.N	Language:tambourine.N	Musical instrument with round, wooden frame and covered by skin, plastic, etc. with metal discs around the frame.	3141			
-Sound:tone.N	Perception:tone (music).N	Traditionally in Western music, a musical tone is a steady periodic sound.	2995		Ton::N	
-Sound:whistle instrument.N	Action/Technology:whistle (instrument).N	Wind instrument most often made out of metal or wood used for producing a loud, shrill tone.	3107			
+Sound:stutter.V	Language:stutter.V	To have problems articulating the words, repeting sometimes some syllables.	1866	18-211		
+Sound:stutterer.N	Language:stutterer.N	A person that stutters.	3367			
+Sound:voice.N	Language:voice.N	The sound and tones human beings are able to produce with the vocal cords.	1363	18-11	Stimme::N	
+Sound:whisper.V	Language:whisper.V	To speak in a quiet voice, without vibration of the vocal cords.	55	18-15		
+Sound:whistle.V	Language:whistle.V	To make a sound or a melody by forcing the breath out between closed lips.	1025	18-17	pfeifen::V	
 Space:encircle.V	Action/Technology:encircle.V	To enclose or cause to be enclosed; to surround; to confine.	3274			
 Storage:bag.N	Action/Technology:bag.N	A container that stores things and is small enough so that one can wear it.	2468		Tasche::N	
 Storage:bamboo basket.N	Action/Technology:bamboo basket.N	A basket from bamboo that is carried on the back.	3360			
@@ -2042,7 +2073,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Behavior:guide.V	guide, lead 				2123
 	Behavior:guilty.A	guilty, blame-worthy 				2111
 	Behavior:habit.N	habit, custom, routine practice				2124
-	Behavior:help.V	help, assist, aid 				2155
 	Behavior:innocent.A	innocent, contra-guilty 				2110
 	Behavior:interfere.V	interfere, hinder 				2156
 	Behavior:jealousy.N	jealousy, envy				2125
@@ -2678,7 +2708,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Communication:article.N	article, essay (piece of text about one topic)				2244
 	Communication:artificial language.N	artificial language, constructed language				2203
 	Communication:ask.V	ask, inquire 				2212
-	Communication:call.V	call, summon 				2213
 	Communication:chapter.N	chapter (main division of book)				2249
 	Communication:chart.N	chart, diagram				2282
 	Communication:claim.N	claim, assertion (statement of unknown accuracy)				2273
@@ -2688,7 +2717,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Communication:consonant.N	consonant (non-vowel)				2286
 	Communication:criticize.V	criticize 				2214
 	Communication:debate.V	debate, argue (discuss the pros and cons of) 				2229
-	Communication:deny.V	deny (say that X is not true) 				2215
 	Communication:describe.V	describe 				2216
 	Communication:diary.N	diary, journal (notebook of daily experiences and thoughts)				2258
 	Communication:dictionary.N	dictionary				2251
@@ -3751,30 +3779,14 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Language:announce.V	To make known by stating or announcing.	9	18-43		
 	Language:ask (inquire).V	To ask (a question) to somebody; to seek an answer to.	1309	18-31	fragen::V	
 	Language:ask (request).V	To ask for a service or physical goods, often without returning the favor in kind.	1828	18-35	bitten::V	
-	Language:battle cry (war whoop).N	A shout, used by warriors in battle with the purpose of arousing aggression on their own side or intimidating the enemy.	3741			
 	Language:be called by name.A	To have a specific name or be named something or be called something.	3835			
-	Language:be silent.V	To stop speaking or making noise.	48	18-23		
-	Language:beg.V	To make a living by asking people for money or food.	3534			
-	Language:boast.V	To show off.	101	18-45	prahlen::V	
-	Language:call (appeal).N	An act of calling with the voice.	2944		Ruf::N	
 	Language:call by name.V	To give a name or designation of a common noun that, e.g., reflects a quality.	180	18-42	nennen::V	
-	Language:call.V	To address or summon someone.	1084	18-41	rufen::V	
 	Language:chapter.N	A part of a book, a literary work etc. with a distinct content, set apart using typography.	835			
 	Language:character.N	A symbol used to represent a sound or a word.	1024		Buchstabe::N	
 	Language:come here.?	An order for the person addressed to come near to the speaker.	3555			
-	Language:complain.V	To express one's dissatisfaction or unhappiness.	3642			
 	Language:conduct.V	To lead some kind of musical performance.	3111			
 	Language:conversation.N	Conversation is interactive, communication between two or more people.	2933		Gespräch::N	
-	Language:deny.V	To refuse strongly and solemnly to own or acknowledge.	755	18-34		
 	Language:do not do it.V	Ask or command somebody to not carry out an action.	2660			
-	Language:forbid.V	To tell not to do something.	83	18-38		
-	Language:goodbye.N	A conventional expression, used as a farewell when parting.	3554			
-	Language:greet.V	To welcome someone; to address someone in a friendly and welcoming way upon meeting them.	3552			
-	Language:guitar.N	Musical instrument with usually six strings.	3090			
-	Language:hello.N	A conventional expression, used as a greeting.	3553			
-	Language:hiss.V	To produce a continuous voiceless sibilant sound like a long /s/.	3685			
-	Language:howl.V	To cry like a wolf, dog, or other canids.	526	18-19	heulen::V	
-	Language:howling.N	A loud vocalisation inflicted by pain.	2523			
 	Language:hum.V	To sing a tune with the mouth closed.	3671			
 	Language:joke.N	Something that is said or done in a non-serious, comic way.	3425			
 	Language:language or word.N	A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds or a distinct unit of language (sounds in speech or written letters) with a particular meaning, composed of one or more morphemes, and also of one or more phonemes that determine its sound pattern.	2799			
@@ -3794,30 +3806,17 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Language:proverb.N	A widely known and used phrase or sentence, giving advice or reflecting something commonly experienced.	3646			
 	Language:question.N	A sentence used to obtain information by evoking a response.	3268			
 	Language:read.V	To look at and interpret letters or other information that is written.	724	18-52	lesen::V	
-	Language:refuse.V	To not do what is being asked.	49	18-37		
 	Language:repeat.V	To do something again.	880			
-	Language:roar.V	To make a deep loud cry (of lions and comparable wild animals); to make a deep loud cry, usually out of anger (of humans).	3896			
 	Language:rumour.N	A piece of information of questionable accuracy, from no known reliable source, usually spread by word of mouth.	63			
 	Language:say.V	To utter specific words or notions.	1458	18-22	sagen::V	
 	Language:scold.V	To rebuke.	299	18-39		
-	Language:scream (noise).N	A loud vocalisation.	2522			
-	Language:scream (produce a cry).V	To give a loud cry out of pain, fear or excitement. The vocalisation resulted from screaming is distinct from that produced by shrieking in that it is typically characterized by a longer duration and lower pitch.	3809			
-	Language:shout.V	To say something in a loud voice.	715	18-13	schreien::V	
-	Language:shriek.V	To make a short, loud and high-pitched sound in reaction to something.	298	18-18		
 	Language:sign.N	Feature element which permits to refer to anything or any person.	1720		Zeichen::N	
-	Language:sing.V	To produce harmonious sounds with one's voice.	1261	18-12	singen::V	
 	Language:singe.V	To burn the surface of something slightly, usually by mistake, in a way that it does not catch fire; to be burnt this way.	3698			
 	Language:speak.V	To communicate by the use of words.	1623	18-21	sprechen::V	
 	Language:speech.N	An address or form of oral communication in which a speaker makes his thoughts and emotions known before an audience, often for a given purpose. (Source: RHW)	1115	18-222	Rede::N	
 	Language:story.N	A retelling of real or fictive events.	2060		Erzählung::N	
-	Language:stutter.V	To have problems articulating the words, repeting sometimes some syllables.	1866	18-211		
-	Language:stutterer.N	A person that stutters.	3367			
-	Language:tell.V	To talk about a story giving its details; to give a detailed account of.	1711	18-221	erzählen::V	
 	Language:threaten.V	To make a threat of injury or punishment against someone.	1192	18-44		
 	Language:trumpet.N	A musical instrument in the brass family.	775			
-	Language:voice.N	The sound and tones human beings are able to produce with the vocal cords.	1363	18-11	Stimme::N	
-	Language:whisper.V	To speak in a quiet voice, without vibration of the vocal cords.	55	18-15		
-	Language:whistle.V	To make a sound or a melody by forcing the breath out between closed lips.	1025	18-17	pfeifen::V	
 	Language:word.N	A distinct unit of language (sounds in speech or written letters) with a particular meaning, composed of one or more morphemes, and also of one or more phonemes that determine its sound pattern.	1599	18-26	Wort::N	
 	Language:write.V	To form (letters, words or symbols) on a surface in order to communicate.	1672	18-51	schreiben::V	
 	Law:abuse.N	Improper or excessive treatment or usage (e.g. alcohol); application to a wrong or bad purpose (e.g. public funds).	1953			
@@ -5019,8 +5018,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Society:govern.V	To make and administer the public policy and affairs of; to exercise sovereign authority in.	382			
 	Society:guest.N	A person that visits and stays at a house, usually for one or more nights.	1782	19-56	Gast::N	
 	Society:han chinese.N	Referring to the Han Chinese people, their cultural practices or heritage.	3373			
-	Society:help (assistance).N	The act of helping someone.	3467		Hilfe::N	
-	Society:help.V	To give assistance or aid to.	1897	19-58		
 	Society:high-ranking.A	Being at an elevated level in rank or importance.	2202			
 	Society:hinder or prevent.V	To make it difficult for something to occur or to fully stop it from occurring.	3201			
 	Society:hire or rent.V	To employ a person or people in exchange of some kind of remuneration, usually a payment, or to pay for using an object.	3213			
@@ -5096,7 +5093,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Sound:horn.N	horn (makes noise when blown)				2323
 	Sound:orchestra.N	orchestra				2330
 	Sound:piano.N	piano				2324
-	Sound:sing.V	sing 				2317
 	Space:above.?	Situated in a higher place than something else.	1741	12-081		
 	Space:across.?	Located directly across from something else, or from each other.	2670			
 	Space:after.?	Subsequent, following, in time or space.	1685	12-01		
