@@ -21,32 +21,34 @@ and separates it from other fields like *religion*, where *father* would refer t
 
 ## Meaning fields
 
-Below is a preliminary division of meaning fields (from *Loanwords in the World's Languages, a Comparative Handbook*).
+Below is a preliminary list of meaning fields with their descriptions.
 
-1. The physical world
-2. Kinship
-3. Animals
-4. Anatomy
-5. Food and drink
-6. Clothing and grooming
-7. The house
-8. Agriculture and vegetation
-9. Basic actions and technology
-10. Motion
-11. Possession
-12. Spatial relations
-13. Quantity
-14. Time
-15. Sense perception
-16. Emotions and values
-17. Cognition
-18. Speech and language
-19. Social and political relations
-20. Warfare and hunting
-21. Law
-22. Religion and belief
-23. Modern world
-24. Miscellaneous function words
+# `Agriculture`: Processes, tools, techniques and people related to cultivating land and growing plants.
+# `Animal`: Types of animals and names of animal species.
+# `Atmosphere`: Components and phenomena related to atmosphere, such as the weather.
+# `Belief`: Concepts related to belief and religion, such as myths, legends and forms of worship.
+# `Body`: Actions, parts and other things related to the biological body of people and animals.
+# `Building`: Concepts related to building and buildings.
+# `Combat`: Concepts related to fighting and warfare.
+# `Communication`: Concepts related to language and other forms of communication.
+# `Cosmos`: Objects and phenomena of the universe.
+# `Element`: All chemical elements but not their compounds.
+# `Emotion`: Feelings.
+# `Family`: Concepts related to kinship, such as the words for members of family.
+# `Food`: Concepts related to eating and drinking.
+# `Handiwork`: Tools and techniques related to work that can be done by hand.
+# `Health`: Concepts related to bodily health and diseases.
+# `House`: Concepts related to house or home, such as rooms and furniture.
+# `Hunting`: Concepts related to hunting and fishing.
+# `Mind`: Concepts related to the human mind.
+# `Motion`: Movement.
+# `Music`: Concepts related to music and musical instruments.
+# `Transit`: Carrying things or people by tools and vehicles.
+# `People`: Types of people and their characteristics.
+# `Plant`: Parts and types of plants and names of plant species.
+# `Quantity`: Quantity and number.
+# `Sound`: Types and qualities of sound and noise.
+# `Time`: Concepts related to time, duration and age.
 
 ## Terms
 
