@@ -747,6 +747,13 @@ Health:rabies.N	Body:rabies.N	A viral disease that causes acute inflammation of 
 Health:recover.V	Body:recover.V	To return to health and strength after illness.	1978		genesen::V	
 Health:scabies.N	Body:scabies.N	A contagious skin rash caused by the mite Sarcoptes scabiei.	3172			
 Health:see a doctor.V	Motion:see a doctor.V	To go to a doctor.	512			
+House:bathroom.N	Building:bathroom.N	A room containing a shower or a bathtub, and that may contains a toilet or not.				1539
+House:bathtub.N	House:bathtub.N	A large container for holding water in which a person may take a bath.				1361
+House:bed.N	House:bed.N	A piece of furniture, made for a person to sleep on.	1663	7-42	Bett::N	1341
+House:bedroom.N	House:bedroom.N	The area where people sleep.	2505			1538
+House:blanket.N	House:blanket.N	A large cloth used for warmth and for sleeping.	806	7-422	Decke::N	1485
+House:kitchen.N	House:kitchen.N	A room equipped for preparing and cooking food.	1365			1535
+House:pillow.N	House:pillow.N	Cushion placed under the head for sleeping.	1044	7-421	Kissen::N	1343
 Hunting:boomerang.N	Action/Technology:boomerang.N	A tool with a curved shape used as a weapon or for sport which returns when thrown into the air.	135	9-87		
 Hunting:bow string.N	Action/Technology:bow string.N	The string of a bow used to hunt.	2119			
 Hunting:fishing.V	Action/Technology:fishing.V	To hunt for fishes (general expression).	2638		fischen::V	
@@ -2249,8 +2256,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Building:attic.N	attic, garret				1531
 	Building:bank.N	bank (monetary institution)				1560
 	Building:bar.N	bar (where alcoholic drinks are served), pub				1573
-	Building:bathroom.N	bathroom				1539
-	Building:bedroom.N	bedroom				1538
 	Building:block of flats.N	block of flats, apartment building				1555
 	Building:bookstore.N	bookstore				1582
 	Building:closet.N	closet				1540
@@ -2261,7 +2266,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Building:grocery store.N	grocery store				1581
 	Building:home.N	The place where one lives.	2406		Heim::N	
 	Building:hotel.N	hotel, inn				1565
-	Building:kitchen.N	kitchen				1535
 	Building:library.N	library				1566
 	Building:living room.N	living room				1537
 	Building:meeting house.N	A building where people meet for a purpose.	335	7-18		
@@ -2334,7 +2338,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Business:wages.N	wages				1797
 	Clothing:apron.N	apron				1440
 	Clothing:belt.N	belt				1441
-	Clothing:blanket.N	blanket (large piece of soft material used as a cover)				1485
 	Clothing:cap.N	cap (a brimless or informal hat)				1431
 	Clothing:cloth.N	cloth, fabric (material made of threads)				1401
 	Clothing:coat.N	coat (heavy outer garment with sleeves)				1450
@@ -3676,13 +3679,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Group:the public.N	the public				435
 	Group:tribe.N	tribe (group of families living in proximity and having the same chief)				445
 	House:bale-bale (raised platform in house).N	An elevated wooden or bamboo platform on which people can sit, squat or sleep.	3177			
-	House:bathtub.N	bathtub				1361
-	House:bed.N	A piece of furniture, made for a person to sleep on.	1663	7-42	Bett::N	
-	House:bed.N	bed				1341
-	House:bedroom.N	The area where people sleep.	2505			
 	House:bench.N	A piece of furniture offering place for many people.	2584			
 	House:blackboard.N	Reusable surface for writing or drawing.	3084			
-	House:blanket.N	A large cloth used for warmth and for sleeping.	806	7-422	Decke::N	
 	House:bookcase.N	bookcase				1345
 	House:candle.N	A light source consisting of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin.	1273	7-46		
 	House:chair.N	An item of furniture comprising a seat, legs, back, and sometimes arm rests, on which or in which one people can sit.	1476	7-43	Stuhl::N	
@@ -3699,15 +3697,12 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	House:inside a house.?	Inside a building as opposed to outside in the open air.	3305			
 	House:jar.N	jar, jug (big wide-mouthed bottle)				1310
 	House:key.N	An object designed to be able to open (and usually close) a lock.	1472	7-24		
-	House:kitchen.N	A room equipped for preparing and cooking food.	1365			
 	House:ladder.N	A frame usually portable, of wood, metal, or rope, for ascent and descent, consisting of two vertical side pieces to which are horizontally fastened cross strips or rounds forming steps.	1464	7-37	Leiter::N	
 	House:lamp.N	A device that produces light, such as an electric lamp.	625			
 	House:latch.N	A fastening for a door that has a bar that fits into a notch or slot, and is lifted by a lever or string from either side.	1012	7-231		
 	House:lock.N	Something used for fastening, which can only be opened with a key or combination.	1596	7-23	Schloss::N	
 	House:padlock.N	A detachable lock that can be used to secure something by means of a sliding or hinged shackle.	336	7-232		
 	House:pan.N	pan (broad shallow cooking dish)				1312
-	House:pillow.N	Cushion placed under the head for sleeping.	1044	7-421	Kissen::N	
-	House:pillow.N	pillow				1343
 	House:plate.N	plate (shallow dish, usually round)				1313
 	House:pole.N	A strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something.	282			
 	House:pot.N	pot (deep round vessel)				1314
@@ -5578,7 +5573,4 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Value:true.A	true 				1943
 	Value:virtuous.N	virtuous				1907
 	Value:wrong.A	wrong, incorrect 				1949
-						
-						
-						
 		To stick objects together with adhesive substance.			kleben::V	
