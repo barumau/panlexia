@@ -426,6 +426,8 @@ Building:wall.N	Building:wall.N	The outer structure which encloses a building an
 Building:windmill.N	Action/Technology:windmill.N	A large structure or building with long revolving blades or sails that is used for converting wind energy in order to produce electricity or to directly power an attached mechanical construction for grinding.	3841			
 Building:window.N	Building:window.N	An opening, usually covered by one or more panes of clear glass, to allow light from outside to enter a building or vehicle.	1375	7-25	Fenster::N	1514
 Building:yard.N	Building:yard.N	A small, usually uncultivated area adjoining or within the precincts of a house or other building.	736	7-15		
+Business:accept	Action/Technology:accept.V	To take or get something that was offered by someone, to willingly receive	3898			1721
+Business:offer.V	Business:offer.V	offer (present for acceptance or rejection) 				1720
 Cleaning:broom.N	Action/Technology:broom.N	A tool used to sweep and clean the floor, made of a bundle of straws or twigs attached to a long handle.	245	9-38	Besen::N	
 Cleaning:clean (sth).V	Motion:clean (something).V	To cause something to be no longer dirty.	2235		reinigen::V	
 Cleaning:clean.A	Perception:clean.A	Not dirty.	704	15-87	sauber::A	
@@ -1189,7 +1191,6 @@ Transit:vehicle.N	Motion:vehicle.N	Any larger device that can be used to move pe
 Transit:wagon.N	Motion:wagon.N	A wheeled vehicle, generally drawn by horse power.	959			
 Transit:wheel.N	Motion:wheel.N	A circular object that spins around a central axe thereby allowing relatively low-friction movement.	710	10-76		3156
 Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582			
-	Action/Technology:accept.V	To take or get something that was offered by someone.	3898			
 	Action/Technology:accustom.V	Get used to something.	1118			
 	Action/Technology:against.A	In opposite direction to.	2469			
 	Action/Technology:amuse oneself (have fun).V	To do something joyful.	3239			
@@ -2284,7 +2285,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Building:theater.N	theater, theatre				1574
 	Building:toilet.N	toilet, water closet				1362
 	Building:university.N	university				1571
-	Business:accept.V	accept (willingly receive) 				1721
 	Business:account.N	account (record of money received/paid/owed)				1775
 	Business:available.N	available				1740
 	Business:bill.N	bill, invoice (statement of money owed)				1776
@@ -2314,7 +2314,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Business:loss.N	loss (contra-profit)				1792
 	Business:merchandise.N	merchandise, goods, wares				1706
 	Business:money.N	money				1705
-	Business:offer.V	offer (present for acceptance or rejection) 				1720
 	Business:own.V	own (possess according to law or custom) 				1730
 	Business:pay.V	pay 				1752
 	Business:poor.A	poor, impoverished 				1716
