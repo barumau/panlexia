@@ -778,6 +778,7 @@ Hunting:net fishing.V	Action/Technology:fishing (with a net).V	To hunt for fishe
 Hunting:net.N	Action/Technology:net (for catching).N	A grid-like device used for fishing and sports.	2653			
 Language:book.N	Language:book.N	A collection of leaves of paper, parchment or other material, usually bound or fastened together within covers, containing writing of any type or blank pages for future inscription.	963	18-61	Buch::N	2248
 Literature:alphabet.N	Communication:alphabet.N	alphabet				2243
+Matter:brass.N	Action/Technology:brass.N	The copper-zinc alloy. A yellow-colored metal made of the mixture of copper and zinc and used in the making of decorations and musical instruments.	3743			3321
 Mind:dream.N	Body:dream.N	Successions of images, ideas, emotions, and sensations that occur usually involuntarily in the mind during certain stages of sleep.	2374		Traum::N	662
 Mind:dream.V	Body:dream (something).V	To experience while sleeping.	1920	4-62		
 Mind:dreaming.N	Body:dreaming or dream.?	Either the act of seeing images when sleeping, or the result of this act, the dream itself.	2455			
@@ -1234,7 +1235,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Action/Technology:become extinguished.V	Being stopped from burning or emitting light.	2209			
 	Action/Technology:birth (accouchement).N	The process of giving birth to a child.	2805			
 	Action/Technology:blacken.V	To change the color of something into black.	2808			
-	Action/Technology:brass.N	A yellow-colored metal made of the mixture of copper and zinc and used in the making of decorations and musical instruments.	3743			
 	Action/Technology:break (breaking).V	To come apart or split into pieces (intransitive).	3020			
 	Action/Technology:break (cleave).V	To divide something with force in two or more parts.	2558		zerbrechen::V	
 	Action/Technology:break (destroy or get destroyed).V	To divide or be divided into pieces and thereby damaged.	680	9-26	brechen::V	
@@ -3866,7 +3866,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Matter:blow.V	blow (move/cause to move as a current of gas) 				3707
 	Matter:boil.V	boil 				3709
 	Matter:bounce.V	bounce, rebound 				3711
-	Matter:brass.N	brass (copper-zinc alloy)				3321
 	Matter:break.V	break (into pieces) 				3713
 	Matter:burn.V	burn 				3717
 	Matter:burst.V	burst 				3719
