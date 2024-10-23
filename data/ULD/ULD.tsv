@@ -1,4 +1,4 @@
-number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingwa de Planeta	Sambahsa	Русский
+number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lidepla	Sambahsa	Русский
 101	0	Adposition	from (moving out of or away from) [pr]	von, aus	van, vandaan	da	de, el	ek, fro			
 102	0	Adposition	to, towards, at (moving toward) [pr]	nach, zu	naar, tot, tegen	a	al	a, vers	a, versu	kye	к, по направлению к
 103	0	Adposition	at (in the same location as) [pr]	an, bei	te, bij, op	a	ĉe	an, che	pa, she	ad, bi	у, при
@@ -9,7 +9,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 130	1	Adposition	in front of, ahead of, before (spatially) [pr]	vor	voor	davanti a	antaŭ	devan			
 131	1	Adposition	behind, in back of, to the rear of [pr]	hinter	achter	dietro a	malantaŭ	hinter	baken	apter	за, позади
 140	1	Adposition	before, prior to, earlier than [pr]	vor	voor, eer {archaic}	prima di	antaŭ	ante	bifoo	pre	перед
-141	1	Adposition	during [pr]	während	tijdens, gedurende	durante	dum [pr/cj]	durant	duran	unte	в течение
+141	1	Adposition	during [pr]	während	tijdens, gedurende	durante	dum	durant	duran	unte	в течение
 142	1	Adposition	after (later than; in the future of) [pr]	nach	na	dopo	post	after	afte	pos	после
 150	0	Adposition	with (accompanied by / furnished with) [pr]	mit	met, bij	con	kun	kun			
 151	1	Adposition	without (not with) [pr]	ohne	zonder	senza	sen	sin			
@@ -18,7 +18,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 162	1	Adposition	beyond, farther than, exceeding [pr]	jenseits von	verder dan, voorbij	oltre	preter	trans			
 163	1	Adposition	near, close to [pr]	nahe, bei	dichtbij, nabij	vicino a	proksime al	proxim	bli	nieb ; claus	возле, около
 164	1	Adposition	on (resting on; touching the top or other surface of) [pr]	auf	op	su	sur	sur	on	ep	на
-165	1	Adposition	across (at the other side of; to the other side of) [pr]	quer über, jenseits	over	al di là, oltre	trans	tra (across, through), trans (on the other side of)			
+165	1	Adposition	across (at the other side of; to the other side of) [pr]	quer über, jenseits	over	al di là, oltre	trans	tra, trans			
 166	1	Adposition	through [pr]	durch	door	attraverso, per	tra	tra	tra	per	через
 170	1	Adposition	about (pertaining to; on the topic of) [pr]	über	betreffende, over	a proposito di	pri	pri	om	de	про, о(б)
 171	1	Adposition	because of, due to [pr]	wegen	wegens	a causa di	pro, kaŭze de	pro	por	ob	из-за, потому что
@@ -30,7 +30,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 177	1	Adposition	like, similar to [pr]	wie, gleich	als, gelijk an	come	simila al	simil ad, samiman kam			
 178	0	Adposition	of (belonging to; associated with; = genitive) [pr]	von, [Genitiv]	van	di	de	de			
 179	1	Adposition	"of (containing the measured quantity: ""two liters of water"") [pr]"	von	met	di	da	de			
-180	0	Adposition	than, compared to [pr/cj]	als, im Vergleich zu	dan	di	ol [cj]	kam			
+180	0	Adposition	than, compared to [pr/cj]	als, im Vergleich zu	dan	di	ol	kam			
 201	0	Function word	"be (predicative copula as in ""I am a man"") [v]"	sein	zijn	essere	esti	es	bi (bin, es, ve bi)	es	
 202	0	Function word	exist [v]	existieren	bestaan	esserci, esistere	ekzisti	exist	existi	exist	существовать
 203	0	Function word	become (begin to be; acquire the quality...) [v]	werden	worden	diventare	iĝi	deveni	fa-	bih	становиться
@@ -40,8 +40,8 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 207	0	Function word	have (possess / be furnished with) [v]	haben	hebben, bezitten	avere	havi, posedi	have	hev	hab	иметь
 208	0	Function word	can (is/are able to ...) [aux v]	können	kunnen	potere	povas	pove	mog	ghehd	мочь
 209	0	Function word	should, ought to (is/are expected/advised to ...) [aux v]	sollen	moeten, behoren, horen	dovere	devus	deve	gai	dehlgiet, solliet	следует, полагается
-220	0	Function word	this (demonstrative) [aj/pn]	diese [f], dieser [m], dieses [nt]	deze [masc/fem], dit [nt]	questo	ĉi tiu	disi [aj], diso, -a, -e [pn]	sey	tod	этот
-221	0	Function word	that (demonstrative) [aj/pn]	das	dat [nt], die [f/m]	quello	tiu	ti [aj], to, ta, te [pn]	toy	cid (cio)	тот
+220	0	Function word	this (demonstrative) [aj/pn]	diese [f], dieser [m], dieses [nt]	deze [masc/fem], dit [nt]	questo	ĉi tiu	disi, diso, -a, -e	sey	tod	этот
+221	0	Function word	that (demonstrative) [aj/pn]	das	dat [nt], die [f/m]	quello	tiu	ti, to, ta, te	toy	cid (cio)	тот
 222	1	Function word	any (no particular one of) [aj]	irgendeiner	enig, ieder	tutti	ajna, iu ajn	irgi	eni	quodquid	любой, какой бы то ни было
 223	1	Function word	each, every [aj]	jeder	ieder, elk	ogni	ĉiu	chaki	kada	cada ; ielg	каждый
 224	1	Function word	what? (which thing out of several?), which? [aj]	was, welch	wat, welke	che, quale	kio, kiu				
@@ -60,15 +60,15 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 252	1	Function word	where? (at/to what place?) [av]	wo	waar	dove	kie, kien	vor	wo	quer	где
 260	1	Function word	how? (in what manner?) [av]	wie	hoe	come	kiel		komo	kam	как
 261	1	Function word	when? (at what time?) [av]	wann	wanneer	quando	kiam	quand	wen	quan(do)	когда
-262	1	Function word	why? (for what reason?) [av]	warum, wieso, weshalb	waarom	perchè	kial	pro quum {?}	way	ma	почему
-270	2	Function word	san (honorific さん in Japanese; no English equivalent)	[no equivalent]	[no equivalent]	[no equivalent]	[no equivalent]	[no equivalent]			
+262	1	Function word	why? (for what reason?) [av]	warum, wieso, weshalb	waarom	perchè	kial	pro quum	way	ma	почему
+270	2	Function word	san (honorific さん in Japanese; no English equivalent)								
 271	2	Function word	Mister, Mr.	Herr	meneer	Sig.	sinjoro	Sinioro	sinior	poti	господин
-272	2	Function word	Ms., Miss/Mrs.	[no equivalent]	[no equivalent]	[no equivalent]	[no equivalent]	[no equivalent]			
+272	2	Function word	Ms., Miss/Mrs.								
 273	2	Function word	Miss	Fraülein, Frau (many women prefer the more neutral 'Frau')	juffrouw	Sig.na	fraŭlino	Damsela, Siniorina	mis	potnika	барышня
 274	2	Function word	Mrs.	Frau	Mevrouw	Sig.ra	sinjorino	Siniora	madam	potnia	госпожа
-280	0	Function word	"that (relative, as in ""study the language that appeals to you"") [cj]"	der, die, das	die, dat	che	kiu [nom.sing], kiuj [nom.plur], kiun [acc.sing], kiujn [acc.plur]	kel	ke	od	что (относит.)
-281	0	Function word	I (nom), me (acc) [pr]	ich [nom], mich [acc], mir [dat]	ik, mij	io, mi, me	mi [nom], min [acc]	me			
-282	0	Function word	you (singular) [pr]	du [nom.plain], dich [acc.plain], dir [dat.plain], Sie [polite]	jij, je [plain], u [polite]	tu [nom.plain], lei [polite]	vi [nom], vin [acc]	vu			
+280	0	Function word	"that (relative, as in ""study the language that appeals to you"") [cj]"	der, die, das	die, dat	che	kiu	kel	ke	od	что (относит.)
+281	0	Function word	I (nom), me (acc) [pr]	ich [nom], mich [acc], mir [dat]	ik, mij	io, mi, me	mi	me			
+282	0	Function word	you (singular) [pr]	du [nom.plain], dich [acc.plain], dir [dat.plain], Sie [polite]	jij, je [plain], u [polite]	tu [nom.plain], lei [polite]	vi	vu			
 301	1	People	human being, person (any living member of Homo sapiens)	Mensch, Person	mens	persona, essere umano	homo	home	jen	anghen	человек
 303	1	People	baby	Kind, Baby	zuigeling	bambino	bebo	infante (-o, -a)	bebi	baby	дитя
 305	1	People	child	Kind	kind	bambino	infano		kinda	magv	ребёнок
@@ -144,7 +144,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 524	1	Body	tooth	Zahn	tand	dente	dento	dente	denta	dent	зуб
 525	2	Body	throat	Kehle	keel	gola	gorĝo	guture	gorla	gurgule	горло
 530	2	Body	shoulder	Schulter	schouder	spalla	ŝultro	shultre	plecha	oms	плечо
-531	1	Body	arm (shoulder to hand)	Arm	arm	braccio	brako	brakie {1928 version}, brase {1930 version}	braka	brakh	рука (до кисти)
+531	1	Body	arm (shoulder to hand)	Arm	arm	braccio	brako	brase	braka	brakh	рука (до кисти)
 532	2	Body	elbow	Ellbogen	elleboog	gomito	kubuto				
 533	2	Body	wrist	Handgelenk	pols	polso	manartiko, manradiko		polsa	runc	запястье
 534	1	Body	hand	Hand	hand	mano	mano	manu	handa	hand	кисть руки
@@ -202,10 +202,10 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 614	2	Body	male [aj]	männlich	mannelijk	maschio [n]	vira	maskulin(i)	maskul-ney	ner	мужской
 616	3	Body	neuter (neither male nor female) [aj]	geschechtslos	onzijdig	neutro	neutra	neutri	sinsexu-ney, neutrale	neutral	бесполый, нейтральный
 620	2	Body	alive [aj]	lebendig	levend	vivente, vivo	viva, vivanta	vivant	jiva-ney	gwiv	живой
-621	2	Body	live (be alive) [v]	leben	leven	"essere vivo, essere in vita {""vivere"" usually means ""reside""}"	vivi [vi]	viva	jivi	gwiv	жить
+621	2	Body	live (be alive) [v]	leben	leven	"essere vivo, essere in vita {""vivere"" usually means ""reside""}"	vivi	viva	jivi	gwiv	жить
 625	2	Body	dead [aj]	tot	dood	morto	morta, mortinta	morit	morta-ney	mohrt	мёрвый
-626	2	Body	die [v]	sterben	sterven, doodgaan	morire	morti [vi]	mori	morti	mehr	умирать
-627	2	Body	kill [v]	töten	doden	uccidere	mortigi [vt]	tua	kili	xehn, neic	убивать
+626	2	Body	die [v]	sterben	sterven, doodgaan	morire	morti	mori	morti	mehr	умирать
+627	2	Body	kill [v]	töten	doden	uccidere	mortigi	tua	kili	xehn, neic	убивать
 630	2	Body	healthy [aj]	gesund	gezond	sano	sana	san(i)	sane	saun	здоровый
 631	2	Body	sick, ill [aj]	krank	ziek	malato	malsana				
 632	2	Body	wound	Wunde	wond	ferita	vundo	vunde	wunda	vurnos	рана
@@ -218,53 +218,53 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 650	2	Body	tired, weary [aj]	müde	moe	stanco	laca	fatigat(i)	fatigi-ney	strak	усталый
 651	3	Body	refreshed, perky [aj]	erfrishend	fris, verfrist	riposato	mallaca, vigla		vije	 	бодрый
 652	2	Body	drunk (inebriated) [aj]	betrunken	dronken	ubriaco	ebria				
-660	1	Body	sleep [v]	schlafen	slapen	dormire	dormi [vi]	dormi	somni	swehp	спать
+660	1	Body	sleep [v]	schlafen	slapen	dormire	dormi	dormi	somni	swehp	спать
 662	2	Body	dream	Traum	droom	sogno	sonĝo	sonje	sonja (al nocha), drima (al dey)	drehm (nocts); sehgn (diens)	видеть сон; мечтать
-664	2	Body	awake [aj]	wach	wakker	sveglio	maldormanta	"{would be formed from ""veka"" = to awaken [vi] or ""vekisa"" = awaken [vt]}"	jagi-she	sbud(-t/-en)	бодрствующий
+664	2	Body	awake [aj]	wach	wakker	sveglio	maldormanta		jagi-she	sbud(-t/-en)	бодрствующий
 665	2	Body	wake up (become awake) [vi]	aufwachen		svegliarsi	vekiĝi	veka			
-701	1	Body	walk [v]	zu Fuss gehen	lopen, wandelen	camminare	piediri, promeni [vi]	marcha	pedi	ghang	идти пешком
-702	1	Body	run [v]	laufen	lopen	correre	kuri [vi]	kurse	lopi	curr, drah	бежать
-703	2	Body	jump, leap [v]	springen	springen	saltare	salti [vi]	salta	salti	skand	прыгать
+701	1	Body	walk [v]	zu Fuss gehen	lopen, wandelen	camminare	piediri, promeni	marcha	pedi	ghang	идти пешком
+702	1	Body	run [v]	laufen	lopen	correre	kuri	kurse	lopi	curr, drah	бежать
+703	2	Body	jump, leap [v]	springen	springen	saltare	salti	salta	salti	skand	прыгать
 704	2	Body	climb [v]	ersteigen	klimmen	salire (on small objects), scalare (on large objects)	grimpi	klima	klimbi	glehm	лезть
-705	2	Body	crawl [v]	kriechen	kruipen	strisciare	rampi [vt]	repta	kripi	remep	ползти
-706	2	Body	swim [v]	schwimmen	zwemmen	nuotare	naĝi [vi]	svima	swimi	snah	плавать
-710	2	Body	breathe [v]	atmen	ademen	respirare	spiri [vt]	spira	spiri	anem	дышать
-711	3	Body	sneeze [v]	niesen	niezen	starnutire	terni [vi]	sternuta	chihi	sternue	чихать
-720	1	Body	eat [v]	essen	eten	mangiare	manĝi [vt]	manja	chi	edd	есть, кушать
-721	1	Body	drink [v]	trinken	drinken	bere	trinki [vt]	drinka	pi	poh	пить
-722	2	Body	bite [v]	beissen	bijten	mordere	mordi [vt]	morda	kusi	dehnk	кусать
-723	2	Body	spit [v]	spucken	spuwen, spugen	sputare	kraĉi [vt]	sputa	spuki	spieu	плевать
-724	2	Body	swallow [v]	schlucken	inzwelgen, slikken	inghiottire	gluti [vt]	gluta	gloti	sorb	глотать
-725	2	Body	vomit [v]	sich erbrechen	braken, overgeven, kotsen {slang}	vomitare	vomi [vt]	vomi	vomi	vomeih	блевать
-731	1	Body	stand [v]	stehen	staan	stare in piedi	stari [vi]	stea	stan	stah	стоять
-733	1	Body	sit (be in a sitting position) [v]	sitzen	zitten	essere seduto, stare seduto	sidi [vi]	sida	sidi	sedd	сидеть
-735	2	Body	squat [v]	hocken	hurken	accovacciarsi	kaŭri [vi]		kokori	hock	сидеть на корточках
-737	1	Body	lie (recline horizontally) [v]	liegen	liggen	giacere	kuŝi [vi]	lia	lagi	lyehg	лежать
-740	1	Body	cry, weep [v]	weinen	huilen	piangere	plori [vi]	plora	plaki	plang	плакать
-741	2	Body	cry out, shout, yell [v]	schreien	roepen, schreeuwen	gridare	krii [vt]	klama	krai	crie	кричать
-743	2	Body	laugh [v]	lachen	lachen	ridere	ridi [vi]	rida	ridi	gleih	смеяться
-744	2	Body	smile [v]	lächeln	glimlachen	ridere	rideti [vi]	rideta	smaili	smeih	улыбаться
-746	2	Body	dance [v]	tanzen	dansen	danzare, ballare	danci [vi]	dansa	dansi	dans	танцевать
-747	3	Body	gesture [v]	Gesten machen	gebaren	gesticolare, fare gesti	gesti [vi]	gesta	jesti	motion	жестикулировать
-750	2	Body	touch [v]	berühren	raken, aanraken	toccare	tuŝi [vt]	tucha	tachi	touche	трогать
-751	2	Body	catch (seize in the hands) [v]	fangen	vangen	prendere, afferrare	kapti [vt]	kapta	kapti	kap	хватать
-752	2	Body	hold, grasp [v]	halten	houden, vasthouden	tenere	teni [vt]	tena	teni	dehrj	держать
-753	2	Body	throw [v]	werfen	werpen, gooien	gettare	ĵeti [vt]	jeta	lansi	xeubh	бросать
-754	2	Body	kick [v]	stossen, treten	schoppen, trappen	dare un calcio a	piedbati [vt]		kiki	kalc	пинать
-761	2	Body	kiss [v]	küssen	kussen	baciare	kisi [vt]	basia	kisi	kou	целовать
-762	2	Body	copulate, have sex (with) [v]	sich paaren	paren, neuken {slang}, wippen {slang}	avere rapporti sessuali con, copulare con (learned)	koiti [vi], fiki [vt]		koiti	yehbh	совокупляться
-771	2	Body	shave (scrape off beard-hairs with a blade) [v]	sich rasieren	zich scheren	radersi, radere	razi [vt]	rasa	rasi	xeur	бриться
-781	2	Body	hunt (pursue with intent to capture and/or devour) [v]	jagen	jagen	cacciare, inseguire	ĉasi [vt]	chasa	shikari, goni	yagh	гнаться, преследовать, охотиться
+705	2	Body	crawl [v]	kriechen	kruipen	strisciare	rampi	repta	kripi	remep	ползти
+706	2	Body	swim [v]	schwimmen	zwemmen	nuotare	naĝi	svima	swimi	snah	плавать
+710	2	Body	breathe [v]	atmen	ademen	respirare	spiri	spira	spiri	anem	дышать
+711	3	Body	sneeze [v]	niesen	niezen	starnutire	terni	sternuta	chihi	sternue	чихать
+720	1	Body	eat [v]	essen	eten	mangiare	manĝi	manja	chi	edd	есть, кушать
+721	1	Body	drink [v]	trinken	drinken	bere	trinki	drinka	pi	poh	пить
+722	2	Body	bite [v]	beissen	bijten	mordere	mordi	morda	kusi	dehnk	кусать
+723	2	Body	spit [v]	spucken	spuwen, spugen	sputare	kraĉi	sputa	spuki	spieu	плевать
+724	2	Body	swallow [v]	schlucken	inzwelgen, slikken	inghiottire	gluti	gluta	gloti	sorb	глотать
+725	2	Body	vomit [v]	sich erbrechen	braken, overgeven, kotsen {slang}	vomitare	vomi	vomi	vomi	vomeih	блевать
+731	1	Body	stand [v]	stehen	staan	stare in piedi	stari	stea	stan	stah	стоять
+733	1	Body	sit (be in a sitting position) [v]	sitzen	zitten	essere seduto, stare seduto	sidi	sida	sidi	sedd	сидеть
+735	2	Body	squat [v]	hocken	hurken	accovacciarsi	kaŭri		kokori	hock	сидеть на корточках
+737	1	Body	lie (recline horizontally) [v]	liegen	liggen	giacere	kuŝi	lia	lagi	lyehg	лежать
+740	1	Body	cry, weep [v]	weinen	huilen	piangere	plori	plora	plaki	plang	плакать
+741	2	Body	cry out, shout, yell [v]	schreien	roepen, schreeuwen	gridare	krii	klama	krai	crie	кричать
+743	2	Body	laugh [v]	lachen	lachen	ridere	ridi	rida	ridi	gleih	смеяться
+744	2	Body	smile [v]	lächeln	glimlachen	ridere	rideti	rideta	smaili	smeih	улыбаться
+746	2	Body	dance [v]	tanzen	dansen	danzare, ballare	danci	dansa	dansi	dans	танцевать
+747	3	Body	gesture [v]	Gesten machen	gebaren	gesticolare, fare gesti	gesti	gesta	jesti	motion	жестикулировать
+750	2	Body	touch [v]	berühren	raken, aanraken	toccare	tuŝi	tucha	tachi	touche	трогать
+751	2	Body	catch (seize in the hands) [v]	fangen	vangen	prendere, afferrare	kapti	kapta	kapti	kap	хватать
+752	2	Body	hold, grasp [v]	halten	houden, vasthouden	tenere	teni	tena	teni	dehrj	держать
+753	2	Body	throw [v]	werfen	werpen, gooien	gettare	ĵeti	jeta	lansi	xeubh	бросать
+754	2	Body	kick [v]	stossen, treten	schoppen, trappen	dare un calcio a	piedbati		kiki	kalc	пинать
+761	2	Body	kiss [v]	küssen	kussen	baciare	kisi	basia	kisi	kou	целовать
+762	2	Body	copulate, have sex (with) [v]	sich paaren	paren, neuken {slang}, wippen {slang}	avere rapporti sessuali con, copulare con (learned)	koiti, fiki		koiti	yehbh	совокупляться
+771	2	Body	shave (scrape off beard-hairs with a blade) [v]	sich rasieren	zich scheren	radersi, radere	razi	rasa	rasi	xeur	бриться
+781	2	Body	hunt (pursue with intent to capture and/or devour) [v]	jagen	jagen	cacciare, inseguire	ĉasi	chasa	shikari, goni	yagh	гнаться, преследовать, охотиться
 782	2	Body	fight, combat [v]	Kampf	vechten	combattere	batali, barakti, lukti, militi	kombata, lukta	batali, luchi	combat, katue	биться, сражаться, бороться
-783	3	Body	wrestle [v]	ringen	worstelen	lottare	lukti [vi]	lukta	luchi	vreikst	бороться (спорт)
-791	3	Body	drown (die/kill via immersion) [v]	ertränken [vt], ertrinken [vi]	verdrinken	annegare	droni [vi]	drona [vt], bli drona	droni	khark	тонуть
+783	3	Body	wrestle [v]	ringen	worstelen	lottare	lukti	lukta	luchi	vreikst	бороться (спорт)
+791	3	Body	drown (die/kill via immersion) [v]	ertränken [vt], ertrinken [vi]	verdrinken	annegare	droni	drona, bli drona	droni	khark	тонуть
 792	3	Body	starve (die from lack of food) [v]								
 801	3	Perception	sense (ability to perceive a given kind of stimuli)	Sinn	zintuigen	senso	senso	sensu	sens	sense	чувство (способность)
 802	3	Perception	perceive (become aware of using the physical senses) [v]	wahrnehmen, bemerken	bespeuren	percepire	percepti		persepti	percep	воспринимать
-810	1	Perception	see [v]	sehen	zien	vedere	vidi [vt]	vida	vidi	vid	видеть
+810	1	Perception	see [v]	sehen	zien	vedere	vidi	vida	vidi	vid	видеть
 811	2	Perception	look at (intentionally and attentively see) [v]	ansehen	kijken	guardare	rigardi				
 812	3	Perception	examine, inspect [v]	prüfen	onderzoeken	esaminare	kontroli, ekzameni, inspekti	examina	examini	chehx	рассматривать
-813	2	Perception	conceal, hide [vt]	verbergen	verbergen	nascondere	kaŝi [vt]	kasha	ahfi	kehl	скрывать, прятать
+813	2	Perception	conceal, hide [vt]	verbergen	verbergen	nascondere	kaŝi	kasha	ahfi	kehl	скрывать, прятать
 814	2	Perception	reveal, disclose [v]	offenbaren	openbaren	rivelare	malkaŝi	revela	reveli	revele	обнаруживать
 815	2	Perception	show, display [v]	zeigen	toonen	mostrare	montri, vidigi	montra	diki	deik	показывать
 820	1	Perception	light (visible electro-magnetic radiation)	Licht	licht	luce	lumo	lume	luma	luce	свет
@@ -297,7 +297,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 865	3	Perception	pitch (frequency of sound waves), tone (high or low pitch)	Tonhöhe	toonhoogte	altezza, tonalità	piĉo	tone	ton	ton	тон
 866	3	Perception	noise (random/unwanted sound)	Geräusch	lawaai	rumore	bruo	bruiso	shum	blosk	шум
 870	2	Perception	flavor, taste	Geschmack	smaak	sapore	gusto	guste	gusta	gust	вкус
-871	2	Perception	taste (perceive the flavor of) [v]	schmecken	smaken, proeven	sentire (generic), gustare (intentional, usually pleasant, act)	gustumi [vt]	gusta	gusti	geus	пробовать (на вкус)
+871	2	Perception	taste (perceive the flavor of) [v]	schmecken	smaken, proeven	sentire (generic), gustare (intentional, usually pleasant, act)	gustumi	gusta	gusti	geus	пробовать (на вкус)
 872	2	Perception	delicious, tasty [aj]	schmackhaft	smakelijk	delizioso, gustoso	bongusta				
 873	2	Perception	sour [aj]	säuerlich	zuur	acido	acida	asidi	suan	sour	кислый
 874	2	Perception	sweet [aj]	süss	zoet	dolce	dolĉa	dolsi	dolche	swadh	сладкий
@@ -305,7 +305,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 876	2	Perception	smell, odor, aroma	Duft	reuk	odore (generic); aroma, profumo (good); puzza (bad)	odoro, aromo	odoro, aromate	fauha, aroma	odor, arome	запах, аромат
 877	2	Perception	stink (emit an unpleasant odor) [v]	stinken	stinken	puzzare	fetori				
 878	2	Perception	smell (perceive the odor/aroma of something) [vt]	hinriechen, riechen an		sentire odore di	flari				
-880	2	Perception	feel (perceive with the tactile sense) [v]	fühlen	voelen	sentire	sensi [vt]	senti	sensi	sense, kheiss	ощущать
+880	2	Perception	feel (perceive with the tactile sense) [v]	fühlen	voelen	sentire	sensi	senti	sensi	sense, kheiss	ощущать
 881	2	Perception	pain	Pein	pijn	dolore	doloro	dolore	tunga	gvol	боль
 882	2	Perception	pleasure	Vergnügen	plezier	piacere	plezuro	plesire	plesir	plaisure	удовольствие
 890	3	Perception	temperature	Temperature	temperatuur	temperatura	temperaturo	temperature	temperatura	temperature	температура
@@ -343,7 +343,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 942	3	Animal	whale (large marine mammal of order Cetacea)	Wal	walvisch	balena	baleno	balene	balena	kiet, baleina	кит
 945	2	Animal	frog (web-footed tailless leaping amphibian)	Frosch	kikker	rana	rano	rane	bakak	batrac	лягушка
 948	2	Animal	spider	Spinne	spin	ragno	araneo	arane	spaida	arank	паук
-950	2	Animal	cow/bull, cattle (bovine animal of either sex)	Vieh	vee (= cattle), koe (= cow), stier (= bull)	bovino	bovo	"bove {but ""tauro"" = bull exists as well as ""bovo""}"	gova	gwow	корова/бык
+950	2	Animal	cow/bull, cattle (bovine animal of either sex)	Vieh	vee (= cattle), koe (= cow), stier (= bull)	bovino	bovo	bove	gova	gwow	корова/бык
 951	2	Animal	donkey, ass (Equus asinus)	Esel	ezel	asino	azeno	asne	asla	asel	осёл
 952	3	Animal	elephant	Elifant	olifant	elefante	elefanto				
 953	2	Animal	goat (animal of genus Capra)	Ziege	geit	capra	kapro	kapre (-o, -a)	bakra	ayg	козёл
@@ -368,8 +368,8 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 983	2	Animal	turkey (Meleagris gallopavo)	Truthahn	kalkoen	tacchino	meleagro	dinde (-o, -a)	kalkun	kalkoun	индюк
 984	3	Animal	crow	Krähe		corvo	korvo				
 985	3	Animal	sparrow	Sperling	mus	passero	pasero				
-991	3	Animal	native (naturally belonging to a given realm) [aj]	eingeboren	inheems	nativo	indiĝena, denaska	indijen(i) {?}	janma-	walsk	родной, врождённый, прирождённый
-993	2	Animal	wild, feral, untamed [aj]	wild	wild	selvaggio; selvatico	sovaĝa	ferosi {?}	savaje	wild, gver	дикий
+991	3	Animal	native (naturally belonging to a given realm) [aj]	eingeboren	inheems	nativo	indiĝena, denaska	indijen(i)	janma-	walsk	родной, врождённый, прирождённый
+993	2	Animal	wild, feral, untamed [aj]	wild	wild	selvaggio; selvatico	sovaĝa	ferosi	savaje	wild, gver	дикий
 995	2	Animal	nest, den, lair (an animal's self-made house)	Nest, Höhle	nest, leger (v. dier)	nido (of birds and insects); tana (of quadrupeds, usually undeground)	nesto, kuŝejo, bestoloĝejo	neste	nesta; lagilok	nest; ten; laz	гнездо; берлога
 1000	2	Plant	plant (a vegetable life-form)	Pflanze	plant	pianta, vegetale	plantaĵo, vegetalo	plante	planta	plante	растение
 1001	2	Plant	tree	Baum	boom	albero	arbo	arbre	baum	dru	дерево
@@ -381,7 +381,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1007	3	Plant	fertile (of soil; able to support plant growth) [aj]	fruchtbar	vruchtbaar	fertile (a terrain)	fekunda	fertil(i)	frutishil	 	плодородный
 1010	2	Plant	garden	Garten	tuin	giardino	ĝardeno	gardene	garden	garden	сад
 1011	2	Plant	plant [v] (to put seeds in soil)	pflanzen	planten	seminare	planti				
-1012	2	Plant	harvest, reap [v]	ernten	oogsten	raccolto (general), vendemmia (of grapes)	rikolti [vt]	rekolta	rekoli	opsen	собирать урожай
+1012	2	Plant	harvest, reap [v]	ernten	oogsten	raccolto (general), vendemmia (of grapes)	rikolti	rekolta	rekoli	opsen	собирать урожай
 1020	3	Plant	berry (small pulpy fruit)	Beere	bes	bacca	bero	bere	beri	ber	ягода
 1021	3	Plant	bud (of flower/leaf)	Keim	knop, kiem	bocciolo (of flower), getto (of leaf)	burĝono	burjone	yema	spreug	почка
 1022	2	Plant	flower	Blume	bloem	fiore	floro	flore	flor	flor	цветок
@@ -441,7 +441,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1089	3	Plant	mustard (plant of sp. Brassica hirta / B. nigra / B. juncea)	Senf	mosterd	senape	mustardo	mustarde	mostarda	sinep	горчица
 1090	3	Plant	onion (plant/bulb of sp. Allium sepa)	Zwiebel	ui	cipolla	cepo	onione	luk	cepel	лук
 1091	3	Plant	pea (plant/seed of sp. Pisum sativum)	Erbse	erwt	pisello	pizo	pise	pwa	ergv	горох
-1092	3	Plant	peanut (plant/seed/pod of sp. Arachis hypogaea)	Erdnuss	pinda	arachide, nocciolina (slang)	arakido	arake {?}	ardanuta	kalchang	арахис
+1092	3	Plant	peanut (plant/seed/pod of sp. Arachis hypogaea)	Erdnuss	pinda	arachide, nocciolina (slang)	arakido	arake	ardanuta	kalchang	арахис
 1093	3	Plant	pepper (hot/sweet/bell pepper -- plant/pod of genus Capsicum)	Paprika	(cayenne)peper	peperoncino	kapsiko		paprika	paprika	сладкий перец
 1094	2	Plant	potato (plant/tuber of sp. Solanum tuberosum)	Kartoffel	aardappel	patata	terpomo	potate	patata	kartoffel, patat	картофель
 1095	3	Plant	soya, soybean (plant/seed of sp. Glycine max)	Sojabohne	soja(boon)	soia	sojo		soya	soya	соя
@@ -473,7 +473,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1136	3	Nature	tornado	Tornado	tornado	tornado, ciclone	ciklono		tornado	tornado	торнадо
 1137	2	Nature	wind	Wind	wind	vento	vento	vente	feng	wind	ветер
 1138	3	Nature	Milky Way	Milchstraße							
-1150	3	Nature	earthquake	Erdbeben	aardbeving	terremoto	tertremo	tremblo de tere {?}	sisma	ginschien	землетрясение
+1150	3	Nature	earthquake	Erdbeben	aardbeving	terremoto	tertremo	tremblo de tere	sisma	ginschien	землетрясение
 1151	3	Nature	flood, deluge	Flut	overstroming	alluvione	inundo	diluvie	inunda	saylab	наводнение
 1160	3	Nature	bay (small body of water offset from lake or sea)	Bucht	baai	baia, golfo	golfo	baye	baya	bukht, bai	бухта
 1161	2	Nature	beach, shore	Strand	strand	spiaggia (particularly with sand), costa	strando, plaĝo	plaje	playa	plaj	пляж
@@ -563,12 +563,12 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1273	3	Tool	plug, stopper	Pfropfen, Stöpsel	prop	tappo	ŝtopilo	tampone	stoper	stopper, corc	затычка
 1274	3	Tool	telephone	Telefon, Fernsprecher	telefoon	telefono	telefono	telefone	telefon	telephone	телефон
 1275	3	Tool	radio (a wireless receiver)	Radioapparat	radio	radio	radio	radio	radio	radio	радио
-1276	3	Tool	television set	Fernsehapparat	televisie	televisore	televido	[no equivalent]	TV	TV	телевизор
-1277	3	Tool	computer (electronic instruction-obeying information-handler)	Computer	computer	computer	komputilo {variants: komputero; komputoro}	[no equivalent]	kompyuter, kompa	computer	компьютер
-1278	3	Tool	cellphone, cellular telephone	Handy, Mobiltelefon			poŝtelefono	[no equivalent]			
+1276	3	Tool	television set	Fernsehapparat	televisie	televisore	televido		TV	TV	телевизор
+1277	3	Tool	computer (electronic instruction-obeying information-handler)	Computer	computer	computer	komputilo {variants: komputero; komputoro}		kompyuter, kompa	computer	компьютер
+1278	3	Tool	cellphone, cellular telephone	Handy, Mobiltelefon			poŝtelefono				
 1280	3	Tool	balloon	Ballon	ballon	pallone	balono	balone	balon	ballon 	баллон; воздушный шар
 1281	2	Tool	coin	Münze	munt, muntstuk	moneta	monero	monete	moneta	pieng	монета
-1282	3	Tool	fan (device to create air current)	Fächer	waaier	ventilatore	ventumilo	ventilatore {?}	fenger, ventilator	windplic, ventilator	вентилятор
+1282	3	Tool	fan (device to create air current)	Fächer	waaier	ventilatore	ventumilo	ventilatore	fenger, ventilator	windplic, ventilator	вентилятор
 1283	3	Tool	gear (toothed wheel)	Zahnrad	gier	ingranaggio	dentradaro		dentarada	ghir	шестерня
 1284	3	Tool	handle (part of tool by which it is held)	Griff, Henkel, Handkurbel	handvat	manico	tenilo	anse	graspika	stolg	рукоятка, ручка
 1285	3	Tool	hinge	Angel (einer Tür)	scharnier	cardine	ĉarniro	charnire	sharnir	mifussal	петля (дверная), шарнир
@@ -576,7 +576,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1287	3	Tool	knob	Drücker, Knopf	knop	manopola	tubero		 	knop	набалдашник
 1288	3	Tool	ladder	Leiter	ladder	scala	ŝtupetaro	skale	sulam	climek	лестница
 1289	3	Tool	lever	Hebel	hefboom	leva	levstango	levere	dranga	drangh	рычаг
-1290	2	Tool	lock (device for securing doors)	Schloss	slot	serratura (inside the door), lucchetto (applied to the door and removable)	seruro	"{padloke = padlock; no general word for ""lock"" can be found}"	kufla	sclud	замок (на дверь)
+1290	2	Tool	lock (device for securing doors)	Schloss	slot	serratura (inside the door), lucchetto (applied to the door and removable)	seruro		kufla	sclud	замок (на дверь)
 1291	2	Tool	machine (device with moving parts)	Maschine	machine	macchina	maŝino	machine	mashina	machine	машина
 1292	3	Tool	match (little fire-stick)	Streichholz	lucifer	fiammifero	alumeto	alumete	kibrit	kibrit	спичка
 1293	3	Tool	pedal	Pedal	pedaal	pedale	pedalo	pedale	pedal	pedal	педаль
@@ -596,7 +596,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1307	2	House	can (presealed metal container) {British: tin}	Büchse	blik	lattina	ladskatolo		tin-ken	conserve	консервная банка
 1308	1	House	cup (small bowl with handle)	Tasse, Becher	kop, kopje	tazza	taso	tase	tasa	tasse	чашка
 1309	3	House	dish (any shallow concave container)	Schüssel	schotel	piatto	plado	platone	dish	pliat	блюдо
-1310	2	House	jar, jug (big wide-mouthed bottle)	Krug	kruik	giara	poto	kruche (= jug)	kruga	weuder	кувшин
+1310	2	House	jar, jug (big wide-mouthed bottle)	Krug	kruik	giara	poto	kruche	kruga	weuder	кувшин
 1311	3	House	package, packet, parcel	Paket	pakje	pacco	pakaĵo	pakete	paketa	pack(ett)	пакет
 1312	3	House	pan (broad shallow cooking dish)	Pfanne	pan	padella	pato	padele	frier	tanjar, skord; teghnon	сковородка
 1313	3	House	plate (shallow dish, usually round)	Teller	bord	piatto	telero	plate	pyata	taler	тарелка
@@ -627,7 +627,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1416	2	Clothing	string (thicker than thread and thinner than rope)	Bindfaden, Sehne, Saite	koord, touw	corda	ŝnureto	kordete	syen	schnur	струна
 1417	2	Clothing	rope	Seil	touw	corda, fune	ŝnuro	korde	korda	seil	верёвка
 1420	2	Clothing	sew [v]	nähen	naaien	cucire	kudri	suta	suti	syuh	шить
-1421	3	Clothing	weave [v]	weben	weven	tessere	teksi [vt]	texa	texi	wehbh	ткать, плести
+1421	3	Clothing	weave [v]	weben	weven	tessere	teksi	texa	texi	wehbh	ткать, плести
 1425	2	Clothing	wear (to have a garment on the body) [v]	tragen							
 1426	3	Clothing	put on (to begin to wear a garment) [v]	anziehen							
 1427	3	Clothing	take off (to remove a garment from the body) [v]	ausziehen							
@@ -651,7 +651,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1460	2	Clothing	pants, trousers	Hose	broek	pantaloni {plural only}	pantalono	pantalone	panta	pantalon, bruks	штаны
 1461	3	Clothing	jeans, blue-jeans	Jeans	spijkerbroek, jeans	jeans	ĝinzo				
 1462	3	Clothing	skirt	Rock	rok	gonna	jupo	jupe	jupa	fustan	юбка
-1463	3	Clothing	shorts (outer pants extending no lower than knees)	kurze Hose, Shorts	shorts, korte broek	calzoncini, pantaloni corti	ŝorto, sportkuloto	kalsone {?}	shorta	schorts	шорты
+1463	3	Clothing	shorts (outer pants extending no lower than knees)	kurze Hose, Shorts	shorts, korte broek	calzoncini, pantaloni corti	ŝorto, sportkuloto	kalsone	shorta	schorts	шорты
 1464	3	Clothing	underpants	Unterhose	onderbroek	mutande	kalsono, kalsoneto				
 1470	2	Clothing	shoe	Schuh	schoen	scarpa	ŝuo	shu(e)	shu	schou	туфля, полуботинок; башмак
 1471	3	Clothing	sock (a snug-fitting cloth covering for the foot and ankle)	Socke	sok, kous	calzino	ŝtrumpeto	kalsete	sok		носок, чулок
@@ -690,10 +690,10 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1540	3	Building	closet	Toilette							
 1550	2	Building	house (a free-standing man-made dwelling-building)	Haus	huis	casa	domo	huse	dom	dom	дом
 1555	3	Building	block of flats, apartment building	Reihenhaus							
-1556	2	Building	reside, dwell, live [v]	wohnen	wonen, resideren	vivere	loĝi [vi]	resida	habiti	resid, weik, gwiv, habite	жить, проживать
+1556	2	Building	reside, dwell, live [v]	wohnen	wonen, resideren	vivere	loĝi	resida	habiti	resid, weik, gwiv, habite	жить, проживать
 1557	2	Building	camp, bivouac, temporary shelter	Lager	kamp	accampamento	tendumejo, kampadejo, bivakejo	bivake	kampa	camp, waun	лагерь
 1560	3	Building	bank (monetary institution)	Bank	bank	banca	banko	banke	banka	bank	банк
-1561	3	Building	church (building or institution of public worship)	Kirche	kerk	chiesa	preĝejo	kirke (building), eklesie (institution)			
+1561	3	Building	church (building or institution of public worship)	Kirche	kerk	chiesa	preĝejo	kirke, eklesie			
 1562	3	Building	factory	Fabrik	fabriek	fabbrica	fabriko	fabrike	fabrika	fabrique	фабрика
 1563	3	Building	mill (place where raw materials are processed)	Mühle	molen	mulino	muelejo	mile	melidom	molin	мельница
 1564	3	Building	hospital	Krankenhaus	ziekenhuis, hospitaal	ospedale	malsanulejo, hospitalo	hospitale	hospital	hospital	больница
@@ -752,7 +752,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1655	3	Government	trial (in court)	Prozess	proces	processo	proceso	prosese	judidela	process, mahel	дело, процесс (в суде)
 1656	3	Government	police (organization to enforce laws)	Polizei	politie	polizia	polico	polise	polis	police	полиция
 1657	3	Government	arrest [v]	festnehmen							
-1658	3	Government	torture [v]	foltern	folteren	torturare, tormentare	torturi, turmenti [vt]	tortura, tormenta			
+1658	3	Government	torture [v]	foltern	folteren	torturare, tormentare	torturi, turmenti	tortura, tormenta			
 1659	3	Government	prisoner	Häftling							
 1660	3	Government	judge (presiding in a court of law)	Richter							
 1661	3	Government	police officer	Polizist							
@@ -766,13 +766,13 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1674	3	Government	disobey [v]	widersetzen							
 1675	2	Government	rule, regulation	Regel	regel	regola (way to do something); regolamento (official set of directions)	regulo	regle	regula	reul	правило
 1676	3	Government	organize (bring X's together to perform a task) [v]	organisieren	organiseren	organizzare	organizi	organisa	organisi	organise	организовать
-1677	3	Government	unite [v]	vereinigen	verenigen	unire	unuigi [vt], unuiĝi [vi]	unisa	unisi	unie	объединять
+1677	3	Government	unite [v]	vereinigen	verenigen	unire	unuigi, unuiĝi	unisa	unisi	unie	объединять
 1678	2	Government	free (at liberty) [aj]	frei	vrij	libero	libera	liberi	libre	leu(de)r	свободный
 1679	3	Government	independent [aj]	unabhängig	onafhankelijk, zelfstandig	indipendente	sendependa	non-dependante	nodependa-ney	independent	независимый
-1680	2	Government	punish [v]	bestrafen	straffen	punire	puni [vt]	puni	puni	puneih	наказать
-1681	2	Government	reward [v]	belohnen	belonen	ricompensa	rekompenci [vt]	rekompensa	rekompensi	recompense, meizd	воздавать, отплачивать награждать
+1680	2	Government	punish [v]	bestrafen	straffen	punire	puni	puni	puni	puneih	наказать
+1681	2	Government	reward [v]	belohnen	belonen	ricompensa	rekompenci	rekompensa	rekompensi	recompense, meizd	воздавать, отплачивать награждать
 1682	2	Government	prize, award	Prämie	premie, beloning	premio	premio	premie	prisa, premia	mizd	приз, премия
-1701	2	Business	exchange, trade, swap [v]	tauschen	uitwisselen, ruilen	scambiare, dare in cambio (both generic)	interŝanĝi [vt]	kambia	intershanja	exchange	обмен
+1701	2	Business	exchange, trade, swap [v]	tauschen	uitwisselen, ruilen	scambiare, dare in cambio (both generic)	interŝanĝi	kambia	intershanja	exchange	обмен
 1705	2	Business	money	Geld	geld	denaro	mono	moneye	mani	denars	деньги
 1706	3	Business	merchandise, goods, wares	Ware	waren	beni {plural only}	varoj	vares	pin	tovar, ware	товары
 1707	3	Business	store, cache, reserve (supply kept for future need)	Vorrat, Lager	voorraad, magazijn	riserva	rezervo	reserva, depo	sklad	запас; хранилище	
@@ -780,29 +780,29 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1709	2	Business	company (a business organization), firm	Gesellschaft	firma	ditta	kompanio	kompania	firma	compagnie, firm(a)	фирма, компания
 1715	2	Business	rich, wealthy [aj]	reich	rijk	ricchezza, beni {plural only}	riĉa	richi	riche	riche	богатый
 1716	2	Business	poor, impoverished [aj]	arm	arm	povero	malriĉa	povri	povre	orm	бедный
-1720	3	Business	offer (present for acceptance or rejection) [v]	anbieten	aanbieden	presentare (goods); proporre (advices, opinions, suggestions)	proponi [vt]	ofra	proposi	offer	предлашать
-1721	3	Business	accept (willingly receive) [v]	annehmen	accepteren	accettare	akcepti [vt]	alsepta	aksepti	accepte	принимать
-1722	3	Business	reject, refuse (contra-accept) [v]	ablehnen	verwerpen, weigeren	rifiutare	rifuzi [vt]	refusa	refusi	refuse	отказаться
-1730	3	Business	own (possess according to law or custom) [v]	besitzen	bezitten	possedere	posedi [vt]	posese {?}	posesi	possedd	обладать
-1731	2	Business	"keep, retain, go on having (e.g. ""you should keep this book"") [v]"	behalten	houden, behouden	tenere (keep); conservare (keep in good state)	reteni [vt]	retena			
-1732	2	Business	lack (be without) [v]	(I lack it = es mangelt mir an)	ontberen, missen, niet habben	mancare di, essere senza	malhavi [vt], manki [vi]	manka	falti	au, wan	недоставать
-1733	2	Business	lose (cease having; contra-acquire) [vt]	verlieren	verliezen	perdere	perdi [vt]	perda	lusi	leus	терять
-1734	1	Business	give [v]	geben	geven	dare	doni [vt]	dona	dai	dah	дать
-1735	2	Business	provide, supply, furnish [v]	besorgen	voorzien (van)	provvedere di, fornire	provizi [vt]	provise	saplai	dadw	обеспечивать, снабжать
-1736	1	Business	get, acquire, gain, obtain [vt]	bekommen	krijgen	ottenere	akiri [vt]	resiva, obtena	en-hev, akwiri	hassile	заиметь, приобрести
-1737	3	Business	receive [v]	empfangen	ontvangen	ricevere	ricevi [vt]	resiva	resivi	dak, preim, recep	получить
-1738	1	Business	"take (in the sense of E-o ""preni"", G ""nehmen"", Sp ""tomar"") [v]"	nehmen	nemen	prendere	preni [vt]	prenda			
-1739	2	Business	steal (take in a criminal way) [v]	stehlen	stelen, pikken {slang}, jatten {slang}	rubare	ŝteli [vt]	furta	chori	klehpt	украсть
+1720	3	Business	offer (present for acceptance or rejection) [v]	anbieten	aanbieden	presentare (goods); proporre (advices, opinions, suggestions)	proponi	ofra	proposi	offer	предлашать
+1721	3	Business	accept (willingly receive) [v]	annehmen	accepteren	accettare	akcepti	alsepta	aksepti	accepte	принимать
+1722	3	Business	reject, refuse (contra-accept) [v]	ablehnen	verwerpen, weigeren	rifiutare	rifuzi	refusa	refusi	refuse	отказаться
+1730	3	Business	own (possess according to law or custom) [v]	besitzen	bezitten	possedere	posedi	posese	posesi	possedd	обладать
+1731	2	Business	"keep, retain, go on having (e.g. ""you should keep this book"") [v]"	behalten	houden, behouden	tenere (keep); conservare (keep in good state)	reteni	retena			
+1732	2	Business	lack (be without) [v]	(I lack it = es mangelt mir an)	ontberen, missen, niet habben	mancare di, essere senza	malhavi, manki	manka	falti	au, wan	недоставать
+1733	2	Business	lose (cease having; contra-acquire) [vt]	verlieren	verliezen	perdere	perdi	perda	lusi	leus	терять
+1734	1	Business	give [v]	geben	geven	dare	doni	dona	dai	dah	дать
+1735	2	Business	provide, supply, furnish [v]	besorgen	voorzien (van)	provvedere di, fornire	provizi	provise	saplai	dadw	обеспечивать, снабжать
+1736	1	Business	get, acquire, gain, obtain [vt]	bekommen	krijgen	ottenere	akiri	resiva, obtena	en-hev, akwiri	hassile	заиметь, приобрести
+1737	3	Business	receive [v]	empfangen	ontvangen	ricevere	ricevi	resiva	resivi	dak, preim, recep	получить
+1738	1	Business	"take (in the sense of E-o ""preni"", G ""nehmen"", Sp ""tomar"") [v]"	nehmen	nemen	prendere	preni	prenda			
+1739	2	Business	steal (take in a criminal way) [v]	stehlen	stelen, pikken {slang}, jatten {slang}	rubare	ŝteli	furta	chori	klehpt	украсть
 1740	3	Business	available								
-1750	1	Business	buy, purchase [v]	kaufen	kopen, aankopen, aanschaffen	comprare	aĉeti [vt]	kompra	kupi	kaup	покупать
-1751	1	Business	sell [v]	verkaufen	verkopen	vendere	vendi [vt]	venda	vendi	pehrn	продавать
-1752	3	Business	pay [v]	gezahlen	betalen	pagare	pagi [vt]	paga	pagi	paygh	платить
+1750	1	Business	buy, purchase [v]	kaufen	kopen, aankopen, aanschaffen	comprare	aĉeti	kompra	kupi	kaup	покупать
+1751	1	Business	sell [v]	verkaufen	verkopen	vendere	vendi	venda	vendi	pehrn	продавать
+1752	3	Business	pay [v]	gezahlen	betalen	pagare	pagi	paga	pagi	paygh	платить
 1755	2	Business	price, cost	Preis	prijs	prezzo (money required to buy X); costo (resources required to make X)	prezo	pretie	prais	pris	цена
 1756	2	Business	cheap, inexpensive [aj]	billig	goedkoop	economico	malmultekosta, malkara	chipi	chipe	ieftin	дешёвый
 1757	2	Business	expensive, costly [aj]	kostspielig	duur, kostbaar	"costoso, caro {slightly more informal than ""costoso""}"	multekosta, kara	cheri	guy	dorgv, costeus	дорогой
 1758	3	Business	value, worth	Wert	waarde	valore	valoro	valore			
-1760	2	Business	borrow [v]	leihen	lenen van	prestare	prunti [vt]	prunta	loni, pren lon-nem		одалживать,
-1761	2	Business	lend [v]	ausleihen	lenen	prestare	prunti [vt]	presta	loni, dai lon-nem		одалживать,
+1760	2	Business	borrow [v]	leihen	lenen van	prestare	prunti	prunta	loni, pren lon-nem		одалживать,
+1761	2	Business	lend [v]	ausleihen	lenen	prestare	prunti	presta	loni, dai lon-nem		одалживать,
 1765	3	Business	credit (permission to borrow money)	Kredit	krediet	credito	kredito	kredite	kredita	credit	кредит
 1766	3	Business	debt, obligation to pay	Schuld	schuld	debito	ŝuldo	debatu(m)	deba	dulg	долг (денежный)
 1770	3	Business	public (available to most or all persons) [aj]	öffentlich	publiek, openbaar	pubblico	publika	publi, publik(i)	publike	public	публичный, общественный
@@ -817,7 +817,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1784	2	Business	greedy [aj]	gierig	hebzuchtig, gierig	avaro	avara	avidi	avide	lasni	жадный
 1787	3	Business	insurance (protective contractual arrangement)	Versicherung	verzekering	assicurazione	asekuro	assuratione	sigurisa	sicurance	cтраховка
 1788	3	Business	responsibility, liability, accountability	Verantwortung	verantwoordelijkheid	responsabilità	respondeco	responso	responsa	massoulia	ответственность
-1790	3	Business	invest [v]	investieren	investeren	investire	investi [vt]	plasa	investi	invest	 
+1790	3	Business	invest [v]	investieren	investeren	investire	investi	plasa	investi	invest	 
 1791	3	Business	profit, gain	Gewinn	profijt, voordeel	profitto, utile	profito	profite	profit	profit, lautel	выгода
 1792	3	Business	loss (contra-profit)								
 1793	3	Business	stock market								
@@ -855,19 +855,19 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1905	1	Value	good [aj]	gut	goed	buono	bona	bon(i)	hao	weus-	хороший
 1906	1	Value	bad [aj]	schlecht	slecht	cattivo	malbona	mal(i)	bade	dus-	плохой
 1907	3	Value	virtuous								
-1908	3	Value	evil [aj]	übel	kwaad, boos	malvagio	malbon(eg)a	mal(i) {might use 'malisi'}	bade	khiter	злой, порочный
+1908	3	Value	evil [aj]	übel	kwaad, boos	malvagio	malbon(eg)a	mal(i)	bade	khiter	злой, порочный
 1909	2	Value	suitable, proper, fit(ting), appropriate [aj]	geeignet	passend	appropriato, conveniente	taŭga, konvena	apti	godi-she	dohbro	подходящий
 1910	2	Value	fair, just, equitable [aj]	gerecht	rechtvaardig	giusto, equo	justa	justi			
 1915	3	Value	admire [v]	bewundern	bewonderen	ammirare	admiri	admira	admiri	admire	восхищаться
 1916	3	Value	respect, venerate, esteem [v]	achten	respekteren, achten	rispettare, stimare	estimi, respekti	respekte	respekti	respect	уважать
-1917	2	Value	like, enjoy (derive pleasure from) [v]	gern haben, (I like it = es gefällt mir)	mogen, leuk vinden, graag doen	apprezzare; piacere [refl. v]	ĝui, ŝati	prisa (to like, value); savura (enjoy, of foods); jua (enjoy)	pri, jui	kam, preih	нравиться, наслаждаться
+1917	2	Value	like, enjoy (derive pleasure from) [v]	gern haben, (I like it = es gefällt mir)	mogen, leuk vinden, graag doen	apprezzare; piacere [refl. v]	ĝui, ŝati	prisa, jua	pri, jui	kam, preih	нравиться, наслаждаться
 1918	3	Value	dislike [v]								
 1919	3	Value	approve (of) [v]	Beifall	goedkeuring, toestemming	approvare	aprobo	aprobatione	aprobi	approbe	одобрять
 1920	2	Value	prefer, favor [v]	bevorzugen	de voorkeur geven	preferire	preferi, favori	prefera	preferi	prefer	предпочитать
 1921	3	Value	dear, precious, cherished [aj]	lieb	lief	caro	kara	kar(i)	kare	kyar	дорогой, милый
 1925	2	Value	believe (accept as true) [v]	glauben	geloven	credere, credere in	kredi	kreda	kredi	credeih	верить
 1926	3	Value	doubt [v]	Zweifeln	twijfelen	dubitare, mettere in dubbio	dubi	duta	dubi	dwoi	сомневаться
-1927	3	Value	test, check [v]	prüfen, probieren	toetsen	provare	testi, ekzameni, kontroli [vt]	testa	testi	teste	испытывать, тестировать
+1927	3	Value	test, check [v]	prüfen, probieren	toetsen	provare	testi, ekzameni, kontroli	testa	testi	teste	испытывать, тестировать
 1928	3	Value	proof, evidence	Beweis	bewijs	prova	pruv(aĵ)o	pruvo	pruva	pruv	доказательство
 1929	3	Value	experiment	Versuch	experiment	esperimento	eksperimento	experimente	experimenta	experiment	эксперимент
 1935	2	Value	simple [aj]	einfach	eenvoudig	semplice	simpla, malkompleksa, malkomplika	simpli	simple	simple	простой
@@ -877,7 +877,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 1943	1	Value	true [aj]	wahr	waar	vero	vera	veri	vere	ver	настоящий, истинный
 1945	1	Value	false, untrue [aj]	falsch	valsch	falso	malvera, falsa	falsi	false	fals	ложный
 1947	1	Value	right, correct [aj]	richtig	juist	giusto	ĝusta	korekti	prave	(cor)rect	правильный
-1949	1	Value	wrong, incorrect [aj]	falsch	verkeerd	sbagliato	malĝusta, erara	deskorekti {*}	noprave	ghaw	неправильный
+1949	1	Value	wrong, incorrect [aj]	falsch	verkeerd	sbagliato	malĝusta, erara	deskorekti	noprave	ghaw	неправильный
 1951	2	Value	real, actual [aj]	wirklich, echt	werkelijk	reale	reala, efektiva	real	reale	real	реальный
 1953	2	Value	imaginary								
 1960	3	Value	famous [aj]	berühmt	beroemd	famoso	fama, famekonata	famosi	fama-ney	maschour	знаменитый
@@ -921,7 +921,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2031	2	Mind	desire, longing								
 2032	3	Mind	decide [v]	entscheiden	beslissen, besluiten	decidere	decidi	desise	desidi	decid	решать, принимать решение
 2033	2	Mind	intend, mean to, do deliberately, have as a purpose [v]	beabsichtigen	van plan zijn, willen	volere, fare apposta (colloquial)	intenci	intente	intenti	eiskw	намереваться
-2034	3	Mind	automatic [aj]	automatisch	automatisch	automatico	aŭtomata	automati {*}	automatike	automatic	автоматический
+2034	3	Mind	automatic [aj]	automatisch	automatisch	automatico	aŭtomata	automati	automatike	automatic	автоматический
 2035	3	Mind	whim, caprice	Laune, Grille	gril	capriccio	kaprico	kaprise	kapris	caprice	каприз
 2036	3	Mind	reason, explanation, rationale	Grund	reden, grond	motivo	kialo	resone	reson	raison	резон, довод, основание, причина
 2038	3	Mind	experience (consciously live through an event) [v]	erfahren	ondervinden, ervaren	provare, sperimentare	sperti	experientia	anubavi	experience	испытывать, переживат
@@ -931,7 +931,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2042	3	Mind	knowledge	Wissen, Kenntnisse	kennis	sapere [n]	scio	savo	jansa	gnohsa	знание
 2043	3	Mind	study [v]	studieren	studeren	studiare	studi	studia	studi	studye	изучать
 2044	2	Mind	learn [v]	lernen	leren	imparare, apprendere	lerni, ekscii, informiĝi	lerna	lerni	euc	учиться, научиться
-2045	2	Mind	teach [v]	lehren	onderwijzen, leren	insegnare	instrui	dose, instrukte {?}	talimi	doc	учить
+2045	2	Mind	teach [v]	lehren	onderwijzen, leren	insegnare	instrui	dose, instrukte	talimi	doc	учить
 2048	3	Mind	guess, conjecture [v]	vermuten	gissen, vermoeden	indovinare (try to forecast); supporre, pensare	konjekti, diveni	konjektura	gesi	gvaedd	угадывать; догадыватьс
 2049	3	Mind	suppose, presume [v]	annehmen	aannemen, veronderstellen	supporre	supozi	suposi	suposi	supposen	предполагать
 2050	3	Mind	theory	Theorie	theorie	teoria	teorio, hipotezo	teorie	teoria	theoria	теория
@@ -957,23 +957,23 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2073	2	Emotion	fear (be afraid of) [v]	fürchten	vrezen, bang zijn van	temere	timi	tima, pavora	fobi	bay	бояться
 2074	3	Emotion	expect, anticipate (believe that X will come/happen) [v]	erwarten	verwachten, anticiperen	aspettarsi [refl. v]	antaŭsupozi, antaŭvidi	expekta	expekti	exspecte	ожидать, рассчитывать
 2075	2	Emotion	hope [v]	hoffen	hopen	sperare	esperi	espera	nadi	speh	надеяться
-2076	2	Emotion	worry, anxiety	Sorge	zorg	ansia	ĉagreno, maltrankviliĝo	tormente {?}	nokalmitaa	sweurgh	беспокойство
+2076	2	Emotion	worry, anxiety	Sorge	zorg	ansia	ĉagreno, maltrankviliĝo	tormente	nokalmitaa	sweurgh	беспокойство
 2077	3	Emotion	satisfaction	Befriedigung, Genugtuung	voldoening, bevrediging	soddisfazione	kontenteco	satisfaktione	satisfakta	satisfaction	удовлетворение
 2078	3	Emotion	disappointment	Enttäuschung	teleurstelling	delusione	malkontentiĝo, seniluziiĝo	deseptione	 	deception	разочарование
 2079	3	Emotion	regret [v]	Bedauern	spijten, betreuren	rimpiangere	bedaŭri	regreta	afsosi	regret	сожалеть
 2080	1	Emotion	happy [aj]	glücklich	vrolijk, opgewekt	felice	feliĉa	felisi	felise	noroct	счастливый
 2081	1	Emotion	sad, unhappy, melancholy [aj]	unglücklich	treurig, ongelukkig	triste	malfeliĉa, malgaja, trista	tristi	triste	shi	грустный
 2100	3	Behavior	behavior, conduct	Benehmen	gedrag	comportamento, condotta	konduto	konduite	suluka	sulouk	поведение
-2101	3	Behavior	pride (proudness; self-respect)	Stolz	trots	orgoglio	fiero, orgojlo	fiereso {*}, fieritate {*}			
+2101	3	Behavior	pride (proudness; self-respect)	Stolz	trots	orgoglio	fiero, orgojlo	fiereso, fieritate			
 2102	3	Behavior	arrogant								
 2103	3	Behavior	embarrassment	Verlegenheit	verlegenheid	imbarazzo	embaraso	embaraso	mushkila	embarass	затруднение
 2104	3	Behavior	shame	Schande, Scham	schaamte, schande	vergogna	honto	shame	shama	scham	стыд
 2106	3	Behavior	serious, earnest, grave [aj]	ernst	ernstig, serieus	serio	serioza	seriosi	seriose	serieus	серьёзный
 2107	2	Behavior	funny, comical [aj]	komisch	grappig, komisch	divertente (amusing); comico (which makes to laugh); buffo	amuza, komika	komiki	drole	goil	забавный, смешной
 2108	2	Behavior	wise [aj]	weise	wijs	saggio	saĝa	saji	saje	hakime	мудрый
-2109	2	Behavior	foolish [aj]	töricht	gek, mal	pazzo (mad); stupido (stupid, silly)	malsaĝa, stulta	folatri {*}	norasum-ney	akmak	неразумный, глупый
+2109	2	Behavior	foolish [aj]	töricht	gek, mal	pazzo (mad); stupido (stupid, silly)	malsaĝa, stulta	folatri	norasum-ney	akmak	неразумный, глупый
 2110	3	Behavior	innocent, contra-guilty [aj]	unschuldig	onschuldig	innocente	senkulpa	inosent(i)	inosente	innocent	невинный
-2111	3	Behavior	guilty, blame-worthy [aj]	schuldig	schuldig	colpevole	kulpa	blamindi {*}	kulpaful	nocent	виновный
+2111	3	Behavior	guilty, blame-worthy [aj]	schuldig	schuldig	colpevole	kulpa	blamindi	kulpaful	nocent	виновный
 2115	3	Behavior	blame [v]	die Schuld geben	de schuld geven	biasimare	kulpigi	blama	blami	blame	порицать, осуждать
 2116	2	Behavior	caution, prudence, carefulness	Vorsicht	voorzichtigheid	attenzione, prudenza, cura	singardo, prudento	kautione	chaukitaa	caution, prudence	осторожность
 2117	3	Behavior	celebrate, rejoice [v]	feiern	vieren	festeggiare	festi, celebri	festa	festi	fest	праздновать
@@ -992,25 +992,25 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2130	3	Behavior	patience	Geduld	geduld	pazienza	pacienco	patienteso, patientia	sabra	patience	терпение
 2131	2	Behavior	pity, feel compassion toward, feel sorry for [v]	bemitleiden	medelijden hebben met	compatire	kompati	pitia	piti	compatt	жалеть
 2132	2	Behavior	pretend, act, feign [v]	vorgeben	voorgeven, pretenderen, veinzen	fingere; far finta di	preteksti, ŝajnigi	simula, fikte	simuli	fineg	притворяться
-2133	2	Behavior	deserve, merit, be worthy of [v]	verdienen	verdienen	meritare	meriti [vt]	merita	meriti	stahal	заслуживать, быть достойным
+2133	2	Behavior	deserve, merit, be worthy of [v]	verdienen	verdienen	meritare	meriti	merita	meriti	stahal	заслуживать, быть достойным
 2134	2	Behavior	revenge, retribution, getting even	Rache	wraak	vendetta	venĝo	revanche	venja	vengence	месть
-2135	3	Behavior	riot	Aufruhr	oproer	rivolta, tumulto	tumulto	{tumultu?}	rebela	oisstand	бунт
+2135	3	Behavior	riot	Aufruhr	oproer	rivolta, tumulto	tumulto	tumultu	rebela	oisstand	бунт
 2136	3	Behavior	role (an individual's function)	Rolle	rol	ruolo, funzione	rolo	role	ruola	rol	роль
-2137	2	Behavior	serve (provide service to) [v]	dienen	dienen	servire	servi [vt]	serva	servi	serve	служить
+2137	2	Behavior	serve (provide service to) [v]	dienen	dienen	servire	servi	serva	servi	serve	служить
 2138	2	Behavior	surprise, startle [v]	überraschen	verrassen	soprendere	surprizi	surprisa	surprisa	surprise	сюрприз
 2139	3	Behavior	tempt [v]	versuchen	verzoeken	"tentare {also means ""to attempt, to try""}"	tenti	tenta	temti	tente	искушать, соблазнять
 2140	3	Behavior	tendency, propensity, inclination	Tendenz	neiging	tendenza	emo, tendenco	tendentie	tendensia	tendence	тенденция
 2141	2	Behavior	trust [v]	trauen	vertrouwen	confidare in, avere fiducia di	fidi	fida	fidi	treus	доверять
 2142	3	Behavior	trend, fad, fashion	Mode	mode	moda	modo, fasono	mode	moda	mode	мода
 2143	2	Behavior	trick, chicanery	Schlich, Trick	truc	trucco	trumpo, ruzo, truko		truk	trick, schicane	уловка, увёртка
-2150	2	Behavior	agree [v]	übereinstimmung	overeenstemming, akkoord	essere d'accordo, acconsentire	konsenti	konsento {?}	konsenti	samstehm	соглашаться
+2150	2	Behavior	agree [v]	übereinstimmung	overeenstemming, akkoord	essere d'accordo, acconsentire	konsenti	konsento	konsenti	samstehm	соглашаться
 2151	3	Behavior	cooperate, collaborate [v]	mitwirken	samenwerken	collaborare	kunlabori	koopera, ko-labora	ko-operati, kogun	coopere, collabore	кооперироваться, сотрудничать
 2152	3	Behavior	compete, strive, vie [v]	konkurrieren	mededingen	competere	konkurenci	konkura	kompeti, konkuri	spehrd; concurrence	соревноваться; конкурировать
 2153	2	Behavior	protect, defend [v]	schützen	beschermen	proteggere, difendere	protekti, defendi	protekte	defensi	defend	защищать
 2154	2	Behavior	attack [v]	angreifen	aanvallen	attaccare	ataki	ataka	ataki	attaque	атаковать
-2155	1	Behavior	help, assist, aid [v]	helfen	helpen	aiutare	helpi [vt]	helpa	helpi	hehlp	помогать
-2156	2	Behavior	interfere, hinder [v]	hindern	hinderen	interferire, intralciare	malhelpi [vt]	hindra	impedi	stamebh, kyehm	мешать, сдерживать, препятствовать
-2157	3	Behavior	support [v]	stützen	ondersteunen	sostenere	subteni, apogi [vt]	suporta	suporti	stehm	поддерживать
+2155	1	Behavior	help, assist, aid [v]	helfen	helpen	aiutare	helpi	helpa	helpi	hehlp	помогать
+2156	2	Behavior	interfere, hinder [v]	hindern	hinderen	interferire, intralciare	malhelpi	hindra	impedi	stamebh, kyehm	мешать, сдерживать, препятствовать
+2157	3	Behavior	support [v]	stützen	ondersteunen	sostenere	subteni, apogi	suporta	suporti	stehm	поддерживать
 2158	3	Behavior	oppose [v]								
 2159	3	Behavior	compromise	Kompromiss	compromis	compromesso	kompromiso	kompromise	kompromis	compromiss	компромисс
 2160	3	Behavior	withstand, endure, remain intact in spite of [v]								
@@ -1018,7 +1018,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2201	3	Communication	information	Informationen	informatie	"informazione {often used at the plural ""informazioni""}"	informoj, datenoj	information	info, data	info(rmation)	информация, данные
 2202	2	Communication	language (the verbal communication technique of a people)	Sprache	taal	lingua, linguaggio	lingvo	lingue	lingwa	lingua	язык
 2203	3	Communication	artificial language, constructed language								
-2204	2	Communication	meaning (semantic content of a word)	Sinn, Bedeutung	betekenis, zin	significato	signifo	signifikatione {?}	signifa	maynen	значение, смысл
+2204	2	Communication	meaning (semantic content of a word)	Sinn, Bedeutung	betekenis, zin	significato	signifo	signifikatione	signifa	maynen	значение, смысл
 2205	2	Communication	message (batch of transmitted information)	Botschaft	boodschap	messaggio, notizia	komunikaĵo, mesaĝo	mesaje	mesaja	message	послание
 2206	3	Communication	record (a cache of information)	Protokoll, Aufzeichnung	dossier, archief, file, opname	registro	registro	registre	rekordi	recorde	записывать
 2210	2	Communication	admit, confess [v]	eingestehen, zugeben	bekennen, toegeven	ammettere, confessare	konfesi	konfese	konfesi	confett	признаваться
@@ -1026,10 +1026,10 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2212	2	Communication	ask, inquire [v]	fragen	vragen	domandare	demandi	questiona	kwesti	(s)prehg	спрашивать
 2213	2	Communication	call, summon [v]	rufen	roepen, aanroepen	chiamare (call); convocare (summon)	voki, alvoki	voka	voki	kal	звать
 2214	3	Communication	criticize [v]	kritisieren	bekritiseren, kritiek hebben op	criticare	kritiki	kritika	kritiki	critique	критиковать
-2215	3	Communication	deny (say that X is not true) [v]	leugnen	ontkennen, tegensprechen	negare	nei	deskonfirma {*}	negi	nege	отрицать
+2215	3	Communication	deny (say that X is not true) [v]	leugnen	ontkennen, tegensprechen	negare	nei	deskonfirma	negi	nege	отрицать
 2216	3	Communication	describe [v]	beschreiben	beschrijven	descrivere	priskribi	deskripte	deskribi	describ	описывать
 2217	2	Communication	discuss, talk about [v]	besprechen	discussieren	discutere	(pri)diskuti	diskuse	diskusi	tolk	обсуждать
-2218	3	Communication	emphasize, accentuate, stress [v]	betonen	nadruk leggen op, benadrukken	sottolineare, porre l'accento su	emfazi	"emfasa (""stresa"" is used with reference to syllables in a word)"	aksenti	schaddeih	акцентировать
+2218	3	Communication	emphasize, accentuate, stress [v]	betonen	nadruk leggen op, benadrukken	sottolineare, porre l'accento su	emfazi	emfasa	aksenti	schaddeih	акцентировать
 2219	3	Communication	indicate [v]	anzeigen	duiden op, indiceren, een teken zijn van	indicare	indiki	indika	indiki	deik	указывать
 2220	3	Communication	invite [v]	einladen	uitnodigen	invitare	inviti	invita	inviti	invite	приглашать
 2221	2	Communication	lie (utter a known falsehood) [v]	lügen	liegen, jokken	mentire	mensogi	mentia	lugi	leugh	лгать
@@ -1057,7 +1057,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2253	3	Communication	list	Verzeichnis	lijst	elenco	listo	liste	lista	liste	список
 2254	3	Communication	document	Urkunde	document	documento	dokumento	dokumente	dokumenta	document	документ
 2255	3	Communication	file (dossier; loose bundle of documents)	Akte	dossier, file	fascicolo	dosiero, rikordaro		printi	druck	печатать
-2256	3	Communication	sign (board with public notice written on it)	Schild	bord, reclamebord	segnale	ŝildo	signe {?}	jaopay	schild	вывеска
+2256	3	Communication	sign (board with public notice written on it)	Schild	bord, reclamebord	segnale	ŝildo	signe	jaopay	schild	вывеска
 2257	3	Communication	print (to copy marks by pressing inked objects on paper) [v]	drucken	drukken	stampare	presi, printi	printa	printi	druck	печатать
 2258	3	Communication	diary, journal (notebook of daily experiences and thoughts)								
 2260	3	Communication	mail (transmit postally) [v]	abschicken	posten, verzenden	spedire	enpoŝtigi	posta	sendi bay meil	barihd	отправлять почтой
@@ -1070,7 +1070,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2271	3	Communication	advice	Rat	raad, advies	consiglio	konsilo	avise	konsila	radh	совет
 2272	2	Communication	answer, reply to a question or argument	Antwort	antwoord	rispondere	respondo	respondo	jawabi	antwehrd	отвечать
 2273	3	Communication	claim, assertion (statement of unknown accuracy)	Behauptung	bewering	asserzione (generic), pretesa (presumably false)	aserto	asertione	aserta	ischbat	утверждение
-2274	3	Communication	command, order, directive	Befehl	bevel, opdracht	comando	komando, ordono	komanda [v]	komanda	commanden	команда, приказание
+2274	3	Communication	command, order, directive	Befehl	bevel, opdracht	comando	komando, ordono	komanda	komanda	commanden	команда, приказание
 2275	3	Communication	history (organized account of past events), chronicle	Geschichte	geschiedenis	storia	historio	historie	historia	historia	история
 2276	3	Communication	insult	Beleidigung	belediging	insultare, offendere	insulto, ofendo	insulta	 	hakara	оскорбление
 2277	3	Communication	news, tidings	Nachricht	nieuws, tijding	notizie	novaĵoj, informoj		novas	novs	новости
@@ -1084,7 +1084,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2286	3	Communication	consonant (non-vowel)	Mitlaut	medeklinker, consonant	consonante	konsonanto	konsonante	 	consonn	согласный (не гласный)
 2287	3	Communication	vowel	Selbstlaut, Vokal	klinker	vocale	vokalo	vokale	 	voyel	гласный (не согласный)
 2288	3	Communication	syllable	Silbe	lettergreep, syllabe	sillaba	silabo	silabe	silaba	syllab	слог
-2289	1	Communication	word	Wort	woord	parola	vorto	vorte {1928 version}, vorde {1930 version}, vokable	worda	werd	слово
+2289	1	Communication	word	Wort	woord	parola	vorto	vorde, vokable	worda	werd	слово
 2290	3	Communication	sentence (of words)	Satz	zin	frase	frazo	satse	frasa	phrase	предложение
 2291	3	Communication	vocabulary (sum of words available to a person/people)	Wortschatz	woordenschat, vocabulaire	lessico, vocabolario	vortprovizo	vokablaro	lexika	vocabular	словарный запас, лексика
 2292	3	Communication	grammar (rules and structure of a language)	Grammatik	grammatica	grammatica	gramatiko	gramatike	gramatika	grammatic	граматика
@@ -1095,7 +1095,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2297	2	Communication	secret [aj]	geheim	geheim	segreto	sekreta	sekret(i)	sekret-ney	secret	секретный
 2298	3	Communication	code (cryptographic system)	Chiffreschrift, Geheimschrift	geheimtaal, code	"cifra {also means ""digit""}"	ĉifro, kodo	kode	kod	code	код
 2299	3	Communication	Internet								
-2300	2	Game	play, recreate, frolic [v]	spielen, Spass machen	spelen	giocare	ludi [vi]	luda	plei	leik	играть
+2300	2	Game	play, recreate, frolic [v]	spielen, Spass machen	spelen	giocare	ludi	luda	plei	leik	играть
 2301	3	Game	toy, plaything	Spielzeug	speelgoed	giocattolo	ludilo	ludilo	pleika	leuyk	игрушка
 2302	3	Game	doll	Puppe	pop	bambola	pupo	pupee			
 2303	3	Game	kite								
@@ -1127,7 +1127,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2352	3	Art	animated cartoon								
 2355	2	Game	game (a rule-governed system of competitive amusement)	Spiel	spel	gioco	ludo	lude	geim	leik	игра
 2356	3	Game	game, match (one particular encounter between competitors)	Partie	wedstrijd, manche, kamp	partita (more generic); incontro (used for some sports)	matĉo, partio	mache	mach	ernu; match	матч
-2357	3	Game	athletics (games involving physical skill), sports	Athletik	atletiek	sport	sportoj	{atleti ludes?}	atletika	athletique	атлетика
+2357	3	Game	athletics (games involving physical skill), sports	Athletik	atletiek	sport	sportoj	atleti ludes	atletika	athletique	атлетика
 2358	3	Game	athlete								
 2359	3	Game	tournament								
 2360	3	Game	champion								
@@ -1165,8 +1165,8 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2404	2	Identity	equal [aj]	gleich	gelijk	uguale (equal); pari (at the same level)	egala	egal(i)	egale	egal	равный
 2406	2	Identity	similar [aj]	ähnlich	soortgelijk	simile	simila	simil(i)	simile	simil(ar)	похожий
 2408	1	Identity	different [aj]	verschieden	verschillend	diverso, differente	malsama, malsimila	diferanti	farka-ney	different	отличный, разный
-2410	1	Identity	other, another [aj/pn]	andere	ander, andere	altro	alia	altri [aj], altre(-o, -a) [pn]	otre	alter/alyo	другой
-2412	2	Identity	change (become/make different), vary [v]	verändern	veranderen	cambiare [vt and vi]	ŝanĝi [vt], ŝanĝiĝi [vi], varii	chanja	shanji	change	менять(ся)
+2410	1	Identity	other, another [aj/pn]	andere	ander, andere	altro	alia	altri, altre(-o, -a)	otre	alter/alyo	другой
+2412	2	Identity	change (become/make different), vary [v]	verändern	veranderen	cambiare [vt and vi]	ŝanĝi, ŝanĝiĝi, varii	chanja	shanji	change	менять(ся)
 2414	3	Identity	imitate, mimic [v]	nachmachen	nabootsen	imitare	imiti	imita, mima	imitati	imite	имитировать
 2416	3	Identity	original, non-imitative [aj]	ursprünglich	oorspronkelijk	originale	originala	original	original-ney	original	подлинный, оригинальный
 2418	3	Identity	prototype, exemplar, archetype	Urbild	prototype, model	modello, prototipo	prototipo	exemplere, modele	prototip	prototype	прототип
@@ -1176,22 +1176,22 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2426	2	Identity	resemble [v]								
 2428	3	Identity	common, general (shared by all members of a group) [aj]	allgemein, gemeinsam	gemeen	comune	komuna	komun(i)	komune	commun	общий
 2430	3	Identity	specific, special, particular [aj]	besonder, einzeln	bijzonder	specifico (which makes different); speciale (peculiar trait)	specifa, aparta	special, partikulari	spesiale	special	специальный, частный
-2432	3	Identity	represent (act as a substitute for) [v]	vertreten	voorstellen	rappresentare	reprezenti, anstataŭi [vt]	representa	representi	represente	представлять
+2432	3	Identity	represent (act as a substitute for) [v]	vertreten	voorstellen	rappresentare	reprezenti, anstataŭi	representa	representi	represente	представлять
 2434	3	Identity	substitute, surrogate (temporary replacement)	Stellvertreter	substituut, surrogaat	surrogato	provizora anstataŭaĵo, anstataŭanto	substitute (-o, -a)	substitut	substitut	субститут, суррогат
-2436	3	Identity	replacement (permanent substitute/substitution)	Ersatz	vervanging	ricambio (a thing), sostituto (a person)	porĉiama anstataŭaĵo, anstataŭulo	remplasere {*}	replasa	taysa	замена
+2436	3	Identity	replacement (permanent substitute/substitution)	Ersatz	vervanging	ricambio (a thing), sostituto (a person)	porĉiama anstataŭaĵo, anstataŭulo	remplasere	replasa	taysa	замена
 2438	3	Identity	relationship, association	Beziehung	verwantschap	relatione	rilato	relato	relata	relation	отношение
 2440	3	Identity	reciprocal (done to each other) [aj]	gegenseitig	wederzijdsch	reciproco, mutuo	reciproka	mutual	mutuale	mutual	взаимный
 2442	3	Identity	consist of, be composed of [v]	bestehen aus	bestaan in	essere composto di, essere fatto di	konsisti el	konsista ek	komponi aus	consist ex	состоять из
 2444	3	Identity	version								
 2500	2	Number	zero [num]	Null	nul	zero	nulo	sero	nol	zero	ноль
-2501	0	Number	one [num]	eins	een	uno	unu	un, uni (emphatic)	un	oin	один
+2501	0	Number	one [num]	eins	een	uno	unu	un, uni	un	oin	один
 2502	1	Number	two [num]	zwei	twee	due	du	du	dwa	dwo	два
 2503	1	Number	three [num]	drei	drie	tre	tri	tri	tri	tri	три
 2504	1	Number	four [num]	vier	vier	quattro	kvar	quar	char	quar	четыре
 2505	1	Number	five [num]	funf	vijf	cinque	kvin	sink	pet	penk(we)	пять
 2506	1	Number	six [num]	sechs	zes	sei	ses	six	sit	six	шесть
-2507	1	Number	seven [num]	sieben	zeven	sette	sep	sep {1928 version}, set {1930 version}	sem	sept(a)	семь
-2508	1	Number	eight [num]	acht	acht	otto	ok	ok {1928 version}, ot {1930 version}	ot	oct(o)	восемь
+2507	1	Number	seven [num]	sieben	zeven	sette	sep	set	sem	sept(a)	семь
+2508	1	Number	eight [num]	acht	acht	otto	ok	ot	ot	oct(o)	восемь
 2509	1	Number	nine [num]	neun	negen	nove	naŭ	nin	nin	nev	девять
 2510	2	Number	ten [num]	zehn	tien	dieci	dek	dek	shi	dec	десять
 2515	2	Number	hundred [num]	hunderd	honderd	cento	cent	sent	sto	cent(om)	сто
@@ -1212,21 +1212,21 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2613	3	Quantity	meter (S.I. unit of length)								
 2620	2	Quantity	add, append, join so as to cause an increase [v]	hinzufügen, addieren	toevoegen	aggiungere	aldoni, adicii	adi	adi, aditi	add(eih)	добавлять; складывать
 2621	2	Quantity	subtract, remove [v]	entfernen, subtrahieren	afnemen, verplaatsen	togliere	depreni, subtrahi	subtrakte	subtragi	substrag	вычитать
-2622	2	Quantity	increase (become or make greater in quantity) [v]	vermehren	aangroeien	aumentare [vt and vi]	plimultigi	kreska [vi] {?}, fika ... kreska [vt] {?}	fa-mucho, kresi	crehsc/creisc	увеличивать(ся)
-2623	2	Quantity	decrease (become or make lesser in quantity) [v]	reduzieren, verringern	minderen, afnemen	diminuire [vt and vi]	malplimultigi	deskreska {?}	fa-shao, dekresi	descrehsc/descreisc	уменьшать(ся)
+2622	2	Quantity	increase (become or make greater in quantity) [v]	vermehren	aangroeien	aumentare [vt and vi]	plimultigi	kreska, fika ... kreska	fa-mucho, kresi	crehsc/creisc	увеличивать(ся)
+2623	2	Quantity	decrease (become or make lesser in quantity) [v]	reduzieren, verringern	minderen, afnemen	diminuire [vt and vi]	malplimultigi	deskreska	fa-shao, dekresi	descrehsc/descreisc	уменьшать(ся)
 2624	3	Quantity	multiply [v]	multiplizieren	vermenigvuldigen	moltiplicare	obligi, multipliki	multisa, multiplika	multipliki	multiplie	умножать
 2625	3	Quantity	divide [v]	teilen	deelen	dividere	dividi	divise, parta	dividi	divid	делить
 2630	3	Quantity	total, sum, aggregate	Gesamtsumme	totaal	totale, somma	sumo, totalo	sume	suma	summ	сумма
 2631	3	Quantity	rest (of ...), remainder, leftovers, remnant	Rest	rest	resto	cetero, restaĵo	seterum	resta	reste; etiloikw	остаток
-2632	3	Quantity	set (complete group of similar items e.g. character set, chess set)	Satz, Garnitur		set {!}	aro	{kolektione?}	seta	cheschite	набор
+2632	3	Quantity	set (complete group of similar items e.g. character set, chess set)	Satz, Garnitur		set {!}	aro	kolektione	seta	cheschite	набор
 2640	1	Quantity	whole, entire, complete [aj]	ganz	geheel	tutto, intero	tuta, entuta	integri, komplet(i)	tote	hol	целый
 2641	1	Quantity	all (the whole number or entire sum of) [aj]	all, ganz	al, alle	tutto	ĉiuj	toti (the whole of), omni (every)	oli	quant	все
-2642	1	Quantity	many (a large number of) [aj]	viele	veel	"molti {plural of ""molto""}"	multaj	multi [aj], multes [pn]	mucho	maung	многие
-2643	1	Quantity	few (a small number of) [aj]	wenige	weinig	"pochi {plural of ""poco""}"	malmultaj, kelkaj	poki [aj], pokes [pn]	shao	pau	немногие
-2644	1	Quantity	much (a large quantity of) [aj]	viel	veel	molto	multe (da), multo	multi [aj], multum [pn]	mucho	maung	много
-2645	2	Quantity	more (a larger quantity of) [aj]	mehr	meer	più, di più	pli (multe da), pli (multaj)	plu [av]	pyu	meis	Сольше
+2642	1	Quantity	many (a large number of) [aj]	viele	veel	"molti {plural of ""molto""}"	multaj	multi, multes	mucho	maung	многие
+2643	1	Quantity	few (a small number of) [aj]	wenige	weinig	"pochi {plural of ""poco""}"	malmultaj, kelkaj	poki, pokes	shao	pau	немногие
+2644	1	Quantity	much (a large quantity of) [aj]	viel	veel	molto	multe (da), multo	multi, multum	mucho	maung	много
+2645	2	Quantity	more (a larger quantity of) [aj]	mehr	meer	più, di più	pli (multe da), pli (multaj)	plu	pyu	meis	Сольше
 2646	2	Quantity	most (the largest quantity of) [aj]	meist, die meisten	meest	moltissimo, il più ... possibile	la plimulto, la plejmulto, la pliparto, la plejparto	maxim	maiste	meist	наибольший
-2647	1	Quantity	little (a small quantity of) [aj]	wenig [aj], bisschen [pn]	beetje [n]	un pò di	iomete (da)	poki [aj], pokum [pn]	shao	pauk	мало
+2647	1	Quantity	little (a small quantity of) [aj]	wenig [aj], bisschen [pn]	beetje [n]	un pò di	iomete (da)	poki, pokum	shao	pauk	мало
 2648	2	Quantity	less (a smaller quantity of) [aj]	weniger	minder	meno	malpli (multe) (da), malplimulto	min	meno	minter	меньше
 2649	2	Quantity	least (the smallest quantity of) [aj]	mindeste		minimo	malplej (multe) (da)	minim	minim	minst	наименьший
 2660	1	Quantity	part	Teil	deel	parte	parto	parte	parta	part, deil	часть
@@ -1237,7 +1237,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2665	2	Quantity	bundle, bunch (group of things tied or grouped together)	Bündel	bos, bundel	gruppo	fasko, pako	bundle	fasia, pak, pila	bindell, fasc	связка, пачка, стопка
 2670	3	Quantity	majority	Mehrheit	meerderheid	maggioranza	plimulto, pliparto, majoritato	majoritate	maiste parta, maistitaa	majoritat	большинство
 2671	3	Quantity	minority	Minderheit	minderheid	minoranza	malplimulto, malpliparto, minoritato	minoritate	minim parta, minimtaa	minoritat	меньшинство
-2680	3	Quantity	density	Dichte	dichtheid	densità	denseco	denseso {*}, densitate {*}	densitaa	densitat	плотность
+2680	3	Quantity	density	Dichte	dichtheid	densità	denseco	denseso, densitate	densitaa	densitat	плотность
 2681	2	Quantity	dense (of much density), concentrated, thick, intense [aj]	dicht	dicht, intens	denso	densa	densi	dense	dense	густой, плотный
 2682	2	Quantity	rarefied, tenuous, diffuse, dilute, sparse, wispy [aj]	verdünnt, spärlich, schwach	schaars, dun	rado, diluito (of liquids); rarefatto (of gasses)	maldensa	tenu(i)	nodense, feble	skider	разреженный, слабый
 2685	1	Quantity	full, filled [aj]	voll	vol	pieno	plena	plen(i)	fule	plen	полный
@@ -1255,46 +1255,46 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 2730	1	Degree	almost, nearly [av]	fast	bijna	quasi	preskaŭ	preske	hampi	quasi	почти
 2731	2	Degree	enough, sufficiently [av]	genug	genoeg	abbastanza	sufiĉe		basta, sufi-shem	sat, kafi	хватит, достаточно
 2732	2	Degree	too much, excessively [av]	zu viel		troppo [aj/av]	tro	tro	tro	pior	слишком, чересчур
-2733	2	Degree	too little, insufficiently [av]	zu wenig		troppo poco	maltro, nesufiĉe	tro pokim {?}	tro shao	pior pau	слишком мало
+2733	2	Degree	too little, insufficiently [av]	zu wenig		troppo poco	maltro, nesufiĉe	tro pokim	tro shao	pior pau	слишком мало
 2801	3	Dimension	size (degree of largeness or smallness)	Größe	grootte	grandezza	grandeco	grandeso	grantaa, sais	mege	величина, размер
 2802	2	Dimension	huge, enormous, gigantic [aj]	riesig, gigantisch	kolossaal	enorme, gigantesco	grandega, enorma	grandisi, enormi	gro-gran	enorm	огромный
 2803	1	Dimension	big, large (of much size) [aj]	groß	groot	grande	granda	grandi	gran	megil, mier	большой
 2804	1	Dimension	small (of little size) [aj]	klein	klein	piccolo	malgranda	mikri	syao	smulk	маленький
-2805	2	Dimension	tiny, minuscule [aj]	winzig	miniem	piccolissimo, minuscolo	malgrandega, eta	mikrisi {*}	tanike	micri	крошечный
+2805	2	Dimension	tiny, minuscule [aj]	winzig	miniem	piccolissimo, minuscolo	malgrandega, eta	mikrisi	tanike	micri	крошечный
 2807	2	Dimension	expand, grow, become larger [v]	sich ausbreiten, wachsen	uitzetten	crescere	kreski	kreska	kresi	crehsc	расти
-2808	2	Dimension	shrink, contract, become smaller [v]	schrumpfen	krimpen	diminuire, ridursi	malkreski	deskreska {*}	dekresi	schrehnk	уменьшаться, сжиматься
+2808	2	Dimension	shrink, contract, become smaller [v]	schrumpfen	krimpen	diminuire, ridursi	malkreski	deskreska	dekresi	schrehnk	уменьшаться, сжиматься
 2810	3	Dimension	distance (amount of space from X to Y)	Entfernung, Ferne	afstand	distanza	distanco, interspaco	disto, distantia	distansia	distance	расстояние
-2811	2	Dimension	far (at / to a great distance) [aj/av]	fern, entfernt	ver	lontano	fora, dista, malproksima	ferni, distanti [aj], fernim [av]	distansia	distance	расстояние
-2812	2	Dimension	near (at / to a little distance) [aj/av]	nahe	na	vicino	proksima	proximi [aj], proximu [av]	blise	prosch	близкий
+2811	2	Dimension	far (at / to a great distance) [aj/av]	fern, entfernt	ver	lontano	fora, dista, malproksima	ferni, distanti, fernim	distansia	distance	расстояние
+2812	2	Dimension	near (at / to a little distance) [aj/av]	nahe	na	vicino	proksima	proximi, proximu	blise	prosch	близкий
 2814	3	Dimension	present (existing in the indicated place; contra-absent) [aj]	anwesend	tegenwoordig bij	presente	ĉeestanta	presenti	presente	present	присутствующий
 2815	3	Dimension	absent [aj]	abwesend	afwezig	assente, mancante	forestanta, mankanta	absent(i)	absente	absent	отсутствующий
 2816	2	Dimension	place, location	Ort, Lage	oord	luogo, posto	loko	loke	loko	lok	место
-2820	3	Dimension	length (distance from one end to the other)	Länge	lengte	lunghezza	longeco	longeso {*}, longitate {*}	longitaa	longe	длина
+2820	3	Dimension	length (distance from one end to the other)	Länge	lengte	lunghezza	longeco	longeso, longitate	longitaa	longe	длина
 2821	2	Dimension	long (of much length) [aj]	lang	lang	lungo	longa	longi	longe	long	длинный
 2822	2	Dimension	short (of little length) [aj]	kurz	kort	corto	mallonga	kurti	kurte	cort	короткий
-2825	3	Dimension	width (degree of wideness or narrowness)	Breite	breedte	larghezza	larĝeco, vasteco	larjeso {*}, larjitate {*}	chauritaa	wure	ширина
+2825	3	Dimension	width (degree of wideness or narrowness)	Breite	breedte	larghezza	larĝeco, vasteco	larjeso, larjitate	chauritaa	wure	ширина
 2826	2	Dimension	wide, broad (of space between objects) [aj]	breit	wijd, breed	largo	larĝa, vasta	larji	chaure	weur	широкий
 2827	2	Dimension	narrow, of little width (of space between objects) [aj]	eng	nauw	stretto	mallarĝa, malvasta	angusti, streti	tange	angh	узкий
-2830	3	Dimension	thickness (of a solid object, etc.)	Dicke		spessore	dikeco	dikeso {*}, dikitate {*}	grositaa	tuge	толщина
+2830	3	Dimension	thickness (of a solid object, etc.)	Dicke		spessore	dikeco	dikeso, dikitate	grositaa	tuge	толщина
 2831	2	Dimension	thick, fat (large from one surface to the opposite surface) [aj]	dick	dik	spesso	dika	diki	grose	teug	толстый
 2832	2	Dimension	thin, slender (small from one surface to the opposite surface) [aj]	dünn, schlank	dun	sottile	maldika	tenu(i)	dine	teun	тонкий
-2835	3	Dimension	height (distance from ground / baseline to top)	Höhe	hoogte	altezza	alteco	alteso {*}, altitate {*}	gaotaa	hoge	высота
+2835	3	Dimension	height (distance from ground / baseline to top)	Höhe	hoogte	altezza	alteco	alteso, altitate	gaotaa	hoge	высота
 2836	2	Dimension	high, tall (of much height) [aj]	hoch, lang	hoog	alto	alta	alti	gao	hog	высокий
 2837	2	Dimension	low, short (not tall; of little height) [aj]	niedrig	laag	basso (mainly vertical), corto (mainly horizontal)	malalta	basi	nise	ghem	низкий
 2840	3	Dimension	depth (distance from ground / baseline down to bottom)	Tiefe	diepte	profondità	profundeco	profundeso	glubitaa	dube	глубина
 2841	2	Dimension	deep, profound (of much depth) [aj]	teif	diep	profondo	profunda	profundi	glube	deub	глубокий
-2842	2	Dimension	shallow (of little depth) [aj]	seicht, flach	ondiep	basso	malprofunda	desprofundi {*}	chyen	plask	мелкий
+2842	2	Dimension	shallow (of little depth) [aj]	seicht, flach	ondiep	basso	malprofunda	desprofundi	chyen	plask	мелкий
 2845	3	Dimension	horizontal [aj]	waagerecht	horizontaal	orizzontale	horizontala	horisontal	horisontale	horizontal	горизонтальный
 2846	3	Dimension	vertical [aj]	senkrecht	verticaal	verticale	vertikala	vertikal	vertikale	vertical	вертикальный
 2847	3	Dimension	diagonal, slanted [aj]	schräg, diagonal	diagonaal	diagonale	oblikva	diagonal(i)	oblikue	skeng, oblique	косой
 2848	3	Dimension	sloped, inclined/declined (not horizontal) [aj]	schräg, geneigt	glooiend	inclinato	klina, dekliva	inklinanti	inklini-ney	incline(t/n)	наклонённый
 2850	3	Dimension	angle (the relation of two lines radiating from a point)	Winkel	hoek	angolo	angulo	angule	angula	angle	угол
 2851	3	Dimension	position (location relative to others)	Lage	ligging, positie	posizione	pozicio	positione	posision	position	позиция
-2852	3	Dimension	region, area (a quantity of space within boundaries)	Gegend	streek	area	areo, regiono	regione; area (= 'area' in the quantitative sense)	region	region	регион, область
+2852	3	Dimension	region, area (a quantity of space within boundaries)	Gegend	streek	area	areo, regiono	regione, area	region	region	регион, область
 2853	2	Dimension	space, room	Raum	ruimte	spazio	spaco	spatie	spas	reus	пространство
 2854	3	Dimension	connection, joint, junction	Verbindung, Verknüpfung	verbinding	connessione, giuntura	ligo, kunligiĝo, konekto, jungo	konektione	konekta, liga	connection, dyemen	связь
 2855	3	Dimension	environment, surroundings	Umwelt, Umgebung	omgeving	ambiente	ĉirkaŭaĵo, medio		lo sirkum, milyoo	ambient	окружающее
-2860	2	Dimension	front	Vorderseite	voorzijde	fronte, davanti [substantivated av], parte anteriore	antaŭo	"fronte (used for both ""forehead"" and ""fore part"" of anything!)"	avana	front	перёд
+2860	2	Dimension	front	Vorderseite	voorzijde	fronte, davanti [substantivated av], parte anteriore	antaŭo	fronte	avana	front	перёд
 2861	2	Dimension	rear, back part of	Rückseite	achterkant	retro, dietro [substantivated av], parte posteriore	malantaŭo	reverse	baka	caud	зад
 2862	2	Dimension	side, flank, lateral area	Seite	zijde	lato, fianco	flanko, latero	flanke	flanka, taraf	flank, gon	бок, сторона
 2863	2	Dimension	middle, center	Mitte	midden	parte centrale, centro	mezo, centro	sentre	mida	medio	середина
@@ -1335,42 +1335,42 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3000	2	Motion	travel (go from one location to other locations) [v]								
 3001	1	Motion	go (move from starting point to elsewhere) [v]	gehen	gaan	andare	iri	vada	go	gwah, eih	идти
 3002	1	Motion	come, arrive (at indicated place) [v]	kommen	komen	arrivare (generic); venire (to arrive near to speaker)	veni, alveni	veni, ariva	lai, arivi	gwehm, arrive	приходить, прибывать
-3003	2	Motion	leave, depart, go away from [v]	lassen	verlaten	lasciare, andare via da, andarsene [vr]	foriri, lasi, forlasi [vt]	departa	departi	linekw, fortrehc	отъезжать, уезжать
+3003	2	Motion	leave, depart, go away from [v]	lassen	verlaten	lasciare, andare via da, andarsene [vr]	foriri, lasi, forlasi	departa	departi	linekw, fortrehc	отъезжать, уезжать
 3010	2	Motion	send (cause to go), dispatch, transmit [v]	senden	zenden	mandare	sendi	senda	sendi	yeis	посылать
 3012	1	Motion	put (cause item X to be located at place Y) [v]	stellen	stellen, zetten	porre; piazzare (said of heavy or bulky things)	meti, transloki	posi	pon, plasi	posen, place	положить
 3014	2	Motion	drive, impel, propel [v]	antreiben	aandrijven	spingere	peli	pusha	pushi	pusc, propulg	толкать, приводить в движение
 3016	3	Motion	emit (to send out any form of matter/energy in any manner) [v]	ausströmen	uitzenden	emettere	eligi	emise	emisi, mah-chu	emitt	испускать
 3020	3	Motion	attract [v]	anziehen	aanlokken	attarre, attirare	allogi, altiri	atrakte	atrakti	attrag	привлекать
 3021	3	Motion	repel [v]	zurückschlagen, abstossen	terugdrijven	respingere	forpuŝi, repeli (drive back)	repulse	repeli	repulg	отталкивать, отбрасыва
-3030	2	Motion	aim (to point/direct X toward Y) [v]	zielen	mikken	puntare	celi	ema (= aim at)	goli	ziel	целиться
+3030	2	Motion	aim (to point/direct X toward Y) [v]	zielen	mikken	puntare	celi	ema	goli	ziel	целиться
 3031	2	Motion	avoid, evade, keep away from [v]	vermeiden	vermijden	evitare	eviti	evita	eviti	vergeih	избегать
 3032	1	Motion	bring (cause something to come along with one toward a place) [v]	bringen	brengen	portare	alporti, venigi, kunpreni, kunporti		bringi	brinegh	приносить
-3033	2	Motion	capture, seize [v]	fangen	vangen	prendere ; catturare	kapti, ekkapti [vt]	kapta	kapti	kap	хватать
+3033	2	Motion	capture, seize [v]	fangen	vangen	prendere ; catturare	kapti, ekkapti	kapta	kapti	kap	хватать
 3034	2	Motion	carry (move while supporting) [v]	tragen	dragen	portare	porti	porta	porti	behr	нести
 3035	3	Motion	drift, wander [v]	treiben, wandern	dwalen	vagare	vagi	drifta	floti; wandi	dreiv, wander	дрейфовать; бродить, блуждать
 3036	2	Motion	enter, go into [v]	hereinkommen	binnentreden	entrare	eniri, enveni	envada	zin	entre	входить
 3037	3	Motion	escape, flee from [v]	entgehen	ontvluchten	fuggire, scappare	fuĝi, eskapi	eskapa	eskapi	skap	убежать, ускользнуть
-3038	1	Motion	fly (move through the air) [v]	fleigen	vliegen	volare	flugi	vola [?]	flai	pleuk	летать
+3038	1	Motion	fly (move through the air) [v]	fleigen	vliegen	volare	flugi	vola	flai	pleuk	летать
 3039	2	Motion	gather, collect (bring or come together) [v]	einsammeln	vergaren, vergaderen	raccogliere	kolekti, kunigi, kunvenigi	kolekte	jami	sammel	собирать(ся)
 3040	3	Motion	meet, encounter, come across [v]	treffen	ontmoeten	incontrare	renkonti	renkontra	miti	trehv, incontre	встречать(ся)
 3041	3	Motion	miss, fail to hit/reach/see etc. [v]	fehlen	missen, misschieten	mancare	maltrafi	falia	fali	miss, leips	промахнуться; не удаваться
 3042	2	Motion	reach, extend as far as [v]	reichen	bereiken	raggiungere (with a movement); estendersi fino a (to lay unto)	atingi, etendiĝi	extense a	ateni	nak	достигать
-3043	3	Motion	release (quit keeping/restraining) [v]	entlassen	loslaten	liberare, rilasciare	ellasi, liberigi	liberisa {?}	lasi	sleu	отпускать
-3044	2	Motion	remain, stay [v]	bleiben	blijven	stare, rimanere	resti [vi]	resta	resti	(re)man	оставаться
+3043	3	Motion	release (quit keeping/restraining) [v]	entlassen	loslaten	liberare, rilasciare	ellasi, liberigi	liberisa	lasi	sleu	отпускать
+3044	2	Motion	remain, stay [v]	bleiben	blijven	stare, rimanere	resti	resta	resti	(re)man	оставаться
 3045	3	Motion	restrain, inhibit, hold back [v]	zurückhalten	bedwingen, remmen	frenare, trattenere	inhibicii, bridi, reteni	retena	reteni	dar, enderwaurg	удерживать
 3046	2	Motion	retrieve, fetch (go to X and bring it back) [v]	holen	terugbrengen	riportare	reporti	rekupera	 	retrehv, van	сходить за
 3047	2	Motion	return (go or send back to previous place/condition) [v]	zurückkehren	terugkomen, teruggaan	tornare	reveni, revenigi, reiri	retrovada, retrosenda	returni, lai bak	reik	вернуться
 3048	2	Motion	ride (sit/perch in/on a vehicle/horse/etc. and travel) [v]	reiten	rijden	viaggiare	veturi, rajdi	vehikla	raki	reid	ехать (на чём-л.)
-3049	3	Motion	roll (move like a ball/cylinder by turning over and over) [v]	rollen	rollen	rotolare	ruliĝi [vi]	rula	roli	roll	катить, перекатывать
+3049	3	Motion	roll (move like a ball/cylinder by turning over and over) [v]	rollen	rollen	rotolare	ruliĝi	rula	roli	roll	катить, перекатывать
 3050	3	Motion	slide, slip, glide [v]	gleiten	uitglijden	scivolare	gliti	glida	glidi	sleid	скользить
 3051	3	Motion	stretch, extend [v]	strecken	rekken, strekken	estendersi [vr]	etendi	extense	extendi	extend	протянуть(ся), вытянуть(ся)
-3052	2	Motion	turn (send in a different direction), divert [v]	kehren	afwenden	girare (general); deviare (divert X from normal direction)	devojigi, turni [vt]	turna	turni	wehrt, touren	поворачивать
-3053	2	Motion	turn, rotate, revolve [v]	drehen	draaien	girare	turni [vt], turniĝi [vi], (rotacii, rivolui)	turna, rota	roti	kwehl	вращаться
+3052	2	Motion	turn (send in a different direction), divert [v]	kehren	afwenden	girare (general); deviare (divert X from normal direction)	devojigi, turni	turna	turni	wehrt, touren	поворачивать
+3053	2	Motion	turn, rotate, revolve [v]	drehen	draaien	girare	turni, turniĝi, (rotacii, rivolui)	turna, rota	roti	kwehl	вращаться
 3054	3	Motion	visit [v]	besuchen	bezoeken	visitare	viziti	visita	visiti	visite	посещать
 3071	3	Motion	barrier, obstacle	Hindernis	hek, hinderpaal	ostacolo	baro	bare	obstakla	obstacle	препятствие
 3072	3	Motion	base, node, station (point from which things go or are done)	Station	honk, base, station	base	bazo	base, statione	basa, stasion	base, station	база, станция
 3073	2	Motion	journey, trip, voyage	Fahrt	reis	viaggio	vojaĝo	voyaje	safara	safer	путешествие, поездка
-3074	3	Motion	load, burden	Ladung	last	carico	ŝarĝo	{prob. derived from charja = load [v]}	loda	onos, behrmen	нагрузка
+3074	3	Motion	load, burden	Ladung	last	carico	ŝarĝo		loda	onos, behrmen	нагрузка
 3100	3	Transit	vehicle	Fahrzug	voertuig	veicolo	veturilo	vehikle	vikla	vehicule	транспортное средство
 3102	3	Transit	airplane, aircraft	Flugzeug	luchthaven	aeroplano, aereo	aviadilo, aeroplano	avie	avion	plav	самолёт
 3104	3	Transit	canoe								
@@ -1398,11 +1398,11 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3201	3	Time	the past	Vergangenheits	verleden	passato	pasinteco, estinteco, iso		pasiwat	prev	прошлое
 3202	3	Time	the present	Gegenwart	het heden	presente	estanteco, nuntempo, nuno	presente	lo nau	present	настоящее
 3203	3	Time	the future	Zukunft	toekomst	futuro	estonteco, oso	future	futur	future	будущее
-3204	2	Time	long ago (in the far past) [av]	vor langem		molto tempo fa, una volta (colloquial)	antaŭlonge	longim anteu {?}	longtaim bak, davem	diust	давно
+3204	2	Time	long ago (in the far past) [av]	vor langem		molto tempo fa, una volta (colloquial)	antaŭlonge	longim anteu	longtaim bak, davem	diust	давно
 3205	2	Time	recently (in the near past) [av]	vor kurzem	onlangs	recentemente	lastatempe, antaŭnelonge	resentim	nodavem	nuper	недавно
 3206	1	Time	now (at this time) [av]	jetzt	nu	ora	nun, nuntempe	nun	nau	nun	теперь
 3207	2	Time	soon (in the near future) [av]	bald	spoedig	presto	baldaŭ, postnelonge	bald, proxitem	sun	mox	вскоре
-3208	2	Time	eventually (in the far future) [av]	im Laufe der Zeit		alla fine	forestonte, finfine, postlonge	longim aftru {?}	aften	serter	впоследствии, со временем
+3208	2	Time	eventually (in the far future) [av]	im Laufe der Zeit		alla fine	forestonte, finfine, postlonge	longim aftru	aften	serter	впоследствии, со временем
 3209	3	Time	"ex- (as in ""ex-president""), former [aj/pfx]"								
 3210	3	Time	"-to-be (as in ""bride-to-be""), pre- (not yet but will be) [aj/pfx]"								
 3211	3	Time	age (degree of oldness / youngness)	Alter	leeftijd	età	aĝo	aje	yash	iete	возраст
@@ -1412,28 +1412,28 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3215	2	Time	old (of long standing; having been known for a long time) [aj]	alt	oud	vecchio	malnova	old(i), ansieni	lao	veut	старый
 3216	3	Time	permanent, perpetual [aj]	dauernd	bestendig	permanente	konstanta, neŝanĝiĝema, daŭra, ĉiama, senĉesa	permananti, perpetual	permanente, eterne	permanent, perpetual	перманентный, вечный
 3217	3	Time	constant, invariant, stable [aj]	beständig	standvastig, constant	costante	konstanta, nevarianta, stabila	konstanti	konstante, stay	constant	постоянный, неизменный
-3218	3	Time	temporary, transient [aj]	zeitweilig	tijdelijk	temporaneo	malkonstanta, provizora, portempa	efemeri {?}	taimike	tsan	временный
+3218	3	Time	temporary, transient [aj]	zeitweilig	tijdelijk	temporaneo	malkonstanta, provizora, portempa	efemeri	taimike	tsan	временный
 3219	3	Time	interval (quantity of time between events X and Y)	Abstand	tussentijd	intervallo	intervalo, periodo, intertempo	intervale	interval	intervall	интервал
 3220	3	Time	irregular, sporadic, intermittent [aj]	unregalmässig	sporadisch, intermitterend	irregolare (changes unpredictably); sporadico (irregularly)	neregula, foja, sporada, laŭokaza	intermitenti, okasional	buregulare	irregular	нерегулярный, перемежающийся
 3221	3	Time	regular (at uniform intervals), periodic [aj]	regalmässig	regelmatig	regolare (changes predictably); periodico (happens regularly)	regula	periodi	regulare, periodike	regular, periodic	регулярный, периодический
 3222	3	Time	rhythm	Rhythmus	ritmus	ritmo	ritmo	ritme	ritma	rythme	ритм
 3223	3	Time	cycle (one complete performance of a periodic process)	Periode	cyclus	ciclo	ciklo	sikle	sikla	cycle	цикл
-3224	3	Time	frequency (degree of oftenness or seldomness)	Häufigkeit	frequentie	frequenza	ofteco	frequenteso {*}, frequentitate {*}	frekwensa	frequence	частота
-3225	2	Time	frequently, often [av]	häufig, oft	vaak	spesso	ofte	frequentim {*}	oftem	ops	часто
-3226	2	Time	seldom, rarely [av]	selten	zelden	raramente	malofte	rarim {*}	rarem	rar-ye	редко
-3227	1	Time	"time (e.g. ""do it 3 times""), occasion, instance, iteration"	Mal	maal, keer	volta	fojo	foye {-foy in adverbs, e. g. trifoy = 3 times}	ves	ker	раз
+3224	3	Time	frequency (degree of oftenness or seldomness)	Häufigkeit	frequentie	frequenza	ofteco	frequenteso, frequentitate	frekwensa	frequence	частота
+3225	2	Time	frequently, often [av]	häufig, oft	vaak	spesso	ofte	frequentim	oftem	ops	часто
+3226	2	Time	seldom, rarely [av]	selten	zelden	raramente	malofte	rarim	rarem	rar-ye	редко
+3227	1	Time	"time (e.g. ""do it 3 times""), occasion, instance, iteration"	Mal	maal, keer	volta	fojo	foye	ves	ker	раз
 3228	1	Time	again, once more, re- [av]	noch einmal	weder	ancora, di nuovo	ree, refoje, denove	altrifoy	snova	iter	снова
-3229	3	Time	alternate, take turns (do X then Y then X then Y) [v]	wechseln	afwisselen	alternare	alterni [vi]	alterna	alterni	alterne	чередоваться, сменяться
-3230	3	Time	duration (amount of time consumed)	Dauer, Zeit	duur	durata	daŭro	{would be formed from dura = to last, endure, continue}	dura	duren	длительность
+3229	3	Time	alternate, take turns (do X then Y then X then Y) [v]	wechseln	afwisselen	alternare	alterni	alterna	alterni	alterne	чередоваться, сменяться
+3230	3	Time	duration (amount of time consumed)	Dauer, Zeit	duur	durata	daŭro		dura	duren	длительность
 3231	2	Time	long (of much duration) [aj]	lange	langdurig	lungo	longa, longdaŭra	longitem	longe, longtaim-ney	long; diuturn	долгий, длительный
-3232	2	Time	short, brief (of little duration) [aj]	kurz	beknopt, kort	corto	mallonga, mallongdaŭra	kurtitem {*}	kurte	cort, bragv	короткий, недолгий
+3232	2	Time	short, brief (of little duration) [aj]	kurz	beknopt, kort	corto	mallonga, mallongdaŭra	kurtitem	kurte	cort, bragv	короткий, недолгий
 3233	3	Time	gradual [aj]	stufenweise, allmählich	geleidelijk	graduale	iompostioma, grada, laŭgrada	gradual	graduale	gradual	постепенный
 3234	3	Time	sudden, abrupt [aj]	plötzlich	plotseling	imrovviso	subita	subit(i), abrupti	turan-ney, abrupte	stayg, abrupt	внезапный, резкий
-3235	1	Time	begin, commence, start [v]	anfangen, beginnen	beginnen	cominciare [vt/i], inziare [vt/i]	komenci [vt], komenciĝi [vi]	komensa, starta	begin, starti	inkap, start	начать; стартовать
-3236	1	Time	continue, keep on doing/being [v]	fortfahren zu ...	voortzetten	continuare [vt/i]	daŭrigi [vt], daŭriĝi [vi]	kontinua	kontinu, zwo for	continue, na-	продолжать
+3235	1	Time	begin, commence, start [v]	anfangen, beginnen	beginnen	cominciare [vt/i], inziare [vt/i]	komenci, komenciĝi	komensa, starta	begin, starti	inkap, start	начать; стартовать
+3236	1	Time	continue, keep on doing/being [v]	fortfahren zu ...	voortzetten	continuare [vt/i]	daŭrigi, daŭriĝi	kontinua	kontinu, zwo for	continue, na-	продолжать
 3237	2	Time	pause, hesitate, suspend action temporarily [v]	pausieren	pauzeren	interrompere, sospendere	paŭzi, heziti	pausa, hesita	pausi	pause	приостановить
-3238	1	Time	end, conclude, finish [v]	enden [vi], beended [vt]	eindigen	finire	fini [vt], finiĝi [vi]	fina	fini	fineih, end	закончить
-3239	1	Time	cease, stop doing, quit [v]	aufhören	ophouden	smettere	ĉesigi [vt], ĉesi [vi]	sesa	stopi	chii	прекратить
+3238	1	Time	end, conclude, finish [v]	enden [vi], beended [vt]	eindigen	finire	fini, finiĝi	fina	fini	fineih, end	закончить
+3239	1	Time	cease, stop doing, quit [v]	aufhören	ophouden	smettere	ĉesigi, ĉesi	sesa	stopi	chii	прекратить
 3240	3	Time	period, era, epoch	Zeitrechnung, Epoche	tijdperk	epoca, periodo	epoko	periode, ere, epoke	perioda, epoka	periode, tid	период, эпоха
 3241	2	Time	moment, an instant	Augenblick	ogenblik	momento, istante	momento	momente, instante	momenta	moment	момент, миг
 3242	1	Time	always (at all times) [av]	immer	altijd	sempre	ĉiam, ĉiame	sempre	sempre	semper	всегда
@@ -1443,19 +1443,19 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3246	2	Time	still, yet (even until the time mentioned) [av]	noch, schon	nog	ancora	ankoraŭ	ankore	haishi	dar; bad	ещё, пока
 3247	3	Time	ancient								
 3248	3	Time	modern								
-3250	2	Time	early, premature [aj/av]	vorzeitig	vroeg	presto	frua, frue, antaŭmatura	frui [aj], fruim[av] (= early), prematuri	rane, premature	aus, prematur	преждевременный, ранний
-3251	3	Time	timely, prompt, on time [aj/av]	zeitig	op de juiste tijd	in tempo	ĝustatempe [av], ĝustatempa [aj]		byen, hao-taim-ney	tid-ye, prompt	своевременный
-3252	2	Time	late, tardy [aj/av]	spät	laat	tardi	malfrua, malfrue	tardi [aj], tardim [av]	tarde	sert	запоздалый, поздний
+3250	2	Time	early, premature [aj/av]	vorzeitig	vroeg	presto	frua, frue, antaŭmatura	frui, prematuri	rane, premature	aus, prematur	преждевременный, ранний
+3251	3	Time	timely, prompt, on time [aj/av]	zeitig	op de juiste tijd	in tempo	ĝustatempa		byen, hao-taim-ney	tid-ye, prompt	своевременный
+3252	2	Time	late, tardy [aj/av]	spät	laat	tardi	malfrua, malfrue	tardi, tardim	tarde	sert	запоздалый, поздний
 3253	3	Time	delay, retard, tarry [v]	verzögern	uitstellen	ritardare	prokrasti, malrapidigi, malakceli	tardisa	ajorni	akhire	отложить; затянуть
 3254	2	Time	rush, hurry, hasten [v]	eilen, beschleunigen	snellen	affrettare, affrettarsi [vr]	hasti, rapidi	hasta	hasti	hast	спешить
-3255	2	Time	wait (for), await [v]	warten (auf)	wachten (op)	aspettare	atendi [vt]	varta	weiti	 	ждать
-3256	3	Time	speed, velocity (degree of fastness or slowness)	Geschwindigkeit	snelheid	velocità	rapideco, velocito	rapideso, rapiditate {*}	kwaytaa	speud	скорость
+3255	2	Time	wait (for), await [v]	warten (auf)	wachten (op)	aspettare	atendi	varta	weiti	 	ждать
+3256	3	Time	speed, velocity (degree of fastness or slowness)	Geschwindigkeit	snelheid	velocità	rapideco, velocito	rapideso, rapiditate	kwaytaa	speud	скорость
 3257	2	Time	quickly, rapidly, swiftly (with much speed) [av]	schnell	vlug, snel, gauw	velocemente	rapide	rapidim	kway	oku	быстро
 3258	2	Time	slowly (with little speed) [av]	langsam	langzaam	lentamente	malrapide	lentim	lentem	lent-ye	медленно
 3259	3	Time	series (a number of similar things following one another)	Reihe	serie, reeks	serie, sequenza	serio	serie	seria	serie	серия
 3260	3	Time	sequence, order (temporal arrangement of events in a series)	Reihenfolge	volgorde	ordine, successione	sinsekvo, ordo	ordine	sekwa, ordina	sequence, orden	последовательность
 3261	1	Time	last, final (after all others) [aj]	letzte	laatste	ultimo	fina, lasta	lasti	laste	senter/senst	последний
-3262	2	Time	prior, preceding, previous, contra-next [aj]	vorhergehend	voorafgaand	prima, precedente; ultimo (the last before this one)	antaŭa	presedant(i) {*}	presedi-she	preceddent, prever	предшествующий
+3262	2	Time	prior, preceding, previous, contra-next [aj]	vorhergehend	voorafgaand	prima, precedente; ultimo (the last before this one)	antaŭa	presedant(i)	presedi-she	preceddent, prever	предшествующий
 3263	1	Time	"next (coming immediately after; ""tomorrow"" = the next day) [aj]"	nächste	naast	prossimo	posta, sekvanta	sekuent(i)	sekwi-she, lai-she	niebst	следующий
 3264	2	Time	the day before yesterday								
 3265	2	Time	yesterday [av]	Gestern	gisteren	ieri	hieraŭ	yer	yeri	ghes	вчера
@@ -1470,7 +1470,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3276	3	Time	century	Jahrhundert	eeuw	secolo	jarcento, centjaro	sekle, yarsente	sekla	secule	век
 3277	3	Time	decade								
 3278	2	Time	year	Jahr	jaar	anno	jaro	yare	yar	yar	год
-3279	2	Time	month	Monat	maand	mese	monato	monate {1928 version}, mensu {1930 version}	mes	munt	месяц
+3279	2	Time	month	Monat	maand	mese	monato	monate, mensu	mes	munt	месяц
 3280	2	Time	week	Woche	week	settimana	semajno	semani	wik	hevd	неделя
 3281	2	Time	day (24-hour period), nycthemeron	Tag	dag	giorno	tago, tagnokto	die	dey	dien	день (сутки)
 3282	3	Time	date (coordinates of a day given in some timekeeping system)	Datum	datum	data	dato	datum	datum	tarikhe	дата
@@ -1481,11 +1481,11 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3287	2	Time	afternoon (noon to dusk)	Nachmittag	namiddag	pomeriggio	postagmezo		taim afte middey	posmiddien	время после полудня
 3288	2	Time	evening (dusk to midnight)	abend	avond	sera	vespero	vespre	aksham	vesper	вечер
 3289	2	Time	midnight	Mitternacht	middernacht	mezzanotte	noktomezo	medinokte	midnocha	midnoct	полночь
-3290	2	Time	graveyard shift, middle of the night (midnight to dawn)	Vormorgen		[no equivalent]	postnoktomezo {?}		taim afte midnocha	posmidnoct	время после полуночи
+3290	2	Time	graveyard shift, middle of the night (midnight to dawn)	Vormorgen			postnoktomezo {?}		taim afte midnocha	posmidnoct	время после полуночи
 3291	2	Time	hour (60 minutes)	Uhr	uur	ora	horo	hore	ora	hor	час
 3292	3	Time	minute (60 seconds)	Minute	minuut	minuto	minuto	minute	minuta	minute	минута
 3293	3	Time	second (1/60th of a minute)	Sekunde	seconde	secondo	sekundo	sekunde	sekunda	secund	секунда
-3294	3	Time	holiday	Feiertag	vacantiedag	festa	festotago	feste {?}	festa, bugundey	fest, feria	праздник; выходной
+3294	3	Time	holiday	Feiertag	vacantiedag	festa	festotago	feste	festa, bugundey	fest, feria	праздник; выходной
 3295	3	Time	sabbath (day of week with religious significance)	Sabbat	sabbat	"{for a Catholic country the 'religous day' is Sunday: ""domenica""}"	preĝtago, sabato	sabate	 	 	день отдохновения; шабат
 3300	3	Matter	substance	Substanz							
 3301	1	Matter	water	Wasser	water	acqua	akvo	aque	akwa	wed; aqua	вода
@@ -1507,7 +1507,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3330	1	Matter	dirt, earth (tangible), soil	Erde	grond	terra, suolo	grundo	krase	grunta	ardh, (di)ghom	почва
 3331	2	Matter	sand	Sand	zand	sabbia	sablo	sande	ramla	sand	песок
 3332	2	Matter	mud	Schlamm	slijk	fango	koto	mude	kicha	mudh, slamm	грязь
-3333	1	Matter	rock, stone	Stein	steen, rots	pietra, roccia	ŝtono	petre (substance), stone (individual item)	ston	petra	камень
+3333	1	Matter	rock, stone	Stein	steen, rots	pietra, roccia	ŝtono	petre, stone	ston	petra	камень
 3334	3	Matter	clay	Lehm, Ton	klei	argilla	argilo	argile	glina	loid	глина
 3335	3	Matter	mineral, ore	Mineral, Erz	mineraal	minerale	mineralo	minerale	mineral; kwanshi	ruyd, charp	минерал; руда
 3336	3	Matter	coal	Kohle	kool	carbone	terkarbo	karbone	gual	ghiul	уголь
@@ -1517,7 +1517,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3340	3	Matter	quartz	Quarz	kwarts	quarzo	kvarco	quartse	kwarza	quartz	кварц
 3345	1	Matter	wood (the substance)	Holz	hout	legno	ligno	ligne	ligna	dreu	девесина
 3350	2	Matter	glass	Glas	glas	vetro	vitro	vitre	glas	glass	стекло
-3351	3	Matter	plastic (synthetic/processed moldable material)	Kunststoff	plastic	plastica	plastiko	{As the dictionary was composed in 1930, no word was created}	plastik	plastic	пластмасса
+3351	3	Matter	plastic (synthetic/processed moldable material)	Kunststoff	plastic	plastica	plastiko		plastik	plastic	пластмасса
 3352	3	Matter	rubber	Gummi	rubber	gomma	kaŭĉuko	kauchuke	guma	cauchouk	резина
 3353	3	Matter	ink	Tinte	inkt	inchiostro	inko	inke	tinta	tint	чернила
 3354	3	Matter	paint	Farbe	verf	vernice	farbo		pinta	poig	краска
@@ -1528,7 +1528,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3359	3	Matter	oil (a combustible fatty liquid that will not mix with water)	Öl	olie	olio	oleo	olie	olea	ol	масло
 3360	3	Matter	oil (crude oil), petroleum	Erdöl	petroleum	petrolio	nafto, kruda petrolo	petrolie	nafta	naft	нефть
 3361	3	Matter	fat (oily/greasy material from animal adipose tissue or plant seeds)	Fett	vet	grasso	graso	grasu(m)	fet	smeru, selp	жир
-3362	3	Matter	tar (dark viscous liquid obtained by destructive distillation)	Teer	teer	pece	gudro	asfalte {?}	katran	katran	гудрон
+3362	3	Matter	tar (dark viscous liquid obtained by destructive distillation)	Teer	teer	pece	gudro	asfalte	katran	katran	гудрон
 3363	3	Matter	wax	Wachs	was	cera	vakso	vaxe	waxa	wox	воск
 3364	2	Matter	soap	Seife	zeep	sapone	sapo	sapone	sabun	sapun	мыло
 3370	3	Matter	element (substance of irreducible simplicity)	Element, Grundstoff	grondstof	elemento	elemento	elemente	elementa	element	элемент
@@ -1541,13 +1541,13 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3384	3	Matter	mercury (the element)	Quecksilber							
 3386	3	Matter	sodium	Natrium	natrium	sodio	natrio	natrium	natrium	natrium	натрий
 3388	3	Matter	sulfur	Schwefel	zwavel	zolfo	sulfuro	sulfre	sulfa	swelpel	сера
-3395	3	Matter	chemical (substance made by or used in chemistry)	Chemikalie	chemicaliën [plur]	sostanza	kemiaĵo	kemial substantie {?}	kemike substansa	chemical	химикат
+3395	3	Matter	chemical (substance made by or used in chemistry)	Chemikalie	chemicaliën [plur]	sostanza	kemiaĵo	kemial substantie	kemike substansa	chemical	химикат
 3399	2	Matter	garbage, trash, rubbish	Müll, Abfall	afval	immondizia	rubaĵo, forĵetindaĵoj		laza	kakwrnt	мусор, сор
 3401	2	Food	food	Essen	voedsel	cibo	manĝaĵo, nutraĵo	manjaje	fan	pieut	пища
 3402	2	Food	beverage								
 3410	3	Food	flour (grain-powder)	Mehl	meel	farina	faruno	farine	farina	melv	мука
 3415	2	Food	bread	Brot	brood	pane	pano	pane	pan	dvan	хлеб
-3420	3	Food	pasta, noodles	Nudeln	meelprodukt	pasta	pastaĵoj	"{probably would translate as ""makaroni""}"	makaron	bakmie	макароны
+3420	3	Food	pasta, noodles	Nudeln	meelprodukt	pasta	pastaĵoj	makaroni	makaron	bakmie	макароны
 3425	3	Food	pizza	Pizza		pizza	pico		pitsa	pizza	пицца
 3427	3	Food	cookie								
 3430	2	Food	meat						masu	miems	плоть
@@ -1583,7 +1583,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3501	2	Form	matter, material	Stoff, Materie	stof, materie	materiale	materio	materie	materia; material	materia; material	материя, вещество; материал
 3502	3	Form	gas	Gas	gas	gas	gaso	gase	gas	gas	газ
 3503	3	Form	liquid	Flüssigkeit	vloeistof	liquido	likvaĵo	liquidu(m)	likwa	liquid	жидкость
-3504	3	Form	solid (not a gas or liquid)	Körper		solido	solidaĵo	"solid(i) [aj] {n is probably ""solide,"" but not given}"	twerdika	solid	твёрдое тело
+3504	3	Form	solid (not a gas or liquid)	Körper		solido	solidaĵo	solid(i)	twerdika	solid	твёрдое тело
 3505	3	Form	vacuum	Vakuum	vacuum, het luchtledige	vuoto	vakuo	vakuu(m)	vakum	vacuum	вакуум
 3510	2	Form	form, shape	Form, Gestalt	vorm	forma	formo	forme	forma	forme, skeip	форма
 3511	3	Form	plane (flat surface)	Ebene, Fläche	vlak	piano	ebenaĵo, plataĵo	planu(m)	plana	plan, plieske	плоскость
@@ -1592,7 +1592,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3514	3	Form	curve	Kurve	kromme	curva	kurbo	kurve	kurva	kehmb, curve	кривая
 3515	3	Form	arch	Gewölbe	boog, gewelf	arco	arkaĵo	arke	arka	arche	дуга; арка
 3516	3	Form	loop, circuit, closed curve	Schlinge, Kreislauf	kringloop	anello	maŝo, cirkvito		lup	spang	петля, замкнутая кривая
-3517	3	Form	oval, ellipse	Oval	ovaal, eirond	ovale, ellisse	ovalo, elipso	"oval(i) [aj] {n is probably ""ovale,"" but not given}, elipse"	oval	oval	овал, эллипс
+3517	3	Form	oval, ellipse	Oval	ovaal, eirond	ovale, ellisse	ovalo, elipso	oval(i), elipse	oval	oval	овал, эллипс
 3518	2	Form	circle	Kreis	cirkel	cerchio, circolo	cirklo	sirkle	sirkula	circule	круг
 3519	3	Form	torus, ring (any 3D object shaped like a ring)	Ring	ring	anello (object with a circular hole); toro (the geometric shape)	ringo	ringe	halka	ring	кольцо
 3520	3	Form	spiral, whorl	Spirale, Wirbel	spiraal	spirale	spiralo, kirlaĵo		spiral	spiral	спираль
@@ -1613,7 +1613,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3541	3	Form	crack, fissure	Spalte, Riss	kraak	fessura	fendo		krek	bidno	трещина
 3542	2	Form	hole	Loch	gat	buco (general), foro (artifact)	truo	tru(e)	dun	torm	дыра
 3543	3	Form	opening, orifice	öffnung	opening	apertura	aperturo	aperture	ofnitura	ghyanen, orifice	отверстие
-3544	3	Form	bump, protrusion	Beule	buil	escrescenza	ŝvelaĵo, tubero (on a living thing)	bose {?}	balja	grumb	выпуклость, шишка, округлый выступ, бугорок
+3544	3	Form	bump, protrusion	Beule	buil	escrescenza	ŝvelaĵo, tubero	bose	balja	grumb	выпуклость, шишка, округлый выступ, бугорок
 3545	3	Form	dent, nick, indentation	Kerbe	deuk	dente	kaveto	noche	hakimarka, holika, yamakin	gherb	зарубка; углубление, вмятина, выемка
 3546	3	Form	furrow, rut, groove	Furche, Rinne	voor, groef	solco	sulko	kanele	fora	pehrk	борозда, колея
 3547	3	Form	scratch	Schramme	schram	graffio	grataĵo	grata	skrapa	grobos	царапина
@@ -1622,7 +1622,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3550	3	Form	stripe	Streifen	streep	striscia	strio	strie	stripa	strei	полоса
 3551	2	Form	mark (visible traces left behind)	Spur	merk	segno	spuro, marko	marke	marka	mark	метка
 3560	3	Form	band, tape, flat strip	Band	band	nastro	bendo, strio	ribande, bende	banda	bande, strei, teip	лента; повязка
-3561	3	Form	block (solid flat-surfaced mass of material)	Block, Klotz	blok	blocco	bloko	bloke {?}	blok	block	блок
+3561	3	Form	block (solid flat-surfaced mass of material)	Block, Klotz	blok	blocco	bloko	bloke	blok	block	блок
 3562	3	Form	card (stiff rectangle of material)	Karte	kaart	scheda	karto	karte	karta	carte	карточка
 3563	3	Form	crystal	Kristall	kristal	cristallo	kristalo	kristale	kristal	cristall	кристалл
 3564	3	Form	drop (of liquid)	Tropfen	druppel	goccia	guto	gute	guta	ghutt	капля
@@ -1640,7 +1640,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3581	3	Form	jelly (gelatinous semi-solid material), gel	Gallerte	gelei	gelatina	gelateno, ĝelo	jeli	jelee, gel	gelee, gel	желе, гель
 3582	2	Form	paste (any thick soft dough-like material)	Brei, Teig	deeg, stijfsel	pasta	pasto, kremaĵo	paste	pasta	paste, doigh	паста
 3583	2	Form	juice (fluid extracted from something)	Saft	sap	succo	suko	suke	jus	juce	сок
-3584	3	Form	shower, sprinkle	Schauer, Dusche	douche, bui	doccia	duŝo, pluveto	{prob. derived from arosa = sprinkle [v]}	dush	dusch, vehrs	душ
+3584	3	Form	shower, sprinkle	Schauer, Dusche	douche, bui	doccia	duŝo, pluveto		dush	dusch, vehrs	душ
 3585	2	Form	wave	Welle	golf	onda	ondo	onde	onda	voln	волна
 3586	2	Form	smoke	Rauch	rook	fumo	fumo	fume	fum	dum	дым
 3587	3	Form	vapor, mist	Dunst, Dampf	damp, nevel, mist	vapore	vaporo, nebulaĵo	vapore	vapor	vapor, mighel	пар
@@ -1652,7 +1652,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3603	2	Quality	smooth [aj]	glatt	glad	liscio	glata	glati	glate	sliv, glat	гладкий
 3604	2	Quality	rough, coarse, contra-smooth [aj]	rauh, grob	ruw	ruvido	malglata	rud(i)	karke	rug	шероховатый, шершавый, грубый
 3605	2	Quality	straight (not bent) [aj]	gerade	recht	diritto, dritto	rekta	rekt(i)	rekte	rect	прямой
-3606	2	Quality	bent [aj]	gebogen, geknickt	gebogen	curvo; piegato	malrekta, kurbigita	curvi [= curved, bent]	kurve	kehmb	кривой
+3606	2	Quality	bent [aj]	gebogen, geknickt	gebogen	curvo; piegato	malrekta, kurbigita	curvi	kurve	kehmb	кривой
 3610	3	Quality	pure, unadulterated, uncontaminated [aj]	rein	zuiver	puro	pura	pur(i)	pure	pur	чистый, без примесей
 3611	2	Quality	clean [aj]	sauber	schoon	pulito	pura, neta		klin	kiest	чистый
 3612	2	Quality	dirty, contra-clean [aj]	schmutzig	vuil	sporco	malpura	sordid(i)	gande	murdar	грязный
@@ -1664,7 +1664,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3631	2	Quality	dull, blunt (of little sharpness) [aj]	stumpf	stomp	{no general term}	malakra, malakuta	obtus(i)	tupe	stup	тупой
 3635	2	Quality	soft, malleable, yielding to pressure [aj]	weich	zacht	morbido (with a soft surface); malleabile (said of metals)	mola	mol(i)	mole	mol	мягкий
 3636	2	Quality	hard, firm, resistant to pressure [aj]	hart, fest	hard	duro	malmola, dura	solid(i)	twerde	kaurd	твёрдый
-3637	2	Quality	flexible (easily able to bend) [aj]	biegsam	buigzaam, soepel	flessibile, pieghevole	fleksebla, nerigida	flektindi {*}	flexibile	flexible	гибкий, гнущийся
+3637	2	Quality	flexible (easily able to bend) [aj]	biegsam	buigzaam, soepel	flessibile, pieghevole	fleksebla, nerigida	flektindi	flexibile	flexible	гибкий, гнущийся
 3638	2	Quality	stiff, rigid [aj]	starr, steif	stijf	duro, rigido	rigida, nefleksebla	rigid(i)	rigide	stip, rigid	жёсткий, негнущийся
 3639	3	Quality	elastic (able to regain shape/size after deformation) [aj]	elastisch	elastisch, rekbaar	elastico	elasta	elasti	elastike	elastic	эластичный
 3640	2	Quality	durable, resilient, robust, strong (in this sense) [aj]	beständig, robust	duurzaam, fors, robuust	forte, solido	fortika	robusti	masbute	durable	крепкий, прочный
@@ -1676,8 +1676,8 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3652	2	Quality	light (of little weight) [aj]	leicht	licht	leggero	malpeza	lejer(i)	leve	legv	лёгкий
 3655	2	Quality	solid (contra-hollow) [aj]	fest		solido, massiccio	solida, senkava		sin holika, nohole	plen	цельный, сплошной
 3656	2	Quality	hollow [aj]	hohl	hol	cavo (with a sizeable hole); concavo (with an inflected surface)	kava		hole	kaul	полый
-3660	3	Quality	snug (just large enough to contain X), tight (in this sense) [aj]	eng angeschmiegt	nauwsluitend	stretto, preciso	malloza, strikta	streti {?}	kel fiti hao	chifit	облегающий, обтягивающий
-3661	3	Quality	loose (larger than needed to contain X), baggy [aj]	locker	flodderig	largo	loza, malstrikta	ampli {?}	tro chaure	slu(-t/-n)	мешковатый, просторный
+3660	3	Quality	snug (just large enough to contain X), tight (in this sense) [aj]	eng angeschmiegt	nauwsluitend	stretto, preciso	malloza, strikta	streti	kel fiti hao	chifit	облегающий, обтягивающий
+3661	3	Quality	loose (larger than needed to contain X), baggy [aj]	locker	flodderig	largo	loza, malstrikta	ampli	tro chaure	slu(-t/-n)	мешковатый, просторный
 3665	3	Quality	taut, tight, tense, strained [aj]	straff	strak	stretto	streĉita	tenset	tensi-ney	tens	тугой, натянутый
 3666	3	Quality	slack, loose (contra-taut) [aj]	schlaff	los	largo	malstreĉita	laxi	laxe	slemb	расслабленный, нестянутый, вялый
 3670	3	Quality	viscous, thick (of high viscosity) [aj]	zähflüssig	kleverig, taai, viskeus	denso (general); viscoso (technical jargon)	viskoza		viskose	viskeus	вязкий, тягучий
@@ -1686,23 +1686,23 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3703	3	Matter	adhere (hold tightly to / stick to something) [v]	haften an	aankleven, vasthouden	aderire	algluiĝi	adhese	lipi, klingi	adglehmer	прилипать, приставать; цепляться
 3705	3	Matter	beat (repeatedly hit), batter [v]	schlagen, prügeln	slaan	battere	batadi	bata	bati	bat	бить
 3707	3	Matter	blow (move/cause to move as a current of gas) [v]	blasen, wehen	blazen	soffiare	blovi	sufla	fuki	blah	дуть
-3709	3	Matter	boil [v]	sieden	koken	bollire	boli [vi], boligi [vt]	bolia	buli	yehs	кипеть, кипятить
+3709	3	Matter	boil [v]	sieden	koken	bollire	boli, boligi	bolia	buli	yehs	кипеть, кипятить
 3711	3	Matter	bounce, rebound [v]	aufprallen	stuiteren	rimbalzare	resalti		risalti	antskand	отскакивать
 3713	2	Matter	break (into pieces) [v]	brechen, zerbrechen	breken	rompere	rompi, rompiĝi, frakasi	rupte, breche	rupti	rumep	разбить (на части)
-3715	3	Matter	build (join materials to create), construct [v]	bauen	bouwen	costruire	konstrui	konstrukte {?}	bildi	strug	строить
-3717	2	Matter	burn [v]	brennen	branden	bruciare [vti]	bruli [vi], bruligi [vt]	brula, insendia	jal	brand	гореть; жечь
-3719	3	Matter	burst [v]	bersten	barsten	scoppiare	krevi [vi]	kreva	bangi	sprehng	лопнуть, треснуть, разорваться
+3715	3	Matter	build (join materials to create), construct [v]	bauen	bouwen	costruire	konstrui	konstrukte	bildi	strug	строить
+3717	2	Matter	burn [v]	brennen	branden	bruciare [vti]	bruli, bruligi	brula, insendia	jal	brand	гореть; жечь
+3719	3	Matter	burst [v]	bersten	barsten	scoppiare	krevi	kreva	bangi	sprehng	лопнуть, треснуть, разорваться
 3721	3	Matter	consume, deplete, expend, exhaust, use up [v]	verbrauchen	verbruiken, consumeren	consumare, finire	elĉerpi, konsumi	konsuma, spenda	spendi, konsumi	consump	расходовать, потреблят
 3723	3	Matter	contain [v]	enthalten	bevatten	contenere	enhavi	kontena, inkluse	konteni	mathmoun	содержать
-3725	3	Matter	crush (press on so as to break or re-shape) [v]	quetschen	verpletteren	schiacciare	frakasi, pisti, premegi	komprese {?}	krashi	treud	раздавить, задавить
+3725	3	Matter	crush (press on so as to break or re-shape) [v]	quetschen	verpletteren	schiacciare	frakasi, pisti, premegi	komprese	krashi	treud	раздавить, задавить
 3727	1	Matter	cut [v]	schneiden	snijden	tagliare	tranĉi	seka	kati	(s)kehrz	резать
 3729	2	Matter	dig [v]	graben	graven	scavare	fosi		kavi	(s)kav	копать, рыть
-3731	3	Matter	dissolve [v]	auflösen	oplossen	sciogliere	solvi [vt], solviĝi [vi]	dis(s)olu	solvi	dissolv	растворять(ся)
-3733	3	Matter	evaporate [v]	verdunsten	verdampen	evaporare	vaporiĝi	vaporeska [vi], vaporisa [vt]	vapori	absteum	испарять(ся)
-3735	3	Matter	explode [v]	explodieren	exploderen, ontploffen	esplodere	eksplodi [vi]	explose	explosi	explod	взрывать(ся)
+3731	3	Matter	dissolve [v]	auflösen	oplossen	sciogliere	solvi, solviĝi	dis(s)olu	solvi	dissolv	растворять(ся)
+3733	3	Matter	evaporate [v]	verdunsten	verdampen	evaporare	vaporiĝi	vaporeska, vaporisa	vapori	absteum	испарять(ся)
+3735	3	Matter	explode [v]	explodieren	exploderen, ontploffen	esplodere	eksplodi	explose	explosi	explod	взрывать(ся)
 3737	3	Matter	float [v]	flössen	drijven	galleggiare	flosi	flota	floti	flott	держаться на воде
 3739	2	Matter	flow (travel in a current) [v]	fliessen, strömen	stromen, vloeien	scorrere	flui	flua	flui	sreu	течь
-3741	2	Matter	fold [v]	falten	vouwen, plooien	piegare	faldi [vt]		pligi	plehc, klehng	складывать, сгибать
+3741	2	Matter	fold [v]	falten	vouwen, plooien	piegare	faldi		pligi	plehc, klehng	складывать, сгибать
 3743	3	Matter	freeze [v]	gefrieren	bevriezen	gelare [vt/i], congelare	frosti, glaciiĝi	frosta	frosti	frehs	заморозить
 3745	2	Matter	grind [v]	mahlen	malen	macinare	mueli, grinci	mila	meli	mehl	молоть
 3747	3	Matter	hang, suspend, dangle [v]	hangen	hangen, ophangen	appendere, sospendere	pendi, pendiĝi	penda	pendi	pend, hang	висеть, вешать
@@ -1711,42 +1711,42 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3753	2	Matter	mix, blend [v]	mischen	mengen, mixen	mescolare	miksi	mixa	mixi	mix, bland	смешивать
 3755	3	Matter	pollute, contaminate [v]	beschmutzen	vervuilen, besmetten	inquinare, contaminare	polucii, polui	polu	mah-gande	pollue, contamine	загрязнять
 3757	3	Matter	pour (cause to flow) [v]	giessen	gieten	versare	verŝi, elverŝi	versa	liti	gheu, vehrs	лить
-3759	3	Matter	preserve, maintain (keep X in good condition) [v]	konservieren	conserveren, behoeden	conservare	konservi [vt]	preserva	preservi	preserve	сохранять, сберегать
+3759	3	Matter	preserve, maintain (keep X in good condition) [v]	konservieren	conserveren, behoeden	conservare	konservi	preserva	preservi	preserve	сохранять, сберегать
 3761	2	Matter	press (do pressure to; push upon with weight or force) [v]	drucken	drukken	premere	premi	prese	presi	pressem, waurg	давить, жать
 3763	3	Matter	pry (move with a lever) [v]	mit Hebel heben	openbreken	sollevare {general for moving up; no specific verb for use of a lever}	prizi		drangi	drangh	поднимать рычагом
 3765	2	Matter	pull (draw something toward oneself) [v]	ziehen	trekken	tirare	tiri, altiri	tira	tiri	trag	тянуть, тащить
-3767	2	Matter	push (press on something in order to move it) [v]	schieben	duwen, stooten {archaic}	spingere	puŝi [vt]	pusha	pushi	pulg, pusc	толкать
+3767	2	Matter	push (press on something in order to move it) [v]	schieben	duwen, stooten {archaic}	spingere	puŝi	pusha	pushi	pulg, pusc	толкать
 3769	2	Matter	rot, decay [v]	verfaulen, vermodern	rotten, vergaan	marcire	putri	putri	putrifi	saup	гнить
-3771	3	Matter	rub, abrade [v]	reiben	wrijven	grattare	froti, abrazii [vt]	frota	frikti	ghneih, tyehr	тереть
-3773	2	Matter	shake [v]	schütteln	schudden	scuotere, agitare	skui [vt], skuiĝi, tremi [vi]	trembla	sheiki, tremi	(oi)scutt	трясти(сь); дрожать
+3771	3	Matter	rub, abrade [v]	reiben	wrijven	grattare	froti, abrazii	frota	frikti	ghneih, tyehr	тереть
+3773	2	Matter	shake [v]	schütteln	schudden	scuotere, agitare	skui, skuiĝi, tremi	trembla	sheiki, tremi	(oi)scutt	трясти(сь); дрожать
 3775	3	Matter	shoot (cause to rapidly go forth) [v]	schiessen	schieten	tirare	pafi, peli		shuti	strehl	стрелять
 3777	3	Matter	sink [v]	sinken	zinken	affondare [vt/i]	subakviĝi, subakvigi, sinki	sinka	sinki	sehnk	погружаться
 3779	3	Matter	spill (accidentally emit liquid) [v]	vergiessen	morsen	versare	misverŝi		misliti	sinekw	пролить (мимо), разлить
-3781	3	Matter	spread (begin to cover or cause X to cover more area) [v]	aufstriechen	verspreiden, uitsmeren	spargere	disvastigi [vt]		extendi	extend, spehr	расширить, распространить
-3783	3	Matter	stab, jab [v]	stechen	steken	pungere	piki [vt]		piki	dyehgw	вонзать
-3785	3	Matter	stir, agitate [v]	umrühren	roeren	agitare	kirli, agaci [vt]	agita	muvi-mixi, sheiki	sreht	размешивать; взбалтывать
+3781	3	Matter	spread (begin to cover or cause X to cover more area) [v]	aufstriechen	verspreiden, uitsmeren	spargere	disvastigi		extendi	extend, spehr	расширить, распространить
+3783	3	Matter	stab, jab [v]	stechen	steken	pungere	piki		piki	dyehgw	вонзать
+3785	3	Matter	stir, agitate [v]	umrühren	roeren	agitare	kirli, agaci	agita	muvi-mixi, sheiki	sreht	размешивать; взбалтывать
 3787	2	Matter	suck [v]	saugen	zuigen	succhiare	suĉi		suki	seug	сосать
-3789	3	Matter	sweep [v]	fegen	vegen	spazzare	balai [vt]	balaya	brumi	firsche	подметать
-3791	2	Matter	tear, rip [v]	zerreissen	scheuren	strappare	ŝiri [vt]		tori	dehr	рвать, разрывать
+3789	3	Matter	sweep [v]	fegen	vegen	spazzare	balai	balaya	brumi	firsche	подметать
+3791	2	Matter	tear, rip [v]	zerreissen	scheuren	strappare	ŝiri		tori	dehr	рвать, разрывать
 3793	2	Matter	tie, bind [v]	binden, verbinden	binden	legare	bindi, ligi	liga	ligi	behnd	связывать
-3795	2	Matter	trim, prune (cut off ragged edges) [v]	stutzen, beschneiden	bijknippen	tagliare (generic); marginare (books); potare (trees)	tondi [vt]	talia	kati	behrd	подрезать, подстригать
-3797	2	Matter	wash [v]	waschen	wassen	lavare	lavi, purigi [vt]	lava	woshi	lav	мыть; стирать
-3799	3	Matter	wrap [v]	wickeln	inpakken	avvolgere	volvi, envolvi, vindi	envelopa {?}	kuti	veulbh	заворачивать, обёртывать, закутывать
+3795	2	Matter	trim, prune (cut off ragged edges) [v]	stutzen, beschneiden	bijknippen	tagliare (generic); marginare (books); potare (trees)	tondi	talia	kati	behrd	подрезать, подстригать
+3797	2	Matter	wash [v]	waschen	wassen	lavare	lavi, purigi	lava	woshi	lav	мыть; стирать
+3799	3	Matter	wrap [v]	wickeln	inpakken	avvolgere	volvi, envolvi, vindi	envelopa	kuti	veulbh	заворачивать, обёртывать, закутывать
 3801	3	Matter	acid(ic) [aj]	sauer	zuur	acido	acida	asidi	suan	acid	кислый, кислотный
 3802	3	Matter	alkaline [aj]	alkalisch	alkalisch	alcalino	alkala	alkali	alkali-ney	alkalin	щелочной
-3811	2	Matter	gentle, mild [aj]	sanft, mild	zacht	dolce	milda, afabla	{klementi = clement, merciful, lenient}	mule	mild	кроткий, мягкий
+3811	2	Matter	gentle, mild [aj]	sanft, mild	zacht	dolce	milda, afabla	klementi	mule	mild	кроткий, мягкий
 3812	2	Matter	violent, harsh [aj]	gewaltsam	geweldig	violento	perfort(em)a, malafabla	violent(i)	 	violent	неистовый, сильный, интенсивный
 3815	3	Matter	atom	Atom	atoom	atomo	atomo	atome	atom	atom	атом
 3816	3	Matter	molecule	Molekül	molekuul, molecule	molecola	molekulo	molekule	molekula	molecule	молекула
 3820	3	Matter	energy	Energie	energie	energia	energio	energie	energia	energia	энергия
-3821	1	Matter	fire	Feuer	vuur	fuoco	fajro	faire {in abstract}, insendie {= conflagration}	agni	ogwn, piurn	огонь
+3821	1	Matter	fire	Feuer	vuur	fuoco	fajro	faire, insendie	agni	ogwn, piurn	огонь
 3822	3	Matter	force	Kraft	kracht	forza	forto	forse	forsa	force	сила
 3823	3	Matter	stroke, jolt, blow of force	Schlag	slag	colpo	bato, frapo		darba	cutt	удар
-3824	2	Matter	ability, capacity (to do something)	Fähigkeit	bekwaamheid	capacità	kapablo, povo	kapableso, kapablitate {*}	kapablitaa	makdour	способность
+3824	2	Matter	ability, capacity (to do something)	Fähigkeit	bekwaamheid	capacità	kapablo, povo	kapableso, kapablitate	kapablitaa	makdour	способность
 3825	2	Matter	strength (ability to exert physical power)	Kraft	sterkte, macht	forza	fort(ec)o	forteso			
 3826	3	Matter	power	Macht, Leistung	kracht, macht	potenza	potenco, povo	potenteso	mahta, potensia	stieure	сила, мощность
 3830	3	Matter	electricity	Elektrizität	elektriciteit	elettricità	elektro	elektreso	elektritaa	electricitat	электричество
-3831	3	Matter	polarity (electric, magnetic, etc.)	Polarität	polariteit	polarità	poluseco	polaritate {*}	polaritaa	polaritat	полярность
+3831	3	Matter	polarity (electric, magnetic, etc.)	Polarität	polariteit	polarità	poluseco	polaritate	polaritaa	polaritat	полярность
 3832	3	Matter	positive [aj]	Positiv	positief	positivo	pozitiva	positiv(i)	positive	positive	позитивный
 3833	3	Matter	negative [aj]	Negativ	negatief	negativo	negativa	negativ(i)	negative	negative	негативный
 3840	3	Matter	gravity	Schwerkraft	zwaartekracht	gravità	gravito, pezoforto	gravitatione	gravita	gravitat	гравитация
@@ -1754,7 +1754,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3842	2	Matter	balance, equilibrium	Gleichgewicht	evenwicht	equilibrio	ekvilibro	equilibre	balansa	tula ; equiliber	равновесие
 3901	2	Event	happen, occur [v]	geschehen	gebeuren	accadere, succedere	okazi	eventa	eventi	wakye	происходить
 3902	3	Event	chance, randomicity, luck	Zufall	kans	caso (generic); fortuna (good)	ŝanco	chanse	shansa	chance	шанс
-3903	3	Event	accident (unintentional and unexpected event)	Unfall, Zufall	toeval	caso	hazardo (a chance occurence), akcidento (harmful chance occurence)	aksidente	kasu, aksidenta (buhao)		случай, несчастный случай
+3903	3	Event	accident (unintentional and unexpected event)	Unfall, Zufall	toeval	caso	hazardo, akcidento	aksidente	kasu, aksidenta (buhao)		случай, несчастный случай
 3904	3	Event	miracle	Wunder	wonderwerk, mirakel	miracolo	miraklo	mirakle	mirakla	miracle, kyudos	чудо
 3905	3	Event	disaster, catastrophe	Unheil, Katastrophe	ramp, catastrofe	disastro, catastrofe	katastrofo	disastre, katastrofe	disasta, katastrofa	desaster, catastrophe	бедствие, катастрофа
 3906	3	Event	condition, state, status	Zustand	toestand	condizione, stato	stato, kondiĉo	stando	stasa	stand	состояние
@@ -1767,7 +1767,7 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3915	3	Event	safety, security	Sicherheit	veiligheid	sicurezza	sekureco	sekureso	anchuntaa	salvtat, securitat	безопасность
 3916	3	Event	danger (situation in which harm is probable)	Gefahr	gevaar	pericolo	danĝero	danjere	danja	danger	опасность
 3920	3	Event	act, deed	Tat	daad	atto, fatto	ago, faro	akto	akta	act	действие, деяние
-3921	3	Event	activity, bustle, ado	Tätigkeit	actie, handeling	attività	aktiveco, agado	activeso, aktivitate {*}	aktivitaa	acitivitat	деятельность
+3921	3	Event	activity, bustle, ado	Tätigkeit	actie, handeling	attività	aktiveco, agado	activeso, aktivitate	aktivitaa	acitivitat	деятельность
 3922	3	Event	result, consequence	Folge, Ergebnis	gevolg	risultato	rezulto, sekvo	resulte	resulta, sekwitura	resultat, consequence	результат, следствие
 3923	3	Event	basis, foundation (part which supports the rest)	Grundlage	grondslag, basis	base; fondamento (of a theory); fondamenta (of a building; plural)	bazo, fundamento	fondatione	basa, fundamenta	sul	основание
 3925	3	Event	project, undertaking, venture	Project	project, ontwerp	progetto	projekto	projete	proyekta	project	проект
@@ -1779,27 +1779,27 @@ number	level	category	English	Deutsch	Nederlands	Italiano	Esperanto	Novial	Lingw
 3931	2	Event	method, manner, way (of doing), technique	Methode	methode	metodo	metodo, maniero	metode	metoda	methode	метод
 3932	1	Event	easy [aj]	leicht	gemakkelijk	facile	facila	fasil(i)	fasile	facil	лёгкий, простой
 3933	1	Event	difficult, hard [aj]	schwierig	moeilijk	difficile	malfacila	desfasil(i)	mushkile	difficil	трудный
-3934	3	Event	exercise, practice (effort made to improve skills/health)	übung, Bewegung	oefenen	esercizio	ekzerc(ad)o	praktiso {?}	tamrin	exercice, kasra	упражнение
+3934	3	Event	exercise, practice (effort made to improve skills/health)	übung, Bewegung	oefenen	esercizio	ekzerc(ad)o	praktiso	tamrin	exercice, kasra	упражнение
 3935	2	Event	ready, prepared for a task / event [aj]	fertig	bereid	pronto	preta, preparita	pronti	tayar	parat	готовый
 3940	2	Event	try, attempt, endeavor [v]	versuchen	streven, beproeven	tentare [vt/i], provare a	provi, peni		trai	peit	стараться
-3941	2	Event	succeed [v]	Erfolg haben	gelukken	aver successo	sukcesi [vi]	suksese	fai sukses	kamyab	удаваться
-3942	2	Event	fail [v]	versagen	ontbreken, mislukken	fallire	malsukcesi [vi]		fali, fai fiasko	deuys	не удаваться
-3943	2	Event	trouble, difficulty	Schwierigkeit	moeite	difficoltà	malfacilaĵo	trublo {*}	mushkila, problema	trouble, difficultat	беда, затруднение
+3941	2	Event	succeed [v]	Erfolg haben	gelukken	aver successo	sukcesi	suksese	fai sukses	kamyab	удаваться
+3942	2	Event	fail [v]	versagen	ontbreken, mislukken	fallire	malsukcesi		fali, fai fiasko	deuys	не удаваться
+3943	2	Event	trouble, difficulty	Schwierigkeit	moeite	difficoltà	malfacilaĵo	trublo	mushkila, problema	trouble, difficultat	беда, затруднение
 3944	2	Event	problem								
 3945	3	Event	solution								
 3946	3	Event	progress, advancement	Fortschritt	vordering	progresso	progreso	progreso	progres	progress	прогресс
 3947	3	Event	setback (opposite of progress), backsliding								
-3950	2	Event	create, make (bring into existence) [v]	schaffen	scheppen	creare (from (almost) nothing); fare (from some ingredients)	krei, estigi [vt]	krea	kreati	cree	создавать
+3950	2	Event	create, make (bring into existence) [v]	schaffen	scheppen	creare (from (almost) nothing); fare (from some ingredients)	krei, estigi	krea	kreati	cree	создавать
 3951	3	Event	destroy (contra-create; cause to cease existing) [v]	zerstören, vernichten	vernielen	distruggere	detrui, malkrei	destrukte	destrukti	destrug	разрушать
 3952	3	Event	eliminate								
-3953	3	Event	prevent (keep from happening) [v]	verhindern	verhinderen	prevenire, impedire	malebligi [vt]	prevente	preventi	preven	предотвращать
-3960	2	Event	injure, damage, harm [v]	verletzen, schädigen	beschadigen	danneggiare (a thing); fare male (to a living being)	damaĝi, difekti, vundi [vt]	damaja	nuksani, damaji	veurn, sauk, harm	вредить, повреждать
-3961	2	Event	repair, fix [v]	reparieren, ausbessern	repareren	aggiustare, riparare	ripari [vt]	repara	repari	repare	чинить, ремонтировать
-3962	2	Event	save, rescue [v]	retten	redden	salvare	savi [vt]	salva	salvi	salv	спасать
-3970	1	Event	use, utilize [v]	gebrauchen, benutzen	gebruiken	usare, utilizzare	uzi, utiligi [vt]	usa	yusi,		
-3971	3	Event	waste, misuse [v]	verschwenden	verkwisten	sprecare	malŝpari, misuzi [vt]	misusa	vanisi	wazd	тратить зря, транжирить
+3953	3	Event	prevent (keep from happening) [v]	verhindern	verhinderen	prevenire, impedire	malebligi	prevente	preventi	preven	предотвращать
+3960	2	Event	injure, damage, harm [v]	verletzen, schädigen	beschadigen	danneggiare (a thing); fare male (to a living being)	damaĝi, difekti, vundi	damaja	nuksani, damaji	veurn, sauk, harm	вредить, повреждать
+3961	2	Event	repair, fix [v]	reparieren, ausbessern	repareren	aggiustare, riparare	ripari	repara	repari	repare	чинить, ремонтировать
+3962	2	Event	save, rescue [v]	retten	redden	salvare	savi	salva	salvi	salv	спасать
+3970	1	Event	use, utilize [v]	gebrauchen, benutzen	gebruiken	usare, utilizzare	uzi, utiligi	usa	yusi,		
+3971	3	Event	waste, misuse [v]	verschwenden	verkwisten	sprecare	malŝpari, misuzi	misusa	vanisi	wazd	тратить зря, транжирить
 3975	2	Event	necessary, needed, required [aj]	notwendig, erforderlich	noodig	necessario	necesa, bezonata	nesesar(i)	nesese	necessar	необходимый
-3976	2	Event	need, require [v]	benötigen, erfordern	noodig hebben	richiedere, esserci bisogno di	bezoni [vt]	besona	nidi	naudh	нуждаться
+3976	2	Event	need, require [v]	benötigen, erfordern	noodig hebben	richiedere, esserci bisogno di	bezoni	besona	nidi	naudh	нуждаться
 3980	3	Event	civilization	Zivilisation	beschaving	civiltà	civilizo, civilizacio	sivilisation	sivilisasion	civilisation	цивилизация
 3981	3	Event	artificial (deliberately made by humans) [aj]	künstlich	kunstmatig	artificiale	artefarita, homfarita	artifisial	jengun-ney	artificial	искусственный
 3982	3	Event	science	Wissenschaft	wetenschap	scienza	scienco	sientie	vigyan	science	наука
