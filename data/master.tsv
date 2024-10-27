@@ -458,7 +458,6 @@ Clothing:cloth.N	Clothing/Grooming:cloth.N	A woven fabric such as used in dressi
 Clothing:clothes.N	Clothing/Grooming:clothes.N	All coverings designed to be worn on a person's body.	1895	6-12	Kleidung::N	
 Clothing:coat.N	Clothing/Grooming:coat.N	A heavy outer garment covering the upper torso and arms.	603	6-43		1450
 Clothing:collar.N	Clothing/Grooming:collar.N	The part of a garment that encircles the neck.	2012	6-45	Kragen::N	1480
-Clothing:cotton.N	Clothing/Grooming:cotton.N	Fiber obtained from plants of the genus Gossypium, used in making fabrics, cordage, and padding and for producing artificial fibers and cellulose.	1850	6-24		
 Clothing:cushma.N	Clothing/Grooming:cushma.N	A one-piece dress used by the Ashaninka Indians.	450			
 Clothing:dress up.V	Clothing/Grooming:dress up.V	To clothe oneself; to put on clothes.	814		sich anziehen::V	
 Clothing:dress.N	Clothing/Grooming:dress.N	A one-piece garment for a woman that has a skirt and a body section.	474	6-42		1452
@@ -467,6 +466,7 @@ Clothing:felt.N	Clothing/Grooming:felt.N	A cloth or stuff made of matted fibres 
 Clothing:fit.V	Clothing/Grooming:suit.V	(Of an object) To be of the right size and shape so as to match another object.	764			
 Clothing:garment.N	Clothing:garment.N	An item of clothing.				1435
 Clothing:glove.N	Clothing/Grooming:glove.N	A garment for a hand, often extending to the wrist and sometimes up to the elbow, which either covers each finger individually, or separates the thumb from the other fingers.	867	6-58		1442
+Clothing:Gossypium.N	Clothing/Grooming:cotton.N	Fiber obtained from plants of the genus Gossypium, used in making fabrics, cordage, and padding and for producing artificial fibers and cellulose.	1850	6-24		
 Clothing:grass-skirt.N	Clothing/Grooming:grass-skirt.N	A skirt made from long dried grass, or synthetic material resembling it.	328	6-461		
 Clothing:handkerchief.N	Clothing/Grooming:handkerchief.N	A piece of cloth, usually square and often fine and elegant, carried for wiping the face, nose or hands.	1020			
 Clothing:harness.N	Clothing:harness.N	harness				1443
@@ -1066,6 +1066,7 @@ Plant:branch.N	Agriculture/Plant:branch.N	A woody part of a tree arising from th
 Plant:bud.N	Agriculture/Plant:bud.N	A bud is an undeveloped or embryonic shoot and normally occurs in the axil of a leaf or at the tip of the stem.	1684			1021
 Plant:bulb.N	Agriculture/Plant:bulb.N	A bulb is the part of some plants that stores food while the plant is resting from growing.	2617			
 Plant:Colocasia esculenta.N	Agriculture/Plant:taro.N	Colocasia esculenta, raised as a food primarily for its corm, which distantly resembles potato.	351			
+Plant:Gossypium.N	Plant:cotton.N	Plant of genus Gossypium whose fibers are used for making cloth.				
 Plant:leaf spine.N	Agriculture/Plant:leaf spine.N	A hard, rigid extension of leaves with sharp, stiff ends.	2803			
 Plant:leaf.N	Agriculture/Plant:leaf.N	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	628	8-56	Blatt::N	
 Plant:plant.N	Agriculture/Plant:plant (vegetation).N	Any living organism that synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion.	653	8-53		1000
@@ -4621,7 +4622,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Plant:chrysanthemum.N	chrysanthemum				1050
 	Plant:cork.N	cork (tree/elastic tissue of sp. Quercus suber)				1041
 	Plant:corn.N	corn, maize (plant/seeds of sp. Zea mays)				1083
-	Plant:cotton.N	cotton (plant/fibers of genus Gossypium)				1055
 	Plant:cucumber.N	cucumber (Cucumis sativus)				1084
 	Plant:date.N	date (tree/fruit of sp. Phoenix dactylifera)				1033
 	Plant:elm.N	elm (tree of genus Ulmus)				1042
