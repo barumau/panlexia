@@ -48,6 +48,7 @@ Animal:Corvus.N	Animal:crow.N	A bird, usually black, of the genus Corvus, having
 Animal:Culicidae.N	Animal:mosquito.N	A small flying insect (of the family Culicidae) known for biting and sucking blood.	1509	3-832	Mücke::N	924
 Animal:Diptera.N	Animal:fly (insect).N	A common insect; any species of insect of the order Diptera.	1504	3-83	Fliege::N	923
 Animal:dragon.N	Animal:dragon.N	A mythical creature typically depicted as a large horned serpent (Asia) or a winged, fire-breathing reptile (Europe), with magical or spiritual qualities.	2038			937
+Animal:dung.N	Animal:dung (animal faeces).N	Animal faeces.	2057	8-99918		
 Animal:Elephantidae.N	Animal:elephant.N	A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw. Elephants are the largest land animals now existing.	1290	3-77		952
 Animal:Equus asinus.N	Animal:donkey.N	A domesticated animal, Equus asinus.	1862	3-46		951
 Animal:Equus ferus caballus.N	Animal:horse.N	A large animal with four legs of the Equus caballus species which people ride on or use for carrying things or pulling vehicles.	615	3-41	Pferd::N	954
@@ -206,6 +207,7 @@ Body:burn.N	Body:burn.N	An injury caused by exposure to heat, fire or chemical a
 Body:burp.V	Action/Technology:burp.V	To release gas from the digestive tract through the mouth.	2789			
 Body:buttock.N	Body:buttocks.N	The fleshy part of the human body that one sits on.	834	4-464		557
 Body:calf of leg.N	Body:calf of leg.N	The fleshy backside of the lower part of the leg.	498	4-352		
+Body:canine tooth.N		One of the pointed teeth behind the incisors and in front of the premolar teeth.		4-99903		
 Body:carcass.N	Body:carcass.N	The body of a dead animal, on which other animals have begun to feed.	1770	4-771		
 Body:cheek.N	Body:cheek.N	The soft skin on each side of the face, between the eyes and the chin; the outer surface of the sides of the oral cavity.	1730	4-208	Wange::N	512
 Body:chest.N	Body:chest.N	The portion of the body from the base of the neck to the top of the abdomen; the thorax.	1592	4-4	Brust::N	504
@@ -218,6 +220,8 @@ Body:close mouth.V	Body:close (mouth).V	To close one's mouth.	3547
 Body:collarbone.N	Body:collarbone.N	Bone linking the scapula and sternum.	1994	4-302		
 Body:corpse.N	Body:corpse.N	A dead body.	767	4-77		
 Body:coughing.N	Action/Technology:cough (act of coughing).N	The act of coughing or the sound of coughing.	3913			
+Body:dribble.N				4-99905		
+Body:dribble.V	Body:dribble.V	To let saliva flow out of one’s mouth onto one’s chin.	268	4-591		
 Body:ear.N	Body:ear.N	The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.	1247	4-22	Ohr::N	514
 Body:earhole.N	Body:earhole.N	The outer opening of the ear.	3891			
 Body:earlobe.N	Body:earlobe.N	The lower fleshy part of the human ear.	18	4-221		
@@ -240,7 +244,7 @@ Body:finger.N	Body:finger.N	One of the long extremities of the hand that is used
 Body:fingernail.N	Body:fingernail.N	The hard, flat, translucent covering near the tip of a human finger, useful for scratching and fine manipulation.	1258	4-344	Fingernagel::N	
 Body:fingertip.N	Body:fingertip.N	The top of the finger.	2773			
 Body:fishbone.N	Body:fishbone.N	Any of the bones forming the skeleton of a fish, especially one of the sharp slender bones attached to the backbone.	3799			
-Body:fist.N	Body:fist.N	The closed hand with the fingers on the palm.	1473			537
+Body:fist.N	Body:fist.N	The closed hand with the fingers on the palm.	1473	4-99906		537
 Body:flesh or meat.N	Body:flesh or meat.N	Either referring to the soft substance of the body of living things (flesh), or to the soft substance in animals as an important source of food for humans.	2615			
 Body:flesh.N	Body:flesh.N	The soft substance in the body of living things.	2259	4-13		577
 Body:foot or leg.N	Body:foot or leg.N	Lower part of the human body which is used for walking.	2098			
@@ -271,7 +275,7 @@ Body:joint.N	Body:joint.N	Any part of the body where two bones join.	999
 Body:kidney.N	Body:kidney.N	An organ in the body that produces urine.	489	4-451		574
 Body:knee.N	Body:knee.N	In man, the joint in the middle part of the leg.	1371	4-36	Knie::N	541
 Body:knuckle.N	Body:knuckle.N	Joints of the fingers brought to prominence when hand is clenched.	2824			
-Body:lap.N	Body:lap.N	The front area from waist to knees, especially when sitting.	3263			
+Body:lap.N	Body:lap.N	The front area from waist to knees, especially when sitting.	3263	4-99907		
 Body:larynx.N	Body:larynx.N	Organ on the upper end of the trachea.	3714			
 Body:lay eggs.V	Action/Technology:lay eggs.V	The process by which birds produce eggs.	2464			
 Body:left hand.N	Body:left hand.N	The left hand of a human.	2182			
@@ -322,7 +326,7 @@ Body:pupil.N	Body:pupil.N	Contractile aperture in iris.	1658
 Body:rest or sleep.V	Action/Technology:rest or sleep.V	Lie down or sleep.	2116			
 Body:rib.N	Body:rib.N	One of the long curved bones which form the rib cage.	801	4-162		
 Body:right hand.N	Body:right hand.N	The right hand of a human.	2183			
-Body:saliva.N	Body:saliva.N	A secretion from the salivary glands (found in the mouth) that can be spat out.	1503			
+Body:saliva.N	Body:saliva.N	A secretion from the salivary glands (found in the mouth) that can be spat out.	1503	4-9991		
 Body:scab.N	Body:scab.N	A hard coating on the skin formed during the wound healing reconstruction phase.	2664			
 Body:scar.N	Body:scar.N	A permanent mark on the skin resulting from a wound.	497	4-858		
 Body:scrotum.N	Body:scrotum.N	Anatomical male reproductive structure.	2834			
@@ -345,6 +349,8 @@ Body:spleen.N	Body:spleen.N	A ductless vascular gland, located in the left upper
 Body:stomach.N	Body:stomach.N	An organ in the body, involved in digestion of food.	819	4-46	Magen::N	581
 Body:sweat.N	Body:sweat (substance).N	A fluid that is secreted by sweat glands in the skin in order to regulate body temperature.	125			567
 Body:sweat.V	Body:sweat (perspire).V	To secrete sweat.	126	4-55		
+Body:swell.A		Swollen.		4-99902		
+Body:swell.N	Body:swelling.N	Abnormal protuberance or localized enlargement.	1903	4-853		
 Body:tail.N	Body:tail.N	The appendage of an animal that is attached to its posterior and near the anus.	1220	4-18	Schwanz::N	594
 Body:tear.N	Emotion:tear (of eye).N	A drop of liquid produced from the eyes by crying or irritation.	1651	16-38	Träne::N	568
 Body:temple.N	Body:temples.N	The region of the skull on either side of the forehead.	1604	4-201		
@@ -361,7 +367,7 @@ Body:tooth.N	Body:tooth.N	A hard, calcareous structure present in the mouth of m
 Body:torso.N	Body:torso.N	The central part of the human body, from which neck and limbs extend.	2667			
 Body:udder.N	Body:udder.N	An organ in female quadruped mammals which consists of mammary glands and has several teats.	154	4-42		
 Body:ulcer.N	Body:ulcer.N	An open sore of the skin, eyes or mucous membrane, often caused by an initial abrasion and generally maintained by an inflammation and/or an infection.	1189			
-Body:umbilical cord.N	Body:umbilical cord.N	A conduit between the developing embryo or fetus and the placenta.	2663			
+Body:umbilical cord.N	Body:umbilical cord.N	A conduit between the developing embryo or fetus and the placenta.	2663	4-99913		
 Body:upper arm.N	Body:upper arm.N	The part of the arm between the shoulder and the elbow.	431			
 Body:upper back.N	Body:upper back.N	The upper part of the back.	445			
 Body:upper leg.N	Body:upper leg (thigh).N	The part of the leg between the pelvis and the knee.	471	4-351	Oberschenkel::N	
@@ -422,7 +428,7 @@ Building:tent.N	Building:tent.N	A portable lodging (usually made from waterproof
 Building:thatch or roof.N	Building:thatch or roof.N	The cover of a house or a hut.	2100			
 Building:thatch.N	Building:thatch.N	Natural roofing material such as straw, reeds, leaves, etc.	279	7-52		
 Building:threshold.N	Building:threshold.N	The bottom-most part of a doorway that one crosses to enter; a sill.	1727			
-Building:tile.N	Building:tile.N	The long-lasting material that is manufactured in multiple pieces and used for covering flat surfaces of a building, such as a roof, walls, or floor.	3404			
+Building:tile.N	Building:tile.N	The long-lasting material that is manufactured in multiple pieces and used for covering flat surfaces of a building, such as a roof, walls, or floor.	3404	7-99906		
 Building:tower.N	Combat/Hunting:tower.N	Structure, usually taller than it is wide, often used as a lookout.	1671	20-36		1591
 Building:wall or barrier.N	Action/Technology:wall.N	A supporting structure for different types of constructions, e.g. houses and huts, or a construction to enclose and separate areas.	3830			
 Building:wall.N	Building:wall.N	The outer structure which encloses a building and supports the roof.	933	7-27		1513
@@ -445,9 +451,10 @@ Clothing:apron.N	Clothing/Grooming:apron.N	A piece of cloth or plastic, worn ove
 Clothing:awl.N	Clothing/Grooming:awl.N	Pointed tool for marking or piercing wood or leather.	278	6-37		
 Clothing:baby sling.N	Clothing/Grooming:baby sling.N	A piece of cloth used for carrying an infant or small child around a carer's body.	3946			
 Clothing:bamboo hat.N	Clothing/Grooming:bamboo hat.N	A hat made of bamboo (斗笠 dǒulì).	2160			
-Clothing:barefoot.A	Clothing/Grooming:barefoot.A	Not wearing anything on the feet.	3737			
+Clothing:barefoot.A	Clothing/Grooming:barefoot.A	Not wearing anything on the feet.	3737	4-99901		
 Clothing:bead.N	Clothing/Grooming:bead.N	A hard, rounded object produced within the soft tissue (specifically the mantle) of a living shelled mollusk.	1860	6-76		
 Clothing:belt.N	Clothing/Grooming:belt.N	A clothing accessory, usually made of leather or heavy cloth, worn around the waist and used to support trousers or other articles of clothing.	772	6-57	Gürtel::N	1441
+Clothing:blouse.N				6-99909		
 Clothing:boot.N	Clothing/Grooming:boot.N	A shoe that covers part of the leg.	585	6-52	Stiefel::N	
 Clothing:boubou.N	Clothing/Grooming:boubou.N	A flowing wide sleeved robe worn by men in much of West Africa, and to a lesser extent in North Africa.	461			
 Clothing:braid.N	Clothing/Grooming:braid.N	A hair style formed by interweaving three or more strands of hair.	1043	6-921		
@@ -511,7 +518,7 @@ Clothing:shorts.N	Clothing:shorts.N	Outer pants extending no lower than knees.		
 Clothing:shuttle.N	Clothing/Grooming:shuttle.N	Device used in weaving to carry the weft, moving continuously to-and-fro.	543			
 Clothing:silk.N	Clothing/Grooming:silk.N	One of the finest textiles, obtained from cocoons of certain species of caterpillars; it is soft, very strong and absorbent and has a brilliant sheen.	1641	6-25		1402
 Clothing:skirt.N	Clothing/Grooming:skirt.N	An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.	1600	6-46		1462
-Clothing:sleeve.N	Clothing/Grooming:sleeve.N	Part of a garment covering the arm.	2953		Ärmel::N	
+Clothing:sleeve.N	Clothing/Grooming:sleeve.N	Part of a garment covering the arm.	2953	6-99908	Ärmel::N	
 Clothing:slipper.N	Clothing:slipper.N	A lightweight shoe worn indoors.				1472
 Clothing:snowshoe.N	Clothing/Grooming:snowshoe.N	Footwear for walking over the snow.	233	6-98		
 Clothing:sock.N	Clothing/Grooming:sock.N	A knitted or woven covering for the foot, reaching no higher than just above the ankle.	1522			1471
@@ -537,7 +544,7 @@ Clothing:uniform.N	Clothing:uniform.N	Special garments worn by members of a grou
 Clothing:veil.N	Clothing/Grooming:veil.N	A head covering.	1151	6-59		1445
 Clothing:vest.N	Clothing/Grooming:vest.N	A piece of clothing for the upper body without sleeves and usually worn over a shirt.	3140			
 Clothing:wear (on head).V	Clothing/Grooming:wear (on head).V	Wear an object for shelter on the head.	3428			
-Clothing:wear.V	Clothing/Grooming:wear.V	Fix clothes on your body and carry them.	976			1425
+Clothing:wear.V	Clothing/Grooming:wear.V	Fix clothes on your body and carry them.	976	6-99911		1425
 Clothing:weave.V	Clothing/Grooming:weave.V	To create a fabric by interlacing threads.	133	6-33		1421
 Clothing:wrapper.N	Clothing/Grooming:wrapper.N	A colorful women's garment widely worn in West Africa.	462			
 Clothing:yarn.N	Clothing/Grooming:yarn.N	Consists of multiple strings of natural or synthetic fibre twisted together in a continuous bulky thread; used in textile production.	3445			
@@ -564,7 +571,7 @@ Communication:email.N		Messages sent and received via computer.
 Communication:forbid.V	Language:forbid.V	To tell not to do something.	83	18-38		
 Communication:gesture.V	Body:gesture.V	gesture 				747
 Communication:goodbye.N	Language:goodbye.N	A conventional expression, used as a farewell when parting.	3554			
-Communication:greet.V	Language:greet.V	To welcome someone; to address someone in a friendly and welcoming way upon meeting them.	3552			
+Communication:greet.V	Language:greet.V	To welcome someone; to address someone in a friendly and welcoming way upon meeting them.	3552	18-99909		
 Communication:hello.N	Language:hello.N	A conventional expression, used as a greeting.	3553			
 Communication:language.N	Language:language.N	A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	1307	18-24	Sprache::N	
 Communication:letter.N	Modernity:letter.N	A text that is written to and for a specific person or set of people (and is most commonly sent to them by post).	1612	23-42	Brief::N	2261
@@ -609,8 +616,8 @@ Element:Ag.N	Action/Technology:silver.N	A very ductile malleable brilliant greyi
 Element:Al.N	Nature:aluminium.N	A metallic chemical element of silver-white colour that occurs mainly in bauxite, with assigned symbol Al and proton number 13.	3385			3329
 Element:Am.N		Americium, the chemical element with atomic number 95 and symbol Am.				
 Element:Ar.N		Argon, the chemical element with atomic number 18 and symbol Ar.				
-Element:As.N		Astatine, the chemical element with atomic number 85 and symbol As.				
 Element:As.N		Arsenic, the chemical element with atomic number 33 and symbol As.				
+Element:As.N		Astatine, the chemical element with atomic number 85 and symbol As.				
 Element:Au.N	Action/Technology:gold.N	A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au.	1369	9-64	Gold::N	3323
 Element:B.N		Boron, the chemical element with atomic number 5 and symbol B.				
 Element:Ba.N		Barium, the chemical element with atomic number 56 and symbol Ba.				
@@ -733,6 +740,8 @@ Family:bride.N	Family:bride.N	A woman who is going to get married or has just go
 Family:brother.N	Family:brother.N	A male person who has the same parents as another person.	1262	2-44	Bruder::N	354
 Family:child-in-law.N	Family:child-in-law.N	The spouse of someone's child.	1060	2-6411		
 Family:child.N	Family:child (descendant).N	Biological offspring.	1801	2-43		
+Family:co-father-in-law.N		The father-in-law of ego’s child.		2-99903		
+Family:co-mother-in-law.N		The mother-in-law of ego’s child.		2-99904		
 Family:co-wife.N	Family:co-wife.N	Another female partner in a polygamous marriage.	3636			
 Family:cousin.N	Family:cousin.N	The child of the sibling of a parent of a person.	1643	2-55		
 Family:daughter.N	Family:daughter.N	An animal's female offspring (including that of a human).	1357	2-42	Tochter::N	352
@@ -741,6 +750,7 @@ Family:divorce.N	Family:divorce.N	Legal dissolution of a marriage.	1134	2-341
 Family:divorce.V	Family:divorce (separate).V	To end one's marriage by a legal process.	3672			
 Family:family name.N	Family:surname.N	The family name of a person.	3426			
 Family:family.N	Family:family.N	A group comprising parents, offsprings and others closely related or associated with them.	194	2-82	Familie::N	320
+Family:father-in-law.N	Family:father-in-law.N	The father of someone's spouse.	1055			
 Family:father.N	Family:father.N	A male parent.	1217	2-35	Vater::N	322
 Family:grandchild.N	Family:grandchild.N	A child of someone’s child.	1617	2-5		
 Family:granddaughter.N	Family:granddaughter.N	A daughter of someone's child.	1619	2-49		
@@ -757,6 +767,7 @@ Family:married man.N	Family:married man.N	A married man.	424	2-38
 Family:married woman.N	Family:married woman.N	A married woman.	426	2-39		
 Family:marry off.V	Family:marry off.V	To force someone to get married, usually a relative.	556			
 Family:marry.V	Family:marry.V	To enter marriage; to take a husband or a wife.	203	2-33		
+Family:mother-in-law.N	Family:mother-in-law.N	The mother of someone's spouse.	1050			
 Family:mother.N	Family:mother.N	A woman who has at least one child.	1216	2-36	Mutter::N	324
 Family:nephew or niece.N	Family:nephew or niece.N	A child of someone's brother or sister.	3890			
 Family:nephew.N	Family:nephew.N	A son of someone's brother or sister.	1063	2-53		
@@ -772,6 +783,7 @@ Family:sibling.N	Family:sibling.N	A person who has the same parents as another p
 Family:sister.N	Family:sister.N	A female person who has the same parents as another person.	1263	2-45	Schwester::N	357
 Family:son.N	Family:son.N	One's male child.	1620	2-41	Sohn::N	350
 Family:spouse.N	Family:spouse.N	One of the partners in a marriage, be they male or female.	2514			
+Family:step-.A				2-99902		
 Family:stepchild.N	Family:stepchild.N	The child of one's spouse and his or her previous partner.	3910			
 Family:stepdaughter.N	Family:stepdaughter.N	The daughter of one's spouse and his or her previous partner.	1058	2-74		
 Family:stepfather.N	Family:stepfather.N	The husband of one's biological mother, other than one's biological father.	237	2-71		
@@ -791,9 +803,13 @@ Food:alcohol.N	Food:alcohol (drink).N	A drink (a liquor or brew) containing etha
 Food:bake.V	Food:bake.V	To cook (something) in an oven, but not in fat, or harden by means of dry heat.	183	5-24	backen::V	3493
 Food:cake.N	Modernity:cake.N	Cake is a form of sweet dessert that is typically baked.	2408			
 Food:candy.N	Modernity:candy.N	Food item that is rich in sugar.	874	23-565		
+Food:dinner.N	Food:dinner (supper).N	A meal that is eaten in the late afternoon or evening daily.	1833	5-44		
 Food:drink.V	Body:drink.V	drink 				721
 Food:fermented alcohol.N	Food:alcohol (fermented drink).N	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	404	5-94		
-Food:Malus domestica.N	Agriculture/Plant:apple.N	The popular, crisp, round fruit of the apple tree, usually with red, yellow or green skin, light-coloured flesh and pips inside.	1320		Apfel::N	
+Food:Ficus carica.N	Food:fig.N	The fruit of the fig tree, pear-shaped and containing many small seeds.	322	5-75		
+Food:flour.N	Food:flour.N	Ground or milled grain or cereal.	1594	5-55		3410
+Food:main meal.N	Food:dinner (main meal).N	The main meal of the day, eaten in the middle of the day or in the evening	3829			
+Food:Malus domestica.N	Agriculture/Plant:apple.N	The popular, crisp, round fruit of the apple tree, usually with red, yellow or green skin, light-coloured flesh and pips inside.	1320	8-99905	Apfel::N	
 Food:Musa acuminata.N	Agriculture/Plant:banana.N	The fruit of the banana tree.	868	8-84		
 Food:Musa balbisiana.N	Agriculture/Plant:plantain.N	A kind of banana that is normally cooked and not eaten raw.	399			
 Food:noodle.N	Food:noodle.N	A string or strip of pasta, especially as used in Chinese and Italian cookery.	973			
@@ -802,6 +818,7 @@ Food:salad.N	Food:salad.N	A food made primarily of a mixture of raw or cold ingr
 Food:sandwich.N	Food:sandwich.N	Foodstuff where pieces of bread serve as the wrapper of some other food.				3461
 Food:sauce.N	Food:sauce.N	A liquid food accompanying a dish.	132			
 Food:sausage.N	Food:sausage.N	A length of intestine, stuffed with ground (organ) meat, and other ingredients. Instead of intestines, a different kind of wrapper can be used.	1874	5-63		3435
+Food:supper.N	Food:supper.N	The last meal of the evening.		5-45		3489
 Food:tea.N	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.	1373	23-9	Tee::N	
 Form:bend (sth).V	Action/Technology:bend (something).V	To carry out a movement to turn something into a curved shape.	2224		biegen::V	
 Form:bend.V	Action/Technology:bend.V	Movement that causes the formation of a curve.	2004	9-14	beugen::V	
@@ -910,7 +927,7 @@ Health:poisonous.A	Body:poisonous.A	That acts like a poison.	888
 Health:rabid.A	Body:rabid.A	Suffering from rabies.	2203			
 Health:rabies.N	Body:rabies.N	A viral disease that causes acute inflammation of the brain in humans and other warm-blooded animals.	2206			
 Health:recover.V	Body:recover.V	To return to health and strength after illness.	1978		genesen::V	
-Health:scabies.N	Body:scabies.N	A contagious skin rash caused by the mite Sarcoptes scabiei.	3172			
+Health:scabies.N	Body:scabies.N	A contagious skin rash caused by the mite Sarcoptes scabiei.	3172	4-99911		
 Health:see a doctor.V	Motion:see a doctor.V	To go to a doctor.	512			
 Health:stethoscope.N	Modernity:stethoscope.N	An acousting medical device for auscultation.	2599			
 Health:tablet.N	Modernity:tablet.N	A pill; a small, easily swallowed portion of a substance.	396			
@@ -924,6 +941,7 @@ House:cradle.N	Modernity:cradle.N	A bed for a baby.	2946		Wiege::N
 House:curtain.N	Modernity:curtain.N	Piece of cloth on a window intended to obscure the interior of a room or to prevent people from looking inside.	2621			1486
 House:door knocker.N	Modernity:door knocker.N	An item at a door that allows people outside a house to alert those inside.	2598			
 House:escalator.N	Modernity:escalator.N	A moving staircase.	2596			
+House:guestroom.N		A room for guests.		7-99904		
 House:kitchen.N	House:kitchen.N	A room equipped for preparing and cooking food.	1365			1535
 House:mattress.N	Modernity:mattress.N	A pad on which a person can recline and sleep.	105	23-53		
 House:pillow.N	House:pillow.N	Cushion placed under the head for sleeping.	1044	7-421	Kissen::N	1343
@@ -939,7 +957,8 @@ Hunting:hunting dog.N	Combat/Hunting:hunting dog.N	A type of canine bred for hun
 Hunting:net fishing.V	Action/Technology:fishing (with a net).V	To hunt for fishes by using a fishnet.	2639			
 Hunting:net.N	Action/Technology:net (for catching).N	A grid-like device used for fishing and sports.	2653			
 Language:book.N	Language:book.N	A collection of leaves of paper, parchment or other material, usually bound or fastened together within covers, containing writing of any type or blank pages for future inscription.	963	18-61	Buch::N	2248
-Law:crime.N	Modernity:crime.N	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public. (Source: BLACK)	1066	23-37		
+Law:commit a crime.V				19-99938		
+Law:crime.N	Modernity:crime.N	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public. (Source: BLACK)	1066	23-37		1654
 Literature:alphabet.N	Communication:alphabet.N	alphabet				2243
 Material:brass.N	Action/Technology:brass.N	The copper-zinc alloy. A yellow-colored metal made of the mixture of copper and zinc and used in the making of decorations and musical instruments.	3743			3321
 Mind:dream.N	Body:dream.N	Successions of images, ideas, emotions, and sensations that occur usually involuntarily in the mind during certain stages of sleep.	2374		Traum::N	662
@@ -977,7 +996,7 @@ Motion:swing (sth).V	Action/Technology:swing (something).V	To set something in s
 Motion:swing.N	Action/Technology:swing.N	Tool used for play with a seat hanging from ropes.	3101			
 Motion:swing.V	Action/Technology:swing (movement).V	To move freely to and fro.	2871		schwingen::V	
 Motion:take a walk.V	Action/Technology:walk (take a walk).V	To wander around.	2890		spazierengehen::V	
-Motion:turn (sth).V	Motion:turn (something).V	To position by moving an object around its axis.	1445		wenden::V	3052
+Motion:turn (sth).V	Motion:turn (something).V	To position by moving an object around its axis.	1445	10-12	wenden::V	3052
 Motion:turn.V	Motion:turn.V	To change the direction of movement or the direction in which something is facing.	1588			3053
 Motion:walk.N	Action/Technology:walk (manner).N	The act of walking, the way one walks.	2979		Gang::N	
 Motion:walking stick.N	Modernity:walking stick.N	An object, specifically for providing support when walking.	1296	19-25		
@@ -1005,6 +1024,8 @@ Music:song.N	Modernity:song.N	A musical piece with lyrics (or words to sing); pr
 Music:tambourine.N	Language:tambourine.N	Musical instrument with round, wooden frame and covered by skin, plastic, etc. with metal discs around the frame.	3141			
 Music:tone.N	Perception:tone (music).N	Traditionally in Western music, a musical tone is a steady periodic sound.	2995		Ton::N	
 Music:whistle instrument.N	Action/Technology:whistle (instrument).N	Wind instrument most often made out of metal or wood used for producing a loud, shrill tone.	3107			
+Nature:flame.N	Nature:flame.N	A bright yellow, red or bluish light which emerges during combustion processes.	889	1-82		
+Nature:flame.V		To be on fire and producing especially bright flames		1-99911		
 Nature:nature.N	Agriculture/Plant:nature.N	The physical world including all living things as well as the land and the seas.	3897			
 Nature:river bed.N	Nature:river bed.N	The channel containing or formerly containing the water of a river.	993			
 Nature:river mouth.N	Nature:river mouth.N	A river mouth or stream mouth is a part of a river where it flows into the sea, river, lake, reservoir or ocean.	1701			
@@ -1058,17 +1079,25 @@ People:young woman.N	Family:young woman.N	A female juvenile between the onset of
 Perception:feel.V	Action/Technology:feel (tactually).V	To sense something by touching its surface.	2559		fühlen::V	880
 Perception:feeling sense.N	Perception:feeling (haptic sense).N	The sense that enables to perceive surfaces of things.	2521			
 Perception:touch.V	Perception:touch.V	To put one's hand on something/someone so that one can feel them. To be in physical contact with.	1892	15-71	berühren::V	750
-Plant:Ananas comosus.N	Agriculture/Plant:pineapple.N	A tropical plant with edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.	2440			
+Plant:Ananas comosus.N	Agriculture/Plant:pineapple.N	A tropical plant with edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.	2440	8-99939		
+Plant:Beta vulgaris saccharifera.N		The sugar beet.		8-99947		
 Plant:Betula.N	Agriculture/Plant:birch.N	A tree of the genus Betula, with small leaves and a trunk that is white with darker blotches.	1855	8-63	Birke::N	
 Plant:bran.N	Agriculture/Plant:bran.N	The hard outer layers of cereal grain. It consists of the combined aleurone and pericarp.	2362			
 Plant:branch or twig.N	Agriculture/Plant:branch or twig.N	A woody part of a tree arising from the trunk or from another branch.	3223	8-55		
 Plant:branch.N	Agriculture/Plant:branch.N	A woody part of a tree arising from the trunk and usually dividing.	1531		Ast::N	
+Plant:Brassica oleracea gongylodes.N		A variety of the cabbage, having a turnip-shaped edible stem. 		8-99924		
+Plant:Bromeliaceae.N		Any of various tropical or subtropical New World herbaceous plants in the family Bromeliaceae.		8-99909		
 Plant:bud.N	Agriculture/Plant:bud.N	A bud is an undeveloped or embryonic shoot and normally occurs in the axil of a leaf or at the tip of the stem.	1684			1021
 Plant:bulb.N	Agriculture/Plant:bulb.N	A bulb is the part of some plants that stores food while the plant is resting from growing.	2617			
 Plant:Colocasia esculenta.N	Agriculture/Plant:taro.N	Colocasia esculenta, raised as a food primarily for its corm, which distantly resembles potato.	351			
+Plant:coniferous.N		The type of tree that bears cones.		8-99914		
+Plant:Ficus carica.N	Plant:fig.N	fig (tree/fruit of genus Ficus)		5-99901		1034
+Plant:Fraxinus.N		The ash tree, a tree that has compound leaves and a tough, flexible wood.		8-99906		
 Plant:Gossypium.N	Plant:cotton.N	Plant of genus Gossypium whose fibers are used for making cloth.				
 Plant:leaf spine.N	Agriculture/Plant:leaf spine.N	A hard, rigid extension of leaves with sharp, stiff ends.	2803			
 Plant:leaf.N	Agriculture/Plant:leaf.N	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	628	8-56	Blatt::N	
+Plant:Lupin.N		Any plant of the genus Lupin; bearing erect spikes of usually purplish-blue flowers.		8-99927		
+Plant:needle.N	Agriculture/Plant:needle tree.N	A needle of coniferous tree.	286	8-993		
 Plant:plant.N	Agriculture/Plant:plant (vegetation).N	Any living organism that synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion.	653	8-53		1000
 Plant:Prunus armeniaca.N	Agriculture/Plant:apricot tree.N	A tree that bears the apricot fruit.	2357			
 Plant:Prunus salicina.N	Agriculture/Plant:chinese plum.N	An Asian tree species classified in the Armeniaca section of the genus Prunus subgenus Prunus.	2356			
@@ -1086,11 +1115,13 @@ Plant:tree trunk.N	Agriculture/Plant:tree trunk.N	The main structural member of 
 Plant:tree.N	Agriculture/Plant:tree.N	Any large woody perennial plant with a distinct trunk giving rise to branches or leaves at some distance from the ground.	906	8-6	Baum::N	
 Plant:treetop.N	Agriculture/Plant:treetop.N	The uppermost part of a tree; crown.	3036			
 Plant:twig.N	Agriculture/Plant:twig.N	A branch that doesn't arise from the trunk but from another branch.	3222		Zweig::N	
+Plant:Vaccinium mortinia.N		Vaccinium mortinia, a dark red berry.		8-99917		
 Plant:vine.N	Agriculture/Plant:vine.N	A climbing plant which grows up or over things. This also includes types which do not produce grapes.	343	8-67		
 Possession:abandon.V	Motion:abandon.V	To give up control of, to surrender something.	1097		verlassen::V	
 Possession:beg.V	Language:beg.V	To make a living by asking people for money or food.	3534			
-Possession:exchange.V	Action/Technology:exchange.V	To hand out one thing while receiving another thing or to replace one thing with another.	2509			
+Possession:exchange.V	Action/Technology:exchange.V	To hand out one thing while receiving another thing or to replace one thing with another.	2509	13-99908		
 Possession:gift.N	Action/Technology:gift.N	A gift or a present is an item given to someone without the expectation of payment or return.	2982		Geschenk::N	
+Possession:possessions.N	Possession:possessions.N	The totality of things that someone owns; their property or belongings.	3860	11-99904		
 Possession:rob.V	Action/Technology:rob (verb).V	To illegally take something from, especially using force or violence.	2073			
 Quantity:0.NUM	Quantity:zero.NUM	The integer zero (0).	1294	13		2500
 Quantity:1.NUM	Quantity:one.NUM	The natural number one (1).	1493	13-01	eins::NUM	2501
@@ -1255,6 +1286,7 @@ Quantity:decrease.V	Action/Technology:decrease.V	To become smaller in number or 
 Quantity:increase.V	Action/Technology:increase.V	(Of a quantity) to become bigger.	1041		zunehmen::V	
 Society:help.N	Society:help.N	The act of helping someone.	3467		Hilfe::N	
 Society:help.V	Society:help.V	To give assistance or aid to.	1897	19-58		2155
+Society:lover.N				2-99908		
 Sound:be silent.V	Language:be silent.V	To stop speaking or making noise.	48	18-23		
 Sound:bell.N	Action/Technology:bell.N	A simple sound-making device.	2246			
 Sound:chime.V	Modernity:chime (action).V	To ring the bells.	2897		läuten::V	
@@ -1506,7 +1538,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Action/Technology:mold (get rotten).N	Discoloration and food caused by fungal species.	3251			
 	Action/Technology:mold.V	To create something, usually for a specific function.	289	9-72		
 	Action/Technology:mop (something).V	To clean or wipe up by using cloth or a mop.	3120			
-	Action/Technology:mosquito net.N	A web that keeps mosquitos away.	2795			
+	Action/Technology:mosquito net.N	A web that keeps mosquitos away.	2795	7-99905		
 	Action/Technology:move away.V	To change one's domicile or place of business.	229			
 	Action/Technology:must.V	To be required to do something.	971			
 	Action/Technology:net.N	A grid-like device or object.	2963		Netz::N	
@@ -1667,8 +1699,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Agriculture/Plant:bush.N	A plant resembling a small tree, but has no, and will never develop, a stem.	1683			
 	Agriculture/Plant:cactus.N	A mamber of the plant family Cactaceae.	2595			
 	Agriculture/Plant:calabash.N	(Not to confuse with gourd) a plant from the family Bignoniaceae, native to tropical America. It has a form of a small tree, producing fruit of the globular shape. It is also known under the name of Crescentia cujete and its fruits are mostly used to make utensils, containers, and musical instruments.	3918			
-	Agriculture/Plant:carrot.N	Domesticated root vegetable usually orange or red in colour.	3085			
-	Agriculture/Plant:cashew.N	A tropical evergreen tree that produces the cashew seed and the cashew apple.	2441			
+	Agriculture/Plant:carrot.N	Domesticated root vegetable usually orange or red in colour.	3085	8-9991		
+	Agriculture/Plant:cashew.N	A tropical evergreen tree that produces the cashew seed and the cashew apple.	2441	8-99911		
 	Agriculture/Plant:cassava.N	Shrub (Manihot esculenta) whose roots are rich in starch.	925	8-92		
 	Agriculture/Plant:cecropia.N	Common designation of several species of the Cecropia genus (genus Cecropia)	3931			
 	Agriculture/Plant:chaff (husk).N	The outer shell or coating of a seed.	2363			
@@ -1751,7 +1783,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Agriculture/Plant:lasso.N	A long rope with a sliding loop on one end, generally used in ranching to catch cattle and horses.	340	8-29		
 	Agriculture/Plant:lemon.N	Fruit with yellow rind and acidic/sour juice.	3091			
 	Agriculture/Plant:lentils.N	A small seed that is dried and used in cooking.	3330			
-	Agriculture/Plant:liana.N	A liana is any of various long-stemmed, woody vines that are rooted in the soil at ground level and use trees, as well as other means of vertical support, to climb up to the canopy to get access to well-lit areas of the fores .	2388			
+	Agriculture/Plant:liana.N	A liana is any of various long-stemmed, woody vines that are rooted in the soil at ground level and use trees, as well as other means of vertical support, to climb up to the canopy to get access to well-lit areas of the fores .	2388	8-99925		
 	Agriculture/Plant:liber (inner bark).N	The inner most layer of bark (particularly from a tree).	3950			
 	Agriculture/Plant:lime (fruit).N	A green citrus fruit.	982			
 	Agriculture/Plant:lontar palm.N	Species of the genus Borassus of fan palms.	3030			
@@ -1761,11 +1793,11 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Agriculture/Plant:mandarine.N	A small citrus tree with fruit resembling other oranges. Mandarin oranges are usually eaten plain or in fruit salads.	2367			
 	Agriculture/Plant:mango.N	The fruit from the Mango tree.	2398			
 	Agriculture/Plant:mangrove.N	Any of various tropical evergreen trees or shrubs that grow in shallow coastal water; Plants of the Rhizophoraceae family and/or of the genus Rhizophora.	350			
-	Agriculture/Plant:manioc flour.N	Flour made of the cassava plant or root.	324			
+	Agriculture/Plant:manioc flour.N	Flour made of the cassava plant or root.	324	5-99909		
 	Agriculture/Plant:manioc.N	Shrub (Manihot esculenta) whose roots are rich in starch.	927			
 	Agriculture/Plant:manzanita.N	Species of the genus Arctostaphylos; evergreen shrubs or small trees present in the chaparral biome of western North America.	520			
 	Agriculture/Plant:maple tree.N	A group of trees belonging to the genus acer.	3248			
-	Agriculture/Plant:melon.N	A fruit of any of the species from the family Cucurbitaceae that has relatively hard inedible shells and plenty of sweet flesh. The fruits may vary in size but is usually not smaller than one decimeter in diameter.	507			
+	Agriculture/Plant:melon.N	A fruit of any of the species from the family Cucurbitaceae that has relatively hard inedible shells and plenty of sweet flesh. The fruits may vary in size but is usually not smaller than one decimeter in diameter.	507	8-99932		
 	Agriculture/Plant:millet.N	A group of small-seeded species of cereal crops, widely grown around the world for food and fodder.	931	8-911		
 	Agriculture/Plant:miriti palm.N	Mauritia flexuosa, a palm tree of the family Arecaceae, common to tropical regions of South America.	3811			
 	Agriculture/Plant:moringa tree.N	Species of the genus Moringa, widely cultivated in tropical and subtropical areas and used in herbal medicine.	3031			
@@ -1774,12 +1806,11 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Agriculture/Plant:muer (fungus).N	An ear-shaped edible fungus that belongs to the species of Auriculariaceae and is used in medicine and culinary.	3392			
 	Agriculture/Plant:mugwort.N	A common name for several species of aromatic plants in the genus Artemisia.	2361			
 	Agriculture/Plant:mushroom.N	An organism belonging to a family of Basidiomycetes that are characterized by the production of spores on gills.	641	8-98	Pilz::N	
-	Agriculture/Plant:needle tree.N	A needle of coniferous tree.	286	8-993		
 	Agriculture/Plant:nettle.N	Any of numerous plants having stinging hairs that cause skin irritation on contact (especially of the genus Urtica or family Urticaceae). [B:33]	33	8-97		
 	Agriculture/Plant:oak.N	Any tree of the genus Quercus in the order Fagales, characterized by simple, usually lobed leaves, scaly winter buds, a star-shaped pith, and its fruit, the acorn, which is a nut; the wood is tough, hard, and durable, generally having a distinct pattern.	644	8-61		
 	Agriculture/Plant:oat.N	A species of grass (Avena sativa) grown for its seed.	60	8-46		
 	Agriculture/Plant:okra.N	A flowering plant in the mallow (Malvaceae) family valued for its edible pods; okro, ochro; ladies' fingers.	1737			
-	Agriculture/Plant:onion.N	A vegetable and is the most widely cultivated species of the genus Allium.	2366		Zwiebel::N	
+	Agriculture/Plant:onion.N	A vegetable and is the most widely cultivated species of the genus Allium.	2366	8-99935	Zwiebel::N	
 	Agriculture/Plant:orange (fruit).N	A fruit of the citrus species citrus x sinensis.	2627			
 	Agriculture/Plant:osmanthus fragrans.N	A small tree species native to Asia from the Himalayas through southern China.	2747			
 	Agriculture/Plant:palm tree.N	Any of various evergreen trees from the family Palmae or Arecaceae, which are mainly found in the tropics.	1181	8-81		
@@ -1789,9 +1820,9 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Agriculture/Plant:peach tree.N	The tree that bears peaches as fruits.	2358			
 	Agriculture/Plant:peach.N	The soft, sweet, juicy fruit of the peach tree, usually with a red or orange skin, yellow flesh and a large stone inside.	2043			
 	Agriculture/Plant:peanut.N	A species in the family Fabaceae (commonly known as the bean, pea or legume family).	2364			
-	Agriculture/Plant:pear.N	A fruit produced by the pear tree.	922			
+	Agriculture/Plant:pear.N	A fruit produced by the pear tree.	922	8-99938		
 	Agriculture/Plant:persimmon.N	Edible fruit of a number of species of trees of the genus Diospyros in the ebony wood family.	2044			
-	Agriculture/Plant:pine.N	Evergreen coniferous tree of the genus Pinus.	1740	8-64	Kiefer[Baum]::N	
+	Agriculture/Plant:pine.N	Evergreen coniferous tree of the genus Pinus.	1740	8-64	Kiefer[Baum]::N	1045
 	Agriculture/Plant:pipe.N	A device consisting of a mouthpiece, a long pipe stem and a pipe bowl, that is used to smoke tobacco.	1124	8-691		
 	Agriculture/Plant:plant (something).V	To put a plant in the ground so that it strikes root and grows.	1486	8-531		
 	Agriculture/Plant:plantago.N	A plant of the genus Plantago, with a rosette of sessile leaves about 10 cm long with a narrow part instead of a petiole, and with a spike inflorescence with the flower spacing varying widely among the species.	3221			
@@ -1898,7 +1929,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Animal:carp (fish).N	Oily freshwater fish from the family Cyprinidae.	2685			
 	Animal:cassowary.N	A big flightless bird native to tropical forests of New Guinea, nearby islands and northeastern Australia.	466			
 	Animal:castrated boar.N	A castrated male pig.	2565			
-	Animal:caterpillar.N	The larvae of members of the order Lepidoptera (the insect order comprising butterflies and moths).	2247			911
+	Animal:caterpillar.N	The larvae of members of the order Lepidoptera (the insect order comprising butterflies and moths).	2247	3-99911		911
 	Animal:catfish.N	Any of ray-finned fish with long stiff barbels, resembling a cat's whiskers. There are diverse types of catfish, ranging in size and appearance and inhabiting mostly freshwater environments.	3777			
 	Animal:cebus monkey.N	A Central and South American monkey, Cebus capucinus, having a prehensile tail and hair on the head resembling a cowl.	439			
 	Animal:centipede.N	Any of various flattened, wormlike arthropods of the class Chilopoda, whose bodies are divided into many segments, each with one pair of legs.	1974	3-814		
@@ -1939,7 +1970,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Animal:dragonfly.N	Predatory insect of the order Odonata.	2352			
 	Animal:drive (cattle).V	Cause animals to move while following them.	2868		treiben::V	
 	Animal:duiker.N	Any of several ruminants of the family Bovidae, chiefly of Africa and Asia, having permanent, hollow, unbranched horns.	1872			
-	Animal:dung (animal faeces).N	Animal faeces.	2057			
 	Animal:eagle or hawk.N	Large carnivorous bird with a hooked bill and good vision.	2683			
 	Animal:eagle.N	Any of several large carnivorous birds in the family Accipitridae, having a powerful hooked bill and keen vision.	1905	3-584	Adler::N	
 	Animal:earthworm.N	A tube-shaped, segmented worm found in the phylum Annelida.	2350			
@@ -2043,7 +2073,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Animal:mallard.N	A member of the Anatidae family, common in large parts of the world and native to the northern hemisphere.	3610			
 	Animal:mammal.N	mammal				907
 	Animal:mare.N	An adult female horse.	938	3-44		
-	Animal:marmot.N	A rodent of the genera Marmota.	3719			
+	Animal:marmot.N	A rodent of the genera Marmota.	3719	3-99936		
 	Animal:marten.N	A mammal of the family Mustelidae in the genus Martes, inhabiting the forests of the Northern Hemisphere, having a long, slender body, a bushy tail and short legs and also known for its thick, valuable fur.	3739			
 	Animal:meerkat.N	Southern African animal known for its long tail and often seen standing up on its back legs.	3148			
 	Animal:microbe.N	microbe				902
@@ -2210,7 +2240,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Art:novel.N	novel				2344
 	Art:painting.N	painting				2312
 	Art:play.N	play (performed by actors on stage), drama				2346
-	Art:poem.N	poem				2340
+	Art:poem.N	poem		18-99904		2340
 	Art:story.N	story				2343
 	Art:television programme.N	television programme, TV show				2348
 	Behavior:agree.V	agree 				2150
@@ -2254,7 +2284,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Behavior:serious.A	serious, earnest, grave 				2106
 	Behavior:serve.V	serve (provide service to) 				2137
 	Behavior:shame.N	shame				2104
-	Behavior:support.V	support 				2157
+	Behavior:support.V	support 		9-99938		2157
 	Behavior:surprise.V	surprise, startle 				2138
 	Behavior:tempt.V	tempt 				2139
 	Behavior:tendency.N	tendency, propensity, inclination				2140
@@ -2330,11 +2360,10 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Body:death.N	The end of life.	910		Tod::N	
 	Body:dentist.N	A person who is medically trained and licensed to practice the prevention, diagnosis, and treatment of diseases, injuries, and malformations of the teeth, jaws, and mouth.	3876			
 	Body:diarrhea.N	A condition in which the sufferer has frequent and watery bowel movements.	1177			
-	Body:die.V	To cease to live.	1494	4-75	sterben::V	
 	Body:die.V	die 				626
-	Body:dribble.V	To let saliva flow out of one’s mouth onto one’s chin.	268	4-591		
-	Body:drown.V	To be suffocated in water or other fluid; to perish by suffocation in water.	1904	4-751		
+	Body:die.V	To cease to live.	1494	4-75	sterben::V	
 	Body:drown.V	drown (die/kill via immersion) 				791
+	Body:drown.V	To be suffocated in water or other fluid; to perish by suffocation in water.	1904	4-751		
 	Body:drowned.A	To have perished by suffocation in water.	3187			
 	Body:drunk.A	Being in a temporary state in which one's physical and mental faculties are impaired due to excessive consumption of alcohol.	1463	4-98		652
 	Body:dumb.A	Unable to speak; lacking power of speech.	1492			
@@ -2369,13 +2398,13 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Body:injure.V	To cause physical harm to a living creature.	44	11-28		
 	Body:instep.N	The arched part of the human foot between the ankle and the toes.	3736			
 	Body:iris.N	iris (of eye)				516
-	Body:itch (cause itching or feel itchy).V	To have an unpleasant sensation on the skin that provokes the need to scratch; to be the cause of this sensation.	3855			
+	Body:itch (cause itching or feel itchy).V	To have an unpleasant sensation on the skin that provokes the need to scratch; to be the cause of this sensation.	3855	4-99914		
 	Body:itch or itchy or itching.?	To have an unpleasant sensation on the skin that provokes the need to scratch or to be the cause of this sensation; the result of itching, i.e. an unpleasant sensation on the skin, or the property of having or producing such a sensation.	3856			
 	Body:itch.N	An unpleasant sensation on the skin that provokes the desire to scratch.	148	4-854		
 	Body:jump.V	jump, leap 				703
 	Body:kick.V	kick 				754
-	Body:kill.V	To put to death; to end a life.	1417	4-76	töten::V	
 	Body:kill.V	kill 				627
+	Body:kill.V	To put to death; to end a life.	1417	4-76	töten::V	
 	Body:kiss.V	kiss 				761
 	Body:lame.A	Moving with pain or difficulty on account of injury, defect or temporary obstruction of a function.	320	4-94		
 	Body:laugh.V	laugh 				743
@@ -2385,8 +2414,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Body:lie.V	lie (recline horizontally) 				737
 	Body:life.N	The time between birth or conception and death.	210	4-741	Leben::N	
 	Body:little finger.N	The smallest of the five fingers.	2774			
-	Body:live.V	To be alive; to have a life.	2309			
 	Body:live.V	live (be alive) 				621
+	Body:live.V	To be alive; to have a life.	2309			
 	Body:living.A	Being alive.	3000			
 	Body:long hair.N	Hair that is not cut.	444			
 	Body:mute person.N	A person that is not able to speak.	2320			
@@ -2410,12 +2439,12 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Body:sex.N	sex (male or female status), gender				610
 	Body:shave.V	shave (scrape off beard-hairs with a blade) 				771
 	Body:shiver.V	To shake nervously, as if from fear.	52	4-68	zittern::V	
-	Body:sick.A	Whose health is altered.	1847	4-84	krank::A	
 	Body:sick.A	sick, ill 				631
+	Body:sick.A	Whose health is altered.	1847	4-84	krank::A	
 	Body:sit.V	sit (be in a sitting position) 				733
 	Body:skinny.A	skinny, thin (bodily) 				641
-	Body:sleep.V	To rest in a state of decreased consciousness and reduced metabolism.	1585	4-61	schlafen::V	
 	Body:sleep.V	sleep 				660
+	Body:sleep.V	To rest in a state of decreased consciousness and reduced metabolism.	1585	4-61	schlafen::V	
 	Body:sleepy.A	Feeling tired and willing to go to sleep.	3620			
 	Body:smile.V	smile 				744
 	Body:snore.V	To make a noise during sleep by vibration of soft respiratory tissues (soft palate, base of the tongue and pharyngeal walls), particularly during inhalation.	1983	4-612		
@@ -2427,12 +2456,11 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Body:starve.V	starve (die from lack of food) 				792
 	Body:sting.V	To hurt, usually by introducing poison or a sharp point, or both.	571		stechen::V	
 	Body:stinger.N	The pointed stinging organ of an animal, usually an insect, which is able to penetrate skin. Sometimes used to inject poison.	3798			
-	Body:strength.N	Muscular capacity to modify the speed of an external physical object, to deform it or to oppose another force.	202		Stärke::N	
+	Body:strength.N	Muscular capacity to modify the speed of an external physical object, to deform it or to oppose another force.	202	4-99912	Stärke::N	
 	Body:strong.A	Capable of producing great physical force.	785	4-81	stark::A	
 	Body:suffer.V	To physically feel a damage, a pain, a disease or a punishment.	1101			
 	Body:sunbathe.V	Sit or lie in the sun in order to tan the skin.	3131			
 	Body:swallow.V	swallow 				724
-	Body:swelling.N	Abnormal protuberance or localized enlargement.	1903	4-853		
 	Body:swim.V	swim 				706
 	Body:throw.V	throw 				753
 	Body:tickle (somebody).V	To move your fingers lightly on a sensitive part of somebody's body to make them feel uncomfortable and cause them to laugh.	3647			
@@ -2548,7 +2576,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Cognition:decide.V	To reach, make, or come to a decision about something.	685			
 	Cognition:detect.V	To notice or recognize something that is not particularly obvious.	3895			
 	Cognition:difficult.A	Not easy, which needs hard work, patience and effort of either the physical or mental kind.	584	17-47		
-	Cognition:doubt (something).V	Be unsure about the truth or accuracy of a matter.	3536			
+	Cognition:doubt (something).V	Be unsure about the truth or accuracy of a matter.	3536	17-99907		
 	Cognition:doubt.N	Uncertainty about the truth or accuracy of a matter.	1308	17-43		
 	Cognition:easy.A	Requiring little skill or effort; posing no difficulty.	686	17-46		
 	Cognition:effect.N	The manifestation of the particular influence of a given action on something.	3968			
@@ -2869,8 +2897,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Emotion:amazing.A	Causing great surprise or sudden wonder.	1863			
 	Emotion:amusement.N	A feeling caused by doing or watching something entertaining or funny.	3850			
 	Emotion:anger.N	Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).	82	16-42		
-	Emotion:angry.A	Irritated, in a temper, feeling or displaying anger.	1826			
 	Emotion:angry.A	angry 				2064
+	Emotion:angry.A	Irritated, in a temper, feeling or displaying anger.	1826			
 	Emotion:anxiety.N	An unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath.	1000	16-33		
 	Emotion:anxious.A	To feel uneasiness of mind caused by anxiety.	3869			
 	Emotion:ashamed.A	Feeling shame or guilt.	1894			
@@ -2884,11 +2912,11 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Emotion:become angry.V	To turn into an angry mental state.	2215			
 	Emotion:blame (somebody).V	To hold somebody responsible for something.	2716			
 	Emotion:blame.N	Accusation for something negative or undesirable.	381	16-78		
-	Emotion:boring.A	Causing boredom.	905			
 	Emotion:boring.A	boring, tedious 				2065
+	Emotion:boring.A	Causing boredom.	905			
 	Emotion:bother (harass).V	To annoy persistently.	2869		belästigen::V	
-	Emotion:brave.A	Having or characterized by courage.	3	16-52		
 	Emotion:brave.A	brave 				2071
+	Emotion:brave.A	Having or characterized by courage.	3	16-52		
 	Emotion:calm.A	calm, tranquil 				2062
 	Emotion:care.N	care, concern (about someone / something)				2066
 	Emotion:carp.V	To complain or find fault in a petty or disagreeable way.	2193		schimpfen::V	
@@ -2903,8 +2931,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Emotion:courage.N	A state or quality of mind that enables to face danger and fear; bravery.	3049			
 	Emotion:courage.N	courage				2070
 	Emotion:coward.N	A person who lacks courage.	1319			
-	Emotion:cowardly.A	Not being brave or courageous; an attribute describing someone who is easily frightened or disheartened in the face of difficulty or danger.	3812			
 	Emotion:cowardly.A	cowardly 				2072
+	Emotion:cowardly.A	Not being brave or courageous; an attribute describing someone who is easily frightened or disheartened in the face of difficulty or danger.	3812			
 	Emotion:cruel.A	Indifference towards the suffering of another and even deriving a positive feeling from it.	500			
 	Emotion:cry.V	To shed tears due to the impact of an emotion.	1839	16-37	weinen::V	
 	Emotion:cunning person.N	A smart and witty person.	2079			
@@ -2957,16 +2985,16 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Emotion:groan.V	To utter a low, guttural sound of frustration.	716	16-39	stöhnen::V	
 	Emotion:handsome.A	Used to describe a person that is attractive and pleasing in appearance.	3814			
 	Emotion:happiness.N	In philosophy, happiness translates the Greek concept of eudaimonia, and refers to the good life, or flourishing, rather than simply an emotion.	2941		Glück::N	
-	Emotion:happy.A	Having a feeling of satisfaction, enjoyment or well-being, often arising from a positive situation or set of circumstances.	1495	16-23		
 	Emotion:happy.A	happy 				2080
+	Emotion:happy.A	Having a feeling of satisfaction, enjoyment or well-being, often arising from a positive situation or set of circumstances.	1495	16-23		
 	Emotion:hate (loathing).N	A strong feeling of dislike for something or somebody.	3749			
-	Emotion:hate.V	To dislike intensely; to feel strong hostility towards.	1607	16-41		
 	Emotion:hate.V	hate 				2068
+	Emotion:hate.V	To dislike intensely; to feel strong hostility towards.	1607	16-41		
 	Emotion:honest.A	Not disposed to cheat or defraud.	1120			
 	Emotion:hope (faith).N	The belief in the possibility that something one wants will happen.	3211			
 	Emotion:hope (something).V	To want something to happen.	3212	16-63		
-	Emotion:hope.V	To want something to happen or the belief in the possibility that something one wants will happen.	1092			
 	Emotion:hope.V	hope 				2075
+	Emotion:hope.V	To want something to happen or the belief in the possibility that something one wants will happen.	1092			
 	Emotion:hostility.N	An aversion, feeling of rivalry, or aggressiveness experienced by an individual or group towards another.	3955			
 	Emotion:impatient.A	Becoming irritable in difficult situations or during long waiting times.	3885			
 	Emotion:important.A	Having relevant and crucial value.	1285			
@@ -2991,8 +3019,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Emotion:long (for something).V	To have a very strong desire for something.	3473			
 	Emotion:longing (wish).N	The strong desire for something.	2960		Lust::N	
 	Emotion:love (affection).N	A feeling of affection and fondness for someone.	3834			
-	Emotion:love.V	To have an intense feeling of affection and care towards another person.	923	16-27	lieben::V	
 	Emotion:love.V	love 				2067
+	Emotion:love.V	To have an intense feeling of affection and care towards another person.	923	16-27	lieben::V	
 	Emotion:lovely.A	Beautiful especially in a pleasing or charming way.	2233			
 	Emotion:make angry (annoy).V	To cause somebody to be annoyed.	2892		ärgern::V	
 	Emotion:merry.A	In good spirits.	1976		lustig::A	
@@ -3016,8 +3044,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Emotion:pride.N	An emotional state of being proud.	3915			
 	Emotion:proud.A	Feeling greatly pleased, or satisfied by something or someone that is highly honorable or creditable to oneself.	174	16-48		
 	Emotion:reason.N	Reason is the capacity for consciously making sense of things, applying logic, establishing and verifying facts, and changing or justifying practices, institutions, and beliefs based on new or existing information.	2968		Grund::N	
-	Emotion:regret.V	To wish that a past event had not happened.	1875	16-34		
 	Emotion:regret.V	regret 				2079
+	Emotion:regret.V	To wish that a past event had not happened.	1875	16-34		
 	Emotion:rejoice.V	To feel joyful; be delighted.	2192			
 	Emotion:respect (noun).N	An attitude of admiration or esteem.	1912			
 	Emotion:respect (somebody).V	To have respect for someone or something; to have regard for something, to observe a custom, practice, rule or right.	385			
@@ -3063,7 +3091,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Event:certain.A	certain, sure 				3910
 	Event:chance.N	chance, randomicity, luck				3902
 	Event:civilization.N	civilization				3980
-	Event:condition.N	condition, state, status				3906
+	Event:condition.N	condition, state, status		17-99905		3906
 	Event:create.V	create, make (bring into existence) 				3950
 	Event:danger.N	danger (situation in which harm is probable)				3916
 	Event:destroy.V	destroy (contra-create; cause to cease existing) 				3951
@@ -3129,7 +3157,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Family:father (of a woman).N	A male parent of a woman.	3905			
 	Family:father-in-law (of man).N	The father-in-law of a man.	2255	2-61		
 	Family:father-in-law (of woman).N	The father-in-law of a woman.	2254	2-611		
-	Family:father-in-law.N	The father of someone's spouse.	1055			
 	Family:father's sister.N	The sister of one's father.	170			
 	Family:female cousin.N	The female child of the sibling of a parent of a person.	3823			
 	Family:female person or mother.N	A human belonging to the female sex or a woman who has at least one child.	2800			
@@ -3165,7 +3192,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Family:mother (of a woman).N	A female parent of a woman.	3907			
 	Family:mother-in-law (of man).N	The mother-in-law of a man.	2257	2-62		
 	Family:mother-in-law (of woman).N	The mother-in-law of a woman.	2256	2-621		
-	Family:mother-in-law.N	The mother of someone's spouse.	1050			
 	Family:mother's brother.N	The brother of someone’s mother.	1984			
 	Family:mother's sister.N	The sister of one's mother.	171			
 	Family:older brother (of man).N	The older brother of a man.	2414			
@@ -3253,14 +3279,14 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Food:bread.N	A common food made mainly from flour, water and yeast and produced by kneading and baking a dough.	1368	5-51	Brot::N	
 	Food:bread.N	bread				3415
 	Food:breadfruit.N	A species of flowering tree in the mulberry family, Moraceae originating in the South Pacific and that was eventually spread to the rest of Oceania.	2371			
-	Food:breakfast.N	The first meal of the day, usually eaten in the morning.	1322	5-42		
 	Food:breakfast.N	breakfast				3485
-	Food:broccoli.N	A plant of the cabbage family, Brassicaceae, which is shaped like a tree.	3726			
+	Food:breakfast.N	The first meal of the day, usually eaten in the morning.	1322	5-42		
+	Food:broccoli.N	A plant of the cabbage family, Brassicaceae, which is shaped like a tree.	3726	8-99908		
 	Food:brown sugar.N	Unrefined natural sugar that owes its brown colour and softer consistency to the preservation of molasses.	3440			
 	Food:bunch.N	A group of things fastened or growing together.	1966	5-712		
 	Food:butter.N	A soft, fatty foodstuff that is made by churning the cream of milk (most often cows milk).	1245	5-89	Butter::N	
 	Food:butter.N	butter				3441
-	Food:cabbage.N	An edible plant, Brassica oleracea, with many varieties.	774			
+	Food:cabbage.N	An edible plant, Brassica oleracea, with many varieties.	774	5-99908		
 	Food:cauliflower.N	One of several vegetables in the species Brassica oleracea in the genus Brassica.	2843			
 	Food:celery.N	A vegetable with a long greenish stalk of the carrot family.	3727			
 	Food:cheese.N	A curdled or cultured milk product.	1569	5-88		
@@ -3292,16 +3318,13 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Food:cooked corn.N	Boiled corn.	3027			
 	Food:cooked rice.N	Boiled rice.	1191			
 	Food:cooked.A	Contrasting with 'raw'.	269	5-121		
-	Food:cookie.N	cookie				3427
+	Food:cookie.N	cookie		5-99906		3427
 	Food:cooking pot.N	A vessel, usually with a rounded body, used to cook food.	3653			
 	Food:courgette.N	A long green marrow of Cucurbita pepo.	3728			
 	Food:cow milk.N	The milk of cows.	3911			
 	Food:crush.V	To tighten (something) so strongly that it loses the form and the original consistency.	1520			
 	Food:cup.N	A concave vessel for holding liquid, generally adorned with either a handle or a stem.	476	5-35	Tasse::N	
 	Food:cut nut.N	A fruit from an evergreen fruit-bearing tropical tree. [L: http://fruitandnuttrees.com/]	2370			
-	Food:dinner (main meal).N	Describing the main meal of the day.	3829			
-	Food:dinner (supper).N	A meal that is eaten in the late afternoon or evening daily.	1833	5-44		
-	Food:dinner.N	dinner				3489
 	Food:dish.N	Any kind of vessel for holding or serving meals.	481	5-31	Geschirr::N	
 	Food:dough.N	A mixture of flour and water ready to be baked into bread, pastry etc.	273	5-53		
 	Food:draw milk.V	To draw milk from (a mammal, especially a cow).	93	5-87	melken::V	
@@ -3315,17 +3338,14 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Food:fat (oily).A	To contain a lot of fat or oil.	2719			
 	Food:fat meat.N	Any animal meat with a higher fat content.	3436			
 	Food:feed.V	To give food.	739		füttern::V	
-	Food:fig.N	The fruit of the fig tree, pear-shaped and containing many small seeds.	322	5-75		
-	Food:flour.N	Ground or milled grain or cereal.	1594	5-55		
-	Food:flour.N	flour (grain-powder)				3410
 	Food:fodder.N	Feed for livestock, especially chopped hay or straw.	3046			
 	Food:food.N	A substance that can be ingested and utilized by the organism as a source of nutrition and energy.	256	5-12	Nahrung::N	
 	Food:food.N	food				3401
 	Food:fork.N	A utensil with spikes used to put solid food into the mouth.	1302	5-39	Gabel::N	
 	Food:fresh (of water).A	Of water which was recently filled up or gathered from a source.	2195			
 	Food:fruit.N	A botanical fruit that can be eaten raw used as food.	1507	5-71		
-	Food:fry.V	To cook in hot fat.	991		braten::V	
 	Food:fry.V	fry 				3492
+	Food:fry.V	To cook in hot fat.	991		braten::V	
 	Food:glutton.N	Person who habitually eats and drinks excessively.	533			
 	Food:grape.N	A small, round, smooth-skinned edible fruit, usually purple, red, or green, that grows in bunches on certain vines.	920	5-76		
 	Food:greasy.A	Smeared or soiled with grease or oil.	955			
@@ -3350,20 +3370,20 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Food:light (smell or taste).A	Being not strong in smell or taste.	2201			
 	Food:liquor.N	Alcoholic beverage containing more than 20 percent alcohol.	842			
 	Food:litchi.N	The sole member of the genus Litchi in the soapberry family, Sapindaceae.	2768			
-	Food:lunch.N	Meal usually eaten at midday.	768	5-43		
 	Food:lunch.N	lunch				3487
+	Food:lunch.N	Meal usually eaten at midday.	768	5-43		
 	Food:lychee.N	A tropical fruit with a hard brownish peel with a black seed in the inside and with flesh of a tree from the soapberry family.	3731			
 	Food:machete.N	A machete is a broad blade used either as an implement like an axe, or in combat like a short sword.	2680			
 	Food:manioc bread.N	Bread made of the roots of the cassava plant.	407	5-983		
 	Food:mantou.N	Steamed bun made of flour, water and yeast originating from Chinese cuisine.	1969			
 	Food:mead.N	Wine made of honey.	941	5-91		
-	Food:meal.N	The act of eating food, usually at a specific time.	1526	5-41	Essen::N	
 	Food:meal.N	meal				3484
+	Food:meal.N	The act of eating food, usually at a specific time.	1526	5-41	Essen::N	
 	Food:meat dishes.N	Dishes containing meat (as opposed to vegetables).	2767			
-	Food:meat.N	The edible flesh of animals, especially that of mammals.	634	5-61	Fleisch::N	
 	Food:meat.N	meat				3430
-	Food:milk.N	The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	635	5-86	Milch::N	
+	Food:meat.N	The edible flesh of animals, especially that of mammals.	634	5-61	Fleisch::N	
 	Food:milk.N	milk				3440
+	Food:milk.N	The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	635	5-86	Milch::N	
 	Food:mill.N	A mill is a device that breaks solid materials into smaller pieces by grinding, crushing, or cutting.	636	5-57		
 	Food:mix.V	To mix together different elements.	2017	5-49		
 	Food:mortar.N	A bowl used to crush and grind ingredients with a pestle.	224	5-58		
@@ -3380,7 +3400,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Food:pan.N	Cooking utensil relatively flat, having a handle, used to cook food such as meat, vegetables or eggs, usually in oil or butter.	31	5-28		
 	Food:papaya.N	The fruit of the plant Carica papaya, and is one of the 22 accepted species in the genus Carica of the plant family Caricaceae.	2445			
 	Food:pasta.N	pasta, noodles				3420
-	Food:pea.N	An annual plant originally from the Mediterranean basin and the Near East.	2025			
+	Food:pea.N	An annual plant originally from the Mediterranean basin and the Near East.	2025	8-99937		
 	Food:peel.V	To remove the skin from food or vegetables.	275	5-46		
 	Food:pepper.N	A spice prepared from the fermented, dried, unripe red berries of the pepper plant.	1385	5-82		
 	Food:pestle.N	A heavy cylindrical object with a rounded end used for crushing and grinding.	225	5-59		
@@ -3425,7 +3445,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Food:soup.N	A cooked, liquid dish (made from meat or vegetables that are mixed with broth in a pot) that is often sold in tins.	1547	5-64	Suppe::N	
 	Food:soup.N	soup				3462
 	Food:soya bean.N	The edible seed of the soybean plant which contains a lot of protein.	2028			
-	Food:soya sauce.N	Sauce made from soybeans (soya beans), roasted grain, water and salt and is used as flavoring mainly in Asian cuisine.	1968			
+	Food:soya sauce.N	Sauce made from soybeans (soya beans), roasted grain, water and salt and is used as flavoring mainly in Asian cuisine.	1968	5-99903		
 	Food:spice.N	spice, seasoning				3465
 	Food:spicy.A	Of, pertaining to, or containing spice; or spicy flavour: Provoking a burning sensation due to the presence of chillies or similar hot spices.	544			
 	Food:spinach.N	An important leaf vegetable, grown throughout the temperate regions of the world.	975			
@@ -3458,8 +3478,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Food:unripe.A	That is not yet ripe (edible fruit), usually hard and sour.	1958	5-124		
 	Food:vegetables.N	Any of various herbaceous plants having parts that are used as food.	924	5-65		
 	Food:viands (provisions).N	Provisions of food.	2550			
-	Food:vinegar.N	A sour liquid formed by the fermentation of alcohol with acetic acid bacteria used as a condiment or preservative.	985			
-	Food:vinegar.N	vinegar				3467
+	Food:vinegar.N	A sour liquid formed by the fermentation of alcohol with acetic acid bacteria used as a condiment or preservative.	985	5-99922		3467
 	Food:wanton.N	Stuffed dough wrap found in Chinese cuisine.	1980			
 	Food:water pot.N	A vessel used for storing water.	3766			
 	Food:watermelon.N	A large, sprawling annual plant with coarse, hairy pinnately-lobed leaves and white to yellow flowers.	2766			
@@ -3477,7 +3496,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Form:block.N	block (solid flat-surfaced mass of material)				3561
 	Form:branch.N	branch (small part going out from main part)				3573
 	Form:bump.N	bump, protrusion				3544
-	Form:card.N	card (stiff rectangle of material)				3562
 	Form:circle.N	circle				3518
 	Form:coil.N	coil				3522
 	Form:cone.N	cone				3528
@@ -3499,7 +3517,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Form:gas.N	gas				3502
 	Form:helix.N	helix (any corkscrew-shaped object)				3521
 	Form:hole.N	hole				3542
-	Form:jelly.N	jelly (gelatinous semi-solid material), gel				3581
+	Form:jelly.N	jelly (gelatinous semi-solid material), gel		5-99912		3581
 	Form:juice.N	juice (fluid extracted from something)				3583
 	Form:layer.N	layer				3566
 	Form:line.N	line (series of contiguous points)				3512
@@ -3625,7 +3643,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Government:constitution.N	constitution (charter of an organization)				1651
 	Government:control.V	control 				1670
 	Government:court.N	court (of law)				1652
-	Government:crime.N	crime (an illegal act)				1654
 	Government:disobey.V	disobey 				1674
 	Government:elect.V	elect (select by voting) 				1642
 	Government:free.A	free (at liberty) 				1678
@@ -3645,7 +3662,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Government:party.N	party (political faction)				1644
 	Government:passport.N	passport				1614
 	Government:permit.V	permit, allow, let 				1671
-	Government:police officer.N	police officer				1661
+	Government:police officer.N	police officer		19-9993		1661
 	Government:police.N	police (organization to enforce laws)				1656
 	Government:politics.N	politics				1640
 	Government:prisoner.N	prisoner				1659
@@ -3667,7 +3684,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Grammar:become.V	To begin to be; to come to be; to turn into.	1990	24-02	werden::V	
 	Grammar:but.?	A coordinating expression that signals a contrast to what was previously said, e.g. disagreement or a further point to consider.	3843			
 	Grammar:equal.A	Having a specified quality that another has.	1570			
-	Grammar:every (each).?	All the members of a referred group individually.	3416			
+	Grammar:every (each).?	All the members of a referred group individually.	3416	13-99903		
 	Grammar:gradually.A	Making progress, but slowly.	94			
 	Grammar:here.?	At this place.	136	24-09	hier::ADV	
 	Grammar:in that way.?	Doing something in that manner.	3414			
@@ -4016,7 +4033,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Modernity:business.N	A business is an organizational entity involved in the provision of goods and services to consumers.	2931		Geschäft::N	
 	Modernity:calculate.V	To determine by mathematical processes.	2867		rechnen::V	
 	Modernity:camera.N	Optical instrument for storing images.	2618			
-	Modernity:card.N	A flat device in rectangular form that fulfills various functions.	2619			
+	Modernity:card.N	A flat device in rectangular form that fulfills various functions.	2619	11-99902		3562
+	Modernity:certificate.N	Official document certifying some state of affairs.		19-99914		
 	Modernity:channel.N	In physical geography, a channel is a type of landform consisting of the outline of a path of relatively shallow and narrow body of fluid, most commonly the confine of a river, river delta or strait.	2423			
 	Modernity:christmas.N	Christmas or Christmas Day (Old English: Crīstesmæsse, meaning Christ's Mass) is an annual festival commemorating the birth of Jesus Christ, observed most commonly on December 25 as a religious and cultural celebration among billions of people around the world.	2405			
 	Modernity:cigarette.N	A product manufactured out of cured and finely cut leaves, which are rolled or stuffed into a paper-wrapped cylinder for smoking.	969	23-59		
@@ -4041,6 +4059,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Modernity:jack.N	A playing card marked with the figure of a servant or soldier.	50			
 	Modernity:lavish.A	Very generous; giving (money, praise, etc.) in abundance.	222			
 	Modernity:library.N	A library is a collection of sources of information and similar resources, made accessible to a defined community for reference or borrowing.	2428			
+	Modernity:license.N	Official document that permits a right to do something.		23-99901		
 	Modernity:logic.N	Logic (from the Ancient Greek: λογική, logike) is the branch of philosophy concerned with the use and study of valid reasoning. The study of logic also features prominently in mathematics and computer science.	2429			
 	Modernity:machine.N	A device able to perform a particular, more or less complex, job.	144	23-19		
 	Modernity:map.N	Symbolic depiction of areas and regions.	2625			
@@ -4101,7 +4120,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Motion:budge (oneself).V	To move oneself.	2861		sich rühren::V	
 	Motion:capture.V	capture, seize 				3033
 	Motion:carry in hand.V	To hold or to take something from one place to another by hands.	412	10-612		
-	Motion:carry on back.V	To hold or to take something from one place to another on the back.	465			
+	Motion:carry on back.V	To hold or to take something from one place to another on the back.	465	10-99903		
 	Motion:carry on head.V	To hold or to take something from one place to another on top of the head.	414	10-614		
 	Motion:carry on shoulder.V	To hold or to take something from one place to another on one shoulder.	413	10-613		
 	Motion:carry person on back.V	To hold or take some person fron one place to another on the back.	2153			
@@ -4120,8 +4139,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Motion:drip (fall in globules).V	To fall in globules or small portions, as water or other liquid.	808			
 	Motion:drip or drop something.V	To fall in globules or small portions, as water or other liquid or to let something fall down.	3359			
 	Motion:drive or impel or ride.V	Drive a vehicle or cause vehicles, other objects, people or animals to move (typically while following them or sitting/standing on them).	3291			
-	Motion:drive.V	To operate a vehicle.	741	10-65	fahren::V	
 	Motion:drive.V	drive, impel, propel 				3014
+	Motion:drive.V	To operate a vehicle.	741	10-65	fahren::V	
 	Motion:drop.V	The event of moving to a lower position due to the effect of gravity.	750			
 	Motion:drumming.V	To produce sound with a drum.	111			
 	Motion:dugout.N	A boat made from a hollowed tree trunk.	2189			
@@ -4141,8 +4160,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Motion:hitchhike.V	Travel by means of lifts in vehicles.	3117			
 	Motion:impel.V	Cause objects, people or animals to move (typically by following them).	3290			
 	Motion:insert.V	To cause something to go into; to infix; to introduce.	3071		stecken::V	
-	Motion:journey.N	Moving from one place to the other or moving around without.	2393			
 	Motion:journey.N	journey, trip, voyage				3073
+	Motion:journey.N	Moving from one place to the other or moving around without.	2393			
 	Motion:jump.V	To propel oneself rapidly upward such that momentum causes the body to become airborne.	1829	10-43	springen::V	
 	Motion:kick.V	To strike somebody or something with the foot.	1135	10-431	treten::V	
 	Motion:kneel.V	To go down on one or both knees.	66	10-412		
@@ -4181,8 +4200,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Motion:return home.V	To go to one's home after having left it, such as after a working day or holidays.	142	10-58		
 	Motion:rise (oneself).V	To get up from a lying, sitting, or kneeling position.	1512			
 	Motion:run.V	To move quickly by alternately making a short jump off of either foot.	1519	10-46	rennen::V	
-	Motion:send.V	To make something (an object, a message) go from one place to another.	1127	10-63	schicken::V	
 	Motion:send.V	send (cause to go), dispatch, transmit 				3010
+	Motion:send.V	To make something (an object, a message) go from one place to another.	1127	10-63	schicken::V	
 	Motion:shake.V	To cause (something) to move rapidly from side to side.	1909	10-26	schütteln::V	
 	Motion:sink (descend).V	To go down in water, mud, quicksand etc. or to cause something to go down in it.	1088	10-33	versinken::V	
 	Motion:sit down.V	To move into a position where the upper body is upright and the bottom is resting  on a surface or the floor.	1649		sich setzen::V	
@@ -4255,7 +4274,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Nature:cliff.N	cliff				1163
 	Nature:cloudy day.N	A day with many clouds.	2743			
 	Nature:cloudy.A	Full of clouds (mostly referring to a cloudy day).	2341			
-	Nature:coal.N	A combustible black or brownish-black sedimentary rock usually occurring in rock strata in layers or veins.	2658		Kohle::N	3336
+	Nature:coal.N	A combustible black or brownish-black sedimentary rock usually occurring in rock strata in layers or veins.	2658	1-99903	Kohle::N	3336
 	Nature:coast.N	A line or zone where the land meets the sea or some other large expanse of water.	1525		Küste::N	
 	Nature:cool down.V	To cause a decrease in temperature of an object or space; to cause something to become cold.	3068			
 	Nature:coral rock.N	Limestone created from the skeleton of reef-forming stony corals (Scleractinia), displaying their growth patterns.	3179			
@@ -4277,8 +4296,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Nature:earth (wet substance).N	The soft and loose material forming a great part of the Earth surface in wet form.	2158			
 	Nature:earth or land.N	Referring either to agriculturally viable land (e.g. for farming) or earth in its natural form.	3603			
 	Nature:earth.N	earth (terra firma contrasted with sea and heaven)				1110
-	Nature:earthquake.N	The violent shaking of the ground produced by deep seismic waves, originating from the epicentre.	6	1-45		
 	Nature:earthquake.N	earthquake				1150
+	Nature:earthquake.N	The violent shaking of the ground produced by deep seismic waves, originating from the epicentre.	6	1-45		
 	Nature:eclipse.N	An astronomical event that occurs when an astronomical object is temporarily obscured, either by passing into the shadow of another body or by having another body pass between it and the viewer.	2285			
 	Nature:eclipse.N	eclipse				1122
 	Nature:elevation.N	The elevation of a geographic location is its height above or below a fixed reference point, most commonly a reference geoid, a mathematical model of the Earth's sea level as an equipotential gravitational surface (see Geodetic system, vertical datum).	2936		Anhöhe::N	
@@ -4292,7 +4311,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Nature:fire or firewood.N	The state of combustion in which inflammable material burns, producing heat, flames and often smoke or the Wood intended to be burned.	2675			
 	Nature:fire.N	The state of combustion in which inflammable material burns, producing heat, flames and often smoke.	221	1-81	Feuer::N	
 	Nature:firewood.N	Wood intended to be burned.	10	1-88		
-	Nature:flame.N	A bright yellow, red or bluish light which emerges during combustion processes.	889	1-82		
 	Nature:flash (verb).V	The process by which flashes of light are caused by the discharge of atmospheric electrical charge.	2377			
 	Nature:flexible.A	Capable of being flexed or bent without breaking; able to be turned, bowed, or twisted, without breaking; pliable; not stiff or brittle.	1691			
 	Nature:flood.N	flood, deluge				1151
@@ -4335,7 +4353,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Nature:mainland.N	A large and continuous mass of land representing most of a region or a country but excluding outlying islands.	166	1-26	Festland::N	
 	Nature:marsh.N	A muddy and poorly drained area of land, usually near a lake or a river.	3688			
 	Nature:match.N	A stick with inflammable substance on one end that can be set on fire by friction.	1133	1-87		
-	Nature:melt.V	To make a transition from a solid state (as of frozen water) to a liquid state.	2334		schmelzen::V	
+	Nature:melt.V	To make a transition from a solid state (as of frozen water) to a liquid state.	2334	1-99912	schmelzen::V	
 	Nature:mess.N	A state of confusion and disorderliness.	1083			
 	Nature:metal.N	A material (an element, compound, or alloy) that is typically hard, opaque, shiny, and has good electrical and thermal conductivity.	2244			
 	Nature:meteoroid (shooting or shining star).N	The visible path of a meteoroid as it enters the atmosphere, becoming a meteor.	2288			
@@ -4449,28 +4467,28 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Perception:beautiful.A	beautiful 				851
 	Perception:become numb.V	Be caused not to be sensitive (usually of body parts).	2216			
 	Perception:beige.A	A kind of yellowish color, mixed with gray.	3707			
-	Perception:bitter.A	Having an acrid taste.	887	15-37	bitter::A	
 	Perception:bitter.A	bitter 				875
+	Perception:bitter.A	Having an acrid taste.	887	15-37	bitter::A	
 	Perception:black or dark.A	Either the color or the absence of light.	2633			
-	Perception:black.A	Dark and colourless; not reflecting visible light.	163	15-65	schwarz::A	
 	Perception:black.A	black 				831
+	Perception:black.A	Dark and colourless; not reflecting visible light.	163	15-65	schwarz::A	
 	Perception:blemish.N	blemish				854
 	Perception:blue or green.A	Having green or blue as color.	2382			
-	Perception:blue.A	Having the pure color of a clear sky; the primary color between green and violet in the visible spectrum, an effect of light with a wavelength between 450 and 500 nm.	837	15-67	blau::A	
 	Perception:blue.A	blue 				843
+	Perception:blue.A	Having the pure color of a clear sky; the primary color between green and violet in the visible spectrum, an effect of light with a wavelength between 450 and 500 nm.	837	15-67	blau::A	
 	Perception:blunt.A	Having a thick edge or point, as an instrument; not sharp.	379	15-79	stumpf::A	
 	Perception:brackish.A	(Of water) Salty or slightly salty, as a mixture of fresh and sea water.	70	15-39		
 	Perception:bright yellow.A	A very intense variant of the color yellow.	3751			
-	Perception:bright.A	Emitting or reflecting light readily or in large amounts. [WN:679]	679	15-57	hell::A	
 	Perception:bright.A	bright (with much light present) 				824
+	Perception:bright.A	Emitting or reflecting light readily or in large amounts. [WN:679]	679	15-57	hell::A	
 	Perception:brilliant.A	(Of a color) having a high saturation and reflecting a considerable amount of light.	3709			
-	Perception:brown.A	Having a brown color.	2409			
 	Perception:brown.A	brown 				847
+	Perception:brown.A	Having a brown color.	2409			
 	Perception:clear (to see).A	If something is visible without obstacles (e.g., clouds, spots).	3710			
 	Perception:cold (chill).N	Cold is the presence of low temperature, especially in the atmosphere.	2932		Kälte::N	
 	Perception:cold (feeling cold).A	The subjective feeling of a decreased body temperature.	3819			
-	Perception:cold.A	Having a low temperature.	1287	15-86	kalt::A	
 	Perception:cold.A	cold 				892
+	Perception:cold.A	Having a low temperature.	1287	15-86	kalt::A	
 	Perception:color.N	An attribute of things that results from the light they reflect, transmit, or emit in so far as this light causes a visual sensation that depends on its wavelengths.	1613	15-61		
 	Perception:color.N	color				830
 	Perception:colorful.A	Having many colors.	2997		bunt::A	
@@ -4480,8 +4498,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Perception:damp.A	Refers to the presence of a liquid, especially water, often in trace amounts.	2998		feucht::A	
 	Perception:dark green.A	A darker variant of the color green, mixed with black, with an approximate wavelength between 543 and 549 nm.	3795			
 	Perception:dark yellow.A	A darker variant of the primary color yellow, mixed with black, orange or red.	3706			
-	Perception:dark.A	Having an absolute or (more often) relative lack of light.	706	15-63	dunkel::A	
 	Perception:dark.A	dark, dim (with little light present) 				825
+	Perception:dark.A	Having an absolute or (more often) relative lack of light.	706	15-63	dunkel::A	
 	Perception:delicious.A	delicious, tasty 				872
 	Perception:dry.A	(Almost) free from liquid or moisture.	1398	15-84	trocken::A	
 	Perception:dull.A	Lacking the ability to cut easily; not sharp.	1397			
@@ -4498,14 +4516,14 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Perception:good-looking.A	Being pleasant to watch (of humans).	2410		hübsch::A	
 	Perception:gray.A	gray, grey 				832
 	Perception:green or unripe.A	Having a green color or being not ripe (of fruits).	2300			
-	Perception:green.A	Having green as its colour; having the hue of that portion of the visible spectrum lying between yellow and blue, evoked in the human observer by radiant energy with wavelengths of approximately 490 to 570 nanometers.	1425	15-68	grün::A	
 	Perception:green.A	green 				841
+	Perception:green.A	Having green as its colour; having the hue of that portion of the visible spectrum lying between yellow and blue, evoked in the human observer by radiant energy with wavelengths of approximately 490 to 570 nanometers.	1425	15-68	grün::A	
 	Perception:grey.A	Having a colour between black and white, like ash or stone.	153		grau::A	
 	Perception:hard.A	Resistant to pressure.	1884	15-74	hart::A	
 	Perception:harmony.N	harmony (pleasing combination of stimuli)				855
 	Perception:hear or listen.V	To perceive sound with the ear, with or without paying attention to it.	3862		vernehmen::V	
-	Perception:hear.V	To perceive sound with the ear, without necessarily paying attention to it.	1408	15-41	hören::V	
 	Perception:hear.V	hear 				861
+	Perception:hear.V	To perceive sound with the ear, without necessarily paying attention to it.	1408	15-41	hören::V	
 	Perception:hearing (aural sense).N	The sense that enables to perceive sounds.	2518			
 	Perception:heat.N	heat, warmth				891
 	Perception:heavy.A	Of a physical object, having great weight.	1210	15-81	schwer::A	
@@ -4533,8 +4551,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Perception:loud.A	(Of a sound) to have a high volume.	377	15-45		
 	Perception:loud.A	loud (of much sonic intensity) 				864
 	Perception:magenta.A	A variant of the color red but deeper and mixed with purple.	3753			
-	Perception:noise.N	Sound which is unwanted, either because of its effects on humans, its effect on fatigue or malfunction of physical equipment, or its interference with the perception or detection of other sounds.	1182		Lärm::N	
 	Perception:noise.N	noise (random/unwanted sound)				866
+	Perception:noise.N	Sound which is unwanted, either because of its effects on humans, its effect on fatigue or malfunction of physical equipment, or its interference with the perception or detection of other sounds.	1182		Lärm::N	
 	Perception:noisy.A	To make a lot of noise.	3883			
 	Perception:odor (smell).N	The property of something that can be perceived and recognized through the nose.	3704		Geruch::N	
 	Perception:orange (color).A	A bright reddish-yellowish colour.	3328			
@@ -4556,19 +4574,19 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Perception:reveal.V	reveal, disclose 				814
 	Perception:rough.A	Having a texture that has much friction. Not smooth.	1923	15-76		
 	Perception:salty.A	Containing salt.	1091	15-36		
-	Perception:see.V	To perceive [images] with the eye, without necessarily paying attention to them.	1409	15-51	sehen::V	
 	Perception:see.V	see 				810
+	Perception:see.V	To perceive [images] with the eye, without necessarily paying attention to them.	1409	15-51	sehen::V	
 	Perception:seeing (visual sense).N	The sense that enables to perceive light.	2519			
 	Perception:sense (perceive by senses).V	To perceive by means of senses.	2572			
 	Perception:sense.N	sense (ability to perceive a given kind of stimuli)				801
 	Perception:shadow.N	shadow				821
 	Perception:shape.N	The form of an object or person which refers to its outline.	3747			
 	Perception:sharp.A	Having the ability to cut easily.	1396	15-78	scharf::A	
-	Perception:shine.V	To emit light.	708	15-56	scheinen[Sonne]::V	
 	Perception:shine.V	shine (radiate light) 				822
+	Perception:shine.V	To emit light.	708	15-56	scheinen[Sonne]::V	
 	Perception:shiny.A	Property of a surface that is bright from reflected light.	3977			
-	Perception:show.V	To have somebody see something.	1039	15-55	zeigen::V	
 	Perception:show.V	show, display 				815
+	Perception:show.V	To have somebody see something.	1039	15-55	zeigen::V	
 	Perception:silence.N	Absence of sound, especially of noise.	3458		Ruhe::N	
 	Perception:silent.A	silent 				862
 	Perception:similar.A	Having some particular qualities or characteristics in common, but not all of them.	1558	12-92		
@@ -4626,7 +4644,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Plant:date.N	date (tree/fruit of sp. Phoenix dactylifera)				1033
 	Plant:elm.N	elm (tree of genus Ulmus)				1042
 	Plant:fertile.A	fertile (of soil; able to support plant growth) 				1007
-	Plant:fig.N	fig (tree/fruit of genus Ficus)				1034
 	Plant:flax.N	flax (Linum usitatissimum)				1056
 	Plant:flower.N	flower				1022
 	Plant:fruit.N	fruit				1023
@@ -4655,13 +4672,12 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Plant:oat.N	oat (plant/seed of genus Avena)				1075
 	Plant:olive.N	olive (tree/fruit of sp. Olea europaea)				1036
 	Plant:onion.N	onion (plant/bulb of sp. Allium sepa)				1090
-	Plant:orange.N	orange (tree/fruit of Citrus sinensis / related spp.)				1037
+	Plant:orange.N	orange (tree/fruit of Citrus sinensis / related spp.)		8-99936		1037
 	Plant:oregano.N	oregano (herb of sp. Origanum vulgare)				1068
 	Plant:pea.N	pea (plant/seed of sp. Pisum sativum)				1091
 	Plant:peanut.N	peanut (plant/seed/pod of sp. Arachis hypogaea)				1092
 	Plant:pepper.N	pepper (black pepper; plant/seed of sp. Piper nigrum)				1069
 	Plant:pepper.N	pepper (hot/sweet/bell pepper -- plant/pod of genus Capsicum)				1093
-	Plant:pine.N	pine (coniferous tree of genus Pinus)				1045
 	Plant:plant.V	plant 				1011
 	Plant:plum.N	plum (certain trees/fruits of genus Prunus)				1038
 	Plant:pod.N	pod (seed pod)				1026
@@ -4736,7 +4752,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Possession:pay.V	To give money in exchange for goods or services.	718	11-65	zahlen::V	
 	Possession:poor person.N	A person with little or no possessions or money.	3662			
 	Possession:poor.A	With little or no possessions or money.	1674	11-52	arm::A	
-	Possession:possessions.N	The totality of things that someone owns; their property or belongings.	3860			
 	Possession:preserve.V	To protect; to keep; to maintain the condition of.	1997	11-24	bewahren::V	
 	Possession:price.N	The amount of money paid per unit for a good or service.	657	11-87	Preis::N	
 	Possession:profligate.N	Someone who spends money prodigiously and who is extravagant and recklessly wasteful.	115			
@@ -4825,8 +4840,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Quantity:chicken (classifier).CLF	Classifier for bird-like animals.	2081			
 	Quantity:clothing (classifier).CLF	Classifier for things that one wears.	2088			
 	Quantity:count (quantity).N	The total number of individual things in a given unit or sample obtained by counting all or a subsample of them.	2945		Anzahl::N	
-	Quantity:count.V	To determine the amount of something or to enumerate the digits of one's numeral system.	1420	13-107	zählen::V	
 	Quantity:count.V	count, enumerate 				2602
+	Quantity:count.V	To determine the amount of something or to enumerate the digits of one's numeral system.	1420	13-107	zählen::V	
 	Quantity:cow (classifier).CLF	Classifier for cows and animals as large as cows.	2168			
 	Quantity:crowd.N	A large group of people.	2023	13-19		
 	Quantity:deal (classifier).CLF	Classifier for bargains or business deals.	2738			
@@ -4837,8 +4852,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Quantity:door (classifier).CLF	Classifier for doors and gates.	2734			
 	Quantity:drop (classifier).CLF	Classifier for small units of liquid, like water.	2087			
 	Quantity:egg (classifier).CLF	Classifier for eggs.	3417			
-	Quantity:empty.A	Without content.	1624	13-22	leer::A	
 	Quantity:empty.A	empty 				2686
+	Quantity:empty.A	Without content.	1624	13-22	leer::A	
 	Quantity:enough.?	All that is required, needed, or appropriate.	1881	13-18		
 	Quantity:few.?	More than one, but not as many as usual or as expected.	1242	13-17		
 	Quantity:few.A	few (a small number of) 				2643
@@ -5212,13 +5227,13 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Space:whole.A	In its entirety.	2277			
 	Space:wide.A	Having a long distance or area between two points, especially horizontally.	1243	12-61	breit::A	
 	Time:-to-be.A	"-to-be (as in ""bride-to-be""), pre- (not yet but will be) "				3210
-	Time:afternoon.N	The part of the day which follows noon, between noon and evening.	1807	14-451		
 	Time:afternoon.N	afternoon (noon to dusk)				3287
+	Time:afternoon.N	The part of the day which follows noon, between noon and evening.	1807	14-451		
 	Time:afterwards.?	Later or after something else has happened or happens.	2093		danach::ADV	
 	Time:again.?	Once more.	204	14-35	wieder::ADV	
 	Time:again.ADV	again, once more, re- 				3228
-	Time:age.N	The amount of time that a person, animal or plant has lived or that an object has existed.	1789	14-12	Alter::N	
 	Time:age.N	age (degree of oldness / youngness)				3211
+	Time:age.N	The amount of time that a person, animal or plant has lived or that an object has existed.	1789	14-12	Alter::N	
 	Time:already.?	Prior to a specified point in time.	2576		schon::ADV	
 	Time:already.ADV	already (prior to the time mentioned) 				3245
 	Time:alternate.V	alternate, take turns (do X then Y then X then Y) 				3229
@@ -5236,12 +5251,12 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Time:be late.A	To be later than the expected time.	425	14-24		
 	Time:before.?	At a time before that.	1882	12-04	vorher::ADV	
 	Time:begin or start.V	To begin doing an activity, of (of an activity) to begin.	3447		beginnen::V	
-	Time:begin.V	To begin an activity.	1806	14-25	anfangen::V	
 	Time:begin.V	begin, commence, start 				3235
+	Time:begin.V	To begin an activity.	1806	14-25	anfangen::V	
 	Time:beginning.N	The beginning of an activity or event.	1557	14-251		
 	Time:busy.A	The state of being occupied with something.	2755			
-	Time:cease.V	To have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.	1928	14-28	enden::V	
 	Time:cease.V	cease, stop doing, quit 				3239
+	Time:cease.V	To have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.	1928	14-28	enden::V	
 	Time:century.N	century				3276
 	Time:clock.N	An instrument used to measure or keep track of time.	1323	14-53		
 	Time:constant.A	constant, invariant, stable 				3217
@@ -5265,8 +5280,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Time:early.A	early, premature 				3250
 	Time:end (of time).N	The last or final part.	743	14-26	Schluss::N	
 	Time:end.V	end, conclude, finish 				3238
-	Time:evening.N	That part of the day in which daylight decreases and the night falls.	1629	14-46	Abend::N	
 	Time:evening.N	evening (dusk to midnight)				3288
+	Time:evening.N	That part of the day in which daylight decreases and the night falls.	1629	14-46	Abend::N	
 	Time:eventually.ADV	eventually (in the far future) 				3208
 	Time:ever.ADV	ever (at any time) 				3243
 	Time:ex-.A	"ex- (as in ""ex-president""), former "				3209
@@ -5316,8 +5331,8 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Time:moment.N	moment, an instant				3241
 	Time:monday.N	Monday				4021
 	Time:monday.N	The first day of the week in Europe and in systems using the ISO 8601 norm; the second day of the week in the United States of America.	1697	14-63	Montag::N	
-	Time:morning.N	The period of time from the start of the day (midnight) until midday (12:00).	1339	14-44	Morgen::N	
 	Time:morning.N	morning (dawn to noon)				3285
+	Time:morning.N	The period of time from the start of the day (midnight) until midday (12:00).	1339	14-44	Morgen::N	
 	Time:next month.N	The month after this month.	2793			
 	Time:next year.?	The year after the current one.	515			
 	Time:next.A	"next (coming immediately after; ""tomorrow"" = the next day) "				3263
@@ -5371,7 +5386,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Time:this year.?	The current year.	513			
 	Time:thursday.N	The fourth day of the week in Europe and in systems using the ISO 8601 norm; the fifth day of the week in the United States of America.	1693	14-66	Donnerstag::N	
 	Time:thursday.N	Thursday				4024
-	Time:time.N	"time (e.g. ""do it 3 times""), occasion, instance, iteration"				3227
+	Time:time.N	"time (e.g. ""do it 3 times""), occasion, instance, iteration"		14-99906		3227
 	Time:timely.A	timely, prompt, on time 				3251
 	Time:tuesday.N	The second day of the week in Europe and in systems using the ISO 8601 norm; the third day of the week in the United States of America.	1695	14-64	Dienstag::N	
 	Time:tuesday.N	Tuesday				4022
@@ -5531,3 +5546,27 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Value:true.A	true 				1943
 	Value:virtuous.N	virtuous				1907
 	Value:wrong.A	wrong, incorrect 				1949
+		A bag made of skin for containing water or wine.		9-9992		
+		A German person.		2-99906		
+		A Hungarian person.		2-99907		
+		A non-Gypsy person.		2-9991		
+		A Slovak person.		2-99915		
+		A Vlax Gypsy person.		2-99918		
+		An odorant plant that gorws in the bleak plateaus. sp. Micromeria nubigena.		8-99916		
+		Arabia		19-99901		
+		India		19-99907		
+		Madagascar		19-99908		
+		Sated, statiate, full-up of eating.		5-99902		
+		Smoked food.		5-99918		
+		The ayahuasca,a psychoactive infusion prepared from the Banisteriopsis spp.		5-99904		
+		The bacon.		5-99905		
+		The black tree dye.		8-99907		
+		The brandy, a type of liquor.		5-99907		
+		The lima bean.		8-99926		
+		The manioc juice made of the cassava plant or root.		5-99913		
+		The metabolism.		4-99908		
+		The mochi, a small Japanese rice cake made from glutinous rice.		5-99914		
+		The ramen noodles, called saimin in Hawaii.		5-99915		
+		The rice ball or musubi.		5-99916		
+		The roasted cassava meal.		5-99917		
+		The tamale.		5-99919		
