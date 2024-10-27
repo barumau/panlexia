@@ -71,6 +71,11 @@ The Panlexia project re-uses material from the following sources:
 - [The World Loanword Database (WOLD)](https://wold.clld.org), which is edited by Martin Haspelmath & Uri Tadmor and which is licensed under the
   [Creative Commons Attribution 3.0 Germany License](http://creativecommons.org/licenses/by/3.0/de/)
 
+## Contact
+
+Panlexia is maintained by **Risto Kupsala**.
+You may contact him by sending email to risto@pandunia.info.
+
 ## Let's work together!
 
 Panlexia is a collaborative project.
@@ -92,3 +97,6 @@ Create an account for yourself and follow instructions about [cloning a reposito
 If you contribute changes yourself, you will be added to our list of contributors automatically.
 
 Our contributors are listed [here](https://github.com/barumau/panlexia/graphs/contributors)
+
+If you have any questions, please contact us at our
+[PhpBB discussion forum](https://pandunia.info/forum/viewforum.php?f=9&sid=73cace4ded824e36c4a05246a67273c6).
