@@ -548,6 +548,8 @@ Clothing:wear.V	Clothing/Grooming:wear.V	Fix clothes on your body and carry them
 Clothing:weave.V	Clothing/Grooming:weave.V	To create a fabric by interlacing threads.	133	6-33		1421
 Clothing:wrapper.N	Clothing/Grooming:wrapper.N	A colorful women's garment widely worn in West Africa.	462			
 Clothing:yarn.N	Clothing/Grooming:yarn.N	Consists of multiple strings of natural or synthetic fibre twisted together in a continuous bulky thread; used in textile production.	3445			
+Cognition:study.N				17-99906		
+Cognition:study.V	Cognition:study.V	To follow a course of study; to be enrolled at an institute of learning.	1929	17-242		
 Combat:battle cry.N	Language:battle cry (war whoop).N	A shout, used by warriors in battle with the purpose of arousing aggression on their own side or intimidating the enemy.	3741			
 Combat:bomb.N	Modernity:bomb.N	A device filled with explosives used for destroying things.	1804	23-575		
 Combat:box.V	Action/Technology:box (somebody or something).V	The act of using fists to fight or hit.	3108			
@@ -564,15 +566,19 @@ Communication:answer.V	Language:answer.V	To communicate a message of any form in
 Communication:boast.V	Language:boast.V	To show off.	101	18-45	prahlen::V	
 Communication:call.V	Language:call.V	To address or summon someone.	1084	18-41	rufen::V	2213
 Communication:cellphone.N	Tool:cellphone.N	cellphone, cellular telephone				1278
-Communication:complain.V	Language:complain.V	To express one's dissatisfaction or unhappiness.	3642			
+Communication:chat.V	Action/Technology:chat (with somebody).V	To have a conversation with somebody.	2903	18-99908	sich unterhalten::V	
+Communication:complain.V	Language:complain.V	To express one's dissatisfaction or unhappiness.	3642	16-99909		
 Communication:deny.V	Language:deny.V	To refuse strongly and solemnly to own or acknowledge.	755	18-34		2215
 Communication:dialect.N	Language:dialect.N	A variety of a language that is characteristic of a particular group.	2815			
 Communication:email.N		Messages sent and received via computer.				
 Communication:forbid.V	Language:forbid.V	To tell not to do something.	83	18-38		
 Communication:gesture.V	Body:gesture.V	gesture 				747
 Communication:goodbye.N	Language:goodbye.N	A conventional expression, used as a farewell when parting.	3554			
+Communication:goodbye.V		To say goodbye.		19-99943		
 Communication:greet.V	Language:greet.V	To welcome someone; to address someone in a friendly and welcoming way upon meeting them.	3552	18-99909		
 Communication:hello.N	Language:hello.N	A conventional expression, used as a greeting.	3553			
+Communication:hieroglyph.N		The hieroglyph or hieroglyphics.		18-99902		
+Communication:joke.N	Language:joke.N	Something that is said or done in a non-serious, comic way.	3425	18-99903		
 Communication:language.N	Language:language.N	A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	1307	18-24	Sprache::N	
 Communication:letter.N	Modernity:letter.N	A text that is written to and for a specific person or set of people (and is most commonly sent to them by post).	1612	23-42	Brief::N	2261
 Communication:mail.N	Modernity:mail.N	A batch of letters and parcels received via post.	167	23-4		
@@ -582,13 +588,17 @@ Communication:phone.V	Language:talk (phone).V	To communicate by means of a telep
 Communication:postage stamp.N	Modernity:postage stamp.N	A piece of paper that is affixed to letters or packages to pay for their delivery.	596	23-41		
 Communication:postcard.N	Modernity:postcard.N	A rectangular piece of thick paper or thin cardboard intended to be written on and mailed without an envelope.	1497	23-43		
 Communication:postman.N	Modernity:postman.N	Person who transports and delivers items sent with a postal service.	3095			
+Communication:praise.V	Communication:praise.V	praise, compliment, laud 		16-99912		2222
 Communication:radio.N	Modernity:radio.N	A device that can capture the signal sent over radio waves and render the modulated signal as sound.	1315	23-1		
 Communication:refuse.V	Language:refuse.V	To not do what is being asked.	49	18-37		
 Communication:scroll.N	Modernity:scroll.N	A roll of papyrus.	2608			
+Communication:spell.V		To list the letters of a word.		18-9991		
 Communication:talk.V	Action/Technology:talk.V	To converse with one or more persons.	2708		reden::V	
 Communication:telephone.N	Modernity:telephone.N	An electronic device used for calling people.	1379	23-12		1274
 Communication:television set.N	Modernity:television.N	A device for receiving television signals and displaying them in visual form.	1788	23-11		1276
 Communication:tell.V	Language:tell.V	To talk about a story giving its details; to give a detailed account of.	1711	18-221	erzählen::V	
+Communication:thank.V	Society:thank (somebody).V	To express one's gratitude.	2412	18-99911		2227
+Communication:thanks.INT		Expression of gratitude.		16-99903		
 Communication:translate.V	Action/Technology:translate.V	To communicate of the meaning of a source-language text by means of an equivalent target-language text.	2906		übersetzen::V	
 Communication:type.V	Modernity:type (on something).V	Using keys of a computer or typewriter.	3134			
 Communication:watch (TV).V	Modernity:watch (tv).V	The act of watching television.	3136			
@@ -729,9 +739,14 @@ Element:Y.N		Yttrium, the chemical element with atomic number 39 and symbol Y.
 Element:Yb.N		Ytterbium, the chemical element with atomic number 70 and symbol Yb.				
 Element:Zn.N		Zinc, the chemical element with atomic number 30 and symbol Zn.				
 Element:Zr.N		Zirconium, the chemical element with atomic number 40 and symbol Zr.				
+Emotion:be ashamed.V				16-99907		
+Emotion:be glad.V				16-99908		
+Emotion:enthuse.V				16-9991		
 Emotion:feel.V	Perception:feel.V	To be in some emotional state.	1079	15-72		2060
 Emotion:feeling.N	Perception:feeling (emotion).N	To sense things mentally (pain, joy, etc.).	2573			
+Emotion:look forward.V				16-99911		
 Emotion:miss.V	Action/Technology:miss (somebody).V	To long to see somebody again.	2328			
+Emotion:mood.N				16-99905		
 Emotion:move.V	Action/Technology:move (affect emotionally).V	To affect somebody emotionally.	2873		rühren::V	
 Family:ancestors.N	Family:ancestors.N	Person from whom a person is descended, whether on the father's or mother's side, at any number of generations.	1669	2-56		
 Family:aunt or uncle.N	Family:aunt or uncle.N	The brother or mother of someone’s father or mother.	2682			
@@ -750,7 +765,7 @@ Family:divorce.N	Family:divorce.N	Legal dissolution of a marriage.	1134	2-341
 Family:divorce.V	Family:divorce (separate).V	To end one's marriage by a legal process.	3672			
 Family:family name.N	Family:surname.N	The family name of a person.	3426			
 Family:family.N	Family:family.N	A group comprising parents, offsprings and others closely related or associated with them.	194	2-82	Familie::N	320
-Family:father-in-law.N	Family:father-in-law.N	The father of someone's spouse.	1055			
+Family:father-in-law.N	Family:father-in-law.N	The father of someone's spouse.	1055	2-99905		
 Family:father.N	Family:father.N	A male parent.	1217	2-35	Vater::N	322
 Family:grandchild.N	Family:grandchild.N	A child of someone’s child.	1617	2-5		
 Family:granddaughter.N	Family:granddaughter.N	A daughter of someone's child.	1619	2-49		
@@ -767,7 +782,7 @@ Family:married man.N	Family:married man.N	A married man.	424	2-38
 Family:married woman.N	Family:married woman.N	A married woman.	426	2-39		
 Family:marry off.V	Family:marry off.V	To force someone to get married, usually a relative.	556			
 Family:marry.V	Family:marry.V	To enter marriage; to take a husband or a wife.	203	2-33		
-Family:mother-in-law.N	Family:mother-in-law.N	The mother of someone's spouse.	1050			
+Family:mother-in-law.N	Family:mother-in-law.N	The mother of someone's spouse.	1050	2-99909		
 Family:mother.N	Family:mother.N	A woman who has at least one child.	1216	2-36	Mutter::N	324
 Family:nephew or niece.N	Family:nephew or niece.N	A child of someone's brother or sister.	3890			
 Family:nephew.N	Family:nephew.N	A son of someone's brother or sister.	1063	2-53		
@@ -782,9 +797,9 @@ Family:sibling-in-law.N	Family:sibling-in-law.N	The husband of one's sister.	183
 Family:sibling.N	Family:sibling.N	A person who has the same parents as another person.	1640	2-456		
 Family:sister.N	Family:sister.N	A female person who has the same parents as another person.	1263	2-45	Schwester::N	357
 Family:son.N	Family:son.N	One's male child.	1620	2-41	Sohn::N	350
-Family:spouse.N	Family:spouse.N	One of the partners in a marriage, be they male or female.	2514			
+Family:spouse.N	Family:spouse.N	One of the partners in a marriage, be they male or female.	2514	2-99916		
 Family:step-.A				2-99902		
-Family:stepchild.N	Family:stepchild.N	The child of one's spouse and his or her previous partner.	3910			
+Family:stepchild.N	Family:stepchild.N	The child of one's spouse and his or her previous partner.	3910	2-99917		
 Family:stepdaughter.N	Family:stepdaughter.N	The daughter of one's spouse and his or her previous partner.	1058	2-74		
 Family:stepfather.N	Family:stepfather.N	The husband of one's biological mother, other than one's biological father.	237	2-71		
 Family:stepmother.N	Family:stepmother.N	The wife of one's biological father, other than one's biological mother.	236	2-72		
@@ -992,6 +1007,7 @@ Motion:raise.V	Motion:raise.V	To cause to rise; to move something from a lower p
 Motion:ride.V	Motion:ride.V	To transport oneself by sitting on and directing an animal.	367	10-66		3048
 Motion:roll.V	Motion:roll.V	To move like a ball/cylinder by turning over and over.	827	10-15		3049
 Motion:run away.V	Action/Technology:run away.V	Leave a dangerous situation by moving one's body away from it.	2142			
+Motion:step.V	Action/Technology:step (verb).V	To move the foot in walking; to advance or recede by raising and moving one of the feet to another resting place, or by moving both feet in succession.	2065	10-99907	schreiten::V	
 Motion:swing (sth).V	Action/Technology:swing (something).V	To set something in swinging motion.	2901		schwenken::V	
 Motion:swing.N	Action/Technology:swing.N	Tool used for play with a seat hanging from ropes.	3101			
 Motion:swing.V	Action/Technology:swing (movement).V	To move freely to and fro.	2871		schwingen::V	
@@ -1023,14 +1039,16 @@ Music:sing.V	Language:sing.V	To produce harmonious sounds with one's voice.	1261
 Music:song.N	Modernity:song.N	A musical piece with lyrics (or words to sing); prose that one can sing.	1096	23-64	Lied::N	
 Music:tambourine.N	Language:tambourine.N	Musical instrument with round, wooden frame and covered by skin, plastic, etc. with metal discs around the frame.	3141			
 Music:tone.N	Perception:tone (music).N	Traditionally in Western music, a musical tone is a steady periodic sound.	2995		Ton::N	
+Music:violin.N				18-99906		
+Music:violinist.N				18-99907		
 Music:whistle instrument.N	Action/Technology:whistle (instrument).N	Wind instrument most often made out of metal or wood used for producing a loud, shrill tone.	3107			
 Nature:flame.N	Nature:flame.N	A bright yellow, red or bluish light which emerges during combustion processes.	889	1-82		
 Nature:flame.V		To be on fire and producing especially bright flames		1-99911		
 Nature:nature.N	Agriculture/Plant:nature.N	The physical world including all living things as well as the land and the seas.	3897			
 Nature:river bed.N	Nature:river bed.N	The channel containing or formerly containing the water of a river.	993			
-Nature:river mouth.N	Nature:river mouth.N	A river mouth or stream mouth is a part of a river where it flows into the sea, river, lake, reservoir or ocean.	1701			
+Nature:river mouth.N	Nature:river mouth.N	A river mouth or stream mouth is a part of a river where it flows into the sea, river, lake, reservoir or ocean.	1701	1-99908		
 Nature:river or water.N	Nature:river or water.N	Common liquid (H₂O) which forms rain, rivers, the sea, etc, or a stream of this liquid flowing in a channel.	2798			
-Nature:river.N	Nature:river.N	A stream of water which flows in a channel from high ground to low ground and ultimately to a lake or the sea, except in a desert area where it may dwindle away to nothing.	666		Fluss::N	1171
+Nature:river.N	Nature:river.N	A stream of water which flows in a channel from high ground to low ground and ultimately to a lake or the sea, except in a desert area where it may dwindle away to nothing.	666	1-99907	Fluss::N	1171
 Nature:riverbank.N	Nature:riverbank.N	The margin or shore of a river.	3463			
 Nature:savanna.N	Nature:savanna.N	A large open grassland in tropical and subtropical regions.	260	1-411		
 Nature:scenery.N	Nature:scenery.N	The appearance of a landscape, in particular natural and aesthetically pleasing.	3963			
@@ -1059,6 +1077,7 @@ People:deaf person.N	Family:deaf person.N	Person who is  partial or total unable
 People:disabled person.N	Body:disabled person.N	A person with a physical condition or mental disorder that is characterized by physical, sensory, cognitive or intellectual impairment.	3621			
 People:female.A	Family:female (of person).A	Relating to the female sex of humans.	2260	2-24		612
 People:female.N	Family:female person.N	A human belonging to the female sex.	2105			
+People:fool.N	Society:fool.N	A person with poor judgment or little intelligence.	1438	19-9992		
 People:girl.N	Family:girl.N	A young female person, usually a child or teenager.	1646	2-26	Mädchen::N	309
 People:guest or stranger.N	Family:guest or stranger.N	Either a guest or a stranger.	2908			
 People:husband or man.N	Family:husband or male person.N	Either the male partner in a marriage or a male person.	2646			
@@ -1120,8 +1139,10 @@ Plant:vine.N	Agriculture/Plant:vine.N	A climbing plant which grows up or over th
 Possession:abandon.V	Motion:abandon.V	To give up control of, to surrender something.	1097		verlassen::V	
 Possession:beg.V	Language:beg.V	To make a living by asking people for money or food.	3534			
 Possession:exchange.V	Action/Technology:exchange.V	To hand out one thing while receiving another thing or to replace one thing with another.	2509	13-99908		
-Possession:gift.N	Action/Technology:gift.N	A gift or a present is an item given to someone without the expectation of payment or return.	2982		Geschenk::N	
+Possession:gift.N	Action/Technology:gift.N	A gift or a present is an item given to someone without the expectation of payment or return.	2982	11-99903	Geschenk::N	
+Possession:gratis.A	Possession:gratis (of charge).?	Free of charge, without cost.	130	11-99901		
 Possession:possessions.N	Possession:possessions.N	The totality of things that someone owns; their property or belongings.	3860	11-99904		
+Possession:receive.V	Business:receive.V	To get something given into one’s possession.		11-99907		1737
 Possession:rob.V	Action/Technology:rob (verb).V	To illegally take something from, especially using force or violence.	2073			
 Quantity:0.NUM	Quantity:zero.NUM	The integer zero (0).	1294	13		2500
 Quantity:1.NUM	Quantity:one.NUM	The natural number one (1).	1493	13-01	eins::NUM	2501
@@ -1185,7 +1206,7 @@ Quantity:27.NUM	Quantity:twenty seven.NUM	The natural number twenty-seven (27).	
 Quantity:28.NUM	Quantity:twenty eight.NUM	The natural number twenty-eight (28).	3478			
 Quantity:29.NUM	Quantity:twenty nine.NUM	The natural number twenty-nine (29).	3479			
 Quantity:3.NUM	Quantity:three.NUM	The natural number three (3).	492	13-03	drei::NUM	2503
-Quantity:30.NUM	Quantity:thirty.NUM	The natural number thirty (30).	1715		dreißig::NUM	
+Quantity:30.NUM	Quantity:thirty.NUM	The natural number thirty (30).	1715	13-99906	dreißig::NUM	
 Quantity:300.NUM	Quantity:three hundred.NUM	The natural number three hundred (300).	3513			
 Quantity:3000.NUM	Quantity:three thousand.NUM	The natural number three thousand (3000).	3525			
 Quantity:304.NUM	Quantity:three hundred and four.NUM	The natural number three hundred and four (304).	3789			
@@ -1280,9 +1301,11 @@ Quantity:97.NUM	Quantity:ninety seven.NUM	The natural number ninety-seven (97).	
 Quantity:98.NUM	Quantity:ninety eight.NUM	The natural number ninety-eight (98).	3596			
 Quantity:99.NUM	Quantity:ninety nine.NUM	The natural number ninety-nine (99).	3501			
 Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number nine hundred and ninety-nine (999).	3521			
-Quantity:a little.A	Quantity:a little.A	More than one, but not as much as usual or as expected. (for mass nouns)	2924		ein wenig::ADV	
+Quantity:a little.A	Quantity:a little.A	More than one, but not as much as usual or as expected. (for mass nouns)	2924	13-99901	ein wenig::ADV	
 Quantity:add.V	Action/Technology:add.V	Join or unite so as to bring about an increase.	2882		hinzufügen::V	
+Quantity:by.ADP		Distributive numeral marker.		13-99902		
 Quantity:decrease.V	Action/Technology:decrease.V	To become smaller in number or size.	2864		abnehmen::V	
+Quantity:fill.V	Quantity:fill.V	To make full.	2006	13-99907	füllen::V	
 Quantity:increase.V	Action/Technology:increase.V	(Of a quantity) to become bigger.	1041		zunehmen::V	
 Society:help.N	Society:help.N	The act of helping someone.	3467		Hilfe::N	
 Society:help.V	Society:help.V	To give assistance or aid to.	1897	19-58		2155
@@ -1305,11 +1328,15 @@ Sound:scream.V	Language:scream (produce a cry).V	To give a loud cry out of pain,
 Sound:shout.V	Language:shout.V	To say something in a loud voice.	715	18-13	schreien::V	
 Sound:shriek.V	Language:shriek.V	To make a short, loud and high-pitched sound in reaction to something.	298	18-18		
 Sound:sound (of instrument or voice).V	Action/Technology:sound (of instrument or voice).V	The noise emitted by musical instruments or humans speaking.	2879		klingen::V	
+Sound:string instrument.N		A string instrument.		11-99905		
 Sound:stutter.V	Language:stutter.V	To have problems articulating the words, repeting sometimes some syllables.	1866	18-211		
 Sound:stutterer.N	Language:stutterer.N	A person that stutters.	3367			
+Sound:ululate.V		To ululate.		18-99912		
 Sound:voice.N	Language:voice.N	The sound and tones human beings are able to produce with the vocal cords.	1363	18-11	Stimme::N	
 Sound:whisper.V	Language:whisper.V	To speak in a quiet voice, without vibration of the vocal cords.	55	18-15		
 Sound:whistle.V	Language:whistle.V	To make a sound or a melody by forcing the breath out between closed lips.	1025	18-17	pfeifen::V	
+Space:apart.ADV	Direction:apart.ADV	apart 		12-99901		2950
+Space:back.ADV	Space:back (direction).?	Toward the previous place or condition where one came from.	2910	12-99902	zurück::ADV	2921
 Space:encircle.V	Action/Technology:encircle.V	To enclose or cause to be enclosed; to surround; to confine.	3274			
 Storage:bag.N	Action/Technology:bag.N	A container that stores things and is small enough so that one can wear it.	2468		Tasche::N	
 Storage:bamboo basket.N	Action/Technology:bamboo basket.N	A basket from bamboo that is carried on the back.	3360			
@@ -1338,6 +1365,7 @@ Storage:vase.N	Modernity:vase.N	An often round vessel which is used for decorati
 Time:autumn or harvest season.N	Time:autumn or harvest season.?	The time during which crops are typically harvested, often co-occurring with the season of autumn.	3327			
 Time:autumn.N	Time:autumn.N	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.	1276	14-77	Herbst::N	3272
 Time:calendar.N	Modernity:calendar.N	A table showing the months and days of the year.	1967	23-61		
+Time:Chinese New Year.N				14-99901		
 Time:dry season.N	Time:dry season.N	Yearly period of low rainfall in the tropics.	452			
 Time:final.A	Quantity:last (final).?	The last, after all the others.	1529	13-35	letzter::A	3261
 Time:hot season.N	Time:hot season.N	Period of the year associated with hot or warm weather.	3047			
@@ -1346,10 +1374,12 @@ Time:last month.N	Time:last month.N	The month before this month.	2792
 Time:last year.N	Time:last year.?	The year before the current one.	514			
 Time:last.V	Time:last (endure).V	To endure, continue over time.	1186	14-252		
 Time:late.ADV	Time:late.?	Towards the end of a time period.	477	14-17		3252
-Time:long ago.ADV	Time:long ago.?	At a time in the past, especially the distant past.	373			3204
+Time:long ago.ADV	Time:long ago.?	At a time in the past, especially the distant past.	373	14-99902		3204
 Time:monsoon season.N	Time:monsoon season.N	A period of heavy rain particularly during summer time.	3323			
 Time:month.N	Time:month.N	A period into which a year is divided, historically based on the phases of the moon. In the Gregorian calendar there are twelve months.	1370	14-71	Monat::N	3279
 Time:never.ADV	Time:never.?	At no time.	1656	14-34	niemals::ADV	3244
+Time:New Year.N				14-99903		
+Time:New Year's eve.N	Society:new year's eve.N	The last day of the year.	2188			
 Time:new.A	Time:new.A	Recently made, created or begun.	1231	14-13	neu::A	3214
 Time:night.N	Time:night.N	The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.	1233	14-42	Nacht::N	3284
 Time:now or today.ADV	Time:now or today.?	On the current day or in the current moment.	2097			
@@ -1362,10 +1392,11 @@ Time:old (used).A	Time:old (used).A	To be old (of things). That which has been u
 Time:old.A	Time:old.A	Having lived or existed for a relatively long period of time.	1229	14-15	alt::A	3213
 Time:one time.ADV	Time:one time.?	An instance or occurrence of an event.	374		einmal::ADV	
 Time:pass.V	Time:pass.V	Of time, to elapse, to be spent.	1951		vergehen::V	
-Time:period.N	Time:period.N	A length of time.	508			3240
+Time:period.N	Time:period.N	A length of time.	508	14-99905		3240
 Time:rainy season.N	Time:rainy season.N	Period of year when most of a region's average annual rainfall occurs.	453			
 Time:rhythm.N	Time:rhythm.N	rhythm				3222
 Time:season.N	Time:season.N	One of the four equal periods into which the year is divided by the equinoxes and solstices, resulting from the apparent movement of the sun north and south of the equator during the course of the earth's orbit around it. These periods (spring, summer, autumn and winter) have their characteristic weather conditions in different regions, and occur at opposite times of the year in the N and S hemispheres.	691	14-78		3269
+Time:short dry season.N				1-99909		
 Time:short.ADV	Time:short (time).?	For a brief period or a short amount of time.	3312			3232
 Time:springtime.N	Time:springtime.N	Traditionally the first of the four seasons, the season of growth with an ever increasing amount of daytime.	1537	14-75	Frühling::N	3270
 Time:still.ADV	Time:still (continuing).?	Continuance of motion or state even until the time mentioned.	2919		noch::ADV	3246
@@ -1376,7 +1407,7 @@ Time:time.N	Time:time.N	The dimension of the physical universe which, at a given
 Time:today.ADV	Time:today.?	On the current day or date.	1283	14-47	heute::ADV	3266
 Time:tomorrow or yesterday.ADV	Time:tomorrow or yesterday.?	The day after the present day or the day before today.	2801			
 Time:tomorrow.ADV	Time:tomorrow.?	The day after the present day.	1329	14-48	morgen::ADV	3267
-Time:wait.V	Motion:wait (for).V	To refrain from acting or moving for some duration or until some event occurs.	1590		warten::V	3255
+Time:wait.V	Motion:wait (for).V	To refrain from acting or moving for some duration or until some event occurs.	1590	10-99908	warten::V	3255
 Time:winter.N	Time:winter.N	Traditionally, the fourth of the seasons, marked by the applicable hemisphere of the planet being at its minimum angle of exposure to the Sun, resulting in short days, long nights and typically in low temperatures.	1471	14-74	Winter::N	3273
 Time:year.N	Time:year.N	The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	1226	14-73	Jahr::N	3278
 Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::ADV	3265
@@ -1421,6 +1452,7 @@ Transit:vehicle.N	Motion:vehicle.N	Any larger device that can be used to move pe
 Transit:wagon.N	Motion:wagon.N	A wheeled vehicle, generally drawn by horse power.	959			
 Transit:wheel.N	Motion:wheel.N	A circular object that spins around a central axe thereby allowing relatively low-friction movement.	710	10-76		3156
 Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582			
+Value:be worth.V		To be worth of something.		11-99906		
 	Action/Technology:accustom.V	Get used to something.	1118			
 	Action/Technology:against.A	In opposite direction to.	2469			
 	Action/Technology:amuse oneself (have fun).V	To do something joyful.	3239			
@@ -1453,7 +1485,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Action/Technology:cause to (let).V	To allow or cause somebody to do something.	2896		lassen::V	
 	Action/Technology:cease or finish.V	To stop doing something, voluntarily or involuntarily.	2115			
 	Action/Technology:chain.N	A series of interlocked rings or links forming a flexible length.	1627	9-18		
-	Action/Technology:chat (with somebody).V	To have a conversation with somebody.	2903		sich unterhalten::V	
 	Action/Technology:chop (into pieces).V	To chop meat, vegetables etc. into small pieces.	2149		hacken::V	
 	Action/Technology:chop.V	To chop wood, or to chop meat, vegetables etc. into small pieces.	155	9-222		
 	Action/Technology:clay.N	A loose, earthy, extremely fine-grained, natural sediment or soft rock composed primarily of clay-size or colloidal particles and characterized by high plasticity and by a considerable content of clay mineral and subordinate amounts of finely divided quartz, decomposed feldspar, carbonates, ferruginous matter, and other impurities; it forms a plastic, moldable mass when finely ground and mixed with water, retains its shape on drying, and becomes firm, rocklike and permanently hard on heating or firing.	1399	9-73	Lehm::N	
@@ -1469,7 +1500,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Action/Technology:dexterous.A	Nimble in the use of the hands or body.	1824		geschickt::A	
 	Action/Technology:die (from accident).V	To cease to live due to unforeseen circumstances.	2865		umkommen::V	
 	Action/Technology:diminish.V	To make smaller.	1184			
-	Action/Technology:dip.V	To put something partially in a liquid for a short time and take it out again.	3697			
+	Action/Technology:dip.V	To put something partially in a liquid for a short time and take it out again.	3697	10-99904		
 	Action/Technology:do or make.V	To do something or to make something.	2575			
 	Action/Technology:do.V	To perform an action.	813	9-11	tun::V	
 	Action/Technology:draw (water).V	To draw by a physical force causing or tending to cause to approach, adhere, or unite.	1911	9-9		
@@ -1559,7 +1590,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Action/Technology:post (something).V	To send something by means of a postal service.	3126			
 	Action/Technology:pound.V	To strike hard, usually repeatedly.	354	9-211		
 	Action/Technology:powerful.A	Being done using a huge amount of energy.	3001		kräftig::A	
-	Action/Technology:prepare.V	To carry out things in advance to avoid to be later not able to do them.	2909		vorbereiten::V	
+	Action/Technology:prepare.V	To carry out things in advance to avoid to be later not able to do them.	2909	9-99934	vorbereiten::V	
 	Action/Technology:press.V	To apply pressure to an item.	1913	9-342	drücken::V	
 	Action/Technology:process.N	A systematic and continuous course of actions and changes, which can be goal-directed or spontaneous.	3970			
 	Action/Technology:protect.V	To prevent something or somebody from being harmed.	2900		schützen::V	
@@ -1590,7 +1621,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Action/Technology:slap.V	Hit with the open palm of the hand.	3160			
 	Action/Technology:slaughter.V	To kill animals for food.	1796			
 	Action/Technology:sleep (state).N	Sleep is a naturally recurring state of mind and body characterized by altered consciousness, relatively inhibited sensory activity, inhibition of nearly all voluntary muscles, and reduced interactions with surroundings.	2972		Schlaf::N	
-	Action/Technology:smear.V	To spread (a substance) across a surface by rubbing.	364			
+	Action/Technology:smear.V	To spread (a substance) across a surface by rubbing.	364	9-99936		
 	Action/Technology:smoke (emit smoke).V	To emit smoke (such as something which burns).	2859		rauchen::V	
 	Action/Technology:snap (of stick).V	Quick breaking or cracking sound or the action of producing such a sound.	459			
 	Action/Technology:snowman.N	A mass of snow sculptured into the shape of a human.	3098			
@@ -1601,7 +1632,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Action/Technology:stab.V	To perforate the surface of something with a pointed tool or weapon.	1434			
 	Action/Technology:steel.N	Alloys of iron and carbon, widely used in construction and other applications because of their high tensile strengths and low costs.	2343			
 	Action/Technology:steelyard (balance).N	Straight balance with arms of unequal length.	2687			
-	Action/Technology:step (verb).V	To move the foot in walking; to advance or recede by raising and moving one of the feet to another resting place, or by moving both feet in succession.	2065		schreiten::V	
 	Action/Technology:stop doing.V	To stop doing the action one was doing.	3351		aufhören::V	
 	Action/Technology:strap.N	A strap is an elongated flap or ribbon, usually of fabric or leather.	2973		Riemen::N	
 	Action/Technology:stretch.V	To lengthen by pulling.	214	9-32		
@@ -2217,7 +2247,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Animal:wild cat.N	A small cat found throughout most of Africa, Europe, and southwest and central Asia into India, China, and Mongolia.	2241			
 	Animal:wild dog.N	Any of several wild canine species that are commonly called 'dogs' or 'wild dogs' but are not true dogs.	2448			
 	Animal:wild goose.N	A wild goose.	2776			
-	Animal:wild.A	wild, feral, untamed 				993
+	Animal:wild.A	wild, feral, untamed 		16-99914		993
 	Animal:wombat.N	Short-legged muscular quadrupedal marsupials native to Australia.	2841			
 	Animal:woodpecker.N	Part of the Picidae family, a group of near-passerine birds that also consist of piculets, wrynecks, and sapsuckers.	2447			
 	Animal:yak.N	A long-haired bovid found throughout the Himalaya region of southern Central Asia, the Tibetan Plateau and as far north as Mongolia and Russia.	2477			
@@ -2542,7 +2572,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Business:profit.N	profit, gain				1791
 	Business:provide.V	provide, supply, furnish 				1735
 	Business:public.A	public (available to most or all persons) 				1770
-	Business:receive.V	receive 				1737
 	Business:reject.V	reject, refuse (contra-accept) 				1722
 	Business:responsibility.N	responsibility, liability, accountability				1788
 	Business:rich.A	rich, wealthy 				1715
@@ -2638,7 +2667,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Cognition:seem.V	To have a given outward appearance.	1521	17-18	scheinen::V	
 	Cognition:smart.A	To be of high intelligence.	2530			
 	Cognition:strange.A	Out of the ordinary.	600			
-	Cognition:study.V	To follow a course of study; to be enrolled at an institute of learning.	1929	17-242		
 	Cognition:stupid.A	Lacking in intelligence.	1518	17-22	dumm::A	
 	Cognition:succeed.V	To attain a desired goal.	1112		gelingen::V	
 	Cognition:suspect.V	To assume something to be true without direct evidence.	1841	17-44		
@@ -2779,7 +2807,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Communication:pen.N	pen (writing tool that uses ink)				2265
 	Communication:pencil.N	pencil, crayon (writing tool that uses semi-solid substance)				2266
 	Communication:photograph.N	photograph				2284
-	Communication:praise.V	praise, compliment, laud 				2222
 	Communication:print.V	print (to copy marks by pressing inked objects on paper) 				2257
 	Communication:promise.N	promise (a claim about one's future actions), pledge				2278
 	Communication:protest.N	protest, objection				2279
@@ -2797,7 +2824,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Communication:suggest.V	suggest, propose (offer an idea) 				2226
 	Communication:syllable.N	syllable				2288
 	Communication:symbol.N	symbol, sign, token				2242
-	Communication:thank.V	thank (express gratitude toward) 				2227
 	Communication:vocabulary.N	vocabulary (sum of words available to a person/people)				2291
 	Communication:voice.N	voice				2285
 	Communication:vowel.N	vowel				2287
@@ -2869,9 +2895,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Dimension:wide.A	wide, broad (of space between objects) 				2826
 	Dimension:width.N	width (degree of wideness or narrowness)				2825
 	Direction:alone.ADV	alone 				2952
-	Direction:apart.ADV	apart 				2950
 	Direction:away.ADV	away (from this or that place) 				2920
-	Direction:back.ADV	back (to previous place / condition) 				2921
 	Direction:backward.ADV	backward 				2922
 	Direction:city.N	city				2941
 	Direction:destination.N	destination				2932
@@ -2959,7 +2983,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Emotion:emotion.N	emotion				2061
 	Emotion:emotional.A	Having any strong feeling, as of joy, sorrow, or fear.	3761			
 	Emotion:envy.N	A feeling of discontent or covetousness with regard to another's advantages, success, possessions, etc.	40	16-44		
-	Emotion:evil.A	Intending to harm or being/acting ethically wrong.	45		böse::A	
+	Emotion:evil.A	Intending to harm or being/acting ethically wrong.	45	16-99904	böse::A	
 	Emotion:exact.A	Without diversion from the desired or agreed specification; neither exceeding nor failling short in any way.	1466			
 	Emotion:excited.A	Arousal or a feeling of enthusiasm about something.	3972			
 	Emotion:excitement.N	A feeling of extreme but short-term happiness.	3846			
@@ -3030,7 +3054,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Emotion:mourning.N	The feeling of great sadness because someone has died.	3673			
 	Emotion:nervous.A	A mental state of nervousness or agitation. Also, being easily excited or irritated.	3975			
 	Emotion:obligation (duty).N	Either a moral or legal responsibility to accomplish a certain task.	3471			
-	Emotion:on purpose.?	(Doing or feeling something) in a deliberate or controlled way.	1031			
+	Emotion:on purpose.?	(Doing or feeling something) in a deliberate or controlled way.	1031	17-99901		
 	Emotion:pain.N	An unpleasant, usually localised physical sensation that is often the result of an injury, disease or other ailment.	1783	16-31	Schmerz::N	
 	Emotion:painful or sick.A	To cause pain or to be ill.	2103			
 	Emotion:passionate.A	Characterized by intense emotion.	1880			
@@ -3048,7 +3072,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Emotion:regret.V	To wish that a past event had not happened.	1875	16-34		
 	Emotion:rejoice.V	To feel joyful; be delighted.	2192			
 	Emotion:respect (noun).N	An attitude of admiration or esteem.	1912			
-	Emotion:respect (somebody).V	To have respect for someone or something; to have regard for something, to observe a custom, practice, rule or right.	385			
+	Emotion:respect (somebody).V	To have respect for someone or something; to have regard for something, to observe a custom, practice, rule or right.	385	19-99941		
 	Emotion:revenge.V	To take revenge for a perceived wrong.	495			
 	Emotion:riddle.N	A riddle is a statement or question or phrase having a double or veiled meaning, put forth as a puzzle to be solved.	2970		Rätsel::N	
 	Emotion:rude.A	Bad mannered.	1412			
@@ -3129,7 +3153,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Event:system.N	system				3929
 	Event:task.N	task, chore, job, assignment				3927
 	Event:technology.N	technology				3983
-	Event:trouble.N	trouble, difficulty				3943
+	Event:trouble.N	trouble, difficulty		16-99906		3943
 	Event:try.V	try, attempt, endeavor 				3940
 	Event:unlikely.A	unlikely, improbable 				3912
 	Event:use.V	use, utilize 				3970
@@ -3198,6 +3222,10 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Family:older brother (of woman).N	The older brother of a woman.	2415			
 	Family:older sister (of man).N	The older sister of a man.	2418			
 	Family:older sister (of woman).N	The older sister of a woman.	2419			
+	Family:parent’s elder brother.N			2-99911		
+	Family:parent’s elder sister.N			2-99912		
+	Family:parent’s younger brother.N			2-99913		
+	Family:parent’s younger sister.N			2-99914		
 	Family:parents-in-law.N	The parents of someone's spouse	306	2-622		
 	Family:paternal aunt (father's older sister).N	The older sister of one's father.	3041			
 	Family:paternal aunt (father's sister).N	The sister of one's father.	2691	2-522		
@@ -3524,7 +3552,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Form:liquid.N	liquid				3503
 	Form:loop.N	loop, circuit, closed curve				3516
 	Form:lump.N	lump, clod, blob, piece of no particular shape				3568
-	Form:mark.N	mark (visible traces left behind)				3551
+	Form:mark.N	mark (visible traces left behind)		15-99905		3551
 	Form:matter.N	matter, material				3501
 	Form:object.N	object (concrete tangible thing)				3500
 	Form:opening.N	opening, orifice				3543
@@ -3689,7 +3717,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Grammar:here.?	At this place.	136	24-09	hier::ADV	
 	Grammar:in that way.?	Doing something in that manner.	3414			
 	Grammar:in this way.?	Doing something in this manner.	3413			
-	Grammar:in vain.?	Without success, without the desired effect.	1765		vergebens::ADV	
+	Grammar:in vain.?	Without success, without the desired effect.	1765	16-99902	vergebens::ADV	
 	Grammar:next.?	Following in a sequence.	1354	24-12		
 	Grammar:not.?	Negates the meaning of the modified verb or adjective.	1240	24-06	nicht::ADV	
 	Grammar:nothing or zero.NUM	Not anything or the cardinal number that denotes no quantity or amount at all.	3198			
@@ -3700,7 +3728,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Grammar:other or some.?	The rest of a group or an unspecified quantity or number.	3863			
 	Grammar:other.?	The rest of a group of.	197	24-11	anderer::A	
 	Grammar:our.?	Belonging to us; of us.	780			
-	Grammar:same.?	Bearing full likeness by having precisely the same set of characteristics.	200	24-13		
+	Grammar:same.?	Bearing full likeness by having precisely the same set of characteristics.	200	24-13		2402
 	Grammar:severe.A	Intensely or extremely bad or unpleasant in degree or quality.	419		schlimm::A	
 	Grammar:that.?	The indicated object, item, etc. distant from the speaker.	78	24-08	das::PRN	
 	Grammar:there is or there are.V	Existing from the perspective of the speaker.	2152			
@@ -3786,7 +3814,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Identity:replacement.N	replacement (permanent substitute/substitution)				2436
 	Identity:represent.V	represent (act as a substitute for) 				2432
 	Identity:resemble.V	resemble 				2426
-	Identity:same.A	same, identical 				2402
 	Identity:seem.V	seem, appear to be, give the impression of 				2424
 	Identity:similar.A	similar 				2406
 	Identity:specific.A	specific, special, particular 				2430
@@ -3806,7 +3833,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Language:conversation.N	Conversation is interactive, communication between two or more people.	2933		Gespräch::N	
 	Language:do not do it.V	Ask or command somebody to not carry out an action.	2660			
 	Language:hum.V	To sing a tune with the mouth closed.	3671			
-	Language:joke.N	Something that is said or done in a non-serious, comic way.	3425			
 	Language:language or word.N	A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds or a distinct unit of language (sounds in speech or written letters) with a particular meaning, composed of one or more morphemes, and also of one or more phonemes that determine its sound pattern.	2799			
 	Language:low voice.?	Speaking quietly: to talk in a low voice.	536			
 	Language:make a joke.V	To say something which is not meant seriously.	2760			
@@ -3919,7 +3945,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Matter:hit.V	hit, strike 				3749
 	Matter:ice.N	ice				3302
 	Matter:ink.N	ink				3353
-	Matter:jade.N	jade (the tough green gemstone)				3339
+	Matter:jade.N	jade (the tough green gemstone)		1-99905		3339
 	Matter:jewel.N	jewel, gem				3338
 	Matter:magnet.N	magnet				3841
 	Matter:medicine.N	medicine (substance that makes one healthy)				3356
@@ -4050,7 +4076,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Modernity:election.N	A process by which members of a population vote to choose a person to hold public office.	240	23-38		
 	Modernity:electricity.N	A general term used for all phenomena caused by electric charge whether static or in motion.	59	23-17		
 	Modernity:engine.N	Machine that converts energy into mechanical energy.	2622			
-	Modernity:fairy tale.N	A fairy tale is a type of short story that typically features folkloric fantasy characters, such as dwarves, dragons, elves, fairies, giants, gnomes, goblins, griffins, mermaids, talking animals, trolls, unicorns, or witches, and usually magic or enchantments.	2937		Märchen::N	
+	Modernity:fairy tale.N	A fairy tale is a type of short story that typically features folkloric fantasy characters, such as dwarves, dragons, elves, fairies, giants, gnomes, goblins, griffins, mermaids, talking animals, trolls, unicorns, or witches, and usually magic or enchantments.	2937	18-99901	Märchen::N	
 	Modernity:faucet.N	A device applied to the end of a pipe in order to interrupt and regulate the flow of a liquid or gas.	1488	23-5		
 	Modernity:flag.N	A squared piece of cloth that usually is attached to a stick and is used to fulfil various functions of representation.	2623			1490
 	Modernity:garbage.N	Unwanted or undesired material, usually discarded.	909			
@@ -4107,7 +4133,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Modernity:wealth.N	Wealth is the abundance of valuable resources or valuable material possessions.	2996		Reichtum::N	
 	Modernity:whip.N	A tool traditionally used by humans to exert control over animals.	2630			
 	Modernity:wire.N	A single, usually cylindrical, flexible strand or rod of metal.	2631			
-	Motion:accompany.V	To go or travel in the company of someone.	1542			
+	Motion:accompany.V	To go or travel in the company of someone.	1542	10-99901		
 	Motion:aim.V	aim (to point/direct X toward Y) 				3030
 	Motion:attract.V	attract 				3020
 	Motion:avoid.V	avoid, evade, keep away from 				3031
@@ -4181,7 +4207,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Motion:outrigger.N	A stabilizer for a canoe; spars attach to a shaped log or float parallel to the hull.	416	10-832		
 	Motion:overcome.V	To surmount a physical or an abstract obstacle.	1999			
 	Motion:paddle (movement).V	To make a boat move by pushing a pole with a wide end through the water.	3668			
-	Motion:pass by.V	To travel past without stopping.	558			
+	Motion:pass by.V	To travel past without stopping.	558	10-99906		
 	Motion:path or road.N	A piece of ground that people can walk or drive along.	2457		Weg::N	
 	Motion:path.N	A narrow piece of ground that people can walk along.	2252	10-72	Pfad::N	
 	Motion:port.N	Area of water next to the coast, often surrounded by thick walls, where ships and boats can be sheltered.	610	10-91		
@@ -4249,7 +4275,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Nature:bay.N	An open, curving indentation made by the sea or a lake into a coastline.	663	1-34	Bucht::N	
 	Nature:bay.N	bay (small body of water offset from lake or sea)				1160
 	Nature:be situated.?	The way in which something is positioned vis-à-vis its surroundings.	62			
-	Nature:beach.N	A sandy strip of land close to the sea or ocean.	3460			
+	Nature:beach.N	A sandy strip of land close to the sea or ocean.	3460	1-99901		
 	Nature:beach.N	beach, shore				1161
 	Nature:bolt (of lightning).N	A sudden, short, temporary burst of light.	2007	1-57		
 	Nature:bottom.N	The part furthest in the direction toward which an unsupported object would fall.	690	12-34		
@@ -4406,7 +4432,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Nature:soot.N	Impure black carbon with oily compounds obtained from the incomplete combustion of resinous materials, oils, wood, or coal.	830			
 	Nature:spark.N	A small particle or body of shining or glowing matter, either molten or on fire.	518		Funke::N	
 	Nature:spot.N	A round or irregular patch on the surface of a thing having a different color, texture etc. and generally round in shape.	519			
-	Nature:spring (of water).N	A place where ground water flows naturally from a rock or the soil onto the land surface or into a body of surface water.	849		Quelle::N	
+	Nature:spring (of water).N	A place where ground water flows naturally from a rock or the soil onto the land surface or into a body of surface water.	849	1-9991	Quelle::N	
 	Nature:spring or well.N	A natural or human-made source of fresh water.	2144	1-37		
 	Nature:squeak.V	To make a short, high-pitched sound.	3692			
 	Nature:steam.N	The gas phase of water.	1193	1-831		
@@ -4451,7 +4477,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	People:chief.N	chief (leader of a tribe)				392
 	People:dictator.N	dictator, tyrant				397
 	People:enemy.N	enemy				375
-	People:hermit.N	hermit				382
+	People:hermit.N	hermit		19-99924		382
 	People:king.N	king				390
 	People:leader.N	leader				370
 	People:master.N	master (person who commands slaves, animals, etc)				372
@@ -4482,7 +4508,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Perception:bright.A	bright (with much light present) 				824
 	Perception:bright.A	Emitting or reflecting light readily or in large amounts. [WN:679]	679	15-57	hell::A	
 	Perception:brilliant.A	(Of a color) having a high saturation and reflecting a considerable amount of light.	3709			
-	Perception:brown.A	brown 				847
+	Perception:brown.A	brown 		15-99901		847
 	Perception:brown.A	Having a brown color.	2409			
 	Perception:clear (to see).A	If something is visible without obstacles (e.g., clouds, spots).	3710			
 	Perception:cold (chill).N	Cold is the presence of low temperature, especially in the atmosphere.	2932		Kälte::N	
@@ -4518,7 +4544,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Perception:green or unripe.A	Having a green color or being not ripe (of fruits).	2300			
 	Perception:green.A	green 				841
 	Perception:green.A	Having green as its colour; having the hue of that portion of the visible spectrum lying between yellow and blue, evoked in the human observer by radiant energy with wavelengths of approximately 490 to 570 nanometers.	1425	15-68	grün::A	
-	Perception:grey.A	Having a colour between black and white, like ash or stone.	153		grau::A	
+	Perception:grey.A	Having a colour between black and white, like ash or stone.	153	15-99902	grau::A	
 	Perception:hard.A	Resistant to pressure.	1884	15-74	hart::A	
 	Perception:harmony.N	harmony (pleasing combination of stimuli)				855
 	Perception:hear or listen.V	To perceive sound with the ear, with or without paying attention to it.	3862		vernehmen::V	
@@ -4535,7 +4561,7 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Perception:hot.A	hot 				895
 	Perception:hurt (sense pain).V	To feel pain.	2561			
 	Perception:hurt (somebody).V	Imposing pain on somebody else.	2411			
-	Perception:identical.A	Being the same.	2276			
+	Perception:identical.A	Being the same.	2276	17-99903		
 	Perception:itchy.A	Having a sensation that provokes the need to scratch.	149			
 	Perception:keen or subtle.A	To be fine regarding one's senses.	2232			
 	Perception:khaki.A	A yellowish-brown color which is often associated with military uniforms.	3750			
@@ -4555,15 +4581,14 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Perception:noise.N	Sound which is unwanted, either because of its effects on humans, its effect on fatigue or malfunction of physical equipment, or its interference with the perception or detection of other sounds.	1182		Lärm::N	
 	Perception:noisy.A	To make a lot of noise.	3883			
 	Perception:odor (smell).N	The property of something that can be perceived and recognized through the nose.	3704		Geruch::N	
-	Perception:orange (color).A	A bright reddish-yellowish colour.	3328			
-	Perception:orange.A	orange (having a hue between red and yellow) 				837
+	Perception:orange (color).A	A bright reddish-yellowish colour.	3328	15-99903		837
 	Perception:ornament.N	ornament, decoration				853
 	Perception:pain.N	pain				881
 	Perception:painful.A	Full of pain; causing uneasiness or distress, either physical or mental.	1129			
 	Perception:perceive.V	perceive (become aware of using the physical senses) 				802
 	Perception:picture.N	picture, image				823
 	Perception:pinch.V	To squeeze a small amount of a person's skin and flesh, making it hurt.	378	15-712		
-	Perception:pink.A	Having pink as its colour.	3446			
+	Perception:pink.A	Having pink as its colour.	3446	15-99904		
 	Perception:pitch.N	pitch (frequency of sound waves), tone (high or low pitch)				865
 	Perception:pleasure.N	pleasure				882
 	Perception:purple.A	Having purple as its color.	2452			
@@ -4721,12 +4746,11 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Possession:earn.V	To gain (success, payment) through applied effort or work.	733	11-79		
 	Possession:expensive.A	Having a high price, cost.	1426	11-88	teuer::A	
 	Possession:find.V	To encounter something by accident or after searching for it.	719	11-32	finden::V	
-	Possession:free.A	Able to act at will; not hampered; not under compulsion or restraint.	2316			
+	Possession:free.A	Able to act at will; not hampered; not under compulsion or restraint.	2316	19-99905		
 	Possession:get.V	To get or obtain an item; to come into the possession of something.	694	11-16	erhalten::V	
 	Possession:give back.V	To transfer a good to the person or people it came from, or to their legal successors.	85	11-22		
 	Possession:give.V	To transfer the possession or holding (of an object) to another person.	1447	11-21	geben::V	
 	Possession:grasp.V	Get the meaning of something.	2021		begreifen::V	
-	Possession:gratis (of charge).?	Without cost.	130			
 	Possession:have.V	To be in possession (of an object).	773	11-11		
 	Possession:her (genitive of she).?	Belonging to the female third person.	2474			
 	Possession:hire.V	To employ a person or people in exchange of some kind of remuneration, usually a payment.	856	11-77		
@@ -4857,7 +4881,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Quantity:enough.?	All that is required, needed, or appropriate.	1881	13-18		
 	Quantity:few.?	More than one, but not as many as usual or as expected.	1242	13-17		
 	Quantity:few.A	few (a small number of) 				2643
-	Quantity:fill.V	To make full.	2006		füllen::V	
 	Quantity:first.?	Having no predecessor. The ordinal number corresponding to one.	728	13-34	erster::A	
 	Quantity:fish (classifier).CLF	Classifier for fishes.	2720			
 	Quantity:foot (measure).N	A measure unit.	2782			
@@ -4987,7 +5010,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Society:enemy.N	Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.	1358	19-52	Feind::N	
 	Society:fame.N	The state or quality of having a positive reputation.	865			
 	Society:festival.N	Manifestation of collective joy, lasting longer than a few minutes.	131			
-	Society:fool.N	A person with poor judgment or little intelligence.	1438			
 	Society:freeman.N	A free man, one who is not a serf or slave.	384	19-44		
 	Society:friend.N	A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.	1325	19-51	Freund::N	374
 	Society:friendship.N	A feeling of affection, good disposition, and sympathy experienced towards someone.	3954			
@@ -5013,13 +5035,13 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Society:liberate.V	To set free from the power of another.	37	19-445		
 	Society:lord.N	A man of noble rank or high office; a nobleman.	3153			
 	Society:master.N	Someone who has control over something or someone; the owner of an animal or slave or someone who employs others.	383	19-41		
+	Society:mate.N			19-99944		
 	Society:meet.V	To encounter a person, either intentionally or by chance.	1831	19-65	treffen::V	
 	Society:mid-autumn festival.N	A harvest festival celebrated by ethnic Chinese and Vietnamese peoples.	2187			
 	Society:midwife.N	A person, usually a woman, who helps women in childbirth and provides ante- and postnatal care.	3859			
 	Society:murderer.N	A person who commits murder.	3871			
 	Society:native country.N	One’s country of birth.	89	19-12		
 	Society:neighbour.N	A person living in a house that is adjacent or nearby another person's house.	1332	19-54		
-	Society:new year's eve.N	The last day of the year.	2188			
 	Society:noble.N	Someone of aristocratic blood.	482	19-36		
 	Society:nomadize.V	To lead a nomadic lifestyle.	2221			
 	Society:obey.V	To do as you are told.	1635	19-46		
@@ -5031,11 +5053,11 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Society:pimpleface.N	A person with acne marks in the face.	3366			
 	Society:play (game).V	Act within the frame and rules of a game.	3125			
 	Society:plot.N	Agreement on a secret plot.	2024	19-63		
-	Society:power.N	The ability to act or force others to act.	2526		Macht::N	
+	Society:power.N	The ability to act or force others to act.	2526	19-99931	Macht::N	
 	Society:prevent.V	To inhibit the occurrence of an event; to stop from doing something or being in a certain state.	1550	19-59		
 	Society:prince (ruler).N	A ruler whose status is below that of a king.	2554			
 	Society:prostitute.N	A woman who sells sexual services for money.	1610	19-72		
-	Society:quarrel (verb).V	To have a loud or noisy verbal confrontation between two or more people.	3302			
+	Society:quarrel (verb).V	To have a loud or noisy verbal confrontation between two or more people.	3302	19-9994		
 	Society:quarrel.N	A loud or noisy verbal confrontation between two or more people.	1848	19-62		
 	Society:queen.N	A female monarch.	1306	19-33		
 	Society:rebel.V	To resist or become defiant toward an authority.	567			
@@ -5054,7 +5076,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Society:subjugate.V	To put somebody under one's authority.	1516			
 	Society:sympathize.V	To show understanding for somebody's problems or hurt feelings.	3903			
 	Society:team.N	A cooperative group of individuals working together for a common purpose.	3961			
-	Society:thank (somebody).V	To express one's gratitude.	2412			
 	Society:tibetan.N	Referring to the Tibetan people, their cultural practices or heritage.	3374			
 	Society:town or village.N	Referring to either smaller (village) or larger (town) settlements.	3609			
 	Society:town.N	An area with residential districts, shops and amenities, and its own local government.	1391	19-15	Stadt::N	
@@ -5080,7 +5101,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Space:at.?	To be in a particular place or location.	1461	12-013		
 	Space:atop or up.?	To be situated on something or to move upwards.	3345			
 	Space:atop.?	To be situated on something.	57			
-	Space:back (direction).?	The opposite direction from where one came.	2910		zurück::ADV	
 	Space:back (part).N	The backward part or surface, as of a building.	2323			
 	Space:backward.?	Moving in the direction of one's backside.	2911		rückwärts::ADV	
 	Space:ball.N	Any spherical object.	1845	12-83		
@@ -5547,6 +5567,10 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Value:virtuous.N	virtuous				1907
 	Value:wrong.A	wrong, incorrect 				1949
 		A bag made of skin for containing water or wine.		9-9992		
+		A Brazilian person.		19-99913		
+		A Chinese person.		19-99915		
+		A Creole or black person.		19-99918		
+		A European person.		19-99917		
 		A German person.		2-99906		
 		A Hungarian person.		2-99907		
 		A non-Gypsy person.		2-9991		
@@ -5554,19 +5578,53 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 		A Vlax Gypsy person.		2-99918		
 		An odorant plant that gorws in the bleak plateaus. sp. Micromeria nubigena.		8-99916		
 		Arabia		19-99901		
+		Australia.		19-99902		
+		Better, comparative of good.		16-99901		
+		China		19-99903		
+		Egypt		19-99904		
+		Greece		19-99906		
 		India		19-99907		
 		Madagascar		19-99908		
+		Rarotonga		19-99909		
 		Sated, statiate, full-up of eating.		5-99902		
+		Scarcity		17-99904		
+		Sir, the epithet that is used with male given names.		19-9991		
 		Smoked food.		5-99918		
+		Spain		19-99911		
 		The ayahuasca,a psychoactive infusion prepared from the Banisteriopsis spp.		5-99904		
 		The bacon.		5-99905		
 		The black tree dye.		8-99907		
 		The brandy, a type of liquor.		5-99907		
+		The centigram, a metric unit of mass equal to one hundredth (10) of a gram.		13-99904		
+		the communal labour		19-99916		
+		The constellation		1-99904		
+		the foreman		19-99921		
+		the French person		19-99922		
+		the government document		19-99923		
+		the hockey		19-99925		
+		the layman		19-99926		
 		The lima bean.		8-99926		
+		The loam, a rich soil consisting of a mixture of sand and clay and decaying organic materials.		1-99906		
 		The manioc juice made of the cassava plant or root.		5-99913		
 		The metabolism.		4-99908		
+		the mixed-race Kali’na		19-99927		
+		the mixed-race Kali’na		19-99928		
 		The mochi, a small Japanese rice cake made from glutinous rice.		5-99914		
+		The possibility, what is possible.		17-99902		
 		The ramen noodles, called saimin in Hawaii.		5-99915		
 		The rice ball or musubi.		5-99916		
 		The roasted cassava meal.		5-99917		
+		The settlement, resolution of a dispute.		19-99932		
+		The small change, coins.		19-99933		
+		the socialism		19-99934		
+		the sport		19-99935		
+		the student		19-99936		
 		The tamale.		5-99919		
+		the upper case or capital letter		18-99905		
+		The violet, a colour between blue and red.		15-99906		
+		the vote or ballot or pole		19-99937		
+		The yard, a unit of measurement.		13-99905		
+		To give a ride on a horse.		10-99905		
+		To retire, to cease doing work for living.		19-99942		
+		Voluptuous		16-99913		
+		Worse, the comparative of bad.		16-99915		
