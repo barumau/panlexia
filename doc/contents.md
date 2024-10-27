@@ -71,6 +71,8 @@ Word list files may include also some or all of the following additional columns
 - `pronunciation`: Pronunciation of the contents of the `word` field in the International Phonetic Alphabet (IPA).
 - `grammar`: Grammatical information about the word.
    For example, nouns may be marked `F` (feminine), `M` (masculine) or `N` (neuter) in languages that have grammatical gender.
+- `morphology`: The structure of the word analyzed into morphemes.
+   An empty field means that the word consist of one unanalyzable part.
 - `etymology`: The origin of the word in case it is a (recent) loanword.
    This field may consist of a 3-letter ISO language code, a colon (`:`), the word in the original language and its pronunciation inside parentheses.
 
