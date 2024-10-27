@@ -85,6 +85,7 @@ Animal:unicorn.N	Belief:unicorn.N	A legendary animal with a horn on the forehead
 Animal:Ursidae.N	Animal:bear.N	A large beast of prey of the family Ursidae, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet.	1820	3-73	Bär::N	960
 Animal:Vespinae.N	Animal:wasp.N	A flying stinging insect related to the bee, which is usually coloured yellow and black.	1517	3-823		
 Animal:Vulpes.N	Animal:fox.N	A carnivorous relatively small canine of the species Vulpes Vulpes.	1312	3-74	Fuchs::N	964
+Animal:wool.N	Clothing/Grooming:wool.N	The soft, curly hair that forms the fleece of sheep, lamas and other animals and which is used to produce clothing.	964	6-22	Wolle::N	1403
 Art:sculptor.N	Action/Technology:sculptor.N	A person who practices the art of sculpture.	914	9-82		
 Art:statue.N	Action/Technology:statue.N	A three-dimension work of art, usually of a person or animal, usually created by sculpting, carving, moulding, or casting.	1002	9-83		
 Atmosphere:climate.N	Nature:climate.N	Climate is the long-term pattern of weather in a particular area.	2426			
@@ -154,6 +155,7 @@ Belief:pyre.N	Belief:pyre.N	Structure made from wood for burning a body as part 
 Belief:religion.N	Belief:religion.N	The expression of man's belief in and reverence for a superhuman power recognized as the creator and governor of the universe.	661	22-11		1801
 Belief:rite.N	Belief:rite.N	A specific process or action used to practise religious beliefs.	3334			1890
 Belief:sacred grove.N	Belief:sacred grove.N	A place in nature believed to hold special religious, magical, etc. powers.	3335			
+Belief:Santa Claus.N	Modernity:santa claus.N	Santa Claus, also known as Saint Nicholas, Father Christmas, Kris Kringle and simply Santa, is an important figure with legendary, historical and folkloric origins who, in many Western cultures, is said to bring gifts to the homes of the good children on 24 December, the night before Christmas Day.	2404			
 Belief:sermon.N	Belief:sermon.N	A religious lecture or speech, addressing issues of religion or morality.	3167			
 Belief:sermon.V	Belief:preach.V	To deliver a sermon.	304	22-22		
 Belief:shaman.N	Belief:shaman (folk healer).N	A traditional (prescientific) faith healer; a member of certain tribal societies who acts as a religious medium between the concrete and spirit worlds.	394			
@@ -398,6 +400,7 @@ Building:doorsill.N	Building:doorsills.N	A horizontal member of wood, stone, etc
 Building:fireplace.N	Building:fireplace.N	An open recess in a wall at the base of a chimney where a fire may be built, or a hearth.	185	7-31		1520
 Building:floor.N	Building:floor.N	The bottom or lower part of any room; the supporting surface of a room.	1632	7-26	Fußboden::N	1512
 Building:frame.N	Building:frame.N	frame (structure supporting or surrounding something)				1330
+Building:frame.N	Modernity:frame.N	A structural system of support.	2624			
 Building:garden-house.N	Building:garden-house.N	A small building in a garden, such as a shed, which is not usually build to be inhabitated for long times.	403	7-131		
 Building:gate.N	Building:gate.N	A gate or gateway is a point of entry to a space which is enclosed by walls.	2940		Tor::N	
 Building:house.N	Building:house.N	The abode of a human being, their place of residence.	1252	7-12	Haus::N	1550
@@ -438,8 +441,106 @@ Cleaning:wash (oneself).V	Action/Technology:wash (oneself).V	To cleanse one's bo
 Cleaning:wash.V	Action/Technology:wash.V	To remove dirt and grime from an object, using water (usually with soap).	1453	9-36	waschen::V	
 Cleaning:wipe.V	Action/Technology:wipe.V	To move an object or utensil over a surface or other object while maintaining contact, in order that a substance be removed from its surface.	1454	9-311	abwischen::V	
 Cleaning:wring.V	Action/Technology:wring.V	To take a cloth and twist its ends into different directions in order to dry it.	3224			
+Clothing:apron.N	Clothing/Grooming:apron.N	A piece of cloth or plastic, worn over the front of the clothes for protection against dirt.	2046			1440
+Clothing:awl.N	Clothing/Grooming:awl.N	Pointed tool for marking or piercing wood or leather.	278	6-37		
+Clothing:baby sling.N	Clothing/Grooming:baby sling.N	A piece of cloth used for carrying an infant or small child around a carer's body.	3946			
+Clothing:bamboo hat.N	Clothing/Grooming:bamboo hat.N	A hat made of bamboo (斗笠 dǒulì).	2160			
+Clothing:barefoot.A	Clothing/Grooming:barefoot.A	Not wearing anything on the feet.	3737			
+Clothing:bead.N	Clothing/Grooming:bead.N	A hard, rounded object produced within the soft tissue (specifically the mantle) of a living shelled mollusk.	1860	6-76		
+Clothing:belt.N	Clothing/Grooming:belt.N	A clothing accessory, usually made of leather or heavy cloth, worn around the waist and used to support trousers or other articles of clothing.	772	6-57	Gürtel::N	1441
+Clothing:boot.N	Clothing/Grooming:boot.N	A shoe that covers part of the leg.	585	6-52	Stiefel::N	
+Clothing:boubou.N	Clothing/Grooming:boubou.N	A flowing wide sleeved robe worn by men in much of West Africa, and to a lesser extent in North Africa.	461			
+Clothing:braid.N	Clothing/Grooming:braid.N	A hair style formed by interweaving three or more strands of hair.	1043	6-921		
+Clothing:button.N	Clothing/Grooming:button.N	A fastener consisting of a knob or disc that is passed through a slit in the adjacent material.	757	6-62	Knopf::N	
+Clothing:cap.N	Clothing/Grooming:cap.N	A usually soft and close-fitting head covering, either having no brim or with a visor.	1288		Mütze::N	1431
+Clothing:cloak.N	Clothing/Grooming:cloak.N	A long outer garment worn over the shoulders covering the back; a cape, often with a hood.	326	6-41		
+Clothing:cloth.N	Clothing/Grooming:cloth.N	A woven fabric such as used in dressing, decorating, cleaning or other practical use.	1616	6-21	Stoff::N	1401
+Clothing:clothes.N	Clothing/Grooming:clothes.N	All coverings designed to be worn on a person's body.	1895	6-12	Kleidung::N	
+Clothing:coat.N	Clothing/Grooming:coat.N	A heavy outer garment covering the upper torso and arms.	603	6-43		1450
+Clothing:collar.N	Clothing/Grooming:collar.N	The part of a garment that encircles the neck.	2012	6-45	Kragen::N	1480
+Clothing:cotton.N	Clothing/Grooming:cotton.N	Fiber obtained from plants of the genus Gossypium, used in making fabrics, cordage, and padding and for producing artificial fibers and cellulose.	1850	6-24		
+Clothing:cushma.N	Clothing/Grooming:cushma.N	A one-piece dress used by the Ashaninka Indians.	450			
+Clothing:dress up.V	Clothing/Grooming:dress up.V	To clothe oneself; to put on clothes.	814		sich anziehen::V	
+Clothing:dress.N	Clothing/Grooming:dress.N	A one-piece garment for a woman that has a skirt and a body section.	474	6-42		1452
+Clothing:dye.V	Clothing/Grooming:dye.V	To modify the color of something by applying dye.	157	6-39	färben::V	
+Clothing:felt.N	Clothing/Grooming:felt.N	A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.	325	6-27		
+Clothing:fit.V	Clothing/Grooming:suit.V	(Of an object) To be of the right size and shape so as to match another object.	764			
+Clothing:garment.N	Clothing:garment.N	An item of clothing.				1435
+Clothing:glove.N	Clothing/Grooming:glove.N	A garment for a hand, often extending to the wrist and sometimes up to the elbow, which either covers each finger individually, or separates the thumb from the other fingers.	867	6-58		1442
+Clothing:grass-skirt.N	Clothing/Grooming:grass-skirt.N	A skirt made from long dried grass, or synthetic material resembling it.	328	6-461		
+Clothing:handkerchief.N	Clothing/Grooming:handkerchief.N	A piece of cloth, usually square and often fine and elegant, carried for wiping the face, nose or hands.	1020			
+Clothing:harness.N	Clothing:harness.N	harness				1443
+Clothing:hat.N	Clothing/Grooming:hat.N	An item of clothing intended to cover the head made from material hard enough to have a shape independant of the skull, and most commonly with a rim.	771			1430
+Clothing:headband or headdress.N	Clothing/Grooming:headband or headdress.N	An cloth or strip of cloth worn on or around the head.	3457	6-78		
+Clothing:headband.N	Clothing/Grooming:headband.N	A strip of fabric worn around the head, or a hair-accessory made of a flexible material and curved like a horseshoe, for holding one's hair back.	330			
+Clothing:headdress.N	Clothing/Grooming:headdress.N	A decorative covering or ornament worn on the head.	331			
+Clothing:headgear.N	Clothing/Grooming:headgear.N	Any element of clothing which is worn on one's head.	2130	6-55		
+Clothing:hemp cloth.N	Clothing/Grooming:hemp cloth.N	A woven fabric such as used in dressing, decorating, cleaning or other practical use which is made from hemp.	2161			
+Clothing:iron.V	Clothing/Grooming:iron (clothes).V	To make clothes smooth by brushing over them with a heated tool.	3118			
+Clothing:jacket.N	Clothing/Grooming:jacket.N	A mid-stomach–length garment for the upper body.	2770			1451
+Clothing:jeans.N	Clothing:jeans.N	Trousers that are made of denim.				1461
 Clothing:knit.V	Action/Technology:knit.V	To create a textile by manipulating yarn with the help of two long needles.	2905		stricken::V	
+Clothing:leather.N	Clothing/Grooming:leather.N	The dressed or tanned hide of an animal, usually with the hair removed.	629	6-29	Leder::N	1404
+Clothing:linen.N	Clothing/Grooming:linen.N	A material made from the fibers of the flax plant.	916	6-23		
+Clothing:loincloth.N	Clothing/Grooming:loincloth.N	A cloth worn to cover the loins.	1965			
+Clothing:loom.N	Clothing/Grooming:loom.N	A frame or machine (made of wood or other material) in which a weaver forms cloth out of thread; a machine for interweaving yarn or threads into a fabric.	1787	6-34		1411
+Clothing:mask.N	Clothing/Grooming:mask.N	A cover, or partial cover, for the face, used for disguise or protection.	2005			
+Clothing:moccasin.N	Clothing/Grooming:moccasin.N	A shoe with a soft sole made from animal skin or leather.	3607			
 Clothing:naked.A	Body:naked.A	Without clothing.	590	4-99	nackt::A	645
+Clothing:necktie.N	Clothing/Grooming:tie (noun).N	A small band of fabric which is tied around the collar of a shirt.	3711			1444
+Clothing:needle.N	Clothing/Grooming:needle (for sewing).N	A thin, sharp implement used in sewing, knitting and acupuncture.	1382	6-36	Nadel::N	1410
+Clothing:pacifier.N	Clothing/Grooming:pacifier.N	An artificial teat made of rubber, plastic, or silicone put into an infant's mouth to calm it.	3087			
+Clothing:pelt.N	Clothing/Grooming:pelt.N	The hair-covered, dressed pelt of a mammal, used in the making of garments and as trimming or decoration.	3232			
+Clothing:penis sheath.N	Clothing/Grooming:penis sheath.N	Sheath to cover a penis.	2671			
+Clothing:pin.N	Clothing/Grooming:pin.N	A small device, made (usually) of drawn-out steel wire with one end sharpened and the other flattened or rounded into a head, used for fastening.	64	6-63		
+Clothing:plait.N	Clothing/Grooming:plait.N	A flat fold; a doubling, as of cloth; a pleat.	333			
+Clothing:pocket.N	Clothing/Grooming:pocket.N	A kind of pouch, which is accessible by an opening in an article of clothing and serves for storage; usually large enough in order to accommodate at least one hand.	1851	6-61		1481
+Clothing:poncho.N	Clothing/Grooming:poncho.N	A simple garment, made from a rectangle of cloth, with a slit in the middle for the head.	327	6-411		
+Clothing:put on.V	Clothing/Grooming:put on.V	To put clothes onto ones body to wear them.	158	6-11	anziehen::V	1426
+Clothing:quilt.V	Clothing/Grooming:quilt.V	To stitch or sew together.	2048			
+Clothing:rag.N	Clothing/Grooming:rag.N	A piece of old cloth; a tattered piece of cloth; a shred, a tatter.	332	6-81		
+Clothing:raincoat.N	Clothing/Grooming:raincoat.N	A long jacket which is waterproof.	3712			
+Clothing:sarong.N	Clothing/Grooming:sarong.N	A sarong or sarung is a large tube or length of fabric, often wrapped around the waist and worn by men and women throughout much of South Asia.	2413			
+Clothing:scarf or turban.N	Clothing/Grooming:scarf or turban.N	A garment, usually consisting of a long piece of cloth, wound around the head or neck or shoulders.	3066		Tuch::N	
+Clothing:sew.V	Clothing/Grooming:sew.V	To pass thread repeatedly through fabric or a material, using a needle, in order to join two or more parts or to make a pattern or motif.	1457	6-35	nähen::V	1420
+Clothing:shawl.N	Clothing/Grooming:shawl.N	A garment which is wrapped around the neck to prevent from cold.	2771			
+Clothing:shirt.N	Clothing/Grooming:shirt.N	An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms.	1622	6-44	Hemd::N	1453
+Clothing:shoe.N	Clothing/Grooming:shoe.N	A protective covering for the foot, with a bottom part composed of thick leather or plastic sole and often a thicker heel, and a softer upper part made of leather or synthetic material. Shoes generally do not extend above the ankle, as opposed to boots, which do.	1381	6-51	Schuh::N	1470
+Clothing:shoemaker.N	Clothing/Grooming:shoemaker.N	A person whose profession is making and repairing footwear.	875	6-54		
+Clothing:shorts.N	Clothing:shorts.N	Outer pants extending no lower than knees.				1463
+Clothing:shuttle.N	Clothing/Grooming:shuttle.N	Device used in weaving to carry the weft, moving continuously to-and-fro.	543			
+Clothing:silk.N	Clothing/Grooming:silk.N	One of the finest textiles, obtained from cocoons of certain species of caterpillars; it is soft, very strong and absorbent and has a brilliant sheen.	1641	6-25		1402
+Clothing:skirt.N	Clothing/Grooming:skirt.N	An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.	1600	6-46		1462
+Clothing:sleeve.N	Clothing/Grooming:sleeve.N	Part of a garment covering the arm.	2953		Ärmel::N	
+Clothing:slipper.N	Clothing:slipper.N	A lightweight shoe worn indoors.				1472
+Clothing:snowshoe.N	Clothing/Grooming:snowshoe.N	Footwear for walking over the snow.	233	6-98		
+Clothing:sock.N	Clothing/Grooming:sock.N	A knitted or woven covering for the foot, reaching no higher than just above the ankle.	1522			1471
+Clothing:spin.V	Clothing/Grooming:spin.V	To make (yarn) by drawing out, twisting, and winding fibers.	121	6-31		
+Clothing:spindle.N	Clothing/Grooming:spindle.N	A stick used in spinning fiber into thread.	277	6-32		
+Clothing:stocking.N	Clothing/Grooming:stocking.N	A soft garment worn on the foot and lower leg, usually knit or woven, worn under shoes or other footwear.	329	6-49		
+Clothing:straw raincoat.N	Clothing/Grooming:straw raincoat.N	A traditional East Asian garment made out of straw, worn against the rain. In Japanese it's called mino.	3540			
+Clothing:straw sandal.N	Clothing/Grooming:straw sandal.N	An open type of outdoor footwear leaving most of the upper part of the foot exposed, particularly the toes.	2047			
+Clothing:suit.N	Clothing:suit.N	suit (combo of jacket, dress shirt, slacks, and usually necktie)				
+Clothing:sunglasses.N	Clothing/Grooming:sunglasses.N	Form of glasses with tinted lenses to protect one's eyes from sunlight.	3100			
+Clothing:T-shirt.N	Clothing:t-shirt.N	T-shirt (a collarless short-sleeved casual shirt or undershirt)				1454
+Clothing:tailor.N	Clothing/Grooming:tailor.N	Someone who professionally manufactures clothing.	881	6-13		
+Clothing:take off one's clothes.V	Action/Technology:take off one's clothes.V	Take off one's clothes.	2326			
+Clothing:take off.V	Action/Technology:take off.V	To take off a piece of clothing or similar.	3538			1427
+Clothing:thong.N	Clothing/Grooming:g-string.N	A thong underwear or swimsuit, a narrow piece of cloth, leather, or plastic, that covers or holds the genitals, passes between the buttocks, and is attached to a band around the hips.	468			
+Clothing:thread.N	Clothing/Grooming:thread.N	A long, thin and flexible form of material, generally with a round cross-section, used in sewing, weaving or in the construction of string.	1161	6-38	Faden::N	1415
+Clothing:towel.N	Clothing/Grooming:towel.N	Piece of absorbent fabric or paper used for drying or wiping.	1021	6-82	Handtuch::N	1488
+Clothing:trousers.N	Clothing/Grooming:trousers.N	An item of clothing worn on the lower part of the body and covering both legs separately.	809	6-48	Hose::N	1460
+Clothing:umbrella.N	Clothing/Grooming:umbrella.N	Portable folding canopy used for protection against weather influences.	3105			
+Clothing:underpants.N	Clothing:underpants.N	underpants				1464
+Clothing:undress.V	Clothing/Grooming:undress.V	To take off all of one's clothes, or to take off a piece of clothing or similar.	1755		ausziehen::V	
+Clothing:uniform.N	Clothing:uniform.N	Special garments worn by members of a group.				1436
+Clothing:veil.N	Clothing/Grooming:veil.N	A head covering.	1151	6-59		1445
+Clothing:vest.N	Clothing/Grooming:vest.N	A piece of clothing for the upper body without sleeves and usually worn over a shirt.	3140			
+Clothing:wear (on head).V	Clothing/Grooming:wear (on head).V	Wear an object for shelter on the head.	3428			
+Clothing:wear.V	Clothing/Grooming:wear.V	Fix clothes on your body and carry them.	976			1425
+Clothing:weave.V	Clothing/Grooming:weave.V	To create a fabric by interlacing threads.	133	6-33		1421
+Clothing:wrapper.N	Clothing/Grooming:wrapper.N	A colorful women's garment widely worn in West Africa.	462			
+Clothing:yarn.N	Clothing/Grooming:yarn.N	Consists of multiple strings of natural or synthetic fibre twisted together in a continuous bulky thread; used in textile production.	3445			
 Combat:battle cry.N	Language:battle cry (war whoop).N	A shout, used by warriors in battle with the purpose of arousing aggression on their own side or intimidating the enemy.	3741			
 Combat:bomb.N	Modernity:bomb.N	A device filled with explosives used for destroying things.	1804	23-575		
 Combat:box.V	Action/Technology:box (somebody or something).V	The act of using fists to fight or hit.	3108			
@@ -447,7 +548,9 @@ Combat:brawl.N	Action/Technology:brawl.V	A normally unarmed and ruleless scuffle
 Combat:brawl.V	Action/Technology:brawl (fight).V	To be involved in a normally unarmed and ruleless scuffle.	2902		sich schlagen::V	
 Combat:fight.N	Action/Technology:fight (combat).N	A hostile encounter, such as a battle or combat.	3880		Kampf::N	
 Combat:fight.V	Combat/Hunting:fight.V	To be involved in a physical confrontation.	1423	20-11		782
+Combat:helmet.N	Combat/Hunting:helmet.N	Any of various forms of protective head covering worn e.g.  by soldiers, firefighters, divers, cyclists, etc.	1680	20-33		1432
 Combat:strike (sb).V	Action/Technology:strike (someone).V	To intentionally hit someone with a sharp blow or to impel, usually with a hand or weapon.	3308		schlagen::V	
+Combat:suit of armour.N	Combat/Hunting:harness (armour).N	A specific suit that protects people who fight.	2552			
 Combat:wrestle.V	Body:wrestle.V	wrestle 				783
 Communication:accept	Action/Technology:accept.V	To take or get something that was offered by someone, to willingly receive	3898			1721
 Communication:answer.V	Language:answer.V	To communicate a message of any form in reaction to something that has been asked or expressed, to the being who expressed it; to react verbally.	1275	18-32		2272
@@ -457,6 +560,7 @@ Communication:cellphone.N	Tool:cellphone.N	cellphone, cellular telephone				1278
 Communication:complain.V	Language:complain.V	To express one's dissatisfaction or unhappiness.	3642			
 Communication:deny.V	Language:deny.V	To refuse strongly and solemnly to own or acknowledge.	755	18-34		2215
 Communication:dialect.N	Language:dialect.N	A variety of a language that is characteristic of a particular group.	2815			
+Communication:email.N		Messages sent and received via computer.				
 Communication:forbid.V	Language:forbid.V	To tell not to do something.	83	18-38		
 Communication:gesture.V	Body:gesture.V	gesture 				747
 Communication:goodbye.N	Language:goodbye.N	A conventional expression, used as a farewell when parting.	3554			
@@ -464,14 +568,23 @@ Communication:greet.V	Language:greet.V	To welcome someone; to address someone in
 Communication:hello.N	Language:hello.N	A conventional expression, used as a greeting.	3553			
 Communication:language.N	Language:language.N	A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	1307	18-24	Sprache::N	
 Communication:letter.N	Modernity:letter.N	A text that is written to and for a specific person or set of people (and is most commonly sent to them by post).	1612	23-42	Brief::N	2261
+Communication:mail.N	Modernity:mail.N	A batch of letters and parcels received via post.	167	23-4		
+Communication:newspaper.N	Modernity:newspaper.N	A publication (usually published daily or weekly and printed on cheap, low-quality paper) that contains news and other articles.	1298	23-6	Zeitung::N	
 Communication:offer.V	Business:offer.V	offer (present for acceptance or rejection) 				1720
 Communication:phone.V	Language:talk (phone).V	To communicate by means of a telephone.	3133			
+Communication:postage stamp.N	Modernity:postage stamp.N	A piece of paper that is affixed to letters or packages to pay for their delivery.	596	23-41		
+Communication:postcard.N	Modernity:postcard.N	A rectangular piece of thick paper or thin cardboard intended to be written on and mailed without an envelope.	1497	23-43		
+Communication:postman.N	Modernity:postman.N	Person who transports and delivers items sent with a postal service.	3095			
+Communication:radio.N	Modernity:radio.N	A device that can capture the signal sent over radio waves and render the modulated signal as sound.	1315	23-1		
 Communication:refuse.V	Language:refuse.V	To not do what is being asked.	49	18-37		
+Communication:scroll.N	Modernity:scroll.N	A roll of papyrus.	2608			
 Communication:talk.V	Action/Technology:talk.V	To converse with one or more persons.	2708		reden::V	
 Communication:telephone.N	Modernity:telephone.N	An electronic device used for calling people.	1379	23-12		1274
 Communication:television set.N	Modernity:television.N	A device for receiving television signals and displaying them in visual form.	1788	23-11		1276
 Communication:tell.V	Language:tell.V	To talk about a story giving its details; to give a detailed account of.	1711	18-221	erzählen::V	
 Communication:translate.V	Action/Technology:translate.V	To communicate of the meaning of a source-language text by means of an equivalent target-language text.	2906		übersetzen::V	
+Communication:type.V	Modernity:type (on something).V	Using keys of a computer or typewriter.	3134			
+Communication:watch (TV).V	Modernity:watch (tv).V	The act of watching television.	3136			
 Communiction:call.N	Language:call (appeal).N	An act of calling with the voice.	2944		Ruf::N	
 Cosmos:full moon.N	Nature:full moon.N	The lunar phase when the moon is fully illuminated by the sun and appears in the sky as a full circle.	3690			
 Cosmos:Milky Way.N	Nature:milky way.N	The galaxy that contains our Solar System. Its name milky is derived from its appearance as a dim glowing band arching across the night sky in which the naked eye cannot distinguish individual stars.	2289			1138
@@ -490,6 +603,7 @@ Cosmos:universe.N	Nature:universe.N	universe				1100
 Cosmos:Ursa major.N	Nature:ursa major.N	A large group of stars in the shape of a bear visible on the northern hemisphere.	3342			
 Cosmos:waning moon.N	Nature:waning moon.N	The phase in the lunar cycle between full moon and new moon when the illuminated area decreases.	3817			
 Cosmos:waxing moon.N	Nature:waxing moon.N	The phase in the lunar cycle between new moon and full moon when the illuminated area increases.	3816			
+Education:university.N	Modernity:university.N	A university (Latin: universitas, a whole) is an institution of higher (or tertiary) education and research which grants academic degrees in various subjects and typically provides undergraduate education and postgraduate education.	2435			
 Element:Ac.N		Actinium, the chemical element with atomic number 89 and symbol Ac.				
 Element:Ag.N	Action/Technology:silver.N	A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	759	9-65	Silber::N	3324
 Element:Al.N	Nature:aluminium.N	A metallic chemical element of silver-white colour that occurs mainly in bauxite, with assigned symbol Al and proton number 13.	3385			3329
@@ -675,6 +789,7 @@ Flower:Prunus armeniaca.N	Agriculture/Plant:apricot blossom.N	The flower of the 
 Flower:Prunus salicina.N	Agriculture/Plant:plum blossom.N	The flower of the Chinese Plum.	2744			
 Food:alcohol.N	Food:alcohol (drink).N	A drink (a liquor or brew) containing ethanol, commonly known as alcohol.	2050			
 Food:bake.V	Food:bake.V	To cook (something) in an oven, but not in fat, or harden by means of dry heat.	183	5-24	backen::V	3493
+Food:cake.N	Modernity:cake.N	Cake is a form of sweet dessert that is typically baked.	2408			
 Food:candy.N	Modernity:candy.N	Food item that is rich in sugar.	874	23-565		
 Food:drink.V	Body:drink.V	drink 				721
 Food:fermented alcohol.N	Food:alcohol (fermented drink).N	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	404	5-94		
@@ -690,7 +805,32 @@ Food:sausage.N	Food:sausage.N	A length of intestine, stuffed with ground (organ)
 Food:tea.N	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.	1373	23-9	Tee::N	
 Form:bend (sth).V	Action/Technology:bend (something).V	To carry out a movement to turn something into a curved shape.	2224		biegen::V	
 Form:bend.V	Action/Technology:bend.V	Movement that causes the formation of a curve.	2004	9-14	beugen::V	
-Handicraft:braid or weave.V	Action/Technology:braid (verb) or weave (basket).V	To braid together hair, threads, strings, twigs etc. in order to create a larger string-like object or to weave a basket or use similar techniques for creating other objects.	3294	9-75		
+Grooming:adorned.A	Clothing/Grooming:adorned.A	Something that is crested with adornment.	2496			
+Grooming:adornment.N	Clothing/Grooming:adornment.N	Something that beautifies or adorns.	1822			
+Grooming:armlet.N	Clothing/Grooming:armlet.N	A band or bracelet worn round the upper part of a person's arm.	3149			
+Grooming:bracelet.N	Clothing/Grooming:bracelet.N	Piece of jewellery worn around the wrist.	1754	6-74		
+Grooming:brush (teeth).V	Clothing/Grooming:brush (teeth).V	Clean one's teeth by repeatedly grating over them with an object.	3109			
+Grooming:brush.N	Clothing/Grooming:brush.N	An implement with a handle, and a head with multiple more or less flexible bristles, used for arranging hair.	1821	6-92		1244
+Grooming:comb.N	Clothing/Grooming:comb.N	A toothed implement for grooming the hair.	1475	6-91	Kamm::N	
+Grooming:comb.V	Clothing/Grooming:comb (verb).V	To groom the hair with a comb or a similar object.	2070		kämmen::V	
+Grooming:decorate.V	Clothing/Grooming:decorate.V	To make more attractive by adding ornament, colour, etc.	1739		schmücken::V	
+Grooming:earring.N	Clothing/Grooming:earring.N	A piece of jewelry worn on the ear.	770	6-77		
+Grooming:file.V	Clothing/Grooming:file (something).V	Make something smooth, often nails or other parts of the body.	3113			
+Grooming:jewel.N	Clothing/Grooming:jewel.N	A precious stone such as a diamond, a sapphire or an agate.	1029	6-72		
+Grooming:lipstick.N	Clothing/Grooming:lipstick.N	Stick containing wax, oil, or pigments used to apply colour to one's lips.	3093			
+Grooming:mirror.N	Clothing/Grooming:mirror.N	A smooth surface, usually made of glass with reflective material painted on the underside, that reflects light so as to give an image of what is in front of it.	1171	6-96	Spiegel::N	
+Grooming:necklace.N	Clothing/Grooming:necklace.N	An article of jewelry that is worn around the neck.	1961	6-75		
+Grooming:ointment.N	Clothing/Grooming:ointment.N	A semisolid preparation intended for external application to the skin or mucous membranes. (source: UMLS)	1926	6-94		
+Grooming:ornament.N	Clothing/Grooming:ornament.N	An element of decoration.	917	6-71		
+Grooming:razor.N	Clothing/Grooming:razor.N	A bladed tool used for the removal of body hair through the act of shaving.	151	6-93		
+Grooming:ring.N	Clothing/Grooming:ring.N	A round piece of (precious) metal worn around the finger.	1374	6-73	Ring::N	
+Grooming:shave.V	Clothing/Grooming:shave.V	To cut the hair close to the skin with a razor.	231			
+Grooming:shower.V	Clothing/Grooming:shower (action).V	Douse oneself in a stream of water in order to clean oneself.	3128			
+Grooming:soap.N	Clothing/Grooming:soap.N	A cleansing agent, manufactured in bars, granules, flakes, or liquid form, made from a mixture of the sodium salts of various fatty acids of natural oils and fats.	788	6-95		
+Grooming:tattoo.N	Clothing/Grooming:tattoo.N	A marking made by inserting ink into the layers of skin to change the pigment permanently for decorative or other reasons.	68	6-79		
+Grooming:toothbrush.N	Modernity:toothbrush.N	A device to brush one's teeth.	2579			
+Grooming:wreath.N	Modernity:wreath.N	An assortment of flowers and other things that is constructed to resemble a ring.	2589			
+Grooming:wristband.N	Clothing/Grooming:wristband.N	An article used as an adornment around the wrist	3943			
 Handiwork:adze.N	Action/Technology:adze.N	A sharp tool with the blade at a right angle to the handle, used to shape pieces of wood.	290	9-251		
 Handiwork:anvil.N	Action/Technology:anvil.N	A heavy iron block used by a blacksmith as a surface upon which metal can be struck and shaped.	1648	9-62		
 Handiwork:axe.N	Action/Technology:axe.N	A tool for felling trees or chopping wood consisting of a heavy metallic or stone head flattened to a blade on one side, and which is attached to a usually wooden handle.	677	9-25		
@@ -699,6 +839,7 @@ Handiwork:blacksmith.N	Action/Technology:blacksmith.N	A craftsman expert in iron
 Handiwork:bore.V	Action/Technology:bore.V	To create a hole by removing material with a drill.	1501	9-46		
 Handiwork:bottom grindstone.N	Action/Technology:bottom grindstone.N	The bottom element in a two-stone grindstone.	3023			
 Handiwork:braid (verb).V	Action/Technology:braid (verb).V	To braid together hair, threads, strings, twigs etc. in order to create a larger string-like object (which can be linear as in a braid of hair or circular as in a wreath).	3295			
+Handiwork:braid or weave.V	Action/Technology:braid (verb) or weave (basket).V	To braid together hair, threads, strings, twigs etc. in order to create a larger string-like object or to weave a basket or use similar techniques for creating other objects.	3294	9-75		
 Handiwork:carpenter.N	Action/Technology:carpenter.N	Artisan who works with wood.	1042	9-43		
 Handiwork:carve.V	Action/Technology:carve.V	To cut or to chip in order to form something.	228	9-81		
 Handiwork:cast.V	Action/Technology:cast.V	To pour [a hardenable liquid material, like metal, plaster, glass, concrete etc.] into a mold in order to produce a solid object of the shape of the mold.	211	9-63		
@@ -709,6 +850,7 @@ Handiwork:cut (with scissors).V	Action/Technology:cut (with scissors).V	To divid
 Handiwork:drill.N	Action/Technology:drill.N	A power tool designed to create holes by means of rotating the drill bits into hard material.	3423			
 Handiwork:file.N	Action/Technology:file (tool).N	A hand tool with a long flat metal bar used to re-shape objects.	3407			
 Handiwork:forge.V	Action/Technology:forge.V	To create and mold by hammering.	288	9-61		
+Handiwork:glue.V		To stick objects together with adhesive substance.			kleben::V	
 Handiwork:grate.V	Action/Technology:grate (something).V	To abrade an object by rubbing it against a rough surface.	3114			
 Handiwork:grindstone.N	Action/Technology:grindstone.N	A grindstone is a round sharpening stone used for grinding or sharpening ferrous tools.	2459			
 Handiwork:hammer.N	Action/Technology:hammer.N	A tool with a heavy head and a handle used for pounding.	1481	9-49		
@@ -716,6 +858,8 @@ Handiwork:hammer.V	Action/Technology:hammer (something).V	Strike or beat somethi
 Handiwork:mould.N	Action/Technology:mould.N	A frame or model around or on which something is formed or shaped.	1166			
 Handiwork:nail.N	Action/Technology:nail (tool).N	A spike-shaped metal fastener used for joining wood or similar materials.	502	9-5	Nagel::N	
 Handiwork:nail.V	Action/Technology:nail.V	To hammer a nail into something.	3306			
+Handiwork:patch.N	Clothing:patch.N	A piece of material used to cover or repair a flaw.				1495
+Handiwork:patch.V	Action/Technology:patch.V	To repair a hole in a cloth or wheel.	3550			
 Handiwork:peg.N	Action/Technology:peg.N	A cylindrical wooden, metal etc. object used to fasten or as a bearing between objects.	361	9-91		
 Handiwork:pierce.V	Action/Technology:pierce.V	To tab something through something else.	398			
 Handiwork:plait or braid or weave.V	Action/Technology:plait or braid or weave.V	To add pleats to cloth, to braid together hair, threads, strings, twigs etc. in order to create a larger string-like object or to create a fabric by interlacing threads.	1729			
@@ -727,6 +871,9 @@ Handiwork:repair.V	Action/Technology:repair.V	To restore something by replacing 
 Handiwork:saw (something).V	Action/Technology:saw (something).V	To cut something with a saw.	3543			
 Handiwork:saw.N	Action/Technology:saw.N	A tool with a toothed blade used for cutting hard substances, in particular wood or metal.	1948	9-48		
 Handiwork:scissors.N	Action/Technology:scissors.N	A tool used for cutting thin material, consisting of two crossing blades attached at a pivot point in such a way that the blades slide across each other when the handles are closed.	1328			
+Handiwork:screw.N	Modernity:screw.N	A shaft with a helical groove or thread formed on its surface. Its main use is as a threaded fastener used to hold objects together.	1802	23-55		
+Handiwork:screwdriver.N	Modernity:screwdriver.N	A hand tool used for driving screws.	836	23-555		
+Handiwork:sewing machine.N	Modernity:sewing machine.N	A machine that partially automates the process of sewing, i.e. uniting pieces of material by using a needle and a thread.	3097			
 Handiwork:shears.N	Action/Technology:shears.N	A tool consisting of two blades with bevel edges, connected by a pivot, used for cutting cloth, or for removing the fleece from sheep etc.	356	9-24		
 Handiwork:sieve (tool).N	Action/Technology:sieve (tool).N	A device for separating wanted elements from unwanted material.	3353			
 Handiwork:skilled.A	Action/Technology:skilled.A	Experienced and clever, professional.	807			
@@ -736,6 +883,8 @@ Handiwork:ware.N	Modernity:ware.N	Manufactured articles.	2957		Ware::N
 Handiwork:weave (basket).V	Action/Technology:weave (basket).V	To weave a basket or use similar techniques for creating other objects.	3296			
 Handiwork:weaver.N	Action/Technology:weaver.N	A person whose occupation is weaving cloth, carpets, or baskets.	3637			
 Handiwork:whetstone.N	Action/Technology:whetstone.N	A stone that is used for whetting a knife or edge tools.	295	9-93		
+Handiwork:worker.N	Modernity:worker.N	Somebody who works.	2977		Arbeiter::N	
+Handiwork:workshop.N	Modernity:workshop.N	A room or building in which work, especially mechanical work, is carried on.	1677	23-58		
 Health:become sick.V	Action/Technology:become sick.V	To catch a disease.	2327		krank werden::V	
 Health:disease.N	Body:disease.N	A definite pathological process having a characteristic set of signs and symptoms which are detrimental to the well-being of the individual.	1986	4-844	Krankheit::N	633
 Health:dislocate.V	Body:dislocate.V	To (accidentally) dislodge a skeletal bone from its joint.	551			
@@ -746,6 +895,8 @@ Health:headache.N	Body:headache.N	A pain in the head.	3625
 Health:healthiness.N	Body:healthiness.N	Relating to the general state of health and well-being.	3828			
 Health:healthy.A	Body:healthy.A	In good physical and mental condition; free from disease.	1364	4-83	Gesundheit::N	630
 Health:hospital.N	Building:hospital.N	hospital				1564
+Health:hospital.N	Modernity:hospital.N	A place where people who are ill or injured are treated and taken care of by doctors and nurses.	616	23-2		
+Health:injection.N	Modernity:injection.N	A method of putting liquid into the body with a hollow needle and a syringe which is pierced through the skin long enough for the material to be forced into the body.	1805	23-23		
 Health:leprosy.N	Body:leprosy.N	An infectious disease caused by the bacteria Mycobacterium leprae that affects the skin as well as the peripheral nerves.	3624			
 Health:malaria.N	Body:malaria.N	Infectious disease characterized by chills, fevers, and sweating, caused by a protozoan of the genus Plasmodium and transmitted by infected Anopheles mosquitoes.	3059			
 Health:measles.N	Body:measles.N	A contagious airborne disease caused by Measles morbillivirus and characterized by red rash, Koplik's spots, and fever.	3389			
@@ -761,13 +912,24 @@ Health:rabies.N	Body:rabies.N	A viral disease that causes acute inflammation of 
 Health:recover.V	Body:recover.V	To return to health and strength after illness.	1978		genesen::V	
 Health:scabies.N	Body:scabies.N	A contagious skin rash caused by the mite Sarcoptes scabiei.	3172			
 Health:see a doctor.V	Motion:see a doctor.V	To go to a doctor.	512			
+Health:stethoscope.N	Modernity:stethoscope.N	An acousting medical device for auscultation.	2599			
+Health:tablet.N	Modernity:tablet.N	A pill; a small, easily swallowed portion of a substance.	396			
+House:bamboo mat.N	Modernity:bamboo mat.N	A mat made from bamboo.	3240			
 House:bathroom.N	Building:bathroom.N	A room containing a shower or a bathtub, and that may contains a toilet or not.				1539
 House:bathtub.N	House:bathtub.N	A large container for holding water in which a person may take a bath.				1361
 House:bed.N	House:bed.N	A piece of furniture, made for a person to sleep on.	1663	7-42	Bett::N	1341
 House:bedroom.N	House:bedroom.N	The area where people sleep.	2505			1538
 House:blanket.N	House:blanket.N	A large cloth used for warmth and for sleeping.	806	7-422	Decke::N	1485
+House:cradle.N	Modernity:cradle.N	A bed for a baby.	2946		Wiege::N	
+House:curtain.N	Modernity:curtain.N	Piece of cloth on a window intended to obscure the interior of a room or to prevent people from looking inside.	2621			1486
+House:door knocker.N	Modernity:door knocker.N	An item at a door that allows people outside a house to alert those inside.	2598			
+House:escalator.N	Modernity:escalator.N	A moving staircase.	2596			
 House:kitchen.N	House:kitchen.N	A room equipped for preparing and cooking food.	1365			1535
+House:mattress.N	Modernity:mattress.N	A pad on which a person can recline and sleep.	105	23-53		
 House:pillow.N	House:pillow.N	Cushion placed under the head for sleeping.	1044	7-421	Kissen::N	1343
+House:rug.N	Action/Technology:rug.N	A piece of thick cloth or wool that is smaller than a carpet and is put on the floor as decoration.	292	9-771		1487
+House:sink.N	Modernity:sink (basin).N	A bowl for washing hands, dishwashing or other purposes, often affixed to a wall.	915	23-51		
+House:toilet.N	Modernity:toilet.N	A room equipped with a toilet for urinating and defecating.	219	23-52		
 Hunting:boomerang.N	Action/Technology:boomerang.N	A tool with a curved shape used as a weapon or for sport which returns when thrown into the air.	135	9-87		
 Hunting:bow string.N	Action/Technology:bow string.N	The string of a bow used to hunt.	2119			
 Hunting:fishing.V	Action/Technology:fishing.V	To hunt for fishes (general expression).	2638		fischen::V	
@@ -777,8 +939,9 @@ Hunting:hunting dog.N	Combat/Hunting:hunting dog.N	A type of canine bred for hun
 Hunting:net fishing.V	Action/Technology:fishing (with a net).V	To hunt for fishes by using a fishnet.	2639			
 Hunting:net.N	Action/Technology:net (for catching).N	A grid-like device used for fishing and sports.	2653			
 Language:book.N	Language:book.N	A collection of leaves of paper, parchment or other material, usually bound or fastened together within covers, containing writing of any type or blank pages for future inscription.	963	18-61	Buch::N	2248
+Law:crime.N	Modernity:crime.N	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public. (Source: BLACK)	1066	23-37		
 Literature:alphabet.N	Communication:alphabet.N	alphabet				2243
-Matter:brass.N	Action/Technology:brass.N	The copper-zinc alloy. A yellow-colored metal made of the mixture of copper and zinc and used in the making of decorations and musical instruments.	3743			3321
+Material:brass.N	Action/Technology:brass.N	The copper-zinc alloy. A yellow-colored metal made of the mixture of copper and zinc and used in the making of decorations and musical instruments.	3743			3321
 Mind:dream.N	Body:dream.N	Successions of images, ideas, emotions, and sensations that occur usually involuntarily in the mind during certain stages of sleep.	2374		Traum::N	662
 Mind:dream.V	Body:dream (something).V	To experience while sleeping.	1920	4-62		
 Mind:dreaming.N	Body:dreaming or dream.?	Either the act of seeing images when sleeping, or the result of this act, the dream itself.	2455			
@@ -1141,6 +1304,7 @@ Storage:tin (can).N	Modernity:tin (can).N	A tin-plate canister, often cylindrica
 Storage:vase.N	Modernity:vase.N	An often round vessel which is used for decoration or for holding cut flowers.	3746			
 Time:autumn or harvest season.N	Time:autumn or harvest season.?	The time during which crops are typically harvested, often co-occurring with the season of autumn.	3327			
 Time:autumn.N	Time:autumn.N	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.	1276	14-77	Herbst::N	3272
+Time:calendar.N	Modernity:calendar.N	A table showing the months and days of the year.	1967	23-61		
 Time:dry season.N	Time:dry season.N	Yearly period of low rainfall in the tropics.	452			
 Time:final.A	Quantity:last (final).?	The last, after all the others.	1529	13-35	letzter::A	3261
 Time:hot season.N	Time:hot season.N	Period of the year associated with hot or warm weather.	3047			
@@ -1195,6 +1359,7 @@ Transit:carriage.N	Modernity:carriage.N	A wheeled vehicle for people, usually ho
 Transit:carry (with pole on shoulder).V	Action/Technology:carry (with pole on shoulder).V	The act of transporting something by means of a carrying pole placed on one's shoulder.	3438			
 Transit:carry horizontally.V	Action/Technology:carry horizontally.V	To carry some object horizontally.	2763			
 Transit:cart.N	Motion:cart.N	A two-wheeled vehicle, commonly without springs, drawn by mules, oxen, or the like, used for the conveyance of heavy goods.	122	10-75		3114
+Transit:crane.N	Modernity:crane (device).N	A device for lifting and moving heavy objects, typically consisting of a moving boom, beam, or gantry from which lifting gear is suspended.	3745			
 Transit:deliver.V	Action/Technology:deliver.V	To bring or transport something to its destination.	2033			
 Transit:driver's license.N	Modernity:driver's license.N	Official document granting someone the authorisation to drive some vehicles.	599	23-34		
 Transit:ferry.N	Modernity:ferry.N	A transport ship used for small distances from one port to another which often runs on a regular schedule.	3733			
@@ -1211,7 +1376,7 @@ Transit:row.V	Motion:row.V	To pull oars through water in order to make a water v
 Transit:rudder.N	Motion:rudder.N	An underwater vane used to steer a vessel. The rudder is controlled by means of a wheel, tiller or other apparatus.	108	10-86		
 Transit:saddle.N	Action/Technology:saddle.N	A seat for an animal (especially horse) rider, secured by a girth.	3065			
 Transit:sail.V	Motion:sail.V	To traverse or travel by ship on a body of water.	787	10-36		
-Transit:sailcloth.N	Motion:sailcloth.N	A large piece of fabric (as canvas) by means of which wind is used to propel a sailing vessel.	786	10-88		
+Transit:sailcloth.N	Motion:sailcloth.N	A large piece of fabric (as canvas) by means of which wind is used to propel a sailing vessel.	786	10-88		1491
 Transit:ship.N	Motion:ship.N	A vessel propelled by engines or sails for navigating on the water, especially a large vessel that can not be carried aboard another, as distinguished from a boat.	740	10-81		3108
 Transit:shoulder pole.N	Action/Technology:shoulder pole.N	A pole that is used to carry things on the shoulder.	3432			
 Transit:spaceship.N	Transit:spaceship.N	spaceship, starship				3125
@@ -1355,7 +1520,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Action/Technology:paint (something).V	The act of spreading coloured pigments on a surface.	3122			
 	Action/Technology:paintbrush.N	Brush used to spread pigments of colour on a surface.	3094			
 	Action/Technology:painting.V	To make a painting or drawing.	2001	9-89	malen::V	
-	Action/Technology:patch.V	To repair a hole in a cloth or wheel.	3550			
 	Action/Technology:pearl.N	A small hard shiny ball formed in mussels or oysters.	3325			
 	Action/Technology:pick.V	To take off the fruits or other useful parts of a plant.	2148		pflücken::V	
 	Action/Technology:picture (painting).N	A painted image.	3303		Bild::N	
@@ -1380,10 +1544,9 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Action/Technology:ring (make sound).V	Ring most broadly refers to a hollow circular shape or to a high-pitched sound.	2875		klingeln::V	
 	Action/Technology:rinse.V	To clean by pouring water over the objects.	2904		spülen::V	
 	Action/Technology:roar (of sea).V	A sound emitted by a stormy sea.	2876		brausen::V	
-	Action/Technology:rope.N	Thick, strong string made of several strands that have been twisted together.	1218	9-19		
+	Action/Technology:rope.N	Thick, strong string made of several strands that have been twisted together.	1218	9-19		1417
 	Action/Technology:rot.V	To be exposed to decomposition.	2907		verfaulen::V	
 	Action/Technology:rub.V	To move one's hand or an object over a surface or other object (maintaining constant contact and applying moderate pressure).	1449	9-31	reiben::V	
-	Action/Technology:rug.N	A piece of thick cloth or wool that is smaller than a carpet and is put on the floor as decoration.	292	9-771		
 	Action/Technology:ruler.N	A long flat device that is designed to assist with drawing straight lines or measuring by means of distance markings.	3405			
 	Action/Technology:rust.N	Any of various metallic coatings formed by corrosion, especially after oxidation in presence of water.	3064			
 	Action/Technology:scatter.V	To throw or drop things in different directions so that they cover a large area.	3705			
@@ -1412,12 +1575,10 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Action/Technology:strike (something).V	To intentionally hit something with a sharp blow or to impel, usually with a hand.	3309		hauen::V	
 	Action/Technology:strike or beat.V	To hit or strike, either repeatedly or a single time.	2133	9-21		
 	Action/Technology:strike.V	To intentionally hit with a sharp blow or to impel, usually with a hand or weapon.	353			
-	Action/Technology:string.N	A long, thin and flexible structure made from threads twisted together.	362		Schnur::N	
+	Action/Technology:string.N	A long, thin and flexible structure made from threads twisted together.	362		Schnur::N	1416
 	Action/Technology:suckle (breastfeed, nurse).V	Giving milk to babies and young children with milk from a woman's breast.	2472			
 	Action/Technology:swell.V	To grow larger in volume.	1573			
 	Action/Technology:take a photo.V	To make a photography.	2710			
-	Action/Technology:take off one's clothes.V	Take off one's clothes.	2326			
-	Action/Technology:take off.V	To take off a piece of clothing or similar.	3538			
 	Action/Technology:tear (shred).V	To pull at something in such a way that it ends up divided.	1735	9-28	zerreißen::V	
 	Action/Technology:thaw (dew).V	Go from a frozen to a liquid state.	2887		tauen::V	
 	Action/Technology:thermometer.N	Instrument used for measuring temperature, mostly by means of a contracting or expanding substanced contained within the instrument.	3104			
@@ -2365,165 +2526,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Business:ticket.N	ticket				1779
 	Business:value.N	value, worth				1758
 	Business:wages.N	wages				1797
-	Clothing:apron.N	apron				1440
-	Clothing:belt.N	belt				1441
-	Clothing:cap.N	cap (a brimless or informal hat)				1431
-	Clothing:cloth.N	cloth, fabric (material made of threads)				1401
-	Clothing:coat.N	coat (heavy outer garment with sleeves)				1450
-	Clothing:collar.N	collar (portion of shirt around neck)				1480
-	Clothing:curtain.N	curtain				1486
-	Clothing:dress.N	dress (a garment that combines bodice and skirt)				1452
-	Clothing:flag.N	flag				1490
-	Clothing:garment.N	garment (item of clothing)				1435
-	Clothing:glove.N	glove				1442
-	Clothing:harness.N	harness				1443
-	Clothing:hat.N	hat				1430
-	Clothing:helmet.N	helmet				1432
-	Clothing:jacket.N	jacket (a short and/or lightweight coat)				1451
-	Clothing:jeans.N	jeans, blue-jeans				1461
-	Clothing:leather.N	leather (prepared hide)				1404
-	Clothing:loom.N	loom				1411
-	Clothing:necktie.N	necktie				1444
-	Clothing:needle.N	needle				1410
-	Clothing:pants.N	pants, trousers				1460
-	Clothing:patch.N	patch (piece of material used to cover or repair a flaw)				1495
-	Clothing:pocket.N	pocket				1481
-	Clothing:put on.V	put on (to begin to wear a garment) 				1426
-	Clothing:rope.N	rope				1417
-	Clothing:rug.N	rug				1487
-	Clothing:sail.N	sail				1491
-	Clothing:sew.V	sew 				1420
-	Clothing:shirt.N	shirt				1453
-	Clothing:shoe.N	shoe				1470
-	Clothing:shorts.N	shorts (outer pants extending no lower than knees)				1463
-	Clothing:silk.N	silk				1402
-	Clothing:skirt.N	skirt				1462
-	Clothing:slipper.N	slipper (lightweight shoe worn indoors)				1472
-	Clothing:sock.N	sock (a snug-fitting cloth covering for the foot and ankle)				1471
-	Clothing:string.N	string (thicker than thread and thinner than rope)				1416
-	Clothing:suit.N	suit (combo of jacket, dress shirt, slacks, and usually necktie)				1437
-	Clothing:t-shirt.N	T-shirt (a collarless short-sleeved casual shirt or undershirt)				1454
-	Clothing:take off.V	take off (to remove a garment from the body) 				1427
-	Clothing:thread.N	thread				1415
-	Clothing:towel.N	towel				1488
-	Clothing:underpants.N	underpants				1464
-	Clothing:uniform.N	uniform (special garments worn by members of a group)				1436
-	Clothing:veil.N	veil				1445
-	Clothing:wear.V	wear (to have a garment on the body) 				1425
-	Clothing:weave.V	weave 				1421
-	Clothing:wool.N	wool				1403
-	Clothing/Grooming:adorned.A	Something that is crested with adornment.	2496			
-	Clothing/Grooming:adornment.N	Something that beautifies or adorns.	1822			
-	Clothing/Grooming:apron.N	A piece of cloth or plastic, worn over the front of the clothes for protection against dirt.	2046			
-	Clothing/Grooming:armlet.N	A band or bracelet worn round the upper part of a person's arm.	3149			
-	Clothing/Grooming:awl.N	Pointed tool for marking or piercing wood or leather.	278	6-37		
-	Clothing/Grooming:baby sling.N	A piece of cloth used for carrying an infant or small child around a carer's body.	3946			
-	Clothing/Grooming:bamboo hat.N	A hat made of bamboo (斗笠 dǒulì).	2160			
-	Clothing/Grooming:barefoot.A	Not wearing anything on the feet.	3737			
-	Clothing/Grooming:bead.N	A hard, rounded object produced within the soft tissue (specifically the mantle) of a living shelled mollusk.	1860	6-76		
-	Clothing/Grooming:belt.N	A clothing accessory, usually made of leather or heavy cloth, worn around the waist and used to support trousers or other articles of clothing.	772	6-57	Gürtel::N	
-	Clothing/Grooming:boot.N	A shoe that covers part of the leg.	585	6-52	Stiefel::N	
-	Clothing/Grooming:boubou.N	A flowing wide sleeved robe worn by men in much of West Africa, and to a lesser extent in North Africa.	461			
-	Clothing/Grooming:bracelet.N	Piece of jewellery worn around the wrist.	1754	6-74		
-	Clothing/Grooming:braid.N	A hair style formed by interweaving three or more strands of hair.	1043	6-921		
-	Clothing/Grooming:brush (teeth).V	Clean one's teeth by repeatedly grating over them with an object.	3109			
-	Clothing/Grooming:brush.N	An implement with a handle, and a head with multiple more or less flexible bristles, used for arranging hair.	1821	6-92		
-	Clothing/Grooming:button.N	A fastener consisting of a knob or disc that is passed through a slit in the adjacent material.	757	6-62	Knopf::N	
-	Clothing/Grooming:cap.N	A usually soft and close-fitting head covering, either having no brim or with a visor.	1288		Mütze::N	
-	Clothing/Grooming:cloak.N	A long outer garment worn over the shoulders covering the back; a cape, often with a hood.	326	6-41		
-	Clothing/Grooming:cloth.N	A woven fabric such as used in dressing, decorating, cleaning or other practical use.	1616	6-21	Stoff::N	
-	Clothing/Grooming:clothes.N	All coverings designed to be worn on a person's body.	1895	6-12	Kleidung::N	
-	Clothing/Grooming:coat.N	An outer garment covering the upper torso and arms.	603	6-43		
-	Clothing/Grooming:collar.N	The part of a garment that encircles the neck.	2012	6-45	Kragen::N	
-	Clothing/Grooming:comb (verb).V	To groom the hair with a comb or a similar object.	2070		kämmen::V	
-	Clothing/Grooming:comb.N	A toothed implement for grooming the hair.	1475	6-91	Kamm::N	
-	Clothing/Grooming:cotton.N	Fiber obtained from plants of the genus Gossypium, used in making fabrics, cordage, and padding and for producing artificial fibers and cellulose.	1850	6-24		
-	Clothing/Grooming:cushma.N	A one-piece dress used by the Ashaninka Indians.	450			
-	Clothing/Grooming:decorate.V	To make more attractive by adding ornament, colour, etc.	1739		schmücken::V	
-	Clothing/Grooming:dress up.V	To clothe oneself; to put on clothes.	814		sich anziehen::V	
-	Clothing/Grooming:dress.N	A one-piece garment for a woman that has a skirt and a body section.	474	6-42		
-	Clothing/Grooming:dye.V	To modify the color of something by applying dye.	157	6-39	färben::V	
-	Clothing/Grooming:earring.N	A piece of jewelry worn on the ear.	770	6-77		
-	Clothing/Grooming:felt.N	A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.	325	6-27		
-	Clothing/Grooming:file (something).V	Make something smooth, often nails or other parts of the body.	3113			
-	Clothing/Grooming:g-string.N	A thong underwear or swimsuit, a narrow piece of cloth, leather, or plastic, that covers or holds the genitals, passes between the buttocks, and is attached to a band around the hips.	468			
-	Clothing/Grooming:glove.N	A garment for a hand, often extending to the wrist and sometimes up to the elbow, which either covers each finger individually, or separates the thumb from the other fingers.	867	6-58		
-	Clothing/Grooming:grass-skirt.N	A skirt made from long dried grass, or synthetic material resembling it.	328	6-461		
-	Clothing/Grooming:handkerchief.N	A piece of cloth, usually square and often fine and elegant, carried for wiping the face, nose or hands.	1020			
-	Clothing/Grooming:hat.N	An item of clothing intended to cover the head made from material hard enough to have a shape independant of the skull, and most commonly with a rim.	771			
-	Clothing/Grooming:headband or headdress.N	An cloth or strip of cloth worn on or around the head.	3457	6-78		
-	Clothing/Grooming:headband.N	A strip of fabric worn around the head, or a hair-accessory made of a flexible material and curved like a horseshoe, for holding one's hair back.	330			
-	Clothing/Grooming:headdress.N	A decorative covering or ornament worn on the head.	331			
-	Clothing/Grooming:headgear.N	Any element of clothing which is worn on one's head.	2130	6-55		
-	Clothing/Grooming:hemp cloth.N	A woven fabric such as used in dressing, decorating, cleaning or other practical use which is made from hemp.	2161			
-	Clothing/Grooming:iron (clothes).V	To make clothes smooth by brushing over them with a heated tool.	3118			
-	Clothing/Grooming:jacket.N	A mid-stomach–length garment for the upper body.	2770			
-	Clothing/Grooming:jewel.N	A precious stone such as a diamond, a sapphire or an agate.	1029	6-72		
-	Clothing/Grooming:leather.N	The dressed or tanned hide of an animal, usually with the hair removed.	629	6-29	Leder::N	
-	Clothing/Grooming:linen.N	A material made from the fibers of the flax plant.	916	6-23		
-	Clothing/Grooming:lipstick.N	Stick containing wax, oil, or pigments used to apply colour to one's lips.	3093			
-	Clothing/Grooming:loincloth.N	A cloth worn to cover the loins.	1965			
-	Clothing/Grooming:loom.N	A frame or machine (made of wood or other material) in which a weaver forms cloth out of thread; a machine for interweaving yarn or threads into a fabric.	1787	6-34		
-	Clothing/Grooming:mask.N	A cover, or partial cover, for the face, used for disguise or protection.	2005			
-	Clothing/Grooming:mirror.N	A smooth surface, usually made of glass with reflective material painted on the underside, that reflects light so as to give an image of what is in front of it.	1171	6-96	Spiegel::N	
-	Clothing/Grooming:moccasin.N	A shoe with a soft sole made from animal skin or leather.	3607			
-	Clothing/Grooming:necklace.N	An article of jewelry that is worn around the neck.	1961	6-75		
-	Clothing/Grooming:needle (for sewing).N	A thin, sharp implement used in sewing, knitting and acupuncture.	1382	6-36	Nadel::N	
-	Clothing/Grooming:ointment.N	A semisolid preparation intended for external application to the skin or mucous membranes. (source: UMLS)	1926	6-94		
-	Clothing/Grooming:ornament.N	An element of decoration.	917	6-71		
-	Clothing/Grooming:pacifier.N	An artificial teat made of rubber, plastic, or silicone put into an infant's mouth to calm it.	3087			
-	Clothing/Grooming:pelt.N	The hair-covered, dressed pelt of a mammal, used in the making of garments and as trimming or decoration.	3232			
-	Clothing/Grooming:penis sheath.N	Sheath to cover a penis.	2671			
-	Clothing/Grooming:pin.N	A small device, made (usually) of drawn-out steel wire with one end sharpened and the other flattened or rounded into a head, used for fastening.	64	6-63		
-	Clothing/Grooming:plait.N	A flat fold; a doubling, as of cloth; a pleat.	333			
-	Clothing/Grooming:pocket.N	A kind of pouch, which is accessible by an opening in an article of clothing and serves for storage; usually large enough in order to accommodate at least one hand.	1851	6-61		
-	Clothing/Grooming:poncho.N	A simple garment, made from a rectangle of cloth, with a slit in the middle for the head.	327	6-411		
-	Clothing/Grooming:put on.V	To put clothes onto ones body to wear them.	158	6-11	anziehen::V	
-	Clothing/Grooming:quilt.V	To stitch or sew together.	2048			
-	Clothing/Grooming:rag.N	A piece of old cloth; a tattered piece of cloth; a shred, a tatter.	332	6-81		
-	Clothing/Grooming:raincoat.N	A long jacket which is waterproof.	3712			
-	Clothing/Grooming:razor.N	A bladed tool used for the removal of body hair through the act of shaving.	151	6-93		
-	Clothing/Grooming:ring.N	A round piece of (precious) metal worn around the finger.	1374	6-73	Ring::N	
-	Clothing/Grooming:sarong.N	A sarong or sarung is a large tube or length of fabric, often wrapped around the waist and worn by men and women throughout much of South Asia.	2413			
-	Clothing/Grooming:scarf or turban.N	A garment, usually consisting of a long piece of cloth, wound around the head or neck or shoulders.	3066		Tuch::N	
-	Clothing/Grooming:sew.V	To pass thread repeatedly through fabric or a material, using a needle, in order to join two or more parts or to make a pattern or motif.	1457	6-35	nähen::V	
-	Clothing/Grooming:shave.V	To cut the hair close to the skin with a razor.	231			
-	Clothing/Grooming:shawl.N	A garment which is wrapped around the neck to prevent from cold.	2771			
-	Clothing/Grooming:shirt.N	An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms.	1622	6-44	Hemd::N	
-	Clothing/Grooming:shoe.N	A protective covering for the foot, with a bottom part composed of thick leather or plastic sole and often a thicker heel, and a softer upper part made of leather or synthetic material. Shoes generally do not extend above the ankle, as opposed to boots, which do.	1381	6-51	Schuh::N	
-	Clothing/Grooming:shoemaker.N	A person whose profession is making and repairing footwear.	875	6-54		
-	Clothing/Grooming:shower (action).V	Douse oneself in a stream of water in order to clean oneself.	3128			
-	Clothing/Grooming:shuttle.N	Device used in weaving to carry the weft, moving continuously to-and-fro.	543			
-	Clothing/Grooming:silk.N	One of the finest textiles, obtained from cocoons of certain species of caterpillars; it is soft, very strong and absorbent and has a brilliant sheen.	1641	6-25		
-	Clothing/Grooming:skirt.N	An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.	1600	6-46		
-	Clothing/Grooming:sleeve.N	Part of a garment covering the arm.	2953		Ärmel::N	
-	Clothing/Grooming:snowshoe.N	Footwear for walking over the snow.	233	6-98		
-	Clothing/Grooming:soap.N	A cleansing agent, manufactured in bars, granules, flakes, or liquid form, made from a mixture of the sodium salts of various fatty acids of natural oils and fats.	788	6-95		
-	Clothing/Grooming:sock.N	A knitted or woven covering for the foot, reaching no higher than just above the ankle.	1522			
-	Clothing/Grooming:spin.V	To make (yarn) by drawing out, twisting, and winding fibers.	121	6-31		
-	Clothing/Grooming:spindle.N	A stick used in spinning fiber into thread.	277	6-32		
-	Clothing/Grooming:stocking.N	A soft garment worn on the foot and lower leg, usually knit or woven, worn under shoes or other footwear.	329	6-49		
-	Clothing/Grooming:straw raincoat.N	A traditional East Asian garment made out of straw, worn against the rain. In Japanese it's called mino.	3540			
-	Clothing/Grooming:straw sandal.N	An open type of outdoor footwear leaving most of the upper part of the foot exposed, particularly the toes.	2047			
-	Clothing/Grooming:suit.V	(Of an object) To be of the right size and shape so as to match another object.	764			
-	Clothing/Grooming:sunglasses.N	Form of glasses with tinted lenses to protect one's eyes from sunlight.	3100			
-	Clothing/Grooming:tailor.N	Someone who professionally manufactures clothing.	881	6-13		
-	Clothing/Grooming:tattoo.N	A marking made by inserting ink into the layers of skin to change the pigment permanently for decorative or other reasons.	68	6-79		
-	Clothing/Grooming:thread.N	A long, thin and flexible form of material, generally with a round cross-section, used in sewing, weaving or in the construction of string.	1161	6-38	Faden::N	
-	Clothing/Grooming:tie (noun).N	A small band of fabric which is tied around the collar of a shirt.	3711			
-	Clothing/Grooming:towel.N	Piece of absorbent fabric or paper used for drying or wiping.	1021	6-82	Handtuch::N	
-	Clothing/Grooming:trousers.N	An item of clothing worn on the lower part of the body and covering both legs separately.	809	6-48	Hose::N	
-	Clothing/Grooming:umbrella.N	Portable folding canopy used for protection against weather influences.	3105			
-	Clothing/Grooming:undress.V	To take off all of one's clothes, or to take off a piece of clothing or similar.	1755		ausziehen::V	
-	Clothing/Grooming:veil.N	A head covering.	1151	6-59		
-	Clothing/Grooming:vest.N	A piece of clothing for the upper body without sleeves and usually worn over a shirt.	3140			
-	Clothing/Grooming:wear (on head).V	Wear an object for shelter on the head.	3428			
-	Clothing/Grooming:wear.V	Fix clothes on your body and carry them.	976			
-	Clothing/Grooming:weave.V	To create a fabric by interlacing threads.	133	6-33		
-	Clothing/Grooming:wool.N	The soft, curly hair that forms the fleece of sheep, lamas and other animals and which is used to produce clothing.	964	6-22	Wolle::N	
-	Clothing/Grooming:wrapper.N	A colorful women's garment widely worn in West Africa.	462			
-	Clothing/Grooming:wristband.N	An article used as an adornment around the wrist	3943			
-	Clothing/Grooming:yarn.N	Consists of multiple strings of natural or synthetic fibre twisted together in a continuous bulky thread; used in textile production.	3445			
 	Cognition:agreement.N	The state of sharing the same feeling or opinion.	3644			
 	Cognition:and.?	Used to connect two homogeneous words or phrases.	1577	17-51	und::CNJ	
 	Cognition:attentive.A	Giving attention.	1908			
@@ -2672,8 +2674,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Combat/Hunting:guard.N	A person who protects or watches over something.	1940	20-471		
 	Combat/Hunting:gun.N	A bullet firing weapon to be held in the hands or arms.	1566	20-28	Gewehr::N	
 	Combat/Hunting:gunpowder.N	An explosive in the form of a powder.	1798			
-	Combat/Hunting:harness (armour).N	A specific suit that protects people who fight.	2552			
-	Combat/Hunting:helmet.N	Any of various forms of protective head covering worn e.g.  by soldiers, firefighters, divers, cyclists, etc.	1680	20-33		
 	Combat/Hunting:hook.N	A rod bent into a curved shape, for catching, holding, or sustaining anything.	1071	12-75	Haken::N	
 	Combat/Hunting:peace.N	A state free of war, in particular war between different countries.	1338	20-14		
 	Combat/Hunting:pistol.N	A handgun with the chamber integral to its gun barrel.	3881			
@@ -4007,16 +4007,13 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Modernity:abacus.N	A calculating tool that was in use centuries before the adoption of the written modern numeral system and is still widely used by merchants, traders and clerks in Asia, Africa, and elsewhere.	2489			
 	Modernity:address.N	Direction or superscription of a letter, or the name, title, and place of residence of the person addressed.	591	23-385		
 	Modernity:balloon.N	A small, elastic hollow body used for decoration and as toy.	3083			
-	Modernity:bamboo mat.N	A mat made from bamboo.	3240			
 	Modernity:bank.N	A financial institution where one can borrow money (upon which interest is due) or deposit money (in order to collect interest).	1284	23-44		
 	Modernity:battery.N	A cell or several cells connected together, each cell containing the essentials for producing voltaic electricity.	662	23-175		
 	Modernity:benefit.N	The profit of some action.	2929		Nutzen::N	
 	Modernity:birth certificate.N	Official document certifying the details of a person's birth. Name, date, and parents' names are always included; details such as parents' occupation and religion may be included.	397	23-36		
 	Modernity:boss.N	A boss is a person in charge, or a supervisor.	2930		Chef::N	
 	Modernity:business.N	A business is an organizational entity involved in the provision of goods and services to consumers.	2931		Geschäft::N	
-	Modernity:cake.N	Cake is a form of sweet dessert that is typically baked.	2408			
 	Modernity:calculate.V	To determine by mathematical processes.	2867		rechnen::V	
-	Modernity:calendar.N	A table showing the months and days of the year.	1967	23-61		
 	Modernity:camera.N	Optical instrument for storing images.	2618			
 	Modernity:card.N	A flat device in rectangular form that fulfills various functions.	2619			
 	Modernity:channel.N	In physical geography, a channel is a type of landform consisting of the outline of a path of relatively shallow and narrow body of fluid, most commonly the confine of a river, river delta or strait.	2423			
@@ -4026,43 +4023,31 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Modernity:companionship.N	An interpersonal relationship is a strong, deep, or close association or acquaintance between two or more people that may range in duration from brief to enduring.	2983		Gesellschaft::N	
 	Modernity:compass.N	An instrument for navigation and orientation.	2606			
 	Modernity:computer.N	A device for automatically performing sets of logical or arithmetical instructions.	3086			
-	Modernity:cradle.N	A bed for a baby.	2946		Wiege::N	
-	Modernity:crane (device).N	A device for lifting and moving heavy objects, typically consisting of a moving boom, beam, or gantry from which lifting gear is suspended.	3745			
-	Modernity:crime.N	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public. (Source: BLACK)	1066	23-37		
-	Modernity:curtain.N	Piece of cloth on a window intended to obscure the interior of a room or to prevent people from looking inside.	2621			
 	Modernity:damage (injury).N	Loss or harm resulting from injury to person or objects.	2947		Schaden::N	
 	Modernity:darts.N	A game in which small arrows are thrown on a target.	2587			
 	Modernity:defect.N	A fault or malfunction.	1995			
 	Modernity:doll.N	A model of a human, a humanoid, an animal or a fictional character, usually made of cloth or plastic.	1659		Puppe::N	
 	Modernity:dominoes.N	A game played with rectangular ties.	2594			
-	Modernity:door knocker.N	An item at a door that allows people outside a house to alert those inside.	2598			
 	Modernity:election.N	A process by which members of a population vote to choose a person to hold public office.	240	23-38		
 	Modernity:electricity.N	A general term used for all phenomena caused by electric charge whether static or in motion.	59	23-17		
 	Modernity:engine.N	Machine that converts energy into mechanical energy.	2622			
-	Modernity:escalator.N	A moving staircase.	2596			
 	Modernity:fairy tale.N	A fairy tale is a type of short story that typically features folkloric fantasy characters, such as dwarves, dragons, elves, fairies, giants, gnomes, goblins, griffins, mermaids, talking animals, trolls, unicorns, or witches, and usually magic or enchantments.	2937		Märchen::N	
 	Modernity:faucet.N	A device applied to the end of a pipe in order to interrupt and regulate the flow of a liquid or gas.	1488	23-5		
-	Modernity:flag.N	A squared piece of cloth that usually is attached to a stick and is used to fulfil various functions of representation.	2623			
-	Modernity:frame.N	A structural system of support.	2624			
+	Modernity:flag.N	A squared piece of cloth that usually is attached to a stick and is used to fulfil various functions of representation.	2623			1490
 	Modernity:garbage.N	Unwanted or undesired material, usually discarded.	909			
 	Modernity:globe.N	A spherical representation of the earth.	2588			
-	Modernity:hospital.N	A place where people who are ill or injured are treated and taken care of by doctors and nurses.	616	23-2		
-	Modernity:injection.N	A method of putting liquid into the body with a hollow needle and a syringe which is pierced through the skin long enough for the material to be forced into the body.	1805	23-23		
 	Modernity:ink.N	A liquid or paste that contains pigments or dyes and is used to color a surface to produce an image, text, or design.	2643			
 	Modernity:jack.N	A playing card marked with the figure of a servant or soldier.	50			
 	Modernity:lavish.A	Very generous; giving (money, praise, etc.) in abundance.	222			
 	Modernity:library.N	A library is a collection of sources of information and similar resources, made accessible to a defined community for reference or borrowing.	2428			
 	Modernity:logic.N	Logic (from the Ancient Greek: λογική, logike) is the branch of philosophy concerned with the use and study of valid reasoning. The study of logic also features prominently in mathematics and computer science.	2429			
 	Modernity:machine.N	A device able to perform a particular, more or less complex, job.	144	23-19		
-	Modernity:mail.N	A batch of letters and parcels received via post.	167	23-4		
 	Modernity:map.N	Symbolic depiction of areas and regions.	2625			
-	Modernity:mattress.N	A pad on which a person can recline and sleep.	105	23-53		
 	Modernity:member.N	A person who belongs to any organized or non-organized group of people.	2424			
 	Modernity:method.N	A specific technique or way of performing an action to achieve a particular goal.	3971			
 	Modernity:minister.N	A person appointed to a high office in the government.	486	23-32		
 	Modernity:motor.N	A machine in which power is applied to do work by the conversion of various forms of energy into mechanical force and motion.	110	23-185		
 	Modernity:movie.N	A sequence of animated images.	216	23-62		
-	Modernity:newspaper.N	A publication (usually published daily or weekly and printed on cheap, low-quality paper) that contains news and other articles.	1298	23-6	Zeitung::N	
 	Modernity:number.N	An abstract entity used to describe quantity.	1356	23-39		
 	Modernity:nurse.N	A person trained to provide care for the sick.	1104	23-21		
 	Modernity:office.N	An office is generally a room or other area where administrative work is done.	2430			
@@ -4075,9 +4060,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Modernity:picture.N	A photograph or a painting.	2401			
 	Modernity:plastic.N	A polymeric material (usually organic) of large molecular weight which can be shaped by flow; usually refers to the final product with fillers, plasticizers, pigments, and stabilizers included (versus the resin, the homogeneous polymeric starting material); examples are polyvinyl chloride, polyethylene, and urea-formaldehyde.	654	23-57		
 	Modernity:police.N	Branch of the government which is charged with the preservation of public order, the promotion of public health and safety, and the prevention, detection, and punishment of crimes.	656	23-33		
-	Modernity:postage stamp.N	A piece of paper that is affixed to letters or packages to pay for their delivery.	596	23-41		
-	Modernity:postcard.N	A rectangular piece of thick paper or thin cardboard intended to be written on and mailed without an envelope.	1497	23-43		
-	Modernity:postman.N	Person who transports and delivers items sent with a postal service.	3095			
 	Modernity:powder.N	The granular state of solid matter that was crushed or ground into finest particles.	3368			
 	Modernity:president.N	The title of one who presides over an organisation, company, trade union, university, country, etc.	899	23-31		
 	Modernity:problem.N	Something that poses difficulties and requires to be solved in someway.	2425			
@@ -4085,43 +4067,26 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Modernity:protractor.N	A measuring instrument for measuring angles.	2612			
 	Modernity:racket.N	Tool used for hitting a ball in tennis-like games.	3096			
 	Modernity:racquet.N	A sports implement consisting of a handled frame with an open hoop across which a network of strings is streched tightly.	2585			
-	Modernity:radio.N	A device that can capture the signal sent over radio waves and render the modulated signal as sound.	1315	23-1		
 	Modernity:refrigerator.N	A storage box, compartment or room to stock goods by means of mechanical refrigeration.	3952			
 	Modernity:revolution.N	A revolution (from the Latin revolutio, a turn around) is a fundamental change in power or organizational structures that takes place in a relatively short period of time.	2431			
-	Modernity:santa claus.N	Santa Claus, also known as Saint Nicholas, Father Christmas, Kris Kringle and simply Santa, is an important figure with legendary, historical and folkloric origins who, in many Western cultures, is said to bring gifts to the homes of the good children on 24 December, the night before Christmas Day.	2404			
-	Modernity:screw.N	A shaft with a helical groove or thread formed on its surface. Its main use is as a threaded fastener used to hold objects together.	1802	23-55		
-	Modernity:screwdriver.N	A hand tool used for driving screws.	836	23-555		
-	Modernity:scroll.N	A roll of papyrus.	2608			
-	Modernity:sewing machine.N	A machine that partially automates the process of sewing, i.e. uniting pieces of material by using a needle and a thread.	3097			
-	Modernity:sink (basin).N	A bowl for washing hands, dishwashing or other purposes, often affixed to a wall.	915	23-51		
 	Modernity:ski.N	A ski is a narrow strip of semi-rigid material worn underfoot to glide over snow.	2991		Ski::N	
 	Modernity:slab.N	Thick plate or slice.	2952		Platte::N	
 	Modernity:slice.N	A thin flat piece cut from something.	2954		Scheibe::N	
 	Modernity:spectacles.N	A pair of lenses in a frame that are worn in front of the eyes and are used to correct faulty vision or protect the eyes.	1898	23-24		
 	Modernity:state (politics).N	A politically organized body of people usually occupying a definite territory.	2955		Staat::N	
-	Modernity:stethoscope.N	An acousting medical device for auscultation.	2599			
 	Modernity:stilts.N	Poles or pillars allowing a person to stand at a height above the ground.	2593			
 	Modernity:stroke (of pen).N	A single movement with a pen in order to write or paint something.	2993		Strich::N	
-	Modernity:tablet.N	A pill; a small, easily swallowed portion of a substance.	396			
 	Modernity:tennis ball.N	Yellow, spherical object used for playing the game of tennis.	3103			
 	Modernity:theory.N	Theory is a contemplative and rational type of abstract or generalizing thinking, or the results of such thinking. Depending on the context, the results might for example include generalized explanations of how nature works.	2433			
-	Modernity:toilet.N	A room equipped with a toilet for urinating and defecating.	219	23-52		
-	Modernity:toothbrush.N	A device to brush one's teeth.	2579			
 	Modernity:toy.N	A toy is an item that can be used for play.	2403			
 	Modernity:tragedy.N	Tragedy (from the Greek: τραγῳδία, tragōidia[a]) is a form of drama based on human suffering that invokes in its audience an accompanying catharsis or pleasure in the viewing.	2434			
 	Modernity:tray.N	Tray is a shallow platform designed for carrying things.	2629			
 	Modernity:trellis (architecture).N	An architectural structure supporting and displaying climbing plants.	2610			
 	Modernity:tripod.N	A portable three-legged frame used as a platform for supporting the weight of some other object.	2607			
 	Modernity:tube.N	Cylindrical structure or device.	2956		Rohr::N	
-	Modernity:type (on something).V	Using keys of a computer or typewriter.	3134			
-	Modernity:university.N	A university (Latin: universitas, a whole) is an institution of higher (or tertiary) education and research which grants academic degrees in various subjects and typically provides undergraduate education and postgraduate education.	2435			
-	Modernity:watch (tv).V	The act of watching television.	3136			
 	Modernity:wealth.N	Wealth is the abundance of valuable resources or valuable material possessions.	2996		Reichtum::N	
 	Modernity:whip.N	A tool traditionally used by humans to exert control over animals.	2630			
 	Modernity:wire.N	A single, usually cylindrical, flexible strand or rod of metal.	2631			
-	Modernity:worker.N	Somebody who works.	2977		Arbeiter::N	
-	Modernity:workshop.N	A room or building in which work, especially mechanical work, is carried on.	1677	23-58		
-	Modernity:wreath.N	An assortment of flowers and other things that is constructed to resemble a ring.	2589			
 	Motion:accompany.V	To go or travel in the company of someone.	1542			
 	Motion:aim.V	aim (to point/direct X toward Y) 				3030
 	Motion:attract.V	attract 				3020
@@ -5432,7 +5397,6 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Tool:bomb.N	bomb				1214
 	Tool:bow.N	bow (for arrows)				1213
 	Tool:broom.N	broom				1243
-	Tool:brush.N	brush				1244
 	Tool:bullet.N	bullet				1216
 	Tool:button.N	button (on a shirt etc.)				1246
 	Tool:cage.N	cage				1218
@@ -5567,4 +5531,3 @@ Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582
 	Value:true.A	true 				1943
 	Value:virtuous.N	virtuous				1907
 	Value:wrong.A	wrong, incorrect 				1949
-		To stick objects together with adhesive substance.			kleben::V	
