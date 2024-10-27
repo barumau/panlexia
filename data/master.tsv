@@ -1,4 +1,5 @@
 id	initial_id	Definition	Concepticon_id	WOLD_id	NELex_id	ULD_id
+Action:can.V	Action/Technology:be able.V	To have the ability to do something.	972	24-99902	können::V	208
 Agriculture:burn land.V	Agriculture/Plant:burn land.V	Clear an area with fire.	3539			
 Agriculture:crops.N	Agriculture/Plant:crops.N	The output of plants cultivated that is grown on a large scale.	3081			
 Agriculture:cultivate.V	Agriculture/Plant:cultivate.V	To prepare an area by tilling, planting seeds etc. in order to grow plants.	1541	8-15		
@@ -121,33 +122,41 @@ Belief:altar.N	Belief:altar.N	Table for religious ceremonies.	853	22-14
 Belief:amulet.N	Belief:amulet.N	An object whose most important characteristic is the power ascribed to it to protect its owner from danger or harm.	2804			
 Belief:angel.N	Belief:angel.N	A supernatural messenger from a god, often depicted in art as a youthful winged human figure.				1811
 Belief:atheism.N	Belief:atheism.N	atheism				1860
+Belief:bishop.N				22-99904		
 Belief:bless.V	Belief:bless.V	To confer divine aid or favor upon someone or something.	391	22-23		1821
 Belief:buddha.N	Belief:buddha.N	One who has purified obscurations and developed pristine cognition.	2061			
 Belief:Buddhism.N	Belief:buddhism.N	Buddhism				1865
 Belief:Catholic priest.N	Belief:Catholic priest.N	A minister of the Catholic church empowered to administer the sacraments, most particularly that of the Eucharist or Holy Communion, as well as those of confession and extreme unction.	852	22-18		
+Belief:Christ.N				22-99901		
 Belief:Christianity.N	Belief:christianity.N	Christianity				1870
+Belief:Christmas.N	Modernity:christmas.N	Christmas or Christmas Day (Old English: Crīstesmæsse, meaning Christ's Mass) is an annual festival commemorating the birth of Jesus Christ, observed most commonly on December 25 as a religious and cultural celebration among billions of people around the world.	2405	22-99902		
 Belief:curse.V	Belief:curse.V	To imprecate evil or misfortune upon someone or something, usually by means of a prayer or implication.	8	22-24		1822
 Belief:deity.N	Belief:deity.N	A supernatural, typically immortal being with superior powers.	3231	22-12	Gott::N	1810
 Belief:demon.N	Belief:demon.N	Evil spirit or person that is wicked or cruel in their actions.	1973	22-35		
 Belief:Devil.N	Belief:Devil.N	The personal supreme spirit of evil often represented in Christian belief as the tempter of humankind, the leader of all apostate angels, and the ruler of hell.	3917			1813
+Belief:Easter.N				22-99903		
 Belief:fairy (fem).N	Belief:fairy.N	One of a class of female supernatural beings, generally conceived as having a diminutive human form and possessing magical powers.	1138			
 Belief:fairy.N	Belief:fairy.N	A supernatural flying humanoid possessing magical powers.				1812
 Belief:false idol.N	Belief:graven image.N	A representation of a deity who is considered to be false.	3205			
-Belief:funeral.N	Belief:funeral.V	The ceremonial act of bidding farewell to a deceased person or animal.	3336			1891
+Belief:funeral.N	Belief:funeral.V	The ceremonial act of bidding farewell to a deceased person or animal.	3336	22-99905		1891
 Belief:ghost.N	Belief:ghost.N	The visible disembodied soul of a dead person.	1175	22-45		1831
 Belief:God.N	Belief:god.N	The deity of a monotheistic religion.	1944			
 Belief:heaven.N	Belief:heaven.N	The abode of gods sometimes believed to be in the sky.	1565	22-31		1840
 Belief:hell.N	Belief:hell.N	In various religions, the place where sinners are said to go after death.	878	22-32		1841
 Belief:Hinduism.N	Belief:hinduism.N	Hinduism				1875
+Belief:holiday.N	Time:holiday.N	A religious feast day.		22-99906		3294
 Belief:holy.A	Belief:holy.A	Specially recognized as or declared sacred by religious use or authority.	1702	22-19		1850
+Belief:hymn.N				22-99907		
 Belief:idol.N	Belief:idol.N	A representation of a deity, notably a statue or a statuette.	1945	22-37	Figur::N	
 Belief:Islam.N	Belief:Islam.N	Islam				1880
 Belief:Judaism.N	Belief:Judaism.N	Judaism				1885
 Belief:legendary creature.N	Belief:legendary creature.N	A human or an animal described in non-historical or yet to be verified stories that sometimes involve the supernatural.	2138			
+Belief:Lent.N				22-99908		
 Belief:magic.N	Belief:magic.N	The use of rituals or actions, especially based on supernatural or occult knowledge, to manipulate or obtain information about the natural world, especially when seen as falling outside the realm of religion.	392	22-42		1802
 Belief:magician.N	Belief:magician.N	A person who practices magic.	2137	22-43		
 Belief:miracle.N	Belief:miracle.N	The happening of something impossible.	2541			
 Belief:mosque.N	Belief:mosque.N	A place of worship for followers of the Islamic faith.	1603	22-132		
+Belief:Muslim.N		A believer of Islam.		22-99909		
 Belief:mythical being.N	Belief:mythical being.N	Any living creature that occurs in stories and fairytales and does not exist in the real world.	2641			
 Belief:omen.N	Belief:omen.N	A sign that is supposed to reveal whether the future will be favourable or not.	107	22-47		
 Belief:pray.V	Belief:pray.V	To address God or a higher being with praise, thanksgiving, confession or supplication.	24	22-17		1820
@@ -155,16 +164,20 @@ Belief:priest.N	Belief:priest or shaman.N	A generic way of referring to a person
 Belief:pyre.N	Belief:pyre.N	Structure made from wood for burning a body as part of a rite.	2832			
 Belief:religion.N	Belief:religion.N	The expression of man's belief in and reverence for a superhuman power recognized as the creator and governor of the universe.	661	22-11		1801
 Belief:rite.N	Belief:rite.N	A specific process or action used to practise religious beliefs.	3334			1890
+Belief:rosary.N				22-9991		
 Belief:sacred grove.N	Belief:sacred grove.N	A place in nature believed to hold special religious, magical, etc. powers.	3335			
 Belief:Santa Claus.N	Modernity:santa claus.N	Santa Claus, also known as Saint Nicholas, Father Christmas, Kris Kringle and simply Santa, is an important figure with legendary, historical and folkloric origins who, in many Western cultures, is said to bring gifts to the homes of the good children on 24 December, the night before Christmas Day.	2404			
 Belief:sermon.N	Belief:sermon.N	A religious lecture or speech, addressing issues of religion or morality.	3167			
 Belief:sermon.V	Belief:preach.V	To deliver a sermon.	304	22-22		
-Belief:shaman.N	Belief:shaman (folk healer).N	A traditional (prescientific) faith healer; a member of certain tribal societies who acts as a religious medium between the concrete and spirit worlds.	394			
+Belief:shaman.N	Belief:shaman (folk healer).N	A traditional (prescientific) faith healer; a member of certain tribal societies who acts as a religious medium between the concrete and spirit worlds.	394	22-99911		
+Belief:shaman’s spirit.N				22-99912		
+Belief:shamanistic song.N				22-99913		
 Belief:soul.N	Belief:soul.N	In philosophical or religious belief the immaterial part of a human being that is believed to outlive the body.	811	16-11		1830
 Belief:sphinx.N	Belief:sphinx.N	A fable animal that occurs in Greek mythology.	2609			
 Belief:spirit.N	Belief:spirit.N	A spiritual entity that is not as powerful as a deity.	53		Geist::N	
 Belief:temple.N	Belief:temple.N	A house of worship and spiritual activities.	911	22-13		
 Belief:witch.N	Belief:witch.N	A female person who practices magic.	824			
+Belief:woman’s rattle.N				22-99914		
 Belief:worship.V	Belief:worship.V	To show devotion and obeisance to.	257	22-16		
 Body:ankle.N	Body:ankle.N	A joint formed where the foot and the leg meet.	803	4-371		
 Body:anus.N	Body:anus.N	The lower opening of the digestive tract, through which faeces pass.	1935			558
@@ -560,7 +573,9 @@ Combat:fight.V	Combat/Hunting:fight.V	To be involved in a physical confrontation
 Combat:helmet.N	Combat/Hunting:helmet.N	Any of various forms of protective head covering worn e.g.  by soldiers, firefighters, divers, cyclists, etc.	1680	20-33		1432
 Combat:strike (sb).V	Action/Technology:strike (someone).V	To intentionally hit someone with a sharp blow or to impel, usually with a hand or weapon.	3308		schlagen::V	
 Combat:suit of armour.N	Combat/Hunting:harness (armour).N	A specific suit that protects people who fight.	2552			
+Combat:win.V	Society:win.V	To achieve a victory.	866	20-99909	siegen::V	2366
 Combat:wrestle.V	Body:wrestle.V	wrestle 				783
+Combat.warship.N				20-99906		
 Communication:accept	Action/Technology:accept.V	To take or get something that was offered by someone, to willingly receive	3898			1721
 Communication:answer.V	Language:answer.V	To communicate a message of any form in reaction to something that has been asked or expressed, to the being who expressed it; to react verbally.	1275	18-32		2272
 Communication:boast.V	Language:boast.V	To show off.	101	18-45	prahlen::V	
@@ -837,6 +852,42 @@ Food:supper.N	Food:supper.N	The last meal of the evening.		5-45		3489
 Food:tea.N	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.	1373	23-9	Tee::N	
 Form:bend (sth).V	Action/Technology:bend (something).V	To carry out a movement to turn something into a curved shape.	2224		biegen::V	
 Form:bend.V	Action/Technology:bend.V	Movement that causes the formation of a curve.	2004	9-14	beugen::V	
+Function:1DU EXCL.PRN	Family:we two (exclusive).?	Exclusive dual of the first person: I and exactly one other person, but not the addressed person (you).	2636			
+Function:1DU INCL.PRN	Family:we two (inclusive).?	Inclusive dual of the first person: I and exactly one other person, including the addressed person (you).	2637	24-99914		
+Function:1DU.PRN	Family:we two.?	The speaker and exactly one other person.	2634			
+Function:1PL EXCL.PRN	Family:we (exclusive).?	Exclusive we: I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person).	1130	2-942		
+Function:1PL INCL.PRN	Family:we (inclusive).?	Inclusive we: I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person).	1131	2-941		
+Function:1PL OBL.PRN	Family:us (oblique case of we).?	Oblique case of the first person plural pronoun.	2310			
+Function:1PL.PRN	Family:we.?	The speaker or writer and at least one other person.	1212	2-94	wir::PRN	
+Function:1SG OBL.PRN	Family:me.?	Oblique cases of the first person singular pronoun.	2301			
+Function:1SG.PRN	Family:i.?	The speaker or writer referring to himself or herself alone.	1209	2-91	ich::PRN	
+Function:2DU.PRN	Family:they two.?	The third person dual of the personal pronoun.	2635	24-99913		
+Function:2DU.PRN	Family:you two.?	Addressing two persons (second person dual).	2111	24-99919		
+Function:2PL HON.PRN	Family:you (honorific).?	The group of persons addressed (honorific).	3293			
+Function:2PL OBL.PRN	Family:you (oblique case of you).?	The oblique case of the second person plural pronoun.	2312			
+Function:2PL.PRN	Family:you.?	The group of persons addressed.	1213	2-95	ihr::PRN	
+Function:2SG FRM.PRN	Family:you (formal address).?	The formal way to address the second person.	2844			
+Function:2SG HON.PRN	Family:thou (honorific).?	The person addressed (honorific).	3292			
+Function:2SG OBL.PRN	Family:thee (oblique case of you).?	Oblique cases of the second person singular pronoun.	2304			
+Function:2SG.PRN	Family:thou.?	The person addressed.	1215	2-92	du::PRN	
+Function:3PL.PRN	Family:they.?	The third person plural of the personal pronoun that designates more than one person or animal, thing or idea which have already been mentioned previously.	817	2-96	sie::PRN	
+Function:3SG INAN.PRN	Family:it.?	An inanimate object, an animate object of unspecified sex, or a subject that is previously mentioned.	169	2-933		
+Function:3SG M.PRN	Family:he.?	A male other; the male previously mentioned; himself.  3rd person singular masculine subject pronoun.	1211	2-931	er::PRN	
+Function:3SG N.PRN	Family:he or she.?	Third person singular addressing living things or persons.	2642			
+Function:3SG.PRN	Family:he or she or it.?	Third person singular pronoun, regardless of gender/sex.	262	2-93		
+Function:and or but.CNJ				24-99901		
+Function:and.CNJ	Cognition:and.?	Used to connect two homogeneous words or phrases.	1577	17-51	und::CNJ	
+Function:FUT.PTCL		The particle indicating the future tense.				
+Function:hey.INT		Particle for getting attention of people.		24-99904		
+Function:let:PART		The optative particle.		24-99906		
+Function:NEG.PTCL		Negative marker.		24-99907		
+Function:neither.CNJ		The first word in neither... nor.		24-99908		
+Function:nor.CNJ		The second word in neither... nor.		24-99909		
+Function:or.CNJ	Cognition:or.?	Conjunction that indicates an alternative.	1014	17-54	oder::CNJ	
+Function:PRS.PTCL		The particle indicating the present tense.				
+Function:PST.PTCL		The particle indicating the past tense.				
+Function:Q.PTCL		The word that is used in the interrogation and indicates doubt		24-99905		
+Function:then.CNJ		The second word in if... then.		24-99912		
 Grooming:adorned.A	Clothing/Grooming:adorned.A	Something that is crested with adornment.	2496			
 Grooming:adornment.N	Clothing/Grooming:adornment.N	Something that beautifies or adorns.	1822			
 Grooming:armlet.N	Clothing/Grooming:armlet.N	A band or bracelet worn round the upper part of a person's arm.	3149			
@@ -965,7 +1016,8 @@ House:sink.N	Modernity:sink (basin).N	A bowl for washing hands, dishwashing or o
 House:toilet.N	Modernity:toilet.N	A room equipped with a toilet for urinating and defecating.	219	23-52		
 Hunting:boomerang.N	Action/Technology:boomerang.N	A tool with a curved shape used as a weapon or for sport which returns when thrown into the air.	135	9-87		
 Hunting:bow string.N	Action/Technology:bow string.N	The string of a bow used to hunt.	2119			
-Hunting:fishing.V	Action/Technology:fishing.V	To hunt for fishes (general expression).	2638		fischen::V	
+Hunting:fishing.V	Action/Technology:fishing.V	To hunt for fishes (general expression).	2638	20-99908	fischen::V	
+Hunting:game.N		Wild animal hunted for food.		20-99904		
 Hunting:hunt.V	Combat/Hunting:hunt.V	To chase down prey and (usually) kill it.	1435	20-61	jagen::V	781
 Hunting:hunter.N	Combat/Hunting:hunter.N	A person who hunts game.	1053			
 Hunting:hunting dog.N	Combat/Hunting:hunting dog.N	A type of canine bred for hunting or a dog trained to assist humans with hunting.	3380			
@@ -974,6 +1026,8 @@ Hunting:net.N	Action/Technology:net (for catching).N	A grid-like device used for
 Language:book.N	Language:book.N	A collection of leaves of paper, parchment or other material, usually bound or fastened together within covers, containing writing of any type or blank pages for future inscription.	963	18-61	Buch::N	2248
 Law:commit a crime.V				19-99938		
 Law:crime.N	Modernity:crime.N	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public. (Source: BLACK)	1066	23-37		1654
+Law:lawyer.N				21-99901		
+Law:verdict.N				21-99902		
 Literature:alphabet.N	Communication:alphabet.N	alphabet				2243
 Material:brass.N	Action/Technology:brass.N	The copper-zinc alloy. A yellow-colored metal made of the mixture of copper and zinc and used in the making of decorations and musical instruments.	3743			3321
 Mind:dream.N	Body:dream.N	Successions of images, ideas, emotions, and sensations that occur usually involuntarily in the mind during certain stages of sleep.	2374		Traum::N	662
@@ -1459,7 +1513,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Action/Technology:arrange.V	To give structure to.	1568			
 	Action/Technology:attach.V	To fasten one thing to another.	3894			
 	Action/Technology:baby carrier.N	A piece of cloth used around the body to carry a child	3926			
-	Action/Technology:be able.V	To have the ability to do something.	972		können::V	
 	Action/Technology:beat.V	To strike or pound repeatedly, usually in some sort of rhythm.	1665			
 	Action/Technology:because of.?	For the reason of.	2918		wegen::PRP	171
 	Action/Technology:become extinguished.V	Being stopped from burning or emitting light.	2209			
@@ -2585,7 +2638,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Business:value.N	value, worth				1758
 	Business:wages.N	wages				1797
 	Cognition:agreement.N	The state of sharing the same feeling or opinion.	3644			
-	Cognition:and.?	Used to connect two homogeneous words or phrases.	1577	17-51	und::CNJ	
 	Cognition:attentive.A	Giving attention.	1908			
 	Cognition:be ignorant.V	Be in a state of not knowing something.	2651			
 	Cognition:because.?	Conjunction initiating a causal phrase.	1157	17-52		
@@ -2655,7 +2707,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Cognition:no.?	A word used to show disagreement of something.	1269	17-56		
 	Cognition:obscure.A	Known vaguely or incompletely, if at all.	1764	17-35		
 	Cognition:obstinate.A	Persisting in a reactionary stand.	1842			
-	Cognition:or.?	[Conjunction that indicates an alternative.]	1014	17-54	oder::CNJ	
 	Cognition:plan.N	A method or a set of arrangements, needed to achieve a specific goal.	3630			
 	Cognition:pretend.V	To behave in such a way that makes someone believe something that is not true.	3631			
 	Cognition:pupil (student).N	A student under the supervision of a teacher or professor.	753	17-26		
@@ -2700,7 +2751,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Combat/Hunting:army.N	A large, military force concerned mainly with ground operations.	1561	20-15		
 	Combat/Hunting:arrow.N	Pointed projectile that is shot with a bow.	977	20-25	Pfeil::N	
 	Combat/Hunting:attack.N	The application of violent force to someone or something.	722	20-43		
-	Combat/Hunting:attacking.V	To use violence with the intention to harm.	3899			
+	Combat/Hunting:attack.V	To use violence with the intention to harm.	3899	20-99907		
 	Combat/Hunting:bait.N	Anything that serves as an enticement.	2013	20-56		
 	Combat/Hunting:battle-axe.N	An ancient military weapon.	386	20-222		
 	Combat/Hunting:battle.N	An instance of combat in warfare between two or more parties wherein each group will seek to defeat the others.	579	20-13		
@@ -3190,11 +3241,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Family:grandchild (son's offspring).N	Offspring of one's son.	3909			
 	Family:grandfather or older brother.N	Either the grandfather or the older brother of a person.	2644			
 	Family:grandson (son's son).N	Son of one's son.	2702			
-	Family:he or she or it.?	Third person singular pronoun, regardless of gender/sex.	262	2-93		
-	Family:he or she.?	Third person singular addressing living things or persons.	2642			
-	Family:he.?	A male other; the male previously mentioned; himself.  3rd person singular masculine subject pronoun.	1211	2-931	er::PRN	
-	Family:i.?	The speaker or writer referring to himself or herself alone.	1209	2-91	ich::PRN	
-	Family:it.?	An inanimate object, an animate object of unspecified sex, or a subject that is previously mentioned.	169	2-933		
 	Family:male cousin.N	The male child of the sibling of a parent of a person.	3822			
 	Family:male person.N	A human belonging to the male sex.	2106			
 	Family:marry (as man).V	To enter marriage from the perspective of a man.	2164			
@@ -3211,7 +3257,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Family:maternal uncle (mother's older brother).N	Older brother of ego's mother.	3249			
 	Family:maternal uncle (mother's younger brother).N	Younger brother of ego's mother.	3250			
 	Family:maternal uncle.N	A brother of someone's mother.	3220			
-	Family:me.?	Oblique cases of the first person singular pronoun.	2301			
 	Family:mother (of a man).N	A female parent of a man.	3908			
 	Family:mother (of a woman).N	A female parent of a woman.	3907			
 	Family:mother-in-law (of man).N	The mother-in-law of a man.	2257	2-62		
@@ -3255,25 +3300,8 @@ Value:be worth.V		To be worth of something.		11-99906
 	Family:son-in-law (of man).N	The son-in-law of a man.	2267	2-63		
 	Family:son-in-law (of woman).N	The son-in-law of a woman.	2266	2-631		
 	Family:son-in-law.N	The male marital partner of someone's child.	1056			
-	Family:thee (oblique case of you).?	Oblique cases of the second person singular pronoun.	2304			
-	Family:they two.?	The third person dual of the personal pronoun.	2635			
-	Family:they.?	The third person plural of the personal pronoun that designates more than one person or animal, thing or idea which have already been mentioned previously.	817	2-96	sie::PRN	
-	Family:thou (honorific).?	The person addressed (honorific).	3292			
-	Family:thou.?	The person addressed.	1215	2-92	du::PRN	
 	Family:uncle (husband of father's sister).N	The husband of the sister of one's father.	2690			
 	Family:uncle or father-in-law.N	Either an uncle or the father-in-law.	2387			
-	Family:us (oblique case of we).?	Oblique case of the first person plural pronoun.	2310			
-	Family:we (exclusive).?	Exclusive we: I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person).	1130	2-942		
-	Family:we (inclusive).?	Inclusive we: I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person).	1131	2-941		
-	Family:we two (exclusive).?	Exclusive dual of the first person: I and exactly one other person, but not the addressed person (you).	2636			
-	Family:we two (inclusive).?	Inclusive dual of the first person: I and exactly one other person, including the addressed person (you).	2637			
-	Family:we two.?	The speaker and exactly one other person.	2634			
-	Family:we.?	The speaker or writer and at least one other person.	1212	2-94	wir::PRN	
-	Family:you (formal address).?	The formal way to address the second person.	2844			
-	Family:you (honorific).?	The group of persons addressed (honorific).	3293			
-	Family:you (oblique case of you).?	The oblique case of the second person plural pronoun.	2312			
-	Family:you two.?	Addressing two persons (second person dual).	2111			
-	Family:you.?	The group of persons addressed.	1213	2-95	ihr::PRN	
 	Family:younger brother (of man).N	The younger brother of a man.	2416			
 	Family:younger brother (of woman).N	The younger brother of a woman.	2417			
 	Family:younger sister (of man).N	The younger sister of a man.	2420			
@@ -3590,7 +3618,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Function word:be.V	"be (predicative copula as in ""I am a man"") "				201
 	Function word:become.V	become (begin to be; acquire the quality...) 				203
 	Function word:but.CNJ	but, however 				231
-	Function word:can.V	can (is/are able to ...) 				208
 	Function word:cause.V	cause (induce something to be/happen) 				204
 	Function word:do.V	do, perform, engage in (specified activity) 				206
 	Function word:each.A	each, every 				223
@@ -3613,7 +3640,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Function word:san.N	san (honorific さん in Japanese; no English equivalent)				270
 	Function word:should.V	should, ought to (is/are expected/advised to ...) 				209
 	Function word:that.CNJ	"that (e.g. ""I know that you are right"") "				234
-	Function word:that.CNJ	"that (relative, as in ""study the language that appeals to you"") "				280
+	Function word:that.CNJ	"The relative conjunction, as in ""study the language that/which appeals to you""."		24-99917		280
 	Function word:that.PRN	that (demonstrative) 				221
 	Function word:there.ADV	there (at/to that place) 				251
 	Function word:this.PRN	this (demonstrative) 				220
@@ -3661,7 +3688,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Game:tournament.N	tournament				2359
 	Game:toy.N	toy, plaything				2301
 	Game:umpire.N	umpire, referee, official				2364
-	Game:win.V	win (triumph in a competition) 				2366
 	Government:agency.N	agency, bureau				1620
 	Government:arrest.V	arrest 				1657
 	Government:authority.N	authority (the right/power to command)				1602
@@ -3933,7 +3959,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Matter:float.V	float 				3737
 	Matter:flow.V	flow (travel in a current) 				3739
 	Matter:fold.V	fold 				3741
-	Matter:force.N	force				3822
+	Matter:force.N	force		20-99903		3822
 	Matter:freeze.V	freeze 				3743
 	Matter:fuel.N	fuel				3310
 	Matter:garbage.N	garbage, trash, rubbish				3399
@@ -4062,7 +4088,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Modernity:card.N	A flat device in rectangular form that fulfills various functions.	2619	11-99902		3562
 	Modernity:certificate.N	Official document certifying some state of affairs.		19-99914		
 	Modernity:channel.N	In physical geography, a channel is a type of landform consisting of the outline of a path of relatively shallow and narrow body of fluid, most commonly the confine of a river, river delta or strait.	2423			
-	Modernity:christmas.N	Christmas or Christmas Day (Old English: Crīstesmæsse, meaning Christ's Mass) is an annual festival commemorating the birth of Jesus Christ, observed most commonly on December 25 as a religious and cultural celebration among billions of people around the world.	2405			
 	Modernity:cigarette.N	A product manufactured out of cured and finely cut leaves, which are rolled or stuffed into a paper-wrapped cylinder for smoking.	969	23-59		
 	Modernity:city.N	A big village.	2547			
 	Modernity:companionship.N	An interpersonal relationship is a strong, deep, or close association or acquaintance between two or more people that may range in duration from brief to enduring.	2983		Gesellschaft::N	
@@ -4947,7 +4972,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Quantity:sheet (classifier).CLF	Classifier for sheets or blankets.	2729			
 	Quantity:ship (classifier).CLF	Classifier for ships.	2736			
 	Quantity:some.?	An unspecified quantity or number of.	1241	13-181		
-	Quantity:someone.?	An unspecified person.	2422			
+	Quantity:someone.?	An unspecified person.	2422	24-9991		
 	Quantity:song (classifier).CLF	Classifier for songs.	3422			
 	Quantity:sparse.A	Occupied or populated by a small number of people.	207			
 	Quantity:stalk (classifier).CLF	Classifier for cigarettes and similar objects.	2726			
@@ -5085,7 +5110,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Society:village.N	A group of houses and other buildings, such as a church, a school and some shops, which is smaller than a town, usually in the countryside.	930	19-16	Dorf::N	
 	Society:visit.V	To go and see a person or place.	1377		besuchen::V	
 	Society:warrior.N	A person trained in combat or warfare.	3608			
-	Society:win.V	To achieve a victory.	866		siegen::V	
 	Sound:bell.N	bell				2320
 	Sound:concert.N	concert				2318
 	Sound:drum.N	drum (hollow musical instrument beaten with sticks or hands)				2321
@@ -5323,7 +5347,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Time:gradual.A	gradual 				3233
 	Time:graveyard shift.N	graveyard shift, middle of the night (midnight to dawn)				3290
 	Time:harmattan.N	Dry, dusty and cold West African trade wind from northeastern direction.	451			
-	Time:holiday.N	holiday				3294
 	Time:how long.?	Asking for the duration of an event.	2338			
 	Time:hurry.V	To move or do something at a fast pace.	754	14-23	sich beeilen::V	
 	Time:idle.N	The state of not being occupied with anything.	2756			
@@ -5566,6 +5589,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Value:true.A	true 				1943
 	Value:virtuous.N	virtuous				1907
 	Value:wrong.A	wrong, incorrect 				1949
+		(superlative marker)		24-99911		
 		A bag made of skin for containing water or wine.		9-9992		
 		A Brazilian person.		19-99913		
 		A Chinese person.		19-99915		
@@ -5598,11 +5622,13 @@ Value:be worth.V		To be worth of something.		11-99906
 		The centigram, a metric unit of mass equal to one hundredth (10) of a gram.		13-99904		
 		the communal labour		19-99916		
 		The constellation		1-99904		
+		The cutlass, a short sword.		20-99902		
 		the foreman		19-99921		
 		the French person		19-99922		
 		the government document		19-99923		
 		the hockey		19-99925		
 		the layman		19-99926		
+		the letterwood bow		20-99905		
 		The lima bean.		8-99926		
 		The loam, a rich soil consisting of a mixture of sand and clay and decaying organic materials.		1-99906		
 		The manioc juice made of the cassava plant or root.		5-99913		
