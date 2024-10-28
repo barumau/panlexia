@@ -76,5 +76,5 @@ def create_4_dictionaries_from_WOLD(WOLD_to_Panlexia):
 
 # Execution begins:
 WOLD_to_Panlexia = helpers.get_other_id_to_Panlexia_id_map("WOLD_id")
-create_4_dictionaries_from_WOLD(WOLD_to_Panlexia)
+#create_4_dictionaries_from_WOLD(WOLD_to_Panlexia)
 create_41_dictionaries_from_WOLD(WOLD_to_Panlexia)

@@ -5,6 +5,7 @@ Agriculture:crops.N	Agriculture/Plant:crops.N	The output of plants cultivated th
 Agriculture:cultivate.V	Agriculture/Plant:cultivate.V	To prepare an area by tilling, planting seeds etc. in order to grow plants.	1541	8-15		
 Agriculture:farm.N	Agriculture/Plant:farm.N	Any tract of land or building used for agricultural purposes, such as for raising crops and livestock.	201			1595
 Agriculture:farmer.N	Agriculture/Plant:farmer.N	A person who works the land or who keeps livestock, especially on a farm.	979	8-11		
+Agriculture:grow.V	Agriculture/Plant:grow plants.V	To cultivate a specific type of plant in order to harvest it.	3461	8-9996		
 Agriculture:harvest or harvest season.N	Agriculture/Plant:harvest or harvest season.N	The crop gathered in a season and the time during which crops are typically harvested.	3541	8-41		
 Agriculture:harvest.N	Agriculture/Plant:harvest.N	The crop gathered in a season.	611			
 Agriculture:herd (something).V	Action/Technology:herd (something).V	Keep or move animals together.	2885		hüten::V	
@@ -12,6 +13,7 @@ Agriculture:irrigate.V	Agriculture/Plant:irrigate.V	To supply with water; to wat
 Agriculture:mow.V	Agriculture/Plant:mow.V	To cut all the grass, crop or any thin plants of a surface area of the ground.	190	8-32		
 Agriculture:paddy field.N	Agriculture/Plant:paddy field.N	A flooded field where rice is grown.	140	8-121		
 Agriculture:paddy.N	Agriculture/Plant:paddy.N	Wet land in which rice is grown.	283			
+Agriculture:pick.V	Action/Technology:pick.V	To take off the fruits or other useful parts of a plant.	2148	8-99961	pflücken::V	
 Agriculture:pitchfork.N	Agriculture/Plant:pitchfork.N	An agricultural tool comprising a fork attached to a long handle used for pitching hay or bales of hay high up onto a haystack.	337	8-26		
 Agriculture:plough.N	Agriculture/Plant:plough (instrument).N	An agricultural device pulled through the ground in order to break it open into furrows for planting.	2154			
 Agriculture:plough.V	Agriculture/Plant:plough.V	To use a plough on to prepare for planting.	1921	8-21		
@@ -84,6 +86,7 @@ Animal:Sciuridae.N	Animal:squirrel.N	A small or medium-sized rodent of the famil
 Animal:Serpentes.N	Animal:snake.N	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	730	3-85	Schlange[Tier]::N	932
 Animal:Simiiformes.N	Animal:monkey.N	A primate from the group *New World monkeys* or *Old World monkeys* (Simiiformes, excluding the superfamily Hominoidea or apes) that lives mainly in rainforests and is distinguished from an Ape by its smaller size and its tail.	1350	3-76		966
 Animal:Sus scrofa domestica.N	Animal:pig.N	A common, four-legged animal (Sus scrofa) that has cloven hooves, bristles and a nose adapted for digging and is farmed by humans for its meat.	1337	3-35	Schwein::N	955
+Animal:Tamias.N		A squirrel-like rodent of the genus Tamias, native mainly to North America.		3-99944		
 Animal:Testudines.N	Animal:turtle.N	A reptile of the order Testudines (the crown group of the superorder Chelonia), characterised by a special bony or cartilaginous shell developed from their ribs that acts as a shield.	112	3-98		934
 Animal:unicorn.N	Belief:unicorn.N	A legendary animal with a horn on the forehead.	2601			
 Animal:Ursidae.N	Animal:bear.N	A large beast of prey of the family Ursidae, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet.	1820	3-73	Bär::N	960
@@ -227,6 +230,7 @@ Body:carcass.N	Body:carcass.N	The body of a dead animal, on which other animals 
 Body:cheek.N	Body:cheek.N	The soft skin on each side of the face, between the eyes and the chin; the outer surface of the sides of the oral cavity.	1730	4-208	Wange::N	512
 Body:chest.N	Body:chest.N	The portion of the body from the base of the neck to the top of the abdomen; the thorax.	1592	4-4	Brust::N	504
 Body:chin.N	Body:chin.N	The bottom of the face, below the mouth.	1510	4-209	Kinn::N	513
+Body:cholesterol.N				4-99904		
 Body:claw or nail.N	Body:claw or nail.N	The hard, keratin part growing at the feet of animals or the hands and legs of humans.	2128			
 Body:clitoris.N	Body:clitoris.N	A part of the female genitalia located at the front of the vulva, consisting of a sensitive erectile body.	3257			
 Body:close (eyes).V	Action/Technology:close (eyes).V	Move ones eyelids in such a way that the eyes are no longer visible.	2063			
@@ -413,12 +417,14 @@ Building:chimney.N	Building:chimney.N	A vertical structure of brick, masonry, or
 Building:church.N	Building:church.N	Building or institution of public worship in Christianity.				1561
 Building:column.N	Building:column.N	An upright supporting beam.	2045			
 Building:cookhouse.N	Building:cookhouse.N	A small house where cooking takes place; a kitchen house.	334	7-17		
+Building:corrugated iron.N		An iron sheet building material, usually galvanised, which has been pressed into corrugations.		9-99906		
 Building:courtyard.N	Building:courtyard.N	An area wholly or partly surrounded by walls or buildings.	4			
 Building:dam.N	Building:dam.N	A wall to stop or control the flow of a stream or river.				1592
+Building:deck.N		The deck, a raised flat surface that can be walked on.		9-99907		
 Building:door.N	Building:door.N	An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.	1567	7-22	Tür::N	1515
 Building:doorpost.N	Building:doorpost.N	The frame that supports a door.	80	7-221		
 Building:doorsill.N	Building:doorsills.N	A horizontal member of wood, stone, etc, forming the bottom of a door frame on which the threshold is put on.	2185			
-Building:fireplace.N	Building:fireplace.N	An open recess in a wall at the base of a chimney where a fire may be built, or a hearth.	185	7-31		1520
+Building:fireplace.N	Building:fireplace.N	An open recess in a wall at the base of a chimney where a fire may be built.	185	7-31		1520
 Building:floor.N	Building:floor.N	The bottom or lower part of any room; the supporting surface of a room.	1632	7-26	Fußboden::N	1512
 Building:frame.N	Building:frame.N	frame (structure supporting or surrounding something)				1330
 Building:frame.N	Modernity:frame.N	A structural system of support.	2624			
@@ -484,6 +490,7 @@ Clothing:cushma.N	Clothing/Grooming:cushma.N	A one-piece dress used by the Ashan
 Clothing:dress up.V	Clothing/Grooming:dress up.V	To clothe oneself; to put on clothes.	814		sich anziehen::V	
 Clothing:dress.N	Clothing/Grooming:dress.N	A one-piece garment for a woman that has a skirt and a body section.	474	6-42		1452
 Clothing:dye.V	Clothing/Grooming:dye.V	To modify the color of something by applying dye.	157	6-39	färben::V	
+Clothing:fashion.N		A style of clothing typical to a certain period of time.		6-9991		
 Clothing:felt.N	Clothing/Grooming:felt.N	A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.	325	6-27		
 Clothing:fit.V	Clothing/Grooming:suit.V	(Of an object) To be of the right size and shape so as to match another object.	764			
 Clothing:garment.N	Clothing:garment.N	An item of clothing.				1435
@@ -621,6 +628,8 @@ Communication:translate.V	Action/Technology:translate.V	To communicate of the me
 Communication:type.V	Modernity:type (on something).V	Using keys of a computer or typewriter.	3134			
 Communication:watch (TV).V	Modernity:watch (tv).V	The act of watching television.	3136			
 Communiction:call.N	Language:call (appeal).N	An act of calling with the voice.	2944		Ruf::N	
+Contact:slap.N		A hit with something flat, usually the open palm of the hand.		9-99921		
+Contact:slap.V	Action/Technology:slap.V	Hit with something flat, usually the open palm of the hand.	3160			
 Cosmos:full moon.N	Nature:full moon.N	The lunar phase when the moon is fully illuminated by the sun and appears in the sky as a full circle.	3690			
 Cosmos:Milky Way.N	Nature:milky way.N	The galaxy that contains our Solar System. Its name milky is derived from its appearance as a dim glowing band arching across the night sky in which the naked eye cannot distinguish individual stars.	2289			1138
 Cosmos:moon.N	Nature:moon.N	A natural satellite of a planet.	1313	1-53	Mond::N	1126
@@ -834,8 +843,11 @@ Flower:Prunus armeniaca.N	Agriculture/Plant:apricot blossom.N	The flower of the 
 Flower:Prunus salicina.N	Agriculture/Plant:plum blossom.N	The flower of the Chinese Plum.	2744			
 Food:alcohol.N	Food:alcohol (drink).N	A drink (a liquor or brew) containing ethanol, commonly known as alcohol.	2050			
 Food:bake.V	Food:bake.V	To cook (something) in an oven, but not in fat, or harden by means of dry heat.	183	5-24	backen::V	3493
+Food:barbecue.V		To cook food on a grill traditionally employing hot charcoal as the heating medium.		9-99928		
 Food:cake.N	Modernity:cake.N	Cake is a form of sweet dessert that is typically baked.	2408			
 Food:candy.N	Modernity:candy.N	Food item that is rich in sugar.	874	23-565		
+Food:Citrus sinensis.N	Agriculture/Plant:orange (fruit).N	A fruit of the citrus species citrus x sinensis.	2627			
+Food:cream.N				5-9991		
 Food:dinner.N	Food:dinner (supper).N	A meal that is eaten in the late afternoon or evening daily.	1833	5-44		
 Food:drink.V	Body:drink.V	drink 				721
 Food:fermented alcohol.N	Food:alcohol (fermented drink).N	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	404	5-94		
@@ -935,8 +947,8 @@ Handiwork:chisel.N	Action/Technology:chisel.N	A tool with a cutting edge at the 
 Handiwork:cut (with axe).V	Action/Technology:cut (with axe).V	To chop with an axe, e.g. wood in order to use it as firewood.	3151			
 Handiwork:cut (with knife).V	Action/Technology:cut (with knife).V	To slice or to divide into pieces with help of a knife or a knifelike object.	2156			
 Handiwork:cut (with scissors).V	Action/Technology:cut (with scissors).V	To divide into pieces with help of scissors, especially things like a rope, a piece of cloth, or a piece of paper.	2155			
-Handiwork:drill.N	Action/Technology:drill.N	A power tool designed to create holes by means of rotating the drill bits into hard material.	3423			
-Handiwork:file.N	Action/Technology:file (tool).N	A hand tool with a long flat metal bar used to re-shape objects.	3407			
+Handiwork:drill.N	Action/Technology:drill.N	A power tool designed to create holes by means of rotating the drill bits into hard material.	3423	9-99908		
+Handiwork:file.N	Action/Technology:file (tool).N	A hand tool with a long flat metal bar used to re-shape objects.	3407	9-99909		
 Handiwork:forge.V	Action/Technology:forge.V	To create and mold by hammering.	288	9-61		
 Handiwork:glue.V		To stick objects together with adhesive substance.			kleben::V	
 Handiwork:grate.V	Action/Technology:grate (something).V	To abrade an object by rubbing it against a rough surface.	3114			
@@ -959,6 +971,7 @@ Handiwork:repair.V	Action/Technology:repair.V	To restore something by replacing 
 Handiwork:saw (something).V	Action/Technology:saw (something).V	To cut something with a saw.	3543			
 Handiwork:saw.N	Action/Technology:saw.N	A tool with a toothed blade used for cutting hard substances, in particular wood or metal.	1948	9-48		
 Handiwork:scissors.N	Action/Technology:scissors.N	A tool used for cutting thin material, consisting of two crossing blades attached at a pivot point in such a way that the blades slide across each other when the handles are closed.	1328			
+Handiwork:scraper.N		An instrument with which anything is scraped.		9-99918		
 Handiwork:screw.N	Modernity:screw.N	A shaft with a helical groove or thread formed on its surface. Its main use is as a threaded fastener used to hold objects together.	1802	23-55		
 Handiwork:screwdriver.N	Modernity:screwdriver.N	A hand tool used for driving screws.	836	23-555		
 Handiwork:sewing machine.N	Modernity:sewing machine.N	A machine that partially automates the process of sewing, i.e. uniting pieces of material by using a needle and a thread.	3097			
@@ -968,7 +981,7 @@ Handiwork:skilled.A	Action/Technology:skilled.A	Experienced and clever, professi
 Handiwork:tool.N	Action/Technology:tool.N	A mechanical device intended to make a task easier.	1361	9-422		
 Handiwork:top grindstone.N	Action/Technology:top grindstone.N	The top (and usually proper) element in a two-stone grindstone.	3022			
 Handiwork:ware.N	Modernity:ware.N	Manufactured articles.	2957		Ware::N	
-Handiwork:weave (basket).V	Action/Technology:weave (basket).V	To weave a basket or use similar techniques for creating other objects.	3296			
+Handiwork:weave (basket).V	Action/Technology:weave (basket).V	To weave a basket or use similar techniques for creating other objects.	3296	9-99902		
 Handiwork:weaver.N	Action/Technology:weaver.N	A person whose occupation is weaving cloth, carpets, or baskets.	3637			
 Handiwork:whetstone.N	Action/Technology:whetstone.N	A stone that is used for whetting a knife or edge tools.	295	9-93		
 Handiwork:worker.N	Modernity:worker.N	Somebody who works.	2977		Arbeiter::N	
@@ -1024,6 +1037,7 @@ Hunting:boomerang.N	Action/Technology:boomerang.N	A tool with a curved shape use
 Hunting:bow string.N	Action/Technology:bow string.N	The string of a bow used to hunt.	2119			
 Hunting:fishing.V	Action/Technology:fishing.V	To hunt for fishes (general expression).	2638	20-99908	fischen::V	
 Hunting:game.N		Wild animal hunted for food.		20-99904		
+Hunting:harpoon.N		A spearlike weapon with a barbed head used in hunting whales and large fish.		9-99911		
 Hunting:hunt.V	Combat/Hunting:hunt.V	To chase down prey and (usually) kill it.	1435	20-61	jagen::V	781
 Hunting:hunter.N	Combat/Hunting:hunter.N	A person who hunts game.	1053			
 Hunting:hunting dog.N	Combat/Hunting:hunting dog.N	A type of canine bred for hunting or a dog trained to assist humans with hunting.	3380			
@@ -1036,6 +1050,9 @@ Law:lawyer.N				21-99901
 Law:verdict.N				21-99902		
 Literature:alphabet.N	Communication:alphabet.N	alphabet				2243
 Material:brass.N	Action/Technology:brass.N	The copper-zinc alloy. A yellow-colored metal made of the mixture of copper and zinc and used in the making of decorations and musical instruments.	3743			3321
+Material:canvas.N		A type of coarse cloth, woven from hemp, useful for making sails and tents or as a surface for paintings.		9-99905		
+Matter:rust.N	Action/Technology:rust.N	Any of various metallic coatings formed by corrosion, especially after oxidation in presence of water.	3064	9-99916		3549
+Matter:rusty.A	Nature:rusty.A	Having been affected by rust.	3870			
 Mind:dream.N	Body:dream.N	Successions of images, ideas, emotions, and sensations that occur usually involuntarily in the mind during certain stages of sleep.	2374		Traum::N	662
 Mind:dream.V	Body:dream (something).V	To experience while sleeping.	1920	4-62		
 Mind:dreaming.N	Body:dreaming or dream.?	Either the act of seeing images when sleeping, or the result of this act, the dream itself.	2455			
@@ -1072,6 +1089,7 @@ Motion:swing (sth).V	Action/Technology:swing (something).V	To set something in s
 Motion:swing.N	Action/Technology:swing.N	Tool used for play with a seat hanging from ropes.	3101			
 Motion:swing.V	Action/Technology:swing (movement).V	To move freely to and fro.	2871		schwingen::V	
 Motion:take a walk.V	Action/Technology:walk (take a walk).V	To wander around.	2890		spazierengehen::V	
+Motion:trail.N		The track or indication marking the route followed by something that has passed, such as the footprints of animal on land or the contrail of an airplane in the sky.		9-99924		
 Motion:turn (sth).V	Motion:turn (something).V	To position by moving an object around its axis.	1445	10-12	wenden::V	3052
 Motion:turn.V	Motion:turn.V	To change the direction of movement or the direction in which something is facing.	1588			3053
 Motion:walk.N	Action/Technology:walk (manner).N	The act of walking, the way one walks.	2979		Gang::N	
@@ -1158,6 +1176,8 @@ People:young woman.N	Family:young woman.N	A female juvenile between the onset of
 Perception:feel.V	Action/Technology:feel (tactually).V	To sense something by touching its surface.	2559		fühlen::V	880
 Perception:feeling sense.N	Perception:feeling (haptic sense).N	The sense that enables to perceive surfaces of things.	2521			
 Perception:touch.V	Perception:touch.V	To put one's hand on something/someone so that one can feel them. To be in physical contact with.	1892	15-71	berühren::V	750
+Plant:Adesmia campestris.N		The mamuelchoique, a kind of shrub of species Adesmia campestris.		8-99929		
+Plant:Aglaia odorata.N		A shrub or small tree in the mahogany family, from south China and Indo-China, grown ornamentally for the handsome leaves and fragrant flowers, which are tiny, round, and yellow; clusters of them are used for leis.		8-99912		
 Plant:Ananas comosus.N	Agriculture/Plant:pineapple.N	A tropical plant with edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.	2440	8-99939		
 Plant:Beta vulgaris saccharifera.N		The sugar beet.		8-99947		
 Plant:Betula.N	Agriculture/Plant:birch.N	A tree of the genus Betula, with small leaves and a trunk that is white with darker blotches.	1855	8-63	Birke::N	
@@ -1169,6 +1189,8 @@ Plant:Brassica rapa.N	Agriculture/Plant:turnip.N	A cultivated Eurasian plant, Br
 Plant:Bromeliaceae.N		Any of various tropical or subtropical New World herbaceous plants in the family Bromeliaceae.		8-99909		
 Plant:bud.N	Agriculture/Plant:bud.N	A bud is an undeveloped or embryonic shoot and normally occurs in the axil of a leaf or at the tip of the stem.	1684			1021
 Plant:bulb.N	Agriculture/Plant:bulb.N	A bulb is the part of some plants that stores food while the plant is resting from growing.	2617			
+Plant:Ceiba pentandra.N		A tree of the tropical Americas and west-central Africa, with white flowers, cultivated in south-east Asia for its seed fibre.		8-99915		
+Plant:Citrus sinensis.N	Plant:orange.N	Ttree of the species Citrus sinensis.		8-99936		1037
 Plant:Colocasia esculenta.N	Agriculture/Plant:taro.N	Colocasia esculenta, raised as a food primarily for its corm, which distantly resembles potato.	351	8-99949		
 Plant:coniferous.N		The type of tree that bears cones.		8-99914		
 Plant:Ficus carica.N	Plant:fig.N	fig (tree/fruit of genus Ficus)		5-99901		1034
@@ -1186,7 +1208,9 @@ Plant:root.N	Agriculture/Plant:root.N	The absorbing and anchoring organ of a vas
 Plant:sap.N	Agriculture/Plant:sap.N	The juice of plants of any kind, especially the ascending and descending juices or circulating fluid essential to nutrition.	345	8-76		
 Plant:seed.N	Agriculture/Plant:seed.N	A mature fertilized plant ovule, consisting of an embryo and its food store surrounded by a protective seed coat (testa).	714	8-311	Saat::N	
 Plant:seedling.N	Agriculture/Plant:seedling.N	A young plant produced from a seed.	3050			
+Plant:Setaria italica.N		Foxtail millet.		8-99933		
 Plant:Solanum oblongifolium.N		An Andean weed that grows in dry parts of forest and has white flowers and produces berries.		8-99904		
+Plant:Sorghum bicolor.N	Agriculture/Plant:sorghum.N	A cereal, Sorghum bicolor (syn. Sorghum vulgare), the grains of which are used to make flour and as cattle feed.	347	8-99923		
 Plant:sprout.N	Agriculture/Plant:sprout (shoot).N	The early growth of a plant.	3358			
 Plant:sprout.V	Action/Technology:sprout (verb).V	The process by which a plant grows from a seed.	2076			
 Plant:stem.N	Agriculture/Plant:plant stem.N	One of two main structural axes of a vascular plant, the other being the root.	2628			
@@ -1404,19 +1428,19 @@ Space:back.ADV	Space:back (direction).?	Toward the previous place or condition w
 Space:encircle.V	Action/Technology:encircle.V	To enclose or cause to be enclosed; to surround; to confine.	3274			
 Storage:bag.N	Action/Technology:bag.N	A container that stores things and is small enough so that one can wear it.	2468	6-99901	Tasche::N	
 Storage:bamboo basket.N	Action/Technology:bamboo basket.N	A basket from bamboo that is carried on the back.	3360			
-Storage:barrel.N	Modernity:barrel.N	A cylindrical container for liquids and food.	2548			1301
+Storage:barrel.N	Modernity:barrel.N	A cylindrical container for liquids and food.	2548	9-99901		1301
 Storage:basket.N	Action/Technology:basket.N	A lightweight container, generally round, open at the top, and tapering toward the bottom.	1539	9-76		1302
 Storage:bottle.N	Modernity:bottle.N	A container, typically made of glass and having a tapered neck, used for holding liquids.	1321	23-56		1303
 Storage:box or chest.N	Modernity:box or chest.N	Either a generic manmade object with space in it that is used to keep and store many various different objects, or a strong box with a lid on top.	3150			
 Storage:box.N	Modernity:box.N	A generic man-made object with space in it (commonly made of cardboard or wood) that is used to keep and store many various different objects.	1465		Kiste::N	1305
-Storage:bucket.N	Action/Technology:bucket.N	Typically a watertight, vertical cylinder or truncated cone, with an open top and a flat bottom, attached to a semicircular carrying handle called the bail.	2052		Eimer::N	1306
+Storage:bucket.N	Action/Technology:bucket.N	Typically a watertight, vertical cylinder or truncated cone, with an open top and a flat bottom, attached to a semicircular carrying handle called the bail.	2052	9-99903	Eimer::N	1306
 Storage:can.N	Modernity:can.N	A small, round-shaped metal container, used for different purposes like storing food or liquids, or collecting money.	1051	23-54		
 Storage:case.N		A box possibly with compartments that can contain a number of identical items, like bottles.		7-99902		
 Storage:envelope.N	Action/Technology:envelope.N	An item to commonly used to package or wrap letters.	3088			
 Storage:funnel.N	Modernity:funnel.N	A pipe with a wide mouth used to channel liquid into containers with small opening.	2602			
 Storage:heap.N	Action/Technology:heap.N	A collection of things thrown one on another.	2984		Haufen::N	
-Storage:lid (cover, cap).N	Action/Technology:lid (cover, cap).N	The cap of a container.	2319		Deckel::N	
-Storage:load (something).V	Action/Technology:load (something).V	To put a large quantity of things onto something.	3669			
+Storage:lid.N	Action/Technology:lid (cover, cap).N	The cap of a container.	2319		Deckel::N	
+Storage:load (sth).V	Action/Technology:load (something).V	To put a large quantity of things onto something.	3669			
 Storage:load.N	Action/Technology:load.N	The weight (materials, products, etc.) to be borne or conveyed.	1679		Last::N	
 Storage:misplace.V	Action/Technology:misplace.V	To place something in a place where one cannot find it again or in a wrong place; to lose something.	3072	11-33	verlieren::V	
 Storage:netbag.N	Action/Technology:netbag.N	Bag made of net used to carry things.	293	9-78		
@@ -1424,7 +1448,7 @@ Storage:pack.V	Action/Technology:pack.V	To put something in a container so that 
 Storage:package.N	House:package.N	package, packet, parcel				1311
 Storage:pouch.N	Action/Technology:pouch.N	A small bag.	2951		Beutel::N	
 Storage:pour.V	Action/Technology:pour.V	To cause a liquid to flow into a container.	1487	9-35	schütten::V	
-Storage:sack.N	Action/Technology:sack.N	A specific bag used to store or carry items.	2990		Sack::N	
+Storage:sack.N	Action/Technology:sack.N	A specific bag used to store or carry items.	2990	9-99917	Sack::N	
 Storage:tin (can).N	Modernity:tin (can).N	A tin-plate canister, often cylindrical, for preserved foods such as fruit, meat, or fish.	1582			1307
 Storage:vase.N	Modernity:vase.N	An often round vessel which is used for decoration or for holding cut flowers.	3746			
 Time:autumn or harvest season.N	Time:autumn or harvest season.?	The time during which crops are typically harvested, often co-occurring with the season of autumn.	3327			
@@ -1649,7 +1673,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Action/Technology:paintbrush.N	Brush used to spread pigments of colour on a surface.	3094			
 	Action/Technology:painting.V	To make a painting or drawing.	2001	9-89	malen::V	
 	Action/Technology:pearl.N	A small hard shiny ball formed in mussels or oysters.	3325			
-	Action/Technology:pick.V	To take off the fruits or other useful parts of a plant.	2148		pflücken::V	
 	Action/Technology:picture (painting).N	A painted image.	3303		Bild::N	
 	Action/Technology:post (something).V	To send something by means of a postal service.	3126			
 	Action/Technology:pound.V	To strike hard, usually repeatedly.	354	9-211		
@@ -1663,7 +1686,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Action/Technology:pull.V	To apply a force to (an object), in order that it moves towards the origin of the force that was applied.	1455	9-33	ziehen::V	
 	Action/Technology:put in order.V	To arrange something in a tidy manner.	3459			
 	Action/Technology:quickly.A	To carry out an action in a quick manner.	3365			
-	Action/Technology:raise (bring up).V	To take care of an infant or some other living creature, usually until it can live independently.	2134		aufziehen::V	
+	Action/Technology:raise (bring up).V	To take care of an infant or some other living creature, usually until it can live independently.	2134	8-99962	aufziehen::V	
 	Action/Technology:rake (something).V	The act of moving a tool over a surface in order to level or clean it.	3127			
 	Action/Technology:recognize (somebody).V	Perceive to see something or someone previously known.	2870		erkennen::V	
 	Action/Technology:recommend.V	To suggest something or somebody.	2759			
@@ -1676,13 +1699,11 @@ Value:be worth.V		To be worth of something.		11-99906
 	Action/Technology:rot.V	To be exposed to decomposition.	2907		verfaulen::V	
 	Action/Technology:rub.V	To move one's hand or an object over a surface or other object (maintaining constant contact and applying moderate pressure).	1449	9-31	reiben::V	
 	Action/Technology:ruler.N	A long flat device that is designed to assist with drawing straight lines or measuring by means of distance markings.	3405			
-	Action/Technology:rust.N	Any of various metallic coatings formed by corrosion, especially after oxidation in presence of water.	3064			
 	Action/Technology:scatter.V	To throw or drop things in different directions so that they cover a large area.	3705			
 	Action/Technology:scrape.V	To move an object against another object such that abrasion or minor cutting occurs.	1767	5-48	kratzen::V	
 	Action/Technology:seat (somebody).V	To cause somebody to sit (e.g. by offering a seat).	2878		setzen::V	
 	Action/Technology:sharpen (something).V	To make sharp or sharper.	251		schleifen::V	
 	Action/Technology:sheath.N	A protection cover for a sharp blade (of a sword or knife).	3424			
-	Action/Technology:slap.V	Hit with the open palm of the hand.	3160			
 	Action/Technology:slaughter.V	To kill animals for food.	1796			
 	Action/Technology:sleep (state).N	Sleep is a naturally recurring state of mind and body characterized by altered consciousness, relatively inhibited sensory activity, inhibition of nearly all voluntary muscles, and reduced interactions with surroundings.	2972		Schlaf::N	
 	Action/Technology:smear.V	To spread (a substance) across a surface by rubbing.	364	9-99936		
@@ -1702,7 +1723,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Action/Technology:strike (something).V	To intentionally hit something with a sharp blow or to impel, usually with a hand.	3309		hauen::V	
 	Action/Technology:strike or beat.V	To hit or strike, either repeatedly or a single time.	2133	9-21		
 	Action/Technology:strike.V	To intentionally hit with a sharp blow or to impel, usually with a hand or weapon.	353			
-	Action/Technology:string.N	A long, thin and flexible structure made from threads twisted together.	362		Schnur::N	1416
+	Action/Technology:string.N	A long, thin and flexible structure made from threads twisted together.	362	9-99923	Schnur::N	1416
 	Action/Technology:suckle (breastfeed, nurse).V	Giving milk to babies and young children with milk from a woman's breast.	2472			
 	Action/Technology:swell.V	To grow larger in volume.	1573			
 	Action/Technology:take a photo.V	To make a photography.	2710			
@@ -1768,7 +1789,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Agriculture/Plant:acorn.N	Fruit of the oak tree.	968	8-66		
 	Agriculture/Plant:agave.N	A plant that grows in the hot, dry parts of the southern US and South America. There are many different types of agave and the plants have thick long or rounded leaves with sharp points on them, and tall flowers.	3989			
 	Agriculture/Plant:alang-alang grass.N	It is a perennial high grown grass native to Asia, Australia and Africa.	464			
-	Agriculture/Plant:almond.N	The edible and cultivated fruit of the tree Prunus dulcis in the family Rosaceae. It resembles a nut and can be sold shelled or unshelled.	3815			
+	Agriculture/Plant:almond.N	The edible and cultivated fruit of the tree Prunus dulcis in the family Rosaceae. It resembles a nut and can be sold shelled or unshelled.	3815	8-99901		
 	Agriculture/Plant:asparagus.N	A spring vegetable.	2605			
 	Agriculture/Plant:aspen.N	A kind of poplar tree (genus Populus; section Populus).	903			
 	Agriculture/Plant:babassu palm.N	Type of palm (Attalea speciosa) widely spread in Brazil; its fruit is edible and used to produce oil and medicine	3925			
@@ -1858,7 +1879,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Agriculture/Plant:grassland.N	Areas where the vegetation is dominated by grasses.	2819		Wiese::N	
 	Agriculture/Plant:green coconut.N	A green (i.e., not mature) oval nut with a fibrous husk of the cocos palm, used as source of coconut water.	3034			
 	Agriculture/Plant:groundnut (peanut).N	A nutlike fruit from the plant Arachis hypogaea that grows on long stems under ground.	595			
-	Agriculture/Plant:grow plants.V	To cultivate a specific type of plant in order to harvest it.	3461			
 	Agriculture/Plant:harrow (tool).N	An agricultural implement consisting of many spikes, tines or discs dragged across the soil.	2545			
 	Agriculture/Plant:harvest crops.V	To gather the ripened crop.	1827			
 	Agriculture/Plant:hawthorn.N	Any of various shrubs and small trees of the genus Crataegus having small, apple-like fruits and thorny branches.	1168			
@@ -1885,8 +1905,8 @@ Value:be worth.V		To be worth of something.		11-99906
 	Agriculture/Plant:mahogany tree.N	A species of trees in the mahogany family Meliaceae, native to tropical Africa and Madagascar.	455			
 	Agriculture/Plant:maize.N	A type of grain of the species Zea mays.	506	8-47		
 	Agriculture/Plant:mandarine.N	A small citrus tree with fruit resembling other oranges. Mandarin oranges are usually eaten plain or in fruit salads.	2367			
-	Agriculture/Plant:mango.N	The fruit from the Mango tree.	2398			
-	Agriculture/Plant:mangrove.N	Any of various tropical evergreen trees or shrubs that grow in shallow coastal water; Plants of the Rhizophoraceae family and/or of the genus Rhizophora.	350			
+	Agriculture/Plant:mango.N	The fruit from the Mango tree.	2398	8-9993		
+	Agriculture/Plant:mangrove.N	Any of various tropical evergreen trees or shrubs that grow in shallow coastal water; Plants of the Rhizophoraceae family and/or of the genus Rhizophora.	350	8-99931		
 	Agriculture/Plant:manioc flour.N	Flour made of the cassava plant or root.	324	5-99909		
 	Agriculture/Plant:manioc.N	Shrub (Manihot esculenta) whose roots are rich in starch.	927			
 	Agriculture/Plant:manzanita.N	Species of the genus Arctostaphylos; evergreen shrubs or small trees present in the chaparral biome of western North America.	520			
@@ -1905,7 +1925,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Agriculture/Plant:oat.N	A species of grass (Avena sativa) grown for its seed.	60	8-46		
 	Agriculture/Plant:okra.N	A flowering plant in the mallow (Malvaceae) family valued for its edible pods; okro, ochro; ladies' fingers.	1737			
 	Agriculture/Plant:onion.N	A vegetable and is the most widely cultivated species of the genus Allium.	2366	8-99935	Zwiebel::N	
-	Agriculture/Plant:orange (fruit).N	A fruit of the citrus species citrus x sinensis.	2627			
 	Agriculture/Plant:osmanthus fragrans.N	A small tree species native to Asia from the Himalayas through southern China.	2747			
 	Agriculture/Plant:palm tree.N	Any of various evergreen trees from the family Palmae or Arecaceae, which are mainly found in the tropics.	1181	8-81		
 	Agriculture/Plant:pandanus.N	Palm-like, dioecious trees and shrubs native to the Old World tropics and subtropics.	469			
@@ -1942,7 +1961,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Agriculture/Plant:shea nut tree.N	Tree of the Sapotaceae family,indigenous to Africa, commonly known as shea tree. The shea fruits are oil-rich seed from which shea butter is extracted.	454			
 	Agriculture/Plant:shrub.N	A woody perennial plant, smaller than a tree, with several major branches arising from near the base of the main stem.	751			
 	Agriculture/Plant:smoke (inhale).V	To inhale smoke from for example a cigarette or a cigar.	1689	8-69		
-	Agriculture/Plant:sorghum.N	A cereal, Sorghum vulgare or Sorghum bicolor, the grains of which are used to make flour and as cattle feed.	347			
 	Agriculture/Plant:soya.N	An annual plant native to East Asia that is widely cultivated for its fruit.	2027			
 	Agriculture/Plant:spade.N	Tool having a flat and sharp metal tip and a wooden handle used to break, dig and move the earth.	1176	8-23	Spaten::N	
 	Agriculture/Plant:spike.N	The fruiting body of a grain plant.	1249			
@@ -2194,7 +2212,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Animal:pangolin.N	Mammals of the order Pholidota. The one extant family, Manidae, has three genera: Manis which comprises four species living in Asia, Phataginus which comprises two species living in Africa, and Smutsia which comprises two species also living in Africa.	2508			
 	Animal:parakeet.N	Any of several slender species of parrot.	886			
 	Animal:parrot.N	Any bird of the order Psittaciformes, many species of which are colourful and able to mimic human speech.	882	3-592		
-	Animal:partridge.N	Any of medium-sized non-migratory birds of the Phasianidae family, smaller than the pheasant but bigger than the quail.	3681			
+	Animal:partridge.N	Any of medium-sized non-migratory birds of the Phasianidae family, smaller than the pheasant but bigger than the quail.	3681	3-99932		
 	Animal:pasture.N	Land covered with grass or herbage and grazed by or suitable for grazing by livestock.	649	3-16	Weide::N	
 	Animal:paw.N	A paw is the soft foot of a mammal, generally a quadruped, that has claws.	2965		Kralle::N	
 	Animal:peacock.N	A male peafowl, a species of the family Phasianidae, which is known for displaying its massive tail as part of mate-selection ritual.	3382			
@@ -3531,10 +3549,10 @@ Value:be worth.V		To be worth of something.		11-99906
 	Food:tea.N	tea (beverage made from leaves of plant sp. Camellia sinensis)				3477
 	Food:thirst.N	A physiological need to drink.	848			
 	Food:thirsty.A	Feeling the need to drink.	847			
-	Food:tofu.N	Coagulated soy milk that is bland in taste and formed into solid blocks; a popular ingredient in Asian and vegetarian cuisine.	3443			
+	Food:tofu.N	Coagulated soy milk that is bland in taste and formed into solid blocks; a popular ingredient in Asian and vegetarian cuisine.	3443	5-9992		
 	Food:tomato.N	The savoury fruit of the Solanum lycopersicum, red when ripe.	986			
 	Food:tongs.N	A tool that consists of two movable bars joined at one end, used to pick up an object.	272	5-391		
-	Food:tortilla.N	A thin, flat bread made from maize flour, eaten hot or cold, typically with a savoury filling.	3991			
+	Food:tortilla.N	A thin, flat bread made from maize flour, eaten hot or cold, typically with a savoury filling.	3991	5-99921		
 	Food:trivet.N	A stand, usually metallic, used to support cooking vessels on top of fire.	3264			
 	Food:uncooked rice.N	Rice that has not been boiled or otherwise prepared for eating.	3289			
 	Food:unripe.A	That is not yet ripe (edible fruit), usually hard and sour.	1958	5-124		
@@ -3597,7 +3615,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Form:powder.N	powder				3589
 	Form:ray.N	ray				3513
 	Form:rectangle.N	rectangle				3531
-	Form:rust.N	rust				3549
 	Form:scratch.N	scratch				3547
 	Form:sheet.N	sheet (thin rectangle of paper/cloth/etc.)				3567
 	Form:shower.N	shower, sprinkle				3584
@@ -3794,7 +3811,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	House:cupboard.N	Storing space with a door that can be closed.	3357			
 	House:desk.N	desk				1347
 	House:dish.N	dish (any shallow concave container)				1309
-	House:dwell (live, reside).V	To live; to reside; to remain or continue.	363	7-11	wohnen::V	
+	House:dwell (live, reside).V	To live or dwell at home.	363	7-11	wohnen::V	
 	House:furniture.N	furniture				1340
 	House:hammock.N	A swinging couch or bed, usually made of netting or canvas about six feet (1.8 m) wide, suspended by clews or cords at the ends.	2019	7-66		
 	House:incense.N	An aromatic material that releases fragrant smoke when burned.	3356			
@@ -3813,7 +3830,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	House:rack (for storing food).N	Bamboo shelves in the kitchen to store food and utensils.	3176			
 	House:rack.N	rack (framework of bars for storage)				1331
 	House:rattan.N	Material from rattan palms which is used to create furniture.	2497			
-	House:reside.V	To have permanent residence.	1099			
+	House:reside.V	To have a permanent or semi-permanent residence.	1099	9-99931		
 	House:sack.N	sack, bag				1315
 	House:sago thatch.N	A roof made from the Sago palm.	2616			
 	House:shelf.N	A flat, rigid, rectangular structure, fixed at right angles to a wall, and used to support, store or display objects.	745	7-47	Regal::N	
@@ -4160,7 +4177,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Modernity:tripod.N	A portable three-legged frame used as a platform for supporting the weight of some other object.	2607			
 	Modernity:tube.N	Cylindrical structure or device.	2956		Rohr::N	
 	Modernity:wealth.N	Wealth is the abundance of valuable resources or valuable material possessions.	2996		Reichtum::N	
-	Modernity:whip.N	A tool traditionally used by humans to exert control over animals.	2630			
+	Modernity:whip.N	A tool traditionally used by humans to exert control over animals.	2630	8-99955		
 	Modernity:wire.N	A single, usually cylindrical, flexible strand or rod of metal.	2631			
 	Motion:accompany.V	To go or travel in the company of someone.	1542	10-99901		
 	Motion:aim.V	aim (to point/direct X toward Y) 				3030
@@ -4377,7 +4394,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Nature:fresh.A	Recently made, produced, or harvested (e.g. bread, scent, etc.).	243		frisch::A	
 	Nature:gravel.N	An uncosolidated mixture of pebbles and/or rock fragments of different sizes.	3028			
 	Nature:ground.N	The top layer of the earth.	2159		Boden::N	
-	Nature:guava.N	Fruit from the myrtle family, native to Latin America.	3981			
+	Nature:guava.N	Fruit from the myrtle family, native to Latin America.	3981	8-99921		
 	Nature:gulf.N	An inlet of the sea of large areal proportions, more indented than a bay and generally more enclosed.	608			
 	Nature:headwaters.N	The source of a river or stream.	2672			
 	Nature:heat up.V	To cause an increase in temperature of an object or space; to cause something to become hot.	1341			
@@ -4444,7 +4461,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Nature:rise (move upwards).V	(Of a heavenly body) To appear to move upwards from behind the horizon of a planet as a result of the planet's rotation.	568	10-21	aufgehen[Sonne]::V	
 	Nature:rock.N	Any aggregate of minerals that makes up part of the earth's crust. It may be unconsolidated, such as sand, clay, or mud, or consolidated, such as granite, limestone, or coal.	668			
 	Nature:rough (of sea).A	With large waves (of sea).	259	1-323		
-	Nature:rusty.A	Having been affected by rust.	3870			
 	Nature:sand hill.N	Ecological community or xeric wildfire-maintained ecosystem (different from sand dune).	3019			
 	Nature:sand.N	A loose material consisting of small mineral particles, or rock and mineral particles, distinguishable by the naked eye; grains vary from almost spherical to angular, with a diameter range from 1/16 to 2 millimeters.	671	1-215	Sand::N	
 	Nature:set alight (something).V	To make something burn.	2258			
@@ -4452,7 +4468,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Nature:shadow.N	Figure of darkness, where light (particularly sunlight) is blocked.	2275			
 	Nature:shine (emitted light).N	The emission of light on a surface.	2236			
 	Nature:shrink.V	To decrease in size, range, or extent.	54			
-	Nature:skunk.N	Mammals of the family Mephitidae, typically found in North and South America. These animals are known for their ability to spray attackers with a strong-smelling liquid.	3888			
+	Nature:skunk.N	Mammals of the family Mephitidae, typically found in North and South America. These animals are known for their ability to spray attackers with a strong-smelling liquid.	3888	3-99939		
 	Nature:smoke (exhaust).N	An aerosol, consisting of visible particles and gases, produced by the incomplete burning of carbon-based materials, such as wood and fossil fuels.	778	1-83	Rauch::N	
 	Nature:snow or ice.N	Referring to frozen water irrespective of its exact nature, e.g. falling from the sky or being frozen on the ground.	3322			
 	Nature:snow.N	The most common form of frozen precipitation, usually flakes or starlike crystals, matted ice needles, or combinations, and often rime-coated.	784	1-76	Schnee::N	1130
@@ -4492,7 +4508,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Nature:waterfall.N	A perpendicular or steep descent of the water of a stream.	943	1-39		
 	Nature:waterside.N	The margin or shore of a river, lake, or ocean.	2533			
 	Nature:wave.N	A disturbance in an fluid medium.	978	1-35	Welle::N	
-	Nature:well.N	A hole dug into the earth to reach a supply of water, oil, brine or gas.	954		Brunnen::N	
+	Nature:well.N	A hole dug into the earth to reach a supply of water, oil, brine or gas.	954	9-99925	Brunnen::N	
 	Nature:whirlpool.N	A rapidly rotating body of water.	1982	1-362		
 	Nature:wood.N	The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.	1803	1-43	Holz::N	
 	Nature:woods.N	A vegetation community dominated by trees and other woody shrubs, growing close enough together that the tree tops touch or overlap, creating various degrees of shade on the forest floor.	2311			
@@ -4726,7 +4742,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Plant:oat.N	oat (plant/seed of genus Avena)				1075
 	Plant:olive.N	olive (tree/fruit of sp. Olea europaea)				1036
 	Plant:onion.N	onion (plant/bulb of sp. Allium sepa)				1090
-	Plant:orange.N	orange (tree/fruit of Citrus sinensis / related spp.)		8-99936		1037
 	Plant:oregano.N	oregano (herb of sp. Origanum vulgare)				1068
 	Plant:pea.N	pea (plant/seed of sp. Pisum sativum)				1091
 	Plant:peanut.N	peanut (plant/seed/pod of sp. Arachis hypogaea)				1092
@@ -5469,7 +5484,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Tool:coin.N	coin				1281
 	Tool:comb.N	comb				1245
 	Tool:computer.N	computer (electronic instruction-obeying information-handler)				1277
-	Tool:cord.N	cord, cable (thicker than wire)				1241
+	Tool:cord.N	cord, cable (thicker than wire)		9-99904		1241
 	Tool:cover.N	cover (thing put onto or extended over something else)				1252
 	Tool:dial.N	dial (circle marked with numbers/symbols)				1265
 	Tool:dome.N	dome (anything shaped like an upside-down bowl)				1253
@@ -5598,12 +5613,18 @@ Value:be worth.V		To be worth of something.		11-99906
 		A Chinese person.		19-99915		
 		A Creole or black person.		19-99918		
 		A European person.		19-99917		
+		A flat stone used as the floor of either an open fire or an enclosed fireplace or oven.		9-99912		
 		A German person.		2-99906		
 		A Hungarian person.		2-99907		
+		A kind of Japanese fish cake.		5-99911		
+		A man-made landing place for boats and ships on a shore or river bank.		9-99926		
 		A non-Gypsy person.		2-9991		
 		A Slovak person.		2-99915		
+		A small, usually one-wheeled cart with handles at one end for transporting small loads.		9-99927		
 		A Vlax Gypsy person.		2-99918		
+		Amomum, a genus of plants in the ginger family.		8-99902		
 		An odorant plant that gorws in the bleak plateaus. sp. Micromeria nubigena.		8-99916		
+		Anatto, a derivative of the achiote trees of tropical regions of the Americas, used to produce a red food coloring.		8-99903		
 		Arabia		19-99901		
 		Australia.		19-99902		
 		Better, comparative of good.		16-99901		
