@@ -55,7 +55,7 @@ Animal:Equus asinus.N	Animal:donkey.N	A domesticated animal, Equus asinus.	1862	
 Animal:Equus ferus caballus.N	Animal:horse.N	A large animal with four legs of the Equus caballus species which people ride on or use for carrying things or pulling vehicles.	615	3-41	Pferd::N	954
 Animal:Felis catus.N	Animal:cat.N	A common four-legged animal (Felis silvestris) that is often kept as a household pet.	1208	3-62	Katze::N	977
 Animal:Felis leo.N	Animal:lion.N	A large cat (Panthera leo) that is native to Africa, Asia and formerly much of Europe.	1386	3-72		962
-Animal:Felis tigris.N	Animal:tiger.N	A large carnivorous animal (Panthera tigris) of the cat family indigenous to Asia.	846			963
+Animal:Felis tigris.N	Animal:tiger.N	A large carnivorous animal (Panthera tigris) of the cat family indigenous to Asia.	846	3-99942		963
 Animal:female in general.A	Animal:female.A	Of, relating to, or denoting the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	1551			
 Animal:female.A	Animal:female (of animal).A	Relating to the female sex of animals (adjective).	2262	3-13		
 Animal:female.N	Animal:female animal.N	A female animal (Noun)	3923			
@@ -64,6 +64,7 @@ Animal:Formicidae.N	Animal:ant.N	Any of the black, red, brown, or yellow insects
 Animal:Gallus gallus domesticus.N	Animal:chicken.N	A type of domesticated bird from the order of Galliformes which is often raised as a type of poultry (Gallus gallus domesticus).	1318	3-55	Huhn::N	981
 Animal:Grylloidea.N	Animal:cricket.N	Insects related to grasshoppers.	2354			912
 Animal:Homo sapiens.N	Family:person.N	A human being, any living member of Homo sapiens.	683	2-1	Mensch::N	301
+Animal:Hydrochoerus hydrochaeris.N	Animal:capybara.N	The largest living rodent native to South America, living partly on land and partly in water.	314	3-9991		
 Animal:Insecta.N	Animal:insect.N	A class of the Arthropoda typically having a segmented body with an external chitinous covering, a pair of compound eyes, a pair of antennae, three pairs of mouthparts, and two pairs of wings.	620	3-81		905
 Animal:Lacertidae.N	Animal:lizard.N	Any reptile of the suborder Lacertilia, especially those of the family Lacertidae, typically having an elongated body, four limbs, and a small tail: includes the gechos, iguanas, chameleons, monitors, and slow worms.	632	3-96		930
 Animal:Lampyridae.N	Animal:firefly.N	A nocturnal, bioluminescent beetle of the family Lampyridae.	206	3-91		922
@@ -76,7 +77,8 @@ Animal:Meleagris gallopavo.N	Animal:turkey.N	A large bird from the family of Pha
 Animal:mouse.N	Animal:mouse.N	Any of numerous small rodents of the genus ''mus'' or various related genera of the ''Muridæ'' family characterised by a long hairless tail, rounded ears, and a pointed nose.	1491		Maus::N	971
 Animal:Nephropidae.N	Animal:lobster.N	Clawed lobsters comprise a family (Nephropidae, sometimes also Homaridae) of large marine crustaceans.	2397			941
 Animal:Ovis aries.N	Animal:sheep.N	A common, four-legged animal (Ovis) that is commonly kept by humans for its wool.	1331	3-25	Schaf::N	956
-Animal:Passeridae.N	Animal:sparrow.N	A small song bird, in the family Passeridae.	1854			985
+Animal:Passeridae.N	Animal:sparrow.N	A small song bird, in the family Passeridae.	1854	3-99941		985
+Animal:pet.N	Animal:pet.N	An animal or a bird that is kept at home for companionship rather than for practical use.	3780	3-99933		
 Animal:Rhopalocera.N	Animal:butterfly.N	A lepidopteran that is active at day.	1791	3-92	Schmetterling::N	921
 Animal:Sciuridae.N	Animal:squirrel.N	A small or medium-sized rodent of the family Sciuridae.	1628	3-869	Eichhörnchen::N	970
 Animal:Serpentes.N	Animal:snake.N	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	730	3-85	Schlange[Tier]::N	932
@@ -501,6 +503,7 @@ Clothing:jacket.N	Clothing/Grooming:jacket.N	A mid-stomach–length garment for 
 Clothing:jeans.N	Clothing:jeans.N	Trousers that are made of denim.				1461
 Clothing:knit.V	Action/Technology:knit.V	To create a textile by manipulating yarn with the help of two long needles.	2905		stricken::V	
 Clothing:leather.N	Clothing/Grooming:leather.N	The dressed or tanned hide of an animal, usually with the hair removed.	629	6-29	Leder::N	1404
+Clothing:leg band.N				6-99904		
 Clothing:linen.N	Clothing/Grooming:linen.N	A material made from the fibers of the flax plant.	916	6-23		
 Clothing:loincloth.N	Clothing/Grooming:loincloth.N	A cloth worn to cover the loins.	1965			
 Clothing:loom.N	Clothing/Grooming:loom.N	A frame or machine (made of wood or other material) in which a weaver forms cloth out of thread; a machine for interweaving yarn or threads into a fabric.	1787	6-34		1411
@@ -520,6 +523,7 @@ Clothing:put on.V	Clothing/Grooming:put on.V	To put clothes onto ones body to we
 Clothing:quilt.V	Clothing/Grooming:quilt.V	To stitch or sew together.	2048			
 Clothing:rag.N	Clothing/Grooming:rag.N	A piece of old cloth; a tattered piece of cloth; a shred, a tatter.	332	6-81		
 Clothing:raincoat.N	Clothing/Grooming:raincoat.N	A long jacket which is waterproof.	3712			
+Clothing:sandal.N	Clothing/Grooming:straw sandal.N	An open type of outdoor footwear leaving most of the upper part of the foot exposed, particularly the toes.	2047	6-99907		
 Clothing:sarong.N	Clothing/Grooming:sarong.N	A sarong or sarung is a large tube or length of fabric, often wrapped around the waist and worn by men and women throughout much of South Asia.	2413			
 Clothing:scarf or turban.N	Clothing/Grooming:scarf or turban.N	A garment, usually consisting of a long piece of cloth, wound around the head or neck or shoulders.	3066		Tuch::N	
 Clothing:sew.V	Clothing/Grooming:sew.V	To pass thread repeatedly through fabric or a material, using a needle, in order to join two or more parts or to make a pattern or motif.	1457	6-35	nähen::V	1420
@@ -539,7 +543,6 @@ Clothing:spin.V	Clothing/Grooming:spin.V	To make (yarn) by drawing out, twisting
 Clothing:spindle.N	Clothing/Grooming:spindle.N	A stick used in spinning fiber into thread.	277	6-32		
 Clothing:stocking.N	Clothing/Grooming:stocking.N	A soft garment worn on the foot and lower leg, usually knit or woven, worn under shoes or other footwear.	329	6-49		
 Clothing:straw raincoat.N	Clothing/Grooming:straw raincoat.N	A traditional East Asian garment made out of straw, worn against the rain. In Japanese it's called mino.	3540			
-Clothing:straw sandal.N	Clothing/Grooming:straw sandal.N	An open type of outdoor footwear leaving most of the upper part of the foot exposed, particularly the toes.	2047			
 Clothing:suit.N	Clothing:suit.N	suit (combo of jacket, dress shirt, slacks, and usually necktie)				
 Clothing:sunglasses.N	Clothing/Grooming:sunglasses.N	Form of glasses with tinted lenses to protect one's eyes from sunlight.	3100			
 Clothing:T-shirt.N	Clothing:t-shirt.N	T-shirt (a collarless short-sleeved casual shirt or undershirt)				1454
@@ -838,6 +841,7 @@ Food:drink.V	Body:drink.V	drink 				721
 Food:fermented alcohol.N	Food:alcohol (fermented drink).N	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	404	5-94		
 Food:Ficus carica.N	Food:fig.N	The fruit of the fig tree, pear-shaped and containing many small seeds.	322	5-75		
 Food:flour.N	Food:flour.N	Ground or milled grain or cereal.	1594	5-55		3410
+Food:griddle.N		A metal or stone flat plate on which food is fried or baked.		7-99903		
 Food:main meal.N	Food:dinner (main meal).N	The main meal of the day, eaten in the middle of the day or in the evening	3829			
 Food:Malus domestica.N	Agriculture/Plant:apple.N	The popular, crisp, round fruit of the apple tree, usually with red, yellow or green skin, light-coloured flesh and pips inside.	1320	8-99905	Apfel::N	
 Food:Musa acuminata.N	Agriculture/Plant:banana.N	The fruit of the banana tree.	868	8-84		
@@ -899,6 +903,7 @@ Grooming:comb.V	Clothing/Grooming:comb (verb).V	To groom the hair with a comb or
 Grooming:decorate.V	Clothing/Grooming:decorate.V	To make more attractive by adding ornament, colour, etc.	1739		schmücken::V	
 Grooming:earring.N	Clothing/Grooming:earring.N	A piece of jewelry worn on the ear.	770	6-77		
 Grooming:file.V	Clothing/Grooming:file (something).V	Make something smooth, often nails or other parts of the body.	3113			
+Grooming:fringe.N		A decorative border.		6-99903		
 Grooming:jewel.N	Clothing/Grooming:jewel.N	A precious stone such as a diamond, a sapphire or an agate.	1029	6-72		
 Grooming:lipstick.N	Clothing/Grooming:lipstick.N	Stick containing wax, oil, or pigments used to apply colour to one's lips.	3093			
 Grooming:mirror.N	Clothing/Grooming:mirror.N	A smooth surface, usually made of glass with reflective material painted on the underside, that reflects light so as to give an image of what is in front of it.	1171	6-96	Spiegel::N	
@@ -1002,6 +1007,7 @@ House:bathroom.N	Building:bathroom.N	A room containing a shower or a bathtub, an
 House:bathtub.N	House:bathtub.N	A large container for holding water in which a person may take a bath.				1361
 House:bed.N	House:bed.N	A piece of furniture, made for a person to sleep on.	1663	7-42	Bett::N	1341
 House:bedroom.N	House:bedroom.N	The area where people sleep.	2505			1538
+House:bench.N	House:bench.N	A piece of furniture offering place for many people.	2584	7-99901		
 House:blanket.N	House:blanket.N	A large cloth used for warmth and for sleeping.	806	7-422	Decke::N	1485
 House:cradle.N	Modernity:cradle.N	A bed for a baby.	2946		Wiege::N	
 House:curtain.N	Modernity:curtain.N	Piece of cloth on a window intended to obscure the interior of a room or to prevent people from looking inside.	2621			1486
@@ -1159,10 +1165,11 @@ Plant:bran.N	Agriculture/Plant:bran.N	The hard outer layers of cereal grain. It 
 Plant:branch or twig.N	Agriculture/Plant:branch or twig.N	A woody part of a tree arising from the trunk or from another branch.	3223	8-55		
 Plant:branch.N	Agriculture/Plant:branch.N	A woody part of a tree arising from the trunk and usually dividing.	1531		Ast::N	
 Plant:Brassica oleracea gongylodes.N		A variety of the cabbage, having a turnip-shaped edible stem. 		8-99924		
+Plant:Brassica rapa.N	Agriculture/Plant:turnip.N	A cultivated Eurasian plant, Brassica rapa, of the mustard family, whose whitish root and leaves are edible.	3062	8-99952		
 Plant:Bromeliaceae.N		Any of various tropical or subtropical New World herbaceous plants in the family Bromeliaceae.		8-99909		
 Plant:bud.N	Agriculture/Plant:bud.N	A bud is an undeveloped or embryonic shoot and normally occurs in the axil of a leaf or at the tip of the stem.	1684			1021
 Plant:bulb.N	Agriculture/Plant:bulb.N	A bulb is the part of some plants that stores food while the plant is resting from growing.	2617			
-Plant:Colocasia esculenta.N	Agriculture/Plant:taro.N	Colocasia esculenta, raised as a food primarily for its corm, which distantly resembles potato.	351			
+Plant:Colocasia esculenta.N	Agriculture/Plant:taro.N	Colocasia esculenta, raised as a food primarily for its corm, which distantly resembles potato.	351	8-99949		
 Plant:coniferous.N		The type of tree that bears cones.		8-99914		
 Plant:Ficus carica.N	Plant:fig.N	fig (tree/fruit of genus Ficus)		5-99901		1034
 Plant:Fraxinus.N		The ash tree, a tree that has compound leaves and a tough, flexible wood.		8-99906		
@@ -1174,10 +1181,12 @@ Plant:needle.N	Agriculture/Plant:needle tree.N	A needle of coniferous tree.	286	
 Plant:plant.N	Agriculture/Plant:plant (vegetation).N	Any living organism that synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion.	653	8-53		1000
 Plant:Prunus armeniaca.N	Agriculture/Plant:apricot tree.N	A tree that bears the apricot fruit.	2357			
 Plant:Prunus salicina.N	Agriculture/Plant:chinese plum.N	An Asian tree species classified in the Armeniaca section of the genus Prunus subgenus Prunus.	2356			
+Plant:reed.N	Agriculture/Plant:reed.N	Any of various types of tall stiff grass-like plants growing together in groups near water.	659	8-99943		
 Plant:root.N	Agriculture/Plant:root.N	The absorbing and anchoring organ of a vascular plant; it bears neither leaves nor flowers and is usually subterranean.	670	8-54	Wurzel::N	
 Plant:sap.N	Agriculture/Plant:sap.N	The juice of plants of any kind, especially the ascending and descending juices or circulating fluid essential to nutrition.	345	8-76		
 Plant:seed.N	Agriculture/Plant:seed.N	A mature fertilized plant ovule, consisting of an embryo and its food store surrounded by a protective seed coat (testa).	714	8-311	Saat::N	
 Plant:seedling.N	Agriculture/Plant:seedling.N	A young plant produced from a seed.	3050			
+Plant:Solanum oblongifolium.N		An Andean weed that grows in dry parts of forest and has white flowers and produces berries.		8-99904		
 Plant:sprout.N	Agriculture/Plant:sprout (shoot).N	The early growth of a plant.	3358			
 Plant:sprout.V	Action/Technology:sprout (verb).V	The process by which a plant grows from a seed.	2076			
 Plant:stem.N	Agriculture/Plant:plant stem.N	One of two main structural axes of a vascular plant, the other being the root.	2628			
@@ -1189,6 +1198,7 @@ Plant:tree.N	Agriculture/Plant:tree.N	Any large woody perennial plant with a dis
 Plant:treetop.N	Agriculture/Plant:treetop.N	The uppermost part of a tree; crown.	3036			
 Plant:twig.N	Agriculture/Plant:twig.N	A branch that doesn't arise from the trunk but from another branch.	3222		Zweig::N	
 Plant:Vaccinium mortinia.N		Vaccinium mortinia, a dark red berry.		8-99917		
+Plant:Vicia.N		Any of various herbs of the genus Vicia, having pinnately compound leaves that terminate in tendrils and small, variously colored flowers.		8-99953		
 Plant:vine.N	Agriculture/Plant:vine.N	A climbing plant which grows up or over things. This also includes types which do not produce grapes.	343	8-67		
 Possession:abandon.V	Motion:abandon.V	To give up control of, to surrender something.	1097		verlassen::V	
 Possession:beg.V	Language:beg.V	To make a living by asking people for money or food.	3534			
@@ -1392,7 +1402,7 @@ Sound:whistle.V	Language:whistle.V	To make a sound or a melody by forcing the br
 Space:apart.ADV	Direction:apart.ADV	apart 		12-99901		2950
 Space:back.ADV	Space:back (direction).?	Toward the previous place or condition where one came from.	2910	12-99902	zurück::ADV	2921
 Space:encircle.V	Action/Technology:encircle.V	To enclose or cause to be enclosed; to surround; to confine.	3274			
-Storage:bag.N	Action/Technology:bag.N	A container that stores things and is small enough so that one can wear it.	2468		Tasche::N	
+Storage:bag.N	Action/Technology:bag.N	A container that stores things and is small enough so that one can wear it.	2468	6-99901	Tasche::N	
 Storage:bamboo basket.N	Action/Technology:bamboo basket.N	A basket from bamboo that is carried on the back.	3360			
 Storage:barrel.N	Modernity:barrel.N	A cylindrical container for liquids and food.	2548			1301
 Storage:basket.N	Action/Technology:basket.N	A lightweight container, generally round, open at the top, and tapering toward the bottom.	1539	9-76		1302
@@ -1401,6 +1411,7 @@ Storage:box or chest.N	Modernity:box or chest.N	Either a generic manmade object 
 Storage:box.N	Modernity:box.N	A generic man-made object with space in it (commonly made of cardboard or wood) that is used to keep and store many various different objects.	1465		Kiste::N	1305
 Storage:bucket.N	Action/Technology:bucket.N	Typically a watertight, vertical cylinder or truncated cone, with an open top and a flat bottom, attached to a semicircular carrying handle called the bail.	2052		Eimer::N	1306
 Storage:can.N	Modernity:can.N	A small, round-shaped metal container, used for different purposes like storing food or liquids, or collecting money.	1051	23-54		
+Storage:case.N		A box possibly with compartments that can contain a number of identical items, like bottles.		7-99902		
 Storage:envelope.N	Action/Technology:envelope.N	An item to commonly used to package or wrap letters.	3088			
 Storage:funnel.N	Modernity:funnel.N	A pipe with a wide mouth used to channel liquid into containers with small opening.	2602			
 Storage:heap.N	Action/Technology:heap.N	A collection of things thrown one on another.	2984		Haufen::N	
@@ -1916,7 +1927,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Agriculture/Plant:radish.N	An edible root vegetable of the Brassicaceae family that was domesticated in Europe in pre-Roman times.	2365			
 	Agriculture/Plant:ramie.N	A perennial shrub native to Eastern Asia, with broad leaves and clusters of greenish flowers.	3063			
 	Agriculture/Plant:raspberry.N	The edible, berry-like fruit of a multitude of plant species in the genus Rubus of the family Rosaceae, most typically red, small and sweet.	3803			
-	Agriculture/Plant:reed.N	Any of various types of tall stiff grass-like plants growing together in groups near water.	659			
 	Agriculture/Plant:ribes.N	A member of the genus Ribes in the gooseberry family Grossulariaceae, native to parts of western Europe (France, Belgium, Netherlands, Germany, and northern Italy). It is a deciduous shrub normally growing to 1-1.5 m tall, occasionally 2 m, with five-lobed leaves arranged spirally on the stems.	1988			
 	Agriculture/Plant:rice flour.N	A flour made from finely milled rice, distinct from rice starch which is produced by steeping rice in lye; rice powder.	3285			
 	Agriculture/Plant:rice husk.N	The husk of rice seeds.	2501			
@@ -1952,16 +1962,15 @@ Value:be worth.V		To be worth of something.		11-99906
 	Agriculture/Plant:tucuma palm.N	A palm native to Amazon Rainforest vegetation, typical of the Pará state in Brazil.	2439			
 	Agriculture/Plant:tule.N	A giant species of sedge in the plant family Cyperaceae, native to freshwater marshes. Dyed and woven, tules are used to make baskets, bowls, mats, hats, clothing, duck decoys, and even boats by Native American groups.	521			
 	Agriculture/Plant:turmeric.N	A rhizomatous herbaceous perennial plant (Curcuma longa) of the ginger family.	2842			
-	Agriculture/Plant:turnip.N	A cultivated Eurasian plant, Brassica rapa, of the mustard family, whose whitish root and leaves are edible.	3062			
 	Agriculture/Plant:unhusked rice.N	The unhusked crops of the rice plant.	2749			
 	Agriculture/Plant:walnut.N	Large deciduous tree (Juglans regia) in the Walnut Family (Juglandaceae) which produces an edible fruit with a hard shell and oil-rich seed.	2042			
 	Agriculture/Plant:wax gourd.N	Benincasa hispida, a species of Cucurbitaceae family, which owes its name to the wax coating of its shell. Wax gourd is cultivated for its fruit and used in both savoury and sweet dishes due to its mild flavour.	3444			
 	Agriculture/Plant:weed.N	A plant that grows wild and profusely, especially when considered undesirable for agriculture.	3288			
 	Agriculture/Plant:wheat.N	Plant belonging to genus Triticum and to family Poaceae (also known as Gramineae).	1077	8-43		
 	Agriculture/Plant:wild rice.N	A plant of the genus Zizania with edible grains and stem.	3390			
-	Agriculture/Plant:willow.N	Any of various deciduous trees or shrubs in the genus Salix.	818		Weide[Baum]::N	
+	Agriculture/Plant:willow.N	Any of various deciduous trees or shrubs in the genus Salix.	818	8-99957	Weide[Baum]::N	1046
 	Agriculture/Plant:yam.N	It is the common name for a versatile vegetable which is mainly grown in West Africa, Asia and Latin America.	410	8-912		
-	Animal:agouti.N	A rodent similar in appearance to a guinea pig but having longer legs.	313			
+	Animal:agouti.N	A  burrowing rodent of the genus Dasyprocta, native to tropical America and usually having brown fur streaked with gray, similar in appearance to a guinea pig but having longer legs.	313	3-99902		
 	Animal:albatross.N	Any seabird of the family Diomedeidae. Some species are among the largest flying birds in the world.	3796			
 	Animal:alligator.N	A reptile belonging to the subfamily Alligatorinae in the family Alligatoridae in the order Crocodylia.	1581			
 	Animal:american black bear.N	A member of the Urisdae family (Ursus americanus) native to North America.	3611			
@@ -1970,10 +1979,10 @@ Value:be worth.V		To be worth of something.		11-99906
 	Animal:antelope.N	Any of even-toed deer-like mammals of the family Bovidae, indigenous to various parts of Africa and Eurasia.	3674			
 	Animal:anthill.N	A mound of earth made by ants as they dig their nest.	1873			
 	Animal:ape or monkey.N	Any of the species of Simiiformes, including Hominoidea (but typically excluding humans).	3298			
-	Animal:armadillo.N	(Family Dasypodidae) Burrowing chiefly nocturnal mammal with body covered with strong horny plates.	1885			
+	Animal:armadillo.N	(Family Dasypodidae) Burrowing chiefly nocturnal mammal with body covered with strong horny plates.	1885	3-99906		
 	Animal:baboon.N	Large ground based monkey having doglike muzzles.	1197			
 	Animal:badger.N	A mammal which belong to the family Mustelidae.	3717			
-	Animal:bandicoot.N	Marsupial of Peramelemorphia order.	3012			
+	Animal:bandicoot.N	Marsupial of Peramelemorphia order.	3012	3-99907		
 	Animal:barbel.N	European freshwater fish belonging to the family of carps (Cyprinidae), Genus of barbus.	524			
 	Animal:bark or shell.?	Cover of the bodies of animals and plants, including the hard exterior part of mollusks, oysters, etc.	3865			
 	Animal:barking.V	To produce a loud, short, explosive sound similar to that of a dog.	1206		bellen::V	
@@ -2007,7 +2016,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Animal:camel.N	A beast of burden, much used in desert areas, of the genus Camelus.	1871	3-78		
 	Animal:capon.N	A castrated rooster.	2567			
 	Animal:caprine (goat or sheep).N	Member of the caprinae family, mostly pointing to sheep and goat.	2684			
-	Animal:capybara.N	The largest living rodent native to South America, living partly on land and partly in water.	314			
 	Animal:carabao.N	A swamp-type domestic water buffalo found in the Philippines.	2515			
 	Animal:carp (fish).N	Oily freshwater fish from the family Cyprinidae.	2685			
 	Animal:cassowary.N	A big flightless bird native to tropical forests of New Guinea, nearby islands and northeastern Australia.	466			
@@ -2123,14 +2131,14 @@ Value:be worth.V		To be worth of something.		11-99906
 	Animal:howler monkey.N	Large, prehensile-tailed tropical American monkey of the genus Alouatta, the males of which make a howling noise.	433			
 	Animal:hummingbird.N	A small bird in the family Trochilidae.	1589			
 	Animal:hyena.N	A large carnivore of the family Hyaenidae, similar in appearance to a dog and native to Africa and Asia, best known for the sound resembling laughter that it makes when excited.	1799			
-	Animal:iguana.N	(Iguanidae) A lizard family.	1578			
+	Animal:iguana.N	(Iguanidae) A lizard family.	1578	3-99921		
 	Animal:intestinal worm.N	An organism, also known as the parasitic worm, that infects and breeds in the gastrointestinal tract of humans and animals.	3623			
 	Animal:jackal.N	A wild dog-like animal of the Canis genus home to parts of Asia and Africa.	3313			
 	Animal:jaguar.N	A carnivorous spotted large cat native to South and Central America.	1250	3-9		
 	Animal:kangaroo rat.N	Small rodents native to North America.	2822			
 	Animal:kangaroo skin.N	The skin of a kangaroo.	2823			
 	Animal:kangaroo.N	A marsupial from the family Macropodidae having powerful hind legs and large feet for leaping.	164	3-88		
-	Animal:kingfisher.N	A group of small to medium-sized brightly colored birds in the order Coraciiformes.	2444			
+	Animal:kingfisher.N	A group of small to medium-sized brightly colored birds in the order Coraciiformes.	2444	3-99923		
 	Animal:ladybug.N	Flying insect of the Coleoptera order.	3139			
 	Animal:lair.N	The resting or living place of a wild animal.	2949		Bau::N	
 	Animal:lamb.N	Young sheep.	820	3-29		
@@ -2144,14 +2152,14 @@ Value:be worth.V		To be worth of something.		11-99906
 	Animal:living thing.N	living thing (any plant or animal)				900
 	Animal:locust.N	Migratory grasshoppers of the order Orthoptera of warm regions having short antennae.	810			
 	Animal:louse or nit.N	A parasitic wingless insect that lives on humans and other mammals or the eggs that this insect produces.	2280			
-	Animal:louse.N	A small wingless parasitic insect of the order Phthiraptera that lives on humans, other mammals and birds.	1392		Laus::N	
+	Animal:louse.N	A small wingless parasitic insect of the order Phthiraptera that lives on humans, other mammals and birds.	1392	3-99924	Laus::N	
 	Animal:lynx.N	A wild animal of the Lynx genus, with characteristic spots on its fur and a short tail.	3314			
 	Animal:macaw.N	Large colorful parrots of the Americas, classified into six of the many Psittacidae genera: Ara, Anodorhynchus, Cyanopsitta, Primolius, Orthopsittaca, and Diopsittaca.	1630			
 	Animal:magpie.N	One of several kinds of bird in the family Corvidae, especially Pica pica.	2039			
 	Animal:male cat.N	A male of the Felis catus species.	3825			
 	Animal:male dog.N	A male dog.	2480			
 	Animal:male goat.N	A male goat.	2475	3-37		
-	Animal:male pig.N	A male pig.	2487			
+	Animal:male pig.N	A male pig.	2487	3-99926		
 	Animal:male yak.N	A male yak.	2478			
 	Animal:mallard.N	A member of the Anatidae family, common in large parts of the world and native to the northern hemisphere.	3610			
 	Animal:mammal.N	mammal				907
@@ -2160,7 +2168,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Animal:marten.N	A mammal of the family Mustelidae in the genus Martes, inhabiting the forests of the Northern Hemisphere, having a long, slender body, a bushy tail and short legs and also known for its thick, valuable fur.	3739			
 	Animal:meerkat.N	Southern African animal known for its long tail and often seen standing up on its back legs.	3148			
 	Animal:microbe.N	microbe				902
-	Animal:mole.N	Small insectivorous mammal, especially of the family Talpidae, living chiefly underground, and having velvety fur, very small eyes, and strong forefeet.	1907			
+	Animal:mole.N	Small insectivorous mammal, especially of the family Talpidae, living chiefly underground, and having velvety fur, very small eyes, and strong forefeet.	1907	3-99929		
 	Animal:mongoose.N	A common name for several species of tropical ferret-like carnivorous mammals, distinguished by a long body and tail.	3677			
 	Animal:monitor lizard.N	Monitor lizard of the genus Varanus, such as the goanna and the Komodo dragon.	3017			
 	Animal:moth.N	Group of insects related to butterflies.	2828			
@@ -2180,7 +2188,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Animal:owl.N	A solitary, mainly nocturnal bird of prey, belonging to the order Strigiformes; it has large forward-facing eyes and ears and a hawk-like beak, and it can turn its head 180 degrees around.	735	3-596	Eule::N	
 	Animal:ox.N	A castrated bull.	1169	3-22		
 	Animal:oysters.N	Name for different families of inhabitans of marine or brackish habitats.	2830			
-	Animal:paca.N	A large rodent, with dark brown or black fur, a white or yellowish underbelly and rows of white spots along its sides, native to Central America and South America.	316			
+	Animal:paca.N	A large rodent, with dark brown or black fur, a white or yellowish underbelly and rows of white spots along its sides, native to Central America and South America.	316	3-9993		
 	Animal:pacu.N	A freshwater species of fish belonging to the family Serrasalmidae and related to piranha.	3922			
 	Animal:panda.N	Also *giant panda*, a white-and-black mammal of the *Ailuropoda* family, native to eastern Asia, commonly referred to as a type of bear.	3951			
 	Animal:pangolin.N	Mammals of the order Pholidota. The one extant family, Manidae, has three genera: Manis which comprises four species living in Asia, Phataginus which comprises two species living in Africa, and Smutsia which comprises two species also living in Africa.	2508			
@@ -2196,13 +2204,12 @@ Value:be worth.V		To be worth of something.		11-99906
 	Animal:penguin.N	Aquatic, flightless birds.	2831			
 	Animal:perch (fish).N	Perch is a common name for fish of the genus Perca, freshwater gamefish belonging to the family Percidae.	2966		Barsch::N	
 	Animal:perch (of bird).V	To land and rest on a perch, branch, fence, etc.	3682			
-	Animal:pet.N	An animal or a bird that is kept at home for companionship rather than for practical use.	3780			
 	Animal:pheasant.N	Bird of the family Phasianidae.	3060			
 	Animal:pig dung.N	The faeces of a pig.	3379			
 	Animal:piglet.N	A young pig.	2564			
 	Animal:pigsty.N	A barn for pigs.	3369			
 	Animal:pike (fish).N	The northern pike is a species of carnivorous fish of the genus Esox (the pikes).	2967		Hecht::N	
-	Animal:piranha.N	Any of the carnivorous freshwater fish living in South American rivers and belonging to the subfamily Serrasalminae.	317			
+	Animal:piranha.N	Any of the carnivorous freshwater fish living in South American rivers and belonging to the subfamily Serrasalminae.	317	3-99934		
 	Animal:pium (simuliidae).N	Hematophagous black fly found in tropical countries	3937			
 	Animal:polar bear.N	White bear living in the northern pole regions.	3143			
 	Animal:porcupine.N	Rodents with a coat of sharp spines, or quills, that protect against predators.	2510			
@@ -2856,7 +2863,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Communication:note.N	note, annotation				2252
 	Communication:page.N	page (one side of a sheet of paper in a book)				2250
 	Communication:pen.N	pen (writing tool that uses ink)				2265
-	Communication:pencil.N	pencil, crayon (writing tool that uses semi-solid substance)				2266
 	Communication:photograph.N	photograph				2284
 	Communication:print.V	print (to copy marks by pressing inked objects on paper) 				2257
 	Communication:promise.N	promise (a claim about one's future actions), pledge				2278
@@ -3537,7 +3543,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Food:vinegar.N	A sour liquid formed by the fermentation of alcohol with acetic acid bacteria used as a condiment or preservative.	985	5-99922		3467
 	Food:wanton.N	Stuffed dough wrap found in Chinese cuisine.	1980			
 	Food:water pot.N	A vessel used for storing water.	3766			
-	Food:watermelon.N	A large, sprawling annual plant with coarse, hairy pinnately-lobed leaves and white to yellow flowers.	2766			
+	Food:watermelon.N	A large, sprawling annual plant with coarse, hairy pinnately-lobed leaves and white to yellow flowers.	2766	8-99954		
 	Food:watery.A	(Of a liquid or meal) to be thin and watery.	3545			
 	Food:white (of eggs).N	The clear, semifluid part of a bird's egg that serves as protection for the yolk.	3439			
 	Food:white sugar.N	Purified sugar that is separated from molasses in the process of refining.	3441			
@@ -3778,7 +3784,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Group:the public.N	the public				435
 	Group:tribe.N	tribe (group of families living in proximity and having the same chief)				445
 	House:bale-bale (raised platform in house).N	An elevated wooden or bamboo platform on which people can sit, squat or sleep.	3177			
-	House:bench.N	A piece of furniture offering place for many people.	2584			
 	House:blackboard.N	Reusable surface for writing or drawing.	3084			
 	House:bookcase.N	bookcase				1345
 	House:candle.N	A light source consisting of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin.	1273	7-46		
@@ -4019,7 +4024,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Matter:substance.N	substance				3300
 	Matter:suck.V	suck 				3787
 	Matter:sweep.V	sweep 				3789
-	Matter:tar.N	tar (dark viscous liquid obtained by destructive distillation)				3362
 	Matter:tear.V	tear, rip 				3791
 	Matter:tie.V	tie, bind 				3793
 	Matter:trim.V	trim, prune (cut off ragged edges) 				3795
@@ -4123,7 +4127,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Modernity:nurse.N	A person trained to provide care for the sick.	1104	23-21		
 	Modernity:office.N	An office is generally a room or other area where administrative work is done.	2430			
 	Modernity:palette (painting).N	A flat surface on which a painter arragnes and mixes paints.	2611			
-	Modernity:pencil.N	A writing device of solid pigment inside a protective wooden casing.	2578			
+	Modernity:pencil.N	A writing device of solid pigment inside a protective wooden casing.	2578	9-99915		2266
 	Modernity:petrol.N	A transparent, petroleum-derived liquid that is used primarily as a fuel in internal combustion engines.	2344			
 	Modernity:petroleum.N	A comparatively volatile liquid bitumen composed principally of hydrocarbon, with traces of sulphur, nitrogen or oxygen compounds; can be removed from the earth in a liquid state.	650	23-195		
 	Modernity:photograph (something).V	Use a light-sensitive device to take an image of something.	3123			
@@ -4466,7 +4470,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Nature:stone or rock.N	A naturally occurring solid aggregate of one or more minerals or mineraloids.	2125	1-44		
 	Nature:stone.N	A general term for rock that is used in construction, either crushed for use as aggregate or cut into shaped blocks as dimension stone.	857		Stein::N	
 	Nature:strait.N	A narrow body of water connecting two larger bodies of water.	1661			
-	Nature:straw.N	The dry stalks of cereal plants, after the grain and chaff have been removed.	2299			
+	Nature:straw.N	The dry stalks of cereal plants, after the grain and chaff have been removed.	2299	8-99946		
 	Nature:stream.N	A small river or large creek; a body of moving water confined by banks.	947			
 	Nature:sulphur.N	A crystalline solid, nonmetallic chemical element of a distinct yellow colour, with assigned symbol S and proton number 16.	3386			
 	Nature:summit.N	The highest point of a mountain.	1614		Gipfel::N	
@@ -4475,7 +4479,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Nature:sunshine.N	The light emitted by the sun.	3276			
 	Nature:surface.N	The overside or up-side of a flat object such as a table, or of a liquid; the outside hull of a tangible object.	547			
 	Nature:swamp.N	A permanently waterlogged area in which there is often associated tree growth, e.g. mangroves in hot climates.	1145	1-38	Sumpf::N	1172
-	Nature:tar.N	A viscous material composed of complex, high-molecular-weight, compounds derived from the distillation of petroleum or the destructive distillation of wood or coal.	872			
+	Nature:tar.N	A viscous material composed of complex, high-molecular-weight, compounds derived from the distillation of petroleum or the destructive distillation of wood or coal.	872	8-99948		3362
 	Nature:tarantula.N	Any large and hairy spider, typically of the Theraphosidae family, although some other spider species are subsumed under this name as well.	3886			
 	Nature:thundery.A	Sounds that resemble thunder.	3760			
 	Nature:tide.N	The periodic rise and fall of the water resulting from gravitational interaction between the sun, moon and earth.	891	1-352		1135
@@ -4729,7 +4733,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Plant:pepper.N	pepper (black pepper; plant/seed of sp. Piper nigrum)				1069
 	Plant:pepper.N	pepper (hot/sweet/bell pepper -- plant/pod of genus Capsicum)				1093
 	Plant:plant.V	plant 				1011
-	Plant:plum.N	plum (certain trees/fruits of genus Prunus)				1038
+	Plant:plum.N	plum (certain trees/fruits of genus Prunus)		8-99941		1038
 	Plant:pod.N	pod (seed pod)				1026
 	Plant:potato.N	potato (plant/tuber of sp. Solanum tuberosum)				1094
 	Plant:rice.N	rice (plant/seed of sp. Oryza sativa)				1076
@@ -4749,7 +4753,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Plant:tree.N	tree				1001
 	Plant:weed.N	weed (unwanted plant)				1006
 	Plant:wheat.N	wheat (plant/seed of sp. Triticum aestivum)				1078
-	Plant:willow.N	willow (tree of genus Salix)				1046
 	Possession:acquire (something).V	To come into possession of something, usually with an effort.	3892			
 	Possession:affair.N	That which is considered to exist as a separate quality or concept.	2214		Angelegenheit::N	
 	Possession:afford.V	To have enough money to get something.	3893			
@@ -5615,42 +5618,71 @@ Value:be worth.V		To be worth of something.		11-99906
 		Sir, the epithet that is used with male given names.		19-9991		
 		Smoked food.		5-99918		
 		Spain		19-99911		
+		the amphibian		3-99903		
+		The Andean guinea pig, that is raised for food, medicine and ritual in the Andes.		3-99904		
+		the Andean owl		3-99905		
 		The ayahuasca,a psychoactive infusion prepared from the Banisteriopsis spp.		5-99904		
 		The bacon.		5-99905		
+		the barn owl		3-99908		
 		The black tree dye.		8-99907		
 		The brandy, a type of liquor.		5-99907		
+		the bustard		3-99909		
 		The centigram, a metric unit of mass equal to one hundredth (10) of a gram.		13-99904		
+		the codfish		3-99912		
 		the communal labour		19-99916		
+		the condor		3-99913		
 		The constellation		1-99904		
 		The cutlass, a short sword.		20-99902		
 		the foreman		19-99921		
 		the French person		19-99922		
 		the government document		19-99923		
+		the herd		3-99917		
+		The hocco, the crested curassow, also called royal pheasant		3-99918		
 		the hockey		19-99925		
+		the humming bird		3-99919		
+		the ibis		3-9992		
+		the jabiru, k.o. bird		3-99922		
 		the layman		19-99926		
 		the letterwood bow		20-99905		
 		The lima bean.		8-99926		
 		The loam, a rich soil consisting of a mixture of sand and clay and decaying organic materials.		1-99906		
+		the Maine lobster		3-99925		
 		The manioc juice made of the cassava plant or root.		5-99913		
+		the marail, k.o. bird		3-99928		
 		The metabolism.		4-99908		
 		the mixed-race Kali’na		19-99927		
 		the mixed-race Kali’na		19-99928		
 		The mochi, a small Japanese rice cake made from glutinous rice.		5-99914		
+		the plover		3-99935		
+		the pompom		6-99906		
 		The possibility, what is possible.		17-99902		
+		the prairie dog		3-99937		
 		The ramen noodles, called saimin in Hawaii.		5-99915		
 		The rice ball or musubi.		5-99916		
+		the roadrunner		3-99938		
 		The roasted cassava meal.		5-99917		
+		the rubber tree		8-99944		
+		the sensitive mimosa		8-99945		
 		The settlement, resolution of a dispute.		19-99932		
+		the sleepyhead bird		3-99931		
 		The small change, coins.		19-99933		
 		the socialism		19-99934		
+		the songbird		3-9994		
 		the sport		19-99935		
+		The spur, a rigid implement, often y-shaped, that is fixed to one's heel for the purpose of prodding a horse.		9-99922		
 		the student		19-99936		
 		The tamale.		5-99919		
+		the tree dye		8-9995		
+		the trumpeter bird		3-99943		
 		the upper case or capital letter		18-99905		
 		The violet, a colour between blue and red.		15-99906		
 		the vote or ballot or pole		19-99937		
+		the wild maize		8-99956		
+		The woody shrub, a plant whose wood is used for building huts.		8-99958		
 		The yard, a unit of measurement.		13-99905		
+		The yerba mate, leaves that are dried and made into an infusion like tea		8-99959		
 		To give a ride on a horse.		10-99905		
+		To mix together unclearly or dirtily.		9-99933		
 		To retire, to cease doing work for living.		19-99942		
 		Voluptuous		16-99913		
 		Worse, the comparative of bad.		16-99915		

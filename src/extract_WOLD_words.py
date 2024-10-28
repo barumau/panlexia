@@ -21,6 +21,7 @@ CC-BY 2024 Panlexia (https://github.com/barumau/panlexia)
 import helpers
 
 WOLD_forms = 'data/WOLD/forms.csv'
+WOLD_forms_2 = 'data/WOLD/forms_fra_spa_deu_rus.tsv'
 WOLD_languages = 'data/WOLD/languages.csv'
 WOLD_etymology = 'data/WOLD/borrowings.csv'
 
@@ -35,12 +36,11 @@ def sort_and_write_to_dictionary_file(lang_name, data):
     for row in sorted_map:
         outfile.dict.writerow([row[0], row[1]])
 
-def write_dictionary_for_one_language(lang_id, lang_code, WOLD_to_Panlexia):
+def write_dictionary_for_one_language(lang_id, lang_code, WOLD_to_Panlexia, dict):
     """Writes dictionary for one language ordered by Panlexia id."""
     print("Getting words for", lang_code)
     dictionary = []
-    forms = helpers.csv_reader(WOLD_forms, ',')
-    for row in forms.dict:
+    for row in dict:
         if row["Language_ID"] == lang_id:
             id = WOLD_to_Panlexia[row["Parameter_ID"]]
             word = row["Form"]
@@ -60,11 +60,21 @@ def get_41_languages():
             break
     return languages
 
-def create_dictionaries_from_WOLD(WOLD_to_Panlexia):
+def create_41_dictionaries_from_WOLD(WOLD_to_Panlexia):
+    """Writes dictionaries for the 41 languages in WOLD."""
     langs = get_41_languages()
     for lang in langs:
-        write_dictionary_for_one_language(lang[0], lang[1], WOLD_to_Panlexia)
+        forms = helpers.csv_reader(WOLD_forms, ',')
+        write_dictionary_for_one_language(lang[0], lang[1], WOLD_to_Panlexia, forms.dict)
+
+def create_4_dictionaries_from_WOLD(WOLD_to_Panlexia):
+    """Writes dictionaries for fra, spa, deu and rus."""
+    langs = [["fra", "fra"], ["spa", "spa"], ["deu", "deu"], ["rus", "rus"]]
+    for lang in langs:
+        forms = helpers.tsv_reader(WOLD_forms_2)
+        write_dictionary_for_one_language(lang[0], lang[1], WOLD_to_Panlexia, forms.dict)
 
 # Execution begins:
 WOLD_to_Panlexia = helpers.get_other_id_to_Panlexia_id_map("WOLD_id")
-create_dictionaries_from_WOLD(WOLD_to_Panlexia)
+create_4_dictionaries_from_WOLD(WOLD_to_Panlexia)
+create_41_dictionaries_from_WOLD(WOLD_to_Panlexia)
