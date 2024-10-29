@@ -1961,14 +1961,14 @@ Value:be worth.V		To be worth of something.		11-99906
 	Agriculture/Plant:shea nut tree.N	Tree of the Sapotaceae family,indigenous to Africa, commonly known as shea tree. The shea fruits are oil-rich seed from which shea butter is extracted.	454			
 	Agriculture/Plant:shrub.N	A woody perennial plant, smaller than a tree, with several major branches arising from near the base of the main stem.	751			
 	Agriculture/Plant:smoke (inhale).V	To inhale smoke from for example a cigarette or a cigar.	1689	8-69		
-	Agriculture/Plant:soya.N	An annual plant native to East Asia that is widely cultivated for its fruit.	2027			
+Plant:soya plant.N	Agriculture/Plant:soya.N	An annual plant native to East Asia that is widely cultivated for its fruit.	2027			
 	Agriculture/Plant:spade.N	Tool having a flat and sharp metal tip and a wooden handle used to break, dig and move the earth.	1176	8-23	Spaten::N	
 	Agriculture/Plant:spike.N	The fruiting body of a grain plant.	1249			
 	Agriculture/Plant:spruce.N	Any of various large coniferous evergreen trees from the genus Picea, found in northern temperate and boreal regions.	545			
 	Agriculture/Plant:strawberry.N	Soft, red fruit with yellow seeds on its surface.	3138			
 	Agriculture/Plant:sugar cane.N	A tropical grass of the genus Saccharum having stout, fibrous, jointed stalks, the sap of which is a source of sugar.	146	8-941		
 	Agriculture/Plant:sugar palm.N	Common name for several palm species used to produce sugar, especially Arenga pinnata.	3029			
-	Agriculture/Plant:sunflower.N	Annual plant with a large yellow flowering head of the genus Helianthus and the family of the Asteraceae.	1956			
+Plant:Helianthus annuus.N	Agriculture/Plant:sunflower.N	Annual plant with a large yellow flowering head of the genus Helianthus and the family of the Asteraceae.	1956			1053
 	Agriculture/Plant:sweet olive flower.N	The flower of teh Osmanthus Fragrans.	2748			
 	Agriculture/Plant:sweet olive.N	A species native to Asia from the Himalayas through southern China (Guizhou, Sichuan, Yunnan) to Taiwan and southern Japan and southeast Asia as far south as Cambodia and Thailand.	2360			
 	Agriculture/Plant:sweet potato.N	A dicotyledonous plant of the family Convolvulaceae, having an edible tuberous root.	159	8-91		
@@ -3524,7 +3524,7 @@ Value:be worth.V		To be worth of something.		11-99906
 	Food:sober.A	Not under the influence of alcohol or other drugs.	69			
 	Food:soup.N	A cooked, liquid dish (made from meat or vegetables that are mixed with broth in a pot) that is often sold in tins.	1547	5-64	Suppe::N	
 	Food:soup.N	soup				3462
-	Food:soya bean.N	The edible seed of the soybean plant which contains a lot of protein.	2028			
+Plant:soya bean.N	Food:soya bean.N	The edible seed of the soybean plant which contains a lot of protein.	2028			
 	Food:soya sauce.N	Sauce made from soybeans (soya beans), roasted grain, water and salt and is used as flavoring mainly in Asian cuisine.	1968	5-99903		
 	Food:spice.N	spice, seasoning				3465
 	Food:spicy.A	Of, pertaining to, or containing spice; or spicy flavour: Provoking a burning sensation due to the presence of chillies or similar hot spices.	544			
@@ -4758,11 +4758,10 @@ Value:be worth.V		To be worth of something.		11-99906
 	Plant:safflower.N	safflower (Carthamus tinctorius)				1058
 	Plant:seed.N	seed				1028
 	Plant:sesame.N	sesame (plant/seed of genus Sesamum)				1059
-	Plant:soya.N	soya, soybean (plant/seed of sp. Glycine max)				1095
+Plant:soya plant or soya bean.N	Plant:soya plant or soya bean.N	soya, soybean (plant/seed of sp. Glycine max)				1095
 	Plant:spinach.N	spinach (plant/leaves of sp. Spinacia oleracea)				1096
 	Plant:sprout.N	sprout (young shoot of plant)				1029
 	Plant:squash.N	squash, melon (plant/fruit of genus Cucurbita grown for edible fruit)				1097
-	Plant:sunflower.N	sunflower				1053
 	Plant:tobacco.N	tobacco (plant/leaves of sp. Nicotiana tabacum)				1072
 	Plant:tomato.N	tomato (plant/berry of genus Lycopersicon)				1098
 	Plant:tree.N	tree				1001
