@@ -32,22 +32,22 @@ def sort_and_write_to_dictionary_file(lang_name, data, column_num):
     filename = "dict/" + lang_name[0].upper() + "/" + lang_name.lower() + ".tsv"
     outfile = helpers.tsv_writer(filename, 'w')
     if column_num == 2:
-        outfile.dict.writerow(["id", "word"])
+        outfile.dict.writerow(["id", "style", "word"])
     else:
-        outfile.dict.writerow(["id", "word", "transcription"])
+        outfile.dict.writerow(["id", "style", "word", "transcription"])
     
     for row in sorted_map:
         if column_num == 2:
             # Write id and word.
-            outfile.dict.writerow([row[0], row[1]])
+            outfile.dict.writerow([row[0], "", row[1]])
         else:
             if (len(row)) == 3:
                 # Write id, word and transcription.
-                outfile.dict.writerow([row[0], row[1], row[2]])
+                outfile.dict.writerow([row[0], "", row[1], row[2], ""])
             else:
                 # If row is missing data in the original_script field in WOLD,
                 # write id, blank and transcription.
-                outfile.dict.writerow([row[0], "", row[1]])
+                outfile.dict.writerow([row[0], "", "", row[1], ""])
 
 def write_dictionary_for_one_language(lang_id, lang_code, WOLD_to_Panlexia, dict, column_num):
     """Writes dictionary for one language ordered by Panlexia id."""

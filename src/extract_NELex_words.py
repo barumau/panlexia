@@ -61,10 +61,10 @@ def sort_and_write_to_dictionary_file(lang_code, data):
 
     filename = "dict/" + lang_code[0].upper() + "/" + lang_code + ".tsv"
     outfile = helpers.tsv_writer(filename, 'w')
-    outfile.dict.writerow(["id", "word", "pronunciation"])
+    outfile.dict.writerow(["id", "style", "word", "pronunciation"])
 
     for row in sorted_map:
-        outfile.dict.writerow([row[0], row[1], row[2]])
+        outfile.dict.writerow([row[0], "", row[1], row[2]])
 
 
 def write_dictionary_for_one_language(datalist, i, n, NELex_to_Panlexia):

@@ -12,10 +12,10 @@ def sort_and_write_to_dictionary_file(lang_name, data):
 
     filename = "dict/" + lang_name[0].upper() + "/" + lang_name.lower() + ".tsv"
     outfile = helpers.tsv_writer(filename, 'w')
-    outfile.dict.writerow(["id", "word"])
+    outfile.dict.writerow(["id", "style", "word"])
 
     for row in sorted_map:
-        outfile.dict.writerow([row[0], row[1]])
+        outfile.dict.writerow([row[0], "", row[1]])
 
 def write_dictionary_for_one_language(lang_code, ULD_to_Panlexia):
     """Writes dictionary for one language ordered by Panlexia id."""

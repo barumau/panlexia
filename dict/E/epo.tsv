@@ -1,0 +1,386 @@
+id	style	word
+Action:can.V		povas
+Agriculture:farm.N		farmo
+Animal:Acridomorpha.N		akrido, lokusto
+Animal:Anatidae.N		anaso
+Animal:Annelida.N		vermo
+Animal:Anthophila.N		abelo
+Animal:Anura.N		rano
+Animal:Araneae.N		araneo
+Animal:Aves.N		birdo
+Animal:Blattodea.N		blato
+Animal:Bos taurus.N		bovo
+Animal:Canis lupus familiaris.N		hundo
+Animal:Canis lupus.N		lupo
+Animal:Capra hircus.N		kapro
+Animal:Cervidae.N		cervo
+Animal:Cetacea.N		baleno
+Animal:Corvus.N		korvo
+Animal:Culicidae.N		moskito
+Animal:Diptera.N		muŝo
+Animal:Elephantidae.N		elefanto
+Animal:Equus asinus.N		azeno
+Animal:Equus ferus caballus.N		ĉevalo
+Animal:Felis catus.N		kato
+Animal:Felis leo.N		leono
+Animal:Felis tigris.N		tigro
+Animal:Formicidae.N		formiko
+Animal:Gallus gallus domesticus.N		koko
+Animal:Grylloidea.N		grilo
+Animal:Homo sapiens.N		homo
+Animal:Insecta.N		insekto
+Animal:Lacertidae.N		lacerto
+Animal:Lampyridae.N		lampiro
+Animal:Leporidae.N		"kuniklo (hare = ""leporo"")"
+Animal:Mantodea.N		manto
+Animal:Meleagris gallopavo.N		meleagro
+Animal:Nephropidae.N		omaro
+Animal:Ovis aries.N		ŝafo
+Animal:Passeridae.N		pasero
+Animal:Rhopalocera.N		papilio
+Animal:Sciuridae.N		sciuro
+Animal:Serpentes.N		serpento
+Animal:Simiiformes.N		simio
+Animal:Sus scrofa domestica.N		porko
+Animal:Testudines.N		testudo
+Animal:Ursidae.N		urso
+Animal:Vulpes.N		vulpo
+Animal:animal.N		besto, animalo
+Animal:dragon.N		drako
+Animal:fish.N		fiŝo
+Animal:mouse.N		muso
+Animal:wool.N		lano
+Atmosphere:cloud.N		nubo
+Atmosphere:fog.N		nebulo
+Atmosphere:hail.N		hajlo
+Atmosphere:rain.N		pluvo
+Atmosphere:rainbow.N		ĉielarko
+Atmosphere:sky.N		ĉielo
+Atmosphere:storm.N		tempesto, ŝtormo
+Atmosphere:thunder.N		tondro
+Atmosphere:weather.N		vetero
+Atmosphere:wind.N		vento
+Belief:angel.N		anĝelo
+Belief:bless.V		beni
+Belief:curse.V		malbeni
+Belief:deity.N		dio
+Belief:fairy.N		feo
+Belief:ghost.N		spirito
+Belief:heaven.N		ĉielo
+Belief:hell.N		inferno
+Belief:holiday.N		festotago
+Belief:holy.A		sankta
+Belief:magic.N		magio, sorĉarto
+Belief:pray.V		preĝi
+Belief:priest.N		pastoro
+Belief:religion.N		religio
+Belief:rite.N		rito
+Belief:soul.N		animo
+Body:anus.N		anuso
+Body:arm.N		brako
+Body:back.N		dorso
+Body:beard.N		barbo
+Body:blood.N		sango
+Body:body hair.N		haro
+Body:body.N		korpo
+Body:bone.N		osto
+Body:brain.N		cerbo
+Body:breast.N		mamo
+Body:breath.V		spiri
+Body:buttock.N		gluteo
+Body:cheek.N		vango
+Body:chest.N		brusto
+Body:chin.N		mentono
+Body:ear.N		orelo
+Body:egg.N		ovo
+Body:elbow.N		kubuto
+Body:eye.N		okulo
+Body:face.N		vizaĝo
+Body:feather.N		plumo
+Body:feces.N		fekaĵo
+Body:finger.N		fingro
+Body:fist.N		pugno
+Body:flesh.N		karno
+Body:foot.N		piedo
+Body:forehead.N		frunto
+Body:hand.N		mano
+Body:head hair.N		hararo
+Body:head.N		kapo
+Body:heart.N		koro
+Body:heel.N		kalkano
+Body:hip.N		kokso
+Body:horn.N		korno
+Body:intestines.N		intesto
+Body:kidney.N		reno
+Body:knee.N		genuo
+Body:leg.N		kruro, gambo
+Body:lip.N		lipo
+Body:liver.N		hepato
+Body:lung.N		pulmo
+Body:mouth.N		buŝo
+Body:muscle.N		muskolo
+Body:nail.N		ungo
+Body:navel.N		umbiliko
+Body:neck.N		kolo, nuko
+Body:nerve.N		nervo
+Body:nose.N		nazo
+Body:obese.A		grasa
+Body:organ.N		organo
+Body:palm.N		manplato
+Body:penis.N		peniso
+Body:piss.N		urino
+Body:shell.N		karapaco, konko
+Body:shoulder.N		ŝultro
+Body:skeleton.N		skeleto, ostaro
+Body:skin.N		haŭto
+Body:sneeze.V		terni
+Body:spine.N		spino, vertebraro
+Body:spit.V		kraĉi
+Body:stomach.N		stomako
+Body:sweat.N		ŝvito
+Body:tail.N		vosto
+Body:tear.N		larmo(j)
+Body:testicle.N		testiko
+Body:throat.N		gorĝo
+Body:thumb.N		dikfingro, polekso
+Body:toe.N		piedfingro
+Body:tongue.N		lango
+Body:tooth.N		dento
+Body:vagina.N		vagino
+Body:vein.N		vejno
+Body:waist.N		talio
+Body:wing.N		flugilo
+Body:wound.N		vundo
+Body:wrist.N		manartiko, manradiko
+Building:board.N		tabulo
+Building:brick.N		briko
+Building:build.V		konstrui
+Building:building.N		konstruaĵo
+Building:camp.N		tendumejo, kampadejo, bivakejo
+Building:ceiling.N		plafono
+Building:cellar.N		kelo
+Building:chimney.N		kamentubo, fumtubo
+Building:church.N		preĝejo
+Building:door.N		pordo
+Building:fireplace.N		kameno
+Building:floor.N		planko
+Building:frame.N		kadro
+Building:house.N		domo
+Building:pyramid.N		piramido
+Building:roof.N		tegmento
+Building:room.N		ĉambro
+Building:stairs.N		ŝtuparo
+Building:tower.N		turo
+Building:wall.N		muro
+Building:window.N		fenestro
+Cleaning:dirty.A		malpura
+Clothing:T-shirt.N		T-ĉemizo, to-ĉemizo
+Clothing:apron.N		antaŭtuko
+Clothing:belt.N		zono
+Clothing:cap.N		ĉapo
+Clothing:cloth.N		tolo
+Clothing:coat.N		palto, mantelo
+Clothing:collar.N		kolumo
+Clothing:dress.N		robo
+Clothing:garment.N		vestaĵo
+Clothing:glove.N		ganto
+Clothing:harness.N		jungilaro
+Clothing:hat.N		ĉapelo
+Clothing:jacket.N		jako
+Clothing:jeans.N		ĝinzo
+Clothing:leather.N		ledo
+Clothing:loom.N		teksilo
+Clothing:naked.A		nuda, senkovra
+Clothing:necktie.N		kravato
+Clothing:needle.N		kudrilo, nadlo
+Clothing:pocket.N		poŝo
+Clothing:sew.V		kudri
+Clothing:shirt.N		ĉemizo
+Clothing:shoe.N		ŝuo
+Clothing:shorts.N		ŝorto, sportkuloto
+Clothing:silk.N		silko
+Clothing:skirt.N		jupo
+Clothing:slipper.N		pantoflo
+Clothing:sock.N		ŝtrumpeto
+Clothing:suit.N		kompleto
+Clothing:thread.N		fadeno
+Clothing:towel.N		mantuko, bantuko, viŝtuko
+Clothing:trousers.N		pantalono
+Clothing:underpants.N		kalsono, kalsoneto
+Clothing:uniform.N		uniformo
+Clothing:veil.N		vualo
+Clothing:weave.V		teksi
+Combat:fight.V		batali, barakti, lukti, militi
+Combat:helmet.N		kasko
+Combat:wrestle.V		lukti
+Communication:accept		akcepti
+Communication:answer.V		respondo
+Communication:call.V		voki, alvoki
+Communication:cellphone.N		poŝtelefono
+Communication:deny.V		nei
+Communication:gesture.V		gesti
+Communication:letter.N		letero
+Communication:offer.V		proponi
+Communication:praise.V		laŭdi
+Communication:telephone.N		telefono
+Communication:television set.N		televido
+Communication:thank.V		danki
+Cosmos:Sun.N		suno
+Cosmos:moon.N		luno
+Cosmos:planet.N		planedo
+Cosmos:star.N		stelo
+Cosmos:universe.N		universo
+Element:Ag.N		arĝento
+Element:Au.N		oro
+Element:C.N		karbono
+Element:Cu.N		kupro
+Element:Fe.N		fero
+Element:K.N		kalio
+Element:N.N		nitrogeno
+Element:Na.N		natrio
+Element:Ne.N		neono
+Element:O.N		oksigeno
+Element:Pb.N		plumbo
+Element:S.N		sulfuro
+Element:Sn.N		stano
+Emotion:feel.V		senti
+Family:aunt.N		onklino
+Family:brother.N		frato
+Family:daughter.N		filino
+Family:family.N		familio
+Family:father.N		patro
+Family:grandfather.N		avo
+Family:grandmother.N		avino
+Family:husband.N		edzo
+Family:marriage.N		edzeco
+Family:mother.N		patrino
+Family:sister.N		fratino
+Family:son.N		filo
+Family:uncle.N		onklo
+Family:wife.N		edzino
+Food:bake.V		baki
+Food:drink.V		trinki
+Food:flour.N		faruno
+Food:salad.N		salato
+Food:sandwich.N		sandviĉo
+Food:sausage.N		kolbaso
+Grooming:brush.N		broŝilo
+Handiwork:patch.N		flikaĵo
+Health:disease.N		malsano
+Health:fever.N		febro
+Health:healthy.A		sana
+Health:hospital.N		malsanulejo, hospitalo
+Health:physician.N		kuracisto
+House:bed.N		lito
+House:blanket.N		kovrilo
+House:curtain.N		kurteno
+House:pillow.N		kuseno
+House:rug.N		tapiŝo
+Hunting:hunt.V		ĉasi
+Language:book.N		libro
+Law:crime.N		krimo
+Literature:alphabet.N		aboco, alfabeto
+Material:brass.N		latuno
+Matter:rust.N		rusto
+Mind:dream.N		sonĝo
+Motion:bring.V		alporti, venigi, kunpreni, kunporti
+Motion:carry.V		porti
+Motion:catch.V		kapti
+Motion:come back.V		reveni, revenigi, reiri
+Motion:come.V		veni, alveni
+Motion:enter.V		eniri, enveni
+Motion:fly.V		flugi
+Motion:go.V		iri
+Motion:leave.V		foriri, lasi, forlasi
+Motion:ride.V		veturi, rajdi
+Motion:roll.V		ruliĝi
+Motion:turn (sth).V		devojigi, turni
+Motion:turn.V		turni, turniĝi, (rotacii, rivolui)
+Music:sing.V		kanti
+Nature:river.N		rivero
+Nature:sea.N		maro, oceano
+People:adult.N		plenkreskulo
+People:baby.N		bebo
+People:boy.N		knabo
+People:child.N		infano
+People:female.A		virina, ina
+People:girl.N		knabino
+People:male.A		vira
+People:man.N		viro
+People:woman.N		virino
+Perception:feel.V		sensi
+Perception:touch.V		tuŝi
+Plant:Citrus sinensis.N		oranĝo
+Plant:Ficus carica.N		figo
+Plant:Gossypium.N		kotono
+Plant:bud.N		burĝono
+Plant:plant.N		plantaĵo, vegetalo
+Possession:receive.V		ricevi
+Quantity:0.NUM		nulo
+Quantity:1.NUM		unu
+Quantity:10.NUM		dek
+Quantity:100.NUM		cent
+Quantity:1000.NUM		mil
+Quantity:10^6.NUM		miliono
+Quantity:2.NUM		du
+Quantity:3.NUM		tri
+Quantity:4.NUM		kvar
+Quantity:5.NUM		kvin
+Quantity:6.NUM		ses
+Quantity:7.NUM		sep
+Quantity:8.NUM		ok
+Quantity:9.NUM		naŭ
+Society:help.V		helpi
+Space:apart.ADV		aparte, dise
+Space:back.ADV		reen, reire, revene
+Storage:barrel.N		barelo
+Storage:basket.N		korbo
+Storage:bottle.N		botelo
+Storage:box.N		kartono
+Storage:bucket.N		sitelo
+Storage:package.N		pakaĵo
+Storage:tin (can).N		ladskatolo
+Time:autumn.N		aŭtuno
+Time:final.A		fina, lasta
+Time:hour.N		horo
+Time:late.ADV		malfrua, malfrue
+Time:long ago.ADV		antaŭlonge
+Time:month.N		monato
+Time:never.ADV		neniam
+Time:new.A		nova
+Time:night.N		nokto
+Time:now.ADV		nun, nuntempe
+Time:old (used).A		malnova
+Time:old.A		maljuna
+Time:period.N		epoko
+Time:rhythm.N		ritmo
+Time:season.N		sezono
+Time:short.ADV		mallonga, mallongdaŭra
+Time:springtime.N		printempo
+Time:still.ADV		ankoraŭ
+Time:summer.N		somero
+Time:time.N		tempo
+Time:today.ADV		hodiaŭ
+Time:tomorrow.ADV		morgaŭ
+Time:wait.V		atendi
+Time:winter.N		vintro
+Time:year.N		jaro
+Time:yesterday.ADV		hieraŭ
+Transit:airplane.N		aviadilo, aeroplano
+Transit:bicycle.N		biciklo
+Transit:boat.N		boato
+Transit:brake.V		bremsilo
+Transit:bus.N		aŭtobuso, buso {colloquial}
+Transit:car.N		aŭtomobilo, aŭto {colloquial}
+Transit:cart.N		vagono, ĉaro
+Transit:motorcycle.N		motorciklo
+Transit:oar.N		padelo, remilo
+Transit:railroad.N		fervojo
+Transit:road.N		vojo
+Transit:rocket.N		rakedo
+Transit:sailcloth.N		velo
+Transit:ship.N		ŝipo
+Transit:train.N		trajno, vagonaro
+Transit:truck.N		kamiono, ŝarĝaŭto
+Transit:vehicle.N		veturilo
+Transit:wheel.N		rado

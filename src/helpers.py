@@ -36,3 +36,16 @@ def get_other_id_to_Panlexia_id_map(other_id):
         if row[other_id] != "":
             map_to_Panlexia[row[other_id]] = row["id"]
     return map_to_Panlexia
+
+class simple_file_reader:
+    def __init__(self, filename):
+        try:
+            self.file = open(filename, 'r')
+        except OSError:
+            print("Error in reading file", filename)
+
+    def __del__(self):
+        self.file.close()
+
+    def readline(self):
+        return self.file.readline()
