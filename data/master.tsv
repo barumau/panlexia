@@ -38,6 +38,7 @@ Animal:Annelida.N	Animal:worm.N	A generally tubular invertebrate of the annelid 
 Animal:Anthophila.N	Animal:bee.N	Any of the membranous-winged insects which compose the superfamily Apoidea in the order Hymenoptera characterized by a hairy body and by sucking and chewing mouthparts.	665	3-82		920
 Animal:Anura.N	Animal:frog.N	Any insectivorous anuran amphibian of the family Ranidae, such as Rana temporaria of Europe, having a short squat tailless body with a moist smooth skin and very long hind legs specialized for hopping.	503	3-95		945
 Animal:Araneae.N	Animal:spider.N	Any predatory silk-producing arachnid of the order Araneae, having four pairs of legs and a rounded unsegmented body consisting of abdomen and cephalothorax.	843	3-818	Spinne::N	948
+Animal:Asian dragon.N		A mythical creature typically depicted as a large horned serpent with claws and with magical or spiritual qualities.				
 Animal:Aves.N	Animal:bird.N	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	937	3-581	Vogel::N	980
 Animal:Blattodea.N	Animal:cockroach.N	The most primitive of the living winged insects.	1575	3-816		915
 Animal:Bos taurus.N	Animal:cattle.N	Domesticated bovine animals, including cows, steers and bulls, raised and bred on a ranch or farm.	1153	3-2		950
@@ -50,7 +51,7 @@ Animal:Cetacea.N	Animal:whale.N	Large marine mammals of the order Cetacea; the b
 Animal:Corvus.N	Animal:crow.N	A bird, usually black, of the genus Corvus, having a strong conical beak, with projecting bristles; it has a harsh, croaking call.	913	3-593	Krähe::N	984
 Animal:Culicidae.N	Animal:mosquito.N	A small flying insect (of the family Culicidae) known for biting and sucking blood.	1509	3-832	Mücke::N	924
 Animal:Diptera.N	Animal:fly (insect).N	A common insect; any species of insect of the order Diptera.	1504	3-83	Fliege::N	923
-Animal:dragon.N	Animal:dragon.N	A mythical creature typically depicted as a large horned serpent (Asia) or a winged, fire-breathing reptile (Europe), with magical or spiritual qualities.	2038			937
+Animal:dragon.N	Animal:dragon.N	A mythical creature typically depicted as a winged, fire-breathing reptile with magical qualities.	2038			937
 Animal:dung.N	Animal:dung (animal faeces).N	Animal faeces.	2057	8-99918		
 Animal:Elephantidae.N	Animal:elephant.N	A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw. Elephants are the largest land animals now existing.	1290	3-77		952
 Animal:Equus asinus.N	Animal:donkey.N	A domesticated animal, Equus asinus.	1862	3-46		951
@@ -571,8 +572,15 @@ Clothing:wear.V	Clothing/Grooming:wear.V	Fix clothes on your body and carry them
 Clothing:weave.V	Clothing/Grooming:weave.V	To create a fabric by interlacing threads.	133	6-33		1421
 Clothing:wrapper.N	Clothing/Grooming:wrapper.N	A colorful women's garment widely worn in West Africa.	462			
 Clothing:yarn.N	Clothing/Grooming:yarn.N	Consists of multiple strings of natural or synthetic fibre twisted together in a continuous bulky thread; used in textile production.	3445			
+Cognition:exact.A	Emotion:exact.A	Without diversion from the desired or agreed specification; neither exceeding nor failling short in any way.	1466			
+Cognition:expect.V	Emotion:expect.V	expect, anticipate (believe that X will come/happen) 				2074
+Cognition:false.A	Emotion:false.A	Not concurring with a given set of facts; fake; unreal.	3069			1945
+Cognition:familiar.A	Emotion:familiar.A	Knowing somebody or something well.	3005		bekannt::A	
 Cognition:study.N				17-99906		
 Cognition:study.V	Cognition:study.V	To follow a course of study; to be enrolled at an institute of learning.	1929	17-242		
+Cognition:true.A	Emotion:true.A	Concurring with a given set of facts.	1657	16-66	wahr::A	1943
+Cognition:truth.N	Emotion:truth.N	That which conforms to reality.	1638		Wahrheit::N	
+Cognition:untruth.N	Emotion:untruth.N	A false statement made with the intention to deceive.	475			
 Combat:battle cry.N	Language:battle cry (war whoop).N	A shout, used by warriors in battle with the purpose of arousing aggression on their own side or intimidating the enemy.	3741			
 Combat:bomb.N	Modernity:bomb.N	A device filled with explosives used for destroying things.	1804	23-575		
 Combat:box.V	Action/Technology:box (somebody or something).V	The act of using fists to fight or hit.	3108			
@@ -583,6 +591,7 @@ Combat:fight.V	Combat/Hunting:fight.V	To be involved in a physical confrontation
 Combat:helmet.N	Combat/Hunting:helmet.N	Any of various forms of protective head covering worn e.g.  by soldiers, firefighters, divers, cyclists, etc.	1680	20-33		1432
 Combat:strike (sb).V	Action/Technology:strike (someone).V	To intentionally hit someone with a sharp blow or to impel, usually with a hand or weapon.	3308		schlagen::V	
 Combat:suit of armour.N	Combat/Hunting:harness (armour).N	A specific suit that protects people who fight.	2552			
+Combat:violence.N	Emotion:violence.N	The intentional use of physical force or power against oneself, another person, or against a group with the intention of resulting in injury, death, psychological harm, maldevelopment, or deprivation.	2976		Gewalt::N	
 Combat:win.V	Society:win.V	To achieve a victory.	866	20-99909	siegen::V	2366
 Combat:wrestle.V	Body:wrestle.V	wrestle 				783
 Combat.warship.N				20-99906		
@@ -596,7 +605,10 @@ Communication:complain.V	Language:complain.V	To express one's dissatisfaction or
 Communication:deny.V	Language:deny.V	To refuse strongly and solemnly to own or acknowledge.	755	18-34		2215
 Communication:dialect.N	Language:dialect.N	A variety of a language that is characteristic of a particular group.	2815			
 Communication:email.N		Messages sent and received via computer.				
+Communication:fairy tale.N	Modernity:fairy tale.N	A fairy tale is a type of short story that typically features folkloric fantasy characters, such as dwarves, dragons, elves, fairies, giants, gnomes, goblins, griffins, mermaids, talking animals, trolls, unicorns, or witches, and usually magic or enchantments.	2937	18-99901	Märchen::N	
+Communication:flirt.V	Emotion:flirt.V	To talk or behave amorously, without serious intentions.	494			
 Communication:forbid.V	Language:forbid.V	To tell not to do something.	83	18-38		
+Communication:forgive.V	Emotion:forgive.V	To stop blaming someone for an offense.	1528	16-69		
 Communication:gesture.V	Body:gesture.V	gesture 				747
 Communication:goodbye.N	Language:goodbye.N	A conventional expression, used as a farewell when parting.	3554			
 Communication:goodbye.V		To say goodbye.		19-99943		
@@ -604,8 +616,14 @@ Communication:greet.V	Language:greet.V	To welcome someone; to address someone in
 Communication:hello.N	Language:hello.N	A conventional expression, used as a greeting.	3553			
 Communication:hieroglyph.N		The hieroglyph or hieroglyphics.		18-99902		
 Communication:joke.N	Language:joke.N	Something that is said or done in a non-serious, comic way.	3425	18-99903		
+Communication:kiss.N	Emotion:kiss (noun).N	The action of touching with the lips to express love or affection.	3454			
+Communication:kiss.V	Emotion:kiss.V	To touch with the lips to express love or affection.	578	16-29	küssen::V	
 Communication:language.N	Language:language.N	A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	1307	18-24	Sprache::N	
+Communication:laugh.V	Emotion:laugh.V	To express pleasure, mirth or derision by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat.	1355	16-25	lachen::V	
+Communication:laughter.N	Emotion:laughter.N	Laughter is a physical reaction in humans and some other species of primate, consisting typically of rhythmical, often audible contractions of the diaphragm and other parts of the respiratory system.	2958		Gelächter::N	
 Communication:letter.N	Modernity:letter.N	A text that is written to and for a specific person or set of people (and is most commonly sent to them by post).	1612	23-42	Brief::N	2261
+Communication:lie.N	Emotion:lie (falsehood).N	Intentionally false statement for the purpose of deception.	2826		Lüge::N	
+Communication:lie.V	Emotion:lie (mislead).V	To knowingly say something that is untrue.	601	16-67		
 Communication:mail.N	Modernity:mail.N	A batch of letters and parcels received via post.	167	23-4		
 Communication:newspaper.N	Modernity:newspaper.N	A publication (usually published daily or weekly and printed on cheap, low-quality paper) that contains news and other articles.	1298	23-6	Zeitung::N	
 Communication:offer.V	Business:offer.V	offer (present for acceptance or rejection) 				1720
@@ -766,15 +784,95 @@ Element:Y.N		Yttrium, the chemical element with atomic number 39 and symbol Y.
 Element:Yb.N		Ytterbium, the chemical element with atomic number 70 and symbol Yb.				
 Element:Zn.N		Zinc, the chemical element with atomic number 30 and symbol Zn.				
 Element:Zr.N		Zirconium, the chemical element with atomic number 40 and symbol Zr.				
+Emotion:afraid.A	Emotion:scared.A	Property of being scared of something or someone, having an uncontrollable emotion of anxiety.	3033			
+Emotion:amazing.A	Emotion:amazing.A	Causing great surprise or sudden wonder.	1863			
+Emotion:amusement.N	Emotion:amusement.N	A feeling caused by doing or watching something entertaining or funny.	3850			
+Emotion:anger.N	Emotion:anger.N	Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).	82	16-42		
+Emotion:angry.A	Emotion:angry.A	Irritated, in a temper, feeling or displaying anger.	1826			2064
+Emotion:anxiety.N	Emotion:anxiety.N	An unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath.	1000	16-33		
+Emotion:anxious.A	Emotion:anxious.A	To feel uneasiness of mind caused by anxiety.	3869			
+Emotion:ashamed.A	Emotion:ashamed.A	Feeling shame or guilt.	1894			
+Emotion:astonished.A	Emotion:astonished.A	Filled with the emotional impact of overwhelming surprise or shock.	1900			
+Emotion:awe.N	Emotion:awe.N	A feeling of deep respect mixed with slight fear or wonder.	3851			
+Emotion:bad or evil.A	Emotion:bad or evil.A	Not good; unfavorable; negative, or intending to harm or being/acting ethically wrong.	3764			
+Emotion:bad.A	Emotion:bad.A	Not good; unfavorable; negative.	1292	16-72	schlecht::A	
+Emotion:be angry.V	Emotion:be angry.V	Be in an angry state.	2223		sich ärgern::V	
 Emotion:be ashamed.V				16-99907		
 Emotion:be glad.V				16-99908		
+Emotion:become angry.V	Emotion:become angry.V	To turn into an angry mental state.	2215			
+Emotion:blame.N	Emotion:blame.N	Accusation for something negative or undesirable.	381	16-78		
+Emotion:blame.V	Emotion:blame (somebody).V	To hold somebody responsible for something.	2716			
+Emotion:boring.A	Emotion:boring.A	Causing boredom.	905			2065
+Emotion:comfort.N	Emotion:comfort.N	comfort (freedom from pain and/or worry)				2069
+Emotion:contempt.N	Emotion:contempt.N	A feeling of ultimate disgust and a complete lack of respect towards somebody.	3844			
+Emotion:contemptible.A	Emotion:contemptible.A	Deserving of contempt or scorn.	1			
+Emotion:courage.N	Emotion:courage.N	A state or quality of mind that enables to face danger and fear; bravery.	3049			2070
+Emotion:courageous.A	Emotion:brave.A	Having or characterized by courage.	3	16-52		2071
+Emotion:coward.N	Emotion:coward.N	A person who lacks courage.	1319			
+Emotion:cowardly.A	Emotion:cowardly.A	Not being brave or courageous; an attribute describing someone who is easily frightened or disheartened in the face of difficulty or danger.	3812			2072
+Emotion:cruel.A	Emotion:cruel.A	Indifference towards the suffering of another and even deriving a positive feeling from it.	500			
+Emotion:cry.V	Emotion:cry.V	To shed tears due to the impact of an emotion.	1839	16-37	weinen::V	
+Emotion:curious.A	Emotion:curious.A	Having a strong desire to learn about things and people around.	3633			
+Emotion:dare.V	Emotion:dare.V	To have enough courage (to do something).	1779	16-51		
+Emotion:delight.V	Emotion:delight.V	To give pleasure to; to make happy or satisfied.	1271			
+Emotion:depressed.A	Emotion:depressed.A	A mental state of despondency, unhappinness, or hopelessness.	3973			
+Emotion:depression.N	Emotion:depression.N	A state of feeling sad that can become a chronic illness.	3877			
+Emotion:disappointment.N	Emotion:disappointment.N	A feeling of sadness because something did not happen the way it was expected or did not happen at all.	3845			2078
+Emotion:emotional.A	Emotion:emotional.A	Having any strong feeling, as of joy, sorrow, or fear.	3761			
 Emotion:enthuse.V				16-9991		
-Emotion:feel.V	Perception:feel.V	To be in some emotional state.	1079	15-72		2060
-Emotion:feeling.N	Perception:feeling (emotion).N	To sense things mentally (pain, joy, etc.).	2573			
+Emotion:envy.N	Emotion:envy.N	A feeling of discontent or covetousness with regard to another's advantages, success, possessions, etc.	40	16-44		
+Emotion:evil.A	Emotion:evil.A	Intending to harm or being/acting ethically wrong.	45	16-99904	böse::A	1908
+Emotion:excited.A	Emotion:excited.A	Arousal or a feeling of enthusiasm about something.	3972			
+Emotion:excitement.N	Emotion:excitement.N	A feeling of extreme but short-term happiness.	3846			
+Emotion:fear or frighten.V	Emotion:fear or frighten.V	To be scared or to scare someone.	2109			
+Emotion:fear.N	Emotion:fear (fright).N	An emotion experienced in anticipation of some specific pain or danger.	781	16-53		2073
+Emotion:fear.V	Emotion:fear (be afraid).V	To be scared of; to have an uncontrollable emotion of anxiety about something that causes a scared reaction or frightening impression.	1419		sich fürchten::V	
+Emotion:feel.V	Perception:feel.V	To sense things mentally (pain, joy, etc.) or to be in some emotional state.	1079	15-72		2060
+Emotion:feeling.N	Perception:feeling (emotion).N	Sensing things mentally (pain, joy, etc.).	2573			2061
+Emotion:frighten.V	Perception:frighten.V	To make someone afraid or anxious.	252			
+Emotion:gentle.A	Emotion:gentle.A	Tender and amiable; of a considerate or kindly disposition.	1954		sanft::A	
+Emotion:gloomy.A	Emotion:gloomy.A	A bit sad.	1552			
+Emotion:grief.N	Emotion:grief.N	Mental suffering or pain caused by injury, loss, or despair.	1668	16-32	Kummer::N	
+Emotion:grief.V	Emotion:grieve.V	To express deep sorrow for.	1955			
+Emotion:happiness.N	Emotion:happiness.N	In philosophy, happiness translates the Greek concept of eudaimonia, and refers to the good life, or flourishing, rather than simply an emotion.	2941		Glück::N	
+Emotion:happy.A	Emotion:happy.A	Having a feeling of satisfaction, enjoyment or well-being, often arising from a positive situation or set of circumstances.	1495	16-23		2080
+Emotion:hate.N	Emotion:hate (loathing).N	A strong feeling of dislike for something or somebody.	3749			
+Emotion:hate.V	Emotion:hate.V	To dislike intensely; to feel strong hostility towards.	1607	16-41		2068
+Emotion:hope or hoping.V	Emotion:hope.V	To want something to happen or the belief in the possibility that something one wants will happen.	1092			
+Emotion:hope.N	Emotion:hope (faith).N	The belief in the possibility that something one wants will happen.	3211			
+Emotion:hope.V	Emotion:hope (something).V	To want something to happen.	3212	16-63		2075
+Emotion:impatient.A	Emotion:impatient.A	Becoming irritable in difficult situations or during long waiting times.	3885			
+Emotion:jealous.A	Emotion:jealous.A	Feeling insecure over an anticipated loss of status or affection in a human connection.	2821			
+Emotion:jealousy.N	Emotion:jealousy.N	A jealous feeling, disposition, state, or mood.	2016			
+Emotion:kind.A	Emotion:kind.A	Being nice and giving off the impression of benevolence.	3299			
+Emotion:kindness.N	Emotion:kindness.N	The quality of being caring, generous and helpful towards other people.	3468			
+Emotion:like.V	Emotion:like.V	To enjoy, be in favor/favour of.	1117		mögen::V	
+Emotion:long for.V	Emotion:long (for something).V	To have a very strong desire for something.	3473			
+Emotion:longing.N	Emotion:longing (wish).N	The strong desire for something.	2960		Lust::N	
 Emotion:look forward.V				16-99911		
+Emotion:love.N	Emotion:love (affection).N	A feeling of affection and fondness for someone.	3834			
+Emotion:love.V	Emotion:love.V	To have an intense feeling of affection and care towards another person.	923	16-27	lieben::V	2067
+Emotion:merry.A	Emotion:merry.A	In good spirits.	1976		lustig::A	
 Emotion:miss.V	Action/Technology:miss (somebody).V	To long to see somebody again.	2328			
 Emotion:mood.N				16-99905		
+Emotion:mourning.N	Emotion:mourning.N	The feeling of great sadness because someone has died.	3673			
 Emotion:move.V	Action/Technology:move (affect emotionally).V	To affect somebody emotionally.	2873		rühren::V	
+Emotion:on purpose.ADV	Emotion:on purpose.?	(Doing or feeling something) in a deliberate or controlled way.	1031	17-99901		
+Emotion:respect.N	Emotion:respect (noun).N	An attitude of admiration or esteem.	1912			
+Emotion:respect.V	Emotion:respect (somebody).V	To have respect for someone or something; to have regard for something, to observe a custom, practice, rule or right.	385	19-99941		1916
+Emotion:sad.A	Emotion:sad.A	Feeling mentally uncomfortable because something is missing or wrong.	699		traurig::A	2081
+Emotion:sadness.N	Emotion:sadness.N	A feeling of being unhappy because something is missing or wrong.	3854			
+Emotion:shame.N	Emotion:shame.N	The consciousness or awareness of dishonor, disgrace, or condemnation.	1776	16-45		
+Emotion:shy or ashamed.A	Emotion:shy or ashamed.A	The feeling of being uncomfortable with attracting attention or feeling shame or guilt.	3805			
+Emotion:shy.A	Emotion:shy.A	(For a personality) characterized by being uncomfortable with having attention drawn to them, for example when introducing oneself or when speaking in front of an audience.	487			
+Emotion:surprise.N	Emotion:surprise (feeling).N	A feeling caused by something unexpected.	3848			
+Emotion:surprise.V	Emotion:surprise (somebody).V	To make someone feel surprised by giving, telling or doing something unexpected.	3627			
+Emotion:surprised.A	Emotion:surprised.A	Feeling that something unexpected has happened.	1572	16-15		
+Emotion:triumph.N	Emotion:triumph.N	A feeling of extreme pleasure and excitement as a result of success or a victory.	3849			
+Emotion:unhappy.A	Emotion:unhappy.A	Feeling not cheerful or glad, sometimes due to a misfortune.	3974			
+Emotion:unpleasant.A	Emotion:unpleasant.A	Not to one's liking.	26			
+Emotion:want.V	Emotion:want.V	To want to do something or to wish for something to happen.	1784	16-62	wollen::V	
+Emotion:worry.V	Emotion:worry.V	To be anxious about something.	150			2076
 Family:ancestors.N	Family:ancestors.N	Person from whom a person is descended, whether on the father's or mother's side, at any number of generations.	1669	2-56		
 Family:aunt or uncle.N	Family:aunt or uncle.N	The brother or mother of someone’s father or mother.	2682			
 Family:aunt.N	Family:aunt.N	A woman with one or more siblings who have one or more children; a sister of someone's father or mother.	1272	2-52	Tante::N	345
@@ -853,6 +951,7 @@ Food:drink.V	Body:drink.V	drink 				721
 Food:fermented alcohol.N	Food:alcohol (fermented drink).N	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	404	5-94		
 Food:Ficus carica.N	Food:fig.N	The fruit of the fig tree, pear-shaped and containing many small seeds.	322	5-75		
 Food:flour.N	Food:flour.N	Ground or milled grain or cereal.	1594	5-55		3410
+Food:Glycine max.N	Food:soya bean.N	The edible seed of the soybean plant which contains a lot of protein.	2028			
 Food:griddle.N		A metal or stone flat plate on which food is fried or baked.		7-99903		
 Food:main meal.N	Food:dinner (main meal).N	The main meal of the day, eaten in the middle of the day or in the evening	3829			
 Food:Malus domestica.N	Agriculture/Plant:apple.N	The popular, crisp, round fruit of the apple tree, usually with red, yellow or green skin, light-coloured flesh and pips inside.	1320	8-99905	Apfel::N	
@@ -1195,7 +1294,9 @@ Plant:Colocasia esculenta.N	Agriculture/Plant:taro.N	Colocasia esculenta, raised
 Plant:coniferous.N		The type of tree that bears cones.		8-99914		
 Plant:Ficus carica.N	Plant:fig.N	fig (tree/fruit of genus Ficus)		5-99901		1034
 Plant:Fraxinus.N		The ash tree, a tree that has compound leaves and a tough, flexible wood.		8-99906		
+Plant:Glycine max.N	Agriculture/Plant:soya.N	An annual plant native to East Asia that is widely cultivated for its fruit.	2027			1095
 Plant:Gossypium.N	Plant:cotton.N	Plant of genus Gossypium whose fibers are used for making cloth.				1055
+Plant:Helianthus annuus.N	Agriculture/Plant:sunflower.N	Annual plant with a large yellow flowering head of the genus Helianthus and the family of the Asteraceae.	1956			1053
 Plant:leaf spine.N	Agriculture/Plant:leaf spine.N	A hard, rigid extension of leaves with sharp, stiff ends.	2803			
 Plant:leaf.N	Agriculture/Plant:leaf.N	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	628	8-56	Blatt::N	
 Plant:Lupin.N		Any plant of the genus Lupin; bearing erect spikes of usually purplish-blue flowers.		8-99927		
@@ -1227,8 +1328,10 @@ Plant:vine.N	Agriculture/Plant:vine.N	A climbing plant which grows up or over th
 Possession:abandon.V	Motion:abandon.V	To give up control of, to surrender something.	1097		verlassen::V	
 Possession:beg.V	Language:beg.V	To make a living by asking people for money or food.	3534			
 Possession:exchange.V	Action/Technology:exchange.V	To hand out one thing while receiving another thing or to replace one thing with another.	2509	13-99908		
+Possession:generous.A	Emotion:generous.A	Willing to give more than expected, especially money.	3632			
 Possession:gift.N	Action/Technology:gift.N	A gift or a present is an item given to someone without the expectation of payment or return.	2982	11-99903	Geschenk::N	
 Possession:gratis.A	Possession:gratis (of charge).?	Free of charge, without cost.	130	11-99901		
+Possession:greedy.A	Emotion:greedy.A	Excessively desirous of money, wealth or possessions.	2018	16-83		
 Possession:possessions.N	Possession:possessions.N	The totality of things that someone owns; their property or belongings.	3860	11-99904		
 Possession:receive.V	Business:receive.V	To get something given into one’s possession.		11-99907		1737
 Possession:rob.V	Action/Technology:rob (verb).V	To illegally take something from, especially using force or violence.	2073			
@@ -1542,6 +1645,8 @@ Transit:wagon.N	Motion:wagon.N	A wheeled vehicle, generally drawn by horse power
 Transit:wheel.N	Motion:wheel.N	A circular object that spins around a central axe thereby allowing relatively low-friction movement.	710	10-76		3156
 Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582			
 Value:be worth.V		To be worth of something.		11-99906		
+Value:good.A	Emotion:good.A	Having desired or positive qualities.	1035	16-71	gut::A	1905
+Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			2023
 	Action/Technology:accustom.V	Get used to something.	1118			
 	Action/Technology:against.A	In opposite direction to.	2469			
 	Action/Technology:amuse oneself (have fun).V	To do something joyful.	3239			
@@ -1961,14 +2066,12 @@ Value:be worth.V		To be worth of something.		11-99906
 	Agriculture/Plant:shea nut tree.N	Tree of the Sapotaceae family,indigenous to Africa, commonly known as shea tree. The shea fruits are oil-rich seed from which shea butter is extracted.	454			
 	Agriculture/Plant:shrub.N	A woody perennial plant, smaller than a tree, with several major branches arising from near the base of the main stem.	751			
 	Agriculture/Plant:smoke (inhale).V	To inhale smoke from for example a cigarette or a cigar.	1689	8-69		
-	Agriculture/Plant:soya.N	An annual plant native to East Asia that is widely cultivated for its fruit.	2027			
 	Agriculture/Plant:spade.N	Tool having a flat and sharp metal tip and a wooden handle used to break, dig and move the earth.	1176	8-23	Spaten::N	
 	Agriculture/Plant:spike.N	The fruiting body of a grain plant.	1249			
 	Agriculture/Plant:spruce.N	Any of various large coniferous evergreen trees from the genus Picea, found in northern temperate and boreal regions.	545			
 	Agriculture/Plant:strawberry.N	Soft, red fruit with yellow seeds on its surface.	3138			
 	Agriculture/Plant:sugar cane.N	A tropical grass of the genus Saccharum having stout, fibrous, jointed stalks, the sap of which is a source of sugar.	146	8-941		
 	Agriculture/Plant:sugar palm.N	Common name for several palm species used to produce sugar, especially Arenga pinnata.	3029			
-	Agriculture/Plant:sunflower.N	Annual plant with a large yellow flowering head of the genus Helianthus and the family of the Asteraceae.	1956			
 	Agriculture/Plant:sweet olive flower.N	The flower of teh Osmanthus Fragrans.	2748			
 	Agriculture/Plant:sweet olive.N	A species native to Asia from the Himalayas through southern China (Guizhou, Sichuan, Yunnan) to Taiwan and southern Japan and southeast Asia as far south as Cambodia and Thailand.	2360			
 	Agriculture/Plant:sweet potato.N	A dicotyledonous plant of the family Convolvulaceae, having an edible tuberous root.	159	8-91		
@@ -2993,61 +3096,24 @@ Value:be worth.V		To be worth of something.		11-99906
 	Direction:upside-down.A	upside-down, inverted 				2924
 	Direction:village.N	village				2942
 	Direction:west.N	west				2916
-	Emotion:amazing.A	Causing great surprise or sudden wonder.	1863			
-	Emotion:amusement.N	A feeling caused by doing or watching something entertaining or funny.	3850			
-	Emotion:anger.N	Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).	82	16-42		
-	Emotion:angry.A	angry 				2064
-	Emotion:angry.A	Irritated, in a temper, feeling or displaying anger.	1826			
-	Emotion:anxiety.N	An unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath.	1000	16-33		
-	Emotion:anxious.A	To feel uneasiness of mind caused by anxiety.	3869			
-	Emotion:ashamed.A	Feeling shame or guilt.	1894			
-	Emotion:astonished.A	Filled with the emotional impact of overwhelming surprise or shock.	1900			
-	Emotion:awe.N	A feeling of deep respect mixed with slight fear or wonder.	3851			
 	Emotion:bad luck.N	An undesirable event such as an accident.	56	16-19	Unglück::N	
-	Emotion:bad or evil.A	Not good; unfavorable; negative, or intending to harm or being/acting ethically wrong.	3764			
-	Emotion:bad.A	Not good; unfavorable; negative.	1292	16-72	schlecht::A	
-	Emotion:be angry.V	Be in an angry state.	2223		sich ärgern::V	
 	Emotion:beautiful.A	Having nice or positive properties (specifically with regard to the senses, and most commonly, that of sight).	1427	16-81	schön::A	
-	Emotion:become angry.V	To turn into an angry mental state.	2215			
-	Emotion:blame (somebody).V	To hold somebody responsible for something.	2716			
-	Emotion:blame.N	Accusation for something negative or undesirable.	381	16-78		
-	Emotion:boring.A	boring, tedious 				2065
-	Emotion:boring.A	Causing boredom.	905			
 	Emotion:bother (harass).V	To annoy persistently.	2869		belästigen::V	
-	Emotion:brave.A	brave 				2071
-	Emotion:brave.A	Having or characterized by courage.	3	16-52		
 	Emotion:calm.A	calm, tranquil 				2062
 	Emotion:care.N	care, concern (about someone / something)				2066
 	Emotion:carp.V	To complain or find fault in a petty or disagreeable way.	2193		schimpfen::V	
 	Emotion:choose.V	To make a choice from a number of alternatives.	1750	16-622	wählen::V	
-	Emotion:comfort.N	comfort (freedom from pain and/or worry)				2069
 	Emotion:commend.V	To express approval or admiration.	3455		loben::V	
 	Emotion:concentration.N	The ability to direct all the attention to one thing or activity.	3852			
 	Emotion:confusion.N	A feeling of uncertainty about what to do or what is happening.	3853			
-	Emotion:contempt.N	A feeling of ultimate disgust and a complete lack of respect towards somebody.	3844			
-	Emotion:contemptible.A	Deserving of contempt or scorn.	1			
 	Emotion:correct (right).A	To be in accordance with expectations.	1725	16-73	richtig::A	
-	Emotion:courage.N	A state or quality of mind that enables to face danger and fear; bravery.	3049			
-	Emotion:courage.N	courage				2070
-	Emotion:coward.N	A person who lacks courage.	1319			
-	Emotion:cowardly.A	cowardly 				2072
-	Emotion:cowardly.A	Not being brave or courageous; an attribute describing someone who is easily frightened or disheartened in the face of difficulty or danger.	3812			
-	Emotion:cruel.A	Indifference towards the suffering of another and even deriving a positive feeling from it.	500			
-	Emotion:cry.V	To shed tears due to the impact of an emotion.	1839	16-37	weinen::V	
 	Emotion:cunning person.N	A smart and witty person.	2079			
-	Emotion:curious.A	Having a strong desire to learn about things and people around.	3633			
 	Emotion:danger.N	A situation that constitutes an immediate risk for injury on a person or property.	1810	16-54		
 	Emotion:dangerous.A	Capable of injuring or harming someone.	3466			
-	Emotion:dare.V	To have enough courage (to do something).	1779	16-51		
 	Emotion:dear.A	Beloved or loved.	2470		lieb::A	
 	Emotion:deceit.N	The act or practice of deceiving.	13	16-68		
-	Emotion:delight.V	To give pleasure to; to make happy or satisfied.	1271			
-	Emotion:depressed.A	A mental state of despondency, unhappinness, or hopelessness.	3973			
-	Emotion:depression.N	A state of feeling sad that can become a chronic illness.	3877			
 	Emotion:desire.V	To want to do something, to wish for something to happen, or to have affection for someone.	2117			
 	Emotion:diligent.A	Being busy-working.	2077		fleißig::A	
-	Emotion:disappointment.N	A feeling of sadness because something did not happen the way it was expected or did not happen at all.	3845			
-	Emotion:disappointment.N	disappointment				2078
 	Emotion:discipline.N	The ability and training of self-control and diligence, usually in abiding by a set of rules.	3962			
 	Emotion:disgust.N	The feeling that one gets when seeing something rotten.	2465			
 	Emotion:disgusting.A	Creating disgust in somebody.	2507			
@@ -3055,81 +3121,27 @@ Value:be worth.V		To be worth of something.		11-99906
 	Emotion:disturb.V	Interfere with somebody.	2883		stören::V	
 	Emotion:dreadful.A	Causing dread; very bad.	528			
 	Emotion:embrace.V	To squeeze someone in one's arms.	928	16-3		
-	Emotion:emotion.N	emotion				2061
-	Emotion:emotional.A	Having any strong feeling, as of joy, sorrow, or fear.	3761			
-	Emotion:envy.N	A feeling of discontent or covetousness with regard to another's advantages, success, possessions, etc.	40	16-44		
-	Emotion:evil.A	Intending to harm or being/acting ethically wrong.	45	16-99904	böse::A	
-	Emotion:exact.A	Without diversion from the desired or agreed specification; neither exceeding nor failling short in any way.	1466			
-	Emotion:excited.A	Arousal or a feeling of enthusiasm about something.	3972			
-	Emotion:excitement.N	A feeling of extreme but short-term happiness.	3846			
-	Emotion:expect.V	expect, anticipate (believe that X will come/happen) 				2074
 	Emotion:faithful.A	Steadfast in affection.	100	16-65		
-	Emotion:false.A	Not concurring with a given set of facts; fake; unreal.	3069			
-	Emotion:familiar.A	Knowing somebody or something well.	3005		bekannt::A	
 	Emotion:fault.N	Responsibility for a wrong act done deliberately or a good act omitted deliberately.	134	16-76	Schuld::N	
-	Emotion:fear (be afraid).V	To be scared of; to have an uncontrollable emotion of anxiety about something that causes a scared reaction or frightening impression.	1419		sich fürchten::V	
-	Emotion:fear (fright).N	An emotion experienced in anticipation of some specific pain or danger.	781	16-53		
-	Emotion:fear or frighten.V	To be scared or to scare someone.	2109			
-	Emotion:fear.V	fear (be afraid of) 				2073
-	Emotion:flirt.V	To talk or behave amorously, without serious intentions.	494			
-	Emotion:forgive.V	To stop blaming someone for an offense.	1528	16-69		
-	Emotion:generous.A	Willing to give more than expected, especially money.	3632			
-	Emotion:gentle.A	Tender and amiable; of a considerate or kindly disposition.	1954		sanft::A	
-	Emotion:gloomy.A	A bit sad.	1552			
 	Emotion:good luck.N	Something positive that happens to someone by chance.	720	16-18		
-	Emotion:good.A	Having desired or positive qualities.	1035	16-71	gut::A	
-	Emotion:greedy.A	Excessively desirous of money, wealth or possessions.	2018	16-83		
-	Emotion:grief.N	Mental suffering or pain caused by injury, loss, or despair.	1668	16-32	Kummer::N	
-	Emotion:grieve.V	To express deep sorrow for.	1955			
 	Emotion:groan.V	To utter a low, guttural sound of frustration.	716	16-39	stöhnen::V	
 	Emotion:handsome.A	Used to describe a person that is attractive and pleasing in appearance.	3814			
-	Emotion:happiness.N	In philosophy, happiness translates the Greek concept of eudaimonia, and refers to the good life, or flourishing, rather than simply an emotion.	2941		Glück::N	
-	Emotion:happy.A	happy 				2080
-	Emotion:happy.A	Having a feeling of satisfaction, enjoyment or well-being, often arising from a positive situation or set of circumstances.	1495	16-23		
-	Emotion:hate (loathing).N	A strong feeling of dislike for something or somebody.	3749			
-	Emotion:hate.V	hate 				2068
-	Emotion:hate.V	To dislike intensely; to feel strong hostility towards.	1607	16-41		
 	Emotion:honest.A	Not disposed to cheat or defraud.	1120			
-	Emotion:hope (faith).N	The belief in the possibility that something one wants will happen.	3211			
-	Emotion:hope (something).V	To want something to happen.	3212	16-63		
-	Emotion:hope.V	hope 				2075
-	Emotion:hope.V	To want something to happen or the belief in the possibility that something one wants will happen.	1092			
 	Emotion:hostility.N	An aversion, feeling of rivalry, or aggressiveness experienced by an individual or group towards another.	3955			
-	Emotion:impatient.A	Becoming irritable in difficult situations or during long waiting times.	3885			
-	Emotion:important.A	Having relevant and crucial value.	1285			
 	Emotion:inclination.N	A likelihood of behaving in a particular way or going in a particular direction.	918			
 	Emotion:insolent.A	Unrestrained by convention or propriety.	91			
 	Emotion:interest (feeling).N	A desire to learn about something or somebody.	3847			
-	Emotion:jealous.A	Feeling insecure over an anticipated loss of status or affection in a human connection.	2821			
-	Emotion:jealousy.N	A jealous feeling, disposition, state, or mood.	2016			
 	Emotion:joy.N	Mental happiness.	2524		Freude::N	
 	Emotion:keen.A	Full of or characterized by enthusiasm.	39			
 	Emotion:kind or polite.A	Being nice and giving off the impression of benevolence or keeping to a given society's standards of social manners in order to show respect.	583			
-	Emotion:kind.A	Being nice and giving off the impression of benevolence.	3299			
-	Emotion:kindness.N	The quality of being caring, generous and helpful towards other people.	3468			
-	Emotion:kiss (noun).N	The action of touching with the lips to express love or affection.	3454			
-	Emotion:kiss.V	To touch with the lips to express love or affection.	578	16-29	küssen::V	
-	Emotion:laugh.V	To express pleasure, mirth or derision by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat.	1355	16-25	lachen::V	
-	Emotion:laughter.N	Laughter is a physical reaction in humans and some other species of primate, consisting typically of rhythmical, often audible contractions of the diaphragm and other parts of the respiratory system.	2958		Gelächter::N	
-	Emotion:lie (falsehood).N	Intentionally false statement for the purpose of deception.	2826		Lüge::N	
-	Emotion:lie (mislead).V	To knowingly say something that is untrue.	601	16-67		
-	Emotion:like.V	To enjoy, be in favor/favour of.	1117		mögen::V	
 	Emotion:location of emotions.N	The place where emotions are thought to be stored.	2198			
-	Emotion:long (for something).V	To have a very strong desire for something.	3473			
-	Emotion:longing (wish).N	The strong desire for something.	2960		Lust::N	
-	Emotion:love (affection).N	A feeling of affection and fondness for someone.	3834			
-	Emotion:love.V	love 				2067
-	Emotion:love.V	To have an intense feeling of affection and care towards another person.	923	16-27	lieben::V	
 	Emotion:lovely.A	Beautiful especially in a pleasing or charming way.	2233			
 	Emotion:make angry (annoy).V	To cause somebody to be annoyed.	2892		ärgern::V	
-	Emotion:merry.A	In good spirits.	1976		lustig::A	
 	Emotion:mighty or powerful or strong.A	Holding much (political, social, ...) power or being done using a huge amount of energy or having great physical strength.	3188			
 	Emotion:misery.N	The state of being poor or emotionally suffering.	2553			
 	Emotion:mistake.N	A mistake, an oversight, a slight; usually apologetic, referring to one's own failures.	1293	16-77	Fehler::N	
-	Emotion:mourning.N	The feeling of great sadness because someone has died.	3673			
 	Emotion:nervous.A	A mental state of nervousness or agitation. Also, being easily excited or irritated.	3975			
 	Emotion:obligation (duty).N	Either a moral or legal responsibility to accomplish a certain task.	3471			
-	Emotion:on purpose.?	(Doing or feeling something) in a deliberate or controlled way.	1031	17-99901		
 	Emotion:pain.N	An unpleasant, usually localised physical sensation that is often the result of an injury, disease or other ailment.	1783	16-31	Schmerz::N	
 	Emotion:painful or sick.A	To cause pain or to be ill.	2103			
 	Emotion:passionate.A	Characterized by intense emotion.	1880			
@@ -3146,42 +3158,21 @@ Value:be worth.V		To be worth of something.		11-99906
 	Emotion:regret.V	regret 				2079
 	Emotion:regret.V	To wish that a past event had not happened.	1875	16-34		
 	Emotion:rejoice.V	To feel joyful; be delighted.	2192			
-	Emotion:respect (noun).N	An attitude of admiration or esteem.	1912			
-	Emotion:respect (somebody).V	To have respect for someone or something; to have regard for something, to observe a custom, practice, rule or right.	385	19-99941		
 	Emotion:revenge.V	To take revenge for a perceived wrong.	495			
 	Emotion:riddle.N	A riddle is a statement or question or phrase having a double or veiled meaning, put forth as a puzzle to be solved.	2970		Rätsel::N	
 	Emotion:rude.A	Bad mannered.	1412			
-	Emotion:sad.A	Feeling mentally uncomfortable because something is missing or wrong.	699		traurig::A	
-	Emotion:sad.A	sad, unhappy, melancholy 				2081
-	Emotion:sadness.N	A feeling of being unhappy because something is missing or wrong.	3854			
 	Emotion:safe.A	Having a feeling of security or protection from harm.	3762			
 	Emotion:satisfaction.N	satisfaction				2077
-	Emotion:scared.A	Property of being scared of something or someone, having an uncontrollable emotion of anxiety.	3033			
-	Emotion:shame.N	The consciousness or awareness of dishonor, disgrace, or condemnation.	1776	16-45		
-	Emotion:shy or ashamed.A	The feeling of being uncomfortable with attracting attention or feeling shame or guilt.	3805			
-	Emotion:shy.A	(For a personality) characterized by being uncomfortable with having attention drawn to them, for example when introducing oneself or when speaking in front of an audience.	487			
 	Emotion:smile.V	To make an upwards movement of the sides of the mouth, that indicates happiness or satisfaction.	1451	16-251		
 	Emotion:sorrowful.A	Filled with grief, sorrow, woe.	145			
 	Emotion:splendor.N	The aesthetic and moral quality of being splendid, magnificent, or grand.	3964			
 	Emotion:stubborn.A	Unyielding; unlikely to change one's mind and determined not to be influenced by someone else's opinion.	3634			
-	Emotion:surprise (feeling).N	A feeling caused by something unexpected.	3848			
-	Emotion:surprise (somebody).V	To make someone feel surprised by giving, telling or doing something unexpected.	3627			
-	Emotion:surprised.A	Feeling that something unexpected has happened.	1572	16-15		
 	Emotion:trauma.N	A physical wound and, in particular, a psychological state of pain, ensued from a harmful experience of set of events.	3965			
-	Emotion:triumph.N	A feeling of extreme pleasure and excitement as a result of success or a victory.	3849			
-	Emotion:true.A	Concurring with a given set of facts.	1657	16-66	wahr::A	
-	Emotion:truth.N	That which conforms to reality.	1638		Wahrheit::N	
 	Emotion:ugly.A	Not good looking.	1548	16-82		
-	Emotion:unhappy.A	Feeling not cheerful or glad, sometimes due to a misfortune.	3974			
-	Emotion:unpleasant.A	Not to one's liking.	26			
-	Emotion:untruth.N	A false statement made with the intention to deceive.	475			
 	Emotion:upset.A	upset, agitated 				2063
 	Emotion:urge (someone).V	To encourage someone to do something.	2881		antreiben::V	
-	Emotion:violence.N	Violence is defined by the World Health Organization as *the intentional use of physical force or power, threatened or actual, against oneself, another person, or against a group or community, which either results in or has a high likelihood of resulting in injury, death, psychological harm, maldevelopment, or deprivation*, although the group acknowledges that the inclusion of *the use of power* in its definition expands on the conventional understanding of the word.	2976		Gewalt::N	
 	Emotion:vulgar.A	Rude and likely to offend, using allusions on the sexual level.	1080			
-	Emotion:want.V	To want to do something or to wish for something to happen.	1784	16-62	wollen::V	
-	Emotion:worry.V	To be anxious about something.	150			2076
-	Emotion:wrong.A	Not correct.	1390	16-74		
+	Emotion:wrong.A	Not correct.	1390	16-74		1949
 	Event:accident.N	accident (unintentional and unexpected event)				3903
 	Event:act.N	act, deed				3920
 	Event:activity.N	activity, bustle, ado				3921
@@ -3524,7 +3515,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Food:sober.A	Not under the influence of alcohol or other drugs.	69			
 	Food:soup.N	A cooked, liquid dish (made from meat or vegetables that are mixed with broth in a pot) that is often sold in tins.	1547	5-64	Suppe::N	
 	Food:soup.N	soup				3462
-	Food:soya bean.N	The edible seed of the soybean plant which contains a lot of protein.	2028			
 	Food:soya sauce.N	Sauce made from soybeans (soya beans), roasted grain, water and salt and is used as flavoring mainly in Asian cuisine.	1968	5-99903		
 	Food:spice.N	spice, seasoning				3465
 	Food:spicy.A	Of, pertaining to, or containing spice; or spicy flavour: Provoking a burning sensation due to the presence of chillies or similar hot spices.	544			
@@ -4065,7 +4055,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Mind:guess.V	guess, conjecture 				2048
 	Mind:idea.N	idea, concept (thought-bundle)				2055
 	Mind:imagine.V	imagine 				2056
-	Mind:important.A	important 				2023
 	Mind:insane.A	insane, crazy 				2009
 	Mind:intelligent.A	intelligent 				2005
 	Mind:intend.V	intend, mean to, do deliberately, have as a purpose 				2033
@@ -4122,7 +4111,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Modernity:election.N	A process by which members of a population vote to choose a person to hold public office.	240	23-38		
 	Modernity:electricity.N	A general term used for all phenomena caused by electric charge whether static or in motion.	59	23-17		
 	Modernity:engine.N	Machine that converts energy into mechanical energy.	2622			
-	Modernity:fairy tale.N	A fairy tale is a type of short story that typically features folkloric fantasy characters, such as dwarves, dragons, elves, fairies, giants, gnomes, goblins, griffins, mermaids, talking animals, trolls, unicorns, or witches, and usually magic or enchantments.	2937	18-99901	Märchen::N	
 	Modernity:faucet.N	A device applied to the end of a pipe in order to interrupt and regulate the flow of a liquid or gas.	1488	23-5		
 	Modernity:flag.N	A squared piece of cloth that usually is attached to a stick and is used to fulfil various functions of representation.	2623			1490
 	Modernity:garbage.N	Unwanted or undesired material, usually discarded.	909			
@@ -4580,7 +4568,6 @@ Value:be worth.V		To be worth of something.		11-99906
 	Perception:flavor.N	Flavor is the sensory impression of food or other substance, and is determined primarily by the chemical senses of taste and smell.	2938			
 	Perception:flavor.N	flavor, taste				870
 	Perception:fragrant.A	Sweet-smelling; having a pleasant (usually strong) scent or fragrance.	376	15-25		
-	Perception:frighten.V	To make someone afraid or anxious.	252			
 	Perception:frost.N	A deposit of interlocking ice crystals formed by direct sublimation on objects. (Source: MGH)	2034		Frost::N	
 	Perception:get wet.V	To become wet (for example, by standing in the rain).	2324			
 	Perception:glaring.A	Shining intensely and brightly.	2228			
@@ -4758,11 +4745,9 @@ Value:be worth.V		To be worth of something.		11-99906
 	Plant:safflower.N	safflower (Carthamus tinctorius)				1058
 	Plant:seed.N	seed				1028
 	Plant:sesame.N	sesame (plant/seed of genus Sesamum)				1059
-	Plant:soya.N	soya, soybean (plant/seed of sp. Glycine max)				1095
 	Plant:spinach.N	spinach (plant/leaves of sp. Spinacia oleracea)				1096
 	Plant:sprout.N	sprout (young shoot of plant)				1029
 	Plant:squash.N	squash, melon (plant/fruit of genus Cucurbita grown for edible fruit)				1097
-	Plant:sunflower.N	sunflower				1053
 	Plant:tobacco.N	tobacco (plant/leaves of sp. Nicotiana tabacum)				1072
 	Plant:tomato.N	tomato (plant/berry of genus Lycopersicon)				1098
 	Plant:tree.N	tree				1001
@@ -5576,14 +5561,11 @@ Value:be worth.V		To be worth of something.		11-99906
 	Value:dislike.V	dislike 				1918
 	Value:distinguish.V	distinguish, differentiate, tell one from another 				1983
 	Value:doubt.V	doubt 				1926
-	Value:evil.A	evil 				1908
 	Value:exact.A	exact, precise 				1941
 	Value:example.N	example, sample				1972
 	Value:experiment.N	experiment				1929
 	Value:fair.A	fair, just, equitable 				1910
-	Value:false.A	false, untrue 				1945
 	Value:famous.A	famous 				1960
-	Value:good.A	good 				1905
 	Value:imaginary.N	imaginary				1953
 	Value:judge.V	judge (compare something to criteria), form an opinion about 				1902
 	Value:kind.N	kind, sort, type, variety (of...)				1971
@@ -5597,16 +5579,13 @@ Value:be worth.V		To be worth of something.		11-99906
 	Value:proof.N	proof, evidence				1928
 	Value:real.A	real, actual 				1951
 	Value:recognize.V	recognize 				1981
-	Value:respect.V	respect, venerate, esteem 				1916
 	Value:right.A	right, correct 				1947
 	Value:seek.V	seek, search (for), look for 				1980
 	Value:simple.A	simple 				1935
 	Value:strange.A	strange, weird, unusual, peculiar 				1965
 	Value:suitable.A	suitable, proper, fit(ting), appropriate 				1909
 	Value:test.V	test, check 				1927
-	Value:true.A	true 				1943
 	Value:virtuous.N	virtuous				1907
-	Value:wrong.A	wrong, incorrect 				1949
 		(superlative marker)		24-99911		
 		A bag made of skin for containing water or wine.		9-9992		
 		A Brazilian person.		19-99913		
