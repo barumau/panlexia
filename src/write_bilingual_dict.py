@@ -7,7 +7,14 @@ import helpers
 source_language_dict = 'dict/P/pandunia.tsv'
 target_language_dict = 'dict/F/fra.tsv'
 
-def write_dictionary_for_one_language():
+def make_bilingual_entry(source_row, target_row):
+    word_class = source_row["id"].split('.')[1].lower()
+    # Makes bilingual entry in simple Markdown format.
+    # The format is: **source_word** *PoS* target_word
+    entry = '**' + source_row["word"] + '**' + " *" + word_class + '* ' + target_row["word"]
+    return entry
+
+def write_dictionary_for_one_pair():
     """Iterate through the source language and find matching ids in the target language."""
 
     # Open monolingual source language dictionary.
@@ -24,7 +31,8 @@ def write_dictionary_for_one_language():
             break
         if source_row["id"] == target_row["id"]:
             # TODO: Print to file.
-            print(source_row["word"], target_row["word"])
+            entry = make_bilingual_entry(source_row, target_row)
+            print(entry)
             # TODO: Handle synonyms better.
             # Advance only target row in case of synonyms.
             target_row = next(target_dict, None)
@@ -35,4 +43,4 @@ def write_dictionary_for_one_language():
             # The source dictionary is ahead of the target dictionary.
             target_row = next(target_dict, None)
 
-write_dictionary_for_one_language()
+write_dictionary_for_one_pair()
