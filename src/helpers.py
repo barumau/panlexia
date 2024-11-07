@@ -49,3 +49,16 @@ class simple_file_reader:
 
     def readline(self):
         return self.file.readline()
+
+class simple_file_writer:
+    def __init__(self, filename):
+        try:
+            self.file = open(filename, 'w')
+        except OSError:
+            print("Error in opening file", filename)
+
+    def __del__(self):
+        self.file.close()
+
+    def write(self, text_string):
+        return self.file.write(text_string)

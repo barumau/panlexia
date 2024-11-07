@@ -7,7 +7,7 @@ This program takes two arguments:
 Example command for running this program:
     python3 src/write_bilingual_dict.py eng fra
 It will create a bilingual English to French dictionary by the name eng-fra.md
-in the Markdown format into the output directory.
+in the Markdown format into the generated/ directory.
 
 CC-BY 2024 Panlexia (https://github.com/barumau/panlexia)
 """
@@ -51,7 +51,7 @@ def format_and_write(source_lang, target_lang, dict):
     """Sorts the dictionary alphabetically and writes it to file in Markdown format."""
     sorted_dict = sorted(dict)
 
-    filename = "output/" + source_lang + "-" + target_lang + ".md"
+    filename = "generated/" + source_lang + "-" + target_lang + ".md"
     file = helpers.simple_file_writer(filename)
 
     previous_initial = ""
@@ -70,6 +70,8 @@ def format_and_write(source_lang, target_lang, dict):
         file.write(entry + "\n")
         # Uncomment the following line if you want to print the entries to the screen.
         #print(entry)
+
+    file.write("\n\"[Panlexia](https://github.com/barumau/panlexia)\" by Risto Kupsala et al. is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)")
     print(f"Created {filename} with {len(sorted_dict)} entry terms.")
 
 def get_dictionary_filename(lang_code):
@@ -78,6 +80,11 @@ def get_dictionary_filename(lang_code):
 
 source_lang = sys.argv[1]
 target_lang = sys.argv[2]
+
+if source_lang == target_lang:
+    print("The source and target languages are the same:", source_lang)
+    sys.exit
+
 source_language_dict = get_dictionary_filename(source_lang)
 target_language_dict = get_dictionary_filename(target_lang)
 
