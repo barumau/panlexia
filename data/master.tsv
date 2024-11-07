@@ -955,14 +955,17 @@ Food:Glycine max.N	Food:soya bean.N	The edible seed of the soybean plant which c
 Food:griddle.N		A metal or stone flat plate on which food is fried or baked.		7-99903		
 Food:main meal.N	Food:dinner (main meal).N	The main meal of the day, eaten in the middle of the day or in the evening	3829			
 Food:Malus domestica.N	Agriculture/Plant:apple.N	The popular, crisp, round fruit of the apple tree, usually with red, yellow or green skin, light-coloured flesh and pips inside.	1320	8-99905	Apfel::N	
+Food:Metroxylon sagu.N	Food:sago.N	Starch extracted from the spongy centre, or pith, of various tropical palm stems, especially Metroxylon sagu.	2270			
 Food:Musa acuminata.N	Agriculture/Plant:banana.N	The fruit of the banana tree.	868	8-84		
 Food:Musa balbisiana.N	Agriculture/Plant:plantain.N	A kind of banana that is normally cooked and not eaten raw.	399			
+Food:NaCl.N	Food:salt.N	A condiment (NaCl - Sodium Chloride) used to add to or enhance the flavour of food (commonly with pepper).	1274	5-81	Salz::N	3466
 Food:noodle.N	Food:noodle.N	A string or strip of pasta, especially as used in Chinese and Italian cookery.	973			
 Food:Prunus armeniaca.N	Food:apricot.N	A fruit of orange color with a fuzzy peel and a black seed inside, similar to a peach or plum of a tree from the family Prunus armeniaca.	3730			
 Food:salad.N	Food:salad.N	A food made primarily of a mixture of raw or cold ingredients, typically vegetables, usually served with a dressing such as vinegar or mayonnaise.				3460
 Food:sandwich.N	Food:sandwich.N	Foodstuff where pieces of bread serve as the wrapper of some other food.				3461
 Food:sauce.N	Food:sauce.N	A liquid food accompanying a dish.	132			
 Food:sausage.N	Food:sausage.N	A length of intestine, stuffed with ground (organ) meat, and other ingredients. Instead of intestines, a different kind of wrapper can be used.	1874	5-63		3435
+Food:soup.N	Food:soup.N	A cooked, liquid dish (made from meat or vegetables that are mixed with broth in a pot) that is often sold in tins.	1547	5-64	Suppe::N	3462
 Food:supper.N	Food:supper.N	The last meal of the evening.		5-45		3489
 Food:tea.N	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.	1373	23-9	Tee::N	
 Form:bend (sth).V	Action/Technology:bend (something).V	To carry out a movement to turn something into a curved shape.	2224		biegen::V	
@@ -1274,10 +1277,14 @@ People:young man.N	Family:young man.N	A male juvenile between the onset of puber
 People:young woman.N	Family:young woman.N	A female juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.	77	2-261		
 Perception:feel.V	Action/Technology:feel (tactually).V	To sense something by touching its surface.	2559		fühlen::V	880
 Perception:feeling sense.N	Perception:feeling (haptic sense).N	The sense that enables to perceive surfaces of things.	2521			
+Perception:hear or listen.V	Perception:hear or listen.V	To perceive sound with the ear, with or without paying attention to it.	3862		vernehmen::V	
+Perception:hear.V	Perception:hear.V	To perceive sound with the ear, without necessarily paying attention to it.	1408	15-41	hören::V	861
 Perception:touch.V	Perception:touch.V	To put one's hand on something/someone so that one can feel them. To be in physical contact with.	1892	15-71	berühren::V	750
 Plant:Adesmia campestris.N		The mamuelchoique, a kind of shrub of species Adesmia campestris.		8-99929		
 Plant:Aglaia odorata.N		A shrub or small tree in the mahogany family, from south China and Indo-China, grown ornamentally for the handsome leaves and fragrant flowers, which are tiny, round, and yellow; clusters of them are used for leis.		8-99912		
 Plant:Ananas comosus.N	Agriculture/Plant:pineapple.N	A tropical plant with edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.	2440	8-99939		
+Plant:Annona montana.N	Agriculture/Plant:mountain soursop (annona montana).N	Type of tree found in the Amazon	3936			
+Plant:Annona squamosa.N		A West Indian tree that bears edible fruit.				
 Plant:Beta vulgaris saccharifera.N		The sugar beet.		8-99947		
 Plant:Betula.N	Agriculture/Plant:birch.N	A tree of the genus Betula, with small leaves and a trunk that is white with darker blotches.	1855	8-63	Birke::N	
 Plant:bran.N	Agriculture/Plant:bran.N	The hard outer layers of cereal grain. It consists of the combined aleurone and pericarp.	2362			
@@ -1292,6 +1299,7 @@ Plant:Ceiba pentandra.N		A tree of the tropical Americas and west-central Africa
 Plant:Citrus sinensis.N	Plant:orange.N	Ttree of the species Citrus sinensis.		8-99936		1037
 Plant:Colocasia esculenta.N	Agriculture/Plant:taro.N	Colocasia esculenta, raised as a food primarily for its corm, which distantly resembles potato.	351	8-99949		
 Plant:coniferous.N		The type of tree that bears cones.		8-99914		
+Plant:Cucumis melo.N	Agriculture/Plant:melon.N	A fruit of any of the species from the family Cucurbitaceae that has relatively hard inedible shells and plenty of sweet flesh. The fruits may vary in size but is usually not smaller than one decimeter in diameter.	507	8-99932		
 Plant:Ficus carica.N	Plant:fig.N	fig (tree/fruit of genus Ficus)		5-99901		1034
 Plant:Fraxinus.N		The ash tree, a tree that has compound leaves and a tough, flexible wood.		8-99906		
 Plant:Glycine max.N	Agriculture/Plant:soya.N	An annual plant native to East Asia that is widely cultivated for its fruit.	2027			1095
@@ -1300,7 +1308,9 @@ Plant:Helianthus annuus.N	Agriculture/Plant:sunflower.N	Annual plant with a larg
 Plant:leaf spine.N	Agriculture/Plant:leaf spine.N	A hard, rigid extension of leaves with sharp, stiff ends.	2803			
 Plant:leaf.N	Agriculture/Plant:leaf.N	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	628	8-56	Blatt::N	
 Plant:Lupin.N		Any plant of the genus Lupin; bearing erect spikes of usually purplish-blue flowers.		8-99927		
+Plant:Metroxylon sagu.N	Food:sago palm.N	Common name for several plants which are used to produce a starchy food known as sago.	2372			
 Plant:needle.N	Agriculture/Plant:needle tree.N	A needle of coniferous tree.	286	8-993		
+Plant:Parkia biglobosa.N		The African locust bean, a perennial deciduous tree in the family Fabaceae.				
 Plant:plant.N	Agriculture/Plant:plant (vegetation).N	Any living organism that synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion.	653	8-53		1000
 Plant:Prunus armeniaca.N	Agriculture/Plant:apricot tree.N	A tree that bears the apricot fruit.	2357			
 Plant:Prunus salicina.N	Agriculture/Plant:chinese plum.N	An Asian tree species classified in the Armeniaca section of the genus Prunus subgenus Prunus.	2356			
@@ -2016,12 +2026,10 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Agriculture/Plant:manioc.N	Shrub (Manihot esculenta) whose roots are rich in starch.	927			
 	Agriculture/Plant:manzanita.N	Species of the genus Arctostaphylos; evergreen shrubs or small trees present in the chaparral biome of western North America.	520			
 	Agriculture/Plant:maple tree.N	A group of trees belonging to the genus acer.	3248			
-	Agriculture/Plant:melon.N	A fruit of any of the species from the family Cucurbitaceae that has relatively hard inedible shells and plenty of sweet flesh. The fruits may vary in size but is usually not smaller than one decimeter in diameter.	507	8-99932		
 	Agriculture/Plant:millet.N	A group of small-seeded species of cereal crops, widely grown around the world for food and fodder.	931	8-911		
 	Agriculture/Plant:miriti palm.N	Mauritia flexuosa, a palm tree of the family Arecaceae, common to tropical regions of South America.	3811			
 	Agriculture/Plant:moringa tree.N	Species of the genus Moringa, widely cultivated in tropical and subtropical areas and used in herbal medicine.	3031			
 	Agriculture/Plant:moss.N	Any plant of the class Bryophyta, occurring in nearly all damp habitats.	637			
-	Agriculture/Plant:mountain soursop (annona montana).N	Type of tree found in the Amazon	3936			
 	Agriculture/Plant:muer (fungus).N	An ear-shaped edible fungus that belongs to the species of Auriculariaceae and is used in medicine and culinary.	3392			
 	Agriculture/Plant:mugwort.N	A common name for several species of aromatic plants in the genus Artemisia.	2361			
 	Agriculture/Plant:mushroom.N	An organism belonging to a family of Basidiomycetes that are characterized by the production of spores on gills.	641	8-98	Pilz::N	
@@ -3497,10 +3505,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Food:roast or fry.V	Preparing food by exposing it to open fire or to hot fat.	2146	5-23		
 	Food:rotten.A	Having changed its colour, smell or composition (partially or completely), due to being attacked and decomposed by microorganisms (relating to organic matter).	1728	5-125		
 	Food:rum.N	Distilled alcohol beverage made from sugarcane.	2833			
-	Food:sago palm.N	Common name for several plants which are used to produce a starchy food known as sago.	2372			
-	Food:sago.N	Starch extracted from the spongy centre, or pith, of various tropical palm stems, especially Metroxylon sagu.	2270			
-	Food:salt.N	A condiment (NaCl - Sodium Chloride) used to add to or enhance the flavour of food (commonly with pepper).	1274	5-81	Salz::N	
-	Food:salt.N	salt				3466
 	Food:satiated.A	Having eaten enough.	106			
 	Food:saucer.N	A small dish for placing a cup.	271	5-36		
 	Food:sheep meat.N	The meat of domestic sheep, such as lamb and mutton.	3394			
@@ -3513,8 +3517,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Food:small knife.N	A knife for cutting vegetables and other things in the kitchen.	3233			
 	Food:soak (verb).V	To put into water in order to soften something, e.g. seeds.	2069			
 	Food:sober.A	Not under the influence of alcohol or other drugs.	69			
-	Food:soup.N	A cooked, liquid dish (made from meat or vegetables that are mixed with broth in a pot) that is often sold in tins.	1547	5-64	Suppe::N	
-	Food:soup.N	soup				3462
 	Food:soya sauce.N	Sauce made from soybeans (soya beans), roasted grain, water and salt and is used as flavoring mainly in Asian cuisine.	1968	5-99903		
 	Food:spice.N	spice, seasoning				3465
 	Food:spicy.A	Of, pertaining to, or containing spice; or spicy flavour: Provoking a burning sensation due to the presence of chillies or similar hot spices.	544			
@@ -4579,9 +4581,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Perception:grey.A	Having a colour between black and white, like ash or stone.	153	15-99902	grau::A	
 	Perception:hard.A	Resistant to pressure.	1884	15-74	hart::A	
 	Perception:harmony.N	harmony (pleasing combination of stimuli)				855
-	Perception:hear or listen.V	To perceive sound with the ear, with or without paying attention to it.	3862		vernehmen::V	
-	Perception:hear.V	hear 				861
-	Perception:hear.V	To perceive sound with the ear, without necessarily paying attention to it.	1408	15-41	hören::V	
 	Perception:hearing (aural sense).N	The sense that enables to perceive sounds.	2518			
 	Perception:heat.N	heat, warmth				891
 	Perception:heavy.A	Of a physical object, having great weight.	1210	15-81	schwer::A	
