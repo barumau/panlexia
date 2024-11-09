@@ -48,5 +48,8 @@ while read -r line; do python3 src/generate_bilingual_dict.py "$line" "$1"; done
 # Build index by the name generated/index.md that includes links to the generated dictionaries.
 python3 src/make_dict_index.py "$1" dict_list.txt
 
+# Build website with MkDocs based on mkdocs.yml.
+mkdocs build
+
 # Delete the dict_list.txt file.
 rm dict_list.txt

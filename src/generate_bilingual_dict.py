@@ -67,7 +67,7 @@ def format_and_write(source_lang, target_lang, dict):
         # The format is: **source_word** *PoS* target_word
         #              source_word            PoS             target_word
         entry = '**' + row[0] + '**' + " *" + row[1] + '* ' + row[2]
-        file.write(entry + "\n")
+        file.write(entry + "  \n")
         # Uncomment the following line if you want to print the entries to the screen.
         #print(entry)
 
