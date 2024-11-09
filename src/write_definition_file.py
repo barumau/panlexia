@@ -16,7 +16,7 @@ import helpers
 def create_english_definition_file_from_master():
     """Writes ready (non-empty) ids and their definitions to a file."""
 
-    definition_writer = helpers.tsv_writer('dict/eng-definition.tsv', 'w')
+    definition_writer = helpers.tsv_writer('concepts/E/eng-definition.tsv', 'w')
     definition_writer.dict.writerow(["id", "Definition"])
 
     combined = helpers.tsv_reader('data/master.tsv')
