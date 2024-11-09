@@ -45,5 +45,8 @@ while read -r line; do python3 src/generate_bilingual_dict.py "$1" "$line"; done
 # Generate bilingual dictionaries from all languages in dict_list.txt to the given language.
 while read -r line; do python3 src/generate_bilingual_dict.py "$line" "$1"; done < dict_list.txt
 
+# Build index by the name generated/index.md that includes links to the generated dictionaries.
+python3 src/make_dict_index.py "$1" dict_list.txt
+
 # Delete the dict_list.txt file.
 rm dict_list.txt
