@@ -18,6 +18,9 @@ import math
 lang_index = 0
 code_index = 1
 
+main_lang_first = 1
+main_lang_last = 2
+
 def get_language_list(list_filename):
     list_file = helpers.simple_file_reader(list_filename)
     codes = []
@@ -32,13 +35,16 @@ def get_language_list(list_filename):
     print(codes)
     return codes
 
-def make_link(main_lang, code):
+def make_link(main_lang, code, direction):
+    if direction == main_lang_first:
         link = main_lang + "-" + code[code_index] + ".md"
-        link_text = code[lang_index]
-        complete_link = "[" + link_text + "](" + link + ")"
-        return complete_link
+    else:
+        link = code[code_index] + "-" + main_lang + ".md"
+    link_text = code[lang_index]
+    complete_link = "[" + link_text + "](" + link + ")"
+    return complete_link
 
-def make_cells(main_lang, codes):
+def make_alphabetic_link_list(main_lang, codes, direction):
     cells = []
     previous_initial = ""
     for code in codes:
@@ -50,7 +56,7 @@ def make_cells(main_lang, codes):
             cells.append([text])
             #cells.append([""])
             previous_initial = initial
-        link = make_link(main_lang, code)
+        link = make_link(main_lang, code, direction)
         cells.append([link])
     return cells
 
@@ -88,21 +94,25 @@ def print_in_columns(cells, num_of_columns, index_file):
         index_file.write("\n")
         print(line)
 
-    # Write the license.
-    index_file.write("\n\"[Panlexia](https://github.com/barumau/panlexia)\" by Risto Kupsala et al. is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)\n")
-
-
 # Execution begins here.
 main_lang = sys.argv[1]
 list_filename = sys.argv[2]
 
 codes = sorted(get_language_list(list_filename))
 
-cells = make_cells(main_lang, codes)
+dictionaries_from_main_lang = make_alphabetic_link_list(main_lang, codes, main_lang_first)
+dictionaries_to_main_lang = make_alphabetic_link_list(main_lang, codes, main_lang_last)
 
 index_file = helpers.simple_file_writer("generated/index.md")
 index_file.write("---\nhide:\n  - navigation\n  - footer\n  - toc\n---\n")
 index_file.write("# PANLEXIA\n\n")
-index_file.write("## " + main_lang + "→\n\n|")
+index_file.write("## " + main_lang + " →\n\n|")
 
-print_in_columns(cells, 4, index_file)
+print_in_columns(dictionaries_from_main_lang, 4, index_file)
+
+index_file.write("\n\n## → " + main_lang + "\n\n|")
+
+print_in_columns(dictionaries_to_main_lang, 4, index_file)
+
+# Write the license.
+index_file.write("\n\"[Panlexia](https://github.com/barumau/panlexia)\" by Risto Kupsala et al. is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)\n")
