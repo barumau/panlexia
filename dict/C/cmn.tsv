@@ -1,4 +1,4 @@
-id	style	word	transcription
+id	style	word	transcription	etymology
 Agriculture:cultivate.V		开垦	kai1ken3	
 Agriculture:cultivate.V		耕种	geng1zhong4	
 Agriculture:farmer.N		农民, 農民	nong2min2	
@@ -31,7 +31,7 @@ Animal:Aves.N		鸟, 鳥	niao3
 Animal:Blattodea.N		蜚蠊	fei3lian2	
 Animal:Blattodea.N		蟑螂	zhang1lang2	
 Animal:Bos taurus.N		牛	niu2	
-Animal:Canis lupus familiaris.N		狗	gou3	
+Animal:Canis lupus familiaris.N		狗	gou3	:*clur (Proto-Mon)
 Animal:Canis lupus.N		狼	lang2	
 Animal:Capra hircus.N		山羊	shan1yang2	
 Animal:Capra hircus.N		母山羊	mu3shan1yang2	
@@ -45,11 +45,11 @@ Animal:Elephantidae.N		大象	da4xiang4
 Animal:Elephantidae.N		象	xiang4	
 Animal:Equus asinus.N		驴, 驢	lü2	
 Animal:Equus asinus.N		驴子	lü2zi	
-Animal:Equus ferus caballus.N		马	ma3	
+Animal:Equus ferus caballus.N		马	ma3	:Unidentifiable
 Animal:Felis catus.N		猫, 貓	mao1	
-Animal:Felis leo.N		狮子	shi1zi (1)	
+Animal:Felis leo.N		狮子	shi1zi (1)	:šī
 Animal:Formicidae.N		螞蟻	ma3yi3	
-Animal:Gallus gallus domesticus.N		鸡, 雞	ji1	
+Animal:Gallus gallus domesticus.N		鸡, 雞	ji1	:Unidentifiable
 Animal:Homo sapiens.N		人	ren2	
 Animal:Insecta.N		昆虫, 昆蟲	kun1chong2	
 Animal:Lacertidae.N		蜥蜴	xi1yi4	
@@ -92,9 +92,9 @@ Atmosphere:storm.N		狂风	kuang2feng1
 Atmosphere:thunder.N		雷	lei2	
 Atmosphere:weather.N		天气, 天氣	tian1qi4	
 Atmosphere:wind.N		风	feng1 (1)	
-Belief:Catholic priest.N			dao4shi	
-Belief:Catholic priest.N		僧	seng1	
-Belief:Catholic priest.N		和尚, 和尚	he2shang	
+Belief:Catholic priest.N		dao4shi		
+Belief:Catholic priest.N		僧	seng1	san:Saṁgha
+Belief:Catholic priest.N		和尚, 和尚	he2shang	san:Upādhyāya
 Belief:Catholic priest.N		教士	jiao4shi4 (2)	
 Belief:Catholic priest.N		神甫;神父	shen2fu3	
 Belief:altar.N		圣坛	sheng4tan2	
@@ -125,7 +125,7 @@ Belief:sermon.V		讲道	jiang3dao4
 Belief:soul.N		灵魂	ling2hun2	
 Belief:soul.N		精神	jing1shen2	
 Belief:temple.N		寺庙	si4miao4	
-Belief:temple.N		庙, 廟	miao4	
+Belief:temple.N		庙, 廟	miao4	:*prau2
 Belief:temple.N		庙宇	miao4yu1	
 Belief:worship.V		崇拜	chong2bai4	
 Body:ankle.N		脚腕子	jiao3wan4zi	
@@ -334,7 +334,7 @@ Building:room.N		屋子	wu1zi
 Building:room.N		房间, 房間	fang2jian1	
 Building:tent.N		帐篷	zhang4peng	
 Building:thatch.N		茅草屋顶	mao2cao3 wu1ding3	
-Building:tower.N		塔	ta3	
+Building:tower.N		塔	ta3	san:stūpa
 Building:tower.N		楼, 樓	lou2	
 Building:wall.N		墙壁	qiang2bi4	
 Building:window.N		窗户	chuang1hu	
@@ -403,8 +403,10 @@ Clothing:weave.V		织, 織	zhi1
 Clothing:weave.V		编织	bian1zhi1	
 Cognition:study.V		学习	xue2xi2	
 Cognition:study.V		读书	du2shu1	
+Cognition:true.A		对, 對	dui4 (2)	
+Cognition:true.A		真	zhen1 (2)	
 Combat:bomb.N		炸弹	zha4dan4	
-Combat:fight.V			dou4zheng1 (2)	
+Combat:fight.V		dou4zheng1 (2)		
 Combat:fight.V		打	da3 (NS)	
 Combat:helmet.N		头盔	tou2kui1	
 Communication:answer.V		回答	hui2da2	
@@ -412,8 +414,15 @@ Communication:boast.V		吹嘘	chui1xu1
 Communication:boast.V		吹牛	chui1niu2	
 Communication:deny.V		否认	fou3ren4	
 Communication:forbid.V		禁止	jin4zhi3	
+Communication:forgive.V		原谅	yuan2liang4	
+Communication:kiss.V		亲, 親	qin1	
+Communication:kiss.V		吻	wen3	
 Communication:language.N		语言	yu3yan2	
+Communication:laugh.V		笑	xiao4	
 Communication:letter.N		信	xin4	
+Communication:lie.V		撒谎	sa3huang3	
+Communication:lie.V		说谎	shuo1huang3	
+Communication:lie.V		骗人	pian4ren2	
 Communication:mail.N		邮件	you2jian4	
 Communication:mail.N		邮政	you2zheng4	
 Communication:newspaper.N		报纸	bao4zhi3	
@@ -435,7 +444,33 @@ Element:Au.N		金子	jin1zi
 Element:Cu.N		铜	tong2	
 Element:Fe.N		铁	tie3	
 Element:Pb.N		铅	qian1	
+Emotion:anger.N		愤怒	fen4nu4	
+Emotion:anxiety.N		担心	dan1xin1	
+Emotion:anxiety.N		担忧	dan1you1	
+Emotion:blame.N		指责	zhi3ze2	
+Emotion:courageous.A		勇敢	yong3gan3	
+Emotion:cry.V		哭	ku1	
+Emotion:dare.V		敢	gan3	
+Emotion:envy.N		妒忌	du4ji4	
+Emotion:fear.N		害怕	hai4pa4	
 Emotion:feel.V		摸	mo1	
+Emotion:grief.N		伤心	shang1xin1	
+Emotion:grief.N		悲伤	bei1shang1	
+Emotion:grief.N		悲哀	bei1ai1	
+Emotion:happy.A		开心	kai1xin1	
+Emotion:happy.A		高兴	gao1xing4	
+Emotion:hate.V		仇恨	chou2hen4	
+Emotion:hate.V		恨	hen4	
+Emotion:hope.V		希望	xi1wang4	
+Emotion:love.V		爱, 愛	ai4	
+Emotion:shame.N		羞耻	xiu1chi3	
+Emotion:surprised.A		吃惊	chi1jing1	
+Emotion:surprised.A		惊讶	jing1ya4	
+Emotion:want.V		向往	xiang4wang3	
+Emotion:want.V		愿望	yuan4wang4	
+Emotion:want.V		要	yao4	
+Emotion:want.V		要求	yao1qiu2	
+Emotion:want.V		需要	xu1yao4	
 Family:ancestors.N		祖先	zu3xian1	
 Family:aunt.N		伯母	bo2mu3	
 Family:aunt.N		叔母	shu1mu	
@@ -508,6 +543,8 @@ Family:younger brother.N		弟弟	di4di
 Family:younger sister.N		妹妹	mei4mei	
 Food:Ficus carica.N		无花果	wu2hua1guo3	
 Food:Musa acuminata.N		香蕉	xiang1jiao1	
+Food:NaCl.N		盐	yan2	
+Food:NaCl.N		盐巴	yan2ba1	
 Food:bake.V		烤	kao3	
 Food:candy.N		糖果	tang2guo3	
 Food:dinner.N		晚饭	wan3fan4	
@@ -515,6 +552,7 @@ Food:fermented alcohol.N		酒	jiu3 (1)
 Food:flour.N		面粉	mian4fen3	
 Food:sausage.N		腊肠	la4chang2	
 Food:sausage.N		香肠	xiang1chang2	
+Food:soup.N		汤	tang1	
 Food:tea.N		茶	cha2	
 Form:bend.V		弯, 彎	wan1 (1)	
 Function:1PL EXCL.PRN		我们,我們	wo3men	
@@ -609,6 +647,9 @@ House:toilet.N		厕所	ce4suo3
 Hunting:boomerang.N		飞镖	fei1biao1	
 Hunting:hunt.V		打猎	da3lie4	
 Hunting:hunt.V		追逐	zhui1zhu2	
+Interaction:choose.V		选,選	xuan3	
+Interaction:choose.V		选择	xuan3ze2	
+Interaction:rescue.V		救	jiu4 (3)	
 Language:book.N		书	shu1	
 Law:crime.N		犯罪	fan4zui4	
 Law:crime.N		罪	zui4 (2)	
@@ -649,7 +690,7 @@ Motion:turn (sth).V		转	zhuan3
 Motion:walking stick.N		手杖	shou3zhang4	
 Motion:walking stick.N		棍子	gun4zi	
 Music:brass instrument.N		号角	hao4jiao3	
-Music:brass instrument.N		喇叭	la3ba	
+Music:brass instrument.N		喇叭	la3ba	khk:labai
 Music:brass instrument.N		小号, 小號	xiao3hao4	
 Music:brass instrument.N		管	guan3	
 Music:drum.N		鼓	gu3	
@@ -685,6 +726,7 @@ People:woman.N		妇女, 婦女	fu4nü3
 People:young man.N		小伙子	xiao3huo3zi	
 People:young woman.N		姑娘	gu1niang	
 People:young woman.N		少女	shao4nü3	
+Perception:hear.V		听到,聽到	ting1dao4	
 Perception:touch.V		摸	mo1	
 Perception:touch.V		碰	peng4	
 Plant:Betula.N		桦树, 樺樹	hua4shu4	
@@ -698,7 +740,7 @@ Plant:leaf.N		叶子	ye4zi
 Plant:needle.N		针, 針, 鍼	zhen1 (1)	
 Plant:needle.N		针叶	zhen1ye4	
 Plant:plant.N		植物	zhi2wu4	
-Plant:root.N		根	gen1	
+Plant:root.N		根	gen1	:*kǝl, *t(l)gǝl
 Plant:root.N		根子	gen1zi	
 Plant:sap.N		树液	shu4ye4	
 Plant:seed.N		种子	zhong3zi	
@@ -709,6 +751,14 @@ Plant:tree.N		树木	shu4mu4
 Plant:vine.N		葡萄树	pu2tao2shu4	
 Plant:vine.N		葡萄蔓	pu2taowan4	
 Plant:vine.N		葡萄藤	pu2taoteng2	
+Possession:greedy.A		贪婪	tan1lan2	
+Possession:poor.A		穷, 窮	qiong2	
+Possession:poor.A		贫穷	pin2qiong2	
+Possession:price.N		价格	jia4ge2	
+Possession:price.N		价钱	jia4qian	
+Possession:rich.A		富有	fu4you3	
+Possession:sell.V		卖, 賣	mai4	
+Possession:share.V		分享	fen1xiang3	
 Quantity:0.NUM		零, 零	ling2	
 Quantity:1.NUM		一	yi1	
 Quantity:10.NUM		十	shi2	
@@ -741,7 +791,7 @@ Sound:whisper.V		耳语	er3yu3
 Sound:whistle.V		吹口哨	chui1kou3shao4r	
 Storage:basket.N		筐子	kuang1zi	
 Storage:basket.N		篮子	lan2zi	
-Storage:bottle.N		瓶	ping2	
+Storage:bottle.N		瓶	ping2	:Unidentifiable
 Storage:bottle.N		瓶子	ping2zi	
 Storage:can.N		罐头	guan4tou	
 Storage:can.N		罐子	guan4zi	
@@ -785,11 +835,11 @@ Transit:airplane.N		飞机, 飛機	fei1ji1
 Transit:anchor.N		锚	mao2	
 Transit:bicycle.N		脚踏车	jiao3ta4che1	
 Transit:bicycle.N		自行车	zi4xing2che1	
-Transit:boat.N		舟	zhou1	
+Transit:boat.N		舟	zhou1	:*duak
 Transit:boat.N		艇	ting3	
 Transit:brake.V		刹车	sha1che1	
 Transit:bus.N		公共汽车	gong1gong4 qi4che1	
-Transit:bus.N		巴士	ba1shi	
+Transit:bus.N		巴士	ba1shi	eng:bus
 Transit:canoe.N		独木舟	du2mu4zhou1	
 Transit:car.N		汽车	qi4che1	
 Transit:car.N		车子	che1zi	
@@ -811,3 +861,5 @@ Transit:street.N		街	jie1
 Transit:street.N		马路	ma3lu4 (1)	
 Transit:train.N		火车	huo3che1	
 Transit:wheel.N		轮子	lun2zi	
+Value:bad.A		坏	huai4	
+Value:good.A		好	hao3	

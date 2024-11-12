@@ -34,22 +34,37 @@ def sort_and_write_to_dictionary_file(lang_name, data, column_num):
     if column_num == 2:
         outfile.dict.writerow(["id", "style", "word"])
     else:
-        outfile.dict.writerow(["id", "style", "word", "transcription"])
+        outfile.dict.writerow(["id", "style", "word", "transcription", "etymology"])
     
     for row in sorted_map:
         if column_num == 2:
-            # Write id and word.
+            # Write id, style (blank) and word.
             outfile.dict.writerow([row[0], "", row[1]])
         else:
-            if (len(row)) == 3:
-                # Write id, word and transcription.
-                outfile.dict.writerow([row[0], "", row[1], row[2], ""])
-            else:
-                # If row is missing data in the original_script field in WOLD,
-                # write id, blank and transcription.
-                outfile.dict.writerow([row[0], "", "", row[1], ""])
+            # Write id, style (blank), word, transcription and etymology.
+            outfile.dict.writerow([row[0], "", row[1], row[2], row[3]])
 
-def write_dictionary_for_one_language(lang_id, lang_code, WOLD_to_Panlexia, dict, column_num):
+def get_language_code(id):
+    """Get ISO-639-P3 languge code by language ID."""
+    wold = helpers.csv_reader(WOLD_languages, ',')
+    for row in wold.dict:
+        if id == row["ID"]:
+            return row["ISO639P3code"]
+    return id
+
+def get_etymology(id):
+    """Get the source language and form of a borrowed word by form ID."""
+    etym = ""
+    wold = helpers.csv_reader(WOLD_etymology, ',')
+    for row in wold.dict:
+        if row["Target_Form_ID"] == id:
+            code = get_language_code(row["Language_ID"])
+            # Etymology data format is "<src>:<form>" where `src` is a 3-letter language code.
+            etym = code + ":" + row["Comment"]
+            break
+    return etym
+
+def write_dictionary_for_one_language(lang_id, lang_code, WOLD_to_Panlexia, dict):
     """Writes dictionary for one language ordered by Panlexia id."""
     print("Getting words for", lang_id, lang_code)
 
@@ -58,22 +73,37 @@ def write_dictionary_for_one_language(lang_id, lang_code, WOLD_to_Panlexia, dict
     for row in dict:
         if row["Language_ID"] == lang_id:
             id = WOLD_to_Panlexia[row["Parameter_ID"]]
-            word = ""
-            if column_num == 3:
+            if id != "":
+                # Get etymology for words that are clearly or probably borrowed.
+                etymology = ""
+                if "Borrowed" in dict.fieldnames:
+                    if row["Borrowed"] == "1. clearly borrowed" or row["Borrowed"] == "2. probably borrowed":
+                        etymology = get_etymology(row["ID"])
+
+                # Use the original script firstly.
                 word = row["original_script"]
-
-            if word != "":
-                has_transcription = True
-                if id != "":
+                if word != "":
                     transcription = row["Form"]
-                    dictionary.append([id, word, transcription])
-            else:
-                word = row["Form"]
-                if id != "" and word != "":
-                    dictionary.append([id, word])
+                    dictionary.append([id, word, transcription, etymology])
+                else:
+                    word = row["Form"]
+                    dictionary.append([id, word, "", etymology])
 
-    if has_transcription == False:
-        column_num = 2
+    sort_and_write_to_dictionary_file(lang_code, dictionary, 4)
+
+def write_minimal_dictionary_for_one_language(lang_code, WOLD_to_Panlexia, dict):
+    """Writes dictionary for one language ordered by Panlexia id."""
+    print("Getting words for", lang_code)
+
+    dictionary = []
+    for row in dict:
+        if row["Language_ID"] == lang_code:
+            id = WOLD_to_Panlexia[row["Parameter_ID"]]
+            word = row["Form"]
+            if id != "" and word != "":
+                dictionary.append([id, word])
+
+    column_num = 2
     sort_and_write_to_dictionary_file(lang_code, dictionary, column_num)
 
 def get_41_languages():
@@ -93,14 +123,14 @@ def create_41_dictionaries_from_WOLD(WOLD_to_Panlexia):
     langs = get_41_languages()
     for lang in langs:
         forms = helpers.csv_reader(WOLD_forms, ',')
-        write_dictionary_for_one_language(lang[0], lang[1], WOLD_to_Panlexia, forms.dict, 3)
+        write_dictionary_for_one_language(lang[0], lang[1], WOLD_to_Panlexia, forms.dict)
 
 def create_4_dictionaries_from_WOLD(WOLD_to_Panlexia):
     """Writes dictionaries for fra, spa, deu and rus."""
-    langs = [["fra", "fra"], ["spa", "spa"], ["deu", "deu"], ["rus", "rus"]]
+    langs = ["fra", "spa", "deu", "rus"]
     for lang in langs:
         forms = helpers.tsv_reader(WOLD_forms_2)
-        write_dictionary_for_one_language(lang[0], lang[1], WOLD_to_Panlexia, forms.dict, 2)
+        write_minimal_dictionary_for_one_language(lang, WOLD_to_Panlexia, forms.dict)
 
 # Execution begins:
 WOLD_to_Panlexia = helpers.get_other_id_to_Panlexia_id_map("WOLD_id")

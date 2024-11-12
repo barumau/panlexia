@@ -1,17 +1,17 @@
-id	style	word	transcription
+id	style	word	transcription	etymology
 Agriculture:cultivate.V		耕す	tagayasu	
-Agriculture:farmer.N		百姓	hyakushō	
-Agriculture:farmer.N		農民	nōmin	
-Agriculture:harvest or harvest season.N		収穫	shūkaku	
+Agriculture:farmer.N		百姓	hyakushō	cmn:băixìng
+Agriculture:farmer.N		農民	nōmin	cmn:nóngmín
+Agriculture:harvest or harvest season.N		収穫	shūkaku	cmn:shōuhuò
 Agriculture:harvest or harvest season.N		取り入れ	toriire	
 Agriculture:mow.V		刈る	karu (1)	
-Agriculture:paddy field.N		田	ta	
+Agriculture:paddy field.N		田	ta	cmn:d’ien 田
 Agriculture:pitchfork.N		股鍬	mataguwa	
 Agriculture:plough.V		耕す	tagayasu	
 Agriculture:plough.V		鋤く	suku	
 Agriculture:rake.N		熊手	kumade	
-Agriculture:shovel.N		シャベル	shaberu	
-Agriculture:sickle or scythe.N		鎌	kama	
+Agriculture:shovel.N		シャベル	shaberu	eng:shovel
+Agriculture:sickle or scythe.N		鎌	kama	cmn:lĭäm < klĭäm 鎌
 Agriculture:sow seeds.V		蒔く	maku	
 Agriculture:thresh.V		扱く	koku	
 Agriculture:thresh.V		脱穀	dakkoku	
@@ -36,45 +36,45 @@ Animal:Cetacea.N		鯨	kujira
 Animal:Corvus.N		烏	karasu	
 Animal:Culicidae.N		蚊	ka (1)	
 Animal:Diptera.N		蠅	hae	
-Animal:Elephantidae.N		象 (elephant), 像 (statue)	zō	
-Animal:Equus asinus.N		驢馬	roba	
-Animal:Equus ferus caballus.N		馬	uma	
+Animal:Elephantidae.N		象 (elephant), 像 (statue)	zō	cmn:xiàng
+Animal:Equus asinus.N		驢馬	roba	cmn:lǘmă
+Animal:Equus ferus caballus.N		馬	uma	cmn:må 馬
 Animal:Felis catus.N		猫	neko	
-Animal:Felis leo.N		ライオン	raion	
-Animal:Felis leo.N		獅子	shishi	
+Animal:Felis leo.N		ライオン	raion	ell:leōn
+Animal:Felis leo.N		獅子	shishi	cmn:shīzi
 Animal:Formicidae.N		蟻	ari	
 Animal:Gallus gallus domesticus.N		鶏	niwatori	
 Animal:Homo sapiens.N		人	hito	
-Animal:Homo sapiens.N		人間	ningen	
-Animal:Insecta.N		昆虫	konchū	
+Animal:Homo sapiens.N		人間	ningen	cmn:rénjiān
+Animal:Insecta.N		昆虫	konchū	cmn:kūnchóng 昆蟲
 Animal:Insecta.N		虫	mushi	
 Animal:Lacertidae.N		蜥蜴	tokage	
 Animal:Lampyridae.N		蛍	hotaru	
 Animal:Leporidae.N		兎	usagi	
 Animal:Ovis aries.N		羊	hitsuji	
-Animal:Rhopalocera.N		蝶	chō (1)	
-Animal:Sciuridae.N		栗鼠	risu	
+Animal:Rhopalocera.N		蝶	chō (1)	cmn:dié
+Animal:Sciuridae.N		栗鼠	risu	cmn:lìshŭ
 Animal:Serpentes.N		蛇	hebi	
 Animal:Simiiformes.N		猿	saru (1)	
 Animal:Sus scrofa domestica.N		豚	buta	
 Animal:Testudines.N		亀	kame	
-Animal:Ursidae.N		熊	kuma	
+Animal:Ursidae.N		熊	kuma	cmn:γĭung < g’ĭung < g’ĭum 熊
 Animal:Vespinae.N		蜂	hachi (1)	
 Animal:Vulpes.N		狐	kitsune	
-Animal:animal.N		動物	dōbutsu	
+Animal:animal.N		動物	dōbutsu	cmn:dòngwù
 Animal:female.A		雌	mesu	
 Animal:fish.N		魚	sakana	
 Animal:male.A		雄	osu (1)	
-Animal:wool.N		ウール	ūru	
+Animal:wool.N		ウール	ūru	eng:wool
 Animal:wool.N		毛糸	keito	
-Animal:wool.N		羊毛	yōmō	
-Art:sculptor.N		彫刻家	chōkokuka	
-Art:statue.N		象 (elephant), 像 (statue)	zō	
+Animal:wool.N		羊毛	yōmō	cmn:yángmáo 羊毛
+Art:sculptor.N		彫刻家	chōkokuka	cmn:diāokèjiā
+Art:statue.N		象 (elephant), 像 (statue)	zō	cmn:xiàng
 Atmosphere:cloud.N		雲	kumo (1)	
 Atmosphere:fan (action).V		扇ぐ･煽ぐ	aogu	
 Atmosphere:fan (object).N		団扇	uchiwa	
 Atmosphere:fan (object).N		扇	ōgi	
-Atmosphere:fan (object).N		扇子	sensu	
+Atmosphere:fan (object).N		扇子	sensu	cmn:shànzi
 Atmosphere:fog.N		霧	kiri (1)	
 Atmosphere:rain.N		雨	ame (1)	
 Atmosphere:rainbow.N		虹	niji	
@@ -82,88 +82,88 @@ Atmosphere:sky.N		空	sora
 Atmosphere:storm.N		嵐	arashi	
 Atmosphere:thunder.N		雷	ikazuchi	
 Atmosphere:thunder.N		雷	kaminari	
-Atmosphere:weather.N		天候	tenkō	
-Atmosphere:weather.N		天気	tenki	
+Atmosphere:weather.N		天候	tenkō	cmn:tiānhòu
+Atmosphere:weather.N		天気	tenki	cmn:tiānqì
 Atmosphere:wind.N		風 (wind) 風邪(cold). The latter is some sort of ateji.	kaze	
 Belief:Catholic priest.N		聖職者	seishokusha	
-Belief:altar.N		祭壇	saidan	
-Belief:bless.V		祝福	shukufuku	
+Belief:altar.N		祭壇	saidan	san:maṇḍala
+Belief:bless.V		祝福	shukufuku	cmn:zhùfú
 Belief:curse.V		呪う	norou	
 Belief:deity.N		神	kami (3)	
-Belief:demon.N		悪魔	akuma	
+Belief:demon.N		悪魔	akuma	san:māra
 Belief:demon.N		鬼	oni	
 Belief:ghost.N		お化け	obake	
-Belief:ghost.N		幽霊	yūrei	
-Belief:heaven.N		天国	tengoku	
-Belief:heaven.N		極楽	gokuraku	
-Belief:hell.N		地獄	jigoku	
-Belief:holy.A		神聖	shinsei	
-Belief:idol.N		偶像	gūzō	
+Belief:ghost.N		幽霊	yūrei	cmn:yōulíng
+Belief:heaven.N		天国	tengoku	cmn:tiānguó
+Belief:heaven.N		極楽	gokuraku	san:sukhāvatī
+Belief:hell.N		地獄	jigoku	san:naraka, niraya
+Belief:holy.A		神聖	shinsei	cmn:shénshèng
+Belief:idol.N		偶像	gūzō	cmn:ǒuxiàng
 Belief:magic.N		呪い	majinai	
-Belief:magic.N		魔法	mahō	
+Belief:magic.N		魔法	mahō	san:māra
 Belief:magician.N		魔女	majo	
 Belief:magician.N		魔法使い	mahōtsukai	
-Belief:mosque.N		モスク	mosuku	
+Belief:mosque.N		モスク	mosuku	arb:masjid
 Belief:omen.N		兆し	kizashi	
-Belief:omen.N		前兆	zenchō	
+Belief:omen.N		前兆	zenchō	cmn:qiánzhào
 Belief:pray.V		拝む	ogamu	
 Belief:pray.V		祈る	inoru	
-Belief:religion.N		宗教	shūkyō	
-Belief:sermon.V		説教	sekkyō	
+Belief:religion.N		宗教	shūkyō	eng:religion
+Belief:sermon.V		説教	sekkyō	cmn:shuōjiào
 Belief:soul.N		心	kokoro	
-Belief:soul.N		精神	seishin	
-Belief:soul.N		霊魂	reikon	
+Belief:soul.N		精神	seishin	cmn:jīngshén
+Belief:soul.N		霊魂	reikon	cmn:línghún
 Belief:soul.N		魂	tamashii	
-Belief:temple.N		寺	tera	
-Belief:temple.N		寺院	ji’in	
-Belief:temple.N		神殿	shinden	
-Belief:worship.V		崇拝	sūhai	
+Belief:temple.N		寺	tera	kor:jeol
+Belief:temple.N		寺院	ji’in	cmn:sìyuàn
+Belief:temple.N		神殿	shinden	cmn:shéndiàn
+Belief:worship.V		崇拝	sūhai	fra:adorer
 Belief:worship.V		拝む	ogamu	
 Body:ankle.N		足首	ashikubi	
 Body:ankle.N		踝	kurubushi	
 Body:arm.N		腕	ude	
 Body:armpit.N		脇の下	waki no shita	
-Body:armpit.N		腋下	ekika	
+Body:armpit.N		腋下	ekika	cmn:yèxià
 Body:back.N		背	se	
 Body:back.N		背中	senaka	
 Body:bald.A		禿る	hageru	
-Body:bald.A		禿頭	tokutō	
+Body:bald.A		禿頭	tokutō	cmn:tūtóu 禿頭
 Body:beak.N		嘴	kuchibashi	
 Body:beard.N		髭	hige	
 Body:belly.N		腹	hara	
 Body:blink.V		瞬き	mabataki	
 Body:blister.N		水脹れ	mizubukure	
 Body:blister.N		火脹れ	hibukure	
-Body:blood vessel.N		血管	kekkan	
+Body:blood vessel.N		血管	kekkan	cmn:xuèguăn
 Body:blood.N		血	chi	
-Body:body hair.N		体毛	taimō	
+Body:body hair.N		体毛	taimō	cmn:tĭmáo
 Body:body.N		体	karada	
 Body:boil.N		出来物	dekimono	
 Body:boil.N		根太	nebuto	
 Body:boil.N		膿瘍	nōyō	
 Body:bone.N		骨	hone	
-Body:brain.N		脳	nō	
+Body:brain.N		脳	nō	cmn:năo
 Body:breast.N		おっぱい	oppai	
 Body:breast.N		乳	chichi (2)	
 Body:breath.V		吸う	suu	
-Body:breath.V		呼吸	kokyū	
+Body:breath.V		呼吸	kokyū	cmn:hūxī
 Body:bruise.N		打ち傷	uchikizu	
 Body:bruise.N		痣	aza	
 Body:buttock.N		尻	shiri	
-Body:buttock.N		臀部	denbu	
+Body:buttock.N		臀部	denbu	cmn:túnbù 臀部
 Body:calf of leg.N		脹脛	fukurahagi	
 Body:calf of leg.N		腓	komura	
-Body:carcass.N		死体	shitai	
+Body:carcass.N		死体	shitai	cmn:shītĭ 屍體
 Body:cheek.N		頬	hō	
 Body:chest.N		胸	mune	
 Body:chin.N		頤	otogai	
 Body:chin.N		顎、頤	ago	
-Body:collarbone.N		鎖骨	sakotsu	
-Body:corpse.N		死体	shitai	
+Body:collarbone.N		鎖骨	sakotsu	cmn:suŏgǔ
+Body:corpse.N		死体	shitai	cmn:shītĭ 屍體
 Body:dribble.V		涎を垂らす	yodare o tarasu	
 Body:ear.N		耳	mimi	
-Body:ear.N		耳朶	jida	
-Body:earlobe.N		耳朶	jida	
+Body:ear.N		耳朶	jida	cmn:ĕrduō 耳朶
+Body:earlobe.N		耳朶	jida	cmn:ĕrduō 耳朶
 Body:earlobe.N		耳朶	mimitabu	
 Body:earwax.N		耳垢	mimiaka	
 Body:elbow.N		肘	hiji	
@@ -173,47 +173,47 @@ Body:eyelash.N		睫	matsuge
 Body:eyelid.N		瞼	mabuta	
 Body:face.N		顔	kao	
 Body:fart.V		おなら	onara	
-Body:fart.V		放屁	hōhi	
+Body:fart.V		放屁	hōhi	cmn:fàngpì 放屁
 Body:fat.N		油 (”oil”), 脂 (”grease, fat”)	abura	
-Body:fat.N		脂肪	shibō (1)	
+Body:fat.N		脂肪	shibō (1)	cmn:zhīfáng 脂肪
 Body:feather.N		羽根(plucked feather)、羽(live feather)	hane	
 Body:feces.V		うんこ	unko	
-Body:feces.V		大便	daiben	
+Body:feces.V		大便	daiben	cmn:dàbiàn
 Body:feces.V		糞	kuso	
 Body:finger.N		指	yubi	
 Body:fingernail.N		爪	tsume	
-Body:flesh.N		肉	niku	
+Body:flesh.N		肉	niku	cmn:ròu
 Body:foot.N		脚(leg)、足(foot)	ashi	
 Body:footprint.N		足跡	ashiato	
 Body:forehead.N		額	hitai	
 Body:fur.N		毛皮	kegawa	
-Body:goiter.N		甲状腺腫	kōjōsenshu	
-Body:gum.N		歯肉	shiniku	
+Body:goiter.N		甲状腺腫	kōjōsenshu	cmn:jiăzhuàngxiànzhŏng
+Body:gum.N		歯肉	shiniku	cmn:chĭròu 齒肉
 Body:gum.N		歯茎	haguki	
-Body:gum.N		歯齦	shigin	
+Body:gum.N		歯齦	shigin	cmn:chĭyín 齒齦
 Body:hand.N		手	te	
 Body:head hair.N		毛	ke	
 Body:head hair.N		髪	kami (1)	
 Body:head.N		頭	atama	
 Body:heart.N		心	kokoro	
-Body:heart.N		心臓	shinzō	
+Body:heart.N		心臓	shinzō	cmn:xīnzàng
 Body:heel.N		踵	kakato	
 Body:hip.N		尻	shiri	
-Body:hip.N		臀部	denbu	
+Body:hip.N		臀部	denbu	cmn:túnbù 臀部
 Body:horn.N		角	tsuno	
-Body:intestines.N		内臓	naizō	
-Body:intestines.N		腸	chō (2)	
+Body:intestines.N		内臓	naizō	cmn:nèizàng
+Body:intestines.N		腸	chō (2)	cmn:cháng
 Body:jaw.N		牙	kiba	
 Body:jaw.N		顎、頤	ago	
-Body:kidney.N		腎臓	jinzō	
+Body:kidney.N		腎臓	jinzō	cmn:shènzàng
 Body:knee.N		膝	hiza	
 Body:leg.N		脚(leg)、足(foot)	ashi	
 Body:lip.N		唇	kuchibiru	
 Body:liver.N		肝	kimo	
-Body:liver.N		肝臓	kanzō	
-Body:lung.N		肺臓	haizō	
+Body:liver.N		肝臓	kanzō	cmn:gānzàng
+Body:lung.N		肺臓	haizō	cmn:fèizàng
 Body:molar tooth.N		奥歯	okuba	
-Body:molar tooth.N		臼歯	kyūshi	
+Body:molar tooth.N		臼歯	kyūshi	:dens molaris
 Body:mouth.N		口	kuchi	
 Body:nape.N		襟首	erikubi	
 Body:nape.N		項	unaji	
@@ -221,34 +221,34 @@ Body:navel.N		臍	heso
 Body:neck.N		首	kubi	
 Body:nipple.N		乳首	chichikubi	
 Body:nose.N		鼻	hana (1)	
-Body:nostril.N		鼻孔	bikō	
+Body:nostril.N		鼻孔	bikō	cmn:bíkŏng
 Body:palm.N		掌	tanagokoro	
 Body:palm.N		掌	tenohira	
 Body:penis.N		ちんこ	chinko	
-Body:penis.N		ペニス	penisu	
-Body:penis.N		男根	dankon	
+Body:penis.N		ペニス	penisu	:pēnis
+Body:penis.N		男根	dankon	cmn:nángēn
 Body:piss.V		おしっこ	oshikko	
-Body:piss.V		小便	shōben	
-Body:piss.V		尿	nyō	
-Body:pubic hair.N		恥毛	chimō	
-Body:pubic hair.N		陰毛	inmō	
+Body:piss.V		小便	shōben	cmn:xiăobiàn
+Body:piss.V		尿	nyō	cmn:niào
+Body:pubic hair.N		恥毛	chimō	cmn:chĭmáo
+Body:pubic hair.N		陰毛	inmō	cmn:yīnmáo
 Body:rib.N		肋	abara	
-Body:rib.N		肋骨	rokkotsu	
+Body:rib.N		肋骨	rokkotsu	cmn:lègŭ
 Body:scar.N		傷跡	kizuato	
 Body:shell.N		貝	kai (1)	
 Body:shoulder.N		肩	kata (2)	
-Body:shoulderblade.N		肩甲骨・肩胛骨	kenkōkotsu	
+Body:shoulderblade.N		肩甲骨・肩胛骨	kenkōkotsu	cmn:jiānjiăgǔ 肩胛骨
 Body:skin.N		皮	kawa (2)	
-Body:skin.N		皮膚	hifu	
-Body:skull.N		頭蓋骨	zugaikotsu	
+Body:skin.N		皮膚	hifu	cmn:pífū
+Body:skull.N		頭蓋骨	zugaikotsu	cmn:tóugàigǔ
 Body:sneeze.V		嚔する	kushami	
 Body:spine.N		背骨	sebone	
-Body:spine.N		脊柱	sekichū	
+Body:spine.N		脊柱	sekichū	cmn:jĭzhuī
 Body:spit.V		唾を吐く	tsuba o haku	
-Body:spleen.N		脾臓	hizō	
-Body:stomach.N		胃	i	
+Body:spleen.N		脾臓	hizō	cmn:pízàng
+Body:stomach.N		胃	i	cmn:wèi
 Body:sweat.V		汗を掻く	ase o kaku	
-Body:sweat.V		発汗	hakkan	
+Body:sweat.V		発汗	hakkan	cmn:fāhàn 發汗
 Body:swell.N		瘤	kobu	
 Body:swell.N		腫れ	hare	
 Body:tail.N		尻尾	shippo	
@@ -256,8 +256,8 @@ Body:tail.N		尾	o
 Body:tear.N		涙	namida	
 Body:temple.N		蟀谷	komekami	
 Body:tendon.N		筋	suji	
-Body:tendon.N		腱	ken (1)	
-Body:testicle.N		睾丸	kōgan	
+Body:tendon.N		腱	ken (1)	cmn:jiàn
+Body:testicle.N		睾丸	kōgan	cmn:gāowán
 Body:testicle.N		金玉	kintama	
 Body:throat.N		喉	nodo	
 Body:thumb.N		親指	oyayubi	
@@ -268,40 +268,40 @@ Body:udder.N		おっぱい	oppai
 Body:udder.N		乳房	chibusa	
 Body:upper leg.N		腿	momo	
 Body:vagina.N		まんこ	manko	
-Body:vagina.N		膣	chitsu	
-Body:vulva.N		陰門	inmon	
+Body:vagina.N		膣	chitsu	:vagina
+Body:vulva.N		陰門	inmon	cmn:yīnmén
 Body:waist.N		腰	koshi	
-Body:waist.N		腰部	yōbu	
+Body:waist.N		腰部	yōbu	cmn:yāobù
 Body:wing.N		翼	tsubasa	
-Body:womb.N		子宮	shikyū	
+Body:womb.N		子宮	shikyū	cmn:zĭgōng
 Body:wound.N		傷	kizu	
 Body:wound.N		怪我, a case of ateji	kega	
 Body:wrist.N		手首	tekubi	
 Body:yawn.V		欠伸	akubi	
 Building:adobe.N		アドービ煉瓦	adōbirenga	
 Building:adobe.N		日干し煉瓦	hiboshirenga	
-Building:arch.N		アーチ	āchi	
+Building:arch.N		アーチ	āchi	:arcus
 Building:arch.N		迫持	serimochi	
 Building:beam.N		梁	hari (2)	
 Building:board.N		板	ita	
 Building:brick.N		煉瓦	renga	
 Building:build.V		建てる	tateru	
-Building:build.V		建築	kenchiku	
+Building:build.V		建築	kenchiku	cmn:jiànzhú
 Building:build.V		築く	kizuku	
-Building:camp.N		キャンプ	kyanpu	
-Building:camp.N		野営	yaei	
+Building:camp.N		キャンプ	kyanpu	:campus
+Building:camp.N		野営	yaei	cmn:yĕyíng
 Building:chimney.N		煙突	entotsu	
-Building:cookhouse.N		炊事場	suijijō	
-Building:door.N		ドア	doa	
+Building:cookhouse.N		炊事場	suijijō	cmn:chuīshìchăng
+Building:door.N		ドア	doa	eng:door
 Building:door.N		扉	tobira	
 Building:doorpost.N		側柱	gawabashira	
-Building:fireplace.N		暖炉 (originally 煖炉)	danro	
+Building:fireplace.N		暖炉 (originally 煖炉)	danro	cmn:nuănlú
 Building:floor.N		床	yuka	
 Building:garden-house.N		東屋	azumaya	
-Building:house.N		家	ie	
+Building:house.N		家	ie	cmn:ĭəp 邑
 Building:hut.N		小屋	koya	
-Building:mason.N		石工	sekkō	
-Building:mortar binder.N		モルタル	morutaru	
+Building:mason.N		石工	sekkō	cmn:shígōng
+Building:mortar binder.N		モルタル	morutaru	:mortarium
 Building:mortar binder.N		漆喰, a case of ateji. Originally it was石灰.	shikkui	
 Building:post.N		杭/杙/株	kui	
 Building:post.N		柱	hashira	
@@ -310,90 +310,93 @@ Building:rafter.N		垂木	taruki
 Building:ridgepole.N		棟木	munagi	
 Building:roof.N		屋根	yane	
 Building:room.N		部屋 (probably ateji)	heya	
-Building:tent.N		テント	tento	
+Building:tent.N		テント	tento	:tentum?
 Building:thatch.N		屋根葺き	yanefuki	
 Building:thatch.N		藁葺き	warabuki	
-Building:tower.N		塔	tō (2)	
+Building:tower.N		塔	tō (2)	san:stūpa
 Building:wall.N		壁	kabe	
 Building:window.N		窓	mado	
 Building:yard.N		庭	niwa	
 Cleaning:broom.N		箒-帚	hōki	
 Cleaning:clean.A		清い	kiyoi	
-Cleaning:clean.A		清潔	seiketsu	
-Cleaning:clean.A		綺麗	kirei	
+Cleaning:clean.A		清潔	seiketsu	cmn:qīngjié
+Cleaning:clean.A		綺麗	kirei	cmn:qĭlì
 Cleaning:dirty.A		汚い	kitanai	
 Cleaning:sweep.V		掃く	haku (2)	
-Cleaning:sweep.V		掃除	sōji	
+Cleaning:sweep.V		掃除	sōji	cmn:săochú
 Cleaning:wash.V		洗う	arau	
-Cleaning:wash.V		洗濯	sentaku (1)	
+Cleaning:wash.V		洗濯	sentaku (1)	cmn:xĭzhuó
 Cleaning:wipe.V		拭く	fuku (3)	
-Clothing:Gossypium.N		木綿	momen	
+Clothing:Gossypium.N		木綿	momen	cmn:mùmián
 Clothing:awl.N		錐	kiri (2)	
-Clothing:bead.N		ビーズ	biizu	
+Clothing:bead.N		ビーズ	biizu	eng:beads
 Clothing:bead.N		数珠球	juzudama	
-Clothing:belt.N		ベルト	beruto	
+Clothing:belt.N		ベルト	beruto	:balteus
 Clothing:belt.N		帯	obi	
-Clothing:boot.N		ブーツ	būtsu	
+Clothing:boot.N		ブーツ	būtsu	:bote
 Clothing:boot.N		長靴	nagagutsu	
 Clothing:braid.N		お下げ髪	osagekami	
 Clothing:braid.N		三つ編み	mitsuami	
-Clothing:button.N		ボタン, 鈕, 釦	botan	
-Clothing:cloak.N		マント	manto	
+Clothing:button.N		ボタン, 鈕, 釦	botan	por:botão
+Clothing:cloak.N		マント	manto	fra:manteau
 Clothing:cloth.N		布	nuno	
 Clothing:cloth.N		織物	orimono	
-Clothing:clothes.N		服	fuku (1)	
-Clothing:coat.N		コート	kōto	
+Clothing:clothes.N		服	fuku (1)	cmn:fú
+Clothing:coat.N		コート	kōto	:cote?
 Clothing:coat.N		上着	uwagi	
 Clothing:collar.N		襟	eri	
 Clothing:dress.N		ドレス	doresu	
 Clothing:dye.V		染める	someru	
-Clothing:felt.N		フェルト	feruto	
+Clothing:felt.N		フェルト	feruto	eng:felt
 Clothing:glove.N		手袋	tebukuro	
 Clothing:grass-skirt.N		腰蓑スカート	koshimino-sukāto	
 Clothing:headband or headdress.N		鉢巻	hachimaki	
-Clothing:headgear.N		帽子	bōshi	
+Clothing:headgear.N		帽子	bōshi	cmn:màozi
 Clothing:leather.N		皮	kawa (2)	
-Clothing:leather.N		皮革	hikaku	
-Clothing:linen.N		リンネル	rinneru	
+Clothing:leather.N		皮革	hikaku	cmn:pígé
+Clothing:linen.N		リンネル	rinneru	fra:linière
 Clothing:loom.N		機	hata	
 Clothing:loom.N		織機	oriki	
 Clothing:naked.A		裸	hadaka	
 Clothing:needle.N		針	hari (1)	
-Clothing:pin.N		ピン	pin	
-Clothing:pocket.N		ポケット	poketto	
+Clothing:pin.N		ピン	pin	:pinna
+Clothing:pocket.N		ポケット	poketto	eng:pocket
 Clothing:pocket.N		懐	futokoro	
-Clothing:poncho.N		ポンチョ	poncho	
+Clothing:poncho.N		ポンチョ	poncho	spa:poncho
 Clothing:put on.V		着る	kiru (1)	
-Clothing:rag.N		ハンカチ	hankachi	
+Clothing:rag.N		ハンカチ	hankachi	eng:handkerchief
 Clothing:rag.N		襤褸切	borokire	
 Clothing:sew.V		縫う	nuu	
-Clothing:shirt.N		シャツ	shatsu	
+Clothing:shirt.N		シャツ	shatsu	nhu:skyrta
 Clothing:shoe.N		靴	kutsu	
 Clothing:shoemaker.N		靴屋	kutsuya	
-Clothing:silk.N		シルク	shiruku	
-Clothing:silk.N		絹	kinu	
-Clothing:skirt.N		スカート	sukāto	
+Clothing:silk.N		シルク	shiruku	eng:silk
+Clothing:silk.N		絹	kinu	cmn:kĭwän 絹
+Clothing:skirt.N		スカート	sukāto	nhu:skyrta
 Clothing:snowshoe.N		橇	kanjiki	
 Clothing:snowshoe.N		雪靴	yukigutsu	
 Clothing:spin.V		紡ぐ	tsumugu	
-Clothing:spindle.N		紡錘	bōsui	
+Clothing:spindle.N		紡錘	bōsui	cmn:făngchuí 紡錘
 Clothing:spindle.N		錘	tsumu	
-Clothing:stocking.N		ストッキング	sutokkingu	
-Clothing:stocking.N		ソックス	sokkusu	
+Clothing:stocking.N		ストッキング	sutokkingu	eng:stocking
+Clothing:stocking.N		ソックス	sokkusu	eng:socks
 Clothing:stocking.N		靴下	kutsushita	
 Clothing:tailor.N		仕立屋	shitateya	
 Clothing:thread.N		糸	ito (1)	
-Clothing:towel.N		タオル	taoru	
-Clothing:trousers.N		スラックス	surakkusu	
-Clothing:trousers.N		ズボン	zubon	
-Clothing:veil.N		ベール	bēru	
+Clothing:towel.N		タオル	taoru	:Unidentifiable
+Clothing:trousers.N		スラックス	surakkusu	eng:slacks
+Clothing:trousers.N		ズボン	zubon	fra:jupon
+Clothing:veil.N		ベール	bēru	:vēlum
 Clothing:weave.V		織る	oru	
-Cognition:study.V		勉強	benkyō	
+Cognition:study.V		勉強	benkyō	cmn:miănqiăng
 Cognition:study.V		学ぶ	manabu	
+Cognition:true.A		本当	hontō	
+Cognition:true.A		真	shin	cmn:zhēn
+Cognition:true.A		誠	makoto	
 Combat:bomb.N		爆弾	bakudan	
 Combat:fight.V		争う	arasou	
 Combat:fight.V		戦う・闘う	tatakau	
-Combat:helmet.N		ヘルメット	herumetto	
+Combat:helmet.N		ヘルメット	herumetto	:helme?
 Combat:helmet.N		兜・冑・甲	kabuto	
 Communication:answer.V		答える	kotaeru	
 Communication:answer.V		返事	henji	
@@ -401,124 +404,165 @@ Communication:boast.V		威張る	ibaru
 Communication:boast.V		自慢	jiman	
 Communication:boast.V		誇る	hokoru	
 Communication:call.V		呼ぶ	yobu	
-Communication:deny.V		否定	hitei	
+Communication:deny.V		否定	hitei	cmn:fŏudìng
 Communication:deny.V		打ち消す	uchikesu	
-Communication:forbid.V		禁じる	kinjiru	
-Communication:forbid.V		禁止	kinshi	
+Communication:forbid.V		禁じる	kinjiru	cmn:jìn
+Communication:forbid.V		禁止	kinshi	cmn:jìnzhĭ
+Communication:forgive.V		勘弁	kanben	
+Communication:forgive.V		容赦/用捨 (the former is now usual)	yōsha	
+Communication:forgive.V		許す	yurusu	
+Communication:kiss.V		キス	kisu	eng:kiss
+Communication:kiss.V		口付け	kuchizuke	
 Communication:language.N		言葉	kotoba	
-Communication:language.N		言語	gengo	
+Communication:language.N		言語	gengo	cmn:yányŭ
+Communication:laugh.V		笑う	warau	
 Communication:letter.N		手紙	tegami	
+Communication:lie.V		嘘を吐く	uso o tsuku	
 Communication:mail.N		郵便	yūbin	
-Communication:newspaper.N		新聞	shinbun	
+Communication:newspaper.N		新聞	shinbun	cmn:xīnwén 新聞 (graphic loan)
 Communication:postage stamp.N		切手	kitte	
 Communication:postcard.N		葉書、older variants　端書、羽書、判書	hagaki	
-Communication:radio.N		ラジオ	rajio	
-Communication:radio.N		無線	musen	
+Communication:radio.N		ラジオ	rajio	:radius
+Communication:radio.N		無線	musen	cmn:wúxiàn
 Communication:refuse.V		拒否	kyohi	
 Communication:refuse.V		断る	kotowaru	
-Communication:telephone.N		電話	denwa	
-Communication:television set.N		テレビ	terebi	
+Communication:telephone.N		電話	denwa	cmn:diànhuà
+Communication:television set.N		テレビ	terebi	eng:television
 Communication:tell.V		語る	kataru	
-Cosmos:Sun.N		太陽	taiyō (1)	
+Cosmos:Sun.N		太陽	taiyō (1)	cmn:tàiyáng
 Cosmos:Sun.N		日	hi (1)	
 Cosmos:moon.N		月	tsuki	
 Cosmos:star.N		星	hoshi	
-Element:Ag.N		銀	gin	
-Element:Au.N		金	kin	
-Element:Au.N		黄金	ōgon	
-Element:Cu.N		銅	dō (1)	
-Element:Fe.N		鉄	tetsu	
+Element:Ag.N		銀	gin	cmn:yín
+Element:Au.N		金	kin	cmn:jīn
+Element:Au.N		黄金	ōgon	cmn:huángjīn
+Element:Cu.N		銅	dō (1)	cmn:tóng
+Element:Fe.N		鉄	tetsu	cmn:tiě
 Element:Pb.N		鉛	namari	
-Emotion:feel.V		感じる	kanjiru	
+Emotion:anger.N		怒り	ikari (2)	
+Emotion:anger.N		激怒	gekido	cmn:jīnù
+Emotion:anxiety.N		不安	fu’an	cmn:bù’an
+Emotion:anxiety.N		心配	shinpai	
+Emotion:blame.N		責任	sekinin	cmn:zérèn
+Emotion:blame.N		非難	hinan	cmn:fēinàn
+Emotion:courageous.A		勇ましい	isamashii	
+Emotion:courageous.A		勇敢	yūkan	cmn:yŏnggăn
+Emotion:cry.V		泣く	naku	
+Emotion:dare.V		冒す	okasu	
+Emotion:dare.V		敢えて	aete	
+Emotion:envy.N		妬み・嫉み	netami	
+Emotion:envy.N		嫉妬	shitto	cmn:jídù
+Emotion:envy.N		羨み	urayami	
+Emotion:fear.N		恐れ	osore	
+Emotion:fear.N		恐怖	kyōfu	cmn:kǒngbù
+Emotion:feel.V		感じる	kanjiru	cmn:găn
 Emotion:feel.V		触る	sawaru	
-Family:ancestors.N		先祖	senzo	
+Emotion:grief.N		悲しみ	kanashimi	
+Emotion:grief.N		悲哀	hitan	cmn:bēitàn
+Emotion:happy.A		めでたい	medetai	
+Emotion:happy.A		嬉しい	ureshii	
+Emotion:hate.V		憎む	nikumu	
+Emotion:hope.V		希望	kibō	cmn:xīwàng
+Emotion:hope.V		望む	nozomu	
+Emotion:love.V		恋	koi	
+Emotion:love.V		愛	ai	cmn:ài
+Emotion:shame.N		恥	haji	
+Emotion:shame.N		羞恥	shūchi	cmn:xiūchĭ 羞恥
+Emotion:surprised.A		びっくり・吃驚 (the latter a case of ateji)	bikkuri	
+Emotion:surprised.A		驚く	odoroku	
+Emotion:want.V		望む	nozomu	
+Emotion:want.V		欲しい	hoshii	
+Family:ancestors.N		先祖	senzo	cmn:xiānzǔ 先祖
 Family:aunt.N		伯母　(parent’s elder brother)、叔母(parent’s younger brother)	oba	
-Family:brother.N		兄弟	keitei	
+Family:brother.N		兄弟	keitei	cmn:xiōngdì
 Family:brother.N		男兄弟	otokokyōdai	
 Family:child.N		子供	kodomo	
 Family:cousin.N		従兄弟 (usually in hiragana. In kanji, the characters given are most common, but appropriate characters can be used to indicate gender and relative age of the cousin)	itoko	
 Family:daughter.N		娘	musume	
-Family:descendant.N		子孫	shison	
-Family:divorce.N		離婚	rikon	
-Family:family.N		家族	kazoku	
+Family:descendant.N		子孫	shison	cmn:zĭsūn
+Family:divorce.N		離婚	rikon	deu:Scheidung
+Family:family.N		家族	kazoku	cmn:jiāzú
 Family:family.N		身内	miuchi	
 Family:father.N		お父さん	otōsan	
 Family:father.N		父	chichi (1)	
 Family:grandchild.N		孫	mago	
 Family:granddaughter.N		孫娘	magomusume	
 Family:grandfather.N		お祖父さん (grandfather) お爺さん (old man)	ojiisan	
-Family:grandfather.N		祖父	sofu	
+Family:grandfather.N		祖父	sofu	cmn:zǔfù
 Family:grandmother.N		お祖母さん (grandmother) お婆さん (old woman)	obāsan	
-Family:grandmother.N		祖母	sobo	
-Family:grandparents.N		祖父母	sofubo	
+Family:grandmother.N		祖母	sobo	cmn:zǔmǔ
+Family:grandparents.N		祖父母	sofubo	cmn:zǔfùmǔ
 Family:grandson.N		孫	mago	
-Family:husband.N		主人	shujin	
-Family:husband.N		亭主	teishu	
+Family:husband.N		主人	shujin	cmn:zhǔrén
+Family:husband.N		亭主	teishu	cmn:tíngzhŭ
 Family:husband.N		夫	otto	
-Family:husband.N		旦那、originally 檀那	danna	
+Family:husband.N		旦那、originally 檀那	danna	:dāna (pati)
 Family:married man.N		妻帯者	saitaisha	
 Family:married woman.N		人妻	hitozuma	
-Family:marry.V		結婚	kekkon	
+Family:marry.V		結婚	kekkon	cmn:jiéhūn
 Family:mother.N		お母さん	okāsan	
 Family:mother.N		母	haha	
 Family:nephew.N		甥	oi	
 Family:niece.N		姪	mei	
 Family:older brother.N		お兄さん	oniisan	
 Family:older brother.N		兄	ani	
-Family:older sibling.N		兄姉	keishi	
+Family:older sibling.N		兄姉	keishi	cmn:xiōngzĭ 兄姊
 Family:older sibling.N		年上の兄弟	toshiue no kyōdai	
 Family:older sister.N		お姉さん	onēsan	
 Family:older sister.N		姉	ane	
-Family:orphan.N		孤児	koji	
-Family:parents.N		両親	ryōshin	
+Family:orphan.N		孤児	koji	cmn:gūér
+Family:parents.N		両親	ryōshin	cmn:èrqīn?
 Family:parents.N		親	oya	
-Family:relatives.N		親戚	shinseki	
+Family:relatives.N		親戚	shinseki	cmn:qīnqī
 Family:sibling-in-law.N		義兄弟	gikyōdai	
-Family:sibling.N		兄弟	kyōdai	
-Family:sibling.N		兄弟姉妹	kyōdaishimai	
+Family:sibling.N		兄弟	kyōdai	cmn:xiōngdì
+Family:sibling.N		兄弟姉妹	kyōdaishimai	cmn:xiōngdìzĭmèi 兄弟姊妹
 Family:sister.N		女兄弟	onnakyōdai	
-Family:sister.N		姉妹	shimai	
+Family:sister.N		姉妹	shimai	cmn:zĭmèi 姊妹
 Family:son.N		息子	musuko	
 Family:stepdaughter.N		継娘	mamamusume	
 Family:stepfather.N		継父	mamachichi	
-Family:stepfather.N		義父	gifu	
+Family:stepfather.N		義父	gifu	cmn:yìfù
 Family:stepmother.N		継母	mamahaha	
-Family:stepmother.N		義母	gibo	
+Family:stepmother.N		義母	gibo	cmn:yìmŭ
 Family:stepson.N		継息子	mamamusuko	
 Family:uncle.N		伯父　(parent’s elder brother)、叔父(parent’s younger brother)	oji	
 Family:wedding.N		結婚式	kekkonshiki	
 Family:widow.N		寡、寡婦?	yamome	
-Family:widow.N		寡婦	kafu	
+Family:widow.N		寡婦	kafu	cmn:guăfù
 Family:widow.N		未亡人	mibōjin	
 Family:widower.N		男寡婦	otokoyamome	
 Family:wife.N		奥さん	okusan	
-Family:wife.N		女房	nyōbō	
+Family:wife.N		女房	nyōbō	cmn:nǚfáng
 Family:wife.N		妻	tsuma	
-Family:wife.N		家内	kanai	
+Family:wife.N		家内	kanai	cmn:jiānèi
 Family:younger brother.N		弟	otōto	
 Family:younger sibling.N		年下の兄弟	toshishita no kyōdai	
-Family:younger sibling.N		弟妹	teimai	
+Family:younger sibling.N		弟妹	teimai	cmn:dìmèi
 Family:younger sister.N		妹	imōto	
-Food:Ficus carica.N		イチジク・無花果・映日果	ichijiku	
-Food:Musa acuminata.N		バナナ　（obsolete kanji 実芭蕉）	banana	
+Food:Ficus carica.N		イチジク・無花果・映日果	ichijiku	pes:anjir
+Food:Musa acuminata.N		バナナ　（obsolete kanji 実芭蕉）	banana	spa:banana
+Food:NaCl.N		塩 (salt); 潮、汐 (tide)	shio	cmn:śĭəp　溼
 Food:bake.V		焼く	yaku	
-Food:candy.N		キャンデー	kyandē	
-Food:candy.N		菓子、果子	kashi (1)	
+Food:candy.N		キャンデー	kyandē	arb:ķand
+Food:candy.N		菓子、果子	kashi (1)	cmn:guǒzi
 Food:candy.N		飴	ame (2)	
-Food:fermented alcohol.N		発酵飲料	hakkōinryō	
+Food:fermented alcohol.N		発酵飲料	hakkōinryō	cmn:fāxiàoĭnliào 發酵飲料
 Food:flour.N		小麦粉	komugiko	
-Food:sausage.N		ソーセージ	sōsēji	
+Food:sausage.N		ソーセージ	sōsēji	:salsicia
+Food:soup.N		スープ	sūpu	:suppa?
+Food:soup.N		汁	shiru (2)	
 Food:supper.N		夕食	yūshoku	
 Food:supper.N		夕飯	yūmeshi	
-Food:supper.N		晩餐	bansan	
-Food:tea.N		茶	cha	
+Food:supper.N		晩餐	bansan	cmn:wăncān
+Food:tea.N		茶	cha	cmn:chá
 Form:bend.V		曲げる	mageru	
 Function:1PL.PRN		俺達	oretachi	
 Function:1PL.PRN		僕等	bokura	
 Function:1PL.PRN		我々	wareware	
 Function:1PL.PRN		私達	watashitachi	
 Function:1SG.PRN		俺	ore	
-Function:1SG.PRN		僕	boku	
+Function:1SG.PRN		僕	boku	cmn:pú
 Function:1SG.PRN		私	watashi	
 Function:2PL.PRN		君達	kimitachi	
 Function:2PL.PRN		貴方々	anatagata	
@@ -536,17 +580,17 @@ Function:and.CNJ		や	ya (2)
 Function:or.CNJ		か	ka (2)	
 Function:or.CNJ		又	mata	
 Grooming:bracelet.N		腕輪	udewa	
-Grooming:brush.N		ブラシ、刷子	burashi	
+Grooming:brush.N		ブラシ、刷子	burashi	:brosse
 Grooming:brush.N		刷毛	hake	
 Grooming:comb.N		櫛(comb), 串(skewer)	kushi	
-Grooming:earring.N		イヤリング	iyaringu	
+Grooming:earring.N		イヤリング	iyaringu	eng:earring
 Grooming:earring.N		耳輪	mimiwa	
-Grooming:jewel.N		宝石	hōseki	
+Grooming:jewel.N		宝石	hōseki	cmn:băoshí
 Grooming:mirror.N		鏡	kagami	
-Grooming:necklace.N		ネックレス	nekkuresu	
+Grooming:necklace.N		ネックレス	nekkuresu	eng:necklace
 Grooming:necklace.N		首飾り	kubikazari	
-Grooming:ointment.N		軟膏	nankō	
-Grooming:ornament.N		アクセサリー	akusesarii	
+Grooming:ointment.N		軟膏	nankō	cmn:ruăngāo
+Grooming:ornament.N		アクセサリー	akusesarii	:accessorius
 Grooming:ornament.N		飾り物	kazarimono	
 Grooming:razor.N		剃刀	kamisori	
 Grooming:ring.N		指輪	yubiwa	
@@ -559,60 +603,64 @@ Handiwork:axe.N		斧	ono
 Handiwork:blacksmith.N		鍛冶屋 (first two characters ateji)	kajiya	
 Handiwork:bore.V		穴を開ける	ana o akeru	
 Handiwork:braid or weave.V		編む	amu	
-Handiwork:carpenter.N		大工	daiku	
+Handiwork:carpenter.N		大工	daiku	cmn:dàgōng
 Handiwork:carve.V		刻む	kizamu	
-Handiwork:carve.V		彫刻	chōkoku	
+Handiwork:carve.V		彫刻	chōkoku	cmn:diāokè 雕刻
 Handiwork:carve.V		掘る (”dig”), 彫る (”carve”)	horu	
-Handiwork:cast.V		鋳造	chūzō	
-Handiwork:chisel.N		彫刻刀	chōkokutō	
+Handiwork:cast.V		鋳造	chūzō	cmn:zhùzào
+Handiwork:chisel.N		彫刻刀	chōkokutō	cmn:diāokèdāo
 Handiwork:chisel.N		鑿	nomi (2)	
 Handiwork:forge.V		鍛える	kitaeru	
-Handiwork:hammer.N		ハンマー	hanmā	
+Handiwork:hammer.N		ハンマー	hanmā	eng:hammer
 Handiwork:hammer.N		鎚	tsuchi (2)	
 Handiwork:nail.N		釘	kugi	
 Handiwork:peg.N		杭/杙/株	kui	
-Handiwork:peg.N		栓	sen (3)	
+Handiwork:peg.N		栓	sen (3)	cmn:shuān
 Handiwork:peg.N		釘	kugi	
-Handiwork:potter.N		陶工	tōkō	
+Handiwork:potter.N		陶工	tōkō	cmn:táogōng
 Handiwork:saw.N		鋸	nokogiri	
 Handiwork:screw.N		捻子、捩子、螺旋、螺子 (all seem to be ateji)	neji	
 Handiwork:screwdriver.N		螺旋回し	nejimawashi	
 Handiwork:shears.N		鋏	hasami	
-Handiwork:tool.N		工具	kōgu	
-Handiwork:tool.N		道具	dōgu	
+Handiwork:tool.N		工具	kōgu	cmn:gōngjù
+Handiwork:tool.N		道具	dōgu	cmn:dàojù
 Handiwork:whetstone.N		砥石	toishi	
 Handiwork:workshop.N		工場, note that this is written the same as kōjō which is a bigger factory.	kōba	
-Health:disease.N		病気	byōki	
-Health:fever.N		熱	netsu	
-Health:healthy.A		健康	kenkō	
-Health:healthy.A		元気	genki	
-Health:hospital.N		病院	byōin	
-Health:injection.N		注射	chūsha	
+Health:disease.N		病気	byōki	cmn:bìngqì
+Health:fever.N		熱	netsu	cmn:rè
+Health:healthy.A		健康	kenkō	cmn:jiànkāng
+Health:healthy.A		元気	genki	cmn:yuánqì
+Health:hospital.N		病院	byōin	cmn:bìngyuàn
+Health:injection.N		注射	chūsha	cmn:zhùshè
 Health:medicine.N		薬	kusuri	
 Health:physician.N		医者	isha	
 Health:pill.N		錠剤	jōzai	
-Health:poison.N		毒	doku	
-House:bed.N		ベッド	beddo	
-House:bed.N		寝台	shindai	
+Health:poison.N		毒	doku	cmn:dú
+House:bed.N		ベッド	beddo	eng:bed
+House:bed.N		寝台	shindai	cmn:qĭntái 寢臺
 House:bed.N		床	toko	
 House:blanket.N		毛布	mōfu	
-House:mattress.N		マットレス、　敷布団	mattoresu	
-House:mattress.N		布団、originally 蒲団	futon	
+House:mattress.N		マットレス、　敷布団	mattoresu	arb:maţraħ
+House:mattress.N		布団、originally 蒲団	futon	cmn:pútuán 蒲團
 House:pillow.N		枕	makura	
-House:rug.N		カーペット	kāpetto	
-House:rug.N		絨毯	jūtan	
+House:rug.N		カーペット	kāpetto	ita:carpita
+House:rug.N		絨毯	jūtan	cmn:róngtăn
 House:sink.N		洗面器	senmenki	
-House:toilet.N		トイレ	toire	
+House:toilet.N		トイレ	toire	:tēla
 House:toilet.N		便所	benjo	
-House:toilet.N		化粧室	keshōshitsu	
+House:toilet.N		化粧室	keshōshitsu	cmn:huàzhàngshì
 House:toilet.N		御手洗	otearai	
-Hunting:boomerang.N		ブーメラン	būmeran	
+Hunting:boomerang.N		ブーメラン	būmeran	:bumariny
 Hunting:hunt.V		狩る	karu (2)	
-Language:book.N		本	hon	
-Law:crime.N		犯罪	hanzai	
+Interaction:choose.V		選ぶ	erabu	
+Interaction:choose.V		選択	sentaku (2)	cmn:xuănzé
+Interaction:rescue.V		救う	sukuu	
+Interaction:rescue.V		救助	kyūjo	cmn:jiùzhù
+Language:book.N		本	hon	cmn:běn
+Law:crime.N		犯罪	hanzai	cmn:fànzuì
 Law:crime.N		罪	tsumi	
 Mind:dream.V		夢を見る	yume o miru	
-Motion:approach.V		接近	sekkin	
+Motion:approach.V		接近	sekkin	cmn:jiējìn
 Motion:approach.V		近寄る	chikayoru	
 Motion:arrive.V		到着	tōchaku	
 Motion:arrive.V		着く	tsuku (1)	
@@ -629,113 +677,126 @@ Motion:drop (something).V		落す	otosu
 Motion:enter.V		入る	hairu	
 Motion:fall.V		落ちる	ochiru	
 Motion:fly.V		飛ぶ (”fly”), 跳ぶ (”jump”)	tobu	
-Motion:follow.V		後続	kōzoku	
+Motion:follow.V		後続	kōzoku	cmn:hòuxù 後續
 Motion:follow.V		従う	shitagau	
 Motion:follow.V		着く	tsuku (1)	
 Motion:follow.V		辿る	tadoru	
 Motion:go.V		行く	iku	
-Motion:leave.V		出発	shuppatsu	
+Motion:leave.V		出発	shuppatsu	cmn:chūfā
 Motion:leave.V		去る	saru (2)	
 Motion:lift.V		持ち上げる	mochiageru	
 Motion:ride.V		乗る	noru	
-Motion:ride.V		乗馬	jōba	
+Motion:ride.V		乗馬	jōba	cmn:chéngmă
 Motion:roll.V		転がす	korogasu	
 Motion:turn (sth).V		向ける	mukeru	
-Motion:walking stick.N		ステッキ	sutekki	
+Motion:walking stick.N		ステッキ	sutekki	eng:stick
 Motion:walking stick.N		杖	tsue	
-Music:brass instrument.N		トランペット	toranpetto	
-Music:brass instrument.N		ホルン	horun	
-Music:brass instrument.N		喇叭	rappa	
+Music:brass instrument.N		トランペット	toranpetto	:trompette
+Music:brass instrument.N		ホルン	horun	deu:Horn
+Music:brass instrument.N		喇叭	rappa	nld:roeper
 Music:brass instrument.N		角笛	tsunobue	
-Music:drum.N		ドラム	doramu	
+Music:drum.N		ドラム	doramu	nds:trommelslag
 Music:drum.N		太鼓	taiko	
-Music:government.N		政府	seifu	
-Music:music.N		音楽	ongaku	
+Music:government.N		政府	seifu	cmn:zhèngfŭ
+Music:music.N		音楽	ongaku	cmn:yīnyuè
 Music:sing.V		歌う	utau	
-Music:song.N		曲	kyoku	
+Music:song.N		曲	kyoku	cmn:qŭ
 Music:song.N		歌	uta	
 Nature:flame.N		炎	honoo	
-Nature:savanna.N		サバンナ	saban’na	
+Nature:savanna.N		サバンナ	saban’na	tnq:zabana
 Nature:sea.N		海	umi (1)	
 Nature:shore.N		岸	kishi	
-Nature:shore.N		河岸	kagan	
-Nature:shore.N		海岸	kaigan	
+Nature:shore.N		河岸	kagan	cmn:héàn
+Nature:shore.N		海岸	kaigan	cmn:hăiàn
 People:baby.N		赤ちゃん	aka-chan	
-People:boy.N		少年	shōnen	
+People:boy.N		少年	shōnen	cmn:shàonián
 People:boy.N		男の子	otokonoko	
-People:boy.N		男子	danshi	
+People:boy.N		男子	danshi	cmn:nánzi
 People:child.N		子供	kodomo	
 People:female.A		女	onna	
-People:female.A		女性	josei	
+People:female.A		女性	josei	cmn:nǚxìng
 People:girl.N		女の子	onnanoko	
-People:girl.N		女子	joshi	
-People:girl.N		少女	shōjo	
+People:girl.N		女子	joshi	cmn:nǚzi
+People:girl.N		少女	shōjo	cmn:shàonǚ
 People:male.A		男	otoko	
-People:male.A		男性	dansei	
+People:male.A		男性	dansei	cmn:nánxìng
 People:man.N		男	otoko	
-People:man.N		男性	dansei	
+People:man.N		男性	dansei	cmn:nánxìng
 People:old man.N		お祖父さん (grandfather) お爺さん (old man)	ojiisan	
 People:old man.N		年寄り	toshiyori	
-People:old man.N		老人	rōjin	
+People:old man.N		老人	rōjin	cmn:lăorén
 People:old woman.N		お祖母さん (grandmother) お婆さん (old woman)	obāsan	
-People:old woman.N		老婆	rōba	
-People:old woman.N		老婦	rōfu	
+People:old woman.N		老婆	rōba	cmn:lăopó
+People:old woman.N		老婦	rōfu	cmn:lăofù
 People:twins.N		双子	futago	
 People:woman.N		女	onna	
-People:woman.N		女性	josei	
+People:woman.N		女性	josei	cmn:nǚxìng
 People:young man.N		若者	wakamono	
-People:young man.N		青年	seinen	
+People:young man.N		青年	seinen	cmn:qīngnián
 People:young woman.N		乙女	otome	
-People:young woman.N		青女	seijo	
+People:young woman.N		青女	seijo	cmn:qīngnǚ
+Perception:hear.V		聞く	kiku	
+Perception:hear.V		聞こえる	kikoeru	
 Perception:touch.V		触る	sawaru	
 Perception:touch.V		触れる	fureru	
 Plant:Betula.N		樺	kaba	
 Plant:branch or twig.N		枝	eda	
 Plant:leaf.N		葉	ha (2)	
-Plant:needle.N		針葉	shin’yō (1)	
-Plant:plant.N		植物	shokubutsu	
+Plant:needle.N		針葉	shin’yō (1)	cmn:zhēnyè
+Plant:plant.N		植物	shokubutsu	cmn:zhíwù
 Plant:root.N		根	ne	
-Plant:sap.N		樹液	jueki	
+Plant:sap.N		樹液	jueki	cmn:shùyè
 Plant:seed.N		種	tane	
-Plant:seed.N		種子	shushi	
+Plant:seed.N		種子	shushi	cmn:zhǒngzi
 Plant:tree stump.N		切り株	kirikabu	
 Plant:tree trunk.N		幹	miki	
 Plant:tree.N		木	ki (1)	
 Plant:vine.N		葡萄の木	budō no ki	
-Quantity:0.NUM		ゼロ	zero	
-Quantity:0.NUM		零	rei	
-Quantity:1.NUM		一	ichi (2)	
+Possession:greedy.A		がつがつ	gatsugatsu	
+Possession:greedy.A		欲張り	yokubari	
+Possession:greedy.A		貪欲	don’yoku	cmn:tānyù 貪慾
+Possession:poor.A		貧しい	mazushii	
+Possession:poor.A		貧乏	binbō	cmn:pínfá
+Possession:price.N		価格	kakaku	cmn:jiàgé
+Possession:price.N		値段	nedan	
+Possession:rich.A		裕福	yūfuku	
+Possession:rich.A		金持ち	kanemochi	
+Possession:sell.V		売る	uru	
+Possession:share.V		分ける	wakeru	
+Quantity:0.NUM		ゼロ	zero	arb:ṣifr
+Quantity:0.NUM		零	rei	cmn:líng
+Quantity:1.NUM		一	ichi (2)	cmn:yi
 Quantity:1.NUM		一つ	hitotsu	
-Quantity:10.NUM		十	jū (2)	
+Quantity:10.NUM		十	jū (2)	cmn:shí
 Quantity:10.NUM		十	tō (1)	
-Quantity:100.NUM		百	hyaku	
-Quantity:1000.NUM		千	sen (1)	
-Quantity:11.NUM		十一	jūichi	
-Quantity:12.NUM		十二	jūni	
-Quantity:15.NUM		十五	jūgo	
-Quantity:2.NUM		二	ni (1)	
+Quantity:100.NUM		百	hyaku	cmn:băi
+Quantity:1000.NUM		千	sen (1)	cmn:qiān
+Quantity:11.NUM		十一	jūichi	cmn:shíyī
+Quantity:12.NUM		十二	jūni	cmn:shí’èr
+Quantity:15.NUM		十五	jūgo	cmn:shíwǔ
+Quantity:2.NUM		二	ni (1)	cmn:èr
 Quantity:2.NUM		二つ	futatsu	
-Quantity:20.NUM		二十	nijū	
-Quantity:3.NUM		三	san	
+Quantity:20.NUM		二十	nijū	cmn:èrshí
+Quantity:3.NUM		三	san	cmn:sān
 Quantity:3.NUM		三つ	mittsu	
-Quantity:4.NUM		四	shi	
+Quantity:4.NUM		四	shi	cmn:sì
 Quantity:4.NUM		四	yon	
 Quantity:4.NUM		四つ	yottsu	
-Quantity:5.NUM		五	go (1)	
+Quantity:5.NUM		五	go (1)	cmn:wŭ
 Quantity:5.NUM		五つ	itsutsu	
-Quantity:6.NUM		六	roku	
+Quantity:6.NUM		六	roku	cmn:liù
 Quantity:6.NUM		六つ	muttsu	
 Quantity:7.NUM		七	nana	
-Quantity:7.NUM		七	shichi	
+Quantity:7.NUM		七	shichi	cmn:qī
 Quantity:7.NUM		七つ	nanatsu	
-Quantity:8.NUM		八	hachi (3)	
+Quantity:8.NUM		八	hachi (3)	cmn:bā
 Quantity:8.NUM		八つ	yattsu	
-Quantity:9.NUM		九	kyū (2)	
+Quantity:9.NUM		九	kyū (2)	cmn:jiŭ
 Quantity:9.NUM		九つ	kokonotsu	
 Society:help.V		助ける	tasukeru	
-Society:help.V		援助	enjo	
+Society:help.V		援助	enjo	cmn:yuánzhù
 Sound:be silent.V		黙る	damaru	
-Sound:flute.N		フルート	furūto	
+Sound:flute.N		フルート	furūto	:*flabeolum
 Sound:flute.N		笛	fue	
 Sound:howl.V		吼える・吠える・咆える	hoeru	
 Sound:rattle.N		ガラガラ	garagara	
@@ -748,21 +809,21 @@ Sound:voice.N		声	koe
 Sound:whisper.V		囁く	sasayaku	
 Sound:whistle.V		口笛を吹く	kuchibue o fuku	
 Storage:basket.N		籠	kago	
-Storage:bottle.N		瓶	bin	
-Storage:can.N		缶 (a case of ateji), older variants: 罐、鑵	kan	
+Storage:bottle.N		瓶	bin	cmn:píng
+Storage:can.N		缶 (a case of ateji), older variants: 罐、鑵	kan	eng:can
 Storage:misplace.V		失う	ushinau	
 Storage:misplace.V		無くす	nakusu	
-Storage:netbag.N		ネットバッグ	nettobaggu	
+Storage:netbag.N		ネットバッグ	nettobaggu	eng:netbag
 Storage:pour.V		注ぐ	sosogu	
 Time:autumn.N		秋	aki	
-Time:calendar.N		カレンダー	karendā	
+Time:calendar.N		カレンダー	karendā	:calendarium
 Time:calendar.N		暦	koyomi	
-Time:final.A		最後	saigo	
-Time:hour.N		時間	jikan	
+Time:final.A		最後	saigo	cmn:zuìhòu
+Time:hour.N		時間	jikan	cmn:shíjiān
 Time:last.V		掛かる	kakaru	
 Time:last.V		続く	tsuzuku	
 Time:late.ADV		遅い	osoi	
-Time:month.N		月	gatsu	
+Time:month.N		月	gatsu	cmn:yuè
 Time:month.N		月	tsuki	
 Time:never.ADV		いつでも	itsudemo	
 Time:never.ADV		決して	kesshite	
@@ -772,54 +833,56 @@ Time:now.ADV		今	ima
 Time:often.ADV		しばしば・屡	shibashiba	
 Time:often.ADV		よく	yoku	
 Time:often.ADV		度々	tabitabi	
-Time:often.ADV		頻繁	hinpan	
+Time:often.ADV		頻繁	hinpan	cmn:pínfán
 Time:old.A		古い	furui	
 Time:old.A		年取る	toshitoru	
-Time:season.N		季節	kisetsu	
+Time:season.N		季節	kisetsu	cmn:jìjié
 Time:springtime.N		春	haru	
-Time:summer.N		夏	natsu	
+Time:summer.N		夏	natsu	cmn:ńĭat 熱
 Time:time.N		時	toki	
-Time:time.N		時間	jikan	
+Time:time.N		時間	jikan	cmn:shíjiān
 Time:today.ADV		今日	kyō (1)	
 Time:tomorrow.ADV		明日	ashita	
 Time:tomorrow.ADV		明日	asu	
 Time:winter.N		冬	fuyu	
-Time:year.N		年	nen	
+Time:year.N		年	nen	cmn:nián
 Time:year.N		年	toshi (1)	
-Time:year.N		年間	nenkan	
+Time:year.N		年間	nenkan	cmn:nían-jiān
 Time:yesterday.ADV		昨日	kinō	
-Time:yesterday.ADV		昨日	sakujitsu	
+Time:yesterday.ADV		昨日	sakujitsu	cmn:zuórì
 Transit:airplane.N		飛行機	hikōki	
 Transit:anchor.N		錨	ikari (1)	
-Transit:bicycle.N		ちゃりんこ	charinko	
+Transit:bicycle.N		ちゃりんこ	charinko	kor:Unidentifiable
 Transit:bicycle.N		自転車	jitensha	
-Transit:boat.N		ボート	bōto	
-Transit:boat.N		船 (”ship”), 舟 (”boat”)	fune	
-Transit:brake.V		ブレーキ	burēki	
-Transit:bus.N		バス	basu	
-Transit:canoe.N		カヌー	kanū	
+Transit:boat.N		ボート	bōto	eng:boat
+Transit:boat.N		船 (”ship”), 舟 (”boat”)	fune	cmn:b’uən 盆
+Transit:brake.V		ブレーキ	burēki	eng:brake
+Transit:bus.N		バス	basu	:omnibus
+Transit:canoe.N		カヌー	kanū	car:canaoua
 Transit:car.N		自動車	jidōsha	
 Transit:car.N		車	kuruma	
 Transit:cart.N		荷馬車	nibasha	
 Transit:cart.N		車	kuruma	
-Transit:driver's license.N		免許	menkyo	
-Transit:license plate.N		ナンバープレート	nanbāpurēto	
-Transit:motorcycle.N		オートバイ	ōtobai	
-Transit:oar.N		オール	ōru	
+Transit:driver's license.N		免許	menkyo	cmn:miănxŭ
+Transit:license plate.N		ナンバープレート	nanbāpurēto	eng:number plate
+Transit:motorcycle.N		オートバイ	ōtobai	eng:auto bike
+Transit:oar.N		オール	ōru	eng:oar
 Transit:oar.N		櫂	kai (2)	
-Transit:oar.N		櫓・艪	ro	
-Transit:paddle.N		パドル	padoru	
+Transit:oar.N		櫓・艪	ro	cmn:lŭ 櫓
+Transit:paddle.N		パドル	padoru	:padula
 Transit:paddle.N		櫂	kai (2)	
 Transit:road.N		道	michi	
-Transit:road.N		道路	dōro	
+Transit:road.N		道路	dōro	cmn:dàolù
 Transit:row.V		漕ぐ	kogu	
 Transit:rudder.N		舵	kaji	
 Transit:sail.V		帆走	hansō	
-Transit:sail.V		航行	kōkō	
+Transit:sail.V		航行	kōkō	cmn:hángxíng
 Transit:sailcloth.N		帆	ho	
-Transit:ship.N		船 (”ship”), 舟 (”boat”)	fune	
+Transit:ship.N		船 (”ship”), 舟 (”boat”)	fune	cmn:b’uən 盆
 Transit:street.N		通り	tōri	
-Transit:train.N		汽車	kisha	
-Transit:train.N		電車	densha	
-Transit:wheel.N		車輪	sharin	
+Transit:train.N		汽車	kisha	cmn:qìchē
+Transit:train.N		電車	densha	eng:electric train
+Transit:wheel.N		車輪	sharin	cmn:chēlún
 Transit:wheel.N		輪	wa	
+Value:bad.A		悪い	warui	
+Value:good.A		良い	ii	
