@@ -22,6 +22,15 @@ def make_bilingual_dictionary_table(source_language_dict, target_language_dict):
     source_dict = source_reader.dict
     target_reader = helpers.tsv_reader(target_language_dict)
     target_dict = target_reader.dict
+
+    # Collect transcription or pronunciation if available.
+    has_transcription = False
+    has_pronunciation = False
+    if "transcription" in target_dict.fieldnames:
+        has_transcription = True
+    elif "pronunciation" in target_dict.fieldnames:
+        has_pronunciation = True
+
     # Start both dictionaries from the first row.
     source_row = next(source_dict, None)
     target_row = next(target_dict, None)
@@ -34,7 +43,12 @@ def make_bilingual_dictionary_table(source_language_dict, target_language_dict):
             break
         if source_row["id"] == target_row["id"]:
             word_class = source_row["id"].split('.')[1].lower()
-            bilingual_dictionary.append([source_row["word"], word_class, target_row["word"]])
+            if has_transcription:
+                bilingual_dictionary.append([source_row["word"], word_class, target_row["word"], target_row["transciption"]])
+            elif has_pronunciation:
+                bilingual_dictionary.append([source_row["word"], word_class, target_row["word"], target_row["pronunciation"]])
+            else:
+                bilingual_dictionary.append([source_row["word"], word_class, target_row["word"]])
             # TODO: Handle synonyms better.
             # Advance only target row in case of synonyms.
             target_row = next(target_dict, None)
@@ -64,9 +78,15 @@ def format_and_write(source_lang, target_lang, dict):
             previous_initial = initial
 
         # Make bilingual entry in simple Markdown format.
-        # The format is: **source_word** *PoS* target_word
-        #              source_word            PoS             target_word
-        entry = '**' + row[0] + '**' + " *" + row[1] + '* ' + row[2]
+        # Include transcription or pronunciation if the field for it is available and not empty.
+        if len(row) == 4 and row[3] != "":
+            # The format is: **source_word** *PoS* target_word /pronunciation/
+            #              source_word            PoS             target_word     pronunciation
+            entry = '**' + row[0] + '**' + " *" + row[1] + '* ' + row[2] + " /" + row[3] + "/"
+        else:
+            # The format is: **source_word** *PoS* target_word
+            #              source_word            PoS             target_word
+            entry = '**' + row[0] + '**' + " *" + row[1] + '* ' + row[2]
         file.write(entry + "  \n")
         # Uncomment the following line if you want to print the entries to the screen.
         #print(entry)
