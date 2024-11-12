@@ -284,6 +284,7 @@ Clothing:trousers.N		pantalon
 Clothing:veil.N		voile
 Clothing:weave.V		tisser
 Cognition:study.V		étudier
+Cognition:true.A		vrai
 Combat:bomb.N		bombe
 Combat:fight.V		se battre
 Combat:helmet.N		casque
@@ -292,8 +293,12 @@ Communication:boast.V		se vanter
 Communication:call.V		appeler, hêler
 Communication:deny.V		nier
 Communication:forbid.V		interdire
+Communication:forgive.V		pardonner
+Communication:kiss.V		baiser,embrasser
 Communication:language.N		langue, langage
+Communication:laugh.V		rire
 Communication:letter.N		lettre
+Communication:lie.V		mentir
 Communication:mail.N		courrier, poste
 Communication:newspaper.N		journal
 Communication:postage stamp.N		timbre
@@ -311,7 +316,23 @@ Element:Au.N		or
 Element:Cu.N		cuivre
 Element:Fe.N		fer
 Element:Pb.N		plomb
+Emotion:anger.N		colère
+Emotion:anxiety.N		inquiétude, soucis
+Emotion:blame.N		blâme
+Emotion:courageous.A		courageux
+Emotion:cry.V		pleurer
+Emotion:dare.V		oser
+Emotion:envy.N		envie, jalousie
+Emotion:fear.N		peur, crainte
 Emotion:feel.V		tater, palper
+Emotion:grief.N		douleur, deuil
+Emotion:happy.A		joyeux, heureux
+Emotion:hate.V		haïr, détester
+Emotion:hope.V		espoir
+Emotion:love.V		aimer
+Emotion:shame.N		honte
+Emotion:surprised.A		étonné, surpris
+Emotion:want.V		vouloir,désirer
 Family:ancestors.N		ancêtres,aïeux
 Family:aunt.N		tante
 Family:brother.N		frère
@@ -360,12 +381,14 @@ Family:younger sibling.N		frêre/sœur cadet(te)
 Family:younger sister.N		soeur cadette
 Food:Ficus carica.N		figue
 Food:Musa acuminata.N		banane
+Food:NaCl.N		sel
 Food:bake.V		cuire au four
 Food:candy.N		confiserie, sucrerie, bonbon
 Food:dinner.N		dîner
 Food:fermented alcohol.N		boisson fermentée
 Food:flour.N		farine
 Food:sausage.N		saucisse
+Food:soup.N		soupe, potage
 Food:supper.N		souper, repas du soir
 Food:tea.N		thé
 Form:bend.V		plier
@@ -433,6 +456,8 @@ House:sink.N		évier, lavabo
 House:toilet.N		toilette
 Hunting:boomerang.N		boomerang
 Hunting:hunt.V		chasser
+Interaction:choose.V		choisir
+Interaction:rescue.V		sauver
 Language:book.N		livre
 Law:crime.N		crime, délit
 Mind:dream.V		rêver
@@ -480,6 +505,7 @@ People:twins.N		jumeaux
 People:woman.N		femme
 People:young man.N		jeune homme
 People:young woman.N		jeune fille
+Perception:hear.V		entendre
 Perception:touch.V		toucher
 Plant:Beta vulgaris saccharifera.N		betterave
 Plant:Betula.N		bouleau
@@ -495,6 +521,12 @@ Plant:tree stump.N		souche d'arbre
 Plant:tree trunk.N		tronc d'arbre
 Plant:tree.N		arbre
 Plant:vine.N		vigne
+Possession:greedy.A		gourmand
+Possession:poor.A		pauvre
+Possession:price.N		prix
+Possession:rich.A		riche
+Possession:sell.V		vendre
+Possession:share.V		partager
 Quantity:0.NUM		zéro
 Quantity:1.NUM		un
 Quantity:10.NUM		dix
@@ -575,3 +607,5 @@ Transit:ship.N		navire,bateau
 Transit:street.N		rue
 Transit:train.N		train
 Transit:wheel.N		roue
+Value:bad.A		mauvais
+Value:good.A		bon

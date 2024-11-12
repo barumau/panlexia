@@ -602,6 +602,7 @@ Communication:call.V	Language:call.V	To address or summon someone.	1084	18-41	ru
 Communication:cellphone.N	Tool:cellphone.N	cellphone, cellular telephone				1278
 Communication:chat.V	Action/Technology:chat (with somebody).V	To have a conversation with somebody.	2903	18-99908	sich unterhalten::V	
 Communication:complain.V	Language:complain.V	To express one's dissatisfaction or unhappiness.	3642	16-99909		
+Communication:convey (a message).V	Action/Technology:convey (a message).V	To share a message with somebody.	2898		mitteilen::V	
 Communication:deny.V	Language:deny.V	To refuse strongly and solemnly to own or acknowledge.	755	18-34		2215
 Communication:dialect.N	Language:dialect.N	A variety of a language that is characteristic of a particular group.	2815			
 Communication:email.N		Messages sent and received via computer.				
@@ -784,6 +785,7 @@ Element:Y.N		Yttrium, the chemical element with atomic number 39 and symbol Y.
 Element:Yb.N		Ytterbium, the chemical element with atomic number 70 and symbol Yb.				
 Element:Zn.N		Zinc, the chemical element with atomic number 30 and symbol Zn.				
 Element:Zr.N		Zirconium, the chemical element with atomic number 40 and symbol Zr.				
+Emotion:admire.V	Value:admire.V	To regard with wonder and delight.				1915
 Emotion:afraid.A	Emotion:scared.A	Property of being scared of something or someone, having an uncontrollable emotion of anxiety.	3033			
 Emotion:amazing.A	Emotion:amazing.A	Causing great surprise or sudden wonder.	1863			
 Emotion:amusement.N	Emotion:amusement.N	A feeling caused by doing or watching something entertaining or funny.	3850			
@@ -795,7 +797,6 @@ Emotion:ashamed.A	Emotion:ashamed.A	Feeling shame or guilt.	1894
 Emotion:astonished.A	Emotion:astonished.A	Filled with the emotional impact of overwhelming surprise or shock.	1900			
 Emotion:awe.N	Emotion:awe.N	A feeling of deep respect mixed with slight fear or wonder.	3851			
 Emotion:bad or evil.A	Emotion:bad or evil.A	Not good; unfavorable; negative, or intending to harm or being/acting ethically wrong.	3764			
-Emotion:bad.A	Emotion:bad.A	Not good; unfavorable; negative.	1292	16-72	schlecht::A	
 Emotion:be angry.V	Emotion:be angry.V	Be in an angry state.	2223		sich ärgern::V	
 Emotion:be ashamed.V				16-99907		
 Emotion:be glad.V				16-99908		
@@ -852,6 +853,7 @@ Emotion:longing.N	Emotion:longing (wish).N	The strong desire for something.	2960
 Emotion:look forward.V				16-99911		
 Emotion:love.N	Emotion:love (affection).N	A feeling of affection and fondness for someone.	3834			
 Emotion:love.V	Emotion:love.V	To have an intense feeling of affection and care towards another person.	923	16-27	lieben::V	2067
+Emotion:lover.N				2-99908		
 Emotion:merry.A	Emotion:merry.A	In good spirits.	1976		lustig::A	
 Emotion:miss.V	Action/Technology:miss (somebody).V	To long to see somebody again.	2328			
 Emotion:mood.N				16-99905		
@@ -976,25 +978,35 @@ Function:1DU.PRN	Family:we two.?	The speaker and exactly one other person.	2634
 Function:1PL EXCL.PRN	Family:we (exclusive).?	Exclusive we: I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person).	1130	2-942		
 Function:1PL INCL.PRN	Family:we (inclusive).?	Inclusive we: I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person).	1131	2-941		
 Function:1PL OBL.PRN	Family:us (oblique case of we).?	Oblique case of the first person plural pronoun.	2310			
+Function:1PL POSS.A	Grammar:our.?	Belonging to us; of us.	780			
 Function:1PL.PRN	Family:we.?	The speaker or writer and at least one other person.	1212	2-94	wir::PRN	
 Function:1SG OBL.PRN	Family:me.?	Oblique cases of the first person singular pronoun.	2301			
+Function:1SG POSS.A	Possession:my.?	Belonging to me.	2090			
 Function:1SG.PRN	Family:i.?	The speaker or writer referring to himself or herself alone.	1209	2-91	ich::PRN	
+Function:2 POSS.A	Possession:your.?	Belonging to the second person that is addressed by the first person.	2091			
 Function:2DU.PRN	Family:they two.?	The third person dual of the personal pronoun.	2635	24-99913		
 Function:2DU.PRN	Family:you two.?	Addressing two persons (second person dual).	2111	24-99919		
 Function:2PL HON.PRN	Family:you (honorific).?	The group of persons addressed (honorific).	3293			
 Function:2PL OBL.PRN	Family:you (oblique case of you).?	The oblique case of the second person plural pronoun.	2312			
+Function:2PL POSS.A	Possession:your (plural).?	Belonging to the second person that is addressed by the first person, with the second person being many persons and not just one.	2274			
 Function:2PL.PRN	Family:you.?	The group of persons addressed.	1213	2-95	ihr::PRN	
 Function:2SG FRM.PRN	Family:you (formal address).?	The formal way to address the second person.	2844			
 Function:2SG HON.PRN	Family:thou (honorific).?	The person addressed (honorific).	3292			
 Function:2SG OBL.PRN	Family:thee (oblique case of you).?	Oblique cases of the second person singular pronoun.	2304			
+Function:2SG POSS.A	Possession:your (singular).?	Belonging to the second person that is addressed by the first person.	732			
 Function:2SG.PRN	Family:thou.?	The person addressed.	1215	2-92	du::PRN	
+Function:3PL POSS.A	Possession:their.?	Belonging to the third person that is addressed (of many people).	2400			
 Function:3PL.PRN	Family:they.?	The third person plural of the personal pronoun that designates more than one person or animal, thing or idea which have already been mentioned previously.	817	2-96	sie::PRN	
+Function:3SG F POSS.A	Possession:her (genitive of she).?	Belonging to the female third person.	2474			
 Function:3SG INAN.PRN	Family:it.?	An inanimate object, an animate object of unspecified sex, or a subject that is previously mentioned.	169	2-933		
+Function:3SG M POSS.A	Possession:his (genitive of he).?	Belonging to the male third person.	2473			
 Function:3SG M.PRN	Family:he.?	A male other; the male previously mentioned; himself.  3rd person singular masculine subject pronoun.	1211	2-931	er::PRN	
 Function:3SG N.PRN	Family:he or she.?	Third person singular addressing living things or persons.	2642			
+Function:3SG POSS.A	Possession:his or her.?	Belonging to the third person that is addressed.	2092			
 Function:3SG.PRN	Family:he or she or it.?	Third person singular pronoun, regardless of gender/sex.	262	2-93		
 Function:and or but.CNJ				24-99901		
 Function:and.CNJ	Cognition:and.?	Used to connect two homogeneous words or phrases.	1577	17-51	und::CNJ	
+Function:but.CNJ	Grammar:but.?	A coordinating expression that signals a contrast to what was previously said, e.g. disagreement or a further point to consider.	3843			
 Function:FUT.PTCL		The particle indicating the future tense.				
 Function:hey.INT		Particle for getting attention of people.		24-99904		
 Function:let:PART		The optative particle.		24-99906		
@@ -1145,6 +1157,8 @@ Hunting:hunter.N	Combat/Hunting:hunter.N	A person who hunts game.	1053
 Hunting:hunting dog.N	Combat/Hunting:hunting dog.N	A type of canine bred for hunting or a dog trained to assist humans with hunting.	3380			
 Hunting:net fishing.V	Action/Technology:fishing (with a net).V	To hunt for fishes by using a fishnet.	2639			
 Hunting:net.N	Action/Technology:net (for catching).N	A grid-like device used for fishing and sports.	2653			
+Interaction:choose.V	Emotion:choose.V	To make a choice from a number of alternatives.	1750	16-622	wählen::V	1984
+Interaction:rescue.V	Possession:rescue.V	To free from harm or evil.	2008	11-25	retten::V	
 Language:book.N	Language:book.N	A collection of leaves of paper, parchment or other material, usually bound or fastened together within covers, containing writing of any type or blank pages for future inscription.	963	18-61	Buch::N	2248
 Law:commit a crime.V				19-99938		
 Law:crime.N	Modernity:crime.N	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public. (Source: BLACK)	1066	23-37		1654
@@ -1336,15 +1350,24 @@ Plant:Vaccinium mortinia.N		Vaccinium mortinia, a dark red berry.		8-99917
 Plant:Vicia.N		Any of various herbs of the genus Vicia, having pinnately compound leaves that terminate in tendrils and small, variously colored flowers.		8-99953		
 Plant:vine.N	Agriculture/Plant:vine.N	A climbing plant which grows up or over things. This also includes types which do not produce grapes.	343	8-67		
 Possession:abandon.V	Motion:abandon.V	To give up control of, to surrender something.	1097		verlassen::V	
+Possession:be worth.V		To be worth of something.		11-99906		
 Possession:beg.V	Language:beg.V	To make a living by asking people for money or food.	3534			
 Possession:exchange.V	Action/Technology:exchange.V	To hand out one thing while receiving another thing or to replace one thing with another.	2509	13-99908		
 Possession:generous.A	Emotion:generous.A	Willing to give more than expected, especially money.	3632			
 Possession:gift.N	Action/Technology:gift.N	A gift or a present is an item given to someone without the expectation of payment or return.	2982	11-99903	Geschenk::N	
 Possession:gratis.A	Possession:gratis (of charge).?	Free of charge, without cost.	130	11-99901		
 Possession:greedy.A	Emotion:greedy.A	Excessively desirous of money, wealth or possessions.	2018	16-83		
+Possession:poor person.N	Possession:poor person.N	A person with little or no possessions or money.	3662			
+Possession:poor.A	Possession:poor.A	With little or no possessions or money.	1674	11-52	arm::A	1716
 Possession:possessions.N	Possession:possessions.N	The totality of things that someone owns; their property or belongings.	3860	11-99904		
+Possession:price.N	Possession:price.N	The amount of money paid per unit for a good or service.	657	11-87	Preis::N	1755
 Possession:receive.V	Business:receive.V	To get something given into one’s possession.		11-99907		1737
+Possession:rich person.N	Possession:rich person.N	A wealthy person; a person with abundant possessions.	3661			
+Possession:rich.A	Possession:rich.A	Possessing in abundance a particular trait.	712	11-51	reich::A	1715
 Possession:rob.V	Action/Technology:rob (verb).V	To illegally take something from, especially using force or violence.	2073			
+Possession:sell.V	Possession:sell.V	To provide goods or services in exchange for money.	1571	11-82	verkaufen::V	
+Possession:share.V	Possession:share.V	To give part of what one has to somebody else to use or consume.	884	11-91		
+Possession:value.N	Business:value.N	A measure of the benefit provided by a good or service to an economic agent.				1758
 Quantity:0.NUM	Quantity:zero.NUM	The integer zero (0).	1294	13		2500
 Quantity:1.NUM	Quantity:one.NUM	The natural number one (1).	1493	13-01	eins::NUM	2501
 Quantity:10.NUM	Quantity:ten.NUM	The natural number ten (10).	1515	13-1	zehn::NUM	2510
@@ -1510,7 +1533,6 @@ Quantity:fill.V	Quantity:fill.V	To make full.	2006	13-99907	füllen::V
 Quantity:increase.V	Action/Technology:increase.V	(Of a quantity) to become bigger.	1041		zunehmen::V	
 Society:help.N	Society:help.N	The act of helping someone.	3467		Hilfe::N	
 Society:help.V	Society:help.V	To give assistance or aid to.	1897	19-58		2155
-Society:lover.N				2-99908		
 Sound:be silent.V	Language:be silent.V	To stop speaking or making noise.	48	18-23		
 Sound:bell.N	Action/Technology:bell.N	A simple sound-making device.	2246			
 Sound:chime.V	Modernity:chime (action).V	To ring the bells.	2897		läuten::V	
@@ -1654,9 +1676,18 @@ Transit:vehicle.N	Motion:vehicle.N	Any larger device that can be used to move pe
 Transit:wagon.N	Motion:wagon.N	A wheeled vehicle, generally drawn by horse power.	959			
 Transit:wheel.N	Motion:wheel.N	A circular object that spins around a central axe thereby allowing relatively low-friction movement.	710	10-76		3156
 Transit:wheelchair.N	Modernity:wheelchair.N	A chair with wheels.	2582			
-Value:be worth.V		To be worth of something.		11-99906		
+Value:bad.A	Emotion:bad.A	Not good; unfavorable; negative.	1292	16-72	schlecht::A	1906
+Value:better.A		Better, comparative of good.		16-99901		
+Value:compare.V	Action/Technology:compare.V	To estimate something in terms of similar or contrasting features as opposed to the other(s).	3429			1982
+Value:duty.N	Emotion:obligation (duty).N	Either a moral or legal responsibility to accomplish a certain task.	3471			
+Value:equal.A	Grammar:equal.A	Having a specified quality that another has.	1570			2404
+Value:ethics.N		The science of human duty that investigates what people ought to do or which behavior is morally right.				
 Value:good.A	Emotion:good.A	Having desired or positive qualities.	1035	16-71	gut::A	1905
 Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			2023
+Value:improve.V	Action/Technology:improve (something).V	Improvement is the process of a thing moving from one state to a state considered to be better, usually through some action intended to bring about that better state.	2872		verbessern::V	
+Value:right.N	Government:right.N	That which is due to individuals, like a right right to do or to be something.				1603
+Value:value.N		The degree of importance of some thing or action with the aim of determining which actions are best to do.				
+Value:worse.A		Worse, the comparative of bad.		16-99915		
 	Action/Technology:accustom.V	Get used to something.	1118			
 	Action/Technology:against.A	In opposite direction to.	2469			
 	Action/Technology:amuse oneself (have fun).V	To do something joyful.	3239			
@@ -1693,9 +1724,7 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Action/Technology:clay.N	A loose, earthy, extremely fine-grained, natural sediment or soft rock composed primarily of clay-size or colloidal particles and characterized by high plasticity and by a considerable content of clay mineral and subordinate amounts of finely divided quartz, decomposed feldspar, carbonates, ferruginous matter, and other impurities; it forms a plastic, moldable mass when finely ground and mixed with water, retains its shape on drying, and becomes firm, rocklike and permanently hard on heating or firing.	1399	9-73	Lehm::N	
 	Action/Technology:clog (something).V	To block a fluid or similar from running through a pipe-like object.	2707			
 	Action/Technology:collapse.V	To fall down suddenly because of pressure or having no strength or support.	3986			
-	Action/Technology:compare.V	To estimate something in terms of similar or contrasting features as opposed to the other(s).	3429			
 	Action/Technology:continue.V	To carry on with something or to keep existing or happening.	3699			
-	Action/Technology:convey (a message).V	To share a message with somebody.	2898		mitteilen::V	
 	Action/Technology:cut down.V	To bring down by cutting.	355	9-221		
 	Action/Technology:cut or hack.V	To perform an incision or chop something.	3889			
 	Action/Technology:cut.V	To perform an incision (for example, with a knife).	1432	9-22	schneiden::V	
@@ -1742,7 +1771,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Action/Technology:hit.V	To hit against with a sharp blow or to impel, usually with a hand or weapon or to be forcefully or suddenly contacting, e.g. a tree falling down and hitting the ground.	1433			
 	Action/Technology:hold or take.V	To grasp something or to carry something in ones hands.	2104			
 	Action/Technology:hollow out.V	To make a hole in something.	46	9-461		
-	Action/Technology:improve (something).V	Improvement is the process of a thing moving from one state to a state considered to be better, usually through some action intended to bring about that better state.	2872		verbessern::V	
 	Action/Technology:inhale.V	Breathe in some substance (smoke, steam) other than air.	2705			
 	Action/Technology:intact.A	That has not been impaired or altered; lacking nothing essential, especially not damaged.	220			
 	Action/Technology:iron or metal.N	A generic way of referring to either the ore or the finished product.	3324			
@@ -2755,15 +2783,12 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Business:money.N	money				1705
 	Business:own.V	own (possess according to law or custom) 				1730
 	Business:pay.V	pay 				1752
-	Business:poor.A	poor, impoverished 				1716
-	Business:price.N	price, cost				1755
 	Business:private.A	private (contra-public) 				1771
 	Business:profit.N	profit, gain				1791
 	Business:provide.V	provide, supply, furnish 				1735
 	Business:public.A	public (available to most or all persons) 				1770
 	Business:reject.V	reject, refuse (contra-accept) 				1722
 	Business:responsibility.N	responsibility, liability, accountability				1788
-	Business:rich.A	rich, wealthy 				1715
 	Business:sell.V	sell 				1751
 	Business:steal.V	steal (take in a criminal way) 				1739
 	Business:stock market.N	stock market				1793
@@ -2771,7 +2796,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Business:strike.N	strike (work stoppage as protest)				1796
 	Business:take.V	"take (in the sense of E-o ""preni"", G ""nehmen"", Sp ""tomar"") "				1738
 	Business:ticket.N	ticket				1779
-	Business:value.N	value, worth				1758
 	Business:wages.N	wages				1797
 	Cognition:agreement.N	The state of sharing the same feeling or opinion.	3644			
 	Cognition:attentive.A	Giving attention.	1908			
@@ -3110,7 +3134,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Emotion:calm.A	calm, tranquil 				2062
 	Emotion:care.N	care, concern (about someone / something)				2066
 	Emotion:carp.V	To complain or find fault in a petty or disagreeable way.	2193		schimpfen::V	
-	Emotion:choose.V	To make a choice from a number of alternatives.	1750	16-622	wählen::V	
 	Emotion:commend.V	To express approval or admiration.	3455		loben::V	
 	Emotion:concentration.N	The ability to direct all the attention to one thing or activity.	3852			
 	Emotion:confusion.N	A feeling of uncertainty about what to do or what is happening.	3853			
@@ -3149,7 +3172,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Emotion:misery.N	The state of being poor or emotionally suffering.	2553			
 	Emotion:mistake.N	A mistake, an oversight, a slight; usually apologetic, referring to one's own failures.	1293	16-77	Fehler::N	
 	Emotion:nervous.A	A mental state of nervousness or agitation. Also, being easily excited or irritated.	3975			
-	Emotion:obligation (duty).N	Either a moral or legal responsibility to accomplish a certain task.	3471			
 	Emotion:pain.N	An unpleasant, usually localised physical sensation that is often the result of an injury, disease or other ailment.	1783	16-31	Schmerz::N	
 	Emotion:painful or sick.A	To cause pain or to be ill.	2103			
 	Emotion:passionate.A	Characterized by intense emotion.	1880			
@@ -3742,7 +3764,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Government:rape.V	rape 				1664
 	Government:resign.V	resign 				1645
 	Government:reward.V	reward 				1681
-	Government:right.N	right (a right to do/be ...)				1603
 	Government:rule.N	rule, regulation				1675
 	Government:tax.N	tax				1622
 	Government:torture.V	torture 				1658
@@ -3751,8 +3772,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Government:vote.V	vote 				1643
 	Grammar:be.V	To have existence.	1579	24-01		
 	Grammar:become.V	To begin to be; to come to be; to turn into.	1990	24-02	werden::V	
-	Grammar:but.?	A coordinating expression that signals a contrast to what was previously said, e.g. disagreement or a further point to consider.	3843			
-	Grammar:equal.A	Having a specified quality that another has.	1570			
 	Grammar:every (each).?	All the members of a referred group individually.	3416	13-99903		
 	Grammar:gradually.A	Making progress, but slowly.	94			
 	Grammar:here.?	At this place.	136	24-09	hier::ADV	
@@ -3768,7 +3787,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Grammar:opposite.A	The contrary; being opposed to something.	885			
 	Grammar:other or some.?	The rest of a group or an unspecified quantity or number.	3863			
 	Grammar:other.?	The rest of a group of.	197	24-11	anderer::A	
-	Grammar:our.?	Belonging to us; of us.	780			
 	Grammar:same.?	Bearing full likeness by having precisely the same set of characteristics.	200	24-13		2402
 	Grammar:severe.A	Intensely or extremely bad or unpleasant in degree or quality.	419		schlimm::A	
 	Grammar:that.?	The indicated object, item, etc. distant from the speaker.	78	24-08	das::PRN	
@@ -3843,7 +3861,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Identity:consist of.V	consist of, be composed of 				2442
 	Identity:copy.N	copy (a duplicate)				2420
 	Identity:different.A	different 				2408
-	Identity:equal.A	equal 				2404
 	Identity:imitate.V	imitate, mimic 				2414
 	Identity:model.N	model (small or simplified copy of something)				2422
 	Identity:original.A	original, non-imitative 				2416
@@ -4779,10 +4796,7 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Possession:give.V	To transfer the possession or holding (of an object) to another person.	1447	11-21	geben::V	
 	Possession:grasp.V	Get the meaning of something.	2021		begreifen::V	
 	Possession:have.V	To be in possession (of an object).	773	11-11		
-	Possession:her (genitive of she).?	Belonging to the female third person.	2474			
 	Possession:hire.V	To employ a person or people in exchange of some kind of remuneration, usually a payment.	856	11-77		
-	Possession:his (genitive of he).?	Belonging to the male third person.	2473			
-	Possession:his or her.?	Belonging to the third person that is addressed.	2092			
 	Possession:hold.V	To grasp or grip (particularly with the hand) so that the object does not end up at the surface below.	1448	11-15	halten::V	
 	Possession:inherit.V	To receive money, property or other possessions from somebody when they die.	3664			
 	Possession:interest.N	A sum paid or charged for the use of money or for borrowing money over a given time period.	2062			
@@ -4796,31 +4810,21 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Possession:merchandise.N	Products offered to retail customers for money.	3406			
 	Possession:merchant.N	A businessperson engaged in trade.	1082	11-84		
 	Possession:money.N	An unspecified amount in a currency.	1559	11-43	Geld::N	
-	Possession:my.?	Belonging to me.	2090			
 	Possession:owe.V	To be under an obligation to give something back to someone or to perform some action for someone; to have debt.	369	11-63		
 	Possession:own.V	To have rightful possession of property, goods or capital.	684	11-12	besitzen::V	
 	Possession:owner.N	One who owns.	1036			
 	Possession:pay.V	To give money in exchange for goods or services.	718	11-65	zahlen::V	
-	Possession:poor person.N	A person with little or no possessions or money.	3662			
-	Possession:poor.A	With little or no possessions or money.	1674	11-52	arm::A	
 	Possession:preserve.V	To protect; to keep; to maintain the condition of.	1997	11-24	bewahren::V	
-	Possession:price.N	The amount of money paid per unit for a good or service.	657	11-87	Preis::N	
 	Possession:profligate.N	Someone who spends money prodigiously and who is extravagant and recklessly wasteful.	115			
 	Possession:rare.A	Not easily found.	209			
 	Possession:rent (something).V	To have temporary possession of premises (apartments) or objects.	3831			
-	Possession:rescue.V	To free from harm or evil.	2008	11-25	retten::V	
-	Possession:rich person.N	A wealthy person; a person with abundant possessions.	3661			
-	Possession:rich.A	Possessing in abundance a particular trait.	712	11-51	reich::A	
 	Possession:seize.V	To grasp and hold firmly.	855	11-14	ergreifen::V	
-	Possession:sell.V	To provide goods or services in exchange for money.	1571	11-82	verkaufen::V	
-	Possession:share.V	To give part of what one has to somebody else to use or consume.	884	11-91		
 	Possession:shop.N	A place, especially a small building, for the retail sale of goods and services.	746		Laden::N	
 	Possession:stingy.A	Excessively unwilling to spend.	1774	11-54	geizig::A	
 	Possession:store up.V	To put something somewhere and keep it there for future use.	3655			
 	Possession:store.N	An establishment, either physical or virtual, that sells goods or services to the public.	752	11-86		
 	Possession:take.V	To grasp with the hands.	1749	11-13	nehmen::V	
 	Possession:tax.N	An amount of money demanded by a government for its support or for specific facilities or services, most frequently levied upon income, property or sales.	873	11-69		
-	Possession:their.?	Belonging to the third person that is addressed (of many people).	2400			
 	Possession:thing.N	That which is considered to exist as a separate entity, quality or concept.	738	11-18	Sache::N	
 	Possession:throw away.V	To get rid of something one no longer needs.	3696			
 	Possession:trade or barter.V	To exchange goods with or without exchanging money.	2135	11-83		
@@ -4828,9 +4832,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Possession:wages.N	A fixed amount of money paid to a worker, usually measured on a monthly or annual basis.	1122	11-78		
 	Possession:warehouse.N	A spacious building that serves as a storage for produced goods before they are delivered to shops or customers.	3399			
 	Possession:weigh.V	To determine the weight of an object.	1098	11-92		
-	Possession:your (plural).?	Belonging to the second person that is addressed by the first person, with the second person being many persons and not just one.	2274			
-	Possession:your (singular).?	Belonging to the second person that is addressed by the first person.	732			
-	Possession:your.?	Belonging to the second person that is addressed by the first person.	2091			
 	Quality:bent.A	bent 				3606
 	Quality:clean.A	clean 				3611
 	Quality:closed.A	closed, shut 				3626
@@ -5545,16 +5546,12 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 	Transit:motor.N	motor, engine				3154
 	Transit:port.N	port				3132
 	Transit:street.N	street				3138
-	Value:admire.V	admire 				1915
 	Value:approve.V	approve (of) 				1919
 	Value:auxiliary.A	auxiliary 				1963
-	Value:bad.A	bad 				1906
 	Value:believe.V	believe (accept as true) 				1925
 	Value:category.N	category, classification				1970
 	Value:chief.A	chief, main, primary, principal 				1962
-	Value:choose.V	choose, pick (out), select one of many possibilities 				1984
 	Value:clear.A	clear, plain (easy to see/understand) 				1939
-	Value:compare.V	compare 				1982
 	Value:complex.A	complex 				1937
 	Value:dear.A	dear, precious, cherished 				1921
 	Value:dislike.V	dislike 				1918
@@ -5605,7 +5602,6 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 		Anatto, a derivative of the achiote trees of tropical regions of the Americas, used to produce a red food coloring.		8-99903		
 		Arabia		19-99901		
 		Australia.		19-99902		
-		Better, comparative of good.		16-99901		
 		China		19-99903		
 		Egypt		19-99904		
 		Greece		19-99906		
@@ -5684,4 +5680,3 @@ Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			
 		To mix together unclearly or dirtily.		9-99933		
 		To retire, to cease doing work for living.		19-99942		
 		Voluptuous		16-99913		
-		Worse, the comparative of bad.		16-99915		

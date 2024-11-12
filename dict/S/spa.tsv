@@ -277,6 +277,7 @@ Clothing:trousers.N		pantalones, calzones
 Clothing:veil.N		velo
 Clothing:weave.V		tejer
 Cognition:study.V		estudiar
+Cognition:true.A		verdadero
 Combat:fight.V		pelear
 Combat:helmet.N		yelmo
 Communication:answer.V		contestar
@@ -284,7 +285,11 @@ Communication:boast.V		jactarse
 Communication:call.V		llamar
 Communication:deny.V		negar
 Communication:forbid.V		prohibir
+Communication:forgive.V		perdonar
+Communication:kiss.V		besar
 Communication:language.N		lengua,idioma
+Communication:laugh.V		reír
+Communication:lie.V		mentir
 Communication:refuse.V		rehusar
 Communication:tell.V		narrar, contar
 Cosmos:Sun.N		sol
@@ -295,7 +300,24 @@ Element:Au.N		oro
 Element:Cu.N		cobre, bronce
 Element:Fe.N		hierro
 Element:Pb.N		plomo
+Emotion:anger.N		enojo
+Emotion:anxiety.N		ansiedad,angustia
+Emotion:blame.N		culpa
+Emotion:courageous.A		valiente
+Emotion:cry.V		llorar
+Emotion:dare.V		osar,atreverse
+Emotion:envy.N		envidia, celos
+Emotion:fear.N		miedo
 Emotion:feel.V		tentar, palpar
+Emotion:grief.N		tristeza, dolor, pena
+Emotion:happy.A		alegre
+Emotion:hate.V		odiar
+Emotion:hope.V		esperanza
+Emotion:love.V		querer
+Emotion:respect.V		respetar
+Emotion:shame.N		vergüenza
+Emotion:surprised.A		sorprendido
+Emotion:want.V		anhelar,desear
 Family:ancestors.N		antepasados
 Family:aunt.N		tía
 Family:brother.N		hermano
@@ -338,11 +360,13 @@ Family:younger brother.N		hermano menor
 Family:younger sister.N		hermana menor
 Food:Ficus carica.N		higo
 Food:Musa acuminata.N		plátana, banana
+Food:NaCl.N		sal
 Food:bake.V		hornear
 Food:dinner.N		comida
 Food:fermented alcohol.N		bebida fermentada
 Food:flour.N		harina
 Food:sausage.N		salchicha
+Food:soup.N		sopa
 Food:supper.N		cena
 Form:bend.V		encorvar, doblar
 Function:1PL EXCL.PRN		nosotros/nosotras (exclusivo)
@@ -397,6 +421,8 @@ House:pillow.N		almohada
 House:rug.N		tapete,alfombra
 Hunting:fishing.V		pescar
 Hunting:hunt.V		cazar
+Interaction:choose.V		escoger
+Interaction:rescue.V		salvar
 Language:book.N		libro
 Law:lawyer.N		abogado
 Mind:dream.V		soñar
@@ -440,6 +466,7 @@ People:twins.N		gemelos
 People:woman.N		mujer
 People:young man.N		joven
 People:young woman.N		joven
+Perception:hear.V		oír
 Perception:touch.V		tocar
 Plant:Betula.N		abedul
 Plant:Lupin.N		chocho
@@ -456,7 +483,13 @@ Plant:tree stump.N		tocón
 Plant:tree trunk.N		tronco
 Plant:tree.N		árbol
 Plant:vine.N		enredadera,bejuco, liana
+Possession:greedy.A		codicioso,voraz
+Possession:poor.A		pobre
+Possession:price.N		precio
 Possession:receive.V		recibir
+Possession:rich.A		rico
+Possession:sell.V		vender
+Possession:share.V		repartir
 Quantity:0.NUM		cero
 Quantity:1.NUM		uno
 Quantity:10.NUM		diez
@@ -524,3 +557,5 @@ Transit:sail.V		navegar
 Transit:sailcloth.N		vela
 Transit:ship.N		buque, barco
 Transit:wheel.N		rueda
+Value:bad.A		malo
+Value:good.A		bueno

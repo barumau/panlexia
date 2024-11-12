@@ -283,6 +283,7 @@ Clothing:trousers.N		Hose
 Clothing:veil.N		Schleier
 Clothing:weave.V		weben
 Cognition:study.V		studieren
+Cognition:true.A		wahr
 Combat:bomb.N		Bombe; Sprengstoff
 Combat:fight.V		kämpfen
 Combat:helmet.N		Helm
@@ -291,8 +292,12 @@ Communication:boast.V		prahlen, sich rühmen
 Communication:call.V		rufen
 Communication:deny.V		abstreiten, leugnen
 Communication:forbid.V		verbieten, untersagen
+Communication:forgive.V		verzeihen, vergeben
+Communication:kiss.V		küssen
 Communication:language.N		Sprache
+Communication:laugh.V		lachen
 Communication:letter.N		Brief
+Communication:lie.V		lügen
 Communication:mail.N		Post
 Communication:newspaper.N		Zeitung
 Communication:postage stamp.N		Briefmarke
@@ -310,7 +315,23 @@ Element:Au.N		Gold
 Element:Cu.N		Kupfer
 Element:Fe.N		Eisen
 Element:Pb.N		Blei
+Emotion:anger.N		Zorn
+Emotion:anxiety.N		Sorge
+Emotion:blame.N		Tadel, Vorwurf
+Emotion:courageous.A		tapfer, mutig, kühn
+Emotion:cry.V		weinen
+Emotion:dare.V		wagen
+Emotion:envy.N		Neid, Missgunst, Eifersucht
+Emotion:fear.N		Angst, Furcht
 Emotion:feel.V		fühlen, tasten
+Emotion:grief.N		Trauer
+Emotion:happy.A		froh, glücklich
+Emotion:hate.V		hassen
+Emotion:hope.V		hoffen
+Emotion:love.V		lieben
+Emotion:shame.N		Scham
+Emotion:surprised.A		überrascht, erstaunt
+Emotion:want.V		wünschen, begehren, verlangen
 Family:ancestors.N		Ahnen oder Vorfahren
 Family:aunt.N		Tante
 Family:brother.N		Bruder
@@ -359,12 +380,14 @@ Family:younger sibling.N		jüngerer Bruder oder Schwester
 Family:younger sister.N		jüngere Schwester
 Food:Ficus carica.N		Feige
 Food:Musa acuminata.N		Banane
+Food:NaCl.N		Salz
 Food:bake.V		backen
 Food:candy.N		Süßigkeiten
 Food:dinner.N		Hauptmahlzeit
 Food:fermented alcohol.N		vergorenes Getränk
 Food:flour.N		Mehl
 Food:sausage.N		Wurst
+Food:soup.N		Suppe
 Food:supper.N		Abendessen, Abendbrot
 Food:tea.N		Tee
 Form:bend.V		biegen
@@ -433,6 +456,8 @@ House:sink.N		Spüle, Ausguss, Waschbecken
 House:toilet.N		Toilette
 Hunting:boomerang.N		Bumerang
 Hunting:hunt.V		jagen
+Interaction:choose.V		wählen, auswählen
+Interaction:rescue.V		retten
 Language:book.N		Buch
 Law:crime.N		Verbrechen
 Mind:dream.V		träumen
@@ -480,6 +505,7 @@ People:twins.N		Zwillinge
 People:woman.N		Frau
 People:young man.N		junger Mann
 People:young woman.N		junges Mädchen oder junge Frau
+Perception:hear.V		hören
 Perception:touch.V		berühren
 Plant:Betula.N		Birke
 Plant:Ficus carica.N		Feigenbaum
@@ -494,6 +520,12 @@ Plant:tree stump.N		Baumstumpf, Stubben
 Plant:tree trunk.N		Baumstamm
 Plant:tree.N		Baum
 Plant:vine.N		Weinstock, Rebe
+Possession:greedy.A		gierig, gefräßig
+Possession:poor.A		arm
+Possession:price.N		Preis
+Possession:rich.A		reich
+Possession:sell.V		verkaufen
+Possession:share.V		teilen, verteilen
 Quantity:0.NUM		Null
 Quantity:1.NUM		eins
 Quantity:10.NUM		zehn
@@ -573,3 +605,5 @@ Transit:ship.N		Schiff
 Transit:street.N		Straße
 Transit:train.N		Zug, Eisenbahn
 Transit:wheel.N		Rad
+Value:bad.A		schlecht, schlimm, böse, übel
+Value:good.A		gut

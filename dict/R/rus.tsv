@@ -273,6 +273,7 @@ Clothing:trousers.N		штаны, брюки
 Clothing:veil.N		вуаль
 Clothing:weave.V		плести, ткать
 Cognition:study.V		учить, изучать
+Cognition:true.A		настоящий
 Combat:fight.V		драться, сражаться
 Combat:helmet.N		шлем
 Communication:answer.V		отвечать
@@ -280,7 +281,11 @@ Communication:boast.V		хвастаться
 Communication:call.V		вызывать,  звать
 Communication:deny.V		отрицать
 Communication:forbid.V		запрещать
+Communication:forgive.V		прощать
+Communication:kiss.V		целовать
 Communication:language.N		язык
+Communication:laugh.V		смеяться
+Communication:lie.V		лгать
 Communication:refuse.V		отказывать
 Communication:tell.V		рассказывать
 Cosmos:Sun.N		солнце
@@ -291,7 +296,23 @@ Element:Au.N		золото
 Element:Cu.N		медь, бронза
 Element:Fe.N		железо
 Element:Pb.N		свинец
+Emotion:anger.N		гнев, злость
+Emotion:anxiety.N		тревога
+Emotion:blame.N		порицание, осуждение, вина
+Emotion:courageous.A		смелый, храбрый
+Emotion:cry.V		плакать
+Emotion:dare.V		осмелиться, отважиться
+Emotion:envy.N		зависть, ревность
+Emotion:fear.N		страх, испуг
 Emotion:feel.V		чувствовать
+Emotion:grief.N		печаль, скорбь
+Emotion:happy.A		счастливый, радостный
+Emotion:hate.V		ненавидеть
+Emotion:hope.V		надеяться
+Emotion:love.V		любить
+Emotion:shame.N		стыд
+Emotion:surprised.A		удивленный
+Emotion:want.V		желание
 Family:ancestors.N		предки
 Family:aunt.N		тетя
 Family:brother.N		брат
@@ -334,11 +355,13 @@ Family:younger brother.N		младший брат
 Family:younger sister.N		младшая сестра
 Food:Ficus carica.N		инжир
 Food:Musa acuminata.N		банана
+Food:NaCl.N		соль
 Food:bake.V		печь
 Food:dinner.N		обед/ужин
 Food:fermented alcohol.N		брага
 Food:flour.N		мука
 Food:sausage.N		колбаса, сосиска
+Food:soup.N		суп
 Food:supper.N		(холодный) ужин
 Form:bend.V		сгибать
 Function:1PL EXCL.PRN		мы
@@ -391,6 +414,8 @@ House:blanket.N		одеяло
 House:pillow.N		подушка
 House:rug.N		ковер, плед
 Hunting:hunt.V		охотиться
+Interaction:choose.V		выбирать
+Interaction:rescue.V		спасать
 Language:book.N		книга
 Mind:dream.V		видеть сон, мечтать
 Motion:approach.V		приближаться
@@ -433,6 +458,7 @@ People:twins.N		близнецы
 People:woman.N		женщина
 People:young man.N		юноша, молодой человек
 People:young woman.N		девушка
+Perception:hear.V		слышать
 Perception:touch.V		трогать
 Plant:Betula.N		береза
 Plant:branch or twig.N		ветвь,  ветка
@@ -445,6 +471,12 @@ Plant:tree stump.N		пень
 Plant:tree trunk.N		ствол дерева
 Plant:tree.N		дерево
 Plant:vine.N		виноградная лоза, ползучее растение
+Possession:greedy.A		жадный
+Possession:poor.A		бедный
+Possession:price.N		цена
+Possession:rich.A		богатый
+Possession:sell.V		продавать
+Possession:share.V		разделить, делиться
 Quantity:0.NUM		ноль, ничего
 Quantity:10.NUM		десять
 Quantity:100.NUM		сто
@@ -511,3 +543,5 @@ Transit:sail.V		плыть под парусом
 Transit:sailcloth.N		парус
 Transit:ship.N		корабль, судно
 Transit:wheel.N		колесо
+Value:bad.A		плохой
+Value:good.A		хороший,  добрый
