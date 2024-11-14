@@ -131,7 +131,8 @@ Belief:atheism.N	Belief:atheism.N	atheism				1860
 Belief:bishop.N				22-99904		
 Belief:bless.V	Belief:bless.V	To confer divine aid or favor upon someone or something.	391	22-23		1821
 Belief:buddha.N	Belief:buddha.N	One who has purified obscurations and developed pristine cognition.	2061			
-Belief:Buddhism.N	Belief:buddhism.N	Buddhism				1865
+Belief:Buddhism.N	Belief:buddhism.N	The religion or philosophy derived from the teachings of Gautama Buddha.				1865
+Belief:Buddhist.N		A follower of Buddhism.				
 Belief:Catholic priest.N	Belief:Catholic priest.N	A minister of the Catholic church empowered to administer the sacraments, most particularly that of the Eucharist or Holy Communion, as well as those of confession and extreme unction.	852	22-18		
 Belief:Christ.N				22-99901		
 Belief:Christianity.N	Belief:christianity.N	Christianity				1870
@@ -181,6 +182,8 @@ Belief:shamanistic song.N				22-99913
 Belief:soul.N	Belief:soul.N	In philosophical or religious belief the immaterial part of a human being that is believed to outlive the body.	811	16-11		1830
 Belief:sphinx.N	Belief:sphinx.N	A fable animal that occurs in Greek mythology.	2609			
 Belief:spirit.N	Belief:spirit.N	A spiritual entity that is not as powerful as a deity.	53		Geist::N	
+Belief:Taoism.N		A Chinese mystical philosophy that teaches conformity to the tao by unassertive action and simplicity.				
+Belief:Taoist.N		A follower of Taoism.				
 Belief:temple.N	Belief:temple.N	A house of worship and spiritual activities.	911	22-13		
 Belief:witch.N	Belief:witch.N	A female person who practices magic.	824			
 Belief:woman’s rattle.N				22-99914		
@@ -572,15 +575,19 @@ Clothing:wear.V	Clothing/Grooming:wear.V	Fix clothes on your body and carry them
 Clothing:weave.V	Clothing/Grooming:weave.V	To create a fabric by interlacing threads.	133	6-33		1421
 Clothing:wrapper.N	Clothing/Grooming:wrapper.N	A colorful women's garment widely worn in West Africa.	462			
 Clothing:yarn.N	Clothing/Grooming:yarn.N	Consists of multiple strings of natural or synthetic fibre twisted together in a continuous bulky thread; used in textile production.	3445			
+Cognition:awake.A	Body:awake.A	Not sleeping.	825			664
 Cognition:exact.A	Emotion:exact.A	Without diversion from the desired or agreed specification; neither exceeding nor failling short in any way.	1466			
 Cognition:expect.V	Emotion:expect.V	expect, anticipate (believe that X will come/happen) 				2074
 Cognition:false.A	Emotion:false.A	Not concurring with a given set of facts; fake; unreal.	3069			1945
 Cognition:familiar.A	Emotion:familiar.A	Knowing somebody or something well.	3005		bekannt::A	
+Cognition:same.A	Grammar:same.?	Bearing full likeness by having precisely the same set of characteristics.	200	24-13		2402
 Cognition:study.N				17-99906		
 Cognition:study.V	Cognition:study.V	To follow a course of study; to be enrolled at an institute of learning.	1929	17-242		
 Cognition:true.A	Emotion:true.A	Concurring with a given set of facts.	1657	16-66	wahr::A	1943
 Cognition:truth.N	Emotion:truth.N	That which conforms to reality.	1638		Wahrheit::N	
 Cognition:untruth.N	Emotion:untruth.N	A false statement made with the intention to deceive.	475			
+Cognition:wake up (tr).V	Body:wake up (someone).V	Rouse from sleep.	3174		wecken::V	
+Cognition:wake up.V	Body:wake up.V	To stop sleeping.	1602	4-63	aufwachen::V	665
 Combat:battle cry.N	Language:battle cry (war whoop).N	A shout, used by warriors in battle with the purpose of arousing aggression on their own side or intimidating the enemy.	3741			
 Combat:bomb.N	Modernity:bomb.N	A device filled with explosives used for destroying things.	1804	23-575		
 Combat:box.V	Action/Technology:box (somebody or something).V	The act of using fists to fight or hit.	3108			
@@ -598,6 +605,7 @@ Combat.warship.N				20-99906
 Communication:accept	Action/Technology:accept.V	To take or get something that was offered by someone, to willingly receive	3898			1721
 Communication:answer.V	Language:answer.V	To communicate a message of any form in reaction to something that has been asked or expressed, to the being who expressed it; to react verbally.	1275	18-32		2272
 Communication:boast.V	Language:boast.V	To show off.	101	18-45	prahlen::V	
+Communication:book.N	Language:book.N	A collection of leaves of paper, parchment or other material, usually bound or fastened together within covers, containing writing of any type or blank pages for future inscription.	963	18-61	Buch::N	2248
 Communication:call.V	Language:call.V	To address or summon someone.	1084	18-41	rufen::V	2213
 Communication:cellphone.N	Tool:cellphone.N	cellphone, cellular telephone				1278
 Communication:chat.V	Action/Technology:chat (with somebody).V	To have a conversation with somebody.	2903	18-99908	sich unterhalten::V	
@@ -946,6 +954,7 @@ Food:bake.V	Food:bake.V	To cook (something) in an oven, but not in fat, or harde
 Food:barbecue.V		To cook food on a grill traditionally employing hot charcoal as the heating medium.		9-99928		
 Food:cake.N	Modernity:cake.N	Cake is a form of sweet dessert that is typically baked.	2408			
 Food:candy.N	Modernity:candy.N	Food item that is rich in sugar.	874	23-565		
+Food:Citrullus lanatus.N	Food:watermelon.N	A large, sprawling annual plant with coarse, hairy pinnately-lobed leaves and white to yellow flowers.	2766	8-99954		
 Food:Citrus sinensis.N	Agriculture/Plant:orange (fruit).N	A fruit of the citrus species citrus x sinensis.	2627			
 Food:cream.N				5-9991		
 Food:dinner.N	Food:dinner (supper).N	A meal that is eaten in the late afternoon or evening daily.	1833	5-44		
@@ -1159,7 +1168,6 @@ Hunting:net fishing.V	Action/Technology:fishing (with a net).V	To hunt for fishe
 Hunting:net.N	Action/Technology:net (for catching).N	A grid-like device used for fishing and sports.	2653			
 Interaction:choose.V	Emotion:choose.V	To make a choice from a number of alternatives.	1750	16-622	wählen::V	1984
 Interaction:rescue.V	Possession:rescue.V	To free from harm or evil.	2008	11-25	retten::V	
-Language:book.N	Language:book.N	A collection of leaves of paper, parchment or other material, usually bound or fastened together within covers, containing writing of any type or blank pages for future inscription.	963	18-61	Buch::N	2248
 Law:commit a crime.V				19-99938		
 Law:crime.N	Modernity:crime.N	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public. (Source: BLACK)	1066	23-37		1654
 Law:lawyer.N				21-99901		
@@ -1274,6 +1282,7 @@ People:female.N	Family:female person.N	A human belonging to the female sex.	2105
 People:fool.N	Society:fool.N	A person with poor judgment or little intelligence.	1438	19-9992		
 People:girl.N	Family:girl.N	A young female person, usually a child or teenager.	1646	2-26	Mädchen::N	309
 People:guest or stranger.N	Family:guest or stranger.N	Either a guest or a stranger.	2908			
+People:humankind.N		The human race as a whole.				
 People:husband or man.N	Family:husband or male person.N	Either the male partner in a marriage or a male person.	2646			
 People:male.A	Family:male (of person).A	Relating to the male sex of humans.	2261	2-23		614
 People:man or person.N	Family:man or person.N	Either a man or a person (in general).	2645			
@@ -1319,6 +1328,7 @@ Plant:Fraxinus.N		The ash tree, a tree that has compound leaves and a tough, fle
 Plant:Glycine max.N	Agriculture/Plant:soya.N	An annual plant native to East Asia that is widely cultivated for its fruit.	2027			1095
 Plant:Gossypium.N	Plant:cotton.N	Plant of genus Gossypium whose fibers are used for making cloth.				1055
 Plant:Helianthus annuus.N	Agriculture/Plant:sunflower.N	Annual plant with a large yellow flowering head of the genus Helianthus and the family of the Asteraceae.	1956			1053
+Plant:Ipomoea batatas.N	Agriculture/Plant:sweet potato.N	A dicotyledonous plant of the family Convolvulaceae, having an edible tuberous root.	159	8-91		
 Plant:leaf spine.N	Agriculture/Plant:leaf spine.N	A hard, rigid extension of leaves with sharp, stiff ends.	2803			
 Plant:leaf.N	Agriculture/Plant:leaf.N	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	628	8-56	Blatt::N	
 Plant:Lupin.N		Any plant of the genus Lupin; bearing erect spikes of usually purplish-blue flowers.		8-99927		
@@ -1357,6 +1367,7 @@ Possession:generous.A	Emotion:generous.A	Willing to give more than expected, esp
 Possession:gift.N	Action/Technology:gift.N	A gift or a present is an item given to someone without the expectation of payment or return.	2982	11-99903	Geschenk::N	
 Possession:gratis.A	Possession:gratis (of charge).?	Free of charge, without cost.	130	11-99901		
 Possession:greedy.A	Emotion:greedy.A	Excessively desirous of money, wealth or possessions.	2018	16-83		
+Possession:market.N	Possession:market.N	Place of commercial activity in which articles are bought and sold.	633	11-85		1598
 Possession:poor person.N	Possession:poor person.N	A person with little or no possessions or money.	3662			
 Possession:poor.A	Possession:poor.A	With little or no possessions or money.	1674	11-52	arm::A	1716
 Possession:possessions.N	Possession:possessions.N	The totality of things that someone owns; their property or belongings.	3860	11-99904		
@@ -1529,10 +1540,12 @@ Quantity:a little.A	Quantity:a little.A	More than one, but not as much as usual 
 Quantity:add.V	Action/Technology:add.V	Join or unite so as to bring about an increase.	2882		hinzufügen::V	
 Quantity:by.ADP		Distributive numeral marker.		13-99902		
 Quantity:decrease.V	Action/Technology:decrease.V	To become smaller in number or size.	2864		abnehmen::V	
+Quantity:enough.ADV	Quantity:enough.?	All that is required, needed, or appropriate.	1881	13-18		2731
 Quantity:fill.V	Quantity:fill.V	To make full.	2006	13-99907	füllen::V	
 Quantity:increase.V	Action/Technology:increase.V	(Of a quantity) to become bigger.	1041		zunehmen::V	
 Society:help.N	Society:help.N	The act of helping someone.	3467		Hilfe::N	
 Society:help.V	Society:help.V	To give assistance or aid to.	1897	19-58		2155
+Society:people.N	Society:people.N	A group of persons forming or belonging to a particular nation, class, ethnic group, country, family, etc.	789	19-21	Volk::N	
 Sound:be silent.V	Language:be silent.V	To stop speaking or making noise.	48	18-23		
 Sound:bell.N	Action/Technology:bell.N	A simple sound-making device.	2246			
 Sound:chime.V	Modernity:chime (action).V	To ring the bells.	2897		läuten::V	
@@ -2110,7 +2123,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Agriculture/Plant:sugar palm.N	Common name for several palm species used to produce sugar, especially Arenga pinnata.	3029			
 	Agriculture/Plant:sweet olive flower.N	The flower of teh Osmanthus Fragrans.	2748			
 	Agriculture/Plant:sweet olive.N	A species native to Asia from the Himalayas through southern China (Guizhou, Sichuan, Yunnan) to Taiwan and southern Japan and southeast Asia as far south as Cambodia and Thailand.	2360			
-	Agriculture/Plant:sweet potato.N	A dicotyledonous plant of the family Convolvulaceae, having an edible tuberous root.	159	8-91		
 	Agriculture/Plant:tamarind.N	A tropical tree, native to Africa, including Sudan and parts of the Madagascar dry deciduous forests.	35			
 	Agriculture/Plant:thorn.N	A sharp and hard structure that grows on a plant.	124			
 	Agriculture/Plant:tobacco.N	Leaves of certain varieties of the tobacco plant, cultivated and harvested to make cigarettes, cigars, snuff, for smoking in pipes or for chewing.	974	8-68		
@@ -2570,7 +2582,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Body:allergy.N	A bodily reaction due to a hypersensitivity to an antigen or a pathological immunological reaction to substances, situations, or physical states.	3868			
 	Body:appearance.N	The outward or visible aspect of a person or thing.	1017			
 	Body:apply (ointment).V	To put and spread some substance on the skin.	3650			
-	Body:awake.A	Not sleeping.	825			664
 	Body:bark or skin.N	Cover of the bodies of animals and plants.	2127			
 	Body:bathe (someone).V	Clean someone else with water.	3170			
 	Body:bathe.V	To clean oneself by immersion in water.	138	4-69	baden::V	
@@ -2716,9 +2727,7 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Body:tired.A	tired, weary 				650
 	Body:vomit.V	To regurgitate the contents of the stomach.	1278	4-57		
 	Body:vomit.V	vomit 				725
-	Body:wake up (someone).V	Rouse from sleep.	3174		wecken::V	
-	Body:wake up.V	To stop sleeping.	1602	4-63	aufwachen::V	
-	Body:wake up.V	wake up (become awake) 				665
+	Body:wake up.V	wake up (become awake) 				
 	Body:walk.V	walk 				701
 	Body:weak.A	Lacking in force or ability.	1601	4-82	schwach::A	
 	Building:attic.N	attic, garret				1531
@@ -3045,7 +3054,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Degree:at least.ADV	at least, not less than (>=) 				2711
 	Degree:at most.ADV	at most, only, just, merely, not more than 				2712
 	Degree:degree.N	degree (the extent/intensity/scope of an action/condition/relation)				2700
-	Degree:enough.ADV	enough, sufficiently 				2731
 	Degree:least.ADV	least (to the smallest degree) 				2726
 	Degree:less.ADV	less (to a smaller degree) 				2725
 	Degree:little.ADV	little (to a small degree; with almost no intensity) 				2724
@@ -3575,7 +3583,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Food:vinegar.N	A sour liquid formed by the fermentation of alcohol with acetic acid bacteria used as a condiment or preservative.	985	5-99922		3467
 	Food:wanton.N	Stuffed dough wrap found in Chinese cuisine.	1980			
 	Food:water pot.N	A vessel used for storing water.	3766			
-	Food:watermelon.N	A large, sprawling annual plant with coarse, hairy pinnately-lobed leaves and white to yellow flowers.	2766	8-99954		
 	Food:watery.A	(Of a liquid or meal) to be thin and watery.	3545			
 	Food:white (of eggs).N	The clear, semifluid part of a bird's egg that serves as protection for the yolk.	3439			
 	Food:white sugar.N	Purified sugar that is separated from molasses in the process of refining.	3441			
@@ -3787,7 +3794,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Grammar:opposite.A	The contrary; being opposed to something.	885			
 	Grammar:other or some.?	The rest of a group or an unspecified quantity or number.	3863			
 	Grammar:other.?	The rest of a group of.	197	24-11	anderer::A	
-	Grammar:same.?	Bearing full likeness by having precisely the same set of characteristics.	200	24-13		2402
 	Grammar:severe.A	Intensely or extremely bad or unpleasant in degree or quality.	419		schlimm::A	
 	Grammar:that.?	The indicated object, item, etc. distant from the speaker.	78	24-08	das::PRN	
 	Grammar:there is or there are.V	Existing from the perspective of the speaker.	2152			
@@ -4805,7 +4811,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Possession:let go or set free.V	To give freedom; to stop holding; to release from confinement or restraint.	1095	11-34		
 	Possession:look for.V	To try to find something.	1468	11-31	suchen::V	
 	Possession:lose.V	To be beaten or to fail to win in a fight, game, or similar, or to place something in a place where one cannot find it again or in a wrong place; to lose something.	1660			
-	Possession:market.N	Place of commercial activity in which articles are bought and sold.	633	11-85		1598
 	Possession:matter.N	That which is considered to exist as a separate physical entity.	2150			
 	Possession:merchandise.N	Products offered to retail customers for money.	3406			
 	Possession:merchant.N	A businessperson engaged in trade.	1082	11-84		
@@ -4906,7 +4911,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Quantity:egg (classifier).CLF	Classifier for eggs.	3417			
 	Quantity:empty.A	empty 				2686
 	Quantity:empty.A	Without content.	1624	13-22	leer::A	
-	Quantity:enough.?	All that is required, needed, or appropriate.	1881	13-18		
 	Quantity:few.?	More than one, but not as many as usual or as expected.	1242	13-17		
 	Quantity:few.A	few (a small number of) 				2643
 	Quantity:first.?	Having no predecessor. The ordinal number corresponding to one.	728	13-34	erster::A	
@@ -5076,7 +5080,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Society:offend.V	To hurt the feelings of; to displease; to make angry; to insult.	557			
 	Society:official.N	A person who acts on behalf of a governmental or non-governmental organization within the scope of their prescribed authority.	3361			
 	Society:oppress.V	To cause, inflict or threaten with suffering, need, distress, or pain.	401			
-	Society:people.N	A group of persons forming or belonging to a particular nation, class, ethnic group, country, family, etc.	789	19-21	Volk::N	
 	Society:permit.V	To give permission to an action.	1003	19-47		
 	Society:pimpleface.N	A person with acne marks in the face.	3366			
 	Society:play (game).V	Act within the frame and rules of a game.	3125			
