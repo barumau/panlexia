@@ -54,6 +54,7 @@ Animal:Diptera.N	Animal:fly (insect).N	A common insect; any species of insect of
 Animal:dragon.N	Animal:dragon.N	A mythical creature typically depicted as a winged, fire-breathing reptile with magical qualities.	2038			937
 Animal:dung.N	Animal:dung (animal faeces).N	Animal faeces.	2057	8-99918		
 Animal:Elephantidae.N	Animal:elephant.N	A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw. Elephants are the largest land animals now existing.	1290	3-77		952
+Animal:Equus asinus × caballus.N	Animal:mule.N	The offspring of a male donkey and a female horse.	890	3-47		
 Animal:Equus asinus.N	Animal:donkey.N	A domesticated animal, Equus asinus.	1862	3-46		951
 Animal:Equus ferus caballus.N	Animal:horse.N	A large animal with four legs of the Equus caballus species which people ride on or use for carrying things or pulling vehicles.	615	3-41	Pferd::N	954
 Animal:Felis catus.N	Animal:cat.N	A common four-legged animal (Felis silvestris) that is often kept as a household pet.	1208	3-62	Katze::N	977
@@ -304,6 +305,7 @@ Body:lay eggs.V	Action/Technology:lay eggs.V	The process by which birds produce 
 Body:left hand.N	Body:left hand.N	The left hand of a human.	2182			
 Body:leg.N	Body:leg.N	The limb of an animal (including humans) that extends from the groin to the ankle.	1297	4-35	Bein::N	540
 Body:lip.N	Body:lip.N	Either of the two fleshy protrusions around the opening of the mouth.	478	4-25	Lippe::N	522
+Body:live.V	Body:live.V	To be alive; to have a life.	2309			621
 Body:liver.N	Body:liver.N	A large organ in the body that stores and metabolizes nutrients, destroys toxins and produces bile. Responsible for thousands of biochemical reactions.	1224	4-45	Leber::N	575
 Body:loin.N	Body:loin.N	The part of the body (of humans and quadrupeds) each side of the backbone between the ribs and hips.	187			
 Body:lower arm.N	Body:lower arm.N	The part of the arm between the elbow and the hand.	446			
@@ -439,6 +441,7 @@ Building:hut.N	Building:hut.N	A simple roofed shelter, often with one  open side
 Building:igloo.N	Building:igloo.N	A snow hut built from snow and serving as a shelter.	2592			
 Building:mason.N	Building:mason.N	A craftsman who builds in stone or brick otherwise known as masonry.	877	7-61		
 Building:mortar binder.N	Building:mortar binder.N	Paste made of a mixture of a binder (cement, plaster or lime), sand and water used in masonry to make bricks, stones, etc. stick together.	1731	7-63		
+Building:oven.N	Food:oven.N	An enclosed heated compartment usually lined with a refractory material used for baking or drying substances, firing ceramics, heat-treating, etc.	1143	5-25		3495
 Building:porch.N	Building:porch.N	A structure attached to the exterior of a building, often acting as a roofed entrance; a balcony; a veranda.	3269			1534
 Building:post.N	Building:post.N	A strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something.	281	7-56	Stange::N	
 Building:pyramid.N	Building:pyramid.N	A structure whose outer surfaces are triangular and converge to a single point at the top.	2600			3529
@@ -619,10 +622,10 @@ Communication:flirt.V	Emotion:flirt.V	To talk or behave amorously, without serio
 Communication:forbid.V	Language:forbid.V	To tell not to do something.	83	18-38		
 Communication:forgive.V	Emotion:forgive.V	To stop blaming someone for an offense.	1528	16-69		
 Communication:gesture.V	Body:gesture.V	gesture 				747
-Communication:goodbye.N	Language:goodbye.N	A conventional expression, used as a farewell when parting.	3554			
+Communication:goodbye.INT	Language:goodbye.N	A conventional expression, used as a farewell when parting.	3554			
 Communication:goodbye.V		To say goodbye.		19-99943		
 Communication:greet.V	Language:greet.V	To welcome someone; to address someone in a friendly and welcoming way upon meeting them.	3552	18-99909		
-Communication:hello.N	Language:hello.N	A conventional expression, used as a greeting.	3553			
+Communication:hello.INT	Language:hello.N	A conventional expression, used as a greeting.	3553			
 Communication:hieroglyph.N		The hieroglyph or hieroglyphics.		18-99902		
 Communication:joke.N	Language:joke.N	Something that is said or done in a non-serious, comic way.	3425	18-99903		
 Communication:kiss.N	Emotion:kiss (noun).N	The action of touching with the lips to express love or affection.	3454			
@@ -674,6 +677,17 @@ Cosmos:universe.N	Nature:universe.N	universe				1100
 Cosmos:Ursa major.N	Nature:ursa major.N	A large group of stars in the shape of a bear visible on the northern hemisphere.	3342			
 Cosmos:waning moon.N	Nature:waning moon.N	The phase in the lunar cycle between full moon and new moon when the illuminated area decreases.	3817			
 Cosmos:waxing moon.N	Nature:waxing moon.N	The phase in the lunar cycle between new moon and full moon when the illuminated area increases.	3816			
+Degree:almost.ADV	Degree:almost.ADV	Nearly to the degree of.				2730
+Degree:at least.ADV	Degree:at least.ADV	at least, not less than (>=) 				2711
+Degree:at most.ADV	Degree:at most.ADV	at most, only, just, merely, not more than 				2712
+Degree:degree.N	Degree:degree.N	The extent, intensity or scope of an action, condition or relation.	3469			2700
+Degree:gradually.ADV	Grammar:gradually.A	Making progress, but slowly.	94			
+Degree:least.ADV	Degree:least.ADV	To the smallest degree.				2726
+Degree:less.ADV	Degree:less.ADV	To a smaller degree.				2725
+Degree:little.ADV	Degree:little.ADV	To a small degree; with almost no intensity.				2724
+Degree:more.ADV	Quantity:more.?	To a greater degree. Used in forming the comparative form of adjectives and comparable adverbs.	1992	13-16		2722
+Degree:most.ADV	Degree:most.ADV	To the greatest degree.				2723
+Degree:very.ADV	Grammar:very.?	To a high or large degree or with great intensity.	1311		sehr::ADV	2721
 Education:university.N	Modernity:university.N	A university (Latin: universitas, a whole) is an institution of higher (or tertiary) education and research which grants academic degrees in various subjects and typically provides undergraduate education and postgraduate education.	2435			
 Element:Ac.N		Actinium, the chemical element with atomic number 89 and symbol Ac.				
 Element:Ag.N	Action/Technology:silver.N	A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	759	9-65	Silber::N	3324
@@ -971,6 +985,7 @@ Food:Musa acuminata.N	Agriculture/Plant:banana.N	The fruit of the banana tree.	8
 Food:Musa balbisiana.N	Agriculture/Plant:plantain.N	A kind of banana that is normally cooked and not eaten raw.	399			
 Food:NaCl.N	Food:salt.N	A condiment (NaCl - Sodium Chloride) used to add to or enhance the flavour of food (commonly with pepper).	1274	5-81	Salz::N	3466
 Food:noodle.N	Food:noodle.N	A string or strip of pasta, especially as used in Chinese and Italian cookery.	973			
+Food:pizza.N	Food:pizza.N	An Italian dish consisting of a flat base of leavened wheat-based dough topped with tomato, cheese, and other ingredients.				3425
 Food:Prunus armeniaca.N	Food:apricot.N	A fruit of orange color with a fuzzy peel and a black seed inside, similar to a peach or plum of a tree from the family Prunus armeniaca.	3730			
 Food:salad.N	Food:salad.N	A food made primarily of a mixture of raw or cold ingredients, typically vegetables, usually served with a dressing such as vinegar or mayonnaise.				3460
 Food:sandwich.N	Food:sandwich.N	Foodstuff where pieces of bread serve as the wrapper of some other food.				3461
@@ -981,52 +996,78 @@ Food:supper.N	Food:supper.N	The last meal of the evening.		5-45		3489
 Food:tea.N	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.	1373	23-9	Tee::N	
 Form:bend (sth).V	Action/Technology:bend (something).V	To carry out a movement to turn something into a curved shape.	2224		biegen::V	
 Form:bend.V	Action/Technology:bend.V	Movement that causes the formation of a curve.	2004	9-14	beugen::V	
-Function:1DU EXCL.PRN	Family:we two (exclusive).?	Exclusive dual of the first person: I and exactly one other person, but not the addressed person (you).	2636			
-Function:1DU INCL.PRN	Family:we two (inclusive).?	Inclusive dual of the first person: I and exactly one other person, including the addressed person (you).	2637	24-99914		
-Function:1DU.PRN	Family:we two.?	The speaker and exactly one other person.	2634			
-Function:1PL EXCL.PRN	Family:we (exclusive).?	Exclusive we: I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person).	1130	2-942		
-Function:1PL INCL.PRN	Family:we (inclusive).?	Inclusive we: I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person).	1131	2-941		
-Function:1PL OBL.PRN	Family:us (oblique case of we).?	Oblique case of the first person plural pronoun.	2310			
-Function:1PL POSS.A	Grammar:our.?	Belonging to us; of us.	780			
-Function:1PL.PRN	Family:we.?	The speaker or writer and at least one other person.	1212	2-94	wir::PRN	
-Function:1SG OBL.PRN	Family:me.?	Oblique cases of the first person singular pronoun.	2301			
-Function:1SG POSS.A	Possession:my.?	Belonging to me.	2090			
-Function:1SG.PRN	Family:i.?	The speaker or writer referring to himself or herself alone.	1209	2-91	ich::PRN	
-Function:2 POSS.A	Possession:your.?	Belonging to the second person that is addressed by the first person.	2091			
-Function:2DU.PRN	Family:they two.?	The third person dual of the personal pronoun.	2635	24-99913		
-Function:2DU.PRN	Family:you two.?	Addressing two persons (second person dual).	2111	24-99919		
-Function:2PL HON.PRN	Family:you (honorific).?	The group of persons addressed (honorific).	3293			
-Function:2PL OBL.PRN	Family:you (oblique case of you).?	The oblique case of the second person plural pronoun.	2312			
-Function:2PL POSS.A	Possession:your (plural).?	Belonging to the second person that is addressed by the first person, with the second person being many persons and not just one.	2274			
-Function:2PL.PRN	Family:you.?	The group of persons addressed.	1213	2-95	ihr::PRN	
-Function:2SG FRM.PRN	Family:you (formal address).?	The formal way to address the second person.	2844			
-Function:2SG HON.PRN	Family:thou (honorific).?	The person addressed (honorific).	3292			
-Function:2SG OBL.PRN	Family:thee (oblique case of you).?	Oblique cases of the second person singular pronoun.	2304			
-Function:2SG POSS.A	Possession:your (singular).?	Belonging to the second person that is addressed by the first person.	732			
-Function:2SG.PRN	Family:thou.?	The person addressed.	1215	2-92	du::PRN	
-Function:3PL POSS.A	Possession:their.?	Belonging to the third person that is addressed (of many people).	2400			
-Function:3PL.PRN	Family:they.?	The third person plural of the personal pronoun that designates more than one person or animal, thing or idea which have already been mentioned previously.	817	2-96	sie::PRN	
-Function:3SG F POSS.A	Possession:her (genitive of she).?	Belonging to the female third person.	2474			
-Function:3SG INAN.PRN	Family:it.?	An inanimate object, an animate object of unspecified sex, or a subject that is previously mentioned.	169	2-933		
-Function:3SG M POSS.A	Possession:his (genitive of he).?	Belonging to the male third person.	2473			
-Function:3SG M.PRN	Family:he.?	A male other; the male previously mentioned; himself.  3rd person singular masculine subject pronoun.	1211	2-931	er::PRN	
-Function:3SG N.PRN	Family:he or she.?	Third person singular addressing living things or persons.	2642			
-Function:3SG POSS.A	Possession:his or her.?	Belonging to the third person that is addressed.	2092			
-Function:3SG.PRN	Family:he or she or it.?	Third person singular pronoun, regardless of gender/sex.	262	2-93		
+Function:1DU EXCL.PRO	Family:we two (exclusive).?	Exclusive dual of the first person: I and exactly one other person, but not the addressed person (you).	2636			
+Function:1DU INCL.PRO	Family:we two (inclusive).?	Inclusive dual of the first person: I and exactly one other person, including the addressed person (you).	2637	24-99914		
+Function:1DU.PRO	Family:we two.?	The speaker and exactly one other person.	2634			
+Function:1PL EXCL.PRO	Family:we (exclusive).?	Exclusive we: I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person).	1130	2-942		
+Function:1PL INCL.PRO	Family:we (inclusive).?	Inclusive we: I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person).	1131	2-941		
+Function:1PL OBL.PRO	Family:us (oblique case of we).?	Oblique case of the first person plural pronoun.	2310			
+Function:1PL POSS.PRO	Grammar:our.?	Belonging to us; of us.	780			
+Function:1PL.PRO	Family:we.?	The speaker or writer and at least one other person.	1212	2-94	wir::PRN	
+Function:1SG OBL.PRO	Family:me.?	Oblique cases of the first person singular pronoun.	2301			
+Function:1SG POSS.PRO	Possession:my.?	Belonging to me.	2090			
+Function:1SG.PRO	Family:i.?	The speaker or writer referring to himself or herself alone.	1209	2-91	ich::PRN	
+Function:2 POSS.PRO	Possession:your.?	Belonging to the second person that is addressed by the first person.	2091			
+Function:2DU.PRO	Family:they two.?	The third person dual of the personal pronoun.	2635	24-99913		
+Function:2DU.PRO	Family:you two.?	Addressing two persons (second person dual).	2111	24-99919		
+Function:2PL HON.PRO	Family:you (honorific).?	The group of persons addressed (honorific).	3293			
+Function:2PL OBL.PRO	Family:you (oblique case of you).?	The oblique case of the second person plural pronoun.	2312			
+Function:2PL POSS.PRO	Possession:your (plural).?	Belonging to the second person that is addressed by the first person, with the second person being many persons and not just one.	2274			
+Function:2PL.PRO	Family:you.?	The group of persons addressed.	1213	2-95	ihr::PRN	
+Function:2SG FRM.PRO	Family:you (formal address).?	The formal way to address the second person.	2844			
+Function:2SG HON.PRO	Family:thou (honorific).?	The person addressed (honorific).	3292			
+Function:2SG OBL.PRO	Family:thee (oblique case of you).?	Oblique cases of the second person singular pronoun.	2304			
+Function:2SG POSS.PRO	Possession:your (singular).?	Belonging to the second person that is addressed by the first person.	732			
+Function:2SG.PRO	Family:thou.?	The person addressed.	1215	2-92	du::PRN	
+Function:3PL POSS.PRO	Possession:their.?	Belonging to the third person that is addressed (of many people).	2400			
+Function:3PL.PRO	Family:they.?	The third person plural of the personal pronoun that designates more than one person or animal, thing or idea which have already been mentioned previously.	817	2-96	sie::PRN	
+Function:3SG F POSS.PRO	Possession:her (genitive of she).?	Belonging to the female third person.	2474			
+Function:3SG INAN.PRO	Family:it.?	An inanimate object, an animate object of unspecified sex, or a subject that is previously mentioned.	169	2-933		
+Function:3SG M POSS.PRO	Possession:his (genitive of he).?	Belonging to the male third person.	2473			
+Function:3SG M.PRO	Family:he.?	A male other; the male previously mentioned; himself.  3rd person singular masculine subject pronoun.	1211	2-931	er::PRN	
+Function:3SG N.PRO	Family:he or she.?	Third person singular addressing living things or persons.	2642			
+Function:3SG POSS.PRO	Possession:his or her.?	Belonging to the third person that is addressed.	2092			
+Function:3SG.PRO	Family:he or she or it.?	Third person singular pronoun, regardless of gender/sex.	262	2-93		
 Function:and or but.CNJ				24-99901		
 Function:and.CNJ	Cognition:and.?	Used to connect two homogeneous words or phrases.	1577	17-51	und::CNJ	
 Function:but.CNJ	Grammar:but.?	A coordinating expression that signals a contrast to what was previously said, e.g. disagreement or a further point to consider.	3843			
 Function:FUT.PTCL		The particle indicating the future tense.				
+Function:here.ADV	Grammar:here.?	At this place.	136	24-09	hier::ADV	
 Function:hey.INT		Particle for getting attention of people.		24-99904		
-Function:let:PART		The optative particle.		24-99906		
+Function:how many pieces.PRO	Cognition:how many pieces.?	Which quantity? (for countable nouns)	3450	17-62		
+Function:how many.PRO	Cognition:how many.?	Which quantity?	822		wieviel::FNUM	
+Function:how much.PRO	Cognition:how much.?	Which quantity? (for mass nouns)	531	17-63		
+Function:how.PRO	Cognition:how.?	In what way?	1239	17-61	wie::FADV	
+Function:if.CNJ	Cognition:if.?	[The introduction of a condition or decision.]	1459	17-53		
+Function:in that way.ADV	Grammar:in that way.?	Doing something in that manner.	3414			
+Function:in this way.ADV	Grammar:in this way.?	Doing something in this manner.	3413			
+Function:let:PTCL		The optative particle.		24-99906		
 Function:NEG.PTCL		Negative marker.		24-99907		
 Function:neither.CNJ		The first word in neither... nor.		24-99908		
+Function:noone.PRO	Quantity:nobody.?	No person; not one member out of a group of people.	3887			
 Function:nor.CNJ		The second word in neither... nor.		24-99909		
+Function:not.PTCL	Grammar:not.?	Negates the meaning of the modified verb or adjective.	1240	24-06	nicht::ADV	
+Function:nothing.PRO	Grammar:nothing.?	Not anything.	687	24-14		
 Function:or.CNJ	Cognition:or.?	Conjunction that indicates an alternative.	1014	17-54	oder::CNJ	
+Function:other.PRO	Grammar:other.?	The rest of a group of.	197	24-11	anderer::A	
 Function:PRS.PTCL		The particle indicating the present tense.				
 Function:PST.PTCL		The particle indicating the past tense.				
 Function:Q.PTCL		The word that is used in the interrogation and indicates doubt		24-99905		
+Function:that.PRO	Grammar:that.?	The indicated object, item, etc. distant from the speaker.	78	24-08	das::PRN	
 Function:then.CNJ		The second word in if... then.		24-99912		
+Function:there.ADV	Grammar:there.?	In a not completely determined place which is not here.	1937	24-1	dort::ADV	
+Function:these.PRO	Grammar:these (plural of this).?	The indicated objects, items, etc. close to the speaker.	3984			
+Function:this.PRO	Grammar:this.?	The indicated object, item, etc. close to the speaker.	1214	24-07	dies::PRN	
+Function:those.PRO	Grammar:those (plural of that).?	The indicated objects, items, etc. distant from the speaker.	3985			
+Function:what.PRO	Cognition:what.?	Which thing.	1236	17-64	was::FPRN	
+Function:when.PRO	Cognition:when.?	At what time?	1238	17-65		
+Function:where.PRO	Cognition:where.?	At what place?	1237	17-66	wo::FADV	
+Function:which.PRO	Cognition:which.?	What one or ones (of those mentioned or implied).	727	17-67		
+Function:who or what.PRO	Cognition:who or what.?	What person or which thing.	2147			
+Function:who POSS.PRO		Belonging to what person.				
+Function:who.PRO	Cognition:who.?	What person or people; which person or people.	1235	17-68	wer::FPRN	
+Function:why.PRO	Cognition:why.?	For what reason.	1270	17-69	warum::FADV	
+Function:yes.PTCL	Cognition:yes.?	A word used to show agreement or affirmation of something.	1268	17-55		
 Grooming:adorned.A	Clothing/Grooming:adorned.A	Something that is crested with adornment.	2496			
 Grooming:adornment.N	Clothing/Grooming:adornment.N	Something that beautifies or adorns.	1822			
 Grooming:armlet.N	Clothing/Grooming:armlet.N	A band or bracelet worn round the upper part of a person's arm.	3149			
@@ -1324,6 +1365,7 @@ Plant:Colocasia esculenta.N	Agriculture/Plant:taro.N	Colocasia esculenta, raised
 Plant:coniferous.N		The type of tree that bears cones.		8-99914		
 Plant:Cucumis melo.N	Agriculture/Plant:melon.N	A fruit of any of the species from the family Cucurbitaceae that has relatively hard inedible shells and plenty of sweet flesh. The fruits may vary in size but is usually not smaller than one decimeter in diameter.	507	8-99932		
 Plant:Ficus carica.N	Plant:fig.N	fig (tree/fruit of genus Ficus)		5-99901		1034
+Plant:flower.N	Agriculture/Plant:flower.N	The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	239	8-57	Blume::N	1022
 Plant:Fraxinus.N		The ash tree, a tree that has compound leaves and a tough, flexible wood.		8-99906		
 Plant:Glycine max.N	Agriculture/Plant:soya.N	An annual plant native to East Asia that is widely cultivated for its fruit.	2027			1095
 Plant:Gossypium.N	Plant:cotton.N	Plant of genus Gossypium whose fibers are used for making cloth.				1055
@@ -1540,9 +1582,17 @@ Quantity:a little.A	Quantity:a little.A	More than one, but not as much as usual 
 Quantity:add.V	Action/Technology:add.V	Join or unite so as to bring about an increase.	2882		hinzufügen::V	
 Quantity:by.ADP		Distributive numeral marker.		13-99902		
 Quantity:decrease.V	Action/Technology:decrease.V	To become smaller in number or size.	2864		abnehmen::V	
+Quantity:empty.A	Quantity:empty.A	Without content.	1624	13-22	leer::A	2686
 Quantity:enough.ADV	Quantity:enough.?	All that is required, needed, or appropriate.	1881	13-18		2731
 Quantity:fill.V	Quantity:fill.V	To make full.	2006	13-99907	füllen::V	
+Quantity:full.A	Quantity:full.A	Containing the most or maximum amount possible in the given available space.	1429	13-21	voll::A	2685
 Quantity:increase.V	Action/Technology:increase.V	(Of a quantity) to become bigger.	1041		zunehmen::V	
+Quantity:little.A	Quantity:little.A	A small quantity of.				2647
+Quantity:many.A	Quantity:many.?	An indefinite large number of.	1198	13-15		2642
+Quantity:more.A	Quantity:more.A	more (a larger quantity of) 				2645
+Quantity:most.A	Quantity:most.A	most (the largest quantity of) 				2646
+Quantity:much.A	Cognition:much.?	An indefinite large number of. (for mass nouns)	3452			2644
+Quantity:multiply.V	Quantity:multiply.V	multiply 				2624
 Society:help.N	Society:help.N	The act of helping someone.	3467		Hilfe::N	
 Society:help.V	Society:help.V	To give assistance or aid to.	1897	19-58		2155
 Society:people.N	Society:people.N	A group of persons forming or belonging to a particular nation, class, ethnic group, country, family, etc.	789	19-21	Volk::N	
@@ -2014,7 +2064,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Agriculture/Plant:flax or linen.N	A plant with blue flowers that is cultivated for its stem to make linen or its seeds to make oil, or a material made from the fibers of the flax plant.	3462			
 	Agriculture/Plant:flax.N	A plant with blue flowers that is cultivated for its stem to make linen or its seeds to make oil.	3315			
 	Agriculture/Plant:floral.A	A design or landscape which incorporates representations of flowers.	3756			
-	Agriculture/Plant:flower.N	The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	239	8-57	Blume::N	
 	Agriculture/Plant:forked branch.N	At this point a branch is forked into two or more branches.	409	8-74		
 	Agriculture/Plant:foxtail millet.N	Staria italica, an annual grass grown for human food and related to (broomcorn) millet.	3266			
 	Agriculture/Plant:fraxinus.N	Any of the trees belonging to the genus Fraxinus.	1089			
@@ -2341,7 +2390,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Animal:mongoose.N	A common name for several species of tropical ferret-like carnivorous mammals, distinguished by a long body and tail.	3677			
 	Animal:monitor lizard.N	Monitor lizard of the genus Varanus, such as the goanna and the Komodo dragon.	3017			
 	Animal:moth.N	Group of insects related to butterflies.	2828			
-	Animal:mule.N	The offspring of a male donkey and a female horse.	890	3-47		
 	Animal:muntjacs.N	Also known as barking deer, a kind of small deer of the genus Muntiacus.	3152			
 	Animal:muroid (mouse or rat).N	A large superfamily of rodents, including hamsters, gerbils, true mice and rats, and many other relatives.	2139	3-63		
 	Animal:mussels.N	Bivalve moluscs with an elongated and asymmetric shell.	2829			
@@ -2672,8 +2720,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Body:lie.V	lie (recline horizontally) 				737
 	Body:life.N	The time between birth or conception and death.	210	4-741	Leben::N	
 	Body:little finger.N	The smallest of the five fingers.	2774			
-	Body:live.V	live (be alive) 				621
-	Body:live.V	To be alive; to have a life.	2309			
 	Body:living.A	Being alive.	3000			
 	Body:long hair.N	Hair that is not cut.	444			
 	Body:mute person.N	A person that is not able to speak.	2320			
@@ -2840,13 +2886,8 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Cognition:grow up.V	To mature and become an adult.	552			
 	Cognition:guess.V	To suppose, to estimate or to make a surmise.	1932	17-171		
 	Cognition:hesitate.V	To hold back from saying or doing something because of doubt or uncertainty.	3629			
-	Cognition:how many pieces.?	Which quantity? (for countable nouns)	3450	17-62		
-	Cognition:how many.?	Which quantity?	822		wieviel::FNUM	
-	Cognition:how much.?	Which quantity? (for mass nouns)	531	17-63		
-	Cognition:how.?	In what way?	1239	17-61	wie::FADV	
 	Cognition:idea.N	A plan or notion that is formed and exists in the mind as a result of mental activity.	1609	17-19		
 	Cognition:identity.N	A persisting state of being the same for an entity or someone, from an objective or a subjective standpoint. Commonly referring to an individual's self-sense of being as a distinct person.	3960			
-	Cognition:if.?	[The introduction of a condition or decision.]	1459	17-53		
 	Cognition:ignore.V	To be ignorant of or in the dark about.	41			
 	Cognition:imagine.V	To form a mental image of (something not present).	3879			
 	Cognition:imitate.V	To follow as a model or a pattern.	117	17-172		
@@ -2867,7 +2908,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Cognition:many pieces.?	An indefinite large number of. (for countable nouns)	3453			
 	Cognition:memory.N	The ability of an organism to record information combined with the facility of recall.	1018		Gedächtnis::N	
 	Cognition:mind.N	The ability for rational thought.	1562	17-11	Verstand::N	
-	Cognition:much.?	An indefinite large number of. (for mass nouns)	3452			
 	Cognition:necessary.?	Needed for a purpose or a reason.	1030			
 	Cognition:necessity.N	Something that needs to be done.	422			
 	Cognition:need (noun).N	The fact or an instance of feeling the lack of something.	643	17-45		
@@ -2900,15 +2940,7 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Cognition:thought.N	Thought refers to ideas or arrangements of ideas that are the result of the process of thinking.	2975		Gedanke::N	
 	Cognition:try.V	To attempt to do something.	1812	17-48	versuchen::V	
 	Cognition:understand.V	To be aware of the meaning of.	1536	17-16	verstehen::V	
-	Cognition:what.?	Which thing.	1236	17-64	was::FPRN	
-	Cognition:when.?	At what time?	1238	17-65		
-	Cognition:where.?	At what place?	1237	17-66	wo::FADV	
-	Cognition:which.?	What one or ones (of those mentioned or implied).	727	17-67		
-	Cognition:who or what.?	What person or which thing.	2147			
-	Cognition:who.?	What person or people; which person or people.	1235	17-68	wer::FPRN	
-	Cognition:why.?	For what reason.	1270	17-69	warum::FADV	
 	Cognition:wise.A	Showing good judgement or the benefit of experience.	698	17-21		
-	Cognition:yes.?	A word used to show agreement or affirmation of something.	1268	17-55		
 	Combat:army.N	army				1631
 	Combat:military.A	military 				1630
 	Combat:navy.N	navy				1632
@@ -3049,19 +3081,9 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Communication:warn.V	warn 				2228
 	Communication:word.N	word				2289
 	Communication:write.V	write 				2241
-	Degree:almost.ADV	almost, nearly 				2730
 	Degree:as much as.N	as much as (to the same degree as)				2710
-	Degree:at least.ADV	at least, not less than (>=) 				2711
-	Degree:at most.ADV	at most, only, just, merely, not more than 				2712
-	Degree:degree.N	degree (the extent/intensity/scope of an action/condition/relation)				2700
-	Degree:least.ADV	least (to the smallest degree) 				2726
-	Degree:less.ADV	less (to a smaller degree) 				2725
-	Degree:little.ADV	little (to a small degree; with almost no intensity) 				2724
-	Degree:more.ADV	more (to a larger degree) 				2722
-	Degree:most.ADV	most (to the largest degree) 				2723
 	Degree:too little.ADV	too little, insufficiently 				2733
 	Degree:too much.ADV	too much, excessively 				2732
-	Degree:very.ADV	very, much (to a large degree; with great intensity) 				2721
 	Dimension:absent.A	absent 				2815
 	Dimension:angle.N	angle (the relation of two lines radiating from a point)				2850
 	Dimension:big.A	big, large (of much size) 				2803
@@ -3504,8 +3526,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Food:olive.N	The small oval fruit of the olive tree, Olea europaea.	1154	5-78		
 	Food:opium.N	The dried latex obtained from the opium poppy.	2498			
 	Food:organic fat or oil.N	Animal or plant fat in a soft or liquid state.	2551			
-	Food:oven.N	An enclosed heated compartment usually lined with a refractory material used for baking or drying substances, firing ceramics, heat-treating, etc.	1143	5-25		
-	Food:oven.N	oven				3495
 	Food:pan.N	Cooking utensil relatively flat, having a handle, used to cook food such as meat, vegetables or eggs, usually in oil or butter.	31	5-28		
 	Food:papaya.N	The fruit of the plant Carica papaya, and is one of the 22 accepted species in the genus Carica of the plant family Caricaceae.	2445			
 	Food:pasta.N	pasta, noodles				3420
@@ -3515,7 +3535,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Food:pestle.N	A heavy cylindrical object with a rounded end used for crushing and grinding.	225	5-59		
 	Food:pig fat.N	The fat from a pig, used for cooking.	2557			
 	Food:pitcher.N	A container shaped like a vase with a handle and a spout used to serve liquids.	120			
-	Food:pizza.N	pizza				3425
 	Food:plate.N	A flat dish on which food is served or from which food is eaten.	480	5-32		
 	Food:pomegranate.N	A fruit with a thick reddish peel and many small red little seeds of a tree from the family Punica granatum.	3732			
 	Food:pork.N	The edible flesh of pigs.	2769			
@@ -3780,29 +3799,16 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Grammar:be.V	To have existence.	1579	24-01		
 	Grammar:become.V	To begin to be; to come to be; to turn into.	1990	24-02	werden::V	
 	Grammar:every (each).?	All the members of a referred group individually.	3416	13-99903		
-	Grammar:gradually.A	Making progress, but slowly.	94			
-	Grammar:here.?	At this place.	136	24-09	hier::ADV	
-	Grammar:in that way.?	Doing something in that manner.	3414			
-	Grammar:in this way.?	Doing something in this manner.	3413			
 	Grammar:in vain.?	Without success, without the desired effect.	1765	16-99902	vergebens::ADV	
 	Grammar:next.?	Following in a sequence.	1354	24-12		
-	Grammar:not.?	Negates the meaning of the modified verb or adjective.	1240	24-06	nicht::ADV	
 	Grammar:nothing or zero.NUM	Not anything or the cardinal number that denotes no quantity or amount at all.	3198			
-	Grammar:nothing.?	Not anything.	687	24-14		
 	Grammar:of that kind (such).?	In that way, such, etc.	2337			
 	Grammar:of this kind (such).?	In this way, such, etc.	2336		so::ADV	
 	Grammar:opposite.A	The contrary; being opposed to something.	885			
 	Grammar:other or some.?	The rest of a group or an unspecified quantity or number.	3863			
-	Grammar:other.?	The rest of a group of.	197	24-11	anderer::A	
 	Grammar:severe.A	Intensely or extremely bad or unpleasant in degree or quality.	419		schlimm::A	
-	Grammar:that.?	The indicated object, item, etc. distant from the speaker.	78	24-08	das::PRN	
 	Grammar:there is or there are.V	Existing from the perspective of the speaker.	2152			
-	Grammar:there.?	In a not completely determined place which is not here.	1937	24-1	dort::ADV	
-	Grammar:these (plural of this).?	The indicated objects, items, etc. close to the speaker.	3984			
-	Grammar:this.?	The indicated object, item, etc. close to the speaker.	1214	24-07	dies::PRN	
-	Grammar:those (plural of that).?	The indicated objects, items, etc. distant from the speaker.	3985			
 	Grammar:through.?	From one side of an opening to the other.	97	24-05	durch::PRP	
-	Grammar:very.?	To a high or large degree.	1311		sehr::ADV	
 	Grammar:with.?	In the company of.	1340	24-04		
 	Grammar:without.?	Not having, containing, characteristic of, etc.	1478	24-03		
 	Group:a people.N	a people, folk, the members of an ethnic group / nation				430
@@ -4724,7 +4730,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Plant:elm.N	elm (tree of genus Ulmus)				1042
 	Plant:fertile.A	fertile (of soil; able to support plant growth) 				1007
 	Plant:flax.N	flax (Linum usitatissimum)				1056
-	Plant:flower.N	flower				1022
 	Plant:fruit.N	fruit				1023
 	Plant:garden.N	garden				1010
 	Plant:garlic.N	garlic (herb of sp. Allium sativum)				1065
@@ -4909,16 +4914,12 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Quantity:door (classifier).CLF	Classifier for doors and gates.	2734			
 	Quantity:drop (classifier).CLF	Classifier for small units of liquid, like water.	2087			
 	Quantity:egg (classifier).CLF	Classifier for eggs.	3417			
-	Quantity:empty.A	empty 				2686
-	Quantity:empty.A	Without content.	1624	13-22	leer::A	
 	Quantity:few.?	More than one, but not as many as usual or as expected.	1242	13-17		
 	Quantity:few.A	few (a small number of) 				2643
 	Quantity:first.?	Having no predecessor. The ordinal number corresponding to one.	728	13-34	erster::A	
 	Quantity:fish (classifier).CLF	Classifier for fishes.	2720			
 	Quantity:foot (measure).N	A measure unit.	2782			
 	Quantity:fruit (classifier).CLF	The measure word used for typical fruits.	3246			
-	Quantity:full.A	Containing the most or maximum amount possible in the given available space.	1429	13-21	voll::A	
-	Quantity:full.A	full, filled 				2685
 	Quantity:grain (classifier).CLF	Classifier for tiny objects, like rice.	2086			
 	Quantity:half (half of).A	Describing one of the two equal parts into which something may be divided.	3836			
 	Quantity:half.N	One of the two equal parts of a whole.	816	13-24	Hälfte::N	
@@ -4929,24 +4930,15 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Quantity:knife (classifier).CLF	Classifier for knife-like objects.	2082			
 	Quantity:least.A	least (the smallest quantity of) 				2649
 	Quantity:less.A	less (a smaller quantity of) 				2648
-	Quantity:level.N	The amount or degree of something; the height of the surface of something liquid with respect to its bottom.	3469			
+	Quantity:level.N	The height of the surface of something, usually liquid, with respect to its bottom.				
 	Quantity:liter.N	liter				2611
-	Quantity:little.A	little (a small quantity of) 				2647
 	Quantity:majority.N	majority				2670
-	Quantity:many.?	An indefinite large number of.	1198	13-15		
-	Quantity:many.A	many (a large number of) 				2642
 	Quantity:measure.V	measure 				2610
 	Quantity:meter.N	meter (S.I. unit of length)				2613
 	Quantity:minority.N	minority				2671
-	Quantity:more.?	[Used in forming the comparative form of many adjectives and almost all comparable adverbs.]	1992	13-16		
-	Quantity:more.A	more (a larger quantity of) 				2645
-	Quantity:most.A	most (the largest quantity of) 				2646
 	Quantity:mouthful (classifier).CLF	Classifier for things that can be eaten or drunk.	2728			
-	Quantity:much.A	much (a large quantity of) 				2644
-	Quantity:multiply.V	multiply 				2624
 	Quantity:multitude.N	A large number of something.	538			
 	Quantity:needle (classifier).CLF	Classifier for needle or similar objects.	2731			
-	Quantity:nobody.?	No person; not one member out of a group of people.	3887			
 	Quantity:number.N	number, numeral (a word or symbol indicating quantity)				2601
 	Quantity:one third.N	One of three equal parts of a whole.	3842			
 	Quantity:one thousand and two.NUM	The natural number one thousand and two (1002).	3774			
