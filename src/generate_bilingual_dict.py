@@ -44,7 +44,7 @@ def make_bilingual_dictionary_table(source_language_dict, target_language_dict):
         if source_row["id"] == target_row["id"]:
             word_class = source_row["id"].split('.')[1].lower()
             if has_transcription:
-                bilingual_dictionary.append([source_row["word"], word_class, target_row["word"], target_row["transciption"]])
+                bilingual_dictionary.append([source_row["word"], word_class, target_row["word"], target_row["transcription"]])
             elif has_pronunciation:
                 bilingual_dictionary.append([source_row["word"], word_class, target_row["word"], target_row["pronunciation"]])
             else:
@@ -63,7 +63,8 @@ def make_bilingual_dictionary_table(source_language_dict, target_language_dict):
 
 def format_and_write(source_lang, target_lang, dict):
     """Sorts the dictionary alphabetically and writes it to file in Markdown format."""
-    sorted_dict = sorted(dict)
+    # Sort the words in case-insensitive way.
+    sorted_dict = sorted(dict, key=lambda s: s[0].casefold())
 
     filename = "generated/" + source_lang + "-" + target_lang + ".md"
     file = helpers.simple_file_writer(filename)
