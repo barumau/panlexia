@@ -172,18 +172,31 @@ Clothing:thread.N		fio	fiw
 Clothing:towel.N		toalha	ˈtwaʎɐ
 Clothing:trousers.N		calça	ˈkaɫsɐ
 Clothing:undress.V		despir	dəʃˈpir
+Cognition:familiar.A		conhecido	kuɲəˈsiðu
+Cognition:true.A		verdadeiro	vərðɐˈðejru
+Cognition:truth.N		verdade	vərˈðaðə
 Combat:brawl.V		bater-se	baterʃe
 Combat:brawl.V		brigar	briˈɣar
 Combat:fight.N		combate	kõbate
 Combat:fight.N		luta	ˈlutɐ
 Combat:strike (sb).V		bater	bɐˈter
+Combat:violence.N		violência	vjuˈlẽsjɐ
 Combat:win.V		vencer	vẽˈser
 Communication:boast.V		gabar-se	ɣaβarʃe
 Communication:boast.V		vangloriar-se	vãɡlorjarʃe
 Communication:call.V		chamar	ʃɐˈmar
 Communication:chat.V		conversar	kõvərˈsar
+Communication:convey (a message).V		comunicar	kumuniˈkar
+Communication:convey (a message).V		participar	pɐrtəsiˈpar
+Communication:fairy tale.N		conto	ˈkõtu
+Communication:kiss.V		beijar	bejˈʒar
 Communication:language.N		língua	ˈlĩɡwɐ
+Communication:laugh.V		rir	ʀir
+Communication:laugh.V		rir-se	ˈʀirsə
+Communication:laughter.N		gargalhada	ɣarɣaʎaða
+Communication:laughter.N		risada	rizaða
 Communication:letter.N		carta	ˈkartɐ
+Communication:lie.N		mentira	mẽˈtirɐ
 Communication:newspaper.N		jornal	ʒurˈnaɫ
 Communication:talk.V		falar	fɐˈlar
 Communication:tell.V		contar	kõˈtar
@@ -197,7 +210,24 @@ Cosmos:star.N		estrela	iʃˈtrɛlɐ
 Element:Ag.N		prata	ˈpratɐ
 Element:Au.N		ouro	ˈoru
 Element:Fe.N		ferro	ˈfɛʀu
+Emotion:be angry.V		zangar-se	zɐ̃ˈɡarsə
+Emotion:cry.V		chorar	ʃuˈrar
+Emotion:evil.A		mau	maw
+Emotion:fear.V		ter medo de	termeðoðe
+Emotion:fear.V		ter receio de	terresejoðe
+Emotion:gentle.A		brando	brãdu
+Emotion:gentle.A		suave	ʃwave
+Emotion:grief.N		aflição	aflisãw
+Emotion:grief.N		desgosto	dəʒˈɣoʃtu
+Emotion:happiness.N		felicidade	fələsiˈðaðə
+Emotion:like.V		gostar de	ɡuʃˈtar də
+Emotion:longing.N		vontade	võˈtaðə
+Emotion:love.V		amar	ɐˈmar
+Emotion:love.V		querer	kəˈrer
+Emotion:merry.A		alegre	ɐˈlɛɣrə
 Emotion:move.V		comover	komover
+Emotion:sad.A		triste	ˈtriʃtə
+Emotion:want.V		querer	kəˈrer
 Family:aunt.N		tia	ˈtiɐ
 Family:brother.N		irmão	irˈmɐ̃w
 Family:daughter.N		filha	ˈfiʎɐ
@@ -213,7 +243,10 @@ Family:son.N		filho	ˈfiʎu
 Family:uncle.N		tio	tiw
 Family:wife.N		esposa	iʃˈpozɐ
 Food:Malus domestica.N		maçã	mɐˈsɐ̃
+Food:NaCl.N		sal	saɫ
 Food:bake.V		cozer	kuˈzer
+Food:soup.N		caldo	kaɫðu
+Food:soup.N		sopa	ˈsopɐ
 Food:tea.N		chá	ʃa
 Form:bend (sth).V		vergar	verɣar
 Form:bend.V		curvar	kurvar
@@ -253,6 +286,9 @@ House:cradle.N		berço	bersu
 House:pillow.N		almofada	aɫmofaða
 Hunting:fishing.V		pescar	pəʃˈkar
 Hunting:hunt.V		caçar	kɐˈsar
+Interaction:choose.V		eleger	iləˈʒer
+Interaction:choose.V		escolher	iʃkuˈʎer
+Interaction:rescue.V		salvar	saɫˈvar
 Language:book.N		livro	ˈlivru
 Mind:dream.N		sonho	ˈsoɲu
 Motion:arrive.V		chegar	ʃəˈɣar
@@ -306,6 +342,8 @@ People:people.N		gente	ˈʒẽtə
 People:people.N		pessoas	peswaʃ
 People:woman.N		mulher	muˈʎer
 Perception:feel.V		sentir	sẽˈtir
+Perception:hear or listen.V		ouvir	oˈvir
+Perception:hear.V		ouvir	oˈvir
 Perception:touch.V		tocar	tuˈkar
 Plant:Betula.N		bétula	betula
 Plant:branch.N		ramo	ˈʀɐmu
@@ -319,6 +357,10 @@ Possession:abandon.V		abandonar	ɐβɐ̃duˈnar
 Possession:abandon.V		deixar	dejˈʃar
 Possession:gift.N		prenda	ˈprẽdɐ
 Possession:gift.N		presente	prəˈzẽtə
+Possession:poor.A		pobre	ˈpɔβrə
+Possession:price.N		preço	ˈpresu
+Possession:rich.A		rico	ˈʀiku
+Possession:sell.V		vender	vẽˈder
 Quantity:1.NUM		um	ũ
 Quantity:10.NUM		dez	dɛʃ
 Quantity:100.NUM		cem	sẽj
@@ -403,3 +445,7 @@ Transit:oar.N		remo	remu
 Transit:road.N		estrada	esˈtrada
 Transit:road.N		via	ˈviɐ
 Transit:row.V		remar	remar
+Value:bad.A		mau	maw
+Value:bad.A		ruim	ʀwĩ
+Value:good.A		bom	bõ
+Value:improve.V		melhorar	miʎuˈrar

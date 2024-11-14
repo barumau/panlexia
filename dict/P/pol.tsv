@@ -160,17 +160,27 @@ Clothing:thread.N		nić	nit͡ɕ
 Clothing:towel.N		ręcznik	ɾɛnʈ͡ʂnik
 Clothing:trousers.N		spodnie	spɔdniɛ
 Clothing:undress.V		zdjąć	zdjɔnt͡ɕ
+Cognition:familiar.A		znany	znanɨ
+Cognition:true.A		prawdziwy	pɾavd͡ʑivɨ
+Cognition:truth.N		prawda	pɾavda
 Combat:brawl.V		pobić się	pɔbit͡ɕ ɕɛ̃
 Combat:fight.N		bój	buj
 Combat:fight.N		walka	valka
 Combat:strike (sb).V		bić	bit͡ɕ
 Combat:strike (sb).V		uderzyć	udɛʐɨt͡ɕ
+Combat:violence.N		władza	vwad͡za
 Combat:win.V		zwycziężyć	zvɨʈ͡ʂiɛ̃ʐɨt͡ɕ
 Communication:boast.V		chełpić się	xɛwpit͡ɕ ɕɛ̃
 Communication:call.V		wołać	vɔwat͡ɕ
 Communication:chat.V		rozmawiać	ɾɔzmaviat͡ɕ
+Communication:convey (a message).V		zawiadomić o	zaviadɔmit͡ɕ ɔ
+Communication:fairy tale.N		bajka	bajka
+Communication:kiss.V		całować	t͡sawɔvat͡ɕ
 Communication:language.N		język	jɛ̃zɨk
+Communication:laugh.V		śmiać się	ɕmiat͡ɕ ɕɛ̃
+Communication:laughter.N		śmiech	ɕmiɛx
 Communication:letter.N		list	list
+Communication:lie.N		kłamstwo	kwamstfɔ
 Communication:newspaper.N		dziennik	d͡ʑɛnːik
 Communication:newspaper.N		gazeta	ɡazɛta
 Communication:talk.V		mówić	muvit͡ɕ
@@ -184,7 +194,21 @@ Cosmos:star.N		gwiazda	ɡviazda
 Element:Ag.N		srebro	sɾɛbɾɔ
 Element:Au.N		złoto	zwɔtɔ
 Element:Fe.N		żelazo	ʐɛlazɔ
+Emotion:be angry.V		gniewać się	ɡniɛvat͡ɕ ɕɛ̃
+Emotion:cry.V		płakać	pwakat͡ɕ
+Emotion:evil.A		zły	zwɨ
+Emotion:fear.V		bać się	bat͡ɕ ɕɛ̃
+Emotion:gentle.A		łagodny	waɡɔdnɨ
+Emotion:grief.N		zmartwienie	zmaɾtfiɛniɛ
+Emotion:happiness.N		szczęście	ʂʈ͡ʂɛ̃ɕt͡ɕɛ
+Emotion:like.V		lubić	lubit͡ɕ
+Emotion:longing.N		chęć	xɛnt͡ɕ
+Emotion:longing.N		ochota	ɔxɔta
+Emotion:love.V		kochać	kɔxat͡ɕ
+Emotion:merry.A		wesoły	vɛsɔwɨ
 Emotion:move.V		wzruszyć	vzɾuʂɨt͡ɕ
+Emotion:sad.A		smutny	smutnɨ
+Emotion:want.V		chcieć	xt͡ɕɛt͡ɕ
 Family:aunt.N		ciotka	t͡ɕɔtka
 Family:brother.N		brat	bɾat
 Family:daughter.N		córka	t͡suɾka
@@ -201,7 +225,9 @@ Family:uncle.N		stryj	stɾɨj
 Family:uncle.N		wuj	vuj
 Family:wife.N		żona	ʐɔna
 Food:Malus domestica.N		jabłko	japwkɔ
+Food:NaCl.N		sól	sul
 Food:bake.V		piec	piɛt͡s
+Food:soup.N		zupa	zupa
 Food:tea.N		herbata	xɛɾbata
 Form:bend (sth).V		zgiąć	zɡiɔnt͡ɕ
 Form:bend.V		zagiąć	zaɡiɔnt͡ɕ
@@ -238,6 +264,9 @@ House:cradle.N		kołyska	kɔwɨska
 House:pillow.N		poduszka	pɔduʂka
 Hunting:fishing.V		łowić ryby	wɔvit͡ɕ ɾɨbɨ
 Hunting:hunt.V		polować	pɔlɔvat͡ɕ
+Interaction:choose.V		wybrać	vɨbɾat͡ɕ
+Interaction:rescue.V		ocalić	ɔt͡salit͡ɕ
+Interaction:rescue.V		uratować	uɾatɔvat͡ɕ
 Language:book.N		książka	kɕɔ̃ʂka
 Mind:dream.N		sen	sɛn
 Motion:arrive.V		przybyć	pʂɨbɨt͡ɕ
@@ -285,6 +314,8 @@ People:people.N		ludzie	lud͡ʑɛ
 People:woman.N		kobieta	kɔbiɛta
 Perception:feel.V		czuć	ʈ͡ʂut͡ɕ
 Perception:feel.V		odczuwać	ɔtʈ͡ʂuvat͡ɕ
+Perception:hear or listen.V		usłyszeć	uswɨʂɛt͡ɕ
+Perception:hear.V		słyszeć	swɨʂɛt͡ɕ
 Perception:touch.V		dotykać	dɔtɨkat͡ɕ
 Plant:Betula.N		brzoza	bʐɔza
 Plant:branch.N		gałąź	ɡawɔ̃ɕ
@@ -297,6 +328,11 @@ Plant:twig.N		gałąź	ɡawɔ̃ɕ
 Possession:abandon.V		opuścić	ɔpuɕt͡ɕit͡ɕ
 Possession:gift.N		podarunek	pɔdaɾunɛk
 Possession:gift.N		prezent	pɾɛzɛnt
+Possession:poor.A		biedny	biɛdnɨ
+Possession:poor.A		ubogi	ubɔɡi
+Possession:price.N		cena	t͡sɛna
+Possession:rich.A		bogaty	bɔɡatɨ
+Possession:sell.V		sprzedać	spʂɛdat͡ɕ
 Quantity:1.NUM		jeden	jɛdɛn
 Quantity:10.NUM		dziesięć	d͡ʑɛɕɛnt͡ɕ
 Quantity:100.NUM		sto	stɔ
@@ -377,3 +413,6 @@ Transit:boat.N		łódź	wut͡ɕ
 Transit:oar.N		wiosło	viɔswɔ
 Transit:road.N		ulica	ulit͡sa
 Transit:row.V		wiosłować	viɔswɔvat͡ɕ
+Value:bad.A		zły	zwɨ
+Value:good.A		dobry	dɔbɾɨ
+Value:improve.V		ulepszyć	ulɛpʂɨt͡ɕ

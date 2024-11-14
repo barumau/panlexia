@@ -168,17 +168,32 @@ Clothing:thread.N		نخ	næx
 Clothing:towel.N		حوله	houle
 Clothing:trousers.N		شلوار	ʃælwɒːɾ
 Clothing:undress.V		درآوردن	dæɾɒːwæɾdæn
+Cognition:familiar.A		آشنا	ɒːʃnɒː
+Cognition:familiar.A		معلوم	mæʔlum
+Cognition:true.A		حقیقی	hæɣiɣi
+Cognition:true.A		درست	doɾost
+Cognition:truth.N		حقیقت	hæɣiɣæt
 Combat:brawl.V		کتک‌کاری کردن	kotækkɒːɾi kæɾdæn
 Combat:fight.N		مبارزه	mobɒːɾeze
 Combat:fight.N		نبرد	næbæɾd
 Combat:strike (sb).V		زدن	zædæn
 Combat:strike (sb).V		کوبیدن	kubidæn
+Combat:violence.N		خشونت	xoʃunæt
+Combat:violence.N		زور	zuɾ
 Combat:win.V		پیروز شدن	piɾuz ʃodæn
 Communication:boast.V		پز آمدن	poz ɒːmædæn
 Communication:call.V		صدا کردن	sedɒː kæɾdæn
 Communication:chat.V		گپ زدن	ɡæp zædæn
+Communication:convey (a message).V		خبر دادن	xæbæɾ dɒːdæn
+Communication:fairy tale.N		افسانه	æfsɒːne
+Communication:fairy tale.N		قصه	ɣesːe
+Communication:kiss.V		بوسیدن	busidæn
 Communication:language.N		زبان	zæbɒːn
+Communication:laugh.V		خندیدن	xændidæn
+Communication:laughter.N		خنده	xænde
+Communication:laughter.N		قاه‌قاه	ɣɒːhɣɒːh
 Communication:letter.N		نامه	nɒːme
+Communication:lie.N		دروغ	doɾuɣ
 Communication:newspaper.N		روزنامه	ɾuznɒːme
 Communication:talk.V		حرف زدن	hæɾf zædæn
 Communication:talk.V		صحبت کردن	sohbæt kæɾdæn
@@ -195,7 +210,23 @@ Element:Ag.N		نقره	noɣɾe
 Element:Au.N		زر	zæɾ
 Element:Au.N		طلا	tælɒː
 Element:Fe.N		آهن	ɒːhæn
+Emotion:be angry.V		ناراحت شدن	nɒːɾɒːhæt ʃodæn
+Emotion:cry.V		گریه کردن	ɡeɾje kæɾdæn
+Emotion:evil.A		بد	bæd
+Emotion:fear.V		واهمه کردن	wɒːheme kæɾdæn
+Emotion:gentle.A		لطیف	lætif
+Emotion:grief.N		غصه	ɣosːe
+Emotion:grief.N		غم	ɣæm
+Emotion:happiness.N		اقبال	eɣbɒːl
+Emotion:like.V		دوست داشتن	dust dɒːʃtæn
+Emotion:like.V		میل داشتن	mejl dɒːʃtæn
+Emotion:longing.N		هوس	hæwæs
+Emotion:love.V		عاشق بودن	ɒːʃeɣ budæn
+Emotion:merry.A		خوشحال	xoʃhɒːl
+Emotion:merry.A		شاد	ʃɒːd
 Emotion:move.V		به رقت آوردن	be ɾeɣːæt ɒːwæɾdæn
+Emotion:sad.A		غمگین	ɣæmɡin
+Emotion:want.V		خواستن	xɒːstæn
 Family:aunt.N		خاله	xɒːle
 Family:aunt.N		عمه	æmːe
 Family:brother.N		برادر	bæɾɒːdæɾ
@@ -215,7 +246,10 @@ Family:uncle.N		دایی	dɒːji
 Family:uncle.N		عمو	æmu
 Family:wife.N		همسر	hæmsæɾ
 Food:Malus domestica.N		سیب	sib
+Food:NaCl.N		نمک	næmæk
 Food:bake.V		پختن	poxtæn
+Food:soup.N		آش	ɒːʃ
+Food:soup.N		سوپ	sup
 Food:tea.N		چای	t͡ʃɒːj
 Form:bend (sth).V		خم کردن	xæm kæɾdæn
 Form:bend.V		کج کردن	kæd͡ʒ kæɾdæn
@@ -255,6 +289,8 @@ House:pillow.N		بالش	bɒːleʃ
 Hunting:fishing.V		صید کردن	sejd kæɾdæn
 Hunting:fishing.V		ماهی‌گیری کردن	mɒːhiɡiɾi kæɾdæn
 Hunting:hunt.V		شکار کردن	ʃekɒːɾ kæɾdæn
+Interaction:choose.V		انتخاب کردن	entexɒːb kæɾdæn
+Interaction:rescue.V		نجات دادن	ned͡ʒɒːt dɒːdæn
 Language:book.N		کتاب	ketɒːb
 Mind:dream.N		رؤیا	ɾoʔjɒː
 Motion:arrive.V		رسیدن	ɾæsidæn
@@ -302,6 +338,8 @@ People:man.N		مرد	mæɾd
 People:people.N		مردم	mæɾdom
 People:woman.N		زن	zæn
 Perception:feel.V		احساس کردن	ehsɒːs kæɾdæn
+Perception:hear or listen.V		شنیدن	ʃenidæn
+Perception:hear.V		شنیدن	ʃenidæn
 Perception:touch.V		دست زدن	dæst zædæn
 Perception:touch.V		لمس کردن	læms kæɾdæn
 Plant:Betula.N		غان	ɣɒːn
@@ -314,6 +352,12 @@ Plant:tree.N		درخت	deɾæxt
 Plant:twig.N		شاخه	ʃɒːxe
 Possession:abandon.V		ترک کردن	tæɾk kæɾdæn
 Possession:gift.N		هدیه	hædije
+Possession:poor.A		فقیر	fæɣiɾ
+Possession:price.N		بها	bæhɒː
+Possession:price.N		قیمت	ɣimæt
+Possession:rich.A		ثروتمند	sæɾwætmænd
+Possession:rich.A		پولدار	puldɒːɾ
+Possession:sell.V		فروختن	foɾuxtæn
 Quantity:1.NUM		یک	jek
 Quantity:10.NUM		ده	dæh
 Quantity:100.NUM		صد	sæd
@@ -394,3 +438,6 @@ Transit:oar.N		پارو	pɒːɾu
 Transit:road.N		جاده	d͡ʒɒːdːe
 Transit:road.N		راه	ɾɒːh
 Transit:row.V		پارو زدن	pɒːɾu zædæn
+Value:bad.A		بد	bæd
+Value:good.A		خوب	xub
+Value:improve.V		بهتر کردن	behtæɾ kæɾdæn

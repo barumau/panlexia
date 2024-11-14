@@ -158,15 +158,27 @@ Clothing:thread.N		lanka	lɑŋkɑ
 Clothing:towel.N		pyyheliina	pyːhɛliːnɑ
 Clothing:trousers.N		housut	hɔwsʊt
 Clothing:undress.V		riisua	riːsʊɑ
+Cognition:familiar.A		tunnettu	tʊnːɛtːʊ
+Cognition:familiar.A		tuttu	tʊtːʊ
+Cognition:true.A		tosi	tɔsi
+Cognition:truth.N		tosi	tɔsi
+Cognition:truth.N		totuus	tɔtuːs
 Combat:brawl.V		tapella	tɑpɛlːɑ
 Combat:fight.N		taistelu	tɑi̯stɛlʊ
 Combat:strike (sb).V		lyödä	lyœ̯dæ
+Combat:violence.N		väkivalta	ʋækiʋɑltɑ
 Combat:win.V		voittaa	ʋɔi̯tːɑː
 Communication:boast.V		kerskailla	kɛrskɑi̯lːɑ
 Communication:call.V		kutsua	kʊt͡sʊɑ
 Communication:chat.V		jutella	jʊtɛlːɑ
+Communication:convey (a message).V		ilmoittaa	ilmɔi̯tːɑː
+Communication:fairy tale.N		satu	sɑtʊ
+Communication:kiss.V		suudella	suːdɛlːɑ
 Communication:language.N		kieli	kiɛ̯li
+Communication:laugh.V		nauraa	nɑwrɑː
+Communication:laughter.N		nauru	nɑwrʊ
 Communication:letter.N		kirje	kirjɛ
+Communication:lie.N		valhe	ʋɑlhɛ
 Communication:newspaper.N		lehti	lɛxti
 Communication:newspaper.N		sanomalehti	sɑnɔmɑlɛxti
 Communication:talk.V		keskustella	kɛskʊstɛlːɑ
@@ -180,7 +192,27 @@ Cosmos:star.N		tähti	tæxti
 Element:Ag.N		hopea	hɔpɛɑ
 Element:Au.N		kulta	kʊltɑ
 Element:Fe.N		rauta	rɑwtɑ
+Emotion:be angry.V		suuttua	suːtːʊɑ
+Emotion:cry.V		itkeä	itkɛæ
+Emotion:evil.A		häijy	hæi̯jʏ
+Emotion:evil.A		paha	pɑhɑ
+Emotion:fear.V		pelätä	pɛlætæ
+Emotion:gentle.A		lauha	lɑwhɑ
+Emotion:gentle.A		lempeä	lɛmpɛæ
+Emotion:grief.N		murhe	mʊrhɛ
+Emotion:grief.N		suru	sʊrʊ
+Emotion:happiness.N		onni	ɔnːi
+Emotion:like.V		pitää	pitæː
+Emotion:like.V		tykätä	tʏkætæ
+Emotion:longing.N		himo	himɔ
+Emotion:love.V		pitää	pitæː
+Emotion:love.V		rakastaa	rɑkɑstɑː
+Emotion:merry.A		hauska	hɑwskɑ
+Emotion:merry.A		iloinen	ilɔi̯nɛn
 Emotion:move.V		liikuttaa	liːkʊtːɑː
+Emotion:sad.A		murheellinen	mʊrhɛːlːinɛn
+Emotion:sad.A		surullinen	sʊrʊlːinɛn
+Emotion:want.V		tahtoa	tɑxtɔɑ
 Family:aunt.N		täti	tæti
 Family:brother.N		veli	ʋɛli
 Family:daughter.N		tytär	tʏtær
@@ -199,7 +231,9 @@ Family:uncle.N		setä	sɛtæ
 Family:wife.N		aviovaimo	ɑʋiɔʋɑi̯mɔ
 Family:wife.N		vaimo	ʋɑi̯mɔ
 Food:Malus domestica.N		omena	ɔmɛnɑ
+Food:NaCl.N		suola	suɔ̯lɑ
 Food:bake.V		leipoa	lɛi̯pɔɑ
+Food:soup.N		keitto	kɛi̯tːɔ
 Food:tea.N		tee	tɛː
 Form:bend (sth).V		taivuttaa	tɑi̯ʋʊtːɑː
 Form:bend.V		taivuttaa	tɑi̯ʋʊtːɑː
@@ -237,6 +271,8 @@ House:pillow.N		pielus	piɛ̯lʊs
 House:pillow.N		tyyny	tyːnʏ
 Hunting:fishing.V		kalastaa	kɑlɑstɑː
 Hunting:hunt.V		metsästää	mɛt͡sæstæː
+Interaction:choose.V		valita	ʋɑlitɑ
+Interaction:rescue.V		pelastaa	pɛlɑstɑː
 Language:book.N		kirja	kirjɑ
 Mind:dream.N		uni	ʊni
 Motion:arrive.V		saapua	sɑːpʊɑ
@@ -285,6 +321,8 @@ People:people.N		ihmiset	ixmisɛt
 People:people.N		väki	ʋæki
 People:woman.N		nainen	nɑi̯nɛn
 Perception:feel.V		tuntea	tʊntɛɑ
+Perception:hear or listen.V		kuulla	kuːlːɑ
+Perception:hear.V		kuulla	kuːlːɑ
 Perception:touch.V		koskea	kɔskɛɑ
 Perception:touch.V		koskettaa	kɔskɛtːɑː
 Plant:Betula.N		koivu	kɔi̯ʋʊ
@@ -297,6 +335,10 @@ Plant:tree.N		puu	puː
 Plant:twig.N		haara	hɑːrɑ
 Possession:abandon.V		jättää	jætːæː
 Possession:gift.N		lahja	lɑhjɑ
+Possession:poor.A		köyhä	kœɥhæ
+Possession:price.N		hinta	hintɑ
+Possession:rich.A		rikas	rikɑs
+Possession:sell.V		myydä	myːdæ
 Quantity:1.NUM		yksi	ʏksi
 Quantity:10.NUM		kymmenen	kʏmːɛnɛn
 Quantity:100.NUM		sata	sɑtɑ
@@ -374,3 +416,7 @@ Transit:boat.N		vene	ʋɛnɛ
 Transit:oar.N		airo	ɑi̯rɔ
 Transit:road.N		katu	kɑtʊ
 Transit:row.V		soutaa	sɔwtɑː
+Value:bad.A		huono	huɔ̯nɔ
+Value:bad.A		paha	pɑhɑ
+Value:good.A		hyvä	hʏʋæ
+Value:improve.V		parantaa	pɑrɑntɑː

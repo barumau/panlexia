@@ -183,6 +183,9 @@ Clothing:trousers.N		pantalone
 Clothing:uniform.N		uniforme
 Clothing:veil.N		vele
 Clothing:weave.V		texa
+Cognition:expect.V		expekta
+Cognition:false.A		falsi
+Cognition:true.A		veri
 Combat:fight.V		kombata, lukta
 Combat:helmet.N		helme
 Combat:wrestle.V		lukta
@@ -213,7 +216,22 @@ Element:O.N		oxe, oxigene
 Element:Pb.N		plumbe
 Element:S.N		sulfre
 Element:Sn.N		stane
+Emotion:admire.V		admira
+Emotion:angry.A		irat (irant)
+Emotion:boring.A		enoyant(i), tedant(i), tedivi
+Emotion:comfort.N		komforte
+Emotion:courage.N		kuraje
+Emotion:disappointment.N		deseptione
+Emotion:evil.A		mal(i)
+Emotion:fear.N		tima, pavora
 Emotion:feel.V		senti
+Emotion:happy.A		felisi
+Emotion:hate.V		odia
+Emotion:hope.V		espera
+Emotion:love.V		ama
+Emotion:respect.V		respekte
+Emotion:sad.A		tristi
+Emotion:worry.V		tormente
 Family:brother.N		fratro
 Family:daughter.N		filia
 Family:family.N		familie
@@ -224,11 +242,13 @@ Family:mother.N		matra
 Family:sister.N		fratra
 Family:son.N		filio
 Family:wife.N		marita
+Food:NaCl.N		sale
 Food:bake.V		baka
 Food:drink.V		drinka
 Food:flour.N		farine
 Food:salad.N		salade
 Food:sausage.N		sosise
+Food:soup.N		supe
 Grooming:brush.N		brose
 Health:disease.N		maladeso
 Health:fever.N		febre
@@ -239,6 +259,7 @@ House:curtain.N		kurtene
 House:pillow.N		kusene
 House:rug.N		tapisete
 Hunting:hunt.V		chasa
+Interaction:choose.V		selekte
 Language:book.N		libre
 Law:crime.N		krime
 Literature:alphabet.N		alfabete
@@ -268,13 +289,18 @@ People:male.A		maskulin(i)
 People:man.N		homo
 People:woman.N		homa, fema
 Perception:feel.V		senti
+Perception:hear.V		audi
 Perception:touch.V		tucha
 Plant:Citrus sinensis.N		oranje
 Plant:Ficus carica.N		fige
 Plant:Gossypium.N		kotone
 Plant:bud.N		burjone
 Plant:plant.N		plante
+Possession:poor.A		povri
+Possession:price.N		pretie
 Possession:receive.V		resiva
+Possession:rich.A		richi
+Possession:value.N		valore
 Quantity:0.NUM		sero
 Quantity:1.NUM		un, uni
 Quantity:10.NUM		dek
@@ -340,3 +366,9 @@ Transit:train.N		trene
 Transit:truck.N		kamione
 Transit:vehicle.N		vehikle
 Transit:wheel.N		rote
+Value:bad.A		mal(i)
+Value:compare.V		kompara
+Value:equal.A		egal(i)
+Value:good.A		bon(i)
+Value:important.A		importanti
+Value:right.N		jure

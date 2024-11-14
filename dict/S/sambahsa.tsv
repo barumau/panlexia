@@ -191,6 +191,9 @@ Clothing:trousers.N		pantalon, bruks
 Clothing:uniform.N		uniform
 Clothing:veil.N		kehlder
 Clothing:weave.V		wehbh
+Cognition:expect.V		exspecte
+Cognition:false.A		fals
+Cognition:true.A		ver
 Combat:fight.V		combat, katue
 Combat:helmet.N		helm
 Combat:wrestle.V		vreikst
@@ -223,7 +226,22 @@ Element:O.N		oxygen
 Element:Pb.N		plumbh
 Element:S.N		swelpel
 Element:Sn.N		stin
+Emotion:admire.V		admire
+Emotion:angry.A		irat
+Emotion:boring.A		plictic
+Emotion:comfort.N		khauristat
+Emotion:courage.N		courage
+Emotion:disappointment.N		deception
+Emotion:evil.A		khiter
+Emotion:fear.N		bay
 Emotion:feel.V		kheiss
+Emotion:happy.A		noroct
+Emotion:hate.V		haissen
+Emotion:hope.V		speh
+Emotion:love.V		liubh
+Emotion:respect.V		respect
+Emotion:sad.A		shi
+Emotion:worry.V		sweurgh
 Family:brother.N		brater
 Family:daughter.N		dugter
 Family:family.N		familia
@@ -236,12 +254,14 @@ Family:mother.N		mater
 Family:sister.N		swes(ter)
 Family:son.N		son
 Family:wife.N		esor, gvibh
+Food:NaCl.N		sald
 Food:bake.V		bauk
 Food:drink.V		poh
 Food:flour.N		melv
 Food:salad.N		salade
 Food:sandwich.N		sandwich
 Food:sausage.N		sossiss
+Food:soup.N		soup
 Grooming:brush.N		beurst
 Handiwork:patch.N		pan
 Health:disease.N		siuge
@@ -254,6 +274,7 @@ House:curtain.N		cortin
 House:pillow.N		wangher, bolghi
 House:rug.N		kelim; hassir
 Hunting:hunt.V		yagh
+Interaction:choose.V		cheus
 Language:book.N		buk
 Literature:alphabet.N		alphabet
 Material:brass.N		massing, latun
@@ -284,13 +305,19 @@ People:male.A		ner
 People:man.N		wir
 People:woman.N		gwen(a)
 Perception:feel.V		sense, kheiss
+Perception:hear.V		aur
 Perception:touch.V		touche
 Plant:Citrus sinensis.N		burtukal ; orange
 Plant:Ficus carica.N		smauk
+Plant:Glycine max.N		soya
 Plant:Gossypium.N		coton
+Plant:Helianthus annuus.N		solflor
 Plant:bud.N		spreug
 Plant:plant.N		plante
+Possession:poor.A		orm
+Possession:price.N		pris
 Possession:receive.V		dak, preim, recep
+Possession:rich.A		riche
 Quantity:0.NUM		zero
 Quantity:1.NUM		oin
 Quantity:10.NUM		dec
@@ -359,3 +386,9 @@ Transit:train.N		train
 Transit:truck.N		onwogh, camion
 Transit:vehicle.N		vehicule
 Transit:wheel.N		kwekwl, rot
+Value:bad.A		dus-
+Value:compare.V		compare
+Value:equal.A		egal
+Value:good.A		weus-
+Value:important.A		important
+Value:right.N		rect

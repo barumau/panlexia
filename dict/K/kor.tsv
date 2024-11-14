@@ -146,14 +146,25 @@ Clothing:thread.N		콘실	kʰonɕʰil
 Clothing:towel.N		수건	sʰuɡʌn
 Clothing:trousers.N		바지	pad͡ʑi
 Clothing:undress.V		벗다	pʌtt͈a
+Cognition:familiar.A		저명한	t͡ɕʌmjʌŋɦan
+Cognition:true.A		참된	camdwen
+Cognition:truth.N		진실	t͡ɕinɕʰil
+Cognition:truth.N		참	cam
 Combat:brawl.V		치다	cida
 Combat:fight.N		전투	t͡ɕʌndʰu
 Combat:strike (sb).V		치다	cida
+Combat:violence.N		권력	kwʌlːjʌk̚
 Combat:win.V		이기다	iɡida
 Communication:boast.V		자랑하다	t͡ɕaɾaŋɦada
 Communication:call.V		불러내다	pulɾʌnɛda
+Communication:convey (a message).V		이야기하다	ijaɡiɦada
+Communication:fairy tale.N		동화	toŋɦwa
+Communication:kiss.V		키스하다	kçisʰɯɦada
 Communication:language.N		말	mal
+Communication:laugh.V		웃다	utt͈a
+Communication:laughter.N		웃음	usʰɯm
 Communication:letter.N		서한	sʰʌɦan
+Communication:lie.N		거짓말	kʌd͡ʑis̻ːal
 Communication:newspaper.N		신문	ɕʰinmun
 Communication:talk.V		이야기하다	ijaɡiɦada
 Communication:tell.V		이야기하다	ijaɡiɦada
@@ -167,7 +178,19 @@ Element:Ag.N		은	ɯn
 Element:Au.N		항금	haŋɡɯm
 Element:Fe.N		쇠	sʰwe
 Element:Fe.N		철	cʌl
+Emotion:be angry.V		화를내게 하다	ɸʷwaɾɯlːɛɡe hada
+Emotion:cry.V		울다	ulda
+Emotion:evil.A		나쁜	napp͈͈ɯn
+Emotion:fear.V		두려원하다	tuɾjʌwʌnɦada
+Emotion:gentle.A		온화한	onɦwaɦan
+Emotion:grief.N		슬픔	sʰɯlbʰɯm
+Emotion:happiness.N		즐거움	t͡ɕɯlɡʌum
+Emotion:like.V		줗아하다	t͡ɕuɦaɦada
+Emotion:love.V		사랑하다	sʰaɾaŋɦada
+Emotion:merry.A		유쾌한	jukʰwɛɦan
 Emotion:move.V		건드리다	kʌndɯɾida
+Emotion:sad.A		슬픈	sʰɯlbʰɯn
+Emotion:want.V		바라다	paɾada
 Family:aunt.N		아주머니	ad͡ʑumʌni
 Family:brother.N		형제	çjʌŋd͡ʑe
 Family:daughter.N		딸기	tt͈͈alɡi
@@ -183,7 +206,10 @@ Family:son.N		아들	adɯl
 Family:uncle.N		백부	pɛkp͈͈u
 Family:wife.N		아내	anɛ
 Food:Malus domestica.N		사과	sʰaɡwa
+Food:NaCl.N		소금	sʰoɡɯm
 Food:bake.V		쿱다	kʰupt͈͈a
+Food:soup.N		국	kuk̚
+Food:soup.N		수프	sʰupʰɯ
 Food:tea.N		차	ca
 Form:bend (sth).V		굽히다	kuphida
 Form:bend.V		구부리다	kubuɾida
@@ -217,6 +243,8 @@ House:cradle.N		발상지	palsʰaŋd͡ʑi
 House:pillow.N		깔개	kk͈͈alɡɛ
 Hunting:fishing.V		고기를잡다	koɡiɾɯld͡ʑapt͈͈a
 Hunting:hunt.V		사냥하다	sʰanjaŋɦada
+Interaction:choose.V		선거하다	sʰʌŋʌɦada
+Interaction:rescue.V		구조하다	kud͡ʑoɦada
 Language:book.N		책	cɛk̚
 Mind:dream.N		쿰	kʰum
 Motion:arrive.V		고챀하다	kocakʰhada
@@ -258,6 +286,9 @@ People:man.N		남자	namd͡ʑa
 People:people.N		사람들	sʰaɾamdɯl
 People:woman.N		여자	jʌd͡ʑa
 Perception:feel.V		느끼다	nɯkk͈͈ida
+Perception:hear or listen.V		듣다	tɯtt͈͈a
+Perception:hear or listen.V		들어서일다	tɯlʌsʰʌilda
+Perception:hear.V		듣다	tɯtt͈͈a
 Perception:touch.V		대다	tɛda
 Plant:Betula.N		자작나무	t͡ɕad͡ʑaŋnamu
 Plant:branch.N		가지	kad͡ʑi
@@ -269,6 +300,10 @@ Plant:tree.N		나무	namu
 Plant:twig.N		가지	kad͡ʑi
 Possession:abandon.V		버림받은	pʌɾimbadɯn
 Possession:gift.N		행하	hɛŋɦa
+Possession:poor.A		가난한	kananɦan
+Possession:price.N		가격	kaɡjʌk̚
+Possession:rich.A		풍부한	pʰuŋbuɦan
+Possession:sell.V		팔다	pʰalda
 Quantity:1.NUM		하나	hana
 Quantity:10.NUM		열	jʌl
 Quantity:100.NUM		백	pɛk̚
@@ -344,3 +379,6 @@ Transit:boat.N		보트	potʰɯ
 Transit:oar.N		노	no
 Transit:road.N		길	kil
 Transit:row.V		물을헤치다	mulɯlɦecida
+Value:bad.A		나쁜	napp͈͈ɯn
+Value:good.A		좋은	t͡ɕoɣn
+Value:improve.V		정정하다	t͡ɕʌŋd͡ʑʌŋɦada

@@ -192,6 +192,9 @@ Clothing:trousers.N		panta
 Clothing:uniform.N		uniforma
 Clothing:veil.N		vual
 Clothing:weave.V		texi
+Cognition:expect.V		expekti
+Cognition:false.A		false
+Cognition:true.A		vere
 Combat:fight.V		batali, luchi
 Combat:helmet.N		helma
 Combat:wrestle.V		luchi
@@ -224,7 +227,22 @@ Element:O.N		oxigen
 Element:Pb.N		plumbum
 Element:S.N		sulfa
 Element:Sn.N		tin
+Emotion:admire.V		admiri
+Emotion:angry.A		ira-ney
+Emotion:boring.A		enoi-she, tedi-she
+Emotion:comfort.N		byentaa
+Emotion:courage.N		kuraja
+Emotion:disappointment.N		 
+Emotion:evil.A		bade
+Emotion:fear.N		fobi
 Emotion:feel.V		senti
+Emotion:happy.A		felise
+Emotion:hate.V		heni
+Emotion:hope.V		nadi
+Emotion:love.V		luba
+Emotion:respect.V		respekti
+Emotion:sad.A		triste
+Emotion:worry.V		nokalmitaa
 Family:brother.N		brata
 Family:daughter.N		docha
 Family:family.N		familia
@@ -237,12 +255,14 @@ Family:mother.N		mata (mama)
 Family:sister.N		sista
 Family:son.N		son
 Family:wife.N		gamigina
+Food:NaCl.N		solta
 Food:bake.V		peki
 Food:drink.V		pi
 Food:flour.N		farina
 Food:salad.N		salata
 Food:sandwich.N		sandwich
 Food:sausage.N		sosis, sosiskin
+Food:soup.N		sup
 Grooming:brush.N		brash
 Handiwork:patch.N		 
 Health:disease.N		morba
@@ -255,6 +275,7 @@ House:curtain.N		kurtena
 House:pillow.N		kushen
 House:rug.N		tapis
 Hunting:hunt.V		shikari, goni
+Interaction:choose.V		selekti
 Language:book.N		kitaba
 Literature:alphabet.N		alfabet
 Material:brass.N		latun
@@ -285,13 +306,19 @@ People:male.A		maskul-ney
 People:man.N		man
 People:woman.N		gina
 Perception:feel.V		sensi
+Perception:hear.V		audi
 Perception:touch.V		tachi
 Plant:Citrus sinensis.N		oranja
 Plant:Ficus carica.N		figa
+Plant:Glycine max.N		soya
 Plant:Gossypium.N		koton
+Plant:Helianthus annuus.N		suryaflor
 Plant:bud.N		yema
 Plant:plant.N		planta
+Possession:poor.A		povre
+Possession:price.N		prais
 Possession:receive.V		resivi
+Possession:rich.A		riche
 Quantity:0.NUM		nol
 Quantity:1.NUM		un
 Quantity:10.NUM		shi
@@ -360,3 +387,9 @@ Transit:train.N		tren
 Transit:truck.N		kamion
 Transit:vehicle.N		vikla
 Transit:wheel.N		rada
+Value:bad.A		bade
+Value:compare.V		kompari
+Value:equal.A		egale
+Value:good.A		hao
+Value:important.A		muhim
+Value:right.N		raita

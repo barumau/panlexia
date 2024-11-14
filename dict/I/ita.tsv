@@ -169,16 +169,29 @@ Clothing:thread.N		filo	filo
 Clothing:towel.N		asciugamano	aʃːuɡamano
 Clothing:trousers.N		calzoni	kalt͡soni
 Clothing:undress.V		tògliersi	tɔʎːierzi
+Cognition:familiar.A		conosciuto	konoʃːuto
+Cognition:familiar.A		noto	noto
+Cognition:true.A		vero	vero
+Cognition:truth.N		verità	verita
 Combat:brawl.V		bàttersi	batːerzi
 Combat:fight.N		lotta	lotːa
 Combat:strike (sb).V		bàttere	batːere
+Combat:violence.N		violenza	violent͡sa
 Combat:win.V		vìncere	vint͡ʃere
 Communication:boast.V		vantarsi	vantarzi
 Communication:call.V		chiamare	kjamare
 Communication:chat.V		conversare	koɱverzare
+Communication:convey (a message).V		comunicare	komunikare
+Communication:fairy tale.N		fiaba	fiaba
+Communication:fairy tale.N		fàvola	favola
+Communication:kiss.V		baciare	bat͡ʃare
 Communication:language.N		lingua	liŋɡua
 Communication:language.N		linguaggio	liŋɡuadd͡ʒo
+Communication:laugh.V		rìdere	ridere
+Communication:laughter.N		risata	rizata
 Communication:letter.N		lèttera	lɛtːera
+Communication:lie.N		bugìa	bud͡ʒia
+Communication:lie.N		menzogna	ment͡soɲːa
 Communication:newspaper.N		giornale	d͡ʒornale
 Communication:talk.V		parlare	parlare
 Communication:tell.V		narrare	narːare
@@ -192,7 +205,23 @@ Cosmos:star.N		stella	stelːa
 Element:Ag.N		argento	ard͡ʒento
 Element:Au.N		oro	oro
 Element:Fe.N		ferro	ferːo
+Emotion:be angry.V		arrabbiarsi	arːabːiarzi
+Emotion:be angry.V		stizzirsi	stitt͡sirzi
+Emotion:cry.V		piàngere	piand͡ʒere
+Emotion:evil.A		cattivo	katːivo
+Emotion:fear.V		avere paura	avere paura
+Emotion:gentle.A		dolce	dolt͡ʃe
+Emotion:grief.N		afflizione	afːlit͡sione
+Emotion:happiness.N		felicità	felit͡ʃita
+Emotion:like.V		piacere a	piat͡ʃere a
+Emotion:like.V		volere bene a	volere bene a
+Emotion:longing.N		voglia	voʎːa
+Emotion:love.V		amare	amare
+Emotion:merry.A		allegro	alːeɡro
+Emotion:merry.A		gaio	ɡaio
 Emotion:move.V		commuòvere	komːuɔvere
+Emotion:sad.A		triste	triste
+Emotion:want.V		volere	volere
 Family:aunt.N		zia	t͡sia
 Family:brother.N		fratello	fratelːo
 Family:daughter.N		figlia	fiʎːa
@@ -208,8 +237,11 @@ Family:son.N		figlio	fiʎːo
 Family:uncle.N		zio	t͡sio
 Family:wife.N		moglie	moʎːie
 Food:Malus domestica.N		mela	mela
+Food:NaCl.N		sale	sale
 Food:bake.V		cuòcere	kuɔt͡ʃere
 Food:bake.V		cuòcere al forno	kuɔt͡ʃere al forno
+Food:soup.N		minestra	minestra
+Food:soup.N		zuppa	t͡supːa
 Food:tea.N		tè	tɛ
 Form:bend (sth).V		tòrcere	tɔrt͡ʃere
 Form:bend.V		chinare	kinare
@@ -251,6 +283,9 @@ House:pillow.N		cuscino	kuʃːino
 House:pillow.N		guanciale	ɡuant͡ʃale
 Hunting:fishing.V		pescare	peskare
 Hunting:hunt.V		cacciare	katt͡ʃare
+Interaction:choose.V		elèggere	elɛdd͡ʒere
+Interaction:choose.V		scegliere	ʃeʎːiere
+Interaction:rescue.V		salvare	salvare
 Language:book.N		libro	libro
 Mind:dream.N		sogno	soɲːo
 Motion:arrive.V		arrivare	arːivare
@@ -302,6 +337,10 @@ People:man.N		uomo	uomo
 People:people.N		gente	d͡ʒente
 People:woman.N		donna	donːa
 Perception:feel.V		sentire	sentire
+Perception:hear or listen.V		percepire	pert͡ʃepire
+Perception:hear or listen.V		sentire	sentire
+Perception:hear.V		sentire	sentire
+Perception:hear.V		udire	udire
 Perception:touch.V		toccare	tokːare
 Plant:Betula.N		betulla	betulːa
 Plant:branch.N		ramo	ramo
@@ -314,6 +353,10 @@ Plant:twig.N		ramo	ramo
 Possession:abandon.V		abbandonare	abːandonare
 Possession:abandon.V		lasciare	laʃːare
 Possession:gift.N		regalo	reɡalo
+Possession:poor.A		pòvero	pɔvero
+Possession:price.N		prezzo	prett͡so
+Possession:rich.A		ricco	rikːo
+Possession:sell.V		vendere	vendere
 Quantity:1.NUM		uno	uno
 Quantity:10.NUM		dieci	diet͡ʃi
 Quantity:100.NUM		cento	t͡ʃento
@@ -395,3 +438,6 @@ Transit:boat.N		battello	batːelːo
 Transit:oar.N		remo	remo
 Transit:road.N		strada	strada
 Transit:row.V		remare	remare
+Value:bad.A		cattivo	katːivo
+Value:good.A		buono	buono
+Value:improve.V		migliorare	miʎːorare
