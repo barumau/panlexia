@@ -29,7 +29,7 @@ def write_dictionary_for_one_language(lang_code, ULD_to_Panlexia):
     sort_and_write_to_dictionary_file(lang_code, dictionary)
 
 def create_dictionaries_from_ULD(ULD_to_Panlexia):
-    langs = ["Esperanto", "Novial", "Lidepla", "Sambahsa"]
+    langs = ["epo", "Novial", "Lidepla", "Sambahsa"]
     for lang in langs:
         write_dictionary_for_one_language(lang, ULD_to_Panlexia)
 
