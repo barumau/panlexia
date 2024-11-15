@@ -89,6 +89,8 @@ def write_dictionary_for_one_language(lang_id, lang_code, WOLD_to_Panlexia, dict
                     word = row["Form"]
                     dictionary.append([id, word, "", etymology])
 
+    print("Extracted", len(dictionary), "words for", lang_code)
+
     sort_and_write_to_dictionary_file(lang_code, dictionary, 4)
 
 def write_minimal_dictionary_for_one_language(lang_code, WOLD_to_Panlexia, dict):
@@ -103,6 +105,7 @@ def write_minimal_dictionary_for_one_language(lang_code, WOLD_to_Panlexia, dict)
             if id != "" and word != "":
                 dictionary.append([id, word])
 
+    print("Extracted", len(dictionary), "words for", lang_code)
     column_num = 2
     sort_and_write_to_dictionary_file(lang_code, dictionary, column_num)
 

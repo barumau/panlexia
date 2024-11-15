@@ -61,6 +61,38 @@ def make_bilingual_dictionary_table(source_language_dict, target_language_dict):
 
     return bilingual_dictionary
 
+def circled_number(num):
+    if num == 1:
+        return " ① "
+    elif num == 2:
+        return " ② "
+    elif num == 3:
+        return " ③ "
+    elif num == 4:
+        return " ④ "
+    elif num == 5:
+        return " ⑤ "
+    elif num == 6:
+        return " ⑥ "
+    else:
+        return " (" + num.__str__() + ") "
+
+def is_synonym(row_A, row_B):
+        """Return True if term (0) and word-class (1) are the same."""
+        if row_A[0] == row_B[0] and row_A[1] == row_B[1]:
+            return True
+        else:
+            return False
+
+def build_translation(row):
+    """Builds translation term with its optional pronunciation."""
+    translation = row[2]
+    # Include transcription or pronunciation if the field for it is available and not empty.
+    if len(row) == 4 and row[3] != "":
+        # The format is: target_word /pronunciation/
+        translation = translation + " /" + row[3] + "/"
+    return translation
+
 def format_and_write(source_lang, target_lang, dict):
     """Sorts the dictionary alphabetically and writes it to file in Markdown format."""
     # Sort the words in case-insensitive way.
@@ -70,25 +102,34 @@ def format_and_write(source_lang, target_lang, dict):
     file = helpers.simple_file_writer(filename)
 
     previous_initial = ""
-
-    for row in sorted_dict:
+    i = 0
+    while i < len(sorted_dict):
+        row = sorted_dict[i]
         initial = row[0][0].upper()
         if previous_initial != initial:
             # Write alphabetic section header, like "## A"
             file.write("\n## " + initial + "\n\n")
             previous_initial = initial
 
+        translation = build_translation(row)
+        j = 1
+        while i + j < len(sorted_dict):
+            next_row = sorted_dict[i + j]
+            if is_synonym(row, next_row):
+                j = j + 1
+                translation = translation + circled_number(j) + build_translation(next_row)
+            else:
+                break
+
+        if j > 1:
+            # Add number also before the first translation.
+            translation = circled_number(1) + translation
+
         # Make bilingual entry in simple Markdown format.
-        # Include transcription or pronunciation if the field for it is available and not empty.
-        if len(row) == 4 and row[3] != "":
-            # The format is: **source_word** *PoS* target_word /pronunciation/
-            #              source_word            PoS             target_word     pronunciation
-            entry = '**' + row[0] + '**' + " *" + row[1] + '* ' + row[2] + " /" + row[3] + "/"
-        else:
-            # The format is: **source_word** *PoS* target_word
-            #              source_word            PoS             target_word
-            entry = '**' + row[0] + '**' + " *" + row[1] + '* ' + row[2]
+        # The format is: **source_word** *PoS* target_word /pronunciation/
+        entry = '**' + row[0] + '**' + " *" + row[1] + '* ' + translation
         file.write(entry + "  \n")
+        i = i + j
         # Uncomment the following line if you want to print the entries to the screen.
         #print(entry)
 
