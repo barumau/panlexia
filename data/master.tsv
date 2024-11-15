@@ -967,9 +967,11 @@ Food:alcohol.N	Food:alcohol (drink).N	A drink (a liquor or brew) containing etha
 Food:bake.V	Food:bake.V	To cook (something) in an oven, but not in fat, or harden by means of dry heat.	183	5-24	backen::V	3493
 Food:barbecue.V		To cook food on a grill traditionally employing hot charcoal as the heating medium.		9-99928		
 Food:cake.N	Modernity:cake.N	Cake is a form of sweet dessert that is typically baked.	2408			
+Food:Camellia sinensis.N	Food:tea.N	tea (beverage made from leaves of plant sp. Camellia sinensis)	1373	23-9	Tee::N	3477
 Food:candy.N	Modernity:candy.N	Food item that is rich in sugar.	874	23-565		
 Food:Citrullus lanatus.N	Food:watermelon.N	A large, sprawling annual plant with coarse, hairy pinnately-lobed leaves and white to yellow flowers.	2766	8-99954		
 Food:Citrus sinensis.N	Agriculture/Plant:orange (fruit).N	A fruit of the citrus species citrus x sinensis.	2627			
+Food:Coffea.N	Food:coffee.N	A beverage made by infusing the beans of the coffee plant in hot water.	1299	23-91		3478
 Food:cream.N				5-9991		
 Food:dinner.N	Food:dinner (supper).N	A meal that is eaten in the late afternoon or evening daily.	1833	5-44		
 Food:drink.V	Body:drink.V	drink 				721
@@ -978,6 +980,7 @@ Food:Ficus carica.N	Food:fig.N	The fruit of the fig tree, pear-shaped and contai
 Food:flour.N	Food:flour.N	Ground or milled grain or cereal.	1594	5-55		3410
 Food:Glycine max.N	Food:soya bean.N	The edible seed of the soybean plant which contains a lot of protein.	2028			
 Food:griddle.N		A metal or stone flat plate on which food is fried or baked.		7-99903		
+Food:infusion.N	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.				
 Food:main meal.N	Food:dinner (main meal).N	The main meal of the day, eaten in the middle of the day or in the evening	3829			
 Food:Malus domestica.N	Agriculture/Plant:apple.N	The popular, crisp, round fruit of the apple tree, usually with red, yellow or green skin, light-coloured flesh and pips inside.	1320	8-99905	Apfel::N	
 Food:Metroxylon sagu.N	Food:sago.N	Starch extracted from the spongy centre, or pith, of various tropical palm stems, especially Metroxylon sagu.	2270			
@@ -991,9 +994,9 @@ Food:salad.N	Food:salad.N	A food made primarily of a mixture of raw or cold ingr
 Food:sandwich.N	Food:sandwich.N	Foodstuff where pieces of bread serve as the wrapper of some other food.				3461
 Food:sauce.N	Food:sauce.N	A liquid food accompanying a dish.	132			
 Food:sausage.N	Food:sausage.N	A length of intestine, stuffed with ground (organ) meat, and other ingredients. Instead of intestines, a different kind of wrapper can be used.	1874	5-63		3435
+Food:Solanum lycopersicum.N	Food:tomato.N	The savoury fruit of the Solanum lycopersicum, red when ripe.	986			1098
 Food:soup.N	Food:soup.N	A cooked, liquid dish (made from meat or vegetables that are mixed with broth in a pot) that is often sold in tins.	1547	5-64	Suppe::N	3462
 Food:supper.N	Food:supper.N	The last meal of the evening.		5-45		3489
-Food:tea.N	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.	1373	23-9	Tee::N	
 Form:bend (sth).V	Action/Technology:bend (something).V	To carry out a movement to turn something into a curved shape.	2224		biegen::V	
 Form:bend.V	Action/Technology:bend.V	Movement that causes the formation of a curve.	2004	9-14	beugen::V	
 Function:1DU EXCL.PRO	Family:we two (exclusive).?	Exclusive dual of the first person: I and exactly one other person, but not the addressed person (you).	2636			
@@ -3439,8 +3442,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Food:clay pot.N	A container for food and other things made from clay.	2055			
 	Food:cleaver.N	A knife with a large and square blade used for cutting and mincing meat, especially by butchers.	3067			
 	Food:coconut shell ladle.N	A large spoon made from coconut shell.	2649			
-	Food:coffee.N	A beverage made by infusing the beans of the coffee plant in hot water.	1299	23-91		
-	Food:coffee.N	coffee (beverage made from seeds of plant sp. Coffea arabica)				3478
 	Food:congee.N	A type of rice porridge or gruel popular in many Asian countries	2049			
 	Food:consume (drink or eat).V	To consume food or drink.	2787			
 	Food:cook (person).N	The person who prepares food.	2315			
@@ -3587,11 +3588,9 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Food:taste.N	The sensory impression of food or other substances on the tongue.	2190		Geschmack::N	
 	Food:tasteless.A	Having no flavour.	1771			
 	Food:tasty.A	Pleasing to the sense of taste.	1813		lecker::A	
-	Food:tea.N	tea (beverage made from leaves of plant sp. Camellia sinensis)				3477
 	Food:thirst.N	A physiological need to drink.	848			
 	Food:thirsty.A	Feeling the need to drink.	847			
 	Food:tofu.N	Coagulated soy milk that is bland in taste and formed into solid blocks; a popular ingredient in Asian and vegetarian cuisine.	3443	5-9992		
-	Food:tomato.N	The savoury fruit of the Solanum lycopersicum, red when ripe.	986			
 	Food:tongs.N	A tool that consists of two movable bars joined at one end, used to pick up an object.	272	5-391		
 	Food:tortilla.N	A thin, flat bread made from maize flour, eaten hot or cold, typically with a savoury filling.	3991	5-99921		
 	Food:trivet.N	A stand, usually metallic, used to support cooking vessels on top of fire.	3264			
@@ -4776,7 +4775,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Plant:sprout.N	sprout (young shoot of plant)				1029
 	Plant:squash.N	squash, melon (plant/fruit of genus Cucurbita grown for edible fruit)				1097
 	Plant:tobacco.N	tobacco (plant/leaves of sp. Nicotiana tabacum)				1072
-	Plant:tomato.N	tomato (plant/berry of genus Lycopersicon)				1098
 	Plant:tree.N	tree				1001
 	Plant:weed.N	weed (unwanted plant)				1006
 	Plant:wheat.N	wheat (plant/seed of sp. Triticum aestivum)				1078
