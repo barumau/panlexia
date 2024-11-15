@@ -37,6 +37,7 @@ Animal:Corvus.N		烏	karasu
 Animal:Culicidae.N		蚊	ka (1)	
 Animal:Diptera.N		蠅	hae	
 Animal:Elephantidae.N		象 (elephant), 像 (statue)	zō	cmn:xiàng
+Animal:Equus asinus × caballus.N		騾馬	raba	cmn:luómă
 Animal:Equus asinus.N		驢馬	roba	cmn:lǘmă
 Animal:Equus ferus caballus.N		馬	uma	cmn:må 馬
 Animal:Felis catus.N		猫	neko	
@@ -303,6 +304,8 @@ Building:hut.N		小屋	koya
 Building:mason.N		石工	sekkō	cmn:shígōng
 Building:mortar binder.N		モルタル	morutaru	:mortarium
 Building:mortar binder.N		漆喰, a case of ateji. Originally it was石灰.	shikkui	
+Building:oven.N		オーブン	ōbun	eng:oven
+Building:oven.N		レンジ	renji	:range, renge
 Building:post.N		杭/杙/株	kui	
 Building:post.N		柱	hashira	
 Building:post.N		竿	sao	
@@ -388,11 +391,14 @@ Clothing:trousers.N		スラックス	surakkusu	eng:slacks
 Clothing:trousers.N		ズボン	zubon	fra:jupon
 Clothing:veil.N		ベール	bēru	:vēlum
 Clothing:weave.V		織る	oru	
+Cognition:same.A		同じ	onaji	
+Cognition:same.A		同様	dōyō	cmn:tóngyàng
 Cognition:study.V		勉強	benkyō	cmn:miănqiăng
 Cognition:study.V		学ぶ	manabu	
 Cognition:true.A		本当	hontō	
 Cognition:true.A		真	shin	cmn:zhēn
 Cognition:true.A		誠	makoto	
+Cognition:wake up.V		目が覚める	me ga sameru	
 Combat:bomb.N		爆弾	bakudan	
 Combat:fight.V		争う	arasou	
 Combat:fight.V		戦う・闘う	tatakau	
@@ -403,6 +409,7 @@ Communication:answer.V		返事	henji
 Communication:boast.V		威張る	ibaru	
 Communication:boast.V		自慢	jiman	
 Communication:boast.V		誇る	hokoru	
+Communication:book.N		本	hon	cmn:běn
 Communication:call.V		呼ぶ	yobu	
 Communication:deny.V		否定	hitei	cmn:fŏudìng
 Communication:deny.V		打ち消す	uchikesu	
@@ -433,6 +440,7 @@ Cosmos:Sun.N		太陽	taiyō (1)	cmn:tàiyáng
 Cosmos:Sun.N		日	hi (1)	
 Cosmos:moon.N		月	tsuki	
 Cosmos:star.N		星	hoshi	
+Degree:more.ADV		もっと	motto	
 Element:Ag.N		銀	gin	cmn:yín
 Element:Au.N		金	kin	cmn:jīn
 Element:Au.N		黄金	ōgon	cmn:huángjīn
@@ -540,6 +548,8 @@ Family:younger brother.N		弟	otōto
 Family:younger sibling.N		年下の兄弟	toshishita no kyōdai	
 Family:younger sibling.N		弟妹	teimai	cmn:dìmèi
 Family:younger sister.N		妹	imōto	
+Food:Camellia sinensis.N		茶	cha	cmn:chá
+Food:Coffea.N		コーヒー、珈琲	kōhii	arb:ķahwa
 Food:Ficus carica.N		イチジク・無花果・映日果	ichijiku	pes:anjir
 Food:Musa acuminata.N		バナナ　（obsolete kanji 実芭蕉）	banana	spa:banana
 Food:NaCl.N		塩 (salt); 潮、汐 (tide)	shio	cmn:śĭəp　溼
@@ -555,30 +565,57 @@ Food:soup.N		汁	shiru (2)
 Food:supper.N		夕食	yūshoku	
 Food:supper.N		夕飯	yūmeshi	
 Food:supper.N		晩餐	bansan	cmn:wăncān
-Food:tea.N		茶	cha	cmn:chá
 Form:bend.V		曲げる	mageru	
-Function:1PL.PRN		俺達	oretachi	
-Function:1PL.PRN		僕等	bokura	
-Function:1PL.PRN		我々	wareware	
-Function:1PL.PRN		私達	watashitachi	
-Function:1SG.PRN		俺	ore	
-Function:1SG.PRN		僕	boku	cmn:pú
-Function:1SG.PRN		私	watashi	
-Function:2PL.PRN		君達	kimitachi	
-Function:2PL.PRN		貴方々	anatagata	
-Function:2SG.PRN		君	kimi (1)	
-Function:2SG.PRN		御前	omae	
-Function:2SG.PRN		貴方	anata	
-Function:3PL.PRN		彼等	karera	
-Function:3SG INAN.PRN		それ	sore	
-Function:3SG M.PRN		彼	kare	
-Function:3SG.PRN		彼	kare	
-Function:3SG.PRN		彼女	kanojo	
+Function:1PL.PRO		俺達	oretachi	
+Function:1PL.PRO		僕等	bokura	
+Function:1PL.PRO		我々	wareware	
+Function:1PL.PRO		私達	watashitachi	
+Function:1SG.PRO		俺	ore	
+Function:1SG.PRO		僕	boku	cmn:pú
+Function:1SG.PRO		私	watashi	
+Function:2PL.PRO		君達	kimitachi	
+Function:2PL.PRO		貴方々	anatagata	
+Function:2SG.PRO		君	kimi (1)	
+Function:2SG.PRO		御前	omae	
+Function:2SG.PRO		貴方	anata	
+Function:3PL.PRO		彼等	karera	
+Function:3SG INAN.PRO		それ	sore	
+Function:3SG M.PRO		彼	kare	
+Function:3SG.PRO		彼	kare	
+Function:3SG.PRO		彼女	kanojo	
 Function:and.CNJ		そして	soshite	
 Function:and.CNJ		と	to	
 Function:and.CNJ		や	ya (2)	
+Function:here.ADV		ここ	koko	
+Function:how many pieces.PRO		幾つ	ikutsu	
+Function:how much.PRO		幾ら	ikura	
+Function:how.PRO		どう	dō (2)	
+Function:if.CNJ		もし	moshi	
+Function:not.PTCL		ない・無い	nai	
+Function:nothing.PRO		何も	nanimo	
 Function:or.CNJ		か	ka (2)	
 Function:or.CNJ		又	mata	
+Function:other.PRO		他	hoka	
+Function:other.PRO		別	betsu	cmn:bié
+Function:that.PRO		あの	ano	
+Function:that.PRO		あれ	are	
+Function:that.PRO		その	sono	
+Function:that.PRO		それ	sore	
+Function:there.ADV		あそこ	asoko	
+Function:there.ADV		そこ	soko (2)	
+Function:this.PRO		この	kono	
+Function:this.PRO		これ	kore	
+Function:what.PRO		何	nani	
+Function:when.PRO		いつ	itsu	
+Function:when.PRO		何時	nanji	
+Function:where.PRO		どこ	doko	
+Function:which.PRO		どの	dono	
+Function:which.PRO		どれ	dore	
+Function:who.PRO		誰	dare	
+Function:why.PRO		どうして	dōshite	
+Function:why.PRO		何故	naze	
+Function:yes.PTCL		ええ	ē	
+Function:yes.PTCL		はい	hai (2)	
 Grooming:bracelet.N		腕輪	udewa	
 Grooming:brush.N		ブラシ、刷子	burashi	:brosse
 Grooming:brush.N		刷毛	hake	
@@ -656,7 +693,6 @@ Interaction:choose.V		選ぶ	erabu
 Interaction:choose.V		選択	sentaku (2)	cmn:xuănzé
 Interaction:rescue.V		救う	sukuu	
 Interaction:rescue.V		救助	kyūjo	cmn:jiùzhù
-Language:book.N		本	hon	cmn:běn
 Law:crime.N		犯罪	hanzai	cmn:fànzuì
 Law:crime.N		罪	tsumi	
 Mind:dream.V		夢を見る	yume o miru	
@@ -740,7 +776,10 @@ Perception:hear.V		聞こえる	kikoeru
 Perception:touch.V		触る	sawaru	
 Perception:touch.V		触れる	fureru	
 Plant:Betula.N		樺	kaba	
+Plant:Ipomoea batatas.N		サツマイモ・薩摩芋	satsumaimo	
+Plant:Ipomoea batatas.N		芋	imo	
 Plant:branch or twig.N		枝	eda	
+Plant:flower.N		花	hana (2)	
 Plant:leaf.N		葉	ha (2)	
 Plant:needle.N		針葉	shin’yō (1)	cmn:zhēnyè
 Plant:plant.N		植物	shokubutsu	cmn:zhíwù
@@ -755,6 +794,7 @@ Plant:vine.N		葡萄の木	budō no ki
 Possession:greedy.A		がつがつ	gatsugatsu	
 Possession:greedy.A		欲張り	yokubari	
 Possession:greedy.A		貪欲	don’yoku	cmn:tānyù 貪慾
+Possession:market.N		市	ichi (1)	
 Possession:poor.A		貧しい	mazushii	
 Possession:poor.A		貧乏	binbō	cmn:pínfá
 Possession:price.N		価格	kakaku	cmn:jiàgé
@@ -793,8 +833,18 @@ Quantity:8.NUM		八	hachi (3)	cmn:bā
 Quantity:8.NUM		八つ	yattsu	
 Quantity:9.NUM		九	kyū (2)	cmn:jiŭ
 Quantity:9.NUM		九つ	kokonotsu	
+Quantity:empty.A		空	kara (1)	
+Quantity:empty.A		空く(become empty), 開く(open)	aku	
+Quantity:enough.ADV		充分・十分	jūbun	cmn:chóngfēn
+Quantity:enough.ADV		足りる	tariru	
+Quantity:full.A		一杯	ippai	cmn:yìbēi
+Quantity:full.A		満ちる	michiru	
+Quantity:many.A		多い	ōi	
+Quantity:many.A		沢山	takusan	
 Society:help.V		助ける	tasukeru	
 Society:help.V		援助	enjo	cmn:yuánzhù
+Society:people.N		人々	hitobito	
+Society:people.N		国民	kokumin	cmn:guómín
 Sound:be silent.V		黙る	damaru	
 Sound:flute.N		フルート	furūto	:*flabeolum
 Sound:flute.N		笛	fue	

@@ -105,6 +105,7 @@ Body:kidney.N		nugver
 Body:knee.N		genu
 Body:leg.N		jamb
 Body:lip.N		lip
+Body:live.V		gwiv
 Body:liver.N		lyekwrnt
 Body:lung.N		pulmon, lyung
 Body:mouth.N		stohm
@@ -155,6 +156,7 @@ Building:fireplace.N		vatra, ayd
 Building:floor.N		 
 Building:frame.N		fraum
 Building:house.N		dom
+Building:oven.N		ogwn, furn
 Building:pyramid.N		pyramide
 Building:roof.N		krov, tect
 Building:room.N		kyal
@@ -191,14 +193,17 @@ Clothing:trousers.N		pantalon, bruks
 Clothing:uniform.N		uniform
 Clothing:veil.N		kehlder
 Clothing:weave.V		wehbh
+Cognition:awake.A		sbud(-t/-en)
 Cognition:expect.V		exspecte
 Cognition:false.A		fals
+Cognition:same.A		sam
 Cognition:true.A		ver
 Combat:fight.V		combat, katue
 Combat:helmet.N		helm
 Combat:wrestle.V		vreikst
 Communication:accept		accepte
 Communication:answer.V		antwehrd
+Communication:book.N		buk
 Communication:call.V		kal
 Communication:deny.V		nege
 Communication:gesture.V		motion
@@ -213,6 +218,14 @@ Cosmos:moon.N		meun
 Cosmos:planet.N		planete
 Cosmos:star.N		star
 Cosmos:universe.N		universe, cosmos
+Degree:almost.ADV		quasi
+Degree:at least.ADV		minst-ye
+Degree:degree.N		grad
+Degree:least.ADV		minst
+Degree:less.ADV		min(s), minter
+Degree:little.ADV		pau
+Degree:more.ADV		meis
+Degree:most.ADV		meist
 Element:Ag.N		argwrnt
 Element:Au.N		gold
 Element:C.N		carbon
@@ -254,10 +267,14 @@ Family:mother.N		mater
 Family:sister.N		swes(ter)
 Family:son.N		son
 Family:wife.N		esor, gvibh
+Food:Camellia sinensis.N		chay
+Food:Coffea.N		kawa
 Food:NaCl.N		sald
+Food:Solanum lycopersicum.N		tomat
 Food:bake.V		bauk
 Food:drink.V		poh
 Food:flour.N		melv
+Food:pizza.N		pizza
 Food:salad.N		salade
 Food:sandwich.N		sandwich
 Food:sausage.N		sossiss
@@ -275,7 +292,6 @@ House:pillow.N		wangher, bolghi
 House:rug.N		kelim; hassir
 Hunting:hunt.V		yagh
 Interaction:choose.V		cheus
-Language:book.N		buk
 Literature:alphabet.N		alphabet
 Material:brass.N		massing, latun
 Matter:rust.N		rust
@@ -313,7 +329,9 @@ Plant:Glycine max.N		soya
 Plant:Gossypium.N		coton
 Plant:Helianthus annuus.N		solflor
 Plant:bud.N		spreug
+Plant:flower.N		flor
 Plant:plant.N		plante
+Possession:market.N		mercat, basar
 Possession:poor.A		orm
 Possession:price.N		pris
 Possession:receive.V		dak, preim, recep
@@ -332,6 +350,15 @@ Quantity:6.NUM		six
 Quantity:7.NUM		sept(a)
 Quantity:8.NUM		oct(o)
 Quantity:9.NUM		nev
+Quantity:empty.A		tuich
+Quantity:enough.ADV		sat, kafi
+Quantity:full.A		plen
+Quantity:little.A		pauk
+Quantity:many.A		maung
+Quantity:more.A		meis
+Quantity:most.A		meist
+Quantity:much.A		maung
+Quantity:multiply.V		multiplie
 Society:help.V		hehlp
 Space:apart.ADV		seni, apart
 Space:back.ADV		tsay

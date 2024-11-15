@@ -105,6 +105,7 @@ Body:kidney.N		nefra
 Body:knee.N		genu
 Body:leg.N		gamba
 Body:lip.N		laba
+Body:live.V		jivi
 Body:liver.N		hepata
 Body:lung.N		pulmon
 Body:mouth.N		muh
@@ -155,6 +156,7 @@ Building:fireplace.N		kamin
 Building:floor.N		poda
 Building:frame.N		frama
 Building:house.N		dom
+Building:oven.N		forna
 Building:pyramid.N		piramida
 Building:roof.N		ruf
 Building:room.N		shamba
@@ -192,14 +194,17 @@ Clothing:trousers.N		panta
 Clothing:uniform.N		uniforma
 Clothing:veil.N		vual
 Clothing:weave.V		texi
+Cognition:awake.A		jagi-she
 Cognition:expect.V		expekti
 Cognition:false.A		false
+Cognition:same.A		same
 Cognition:true.A		vere
 Combat:fight.V		batali, luchi
 Combat:helmet.N		helma
 Combat:wrestle.V		luchi
 Communication:accept		aksepti
 Communication:answer.V		jawabi
+Communication:book.N		kitaba
 Communication:call.V		voki
 Communication:deny.V		negi
 Communication:gesture.V		jesti
@@ -214,6 +219,14 @@ Cosmos:moon.N		luna
 Cosmos:planet.N		planeta
 Cosmos:star.N		stara
 Cosmos:universe.N		universa, kosmo
+Degree:almost.ADV		hampi
+Degree:at least.ADV		amini
+Degree:degree.N		grada, gradus
+Degree:least.ADV		minim
+Degree:less.ADV		meno
+Degree:little.ADV		shao
+Degree:more.ADV		pyu
+Degree:most.ADV		zuy
 Element:Ag.N		argenta
 Element:Au.N		golda
 Element:C.N		karbon
@@ -255,10 +268,14 @@ Family:mother.N		mata (mama)
 Family:sister.N		sista
 Family:son.N		son
 Family:wife.N		gamigina
+Food:Camellia sinensis.N		chay
+Food:Coffea.N		kahwa
 Food:NaCl.N		solta
+Food:Solanum lycopersicum.N		tomata
 Food:bake.V		peki
 Food:drink.V		pi
 Food:flour.N		farina
+Food:pizza.N		pitsa
 Food:salad.N		salata
 Food:sandwich.N		sandwich
 Food:sausage.N		sosis, sosiskin
@@ -276,7 +293,6 @@ House:pillow.N		kushen
 House:rug.N		tapis
 Hunting:hunt.V		shikari, goni
 Interaction:choose.V		selekti
-Language:book.N		kitaba
 Literature:alphabet.N		alfabet
 Material:brass.N		latun
 Matter:rust.N		ruja
@@ -314,7 +330,9 @@ Plant:Glycine max.N		soya
 Plant:Gossypium.N		koton
 Plant:Helianthus annuus.N		suryaflor
 Plant:bud.N		yema
+Plant:flower.N		flor
 Plant:plant.N		planta
+Possession:market.N		basar
 Possession:poor.A		povre
 Possession:price.N		prais
 Possession:receive.V		resivi
@@ -333,6 +351,15 @@ Quantity:6.NUM		sit
 Quantity:7.NUM		sem
 Quantity:8.NUM		ot
 Quantity:9.NUM		nin
+Quantity:empty.A		vakue
+Quantity:enough.ADV		basta, sufi-shem
+Quantity:full.A		fule
+Quantity:little.A		shao
+Quantity:many.A		mucho
+Quantity:more.A		pyu
+Quantity:most.A		maiste
+Quantity:much.A		mucho
+Quantity:multiply.V		multipliki
 Society:help.V		helpi
 Space:apart.ADV		separem
 Space:back.ADV		bak

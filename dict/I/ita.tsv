@@ -173,12 +173,15 @@ Cognition:familiar.A		conosciuto	konoʃːuto
 Cognition:familiar.A		noto	noto
 Cognition:true.A		vero	vero
 Cognition:truth.N		verità	verita
+Cognition:wake up (tr).V		svegliare	zveʎːare
+Cognition:wake up.V		svegliarsi	zveʎːarzi
 Combat:brawl.V		bàttersi	batːerzi
 Combat:fight.N		lotta	lotːa
 Combat:strike (sb).V		bàttere	batːere
 Combat:violence.N		violenza	violent͡sa
 Combat:win.V		vìncere	vint͡ʃere
 Communication:boast.V		vantarsi	vantarzi
+Communication:book.N		libro	libro
 Communication:call.V		chiamare	kjamare
 Communication:chat.V		conversare	koɱverzare
 Communication:convey (a message).V		comunicare	komunikare
@@ -202,6 +205,7 @@ Cosmos:Sun.N		sole	sole
 Cosmos:moon.N		luna	luna
 Cosmos:set.V		tramontare	tramontare
 Cosmos:star.N		stella	stelːa
+Degree:very.ADV		molto	molto
 Element:Ag.N		argento	ard͡ʒento
 Element:Au.N		oro	oro
 Element:Fe.N		ferro	ferːo
@@ -236,25 +240,40 @@ Family:sister.N		sorella	sorelːa
 Family:son.N		figlio	fiʎːo
 Family:uncle.N		zio	t͡sio
 Family:wife.N		moglie	moʎːie
+Food:Camellia sinensis.N		tè	tɛ
 Food:Malus domestica.N		mela	mela
 Food:NaCl.N		sale	sale
 Food:bake.V		cuòcere	kuɔt͡ʃere
 Food:bake.V		cuòcere al forno	kuɔt͡ʃere al forno
 Food:soup.N		minestra	minestra
 Food:soup.N		zuppa	t͡supːa
-Food:tea.N		tè	tɛ
 Form:bend (sth).V		tòrcere	tɔrt͡ʃere
 Form:bend.V		chinare	kinare
 Form:bend.V		flettere	fletːere
-Function:1PL.PRN		noi	noi
-Function:1SG.PRN		ìo	io
-Function:2PL.PRN		voi	voi
-Function:2SG.PRN		tu	tu
-Function:3PL.PRN		loro	loro
-Function:3SG M.PRN		egli	eʎːi
-Function:3SG M.PRN		lui	lui
+Function:1PL.PRO		noi	noi
+Function:1SG.PRO		ìo	io
+Function:2PL.PRO		voi	voi
+Function:2SG.PRO		tu	tu
+Function:3PL.PRO		loro	loro
+Function:3SG M.PRO		egli	eʎːi
+Function:3SG M.PRO		lui	lui
 Function:and.CNJ		e	e
+Function:here.ADV		qua	kwa
+Function:how many.PRO		quanto	kwanto
+Function:how.PRO		come	kome
+Function:not.PTCL		non	non
 Function:or.CNJ		o	o
+Function:other.PRO		altro	altro
+Function:that.PRO		ciò	t͡ʃɔ
+Function:that.PRO		quello	kwelːo
+Function:there.ADV		lì	li
+Function:this.PRO		ciò	t͡ʃɔ
+Function:this.PRO		questo	kwesto
+Function:what.PRO		che	ke
+Function:what.PRO		che cosa	ke koza
+Function:where.PRO		dove	dove
+Function:who.PRO		chi	ki
+Function:why.PRO		perche	perke
 Grooming:comb.N		pèttine	pɛtːine
 Grooming:comb.V		pettinare	petːinare
 Grooming:decorate.V		decorare	dekorare
@@ -286,7 +305,6 @@ Hunting:hunt.V		cacciare	katt͡ʃare
 Interaction:choose.V		elèggere	elɛdd͡ʒere
 Interaction:choose.V		scegliere	ʃeʎːiere
 Interaction:rescue.V		salvare	salvare
-Language:book.N		libro	libro
 Mind:dream.N		sogno	soɲːo
 Motion:arrive.V		arrivare	arːivare
 Motion:bring.V		apportare	apːortare
@@ -344,6 +362,7 @@ Perception:hear.V		udire	udire
 Perception:touch.V		toccare	tokːare
 Plant:Betula.N		betulla	betulːa
 Plant:branch.N		ramo	ramo
+Plant:flower.N		fiore	fiore
 Plant:leaf.N		foglia	foʎːa
 Plant:root.N		radice	radit͡ʃe
 Plant:seed.N		semente	semente
@@ -383,10 +402,13 @@ Quantity:a little.A		un po'	un poˈ
 Quantity:a little.A		un poco	un poko
 Quantity:add.V		aggiùngere	add͡ʒund͡ʒere
 Quantity:decrease.V		diminuire	diminuire
+Quantity:empty.A		vuoto	vuoto
 Quantity:fill.V		riempire	riempire
+Quantity:full.A		pieno	pieno
 Quantity:increase.V		aumentare	aumentare
 Society:help.N		aiuto	aiuto
 Society:help.N		soccorso	sokːorzo
+Society:people.N		pòpolo	pɔpolo
 Sound:chime.V		suonare	suonare
 Sound:howl.V		ululare	ululare
 Sound:howl.V		urlare	urlare

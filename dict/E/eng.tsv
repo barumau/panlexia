@@ -31,6 +31,7 @@ Animal:Corvus.N		crow
 Animal:Culicidae.N		mosquito		spa:mosquito
 Animal:Diptera.N		fly		
 Animal:Elephantidae.N		elephant		fra:olifant
+Animal:Equus asinus × caballus.N		mule		:mūlus
 Animal:Equus asinus.N		donkey		
 Animal:Equus ferus caballus.N		horse		
 Animal:Felis catus.N		cat		
@@ -234,6 +235,7 @@ Building:house.N		house
 Building:hut.N		hut		:*hudjā
 Building:mason.N		mason		:macium
 Building:mortar binder.N		mortar		:mortier
+Building:oven.N		oven		
 Building:post.N		post		:posta
 Building:rafter.N		rafter		
 Building:ridgepole.N		ridgepole		
@@ -300,14 +302,17 @@ Clothing:towel.N		towel		:*thwaxljō
 Clothing:trousers.N		trousers		gla:triubhas
 Clothing:veil.N		veil		:vēlum
 Clothing:weave.V		weave		
+Cognition:same.A		same		nhu:sámr
 Cognition:study.V		study		:studium
 Cognition:true.A		true		
+Cognition:wake up.V		wake (up)		
 Combat:bomb.N		bomb		ell:bómbos
 Combat:fight.V		fight		
 Combat:helmet.N		helmet		
 Communication:answer.V		answer		
 Communication:answer.V		reply		:rēplicāre
 Communication:boast.V		boast		
+Communication:book.N		book		
 Communication:call.V		call (1)		nhu:kalla
 Communication:deny.V		deny		:negāre
 Communication:forbid.V		forbid		
@@ -330,6 +335,7 @@ Communication:tell.V		tell
 Cosmos:Sun.N		sun		
 Cosmos:moon.N		moon		
 Cosmos:star.N		star		
+Degree:more.ADV		more		
 Element:Ag.N		silver		:Unidentifiable
 Element:Au.N		gold		:Unidentifiable
 Element:Cu.N		copper		ell:kyprion
@@ -393,6 +399,8 @@ Family:wedding.N		wedding
 Family:widow.N		widow		
 Family:widower.N		widower		
 Family:wife.N		wife		
+Food:Camellia sinensis.N		tea		mnp:tiä
+Food:Coffea.N		coffee		arb:qahwa
 Food:Ficus carica.N		fig		:ficus
 Food:Musa acuminata.N		banana		wol:banana
 Food:NaCl.N		salt		
@@ -404,17 +412,34 @@ Food:flour.N		flour		fra:fleur (de farine)
 Food:sausage.N		sausage		:salsīcia
 Food:soup.N		soup		:*supian
 Food:supper.N		supper		:*supian
-Food:tea.N		tea		mnp:tiä
 Form:bend.V		bend		
-Function:1PL.PRN		we		
-Function:1SG.PRN		I		
-Function:2PL.PRN		you		
-Function:2SG.PRN		you		
-Function:3PL.PRN		they		nhu:þeir
-Function:3SG INAN.PRN		it		
-Function:3SG M.PRN		he		
+Function:1PL.PRO		we		
+Function:1SG.PRO		I		
+Function:2PL.PRO		you		
+Function:2SG.PRO		you		
+Function:3PL.PRO		they		nhu:þeir
+Function:3SG INAN.PRO		it		
+Function:3SG M.PRO		he		
 Function:and.CNJ		and		
+Function:here.ADV		here		
+Function:how many pieces.PRO		how many?		
+Function:how much.PRO		how much?		
+Function:how.PRO		how?		
+Function:if.CNJ		if		
+Function:not.PTCL		not		
+Function:nothing.PRO		nothing		
 Function:or.CNJ		or		
+Function:other.PRO		other		
+Function:that.PRO		that		
+Function:there.ADV		there		
+Function:this.PRO		this		
+Function:what.PRO		what?		
+Function:when.PRO		when?		
+Function:where.PRO		where?		
+Function:which.PRO		which?		
+Function:who.PRO		who?		
+Function:why.PRO		why?		
+Function:yes.PTCL		yes		
 Grooming:bracelet.N		bracelet		:bracchiāle
 Grooming:brush.N		brush		fra:brosse
 Grooming:comb.N		comb		
@@ -473,7 +498,6 @@ Hunting:boomerang.N		boomerang		:womurrang
 Hunting:hunt.V		hunt		
 Interaction:choose.V		choose		
 Interaction:rescue.V		rescue		:*re-excūtere
-Language:book.N		book		
 Law:crime.N		crime		:crīmen
 Mind:dream.V		dream		
 Motion:approach.V		approach		:appropiāre
@@ -522,7 +546,9 @@ People:woman.N		woman
 Perception:hear.V		hear		
 Perception:touch.V		touch		fra:toucher
 Plant:Betula.N		birch		
+Plant:Ipomoea batatas.N		sweet potato		
 Plant:branch or twig.N		branch		:branca
+Plant:flower.N		flower		:flō-s, -rem
 Plant:leaf.N		leaf		
 Plant:needle.N		needle		
 Plant:plant.N		plant		:planta
@@ -534,6 +560,7 @@ Plant:tree trunk.N		tree trunk		fra:tronc
 Plant:tree.N		tree		
 Plant:vine.N		vine		:vīnea
 Possession:greedy.A		greedy		
+Possession:market.N		market		:mercātus
 Possession:poor.A		poor		:povre
 Possession:price.N		price		:pris
 Possession:rich.A		rich		:rīx
@@ -556,7 +583,12 @@ Quantity:6.NUM		six
 Quantity:7.NUM		seven		
 Quantity:8.NUM		eight		
 Quantity:9.NUM		nine		
+Quantity:empty.A		empty		
+Quantity:enough.ADV		enough		
+Quantity:full.A		full		
+Quantity:many.A		many		
 Society:help.V		help		
+Society:people.N		people		:populus
 Sound:be silent.V		(be) silent		:silen-s, -tem
 Sound:flute.N		flute		oci:flaüt
 Sound:howl.V		howl		

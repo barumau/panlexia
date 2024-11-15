@@ -30,6 +30,7 @@ Animal:Corvus.N		ác
 Animal:Culicidae.N		muỗi		
 Animal:Diptera.N		ruổi		
 Animal:Elephantidae.N		voi		
+Animal:Equus asinus × caballus.N		la (1)		cmn:騾, luó
 Animal:Equus asinus.N		lừa		:*ra (驢, lǘ)
 Animal:Equus ferus caballus.N		ngựa		
 Animal:Felis catus.N		mèo		
@@ -229,6 +230,7 @@ Building:house.N		nhà
 Building:hut.N		túp lều		
 Building:mason.N		thợ nề		
 Building:mortar binder.N		vữa		
+Building:oven.N		lò		:(EH) *ra: (爐, lú)
 Building:post.N		cột trụ		
 Building:rafter.N		rui		
 Building:ridgepole.N		xà nóc		
@@ -294,13 +296,16 @@ Clothing:towel.N		khăn		:*kr@n (巾, jīn)
 Clothing:trousers.N		quần		cmn:裙, qún
 Clothing:veil.N		mạng che mặt		
 Clothing:weave.V		đan		
+Cognition:same.A		giống		:*ćóŋ (種, zhǒng)
 Cognition:study.V		học		cmn:學, xué
 Cognition:true.A		thật		:*źǝt (實, shí)
+Cognition:wake up.V		tỉnh		cmn:醒, xǐng
 Combat:bomb.N		bom		fra:bombe
 Combat:fight.V		chiến đấu		cmn:戰鬥, zhàn dòu
 Combat:helmet.N		mũ sắt		
 Communication:answer.V		trả lời		
 Communication:boast.V		khoe		:*khwra:_ (誇, kuā)
+Communication:book.N		sách		cmn:冊, cè
 Communication:call.V		kêu		:(EH) *kiǝ̄wh (叫, jiào)
 Communication:deny.V		phủ nhận		cmn:否認, fǒu rèn
 Communication:forbid.V		cấm		cmn:禁, jìn
@@ -323,6 +328,7 @@ Communication:tell.V		cho biết
 Cosmos:Sun.N		mặt trời		
 Cosmos:moon.N		mặt trăng		
 Cosmos:star.N		sao (1)		
+Degree:more.ADV		nữa		
 Element:Ag.N		bạc		:*brāk (白, bái)
 Element:Ag.N		ngân		cmn:銀, yín
 Element:Au.N		vàng		:(EH) *wāŋ (黃, huáng)
@@ -401,6 +407,8 @@ Family:wife.N		vợ		:(EH) *bwǝ́ (妇, fù)
 Family:younger brother.N		em trai		
 Family:younger sibling.N		em		
 Family:younger sister.N		em gái		
+Food:Camellia sinensis.N		chè		:*lā (茶, chá)
+Food:Coffea.N		cà phê		fra:café
 Food:Ficus carica.N		sung		
 Food:Musa acuminata.N		chuối		
 Food:NaCl.N		muối		
@@ -414,22 +422,38 @@ Food:soup.N		canh
 Food:soup.N		cháo		
 Food:soup.N		xúp		fra:soupe
 Food:supper.N		bữa ăn tối		
-Food:tea.N		chè		:*lā (茶, chá)
 Form:bend.V		uốn cong		
-Function:1PL EXCL.PRN		chúng ta		
-Function:1PL INCL.PRN		chúng tôi		
-Function:1PL.PRN		ta		
-Function:1SG.PRN		tao		
-Function:1SG.PRN		tôi		
-Function:2PL.PRN		các mày		
-Function:2SG.PRN		mày (1)		
-Function:3PL.PRN		chúng		cmn:眾, zhòng
-Function:3PL.PRN		họ		:*gā́ (户, hù)
-Function:3SG INAN.PRN		nó		
-Function:3SG M.PRN		hắn		
-Function:3SG.PRN		nó		
+Function:1PL EXCL.PRO		chúng ta		
+Function:1PL INCL.PRO		chúng tôi		
+Function:1PL.PRO		ta		
+Function:1SG.PRO		tao		
+Function:1SG.PRO		tôi		
+Function:2PL.PRO		các mày		
+Function:2SG.PRO		mày (1)		
+Function:3PL.PRO		chúng		cmn:眾, zhòng
+Function:3PL.PRO		họ		:*gā́ (户, hù)
+Function:3SG INAN.PRO		nó		
+Function:3SG M.PRO		hắn		
+Function:3SG.PRO		nó		
 Function:and.CNJ		và		:*wA: (和, hé)
+Function:here.ADV		đây		
+Function:how many pieces.PRO		mấy		
+Function:how much.PRO		bao nhiêu		
+Function:how.PRO		sao (2)		
+Function:if.CNJ		nếu		
+Function:not.PTCL		không		cmn:空, kōng
+Function:nothing.PRO		sự không có		
 Function:or.CNJ		hoặc		cmn:或, huò
+Function:other.PRO		khác		
+Function:that.PRO		đó		
+Function:there.ADV		kia		
+Function:this.PRO		này		
+Function:what.PRO		gì		
+Function:when.PRO		khi nào		
+Function:where.PRO		đâu		
+Function:which.PRO		nào		
+Function:who.PRO		ai		
+Function:why.PRO		tại sao		
 Grooming:bracelet.N		vòng tay		
 Grooming:brush.N		chải		
 Grooming:comb.N		lược		
@@ -486,7 +510,6 @@ Hunting:boomerang.N		bumơrang		eng:boomerang
 Hunting:hunt.V		săn		
 Interaction:choose.V		chọn		
 Interaction:rescue.V		cứu		cmn:救, jiù
-Language:book.N		sách		cmn:冊, cè
 Law:crime.N		tội ác		cmn:罪惡, zuì è
 Mind:dream.V		mơ		
 Motion:approach.V		đến gần		
@@ -539,7 +562,10 @@ Perception:hear.V		nghe
 Perception:touch.V		mó		:*mhā (摸, mō)
 Perception:touch.V		sờ		
 Plant:Betula.N		bulô		fra:bouleau
+Plant:Ipomoea batatas.N		khoai lang		
 Plant:branch or twig.N		cành		
+Plant:flower.N		bông (2)		
+Plant:flower.N		hoa		cmn:花, huā
 Plant:leaf.N		lá		
 Plant:needle.N		lá kim		
 Plant:plant.N		thực vật		cmn:植物, zhí wù
@@ -551,6 +577,7 @@ Plant:tree trunk.N		gốc cây
 Plant:tree.N		cây		
 Plant:vine.N		cây nho		
 Possession:greedy.A		tham		cmn:貪, tān
+Possession:market.N		chợ		:(EH) Zh@’ (市, shì)
 Possession:poor.A		nghèo		
 Possession:price.N		giá (2)		cmn:假, jià
 Possession:rich.A		giàu		
@@ -573,7 +600,12 @@ Quantity:6.NUM		sáu
 Quantity:7.NUM		bảy		
 Quantity:8.NUM		tám		
 Quantity:9.NUM		chín (3)		
+Quantity:empty.A		trống (1)		
+Quantity:enough.ADV		đủ		
+Quantity:full.A		đầy		
+Quantity:many.A		nhiều		
 Society:help.V		giúp		
+Society:people.N		dân tộc		cmn:民族, mín zú
 Sound:be silent.V		im		
 Sound:flute.N		sáo		
 Sound:howl.V		hú		

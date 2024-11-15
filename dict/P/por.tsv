@@ -175,6 +175,9 @@ Clothing:undress.V		despir	dəʃˈpir
 Cognition:familiar.A		conhecido	kuɲəˈsiðu
 Cognition:true.A		verdadeiro	vərðɐˈðejru
 Cognition:truth.N		verdade	vərˈðaðə
+Cognition:wake up (tr).V		acordar	ɐkurˈðar
+Cognition:wake up (tr).V		despertar	dəʃpərˈtar
+Cognition:wake up.V		acordar	ɐkurˈðar
 Combat:brawl.V		bater-se	baterʃe
 Combat:brawl.V		brigar	briˈɣar
 Combat:fight.N		combate	kõbate
@@ -184,6 +187,7 @@ Combat:violence.N		violência	vjuˈlẽsjɐ
 Combat:win.V		vencer	vẽˈser
 Communication:boast.V		gabar-se	ɣaβarʃe
 Communication:boast.V		vangloriar-se	vãɡlorjarʃe
+Communication:book.N		livro	ˈlivru
 Communication:call.V		chamar	ʃɐˈmar
 Communication:chat.V		conversar	kõvərˈsar
 Communication:convey (a message).V		comunicar	kumuniˈkar
@@ -207,6 +211,7 @@ Cosmos:Sun.N		sol	sɔɫ
 Cosmos:moon.N		lua	ˈluɐ
 Cosmos:set.V		pôr-se	porʃe
 Cosmos:star.N		estrela	iʃˈtrɛlɐ
+Degree:very.ADV		muito	ˈmũjtu
 Element:Ag.N		prata	ˈpratɐ
 Element:Au.N		ouro	ˈoru
 Element:Fe.N		ferro	ˈfɛʀu
@@ -242,23 +247,39 @@ Family:sister.N		irmã	irˈmɐ̃
 Family:son.N		filho	ˈfiʎu
 Family:uncle.N		tio	tiw
 Family:wife.N		esposa	iʃˈpozɐ
+Food:Camellia sinensis.N		chá	ʃa
 Food:Malus domestica.N		maçã	mɐˈsɐ̃
 Food:NaCl.N		sal	saɫ
 Food:bake.V		cozer	kuˈzer
 Food:soup.N		caldo	kaɫðu
 Food:soup.N		sopa	ˈsopɐ
-Food:tea.N		chá	ʃa
 Form:bend (sth).V		vergar	verɣar
 Form:bend.V		curvar	kurvar
-Function:1PL.PRN		nós	nɔʃ
-Function:1SG.PRN		eu	ew
-Function:2PL.PRN		vocês	vɔˈseʃ
-Function:2PL.PRN		vós	vɔʃ
-Function:2SG.PRN		tu	tu
-Function:3PL.PRN		eles	ˈeləʃ
-Function:3SG M.PRN		ele	ˈelə
+Function:1PL.PRO		nós	nɔʃ
+Function:1SG.PRO		eu	ew
+Function:2PL.PRO		vocês	vɔˈseʃ
+Function:2PL.PRO		vós	vɔʃ
+Function:2SG.PRO		tu	tu
+Function:3PL.PRO		eles	ˈeləʃ
+Function:3SG M.PRO		ele	ˈelə
 Function:and.CNJ		e	i
+Function:here.ADV		aqui	ɐˈki
+Function:here.ADV		cá	ka
+Function:how many.PRO		quanto	ˈkwɐ̃tu
+Function:how.PRO		como	ˈkomu
+Function:not.PTCL		não	nɐ̃w
 Function:or.CNJ		ou	o
+Function:other.PRO		outro	ˈotru
+Function:that.PRO		aquilo	ɐˈkilu
+Function:that.PRO		isso	ˈisu
+Function:there.ADV		ali	ɐˈli
+Function:there.ADV		lá	la
+Function:this.PRO		isto	ˈiʃtu
+Function:what.PRO		quê	kə
+Function:where.PRO		onde	ˈõdə
+Function:who.PRO		quem	kẽj
+Function:why.PRO		por que	porke
+Function:why.PRO		porquê	purˈke
 Grooming:comb.N		pente	pẽte
 Grooming:comb.V		pentear	pẽˈtjar
 Grooming:decorate.V		adornar	aðornar
@@ -289,7 +310,6 @@ Hunting:hunt.V		caçar	kɐˈsar
 Interaction:choose.V		eleger	iləˈʒer
 Interaction:choose.V		escolher	iʃkuˈʎer
 Interaction:rescue.V		salvar	saɫˈvar
-Language:book.N		livro	ˈlivru
 Mind:dream.N		sonho	ˈsoɲu
 Motion:arrive.V		chegar	ʃəˈɣar
 Motion:bring.V		trazer	trɐˈzer
@@ -347,6 +367,7 @@ Perception:hear.V		ouvir	oˈvir
 Perception:touch.V		tocar	tuˈkar
 Plant:Betula.N		bétula	betula
 Plant:branch.N		ramo	ˈʀɐmu
+Plant:flower.N		flor	flor
 Plant:leaf.N		folha	ˈfoʎɐ
 Plant:root.N		raiz	ʀɐˈiʃ
 Plant:seed.N		sementeira	ʃemẽtejra
@@ -389,11 +410,15 @@ Quantity:a little.A		um pouco	ũ ˈpoku
 Quantity:add.V		acrescentar	ɐkrəʃsẽˈtar
 Quantity:decrease.V		decrescer	dekreʃser
 Quantity:decrease.V		diminuir	dəmiˈnwir
+Quantity:empty.A		vazio	vɐˈziw
 Quantity:fill.V		encher	ẽˈʃer
+Quantity:full.A		cheio	ˈʃeju
 Quantity:increase.V		aumentar	awmẽˈtar
 Quantity:increase.V		crescer	krəʃˈser
 Society:help.N		ajuda	ɐˈʒuðɐ
 Society:help.N		socorro	suˈkoʀu
+Society:people.N		nação	nɐˈsɐ̃w
+Society:people.N		povo	ˈpovu
 Sound:chime.V		chocalhar	ʃokaʎar
 Sound:howl.V		uivar	wivar
 Sound:make noise.V		fazer barulho	fazerβaruʎu

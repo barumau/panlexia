@@ -173,6 +173,8 @@ Cognition:familiar.A		معلوم	mæʔlum
 Cognition:true.A		حقیقی	hæɣiɣi
 Cognition:true.A		درست	doɾost
 Cognition:truth.N		حقیقت	hæɣiɣæt
+Cognition:wake up (tr).V		بیدار کردن	bidɒːɾ kæɾdæn
+Cognition:wake up.V		از خواب بیدار شدن	æz xɒːb bidɒːɾ ʃodæn
 Combat:brawl.V		کتک‌کاری کردن	kotækkɒːɾi kæɾdæn
 Combat:fight.N		مبارزه	mobɒːɾeze
 Combat:fight.N		نبرد	næbæɾd
@@ -182,6 +184,7 @@ Combat:violence.N		خشونت	xoʃunæt
 Combat:violence.N		زور	zuɾ
 Combat:win.V		پیروز شدن	piɾuz ʃodæn
 Communication:boast.V		پز آمدن	poz ɒːmædæn
+Communication:book.N		کتاب	ketɒːb
 Communication:call.V		صدا کردن	sedɒː kæɾdæn
 Communication:chat.V		گپ زدن	ɡæp zædæn
 Communication:convey (a message).V		خبر دادن	xæbæɾ dɒːdæn
@@ -206,6 +209,8 @@ Cosmos:Sun.N		خورشید	xoɾʃid
 Cosmos:moon.N		ماه	mɒːh
 Cosmos:set.V		غروب کردن	ɣoɾub kæɾdæn
 Cosmos:star.N		ستاره	setɒːɾe
+Degree:very.ADV		بسیار	besjɒːɾ
+Degree:very.ADV		خیلی	xejli
 Element:Ag.N		نقره	noɣɾe
 Element:Au.N		زر	zæɾ
 Element:Au.N		طلا	tælɒː
@@ -245,22 +250,37 @@ Family:son.N		پسر	pesæɾ
 Family:uncle.N		دایی	dɒːji
 Family:uncle.N		عمو	æmu
 Family:wife.N		همسر	hæmsæɾ
+Food:Camellia sinensis.N		چای	t͡ʃɒːj
 Food:Malus domestica.N		سیب	sib
 Food:NaCl.N		نمک	næmæk
 Food:bake.V		پختن	poxtæn
 Food:soup.N		آش	ɒːʃ
 Food:soup.N		سوپ	sup
-Food:tea.N		چای	t͡ʃɒːj
 Form:bend (sth).V		خم کردن	xæm kæɾdæn
 Form:bend.V		کج کردن	kæd͡ʒ kæɾdæn
-Function:1PL.PRN		ما	mɒː
-Function:1SG.PRN		من	mæn
-Function:2PL.PRN		شما	ʃomɒː
-Function:2SG.PRN		تو	to
-Function:3PL.PRN		آنها	ɒːnhɒː
-Function:3SG M.PRN		او	u
+Function:1PL.PRO		ما	mɒː
+Function:1SG.PRO		من	mæn
+Function:2PL.PRO		شما	ʃomɒː
+Function:2SG.PRO		تو	to
+Function:3PL.PRO		آنها	ɒːnhɒː
+Function:3SG M.PRO		او	u
 Function:and.CNJ		و	wæ
+Function:here.ADV		اینجا	ind͡ʒɒː
+Function:how many.PRO		چقدر	t͡ʃeɣædɾ
+Function:how many.PRO		چند	t͡ʃænd
+Function:how.PRO		چطور	t͡ʃetouɾ
+Function:how.PRO		چگونه	t͡ʃeɡune
+Function:not.PTCL		نه	næ
 Function:or.CNJ		یا	jɒː
+Function:other.PRO		دیگر	diɡæɾ
+Function:that.PRO		آن	ɒːn
+Function:there.ADV		آنجا	ɒːnd͡ʒɒː
+Function:this.PRO		این	in
+Function:what.PRO		چه	t͡ʃe
+Function:where.PRO		کجا	kod͡ʒɒː
+Function:who.PRO		کی	ki
+Function:why.PRO		برای چه	bæɾɒːje t͡ʃe
+Function:why.PRO		چرا	t͡ʃeɾɒː
 Grooming:comb.N		شانه	ʃɒːne
 Grooming:comb.V		شانه زدن	ʃɒːne zædæn
 Grooming:decorate.V		زینت دادن	zinæt dɒːdæn
@@ -291,7 +311,6 @@ Hunting:fishing.V		ماهی‌گیری کردن	mɒːhiɡiɾi kæɾdæn
 Hunting:hunt.V		شکار کردن	ʃekɒːɾ kæɾdæn
 Interaction:choose.V		انتخاب کردن	entexɒːb kæɾdæn
 Interaction:rescue.V		نجات دادن	ned͡ʒɒːt dɒːdæn
-Language:book.N		کتاب	ketɒːb
 Mind:dream.N		رؤیا	ɾoʔjɒː
 Motion:arrive.V		رسیدن	ɾæsidæn
 Motion:bring.V		آوردن	ɒːwæɾdæn
@@ -344,6 +363,7 @@ Perception:touch.V		دست زدن	dæst zædæn
 Perception:touch.V		لمس کردن	læms kæɾdæn
 Plant:Betula.N		غان	ɣɒːn
 Plant:branch.N		شاخه	ʃɒːxe
+Plant:flower.N		گل	ɡol
 Plant:leaf.N		برگ	bæɾɡ
 Plant:root.N		ریشه	ɾiʃe
 Plant:seed.N		بذر	bæzɾ
@@ -384,9 +404,12 @@ Quantity:a little.A		کمی	kæmi
 Quantity:add.V		اضافه کردن	ezɒːfe kæɾdæn
 Quantity:add.V		افزودن	æfzudæn
 Quantity:decrease.V		کم شدن	kæm ʃodæn
+Quantity:empty.A		خالی	xɒːli
 Quantity:fill.V		پر کردن	poɾ kæɾdæn
+Quantity:full.A		پر	poɾ
 Quantity:increase.V		زیاد شدن	zijɒːd ʃodæn
 Society:help.N		کمک	komæk
+Society:people.N		خلق	xælɣ
 Sound:chime.V		زنگ زدن	zænɡ zædæn
 Sound:howl.V		زوزه کشیدن	zuze keʃidæn
 Sound:make noise.V		شلوغ کردن	ʃoluɣ kæɾdæn

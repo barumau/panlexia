@@ -163,6 +163,8 @@ Clothing:undress.V		zdjąć	zdjɔnt͡ɕ
 Cognition:familiar.A		znany	znanɨ
 Cognition:true.A		prawdziwy	pɾavd͡ʑivɨ
 Cognition:truth.N		prawda	pɾavda
+Cognition:wake up (tr).V		zbudzić	zbud͡ʑit͡ɕ
+Cognition:wake up.V		obudzić się	ɔbud͡ʑit͡ɕ ɕɛ̃
 Combat:brawl.V		pobić się	pɔbit͡ɕ ɕɛ̃
 Combat:fight.N		bój	buj
 Combat:fight.N		walka	valka
@@ -171,6 +173,7 @@ Combat:strike (sb).V		uderzyć	udɛʐɨt͡ɕ
 Combat:violence.N		władza	vwad͡za
 Combat:win.V		zwycziężyć	zvɨʈ͡ʂiɛ̃ʐɨt͡ɕ
 Communication:boast.V		chełpić się	xɛwpit͡ɕ ɕɛ̃
+Communication:book.N		książka	kɕɔ̃ʂka
 Communication:call.V		wołać	vɔwat͡ɕ
 Communication:chat.V		rozmawiać	ɾɔzmaviat͡ɕ
 Communication:convey (a message).V		zawiadomić o	zaviadɔmit͡ɕ ɔ
@@ -191,6 +194,7 @@ Cosmos:Sun.N		słońce	swɔɲt͡sɛ
 Cosmos:moon.N		księżyc	kɕɛ̃ʐɨt͡s
 Cosmos:set.V		zajść	zajɕt͡ɕ
 Cosmos:star.N		gwiazda	ɡviazda
+Degree:very.ADV		bardzo	baɾd͡zɔ
 Element:Ag.N		srebro	sɾɛbɾɔ
 Element:Au.N		złoto	zwɔtɔ
 Element:Fe.N		żelazo	ʐɛlazɔ
@@ -224,22 +228,35 @@ Family:son.N		syn	sɨn
 Family:uncle.N		stryj	stɾɨj
 Family:uncle.N		wuj	vuj
 Family:wife.N		żona	ʐɔna
+Food:Camellia sinensis.N		herbata	xɛɾbata
 Food:Malus domestica.N		jabłko	japwkɔ
 Food:NaCl.N		sól	sul
 Food:bake.V		piec	piɛt͡s
 Food:soup.N		zupa	zupa
-Food:tea.N		herbata	xɛɾbata
 Form:bend (sth).V		zgiąć	zɡiɔnt͡ɕ
 Form:bend.V		zagiąć	zaɡiɔnt͡ɕ
-Function:1PL.PRN		my	mɨ
-Function:1SG.PRN		ja	ja
-Function:2PL.PRN		wy	vɨ
-Function:2SG.PRN		ty	tɨ
-Function:3PL.PRN		oni	ɔni
-Function:3SG M.PRN		on	ɔn
+Function:1PL.PRO		my	mɨ
+Function:1SG.PRO		ja	ja
+Function:2PL.PRO		wy	vɨ
+Function:2SG.PRO		ty	tɨ
+Function:3PL.PRO		oni	ɔni
+Function:3SG M.PRO		on	ɔn
 Function:and.CNJ		i	i
+Function:here.ADV		tu	tu
+Function:here.ADV		tutaj	tutaj
+Function:how many.PRO		ile	ilɛ
+Function:how.PRO		jak	jak
+Function:not.PTCL		nie	niɛ
 Function:or.CNJ		albo	albɔ
 Function:or.CNJ		lub	lup
+Function:other.PRO		inny	inːɨ
+Function:that.PRO		to	tɔ
+Function:there.ADV		tam	tam
+Function:this.PRO		to	tɔ
+Function:what.PRO		co	t͡sɔ
+Function:where.PRO		gdzie	ɡd͡ʑɛ
+Function:who.PRO		kto	ktɔ
+Function:why.PRO		dlaczego	dlaʈ͡ʂɛɡɔ
 Grooming:comb.N		grzebień	ɡʐɛbiɛɲ
 Grooming:comb.V		uczesać	uʈ͡ʂɛsat͡ɕ
 Grooming:decorate.V		ozdabiać	ɔzdabiat͡ɕ
@@ -267,7 +284,6 @@ Hunting:hunt.V		polować	pɔlɔvat͡ɕ
 Interaction:choose.V		wybrać	vɨbɾat͡ɕ
 Interaction:rescue.V		ocalić	ɔt͡salit͡ɕ
 Interaction:rescue.V		uratować	uɾatɔvat͡ɕ
-Language:book.N		książka	kɕɔ̃ʂka
 Mind:dream.N		sen	sɛn
 Motion:arrive.V		przybyć	pʂɨbɨt͡ɕ
 Motion:bring.V		przynieść	pʂɨniɛɕt͡ɕ
@@ -319,6 +335,7 @@ Perception:hear.V		słyszeć	swɨʂɛt͡ɕ
 Perception:touch.V		dotykać	dɔtɨkat͡ɕ
 Plant:Betula.N		brzoza	bʐɔza
 Plant:branch.N		gałąź	ɡawɔ̃ɕ
+Plant:flower.N		kwiat	kfiat
 Plant:leaf.N		liść	liɕt͡ɕ
 Plant:root.N		korzeń	kɔʐɛɲ
 Plant:seed.N		siew	ɕɛv
@@ -358,9 +375,13 @@ Quantity:90.NUM		dziewięćdziesiąt	d͡ʑɛviɛnd͡ʑd͡ʑɛɕɔnt
 Quantity:a little.A		trochę	tɾɔxɛ̃
 Quantity:add.V		dodać	dɔdat͡ɕ
 Quantity:decrease.V		spadać	spadat͡ɕ
+Quantity:empty.A		próżny	pɾuʐnɨ
+Quantity:empty.A		pusty	pustɨ
 Quantity:fill.V		napełnić	napɛwnit͡ɕ
+Quantity:full.A		pełny	pɛwnɨ
 Quantity:increase.V		wzrosnąć	vzɾɔsnɔnt͡ɕ
 Society:help.N		pomoc	pɔmɔt͡s
+Society:people.N		naród	naɾut
 Sound:chime.V		dzwonić	d͡zvɔnit͡ɕ
 Sound:howl.V		wyć	vɨt͡ɕ
 Sound:make noise.V		hałasować	xawasɔvat͡ɕ

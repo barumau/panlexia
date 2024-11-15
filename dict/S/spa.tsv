@@ -29,6 +29,7 @@ Animal:Corvus.N		cuervo
 Animal:Culicidae.N		mosquito
 Animal:Diptera.N		mosca
 Animal:Elephantidae.N		elefante
+Animal:Equus asinus × caballus.N		mulo
 Animal:Equus asinus.N		asno,burro
 Animal:Equus ferus caballus.N		caballo
 Animal:Felis catus.N		gato
@@ -215,6 +216,7 @@ Building:house.N		casa
 Building:hut.N		cabaña,choza
 Building:mason.N		albañil
 Building:mortar binder.N		argamasa
+Building:oven.N		horno
 Building:post.N		poste
 Building:rafter.N		viga
 Building:ridgepole.N		cumbrera
@@ -278,10 +280,12 @@ Clothing:veil.N		velo
 Clothing:weave.V		tejer
 Cognition:study.V		estudiar
 Cognition:true.A		verdadero
+Cognition:wake up.V		despertarse
 Combat:fight.V		pelear
 Combat:helmet.N		yelmo
 Communication:answer.V		contestar
 Communication:boast.V		jactarse
+Communication:book.N		libro
 Communication:call.V		llamar
 Communication:deny.V		negar
 Communication:forbid.V		prohibir
@@ -295,6 +299,7 @@ Communication:tell.V		narrar, contar
 Cosmos:Sun.N		sol
 Cosmos:moon.N		luna
 Cosmos:star.N		estrella
+Degree:more.ADV		más
 Element:Ag.N		plata
 Element:Au.N		oro
 Element:Cu.N		cobre, bronce
@@ -369,16 +374,27 @@ Food:sausage.N		salchicha
 Food:soup.N		sopa
 Food:supper.N		cena
 Form:bend.V		encorvar, doblar
-Function:1PL EXCL.PRN		nosotros/nosotras (exclusivo)
-Function:1PL INCL.PRN		nosotros/nosotras (inclusivo)
-Function:1PL.PRN		nosotros/ nosotras
-Function:1SG.PRN		yo
-Function:2PL.PRN		ustedes
-Function:2SG.PRN		tú, usted
-Function:3PL.PRN		ellos, ellas
-Function:3SG.PRN		él/ella/ello
+Function:1PL EXCL.PRO		nosotros/nosotras (exclusivo)
+Function:1PL INCL.PRO		nosotros/nosotras (inclusivo)
+Function:1PL.PRO		nosotros/ nosotras
+Function:1SG.PRO		yo
+Function:2PL.PRO		ustedes
+Function:2SG.PRO		tú, usted
+Function:3PL.PRO		ellos, ellas
+Function:3SG.PRO		él/ella/ello
 Function:and.CNJ		y
+Function:how many pieces.PRO		¿cuántos?
+Function:how much.PRO		¿cuánto?
+Function:how.PRO		¿cómo?
+Function:if.CNJ		si
 Function:or.CNJ		o
+Function:what.PRO		¿qué?
+Function:when.PRO		¿cuándo?
+Function:where.PRO		¿dónde?
+Function:which.PRO		¿cuál?
+Function:who.PRO		¿quién?
+Function:why.PRO		¿por qué?
+Function:yes.PTCL		sí
 Grooming:bracelet.N		brazalete
 Grooming:brush.N		cepillo
 Grooming:comb.N		peine
@@ -423,7 +439,6 @@ Hunting:fishing.V		pescar
 Hunting:hunt.V		cazar
 Interaction:choose.V		escoger
 Interaction:rescue.V		salvar
-Language:book.N		libro
 Law:lawyer.N		abogado
 Mind:dream.V		soñar
 Motion:approach.V		acercarse
@@ -469,11 +484,13 @@ People:young woman.N		joven
 Perception:hear.V		oír
 Perception:touch.V		tocar
 Plant:Betula.N		abedul
+Plant:Ipomoea batatas.N		camote,batata
 Plant:Lupin.N		chocho
 Plant:Solanum oblongifolium.N		pigala
 Plant:Vaccinium mortinia.N		mortiño
 Plant:Vicia.N		vicia
 Plant:branch or twig.N		rama
+Plant:flower.N		flor
 Plant:leaf.N		hoja
 Plant:plant.N		planta
 Plant:root.N		raíz
@@ -484,6 +501,7 @@ Plant:tree trunk.N		tronco
 Plant:tree.N		árbol
 Plant:vine.N		enredadera,bejuco, liana
 Possession:greedy.A		codicioso,voraz
+Possession:market.N		mercado
 Possession:poor.A		pobre
 Possession:price.N		precio
 Possession:receive.V		recibir
@@ -507,7 +525,12 @@ Quantity:6.NUM		seis
 Quantity:7.NUM		siete
 Quantity:8.NUM		ocho
 Quantity:9.NUM		nueve
+Quantity:empty.A		vacío
+Quantity:enough.ADV		bastante, suficiente
+Quantity:full.A		lleno
+Quantity:many.A		mucho
 Society:help.V		ayudar
+Society:people.N		pueblo, gente
 Sound:be silent.V		callarse
 Sound:flute.N		flauta
 Sound:howl.V		aullar

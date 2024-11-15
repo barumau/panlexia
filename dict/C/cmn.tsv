@@ -43,6 +43,8 @@ Animal:Culicidae.N		蚊子	wen2zi
 Animal:Diptera.N		蒼蠅	cang1ying	
 Animal:Elephantidae.N		大象	da4xiang4	
 Animal:Elephantidae.N		象	xiang4	
+Animal:Equus asinus × caballus.N		骡, 騾, 驘	luo2	
+Animal:Equus asinus × caballus.N		骡子, 騾子	luo2zi	
 Animal:Equus asinus.N		驴, 驢	lü2	
 Animal:Equus asinus.N		驴子	lü2zi	
 Animal:Equus ferus caballus.N		马	ma3	:Unidentifiable
@@ -326,6 +328,7 @@ Building:hut.N		小屋	xiao3wu1
 Building:mason.N		泥水匠	ni2shui3jiang4	
 Building:mason.N		泥瓦工	ni2wa3gong1	
 Building:mortar binder.N		砂浆	sha1jiang1	
+Building:oven.N		炉子	lu2zi	
 Building:post.N		柱	zhu4	
 Building:rafter.N		椽	chuan2	
 Building:ridgepole.N		栋梁	dong4liang2	
@@ -401,10 +404,13 @@ Clothing:trousers.N		裤子	ku4zi
 Clothing:veil.N		面纱	mian4sha1	
 Clothing:weave.V		织, 織	zhi1	
 Clothing:weave.V		编织	bian1zhi1	
+Cognition:same.A		同一个	tong2 yi1 ge4	
 Cognition:study.V		学习	xue2xi2	
 Cognition:study.V		读书	du2shu1	
 Cognition:true.A		对, 對	dui4 (2)	
 Cognition:true.A		真	zhen1 (2)	
+Cognition:wake up.V		睡醒	shui4xing3	
+Cognition:wake up.V		醒来	xing3lai2	
 Combat:bomb.N		炸弹	zha4dan4	
 Combat:fight.V		dou4zheng1 (2)		
 Combat:fight.V		打	da3 (NS)	
@@ -412,6 +418,7 @@ Combat:helmet.N		头盔	tou2kui1
 Communication:answer.V		回答	hui2da2	
 Communication:boast.V		吹嘘	chui1xu1	
 Communication:boast.V		吹牛	chui1niu2	
+Communication:book.N		书	shu1	
 Communication:deny.V		否认	fou3ren4	
 Communication:forbid.V		禁止	jin4zhi3	
 Communication:forgive.V		原谅	yuan2liang4	
@@ -437,6 +444,9 @@ Communication:tell.V		讲述	jiang3shu4
 Cosmos:Sun.N		太阳, 太陽	tai4yang	
 Cosmos:moon.N		月亮	yue4liang	
 Cosmos:star.N		星星	xing1xing	
+Degree:more.ADV		更多	geng4duo1	
+Degree:more.ADV		比 多	bi3 X duo1	
+Degree:more.ADV		比较多	bi3jiao4 duo1	
 Element:Ag.N		银	yin2	
 Element:Ag.N		银子	yin2zi	
 Element:Au.N		金	jin1	
@@ -541,6 +551,8 @@ Family:wife.N		妻子	qi1zi
 Family:wife.N		爱人	ai4ren2	
 Family:younger brother.N		弟弟	di4di	
 Family:younger sister.N		妹妹	mei4mei	
+Food:Camellia sinensis.N		茶	cha2	
+Food:Coffea.N		咖啡	ka1fei1	arb:qahwah
 Food:Ficus carica.N		无花果	wu2hua1guo3	
 Food:Musa acuminata.N		香蕉	xiang1jiao1	
 Food:NaCl.N		盐	yan2	
@@ -553,25 +565,51 @@ Food:flour.N		面粉	mian4fen3
 Food:sausage.N		腊肠	la4chang2	
 Food:sausage.N		香肠	xiang1chang2	
 Food:soup.N		汤	tang1	
-Food:tea.N		茶	cha2	
 Form:bend.V		弯, 彎	wan1 (1)	
-Function:1PL EXCL.PRN		我们,我們	wo3men	
-Function:1PL INCL.PRN		咱们,咱們	zan2men	
-Function:1PL.PRN		我们,我們	wo3men	
-Function:1SG.PRN		我	wo3	
-Function:2PL.PRN		你们	ni3men	
-Function:2PL.PRN		您们	nin2men	
-Function:2SG.PRN		你	ni3	
-Function:2SG.PRN		您	nin2	
-Function:3PL.PRN		他门，她们，它门	ta1men	
-Function:3SG INAN.PRN		它	ta1	
-Function:3SG M.PRN		他	ta1	
-Function:3SG.PRN		他，她，它	ta1	
+Function:1PL EXCL.PRO		我们,我們	wo3men	
+Function:1PL INCL.PRO		咱们,咱們	zan2men	
+Function:1PL.PRO		我们,我們	wo3men	
+Function:1SG.PRO		我	wo3	
+Function:2PL.PRO		你们	ni3men	
+Function:2PL.PRO		您们	nin2men	
+Function:2SG.PRO		你	ni3	
+Function:2SG.PRO		您	nin2	
+Function:3PL.PRO		他门，她们，它门	ta1men	
+Function:3SG INAN.PRO		它	ta1	
+Function:3SG M.PRO		他	ta1	
+Function:3SG.PRO		他，她，它	ta1	
 Function:and.CNJ		与, 與	yu3 (2)	
 Function:and.CNJ		和	he2	
+Function:here.ADV		这儿	zhe4r	
+Function:here.ADV		这里, 這裡	zhe4li3	
+Function:how many pieces.PRO		几个	ji3-CL	
+Function:how many pieces.PRO		多少	duo1shao	
+Function:how much.PRO		多少	duo1shao	
+Function:how.PRO		怎么	zen3me	
+Function:how.PRO		怎么样	zen3meyang4	
+Function:if.CNJ		如果	ru2guo3	
+Function:not.PTCL		不	bu4	
+Function:not.PTCL		没有	mei2you3	
 Function:or.CNJ		或	huo4	
 Function:or.CNJ		或者	huo4zhe3	
 Function:or.CNJ		还是	hai2shi	
+Function:other.PRO		另一个	ling4 yi1 ge	
+Function:that.PRO		那个	na4ge	
+Function:there.ADV		那儿	na4r	
+Function:there.ADV		那里	na4li3	
+Function:this.PRO		这个	zhe4ge	
+Function:what.PRO		什么	shen2me	
+Function:when.PRO		什么时候	shen2me shi2hou	
+Function:when.PRO		几点	ji3dian3	
+Function:where.PRO		哪里	na3li3	
+Function:where.PRO		在哪儿	zai4na3r	
+Function:which.PRO		哪个	na3-CL	
+Function:which.PRO		哪些	na3xie3	
+Function:who.PRO		谁	shui2, shei2	
+Function:why.PRO		为什么	wei4shen2me	
+Function:yes.PTCL		好	hao3	
+Function:yes.PTCL		对, 對	dui4 (2)	
+Function:yes.PTCL		是	shi4	
 Grooming:bracelet.N		手镯	shou3zhuo2	
 Grooming:brush.N		刷子	shua1zi	
 Grooming:comb.N		梳子	shu1zi	
@@ -650,7 +688,6 @@ Hunting:hunt.V		追逐	zhui1zhu2
 Interaction:choose.V		选,選	xuan3	
 Interaction:choose.V		选择	xuan3ze2	
 Interaction:rescue.V		救	jiu4 (3)	
-Language:book.N		书	shu1	
 Law:crime.N		犯罪	fan4zui4	
 Law:crime.N		罪	zui4 (2)	
 Mind:dream.V		做梦	zuo4meng4	
@@ -730,12 +767,16 @@ Perception:hear.V		听到,聽到	ting1dao4
 Perception:touch.V		摸	mo1	
 Perception:touch.V		碰	peng4	
 Plant:Betula.N		桦树, 樺樹	hua4shu4	
+Plant:Ipomoea batatas.N		甘薯	gan1shu3	
+Plant:Ipomoea batatas.N		白薯	bai2shu3	
+Plant:Ipomoea batatas.N		红薯	hong2shu3	
 Plant:Setaria italica.N		小米	xiao3mi3	
 Plant:Setaria italica.N		粟	su4	
 Plant:Setaria italica.N		谷子, 穀子	gu3zi	
 Plant:Setaria italica.N		黍	shu3 (2)	
 Plant:Sorghum bicolor.N		高粱	gao1liang	
 Plant:branch or twig.N		树枝, 樹枝	shu4zhi1	
+Plant:flower.N		花	hua1(r)	
 Plant:leaf.N		叶子	ye4zi	
 Plant:needle.N		针, 針, 鍼	zhen1 (1)	
 Plant:needle.N		针叶	zhen1ye4	
@@ -752,6 +793,7 @@ Plant:vine.N		葡萄树	pu2tao2shu4
 Plant:vine.N		葡萄蔓	pu2taowan4	
 Plant:vine.N		葡萄藤	pu2taoteng2	
 Possession:greedy.A		贪婪	tan1lan2	
+Possession:market.N		市场	shi4chang3	
 Possession:poor.A		穷, 窮	qiong2	
 Possession:poor.A		贫穷	pin2qiong2	
 Possession:price.N		价格	jia4ge2	
@@ -777,8 +819,16 @@ Quantity:6.NUM		六	liu4
 Quantity:7.NUM		七	qi1	
 Quantity:8.NUM		八	ba1	
 Quantity:9.NUM		九	jiu3 (2)	
+Quantity:empty.A		空	kong1	
+Quantity:enough.ADV		够	gou4	
+Quantity:enough.ADV		足够	zu3gou4	
+Quantity:full.A		满	man3	
+Quantity:many.A		很多	hen3duo1	
+Quantity:many.A		许多	xu3duo1	
 Society:help.V		帮助	bang1zhu4	
 Society:help.V		帮忙, 幫忙	bang1mang2	
+Society:people.N		人民	ren2min2	
+Society:people.N		居民	ju1min2	
 Sound:be silent.V		沉默	chen2mo4	
 Sound:flute.N		笛子	di2zi	
 Sound:howl.V		叫, 叫	jiao4 (2)	

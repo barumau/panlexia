@@ -1,5 +1,5 @@
 id	style	word
-Action:can.V		povas
+Action:can.V		povi
 Agriculture:farm.N		farmo
 Animal:Acridomorpha.N		akrido, lokusto
 Animal:Anatidae.N		anaso
@@ -115,6 +115,7 @@ Body:kidney.N		reno
 Body:knee.N		genuo
 Body:leg.N		kruro, gambo
 Body:lip.N		lipo
+Body:live.V		vivi
 Body:liver.N		hepato
 Body:lung.N		pulmo
 Body:mouth.N		buŝo
@@ -139,7 +140,7 @@ Body:spit.V		kraĉi
 Body:stomach.N		stomako
 Body:sweat.N		ŝvito
 Body:tail.N		vosto
-Body:tear.N		larmo(j)
+Body:tear.N		larmo
 Body:testicle.N		testiko
 Body:throat.N		gorĝo
 Body:thumb.N		dikfingro, polekso
@@ -166,6 +167,7 @@ Building:fireplace.N		kameno
 Building:floor.N		planko
 Building:frame.N		kadro
 Building:house.N		domo
+Building:oven.N		forno, bakujo
 Building:pyramid.N		piramido
 Building:roof.N		tegmento
 Building:room.N		ĉambro
@@ -210,11 +212,18 @@ Clothing:underpants.N		kalsono, kalsoneto
 Clothing:uniform.N		uniformo
 Clothing:veil.N		vualo
 Clothing:weave.V		teksi
+Cognition:awake.A		maldormanta
+Cognition:expect.V		antaŭsupozi, antaŭvidi
+Cognition:false.A		malvera, falsa
+Cognition:same.A		sama
+Cognition:true.A		vera
+Cognition:wake up.V		vekiĝi
 Combat:fight.V		batali, barakti, lukti, militi
 Combat:helmet.N		kasko
 Combat:wrestle.V		lukti
 Communication:accept		akcepti
 Communication:answer.V		respondo
+Communication:book.N		libro
 Communication:call.V		voki, alvoki
 Communication:cellphone.N		poŝtelefono
 Communication:deny.V		nei
@@ -230,6 +239,16 @@ Cosmos:moon.N		luno
 Cosmos:planet.N		planedo
 Cosmos:star.N		stelo
 Cosmos:universe.N		universo
+Degree:almost.ADV		preskaŭ
+Degree:at least.ADV		almenaŭ
+Degree:at most.ADV		nur, ne pli ol
+Degree:degree.N		grado, kiomo
+Degree:least.ADV		malplej, malplejmulte
+Degree:less.ADV		malpli, malplimulte
+Degree:little.ADV		malmulte
+Degree:more.ADV		pli, plimulte
+Degree:most.ADV		plej, plejmulte
+Degree:very.ADV		multe, tre
 Element:Ag.N		arĝento
 Element:Au.N		oro
 Element:C.N		karbono
@@ -243,7 +262,22 @@ Element:O.N		oksigeno
 Element:Pb.N		plumbo
 Element:S.N		sulfuro
 Element:Sn.N		stano
+Emotion:admire.V		admiri
+Emotion:angry.A		kolera
+Emotion:boring.A		teda, enuiga
+Emotion:comfort.N		komforto
+Emotion:courage.N		kuraĝo
+Emotion:disappointment.N		malkontentiĝo, seniluziiĝo
+Emotion:evil.A		malbon(eg)a
+Emotion:fear.N		timi
 Emotion:feel.V		senti
+Emotion:happy.A		feliĉa
+Emotion:hate.V		malami
+Emotion:hope.V		esperi
+Emotion:love.V		ami
+Emotion:respect.V		estimi, respekti
+Emotion:sad.A		malfeliĉa, malgaja, trista
+Emotion:worry.V		ĉagreno, maltrankviliĝo
 Family:aunt.N		onklino
 Family:brother.N		frato
 Family:daughter.N		filino
@@ -258,12 +292,18 @@ Family:sister.N		fratino
 Family:son.N		filo
 Family:uncle.N		onklo
 Family:wife.N		edzino
+Food:Camellia sinensis.N		teo
+Food:Coffea.N		kafo
+Food:NaCl.N		salo
+Food:Solanum lycopersicum.N		tomato
 Food:bake.V		baki
 Food:drink.V		trinki
 Food:flour.N		faruno
+Food:pizza.N		pico
 Food:salad.N		salato
 Food:sandwich.N		sandviĉo
 Food:sausage.N		kolbaso
+Food:soup.N		supo
 Grooming:brush.N		broŝilo
 Handiwork:patch.N		flikaĵo
 Health:disease.N		malsano
@@ -277,7 +317,7 @@ House:curtain.N		kurteno
 House:pillow.N		kuseno
 House:rug.N		tapiŝo
 Hunting:hunt.V		ĉasi
-Language:book.N		libro
+Interaction:choose.V		elekti, selekti
 Law:crime.N		krimo
 Literature:alphabet.N		aboco, alfabeto
 Material:brass.N		latuno
@@ -309,13 +349,22 @@ People:male.A		vira
 People:man.N		viro
 People:woman.N		virino
 Perception:feel.V		sensi
+Perception:hear.V		aŭdi
 Perception:touch.V		tuŝi
 Plant:Citrus sinensis.N		oranĝo
 Plant:Ficus carica.N		figo
+Plant:Glycine max.N		sojo
 Plant:Gossypium.N		kotono
+Plant:Helianthus annuus.N		sunfloro, helianto
 Plant:bud.N		burĝono
+Plant:flower.N		floro
 Plant:plant.N		plantaĵo, vegetalo
+Possession:market.N		bazaro
+Possession:poor.A		malriĉa
+Possession:price.N		prezo
 Possession:receive.V		ricevi
+Possession:rich.A		riĉa
+Possession:value.N		valoro
 Quantity:0.NUM		nulo
 Quantity:1.NUM		unu
 Quantity:10.NUM		dek
@@ -330,6 +379,15 @@ Quantity:6.NUM		ses
 Quantity:7.NUM		sep
 Quantity:8.NUM		ok
 Quantity:9.NUM		naŭ
+Quantity:empty.A		malplena
+Quantity:enough.ADV		sufiĉe
+Quantity:full.A		plena
+Quantity:little.A		iomete (da)
+Quantity:many.A		multaj
+Quantity:more.A		pli (multe da), pli (multaj)
+Quantity:most.A		la plimulto, la plejmulto, la pliparto, la plejparto
+Quantity:much.A		multe (da), multo
+Quantity:multiply.V		obligi, multipliki
 Society:help.V		helpi
 Space:apart.ADV		aparte, dise
 Space:back.ADV		reen, reire, revene
@@ -384,3 +442,9 @@ Transit:train.N		trajno, vagonaro
 Transit:truck.N		kamiono, ŝarĝaŭto
 Transit:vehicle.N		veturilo
 Transit:wheel.N		rado
+Value:bad.A		malbona
+Value:compare.V		kompari
+Value:equal.A		egala
+Value:good.A		bona
+Value:important.A		grava
+Value:right.N		rajto

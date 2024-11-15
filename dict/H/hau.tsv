@@ -33,6 +33,7 @@ Animal:Corvus.N		hànkáakàa
 Animal:Culicidae.N		sáuróo		
 Animal:Diptera.N		ƙúdáa		
 Animal:Elephantidae.N		gíiwáa		
+Animal:Equus asinus × caballus.N		àlfádàr̃íi		arb:al+bat̝ari
 Animal:Equus asinus.N		jàakíi		:ejak
 Animal:Equus ferus caballus.N		dóokìi		
 Animal:Felis catus.N		màagée		
@@ -238,6 +239,8 @@ Building:hut.N		ɗáakìi
 Building:mason.N		màasôn		fra:maçon
 Building:mason.N		mágìnín gídáa		
 Building:mortar binder.N		gwáaɓìi		
+Building:oven.N		húur̃ùu		fra:four
+Building:oven.N		óobìn		eng:oven
 Building:post.N		túrkèe		
 Building:rafter.N		jíjjígèe		
 Building:ridgepole.N		jíjjígèe		
@@ -325,9 +328,11 @@ Clothing:towel.N		táawùl		eng:towel
 Clothing:trousers.N		wàndóo		arb:bantalun
 Clothing:veil.N		hìjáabìi		arb:hidjāb
 Clothing:weave.V		sáaƙàa		
+Cognition:same.A		dúk ɗáyá		
 Cognition:study.V		kár̃àntáa		arb:qiraʔat
 Cognition:study.V		yí názàr̃íi		
 Cognition:true.A		ná gáskíyáa		
+Cognition:wake up.V		fár̃kàa		
 Combat:bomb.N		bôm		eng:bomb
 Combat:fight.V		yí fáɗàa		
 Combat:helmet.N		búukèe		
@@ -335,6 +340,7 @@ Combat:helmet.N		hùulár̃ kwáanòo
 Communication:answer.V		báa dà jàwáabìi		
 Communication:answer.V		ámsàa		
 Communication:boast.V		yí cìkà bàakíi		
+Communication:book.N		líttáafìi		arb:alkita’b
 Communication:call.V		kíráa		
 Communication:deny.V		músùntáa		
 Communication:deny.V		ƙí		
@@ -358,6 +364,7 @@ Communication:tell.V		gáyàa
 Cosmos:Sun.N		ráanáa		
 Cosmos:moon.N		wátàa		:Unidentifiable
 Cosmos:star.N		tàuràaróo		
+Degree:more.ADV		kúmáa		
 Element:Ag.N		ázùr̃fáa		arb:as̩-s̩arif
 Element:Au.N		zínáar̃ìyáa		arb:dīnār
 Element:Cu.N		ján ƙárfèe		
@@ -437,6 +444,10 @@ Family:wife.N		màatáa
 Family:younger brother.N		ƙánèe		
 Family:younger sibling.N		àutáa		
 Family:younger sister.N		ƙánúwàa		
+Food:Camellia sinensis.N		sháayìi		arb:s̆āy
+Food:Coffea.N		gàháawàa		arb:qahwa
+Food:Coffea.N		kàfê		fra:café
+Food:Coffea.N		kóofìi		eng:coffee
 Food:Ficus carica.N		ɓáurée		
 Food:Musa acuminata.N		àyàbà		nup:yaba
 Food:NaCl.N		gíshíríi		
@@ -447,23 +458,41 @@ Food:dinner.N		àbíncín dárée
 Food:flour.N		gàaríi		
 Food:soup.N		róomóo		
 Food:supper.N		àbíncín yâmmáa		
-Food:tea.N		sháayìi		arb:s̆āy
 Form:bend.V		kár̃kàtáa		
 Form:bend.V		lánƙwàsáa		
-Function:1PL EXCL.PRN		múu (ná)		
-Function:1PL INCL.PRN		múu		
-Function:1PL.PRN		múu		
-Function:1SG.PRN		níi		
-Function:2PL.PRN		kúu		
-Function:2SG.PRN		kái (1)		
-Function:2SG.PRN		kée		
-Function:3PL.PRN		súu		
-Function:3SG M.PRN		shíi		
-Function:3SG.PRN		shíi		
-Function:3SG.PRN		ítá		
+Function:1PL EXCL.PRO		múu (ná)		
+Function:1PL INCL.PRO		múu		
+Function:1PL.PRO		múu		
+Function:1SG.PRO		níi		
+Function:2PL.PRO		kúu		
+Function:2SG.PRO		kái (1)		
+Function:2SG.PRO		kée		
+Function:3PL.PRO		súu		
+Function:3SG M.PRO		shíi		
+Function:3SG.PRO		shíi		
+Function:3SG.PRO		ítá		
 Function:and.CNJ		dà		
 Function:and.CNJ		kúmáa		
+Function:here.ADV		nân		
+Function:how many pieces.PRO		náwà		:Unidentifiable
+Function:how much.PRO		náwà		:Unidentifiable
+Function:how.PRO		yàayàa		
+Function:if.CNJ		ín		arb:in
+Function:not.PTCL		bà.....bá		
+Function:nothing.PRO		báabù kóomée		
 Function:or.CNJ		kóo		
+Function:other.PRO		dàbám		
+Function:that.PRO		wáncàn		
+Function:there.ADV		cân		
+Function:this.PRO		wánnàn		
+Function:what.PRO		mèe		
+Function:when.PRO		yàushè		
+Function:where.PRO		ìnaa		
+Function:which.PRO		wànè		
+Function:who.PRO		wàa		
+Function:why.PRO		dón mèe		
+Function:yes.PTCL		ná’àm		arb:naʕam
+Function:yes.PTCL		íi		
 Grooming:bracelet.N		múndúwáa		
 Grooming:bracelet.N		wáráwáróo		
 Grooming:bracelet.N		àbín hánnùu		
@@ -533,7 +562,6 @@ House:toilet.N		báayán gídáa
 Hunting:hunt.V		fàráutàa		
 Interaction:choose.V		zàaɓáa		
 Interaction:rescue.V		cèetáa		
-Language:book.N		líttáafìi		arb:alkita’b
 Law:crime.N		là’ánàa		arb:laʔana
 Law:crime.N		lâifíi		arb:ʕayb
 Mind:dream.V		yí máfár̃kíi		
@@ -591,7 +619,9 @@ People:young man.N		mátàashíi
 People:young woman.N		bùdúrwáa		
 Perception:hear.V		jí		
 Perception:touch.V		táɓàa		
+Plant:Ipomoea batatas.N		dànkálìi		arb:dankali
 Plant:branch or twig.N		réeshèe		
+Plant:flower.N		fùrée		
 Plant:leaf.N		gányée		
 Plant:needle.N		ƙáayàa		
 Plant:plant.N		shúukàa		
@@ -604,6 +634,7 @@ Plant:tree trunk.N		gàngár̃ jìkíi
 Plant:tree.N		ítàacée		
 Plant:vine.N		ínàbíi		arb:ʕinab
 Possession:greedy.A		mài máƙòo		
+Possession:market.N		kàasúwáa		knc:kàsúgù
 Possession:poor.A		fàkíir̃ìi		arb:faqīr
 Possession:poor.A		mátsìiyàacíi		
 Possession:poor.A		mátàlàucíi		
@@ -629,7 +660,14 @@ Quantity:6.NUM		shídà
 Quantity:7.NUM		bákwài		
 Quantity:8.NUM		tákwàs		
 Quantity:9.NUM		tár̃à		
+Quantity:empty.A		wòofíi		ful:wōf-
+Quantity:empty.A		émtì		eng:empty
+Quantity:enough.ADV		ìsá		
+Quantity:full.A		à cìké		
+Quantity:many.A		yáwàa		
 Society:help.V		tàimákàa		
+Society:people.N		jàmá'àa		arb:jamāʕa
+Society:people.N		mútàanée		
 Sound:be silent.V		yí shírúu		
 Sound:flute.N		sàareewàa		
 Sound:flute.N		sàréewàa		

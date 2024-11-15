@@ -150,12 +150,15 @@ Cognition:familiar.A		저명한	t͡ɕʌmjʌŋɦan
 Cognition:true.A		참된	camdwen
 Cognition:truth.N		진실	t͡ɕinɕʰil
 Cognition:truth.N		참	cam
+Cognition:wake up (tr).V		깨우다	kk͈͈ɛuda
+Cognition:wake up.V		눈트다	nundʰɯda
 Combat:brawl.V		치다	cida
 Combat:fight.N		전투	t͡ɕʌndʰu
 Combat:strike (sb).V		치다	cida
 Combat:violence.N		권력	kwʌlːjʌk̚
 Combat:win.V		이기다	iɡida
 Communication:boast.V		자랑하다	t͡ɕaɾaŋɦada
+Communication:book.N		책	cɛk̚
 Communication:call.V		불러내다	pulɾʌnɛda
 Communication:convey (a message).V		이야기하다	ijaɡiɦada
 Communication:fairy tale.N		동화	toŋɦwa
@@ -174,6 +177,7 @@ Cosmos:Sun.N		해	hɛ
 Cosmos:moon.N		달	tal
 Cosmos:set.V		지다	t͡ɕida
 Cosmos:star.N		별	pjʌl
+Degree:very.ADV		자주	t͡ɕad͡ʑu
 Element:Ag.N		은	ɯn
 Element:Au.N		항금	haŋɡɯm
 Element:Fe.N		쇠	sʰwe
@@ -205,22 +209,34 @@ Family:sister.N		누이	nɯ͡i
 Family:son.N		아들	adɯl
 Family:uncle.N		백부	pɛkp͈͈u
 Family:wife.N		아내	anɛ
+Food:Camellia sinensis.N		차	ca
 Food:Malus domestica.N		사과	sʰaɡwa
 Food:NaCl.N		소금	sʰoɡɯm
 Food:bake.V		쿱다	kʰupt͈͈a
 Food:soup.N		국	kuk̚
 Food:soup.N		수프	sʰupʰɯ
-Food:tea.N		차	ca
 Form:bend (sth).V		굽히다	kuphida
 Form:bend.V		구부리다	kubuɾida
-Function:1PL.PRN		우리	uɾi
-Function:1SG.PRN		나	na
-Function:2PL.PRN		너희들	nʌʝjidɯl
-Function:2SG.PRN		너	nʌ
-Function:3PL.PRN		그들	kɯdɯl
-Function:3SG M.PRN		그	kɯ
+Function:1PL.PRO		우리	uɾi
+Function:1SG.PRO		나	na
+Function:2PL.PRO		너희들	nʌʝjidɯl
+Function:2SG.PRO		너	nʌ
+Function:3PL.PRO		그들	kɯdɯl
+Function:3SG M.PRO		그	kɯ
 Function:and.CNJ		와	wa
+Function:here.ADV		여기	jʌɡi
+Function:how many.PRO		얼마만큰	ʌlmamanɡʰɯn
+Function:how.PRO		어떻게	ʌtt͈͈ʌkʰːe
+Function:not.PTCL		안	an
 Function:or.CNJ		아니면	animjʌn
+Function:other.PRO		다른	taɾɯn
+Function:that.PRO		저	t͡ɕʌ
+Function:there.ADV		거기	kʌɡi
+Function:this.PRO		이	i
+Function:what.PRO		뭣	mwʌt̚
+Function:where.PRO		어디	ʌdi
+Function:who.PRO		누구	nuɡu
+Function:why.PRO		왜	wɛ
 Grooming:comb.N		빗	pit̚
 Grooming:comb.V		빗다	pitt͈a
 Grooming:decorate.V		치레하다	ciɾeɦada
@@ -245,7 +261,6 @@ Hunting:fishing.V		고기를잡다	koɡiɾɯld͡ʑapt͈͈a
 Hunting:hunt.V		사냥하다	sʰanjaŋɦada
 Interaction:choose.V		선거하다	sʰʌŋʌɦada
 Interaction:rescue.V		구조하다	kud͡ʑoɦada
-Language:book.N		책	cɛk̚
 Mind:dream.N		쿰	kʰum
 Motion:arrive.V		고챀하다	kocakʰhada
 Motion:bring.V		가겨	kaɡjʌ
@@ -292,6 +307,7 @@ Perception:hear.V		듣다	tɯtt͈͈a
 Perception:touch.V		대다	tɛda
 Plant:Betula.N		자작나무	t͡ɕad͡ʑaŋnamu
 Plant:branch.N		가지	kad͡ʑi
+Plant:flower.N		꽃	kk͈͈occ
 Plant:leaf.N		잎	ip̚
 Plant:root.N		뿌리	pp͈͈uɾi
 Plant:seed.N		씨	ɕ͈i
@@ -329,10 +345,13 @@ Quantity:90.NUM		아흔	aɣn
 Quantity:a little.A		적음	t͡ɕʌɡɯm
 Quantity:add.V		부가하다	puɡaɦada
 Quantity:decrease.V		떼어내다	tt͈͈eʌnɛda
+Quantity:empty.A		빈	pin
 Quantity:fill.V		담다	tamda
+Quantity:full.A		완전한	wand͡ʑʌnɦan
 Quantity:increase.V		증가하다	t͡ɕɯŋɡaɦada
 Society:help.N		거들음	kʌdɯlɯm
 Society:help.N		보좌	pod͡ʑwa
+Society:people.N		국중	kukt͡ɕ͈͈uŋ
 Sound:chime.V		울시다	ulɕʰida
 Sound:howl.V		포효하다	pʰoʝjoɦada
 Sound:make noise.V		떠들다	tt͈͈ʌdɯlda

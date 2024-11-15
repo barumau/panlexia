@@ -39,6 +39,7 @@ Animal:Corvus.N		(burung) gagak
 Animal:Culicidae.N		nyamuk		
 Animal:Diptera.N		lalat		
 Animal:Elephantidae.N		gajah		san:gaja
+Animal:Equus asinus × caballus.N		bagal		arb:baɣl
 Animal:Equus asinus.N		keledai		tam:kazutai
 Animal:Equus ferus caballus.N		kuda		:Unidentifiable
 Animal:Felis catus.N		kucing		
@@ -305,6 +306,9 @@ Building:hut.N		pondok		arb:funduq
 Building:mason.N		tukang batu		
 Building:mortar binder.N		lépa		san:lepa
 Building:mortar binder.N		semén		nld:cement
+Building:oven.N		dapur		
+Building:oven.N		open		nld:oven
+Building:oven.N		tungku		
 Building:post.N		tiang		
 Building:rafter.N		kasau		
 Building:ridgepole.N		bubungan		
@@ -396,8 +400,10 @@ Clothing:veil.N		cadar		pes:chādar
 Clothing:veil.N		kerudung		ban:kerudung
 Clothing:veil.N		tudung		
 Clothing:weave.V		menenun		
+Cognition:same.A		sama		san:sama
 Cognition:study.V		belajar		san:ācārya
 Cognition:true.A		benar		
+Cognition:wake up.V		bangun		
 Combat:bomb.N		bom		nld:bom
 Combat:fight.V		berkelahi		san:kalaha
 Combat:fight.V		berperang		
@@ -412,6 +418,7 @@ Communication:answer.V		menjawab		arb:jawāb
 Communication:answer.V		menyahut		
 Communication:boast.V		membual		
 Communication:boast.V		menyombongkan diri		
+Communication:book.N		buku		nld:boek
 Communication:call.V		memanggil		
 Communication:deny.V		membantah		
 Communication:deny.V		menyanggah		
@@ -444,6 +451,8 @@ Cosmos:moon.N		candra		san:candra
 Cosmos:moon.N		rembulan		jav:rembulan
 Cosmos:star.N		bintang		
 Cosmos:star.N		kartika		san:kṛttikā
+Degree:more.ADV		lagi		
+Degree:more.ADV		lebih		
 Element:Ag.N		pérak		
 Element:Au.N		kencana		san:kāñcana
 Element:Au.N		mas, emas		san:māṣa
@@ -543,6 +552,8 @@ Family:widower.N		duda		jav:dhudha
 Family:wife.N		bini		
 Family:wife.N		istri		san:strī
 Family:younger sibling.N		adik		
+Food:Camellia sinensis.N		téh		nan:tê
+Food:Coffea.N		kopi		nld:koffie
 Food:Ficus carica.N		(buah) ara		
 Food:Musa acuminata.N		pisang		
 Food:NaCl.N		garam		
@@ -556,23 +567,47 @@ Food:sausage.N		sosis		nld:saucijs
 Food:soup.N		sop, sup		nld:soep
 Food:soup.N		soto		jav:saoto, soto
 Food:supper.N		makan malam		
-Food:tea.N		téh		nan:tê
 Form:bend.V		membéngkokkan		
 Form:bend.V		menekukkan		
-Function:1PL EXCL.PRN		kami		
-Function:1PL INCL.PRN		kita		
-Function:1SG.PRN		aku		
-Function:1SG.PRN		saya		san:sahaya
-Function:2PL.PRN		kalian		min:kalian
-Function:2SG.PRN		kamu		
-Function:2SG.PRN		kau, engkau		
-Function:3PL.PRN		meréka		:marika
-Function:3SG.PRN		beliau		
-Function:3SG.PRN		dia		
-Function:3SG.PRN		ia		
+Function:1PL EXCL.PRO		kami		
+Function:1PL INCL.PRO		kita		
+Function:1SG.PRO		aku		
+Function:1SG.PRO		saya		san:sahaya
+Function:2PL.PRO		kalian		min:kalian
+Function:2SG.PRO		kamu		
+Function:2SG.PRO		kau, engkau		
+Function:3PL.PRO		meréka		:marika
+Function:3SG.PRO		beliau		
+Function:3SG.PRO		dia		
+Function:3SG.PRO		ia		
 Function:and.CNJ		dan		
 Function:and.CNJ		serta		san:sārtha
+Function:here.ADV		sini		
+Function:how many pieces.PRO		berapa		
+Function:how much.PRO		berapa		
+Function:how.PRO		bagaimana		
+Function:if.CNJ		andai		
+Function:if.CNJ		jika		
+Function:if.CNJ		kalau		
+Function:not.PTCL		bukan		
+Function:not.PTCL		tidak		
+Function:nothing.PRO		nihil		:nihil
+Function:nothing.PRO		tidak apa-apa		
 Function:or.CNJ		atau		san:athavā
+Function:other.PRO		lain		
+Function:that.PRO		itu		
+Function:there.ADV		sana		
+Function:there.ADV		situ (1)		
+Function:this.PRO		ini		
+Function:what.PRO		apa		
+Function:when.PRO		bila		san:velā
+Function:when.PRO		kapan		jav:kapan
+Function:where.PRO		(di) mana		
+Function:which.PRO		(yang) mana		
+Function:who.PRO		siapa		
+Function:why.PRO		kenapa		
+Function:why.PRO		mengapa		
+Function:yes.PTCL		ya, iya		
 Grooming:bracelet.N		gelang		
 Grooming:brush.N		sikat		
 Grooming:comb.N		sisir		
@@ -647,7 +682,6 @@ Hunting:boomerang.N		bumerang		:Unidentifiable
 Hunting:hunt.V		berburu		
 Interaction:choose.V		memilih		
 Interaction:rescue.V		menyelamatkan		arb:salāmat-
-Language:book.N		buku		nld:boek
 Law:crime.N		kejahatan		
 Law:crime.N		tindak pidana		
 Mind:dream.V		mimpi		
@@ -728,9 +762,12 @@ Perception:touch.V		mengenai
 Perception:touch.V		menyentuh		
 Perception:touch.V		menyinggung		
 Perception:touch.V		meraba		
+Plant:Ipomoea batatas.N		ubi jalar		
 Plant:branch or twig.N		cabang		
 Plant:branch or twig.N		dahan		
 Plant:branch or twig.N		ranting		
+Plant:flower.N		bunga		
+Plant:flower.N		kembang		jav:kembaŋ
 Plant:leaf.N		daun		
 Plant:needle.N		daun jarum		
 Plant:plant.N		pohon		
@@ -749,6 +786,8 @@ Possession:greedy.A		loba		san:lobha
 Possession:greedy.A		rakus		
 Possession:greedy.A		serakah		arb:saraqah
 Possession:greedy.A		tamak		arb:ṭama‘
+Possession:market.N		pasar		tam:pacār
+Possession:market.N		pekan (2)		
 Possession:poor.A		miskin		arb:miskīn
 Possession:poor.A		papa		san:pāpa
 Possession:price.N		harga		san:argha
@@ -773,8 +812,13 @@ Quantity:6.NUM		enam
 Quantity:7.NUM		tujuh		
 Quantity:8.NUM		delapan		
 Quantity:9.NUM		sembilan		
+Quantity:empty.A		kosong		
+Quantity:enough.ADV		cukup		
+Quantity:full.A		penuh		
+Quantity:many.A		banyak		
 Society:help.V		membantu		
 Society:help.V		menolong		
+Society:people.N		rakyat		arb:ra‘ī yat-
 Sound:be silent.V		diam (1)		
 Sound:flute.N		suling, seruling		
 Sound:howl.V		melolong		

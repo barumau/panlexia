@@ -29,6 +29,7 @@ Animal:Corvus.N		ворона
 Animal:Culicidae.N		комар
 Animal:Diptera.N		муха
 Animal:Elephantidae.N		слон
+Animal:Equus asinus × caballus.N		мул
 Animal:Equus asinus.N		осел
 Animal:Equus ferus caballus.N		лошадь, конь
 Animal:Felis catus.N		кот
@@ -211,6 +212,7 @@ Building:house.N		дом
 Building:hut.N		хижина
 Building:mason.N		каменщик
 Building:mortar binder.N		известковый раствор
+Building:oven.N		печь
 Building:post.N		столб
 Building:rafter.N		стропило, балка
 Building:ridgepole.N		распорка
@@ -274,10 +276,12 @@ Clothing:veil.N		вуаль
 Clothing:weave.V		плести, ткать
 Cognition:study.V		учить, изучать
 Cognition:true.A		настоящий
+Cognition:wake up.V		просыпаться
 Combat:fight.V		драться, сражаться
 Combat:helmet.N		шлем
 Communication:answer.V		отвечать
 Communication:boast.V		хвастаться
+Communication:book.N		книга
 Communication:call.V		вызывать,  звать
 Communication:deny.V		отрицать
 Communication:forbid.V		запрещать
@@ -291,6 +295,7 @@ Communication:tell.V		рассказывать
 Cosmos:Sun.N		солнце
 Cosmos:moon.N		луна
 Cosmos:star.N		звезда
+Degree:more.ADV		больше
 Element:Ag.N		серебро
 Element:Au.N		золото
 Element:Cu.N		медь, бронза
@@ -364,16 +369,27 @@ Food:sausage.N		колбаса, сосиска
 Food:soup.N		суп
 Food:supper.N		(холодный) ужин
 Form:bend.V		сгибать
-Function:1PL EXCL.PRN		мы
-Function:1PL INCL.PRN		мы
-Function:1PL.PRN		мы
-Function:1SG.PRN		я
-Function:2PL.PRN		вы
-Function:2SG.PRN		ты, вы
-Function:3PL.PRN		они
-Function:3SG.PRN		он/она/оно
+Function:1PL EXCL.PRO		мы
+Function:1PL INCL.PRO		мы
+Function:1PL.PRO		мы
+Function:1SG.PRO		я
+Function:2PL.PRO		вы
+Function:2SG.PRO		ты, вы
+Function:3PL.PRO		они
+Function:3SG.PRO		он/она/оно
 Function:and.CNJ		и, а
+Function:how many pieces.PRO		сколько?
+Function:how much.PRO		сколько?
+Function:how.PRO		как?
+Function:if.CNJ		если
 Function:or.CNJ		или
+Function:what.PRO		что?
+Function:when.PRO		когда?
+Function:where.PRO		где? откуда?
+Function:which.PRO		какой?
+Function:who.PRO		кто?
+Function:why.PRO		почему?
+Function:yes.PTCL		да
 Grooming:bracelet.N		браслет
 Grooming:brush.N		щетка
 Grooming:comb.N		гребень, расческа
@@ -416,7 +432,6 @@ House:rug.N		ковер, плед
 Hunting:hunt.V		охотиться
 Interaction:choose.V		выбирать
 Interaction:rescue.V		спасать
-Language:book.N		книга
 Mind:dream.V		видеть сон, мечтать
 Motion:approach.V		приближаться
 Motion:arrive.V		достигать, прибывать
@@ -461,7 +476,9 @@ People:young woman.N		девушка
 Perception:hear.V		слышать
 Perception:touch.V		трогать
 Plant:Betula.N		береза
+Plant:Ipomoea batatas.N		батат
 Plant:branch or twig.N		ветвь,  ветка
+Plant:flower.N		цветок
 Plant:leaf.N		лист
 Plant:plant.N		растение
 Plant:root.N		корень
@@ -472,6 +489,7 @@ Plant:tree trunk.N		ствол дерева
 Plant:tree.N		дерево
 Plant:vine.N		виноградная лоза, ползучее растение
 Possession:greedy.A		жадный
+Possession:market.N		рынок, базар
 Possession:poor.A		бедный
 Possession:price.N		цена
 Possession:rich.A		богатый
@@ -493,7 +511,12 @@ Quantity:6.NUM		шесть
 Quantity:7.NUM		семь
 Quantity:8.NUM		восемь
 Quantity:9.NUM		девять
+Quantity:empty.A		пустой
+Quantity:enough.ADV		достаточно
+Quantity:full.A		полный
+Quantity:many.A		много
 Society:help.V		помочь
+Society:people.N		народ
 Sound:be silent.V		молчать
 Sound:flute.N		флейта
 Sound:howl.V		выть

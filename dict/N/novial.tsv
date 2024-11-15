@@ -103,6 +103,7 @@ Body:kidney.N		rene
 Body:knee.N		genu
 Body:leg.N		gambe
 Body:lip.N		labie
+Body:live.V		viva
 Body:lung.N		lung
 Body:mouth.N		boke
 Body:muscle.N		muskle
@@ -150,6 +151,7 @@ Building:fireplace.N		kamine
 Building:floor.N		planche
 Building:frame.N		frame
 Building:house.N		huse
+Building:oven.N		forne
 Building:pyramid.N		piramide
 Building:roof.N		tekte
 Building:room.N		chambre
@@ -185,12 +187,15 @@ Clothing:veil.N		vele
 Clothing:weave.V		texa
 Cognition:expect.V		expekta
 Cognition:false.A		falsi
+Cognition:same.A		sam(i), identi
 Cognition:true.A		veri
+Cognition:wake up.V		veka
 Combat:fight.V		kombata, lukta
 Combat:helmet.N		helme
 Combat:wrestle.V		lukta
 Communication:accept		alsepta
 Communication:answer.V		respondo
+Communication:book.N		libre
 Communication:call.V		voka
 Communication:deny.V		deskonfirma
 Communication:gesture.V		gesta
@@ -204,6 +209,16 @@ Cosmos:moon.N		lune
 Cosmos:planet.N		planete
 Cosmos:star.N		stele
 Cosmos:universe.N		universe
+Degree:almost.ADV		preske
+Degree:at least.ADV		aminim
+Degree:at most.ADV		amaxim
+Degree:degree.N		gradu
+Degree:least.ADV		minim
+Degree:less.ADV		min
+Degree:little.ADV		pokim
+Degree:more.ADV		plu
+Degree:most.ADV		maxim
+Degree:very.ADV		tre
 Element:Ag.N		arjente
 Element:Au.N		ore
 Element:C.N		karbo
@@ -242,7 +257,10 @@ Family:mother.N		matra
 Family:sister.N		fratra
 Family:son.N		filio
 Family:wife.N		marita
+Food:Camellia sinensis.N		tee
+Food:Coffea.N		kafe
 Food:NaCl.N		sale
+Food:Solanum lycopersicum.N		tomate
 Food:bake.V		baka
 Food:drink.V		drinka
 Food:flour.N		farine
@@ -260,7 +278,6 @@ House:pillow.N		kusene
 House:rug.N		tapisete
 Hunting:hunt.V		chasa
 Interaction:choose.V		selekte
-Language:book.N		libre
 Law:crime.N		krime
 Literature:alphabet.N		alfabete
 Material:brass.N		latone
@@ -295,7 +312,9 @@ Plant:Citrus sinensis.N		oranje
 Plant:Ficus carica.N		fige
 Plant:Gossypium.N		kotone
 Plant:bud.N		burjone
+Plant:flower.N		flore
 Plant:plant.N		plante
+Possession:market.N		merkate
 Possession:poor.A		povri
 Possession:price.N		pretie
 Possession:receive.V		resiva
@@ -315,6 +334,14 @@ Quantity:6.NUM		six
 Quantity:7.NUM		set
 Quantity:8.NUM		ot
 Quantity:9.NUM		nin
+Quantity:empty.A		vakui
+Quantity:full.A		plen(i)
+Quantity:little.A		poki, pokum
+Quantity:many.A		multi, multes
+Quantity:more.A		plu
+Quantity:most.A		maxim
+Quantity:much.A		multi, multum
+Quantity:multiply.V		multisa, multiplika
 Society:help.V		helpa
 Space:apart.ADV		separatim
 Space:back.ADV		retro

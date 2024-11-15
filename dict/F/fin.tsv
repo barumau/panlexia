@@ -163,12 +163,15 @@ Cognition:familiar.A		tuttu	tʊtːʊ
 Cognition:true.A		tosi	tɔsi
 Cognition:truth.N		tosi	tɔsi
 Cognition:truth.N		totuus	tɔtuːs
+Cognition:wake up (tr).V		herättää	hɛrætːæː
+Cognition:wake up.V		herätä	hɛrætæ
 Combat:brawl.V		tapella	tɑpɛlːɑ
 Combat:fight.N		taistelu	tɑi̯stɛlʊ
 Combat:strike (sb).V		lyödä	lyœ̯dæ
 Combat:violence.N		väkivalta	ʋækiʋɑltɑ
 Combat:win.V		voittaa	ʋɔi̯tːɑː
 Communication:boast.V		kerskailla	kɛrskɑi̯lːɑ
+Communication:book.N		kirja	kirjɑ
 Communication:call.V		kutsua	kʊt͡sʊɑ
 Communication:chat.V		jutella	jʊtɛlːɑ
 Communication:convey (a message).V		ilmoittaa	ilmɔi̯tːɑː
@@ -189,6 +192,8 @@ Cosmos:Sun.N		aurinko	ɑwriŋkɔ
 Cosmos:moon.N		kuu	kuː
 Cosmos:set.V		laskea	lɑskɛɑ
 Cosmos:star.N		tähti	tæxti
+Degree:very.ADV		kovin	kɔʋin
+Degree:very.ADV		oikein	ɔi̯kɛi̯n
 Element:Ag.N		hopea	hɔpɛɑ
 Element:Au.N		kulta	kʊltɑ
 Element:Fe.N		rauta	rɑwtɑ
@@ -230,21 +235,39 @@ Family:uncle.N		eno	ɛnɔ
 Family:uncle.N		setä	sɛtæ
 Family:wife.N		aviovaimo	ɑʋiɔʋɑi̯mɔ
 Family:wife.N		vaimo	ʋɑi̯mɔ
+Food:Camellia sinensis.N		tee	tɛː
 Food:Malus domestica.N		omena	ɔmɛnɑ
 Food:NaCl.N		suola	suɔ̯lɑ
 Food:bake.V		leipoa	lɛi̯pɔɑ
 Food:soup.N		keitto	kɛi̯tːɔ
-Food:tea.N		tee	tɛː
 Form:bend (sth).V		taivuttaa	tɑi̯ʋʊtːɑː
 Form:bend.V		taivuttaa	tɑi̯ʋʊtːɑː
-Function:1PL.PRN		me	mɛ
-Function:1SG.PRN		minä	minæ
-Function:2PL.PRN		te	tɛ
-Function:2SG.PRN		sinä	sinæ
-Function:3PL.PRN		he	hɛ
-Function:3SG M.PRN		hän	hæn
+Function:1PL.PRO		me	mɛ
+Function:1SG.PRO		minä	minæ
+Function:2PL.PRO		te	tɛ
+Function:2SG.PRO		sinä	sinæ
+Function:3PL.PRO		he	hɛ
+Function:3SG M.PRO		hän	hæn
 Function:and.CNJ		ja	jɑ
+Function:here.ADV		tässä	tæsːæ
+Function:here.ADV		täällä	tæːlːæ
+Function:how many.PRO		kuinka paljon	kui̯ŋkɑ pɑljɔn
+Function:how many.PRO		paljonko	pɑljɔŋkɔ
+Function:how.PRO		kuinka	kui̯ŋkɑ
+Function:how.PRO		miten	mitɛn
+Function:not.PTCL		ei	ɛi̯
 Function:or.CNJ		tai	tɑi̯
+Function:other.PRO		muu	muː
+Function:other.PRO		toinen	tɔi̯nɛn
+Function:that.PRO		se	sɛ
+Function:there.ADV		siellä	siɛ̯lːæ
+Function:there.ADV		siinä	siːnæ
+Function:this.PRO		tämä	tæmæ
+Function:what.PRO		mikä	mikæ
+Function:where.PRO		missä	misːæ
+Function:who.PRO		ken	kɛn
+Function:who.PRO		kuka	kʊkɑ
+Function:why.PRO		miksi	miksi
 Grooming:comb.N		kampa	kɑmpɑ
 Grooming:comb.V		kammata	kɑmːɑtɑ
 Grooming:decorate.V		kaunistaa	kɑwnistɑː
@@ -273,7 +296,6 @@ Hunting:fishing.V		kalastaa	kɑlɑstɑː
 Hunting:hunt.V		metsästää	mɛt͡sæstæː
 Interaction:choose.V		valita	ʋɑlitɑ
 Interaction:rescue.V		pelastaa	pɛlɑstɑː
-Language:book.N		kirja	kirjɑ
 Mind:dream.N		uni	ʊni
 Motion:arrive.V		saapua	sɑːpʊɑ
 Motion:bring.V		viedä	ʋiɛ̯dæ
@@ -327,6 +349,7 @@ Perception:touch.V		koskea	kɔskɛɑ
 Perception:touch.V		koskettaa	kɔskɛtːɑː
 Plant:Betula.N		koivu	kɔi̯ʋʊ
 Plant:branch.N		oksa	ɔksɑ
+Plant:flower.N		kukka	kʊkːɑ
 Plant:leaf.N		lehti	lɛxti
 Plant:root.N		juuri	juːri
 Plant:seed.N		siemenet	siɛ̯mɛnɛt
@@ -364,10 +387,13 @@ Quantity:90.NUM		yhdeksänkymmentä	ʏxdɛksæŋkʏmːɛntæ
 Quantity:a little.A		vähän	ʋæhæn
 Quantity:add.V		lisätä	lisætæ
 Quantity:decrease.V		vähetä	ʋæhɛtæ
+Quantity:empty.A		tyhjä	tʏhjæ
 Quantity:fill.V		täyttää	tæɥtːæː
+Quantity:full.A		täysi	tæɥsi
 Quantity:increase.V		kasvaa	kɑsʋɑː
 Quantity:increase.V		lisääntyä	lisæːntʏæ
 Society:help.N		apu	ɑpʊ
+Society:people.N		kansa	kɑnsɑ
 Sound:chime.V		soida	sɔi̯dɑ
 Sound:howl.V		ulvoa	ʊlʋɔɑ
 Sound:make noise.V		meluta	mɛlʊtɑ

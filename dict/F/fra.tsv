@@ -30,6 +30,7 @@ Animal:Corvus.N		corbeau
 Animal:Culicidae.N		moustique
 Animal:Diptera.N		mouche
 Animal:Elephantidae.N		éléphant
+Animal:Equus asinus × caballus.N		mulet
 Animal:Equus asinus.N		âne
 Animal:Equus ferus caballus.N		cheval
 Animal:Felis catus.N		chat
@@ -221,6 +222,7 @@ Building:house.N		maison
 Building:hut.N		hutte
 Building:mason.N		maçon
 Building:mortar binder.N		mortier
+Building:oven.N		four
 Building:post.N		poteau, poutre
 Building:rafter.N		poutre
 Building:ridgepole.N		poutre de faïte
@@ -283,13 +285,16 @@ Clothing:towel.N		serviette
 Clothing:trousers.N		pantalon
 Clothing:veil.N		voile
 Clothing:weave.V		tisser
+Cognition:same.A		même
 Cognition:study.V		étudier
 Cognition:true.A		vrai
+Cognition:wake up.V		se réveiller, s'eveiller
 Combat:bomb.N		bombe
 Combat:fight.V		se battre
 Combat:helmet.N		casque
 Communication:answer.V		répondre
 Communication:boast.V		se vanter
+Communication:book.N		livre
 Communication:call.V		appeler, hêler
 Communication:deny.V		nier
 Communication:forbid.V		interdire
@@ -311,6 +316,7 @@ Communication:tell.V		raconter
 Cosmos:Sun.N		soleil
 Cosmos:moon.N		lune
 Cosmos:star.N		étoile
+Degree:more.ADV		plus, encore plus
 Element:Ag.N		argent
 Element:Au.N		or
 Element:Cu.N		cuivre
@@ -379,6 +385,8 @@ Family:wife.N		femme, épouse
 Family:younger brother.N		frère cadet
 Family:younger sibling.N		frêre/sœur cadet(te)
 Family:younger sister.N		soeur cadette
+Food:Camellia sinensis.N		thé
+Food:Coffea.N		café
 Food:Ficus carica.N		figue
 Food:Musa acuminata.N		banane
 Food:NaCl.N		sel
@@ -390,19 +398,36 @@ Food:flour.N		farine
 Food:sausage.N		saucisse
 Food:soup.N		soupe, potage
 Food:supper.N		souper, repas du soir
-Food:tea.N		thé
 Form:bend.V		plier
-Function:1PL EXCL.PRN		nous
-Function:1PL INCL.PRN		nous
-Function:1PL.PRN		nous
-Function:1SG.PRN		je, moi
-Function:2PL.PRN		vous
-Function:2SG.PRN		tu
-Function:3PL.PRN		eux, elles
-Function:3SG M.PRN		il
-Function:3SG.PRN		il/elle
+Function:1PL EXCL.PRO		nous
+Function:1PL INCL.PRO		nous
+Function:1PL.PRO		nous
+Function:1SG.PRO		je, moi
+Function:2PL.PRO		vous
+Function:2SG.PRO		tu
+Function:3PL.PRO		eux, elles
+Function:3SG M.PRO		il
+Function:3SG.PRO		il/elle
 Function:and.CNJ		et
+Function:here.ADV		ici
+Function:how many pieces.PRO		combien?
+Function:how much.PRO		combien?
+Function:how.PRO		comment?
+Function:if.CNJ		si
+Function:not.PTCL		ne... pas
+Function:nothing.PRO		rien
 Function:or.CNJ		ou
+Function:other.PRO		autre
+Function:that.PRO		сe
+Function:there.ADV		là, là-bas
+Function:this.PRO		celui-ci
+Function:what.PRO		quoi?
+Function:when.PRO		quand?
+Function:where.PRO		où?
+Function:which.PRO		quel? lequel?
+Function:who.PRO		qui?
+Function:why.PRO		pourquoi?
+Function:yes.PTCL		oui
 Grooming:bracelet.N		bracelet
 Grooming:brush.N		brosse
 Grooming:comb.N		peigne
@@ -458,7 +483,6 @@ Hunting:boomerang.N		boomerang
 Hunting:hunt.V		chasser
 Interaction:choose.V		choisir
 Interaction:rescue.V		sauver
-Language:book.N		livre
 Law:crime.N		crime, délit
 Mind:dream.V		rêver
 Motion:approach.V		approcher
@@ -510,7 +534,9 @@ Perception:touch.V		toucher
 Plant:Beta vulgaris saccharifera.N		betterave
 Plant:Betula.N		bouleau
 Plant:Ficus carica.N		figuier
+Plant:Ipomoea batatas.N		patate douce
 Plant:branch or twig.N		branche,rameau
+Plant:flower.N		fleur
 Plant:leaf.N		feuille
 Plant:needle.N		spicule
 Plant:plant.N		plante
@@ -522,6 +548,7 @@ Plant:tree trunk.N		tronc d'arbre
 Plant:tree.N		arbre
 Plant:vine.N		vigne
 Possession:greedy.A		gourmand
+Possession:market.N		marché
 Possession:poor.A		pauvre
 Possession:price.N		prix
 Possession:rich.A		riche
@@ -544,7 +571,12 @@ Quantity:6.NUM		six
 Quantity:7.NUM		sept
 Quantity:8.NUM		huit
 Quantity:9.NUM		neuf
+Quantity:empty.A		vide
+Quantity:enough.ADV		assez
+Quantity:full.A		plein, rempli
+Quantity:many.A		beaucoup
 Society:help.V		aider
+Society:people.N		gens
 Sound:be silent.V		se taire
 Sound:flute.N		flûte
 Sound:howl.V		hurler

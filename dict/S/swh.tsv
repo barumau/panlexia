@@ -32,6 +32,7 @@ Animal:Culicidae.N		mbu
 Animal:Diptera.N		nzi		
 Animal:Elephantidae.N		ndovu		
 Animal:Elephantidae.N		tembo		
+Animal:Equus asinus × caballus.N		baghala		arb:baġl, fem. baġla(t)
 Animal:Equus asinus.N		punda		
 Animal:Equus ferus caballus.N		farasi		arb:faras
 Animal:Felis catus.N		paka		
@@ -266,6 +267,8 @@ Building:hut.N		kibanda
 Building:mason.N		mwashi		
 Building:mortar binder.N		chokaa		
 Building:mortar binder.N		mota (2)		eng:mortar
+Building:oven.N		kiokeo		
+Building:oven.N		oveni		eng:oven
 Building:post.N		mhimili		
 Building:post.N		mwimo		
 Building:post.N		nguzo		
@@ -346,8 +349,10 @@ Clothing:veil.N		shela		tam:Unidentifiable
 Clothing:veil.N		sitara, stara		arb:sitāra
 Clothing:veil.N		ukaya		
 Clothing:weave.V		-fuma		
+Cognition:same.A		yule yule		
 Cognition:study.V		-soma		
 Cognition:true.A		kweli		
+Cognition:wake up.V		-amka		
 Combat:bomb.N		bomu		eng:bomb
 Combat:fight.V		-pigana		
 Combat:helmet.N		helmeti		eng:helmet
@@ -355,6 +360,7 @@ Communication:answer.V		-jibu		arb:ğāba (II)
 Communication:boast.V		-jigamba		ksb:-ɣamba
 Communication:boast.V		-jiona		
 Communication:boast.V		-jisifu		
+Communication:book.N		kitabu		arb:kitāb
 Communication:call.V		-ita		
 Communication:deny.V		-kana		
 Communication:forbid.V		-kataza		
@@ -378,6 +384,7 @@ Communication:tell.V		-simulia
 Cosmos:Sun.N		jua		
 Cosmos:moon.N		mwezi		
 Cosmos:star.N		nyota		
+Degree:more.ADV		zaidi		arb:zāˀid
 Element:Ag.N		fedha		arb:fiḍḍa
 Element:Au.N		dhahabu		arb:ḏahab
 Element:Cu.N		shaba		arb:šabah
@@ -481,6 +488,8 @@ Family:younger sibling.N		mdogo
 Family:younger sibling.N		ndugu		
 Family:younger sister.N		mdogo		
 Family:younger sister.N		ndugu		
+Food:Camellia sinensis.N		chai		arb:s̆āy
+Food:Coffea.N		kahawa		arb:qahwa(t)
 Food:Ficus carica.N		tini		arb:tīn
 Food:Musa acuminata.N		ndizi		
 Food:NaCl.N		chumvi		
@@ -493,20 +502,44 @@ Food:flour.N		unga
 Food:sausage.N		soseji		eng:sausage
 Food:soup.N		supu		eng:soup
 Food:supper.N		chakula cha usiku		
-Food:tea.N		chai		arb:s̆āy
 Form:bend.V		-pinda		
-Function:1PL EXCL.PRN		sisi		
-Function:1PL INCL.PRN		sisi		
-Function:1PL.PRN		sisi		
-Function:1SG.PRN		mimi		
-Function:2PL.PRN		nyinyi, ninyi		
-Function:2SG.PRN		wewe		
-Function:3PL.PRN		wao		
-Function:3SG INAN.PRN		yeye		
-Function:3SG M.PRN		yeye		
-Function:3SG.PRN		yeye		
+Function:1PL EXCL.PRO		sisi		
+Function:1PL INCL.PRO		sisi		
+Function:1PL.PRO		sisi		
+Function:1SG.PRO		mimi		
+Function:2PL.PRO		nyinyi, ninyi		
+Function:2SG.PRO		wewe		
+Function:3PL.PRO		wao		
+Function:3SG INAN.PRO		yeye		
+Function:3SG M.PRO		yeye		
+Function:3SG.PRO		yeye		
 Function:and.CNJ		na		
+Function:here.ADV		hapa		
+Function:how many pieces.PRO		-ngapi		
+Function:how much.PRO		-ngapi		
+Function:how.PRO		-je		
+Function:how.PRO		vipi		
+Function:if.CNJ		-ki-		
+Function:if.CNJ		-nge-, -ngali-		
+Function:if.CNJ		ikiwa		
+Function:if.CNJ		iwapo		
+Function:if.CNJ		kama		arb:kamā
+Function:not.PTCL		-si-		
+Function:not.PTCL		ha-		
+Function:not.PTCL		si		
 Function:or.CNJ		au		arb:ˀau
+Function:other.PRO		-ingine		
+Function:that.PRO		yule		
+Function:there.ADV		kule		
+Function:this.PRO		huyu		
+Function:what.PRO		nini		
+Function:when.PRO		lini		
+Function:where.PRO		wapi		
+Function:which.PRO		-pi		
+Function:who.PRO		nani		
+Function:why.PRO		(kwa) sababu gani		
+Function:why.PRO		kwa nini		
+Function:yes.PTCL		ndiyo		
 Grooming:bracelet.N		bangili, bangiri		hin:bangli
 Grooming:brush.N		burashi, brashi		eng:brush
 Grooming:comb.N		chanuo		
@@ -580,7 +613,6 @@ Hunting:boomerang.N		bumarengi		eng:boomerang
 Hunting:hunt.V		-winda		
 Interaction:choose.V		-chagua		
 Interaction:rescue.V		-okoa		
-Language:book.N		kitabu		arb:kitāb
 Law:commit a crime.V		-halifu		arb:ḫālafa (III)
 Law:crime.N		jinai		arb:ğināya(t); ğināˀī
 Law:crime.N		uhalifu		
@@ -647,7 +679,10 @@ People:young woman.N		msichana
 Perception:hear.V		-sikia		
 Perception:touch.V		-gusa		
 Plant:Betula.N		mbetula		:betula
+Plant:Ipomoea batatas.N		kiazi		zsm:kəladi
+Plant:Ipomoea batatas.N		kiazi kitamu		
 Plant:branch or twig.N		tawi		
+Plant:flower.N		ua (2)		
 Plant:leaf.N		jani		
 Plant:needle.N		jani		
 Plant:plant.N		mmea		
@@ -660,6 +695,7 @@ Plant:tree.N		mti
 Plant:vine.N		mzabibu		
 Possession:exchange.V		-badili		arb:badala (u)
 Possession:greedy.A		uroho		
+Possession:market.N		soko		arb:sūq
 Possession:poor.A		maskini		arb:miskīn
 Possession:possessions.N		mali		arb:māl
 Possession:price.N		bei		arb:baiˁ
@@ -683,7 +719,12 @@ Quantity:6.NUM		sita		arb:sitta(t)
 Quantity:7.NUM		saba		arb:sabˁa(t)
 Quantity:8.NUM		-nane		
 Quantity:9.NUM		tisa		arb:tisˁa(t)
+Quantity:empty.A		-tupu		
+Quantity:enough.ADV		-tosha		
+Quantity:full.A		-jaa		
+Quantity:many.A		-ingi		
 Society:help.V		-saidia		arb:sāˁada (III)
+Society:people.N		mwananchi		
 Sound:be silent.V		-nyamaa		
 Sound:flute.N		filimbi		
 Sound:howl.V		-lia (1) (mlio mkali)		
