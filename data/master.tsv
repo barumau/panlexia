@@ -2964,7 +2964,7 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Combat/Hunting:blowgun.N	A pipe or tube through which darts or other missiles are blown by the breath.	432			
 	Combat/Hunting:booty.N	Profits from burglary, looting and raids.	1022	20-48		
 	Combat/Hunting:bow or crossbow.N	A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows, or a weapon based on it, consisting of a bow mounted on a stock.	3228			
-	Combat/Hunting:bow.N	A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows.	994	20-24	Bogen[Waffe]::N	
+Hunting:bow.N	Combat/Hunting:bow.N	A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows.	994	20-24	Bogen[Waffe]::N	1213
 	Combat/Hunting:bullet.N	A projectile, usually of metal, shot from a gun at high speed.	1114			
 	Combat/Hunting:cannon or gun.N	A bullet-firing weapon mounted on a carriage or to be held in the hands or arms.	3203			
 	Combat/Hunting:cannon.N	A bullet firing weapon mounted on a carriage.	3202			
@@ -5449,7 +5449,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Tool:bar.N	bar, rod				1237
 	Tool:blade.N	blade				1201
 	Tool:bomb.N	bomb				1214
-	Tool:bow.N	bow (for arrows)				1213
 	Tool:broom.N	broom				1243
 	Tool:bullet.N	bullet				1216
 	Tool:button.N	button (on a shirt etc.)				1246
