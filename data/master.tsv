@@ -966,6 +966,7 @@ Flower:Prunus salicina.N	Agriculture/Plant:plum blossom.N	The flower of the Chin
 Food:alcohol.N	Food:alcohol (drink).N	A drink (a liquor or brew) containing ethanol, commonly known as alcohol.	2050			
 Food:bake.V	Food:bake.V	To cook (something) in an oven, but not in fat, or harden by means of dry heat.	183	5-24	backen::V	3493
 Food:barbecue.V		To cook food on a grill traditionally employing hot charcoal as the heating medium.		9-99928		
+Food:bread.N	Food:bread.N	A common food made mainly from flour, water and yeast and produced by kneading and baking a dough.	1368	5-51	Brot::N	3415
 Food:cake.N	Modernity:cake.N	Cake is a form of sweet dessert that is typically baked.	2408			
 Food:Camellia sinensis.N	Food:tea.N	tea (beverage made from leaves of plant sp. Camellia sinensis)	1373	23-9	Tee::N	3477
 Food:candy.N	Modernity:candy.N	Food item that is rich in sugar.	874	23-565		
@@ -1199,9 +1200,11 @@ House:mattress.N	Modernity:mattress.N	A pad on which a person can recline and sl
 House:pillow.N	House:pillow.N	Cushion placed under the head for sleeping.	1044	7-421	Kissen::N	1343
 House:rug.N	Action/Technology:rug.N	A piece of thick cloth or wool that is smaller than a carpet and is put on the floor as decoration.	292	9-771		1487
 House:sink.N	Modernity:sink (basin).N	A bowl for washing hands, dishwashing or other purposes, often affixed to a wall.	915	23-51		
+House:table.N	House:table.N	A piece of furniture that generally consists of a hard, flat, horizontal surface, which is elevated and stabilised by 3 or more legs (usually 4).	1775	7-44	Tisch::N	1346
 House:toilet.N	Modernity:toilet.N	A room equipped with a toilet for urinating and defecating.	219	23-52		
 Hunting:boomerang.N	Action/Technology:boomerang.N	A tool with a curved shape used as a weapon or for sport which returns when thrown into the air.	135	9-87		
 Hunting:bow string.N	Action/Technology:bow string.N	The string of a bow used to hunt.	2119			
+Hunting:bow.N	Combat/Hunting:bow.N	A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows.	994	20-24	Bogen[Waffe]::N	1213
 Hunting:fishing.V	Action/Technology:fishing.V	To hunt for fishes (general expression).	2638	20-99908	fischen::V	
 Hunting:game.N		Wild animal hunted for food.		20-99904		
 Hunting:harpoon.N		A spearlike weapon with a barbed head used in hunting whales and large fish.		9-99911		
@@ -2964,7 +2967,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Combat/Hunting:blowgun.N	A pipe or tube through which darts or other missiles are blown by the breath.	432			
 	Combat/Hunting:booty.N	Profits from burglary, looting and raids.	1022	20-48		
 	Combat/Hunting:bow or crossbow.N	A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows, or a weapon based on it, consisting of a bow mounted on a stock.	3228			
-Hunting:bow.N	Combat/Hunting:bow.N	A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows.	994	20-24	Bogen[Waffe]::N	1213
 	Combat/Hunting:bullet.N	A projectile, usually of metal, shot from a gun at high speed.	1114			
 	Combat/Hunting:cannon or gun.N	A bullet-firing weapon mounted on a carriage or to be held in the hands or arms.	3203			
 	Combat/Hunting:cannon.N	A bullet firing weapon mounted on a carriage.	3202			
@@ -3410,7 +3412,6 @@ Hunting:bow.N	Combat/Hunting:bow.N	A weapon made of a curved piece of wood or ot
 	Food:boiled water.N	Water that was boiled and is still hot.	3362			
 	Food:bowl.N	A roughly hemispherical container used to hold, mix or present food, such as salad, fruit or soup, or other items.	1530	5-33		1304
 	Food:braise (verb).V	A method of cooking using steam that avoids overcooking or burning food.	2068			
-Food:bread.N	Food:bread.N	A common food made mainly from flour, water and yeast and produced by kneading and baking a dough.	1368	5-51	Brot::N	3415
 	Food:breadfruit.N	A species of flowering tree in the mulberry family, Moraceae originating in the South Pacific and that was eventually spread to the rest of Oceania.	2371			
 	Food:breakfast.N	breakfast				3485
 	Food:breakfast.N	The first meal of the day, usually eaten in the morning.	1322	5-42		
@@ -3859,7 +3860,6 @@ Food:bread.N	Food:bread.N	A common food made mainly from flour, water and yeast 
 	House:sofa.N	Piece of furniture usually stuffed and used for seating two or more persons.	3099			
 	House:stool.N	A chair without back and arm rests.	2058			
 	House:stove.N	A chamber within which a fuel-air mixture is burned to provide heat, the heat itself being radiated outward from the chamber; used for space heating, process-fluid heating, and steel blast furnaces.	859	7-32	Ofen::N	
-House:table.N	House:table.N	A piece of furniture that generally consists of a hard, flat, horizontal surface, which is elevated and stabilised by 3 or more legs (usually 4).	1775	7-44	Tisch::N	1346
 	House:tan.V	To treat skins and hides with tannic acid so as to convert them into leather.	247	7-67		
 	House:torch.N	A stick with a flame on one end used as a light source.	1919			
 	House:tray.N	tray (shallow rectangular dish)				1316
