@@ -96,6 +96,7 @@ Animal:Ursidae.N	Animal:bear.N	A large beast of prey of the family Ursidae, rela
 Animal:Vespinae.N	Animal:wasp.N	A flying stinging insect related to the bee, which is usually coloured yellow and black.	1517	3-823		
 Animal:Vulpes.N	Animal:fox.N	A carnivorous relatively small canine of the species Vulpes Vulpes.	1312	3-74	Fuchs::N	964
 Animal:wool.N	Clothing/Grooming:wool.N	The soft, curly hair that forms the fleece of sheep, lamas and other animals and which is used to produce clothing.	964	6-22	Wolle::N	1403
+Animal:zebra.N	Animal:zebra.N	Any of several species of genus Equus with distinctive black-and-white striped coats, native to Africa.	3675			
 Art:sculptor.N	Action/Technology:sculptor.N	A person who practices the art of sculpture.	914	9-82		
 Art:statue.N	Action/Technology:statue.N	A three-dimension work of art, usually of a person or animal, usually created by sculpting, carving, moulding, or casting.	1002	9-83		
 Atmosphere:climate.N	Nature:climate.N	Climate is the long-term pattern of weather in a particular area.	2426			
@@ -1005,6 +1006,7 @@ Food:soup.N	Food:soup.N	A cooked, liquid dish (made from meat or vegetables that
 Food:supper.N	Food:supper.N	The last meal of the evening.		5-45		3489
 Form:bend (sth).V	Action/Technology:bend (something).V	To carry out a movement to turn something into a curved shape.	2224		biegen::V	
 Form:bend.V	Action/Technology:bend.V	Movement that causes the formation of a curve.	2004	9-14	beugen::V	
+Form:triangle.N	Form:triangle.N	A triangle is a polygon with three corners and three sides, one of the basic shapes in geometry				3526
 Function:1DU EXCL.PRO	Family:we two (exclusive).?	Exclusive dual of the first person: I and exactly one other person, but not the addressed person (you).	2636			
 Function:1DU INCL.PRO	Family:we two (inclusive).?	Inclusive dual of the first person: I and exactly one other person, including the addressed person (you).	2637	24-99914		
 Function:1DU.PRO	Family:we two.?	The speaker and exactly one other person.	2634			
@@ -1361,6 +1363,8 @@ Perception:hear.V	Perception:hear.V	To perceive sound with the ear, without nece
 Perception:pain.N	Emotion:pain.N	An unpleasant, usually localised physical sensation that is often the result of an injury, disease or other ailment.	1783	16-31	Schmerz::N	881
 Perception:painful.A	Perception:painful.A	Full of pain; causing uneasiness or distress, either physical or mental.	1129			
 Perception:touch.V	Perception:touch.V	To put one's hand on something/someone so that one can feel them. To be in physical contact with.	1892	15-71	berühren::V	750
+Perception:wet.A	Perception:wet.A	Covered with or impregnated with liquid.	1726	15-83	nass::A	3620
+Perception:yellow.A	Perception:yellow.A	Having the colour of a yolk, a lemon or gold.	1424	15-69	gelb::A	839
 Plant:Adesmia campestris.N		The mamuelchoique, a kind of shrub of species Adesmia campestris.		8-99929		
 Plant:Aglaia odorata.N		A shrub or small tree in the mahogany family, from south China and Indo-China, grown ornamentally for the handsome leaves and fragrant flowers, which are tiny, round, and yellow; clusters of them are used for leis.		8-99912		
 Plant:Ananas comosus.N	Agriculture/Plant:pineapple.N	A tropical plant with edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.	2440	8-99939		
@@ -1743,6 +1747,8 @@ Time:wait.V	Motion:wait (for).V	To refrain from acting or moving for some durati
 Time:winter.N	Time:winter.N	Traditionally, the fourth of the seasons, marked by the applicable hemisphere of the planet being at its minimum angle of exposure to the Sun, resulting in short days, long nights and typically in low temperatures.	1471	14-74	Winter::N	3273
 Time:year.N	Time:year.N	The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	1226	14-73	Jahr::N	3278
 Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::ADV	3265
+Tool:spoon.N	Food:spoon.N	An implement for eating or serving, a small bowl with a long straight handle.	1378	5-37	Löffel::N	1230
+Tool:telescope.N	Tool:telescope.N	A telescope is a device used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation				1262
 Transit:airplane.N	Modernity:airplane.N	A powered heavier-than-air aircraft with fixed wings that obtains lift by the Bernoulli effect and is used for transportation.	1597	23-16		3102
 Transit:anchor.N	Motion:anchor.N	Something, usually a heavy piece of metal with points which dig into the sea-bed, used to hold a boat in one position.	1870	10-89		
 Transit:bicycle.N	Modernity:bicycle.N	A vehicle with two wheels in tandem, pedals connected to the rear wheel by a chain, handlebars for steering, and a saddlelike seat.	747	23-13		3110
@@ -2574,7 +2580,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Animal:yellow croaker.N	A species of croaker native to the western Pacific, generally in temperate waters such as the East China Sea and the Yellow Sea.	2347			
 	Animal:young animal.N	Like a puppy of a dog, a general term for naming younger animals.	3254			
 	Animal:young goat (kid).N	A young goat.	1972	3-38		
-Animal:zebra.N	Animal:zebra.N	Any of several species of genus Equus with distinctive black-and-white striped coats, native to Africa.	3675			
 	Art:actor.N	actor				2345
 	Art:animated cartoon.N	animated cartoon				2352
 	Art:art.N	art (creative craft; productive use of talent)				2310
@@ -3597,7 +3602,6 @@ Animal:zebra.N	Animal:zebra.N	Any of several species of genus Equus with distinc
 	Food:spicy.A	Of, pertaining to, or containing spice; or spicy flavour: Provoking a burning sensation due to the presence of chillies or similar hot spices.	544			
 	Food:spinach.N	An important leaf vegetable, grown throughout the temperate regions of the world.	975			
 	Food:spoil (become spoiled).V	Of food, to become bad, sour or rancid; to decay.	569		faulen::V	
-Tool:spoon.N	Food:spoon.N	An implement for eating or serving, a small bowl with a long straight handle.	1378	5-37	Löffel::N	1230
 	Food:steam (verb).V	A method of cooking using steam.	2067			
 	Food:stir fry.V	Stir frying (Chinese: 炒; pinyin: chǎo) is a Chinese cooking technique in which ingredients are fried in a small amount of very hot oil while being stirred in a wok.	2162			
 	Food:stir.V	To stir two or more substances together.	696		umrühren::V	
@@ -3693,7 +3697,6 @@ Tool:spoon.N	Food:spoon.N	An implement for eating or serving, a small bowl with 
 	Form:swelling.N	swelling, inflation				3572
 	Form:tapered.A	tapered (becoming narrower toward an end) 				3570
 	Form:torus.N	torus, ring (any 3D object shaped like a ring)				3519
-Form:triangle.N	Form:triangle.N	A triangle is a polygon with three corners and three sides, one of the basic shapes in geometry				3526
 	Form:vacuum.N	vacuum				3505
 	Form:vapor.N	vapor, mist				3587
 	Form:wave.N	wave				3585
@@ -4727,11 +4730,9 @@ Form:triangle.N	Form:triangle.N	A triangle is a polygon with three corners and t
 	Perception:warm.A	Having a temperature slightly higher than usual, still pleasant.	1232	15-851	warm::A	
 	Perception:warm.A	warm 				894
 	Perception:weight.N	The amount a thing weighs.	2466		Gewicht::N	
-Perception:wet.A	Perception:wet.A	Covered with or impregnated with liquid.	1726	15-83	nass::A	3620
 	Perception:white.A	Bright and colourless; reflecting equal quantities of all frequencies of visible light.	1335	15-64	weiß::A	
 	Perception:white.A	white 				833
 	Perception:wrinkled.A	Uneven, with many furrows and prominent points, often in reference to the skin or hide of animals.	380	15-89		
-Perception:yellow.A	Perception:yellow.A	Having the colour of a yolk, a lemon or gold.	1424	15-69	gelb::A	839
 	Plant:apple.N	apple (tree/fruit of genus Malus)				1030
 	Plant:bamboo.N	bamboo (plant/stem of genera Bambusa / Arundinaria / Dendrocalamus)				1040
 	Plant:banana.N	banana (plant/fruit of genus Musa)				1031
@@ -5500,7 +5501,6 @@ Perception:yellow.A	Perception:yellow.A	Having the colour of a yolk, a lemon or 
 	Tool:strap.N	strap				1251
 	Tool:sword.N	sword				1210
 	Tool:syringe.N	syringe				1271
-Tool:telescope.N	Tool:telescope.N	A telescope is a device used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation				1262
 	Tool:tongs.N	tongs				1231
 	Tool:tool.N	tool, utensil, implement				1200
 	Tool:trap.N	trap				1223
