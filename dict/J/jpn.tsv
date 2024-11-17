@@ -199,6 +199,7 @@ Body:head.N		頭	atama
 Body:heart.N		心	kokoro	
 Body:heart.N		心臓	shinzō	cmn:xīnzàng
 Body:heel.N		踵	kakato	
+Body:hiccup.V		噦	shakkuri	
 Body:hip.N		尻	shiri	
 Body:hip.N		臀部	denbu	cmn:túnbù 臀部
 Body:horn.N		角	tsuno	
@@ -422,7 +423,6 @@ Communication:kiss.V		キス	kisu	eng:kiss
 Communication:kiss.V		口付け	kuchizuke	
 Communication:language.N		言葉	kotoba	
 Communication:language.N		言語	gengo	cmn:yányŭ
-Communication:laugh.V		笑う	warau	
 Communication:letter.N		手紙	tegami	
 Communication:lie.V		嘘を吐く	uso o tsuku	
 Communication:mail.N		郵便	yūbin	
@@ -554,6 +554,7 @@ Food:Ficus carica.N		イチジク・無花果・映日果	ichijiku	pes:anjir
 Food:Musa acuminata.N		バナナ　（obsolete kanji 実芭蕉）	banana	spa:banana
 Food:NaCl.N		塩 (salt); 潮、汐 (tide)	shio	cmn:śĭəp　溼
 Food:bake.V		焼く	yaku	
+Food:bread.N		パン	pan	por:pão
 Food:candy.N		キャンデー	kyandē	arb:ķand
 Food:candy.N		菓子、果子	kashi (1)	cmn:guǒzi
 Food:candy.N		飴	ame (2)	
@@ -683,11 +684,15 @@ House:pillow.N		枕	makura
 House:rug.N		カーペット	kāpetto	ita:carpita
 House:rug.N		絨毯	jūtan	cmn:róngtăn
 House:sink.N		洗面器	senmenki	
+House:table.N		テーブル	tēburu	:tabula
+House:table.N		卓	taku	cmn:zhuō
+House:table.N		机	tsukue	
 House:toilet.N		トイレ	toire	:tēla
 House:toilet.N		便所	benjo	
 House:toilet.N		化粧室	keshōshitsu	cmn:huàzhàngshì
 House:toilet.N		御手洗	otearai	
 Hunting:boomerang.N		ブーメラン	būmeran	:bumariny
+Hunting:bow.N		弓	yumi	
 Hunting:hunt.V		狩る	karu (2)	
 Interaction:choose.V		選ぶ	erabu	
 Interaction:choose.V		選択	sentaku (2)	cmn:xuănzé
@@ -849,6 +854,7 @@ Sound:be silent.V		黙る	damaru
 Sound:flute.N		フルート	furūto	:*flabeolum
 Sound:flute.N		笛	fue	
 Sound:howl.V		吼える・吠える・咆える	hoeru	
+Sound:laugh.V		笑う	warau	
 Sound:rattle.N		ガラガラ	garagara	
 Sound:shout.V		叫ぶ	sakebu	
 Sound:shout.V		怒鳴る (first character probably ateji)	donaru	

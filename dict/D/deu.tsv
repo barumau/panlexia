@@ -147,6 +147,7 @@ Body:head hair.N		Haar
 Body:head.N		Kopf
 Body:heart.N		Herz
 Body:heel.N		Ferse
+Body:hiccup.V		Schluckauf haben
 Body:hip.N		Hüfte
 Body:horn.N		Horn
 Body:intestines.N		Eingeweide
@@ -300,7 +301,6 @@ Communication:forbid.V		verbieten, untersagen
 Communication:forgive.V		verzeihen, vergeben
 Communication:kiss.V		küssen
 Communication:language.N		Sprache
-Communication:laugh.V		lachen
 Communication:letter.N		Brief
 Communication:lie.V		lügen
 Communication:mail.N		Post
@@ -390,6 +390,7 @@ Food:Ficus carica.N		Feige
 Food:Musa acuminata.N		Banane
 Food:NaCl.N		Salz
 Food:bake.V		backen
+Food:bread.N		Brot
 Food:candy.N		Süßigkeiten
 Food:dinner.N		Hauptmahlzeit
 Food:fermented alcohol.N		vergorenes Getränk
@@ -478,8 +479,10 @@ House:mattress.N		Matratze
 House:pillow.N		Kissen
 House:rug.N		Teppich
 House:sink.N		Spüle, Ausguss, Waschbecken
+House:table.N		Tisch
 House:toilet.N		Toilette
 Hunting:boomerang.N		Bumerang
+Hunting:bow.N		Bogen
 Hunting:hunt.V		jagen
 Interaction:choose.V		wählen, auswählen
 Interaction:rescue.V		retten
@@ -579,6 +582,7 @@ Society:people.N		Bevölkerung, Volk
 Sound:be silent.V		schweigen
 Sound:flute.N		Flöte
 Sound:howl.V		heulen
+Sound:laugh.V		lachen
 Sound:rattle.N		Rassel
 Sound:shout.V		schreien, rufen
 Sound:shriek.V		kreischen, schreien

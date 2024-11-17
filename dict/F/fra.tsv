@@ -148,6 +148,7 @@ Body:head hair.N		cheveu
 Body:head.N		tête
 Body:heart.N		coeur
 Body:heel.N		talon
+Body:hiccup.V		hoqueter
 Body:hip.N		hanche
 Body:horn.N		corne
 Body:intestines.N		intestins, boyaux
@@ -301,7 +302,6 @@ Communication:forbid.V		interdire
 Communication:forgive.V		pardonner
 Communication:kiss.V		baiser,embrasser
 Communication:language.N		langue, langage
-Communication:laugh.V		rire
 Communication:letter.N		lettre
 Communication:lie.V		mentir
 Communication:mail.N		courrier, poste
@@ -391,6 +391,7 @@ Food:Ficus carica.N		figue
 Food:Musa acuminata.N		banane
 Food:NaCl.N		sel
 Food:bake.V		cuire au four
+Food:bread.N		pain
 Food:candy.N		confiserie, sucrerie, bonbon
 Food:dinner.N		dîner
 Food:fermented alcohol.N		boisson fermentée
@@ -478,8 +479,10 @@ House:mattress.N		matelas
 House:pillow.N		oreiller
 House:rug.N		tapis
 House:sink.N		évier, lavabo
+House:table.N		table
 House:toilet.N		toilette
 Hunting:boomerang.N		boomerang
+Hunting:bow.N		arc
 Hunting:hunt.V		chasser
 Interaction:choose.V		choisir
 Interaction:rescue.V		sauver
@@ -580,6 +583,7 @@ Society:people.N		gens
 Sound:be silent.V		se taire
 Sound:flute.N		flûte
 Sound:howl.V		hurler
+Sound:laugh.V		rire
 Sound:rattle.N		hochet, maracas
 Sound:shout.V		crier
 Sound:shriek.V		crier, hurler

@@ -184,6 +184,8 @@ Body:head hair.N		ismal
 Body:head.N		jolom		
 Body:heart.N		ch'ool		
 Body:heel.N		rit oq		
+Body:hiccup.V		chuq'ub'ak		
+Body:hiccup.V		k'ehok chuq'ub'		
 Body:hip.N		k’onx a’		
 Body:horn.N		xukub'		:*xukub’
 Body:intestines.N		k'amk'ot		
@@ -375,7 +377,6 @@ Communication:deny.V		jalmuqank, jalmuqink
 Communication:forgive.V		kuyuk maak		
 Communication:kiss.V		tz'ub'uk		
 Communication:language.N		aatinob'aal		
-Communication:laugh.V		se'ek		
 Communication:letter.N		hu		
 Communication:lie.V		b'alaq'ik		
 Communication:lie.V		pak'ok aatin		
@@ -491,6 +492,7 @@ Food:Coffea.N		kape		spa:café
 Food:Ficus carica.N		igo		spa:higo
 Food:Musa acuminata.N		tul		
 Food:NaCl.N		atz'am		
+Food:bread.N		kaxlan wa		
 Food:candy.N		kab'		
 Food:dinner.N		wa		
 Food:fermented alcohol.N		ani (2)		
@@ -604,8 +606,11 @@ House:mattress.N		ru ch’aat
 House:pillow.N		sok jolomej		
 House:rug.N		alfombra		spa:alfombra
 House:sink.N		ch’ajleb’		
+House:table.N		meex		spa:mesa
 House:toilet.N		k’oteb’aal		
 House:toilet.N		tz’eqleb’aal		
+Hunting:bow.N		simaj		
+Hunting:bow.N		tzimaj		
 Hunting:hunt.V		yohob'k		
 Interaction:choose.V		molok		
 Interaction:choose.V		sik'ok u		
@@ -744,6 +749,7 @@ Society:people.N		tenamitil
 Sound:be silent.V		kulku		
 Sound:flute.N		xolb'		:xool
 Sound:howl.V		oq'lok		
+Sound:laugh.V		se'ek		
 Sound:rattle.N		luk'luk' che'		
 Sound:shout.V		chajok e		
 Sound:shout.V		q'ichok e		

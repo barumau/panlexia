@@ -182,6 +182,7 @@ Body:head hair.N		włos
 Body:head.N		głowa		
 Body:heart.N		wutšoba		
 Body:heel.N		pěta		
+Body:hiccup.V		hykaś		
 Body:hip.N		kłud		
 Body:horn.N		rog (1)		
 Body:intestines.N		crjowa		
@@ -365,7 +366,6 @@ Communication:forbid.V		zakazaś
 Communication:forgive.V		wódaś		
 Communication:kiss.V		póškaś		
 Communication:language.N		rěc		
-Communication:laugh.V		smjaś se		
 Communication:letter.N		list		
 Communication:lie.V		łdgaś		
 Communication:mail.N		post		deu:Post
@@ -495,6 +495,7 @@ Food:Ficus carica.N		figa		goh:figa
 Food:Musa acuminata.N		banana		deu:Banane
 Food:NaCl.N		sol		
 Food:bake.V		pjac (1)		
+Food:bread.N		klěb		:*hlaiba-
 Food:candy.N		słodkosć		
 Food:flour.N		muka		
 Food:sausage.N		jěšnica		
@@ -605,9 +606,11 @@ House:rug.N		tepich		deu:Teppich
 House:sink.N		myjnica		
 House:sink.N		myśowa škla		
 House:sink.N		wašbeken		deu:Waschbecken
+House:table.N		blido		got:buidis
 House:toilet.N		aptryt		deu:Abtritt
 House:toilet.N		toaleta		deu:Toilette
 Hunting:boomerang.N		bumerang		deu:Bumerang
+Hunting:bow.N		pšužyna		
 Hunting:hunt.V		góńtwowaś		
 Interaction:choose.V		wubraś		
 Interaction:rescue.V		wumožyś		
@@ -727,6 +730,7 @@ Society:people.N		lud
 Sound:be silent.V		mjelcaś		
 Sound:flute.N		flejta		deu:fleete
 Sound:howl.V		wuś		
+Sound:laugh.V		smjaś se		
 Sound:rattle.N		šćerkotawa		
 Sound:shout.V		drěś se		
 Sound:shout.V		wołaś		

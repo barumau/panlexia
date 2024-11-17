@@ -67,6 +67,7 @@ Animal:fish.N	Animal:fish.N	A cold-blooded vertebrate animal that lives in water
 Animal:Formicidae.N	Animal:ant.N	Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies.	587	3-817	Ameise::N	910
 Animal:Gallus gallus domesticus.N	Animal:chicken.N	A type of domesticated bird from the order of Galliformes which is often raised as a type of poultry (Gallus gallus domesticus).	1318	3-55	Huhn::N	981
 Animal:Grylloidea.N	Animal:cricket.N	Insects related to grasshoppers.	2354			912
+Animal:Hippopotamus amphibius.N	Animal:hippopotamus.N	Heavy, African animal living in rivers and lakes.	3145			
 Animal:Homo sapiens.N	Family:person.N	A human being, any living member of Homo sapiens.	683	2-1	Mensch::N	301
 Animal:Hydrochoerus hydrochaeris.N	Animal:capybara.N	The largest living rodent native to South America, living partly on land and partly in water.	314	3-9991		
 Animal:Insecta.N	Animal:insect.N	A class of the Arthropoda typically having a segmented body with an external chitinous covering, a pair of compound eyes, a pair of antennae, three pairs of mouthparts, and two pairs of wings.	620	3-81		905
@@ -289,6 +290,8 @@ Body:head hair.N	Body:hair (head).N	The hair on the head of humans (rather than 
 Body:head.N	Body:head.N	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	1256	4-2	Kopf::N	501
 Body:heart.N	Body:heart.N	A muscular organ that pumps blood through the body.	1223	4-44	Herz::N	572
 Body:heel.N	Body:heel.N	The part of the human foot on the backside where it becomes the leg.	980	4-372	Ferse::N	544
+Body:hiccup.N		A spasm of the diaphragm, or the resulting sound.				
+Body:hiccup.V	Body:hiccough.V	To have spasms of the diaphragm.	162	4-521		
 Body:hip.N	Body:hip.N	The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.	1745	4-463		552
 Body:hoof.N	Body:hoof.N	Natural horn covering of an animal's foot.	152			
 Body:horn.N	Body:horn (anatomy).N	A hard growth of keratin that protrudes from the top of the head of certain animals.	1393	4-17	Horn::N	593
@@ -631,13 +634,12 @@ Communication:joke.N	Language:joke.N	Something that is said or done in a non-ser
 Communication:kiss.N	Emotion:kiss (noun).N	The action of touching with the lips to express love or affection.	3454			
 Communication:kiss.V	Emotion:kiss.V	To touch with the lips to express love or affection.	578	16-29	küssen::V	
 Communication:language.N	Language:language.N	A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	1307	18-24	Sprache::N	
-Communication:laugh.V	Emotion:laugh.V	To express pleasure, mirth or derision by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat.	1355	16-25	lachen::V	
-Communication:laughter.N	Emotion:laughter.N	Laughter is a physical reaction in humans and some other species of primate, consisting typically of rhythmical, often audible contractions of the diaphragm and other parts of the respiratory system.	2958		Gelächter::N	
 Communication:letter.N	Modernity:letter.N	A text that is written to and for a specific person or set of people (and is most commonly sent to them by post).	1612	23-42	Brief::N	2261
 Communication:lie.N	Emotion:lie (falsehood).N	Intentionally false statement for the purpose of deception.	2826		Lüge::N	
 Communication:lie.V	Emotion:lie (mislead).V	To knowingly say something that is untrue.	601	16-67		
 Communication:mail.N	Modernity:mail.N	A batch of letters and parcels received via post.	167	23-4		
-Communication:newspaper.N	Modernity:newspaper.N	A publication (usually published daily or weekly and printed on cheap, low-quality paper) that contains news and other articles.	1298	23-6	Zeitung::N	
+Communication:news.N	Action/Technology:news.N	News is information about current events.	2964		Neuigkeit::N	2277
+Communication:newspaper.N	Modernity:newspaper.N	A publication (usually published daily or weekly and printed on cheap, low-quality paper) that contains news and other articles.	1298	23-6	Zeitung::N	2245
 Communication:offer.V	Business:offer.V	offer (present for acceptance or rejection) 				1720
 Communication:phone.V	Language:talk (phone).V	To communicate by means of a telephone.	3133			
 Communication:postage stamp.N	Modernity:postage stamp.N	A piece of paper that is affixed to letters or packages to pay for their delivery.	596	23-41		
@@ -1203,6 +1205,7 @@ House:sink.N	Modernity:sink (basin).N	A bowl for washing hands, dishwashing or o
 House:table.N	House:table.N	A piece of furniture that generally consists of a hard, flat, horizontal surface, which is elevated and stabilised by 3 or more legs (usually 4).	1775	7-44	Tisch::N	1346
 House:toilet.N	Modernity:toilet.N	A room equipped with a toilet for urinating and defecating.	219	23-52		
 Hunting:boomerang.N	Action/Technology:boomerang.N	A tool with a curved shape used as a weapon or for sport which returns when thrown into the air.	135	9-87		
+Hunting:bow or crossbow.N	Combat/Hunting:bow or crossbow.N	A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows, or a weapon based on it, consisting of a bow mounted on a stock.	3228			
 Hunting:bow string.N	Action/Technology:bow string.N	The string of a bow used to hunt.	2119			
 Hunting:bow.N	Combat/Hunting:bow.N	A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows.	994	20-24	Bogen[Waffe]::N	1213
 Hunting:fishing.V	Action/Technology:fishing.V	To hunt for fishes (general expression).	2638	20-99908	fischen::V	
@@ -1608,9 +1611,14 @@ Sound:chime.V	Modernity:chime (action).V	To ring the bells.	2897		läuten::V
 Sound:clap.V	Motion:clap.V	Make noise by putting one's hand together.	3110			
 Sound:crow.V	Action/Technology:crow (verb).V	To utter the characteristic cry of a rooster.	2074			
 Sound:flute.N	Language:flute.N	A musical instrument of the woodwind family.	777	18-71		
+Sound:giggle.INT		The sound of giggling, tee hee hee.				
+Sound:giggle.V		To laugh gently.				
+Sound:haha.INT		The sound of laughter.				
 Sound:hiss.V	Language:hiss.V	To produce a continuous voiceless sibilant sound like a long /s/.	3685			
 Sound:howl.N	Language:howling.N	A loud vocalisation inflicted by pain.	2523			
 Sound:howl.V	Language:howl.V	To cry like a wolf, dog, or other canids.	526	18-19	heulen::V	
+Sound:laugh.N	Emotion:laughter.N	Laughter is a physical reaction in humans and some other species of primate, consisting typically of rhythmical, often audible contractions of the diaphragm and other parts of the respiratory system.	2958		Gelächter::N	
+Sound:laugh.V	Emotion:laugh.V	To express pleasure, mirth or derision by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat.	1355	16-25	lachen::V	743
 Sound:make noise.V	Action/Technology:make noise.V	To be loud.	2895		lärmen::V	
 Sound:rattle.N	Language:rattle.N	A wooden instrument that makes a loud knocking noise [used by people watching football games].	300	18-74		
 Sound:roar.V	Language:roar.V	To make a deep loud cry (of lions and comparable wild animals); to make a deep loud cry, usually out of anger (of humans).	3896			
@@ -1873,7 +1881,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Action/Technology:move away.V	To change one's domicile or place of business.	229			
 	Action/Technology:must.V	To be required to do something.	971			
 	Action/Technology:net.N	A grid-like device or object.	2963		Netz::N	
-	Action/Technology:news.N	News is information about current events.	2964		Neuigkeit::N	
 	Action/Technology:noose.N	A loop at the end of a rope.	2604		Schlinge::N	
 	Action/Technology:not have.V	Not being in possession of something (both abstract and concrete).	3363			
 	Action/Technology:notice (something).V	To become aware of something.	2893		bemerken::V	
@@ -2342,7 +2349,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Animal:herdsman.N	A man who looks after a herd of animals.	263	3-18		
 	Animal:heron.N	A long-legged, long-necked wading bird of the family Ardeidae.	758	3-583		
 	Animal:hinny.N	The offspring of a stallion (male horse) and a female donkey (jenny).	3824			
-	Animal:hippopotamus.N	Heavy, African animal living in rivers and lakes.	3145			
 	Animal:honeycomb.N	A wax structure consisting of multiple small holes made by bees to store their honey.	3947			
 	Animal:hoplias (genus).N	Genus of fish commonly found in South America	3933			
 	Animal:hornbill.N	A bird characterized by a long, down-curved, and frequently colored beak.	3260			
@@ -2699,7 +2705,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Body:hair or fur.N	The hair covering the body of a mammal, including the body hair of humans.	2678			
 	Body:handspan.N	The distance between splayed out thumb and little finger or index finger of a human hand. Formerly used as a unit of measurement or for roughly gauging small lengths around 20 centimeters.	3838			
 	Body:have sex.V	To take part in sexual activity (most commonly sexual intercourse) with another person for the purposes of sexual pleasure.	1785			
-	Body:hiccough.V	To have spasms of the diaphragm.	162	4-521		
 	Body:hip bone.N	Large, flat bone in the center.	2820			
 	Body:hold.V	hold, grasp 				752
 	Body:hump.N	A hump may refer to a camel's hump containing its fat reservoir or alternatively to the curve on an upper spine that causes a hunchback.	534			
@@ -2719,7 +2724,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Body:kill.V	To put to death; to end a life.	1417	4-76	töten::V	
 	Body:kiss.V	kiss 				761
 	Body:lame.A	Moving with pain or difficulty on account of injury, defect or temporary obstruction of a function.	320	4-94		
-	Body:laugh.V	laugh 				743
 	Body:lazy.A	Unwilling to do work or make an effort.	1564	4-92	faul::A	
 	Body:lean (meat).A	Carry little fat (of meat).	2219			
 	Body:lick.V	To stroke with the tongue.	319	4-59	lecken::V	
@@ -2966,7 +2970,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Combat/Hunting:blade.N	The flat, sharp-edged part of a tool.	869			
 	Combat/Hunting:blowgun.N	A pipe or tube through which darts or other missiles are blown by the breath.	432			
 	Combat/Hunting:booty.N	Profits from burglary, looting and raids.	1022	20-48		
-	Combat/Hunting:bow or crossbow.N	A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows, or a weapon based on it, consisting of a bow mounted on a stock.	3228			
 	Combat/Hunting:bullet.N	A projectile, usually of metal, shot from a gun at high speed.	1114			
 	Combat/Hunting:cannon or gun.N	A bullet-firing weapon mounted on a carriage or to be held in the hands or arms.	3203			
 	Combat/Hunting:cannon.N	A bullet firing weapon mounted on a carriage.	3202			
@@ -3057,8 +3060,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Communication:meaning.N	meaning (semantic content of a word)				2204
 	Communication:message.N	message (batch of transmitted information)				2205
 	Communication:name.N	name				2293
-	Communication:news.N	news, tidings				2277
-	Communication:newspaper.N	newspaper				2245
 	Communication:note.N	note, annotation				2252
 	Communication:page.N	page (one side of a sheet of paper in a book)				2250
 	Communication:pen.N	pen (writing tool that uses ink)				2265

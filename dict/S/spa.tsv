@@ -146,6 +146,7 @@ Body:head hair.N		cabello, pelo
 Body:head.N		cabeza
 Body:heart.N		corazón
 Body:heel.N		talón
+Body:hiccup.V		hipo
 Body:hip.N		cadera
 Body:horn.N		cuerno
 Body:intestines.N		intestinos
@@ -292,7 +293,6 @@ Communication:forbid.V		prohibir
 Communication:forgive.V		perdonar
 Communication:kiss.V		besar
 Communication:language.N		lengua,idioma
-Communication:laugh.V		reír
 Communication:lie.V		mentir
 Communication:refuse.V		rehusar
 Communication:tell.V		narrar, contar
@@ -367,6 +367,7 @@ Food:Ficus carica.N		higo
 Food:Musa acuminata.N		plátana, banana
 Food:NaCl.N		sal
 Food:bake.V		hornear
+Food:bread.N		pan
 Food:dinner.N		comida
 Food:fermented alcohol.N		bebida fermentada
 Food:flour.N		harina
@@ -435,6 +436,8 @@ House:bench.N		banco
 House:blanket.N		frazada,cobija
 House:pillow.N		almohada
 House:rug.N		tapete,alfombra
+House:table.N		mesa
+Hunting:bow.N		arco
 Hunting:fishing.V		pescar
 Hunting:hunt.V		cazar
 Interaction:choose.V		escoger
@@ -534,6 +537,7 @@ Society:people.N		pueblo, gente
 Sound:be silent.V		callarse
 Sound:flute.N		flauta
 Sound:howl.V		aullar
+Sound:laugh.V		reír
 Sound:rattle.N		matraca,cascabel
 Sound:shout.V		gritar
 Sound:shriek.V		chillar

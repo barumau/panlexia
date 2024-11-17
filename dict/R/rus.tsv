@@ -142,6 +142,7 @@ Body:head hair.N		волос (на голове)
 Body:head.N		голова
 Body:heart.N		сердце
 Body:heel.N		пятка
+Body:hiccup.V		икать
 Body:hip.N		бедро, ляжка
 Body:horn.N		рог
 Body:intestines.N		кишечник
@@ -288,7 +289,6 @@ Communication:forbid.V		запрещать
 Communication:forgive.V		прощать
 Communication:kiss.V		целовать
 Communication:language.N		язык
-Communication:laugh.V		смеяться
 Communication:lie.V		лгать
 Communication:refuse.V		отказывать
 Communication:tell.V		рассказывать
@@ -362,6 +362,7 @@ Food:Ficus carica.N		инжир
 Food:Musa acuminata.N		банана
 Food:NaCl.N		соль
 Food:bake.V		печь
+Food:bread.N		хлеб
 Food:dinner.N		обед/ужин
 Food:fermented alcohol.N		брага
 Food:flour.N		мука
@@ -429,6 +430,8 @@ House:bed.N		кровать
 House:blanket.N		одеяло
 House:pillow.N		подушка
 House:rug.N		ковер, плед
+House:table.N		стол
+Hunting:bow.N		лук
 Hunting:hunt.V		охотиться
 Interaction:choose.V		выбирать
 Interaction:rescue.V		спасать
@@ -520,6 +523,7 @@ Society:people.N		народ
 Sound:be silent.V		молчать
 Sound:flute.N		флейта
 Sound:howl.V		выть
+Sound:laugh.V		смеяться
 Sound:rattle.N		погремушка
 Sound:shout.V		кричать
 Sound:shriek.V		визжать

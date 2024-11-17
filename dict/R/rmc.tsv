@@ -161,6 +161,7 @@ Body:head hair.N		hajsálo		hun:hajszál
 Body:head.N		šéro		
 Body:heart.N		jílo		
 Body:heel.N		šarka		hun:sarok (sark-)
+Body:hiccup.V		čuklinen		hun:csukl-ik
 Body:hip.N		boka (2)		slk:bok
 Body:hip.N		forgó (2)		hun:forgó
 Body:hip.N		forgókokal		
@@ -343,7 +344,6 @@ Communication:joke.N		perhas
 Communication:joke.N		vicco		hun:vicc
 Communication:kiss.V		čumiden		
 Communication:language.N		čhib		
-Communication:laugh.V		asan		
 Communication:letter.N		kárťa		ita:carta
 Communication:lie.V		hazudinen		hun:hazud-ik
 Communication:mail.N		póšta		ita:posta
@@ -460,6 +460,7 @@ Food:Malus domestica.N		phába
 Food:Musa acuminata.N		banáno		ces:banán
 Food:NaCl.N		lon		
 Food:bake.V		peken		
+Food:bread.N		máro		
 Food:candy.N		gullipe		
 Food:candy.N		pekibe		
 Food:flour.N		járo		
@@ -571,9 +572,11 @@ House:pillow.N		perníca		hrv:pérnica
 House:pillow.N		šerand		
 House:rug.N		séňėgo		hun:szőnyeg
 House:sink.N		moždó		hun:mosdó
+House:table.N		kafidi		ell:σκαφίδι [skafídi]
 House:toilet.N		klozeto		hun:klozet(t)
 House:toilet.N		vécė, véca		deu:WC [ve:ce:]
 Hunting:boomerang.N		bumerango		ces:bumerang
+Hunting:bow.N		ňila		hun:nyíl (nyil-)
 Hunting:hunt.V		vadásinen		hun:vadász-ik
 Interaction:choose.V		válostinen		hun:választ
 Interaction:rescue.V		mentinen		hun:ment
@@ -700,6 +703,7 @@ Society:people.N		nípo		hun:níp
 Sound:be silent.V		halgatinen		hun:hallgat
 Sound:flute.N		šípa		hun:síp
 Sound:howl.V		roven		
+Sound:laugh.V		asan		
 Sound:rattle.N		čerginen		hun:csörög (csörg-)
 Sound:rattle.N		čergó, čergóva		hun:csörgő
 Sound:shout.V		vičinen		hrv:vík-a-ti (víč-)

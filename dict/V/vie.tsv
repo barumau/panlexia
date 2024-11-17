@@ -153,6 +153,7 @@ Body:head hair.N		tóc
 Body:head.N		đầu		cmn:頭, tóu
 Body:heart.N		tim		:(EH) *sj@m (心, xīn)
 Body:heel.N		gót		
+Body:hiccup.V		nấc		
 Body:hip.N		hông		
 Body:horn.N		sừng		
 Body:intestines.N		ruột		
@@ -312,7 +313,6 @@ Communication:forbid.V		cấm		cmn:禁, jìn
 Communication:forgive.V		tha		
 Communication:kiss.V		hôn		
 Communication:language.N		ngôn ngữ		cmn:語言, yǔ yán
-Communication:laugh.V		cười		
 Communication:letter.N		thư		cmn:書, shū
 Communication:lie.V		nói dối		
 Communication:mail.N		bưu kiện		cmn:郵件, yóu jiàn
@@ -413,6 +413,7 @@ Food:Ficus carica.N		sung
 Food:Musa acuminata.N		chuối		
 Food:NaCl.N		muối		
 Food:bake.V		bỏ lò		
+Food:bread.N		bánh mì		
 Food:candy.N		kẹo		
 Food:dinner.N		bữa ăn tối		
 Food:fermented alcohol.N		rượu		:*cjǝ́w (酒, jiǔ)
@@ -505,8 +506,10 @@ House:mattress.N		nệm
 House:pillow.N		gối		
 House:rug.N		thảm		cmn:毯, tǎn
 House:sink.N		bồn		cmn:盆, pén
+House:table.N		bàn		cmn:盤, pán
 House:toilet.N		phòng vệ sinh		
 Hunting:boomerang.N		bumơrang		eng:boomerang
+Hunting:bow.N		cung		cmn:弓, gōng
 Hunting:hunt.V		săn		
 Interaction:choose.V		chọn		
 Interaction:rescue.V		cứu		cmn:救, jiù
@@ -609,6 +612,7 @@ Society:people.N		dân tộc		cmn:民族, mín zú
 Sound:be silent.V		im		
 Sound:flute.N		sáo		
 Sound:howl.V		hú		
+Sound:laugh.V		cười		
 Sound:rattle.N		trống lắc		
 Sound:shout.V		la (2)		
 Sound:shriek.V		la		

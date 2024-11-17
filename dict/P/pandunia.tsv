@@ -10,6 +10,7 @@ Animal:Equus asinus × caballus.N	ihamar		iha·mar
 Animal:Equus asinus.N	iha		iha	onom. eng:heehaw, fra:hi-han, rus:и-а (i-a), vie:hô hố, tur:aa-i
 Animal:Equus ferus caballus.N	mar		mar	mon:морь (mor'), kor:말 (mal), zho:马 (mǎ), yue:馬 (maa5), jpn:馬 (uma), vie:mã, tha:ม้า (maa), tam:மா (mā), eng:mare, deu:Mähre, isl:mar
 Animal:Felis catus.N	mau		mau	zho:猫 (māo), yue:貓 (maau), vie:mèo, tha:แมว (mæo), swa:nyau + eng:miaow; meow, fra:miaou, deu:spa:por:miau, rus:мяу (myau), fas: میو‎ (miyu), hin:म्याऊँ (myāū̃), tam:மியாவ் (miyāv), tur:miyav, 
+Animal:Hippopotamus amphibius.N	gubu		gubu	ful:ngabbu kon:ngubu, sot:tsw:kubu, zul:rwa:imvubu, amh:ጉማሬ (gumare)
 Animal:Homo sapiens.N	hom		hom	fra:homme, spa:hombre, por:homem, eng:human
 Animal:Homo sapiens.N	homan		hom·an	
 Animal:mouse.N	mushu		mush	rus:мышь (myś), pol:mysz, fas: موش‎ (muš) + zho:鼠 (shǔ)
@@ -43,6 +44,8 @@ Body:face.N	muka		muka	ben:মুখ (mukh), hin:मुख (mukh), tam:முக
 Body:foot.N	fut		fut	eng:foot, deu:Pfote
 Body:hair.N	kesh		kesh	jpn:毛 (ke), hin:केश (keś), ben:কেশ (keś), tam:கேசம் (kēcam), tel:కేశము (kēśamu)
 Body:head hair.N	kap kesh		kap kesh	
+Body:hiccup.N	hik		hik	eng:hiccup, rus:икота (ikota), hin:हीक (hīk), jpn:ヒック (hikku)
+Body:hiccup.V	hik		hik	
 Body:kidney.N	nefre		nefr'e	eng:fra:nephro-, spa:por:nefro-, deu:Niere + rus:нефрит (nefrit)
 Body:nail.N	nag		nag	deu:Nagel, rus:ноготь (nogot'), fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), tam:நகம் (nakam)
 Body:nose.A	nazal		naz·al	
@@ -55,12 +58,17 @@ Clothing:coat.N	kot		kot	eng:coat, swa:koti, hau:kwat, orm:koota, jpn:コート 
 Clothing:shirt.N	sherte		shert'e	eng:shirt, deu:T-Shirt, fra:por:T-shirt, fas: تی‌شِرْت (ti-šert), hin:टी-शर्ट (ṭī-śarṭ), ben:শার্ট (śarṭo), tur:tişört, zho:T恤衫 (tī-xùshān), yue:恤衫 (seot1 saam1), jpn:シャツ (shatsu), kor:셔츠 (syeocheu), tam:சட்டை (caṭṭai), ara: تِي شِيرْت (tī šīrt), swa:shati, yor:ṣẹ́ẹ̀tì
 Clothing:silk.N	sil		sil	zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), kor:사 (sa) + eng:silk, spa:por:sérico, rus:шёлк (sholk)
 Clothing:T-shirt.N	T-sherte		T-shert'e	
+Clothing:veil.N	hijab		hijab	ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)
 Cognition:awake.A	budik		bud·ik	
 Cognition:same.A	sim		sim	eng:same, fra:similaire, spa:por:similar, rus:самый (samyy), fas:هم‎ (ham), hin:सम (sam), may:sama
 Cognition:wake up (tr).V	budifa		bud·ifa	
 Cognition:wake up.V	bud		bud	san:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), vie:Bụt, tha:โพธิ (potí) + rus:будить
 Communication:book.N	buk		buk	eng:book, fra:bouquin, hin:बुक (buk), deu:Buch, may:buku, ful:swa:buku, wol:bukoo + rus:буклет (buklet)
 Communication:hello.INT	halo		halo	eng:hello,  zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo
+Communication:laugh.INT	haha		haha	eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)
+Communication:laugh.N	haha		haha	
+Communication:laugh.V	haha		haha	
+Communication:news.N	habar		habar	ara: خَبَر‎ (xabar), fas: خبر‎ (xabar), hin:ख़बर (xabar), ben:খবর (khôbôr), tam:கபர் (kapar), may:kabar, tur:haber, swa:habari, hau:labari, yor:làbarè, ful:habaru
 Communication:telephone.N	telefon		tele·fon	
 Cosmos:universe.N	kosme		kosm'e	eng:fra:spa:cosmos, deu:Kosmos, por:cosmo, rus:космос (kosmos), tur:kozmo-
 Degree:less.ADV	les		les	eng:less
@@ -189,6 +197,7 @@ Family:brother.N	brad		brad	ell:φράτηρ (phrater), eng:brother, por:brada; 
 Family:father.N	pa		pa	eng:fra:papa, spa:papá, por:pai, rus:папа (papa), ara:(bābā), zho:爸 (bà), yue:爸 (baa1), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp), ben:বাবা (baba), may:bapa, hau:swa:tur:baba, ful:ba; baaba
 Family:mother.N	ma		ma	por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)
 Family:sister.N	sis		sis	eng:sister, deu:Schwester, rus:сестра (sestra)
+Food:bread.N	ban		ban	zho:包 (bāo), yue:包 (baau1), vie:bánh + por:pão, spa:pan, fra:pain, jpn:パン (pan), kor:빵 (ppang)
 Food:Camellia sinensis.N	cha		cha	zho:茶 (chá), yue:茶 (caa4), jpn:茶 (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), hau:shayi, por:chá
 Food:Citrullus lanatus.N	arbuz		arbuz	rus:арбуз (arbuz), pol:arbuz, tur:karpuz, fas: تربز (tarboz), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj), tam:தர்பூசணி (tarpūcaṇi)
 Food:Citrus sinensis.N	aranje		aranj'e	eng:fra:orange, spa:naranja, por:laranja, fas: نارنج‎ (nâranj), hin:नारंगी (narangi), tam:ஆரஞ்சு (ārañcu), jpn:(orenji) + rus:оранжевый (oranževiy)
@@ -239,6 +248,8 @@ Function:yes.PTCL	ye		ye	eng:yes; yeah, deu:ja, kor:예 (ye), may:ya
 Function:yes.PTCL	yes		yes	
 Hand::N	hande		hand'e	eng:hand, deu:Hand + hin:हाथ (hāth), ben:হাত (hat) + hau:hannu
 Horn::N	korne		korn'e	eng:horn, deu:Horn, fra:corne, spa:cuerno, por:corno, ara: قرن (qarn)
+House:table.N	meza		meza	por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa
+Hunting:bow.N	gung		gung	zho:弓 (gōng), yue:弓 (gung1), jpn:弓 (kyū), kor:궁 (gung), vie:cung
 Kopf::N	kap		kap	deu:Kopf, spa:cabeza; cabo, por:cabeça; cabo, may:kepala + hin:कपाल (kapāl) + eng:cape, fra:cap + yue:岬 (gaap3), kor:갑 (gap)
 Music:sing.V	gante		gant'e	spa:por:cantar, ara: غَنَّى‎ (ḡannā), hin:गाना (gānā), ben:গান (gan), zho:歌 (gē), yue:歌 (go1), jpn:歌 (ka), kor:가 (ga), vie:ca
 Music:song.N	gante		gant'e	
@@ -295,6 +306,8 @@ Quantity:increase.V	kres		kres	spa:crecer, por:crescer, fra:croître, eng:increa
 Society:help.N	helpe		help'e	
 Society:help.V	helpe		help'e	eng:help, deu:helfen
 Society:people.N	demo		dem'o	deu:eng:spa:por:may:tur:swa:demo-, fra:démo-, rus:демо- (demo-)
+Sound:giggle.INT	hihi		hihi	
+Sound:giggle.V	hihi		hihi	
 Sound:voice.N	fon		fon	eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon + fas: تلفن‎ (telefon), hin:फ़ोन (fon), ben:ফোন (phon), tur:telefon
 Storage:bag.N	bag		bag	eng:bag; baggage, hin:बैग (bæg), jpn:バッグ (baggu) + fra:bagage, por:bagagem, rus:багаж (bagazh), ben:ব্যাগেজ (byagej), may:beg; bagasi, tur:bagaj
 Storage:barrel.N	tong		tong	zho:桶 (tǒng), yue:桶 (tung3), kor:통 (tong), vie:thùng, may:tong, khm:តុង (tong), tha:ถัง (tǎng), fas: تنگ‎ (tong) + fra:tonneau, spa:tonel

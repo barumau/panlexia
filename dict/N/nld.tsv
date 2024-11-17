@@ -156,6 +156,7 @@ Body:head hair.N		haar
 Body:head.N		hoofd		
 Body:heart.N		hart		
 Body:heel.N		hiel		
+Body:hiccup.V		hikken		
 Body:hip.N		heup		
 Body:horn.N		hoorn (1)		
 Body:intestines.N		ingewanden		
@@ -325,7 +326,6 @@ Communication:forbid.V		verbieden
 Communication:forgive.V		vergeven		
 Communication:kiss.V		kussen (2)		
 Communication:language.N		taal		
-Communication:laugh.V		lachen		
 Communication:letter.N		brief		:brevis
 Communication:lie.V		liegen		
 Communication:mail.N		post (2)		fra:poste
@@ -428,6 +428,7 @@ Food:Ficus carica.N		vijg		fra:figes
 Food:Musa acuminata.N		banaan		por:banana
 Food:NaCl.N		zout (1)		
 Food:bake.V		bakken		
+Food:bread.N		brood		
 Food:candy.N		snoep		
 Food:dinner.N		avondeten		
 Food:dinner.N		diner		fra:dîner
@@ -524,9 +525,11 @@ House:mattress.N		matras		fra:materas
 House:pillow.N		kussen (1)		fra:cussin
 House:rug.N		tapijt		fra:tapit
 House:sink.N		gootsteen		
+House:table.N		tafel		:tabula
 House:toilet.N		toilet		fra:toilette
 House:toilet.N		wc		eng:WC
 Hunting:boomerang.N		boemerang		eng:boomerang
+Hunting:bow.N		boog (2)		
 Hunting:hunt.V		jagen		
 Interaction:choose.V		kiezen		
 Interaction:rescue.V		redden		
@@ -628,6 +631,7 @@ Society:people.N		bevolking
 Sound:be silent.V		zwijgen		
 Sound:flute.N		fluit		fra:flûte
 Sound:howl.V		huilen		
+Sound:laugh.V		lachen		
 Sound:rattle.N		ratel		
 Sound:shout.V		schreeuwen		
 Sound:shriek.V		krijsen		

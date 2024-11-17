@@ -154,6 +154,7 @@ Body:head hair.N		hair
 Body:head.N		head		
 Body:heart.N		heart		
 Body:heel.N		heel		
+Body:hiccup.V		hiccough		
 Body:hip.N		hip		
 Body:horn.N		horn		
 Body:intestines.N		guts		
@@ -320,7 +321,6 @@ Communication:forgive.V		forgive
 Communication:forgive.V		pardon		:perdonāre
 Communication:kiss.V		kiss		
 Communication:language.N		language		:lingua
-Communication:laugh.V		laugh		
 Communication:letter.N		letter		:litterae
 Communication:lie.V		lie		
 Communication:mail.N		post		fra:poste
@@ -405,6 +405,7 @@ Food:Ficus carica.N		fig		:ficus
 Food:Musa acuminata.N		banana		wol:banana
 Food:NaCl.N		salt		
 Food:bake.V		bake		
+Food:bread.N		bread		
 Food:candy.N		sweets		
 Food:dinner.N		dinner		:disner
 Food:fermented alcohol.N		alcohol		arb:al-koħl
@@ -493,8 +494,10 @@ House:pillow.N		pillow		:pulvīnus
 House:rug.N		carpet		:carpita
 House:rug.N		rug		nob:rugga
 House:sink.N		sink		
+House:table.N		table		:tabula
 House:toilet.N		toilet		fra:toilette
 Hunting:boomerang.N		boomerang		:womurrang
+Hunting:bow.N		bow		
 Hunting:hunt.V		hunt		
 Interaction:choose.V		choose		
 Interaction:rescue.V		rescue		:*re-excūtere
@@ -592,6 +595,7 @@ Society:people.N		people		:populus
 Sound:be silent.V		(be) silent		:silen-s, -tem
 Sound:flute.N		flute		oci:flaüt
 Sound:howl.V		howl		
+Sound:laugh.V		laugh		
 Sound:rattle.N		rattle		
 Sound:shout.V		shout		
 Sound:shriek.V		shriek		

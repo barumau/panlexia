@@ -223,6 +223,7 @@ Body:head.N		cap
 Body:heart.N		cord		
 Body:heart.N		inimă		
 Body:heel.N		călcâi		
+Body:hiccup.V		a sughiţa		
 Body:hip.N		şold		
 Body:horn.N		corn		
 Body:intestines.N		intestin		fra:intestin
@@ -477,7 +478,6 @@ Communication:forgive.V		a ierta
 Communication:kiss.V		a săruta		
 Communication:language.N		limbaj		
 Communication:language.N		limbă		
-Communication:laugh.V		a râde		
 Communication:letter.N		scrisoare		
 Communication:lie.V		a minţi		
 Communication:mail.N		poştă		rus:póčta
@@ -622,6 +622,7 @@ Food:Ficus carica.N		smochin(ă)		bul:smokinja
 Food:Musa acuminata.N		banană		fra:banane
 Food:NaCl.N		sare		
 Food:bake.V		a coace		
+Food:bread.N		pâine		
 Food:candy.N		bomboane		fra:bombon
 Food:candy.N		cofeturi		ell:ko[n]féta
 Food:candy.N		dulciuri		
@@ -759,10 +760,12 @@ House:rug.N		covor		rus:kovior
 House:rug.N		covoraş		
 House:rug.N		mochetă		fra:moquette
 House:sink.N		chiuvetă		fra:cuvette
+House:table.N		masă		
 House:toilet.N		closet		deu:closet, Klosett
 House:toilet.N		toaletă		fra:toilette
 House:toilet.N		veceu		deu:W.C.
 Hunting:boomerang.N		bumerang		:bumariny
+Hunting:bow.N		arc		
 Hunting:hunt.V		a vâna		
 Interaction:choose.V		a alege		
 Interaction:rescue.V		a salva		ita:salvare
@@ -906,6 +909,7 @@ Sound:be silent.V		a tăcea
 Sound:flute.N		flaut		pro:flaüt
 Sound:flute.N		fluier		
 Sound:howl.V		a urla		
+Sound:laugh.V		a râde		
 Sound:rattle.N		huruitoare		
 Sound:shout.V		a striga		
 Sound:shriek.V		a răcni		:ryknonti

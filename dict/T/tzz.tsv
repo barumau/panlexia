@@ -160,6 +160,7 @@ Body:head.N		holol
 Body:heart.N		7o7onil		
 Body:heel.N		chak 7okol		
 Body:heel.N		chakil		
+Body:hiccup.V		shuk’shuk’		
 Body:hip.N		7o7il		
 Body:horn.N		shulub		
 Body:intestines.N		bikil		
@@ -320,7 +321,6 @@ Communication:forgive.V		7ak’ pertonal
 Communication:forgive.V		lah 7o7on		
 Communication:kiss.V		butz’		
 Communication:language.N		k’op		
-Communication:laugh.V		tze7in		
 Communication:letter.N		vun		
 Communication:lie.V		nop k’op		
 Communication:lie.V		tzuk		
@@ -414,6 +414,9 @@ Food:Musa acuminata.N		kinya		:guineo
 Food:Musa acuminata.N		lo7bol		
 Food:NaCl.N		7atz’am		
 Food:bake.V		meltzan		
+Food:bread.N		kashlan 7ot		
+Food:bread.N		kashlan vah		
+Food:bread.N		pan		spa:pan
 Food:candy.N		lurse		spa:dulce
 Food:flour.N		harina		spa:harina
 Food:sausage.N		choris		spa:chorizo
@@ -484,7 +487,9 @@ House:bed.N		vayebal
 House:blanket.N		chamaroil		spa:chamarra
 House:blanket.N		chih		
 House:pillow.N		shon holil		
+House:table.N		mesha		spa:mesa
 House:toilet.N		k'ablebal		
+Hunting:bow.N		yolob		
 Interaction:choose.V		t’uh		
 Interaction:rescue.V		poh 7u7un		
 Law:crime.N		maltisyon		spa:maldicio*n
@@ -586,6 +591,7 @@ Society:help.V		7ich’ ta k’ush
 Society:help.V		kolta		
 Sound:flute.N		7ama		
 Sound:howl.V		7avan		
+Sound:laugh.V		tze7in		
 Sound:rattle.N		sot		
 Sound:shout.V		7avan		
 Sound:voice.N		7eal		

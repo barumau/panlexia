@@ -214,6 +214,7 @@ Body:head hair.N		rambut
 Body:head.N		kepala		san:kapāla
 Body:heart.N		jantung		
 Body:heel.N		tumit		
+Body:hiccup.V		cegukan		
 Body:hip.N		pinggul		
 Body:horn.N		tanduk		
 Body:intestines.N		usus		jav:usus
@@ -428,8 +429,6 @@ Communication:forgive.V		memaafkan
 Communication:forgive.V		mengampuni		
 Communication:kiss.V		mencium (1)		
 Communication:language.N		bahasa		san:bhāṣā
-Communication:laugh.V		ketawa		
-Communication:laugh.V		tertawa		
 Communication:letter.N		surat		
 Communication:lie.V		berbohong		
 Communication:lie.V		berdusta		san:duṣta
@@ -558,6 +557,7 @@ Food:Ficus carica.N		(buah) ara
 Food:Musa acuminata.N		pisang		
 Food:NaCl.N		garam		
 Food:bake.V		memanggang		
+Food:bread.N		roti		hin:roṭī
 Food:candy.N		gula-gula		
 Food:candy.N		kembang gula		jav:kembang gula
 Food:candy.N		permén		nld:pepermunt
@@ -672,6 +672,7 @@ House:rug.N		karpet		nld:karpet
 House:rug.N		permadani		jav:permadani
 House:rug.N		sejedah, sajadah		arb:sajjādah
 House:sink.N		wastafel		nld:wastafel
+House:table.N		méja		por:mesa
 House:toilet.N		WC		eng:water closet
 House:toilet.N		jamban		
 House:toilet.N		kakus		
@@ -679,6 +680,8 @@ House:toilet.N		kamar kecil
 House:toilet.N		klosét		eng:water closet
 House:toilet.N		toilét, toalét		nld:toilet
 Hunting:boomerang.N		bumerang		:Unidentifiable
+Hunting:bow.N		busur		
+Hunting:bow.N		panah		
 Hunting:hunt.V		berburu		
 Interaction:choose.V		memilih		
 Interaction:rescue.V		menyelamatkan		arb:salāmat-
@@ -822,6 +825,8 @@ Society:people.N		rakyat		arb:ra‘ī yat-
 Sound:be silent.V		diam (1)		
 Sound:flute.N		suling, seruling		
 Sound:howl.V		melolong		
+Sound:laugh.V		ketawa		
+Sound:laugh.V		tertawa		
 Sound:rattle.N		kécrékan		jav:kecrékan
 Sound:rattle.N		écék-écék		
 Sound:shout.V		teriak		
