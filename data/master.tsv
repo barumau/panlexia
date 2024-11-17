@@ -4727,7 +4727,7 @@ Animal:zebra.N	Animal:zebra.N	Any of several species of genus Equus with distinc
 	Perception:warm.A	Having a temperature slightly higher than usual, still pleasant.	1232	15-851	warm::A	
 	Perception:warm.A	warm 				894
 	Perception:weight.N	The amount a thing weighs.	2466		Gewicht::N	
-	Perception:wet.A	Covered with or impregnated with liquid.	1726	15-83	nass::A	
+Perception:wet.A	Perception:wet.A	Covered with or impregnated with liquid.	1726	15-83	nass::A	3620
 	Perception:white.A	Bright and colourless; reflecting equal quantities of all frequencies of visible light.	1335	15-64	weiß::A	
 	Perception:white.A	white 				833
 	Perception:wrinkled.A	Uneven, with many furrows and prominent points, often in reference to the skin or hide of animals.	380	15-89		
@@ -4894,7 +4894,6 @@ Perception:yellow.A	Perception:yellow.A	Having the colour of a yolk, a lemon or 
 	Quality:taut.A	taut, tight, tense, strained 				3665
 	Quality:viscous.A	viscous, thick (of high viscosity) 				3670
 	Quality:weight.N	weight (degree of heaviness or lightness)				3650
-	Quality:wet.A	wet 				3620
 	Quantity:add.V	add, append, join so as to cause an increase 				2620
 	Quantity:affair (classifier).CLF	Classifier for things or circumstances.	2737			
 	Quantity:all or many.?	Either a totality or a large number of people or objects.	2650			
