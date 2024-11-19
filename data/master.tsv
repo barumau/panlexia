@@ -54,6 +54,7 @@ Animal:Diptera.N	Animal:fly (insect).N	A common insect; any species of insect of
 Animal:dragon.N	Animal:dragon.N	A mythical creature typically depicted as a winged, fire-breathing reptile with magical qualities.	2038			937
 Animal:dung.N	Animal:dung (animal faeces).N	Animal faeces.	2057	8-99918		
 Animal:Elephantidae.N	Animal:elephant.N	A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw. Elephants are the largest land animals now existing.	1290	3-77		952
+Animal:Equus (Hippotigris).N	Animal:zebra.N	Any of several species of genus Equus with distinctive black-and-white striped coats, native to Africa.	3675			
 Animal:Equus asinus × caballus.N	Animal:mule.N	The offspring of a male donkey and a female horse.	890	3-47		
 Animal:Equus asinus.N	Animal:donkey.N	A domesticated animal, Equus asinus.	1862	3-46		951
 Animal:Equus ferus caballus.N	Animal:horse.N	A large animal with four legs of the Equus caballus species which people ride on or use for carrying things or pulling vehicles.	615	3-41	Pferd::N	954
@@ -96,7 +97,6 @@ Animal:Ursidae.N	Animal:bear.N	A large beast of prey of the family Ursidae, rela
 Animal:Vespinae.N	Animal:wasp.N	A flying stinging insect related to the bee, which is usually coloured yellow and black.	1517	3-823		
 Animal:Vulpes.N	Animal:fox.N	A carnivorous relatively small canine of the species Vulpes Vulpes.	1312	3-74	Fuchs::N	964
 Animal:wool.N	Clothing/Grooming:wool.N	The soft, curly hair that forms the fleece of sheep, lamas and other animals and which is used to produce clothing.	964	6-22	Wolle::N	1403
-Animal:zebra.N	Animal:zebra.N	Any of several species of genus Equus with distinctive black-and-white striped coats, native to Africa.	3675			
 Art:sculptor.N	Action/Technology:sculptor.N	A person who practices the art of sculpture.	914	9-82		
 Art:statue.N	Action/Technology:statue.N	A three-dimension work of art, usually of a person or animal, usually created by sculpting, carving, moulding, or casting.	1002	9-83		
 Atmosphere:climate.N	Nature:climate.N	Climate is the long-term pattern of weather in a particular area.	2426			
@@ -679,6 +679,7 @@ Cosmos:shooting star.N	Nature:shooting star.N	Name for the visible path of a met
 Cosmos:star.N	Nature:star.N	A luminous celestial body that is made from gases (particularly hydrogen and helium) and forms the shape of a sphere.	1430	1-54	Stern::N	1131
 Cosmos:starlight.N	Nature:starlight.N	Light emitted by stars.	2836			
 Cosmos:Sun.N	Nature:sun.N	The particular star at the centre of our solar system, from which the Earth gets light and heat.	1343	1-52	Sonne::N	1133
+Cosmos:telescope.N	Tool:telescope.N	A telescope is a device used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation				1262
 Cosmos:universe.N	Nature:universe.N	universe				1100
 Cosmos:Ursa major.N	Nature:ursa major.N	A large group of stars in the shape of a bear visible on the northern hemisphere.	3342			
 Cosmos:waning moon.N	Nature:waning moon.N	The phase in the lunar cycle between full moon and new moon when the illuminated area decreases.	3817			
@@ -1003,6 +1004,7 @@ Food:sauce.N	Food:sauce.N	A liquid food accompanying a dish.	132
 Food:sausage.N	Food:sausage.N	A length of intestine, stuffed with ground (organ) meat, and other ingredients. Instead of intestines, a different kind of wrapper can be used.	1874	5-63		3435
 Food:Solanum lycopersicum.N	Food:tomato.N	The savoury fruit of the Solanum lycopersicum, red when ripe.	986			1098
 Food:soup.N	Food:soup.N	A cooked, liquid dish (made from meat or vegetables that are mixed with broth in a pot) that is often sold in tins.	1547	5-64	Suppe::N	3462
+Food:spoon.N	Food:spoon.N	An implement for eating or serving, a small bowl with a long straight handle.	1378	5-37	Löffel::N	1230
 Food:supper.N	Food:supper.N	The last meal of the evening.		5-45		3489
 Form:bend (sth).V	Action/Technology:bend (something).V	To carry out a movement to turn something into a curved shape.	2224		biegen::V	
 Form:bend.V	Action/Technology:bend.V	Movement that causes the formation of a curve.	2004	9-14	beugen::V	
@@ -1658,11 +1660,11 @@ Storage:bamboo basket.N	Action/Technology:bamboo basket.N	A basket from bamboo t
 Storage:barrel.N	Modernity:barrel.N	A cylindrical container for liquids and food.	2548	9-99901		1301
 Storage:basket.N	Action/Technology:basket.N	A lightweight container, generally round, open at the top, and tapering toward the bottom.	1539	9-76		1302
 Storage:bottle.N	Modernity:bottle.N	A container, typically made of glass and having a tapered neck, used for holding liquids.	1321	23-56		1303
-Storage:box or chest.N	Modernity:box or chest.N	Either a generic manmade object with space in it that is used to keep and store many various different objects, or a strong box with a lid on top.	3150			
 Storage:box.N	Modernity:box.N	A generic man-made object with space in it (commonly made of cardboard or wood) that is used to keep and store many various different objects.	1465		Kiste::N	1305
 Storage:bucket.N	Action/Technology:bucket.N	Typically a watertight, vertical cylinder or truncated cone, with an open top and a flat bottom, attached to a semicircular carrying handle called the bail.	2052	9-99903	Eimer::N	1306
 Storage:can.N	Modernity:can.N	A small, round-shaped metal container, used for different purposes like storing food or liquids, or collecting money.	1051	23-54		
 Storage:case.N		A box possibly with compartments that can contain a number of identical items, like bottles.		7-99902		
+Storage:chest.N	Modernity:box or chest.N	A strong box with a lid on top and with space in it that is used to keep and store many various different objects.	3150			
 Storage:envelope.N	Action/Technology:envelope.N	An item to commonly used to package or wrap letters.	3088			
 Storage:funnel.N	Modernity:funnel.N	A pipe with a wide mouth used to channel liquid into containers with small opening.	2602			
 Storage:heap.N	Action/Technology:heap.N	A collection of things thrown one on another.	2984		Haufen::N	
@@ -1747,8 +1749,6 @@ Time:wait.V	Motion:wait (for).V	To refrain from acting or moving for some durati
 Time:winter.N	Time:winter.N	Traditionally, the fourth of the seasons, marked by the applicable hemisphere of the planet being at its minimum angle of exposure to the Sun, resulting in short days, long nights and typically in low temperatures.	1471	14-74	Winter::N	3273
 Time:year.N	Time:year.N	The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	1226	14-73	Jahr::N	3278
 Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::ADV	3265
-Tool:spoon.N	Food:spoon.N	An implement for eating or serving, a small bowl with a long straight handle.	1378	5-37	Löffel::N	1230
-Tool:telescope.N	Tool:telescope.N	A telescope is a device used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation				1262
 Transit:airplane.N	Modernity:airplane.N	A powered heavier-than-air aircraft with fixed wings that obtains lift by the Bernoulli effect and is used for transportation.	1597	23-16		3102
 Transit:anchor.N	Motion:anchor.N	Something, usually a heavy piece of metal with points which dig into the sea-bed, used to hold a boat in one position.	1870	10-89		
 Transit:bicycle.N	Modernity:bicycle.N	A vehicle with two wheels in tandem, pedals connected to the rear wheel by a chain, handlebars for steering, and a saddlelike seat.	747	23-13		3110
