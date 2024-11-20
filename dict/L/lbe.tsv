@@ -233,6 +233,7 @@ Food:bake.V		бишлан	biʃlan
 Food:bake.V		шахьлан	ʃaxlan
 Food:bread.N		ччатӏ	t͡ʃːatʼ
 Food:soup.N		накь	naqʼ
+Food:spoon.N		къуса	qʰːusa
 Form:bend (sth).V		баччин	bat͡ʃːin
 Form:bend (sth).V		лахӏан бан	laħan ban
 Form:bend.V		кьус бикӏан	qʼus bikʼan
@@ -285,6 +286,8 @@ House:table.N		усттул	ustːul
 Hunting:bow.N		ккуртта	kːurtːa
 Hunting:fishing.V		чавахъру бугьлан	t͡ʃawaq͡χru buhlan
 Hunting:hunt.V		авли занан	awli zanan
+Integrity:part.N		бутӏа	butʼa
+Integrity:piece.N		касак	kasak
 Interaction:choose.V		бувчӏин	buwt͡ʃʼin
 Interaction:rescue.V		ххассал бан	χːasːal ban
 Mind:dream.N		макӏру	makʼru
@@ -336,9 +339,14 @@ People:woman.N		щарсса	ɕːarsːa
 Perception:feel.V		дакӏнил буслан	dakʼnil buslan
 Perception:hear or listen.V		баян	bajan
 Perception:hear.V		баллан	ballan
+Perception:pain.N		къюву	qʰːjuwu
 Perception:touch.V		ка щун	ka ɕːun
+Perception:wet.A		атилсса	atilsːa
+Perception:wet.A		хъавтусса	q͡χawtusːa
+Perception:yellow.A		хъахъисса	q͡χaq͡χisːa
 Plant:Betula.N		кӏялахӏи	kʼjalaħi
 Plant:Betula.N		кӏялахӏилул мурхь	kʼjalaħilul murx
+Plant:bark.N		ккамара	kːamara
 Plant:branch.N		матӏи	matʼi
 Plant:flower.N		тӏутӏи	tʼutʼi
 Plant:leaf.N		чӏапӏи	t͡ʃʼapʼi
@@ -402,6 +410,7 @@ Sound:voice.N		чӏу	t͡ʃʼu
 Sound:voice.N		чӏукӏа	t͡ʃʼukʼa
 Sound:whistle.V		щютӏа тӏун	ɕːjutʼa tʼun
 Space:back.ADV		махъунмай	maq͡χunmaj
+Space:wide.A		уттасса	utːasːa
 Storage:box.N		къурши	qʰːurʃi
 Storage:box.N		яшикӏ	jaʃikʼ
 Storage:bucket.N		бадра	badra
@@ -413,6 +422,25 @@ Storage:pouch.N		чантай	t͡ʃantaj
 Storage:pour.V		рутӏин	rutʼin
 Storage:sack.N		дарваг	darwaɡ
 Storage:sack.N		къап	qʰːap
+Time:April.N		апрель	aprelʲ
+Time:April.N		мукьилчинмур барз	muqʼilt͡ʃinmur barz
+Time:August.N		мяйлчинмур барз	mjajlt͡ʃinmur barz
+Time:December.N		ацӏния кӏилчинмур барз	at͡sʼnija kʼilt͡ʃinmur barz
+Time:February.N		кӏилчинмур барз	kʼilt͡ʃinmur barz
+Time:January.N		цалчинмур барз	t͡salt͡ʃinmur barz
+Time:July.N		Арулчинмур барз	arult͡ʃinmur barz
+Time:July.N		июль	ijulʲ
+Time:June.N		июнь	ijunʲ
+Time:June.N		ряххилчинмур барз	rjaχːilt͡ʃinmur barz
+Time:March.N		шамилчинмур барз	ʃamilt͡ʃinmur barz
+Time:May.N		май	maj
+Time:May.N		ххюлчинмур барз	χːjult͡ʃinmur barz
+Time:November.N		ацӏния цалчинмур барз	at͡sʼnija t͡salt͡ʃinmur barz
+Time:October.N		ацӏилчинмур барз	at͡sʼilt͡ʃinmur barz
+Time:September.N		урчӏилчинмур барз	urt͡ʃʼilt͡ʃinmur barz
+Time:age.N		оьрму	oˤrmu
+Time:always.ADV		даиман	daiman
+Time:always.ADV		мудан	mudan
 Time:autumn.N		ссут	sːut
 Time:final.A		махъва-махъмур	maq͡χwa-maq͡χmur
 Time:month.N		барз	barz

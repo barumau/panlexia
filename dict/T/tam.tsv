@@ -213,6 +213,7 @@ Food:NaCl.N		உப்பு	upːu
 Food:bake.V		வெப்பத்தில் வாட்டு	ʋepːʌt̪ːil ʋɑːʈːu
 Food:bread.N		ரொட்டி	ɾoʈːi
 Food:soup.N		ரசம்	ɾʌsʌm
+Food:spoon.N		கரண்டி	kʌɾʌɳʈi
 Form:bend (sth).V		வனை	ʋʌnʌi
 Form:bend.V		வனை	ʋʌnʌi
 Function:1PL.PRO		நாங்கள்	n̪ɑːŋɡʌɭ
@@ -262,6 +263,8 @@ House:table.N		மேசை	meːsʌi
 Hunting:bow.N		வில்	ʋil
 Hunting:fishing.V		மீன் பிடி	miːn piɖi
 Hunting:hunt.V		வேட்டையாடு	ʋeːʈːʌijɑːʈu
+Integrity:part.N		பகுதி	pʌhut̪i
+Integrity:piece.N		துண்டம்	t̪uɳʈʌm
 Interaction:choose.V		தேர்ந்தெடு	t̪eːɾn̪t̪eɖu
 Interaction:rescue.V		காப்பாற்று	kɑːpːɑːtːu
 Mind:dream.N		கனவு	kʌnʌʋu
@@ -305,8 +308,13 @@ People:woman.N		பெண்	peɳ
 Perception:feel.V		தொட்டுணர்	t̪oʈːuɳʌɾ
 Perception:hear or listen.V		கேள்	keːɭ
 Perception:hear.V		கேள்	keːɭ
+Perception:pain.N		வலி	ʋʌli
 Perception:touch.V		பதி	pʌði
+Perception:wet.A		ஈரமான	iːɾʌmɑːnʌ
+Perception:yellow.A		மஞ்சள் வண்ணம்	mʌɲd͡ʑʌɭ ʋʌɳːʌm
 Plant:Betula.N		பிர்ச் மரம்	piɾt͡ɕ mʌɾʌm
+Plant:bark.N		பட்டை	pʌʈːʌi
+Plant:bark.N		மரப்பட்டை	mʌɾʌpːʌʈːʌi
 Plant:branch.N		கினை	kinʌi
 Plant:flower.N		பூ	puː
 Plant:leaf.N		இலை	ilʌi
@@ -363,6 +371,7 @@ Sound:sound (of instrument or voice).V		சிலம்புதல்	t͡ɕilʌ
 Sound:voice.N		குரல்	kuɾʌl
 Sound:whistle.V		சீழ்க்கை எழப்பு	t͡ɕiːɻkːʌi eɻʌpːu
 Space:back.ADV		பின்பக்கம்	pinbʌkːʌm
+Space:wide.A		அகலமான	ʌhʌlʌmɑːnʌ
 Storage:bag.N		பை	pʌi
 Storage:box.N		பெட்டி	peʈːi
 Storage:bucket.N		வாளி	ʋɑːɭi
@@ -373,6 +382,21 @@ Storage:misplace.V		இழ	iɻʌ
 Storage:pouch.N		பை	pʌi
 Storage:pour.V		ஊற்று	uːtːu
 Storage:sack.N		பை	pʌi
+Time:April.N		ஏப்ரல் மாதம்	eːpɾʌl mɑːt̪ʌm
+Time:August.N		ஆகஸ்ட் மாதம்	ɑːkʌsʈ mɑːt̪ʌm
+Time:December.N		டிசம்பர்	ʈisʌmbʌɾ
+Time:February.N		பிபரவரி மாதம்	piβʌɾʌʋʌɾi mɑːt̪ʌm
+Time:January.N		ஜனவரி	d͡ʑʌnʌʋʌɾi
+Time:July.N		ஜூலை மாதம்	d͡ʑuːlʌi mɑːt̪ʌm
+Time:June.N		ஜூன் மாதம்	d͡ʑuːn mɑːt̪ʌm
+Time:March.N		மார்ச் மாதம்	mɑːɾt͡ɕ mɑːt̪ʌm
+Time:May.N		மே மாதம்	meː mɑːt̪ʌm
+Time:November.N		நவம்பர் மாதம்	n̪ʌʋʌmbʌɾ mɑːt̪ʌm
+Time:October.N		அக்டோபர் மாதம்	ʌkʈoːβʌɾ mɑːt̪ʌm
+Time:September.N		செப்டம்பர் மாதம்	t͡ɕepʈʌmbʌɾ mɑːt̪ʌm
+Time:age.N		வயது	ʋʌjʌðu
+Time:already.ADV		ஏற்கனவே	eːrkʌnʌʋeː
+Time:always.ADV		எப்பொழுதும்	epːoɻuðum
 Time:autumn.N		இலையுதிர் காலம்	ilʌijuðiɾ kɑːlʌm
 Time:final.A		கடைசி	kʌɖʌisi
 Time:month.N		மாதம்	mɑːt̪ʌm

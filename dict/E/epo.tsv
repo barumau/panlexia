@@ -153,6 +153,7 @@ Body:waist.N		talio
 Body:wing.N		flugilo
 Body:wound.N		vundo
 Body:wrist.N		manartiko, manradiko
+Building:bar.N		trinkejo
 Building:board.N		tabulo
 Building:brick.N		briko
 Building:build.V		konstrui
@@ -240,6 +241,7 @@ Cosmos:Sun.N		suno
 Cosmos:moon.N		luno
 Cosmos:planet.N		planedo
 Cosmos:star.N		stelo
+Cosmos:telescope.N		teleskopo
 Cosmos:universe.N		universo
 Degree:almost.ADV		preskaŭ
 Degree:at least.ADV		almenaŭ
@@ -307,6 +309,8 @@ Food:salad.N		salato
 Food:sandwich.N		sandviĉo
 Food:sausage.N		kolbaso
 Food:soup.N		supo
+Food:spoon.N		kulero
+Form:triangle.N		triangulo
 Grooming:brush.N		broŝilo
 Handiwork:patch.N		flikaĵo
 Health:disease.N		malsano
@@ -322,6 +326,9 @@ House:rug.N		tapiŝo
 House:table.N		tablo
 Hunting:bow.N		pafarko
 Hunting:hunt.V		ĉasi
+Integrity:part.N		parto
+Integrity:piece.N		peco
+Integrity:whole.A		tuta, entuta
 Interaction:choose.V		elekti, selekti
 Law:crime.N		krimo
 Literature:alphabet.N		aboco, alfabeto
@@ -355,7 +362,10 @@ People:man.N		viro
 People:woman.N		virino
 Perception:feel.V		sensi
 Perception:hear.V		aŭdi
+Perception:pain.N		doloro
 Perception:touch.V		tuŝi
+Perception:wet.A		malseka
+Perception:yellow.A		flava
 Plant:Citrus sinensis.N		oranĝo
 Plant:Ficus carica.N		figo
 Plant:Glycine max.N		sojo
@@ -397,6 +407,7 @@ Society:help.V		helpi
 Sound:laugh.V		ridi
 Space:apart.ADV		aparte, dise
 Space:back.ADV		reen, reire, revene
+Space:wide.A		larĝa, vasta
 Storage:barrel.N		barelo
 Storage:basket.N		korbo
 Storage:bottle.N		botelo
@@ -404,11 +415,27 @@ Storage:box.N		kartono
 Storage:bucket.N		sitelo
 Storage:package.N		pakaĵo
 Storage:tin (can).N		ladskatolo
+Time:April.N		aprilo
+Time:August.N		aŭgusto
+Time:December.N		decembro
+Time:February.N		februaro
+Time:January.N		januaro
+Time:July.N		julio
+Time:June.N		junio
+Time:March.N		marto
+Time:May.N		majo
+Time:October.N		oktobro
+Time:September.N		septembro
+Time:afternoon.N		postagmezo
+Time:age.N		aĝo
+Time:already.ADV		jam
+Time:always.ADV		ĉiam, ĉiame
 Time:autumn.N		aŭtuno
 Time:final.A		fina, lasta
 Time:hour.N		horo
 Time:late.ADV		malfrua, malfrue
 Time:long ago.ADV		antaŭlonge
+Time:minute.N		minuto
 Time:month.N		monato
 Time:never.ADV		neniam
 Time:new.A		nova
@@ -419,6 +446,7 @@ Time:old.A		maljuna
 Time:period.N		epoko
 Time:rhythm.N		ritmo
 Time:season.N		sezono
+Time:second.N		sekundo
 Time:short.ADV		mallonga, mallongdaŭra
 Time:springtime.N		printempo
 Time:still.ADV		ankoraŭ

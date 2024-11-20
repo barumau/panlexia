@@ -252,6 +252,7 @@ Food:bake.V		pjek	pjɛk
 Food:bread.N		bukë	bʊkə
 Food:soup.N		supë	sʊpə
 Food:soup.N		çorbë	t͡ʃɔɾbə
+Food:spoon.N		lugë	lʊɡə
 Form:bend (sth).V		përkul	pəɾkʊl
 Form:bend.V		kërrus	kərʊs
 Function:1PL.PRO		ne	nɛ
@@ -308,6 +309,8 @@ Hunting:bow.N		hark	haɾk
 Hunting:fishing.V		gjuaj peshk	ɟʊaj pɛʃk
 Hunting:fishing.V		peshkoj	pɛʃkɔj
 Hunting:hunt.V		gjuaj	ɟʊaj
+Integrity:part.N		pjesë	pjɛsə
+Integrity:piece.N		copë	t͡sɔpə
 Interaction:choose.V		zgjedh	ʒjɛð
 Interaction:rescue.V		shpëtoj	ʃpətɔj
 Mind:dream.N		ëndërr	ɛndər
@@ -360,8 +363,12 @@ People:woman.N		grua	ɡɾʊa
 Perception:feel.V		ndiej	ndiɛj
 Perception:hear or listen.V		dëgjoj	dəɟɔj
 Perception:hear.V		dëgjoj	dəɟɔj
+Perception:pain.N		dhimbje	ðimbjɛ
 Perception:touch.V		rrok	rɔk
+Perception:wet.A		lagur	laɡʊɾ
+Perception:yellow.A		verdhë	vɛɾðə
 Plant:Betula.N		mështekën	məʃtɛkən
+Plant:bark.N		lëvore	ləvɔɾɛ
 Plant:branch.N		degë	dɛɡə
 Plant:flower.N		lule	lʊlɛ
 Plant:leaf.N		fletë	flɛtə
@@ -425,6 +432,7 @@ Sound:voice.N		zë	zə
 Sound:whistle.V		fishkëllej	fiʃkəɫɛj
 Space:back.ADV		mbrapsht	mbɾapʃt
 Space:back.ADV		prapa	pɾapa
+Space:wide.A		gjerë	ɟɛɾə
 Storage:bag.N		çantë	t͡ʃantə
 Storage:box.N		kuti	kʊti
 Storage:bucket.N		kovë	kɔvə
@@ -438,6 +446,22 @@ Storage:pouch.N		trastë	tɾastə
 Storage:pour.V		mbush	mbʊʃ
 Storage:sack.N		thes	θɛs
 Storage:sack.N		torbë	tɔɾbə
+Time:April.N		prill	pɾiɫ
+Time:August.N		gusht	ɡʊʃt
+Time:December.N		dhjetor	ðjɛtɔɾ
+Time:February.N		shkurt	ʃkʊɾt
+Time:January.N		janar	janaɾ
+Time:July.N		korrik	kɔrik
+Time:June.N		qershor	cɛɾʃɔɾ
+Time:March.N		mars	maɾs
+Time:May.N		maj	maj
+Time:November.N		nëntor	nəntɔɾ
+Time:October.N		tetor	tɛtɔɾ
+Time:September.N		shtator	ʃtatɔɾ
+Time:age.N		moshë	mɔʃə
+Time:already.ADV		tashmë	taʃmə
+Time:always.ADV		gjithnjë	ɟiθɲɛ
+Time:always.ADV		përherë	pəɾhɛɾə
 Time:autumn.N		vjeshtë	vjɛʃtə
 Time:final.A		fundit	fʊndit
 Time:month.N		muaj	mʊaj

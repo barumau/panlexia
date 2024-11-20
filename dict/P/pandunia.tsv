@@ -6,10 +6,13 @@ Animal:Asian dragon.N	lung		lung	zho:龙 (lóng), yue:龍 (lung4), vie:rồng,lo
 Animal:Aves.N	paxi		paxi	hin:mar:पक्षी (pakṣī), ben:পাখী (pakhī), tam:பட்சி (paṭci), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa)
 Animal:Canis lupus familiaris.N	bua		bua	swa:mbwa + fra:ouaf, zho:汪 (wāng), jpn:ワン (wan)
 Animal:dragon.N	drak		drak	eng:fra:dragon, spa:dragón, por:dragão, deu:Drache, rus:дракон (drakon), jpn:ドラゴン (doragon), kor:드래곤 (deuraegon), swa:dragoni
+Animal:Equus (Hippotigris).N	zebra		zebra	eng:deu:por:tur:may:zebra, fra:zèbre, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), ben:জেবরা (jebra), jpn:ゼブラ (zebura)
 Animal:Equus asinus × caballus.N	ihamar		iha·mar	
 Animal:Equus asinus.N	iha		iha	onom. eng:heehaw, fra:hi-han, rus:и-а (i-a), vie:hô hố, tur:aa-i
 Animal:Equus ferus caballus.N	mar		mar	mon:морь (mor'), kor:말 (mal), zho:马 (mǎ), yue:馬 (maa5), jpn:馬 (uma), vie:mã, tha:ม้า (maa), tam:மா (mā), eng:mare, deu:Mähre, isl:mar
 Animal:Felis catus.N	mau		mau	zho:猫 (māo), yue:貓 (maau), vie:mèo, tha:แมว (mæo), swa:nyau + eng:miaow; meow, fra:miaou, deu:spa:por:miau, rus:мяу (myau), fas: میو‎ (miyu), hin:म्याऊँ (myāū̃), tam:மியாவ் (miyāv), tur:miyav, 
+Animal:Felis leo.N	singa		singa	may:singa, hin:सिंघ (singh), ben:সিংহ (singh), tam:சிங்கம் (sinkam), tha:สิง (sing), zho:狮 (shī), jpn:獅子 (shishi), + swa:simba
+Animal:Felis tigris.N	bagre		bagr'e	hin:बाघ (bāgh), ben:বাঘ (bagh) + fas:(babr) + spa:por:tigre, rus:тигр (tigr)
 Animal:Hippopotamus amphibius.N	gubu		gubu	ful:ngabbu kon:ngubu, sot:tsw:kubu, zul:rwa:imvubu, amh:ጉማሬ (gumare)
 Animal:Homo sapiens.N	hom		hom	fra:homme, spa:hombre, por:homem, eng:human
 Animal:Homo sapiens.N	homan		hom·an	
@@ -51,8 +54,11 @@ Body:nail.N	nag		nag	deu:Nagel, rus:ноготь (nogot'), fas:ناخن‎ (nâx
 Body:nose.A	nazal		naz·al	
 Body:nose.N	naze		naz'e	eng:nose, spa:por:nariz, deu:Nase, rus:нос (nos), fas:نس‎ (nos), hin:नासिका (nāsikā), ben:নাক (nak), tam:நாசி (nāsi)
 Body:tear.N	ain sui		ain sui	tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา
+Building:bar.N	bar		bar	eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), yue:酒吧 (zau2baa1), jpn:バー (bā), hin:बार (bār), ben:বার (bar), tam:பார் (pār)
 Building:build.V	bina		bina	ara: بِنَاء‎ (bināʾ), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, + jpn:ビル (biru)
+Building:dam.N	baraje		bar·aj'e	
 Building:door.N	dor		dor	eng:door, deu:Tür, rus:дверь (dverʹ), fas: دَر (dar), hin:द्वार (dvār), ben:দরজা (dorja), tel:ద్వారము (dvāramu), jpn:(doa)
+Building:igloo.N	iglu		iglu	eng:igloo, fra:iglou, spa:iglú, por:tur:may:iglu, rus:иглу (iglu), hin:इग्लू (iglū), jpn:イグルー (igurū), kor:이글루 (igeullu)
 Building:oven.N	tanur		tanur	fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr), swa:tanuri, hau:tanda
 Clothing:coat.N	kot		kot	eng:coat, swa:koti, hau:kwat, orm:koota, jpn:コート (kōto), fas:(kot), hin:कोट (kot)
 Clothing:shirt.N	sherte		shert'e	eng:shirt, deu:T-Shirt, fra:por:T-shirt, fas: تی‌شِرْت (ti-šert), hin:टी-शर्ट (ṭī-śarṭ), ben:শার্ট (śarṭo), tur:tişört, zho:T恤衫 (tī-xùshān), yue:恤衫 (seot1 saam1), jpn:シャツ (shatsu), kor:셔츠 (syeocheu), tam:சட்டை (caṭṭai), ara: تِي شِيرْت (tī šīrt), swa:shati, yor:ṣẹ́ẹ̀tì
@@ -70,6 +76,7 @@ Communication:laugh.N	haha		haha
 Communication:laugh.V	haha		haha	
 Communication:news.N	habar		habar	ara: خَبَر‎ (xabar), fas: خبر‎ (xabar), hin:ख़बर (xabar), ben:খবর (khôbôr), tam:கபர் (kapar), may:kabar, tur:haber, swa:habari, hau:labari, yor:làbarè, ful:habaru
 Communication:telephone.N	telefon		tele·fon	
+Cosmos:telescope.N	teleskope		tele·skop'e	
 Cosmos:universe.N	kosme		kosm'e	eng:fra:spa:cosmos, deu:Kosmos, por:cosmo, rus:космос (kosmos), tur:kozmo-
 Degree:less.ADV	les		les	eng:less
 Degree:more.ADV	mor		mor	eng:more, deu:mehr
@@ -193,6 +200,8 @@ Element:Zn.N	zinke		zink'e	eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк
 Element:Zr.N	zirkonium		zirkon·ium	eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم
 Emotion:love.N	love		lov'e	eng:love, rus:любить (liubit'), hin:लोभ (lobh), ben:লোভ (lōbh), may:loba, tha:โลภะ (lopha), jpn:ラブ (rabu), kor:러브 (reobeu)
 Emotion:love.V	love		lov'e	
+Emotion:pain.N	alge		alg'e	eng:por:spa:-algia, fra:deu:-algie, rus:-альгия (-alʹgiya) + jpn:ノスタルジー (nosutarujī), fas: نوستالژی‎ (nostâlži), tur:nostalji
+Emotion:painful.A	algik		alg·ik	
 Family:brother.N	brad		brad	ell:φράτηρ (phrater), eng:brother, por:brada; bródi, rus:брат (brat), fas: برادر‎ (barâdar), hin:बिरादर (birādar), ben:বেরাদর (beradôr), may:bruder, jpn:ブラザー (burazā), kor:브라더 (beuradeo), tur:birader, swa:bradha
 Family:father.N	pa		pa	eng:fra:papa, spa:papá, por:pai, rus:папа (papa), ara:(bābā), zho:爸 (bà), yue:爸 (baa1), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp), ben:বাবা (baba), may:bapa, hau:swa:tur:baba, ful:ba; baaba
 Family:mother.N	ma		ma	por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)
@@ -209,6 +218,7 @@ Food:pizza.N	piza		piza	eng:deu:fra:spa:tur:vie:pizza, rus:пицца (pitsa), f
 Food:salad.N	salad		salad	fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), ful:salati
 Food:Solanum lycopersicum.N	tomat		tomat	eng:tomato, por:spa:tomate, deu:Tomate, rus:томат (tomat), tur:domates, hau:tumatiri, may:tomat, hin:टमाटर (ṭamāṭar), ben:টম্যাটো (ṭamyāṭo), jpn:トマト (tomato), kor:토마토 (tomato)
 Food:soup.N	supa		supa	eng:soup, fra: soupe, spa:por:sopa, deu: Suppe, rus:суп (sup), jpn:スープ (sūpu), kor:수프 (supeu), hin:सूप (sūp), may:sup, swa:supu
+Food:spoon.N	chamcha		chamcha	hin:चम्मच (cammac), ben:চামচ (camôc), may:camca, kan:ಚಮಚ (camaca), fas: چمچه (čamče), tel:చెమ్చా (cemcā), pnb:ਚਮਚਾ (camcā), tur:çömçe + tha:ช้อน (chon)
 Function:1PL EXCL.PRO	midi		mi·di	
 Function:1PL INCL.PRO	yumi		yu·mi	
 Function:1PL POSS.PRO	vi se		vi se	
@@ -250,6 +260,7 @@ Hand::N	hande		hand'e	eng:hand, deu:Hand + hin:हाथ (hāth), ben:হাত
 Horn::N	korne		korn'e	eng:horn, deu:Horn, fra:corne, spa:cuerno, por:corno, ara: قرن (qarn)
 House:table.N	meza		meza	por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa
 Hunting:bow.N	gung		gung	zho:弓 (gōng), yue:弓 (gung1), jpn:弓 (kyū), kor:궁 (gung), vie:cung
+Integrity:part.N	parte		part'e	eng:part, por:spa:parte + fas: پارچه (pârče), hin:पारचा (pārcā), tur:parça
 Kopf::N	kap		kap	deu:Kopf, spa:cabeza; cabo, por:cabeça; cabo, may:kepala + hin:कपाल (kapāl) + eng:cape, fra:cap + yue:岬 (gaap3), kor:갑 (gap)
 Music:sing.V	gante		gant'e	spa:por:cantar, ara: غَنَّى‎ (ḡannā), hin:गाना (gānā), ben:গান (gan), zho:歌 (gē), yue:歌 (go1), jpn:歌 (ka), kor:가 (ga), vie:ca
 Music:song.N	gante		gant'e	
@@ -303,6 +314,7 @@ Quantity:decrease.V	dekres		de.kres
 Quantity:empty.A	hali		hali	ara:خَالٍ‎ (xāliy), hin:ख़ाली (xālī), ben:খালি (khali), tel:ఖాళీ (khāḷī), tam:(kali), fas:خالی (xāli), tur:hali
 Quantity:enough.ADV	bas		bas	spa:por:ita:basta + ara:fas:urd:س (bas), hin:(bas), swa:basi
 Quantity:increase.V	kres		kres	spa:crecer, por:crescer, fra:croître, eng:increase
+Society:emperor.N	imperer		imper·er	
 Society:help.N	helpe		help'e	
 Society:help.V	helpe		help'e	eng:help, deu:helfen
 Society:people.N	demo		dem'o	deu:eng:spa:por:may:tur:swa:demo-, fra:démo-, rus:демо- (demo-)
@@ -313,13 +325,29 @@ Storage:bag.N	bag		bag	eng:bag; baggage, hin:बैग (bæg), jpn:バッグ (ba
 Storage:barrel.N	tong		tong	zho:桶 (tǒng), yue:桶 (tung3), kor:통 (tong), vie:thùng, may:tong, khm:តុង (tong), tha:ถัง (tǎng), fas: تنگ‎ (tong) + fra:tonneau, spa:tonel
 Storage:box.N	kas		kas	lat:capsa, deu:Kasse, eng:case, fra:caise, spa:caja, por:caixa, rus:касса (kassa), swa:kasha, ful:keesu + ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes + zho:卡式 (kǎshì), yue:卡式 (kaa1sik1), jpn:カセット (kasetto), kor:카세트 (kaseteu), hau:kaset
 Storage:bucket.N	balde		bald'e	spa:por:tgl:balde, hin:बाल्टी (bālṭī), ben:বালতি (balti), may:baldi, tam:வாளி (vāḷi)
+Storage:chest.N	sinduk		sin.duk	
 Storage:sack.N	sak		sak	deu:eng:sack, fra:sac, spa:por:saco, fas: ساک‎ (sâk), may:saku, ful:saakuuru, jpn:サック (sakku)
+Time:always.ADV	evri tem		evri tem	
+Time:April.N	mes for		mes for	
+Time:August.N	mes eit		mes eit	
+Time:December.N	mes ten du		mes ten du	
+Time:February.N	mes du		mes du	
 Time:final.A	final		fin·al	
+Time:January.N	mes un		mes un	
+Time:July.N	mes seven		mes seven	
+Time:June.N	mes sixe		mes six'e	
+Time:March.N	mes tri		mes tri	
+Time:May.N	mes faif		mes faif	
+Time:minute.N	minut		minut	eng:minute, spa:por:minuto, rus:мину́та (minúta), hin:मिनट (minaṭ), ben:মিনিট (miniṭ), may:minit
 Time:month.N	mes		mes	fra:mois, spa:mez, por:mês, rus:месяц (mes’ac), hin:मास (mās), ben:মাস (maś) + swa:mwezi
 Time:never.ADV	no tem		no tem	
 Time:new.A	nov		nov	eng:nov-, fra:nouveau, spa:nuevo, por:novo, rus:новый (novyy), hin:नव (nav), ben:নয় (nôy); নও- (nôo-), may:nawa
+Time:November.N	mes ten un		mes ten un	
 Time:now.ADV	nun		nun	
+Time:October.N	mes ten		mes ten	
 Time:old (of person).A	sen		sen	eng:fra:may:senior, spa:señor, por:sênior + zho:先辈 (xiānbèi), jpn:先輩 (senpai), kor:선배 (seonbae)
+Time:second.N	sekun		sekun	eng:second, spa:por:segundo, rus:секунда (sekunda), swa:sekunde, hin:सैकण्ड (saikaṇḍ), ben:সেকেন্ড (śekenḍ)
+Time:September.N	mes nain		mes nain	
 Time:year.N	nen		nen	zho:年 (nián), yue:年 (nin4), jpn:年 (nen), kor:년 (nyeon), vie:năm,niên
 Transit:boat.N	bot		bot	eng:boat, deu:Boot, fra:bateau, spa:bote, rus:бот (bot), hin:पोत (pot), swa:boti, jpn:ボート (bōto), kor:보트 (boteu)
 Transit:road.N	dau		dau	zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo

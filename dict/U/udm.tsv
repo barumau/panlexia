@@ -243,6 +243,7 @@ Food:NaCl.N		сылал	sɨlɑl
 Food:bake.V		пыжыны	pɨʒɨnɨ
 Food:bread.N		нянь	ɲɑɲ
 Food:soup.N		шыд	ʃɨd
+Food:spoon.N		пуньы	puɲɨ
 Form:bend (sth).V		куасаны	kuɑsɑnɨ
 Form:bend.V		губыртыны	ɡubɨrtɨnɨ
 Function:1PL.PRO		ми	mi
@@ -294,6 +295,8 @@ House:table.N		ӝӧк	d͡ʒʌk
 Hunting:bow.N		пукыӵ	pukɨt͡ʃ
 Hunting:fishing.V		чорыганы	t͡ɕorɨɡɑnɨ
 Hunting:hunt.V		пӧйшураны	pʌjʃurɑnɨ
+Integrity:part.N		люкет	lʲuket
+Integrity:piece.N		юдэс	judes
 Interaction:choose.V		бырйыны	bɨrjɨnɨ
 Interaction:rescue.V		утьыны	utʲɨnɨ
 Mind:dream.N		уйвӧт	ujvʌt
@@ -340,8 +343,12 @@ People:woman.N		кышномурт	kɨʃnomurt
 Perception:feel.V		шӧдыны	ʃʌdɨnɨ
 Perception:hear or listen.V		кылыны	kɨlɨnɨ
 Perception:hear.V		кылыны	kɨlɨnɨ
+Perception:pain.N		висён	visʲon
 Perception:touch.V		исаны	jisɑnɨ
+Perception:wet.A		котмем	kotmem
+Perception:yellow.A		ӵуж	t͡ʃuʒ
 Plant:Betula.N		кызьпу	kɨzʲpu
+Plant:bark.N		сул	sul
 Plant:branch.N		ул	ul
 Plant:flower.N		сяська	sʲɑsʲkɑ
 Plant:leaf.N		куар	kuɑr
@@ -406,6 +413,7 @@ Sound:voice.N		куара	kuɑrɑ
 Sound:whistle.V		шуланы	ʃulɑnɨ
 Space:back.ADV		берен	beren
 Space:back.ADV		берлань	berlɑɲ
+Space:wide.A		паськыт	pɑsʲkɨt
 Storage:bag.N		пуйы	pujɨ
 Storage:bag.N		сумка	sumkɑ
 Storage:box.N		ящик	jɑɕʲik
@@ -417,6 +425,23 @@ Storage:misplace.V		ыштыны	ɨʃtɨnɨ
 Storage:pouch.N		пуйы	pujɨ
 Storage:pour.V		лэзьыны	lezʲɨnɨ
 Storage:sack.N		пуйы	pujɨ
+Time:April.N		оштолэзь	oʃtolezʲ
+Time:August.N		гудырикошкон	ɡudɨrikoʃkon
+Time:December.N		толсур	tolsur
+Time:February.N		тулыспал	tulɨspɑl
+Time:January.N		выльартолэзь	vɨlʲɑrtolezʲ
+Time:July.N		пӧсьтолэзь	pʌsʲtolezʲ
+Time:June.N		вожотолэзь	voʒotolezʲ
+Time:March.N		южтолэзь	juʒtolezʲ
+Time:May.N		куартолэзь	kuɑrtolezʲ
+Time:November.N		шуркынмон	ʃurkɨnmon
+Time:October.N		выльӝуктолэзь	vɨlʲd͡ʒuktolezʲ
+Time:September.N		куарусён	kuɑrusʲon
+Time:age.N		арлыд	ɑrlɨd
+Time:already.ADV		ини	jiɲi
+Time:already.ADV		ни	ɲi
+Time:always.ADV		котьку	kotʲku
+Time:always.ADV		пыр	pɨr
 Time:autumn.N		сӥзьыл	sizʲɨl
 Time:final.A		берло	berlo
 Time:final.A		берпум	berpum

@@ -244,6 +244,7 @@ Food:NaCl.N		مالګه	ˈmɑlɡa
 Food:bake.V		پخول	paxaˈwəl
 Food:bread.N		ډوډۍ	ɖoɖəi
 Food:soup.N		شوربا	ʃorˈbɑ
+Food:spoon.N		کاشوغه	kɑˈʃuɣa
 Form:bend (sth).V		کږول	kaʐaˈwəl
 Form:bend.V		ټیټول	ʈiʈaˈwəl
 Function:1PL.PRO		مونږ	munʐ
@@ -301,6 +302,8 @@ House:table.N		مېز	mez
 Hunting:bow.N		لیندۍ	linˈd̪əj
 Hunting:fishing.V		کب نيول	kab niˈwəl
 Hunting:hunt.V		ښکار کول	ʂkɑr kaˈwəl
+Integrity:part.N		برخه	barˈxa
+Integrity:piece.N		ټوټه	ʈoˈʈa
 Interaction:choose.V		خوښول	xwaʂeˈwəl
 Interaction:rescue.V		نجات ورکول	naˈd͡ʒɑt̪ warkaˈwəl
 Mind:dream.N		خوب	xob
@@ -351,8 +354,12 @@ People:woman.N		ښځه	ˈʂəd͡za
 Perception:feel.V		حسول	hisaˈwəl
 Perception:hear or listen.V		خبرېدل	xabreˈd̪əl
 Perception:hear.V		اورېدل	awreˈd̪əl
+Perception:pain.N		درد	d̪ard̪
 Perception:touch.V		لاس وهل	lɑs waˈhəl
+Perception:wet.A		لوند	lund̪
+Perception:yellow.A		زېړ	zjaɺ
 Plant:Betula.N		توس	t̪us
+Plant:bark.N		پوستکی	posˈt̪əkai
 Plant:branch.N		ښاخ	ʂɑx
 Plant:flower.N		ګل	ɡul
 Plant:leaf.N		پاڼه	ˈpɑɳa
@@ -414,6 +421,7 @@ Sound:voice.N		اواز	ɑˈwɑz
 Sound:voice.N		غږ	ɣaʐ
 Sound:whistle.V		شپېلک وهل	ʃpeˈlak waˈhəl
 Space:back.ADV		بېرته	ˈbert̪a
+Space:wide.A		پراخه	pˈrɑxa
 Storage:bag.N		بکس	baks
 Storage:bag.N		توبره	t̪obˈra
 Storage:box.N		صندوق	sunˈd̪uq
@@ -427,6 +435,22 @@ Storage:pouch.N		کڅوړه	kaˈt͡soɺa
 Storage:pour.V		اچول	at͡ʃaˈwəl
 Storage:pour.V		تویول	t̪ojaˈwəl
 Storage:sack.N		جوال	d͡ʒuˈwɑl
+Time:April.N		اپریل	apˈril
+Time:August.N		اګست	áɡəst̪
+Time:December.N		دسمبر	d̪iˈsambr
+Time:February.N		فبروري	fabruaˈri
+Time:January.N		جنوري	d͡ʒanwaˈri
+Time:July.N		جولای	d͡ʒuˈlɑj
+Time:June.N		جون	d͡ʒun
+Time:March.N		مارچ	mart͡ʃ
+Time:May.N		مې	mai
+Time:November.N		نومبر	noˈwambr
+Time:October.N		اکتوبر	akˈt̪obr
+Time:September.N		سپټامبر	sipʈambr
+Time:age.N		منګ	manɡ
+Time:already.ADV		دمخه	d̪əˈməxa
+Time:always.ADV		تل	t̪el
+Time:always.ADV		همېشه	hameˈʃa
 Time:autumn.N		خزان	xazɑn
 Time:autumn.N		منی	ˈmənai
 Time:final.A		آخرنی	ɑxriˈnaj

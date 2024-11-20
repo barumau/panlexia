@@ -239,6 +239,7 @@ Food:NaCl.N		тӑвар	təˈʋar
 Food:bake.V		пӗҫер	pɘˈɕ̬ɛr
 Food:bread.N		ҫӑкӑр	ˈɕəkər
 Food:soup.N		яшка	jaʂˈka
+Food:spoon.N		кашӑк	ˈkaʂək
 Form:bend (sth).V		ав	aʋ
 Form:bend (sth).V		кукӑрт	ˈkukərt̬
 Form:bend.V		кукӑрт	ˈkukərt̬
@@ -298,6 +299,8 @@ House:table.N		сӗтел	sɘˈt̬ɛl
 Hunting:bow.N		ухӑ	ˈuχə
 Hunting:fishing.V		пулӑ тыт	pulə tɯt
 Hunting:hunt.V		сунара ҫӳре	sunaˈra ɕyˈrɛ
+Integrity:part.N		пай	paj
+Integrity:piece.N		татӑк	ˈtatək
 Interaction:choose.V		суйла	sujˈla
 Interaction:rescue.V		ҫӑл	ɕəl
 Mind:dream.N		тӗлӗк	ˈtɘlɘk
@@ -349,8 +352,12 @@ Perception:feel.V		сис	sis
 Perception:feel.V		туй	tuj
 Perception:hear or listen.V		пӑл	pəl
 Perception:hear.V		илт	ilt̬
+Perception:pain.N		ырату	ɯraˈt̬u
 Perception:touch.V		перӗн	ˈpɛrɘn
+Perception:wet.A		нӳрӗ	ˈnyrɘ
+Perception:yellow.A		сарӑ	ˈsarə
 Plant:Betula.N		хурӑн	ˈχurən
+Plant:bark.N		хуйӑр	ˈχujər
 Plant:branch.N		турат	tuˈrat
 Plant:flower.N		чечек	t͡ɕɛˈt͡ɕ̬ɛk
 Plant:leaf.N		ҫулҫӑ	ˈɕulɕ̬ə
@@ -428,6 +435,7 @@ Sound:sound (of instrument or voice).V		янӑра	janəˈra
 Sound:voice.N		сасӑ	ˈsasə
 Sound:whistle.V		шӑхӑр	ˈʂəχər
 Space:back.ADV		каялла	kajaˈla
+Space:wide.A		сарлака	sarlaˈk̬a
 Storage:bag.N		сумка	ˈsumk̬a
 Storage:box.N		ещӗк	ˈɛɕːɘk
 Storage:box.N		сунтӑх	ˈsunt̬əχ
@@ -440,6 +448,25 @@ Storage:misplace.V		ҫӗтер	ɕɘˈt̬ɛr
 Storage:pouch.N		михӗ	ˈmiχɘ
 Storage:pour.V		тултар	tulˈt̬ar
 Storage:sack.N		михӗ	ˈmiχɘ
+Time:April.N		апрель	apˈrɛlʲ
+Time:August.N		август	ˈaʋɡust
+Time:December.N		декабрь	dɛˈk̬abrʲ
+Time:December.N		раштав	raʂˈtaʋ
+Time:February.N		кӗҫӗн кӑрлач	ˈkɘɕɘn kərˈlat͡ɕ
+Time:February.N		февраль	fɛʋˈralʲ
+Time:January.N		январь	janˈʋarʲ
+Time:July.N		июль	iˈjulʲ
+Time:June.N		июнь	iˈjunʲ
+Time:March.N		март	mart̬
+Time:March.N		пуш уйӑхӗ	puʂ ˈujəχɘ
+Time:May.N		май	maj
+Time:November.N		ноябрь	noˈjabrʲ
+Time:October.N		октябрь	oktˈjabrʲ
+Time:September.N		авӑн уйӑхӗ	ˈaʋən ˈujəχɘ
+Time:September.N		сентябрь	sɛnt̬ˈjabrʲ
+Time:age.N		ҫул шучӗ	ɕul ˈʂut͡ɕɘ
+Time:already.ADV		ӗнтӗ	ˈɘnt̬ɘ
+Time:always.ADV		ялан	jaˈlan
 Time:autumn.N		кӗр	kɘr
 Time:autumn.N		кӗркунне	kɘrk̬uˈnɛ
 Time:final.A		юлашки	julaʂˈki

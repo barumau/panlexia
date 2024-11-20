@@ -233,6 +233,7 @@ Food:NaCl.N		sól	sul
 Food:bake.V		piec	piɛt͡s
 Food:bread.N		chleb	xlɛp
 Food:soup.N		zupa	zupa
+Food:spoon.N		łyżka	wɨʂka
 Form:bend (sth).V		zgiąć	zɡiɔnt͡ɕ
 Form:bend.V		zagiąć	zaɡiɔnt͡ɕ
 Function:1PL.PRO		my	mɨ
@@ -283,6 +284,8 @@ House:table.N		stół	stuw
 Hunting:bow.N		łuk	wuk
 Hunting:fishing.V		łowić ryby	wɔvit͡ɕ ɾɨbɨ
 Hunting:hunt.V		polować	pɔlɔvat͡ɕ
+Integrity:part.N		część	ʈ͡ʂɛ̃ɕt͡ɕ
+Integrity:piece.N		kawałek	kavawɛk
 Interaction:choose.V		wybrać	vɨbɾat͡ɕ
 Interaction:rescue.V		ocalić	ɔt͡salit͡ɕ
 Interaction:rescue.V		uratować	uɾatɔvat͡ɕ
@@ -334,8 +337,12 @@ Perception:feel.V		czuć	ʈ͡ʂut͡ɕ
 Perception:feel.V		odczuwać	ɔtʈ͡ʂuvat͡ɕ
 Perception:hear or listen.V		usłyszeć	uswɨʂɛt͡ɕ
 Perception:hear.V		słyszeć	swɨʂɛt͡ɕ
+Perception:pain.N		ból	bul
 Perception:touch.V		dotykać	dɔtɨkat͡ɕ
+Perception:wet.A		mokry	mɔkɾɨ
+Perception:yellow.A		żółty	ʐuwtɨ
 Plant:Betula.N		brzoza	bʐɔza
+Plant:bark.N		kora	kɔɾa
 Plant:branch.N		gałąź	ɡawɔ̃ɕ
 Plant:flower.N		kwiat	kfiat
 Plant:leaf.N		liść	liɕt͡ɕ
@@ -397,6 +404,7 @@ Sound:sound (of instrument or voice).V		dźwięczeć	d͡ʑviɛnʈ͡ʂɛt͡ɕ
 Sound:voice.N		głos	ɡwɔs
 Sound:whistle.V		gwizdać	ɡvizdat͡ɕ
 Space:back.ADV		z powrotem	z pɔvɾɔtɛm
+Space:wide.A		szeroki	ʂɛɾɔki
 Storage:bag.N		torba	tɔɾba
 Storage:box.N		skrzynia	skʂɨnia
 Storage:bucket.N		kubeł	kubɛw
@@ -409,6 +417,21 @@ Storage:misplace.V		zgubić	zɡubit͡ɕ
 Storage:pouch.N		torba	tɔɾba
 Storage:pour.V		nasypać	nasɨpat͡ɕ
 Storage:sack.N		worek	vɔɾɛk
+Time:April.N		kwiecień	kfiɛt͡ɕɛɲ
+Time:August.N		sierpień	ɕɛɾpiɛɲ
+Time:December.N		grudzień	ɡɾud͡ʑɛɲ
+Time:February.N		luty	lutɨ
+Time:January.N		styczeń	stɨʈ͡ʂɛɲ
+Time:July.N		lipiec	lipiɛt͡s
+Time:June.N		czerwiec	ʈ͡ʂɛɾviɛt͡s
+Time:March.N		marzec	maʐɛt͡s
+Time:May.N		maj	maj
+Time:November.N		listopad	listɔpat
+Time:October.N		październik	paʑd͡ʑɛɾnik
+Time:September.N		wrzesień	vʐɛɕɛɲ
+Time:age.N		wiek	viɛk
+Time:already.ADV		już	juʂ
+Time:always.ADV		zawsze	zafʂɛ
 Time:autumn.N		jesień	jɛɕɛɲ
 Time:final.A		ostatni	ɔstatni
 Time:month.N		miesiąc	miɛɕɔnt͡s

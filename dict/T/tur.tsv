@@ -256,6 +256,7 @@ Food:bake.V		fırında pişirmek	fɯɾɯnda piʃiɾmɛk
 Food:bake.V		pişirmek	piʃiɾmɛk
 Food:bread.N		ekmek	ɛkmɛk
 Food:soup.N		çorba	t͡ʃoɾba
+Food:spoon.N		kaşık	kaʃɯk
 Form:bend (sth).V		bükmek	bykmɛk
 Form:bend.V		eğmek	ɛjmɛk
 Function:1PL.PRO		biz	biz
@@ -312,6 +313,9 @@ House:table.N		masa	masa
 Hunting:bow.N		yay	jaj
 Hunting:fishing.V		balık tutmak	balɯk tutmak
 Hunting:hunt.V		avlanmak	avlanmak
+Integrity:part.N		kısım	kɯsɯm
+Integrity:piece.N		parça	paɾt͡ʃa
+Integrity:piece.N		tane	tanɛ
 Interaction:choose.V		seçmek	sɛt͡ʃmɛk
 Interaction:rescue.V		kurtarmak	kuɾtaɾmak
 Mind:dream.N		düş	dyʃ
@@ -366,8 +370,14 @@ Perception:feel.V		hissetmek	hisːɛtmɛk
 Perception:hear or listen.V		haber almak	habɛɾ almak
 Perception:hear.V		duymak	dujmak
 Perception:hear.V		işitmek	iʃitmɛk
+Perception:pain.N		ağrı	aːɾɯ
+Perception:pain.N		sancı	sand͡ʒɯ
 Perception:touch.V		dokunmak	dokunmak
+Perception:wet.A		yaş	jaʃ
+Perception:wet.A		ıslak	ɯslak
+Perception:yellow.A		sarı	saɾɯ
 Plant:Betula.N		huş	huʃ
+Plant:bark.N		kabuk	kabuk
 Plant:branch.N		budak	budak
 Plant:branch.N		dal	dal
 Plant:flower.N		çiçek	t͡ʃit͡ʃɛk
@@ -433,6 +443,8 @@ Sound:sound (of instrument or voice).V		tınlamak	tɯnlamak
 Sound:voice.N		ses	sɛs
 Sound:whistle.V		düdük çalmak	dydyk t͡ʃalmak
 Space:back.ADV		geriye	ɡɛɾijɛ
+Space:wide.A		enli	ɛnli
+Space:wide.A		geniş	ɡɛniʃ
 Storage:bag.N		çanta	t͡ʃanta
 Storage:box.N		sandık	sandɯk
 Storage:bucket.N		kova	kova
@@ -447,6 +459,22 @@ Storage:pouch.N		torba	toɾba
 Storage:pour.V		akıtmak	akɯtmak
 Storage:pour.V		dökmek	dœkmɛk
 Storage:sack.N		torba	toɾba
+Time:April.N		nisan	nisan
+Time:August.N		ağustos	aːustos
+Time:December.N		aralık	aɾalɯk
+Time:February.N		şubat	ʃubat
+Time:January.N		ocak	od͡ʒak
+Time:July.N		temmuz	tɛmːuz
+Time:June.N		haziran	haziɾan
+Time:March.N		mart	maɾt
+Time:May.N		mayıs	majɯs
+Time:November.N		kasım	kasɯm
+Time:October.N		ekim	ɛkim
+Time:September.N		eylül	ɛjlyl
+Time:age.N		yaş	jaʃ
+Time:already.ADV		çoktan	t͡ʃoktan
+Time:always.ADV		daima	daima
+Time:always.ADV		her zaman	hɛɾ zaman
 Time:autumn.N		güz	ɡyz
 Time:autumn.N		sonbahar	sonbahaɾ
 Time:final.A		son	son

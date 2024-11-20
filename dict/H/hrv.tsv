@@ -255,6 +255,7 @@ Food:NaCl.N		sol	sɔ̂ːl
 Food:bake.V		peći	pɛ̌t͡ɕi
 Food:bread.N		kruh	krûx
 Food:soup.N		supa	sûpa
+Food:spoon.N		žlica	ʒlît͡sa
 Form:bend (sth).V		sagnuti	sǎɡnuti
 Form:bend (sth).V		saviti	sǎʋiti
 Form:bend.V		saviti	sǎʋiti
@@ -315,6 +316,8 @@ Hunting:bow.N		luk	lûːk
 Hunting:fishing.V		loviti ribu	lɔ̌ʋiti rîbu
 Hunting:fishing.V		ribati	rîbati
 Hunting:hunt.V		loviti	lɔ̌ʋiti
+Integrity:part.N		dio	dîɔ
+Integrity:piece.N		komad	kɔ̌maːd
 Interaction:choose.V		izabrati	izǎbrati
 Interaction:rescue.V		spasiti	spǎːsiti
 Mind:dream.N		san	sân
@@ -369,9 +372,13 @@ People:woman.N		žena	ʒɛ̌na
 Perception:feel.V		osjećati	ɔ̌sjɛt͡ɕati
 Perception:hear or listen.V		saznati	sǎznati
 Perception:hear.V		čuti	t͡ʃûti
+Perception:pain.N		bol	bɔ̂ːl
 Perception:touch.V		dodirivati	dɔdirǐːʋati
 Perception:touch.V		doticati	dɔ̌tit͡sati
+Perception:wet.A		mokar	mɔ̂kar
+Perception:yellow.A		žut	ʒûːt
 Plant:Betula.N		breza	brɛ̂za
+Plant:bark.N		kora	kɔ̂ra
 Plant:branch.N		grana	ɡrǎːna
 Plant:flower.N		cvijet	t͡sʋîjɛt
 Plant:leaf.N		list	lîːst
@@ -440,6 +447,7 @@ Sound:voice.N		glas	ɡlâːs
 Sound:whistle.V		fućkati	fût͡ɕkati
 Space:back.ADV		natrag	nâtraːɡ
 Space:back.ADV		nazad	nâzaːd
+Space:wide.A		širok	ʃǐrɔk
 Storage:bag.N		taška	tâʃka
 Storage:bag.N		torba	tɔ̌ːrba
 Storage:box.N		sanduk	sǎnduk
@@ -454,6 +462,33 @@ Storage:pour.V		lijevati	lijɛ̌ʋati
 Storage:pour.V		sipati	sîpati
 Storage:sack.N		džak	d͡ʒâːk
 Storage:sack.N		vreća	ʋrɛ̂t͡ɕa
+Time:April.N		april	ǎpriːl
+Time:April.N		travanj	trâːʋaɲ
+Time:August.N		august	ǎuɡust
+Time:August.N		kolovoz	kɔlɔ̌ʋɔz
+Time:December.N		prosinac	prɔ̌sinat͡s
+Time:February.N		februar	fɛ̂bruaːr
+Time:February.N		veljača	ʋɛ̌ʎat͡ʃa
+Time:January.N		januar	jânuaːr
+Time:January.N		siječanj	sǐjɛt͡ʃaɲ
+Time:July.N		juli	jûːli
+Time:July.N		srpanj	sr̩̂ːpaɲ
+Time:June.N		juni	jûːni
+Time:June.N		lipanj	lîːpaɲ
+Time:March.N		mart	mârt
+Time:March.N		ožujak	ɔ̌ʒujak
+Time:May.N		maj	mâːj
+Time:May.N		svibanj	sʋîːbaɲ
+Time:November.N		novembar	nɔ̌ʋɛːmbar
+Time:November.N		studeni	stǔdɛniː
+Time:October.N		listopad	lîstɔpaːd
+Time:October.N		oktobar	ɔ̌ktɔːbar
+Time:September.N		rujan	rûːjan
+Time:September.N		septembar	sɛ̌ptɛːmbar
+Time:age.N		dob	dɔ̂ːb
+Time:already.ADV		već	ʋɛ̂t͡ɕ
+Time:always.ADV		uvijek	ûʋiɛk
+Time:always.ADV		vazda	ʋâzda
 Time:autumn.N		jesen	jɛ̂sɛːn
 Time:final.A		zadnji	zâdɲiː
 Time:month.N		mjesec	mjɛ̂sɛːt͡s

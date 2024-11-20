@@ -226,6 +226,7 @@ Food:NaCl.N		sal	saːɫ
 Food:bake.V		coquere	kɔkʷɛrɛ
 Food:bread.N		panis	paːnɪs
 Food:soup.N		ius	ɪuːs
+Food:spoon.N		coclear	kɔkɫɛar
 Form:bend (sth).V		curvare	kʊrwaːrɛ
 Form:bend.V		flectere	fɫɛktɛrɛ
 Function:1PL.PRO		nos	noːs
@@ -277,6 +278,9 @@ House:table.N		mensa	mẽːsa
 Hunting:bow.N		arcus	arkʊs
 Hunting:fishing.V		piscari	pɪskaːriː
 Hunting:hunt.V		venari	weːnaːriː
+Integrity:part.N		pars	pars
+Integrity:piece.N		fragmentum	fraɡmɛntʊ̃
+Integrity:piece.N		frustum	fruːstʊ̃
 Interaction:choose.V		eligere	eːɫɪɡɛrɛ
 Interaction:rescue.V		servare	sɛrwaːrɛ
 Mind:dream.N		somnium	sɔmnɪʊ̃
@@ -326,8 +330,12 @@ People:woman.N		mulier	mʊɫɪɛr
 Perception:feel.V		sentire	sɛntiːrɛ
 Perception:hear or listen.V		comperire	kɔmpɛriːrɛ
 Perception:hear.V		audire	aʊ̯diːrɛ
+Perception:pain.N		dolor	dɔɫɔr
 Perception:touch.V		tangere	taŋɡɛrɛ
+Perception:wet.A		madidus	madɪdʊs
+Perception:yellow.A		flavus	fɫaːwʊs
 Plant:Betula.N		betulla	bɛtʊlːa
+Plant:bark.N		cortex	kɔrtɛks
 Plant:branch.N		ramus	raːmʊs
 Plant:flower.N		flos	fɫoːs
 Plant:leaf.N		folium	fɔɫɪʊ̃
@@ -386,6 +394,7 @@ Sound:sound (of instrument or voice).V		sonare	sɔnaːrɛ
 Sound:voice.N		vox	woːks
 Sound:whistle.V		sibilare	siːbɪɫaːrɛ
 Space:back.ADV		retro	rɛtroː
+Space:wide.A		latus	ɫaːtʊs
 Storage:bag.N		sacculus	sakːʊɫʊs
 Storage:box.N		cista	kɪsta
 Storage:bucket.N		situla	sɪtʊɫa
@@ -397,6 +406,21 @@ Storage:misplace.V		perdere	pɛrdɛrɛ
 Storage:pouch.N		sacculus	sakːʊɫʊs
 Storage:pour.V		fundere	fʊndɛrɛ
 Storage:sack.N		saccus	sakːʊs
+Time:April.N		Aprilis	apriːɫɪs
+Time:August.N		Augustus	aʊ̯ɡʷstʊs
+Time:December.N		December	dɛkɛmbɛr
+Time:February.N		Februarius	fɛbrʊaːrɪʊs
+Time:January.N		Ianuarius	ɪaːnʊaːrɪʊs
+Time:July.N		Iulius	ɪuːɫɪʊs
+Time:June.N		Iunius	ɪuːnɪʊs
+Time:March.N		Martius	maːrtɪʊs
+Time:May.N		Maius	maːɪʊs
+Time:November.N		Novembris	nɔwɛmbrɪs
+Time:October.N		Octobris	ɔktoːbrɪs
+Time:September.N		September	sɛptɛmbɛr
+Time:age.N		aetas	aɛ̯taːs
+Time:already.ADV		iam	ɪã
+Time:always.ADV		semper	sɛmpɛr
 Time:autumn.N		autumnus	aʊ̯tʊmnʊs
 Time:final.A		ultimus	ʊɫtɪmʊs
 Time:month.N		mensis	mẽːsɪs

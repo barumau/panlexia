@@ -270,6 +270,7 @@ Food:bake.V		labean egin	labean eɡin
 Food:bread.N		ogi	oɡi
 Food:soup.N		salda	ɕalda
 Food:soup.N		zopa	sopa
+Food:spoon.N		koilara	kɔjlaɾa
 Form:bend (sth).V		makolatu	makolatu
 Form:bend (sth).V		malgutu	malɡutu
 Form:bend.V		makurtu	makuɾtu
@@ -327,6 +328,8 @@ Hunting:bow.N		arku	aɾku
 Hunting:fishing.V		arrantza egin	arant͡sa eɡin
 Hunting:fishing.V		arrantzatu	arant͡satu
 Hunting:hunt.V		ehizatu	ehisatu
+Integrity:part.N		atal	atal
+Integrity:piece.N		puska	puɕka
 Interaction:choose.V		aukeratu	ɑukeɾatu
 Interaction:choose.V		hautatu	hɑutatu
 Interaction:rescue.V		gaizkatu	ɡɑjskatu
@@ -383,8 +386,12 @@ People:woman.N		emakume	emakume
 Perception:feel.V		sentitu	ɕentitu
 Perception:hear or listen.V		aditu	aditu
 Perception:hear.V		aditu	aditu
+Perception:pain.N		min	min
 Perception:touch.V		ukitu	ukitu
+Perception:wet.A		busti	buɕti
+Perception:yellow.A		hori	hoɾi
 Plant:Betula.N		urki	uɾki
+Plant:bark.N		azal	asal
 Plant:branch.N		adar	adaɾ
 Plant:flower.N		lili	lili
 Plant:leaf.N		hosto	hoɕto
@@ -455,6 +462,7 @@ Sound:sound (of instrument or voice).V		soinu egin	ɕɔjnu eɡin
 Sound:voice.N		ahots	ahot͡ɕ
 Sound:whistle.V		txistu egin	t͡ʃiɕtu eɡin
 Space:back.ADV		atzera	at͡seɾa
+Space:wide.A		zabal	sabal
 Storage:bag.N		poltsa	polt͡ɕa
 Storage:box.N		kutxa	kut͡ʃa
 Storage:bucket.N		treska	tɾeɕka
@@ -468,6 +476,22 @@ Storage:misplace.V		galdu	ɡaldu
 Storage:pouch.N		zorro	soro
 Storage:pour.V		isuri	iɕuɾi
 Storage:sack.N		zaku	saku
+Time:April.N		apiril	apiɾil
+Time:August.N		abuztu	abustu
+Time:December.N		abendu	abendu
+Time:February.N		otsail	ot͡ɕɑjl
+Time:January.N		urtarril	uɾtaril
+Time:July.N		uztail	ustɑjl
+Time:June.N		ekain	ekɑjn
+Time:March.N		martxo	maɾt͡ʃo
+Time:May.N		maiatz	mɑjat͡s
+Time:November.N		azaro	asaɾo
+Time:October.N		urri	uri
+Time:September.N		irail	iɾɑjl
+Time:age.N		adin	adin
+Time:already.ADV		ja	d͡ʒa
+Time:already.ADV		jada	d͡ʒada
+Time:always.ADV		beti	beti
 Time:autumn.N		neguantz	neɡuɑnt͡s
 Time:autumn.N		udazken	udasken
 Time:final.A		azken	asken

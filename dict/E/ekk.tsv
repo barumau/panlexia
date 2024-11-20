@@ -238,6 +238,7 @@ Food:bake.V		küpsetama	kypsʲetɑmɑ
 Food:bread.N		leib	lʲeib̥
 Food:bread.N		sai	sɑi
 Food:soup.N		supp	supː
+Food:spoon.N		lusikas	lusʲikɑs
 Form:bend (sth).V		painutama	pɑinutɑmɑ
 Form:bend.V		painutama	pɑinutɑmɑ
 Function:1PL.PRO		me	me
@@ -291,6 +292,8 @@ Hunting:bow.N		vibu	vib̥u
 Hunting:fishing.V		kala püüdma	kɑlɑ pyːd̥mɑ
 Hunting:fishing.V		kalastama	kɑlɑstɑmɑ
 Hunting:hunt.V		jahtima	jɑxtʲimɑ
+Integrity:part.N		osa	osɑ
+Integrity:piece.N		tükk	tykː
 Interaction:choose.V		valima	vɑlʲimɑ
 Interaction:rescue.V		päästma	pæːstmɑ
 Mind:dream.N		unenägu	unʲenæɡ̥u
@@ -341,9 +344,13 @@ People:woman.N		naine	nɑinʲe
 Perception:feel.V		tundma	tund̥mɑ
 Perception:hear or listen.V		üle kuulama	ylʲe kuːlɑmɑ
 Perception:hear.V		kuulma	kuːlmɑ
+Perception:pain.N		valu	vɑlu
 Perception:touch.V		puudutama	puːd̥utɑmɑ
 Perception:touch.V		riivama	riːvɑmɑ
+Perception:wet.A		märg	mærɡ̥
+Perception:yellow.A		kollane	kolːɑnʲe
 Plant:Betula.N		kask	kɑsk
+Plant:bark.N		koor	koːr
 Plant:branch.N		oks	oks
 Plant:flower.N		lill	lʲilː
 Plant:leaf.N		leht	lʲext
@@ -402,6 +409,7 @@ Sound:sound (of instrument or voice).V		kõlama	kɤlɑmɑ
 Sound:voice.N		hääl	hæːl
 Sound:whistle.V		vilistama	vilʲistɑmɑ
 Space:back.ADV		tagasi	tɑɡ̥ɑsʲi
+Space:wide.A		lai	lɑi
 Storage:bag.N		kott	kotː
 Storage:box.N		kast	kɑst
 Storage:bucket.N		pang	pɑŋk̥
@@ -413,6 +421,22 @@ Storage:misplace.V		kaotama	kɑotɑmɑ
 Storage:pouch.N		paun	pɑun
 Storage:pour.V		kallama	kɑlːɑmɑ
 Storage:sack.N		kott	kotː
+Time:April.N		aprill	ɑprilː
+Time:August.N		august	ɑuɡ̥ust
+Time:December.N		detsember	tʲetsʲemb̥er
+Time:February.N		veebruar	veːb̥ruɑr
+Time:January.N		jaanuar	jɑːnuɑr
+Time:July.N		juuli	juːlʲi
+Time:June.N		juuni	juːnʲi
+Time:March.N		märts	mærts
+Time:May.N		mai	mɑi
+Time:November.N		november	novemb̥er
+Time:October.N		oktoober	oktoːb̥er
+Time:September.N		september	sʲeptʲemb̥er
+Time:age.N		iga	iɡ̥ɑ
+Time:already.ADV		juba	jub̥ɑ
+Time:always.ADV		alati	ɑlɑtʲi
+Time:always.ADV		ikka	ikːɑ
 Time:autumn.N		sügis	syɡ̥is
 Time:final.A		viimane	viːmɑnʲe
 Time:month.N		kuu	kuː

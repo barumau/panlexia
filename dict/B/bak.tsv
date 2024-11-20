@@ -227,6 +227,7 @@ Food:NaCl.N		тоҙ	toð
 Food:bake.V		бешереү	beʃerey
 Food:bread.N		икмәк	ikmæk
 Food:soup.N		һурпа	hurpa
+Food:spoon.N		ҡалаҡ	qalaq
 Form:bend (sth).V		бөгөү	bøɡøy
 Form:bend.V		бөгөү	bøɡøy
 Function:1PL.PRO		беҙ	beð
@@ -281,6 +282,8 @@ House:table.N		өҫтәл	øθtæl
 Hunting:bow.N		йәйә	jæjæ
 Hunting:fishing.V		аулау	aulau
 Hunting:hunt.V		аулау	aulau
+Integrity:part.N		өлөш	øløʃ
+Integrity:piece.N		киҫәк	kiθæk
 Interaction:choose.V		һайлаү	hajlay
 Interaction:rescue.V		ҡотҡарыу	qotqarɯu
 Mind:dream.N		төш	tøʃ
@@ -327,9 +330,14 @@ People:woman.N		ҡатын	qatɯn
 Perception:feel.V		тойоу	tojou
 Perception:hear or listen.V		ишетеү	iʃetey
 Perception:hear.V		ишетеү	iʃetey
+Perception:pain.N		һыҙлау	hɯðlau
+Perception:pain.N		әрнеү	ærney
 Perception:touch.V		тейеү	tejey
 Perception:touch.V		ҡағылыу	qaɣɯlɯu
+Perception:wet.A		еүеш	jeyeʃ
+Perception:yellow.A		һары	harɯ
 Plant:Betula.N		ҡайын	qajɯn
+Plant:bark.N		ҡабыҡ	qabɯq
 Plant:branch.N		ботаҡ	botaq
 Plant:flower.N		сәскә	sæskæ
 Plant:leaf.N		япраҡ	japraq
@@ -390,6 +398,7 @@ Sound:sound (of instrument or voice).V		яңғырау	jaŋɣɯrau
 Sound:voice.N		тауыш	tauɯʃ
 Sound:whistle.V		һызғырып ебәреү	hɯzɣɯrɯp ebærey
 Space:back.ADV		кирегә	kireɡæ
+Space:wide.A		киң	kiŋ
 Storage:bag.N		сумка	sumka
 Storage:box.N		йәшинк	jæʃink
 Storage:bucket.N		биҙрә	biðræ
@@ -400,6 +409,21 @@ Storage:misplace.V		юғалтыу	juɣaltɯu
 Storage:pouch.N		тоҡ	toq
 Storage:pour.V		ҡойоу	qojou
 Storage:sack.N		тоҡ	toq
+Time:April.N		апрель	aprelʲ
+Time:August.N		август	awɡust
+Time:December.N		декабрь	dekabrʲ
+Time:February.N		февраль	fewralʲ
+Time:January.N		ғинуар	ɣinuar
+Time:July.N		июль	ijulʲ
+Time:June.N		июнь	ijunʲ
+Time:March.N		март	mart
+Time:May.N		май	maj
+Time:November.N		ноябрь	nojabrʲ
+Time:October.N		октябрь	oktjabrʲ
+Time:September.N		сентябрь	sentjabrʲ
+Time:age.N		йәш	jæʃ
+Time:already.ADV		инде	inde
+Time:always.ADV		һәр ҡасан	hær qasan
 Time:autumn.N		көз	køz
 Time:final.A		һуңғы	huŋɣɯ
 Time:month.N		ай	aj

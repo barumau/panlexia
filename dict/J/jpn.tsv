@@ -429,6 +429,8 @@ Communication:mail.N		郵便	yūbin
 Communication:newspaper.N		新聞	shinbun	cmn:xīnwén 新聞 (graphic loan)
 Communication:postage stamp.N		切手	kitte	
 Communication:postcard.N		葉書、older variants　端書、羽書、判書	hagaki	
+Communication:praise.N		称賛・賞賛	shōsan	cmn:chēngzàn 稱讚
+Communication:praise.N		褒める	homeru	
 Communication:radio.N		ラジオ	rajio	:radius
 Communication:radio.N		無線	musen	cmn:wúxiàn
 Communication:refuse.V		拒否	kyohi	
@@ -563,6 +565,8 @@ Food:flour.N		小麦粉	komugiko
 Food:sausage.N		ソーセージ	sōsēji	:salsicia
 Food:soup.N		スープ	sūpu	:suppa?
 Food:soup.N		汁	shiru (2)	
+Food:spoon.N		スプーン	supūn	eng:spoon
+Food:spoon.N		匙	saji	
 Food:supper.N		夕食	yūshoku	
 Food:supper.N		夕飯	yūmeshi	
 Food:supper.N		晩餐	bansan	cmn:wăncān
@@ -694,6 +698,10 @@ House:toilet.N		御手洗	otearai
 Hunting:boomerang.N		ブーメラン	būmeran	:bumariny
 Hunting:bow.N		弓	yumi	
 Hunting:hunt.V		狩る	karu (2)	
+Integrity:part.N		一部	ichibu	cmn:yíbù
+Integrity:part.N		部分	bubun	cmn:bùfēn
+Integrity:piece.N		個	ko	cmn:gè
+Integrity:piece.N		切れ	kire	
 Interaction:choose.V		選ぶ	erabu	
 Interaction:choose.V		選択	sentaku (2)	cmn:xuănzé
 Interaction:rescue.V		救う	sukuu	
@@ -778,11 +786,17 @@ People:young woman.N		乙女	otome
 People:young woman.N		青女	seijo	cmn:qīngnǚ
 Perception:hear.V		聞く	kiku	
 Perception:hear.V		聞こえる	kikoeru	
+Perception:pain.N		痛み	itami	
+Perception:pain.N		苦痛	kutsū	cmn:kŭtòng
 Perception:touch.V		触る	sawaru	
 Perception:touch.V		触れる	fureru	
+Perception:wet.A		湿気る(become wet)、 時化る (become rough (2)) The latter is a case of ateji.	shikeru	
+Perception:wet.A		濡れる	nureru	
+Perception:yellow.A		黄色	kiiro	
 Plant:Betula.N		樺	kaba	
 Plant:Ipomoea batatas.N		サツマイモ・薩摩芋	satsumaimo	
 Plant:Ipomoea batatas.N		芋	imo	
+Plant:bark.N		樹皮	juhi	cmn:shùpí
 Plant:branch or twig.N		枝	eda	
 Plant:flower.N		花	hana (2)	
 Plant:leaf.N		葉	ha (2)	
@@ -864,6 +878,7 @@ Sound:stutter.V		吃る	domoru
 Sound:voice.N		声	koe	
 Sound:whisper.V		囁く	sasayaku	
 Sound:whistle.V		口笛を吹く	kuchibue o fuku	
+Space:wide.A		広い	hiroi	
 Storage:basket.N		籠	kago	
 Storage:bottle.N		瓶	bin	cmn:píng
 Storage:can.N		缶 (a case of ateji), older variants: 罐、鑵	kan	eng:can
@@ -871,6 +886,11 @@ Storage:misplace.V		失う	ushinau
 Storage:misplace.V		無くす	nakusu	
 Storage:netbag.N		ネットバッグ	nettobaggu	eng:netbag
 Storage:pour.V		注ぐ	sosogu	
+Time:afternoon.N		午後	gogo	cmn:wǔhòu
+Time:age.N		年	toshi (1)	
+Time:age.N		年齢	nenrei	cmn:niánlíng 年齡
+Time:always.ADV		いつも	itsumo	
+Time:always.ADV		常	tsune	
 Time:autumn.N		秋	aki	
 Time:calendar.N		カレンダー	karendā	:calendarium
 Time:calendar.N		暦	koyomi	

@@ -235,6 +235,7 @@ Food:bake.V		пешерү	peʃerʉ
 Food:bread.N		икмәк	ikmæk
 Food:bread.N		ипи	ipi
 Food:soup.N		шулпа	ʃulpa
+Food:spoon.N		кашык	qɑʃɤk
 Form:bend (sth).V		бөгү	bœɡʉ
 Form:bend.V		ию	ijʊ
 Function:1PL.PRO		без	bez
@@ -291,6 +292,8 @@ House:table.N		өстәл	œstæl
 Hunting:bow.N		җәя	d͡ʑæja
 Hunting:fishing.V		балык тоту	balɤk totu
 Hunting:hunt.V		аулау	aulau
+Integrity:part.N		өлеш	œleʃ
+Integrity:piece.N		кисәк	kisæk
 Interaction:choose.V		сайлау	sajlau
 Interaction:rescue.V		коткару	qotqɑru
 Mind:dream.N		төш	tœʃ
@@ -338,8 +341,12 @@ Perception:feel.V		сизү	sizʉ
 Perception:feel.V		тою	tojʊ
 Perception:hear or listen.V		ишетү	iʃetʉ
 Perception:hear.V		ишетү	iʃetʉ
+Perception:pain.N		авырту	awɤrtu
 Perception:touch.V		тию	tijʊ
+Perception:wet.A		дымлы	dɤmlɤ
+Perception:yellow.A		сары	sarɤ
 Plant:Betula.N		каен	qɑen
+Plant:bark.N		кабык	qɑbɤk
 Plant:branch.N		ботак	botak
 Plant:flower.N		чәчкә	t͡ɕæt͡ɕkæ
 Plant:leaf.N		яфрак	jafrak
@@ -403,6 +410,7 @@ Sound:sound (of instrument or voice).V		ишетелү	iʃetelʉ
 Sound:voice.N		тавыш	tawɤʃ
 Sound:whistle.V		сызгырту	sɤzɡɤrtu
 Space:back.ADV		кире	kire
+Space:wide.A		киң	kiŋ
 Storage:bag.N		букча	bukt͡ɕa
 Storage:box.N		әрҗә	ærd͡ʑæ
 Storage:bucket.N		чиләк	t͡ɕilæk
@@ -413,6 +421,21 @@ Storage:misplace.V		югалту	jʊɡaltu
 Storage:pouch.N		луза	luza
 Storage:pour.V		кою	qojʊ
 Storage:sack.N		капчык	qɑpt͡ɕɤk
+Time:April.N		апрель	aprelʔ
+Time:August.N		август	awɡust
+Time:December.N		декабрь	deqɑbrʔ
+Time:February.N		февраль	fewralʔ
+Time:January.N		гыйнвар	ɡɤjnwar
+Time:July.N		июль	ijʊlʔ
+Time:June.N		июнь	ijʊnʔ
+Time:March.N		март	mart
+Time:May.N		май	maj
+Time:November.N		ноябрь	nojabrʔ
+Time:October.N		октябрь	oktjabrʔ
+Time:September.N		сентябрь	sentjabrʔ
+Time:age.N		яшь	jaʃʔ
+Time:already.ADV		инде	inde
+Time:always.ADV		һәркайчан	hærqɑjt͡ɕan
 Time:autumn.N		көз	kœz
 Time:final.A		ахыргы	axɤrɡɤ
 Time:month.N		ай	aj

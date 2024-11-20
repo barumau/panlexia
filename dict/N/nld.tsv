@@ -332,6 +332,7 @@ Communication:mail.N		post (2)		fra:poste
 Communication:newspaper.N		krant		fra:courant
 Communication:postage stamp.N		postzegel		
 Communication:postcard.N		briefkaart		
+Communication:praise.N		lof		
 Communication:radio.N		radio		eng:radio
 Communication:refuse.V		weigeren		
 Communication:telephone.N		telefoon		fra:téléphone
@@ -436,6 +437,7 @@ Food:fermented alcohol.N		alcoholische drank
 Food:flour.N		meel		
 Food:sausage.N		worst		
 Food:soup.N		soep		fra:soupe
+Food:spoon.N		lepel		
 Food:supper.N		avondeten		
 Form:bend.V		buigen		
 Function:1PL EXCL.PRO		wij		
@@ -531,6 +533,8 @@ House:toilet.N		wc		eng:WC
 Hunting:boomerang.N		boemerang		eng:boomerang
 Hunting:bow.N		boog (2)		
 Hunting:hunt.V		jagen		
+Integrity:part.N		deel		
+Integrity:piece.N		stuk (1)		
 Interaction:choose.V		kiezen		
 Interaction:rescue.V		redden		
 Law:crime.N		misdaad		
@@ -582,10 +586,14 @@ People:woman.N		vrouw (1)
 People:young man.N		jongeman		
 People:young woman.N		meisje		
 Perception:hear.V		horen		
+Perception:pain.N		pijn		:pena, poena
 Perception:touch.V		aanraken		
+Perception:wet.A		nat		
+Perception:yellow.A		geel		
 Plant:Betula.N		berk		
 Plant:Ipomoea batatas.N		bataat		spa:batata
 Plant:Ipomoea batatas.N		zoete aardappel		
+Plant:bark.N		bast		
 Plant:branch or twig.N		tak		
 Plant:flower.N		bloem		
 Plant:leaf.N		blad		
@@ -641,12 +649,17 @@ Sound:stutter.V		stotteren		deu:stottern
 Sound:voice.N		stem		
 Sound:whisper.V		fluisteren		
 Sound:whistle.V		fluiten		
+Space:wide.A		breed		
+Space:wide.A		wijd		
 Storage:basket.N		mand		
 Storage:bottle.N		fles		
 Storage:can.N		blik		
 Storage:misplace.V		verliezen		
 Storage:netbag.N		nettas		
 Storage:pour.V		schenken		
+Time:afternoon.N		middag (2)		
+Time:age.N		leeftijd		
+Time:always.ADV		altijd		
 Time:autumn.N		herfst		
 Time:autumn.N		najaar		
 Time:calendar.N		kalender		deu:Kalender

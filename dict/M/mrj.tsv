@@ -237,6 +237,7 @@ Food:NaCl.N		санзал	sɑnzɑl
 Food:bake.V		кӱктӓш	kyktæʃ
 Food:bread.N		сыкыр	səkər
 Food:soup.N		лем	lem
+Food:spoon.N		савала	sɑvɑlɑ
 Form:bend (sth).V		лывырташ	ləvərtɑʃ
 Form:bend.V		каклярташ	kɑkljartɑʃ
 Form:bend.V		лывырташ	ləvərtɑʃ
@@ -295,6 +296,9 @@ House:table.N		стöл	støl
 Hunting:bow.N		янгеж	jaŋɡeʒ
 Hunting:fishing.V		кол кычаш	kol kət͡ʃɑʃ
 Hunting:hunt.V		охотничӓйӓш	oxotnit͡ʃæjæʃ
+Integrity:part.N		пай	pɑj
+Integrity:part.N		часть	t͡ʃɑstʲ
+Integrity:piece.N		лаштык	lɑʃtək
 Interaction:choose.V		айыраш	ɑjərɑʃ
 Interaction:rescue.V		ытараш	ətɑrɑʃ
 Mind:dream.N		ом	om
@@ -342,8 +346,13 @@ People:woman.N		ӹдӹрӓмӓш	ɯðɯræmæʃ
 Perception:feel.V		шижӓш	ʃiʒæʃ
 Perception:hear or listen.V		колын колташ	kolən koltɑʃ
 Perception:hear.V		колаш	kolɑʃ
+Perception:pain.N		карштыш	kɑrʃtəʃ
 Perception:touch.V		тӹкӓлӓш	tɯkælæʃ
+Perception:wet.A		начкы	nɑt͡ʃkə
+Perception:yellow.A		сар	sɑr
+Perception:yellow.A		сары	sɑrə
 Plant:Betula.N		куги	kuɣi
+Plant:bark.N		каргыж	kɑrɣəʒ
 Plant:branch.N		укш	ukʃ
 Plant:flower.N		пеледӹш	peleðɯʃ
 Plant:leaf.N		листӹ	listɯ
@@ -414,6 +423,7 @@ Sound:sound (of instrument or voice).V		йо́нгаш	jóŋɡɑʃ
 Sound:voice.N		юк	juk
 Sound:whistle.V		ши́шкаш	ʃíʃkɑʃ
 Space:back.ADV		мӹнгеш	mɯŋɡeʃ
+Space:wide.A		кымда	kəmdɑ
 Storage:bag.N		сумкы	sumkə
 Storage:box.N		шӱ́ндӹк	ʃýndɯk
 Storage:bucket.N		ведӹрӓ	veðɯræ
@@ -424,6 +434,25 @@ Storage:misplace.V		ямдаш	jamdɑʃ
 Storage:pouch.N		мешӓк	meʃæk
 Storage:pour.V		опталаш	optɑlɑʃ
 Storage:sack.N		мешӓк	meʃæk
+Time:April.N		апрель	ɑprelʲ
+Time:August.N		август	ɑvɣust
+Time:December.N		декавыр	ðekɑvər
+Time:February.N		февраль	fevrɑlʲ
+Time:January.N		январ	janvɑr
+Time:January.N		январь	janvɑrʲ
+Time:July.N		июль	ijulʲ
+Time:June.N		июнь	ijunʲ
+Time:March.N		март	mɑrt
+Time:May.N		май	mɑj
+Time:November.N		ноябрь	nojaβrʲ
+Time:October.N		октябрь	oktjaβrʲ
+Time:September.N		сентябрь	sentjaβrʲ
+Time:age.N		игечӹ	iɣet͡ʃɯ
+Time:age.N		иӓш	iæʃ
+Time:already.ADV		уже	uʒe
+Time:already.ADV		ӹнде	ɯnde
+Time:always.ADV		со	so
+Time:always.ADV		соок	sook
 Time:autumn.N		шӹжӹ	ʃɯʒɯ
 Time:final.A		остатка	ostɑtkɑ
 Time:month.N		тӹ́лзӹ	tɯ́lzɯ

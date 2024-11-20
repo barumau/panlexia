@@ -275,6 +275,7 @@ Food:bake.V		pastua	pɑstʊɑ
 Food:bread.N		leiby	lɛibʏ
 Food:soup.N		rokku	rɔkːʊ
 Food:soup.N		suuppu	suːpːʊ
+Food:spoon.N		luzikku	lʊzikːʊ
 Form:bend (sth).V		lämmyttiä	læmːʏtːiæ
 Form:bend (sth).V		painua	pɑinʊɑ
 Form:bend.V		koukistua	kɔʊkistʊɑ
@@ -343,6 +344,10 @@ House:table.N		stola	stɔlɑ
 Hunting:bow.N		jouzi	jɔʊzi
 Hunting:fishing.V		kalastua	kɑlɑstʊɑ
 Hunting:hunt.V		mečästiä	mɛt͡ʃæstiæ
+Integrity:part.N		oza	ɔzɑ
+Integrity:part.N		vuitti	vʊitːi
+Integrity:piece.N		pala	pɑlɑ
+Integrity:piece.N		palaine	pɑlɑinɛ
 Interaction:choose.V		vallita	vɑlːitɑ
 Interaction:rescue.V		pellastua	pɛlːɑstʊɑ
 Interaction:rescue.V		piästiä	piæstiæ
@@ -397,9 +402,15 @@ People:woman.N		naine	nɑinɛ
 Perception:feel.V		tundie	tʊndiɛ
 Perception:hear or listen.V		kuulta	kuːltɑ
 Perception:hear.V		kuulta	kuːltɑ
+Perception:pain.N		kibu	kibʊ
+Perception:pain.N		kivistys	kivistʏs
 Perception:touch.V		koskettua	kɔskɛtːʊɑ
 Perception:touch.V		koskie	kɔskiɛ
+Perception:wet.A		märgy	mærɡʏ
+Perception:yellow.A		keldaine	kɛldɑinɛ
 Plant:Betula.N		koivu	kɔivʊ
+Plant:bark.N		koja	kɔjɑ
+Plant:bark.N		kuori	kʊɔri
 Plant:branch.N		oksu	ɔksʊ
 Plant:flower.N		kukku	kʊkːʊ
 Plant:leaf.N		lehti	lɛxti
@@ -465,6 +476,7 @@ Sound:whistle.V		viheldiä	vihɛldiæ
 Space:back.ADV		iäre	iærɛ
 Space:back.ADV		järilleh	jærilːɛh
 Space:back.ADV		tagazin	tɑɡɑzin
+Space:wide.A		levei	lɛvɛi
 Storage:bag.N		sumku	sʊmkʊ
 Storage:box.N		juaššiekku	jʊɑʃːiɛkːʊ
 Storage:bucket.N		rengi	rɛŋːi
@@ -478,6 +490,23 @@ Storage:pouch.N		huavo	hʊɑvɔ
 Storage:pour.V		kuadua	kʊɑdʊɑ
 Storage:pour.V		valua	vɑlʊɑ
 Storage:sack.N		säkki	sækːi
+Time:April.N		sulakuu	sʊlɑkuː
+Time:August.N		elokuu	ɛlɔkuː
+Time:December.N		talvikuu	tɑlvikuː
+Time:February.N		tuhukuu	tʊhʊkuː
+Time:January.N		pakkaskuu	pɑkːɑskuː
+Time:July.N		heinykuu	hɛinʏkuː
+Time:June.N		kezäkuu	kɛzækuː
+Time:March.N		kevätkuu	kɛvætkuː
+Time:May.N		oraskuu	ɔrɑskuː
+Time:May.N		tougokuu	tɔʊɡɔkuː
+Time:November.N		kylmykuu	kʏlmʏkuː
+Time:October.N		ligakuu	liɡɑkuː
+Time:September.N		syvyskuu	sʏvʏskuː
+Time:age.N		igä	iɡæ
+Time:already.ADV		jo	jɔ
+Time:always.ADV		ainos	ɑinɔs
+Time:always.ADV		aiven	ɑivɛn
 Time:autumn.N		sygyzy	sʏɡʏzʏ
 Time:final.A		jälgi-	jælɡi-
 Time:month.N		kuu	kuː

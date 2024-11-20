@@ -290,6 +290,7 @@ Communication:forgive.V		прощать
 Communication:kiss.V		целовать
 Communication:language.N		язык
 Communication:lie.V		лгать
+Communication:praise.N		хвалить
 Communication:refuse.V		отказывать
 Communication:tell.V		рассказывать
 Cosmos:Sun.N		солнце
@@ -368,6 +369,7 @@ Food:fermented alcohol.N		брага
 Food:flour.N		мука
 Food:sausage.N		колбаса, сосиска
 Food:soup.N		суп
+Food:spoon.N		ложка
 Food:supper.N		(холодный) ужин
 Form:bend.V		сгибать
 Function:1PL EXCL.PRO		мы
@@ -433,6 +435,8 @@ House:rug.N		ковер, плед
 House:table.N		стол
 Hunting:bow.N		лук
 Hunting:hunt.V		охотиться
+Integrity:part.N		часть, кусок
+Integrity:piece.N		часть, кусок
 Interaction:choose.V		выбирать
 Interaction:rescue.V		спасать
 Mind:dream.V		видеть сон, мечтать
@@ -477,9 +481,13 @@ People:woman.N		женщина
 People:young man.N		юноша, молодой человек
 People:young woman.N		девушка
 Perception:hear.V		слышать
+Perception:pain.N		боль
 Perception:touch.V		трогать
+Perception:wet.A		мокрый
+Perception:yellow.A		желтый
 Plant:Betula.N		береза
 Plant:Ipomoea batatas.N		батат
+Plant:bark.N		кора
 Plant:branch or twig.N		ветвь,  ветка
 Plant:flower.N		цветок
 Plant:leaf.N		лист
@@ -532,10 +540,14 @@ Sound:ululate.V		реветь
 Sound:voice.N		голос
 Sound:whisper.V		шептать
 Sound:whistle.V		свистеть
+Space:wide.A		широкий
 Storage:basket.N		корзина
 Storage:misplace.V		терять
 Storage:netbag.N		сетчатая сумка
 Storage:pour.V		лить, наливать
+Time:afternoon.N		после полудня
+Time:age.N		возраст, век, эпоха
+Time:always.ADV		всегда
 Time:autumn.N		осень
 Time:final.A		последний
 Time:hour.N		час

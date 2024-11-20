@@ -437,6 +437,7 @@ Communication:newspaper.N		koran		fra:Unidentifiable
 Communication:newspaper.N		surat kabar		
 Communication:postage stamp.N		prangko, perangko		nld:franco
 Communication:postcard.N		kartu pos		
+Communication:praise.N		puji(an)		san:pūjā
 Communication:radio.N		radio		eng:radio
 Communication:refuse.V		menolak		
 Communication:telephone.N		télepon, télpon, telpon, télefon, telfon		fra:téléphone
@@ -566,6 +567,7 @@ Food:flour.N		tepung
 Food:sausage.N		sosis		nld:saucijs
 Food:soup.N		sop, sup		nld:soep
 Food:soup.N		soto		jav:saoto, soto
+Food:spoon.N		séndok		jav:séndok
 Food:supper.N		makan malam		
 Form:bend.V		membéngkokkan		
 Form:bend.V		menekukkan		
@@ -683,6 +685,8 @@ Hunting:boomerang.N		bumerang		:Unidentifiable
 Hunting:bow.N		busur		
 Hunting:bow.N		panah		
 Hunting:hunt.V		berburu		
+Integrity:part.N		bagian		
+Integrity:piece.N		potong, potongan		
 Interaction:choose.V		memilih		
 Interaction:rescue.V		menyelamatkan		arb:salāmat-
 Law:crime.N		kejahatan		
@@ -760,12 +764,16 @@ People:young man.N		pemuda
 People:young man.N		teruna		san:taruṇa
 People:young woman.N		gadis		:*gadis
 Perception:hear.V		mendengar		
+Perception:pain.N		rasa sakit		
 Perception:touch.V		memegang		
 Perception:touch.V		mengenai		
 Perception:touch.V		menyentuh		
 Perception:touch.V		menyinggung		
 Perception:touch.V		meraba		
+Perception:wet.A		basah		
+Perception:yellow.A		kuning		
 Plant:Ipomoea batatas.N		ubi jalar		
+Plant:bark.N		kulit kayu		
 Plant:branch or twig.N		cabang		
 Plant:branch or twig.N		dahan		
 Plant:branch or twig.N		ranting		
@@ -835,6 +843,8 @@ Sound:stutter.V		menggagap
 Sound:voice.N		suara		san:svara
 Sound:whisper.V		berbisik		
 Sound:whistle.V		bersiul		
+Space:wide.A		luas		
+Space:wide.A		lébar		
 Storage:basket.N		bakul		
 Storage:basket.N		keranjang		
 Storage:bottle.N		botol		nld:bottel (obsolete)
@@ -842,6 +852,12 @@ Storage:can.N		kaléng		idb:calem
 Storage:misplace.V		kehilangan		
 Storage:netbag.N		nokén		:Unidentifiable
 Storage:pour.V		menuang		
+Time:afternoon.N		petang		
+Time:afternoon.N		soré		jav:soré
+Time:age.N		umur		arb:‘umr
+Time:age.N		usia		san:āyuṣya
+Time:always.ADV		selalu		
+Time:always.ADV		sentiasa, senantiasa		san:nityaśas
 Time:autumn.N		musim gugur		
 Time:calendar.N		kalénder		nld:kalender
 Time:calendar.N		penanggalan		jav:pananggalan

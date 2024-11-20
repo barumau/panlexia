@@ -236,6 +236,7 @@ Food:NaCl.N		сыр	sɨr
 Food:bake.V		хиз̌ибтысы	xiðʲibtɨsɨ
 Food:bread.N		кириба	kirʲibɐ
 Food:soup.N		быˮә	bɨʔə
+Food:spoon.N		күй	kyj
 Form:bend (sth).V		манюˮся	mɐɲuʔsʲɐ
 Form:bend (sth).V		мүнүдя	mynydʲɐ
 Form:bend.V		мүнүдя	mynydʲɐ
@@ -285,6 +286,9 @@ House:table.N		ӈәмурса	ŋəmursɐ
 Hunting:bow.N		динтә	dʲintə
 Hunting:fishing.V		колыз̌ысы	kolɨðɨsɨ
 Hunting:hunt.V		басудя	bɐsudʲɐ
+Integrity:part.N		хелы	xelɨ
+Integrity:piece.N		дюкә	dʲukə
+Integrity:piece.N		ӈуӈкә	ŋuŋkə
 Interaction:choose.V		начюдя	nɐc͡çudʲɐ
 Interaction:rescue.V		чисюдя	c͡çisʲudʲɐ
 Mind:dream.N		дючимыә	dʲuc͡çimɨə
@@ -344,8 +348,13 @@ Perception:feel.V		нәмтірся	nəmtirsʲɐ
 Perception:feel.V		нәмтүся	nəmtysʲɐ
 Perception:hear or listen.V		диндіси	dʲindisʲi
 Perception:hear.V		диндіси	dʲindisʲi
+Perception:pain.N		дяри	dʲɐrʲi
 Perception:touch.V		ментыди	mʲentɨdʲi
+Perception:wet.A		дебтәбуо	dʲebtəbʷo
+Perception:wet.A		нетыбыә	ɲetɨbɨə
+Perception:yellow.A		тодякуо	todʲɐkʷo
 Plant:Betula.N		күо	kyo
+Plant:bark.N		касу	kɐsu
 Plant:branch.N		муоде	mʷodʲe
 Plant:flower.N		лукуз̌иай	lukuðʲiɐj
 Plant:leaf.N		хораз̌яй	xorɐðʲɐj
@@ -409,6 +418,7 @@ Sound:sound (of instrument or voice).V		делиˮтіси	dʲeʎiʔtisʲi
 Sound:voice.N		дямуо	dʲɐmʷo
 Sound:whistle.V		сючарса	sʲuc͡çɐrsɐ
 Space:back.ADV		мәкиˮиа	məkiʔiɐ
+Space:wide.A		тантәгәә	tɐntəɡəː
 Storage:bag.N		хуоз̌ай	xʷoðɐj
 Storage:box.N		коры	korɨ
 Storage:bucket.N		нитәә	ɲitəː
@@ -421,6 +431,25 @@ Storage:misplace.V		дюса	dʲusɐ
 Storage:pouch.N		хуоз̌ай	xʷoðɐj
 Storage:pour.V		бәбтудя	bəbtudʲɐ
 Storage:sack.N		хуоз̌ай	xʷoðɐj
+Time:April.N		норуо кичез̌әә	norʷo kic͡çeðəː
+Time:August.N		кәу кичез̌әә	kəu kic͡çeðəː
+Time:December.N		хоймару кичез̌әә	xojmɐru kic͡çeðəː
+Time:February.N		сеӈибтіз̌иˮиа	sʲeŋibtiðʲiʔiɐ
+Time:January.N		дялаˮ бярәбся	dʲɐlɐʔ bʲɐrəbsʲɐ
+Time:January.N		лымбыˮ кичез̌әә	lɨmbɨʔ kic͡çeðəː
+Time:July.N		конүˮ немы кичез̌әә	konyʔ ɲemɨ kic͡çeðəː
+Time:July.N		ненәӈкиˮ кичез̌әә	ɲenəŋkiʔ kic͡çeðəː
+Time:June.N		быз̌уде кичез̌әә	bɨðudʲe kic͡çeðəː
+Time:March.N		сеӈибтіз̌иˮиа	sʲeŋibtiðʲiʔiɐ
+Time:March.N		тәрулиа	təruʎiɐ
+Time:May.N		камбаде кичез̌әә	kɐmbɐdʲe kic͡çeðəː
+Time:November.N		ӈитүˮо кичәз̌әә	ŋityʔo kic͡çəðəː
+Time:October.N		мәлькүмся	məʎkymsʲɐ
+Time:age.N		хүо	xyo
+Time:age.N		хүо ӈукәз̌үˮ	xyo ŋukəðyʔ
+Time:already.ADV		курәгуй	kurəɡuj
+Time:already.ADV		ӈуойляйˮ	ŋʷojʎɐjʔ
+Time:always.ADV		хүотә	xyotə
 Time:autumn.N		сундайчу	sundɐjc͡çu
 Time:autumn.N		ӈитү	ŋity
 Time:final.A		хуобтәә	xʷobtəː

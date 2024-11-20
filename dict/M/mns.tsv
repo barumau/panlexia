@@ -237,6 +237,7 @@ Food:NaCl.N		солвал	solwal
 Food:bake.V		ва̄руӈкве	waːruŋkʷʲe
 Food:bread.N		нянь	ɲaɲ
 Food:soup.N		исмит	ismit
+Food:spoon.N		ня̄лы	ɲaːlɪ
 Form:bend (sth).V		хӯтылтаӈкве	χuːtɪltaŋkʷʲe
 Form:bend.V		хӯтылтаӈкве	χuːtɪltaŋkʷʲe
 Function:1PL.PRO		ман	man
@@ -288,6 +289,8 @@ House:table.N		пасан	pasan
 Hunting:bow.N		ё̄вт	joːwt
 Hunting:fishing.V		хӯл алысьлаӈкве	χuːl alɪsʲlaŋkʷʲe
 Hunting:hunt.V		алысьлаӈкве	alɪsʲlaŋkʷʲe
+Integrity:part.N		ло̄мт	loːmt
+Integrity:piece.N		ло̄мткв	loːmtkʷ
 Interaction:choose.V		пе̄рияӈкве	peːrijaŋkʷʲe
 Interaction:rescue.V		ве̄стуӈкве	wʲeːstuŋkʷʲe
 Interaction:rescue.V		лылытэ нэ̄гылттаӈкве	lɪlɪtə nɤːɣɪlttaŋkʷʲe
@@ -338,8 +341,12 @@ People:woman.N		эква	əkʷa
 Perception:feel.V		са̄йт о̄ньсюӈкве	saːjt oːɲsʲuŋkʷʲe
 Perception:hear or listen.V		хӯлуӈкве	χuːluŋkʷʲe
 Perception:hear.V		хӯлуӈкве	χuːluŋkʷʲe
+Perception:pain.N		а̄гм	aːɣm
 Perception:touch.V		хоилтаӈкве	χoiltaŋkʷʲe
+Perception:wet.A		витыӈ	witɪŋ
+Perception:yellow.A		восьрамхарп	wosʲramχarp
 Plant:Betula.N		ха̄ль	χaːʎ
+Plant:bark.N		сӯл	suːl
 Plant:branch.N		таг	taɣ
 Plant:flower.N		хорамыӈ лӯпта	χoramɪŋ luːpta
 Plant:leaf.N		лупта	lupta
@@ -400,6 +407,7 @@ Sound:whistle.V		кисгуӈкве	kisɣuŋkʷʲe
 Sound:whistle.V		тисгуӈкве	tisɣuŋkʷʲe
 Space:back.ADV		юв-	juw-
 Space:back.ADV		ювле	juwʎe
+Space:wide.A		па̄хвыӈ	paːχʷɪŋ
 Storage:bag.N		сумка	sumka
 Storage:box.N		то̄тап	toːtap
 Storage:bucket.N		ве̄тра	wʲeːtra
@@ -411,6 +419,35 @@ Storage:misplace.V		устуӈкве	ustuŋkʷʲe
 Storage:pouch.N		хӯрыг	χuːrɪɣ
 Storage:pour.V		со̄суӈкве	soːsuŋkʷʲe
 Storage:sack.N		хӯрыг	χuːrɪɣ
+Time:April.N		апре̄ль	apreːʎ
+Time:April.N		яныгполь	janɪɣpoʎ
+Time:August.N		а̄вгуст	aːwɣust
+Time:August.N		во̄ртус э̄тпос	woːrtus ɤːtpos
+Time:December.N		ва̄ти хо̄тал э̄тпос	waːti χoːtal ɤːtpos
+Time:December.N		дека̄брь	dʲekaːbr
+Time:February.N		ре̄тыӈ ю̄свой	reːtɪŋ juːswoj
+Time:February.N		февра̄ль	fewraːʎ
+Time:January.N		ва̄т са̄грапнал	waːt saːɣrapnal
+Time:January.N		январь	janwar
+Time:July.N		ию̄ль	ijuːʎ
+Time:July.N		о̄йттур э̄тпос	oːjttur ɤːtpos
+Time:June.N		ию̄нь	ijuːɲ
+Time:June.N		лӯпта э̄тпос	luːpta ɤːtpos
+Time:March.N		ма̄ньполь э̄тпос	maːɲpoʎ ɤːtpos
+Time:March.N		ма̄рт	maːrt
+Time:May.N		ма̄й	maːj
+Time:May.N		я̄ӈк на̄тнэ э̄тпос	jaːŋk naːtnə ɤːtpos
+Time:November.N		ноя̄брь	nojaːbr
+Time:November.N		яныг таквс	janɪɣ takʷs
+Time:October.N		ма̄нь таквыс	maːɲ takʷɪs
+Time:October.N		ма̄ньтыл алысьлан э̄тпос	maːɲtɪl alɪsʲlan ɤːtpos
+Time:October.N		октя̄брь	oktʲaːbr
+Time:September.N		се̄нтя̄брь	sʲeːntʲaːbr
+Time:September.N		сӯкыр э̄тпос	suːkɪr ɤːtpos
+Time:September.N		я̄ӈкпо̄льн э̄тпос	jaːŋkpoːʎn ɤːtpos
+Time:age.N		та̄л янытэ	taːl janɪtə
+Time:already.ADV		та	ta
+Time:always.ADV		акваг	akʷaɣ
 Time:autumn.N		таквс	takʷs
 Time:final.A		сяр йильпи	sʲar jiʎpi
 Time:month.N		э̄тпос	ɤːtpos

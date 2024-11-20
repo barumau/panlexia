@@ -243,6 +243,7 @@ Food:NaCl.N		сов	sov
 Food:bake.V		пӧжавны	pəʒɑvnɨ
 Food:bread.N		нянь	ɲɑɲ
 Food:soup.N		шыд	ʃɨd
+Food:spoon.N		пань	pɑɲ
 Form:bend (sth).V		куснявны	kusɲɑvnɨ
 Form:bend.V		куснявны	kusɲɑvnɨ
 Function:1PL.PRO		ми	mi
@@ -296,6 +297,8 @@ House:table.N		пызан	pɨzɑn
 Hunting:bow.N		ньӧввуж	ɲəvvuʒ
 Hunting:fishing.V		чери кыйны	t͡ɕeri kɨjnɨ
 Hunting:hunt.V		кыйсьыны	kɨjɕɨnɨ
+Integrity:part.N		юкӧн	jukən
+Integrity:piece.N		тор	tor
 Interaction:choose.V		бӧрйыны	bərjɨnɨ
 Interaction:rescue.V		видзны	vid͡znɨ
 Interaction:rescue.V		мездыны	mezdɨnɨ
@@ -354,9 +357,13 @@ Perception:feel.V		вежӧртны	veʒərtnɨ
 Perception:feel.V		гӧгӧрвоны	ɡəɡərvonɨ
 Perception:hear or listen.V		кывны	kɨvnɨ
 Perception:hear.V		кывны	kɨvnɨ
+Perception:pain.N		висьӧм	viɕəm
 Perception:touch.V		вӧрзьӧдны	vərʑədnɨ
 Perception:touch.V		инмӧдчывны	jinmədt͡ɕɨvnɨ
+Perception:wet.A		ва	vɑ
+Perception:yellow.A		виж	viʒ
 Plant:Betula.N		кыдз	kɨd͡z
+Plant:bark.N		кырсь	kɨrɕ
 Plant:branch.N		ув	uv
 Plant:flower.N		дзоридз	d͡zorid͡z
 Plant:leaf.N		кор	kor
@@ -423,6 +430,8 @@ Sound:voice.N		вом шы	vom ʃɨ
 Sound:voice.N		гӧлӧс	ɡəɫəs
 Sound:whistle.V		шутьлявны	ʃucʎɑvnɨ
 Space:back.ADV		бӧр	bər
+Space:wide.A		ота	otɑ
+Space:wide.A		паськыд	pɑɕkɨd
 Storage:bag.N		сумка	sumkɑ
 Storage:box.N		куд	kud
 Storage:box.N		ящик	jɑɕik
@@ -435,6 +444,21 @@ Storage:misplace.V		воштыны	voʃtɨnɨ
 Storage:pouch.N		мешӧк	meʃək
 Storage:pour.V		кисьтны	kiɕtnɨ
 Storage:sack.N		мешӧк	meʃək
+Time:April.N		кос му	kos mu
+Time:August.N		моз	moz
+Time:December.N		ӧшым	əʃɨm
+Time:February.N		урасьӧм	urɑɕəm
+Time:January.N		тӧв шӧр	təv ʃər
+Time:July.N		сора	sorɑ
+Time:June.N		лӧддза-номъя	ɫədːzɑnomjɑ
+Time:March.N		рака	rɑkɑ
+Time:May.N		ода-кора	odɑkorɑ
+Time:November.N		вӧльгым	vəʎɡɨm
+Time:October.N		йирым	jirɨm
+Time:September.N		кӧч	kət͡ɕ
+Time:age.N		арлыд	ɑrɫɨd
+Time:already.ADV		нин	ɲin
+Time:always.ADV		век	vek
 Time:autumn.N		ар	ɑr
 Time:final.A		бӧръя	bərjɑ
 Time:month.N		тӧлысь	təɫɨɕ

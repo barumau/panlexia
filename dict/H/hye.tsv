@@ -232,6 +232,7 @@ Food:bake.V		թխել	tʰəxɛl
 Food:bread.N		հաց	hɑt͡sʰ
 Food:soup.N		ապուր	apuɾ
 Food:soup.N		սուպ	sup
+Food:spoon.N		գդալ	ɡədal
 Form:bend (sth).V		թեքել	tʰɛkʰɛl
 Form:bend.V		ծռել	t͡sərɛl
 Function:1PL.PRO		մենք	mɛnkʰ
@@ -285,6 +286,8 @@ House:table.N		սեղան	sɛʁɑn
 Hunting:bow.N		աղեղ	ɑʁɛʁ
 Hunting:fishing.V		ձուկ բռնել	d͡zuk brnɛl
 Hunting:hunt.V		որս անել	ʋɔɾs ɑnɛl
+Integrity:part.N		մաս	mas
+Integrity:piece.N		կտոր	kətɔɾ
 Interaction:choose.V		ընտրել	əntɾɛl
 Interaction:rescue.V		փրկել	pʰəɾkɛl
 Mind:dream.N		երազ	jɛɾaz
@@ -330,9 +333,15 @@ People:woman.N		կին	kin
 Perception:feel.V		զգալ	əzɡɑl
 Perception:hear or listen.V		իմանալ 	imɑnɑl 
 Perception:hear.V		լսել	ləsɛl
+Perception:pain.N		տանջանք	tɑɲd͡ʒɑŋkʰ
+Perception:pain.N		ցավ	t͡sʰɑv
 Perception:touch.V		դիպչել	dipt͡ʃʰɛl
 Perception:touch.V		շոշափել	ʃɔʃɑpʰɛl
+Perception:wet.A		թաց	tʰɑt͡sʰ
+Perception:yellow.A		դեղին	dɛɣin
 Plant:Betula.N		ցարասի	t͡sʰɑɾɑsi
+Plant:bark.N		կեղեւ	kɛʁɛv
+Plant:bark.N		հաչոց	hɑt͡ʃʰɔt͡sʰ
 Plant:branch.N		ճյուղ	t͡ʃjuʁ
 Plant:flower.N		ծաղիկ	t͡saɣik
 Plant:leaf.N		տերեւ	tɛɾɛv
@@ -390,6 +399,7 @@ Sound:sound (of instrument or voice).V		հնչել	hənt͡ʃʰɛl
 Sound:voice.N		ձայն	d͡zɑjn
 Sound:whistle.V		սուլել	sulɛl
 Space:back.ADV		ետ	jɛt
+Space:wide.A		լայն	lajn
 Storage:bag.N		պայուսակ	pɑjusɑk
 Storage:box.N		տուփ	tupʰ
 Storage:bucket.N		դույլ	dujl
@@ -402,6 +412,21 @@ Storage:pouch.N		տոպրակ	tɔpɾɑk
 Storage:pour.V		լցնել	lət͡sʰnɛl
 Storage:sack.N		պարկ	pɑɾk
 Storage:sack.N		տոպրակ	tɔpɾɑk
+Time:April.N		ապրիլ	ɑpɾil
+Time:August.N		օգոստոս	ɔkʰɔstɔs
+Time:December.N		դեկտեմբեր	dɛktɛmpʰɛɾ
+Time:February.N		փետրվար	pʰɛtɾvɑɾ
+Time:January.N		հունվար	hunvɑɾ
+Time:July.N		հուլիս	hulis
+Time:June.N		հունիս	hunis
+Time:March.N		մարտ	mɑɾt
+Time:May.N		մայիս	mɑjis
+Time:November.N		նոյեմբեր	nɔjɛmpʰɛɾ
+Time:October.N		հոկտեմբեր	hɔktɛmpʰɛɾ
+Time:September.N		սեպտեմբեր	sɛptɛmpʰɛɾ
+Time:age.N		հասակ	hɑsɑk
+Time:already.ADV		արդեն	ɑɾtʰɛn
+Time:always.ADV		միշտ	miʃt
 Time:autumn.N		աշուն	ɑʃun
 Time:final.A		վերջին	vɛɾt͡ʃʰin
 Time:month.N		ամիս	amis

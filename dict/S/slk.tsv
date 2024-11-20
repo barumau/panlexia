@@ -246,6 +246,7 @@ Food:bake.V		piecť	pi̯et͡sc
 Food:bake.V		smažiť	smaʒic
 Food:bread.N		chlieb	xɫi̯ep
 Food:soup.N		polievka	pɔɫi̯efka
+Food:spoon.N		lyžica	ɫiʒit͡sa
 Form:bend (sth).V		ohnúť	ɔɦnuːc
 Form:bend.V		ohnúť	ɔɦnuːc
 Function:1PL.PRO		my	mi
@@ -301,6 +302,9 @@ Hunting:bow.N		luk	ɫuk
 Hunting:fishing.V		chytať ryby	xitac ribi
 Hunting:fishing.V		loviť ryby	ɫɔvic ribi
 Hunting:hunt.V		poľovať	pɔʎɔvac
+Integrity:part.N		časť	t͡ʃasc
+Integrity:piece.N		kus	kus
+Integrity:piece.N		kúsok	kuːsɔk
 Interaction:choose.V		voliť	vɔɫic
 Interaction:rescue.V		zachrániť	zaxraːnic
 Mind:dream.N		sen	sɛn
@@ -353,8 +357,12 @@ Perception:feel.V		cítiť	t͡siːtic
 Perception:feel.V		pociťovať	pɔt͡sicɔvac
 Perception:hear or listen.V		počuť	pɔt͡ʃuc
 Perception:hear.V		počúvať	pɔt͡ʃuːvac
+Perception:pain.N		bolesť	bɔɫɛsc
 Perception:touch.V		dotykať sa	dɔtikac sa
+Perception:wet.A		mokrý	mɔkriː
+Perception:yellow.A		žltý	ʒɫ̩tiː
 Plant:Betula.N		breza	brɛza
+Plant:bark.N		kôra	ku̯ora
 Plant:branch.N		konár	kɔnaːr
 Plant:flower.N		kvet	ɡvɛt
 Plant:flower.N		kvetina	ɡvɛtina
@@ -416,6 +424,7 @@ Sound:whistle.V		hvízdať	ɦviːzdac
 Sound:whistle.V		pískať	piːskac
 Space:back.ADV		naspäť	naspæc
 Space:back.ADV		späť	spæc
+Space:wide.A		široký	ʃirɔkiː
 Storage:bag.N		kabelka	kabɛɫka
 Storage:bag.N		taška	taʃka
 Storage:box.N		debna	dɛbna
@@ -431,6 +440,22 @@ Storage:pouch.N		vrecko	vrɛt͡skɔ
 Storage:pour.V		sypať	sipac
 Storage:sack.N		mech	mɛx
 Storage:sack.N		vrece	vrɛt͡sɛ
+Time:April.N		apríl	apriːɫ
+Time:August.N		august	auɡust
+Time:December.N		december	dɛt͡sɛmbɛr
+Time:February.N		február	fɛbruaːr
+Time:January.N		január	januaːr
+Time:July.N		júl	juːɫ
+Time:June.N		jún	juːn
+Time:March.N		marec	marɛt͡s
+Time:May.N		máj	maːj
+Time:November.N		november	nɔvɛmbɛr
+Time:October.N		október	ɔktɔːbɛr
+Time:September.N		september	sɛptɛmbɛr
+Time:age.N		vek	vɛk
+Time:already.ADV		už	uʃ
+Time:always.ADV		ustavične	ustavit͡ʃnɛ
+Time:always.ADV		vždy	vʒdi
 Time:autumn.N		jeseň	jɛsɛɲ
 Time:final.A		ostatný	ɔstatniː
 Time:final.A		posledný	pɔsɫɛdniː

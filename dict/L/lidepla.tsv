@@ -143,6 +143,7 @@ Body:waist.N		talia
 Body:wing.N		ala
 Body:wound.N		wunda
 Body:wrist.N		polsa
+Building:bar.N		taverna, bar
 Building:board.N		planka, tabula
 Building:brick.N		brik
 Building:build.V		bildi
@@ -220,6 +221,7 @@ Cosmos:Sun.N		surya
 Cosmos:moon.N		luna
 Cosmos:planet.N		planeta
 Cosmos:star.N		stara
+Cosmos:telescope.N		teleskop
 Cosmos:universe.N		universa, kosmo
 Degree:almost.ADV		hampi
 Degree:at least.ADV		amini
@@ -283,6 +285,8 @@ Food:salad.N		salata
 Food:sandwich.N		sandwich
 Food:sausage.N		sosis, sosiskin
 Food:soup.N		sup
+Food:spoon.N		chiza
+Form:triangle.N		triangula
 Grooming:brush.N		brash
 Handiwork:patch.N		 
 Health:disease.N		morba
@@ -297,6 +301,9 @@ House:rug.N		tapis
 House:table.N		tabla
 Hunting:bow.N		arku
 Hunting:hunt.V		shikari, goni
+Integrity:part.N		parta
+Integrity:piece.N		pes
+Integrity:whole.A		tote
 Interaction:choose.V		selekti
 Literature:alphabet.N		alfabet
 Material:brass.N		latun
@@ -328,7 +335,10 @@ People:man.N		man
 People:woman.N		gina
 Perception:feel.V		sensi
 Perception:hear.V		audi
+Perception:pain.N		tunga
 Perception:touch.V		tachi
+Perception:wet.A		mokre
+Perception:yellow.A		hwan
 Plant:Citrus sinensis.N		oranja
 Plant:Ficus carica.N		figa
 Plant:Glycine max.N		soya
@@ -369,6 +379,7 @@ Society:help.V		helpi
 Sound:laugh.V		ridi
 Space:apart.ADV		separem
 Space:back.ADV		bak
+Space:wide.A		chaure
 Storage:barrel.N		barela
 Storage:basket.N		basketa
 Storage:bottle.N		botela
@@ -376,11 +387,16 @@ Storage:box.N		boxa
 Storage:bucket.N		dalwa
 Storage:package.N		paketa
 Storage:tin (can).N		tin-ken
+Time:afternoon.N		taim afte middey
+Time:age.N		yash
+Time:already.ADV		yo
+Time:always.ADV		sempre
 Time:autumn.N		oton
 Time:final.A		laste
 Time:hour.N		ora
 Time:late.ADV		tarde
 Time:long ago.ADV		longtaim bak, davem
+Time:minute.N		minuta
 Time:month.N		mes
 Time:never.ADV		neva
 Time:new.A		nove
@@ -391,6 +407,7 @@ Time:old.A		lao
 Time:period.N		perioda, epoka
 Time:rhythm.N		ritma
 Time:season.N		seson
+Time:second.N		sekunda
 Time:short.ADV		kurte
 Time:springtime.N		vesna
 Time:still.ADV		haishi

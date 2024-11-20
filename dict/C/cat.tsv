@@ -232,6 +232,7 @@ Food:NaCl.N		sal	saɫ
 Food:bake.V		coure al forn	kuwɾə əɫ fɔɾn
 Food:bread.N		pa	pa
 Food:soup.N		sopa	sɔpə
+Food:spoon.N		cullera	kuʎɛɾə
 Form:bend (sth).V		arquejar	əɾkəʒa
 Form:bend (sth).V		corbar	kuɾβa
 Form:bend.V		doblegar	d̪ubɫəɣa
@@ -282,6 +283,8 @@ House:table.N		taula	t̪awɫə
 Hunting:bow.N		arc	aɾk
 Hunting:fishing.V		pescar	pəska
 Hunting:hunt.V		caçar	kəsa
+Integrity:part.N		part	paɾ
+Integrity:piece.N		peça	pɛsə
 Interaction:choose.V		elegir	əɫəʒi
 Interaction:choose.V		triar	t̪ɾia
 Interaction:rescue.V		salvar	səɫβa
@@ -331,8 +334,12 @@ People:woman.N		dona	d̪ɔnə
 Perception:feel.V		sentīr	sən̪t̪i
 Perception:hear or listen.V		percebre	pəɾsɛβɾə
 Perception:hear.V		oir	ɔj
+Perception:pain.N		dolor	d̪uɫɔ
 Perception:touch.V		tocar	t̪uka
+Perception:wet.A		mullat	muʎat̪
+Perception:yellow.A		groc	ɡɾɔk
 Plant:Betula.N		bedoll	bəðɔʎ
+Plant:bark.N		escorça	əskɔɾsə
 Plant:branch.N		branca	bɾaŋkə
 Plant:flower.N		flor	fɫɔ
 Plant:leaf.N		fulla	fuʎə
@@ -392,6 +399,7 @@ Sound:sound (of instrument or voice).V		sonar	suna
 Sound:voice.N		veu	βɛw
 Sound:whistle.V		xiular	ʃiwɫa
 Space:back.ADV		darrere	d̪ərɛɾə
+Space:wide.A		ample	ampɫə
 Storage:bag.N		bossa	bɔsə
 Storage:box.N		caixa	kaʃə
 Storage:bucket.N		galleda	ɡəʎɛðə
@@ -404,6 +412,21 @@ Storage:pouch.N		bossa	bɔsə
 Storage:pour.V		abocar	əβuka
 Storage:sack.N		sac	sak
 Storage:sack.N		saca	sakə
+Time:April.N		abril	əβɾiɫ
+Time:August.N		agost	əɣɔs
+Time:December.N		desembre	d̪əzɛmβɾə
+Time:February.N		febrer	fəβɾɛ
+Time:January.N		gener	ʒənɛ
+Time:July.N		juliol	ʒuɫiɔɫ
+Time:June.N		juny	ʒuɲ
+Time:March.N		març	maɾs
+Time:May.N		maig	mat͡ʃ
+Time:November.N		novembre	nuβɛmβɾə
+Time:October.N		octubre	ukt̪uβɾə
+Time:September.N		setembre	sət̪ɛmβɾə
+Time:age.N		edat	əðat̪
+Time:already.ADV		ja	ʒa
+Time:always.ADV		sempre	sɛmpɾə
 Time:autumn.N		tardor	t̪əɾðɔ
 Time:final.A		últim	uɫt̪im
 Time:month.N		mes	mɛs

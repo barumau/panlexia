@@ -375,6 +375,7 @@ Communication:postage stamp.N		brifmarka		deu:Briefmarke
 Communication:postage stamp.N		listowa znamka		
 Communication:postcard.N		postkórta		deu:Postkarte
 Communication:postcard.N		postowa kórtka		
+Communication:praise.N		chwalba		
 Communication:radio.N		radijo		deu:Radio
 Communication:refuse.V		wótpokazaś		
 Communication:telephone.N		telefon		deu:Telephon
@@ -501,6 +502,7 @@ Food:flour.N		muka
 Food:sausage.N		jěšnica		
 Food:soup.N		pólewanka		
 Food:soup.N		zupa		gml:supe
+Food:spoon.N		łžyca		
 Food:supper.N		wjacerja		
 Form:bend.V		zgibaś		
 Function:1PL EXCL.PRO		my		
@@ -612,6 +614,9 @@ House:toilet.N		toaleta		deu:Toilette
 Hunting:boomerang.N		bumerang		deu:Bumerang
 Hunting:bow.N		pšužyna		
 Hunting:hunt.V		góńtwowaś		
+Integrity:part.N		źěl		
+Integrity:piece.N		kus		
+Integrity:piece.N		štuka		deu:stuke (Stück)
 Interaction:choose.V		wubraś		
 Interaction:rescue.V		wumožyś		
 Law:crime.N		njestatk		
@@ -676,8 +681,12 @@ People:woman.N		žeńska
 People:young man.N		młodostny		
 People:young woman.N		młodostna		
 Perception:hear.V		słyšaś		
+Perception:pain.N		ból		
 Perception:touch.V		tyknuś		
+Perception:wet.A		mokšy		
+Perception:yellow.A		žołty		
 Plant:Betula.N		brjaza		
+Plant:bark.N		škóra		
 Plant:branch or twig.N		gałuz		
 Plant:branch or twig.N		gałuzka		
 Plant:flower.N		kwět(k)		
@@ -739,11 +748,15 @@ Sound:stutter.V		jěkotaś
 Sound:voice.N		głos		
 Sound:whisper.V		šepotaś		
 Sound:whistle.V		šwicaś		
+Space:wide.A		šyroki		
 Storage:basket.N		kórb		:korb
 Storage:bottle.N		flaša		deu:Flasche
 Storage:can.N		tejza		deu:tese
 Storage:misplace.V		zgubiś		
 Storage:pour.V		laś		
+Time:afternoon.N		wótpołdnjo		
+Time:age.N		starstwo		
+Time:always.ADV		pśecej		
 Time:autumn.N		nazyma		
 Time:calendar.N		kalendaŕ		deu:Kalender
 Time:final.A		slědny		

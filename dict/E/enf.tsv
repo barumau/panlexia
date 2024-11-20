@@ -204,6 +204,7 @@ Food:bake.V		пирегуҫь	pirʲɛɡuɕʲ
 Food:bake.V		порзагуҫь	pɔrzaɡuɕʲ
 Food:bread.N		кирба	kirba
 Food:soup.N		буй	buj
+Food:spoon.N		кузи	kuzi
 Form:bend (sth).V		мазроҫь	mazrɔɕʲ
 Form:bend.V		мазроҫь	mazrɔɕʲ
 Function:1PL.PRO		модинь	mɔdiɲ
@@ -254,6 +255,8 @@ Hunting:bow.N		иду	idu
 Hunting:fishing.V		нюбитучь	ɲubitut͡ʃʲ
 Hunting:fishing.V		погудь	pɔɡudʲ
 Hunting:hunt.V		кадяҫь	kadʲaɕʲ
+Integrity:part.N		дио	diɔ
+Integrity:piece.N		дюк	dʲuk
 Interaction:choose.V		тԑраҫь	tæraɕʲ
 Interaction:rescue.V		диритэҫь	diritɛɕʲ
 Mind:dream.N		нома	nɔma
@@ -295,8 +298,14 @@ People:people.N		энчу	ɛnt͡ʃu
 People:woman.N		нэ	nɛ
 Perception:hear or listen.V		нодуҫь	nɔduɕʲ
 Perception:hear.V		нодудь	nɔdudʲ
+Perception:pain.N		дези	dʲɛzi
 Perception:touch.V		мостаҫь	mɔstaɕʲ
+Perception:wet.A		нодабь	nɔdabʲ
+Perception:yellow.A		тасей	tasʲɛj
+Perception:yellow.A		тасехей	tasʲɛhʲɛj
 Plant:Betula.N		ко	kɔ
+Plant:bark.N		пя коба	pʲa kɔba
+Plant:bark.N		сԑси	sæsi
 Plant:branch.N		мой	mɔj
 Plant:flower.N		оды	ɔdɨ
 Plant:leaf.N		деби	dʲɛbi
@@ -353,6 +362,7 @@ Sound:voice.N		бачи	bat͡ʃi
 Sound:voice.N		со	sɔ
 Sound:whistle.V		сэзичь	sɛzit͡ʃʲ
 Space:back.ADV		пэною	pɛnɔju
+Space:wide.A		лата	ɫata
 Storage:bag.N		марие	marijɛ
 Storage:box.N		лотэ	ɫɔtɛ
 Storage:bucket.N		эричи	ɛrit͡ʃi
@@ -362,6 +372,29 @@ Storage:misplace.V		дёчь	dʲɔt͡ʃʲ
 Storage:pouch.N		марие	marijɛ
 Storage:pour.V		кодагуҫь	kɔdaɡuɕʲ
 Storage:sack.N		марие	marijɛ
+Time:April.N		апрель	aprʲɛʎ
+Time:April.N		тэ ничь дири	tɛ nit͡ʃʲ diri
+Time:August.N		дедю' дири	dʲɛdʲuˈ diri
+Time:August.N		нԑлюк' дири	næʎukˈ diri
+Time:December.N		ага пейза дири	aɡa pʲɛjza diri
+Time:February.N		дяра дири	dʲara diri
+Time:February.N		пебраль	pʲɛbraʎ
+Time:January.N		либи дири	ɫibi diri
+Time:July.N		нԑнаг' дири	nænaɡˈ diri
+Time:June.N		июнь	ijuɲ
+Time:June.N		наарэ дири	naarɛ diri
+Time:March.N		сойза дюнуа дири	sɔjza dʲunua diri
+Time:March.N		тука пог дири	tuka pɔɡ diri
+Time:May.N		май	maj
+Time:May.N		чида сама то дёди дири	t͡ʃida sama tɔ dʲɔdi diri
+Time:November.N		иблейгу пейза дири	ibʎɛjɡu pʲɛjza diri
+Time:October.N		кезер кора дири	kʲɛzʲɛr kɔra diri
+Time:October.N		октябрь	ɔktʲabrʲ
+Time:September.N		деби дири	dʲɛbi diri
+Time:September.N		дебиҫиза дири	dʲɛbiɕiza diri
+Time:already.ADV		мале	maʎɛ
+Time:already.ADV		молоҫь	mɔɫɔɕʲ
+Time:always.ADV		пери	pʲɛri
 Time:autumn.N		отузе	ɔtuzʲɛ
 Time:final.A		пуй	puj
 Time:month.N		дири	diri

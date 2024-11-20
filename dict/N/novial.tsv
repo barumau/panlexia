@@ -137,6 +137,7 @@ Body:vein.N		veine
 Body:waist.N		talie
 Body:wing.N		ale
 Body:wound.N		vunde
+Building:bar.N		taverne
 Building:board.N		planke
 Building:brick.N		brike
 Building:build.V		konstrukte
@@ -209,6 +210,7 @@ Cosmos:Sun.N		sune
 Cosmos:moon.N		lune
 Cosmos:planet.N		planete
 Cosmos:star.N		stele
+Cosmos:telescope.N		teleskope
 Cosmos:universe.N		universe
 Degree:almost.ADV		preske
 Degree:at least.ADV		aminim
@@ -269,6 +271,7 @@ Food:flour.N		farine
 Food:salad.N		salade
 Food:sausage.N		sosise
 Food:soup.N		supe
+Food:spoon.N		kuliere
 Grooming:brush.N		brose
 Health:disease.N		maladeso
 Health:fever.N		febre
@@ -280,6 +283,9 @@ House:pillow.N		kusene
 House:rug.N		tapisete
 House:table.N		table
 Hunting:hunt.V		chasa
+Integrity:part.N		parte
+Integrity:piece.N		piese
+Integrity:whole.A		integri, komplet(i)
 Interaction:choose.V		selekte
 Law:crime.N		krime
 Literature:alphabet.N		alfabete
@@ -310,7 +316,9 @@ People:man.N		homo
 People:woman.N		homa, fema
 Perception:feel.V		senti
 Perception:hear.V		audi
+Perception:pain.N		dolore
 Perception:touch.V		tucha
+Perception:yellow.A		gelbi
 Plant:Citrus sinensis.N		oranje
 Plant:Ficus carica.N		fige
 Plant:Gossypium.N		kotone
@@ -349,16 +357,32 @@ Society:help.V		helpa
 Sound:laugh.V		rida
 Space:apart.ADV		separatim
 Space:back.ADV		retro
+Space:wide.A		larji
 Storage:barrel.N		barele
 Storage:basket.N		korbe
 Storage:bottle.N		botle
 Storage:box.N		boxe, keste
 Storage:package.N		pakete
+Time:April.N		aprile
+Time:August.N		auguste
+Time:December.N		desembre
+Time:February.N		februare
+Time:January.N		januare
+Time:July.N		julie
+Time:June.N		june
+Time:March.N		marte
+Time:May.N		maye
+Time:October.N		oktobre
+Time:September.N		septembre
+Time:age.N		aje
+Time:already.ADV		ja, anteu
+Time:always.ADV		sempre
 Time:autumn.N		autumne
 Time:final.A		lasti
 Time:hour.N		hore
 Time:late.ADV		tardi, tardim
 Time:long ago.ADV		longim anteu
+Time:minute.N		minute
 Time:month.N		monate, mensu
 Time:never.ADV		nul(i)tem
 Time:new.A		nov(i)
@@ -369,6 +393,7 @@ Time:old.A		old(i), ansieni
 Time:period.N		periode, ere, epoke
 Time:rhythm.N		ritme
 Time:season.N		sesone
+Time:second.N		sekunde
 Time:short.ADV		kurtitem
 Time:springtime.N		printempe
 Time:still.ADV		ankore

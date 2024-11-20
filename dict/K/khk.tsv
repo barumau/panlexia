@@ -262,6 +262,7 @@ Food:NaCl.N		давс	taw̜s
 Food:bake.V		жигнэх	t͡ʃʲiɡnĕx
 Food:bread.N		талх	tʰaɮx
 Food:soup.N		шөл	ʃɵɮ
+Food:spoon.N		халбага	xaɮpăɢă
 Form:bend (sth).V		матах	matʰăx
 Form:bend (sth).V		муруйлгах	mʊrʊi̯ɮɢăx
 Form:bend.V		бөгтийлгөх	pɵɡtʰʲiɮɡɵ̆x
@@ -326,6 +327,9 @@ Hunting:fishing.V		загас барих	t͡saɢăs părʲix
 Hunting:fishing.V		загасчлах	t͡saɢăst͡ʃʰɮăx
 Hunting:hunt.V		агнах	aɢnăx
 Hunting:hunt.V		гөрөөлөх	ɡɵroɮɵ̆x
+Integrity:part.N		хувь	xʊw̜ʲ
+Integrity:part.N		хэсэг	xesĕɡ
+Integrity:piece.N		хэсэг	xesĕɡ
 Interaction:choose.V		сонгох	sɔnɢɔ̆x
 Interaction:rescue.V		гэтэлгэх	ɡetʰĕɮɡĕx
 Mind:dream.N		зүүд	t͡suːt
@@ -379,8 +383,12 @@ People:woman.N		эмэгтэй	emĕɡtʰĕj
 Perception:feel.V		мэдрэх	metrĕx
 Perception:hear or listen.V		дуулах	tʊːɮăx
 Perception:hear.V		дуулах	tʊːɮăx
+Perception:pain.N		өвчин	ɵw̜t͡ʃʰʲiŋ
 Perception:touch.V		шүргэх	ʃurɡĕx
+Perception:wet.A		нойтон	nɔːi̯tʰɔ̆ŋ
+Perception:yellow.A		шар	ʃar
 Plant:Betula.N		хус	xʊs
+Plant:bark.N		холтос	xɔɮtʰɔ̆s
 Plant:branch.N		гишүү	ɡʲiʃu
 Plant:flower.N		цэцэг	t͡sʰet͡sʰĕɡ
 Plant:leaf.N		навч	naw̜t͡ʃʰ
@@ -441,6 +449,7 @@ Sound:voice.N		дуу	tʊː
 Sound:whistle.V		исгэрэх	ʲisɡĕrĕx
 Space:back.ADV		буцаж	pʊt͡sʰăt͡ʃ
 Space:back.ADV		гэдрэг	ɡetrĕɡ
+Space:wide.A		өргөн	ɵrɡɵ̆ŋ
 Storage:bag.N		цүнх	t͡sʰunx
 Storage:box.N		авдар	aw̜tăr
 Storage:box.N		хайрцаг	xaːi̯rt͡sʰăɢ
@@ -456,6 +465,21 @@ Storage:pouch.N		уут	ʊːtʰ
 Storage:pour.V		аягалах	ajăɢăɮăx
 Storage:pour.V		цутгах	t͡sʰʊtʰɢăx
 Storage:sack.N		шуудай	ʃʊːtai̯
+Time:April.N		дөрөвдүгээр сар	tɵrɵ̆w̜tŭɡer săr
+Time:August.N		наймдугаар сар	naːi̯mtʊ̆ɢar săr
+Time:December.N		арван хоёрдугаар сар	arw̜ăn xɔ̆jɔ̆rtʊ̆ɢar săr
+Time:February.N		хоёрдугаар сар	xɔjɔ̆rtʊ̆ɢar săr
+Time:January.N		нэгдүгээр сар	neɡtŭɡer săr
+Time:July.N		долдугаар сар	tɔɮtʊ̆ɢar săr
+Time:June.N		зургаадугаар сар	t͡sʊrɢatʊ̆ɢar săr
+Time:March.N		гуравдугаар сар	ɢʊ̆răw̜tʊ̆ɢar săr
+Time:May.N		тавдугаар сар	tʰaw̜tʊ̆ɢar săr
+Time:November.N		арван нэгдүгээр сар	arw̜ăn nĕɡtŭɡer săr
+Time:October.N		аравдугаар сар	arăw̜tʊ̆ɢar săr
+Time:September.N		есдүгээр сар	jiːstŭɡer săr
+Time:age.N		нас	nas
+Time:already.ADV		нэгэнт	neɡĕntʰ
+Time:always.ADV		байнга	paːi̯nɢă
 Time:autumn.N		намар	namăr
 Time:final.A		сүүлийн	suːɮʲiŋ
 Time:month.N		сар	sar

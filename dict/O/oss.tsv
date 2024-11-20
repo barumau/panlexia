@@ -244,6 +244,7 @@ Food:NaCl.N		цӕхх	t͡səχχ
 Food:bake.V		фыцын	fɨt͡sɨn
 Food:bread.N		дзул	d͡zul
 Food:soup.N		бас	bas
+Food:spoon.N		уидыг	widɨɡ
 Form:bend (sth).V		тасын кӕнын	tasɨn kənɨn
 Form:bend.V		æркъæдз кæнын	ærkʼæd͡z kænɨn
 Form:bend.V		æртасын кæнын	ærtasɨn kænɨn
@@ -303,6 +304,9 @@ Hunting:bow.N		ӕрдын	ərdɨn
 Hunting:fishing.V		æнгуыр дарын	ænɡʷɨr darɨn
 Hunting:fishing.V		кæсаг ахсын æнгуырæй	kæsaɡ aχsɨn ænɡʷɨræj
 Hunting:hunt.V		цуан кæнын	t͡suan kænɨn
+Integrity:part.N		хай	χaj
+Integrity:piece.N		кæрдих	kærdiχ
+Integrity:piece.N		комдзаг	komd͡zaɡ
 Interaction:choose.V		равзарын	ravzarɨn
 Interaction:rescue.V		фервӕзын кӕнын	fervəzɨn kənɨn
 Mind:dream.N		фын	fɨn
@@ -361,8 +365,12 @@ People:woman.N		сылгоймаг	sɨlɡojmaɡ
 Perception:feel.V		ӕнкъарын	ənkʼarɨn
 Perception:hear or listen.V		фехъусын	fequsɨn
 Perception:hear.V		хъусын	qusɨn
+Perception:pain.N		рис	ris
 Perception:touch.V		агайын	aɡajɨn
+Perception:wet.A		хуылыдз	χʷɨlɨd͡z
+Perception:yellow.A		бур	bur
 Plant:Betula.N		бæрз	bærz
+Plant:bark.N		цъар	t͡sʼar
 Plant:branch.N		арх	arχ
 Plant:flower.N		дидинӕг	didinəɡ
 Plant:leaf.N		сыф	sɨf
@@ -436,6 +444,7 @@ Sound:voice.N		хъӕлӕс	qələs
 Sound:whistle.V		æхситт кæнын	æχsitt kænɨn
 Sound:whistle.V		къуыззитт кæнын	kʼʷɨzzitt kænɨn
 Space:back.ADV		фӕстӕмӕ	fəstəmə
+Space:wide.A		фӕтӕн	fətən
 Storage:bag.N		дзæкъул	d͡zækʼul
 Storage:bag.N		хызын	χɨzɨn
 Storage:box.N		асыкк	asɨkk
@@ -450,6 +459,21 @@ Storage:misplace.V		фесафын	fesafɨn
 Storage:pouch.N		дзӕкъул	d͡zəkʼul
 Storage:pour.V		ныккӕнын	nɨkkənɨn
 Storage:sack.N		голлаг	ɡollaɡ
+Time:April.N		апрель	aprelʲ
+Time:August.N		август	avɡust
+Time:December.N		декабрь	dekabrʲ
+Time:February.N		февраль	fevralʲ
+Time:January.N		январь	janvarʲ
+Time:July.N		июль	iʲulʲ
+Time:June.N		июнь	iʲunʲ
+Time:March.N		мартъи	martʼi
+Time:May.N		май	maj
+Time:November.N		ноябрь	noʲabrʲ
+Time:October.N		октябрь	oktʲabrʲ
+Time:September.N		сентябрь	sentʲabrʲ
+Time:age.N		кар	kar
+Time:already.ADV		нырид	nɨrid
+Time:always.ADV		ӕдзух	əd͡zuχ
 Time:autumn.N		фæззæг	fæzzæɡ
 Time:final.A		фӕстаг	fəstaɡ
 Time:month.N		мӕй	məj

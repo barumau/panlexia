@@ -236,6 +236,7 @@ Food:bake.V		خبز	xabaza
 Food:bread.N		خبز	xubz
 Food:soup.N		حساء	ħasaːʔ
 Food:soup.N		شربة	ʃurba
+Food:spoon.N		ملعقة	milʕaqa
 Form:bend (sth).V		لوى	lawaː
 Form:bend.V		أحنى	aħnaː
 Form:bend.V		ثنى	θanaː
@@ -287,6 +288,8 @@ House:table.N		مائدة	maːʔida
 Hunting:bow.N		قوس	qaus
 Hunting:fishing.V		اصطاد	isˤtˤaːda
 Hunting:hunt.V		صاد	sˤɑːda
+Integrity:part.N		قسم	qism
+Integrity:piece.N		قطعة	qɨtˤʕa
 Interaction:choose.V		اختار	ixtaːra
 Interaction:rescue.V		أنقذ	anqaða
 Interaction:rescue.V		نجى	nad͡ʒːaː
@@ -336,9 +339,14 @@ People:woman.N		امرأة	imraʔa
 Perception:feel.V		شعر	ʃaʕara
 Perception:hear or listen.V		سمع	samiʕa
 Perception:hear.V		سمع	samiʕa
+Perception:pain.N		ألم	alam
+Perception:pain.N		وجع	wad͡ʒaʕ
 Perception:touch.V		لمس	lamasa
 Perception:touch.V		مس	masːa
+Perception:wet.A		مبلول	mabluːl
+Perception:yellow.A		أصفر	asˤfaru
 Plant:Betula.N		قضبان	qudˤbaːn
+Plant:bark.N		قشرة	qiʃra
 Plant:branch.N		فرع	farʕ
 Plant:flower.N		زهرة	zahra
 Plant:leaf.N		ورقة	waraqa
@@ -399,6 +407,7 @@ Sound:voice.N		صوت	sˤɑut
 Sound:whistle.V		صفر	sˤɑfːara
 Space:back.ADV		إلى الخلف	ilaː lxalf
 Space:back.ADV		عودا	ʕaudan
+Space:wide.A		واسع	waːsiʕ
 Storage:bag.N		شنطة	ʃantˤɑ
 Storage:bag.N		محفظة	maħfɑdˤɑ
 Storage:box.N		صندوق	sˤunduːq
@@ -411,6 +420,32 @@ Storage:misplace.V		فقد	faqada
 Storage:pouch.N		كيس	kiːs
 Storage:pour.V		صب	sˤɑbːa
 Storage:sack.N		زكيبة	zakiːba
+Time:April.N		نيسان	niːsaːn
+Time:August.N		آب	aːb
+Time:August.N		أغسطس	aɣustˤus
+Time:December.N		ديسمبر	diːsambr
+Time:December.N		كانون الأول	kaːnun alʔawːal
+Time:February.N		شباط	ʃubɑːtˤ
+Time:February.N		فبراير	fibraːjir
+Time:January.N		كانون الثاني	kaːnun aθθaːniː
+Time:January.N		يناير	janaːjir
+Time:July.N		تموز	tamuwz
+Time:July.N		يوليو	juːlijuː
+Time:June.N		حزيران	ħuzairaːn
+Time:June.N		يونيو	juːnijuː
+Time:March.N		آذار	aːðaːr
+Time:March.N		مارس	maːrs
+Time:May.N		مايو	maːju
+Time:November.N		تشرين الثاني	taʃriːn alθaːniː
+Time:November.N		نوفمبر	nuːvimbar
+Time:October.N		أكتوبر	uktuwbar
+Time:October.N		تشرين الأول	taʃriːn alʔawal
+Time:September.N		أيلول	ajluwl
+Time:September.N		سبتمبر	sibtambr
+Time:age.N		سن	sinː
+Time:age.N		عمر	ʕumr
+Time:already.ADV		قد	qad
+Time:always.ADV		دائما	daːʔiman
 Time:autumn.N		خريف	xariːf
 Time:final.A		أخير	axiːr
 Time:month.N		شهر	ʃahr

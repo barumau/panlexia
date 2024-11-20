@@ -241,6 +241,7 @@ Food:bake.V		paštta	pɑʃtːɑ
 Food:bread.N		leib	lɛib
 Food:soup.N		keitoz	kɛitɔz
 Food:soup.N		lem'	lɛmʲ
+Food:spoon.N		luzik	lʊzik
 Form:bend (sth).V		painda	pɑindɑ
 Form:bend.V		koverta	kɔvɛrtɑ
 Function:1PL.PRO		mö	mœ
@@ -294,6 +295,9 @@ House:table.N		stal'c	stɑlʲt͡s
 Hunting:bow.N		taug	tɑʊɡ
 Hunting:fishing.V		kalatada	kɑlɑtɑdɑ
 Hunting:hunt.V		mecata	mɛt͡sɑtɑ
+Integrity:part.N		pala	pɑlɑ
+Integrity:piece.N		pala	pɑlɑ
+Integrity:piece.N		supal	sʊpɑl
 Interaction:choose.V		valita	vɑlitɑ
 Interaction:rescue.V		päzutada	pæzʊtɑdɑ
 Mind:dream.N		unikuva	ʊnikʊvɑ
@@ -343,9 +347,13 @@ People:woman.N		naine	nɑinɛ
 Perception:feel.V		mujada	mʊjɑdɑ
 Perception:hear or listen.V		kulištada	kʊliʃtɑdɑ
 Perception:hear.V		kulda	kʊldɑ
+Perception:pain.N		kibu	kibʊ
 Perception:touch.V		koskta	kɔsktɑ
 Perception:touch.V		käziduda	kæzidʊdɑ
+Perception:wet.A		märg	mærɡ
+Perception:yellow.A		pakuine	pɑkʊinɛ
 Plant:Betula.N		koiv	kɔiv
+Plant:bark.N		kor'	kɔrʲ
 Plant:branch.N		oks	ɔks
 Plant:flower.N		änik	ænik
 Plant:leaf.N		lehtez	lɛxtɛz
@@ -405,6 +413,7 @@ Sound:voice.N		än'	ænʲ
 Sound:whistle.V		pistta	pistːɑ
 Sound:whistle.V		vihelta	vihɛltɑ
 Space:back.ADV		tagaze	tɑɡɑzɛ
+Space:wide.A		leved	lɛvɛd
 Storage:bag.N		sumk	sʊmk
 Storage:box.N		mülütim	mʏlʏtim
 Storage:bucket.N		vädr	vædr
@@ -415,6 +424,21 @@ Storage:misplace.V		kadotada	kɑdɔtɑdɑ
 Storage:pouch.N		havad	hɑvɑd
 Storage:pour.V		valada	vɑlɑdɑ
 Storage:sack.N		havad	hɑvɑd
+Time:April.N		sulaku	sʊlɑkʊ
+Time:August.N		eloku	ɛlɔkʊ
+Time:December.N		tal'vku	tɑlʲvkʊ
+Time:February.N		uhoku	ʊhɔkʊ
+Time:January.N		viluku	vilʊkʊ
+Time:July.N		heinku	hɛiŋkʊ
+Time:June.N		kezaku	kɛzɑkʊ
+Time:March.N		keväz'ku	kɛvæzʲkʊ
+Time:May.N		semendku	sɛmɛndkʊ
+Time:November.N		kül'mku	kʏlʲmkʊ
+Time:October.N		reduku	rɛdʊkʊ
+Time:September.N		sügüz'ku	sʏɡʏzʲkʊ
+Time:age.N		igä	iɡæ
+Time:already.ADV		jo	jɔ
+Time:always.ADV		kaiken	kɑikɛn
 Time:autumn.N		sügüz'	sʏɡʏzʲ
 Time:final.A		jäl'gmäine	jælʲɡmæinɛ
 Time:month.N		ku	kʊ

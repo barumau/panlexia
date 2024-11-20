@@ -421,6 +421,7 @@ Food:candy.N		lurse		spa:dulce
 Food:flour.N		harina		spa:harina
 Food:sausage.N		choris		spa:chorizo
 Food:sausage.N		lonkanisyo		spa:longaniza
+Food:spoon.N		kuchara		spa:cuchara
 Form:bend.V		lu7		
 Function:1PL EXCL.PRO		vo7otikotik		
 Function:1PL INCL.PRO		vo7otik		
@@ -490,6 +491,7 @@ House:pillow.N		shon holil
 House:table.N		mesha		spa:mesa
 House:toilet.N		k'ablebal		
 Hunting:bow.N		yolob		
+Integrity:piece.N		tuch’ulil		
 Interaction:choose.V		t’uh		
 Interaction:rescue.V		poh 7u7un		
 Law:crime.N		maltisyon		spa:maldicio*n
@@ -544,7 +546,12 @@ People:twins.N		vach
 People:woman.N		7antz		
 People:young woman.N		bik’tal 7antz		
 Perception:hear.V		7a7i		
+Perception:pain.N		k’ushul		
+Perception:pain.N		moch’		
 Perception:touch.V		pik		
+Perception:wet.A		t’ushul		
+Perception:yellow.A		k’on		
+Plant:bark.N		patil		
 Plant:branch or twig.N		k’obol		
 Plant:flower.N		nich		
 Plant:leaf.N		7anal		
@@ -599,10 +606,15 @@ Sound:whisper.V		mishmish k’op
 Sound:whisper.V		vishvish k’op		
 Sound:whistle.V		pietah		
 Sound:whistle.V		shushubah		
+Space:wide.A		hamal		
+Space:wide.A		shemel		
 Storage:basket.N		moch		
 Storage:misplace.V		ch’ay		
 Storage:pour.V		kol		
 Storage:pour.V		k’eb		
+Time:afternoon.N		shmal		
+Time:age.N		ch’iel		
+Time:always.ADV		sempre		spa:siempre
 Time:hour.N		7ora		spa:hora
 Time:last.V		bat		
 Time:month.N		7u		

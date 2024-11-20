@@ -247,6 +247,7 @@ Food:bake.V		ψήνω	psino
 Food:bread.N		άρτος	artos
 Food:bread.N		ψωμί	psomi
 Food:soup.N		σούπα	supa
+Food:spoon.N		κουτάλι	kutali
 Form:bend (sth).V		κάμπτω	kambto
 Form:bend.V		λυγίζω	liʝizo
 Function:1PL.PRO		εμείς	emis
@@ -296,6 +297,8 @@ House:table.N		τραπέζι	trapezi
 Hunting:bow.N		τόξο	tokso
 Hunting:fishing.V		ψαρεύω	psarevo
 Hunting:hunt.V		κυνηγώ	ciniɣo
+Integrity:part.N		μέρος	meros
+Integrity:piece.N		κομμάτι	komati
 Interaction:choose.V		εκλέγω	ekleɣo
 Interaction:rescue.V		σώζω	sozo
 Mind:dream.N		όνειρο	oniro
@@ -350,8 +353,12 @@ Perception:feel.V		αισθάνομαι	esθanome
 Perception:hear or listen.V		ακούω	akuo
 Perception:hear or listen.V		μαθαίνω	maθeno
 Perception:hear.V		ακούω	akuo
+Perception:pain.N		πόνος	ponos
 Perception:touch.V		εγγίζω	eŋɟizo
+Perception:wet.A		βρεγμένος	vreɣmenos
+Perception:yellow.A		κίτρινος	citrinos
 Plant:Betula.N		σημύδα	simiða
+Plant:bark.N		φλούδα	fluða
 Plant:branch.N		κλαδί	klaði
 Plant:flower.N		άνθος	anθos
 Plant:flower.N		λουλούδι	luluði
@@ -413,6 +420,7 @@ Sound:sound (of instrument or voice).V		ηχώ	ixo
 Sound:voice.N		φωνή	foni
 Sound:whistle.V		σφυρίζω	sfirizo
 Space:back.ADV		πίσω	piso
+Space:wide.A		φαρδύς	farðis
 Storage:bag.N		τσάντα	tsanda
 Storage:box.N		κιβώτιο	civotio
 Storage:bucket.N		κουβάς	kuvas
@@ -423,6 +431,23 @@ Storage:misplace.V		χάνω	xano
 Storage:pouch.N		πουγγί	puŋɟi
 Storage:pour.V		χύνω	çino
 Storage:sack.N		σάκος	sakos
+Time:April.N		Απρίλιος	aprilios
+Time:August.N		Αύγουστος	avɣustos
+Time:December.N		Δεκέμβριος	ðecemvrios
+Time:February.N		Φεβρουάριος	fevruarios
+Time:January.N		Ιανουάριος	ianuarios
+Time:July.N		Ιούλιος	iulios
+Time:June.N		Ιούνιος	iunios
+Time:March.N		Μάρτιος	martios
+Time:May.N		Μάιος	maios
+Time:November.N		Νοέμβριος	noemvrios
+Time:October.N		Οκτώβριος	oktovrios
+Time:September.N		Σεπτέμβριος	septemvrios
+Time:age.N		ηλικία	ilica
+Time:already.ADV		ήδη	iði
+Time:already.ADV		κιόλας	colas
+Time:always.ADV		πάντα	panda
+Time:always.ADV		πάντοτε	pandote
 Time:autumn.N		φθινόπωρο	fθinoporo
 Time:final.A		τελευταίος	televteos
 Time:month.N		μήνας	minas

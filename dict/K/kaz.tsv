@@ -251,6 +251,7 @@ Food:NaCl.N		тұз	tʉz
 Food:bake.V		пісіру	pəsəɾu
 Food:bread.N		күлше	kʊlʃe
 Food:soup.N		көже	køʒe
+Food:spoon.N		қасық	qɑsəq
 Form:bend (sth).V		ию	ɪjjʊw
 Form:bend (sth).V		майыстыру	mɑjəstəɾu
 Form:bend.V		буғу	buʁu
@@ -316,6 +317,9 @@ House:table.N		үстел	ʊstel
 Hunting:bow.N		саржа	sɑɾʒɑ
 Hunting:fishing.V		балык_аулау	bɑlək ɑulɑu
 Hunting:hunt.V		аулау	ɑulɑu
+Integrity:part.N		бөлшек	bølʃek
+Integrity:part.N		үлес	ʊles
+Integrity:piece.N		тілім	tələm
 Interaction:choose.V		таңдау	tɑŋdɑu
 Interaction:rescue.V		құтқару	qʉtqɑɾu
 Mind:dream.N		түс	tʊs
@@ -374,8 +378,12 @@ Perception:feel.V		сезіну	sezənu
 Perception:hear or listen.V		есту	estu
 Perception:hear or listen.V		есітіп қалу	esətəp qɑlu
 Perception:hear.V		есту	estu
+Perception:pain.N		ауру	ɑuɾu
 Perception:touch.V		тию	tɪjjʊw
+Perception:wet.A		сулы	sulə
+Perception:yellow.A		сары	sɑɾə
 Plant:Betula.N		қайың	qɑjəŋ
+Plant:bark.N		қабық	qɑbəq
 Plant:branch.N		бұтақ	bʉtɑq
 Plant:flower.N		гүл	ɡʊl
 Plant:leaf.N		жапырақ	ʒɑpəɾɑq
@@ -448,6 +456,7 @@ Sound:voice.N		үн	ʊn
 Sound:voice.N		әуен	æuen
 Sound:whistle.V		ысқыру	əsqəɾu
 Space:back.ADV		кейін қарай	kejən qɑɾɑj
+Space:wide.A		айдынды	ɑjdəndə
 Storage:bag.N		дорба	doɾbɑ
 Storage:box.N		жәшік	ʒæʃək
 Storage:bucket.N		шелек	ʃelek
@@ -460,6 +469,23 @@ Storage:misplace.V		жоғалту	ʒoʁɑltu
 Storage:pouch.N		қапшық	qɑpʃəq
 Storage:pour.V		құю	qʉjʊw
 Storage:sack.N		қап	qɑp
+Time:April.N		сәуір	sæuəɾ
+Time:August.N		сүмбіле	sʊmbəle
+Time:August.N		тамыз	tɑməz
+Time:December.N		желтоқсан	ʒeltoqsɑn
+Time:February.N		ақпан	ɑqpɑn
+Time:January.N		каңтар	kɑŋtɑɾ
+Time:July.N		шілде	ʃəlde
+Time:June.N		маусым	mɑusəm
+Time:March.N		наурыз	nɑuɾəz
+Time:May.N		мамыр	mɑməɾ
+Time:November.N		қараша	qɑɾɑʃɑ
+Time:October.N		ақырап	ɑqəɾɑp
+Time:September.N		қыркүйек	qəɾkʊjek
+Time:age.N		жас	ʒɑs
+Time:age.N		жас шамасы	ʒɑs ʃɑmɑsə
+Time:already.ADV		түге	tʊɡe
+Time:always.ADV		өнебойы	ønebojə
 Time:autumn.N		күз	kʊz
 Time:final.A		артқы	ɑɾtqə
 Time:final.A		кейінгі	kejənɡə

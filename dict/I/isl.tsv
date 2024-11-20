@@ -243,6 +243,7 @@ Food:NaCl.N		salt	sɑʰl̥t
 Food:bake.V		baka	pɑkɑ
 Food:bread.N		brauð	prœyθ
 Food:soup.N		súpa	supʰɑ
+Food:spoon.N		skeið	scɛiθ
 Form:bend (sth).V		sveigja	svɛijjɑ
 Form:bend.V		beygja	pɛijjɑ
 Function:1PL.PRO		við	vɪθ
@@ -297,6 +298,10 @@ House:table.N		borð	pɔrθ
 Hunting:bow.N		bogi	pɔjɪ
 Hunting:fishing.V		fiska	fɪskɑ
 Hunting:hunt.V		veiða	vɛiðɑ
+Integrity:part.N		hluti	l̥ʏtɪ
+Integrity:part.N		partur	pʰɑr̥tʏr̥
+Integrity:piece.N		biti	pɪtɪ
+Integrity:piece.N		stykki	stɪhkɪ
 Interaction:choose.V		velja	vɛljɑ
 Interaction:rescue.V		bjarga	pjɑrɡɑ
 Mind:dream.N		draumur	trœymʏr̥
@@ -352,8 +357,13 @@ Perception:feel.V		finna til	fɪnːɑ tɪl
 Perception:hear or listen.V		greina	krɛinɑ
 Perception:hear or listen.V		heyra	hɛirɑ
 Perception:hear.V		heyra	hɛirɑ
+Perception:pain.N		sársauki	sɑur̥sœycɪ
 Perception:touch.V		koma við	kʰɔmɑ vɪθ
+Perception:wet.A		blautur	plœytʏr̥
+Perception:wet.A		votur	vɔtʏr̥
+Perception:yellow.A		gulur	kʏlʏr̥
 Plant:Betula.N		birki	pɪr̥kɪ
+Plant:bark.N		börkur	pœr̥kʏr̥
 Plant:branch.N		grein	krɛin
 Plant:flower.N		blóm	ploum
 Plant:leaf.N		blað	plɑθ
@@ -417,6 +427,7 @@ Sound:voice.N		rödd	rœtt
 Sound:whistle.V		blístra	plistrɑ
 Space:back.ADV		aftur	ɑvtʏr̥
 Space:back.ADV		til baka	tʰɪl pɑkɑ
+Space:wide.A		breiður	prɛiðʏr̥
 Storage:bag.N		veski	vɛscɪ
 Storage:box.N		kassi	kʰɑssɪ
 Storage:bucket.N		fata	fɑtɑ
@@ -431,6 +442,22 @@ Storage:pouch.N		baggi	pɑɡɡɪ
 Storage:pouch.N		poki	pʰɔcɪ
 Storage:pour.V		hella	hɛdlɑ
 Storage:sack.N		sekkur	sɛhkʏr̥
+Time:April.N		apríl	ɑpril
+Time:August.N		ágúst	ɑuɣustʰ
+Time:December.N		desember	tɛsɛmpɛr̥
+Time:February.N		február	fɛprʏɑur̥
+Time:January.N		janúar	jɑnuɑr̥
+Time:July.N		júlí	juli
+Time:June.N		júní	juni
+Time:March.N		mars	mɑr̥s
+Time:May.N		maí	mɑi
+Time:November.N		nóvember	nouvɛmpɛr̥
+Time:October.N		október	ɔxtoupɛr̥
+Time:September.N		september	sɛftɛmpɛr̥
+Time:age.N		aldur	ɑltʏr̥
+Time:already.ADV		nú þegar	nu θɛɣɑr̥
+Time:always.ADV		alltaf	ɑl̥tɑv
+Time:always.ADV		sífellt	sivɛl̥t
 Time:autumn.N		haust	hœystʰ
 Time:final.A		síðasti	siðɑstɪ
 Time:month.N		mánuður	mɑunʏðʏr̥

@@ -232,6 +232,7 @@ Food:NaCl.N		sól	sɔ˨ːl
 Food:bake.V		cvréti	t͡sʋrɛ˨ːti
 Food:bread.N		krùh	kru˦x
 Food:soup.N		júha	ju˨ːxa
+Food:spoon.N		žlíca	ʒli˨ːt͡sa
 Form:bend (sth).V		zavíjati	zaʋi˨ːjati
 Form:bend.V		upogníti	upɔɡni˨ːti
 Function:1PL.PRO		mí	mi˨ː
@@ -282,6 +283,8 @@ House:table.N		míza	mi˨ːza
 Hunting:bow.N		lók	lɔ˨ːk
 Hunting:fishing.V		ribáriti	riba˨ːriti
 Hunting:hunt.V		lovíti	lɔʋi˨ːti
+Integrity:part.N		dél	dɛ˨ːl
+Integrity:piece.N		kós	kɔ˨ːs
 Interaction:choose.V		izbírati	izbi˨ːrati
 Interaction:rescue.V		réšiti	rɛ˨ːʃiti
 Mind:dream.N		sánje	sa˨ːnɛ
@@ -331,8 +334,15 @@ People:woman.N		žénska	ʒɛ˨ːnska
 Perception:feel.V		čutíti	t͡ʃuti˨ːti
 Perception:hear or listen.V		čúti	t͡ʃu˨ːti
 Perception:hear.V		slíšati	sli˨ːʃati
+Perception:pain.N		bolečína	bɔlɛt͡ʃi˨ːna
+Perception:pain.N		ból	bɔ˨ːl
 Perception:touch.V		dotíkati se	dɔti˨ːkati sɛ
+Perception:wet.A		móker	mɔ˨ːkɛr
+Perception:yellow.A		rumèn	rumɛ˦n
+Perception:yellow.A		žólt	ʒɔ˨ːlt
 Plant:Betula.N		bréza	brɛ˨ːza
+Plant:bark.N		lúbje	lu˨ːbjɛ
+Plant:bark.N		skórja	skɔ˨ːra
 Plant:branch.N		véja	ʋɛ˨ːja
 Plant:flower.N		cvetlíca	t͡sʋɛtli˨ːt͡sa
 Plant:leaf.N		líst	li˨ːst
@@ -395,6 +405,7 @@ Sound:voice.N		glás	ɡla˨ːs
 Sound:whistle.V		pískati	pi˨ːskati
 Sound:whistle.V		žvížgati	ʒʋi˨ːʒɡati
 Space:back.ADV		nazáj	naza˨ːj
+Space:wide.A		širòk	ʃirɔ˦k
 Storage:bag.N		tobôlec	tɔbo˦ːlɛt͡s
 Storage:bag.N		tórba	tɔ˨ːrba
 Storage:box.N		zabòj	zabɔ˦j
@@ -408,6 +419,22 @@ Storage:misplace.V		izgubíti	izɡubi˨ːti
 Storage:pouch.N		môšnja	mo˦ːʃna
 Storage:pour.V		sípati	si˨ːpati
 Storage:sack.N		vréča	ʋrɛ˨ːt͡ʃa
+Time:April.N		apríl	apri˨ːl
+Time:August.N		avgúst	aʋɡu˨ːst
+Time:December.N		decémber	dɛt͡sɛ˨ːmbɛr
+Time:February.N		fébruar	fɛ˨ːbruar
+Time:January.N		jánuar	ja˨ːnuar
+Time:July.N		júlij	ju˨ːlij
+Time:June.N		júnij	ju˨ːnij
+Time:March.N		márec	ma˨ːrɛt͡s
+Time:May.N		máj	ma˨ːj
+Time:November.N		novêmber	nɔʋe˦ːmbɛr
+Time:October.N		október	ɔktɔ˨ːbɛr
+Time:September.N		septêmber	sɛpte˦ːmbɛr
+Time:age.N		dôba	do˦ːba
+Time:already.ADV		žè	ʒɛ˦
+Time:always.ADV		védno	ʋɛ˨ːdnɔ
+Time:always.ADV		zméraj	zmɛ˨ːraj
 Time:autumn.N		jesén	jɛsɛ˨ːn
 Time:final.A		poslédnji	pɔslɛ˨ːdni
 Time:month.N		mésec	mɛ˨ːsɛt͡s

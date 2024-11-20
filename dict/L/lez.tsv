@@ -231,6 +231,7 @@ Food:bake.V		чурун	t͡ʃurun
 Food:bread.N		фу	fu
 Food:soup.N		суп	sup
 Food:soup.N		шурпа	ʃurpa
+Food:spoon.N		тӏур	tʼur
 Form:bend (sth).V		патахъарун	pataqʰarun
 Form:bend.V		акӏажарун	akʼaʒarun
 Form:bend.V		кангур авун	kanɡur awun
@@ -287,6 +288,8 @@ House:table.N		стол	stol
 Hunting:bow.N		чӏемерук	t͡ʃʼemeruk
 Hunting:fishing.V		гъетер кьун	ʁeter qʼun
 Hunting:hunt.V		гъуьрч авун	ʁyrt͡ʃ awun
+Integrity:part.N		пай	paj
+Integrity:piece.N		кӏус	kʼus
 Interaction:choose.V		хкягъун	χkæʁun
 Interaction:rescue.V		къутармишун	qutarmiʃun
 Mind:dream.N		ахвар	aχa̹r
@@ -332,8 +335,13 @@ People:woman.N		дишегьли	diʃehli
 People:woman.N		паб	pab
 Perception:feel.V		гьисс авун	hiss awun
 Perception:hear.V		ван хьун	wan xun
+Perception:pain.N		тӏал	tʼal
+Perception:pain.N		тӏарвал	tʼara̹l
 Perception:touch.V		хкӏурун	χkʼurun
+Perception:wet.A		кьежей	qʼeʒej
+Perception:yellow.A		хъипи	qʰipi
 Plant:Betula.N		верх	werχ
+Plant:bark.N		чкал	t͡ʃkal
 Plant:branch.N		тӏур	tʼur
 Plant:flower.N		цуьк	t͡syk
 Plant:leaf.N		пеш	peʃ
@@ -392,6 +400,7 @@ Sound:shout.V		гьараюн	harajun
 Sound:sound (of instrument or voice).V		ван авун	wan awun
 Sound:voice.N		ван	wan
 Sound:whistle.V		уьфт ягъун	yft æʁun
+Space:wide.A		гьяркьуь	hærqʼy
 Storage:bag.N		чанта	t͡ʃanta
 Storage:box.N		ящик	æɕːik
 Storage:bucket.N		ведре	wedre
@@ -403,6 +412,24 @@ Storage:misplace.V		квадарун	ka̹darun
 Storage:pouch.N		тагъар	taʁar
 Storage:pour.V		цун	t͡sun
 Storage:sack.N		чувал	t͡ʃuwal
+Time:April.N		апрель	aprel
+Time:August.N		август	awɡust
+Time:December.N		декабрь	dekabr
+Time:February.N		февраль	fewral
+Time:January.N		январь	æna̹r
+Time:July.N		июль	ijul
+Time:June.N		июнь	ijun
+Time:March.N		март	mart
+Time:May.N		май	maj
+Time:November.N		ноябрь	noæbr
+Time:October.N		октябрь	oktæbr
+Time:September.N		сентябрь	sentæbr
+Time:age.N		яш	æʃ
+Time:already.ADV		мадни гуьтӏуь я	madni ɡytʼy æ
+Time:already.ADV		мадни гуьтӏуьз	madni ɡytʼyz
+Time:already.ADV		мадни дардиз	madni dardiz
+Time:already.ADV		хъувуна	qʰuwuna
+Time:always.ADV		гьамиша	hamiʃa
 Time:autumn.N		зул	zul
 Time:final.A		эхиримжи	eχirimʒi
 Time:month.N		варз	warz

@@ -268,6 +268,7 @@ Food:NaCl.N		дабһан	daphaŋ
 Food:bake.V		болгохо	bɔlɡɔxɔ
 Food:bread.N		хилээмэн	xilɛːmɛŋ
 Food:soup.N		шүлэн	ʃylɛŋ
+Food:spoon.N		халбага	xalbaɡa
 Form:bend (sth).V		нугалха	nuɡalxa
 Form:bend.V		нугалха	nuɡalxa
 Function:1PL.PRO		бидэ	bidɛ
@@ -328,6 +329,10 @@ Hunting:fishing.V		хилмаадаха	xilmaːdaxa
 Hunting:hunt.V		агнаха	aɡnaxa
 Hunting:hunt.V		агнуушархаха	aɡnuːʃarxaxa
 Hunting:hunt.V		гүрөөлхэ	ɡyrœːlxɛ
+Integrity:part.N		хуби	xubi
+Integrity:part.N		хэсэг	xɛsɛk
+Integrity:part.N		хэһэг	xɛhɛk
+Integrity:piece.N		хүсөөг	xysœːk
 Interaction:choose.V		шэлэхэ	ʃɛlɛxɛ
 Interaction:choose.V		һунгаха	huŋɡaxa
 Interaction:rescue.V		аршалха	arʃalxa
@@ -391,8 +396,12 @@ People:woman.N		эхэнэр	ɛxɛnɛr
 Perception:feel.V		мэдэрхэ	mɛdɛrxɛ
 Perception:hear or listen.V		абяа абаха	abjaː abaxa
 Perception:hear.V		соносохо	sɔnɔsɔxɔ
+Perception:pain.N		үбдэлгэ	ybdɛlɡɛ
 Perception:touch.V		ойронь хүрэхэ	ɔjrɔnʲ xyrɛxɛ
+Perception:wet.A		нойтон	nɔjtɔŋ
+Perception:yellow.A		шара	ʃara
 Plant:Betula.N		хуһан	xuhaŋ
+Plant:bark.N		холтоһон	xɔltɔhɔŋ
 Plant:branch.N		гэшүүһэн	ɡɛʃyːhɛŋ
 Plant:flower.N		сэсэг	sɛsɛk
 Plant:leaf.N		лиис	liis
@@ -462,6 +471,7 @@ Sound:voice.N		хоолой	xɔːlɔj
 Sound:whistle.V		гошхорхо	ɡɔʃxɔrxɔ
 Sound:whistle.V		һубирха	hubirxa
 Space:back.ADV		һөөргөө	hœːrɡœː
+Space:wide.A		үргэн	yrɡɛŋ
 Storage:bag.N		сүүмхэ	syːmxɛ
 Storage:box.N		хайрсаг	xajrsak
 Storage:bucket.N		һуулга	huːlɡa
@@ -474,6 +484,25 @@ Storage:misplace.V		гээхэ	ɡɛːxɛ
 Storage:pouch.N		мэшээг	mɛʃɛːk
 Storage:pour.V		адхаха	adxaxa
 Storage:sack.N		мэшээг	mɛʃɛːk
+Time:April.N		апрель	aprʲɛʎ
+Time:August.N		hара	hara
+Time:August.N		август	aβɡust
+Time:December.N		декабрь	dʲɛkabrʲ
+Time:February.N		февраль	fʲɛβraʎ
+Time:January.N		январь	janβarʲ
+Time:July.N		долоодохи hара	dɔlɔːdɔxi hara
+Time:July.N		июль	ijuʎ
+Time:June.N		зургаадахи hара	zurɡaːdaxi hara
+Time:June.N		июнь	ijunʲ
+Time:March.N		март	mart
+Time:May.N		май	maj
+Time:November.N		ноябрь	nɔjabrʲ
+Time:October.N		октябрь	ɔktjabrʲ
+Time:September.N		сентябрь	sʲɛntjabrʲ
+Time:age.N		наһан	nahaŋ
+Time:already.ADV		даа	daː
+Time:already.ADV		дэ	dɛ
+Time:always.ADV		хододоо	xɔdɔdɔː
 Time:autumn.N		намар	namar
 Time:final.A		һуулшын	huːlʃʉŋ
 Time:final.A		һүүлшынхи	hyːlʃʉŋxi

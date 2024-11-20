@@ -327,6 +327,7 @@ Communication:mail.N		post		fra:poste
 Communication:newspaper.N		newspaper		
 Communication:postage stamp.N		stamp		
 Communication:postcard.N		postcard		ell:khártēs
+Communication:praise.N		praise		:pretiāre
 Communication:radio.N		radio		
 Communication:refuse.V		refuse		:*refūsāre
 Communication:telephone.N		telephone		
@@ -412,6 +413,7 @@ Food:fermented alcohol.N		alcohol		arb:al-koħl
 Food:flour.N		flour		fra:fleur (de farine)
 Food:sausage.N		sausage		:salsīcia
 Food:soup.N		soup		:*supian
+Food:spoon.N		spoon		
 Food:supper.N		supper		:*supian
 Form:bend.V		bend		
 Function:1PL.PRO		we		
@@ -499,6 +501,8 @@ House:toilet.N		toilet		fra:toilette
 Hunting:boomerang.N		boomerang		:womurrang
 Hunting:bow.N		bow		
 Hunting:hunt.V		hunt		
+Integrity:part.N		part		
+Integrity:piece.N		piece		:peece
 Interaction:choose.V		choose		
 Interaction:rescue.V		rescue		:*re-excūtere
 Law:crime.N		crime		:crīmen
@@ -547,9 +551,13 @@ People:old woman.N		old woman
 People:twins.N		twins		
 People:woman.N		woman		
 Perception:hear.V		hear		
+Perception:pain.N		pain		ell:poinē
 Perception:touch.V		touch		fra:toucher
+Perception:wet.A		wet		
+Perception:yellow.A		yellow		
 Plant:Betula.N		birch		
 Plant:Ipomoea batatas.N		sweet potato		
+Plant:bark.N		bark		nhu:börkr
 Plant:branch or twig.N		branch		:branca
 Plant:flower.N		flower		:flō-s, -rem
 Plant:leaf.N		leaf		
@@ -604,6 +612,7 @@ Sound:stutter.V		stutter
 Sound:voice.N		voice		:vo-x, -cem
 Sound:whisper.V		whisper		
 Sound:whistle.V		whistle		
+Space:wide.A		wide		
 Storage:bag.N		bag		
 Storage:basket.N		basket		
 Storage:bottle.N		bottle		:buttis
@@ -611,6 +620,9 @@ Storage:can.N		tin
 Storage:misplace.V		lose		
 Storage:netbag.N		netbag		nhu:baggi
 Storage:pour.V		pour		
+Time:afternoon.N		afternoon		
+Time:age.N		age		:aevum
+Time:always.ADV		always		
 Time:autumn.N		autumn		:autumnus
 Time:calendar.N		calendar		:calendae
 Time:final.A		last		

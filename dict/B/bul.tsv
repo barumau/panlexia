@@ -246,6 +246,7 @@ Food:NaCl.N		сол	sɔɫ
 Food:bake.V		пека	pɛka
 Food:bread.N		хляб	xʎap
 Food:soup.N		супа	supa
+Food:spoon.N		лъжица	ɫɤʒit͡sa
 Form:bend (sth).V		прегъна	prɛɡɤna
 Form:bend.V		прегъна	prɛɡɤna
 Function:1PL.PRO		ние	niɛ
@@ -302,6 +303,10 @@ House:table.N		маса	masa
 Hunting:bow.N		лък	ɫɤk
 Hunting:fishing.V		ловя риба	ɫɔvʲa riba
 Hunting:hunt.V		ловувам	ɫɔvuvam
+Integrity:part.N		дял	dʲaɫ
+Integrity:part.N		част	t͡ʃast
+Integrity:piece.N		къс	kɤs
+Integrity:piece.N		парче	part͡ʃɛ
 Interaction:choose.V		избирам	izbiram
 Interaction:rescue.V		спася	spasʲa
 Mind:dream.N		сън	sɤn
@@ -354,8 +359,12 @@ Perception:feel.V		усещам	usɛʃtam
 Perception:feel.V		чувствувам	t͡ʃuvstvuvam
 Perception:hear or listen.V		доловя	dɔɫɔvʲa
 Perception:hear.V		чувам	t͡ʃuvam
+Perception:pain.N		болка	bɔɫka
 Perception:touch.V		докосна	dɔkɔsna
+Perception:wet.A		мокър	mɔkɤr
+Perception:yellow.A		жълт	ʒɤɫt
 Plant:Betula.N		бреза	brɛza
+Plant:bark.N		кора	kɔra
 Plant:branch.N		клон	kɫɔn
 Plant:flower.N		цвете	t͡svɛtɛ
 Plant:leaf.N		лист	list
@@ -417,6 +426,7 @@ Sound:sound (of instrument or voice).V		звуча	zvut͡ʃa
 Sound:voice.N		глас	ɡɫas
 Sound:whistle.V		свиря	svirʲa
 Space:back.ADV		обратно	ɔbratnɔ
+Space:wide.A		широк	ʃirɔk
 Storage:bag.N		чанта	t͡ʃanta
 Storage:box.N		кутия	kutija
 Storage:box.N		сандък	sandɤk
@@ -430,6 +440,21 @@ Storage:misplace.V		загубя	zaɡubʲa
 Storage:pouch.N		кесия	kɛsija
 Storage:pour.V		сипя	sipʲa
 Storage:sack.N		чувал	t͡ʃuvaɫ
+Time:April.N		април	apriɫ
+Time:August.N		август	avɡust
+Time:December.N		декември	dɛkɛmvri
+Time:February.N		февруари	fɛvruari
+Time:January.N		януари	januari
+Time:July.N		юли	juli
+Time:June.N		юни	juni
+Time:March.N		март	mart
+Time:May.N		май	maj
+Time:November.N		ноември	nɔɛmvri
+Time:October.N		октомври	ɔktɔmvri
+Time:September.N		септември	sɛptɛmvri
+Time:age.N		възраст	vɤzrast
+Time:already.ADV		вече	vɛt͡ʃɛ
+Time:always.ADV		винаги	vinaɡi
 Time:autumn.N		есен	ɛsɛn
 Time:final.A		последен	pɔslɛdɛn
 Time:month.N		месец	mɛsɛt͡s

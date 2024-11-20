@@ -237,6 +237,7 @@ Food:bake.V		crasu	krasɪ
 Food:bake.V		pobi	pɔbɪ
 Food:bread.N		bara	bara
 Food:soup.N		cawl	ka͡ʊl
+Food:spoon.N		llwy	ɬʊ͡ɪ
 Form:bend (sth).V		plygu	pləɡɪ
 Form:bend.V		plygu	pləɡɪ
 Function:1PL.PRO		ni	nɪ
@@ -293,6 +294,8 @@ House:table.N		bwrdd	bʊrð
 Hunting:bow.N		bwa	bwa
 Hunting:fishing.V		pysgota	pəsɡɔta
 Hunting:hunt.V		hela	hɛla
+Integrity:part.N		rhan	r̥an
+Integrity:piece.N		darn	darn
 Interaction:choose.V		dewis	dɛ͡ʊɪs
 Interaction:rescue.V		achub	aχɪb
 Mind:dream.N		breuddwyd	brɛ͡ɪðʊ͡ɪd
@@ -341,8 +344,13 @@ Perception:feel.V		clywed	klə͡ʊɛd
 Perception:feel.V		teimlo	tɛ͡ɪmlɔ
 Perception:hear or listen.V		clywed sôn am	klə͡ʊɛd soːn am
 Perception:hear.V		clywed	klə͡ʊɛd
+Perception:pain.N		gwayw	ɡwaɪ͡ʊ
+Perception:pain.N		poen	pɔ͡ɪn
 Perception:touch.V		cyffwrdd	kəfʊrð
+Perception:wet.A		gwlyb	ɡʊlɪb
+Perception:yellow.A		melyn	mɛlɪn
 Plant:Betula.N		bedwen	bɛdwɛn
+Plant:bark.N		rhisgl	r̥ɪsɡl
 Plant:branch.N		cangen	kaŋɛn
 Plant:flower.N		blodyn	blɔdɪn
 Plant:leaf.N		deilen	dɛ͡ɪlɛn
@@ -412,6 +420,7 @@ Sound:sound (of instrument or voice).V		seinio	sɛ͡ɪnɪɔ
 Sound:voice.N		llais	ɬa͡ɪs
 Sound:whistle.V		chwibanu	χwɪbanɪ
 Space:back.ADV		yn ôl	ən oːl
+Space:wide.A		llydan	ɬədan
 Storage:bag.N		cod	kɔd
 Storage:box.N		blwch	blʊχ
 Storage:box.N		bocs	bɔks
@@ -424,6 +433,22 @@ Storage:misplace.V		colli	kɔɬɪ
 Storage:pouch.N		cwd	kʊd
 Storage:pour.V		tywallt	tə͡ʊaɬt
 Storage:sack.N		sach	saχ
+Time:April.N		Ebrill	ɛbrɪɬ
+Time:August.N		Awst	a͡ʊst
+Time:December.N		Rhagfyr	r̥aɡvɪr
+Time:February.N		Chwefror	χwɛvrɔr
+Time:January.N		Ionawr	ɪɔna͡ʊr
+Time:July.N		Gorffennaf	ɡɔrfɛnnav
+Time:June.N		Mehefin	mɛhɛvɪn
+Time:March.N		Mawrth	ma͡ʊrθ
+Time:May.N		Mai	ma͡ɪ
+Time:November.N		Tachwedd	taχwɛð
+Time:October.N		Hydref	hədrɛv
+Time:September.N		Medi	mɛdɪ
+Time:age.N		oed	ɔ͡ɪd
+Time:already.ADV		eisoes	ɛ͡ɪsɔ͡ɪs
+Time:already.ADV		yn barod	ən barɔd
+Time:always.ADV		bob amser	bɔb amsɛr
 Time:autumn.N		hydref	hədrɛv
 Time:final.A		olaf	ɔlav
 Time:month.N		mis	mɪs

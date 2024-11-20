@@ -240,6 +240,7 @@ Food:NaCl.N		suola	suɔ̯lɑ
 Food:bake.V		leipoa	lɛi̯pɔɑ
 Food:bread.N		leipä	lɛi̯pæ
 Food:soup.N		keitto	kɛi̯tːɔ
+Food:spoon.N		lusikka	lʊsikːɑ
 Form:bend (sth).V		taivuttaa	tɑi̯ʋʊtːɑː
 Form:bend.V		taivuttaa	tɑi̯ʋʊtːɑː
 Function:1PL.PRO		me	mɛ
@@ -296,6 +297,9 @@ House:table.N		pöytä	pœɥtæ
 Hunting:bow.N		jousi	jɔwsi
 Hunting:fishing.V		kalastaa	kɑlɑstɑː
 Hunting:hunt.V		metsästää	mɛt͡sæstæː
+Integrity:part.N		osa	ɔsɑ
+Integrity:piece.N		kappale	kɑpːɑlɛ
+Integrity:piece.N		pala	pɑlɑ
 Interaction:choose.V		valita	ʋɑlitɑ
 Interaction:rescue.V		pelastaa	pɛlɑstɑː
 Mind:dream.N		uni	ʊni
@@ -347,9 +351,15 @@ People:woman.N		nainen	nɑi̯nɛn
 Perception:feel.V		tuntea	tʊntɛɑ
 Perception:hear or listen.V		kuulla	kuːlːɑ
 Perception:hear.V		kuulla	kuːlːɑ
+Perception:pain.N		kipu	kipʊ
+Perception:pain.N		särky	særkʏ
 Perception:touch.V		koskea	kɔskɛɑ
 Perception:touch.V		koskettaa	kɔskɛtːɑː
+Perception:wet.A		märkä	mærkæ
+Perception:yellow.A		keltainen	kɛltɑi̯nɛn
 Plant:Betula.N		koivu	kɔi̯ʋʊ
+Plant:bark.N		kuori	kuɔ̯ri
+Plant:bark.N		parkki	pɑrkːi
 Plant:branch.N		oksa	ɔksɑ
 Plant:flower.N		kukka	kʊkːɑ
 Plant:leaf.N		lehti	lɛxti
@@ -407,6 +417,7 @@ Sound:sound (of instrument or voice).V		soida	sɔi̯dɑ
 Sound:voice.N		ääni	æːni
 Sound:whistle.V		viheltää	ʋihɛltæː
 Space:back.ADV		takaisin	tɑkɑi̯sin
+Space:wide.A		leveä	lɛʋɛæ
 Storage:bag.N		laukku	lɑwkːʊ
 Storage:box.N		arkku	ɑrkːʊ
 Storage:box.N		kirstu	kirstʊ
@@ -420,6 +431,21 @@ Storage:misplace.V		kadottaa	kɑdɔtːɑː
 Storage:pouch.N		pussi	pʊsːi
 Storage:pour.V		kaataa	kɑːtɑː
 Storage:sack.N		säkki	sækːi
+Time:April.N		huhtikuu	hʊxtikuː
+Time:August.N		elokuu	ɛlɔkuː
+Time:December.N		joulukuu	jɔwlʊkuː
+Time:February.N		helmikuu	hɛlmikuː
+Time:January.N		tammikuu	tɑmːikuː
+Time:July.N		heinäkuu	hɛi̯nækuː
+Time:June.N		kesäkuu	kɛsækuː
+Time:March.N		maaliskuu	mɑːliskuː
+Time:May.N		toukokuu	tɔwkɔkuː
+Time:November.N		marraskuu	mɑrːɑskuː
+Time:October.N		lokakuu	lɔkɑkuː
+Time:September.N		syyskuu	syːskuː
+Time:age.N		ikä	ikæ
+Time:already.ADV		jo	jɔ
+Time:always.ADV		aina	ɑi̯nɑ
 Time:autumn.N		syksy	sʏksʏ
 Time:final.A		viimeinen	ʋiːmɛi̯nɛn
 Time:month.N		kuukausi	kuːkɑwsi

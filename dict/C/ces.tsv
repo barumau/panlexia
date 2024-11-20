@@ -237,6 +237,7 @@ Food:NaCl.N		sůl	suːl
 Food:bake.V		péct	pɛːt͡st
 Food:bread.N		chléb	xlɛːp
 Food:soup.N		polévka	polɛːfka
+Food:spoon.N		lžíce	lʒiːt͡sɛ
 Form:bend (sth).V		ohnout	oɦnoʊ̯t
 Form:bend.V		ohnout	oɦnoʊ̯t
 Function:1PL.PRO		my	mɪ
@@ -289,6 +290,10 @@ House:table.N		stůl	stuːl
 Hunting:bow.N		luk	luk
 Hunting:fishing.V		chytat ryby	xɪtat rɪbɪ
 Hunting:hunt.V		uhonit	uɦoɲɪt
+Integrity:part.N		díl	diːl
+Integrity:part.N		část	t͡ʃaːst
+Integrity:piece.N		kousek	koʊ̯sɛk
+Integrity:piece.N		kus	kus
 Interaction:choose.V		zvolit	zvolɪt
 Interaction:rescue.V		zachránit	zaxraːɲɪt
 Mind:dream.N		sen	sɛn
@@ -337,8 +342,12 @@ People:woman.N		žena	ʒɛna
 Perception:feel.V		cítit	t͡siːcɪt
 Perception:hear or listen.V		uslyšet	uslɪʃɛt
 Perception:hear.V		slyšet	slɪʃɛt
+Perception:pain.N		bolest	bolɛst
 Perception:touch.V		dotýkat se	dotiːkat sɛ
+Perception:wet.A		mokrý	mokriː
+Perception:yellow.A		žlutý	ʒlutiː
 Plant:Betula.N		bříza	br̝iːza
+Plant:bark.N		kůra	kuːra
 Plant:branch.N		větev	vjɛtɛf
 Plant:flower.N		květina	ɡvjɛcɪna
 Plant:leaf.N		lupen	lupɛn
@@ -396,6 +405,7 @@ Sound:voice.N		hlas	ɦlas
 Sound:whistle.V		pískat	piːskat
 Space:back.ADV		nazpět	naspjɛt
 Space:back.ADV		zpět	spjɛt
+Space:wide.A		široký	ʃɪrokiː
 Storage:bag.N		brašna	braʃna
 Storage:bag.N		taška	taʃka
 Storage:box.N		bedna	bɛdna
@@ -411,6 +421,23 @@ Storage:misplace.V		ztratit	stracɪt
 Storage:pouch.N		pytlík	pɪtliːk
 Storage:pour.V		nasypat	nasɪpat
 Storage:sack.N		pytel	pɪtɛl
+Time:April.N		duben	dubɛn
+Time:August.N		srpen	srpɛn
+Time:December.N		prosinec	prosɪnɛt͡s
+Time:February.N		únor	uːnor
+Time:January.N		leden	lɛdɛn
+Time:July.N		červenec	t͡ʃɛrvɛnɛt͡s
+Time:June.N		červen	t͡ʃɛrvɛn
+Time:March.N		březen	br̝ɛzɛn
+Time:May.N		květen	ɡvjɛtɛn
+Time:November.N		listopad	lɪstopat
+Time:October.N		říjen	r̝iːjɛn
+Time:September.N		září	zaːr̝iː
+Time:age.N		věk	vjɛk
+Time:already.ADV		již	jɪʃ
+Time:already.ADV		už	uʃ
+Time:always.ADV		stále	staːlɛ
+Time:always.ADV		vždy	vʒdɪ
 Time:autumn.N		podzim	podzɪm
 Time:final.A		poslední	poslɛdɲiː
 Time:month.N		měsíc	mɲɛsiːt͡s

@@ -188,6 +188,7 @@ Food:Malus domestica.N		яблоко	jablɔkɔ
 Food:NaCl.N		таӷьюӄ	taɣʲjuq
 Food:bake.V		гаӷаӄа	ɡaɣaqa
 Food:bread.N		хлеба	xljɛba
+Food:spoon.N		алъӄутаӄ	at͡ɬqutaq
 Form:bend (sth).V		агуӽлъыӄа	aɡuχt͡ɬɨqa
 Form:bend (sth).V		агуӽлъыӄуӄ	aɡuχt͡ɬɨquq
 Form:bend.V		агуӽлъыӄа	aɡuχt͡ɬɨqa
@@ -239,6 +240,8 @@ House:table.N		стола	stɔla
 Hunting:bow.N		уӷлювык	uɣljuvɨk
 Hunting:fishing.V		иӄалъиниӷаӄуӄ	iqat͡ɬiniɣaquq
 Hunting:hunt.V		унаӈниӷаӄуӄ	unaŋɡ̥niɣaquq
+Integrity:part.N		икылъыӄ	ikɨt͡ɬɨq
+Integrity:piece.N		авгуӄаӄ	avɡuqaq
 Interaction:choose.V		авуӷиӄуӄ	avuɣiquq
 Interaction:choose.V		ювӷиӷаӄуӄ	juvɣiɣaquq
 Interaction:rescue.V		анагутаӄа	anaɡutaqa
@@ -273,9 +276,13 @@ Perception:feel.V		ӄыӈакиӽтаӷаӄа	qɨŋɡ̥akiχtaɣaqa
 Perception:hear or listen.V		нагаӄуӽлъыӄа	naɡaquχt͡ɬɨqa
 Perception:hear.V		нагаӄуӷнаӷаӄа	naɡaquɣnaɣaqa
 Perception:hear.V		нагаӄуӷнаӷаӄуӄ	naɡaquɣnaɣaquq
+Perception:pain.N		аӄниӷныӄ	aqniɣnɨq
 Perception:touch.V		сяфлъыгаӄа	sjaft͡ɬɨɡaqa
 Perception:touch.V		сяфлъыгаӄуӄ	sjaft͡ɬɨɡaquq
+Perception:wet.A		аӷипсялӈуӄ	aɣipsjalŋɡ̥uq
+Perception:yellow.A		кависягнилӈуӄ	kavisjaɡnilŋɡ̥uq
 Plant:Betula.N		иӄаӽта	iqaχta
+Plant:bark.N		ӄайӷу	qajɣu
 Plant:branch.N		ау̌аяӄ	aǔajaq
 Plant:flower.N		питутшат	pitutʃat
 Plant:root.N		акуӄ	akuq
@@ -314,6 +321,7 @@ Sound:shout.V		араӷаӄуӄ	araɣaquq
 Sound:voice.N		ӄаӷи	qaɣi
 Sound:whistle.V		кумкуялъӄиӄуӄ	kumkujat͡ɬqiquq
 Space:back.ADV		утыӷмун	utɨɣmun
+Space:wide.A		иӄытуӄаӄ	iqɨtuqaq
 Storage:bag.N		аӄыфтаӷаӄ	aqɨftaɣaq
 Storage:box.N		сялӈау̌раӄ	sjalŋɡ̥aǔraq
 Storage:box.N		сялӈаӄ	sjalŋɡ̥aq
@@ -323,6 +331,21 @@ Storage:misplace.V		ифлъялъыӄуӄ	ift͡ɬjat͡ɬɨquq
 Storage:pouch.N		калӈапыгаӄ	kalŋɡ̥apɨɡaq
 Storage:sack.N		акмагутаӄ	akmaɡutaq
 Storage:sack.N		калӈапыгаӄ	kalŋɡ̥apɨɡaq
+Time:April.N		апреля	aprjɛlja
+Time:August.N		августа	avɡusta
+Time:December.N		декабря	djɛkabrja
+Time:February.N		февраля	fjɛvralja
+Time:January.N		января	janvarja
+Time:July.N		июля	ijulja
+Time:June.N		июня	ijunja
+Time:March.N		марта	marta
+Time:May.N		май	maj
+Time:November.N		ноября	nɔjabrja
+Time:October.N		октября	ɔktjabrja
+Time:September.N		сентября	sjɛntjabrja
+Time:age.N		аӈталя	aŋɡ̥talja
+Time:already.ADV		ынмис	ɨnmis
+Time:always.ADV		иу̌лыӈ	iǔlɨŋɡ̥
 Time:autumn.N		уксяӄ	uksjaq
 Time:final.A		киӈулиӄ	kiŋɡ̥uliq
 Time:month.N		танӄиӄ	tanqiq

@@ -226,6 +226,7 @@ Food:NaCl.N		соль	sɔlʲ
 Food:bake.V		пячы	pʲaʈ͡ʂɨ
 Food:bread.N		хлеб	xlʲɛb
 Food:soup.N		суп	sup
+Food:spoon.N		лыжка	lɨʐka
 Form:bend (sth).V		пагнуць	paɣnut͡sʲ
 Form:bend.V		сагнуць	saɣnut͡sʲ
 Function:1PL.PRO		мы	mɨ
@@ -278,6 +279,9 @@ House:table.N		стол	stɔl
 Hunting:bow.N		лук	luk
 Hunting:fishing.V		рыбачыць	rɨbaʈ͡ʂɨt͡sʲ
 Hunting:hunt.V		паляваць	palʲavat͡sʲ
+Integrity:part.N		частка	ʈ͡ʂastka
+Integrity:piece.N		кавалак	kavalak
+Integrity:piece.N		кусок	kusɔk
 Interaction:choose.V		выбраць	vɨbrat͡sʲ
 Interaction:rescue.V		выратаваць	vɨratavat͡sʲ
 Mind:dream.N		сон	sɔn
@@ -324,8 +328,12 @@ People:woman.N		жанчына	ʐanʈ͡ʂɨna
 Perception:feel.V		адчуваць	adʈ͡ʂuvat͡sʲ
 Perception:hear or listen.V		пачуць	paʈ͡ʂut͡sʲ
 Perception:hear.V		чуць	ʈ͡ʂut͡sʲ
+Perception:pain.N		боль	bɔlʲ
 Perception:touch.V		чапаць	ʈ͡ʂapat͡sʲ
+Perception:wet.A		мокры	mɔkrɨ
+Perception:yellow.A		жоўты	ʐɔwtɨ
 Plant:Betula.N		бяроза	bʲarɔza
+Plant:bark.N		кара	kara
 Plant:branch.N		сук	suk
 Plant:flower.N		кветка	kvʲɛtka
 Plant:leaf.N		ліст	list
@@ -382,6 +390,7 @@ Sound:sound (of instrument or voice).V		гучаць	ɣuʈ͡ʂat͡sʲ
 Sound:voice.N		голас	ɣɔlas
 Sound:whistle.V		свістаць	svistat͡sʲ
 Space:back.ADV		назад	nazad
+Space:wide.A		шырокі	ʂɨrɔki
 Storage:bag.N		торба	tɔrba
 Storage:box.N		скрынка	skrɨnka
 Storage:bucket.N		вядро	vʲadrɔ
@@ -392,6 +401,22 @@ Storage:misplace.V		згубіць	zɣubit͡sʲ
 Storage:pouch.N		мяшок	mʲaʂɔk
 Storage:pour.V		наліць	nalit͡sʲ
 Storage:sack.N		мех	mʲɛx
+Time:April.N		красавік	krasavik
+Time:August.N		жнівень	ʐnivʲɛnʲ
+Time:December.N		снежань	snʲɛʐanʲ
+Time:February.N		люты	lʲutɨ
+Time:January.N		студзень	studzʲɛnʲ
+Time:July.N		ліпень	lipʲɛnʲ
+Time:June.N		чэрвень	ʈ͡ʂɛrvʲɛnʲ
+Time:March.N		сакавік	sakavik
+Time:May.N		май	maj
+Time:May.N		травень	travʲɛnʲ
+Time:November.N		лістапад	listapad
+Time:October.N		кастрычнік	kastrɨʈ͡ʂnik
+Time:September.N		верасень	vʲɛrasʲɛnʲ
+Time:age.N		узрост	uzrɔst
+Time:already.ADV		ужо	uʐɔ
+Time:always.ADV		заўсёды	zawsʲɔdɨ
 Time:autumn.N		восень	vɔsʲɛnʲ
 Time:final.A		апошні	apɔʂni
 Time:month.N		месяц	mʲɛsʲat͡s

@@ -226,6 +226,7 @@ Food:NaCl.N		сіль	sʲilʲ
 Food:bake.V		пекти	pɛktɪ
 Food:bread.N		хліб	xlʲib
 Food:soup.N		суп	sup
+Food:spoon.N		ложка	lɔʐkɑ
 Form:bend (sth).V		погнути	pɔɦnutɪ
 Form:bend.V		зігнути	zʲiɦnutɪ
 Function:1PL.PRO		ми	mɪ
@@ -275,6 +276,8 @@ House:table.N		стіл	stʲil
 Hunting:bow.N		лук	luk
 Hunting:fishing.V		рибалити	rɪbɑlɪtɪ
 Hunting:hunt.V		полювати	pɔlʲuwɑtɪ
+Integrity:part.N		частина	ʈ͡ʂɑstɪnɑ
+Integrity:piece.N		кусок	kusɔk
 Interaction:choose.V		вибрати	wɪbrɑtɪ
 Interaction:rescue.V		врятувати	wrʲɑtuwɑtɪ
 Mind:dream.N		сон	sɔn
@@ -319,8 +322,12 @@ People:woman.N		жінка	ʐjinkɑ
 Perception:feel.V		відчувати	vidʈ͡ʂuwɑtɪ
 Perception:hear or listen.V		почути	pɔʈ͡ʂutɪ
 Perception:hear.V		чути	ʈ͡ʂutɪ
+Perception:pain.N		біль	bilʲ
 Perception:touch.V		чіпати	ʈ͡ʂjipɑtɪ
+Perception:wet.A		мокрий	mɔkrɪj
+Perception:yellow.A		жовтий	ʐɔwtɪj
 Plant:Betula.N		береза	bɛrɛzɑ
+Plant:bark.N		кора	kɔrɑ
 Plant:branch.N		гілка	ɦjilkɑ
 Plant:flower.N		квітка	kvitkɑ
 Plant:leaf.N		лист	lɪst
@@ -379,6 +386,7 @@ Sound:sound (of instrument or voice).V		лунати	lunɑtɪ
 Sound:voice.N		голос	ɦɔlɔs
 Sound:whistle.V		свистіти	swɪstʲitɪ
 Space:back.ADV		назад	nɑzɑd
+Space:wide.A		широкий	ʂɪrɔkɪj
 Storage:bag.N		сумка	sumkɑ
 Storage:box.N		ящик	jɑʂʈ͡ʂɪk
 Storage:bucket.N		відро	vidrɔ
@@ -391,6 +399,22 @@ Storage:pouch.N		мішечок	miʂɛʈ͡ʂɔk
 Storage:pouch.N		торбинка	tɔrbɪnkɑ
 Storage:pour.V		налити	nɑlɪtɪ
 Storage:sack.N		мішок	miʂɔk
+Time:April.N		квітень	kvitɛnʲ
+Time:August.N		серпень	sɛrpɛnʲ
+Time:December.N		грудень	ɦrudɛnʲ
+Time:February.N		лютий	lʲutɪj
+Time:January.N		січень	sʲiʈ͡ʂɛnʲ
+Time:July.N		липень	lɪpɛnʲ
+Time:June.N		червень	ʈ͡ʂɛrwɛnʲ
+Time:March.N		березень	bɛrɛzɛnʲ
+Time:May.N		травень	trɑwɛnʲ
+Time:November.N		листопад	lɪstɔpɑd
+Time:October.N		жовтень	ʐɔwtɛnʲ
+Time:September.N		вересень	wɛrɛsɛnʲ
+Time:age.N		вік	vik
+Time:age.N		літа	lʲitɑ
+Time:already.ADV		вже	wʐɛ
+Time:always.ADV		завжди	zɑwʐdɪ
 Time:autumn.N		осінь	ɔsʲinʲ
 Time:final.A		останній	ɔstɑnʲːij
 Time:month.N		місяць	misʲɑt͡sʲ

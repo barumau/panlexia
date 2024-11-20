@@ -253,6 +253,7 @@ Food:bake.V		bácáil	bˠaːkaːlʲ
 Food:bread.N		arán	aɾˠaːn̪ˠ
 Food:soup.N		anraith	an̪ˠɾˠəh
 Food:soup.N		sú	sˠuː
+Food:spoon.N		spúnóg	sˠpˠuːn̪ˠoːɡ
 Form:bend (sth).V		lúb	l̪ˠuːbˠ
 Form:bend.V		crom	kɾˠɔmˠ
 Function:1PL.PRO		sinn	ʃɪnʲ
@@ -316,6 +317,9 @@ House:table.N		tábla	t̪ˠaːbˠl̪ˠə
 Hunting:bow.N		bogha	bˠaʊ
 Hunting:fishing.V		iasc	ɪəsˠk
 Hunting:hunt.V		seilg	ʃɛlʲəɟ
+Integrity:part.N		cuid	kɪdʲ
+Integrity:part.N		páirt	pˠaːɾˠtʲ
+Integrity:piece.N		píosa	pʲiːsˠə
 Interaction:choose.V		pioc	pʲɪk
 Interaction:choose.V		roghnaigh	ɾˠaʊn̪ˠiː
 Interaction:rescue.V		tarrtháil	t̪ˠaːɾˠhaːlʲ
@@ -366,9 +370,14 @@ Perception:feel.V		braith	bˠɾˠah
 Perception:feel.V		mothaigh	mˠɔhiː
 Perception:hear or listen.V		clois	kl̪ˠɔʃ
 Perception:hear.V		cluin	kl̪ˠɪnʲ
+Perception:pain.N		pian	pʲɪən̪ˠ
 Perception:touch.V		teagmhaigh le	tʲaɡvˠiː l̪ˠə
+Perception:wet.A		fliuch	fʲlʲʊx
+Perception:yellow.A		buí	bˠiː
 Plant:Betula.N		beith	bʲɛh
 Plant:Betula.N		crann beithe	kɾˠan̪ˠ bʲɛhə
+Plant:bark.N		coirt	kɔɾˠtʲ
+Plant:bark.N		craiceann	kɾˠacən̪ˠ
 Plant:branch.N		géag	ɟeːɡ
 Plant:flower.N		bláth	bˠl̪ˠaː
 Plant:leaf.N		duille	d̪ˠɪlʲə
@@ -435,6 +444,8 @@ Sound:sound (of instrument or voice).V		tá glór ag	t̪ˠaː ɡl̪ˠoːɾˠ ɛ�
 Sound:voice.N		guth	ɡʊh
 Sound:whistle.V		lig fead	lʲɪɟ fʲad̪ˠ
 Space:back.ADV		ar ais	ɛɾʲ aʃ
+Space:wide.A		fairsing	fˠaɾˠʃəɲ
+Space:wide.A		leathan	lʲahən̪ˠ
 Storage:bag.N		mála	mˠaːl̪ˠə
 Storage:box.N		bosca	bˠɔsˠkə
 Storage:bucket.N		buicéad	bˠɪceːd̪ˠ
@@ -448,6 +459,23 @@ Storage:pouch.N		mála	mˠaːl̪ˠə
 Storage:pour.V		doirt	d̪ˠɔɾˠtʲ
 Storage:sack.N		mála	mˠaːl̪ˠə
 Storage:sack.N		sac	sˠak
+Time:April.N		Aibreán	abʲɾʲaːn̪ˠ
+Time:August.N		Lúnasa	l̪ˠuːn̪ˠəsˠə
+Time:December.N		Mí na Nollag	mʲiː n̪ˠə n̪ˠɔl̪ˠəɡ
+Time:February.N		Feabhra	fʲaʊɾˠə
+Time:January.N		Eanáir	an̪ˠaːɾʲ
+Time:July.N		Iúil	uːlʲ
+Time:June.N		Meitheamh	mʲɛhəvˠ
+Time:March.N		Márta	mˠaːɾˠt̪ˠə
+Time:May.N		Bealtaine	bʲal̪ˠt̪ˠənʲə
+Time:November.N		Mí na Samhna	mʲiː n̪ˠə sˠaʊn̪ˠə
+Time:November.N		Samhain	sˠaʊnʲ
+Time:October.N		Deireadh Fómhair	dʲɛɾʲə fˠoːvˠəɾʲ
+Time:September.N		Meán Fómhair	mʲaːn̪ˠ fˠoːvˠəɾʲ
+Time:age.N		aois	iːʃ
+Time:already.ADV		cheana	han̪ˠə
+Time:already.ADV		cheana féin	han̪ˠə heːnʲ
+Time:always.ADV		i gcónaí	ɪ ɡoːn̪ˠiː
 Time:autumn.N		fómhar	fˠoːvˠəɾˠ
 Time:final.A		deireanach	dʲɛɾʲən̪ˠəx
 Time:final.A		déanach	dʲeːn̪ˠəx

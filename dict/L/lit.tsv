@@ -262,6 +262,7 @@ Food:NaCl.N		druska	drʊskɑ̂
 Food:bake.V		kepti	kɛ̂ptʲɪ
 Food:bread.N		duona	dûənɐ
 Food:soup.N		sriuba	srʲɪʊbɑ̂
+Food:spoon.N		šaukštas	ʃâˑʊ̯kʃtɐs
 Form:bend (sth).V		lenkti	ɫɛ̂nˑktʲɪ
 Form:bend (sth).V		palenkti	pɐɫɛ̂nˑktʲɪ
 Form:bend.V		lenkti	ɫɛ̂nˑktʲɪ
@@ -323,6 +324,8 @@ House:table.N		stalas	stǎɫɐs
 Hunting:bow.N		lankas	ɫɐ̂nˑkɐs
 Hunting:fishing.V		žvejoti	ʒʋɛjôːtʲɪ
 Hunting:hunt.V		medžioti	mɛdʒʲɪôːtʲɪ
+Integrity:part.N		dalis	dɐlʲɪ̂s
+Integrity:piece.N		gabalas	ɡǎbɐɫɐs
 Interaction:choose.V		išsirinkti	ɪʃsʲɪrʲɪ̂nˑktʲɪ
 Interaction:choose.V		rinkti	rʲɪ̂nˑktʲɪ
 Interaction:rescue.V		gelbėti	ɡêˑɫbeːtʲɪ
@@ -384,9 +387,13 @@ Perception:feel.V		justi	jʊ̂stʲɪ
 Perception:feel.V		pajusti	pɐjʊ̂stʲɪ
 Perception:hear or listen.V		išgirsti	ɪʃɡʲɪ̂rˑstʲɪ
 Perception:hear.V		girdėti	ɡʲɪrdêːtʲɪ
+Perception:pain.N		skausmas	skɒʊ̯ˑsmɐs
 Perception:touch.V		liesti	ɫiəstʲɪ
 Perception:touch.V		paliesti	pɐɫiəstʲɪ
+Perception:wet.A		šlapias	ʃɫǎpʲɛs
+Perception:yellow.A		geltonas	ɡɛɫtôːnɐs
 Plant:Betula.N		beržas	bêˑrʒɐs
+Plant:bark.N		žievė	ʒiəʋěː
 Plant:branch.N		šaka	ʃɐkɑ̂
 Plant:flower.N		gėlė	ɡeːɫěː
 Plant:leaf.N		lapas	ɫǎpɐs
@@ -449,6 +456,7 @@ Sound:voice.N		balsas	bɐ̂ɫˑsɐs
 Sound:whistle.V		švilpauti	ʃʋʲɪ̂ɫpɒʊ̯ˑtʲɪ
 Sound:whistle.V		švilpti	ʃʋʲɪ̂ɫˑptʲɪ
 Space:back.ADV		atgal	ɐtɡɐ̂ɫˑ
+Space:wide.A		platus	pɫɐtʊ̂s
 Storage:bag.N		krepšelis	krɛpʃɛ̌lʲɪs
 Storage:box.N		dėžė	deːʒěː
 Storage:bucket.N		kibiras	kʲɪ̂bʲɪrɐs
@@ -463,6 +471,22 @@ Storage:pouch.N		maišelis	mɐʲɪ̯ˑʃɛ̌lʲɪs
 Storage:pour.V		berti	bɛ̂rˑtʲɪ
 Storage:pour.V		pilti	pʲɪ̂ɫtʲɪ
 Storage:sack.N		maišas	mɐʲɪ̯ˑʃɐs
+Time:April.N		balandis	bɐɫɐ̂nˑdʲɪs
+Time:August.N		rugpjūtis	rʊɡpjûːtʲɪs
+Time:December.N		gruodis	ɡrûədʲɪs
+Time:February.N		vasaris	ʋɐsǎrʲɪs
+Time:January.N		sausis	sɒʊ̯ˑsʲɪs
+Time:July.N		liepa	ɫîəpɐ
+Time:June.N		birželis	bʲɪrʒɛ̌lʲɪs
+Time:March.N		kovas	kôːʋɐs
+Time:May.N		gegužė	ɡɛɡʊʒěː
+Time:November.N		lapkritis	ɫǎpkrʲɪtʲɪs
+Time:October.N		spalis	spǎlʲɪs
+Time:September.N		rugsėjis	rʊɡsêːjɪs
+Time:age.N		amžius	âˑmʒʲɪʊs
+Time:already.ADV		jau	jɒʊ̯ˑ
+Time:always.ADV		visada	ʋʲɪsɐdɑ̂
+Time:always.ADV		visuomet	ʋʲɪsuəmɛ̂t
 Time:autumn.N		ruduo	rʊduə
 Time:final.A		paskutinis	pɐskʊtʲɪ̂nʲɪs
 Time:month.N		mėnuo	mêːnuə

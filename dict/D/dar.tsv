@@ -248,6 +248,7 @@ Food:NaCl.N		зе	ze
 Food:bake.V		берцIес	bert͡sijes
 Food:bread.N		кацӏ	kat͡sʼ
 Food:soup.N		нергъ	nerʁ
+Food:spoon.N		кьулса	qʼulsa
 Form:bend (sth).V		балкӏахъес	balkʼaqes
 Form:bend (sth).V		къямаэс	ɢjamaes
 Form:bend.V		балкӏахъес	balkʼaqes
@@ -309,6 +310,9 @@ House:table.N		стол	stol
 Hunting:bow.N		урги-дерга	urɡi-derɡa
 Hunting:fishing.V		бялихъуна урцес	bjaliquna urt͡ses
 Hunting:hunt.V		ггӏяяр вашес	ɡʕjajar waʃes
+Integrity:part.N		кесек	kesek
+Integrity:part.N		пай	paj
+Integrity:piece.N		кесек	kesek
 Interaction:choose.V		биркIес	birkijes
 Interaction:rescue.V		верцахъес	wert͡saqes
 Mind:dream.N		муэр	muer
@@ -362,8 +366,13 @@ People:people.N		адамти	adamti
 People:woman.N		хьунул	xunul
 Perception:feel.V		иргъес	irʁes
 Perception:hear.V		бикьес	biqʼes
+Perception:pain.N		изала	izala
+Perception:pain.N		челукьан	t͡ʃeluqʼan
 Perception:touch.V		асарбарес	asarbares
+Perception:wet.A		шинкӏаси	ʃinkʼasi
+Perception:yellow.A		бухъутӏа	buqutʼa
 Plant:Betula.N		махъ	maq
+Plant:bark.N		гӏянкӏа	ʕjankʼa
 Plant:branch.N		кьяли	qʼjali
 Plant:flower.N		вава	wawa
 Plant:leaf.N		кӏапӏи	kʼapʼi
@@ -425,6 +434,7 @@ Sound:whistle.V		шятӏикӏес	ʃjatʼikʼes
 Space:back.ADV		гӏелабяхӏ	ʕelabjaħ
 Space:back.ADV		уб	ub
 Space:back.ADV		ургӏебли	urʕebli
+Space:wide.A		бягӏуси	bjaʕusi
 Storage:bag.N		тавра	tawra
 Storage:box.N		тӏакьа	tʼaqʼa
 Storage:box.N		ящик	jaɕːik
@@ -434,6 +444,21 @@ Storage:load.N		декӏдеш	dekʼdeʃ
 Storage:misplace.V		бетахъахъес	betaqaqes
 Storage:pouch.N		гавлаг	ɡawlaɡ
 Storage:sack.N		гавлаг	ɡawlaɡ
+Time:April.N		апрель	aprelʲ
+Time:August.N		август	awɡust
+Time:December.N		декабрь	dekabrʲ
+Time:February.N		февраль	fewralʲ
+Time:January.N		январь	janwarʲ
+Time:July.N		июль	ijulʲ
+Time:June.N		июнь	ijunʲ
+Time:March.N		март	mart
+Time:May.N		май	maj
+Time:November.N		ноябрь	nojabrʲ
+Time:October.N		октябрь	oktjabrʲ
+Time:September.N		сентябрь	sentjabrʲ
+Time:age.N		гӏямру	ʕjamru
+Time:already.ADV		жявлил	ʒjawlil
+Time:always.ADV		даим	daim
 Time:autumn.N		гӏебшни	ʕebʃni
 Time:final.A		бегӏла гӏергъиси	beʕla ʕerʁisi
 Time:month.N		баз	baz

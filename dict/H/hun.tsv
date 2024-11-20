@@ -252,6 +252,7 @@ Food:NaCl.N		só	ʃoː
 Food:bake.V		süt	ʃyt
 Food:bread.N		kenyér	kɛɲeːr
 Food:soup.N		leves	lɛvɛʃ
+Food:spoon.N		kanál	kɒnaːl
 Form:bend (sth).V		hajlít	hɒjliːt
 Form:bend.V		meghajt	mɛɡhɒjt
 Function:1PL.PRO		mi	mi
@@ -308,6 +309,8 @@ House:table.N		asztal	ɒstɒl
 Hunting:bow.N		íj	iːj
 Hunting:fishing.V		halászik	hɒlaːsik
 Hunting:hunt.V		vadászik	vɒdaːsik
+Integrity:part.N		rész	reːs
+Integrity:piece.N		darab	dɒrɒb
 Interaction:choose.V		választ	vaːlɒst
 Interaction:rescue.V		ment	mɛnt
 Mind:dream.N		álom	aːlom
@@ -359,8 +362,12 @@ People:woman.N		nő	nøː
 Perception:feel.V		érez	eːrɛz
 Perception:hear or listen.V		hall	hɒlː
 Perception:hear.V		hall	hɒlː
+Perception:pain.N		fájdalom	faːjdɒlom
 Perception:touch.V		érint	eːrint
+Perception:wet.A		vizes	vizɛʃ
+Perception:yellow.A		sárga	ʃaːrɡɒ
 Plant:Betula.N		nyír	ɲiːr
+Plant:bark.N		kéreg	keːrɛɡ
 Plant:branch.N		ág	aːɡ
 Plant:flower.N		virág	viraːɡ
 Plant:leaf.N		levél	lɛveːl
@@ -425,6 +432,7 @@ Sound:voice.N		hang	hɒnɡ
 Sound:whistle.V		fütyül	fycyl
 Space:back.ADV		hátra	haːtrɒ
 Space:back.ADV		vissza	visːɒ
+Space:wide.A		széles	seːlɛʃ
 Storage:bag.N		táska	taːʃkɒ
 Storage:box.N		láda	laːdɒ
 Storage:bucket.N		vödör	vødør
@@ -437,6 +445,21 @@ Storage:misplace.V		veszít	vɛsiːt
 Storage:pouch.N		zacskó	zɒt͡ʃkoː
 Storage:pour.V		önt	ønt
 Storage:sack.N		zsák	ʒaːk
+Time:April.N		április	aːpriliʃ
+Time:August.N		augusztus	ɒuɡustuʃ
+Time:December.N		december	dɛt͡sɛmbɛr
+Time:February.N		február	fɛbruaːr
+Time:January.N		január	jɒnuaːr
+Time:July.N		július	juːliuʃ
+Time:June.N		június	juːniuʃ
+Time:March.N		március	maːrt͡siuʃ
+Time:May.N		május	maːjuʃ
+Time:November.N		november	novɛmbɛr
+Time:October.N		október	oktoːbɛr
+Time:September.N		szeptember	sɛptɛmbɛr
+Time:age.N		kor	kor
+Time:already.ADV		már	maːr
+Time:always.ADV		mindig	mindiɡ
 Time:autumn.N		ősz	øːs
 Time:final.A		utolsó	utolʃoː
 Time:month.N		hó	hoː

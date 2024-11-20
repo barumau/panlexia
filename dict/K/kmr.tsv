@@ -230,6 +230,7 @@ Food:NaCl.N		xwe	χwɛ
 Food:bake.V		pijandin	pəʒandən
 Food:bread.N		nan	nan
 Food:soup.N		şorbe	ʃorbɛ
+Food:spoon.N		kevçî	kɛvt͡ʃi
 Form:bend (sth).V		tewandin	tɛwandən
 Form:bend (sth).V		xwarkirin	χwarkərən
 Form:bend.V		tewîn	tɛwin
@@ -283,6 +284,9 @@ House:table.N		mase	masɛ
 Hunting:bow.N		kêvan	kevan
 Hunting:fishing.V		masî girtin	masi ɡərtən
 Hunting:hunt.V		nêçîr kirin	net͡ʃir kərən
+Integrity:part.N		parçe	part͡ʃɛ
+Integrity:piece.N		lib	ləb
+Integrity:piece.N		parçe	part͡ʃɛ
 Interaction:choose.V		ray dan	raj dan
 Interaction:rescue.V		rihakirin	rəhakərən
 Mind:dream.N		xewn	χɛwn
@@ -333,8 +337,12 @@ People:woman.N		jin	ʒən
 Perception:feel.V		hîs kirin	his kərən
 Perception:hear or listen.V		bihîstin	bəhistən
 Perception:hear.V		guhdar jirin	ɡʊhdar ʒərən
+Perception:pain.N		êş	eʃ
 Perception:touch.V		lêketin	lekɛtən
+Perception:wet.A		şilek	ʃəlɛk
+Perception:yellow.A		zer	zɛr
 Plant:Betula.N		dara sipî	dara səpi
+Plant:bark.N		qaqil	qaqəl
 Plant:branch.N		gulî	ɡʊli
 Plant:flower.N		kulînk	kʊlink
 Plant:leaf.N		pel	pɛl
@@ -395,6 +403,7 @@ Sound:voice.N		pejn	pɛʒn
 Sound:whistle.V		fîkandin	fikandən
 Space:back.ADV		paşdo	paʃdo
 Space:back.ADV		paşvê	paʃve
+Space:wide.A		fireh	fərɛh
 Storage:bag.N		bêrîk	berik
 Storage:box.N		sindoq	səndoq
 Storage:bucket.N		dewl	dɛwl
@@ -405,6 +414,21 @@ Storage:misplace.V		wendakirin	wɛndakərən
 Storage:pouch.N		kîsik	kisək
 Storage:pour.V		rijandin	rəʒandən
 Storage:sack.N		tûr	tur
+Time:April.N		nîsan	nisan
+Time:August.N		tebax	tɛbaχ
+Time:December.N		kanûn	kanun
+Time:February.N		sibat	səbat
+Time:January.N		çile	t͡ʃəlɛ
+Time:July.N		tîmeh	timɛh
+Time:June.N		hezîran	hɛziran
+Time:March.N		adar	adar
+Time:May.N		gûlan	ɡulan
+Time:November.N		mijdar	məʒdar
+Time:October.N		çotmeh	t͡ʃotmɛh
+Time:September.N		îlon	ilon
+Time:age.N		temen	tɛmɛn
+Time:already.ADV		hew	hɛw
+Time:always.ADV		daîm	daim
 Time:autumn.N		payîz	pajiz
 Time:final.A		paşîn	paʃin
 Time:month.N		meh	mɛh

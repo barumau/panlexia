@@ -236,6 +236,7 @@ Food:NaCl.N		salt	salːt
 Food:bake.V		baka	bɑːka
 Food:bread.N		bröd	brøːd
 Food:soup.N		soppa	sɔpːa
+Food:spoon.N		sked	ɧeːd
 Form:bend (sth).V		böja	bøjːa
 Form:bend (sth).V		kröka	krøːka
 Form:bend.V		böja	bøjːa
@@ -288,6 +289,8 @@ House:table.N		bord	buːɖ
 Hunting:bow.N		båge	boːɡə
 Hunting:fishing.V		fiska	fɪsːka
 Hunting:hunt.V		jaga	jɑːɡa
+Integrity:part.N		del	deːl
+Integrity:piece.N		stycke	stʏkːə
 Interaction:choose.V		välja	vɛlːja
 Interaction:rescue.V		rädda	rɛdːa
 Mind:dream.N		dröm	drømː
@@ -335,8 +338,12 @@ Perception:feel.V		känna	ɕɛnːa
 Perception:hear or listen.V		få veta	foː vɛta
 Perception:hear or listen.V		förnimma	fœːɳɪma
 Perception:hear.V		höra	hœːra
+Perception:pain.N		smärta	smæːʈa
 Perception:touch.V		beröra	bərœːra
+Perception:wet.A		våt	voːt
+Perception:yellow.A		gul	ɡʉːl
 Plant:Betula.N		björk	bjœrːk
+Plant:bark.N		bark	barːk
 Plant:branch.N		gren	ɡreːn
 Plant:flower.N		blomma	blɔmːa
 Plant:flower.N		blomster	blɔmːstər
@@ -402,6 +409,7 @@ Sound:sound (of instrument or voice).V		låta	loːta
 Sound:voice.N		stämma	stɛmːa
 Sound:whistle.V		vissla	vɪsːla
 Space:back.ADV		tillbaka	tɪlːbaka
+Space:wide.A		bred	breːd
 Storage:bag.N		väska	vɛsːka
 Storage:box.N		låda	loːda
 Storage:bucket.N		hink	hɪnːk
@@ -415,6 +423,21 @@ Storage:misplace.V		mista	mɪsːta
 Storage:pouch.N		påse	poːsə
 Storage:pour.V		hälla	hɛlːa
 Storage:sack.N		säck	sɛkː
+Time:April.N		april	ɑːprɪl
+Time:August.N		augusti	ɑːɵɡɵstɪ
+Time:December.N		december	deːsɛmbər
+Time:February.N		februari	feːbrɵarɪ
+Time:January.N		januari	jɑːnɵarɪ
+Time:July.N		juli	jʉːlɪ
+Time:June.N		juni	jʉːnɪ
+Time:March.N		mars	marːs
+Time:May.N		maj	majː
+Time:November.N		november	nuːvɛmbər
+Time:October.N		oktober	ɔkːtɔbər
+Time:September.N		september	sɛpːtɛmbər
+Time:age.N		ålder	ɔlːdər
+Time:already.ADV		redan	reːdan
+Time:always.ADV		alltid	alːtɪd
 Time:autumn.N		höst	høsːt
 Time:final.A		sist	sɪsːt
 Time:month.N		månad	moːnad

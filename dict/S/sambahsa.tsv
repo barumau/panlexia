@@ -143,6 +143,7 @@ Body:waist.N		lendv
 Body:wing.N		pterg
 Body:wound.N		vurnos
 Body:wrist.N		runc
+Building:bar.N		taverne, crechma, bar
 Building:board.N		baurd, tapwl
 Building:brick.N		brick
 Building:build.V		strug
@@ -219,6 +220,7 @@ Cosmos:Sun.N		sol
 Cosmos:moon.N		meun
 Cosmos:planet.N		planete
 Cosmos:star.N		star
+Cosmos:telescope.N		telescope
 Cosmos:universe.N		universe, cosmos
 Degree:almost.ADV		quasi
 Degree:at least.ADV		minst-ye
@@ -282,6 +284,8 @@ Food:salad.N		salade
 Food:sandwich.N		sandwich
 Food:sausage.N		sossiss
 Food:soup.N		soup
+Food:spoon.N		guar
+Form:triangle.N		triangle
 Grooming:brush.N		beurst
 Handiwork:patch.N		pan
 Health:disease.N		siuge
@@ -296,6 +300,9 @@ House:rug.N		kelim; hassir
 House:table.N		table
 Hunting:bow.N		lonc
 Hunting:hunt.V		yagh
+Integrity:part.N		part, deil
+Integrity:piece.N		schtuk, piece
+Integrity:whole.A		hol
 Interaction:choose.V		cheus
 Literature:alphabet.N		alphabet
 Material:brass.N		massing, latun
@@ -327,7 +334,10 @@ People:man.N		wir
 People:woman.N		gwen(a)
 Perception:feel.V		sense, kheiss
 Perception:hear.V		aur
+Perception:pain.N		gvol
 Perception:touch.V		touche
+Perception:wet.A		madh
+Perception:yellow.A		gehlb
 Plant:Citrus sinensis.N		burtukal ; orange
 Plant:Ficus carica.N		smauk
 Plant:Glycine max.N		soya
@@ -368,6 +378,7 @@ Society:help.V		hehlp
 Sound:laugh.V		gleih
 Space:apart.ADV		seni, apart
 Space:back.ADV		tsay
+Space:wide.A		weur
 Storage:barrel.N		but
 Storage:basket.N		kist, corbh
 Storage:bottle.N		botel
@@ -375,11 +386,16 @@ Storage:box.N		scattule, cutia
 Storage:bucket.N		amfer
 Storage:package.N		pack(ett)
 Storage:tin (can).N		conserve
+Time:afternoon.N		posmiddien
+Time:age.N		iete
+Time:already.ADV		ja
+Time:always.ADV		semper
 Time:autumn.N		osyern
 Time:final.A		senter/senst
 Time:hour.N		hor
 Time:late.ADV		sert
 Time:long ago.ADV		diust
+Time:minute.N		minute
 Time:month.N		munt
 Time:never.ADV		naiw(o)
 Time:new.A		nov
@@ -390,6 +406,7 @@ Time:old.A		veut
 Time:period.N		periode, tid
 Time:rhythm.N		rythme
 Time:season.N		saison
+Time:second.N		secund
 Time:short.ADV		cort, bragv
 Time:springtime.N		(pirm)wer
 Time:still.ADV		dar; bad

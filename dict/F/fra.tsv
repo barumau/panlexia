@@ -308,6 +308,7 @@ Communication:mail.N		courrier, poste
 Communication:newspaper.N		journal
 Communication:postage stamp.N		timbre
 Communication:postcard.N		carte postale
+Communication:praise.N		louange, éloge
 Communication:radio.N		radio
 Communication:refuse.V		refuser
 Communication:telephone.N		téléphone
@@ -398,6 +399,7 @@ Food:fermented alcohol.N		boisson fermentée
 Food:flour.N		farine
 Food:sausage.N		saucisse
 Food:soup.N		soupe, potage
+Food:spoon.N		cuillère
 Food:supper.N		souper, repas du soir
 Form:bend.V		plier
 Function:1PL EXCL.PRO		nous
@@ -484,6 +486,8 @@ House:toilet.N		toilette
 Hunting:boomerang.N		boomerang
 Hunting:bow.N		arc
 Hunting:hunt.V		chasser
+Integrity:part.N		morceau, partie
+Integrity:piece.N		morceau, pièce
 Interaction:choose.V		choisir
 Interaction:rescue.V		sauver
 Law:crime.N		crime, délit
@@ -533,11 +537,15 @@ People:woman.N		femme
 People:young man.N		jeune homme
 People:young woman.N		jeune fille
 Perception:hear.V		entendre
+Perception:pain.N		douleur
 Perception:touch.V		toucher
+Perception:wet.A		mouillé,  humide
+Perception:yellow.A		jaune
 Plant:Beta vulgaris saccharifera.N		betterave
 Plant:Betula.N		bouleau
 Plant:Ficus carica.N		figuier
 Plant:Ipomoea batatas.N		patate douce
+Plant:bark.N		écorce
 Plant:branch or twig.N		branche,rameau
 Plant:flower.N		fleur
 Plant:leaf.N		feuille
@@ -591,6 +599,7 @@ Sound:stutter.V		bégayer,balbutier
 Sound:voice.N		voix
 Sound:whisper.V		chuchoter
 Sound:whistle.V		siffler
+Space:wide.A		large
 Storage:basket.N		panier
 Storage:bottle.N		bouteille
 Storage:can.N		boîte
@@ -598,6 +607,9 @@ Storage:case.N		cantine
 Storage:misplace.V		perdre
 Storage:netbag.N		filet
 Storage:pour.V		verser
+Time:afternoon.N		après-midi
+Time:age.N		âge
+Time:always.ADV		toujours
 Time:autumn.N		automne
 Time:calendar.N		calendrier
 Time:final.A		dernier

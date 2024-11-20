@@ -294,6 +294,7 @@ Communication:forgive.V		perdonar
 Communication:kiss.V		besar
 Communication:language.N		lengua,idioma
 Communication:lie.V		mentir
+Communication:praise.N		exaltar,alabar
 Communication:refuse.V		rehusar
 Communication:tell.V		narrar, contar
 Cosmos:Sun.N		sol
@@ -373,6 +374,7 @@ Food:fermented alcohol.N		bebida fermentada
 Food:flour.N		harina
 Food:sausage.N		salchicha
 Food:soup.N		sopa
+Food:spoon.N		cuchara
 Food:supper.N		cena
 Form:bend.V		encorvar, doblar
 Function:1PL EXCL.PRO		nosotros/nosotras (exclusivo)
@@ -440,6 +442,7 @@ House:table.N		mesa
 Hunting:bow.N		arco
 Hunting:fishing.V		pescar
 Hunting:hunt.V		cazar
+Integrity:part.N		pedazo
 Interaction:choose.V		escoger
 Interaction:rescue.V		salvar
 Law:lawyer.N		abogado
@@ -485,13 +488,17 @@ People:woman.N		mujer
 People:young man.N		joven
 People:young woman.N		joven
 Perception:hear.V		oír
+Perception:pain.N		dolor
 Perception:touch.V		tocar
+Perception:wet.A		mojado
+Perception:yellow.A		amarillo
 Plant:Betula.N		abedul
 Plant:Ipomoea batatas.N		camote,batata
 Plant:Lupin.N		chocho
 Plant:Solanum oblongifolium.N		pigala
 Plant:Vaccinium mortinia.N		mortiño
 Plant:Vicia.N		vicia
+Plant:bark.N		corteza
 Plant:branch or twig.N		rama
 Plant:flower.N		flor
 Plant:leaf.N		hoja
@@ -545,11 +552,15 @@ Sound:stutter.V		tartamudear, balbucear
 Sound:voice.N		voz
 Sound:whisper.V		cuchichear
 Sound:whistle.V		silbar,chiflar
+Space:wide.A		ancho,amplio
 Storage:bag.N		bolso
 Storage:basket.N		canasto, canasta
 Storage:misplace.V		perder
 Storage:netbag.N		bolsa de malla
 Storage:pour.V		vaciar, verter,derramar
+Time:afternoon.N		tarde
+Time:age.N		edad
+Time:always.ADV		siempre
 Time:autumn.N		otoño
 Time:final.A		último
 Time:hour.N		hora

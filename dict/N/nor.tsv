@@ -227,6 +227,7 @@ Food:NaCl.N		salt	sɑlt
 Food:bake.V		bake	ˈbaːkə
 Food:bread.N		brød	brøː
 Food:soup.N		suppe	ˈsʉpə
+Food:spoon.N		skje	ʃeː
 Form:bend (sth).V		bøye	ˈbœjə
 Form:bend.V		bøye	ˈbœjə
 Function:1PL.PRO		vi	viː
@@ -279,6 +280,8 @@ House:table.N		bord	buːr
 Hunting:bow.N		bue	ˈbʉːə
 Hunting:fishing.V		fiske	ˈfɪskə
 Hunting:hunt.V		jage	ˈjaːɡə
+Integrity:part.N		del	deːl
+Integrity:piece.N		stykke	ˈstʏkə
 Interaction:choose.V		velge	ˈvɛlɡə
 Interaction:rescue.V		redde	ˈrɛdə
 Mind:dream.N		drøm	drœm
@@ -327,8 +330,12 @@ People:woman.N		kvinne	ˈkvɪnə
 Perception:feel.V		føle	ˈføːlə
 Perception:hear or listen.V		få vite	foː ˈviːtə
 Perception:hear.V		høre	ˈhøːrə
+Perception:pain.N		smerte	ˈsmærtə
 Perception:touch.V		berøre	bəˈrøːrə
+Perception:wet.A		våt	voːt
+Perception:yellow.A		gul	ɡʉːl
 Plant:Betula.N		bjørk	bjœrk
+Plant:bark.N		bark	bɑrk
 Plant:branch.N		gren	ɡreːn
 Plant:flower.N		blomst	blɔmst
 Plant:leaf.N		blad	blaː
@@ -388,6 +395,7 @@ Sound:sound (of instrument or voice).V		lyde	ˈlyːdə
 Sound:voice.N		stemme	ˈstɛmə
 Sound:whistle.V		plystre	ˈplʏstrə
 Space:back.ADV		tilbake	tɪlˈbaːkə
+Space:wide.A		bred	breː
 Storage:bag.N		veske	ˈvɛskə
 Storage:box.N		kasse	ˈkɑsə
 Storage:bucket.N		bøtte	ˈbœtə
@@ -400,6 +408,22 @@ Storage:misplace.V		miste	ˈmɪstə
 Storage:pouch.N		pose	ˈpuːsə
 Storage:pour.V		helle	ˈhɛlə
 Storage:sack.N		sekk	sɛk
+Time:April.N		april	ɑpˈriːl
+Time:August.N		august	æʉˈɡʉst
+Time:December.N		desember	deːˈsɛmbər
+Time:February.N		februar	fɛbrʉːˈaːr
+Time:January.N		januar	jɑnʉˈaːr
+Time:July.N		juli	ˈjʉːliː
+Time:June.N		juni	ˈjʉːniː
+Time:March.N		mars	mɑrs
+Time:May.N		mai	maj
+Time:November.N		november	nuːˈvɛmbər
+Time:October.N		oktober	ɔkˈtuːbər
+Time:September.N		september	sɛpˈtɛmbər
+Time:age.N		alder	ˈɑldər
+Time:already.ADV		allerede	ɑləˈreːdə
+Time:already.ADV		alt	ɑlt
+Time:always.ADV		alltid	ˈɑltiː
 Time:autumn.N		høst	hœst
 Time:final.A		sist	sɪst
 Time:month.N		måned	ˈmoːnəd

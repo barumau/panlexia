@@ -307,6 +307,7 @@ Communication:mail.N		Post
 Communication:newspaper.N		Zeitung
 Communication:postage stamp.N		Briefmarke
 Communication:postcard.N		Postkarte
+Communication:praise.N		Lob, Preis
 Communication:radio.N		Radio
 Communication:refuse.V		verweigern, abschlagen
 Communication:telephone.N		Telefon
@@ -397,6 +398,7 @@ Food:fermented alcohol.N		vergorenes Getränk
 Food:flour.N		Mehl
 Food:sausage.N		Wurst
 Food:soup.N		Suppe
+Food:spoon.N		Löffel
 Food:supper.N		Abendessen, Abendbrot
 Form:bend.V		biegen
 Function:1PL EXCL.PRO		wir (exklusiv)
@@ -484,6 +486,8 @@ House:toilet.N		Toilette
 Hunting:boomerang.N		Bumerang
 Hunting:bow.N		Bogen
 Hunting:hunt.V		jagen
+Integrity:part.N		Teil
+Integrity:piece.N		Stück
 Interaction:choose.V		wählen, auswählen
 Interaction:rescue.V		retten
 Law:crime.N		Verbrechen
@@ -533,10 +537,14 @@ People:woman.N		Frau
 People:young man.N		junger Mann
 People:young woman.N		junges Mädchen oder junge Frau
 Perception:hear.V		hören
+Perception:pain.N		Schmerz
 Perception:touch.V		berühren
+Perception:wet.A		nass
+Perception:yellow.A		gelb
 Plant:Betula.N		Birke
 Plant:Ficus carica.N		Feigenbaum
 Plant:Ipomoea batatas.N		Süßkartoffel
+Plant:bark.N		Rinde, Borke
 Plant:branch or twig.N		Ast, Zweig
 Plant:flower.N		Blume
 Plant:leaf.N		Blatt
@@ -590,12 +598,16 @@ Sound:stutter.V		stottern, stammeln
 Sound:voice.N		Stimme
 Sound:whisper.V		flüstern
 Sound:whistle.V		pfeifen
+Space:wide.A		breit, weit
 Storage:basket.N		Korb
 Storage:bottle.N		Flasche
 Storage:can.N		Dose, Büchse
 Storage:misplace.V		verlieren
 Storage:netbag.N		Netztasche
 Storage:pour.V		gießen, schütten
+Time:afternoon.N		Nachmittag
+Time:age.N		Alter
+Time:always.ADV		immer, stets
 Time:autumn.N		Herbst
 Time:calendar.N		Kalender
 Time:final.A		letzter

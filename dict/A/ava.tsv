@@ -224,6 +224,7 @@ Food:NaCl.N		цӏам	t͡sʼam
 Food:bake.V		базе	bazje
 Food:bread.N		чед	t͡ʃjed
 Food:soup.N		чурпа	t͡ʃurpa
+Food:spoon.N		гъуд	ʁud
 Form:bend (sth).V		гьетӏизабизе	hjetʼizabizje
 Form:bend.V		хьетӏизабизе	xjetʼizabizje
 Function:1PL.PRO		ниж	niʒ
@@ -275,6 +276,8 @@ House:table.N		стол	stol
 Hunting:bow.N		газаргъо	ɡazarʁo
 Hunting:fishing.V		ччугӏа кквезе	t͡ʃːuʕa kːwjezje
 Hunting:hunt.V		чан гьабизе	t͡ʃan habizje
+Integrity:part.N		пай	paj
+Integrity:piece.N		кесек	kjesjek
 Interaction:choose.V		бищизе	biʃːizje
 Interaction:rescue.V		хвасар гьабизе	χwasar habizje
 Interaction:rescue.V		хвасарлъизабизе	χwasarɬizabizje
@@ -324,9 +327,14 @@ People:woman.N		гӏадан	ʕadan
 Perception:feel.V		чӏвазе	t͡ʃʼwazje
 Perception:hear or listen.V		рагӏизе	raʕizje
 Perception:hear.V		рагӏизе	raʕizje
+Perception:pain.N		унти	unti
 Perception:touch.V		хъвазе	q͡χːwazje
+Perception:wet.A		би́ччараб	bít͡ʃːarab
+Perception:yellow.A		гӏобилаб	ʕobilab
+Perception:yellow.A		тӏогьилаб	tʼohilab
 Plant:Betula.N		мах	maχ
 Plant:Betula.N		махигъветӏ	maχiʁwjetʼ
+Plant:bark.N		макъар	maq͡χːʼar
 Plant:branch.N		ноцӏ	not͡sʼ
 Plant:flower.N		тӏегь	tʼjeh
 Plant:leaf.N		тӏамах	tʼamaχ
@@ -385,6 +393,7 @@ Sound:sound (of instrument or voice).V		бахъине	baq͡χːinje
 Sound:voice.N		гьаракь	harat͡ɬʼ
 Sound:whistle.V		гьещтӏезе	hjeʃːtʼjezje
 Space:back.ADV		нахъе	naq͡χːje
+Space:wide.A		гӏебаб	ʕjebab
 Storage:bag.N		къвачӏа	q͡χːʼwat͡ʃʼa
 Storage:bag.N		сумка	sumka
 Storage:box.N		тӏалагъуд	tʼalaʁud
@@ -399,6 +408,20 @@ Storage:pouch.N		таргьа	tarha
 Storage:pour.V		тӏезе	tʼjezje
 Storage:sack.N		къандалъо	q͡χːʼandaɬo
 Storage:sack.N		хъап	q͡χːap
+Time:April.N		апрель	aprjelʲ
+Time:August.N		август	awɡust
+Time:December.N		декабрь	djekabrʲ
+Time:February.N		февра́ль	fjewrálʲ
+Time:January.N		январь	janwarʲ
+Time:July.N		июль	ijulʲ
+Time:June.N		июнь	ijunʲ
+Time:March.N		март	mart
+Time:May.N		май	maj
+Time:November.N		ноябрь	nojabrʲ
+Time:October.N		октябрь	oktjabrʲ
+Time:September.N		сентябрь	sjentjabrʲ
+Time:age.N		гӏумру	ʕumru
+Time:always.ADV		кидаго	kidaɡo
 Time:autumn.N		хасалихълъи	χasaliq͡χːɬi
 Time:final.A		ахирисеб	aχirisjeb
 Time:month.N		моцӏ	mot͡sʼ

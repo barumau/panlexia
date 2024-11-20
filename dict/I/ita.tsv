@@ -247,6 +247,7 @@ Food:bake.V		cuòcere al forno	kuɔt͡ʃere al forno
 Food:bread.N		pane	pane
 Food:soup.N		minestra	minestra
 Food:soup.N		zuppa	t͡supːa
+Food:spoon.N		cucchiaio	kukːjaio
 Form:bend (sth).V		tòrcere	tɔrt͡ʃere
 Form:bend.V		chinare	kinare
 Form:bend.V		flettere	fletːere
@@ -304,6 +305,8 @@ House:table.N		tàvolo	tavolo
 Hunting:bow.N		arco	arko
 Hunting:fishing.V		pescare	peskare
 Hunting:hunt.V		cacciare	katt͡ʃare
+Integrity:part.N		parte	parte
+Integrity:piece.N		pezzo	pett͡so
 Interaction:choose.V		elèggere	elɛdd͡ʒere
 Interaction:choose.V		scegliere	ʃeʎːiere
 Interaction:rescue.V		salvare	salvare
@@ -361,8 +364,12 @@ Perception:hear or listen.V		percepire	pert͡ʃepire
 Perception:hear or listen.V		sentire	sentire
 Perception:hear.V		sentire	sentire
 Perception:hear.V		udire	udire
+Perception:pain.N		dolore	dolore
 Perception:touch.V		toccare	tokːare
+Perception:wet.A		bagnato	baɲːato
+Perception:yellow.A		giallo	d͡ʒalːo
 Plant:Betula.N		betulla	betulːa
+Plant:bark.N		corteccia	kortett͡ʃa
 Plant:branch.N		ramo	ramo
 Plant:flower.N		fiore	fiore
 Plant:leaf.N		foglia	foʎːa
@@ -424,6 +431,7 @@ Sound:sound (of instrument or voice).V		suonare	suonare
 Sound:voice.N		voce	vot͡ʃe
 Sound:whistle.V		fischiare	fiskjare
 Space:back.ADV		di indietro	di indietro
+Space:wide.A		largo	larɡo
 Storage:bag.N		borsa	borza
 Storage:box.N		cassa	kasːa
 Storage:bucket.N		secchio	sekːjo
@@ -436,6 +444,21 @@ Storage:pouch.N		borsa	borza
 Storage:pouch.N		sacchetto	sakːetːo
 Storage:pour.V		versare	verzare
 Storage:sack.N		sacco	sakːo
+Time:April.N		aprile	aprile
+Time:August.N		agosto	aɡosto
+Time:December.N		dicembre	dit͡ʃembre
+Time:February.N		febbraio	febːraio
+Time:January.N		gennaio	d͡ʒenːaio
+Time:July.N		luglio	luʎːo
+Time:June.N		giugno	d͡ʒuɲːo
+Time:March.N		marzo	mart͡so
+Time:May.N		maggio	madd͡ʒo
+Time:November.N		novembre	novembre
+Time:October.N		ottobre	otːobre
+Time:September.N		settembre	setːembre
+Time:age.N		età	eta
+Time:already.ADV		già	d͡ʒa
+Time:always.ADV		sempre	sempre
 Time:autumn.N		autunno	autunːo
 Time:final.A		ùltimo	ultimo
 Time:month.N		mese	meze

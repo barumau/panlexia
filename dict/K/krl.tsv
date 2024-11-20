@@ -249,6 +249,7 @@ Food:bake.V		leipuo	lɛipʊɔ
 Food:bake.V		paissella	pɑisːɛlːɑ
 Food:bread.N		leipä	lɛipæ
 Food:soup.N		keitto	kɛitːɔ
+Food:spoon.N		lusikka	lʊsikːɑ
 Form:bend (sth).V		taivuttua	tɑivʊtːʊɑ
 Form:bend.V		taivuttua	tɑivʊtːʊɑ
 Function:1PL.PRO		myö	myœ
@@ -305,6 +306,9 @@ House:table.N		stola	stɔlɑ
 Hunting:bow.N		jousi	jɔʊsi
 Hunting:fishing.V		kalastua	kɑlɑstʊɑ
 Hunting:hunt.V		mečästyä	mɛt͡ʃæstyæ
+Integrity:part.N		osa	ɔsɑ
+Integrity:piece.N		kappaleh	kɑpːɑlɛh
+Integrity:piece.N		pala	pɑlɑ
 Interaction:choose.V		valita	vɑlitɑ
 Interaction:rescue.V		pelastua	pɛlɑstʊɑ
 Mind:dream.N		uni	ʊni
@@ -357,8 +361,13 @@ People:woman.N		naini	nɑini
 Perception:feel.V		tuntie	tʊntiɛ
 Perception:hear or listen.V		kuulla	kuːlːɑ
 Perception:hear.V		kuulla	kuːlːɑ
+Perception:pain.N		kipu	kipʊ
+Perception:pain.N		tuska	tʊskɑ
 Perception:touch.V		koskie	kɔskiɛ
+Perception:wet.A		märkä	mærkæ
+Perception:yellow.A		keltani	kɛltɑni
 Plant:Betula.N		koivu	kɔivʊ
+Plant:bark.N		kuori	kʊɔri
 Plant:branch.N		oksa	ɔksɑ
 Plant:flower.N		kukka	kʊkːɑ
 Plant:leaf.N		lehti	lɛxti
@@ -423,6 +432,7 @@ Sound:sound (of instrument or voice).V		soittua	sɔitːʊɑ
 Sound:voice.N		iäni	iæni
 Sound:whistle.V		viheltyä	vihɛltyæ
 Space:back.ADV		takaisin	tɑkɑisin
+Space:wide.A		levie	lɛviɛ
 Storage:bag.N		laukku	lɑʊkːʊ
 Storage:box.N		louta	lɔʊtɑ
 Storage:bucket.N		renki	rɛŋki
@@ -435,6 +445,21 @@ Storage:pouch.N		pussi	pʊsːi
 Storage:pour.V		valua	vɑlʊɑ
 Storage:sack.N		säkki	sækːi
 Storage:sack.N		värčči	vært͡ʃːi
+Time:April.N		sulakuu	sʊlɑkuː
+Time:August.N		elokuu	ɛlɔkuː
+Time:December.N		talvikuu	tɑlvikuː
+Time:February.N		tuiskukuu	tʊiskʊkuː
+Time:January.N		pakkaiskuu	pɑkːɑiskuː
+Time:July.N		heinäkuu	hɛinækuː
+Time:June.N		kesäkuu	kɛsækuː
+Time:March.N		kevätkuu	kɛvætkuː
+Time:May.N		oraskuu	ɔrɑskuː
+Time:November.N		pimiekuu	pimiɛkuː
+Time:October.N		sajekuu	sɑjɛkuː
+Time:September.N		syyskuu	syyskuː
+Time:age.N		ikä	ikæ
+Time:already.ADV		jo	jɔ
+Time:always.ADV		aina	ɑinɑ
 Time:autumn.N		syksy	syksy
 Time:final.A		jalkimmäini	jɑlkimːæini
 Time:final.A		viimeni	viːmɛni
