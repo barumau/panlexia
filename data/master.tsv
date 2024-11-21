@@ -1,4 +1,5 @@
 id	initial_id	Definition	Concepticon_id	WOLD_id	NELex_id	ULD_id
+Action:automatic.A	Cognition:automatic.A	Capable of operating without external control or intervention.				2034
 Action:can.V	Action/Technology:be able.V	To have the ability to do something.	972	24-99902	können::V	208
 Agriculture:burn land.V	Agriculture/Plant:burn land.V	Clear an area with fire.	3539			
 Agriculture:crops.N	Agriculture/Plant:crops.N	The output of plants cultivated that is grown on a large scale.	3081			
@@ -284,6 +285,7 @@ Body:fur.N	Body:fur.N	The body-hair of an animal (excluding humans) or a piece o
 Body:gall bladder.N	Body:gall bladder.N	A pear-shaped organ located beneath the liver that serves as a storage sac for bile until it is released into the small intestine.	3372			
 Body:genitalia.N	Body:genitalia.N	The sexual organs: the testicles and penis of a male; or the labia, clitoris, and vagina of a female.	198			
 Body:goiter.N	Body:goiter.N	Enlargement of the thyroid gland.	1957	4-842		
+Body:grow up.V	Cognition:grow up.V	To mature and become an adult.	552			
 Body:gum.N	Body:gums.N	The mucosal tissue that partly lies over the teeth in the mouth.	139	4-271		
 Body:guts.N	Body:guts.N	The internal organs of an animal or human.	1334			
 Body:hair.N	Body:hair.N	The hair on humans, usually on the head but also including the hair on the body.	1040		Haar::N	
@@ -406,6 +408,8 @@ Body:vagina.N	Body:vagina.N	The lower part of the female reproductive tract; a m
 Body:vein.N	Body:vein.N	A blood vessel that transports blood from the capillaries back to the heart.	1924		Ader::N	582
 Body:vulva.N	Body:vulva.N	The external parts of the female genitalia, in human beings this consists of the labia, clitoris, opening of the urethra (meatus), and the opening of the vagina.	1837	4-494		
 Body:waist.N	Body:waist.N	In human beings, the part between the thorax and hips.	1681	4-462		551
+Body:wake up (sb).V	Body:wake up (someone).V	Rouse from sleep.	3174		wecken::V	
+Body:wake up.V	Body:wake up.V	To stop sleeping.	1602	4-63	aufwachen::V	665
 Body:wart.N	Body:wart.N	Typically small, rough, and hard growths that are similar in color to the rest of the skin.	2665			
 Body:wing.N	Body:wing.N	The appendage of an animal's (bird, bat, insect) body that enables it to fly in the air.	1257	4-392	Flügel::N	595
 Body:womb.N	Body:womb.N	The major female reproductive organ of most mammals, including humans. It is a large muscle enveloping the phoetus during pregnancy.	804	4-47		
@@ -584,19 +588,90 @@ Clothing:wear.V	Clothing/Grooming:wear.V	Fix clothes on your body and carry them
 Clothing:weave.V	Clothing/Grooming:weave.V	To create a fabric by interlacing threads.	133	6-33		1421
 Clothing:wrapper.N	Clothing/Grooming:wrapper.N	A colorful women's garment widely worn in West Africa.	462			
 Clothing:yarn.N	Clothing/Grooming:yarn.N	Consists of multiple strings of natural or synthetic fibre twisted together in a continuous bulky thread; used in textile production.	3445			
+Cognition:attention.N	Cognition:attention.N	Active perception.				2020
+Cognition:attentive.A	Cognition:attentive.A	Giving attention.	1908			2024
+Cognition:autism.N	Cognition:autism.N	A pervasive neurological condition that is observable in early childhood and persists throughout the lifespan, characterised by atypical communication, language development, eye contact, and sensory experiences.				2011
 Cognition:awake.A	Body:awake.A	Not sleeping.	825			664
+Cognition:be ignorant.V	Cognition:be ignorant.V	Be in a state of not knowing something.	2651			
+Cognition:believe.V	Cognition:believe.V	To be confident about something.	1890	17-15	glauben::V	
+Cognition:believe.V	Cognition:think (believe).V	To have as opinion, belief, or idea, to think.	1513	17-14		
+Cognition:by heart.ADV	Cognition:by heart.?	Completely and faithfully, refering to something that has been learnt and memorized.	71			
+Cognition:cause.N	Cognition:cause.N	That which brings about any condition or produces any effect.	860	17-42	Grund::N	2036
+Cognition:certain.A	Cognition:certain.A	Without any doubt or possibility of deviation.	509	17-37		
+Cognition:check.V	Cognition:check.V	To see if something is correct.	1975			
+Cognition:clear.A	Cognition:clear.A	Free of ambiguity or doubt.	989	17-34		
+Cognition:clever.A	Cognition:clever.A	Mentally agile.	1310	16-84	klug::A	
+Cognition:compassion.N		Deep awareness of the suffering of another, coupled with the wish to relieve it.				
+Cognition:concept.N	Cognition:concept.N	A particular object of thought formulated as an abstract or general idea.	3966			
+Cognition:conscious.A	Cognition:conscious.A	Being aware of something.				2025
+Cognition:consider.V	Cognition:consider.V	To think about on all sides or in all its aspects.				2027
+Cognition:cunning.A	Cognition:cunning.A	To be smart and witty.	2335			
+Cognition:decide.V	Cognition:decide.V	To reach, make, or come to a decision about something.	685			2032
+Cognition:detect.V	Cognition:detect.V	To notice or recognize something that is not particularly obvious.	3895			
+Cognition:doubt.N	Cognition:doubt.N	Uncertainty about the truth or accuracy of a matter.	1308	17-43		
+Cognition:doubt.V	Cognition:doubt (something).V	Be unsure about the truth or accuracy of a matter.	3536	17-99907		
+Cognition:dream.N	Body:dream.N	Successions of images, ideas, emotions, and sensations that occur usually involuntarily in the mind during certain stages of sleep.	2374		Traum::N	662
+Cognition:dream.V	Body:dream (something).V	To experience while sleeping.	1920	4-62		
+Cognition:dreaming.N	Body:dreaming or dream.?	Either the act of seeing images when sleeping, or the result of this act, the dream itself.	2455			
+Cognition:effect.N	Cognition:effect.N	The manifestation of the particular influence of a given action on something.	3968			
+Cognition:err.V	Cognition:err.V	To make a mistake.	839			
 Cognition:exact.A	Emotion:exact.A	Without diversion from the desired or agreed specification; neither exceeding nor failling short in any way.	1466			
 Cognition:expect.V	Emotion:expect.V	expect, anticipate (believe that X will come/happen) 				2074
+Cognition:experience.V	Cognition:experience.V	experience (consciously live through an event) 				2038
+Cognition:experienced.A	Cognition:experienced.A	To have apprehended objects, thoughts, or emotions through senses and mind.	2218			
 Cognition:false.A	Emotion:false.A	Not concurring with a given set of facts; fake; unreal.	3069			1945
 Cognition:familiar.A	Emotion:familiar.A	Knowing somebody or something well.	3005		bekannt::A	
+Cognition:find out.V	Cognition:find out.V	To apprehend something involuntarily.	2237			
+Cognition:foreign.A	Cognition:foreign.A	Not belonging to that in which it is contained; introduced from an outside source.	109		fremd::A	
+Cognition:forget.V	Cognition:forget.V	To lose memory of something.	1523	17-32	vergessen::V	2053
+Cognition:guess.V	Cognition:guess.V	To suppose, to estimate or to make a surmise.	1932	17-171		2048
+Cognition:hesitate.V	Cognition:hesitate.V	To hold back from saying or doing something because of doubt or uncertainty.	3629			
+Cognition:idea.N	Cognition:idea.N	A plan or notion that is formed and exists in the mind as a result of mental activity.	1609	17-19		2055
+Cognition:imagine.V	Cognition:imagine.V	To form a mental image of (something not present).	3879			2056
+Cognition:intellect.N	Cognition:mind.N	The ability for rational thought. The mind as the seat of intelligence as opposed to heart or soul as the seat of emotions.	1562	17-11		
+Cognition:intelligent.A	Cognition:intelligent.A	intelligent 				2005
+Cognition:intend.V	Cognition:intend.V	To assign for a specific end, use, or purpose; to design or destine.	22			2033
+Cognition:intention.N	Cognition:intention.N	An anticipated outcome that is intended to obtain or that guides your planned actions.	1162	17-41		
+Cognition:invent.V	Cognition:invent.V	Plan something which has never been made before.				2057
+Cognition:investigate.V	Cognition:investigate.V	To look into carefully in order to uncover (find) facts or information.	2010			
+Cognition:know (sb).V	Cognition:know (somebody).V	To have met and recognize somebody.	2248			
+Cognition:know (sth).V	Cognition:know (something).V	To be sure about something or be acquainted with something.	1410	17-17	wissen::V	
+Cognition:know how.V	Cognition:know how.V	To be able to do something which requires or could require that one would learn it before.	2238			
+Cognition:know.V	Cognition:know.V	To have met and recognize somebody or to be certain or sure about something.	3626			2041
+Cognition:knowledge.N	Cognition:knowledge.N	The fact or state of knowing something.	3874			2042
+Cognition:learn.V	Cognition:learn.V	To acquire, or attempt to acquire knowledge or an ability to do something.	504	17-24	lernen::V	2044
+Cognition:logic.N	Modernity:logic.N	Logic is a formalized process of reasoning or the branch of philosophy concerned with it.	2429			2008
+Cognition:memory.N	Cognition:memory.N	The ability of an organism to record information combined with the facility of recall.	1018		Gedächtnis::N	
+Cognition:mind.N	Cognition:mind.N	The totality of mental activities, including intellect, perception and emotions, the psyche.			Verstand::N	2001
+Cognition:notice.V	Action/Technology:notice (something).V	To become aware of something.	2893		bemerken::V	2039
+Cognition:obscure.A	Cognition:obscure.A	Known vaguely or incompletely, if at all.	1764	17-35		
+Cognition:plan.N	Cognition:plan.N	A method or a set of arrangements, needed to achieve a specific goal.	3630			2058
+Cognition:reason.N	Emotion:reason.N	Reason is the capacity for consciously making sense of things, applying logic, establishing and verifying facts, and changing or justifying practices, institutions, and beliefs based on new or existing information.	2968			
+Cognition:reasoning.N	Cognition:reasoning.N	The deduction of inferences or interpretations from premises.				2007
+Cognition:recognize.V	Action/Technology:recognize (somebody).V	Perceive to see something or someone previously known.	2870		erkennen::V	
+Cognition:reflect.V	Cognition:think (reflect).V	To actively and consciously use one's mental powers, usually to form ideas, to think.	1415	17-13	denken::V	2002
+Cognition:remember.V	Cognition:remember.V	To recall from memory.	707	17-31	sich erinnern an::V	2052
 Cognition:same.A	Grammar:same.?	Bearing full likeness by having precisely the same set of characteristics.	200	24-13		2402
-Cognition:study.N				17-99906		
-Cognition:study.V	Cognition:study.V	To follow a course of study; to be enrolled at an institute of learning.	1929	17-242		
+Cognition:secret.A	Cognition:secret.A	Being or kept hidden from public perception.	1121	17-36		
+Cognition:seem.V	Cognition:seem.V	To have a given outward appearance.	1521	17-18	scheinen::V	
+Cognition:smart.A	Cognition:smart.A	To be of high intelligence.	2530			
+Cognition:stupid.A	Cognition:stupid.A	Lacking in intelligence.	1518	17-22	dumm::A	2006
+Cognition:suppose.V	Cognition:suppose.V	To assume to be true without proof.				2049
+Cognition:suspect.V	Cognition:suspect.V	To assume something to be true without direct evidence.	1841	17-44		
+Cognition:suspicion.N	Cognition:suspicion.N	An assumption without direct evidence.	3197			
+Cognition:sympathize.V	Society:sympathize.V	Understand somebody's problems or hurt feelings.	3903			
+Cognition:sympathy.N		Inclination to think or feel alike; emotional or intellectual accord.				
+Cognition:talent.N	Cognition:talent.N	A marked natural ability or skill.				2004
+Cognition:theory.N	Modernity:theory.N	Theory is a contemplative and rational type of abstract or generalizing thinking, or the results of such thinking.	2433			2050
+Cognition:think.V	Cognition:think.V	Use ones mental power to form ideas or having used ones mental power to form ideas of conviction or belief.	2271			
+Cognition:thought.N	Cognition:thought.N	Thought refers to ideas or arrangements of ideas that are the result of the process of thinking.	2975		Gedanke::N	
 Cognition:true.A	Emotion:true.A	Concurring with a given set of facts.	1657	16-66	wahr::A	1943
 Cognition:truth.N	Emotion:truth.N	That which conforms to reality.	1638		Wahrheit::N	
+Cognition:understand.V	Cognition:understand.V	To be aware of the meaning of.	1536	17-16	verstehen::V	2040
 Cognition:untruth.N	Emotion:untruth.N	A false statement made with the intention to deceive.	475			
-Cognition:wake up (tr).V	Body:wake up (someone).V	Rouse from sleep.	3174		wecken::V	
-Cognition:wake up.V	Body:wake up.V	To stop sleeping.	1602	4-63	aufwachen::V	665
+Cognition:urgent.A	Cognition:urgent.A	Worthy of immediate attention.				2026
+Cognition:whim.N	Cognition:whim.N	A sudden or fanciful idea.				2035
+Cognition:wise.A	Cognition:wise.A	Showing good judgement or the benefit of experience.	698	17-21		
 Combat:battle cry.N	Language:battle cry (war whoop).N	A shout, used by warriors in battle with the purpose of arousing aggression on their own side or intimidating the enemy.	3741			
 Combat:bomb.N	Modernity:bomb.N	A device filled with explosives used for destroying things.	1804	23-575		
 Combat:box.V	Action/Technology:box (somebody or something).V	The act of using fists to fight or hit.	3108			
@@ -623,6 +698,7 @@ Communication:convey (a message).V	Action/Technology:convey (a message).V	To sha
 Communication:deny.V	Language:deny.V	To refuse strongly and solemnly to own or acknowledge.	755	18-34		2215
 Communication:dialect.N	Language:dialect.N	A variety of a language that is characteristic of a particular group.	2815			
 Communication:email.N		Messages sent and received via computer.				
+Communication:explain.V	Cognition:explain.V	To inform about the reason for something, how something works, or how to do something.	1626	17-38		
 Communication:fairy tale.N	Modernity:fairy tale.N	A fairy tale is a type of short story that typically features folkloric fantasy characters, such as dwarves, dragons, elves, fairies, giants, gnomes, goblins, griffins, mermaids, talking animals, trolls, unicorns, or witches, and usually magic or enchantments.	2937	18-99901	Märchen::N	
 Communication:flirt.V	Emotion:flirt.V	To talk or behave amorously, without serious intentions.	494			
 Communication:forbid.V	Language:forbid.V	To tell not to do something.	83	18-38		
@@ -695,6 +771,12 @@ Degree:little.ADV	Degree:little.ADV	To a small degree; with almost no intensity.
 Degree:more.ADV	Quantity:more.?	To a greater degree. Used in forming the comparative form of adjectives and comparable adverbs.	1992	13-16		2722
 Degree:most.ADV	Degree:most.ADV	To the greatest degree.				2723
 Degree:very.ADV	Grammar:very.?	To a high or large degree or with great intensity.	1311		sehr::ADV	2721
+Education:pupil.N	Cognition:pupil (student).N	A student under the supervision of a teacher or professor.	753	17-26		
+Education:school.N	Cognition:school.N	An institution or building at which children and young people receive education.	673	17-28		
+Education:study.N		Mental effort to acquire knowledge or learning.		17-99906		
+Education:study.V	Cognition:study.V	To acquire knowledge or learning (at a course or an institute of learning).	1929	17-242		2043
+Education:teach.V	Cognition:teach.V	To pass on knowledge and skills.	709	17-25	lehren::V	2045
+Education:teacher.N	Cognition:teacher.N	A person who passes on knowledge, especially one employed in a school.	1038	17-27	Lehrer::N	
 Education:university.N	Modernity:university.N	A university (Latin: universitas, a whole) is an institution of higher (or tertiary) education and research which grants academic degrees in various subjects and typically provides undergraduate education and postgraduate education.	2435			
 Element:Ac.N		Actinium, the chemical element with atomic number 89 and symbol Ac.				
 Element:Ag.N	Action/Technology:silver.N	A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	759	9-65	Silber::N	3324
@@ -834,6 +916,8 @@ Emotion:blame.N	Emotion:blame.N	Accusation for something negative or undesirable
 Emotion:blame.V	Emotion:blame (somebody).V	To hold somebody responsible for something.	2716			
 Emotion:boring.A	Emotion:boring.A	Causing boredom.	905			2065
 Emotion:comfort.N	Emotion:comfort.N	comfort (freedom from pain and/or worry)				2069
+Emotion:confused.A	Cognition:confused.A	Being in a state of not exactly knowing or understanding what is happening; bewildered; perplexed.	3858			
+Emotion:confusion.N	Emotion:confusion.N	A feeling of uncertainty about what to do or what is happening.	3853			
 Emotion:contempt.N	Emotion:contempt.N	A feeling of ultimate disgust and a complete lack of respect towards somebody.	3844			
 Emotion:contemptible.A	Emotion:contemptible.A	Deserving of contempt or scorn.	1			
 Emotion:courage.N	Emotion:courage.N	A state or quality of mind that enables to face danger and fear; bravery.	3049			2070
@@ -846,7 +930,9 @@ Emotion:curious.A	Emotion:curious.A	Having a strong desire to learn about things
 Emotion:dare.V	Emotion:dare.V	To have enough courage (to do something).	1779	16-51		
 Emotion:delight.V	Emotion:delight.V	To give pleasure to; to make happy or satisfied.	1271			
 Emotion:depressed.A	Emotion:depressed.A	A mental state of despondency, unhappinness, or hopelessness.	3973			
-Emotion:depression.N	Emotion:depression.N	A state of feeling sad that can become a chronic illness.	3877			
+Emotion:depression.N	Emotion:depression.N	A state of feeling sad that can become a chronic illness.	3877			2010
+Emotion:desire.N	Cognition:desire.N	A wish for something to happen.				2031
+Emotion:desire.V	Emotion:desire.V	To want to do something, to wish for something to happen, or to have affection for someone.	2117			
 Emotion:disappointment.N	Emotion:disappointment.N	A feeling of sadness because something did not happen the way it was expected or did not happen at all.	3845			2078
 Emotion:emotional.A	Emotion:emotional.A	Having any strong feeling, as of joy, sorrow, or fear.	3761			
 Emotion:enthuse.V				16-9991		
@@ -872,9 +958,9 @@ Emotion:hope or hoping.V	Emotion:hope.V	To want something to happen or the belie
 Emotion:hope.N	Emotion:hope (faith).N	The belief in the possibility that something one wants will happen.	3211			
 Emotion:hope.V	Emotion:hope (something).V	To want something to happen.	3212	16-63		2075
 Emotion:impatient.A	Emotion:impatient.A	Becoming irritable in difficult situations or during long waiting times.	3885			
+Emotion:interest.N	Emotion:interest (feeling).N	A desire to learn about something or somebody.	3847			2022
 Emotion:jealous.A	Emotion:jealous.A	Feeling insecure over an anticipated loss of status or affection in a human connection.	2821			
 Emotion:jealousy.N	Emotion:jealousy.N	A jealous feeling, disposition, state, or mood.	2016			
-Emotion:kind.A	Emotion:kind.A	Being nice and giving off the impression of benevolence.	3299			
 Emotion:kindness.N	Emotion:kindness.N	The quality of being caring, generous and helpful towards other people.	3468			
 Emotion:like.V	Emotion:like.V	To enjoy, be in favor/favour of.	1117		mögen::V	
 Emotion:long for.V	Emotion:long (for something).V	To have a very strong desire for something.	3473			
@@ -888,7 +974,12 @@ Emotion:miss.V	Action/Technology:miss (somebody).V	To long to see somebody again
 Emotion:mood.N				16-99905		
 Emotion:mourning.N	Emotion:mourning.N	The feeling of great sadness because someone has died.	3673			
 Emotion:move.V	Action/Technology:move (affect emotionally).V	To affect somebody emotionally.	2873		rühren::V	
+Emotion:need.N	Cognition:need (noun).N	The fact or an instance of feeling the lack of something.	643	17-45		
+Emotion:need.V	Cognition:need (something).?	Feeling the desire or the urge for something.	2339			3976
+Emotion:obsession.N	Cognition:obsession.N	A compulsive or irrational preoccupation with something.				2012
 Emotion:on purpose.ADV	Emotion:on purpose.?	(Doing or feeling something) in a deliberate or controlled way.	1031	17-99901		
+Emotion:phobia.N	Cognition:phobia.N	An irrational, abnormal, or obsessive fear of something.				2013
+Emotion:regret.V	Emotion:regret.V	To wish that a past event had not happened.	1875	16-34		2079
 Emotion:respect.N	Emotion:respect (noun).N	An attitude of admiration or esteem.	1912			
 Emotion:respect.V	Emotion:respect (somebody).V	To have respect for someone or something; to have regard for something, to observe a custom, practice, rule or right.	385	19-99941		1916
 Emotion:sad.A	Emotion:sad.A	Feeling mentally uncomfortable because something is missing or wrong.	699		traurig::A	2081
@@ -902,7 +993,7 @@ Emotion:surprised.A	Emotion:surprised.A	Feeling that something unexpected has ha
 Emotion:triumph.N	Emotion:triumph.N	A feeling of extreme pleasure and excitement as a result of success or a victory.	3849			
 Emotion:unhappy.A	Emotion:unhappy.A	Feeling not cheerful or glad, sometimes due to a misfortune.	3974			
 Emotion:unpleasant.A	Emotion:unpleasant.A	Not to one's liking.	26			
-Emotion:want.V	Emotion:want.V	To want to do something or to wish for something to happen.	1784	16-62	wollen::V	
+Emotion:want.V	Emotion:want.V	To want to do something or to wish for something to happen.	1784	16-62	wollen::V	2030
 Emotion:worry.V	Emotion:worry.V	To be anxious about something.	150			2076
 Family:ancestors.N	Family:ancestors.N	Person from whom a person is descended, whether on the father's or mother's side, at any number of generations.	1669	2-56		
 Family:aunt or uncle.N	Family:aunt or uncle.N	The brother or mother of someone’s father or mother.	2682			
@@ -1043,6 +1134,7 @@ Function:3SG POSS.PRO	Possession:his or her.?	Belonging to the third person that
 Function:3SG.PRO	Family:he or she or it.?	Third person singular pronoun, regardless of gender/sex.	262	2-93		
 Function:and or but.CNJ				24-99901		
 Function:and.CNJ	Cognition:and.?	Used to connect two homogeneous words or phrases.	1577	17-51	und::CNJ	
+Function:because.CNJ	Cognition:because.?	Conjunction initiating a causal phrase.	1157	17-52		
 Function:but.CNJ	Grammar:but.?	A coordinating expression that signals a contrast to what was previously said, e.g. disagreement or a further point to consider.	3843			
 Function:FUT.PTCL		The particle indicating the future tense.				
 Function:here.ADV	Grammar:here.?	At this place.	136	24-09	hier::ADV	
@@ -1057,6 +1149,8 @@ Function:in this way.ADV	Grammar:in this way.?	Doing something in this manner.	3
 Function:let:PTCL		The optative particle.		24-99906		
 Function:NEG.PTCL		Negative marker.		24-99907		
 Function:neither.CNJ		The first word in neither... nor.		24-99908		
+Function:no or not.PTCL	Cognition:no or not.?	A word used to show disagreement with something or to negate something.	2279			
+Function:no.PTCL	Cognition:no.?	A word used to show disagreement of something.	1269	17-56		
 Function:noone.PRO	Quantity:nobody.?	No person; not one member out of a group of people.	3887			
 Function:nor.CNJ		The second word in neither... nor.		24-99909		
 Function:not.PTCL	Grammar:not.?	Negates the meaning of the modified verb or adjective.	1240	24-06	nicht::ADV	
@@ -1115,8 +1209,8 @@ Handiwork:bellows.N	Action/Technology:bellows.N	A device that consists of a flex
 Handiwork:blacksmith.N	Action/Technology:blacksmith.N	A craftsman expert in iron and other metals work.	1001	9-6		
 Handiwork:bore.V	Action/Technology:bore.V	To create a hole by removing material with a drill.	1501	9-46		
 Handiwork:bottom grindstone.N	Action/Technology:bottom grindstone.N	The bottom element in a two-stone grindstone.	3023			
-Handiwork:braid (verb).V	Action/Technology:braid (verb).V	To braid together hair, threads, strings, twigs etc. in order to create a larger string-like object (which can be linear as in a braid of hair or circular as in a wreath).	3295			
 Handiwork:braid or weave.V	Action/Technology:braid (verb) or weave (basket).V	To braid together hair, threads, strings, twigs etc. in order to create a larger string-like object or to weave a basket or use similar techniques for creating other objects.	3294	9-75		
+Handiwork:braid.V	Action/Technology:braid (verb).V	To braid together hair, threads, strings, twigs etc. in order to create a larger string-like object (which can be linear as in a braid of hair or circular as in a wreath).	3295			
 Handiwork:carpenter.N	Action/Technology:carpenter.N	Artisan who works with wood.	1042	9-43		
 Handiwork:carve.V	Action/Technology:carve.V	To cut or to chip in order to form something.	228	9-81		
 Handiwork:cast.V	Action/Technology:cast.V	To pour [a hardenable liquid material, like metal, plaster, glass, concrete etc.] into a mold in order to produce a solid object of the shape of the mold.	211	9-63		
@@ -1144,7 +1238,6 @@ Handiwork:plane.N	Action/Technology:plane (tool).N	A hand tool that is designed 
 Handiwork:pocketknife.N	Action/Technology:pocketknife.N	A small knife with one or more blades that fold back into the handle.	3742			
 Handiwork:polish (something).V	Action/Technology:polish (something).V	To make something smooth and shiny by rubbing it with a cloth.	3659			
 Handiwork:potter.N	Action/Technology:potter.N	One who makes pots and other ceramic wares.	359	9-71		
-Handiwork:repair.V	Action/Technology:repair.V	To restore something by replacing a broken part or putting together what is broken.	2243		reparieren::V	
 Handiwork:saw (something).V	Action/Technology:saw (something).V	To cut something with a saw.	3543			
 Handiwork:saw.N	Action/Technology:saw.N	A tool with a toothed blade used for cutting hard substances, in particular wood or metal.	1948	9-48		
 Handiwork:scissors.N	Action/Technology:scissors.N	A tool used for cutting thin material, consisting of two crossing blades attached at a pivot point in such a way that the blades slide across each other when the handles are closed.	1328			
@@ -1154,15 +1247,11 @@ Handiwork:screwdriver.N	Modernity:screwdriver.N	A hand tool used for driving scr
 Handiwork:sewing machine.N	Modernity:sewing machine.N	A machine that partially automates the process of sewing, i.e. uniting pieces of material by using a needle and a thread.	3097			
 Handiwork:shears.N	Action/Technology:shears.N	A tool consisting of two blades with bevel edges, connected by a pivot, used for cutting cloth, or for removing the fleece from sheep etc.	356	9-24		
 Handiwork:sieve (tool).N	Action/Technology:sieve (tool).N	A device for separating wanted elements from unwanted material.	3353			
-Handiwork:skilled.A	Action/Technology:skilled.A	Experienced and clever, professional.	807			
-Handiwork:tool.N	Action/Technology:tool.N	A mechanical device intended to make a task easier.	1361	9-422		
 Handiwork:top grindstone.N	Action/Technology:top grindstone.N	The top (and usually proper) element in a two-stone grindstone.	3022			
 Handiwork:ware.N	Modernity:ware.N	Manufactured articles.	2957		Ware::N	
 Handiwork:weave (basket).V	Action/Technology:weave (basket).V	To weave a basket or use similar techniques for creating other objects.	3296	9-99902		
 Handiwork:weaver.N	Action/Technology:weaver.N	A person whose occupation is weaving cloth, carpets, or baskets.	3637			
 Handiwork:whetstone.N	Action/Technology:whetstone.N	A stone that is used for whetting a knife or edge tools.	295	9-93		
-Handiwork:worker.N	Modernity:worker.N	Somebody who works.	2977		Arbeiter::N	
-Handiwork:workshop.N	Modernity:workshop.N	A room or building in which work, especially mechanical work, is carried on.	1677	23-58		
 Health:become sick.V	Action/Technology:become sick.V	To catch a disease.	2327		krank werden::V	
 Health:disease.N	Body:disease.N	A definite pathological process having a characteristic set of signs and symptoms which are detrimental to the well-being of the individual.	1986	4-844	Krankheit::N	633
 Health:dislocate.V	Body:dislocate.V	To (accidentally) dislodge a skeletal bone from its joint.	551			
@@ -1176,6 +1265,8 @@ Health:hospital.N	Building:hospital.N	hospital				1564
 Health:hospital.N	Modernity:hospital.N	A place where people who are ill or injured are treated and taken care of by doctors and nurses.	616	23-2		
 Health:injection.N	Modernity:injection.N	A method of putting liquid into the body with a hollow needle and a syringe which is pierced through the skin long enough for the material to be forced into the body.	1805	23-23		
 Health:leprosy.N	Body:leprosy.N	An infectious disease caused by the bacteria Mycobacterium leprae that affects the skin as well as the peripheral nerves.	3624			
+Health:mad person.N	Body:mad person.N	A person that has mental problems.	2321			
+Health:mad.A	Cognition:mad.A	Mentally ill.	1899	17-23		2009
 Health:malaria.N	Body:malaria.N	Infectious disease characterized by chills, fevers, and sweating, caused by a protozoan of the genus Plasmodium and transmitted by infected Anopheles mosquitoes.	3059			
 Health:measles.N	Body:measles.N	A contagious airborne disease caused by Measles morbillivirus and characterized by red rash, Koplik's spots, and fever.	3389			
 Health:medicine.N	Body:medicine.N	A substance which specifically promotes healing.	1372	4-88	Arznei::N	
@@ -1226,8 +1317,25 @@ Hunting:net.N	Action/Technology:net (for catching).N	A grid-like device used for
 Integrity:part.N	Quantity:part.N	A separate unit of a larger whole. All parts are needed to complete the whole thing.	779	13-23	Teil::N	2660
 Integrity:piece.N	Quantity:piece.N	A part that is broken, cut or separated from something larger and is usable on its own.	594	13-231	Stück::N	2661
 Integrity:whole.A	Space:whole.A	In its entirety.	2277			2640
+Interaction:agreement.N	Cognition:agreement.N	The state of sharing the same feeling or opinion.	3644			
+Interaction:betray.V	Cognition:betray.V	To harm someone or hurt their feelings by violating their trust or being disloyal to them.	1902	17-441		
 Interaction:choose.V	Emotion:choose.V	To make a choice from a number of alternatives.	1750	16-622	wählen::V	1984
+Interaction:deceive.V	Cognition:deceive.V	To trick someone by making them believe something that is not true or by acting in a dishonest way, usually in order to take advantage of it.	3230		täuschen::V	
+Interaction:ignore.V	Cognition:ignore.V	To deliberately not listen or pay attention to.	41			
+Interaction:imitate.V	Cognition:imitate.V	To follow as a model or a pattern.	117	17-172		
+Interaction:induce.V	Cognition:induce.V	To encourage into action; to cause to act in a specified manner.	61			
+Interaction:kind or polite.A	Emotion:kind or polite.A	Being nice and giving off the impression of benevolence or keeping to a given society's standards of social manners in order to show respect.	583			
+Interaction:kind.A	Emotion:kind.A	Being nice and giving off the impression of benevolence.	3299			
+Interaction:manner.N	Cognition:manner.N	Way of performing or effecting anything.	488	17-49		
+Interaction:neglect.N	Cognition:neglect.N	Failure to care for or attend to something.				2021
+Interaction:neglect.V		To fail to care for or attend to something.				
+Interaction:obstinate.A	Cognition:obstinate.A	Persisting in a reactionary stand.	1842			
+Interaction:persuade.V	Language:persuade.V	To convince someone to do something by giving them good reasons to do so.	3645			
+Interaction:polite.A	Emotion:polite.A	Keeping to a given society's standards of social manners in order to show respect.	3300			
+Interaction:pretend.V	Cognition:pretend.V	To behave in such a way that makes someone believe something that is not true.	3631			
+Interaction:relationship.N	Cognition:relationship.N	The way in which two elements or individuals are connected, usually in a social or affective sense.	3959			
 Interaction:rescue.V	Possession:rescue.V	To free from harm or evil.	2008	11-25	retten::V	
+Interaction:system.N	Cognition:system.N	A set of connected elements that form a whole by virtue of their interrelatedness and function.	3957			
 Law:commit a crime.V				19-99938		
 Law:crime.N	Modernity:crime.N	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public. (Source: BLACK)	1066	23-37		1654
 Law:lawyer.N				21-99901		
@@ -1237,10 +1345,6 @@ Material:brass.N	Action/Technology:brass.N	The copper-zinc alloy. A yellow-color
 Material:canvas.N		A type of coarse cloth, woven from hemp, useful for making sails and tents or as a surface for paintings.		9-99905		
 Matter:rust.N	Action/Technology:rust.N	Any of various metallic coatings formed by corrosion, especially after oxidation in presence of water.	3064	9-99916		3549
 Matter:rusty.A	Nature:rusty.A	Having been affected by rust.	3870			
-Mind:dream.N	Body:dream.N	Successions of images, ideas, emotions, and sensations that occur usually involuntarily in the mind during certain stages of sleep.	2374		Traum::N	662
-Mind:dream.V	Body:dream (something).V	To experience while sleeping.	1920	4-62		
-Mind:dreaming.N	Body:dreaming or dream.?	Either the act of seeing images when sleeping, or the result of this act, the dream itself.	2455			
-Mind:mad person.N	Body:mad person.N	A person that has mental problems.	2321			
 Motion:approach.V	Motion:approach.V	To come near to; to move towards.	1778	10-56		
 Motion:arrive.V	Motion:arrive.V	To come to a destination.	1387	10-55	ankommen::V	
 Motion:bend (oneself).V	Action/Technology:bend (oneself).V	To turn oneself over.	2761			
@@ -1605,18 +1709,27 @@ Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number ni
 Quantity:a little.A	Quantity:a little.A	More than one, but not as much as usual or as expected. (for mass nouns)	2924	13-99901	ein wenig::ADV	
 Quantity:add.V	Action/Technology:add.V	Join or unite so as to bring about an increase.	2882		hinzufügen::V	
 Quantity:by.ADP		Distributive numeral marker.		13-99902		
+Quantity:calculate.V	Modernity:calculate.V	To determine by mathematical processes.	2867		rechnen::V	2003
 Quantity:decrease.V	Action/Technology:decrease.V	To become smaller in number or size.	2864		abnehmen::V	
 Quantity:empty.A	Quantity:empty.A	Without content.	1624	13-22	leer::A	2686
 Quantity:enough.ADV	Quantity:enough.?	All that is required, needed, or appropriate.	1881	13-18		2731
+Quantity:few pieces.A	Cognition:few pieces.?	More than one, but not as many as usual or as expected. (for countable nouns)	3451			
 Quantity:fill.V	Quantity:fill.V	To make full.	2006	13-99907	füllen::V	
 Quantity:full.A	Quantity:full.A	Containing the most or maximum amount possible in the given available space.	1429	13-21	voll::A	2685
 Quantity:increase.V	Action/Technology:increase.V	(Of a quantity) to become bigger.	1041		zunehmen::V	
 Quantity:little.A	Quantity:little.A	A small quantity of.				2647
+Quantity:many pieces.A	Cognition:many pieces.?	An indefinite large number of. (for countable nouns)	3453			
 Quantity:many.A	Quantity:many.?	An indefinite large number of.	1198	13-15		2642
 Quantity:more.A	Quantity:more.A	more (a larger quantity of) 				2645
 Quantity:most.A	Quantity:most.A	most (the largest quantity of) 				2646
 Quantity:much.A	Cognition:much.?	An indefinite large number of. (for mass nouns)	3452			2644
 Quantity:multiply.V	Quantity:multiply.V	multiply 				2624
+Relation:identity.N	Cognition:identity.N	A persisting state of being the same for an entity or someone, from an objective or a subjective standpoint.	3960			
+Relation:kind.N	Cognition:kind (thing).N	A category of things distinguished by a common characteristic or quality.	844		Art::N	
+Relation:main.A	Cognition:main.?	The most important element.	1078			
+Relation:necessary.A	Cognition:necessary.?	Needed for a purpose or a reason.	1030			
+Relation:necessity.N	Cognition:necessity.N	Something that needs to be done.	422			
+Relation:strange.A	Cognition:strange.A	Out of the ordinary.	600			1965
 Society:emperor.N	Society:emperor.N	The supreme leader of an empire.	3377			
 Society:help.N	Society:help.N	The act of helping someone.	3467		Hilfe::N	
 Society:help.V	Society:help.V	To give assistance or aid to.	1897	19-58		2155
@@ -1665,6 +1778,7 @@ Storage:bucket.N	Action/Technology:bucket.N	Typically a watertight, vertical cyl
 Storage:can.N	Modernity:can.N	A small, round-shaped metal container, used for different purposes like storing food or liquids, or collecting money.	1051	23-54		
 Storage:case.N		A box possibly with compartments that can contain a number of identical items, like bottles.		7-99902		
 Storage:chest.N	Modernity:box or chest.N	A strong box with a lid on top and with space in it that is used to keep and store many various different objects.	3150			
+Storage:content.N	Cognition:content.N	In its physical sense, substance held by a recipient. In its cognitive sense, information or substance matter of a given subject.	3967			
 Storage:envelope.N	Action/Technology:envelope.N	An item to commonly used to package or wrap letters.	3088			
 Storage:funnel.N	Modernity:funnel.N	A pipe with a wide mouth used to channel liquid into containers with small opening.	2602			
 Storage:heap.N	Action/Technology:heap.N	A collection of things thrown one on another.	2984		Haufen::N	
@@ -1802,6 +1916,16 @@ Value:improve.V	Action/Technology:improve (something).V	Improvement is the proce
 Value:right.N	Government:right.N	That which is due to individuals, like a right right to do or to be something.				1603
 Value:value.N		The degree of importance of some thing or action with the aim of determining which actions are best to do.				
 Value:worse.A		Worse, the comparative of bad.		16-99915		
+Work:difficult.A	Cognition:difficult.A	Not easy, which needs hard work, patience and effort of either the physical or mental kind.	584	17-47		3933
+Work:easy.A	Cognition:easy.A	Requiring little skill or effort; posing no difficulty.	686	17-46		3932
+Work:repair.V	Action/Technology:repair.V	To restore something by replacing a broken part or putting together what is broken.	2243		reparieren::V	
+Work:result in.V	Cognition:result in.V	Having a specific result, a logical consequence.	1723		geraten::V	
+Work:skilled.A	Action/Technology:skilled.A	Experienced and clever, professional.	807			
+Work:succeed.V	Cognition:succeed.V	To attain a desired goal.	1112		gelingen::V	
+Work:tool.N	Action/Technology:tool.N	A mechanical device intended to make a task easier.	1361	9-422		
+Work:try.V	Cognition:try.V	To attempt to do something.	1812	17-48	versuchen::V	
+Work:worker.N	Modernity:worker.N	Somebody who works.	2977		Arbeiter::N	
+Work:workshop.N	Modernity:workshop.N	A room or building in which work, especially mechanical work, is carried on.	1677	23-58		
 	Action/Technology:accustom.V	Get used to something.	1118			
 	Action/Technology:against.A	In opposite direction to.	2469			
 	Action/Technology:amuse oneself (have fun).V	To do something joyful.	3239			
@@ -1920,7 +2044,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Action/Technology:net.N	A grid-like device or object.	2963		Netz::N	
 	Action/Technology:noose.N	A loop at the end of a rope.	2604		Schlinge::N	
 	Action/Technology:not have.V	Not being in possession of something (both abstract and concrete).	3363			
-	Action/Technology:notice (something).V	To become aware of something.	2893		bemerken::V	
 	Action/Technology:open (state).A	To be accessible and/or not closed.	3235		offen::A	
 	Action/Technology:order.V	To order someone or several persons by a superior authority to do something, or to arrange something in a tidy manner.	1128			
 	Action/Technology:paint (pigments).N	A mixture of pigment and a vehicle, such as oil or water, that together form a liquid or paste that can be applied to a surface to provide an adherent coating that imparts colour, protects the surface and/or gives the surface different features.	647	9-88	Farbe::N	
@@ -1944,7 +2067,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Action/Technology:quickly.A	To carry out an action in a quick manner.	3365			
 	Action/Technology:raise (bring up).V	To take care of an infant or some other living creature, usually until it can live independently.	2134	8-99962	aufziehen::V	
 	Action/Technology:rake (something).V	The act of moving a tool over a surface in order to level or clean it.	3127			
-	Action/Technology:recognize (somebody).V	Perceive to see something or someone previously known.	2870		erkennen::V	
 	Action/Technology:recommend.V	To suggest something or somebody.	2759			
 	Action/Technology:result.N	The final outcome or consequence of a causal chain, operation or set of circumstances.	3969			
 	Action/Technology:ribbon.N	A ribbon is a thin band of material, typically cloth but also plastic or sometimes metal, used primarily as decorative binding and tying.	2969		Band::N	
@@ -2894,95 +3016,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Business:take.V	"take (in the sense of E-o ""preni"", G ""nehmen"", Sp ""tomar"") "				1738
 	Business:ticket.N	ticket				1779
 	Business:wages.N	wages				1797
-	Cognition:agreement.N	The state of sharing the same feeling or opinion.	3644			
-	Cognition:attentive.A	Giving attention.	1908			
-	Cognition:be ignorant.V	Be in a state of not knowing something.	2651			
-	Cognition:because.?	Conjunction initiating a causal phrase.	1157	17-52		
-	Cognition:believe.V	To be confident about something.	1890	17-15	glauben::V	
-	Cognition:betray.V	To harm someone or hurt their feelings by violating their trust or being disloyal to them.	1902	17-441		
-	Cognition:by heart.?	Completely and faithfully, refering to something that has been learnt and memorized.	71			
-	Cognition:cause.N	That which brings about any condition or produces any effect.	860	17-42		
-	Cognition:certain.A	Without any doubt or possibility of deviation.	509	17-37		
-	Cognition:check.V	To see if something is correct.	1975			
-	Cognition:clear.A	Free of ambiguity or doubt.	989	17-34		
-	Cognition:clever.A	Mentally agile.	1310	16-84	klug::A	
-	Cognition:concept.N	A particular object of thought formulated as an abstract or general idea.	3966			
-	Cognition:confused.A	Being in a state of not exactly knowing or understanding what is happening; bewildered; perplexed.	3858			
-	Cognition:content.N	In its physical sense, substance held by a recipient. In its cognitive sense, information or substance matter of a given subject.	3967			
-	Cognition:cunning.A	To be smart and witty.	2335			
-	Cognition:deceive.V	To trick someone by making them believe something that is not true or by acting in a dishonest way, usually in order to take advantage of it.	3230		täuschen::V	
-	Cognition:decide.V	To reach, make, or come to a decision about something.	685			
-	Cognition:detect.V	To notice or recognize something that is not particularly obvious.	3895			
-	Cognition:difficult.A	Not easy, which needs hard work, patience and effort of either the physical or mental kind.	584	17-47		
-	Cognition:doubt (something).V	Be unsure about the truth or accuracy of a matter.	3536	17-99907		
-	Cognition:doubt.N	Uncertainty about the truth or accuracy of a matter.	1308	17-43		
-	Cognition:easy.A	Requiring little skill or effort; posing no difficulty.	686	17-46		
-	Cognition:effect.N	The manifestation of the particular influence of a given action on something.	3968			
-	Cognition:err.V	To make a mistake.	839			
-	Cognition:experienced.A	To have apprehended objects, thoughts, or emotions through senses and mind.	2218			
-	Cognition:explain.V	To inform about the reason for something, how something works, or how to do something.	1626	17-38		
-	Cognition:few pieces.?	More than one, but not as many as usual or as expected. (for countable nouns)	3451			
-	Cognition:find out.V	To apprehend something involuntarily.	2237			
-	Cognition:foreign.A	Not belonging to that in which it is contained; introduced from an outside source.	109		fremd::A	
-	Cognition:forget.V	To lose memory of something.	1523	17-32	vergessen::V	
-	Cognition:grow up.V	To mature and become an adult.	552			
-	Cognition:guess.V	To suppose, to estimate or to make a surmise.	1932	17-171		
-	Cognition:hesitate.V	To hold back from saying or doing something because of doubt or uncertainty.	3629			
-	Cognition:idea.N	A plan or notion that is formed and exists in the mind as a result of mental activity.	1609	17-19		
-	Cognition:identity.N	A persisting state of being the same for an entity or someone, from an objective or a subjective standpoint. Commonly referring to an individual's self-sense of being as a distinct person.	3960			
-	Cognition:ignore.V	To be ignorant of or in the dark about.	41			
-	Cognition:imagine.V	To form a mental image of (something not present).	3879			
-	Cognition:imitate.V	To follow as a model or a pattern.	117	17-172		
-	Cognition:induce.V	To encourage into action; to cause to act in a specified manner.	61			
-	Cognition:intend.V	To assign for a specific end, use, or purpose; to design or destine.	22			
-	Cognition:intention.N	An anticipated outcome that is intended to obtain or that guides your planned actions.	1162	17-41		
-	Cognition:investigate.V	To look into carefully in order to uncover (find) facts or information.	2010			
-	Cognition:kind (thing).N	A category of things distinguished by a common characteristic or quality.	844		Art::N	
-	Cognition:know (somebody).V	To have met and recognize somebody.	2248			
-	Cognition:know (something).V	To be sure about something or be acquainted with something.	1410	17-17	wissen::V	
-	Cognition:know how.V	To be able to do something which requires or could require that one would learn it before.	2238			
-	Cognition:know.V	To have met and recognize somebody or to be certain or sure about something.	3626			
-	Cognition:knowledge.N	The fact or state of knowing something or being familiar with a certain type of technique.	3874			
-	Cognition:learn.V	To acquire, or attempt to acquire knowledge or an ability to do something.	504	17-24	lernen::V	
-	Cognition:mad.A	Mentally ill.	1899	17-23		
-	Cognition:main.?	The most important element.	1078			
-	Cognition:manner.N	Way of performing or effecting anything.	488	17-49		
-	Cognition:many pieces.?	An indefinite large number of. (for countable nouns)	3453			
-	Cognition:memory.N	The ability of an organism to record information combined with the facility of recall.	1018		Gedächtnis::N	
-	Cognition:mind.N	The ability for rational thought.	1562	17-11	Verstand::N	
-	Cognition:necessary.?	Needed for a purpose or a reason.	1030			
-	Cognition:necessity.N	Something that needs to be done.	422			
-	Cognition:need (noun).N	The fact or an instance of feeling the lack of something.	643	17-45		
-	Cognition:need (something).?	Feeling the desire or the urge for something.	2339			
-	Cognition:no or not.?	A word used to show disagreement with something or to negate something.	2279			
-	Cognition:no.?	A word used to show disagreement of something.	1269	17-56		
-	Cognition:obscure.A	Known vaguely or incompletely, if at all.	1764	17-35		
-	Cognition:obstinate.A	Persisting in a reactionary stand.	1842			
-	Cognition:plan.N	A method or a set of arrangements, needed to achieve a specific goal.	3630			
-	Cognition:pretend.V	To behave in such a way that makes someone believe something that is not true.	3631			
-	Cognition:pupil (student).N	A student under the supervision of a teacher or professor.	753	17-26		
-	Cognition:relationship.N	The way in which two elements or individuals are connected, usually in a social or affective sense.	3959			
-	Cognition:remember.V	To recall from memory.	707	17-31	sich erinnern an::V	
-	Cognition:result in.V	Having a specific result, a logical consequence.	1723		geraten::V	
-	Cognition:school.N	An institution or building at which children and young people receive education.	673	17-28		
-	Cognition:secret.A	Being or kept hidden from public perception.	1121	17-36		
-	Cognition:seem.V	To have a given outward appearance.	1521	17-18	scheinen::V	
-	Cognition:smart.A	To be of high intelligence.	2530			
-	Cognition:strange.A	Out of the ordinary.	600			
-	Cognition:stupid.A	Lacking in intelligence.	1518	17-22	dumm::A	
-	Cognition:succeed.V	To attain a desired goal.	1112		gelingen::V	
-	Cognition:suspect.V	To assume something to be true without direct evidence.	1841	17-44		
-	Cognition:suspicion.N	An assumption without direct evidence.	3197			
-	Cognition:system.N	A set of connected elements that form a whole by virtue of their interrelatedness and function.	3957			
-	Cognition:teach.V	To pass on knowledge and skills.	709	17-25	lehren::V	
-	Cognition:teacher.N	A person who passes on knowledge, especially one employed in a school.	1038	17-27	Lehrer::N	
-	Cognition:think (believe).V	To have as opinion, belief, or idea.	1513	17-14		
-	Cognition:think (reflect).V	To actively and consciously use one's mental powers, usually to form ideas.	1415	17-13	denken::V	
-	Cognition:think.V	Use ones mental power to form ideas or having used ones mental power to form ideas of conviction or belief.	2271			
-	Cognition:thought.N	Thought refers to ideas or arrangements of ideas that are the result of the process of thinking.	2975		Gedanke::N	
-	Cognition:try.V	To attempt to do something.	1812	17-48	versuchen::V	
-	Cognition:understand.V	To be aware of the meaning of.	1536	17-16	verstehen::V	
-	Cognition:wise.A	Showing good judgement or the benefit of experience.	698	17-21		
 	Combat:army.N	army				1631
 	Combat:military.A	military 				1630
 	Combat:navy.N	navy				1632
@@ -3203,14 +3236,12 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Emotion:carp.V	To complain or find fault in a petty or disagreeable way.	2193		schimpfen::V	
 	Emotion:commend.V	To express approval or admiration.	3455		loben::V	
 	Emotion:concentration.N	The ability to direct all the attention to one thing or activity.	3852			
-	Emotion:confusion.N	A feeling of uncertainty about what to do or what is happening.	3853			
 	Emotion:correct (right).A	To be in accordance with expectations.	1725	16-73	richtig::A	
 	Emotion:cunning person.N	A smart and witty person.	2079			
 	Emotion:danger.N	A situation that constitutes an immediate risk for injury on a person or property.	1810	16-54		
 	Emotion:dangerous.A	Capable of injuring or harming someone.	3466			
 	Emotion:dear.A	Beloved or loved.	2470		lieb::A	
 	Emotion:deceit.N	The act or practice of deceiving.	13	16-68		
-	Emotion:desire.V	To want to do something, to wish for something to happen, or to have affection for someone.	2117			
 	Emotion:diligent.A	Being busy-working.	2077		fleißig::A	
 	Emotion:discipline.N	The ability and training of self-control and diligence, usually in abiding by a set of rules.	3962			
 	Emotion:disgust.N	The feeling that one gets when seeing something rotten.	2465			
@@ -3228,10 +3259,8 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Emotion:hostility.N	An aversion, feeling of rivalry, or aggressiveness experienced by an individual or group towards another.	3955			
 	Emotion:inclination.N	A likelihood of behaving in a particular way or going in a particular direction.	918			
 	Emotion:insolent.A	Unrestrained by convention or propriety.	91			
-	Emotion:interest (feeling).N	A desire to learn about something or somebody.	3847			
 	Emotion:joy.N	Mental happiness.	2524		Freude::N	
 	Emotion:keen.A	Full of or characterized by enthusiasm.	39			
-	Emotion:kind or polite.A	Being nice and giving off the impression of benevolence or keeping to a given society's standards of social manners in order to show respect.	583			
 	Emotion:location of emotions.N	The place where emotions are thought to be stored.	2198			
 	Emotion:lovely.A	Beautiful especially in a pleasing or charming way.	2233			
 	Emotion:make angry (annoy).V	To cause somebody to be annoyed.	2892		ärgern::V	
@@ -3245,13 +3274,9 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Emotion:pity.N	Deep awareness of the suffering of another, coupled with the wish to relieve it.	1141	16-35		
 	Emotion:play.V	To act in a manner such that one has fun; to engage in playful activities expressly for the purpose of recreation.	1413	16-26	spielen::V	
 	Emotion:pleasure.N	An emotional state of sensual gratification or frivolous amusement.	3916			
-	Emotion:polite.A	Keeping to a given society's standards of social manners in order to show respect.	3300			
 	Emotion:precious.A	Being dear or important to somebody.	3002		wertvoll::A	
 	Emotion:pride.N	An emotional state of being proud.	3915			
 	Emotion:proud.A	Feeling greatly pleased, or satisfied by something or someone that is highly honorable or creditable to oneself.	174	16-48		
-	Emotion:reason.N	Reason is the capacity for consciously making sense of things, applying logic, establishing and verifying facts, and changing or justifying practices, institutions, and beliefs based on new or existing information.	2968		Grund::N	
-	Emotion:regret.V	regret 				2079
-	Emotion:regret.V	To wish that a past event had not happened.	1875	16-34		
 	Emotion:rejoice.V	To feel joyful; be delighted.	2192			
 	Emotion:revenge.V	To take revenge for a perceived wrong.	495			
 	Emotion:riddle.N	A riddle is a statement or question or phrase having a double or veiled meaning, put forth as a puzzle to be solved.	2970		Rätsel::N	
@@ -3281,9 +3306,7 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Event:danger.N	danger (situation in which harm is probable)				3916
 	Event:destroy.V	destroy (contra-create; cause to cease existing) 				3951
 	Event:detail.N	detail				3907
-	Event:difficult.A	difficult, hard 				3933
 	Event:disaster.N	disaster, catastrophe				3905
-	Event:easy.A	easy 				3932
 	Event:eliminate.N	eliminate				3952
 	Event:exercise.N	exercise, practice (effort made to improve skills/health)				3934
 	Event:fail.V	fail 				3942
@@ -3293,7 +3316,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Event:method.N	method, manner, way (of doing), technique				3931
 	Event:miracle.N	miracle				3904
 	Event:necessary.A	necessary, needed, required 				3975
-	Event:need.V	need, require 				3976
 	Event:possible.A	possible (able to happen or be done) 				3913
 	Event:prevent.V	prevent (keep from happening) 				3953
 	Event:probable.A	probable (likely to happen/be) 				3911
@@ -3937,7 +3959,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Language:name.N	Any word or phrase which designates a particular person, place, class or thing.	1405	18-28	Name::N	
 	Language:paper.N	Felted or matted sheets of cellulose fibers, formed on a fine-wire screen from a dilute water suspension, and bonded together as the water is removed and the sheet is dried.	648	18-56		
 	Language:pen.N	A utensil, usually tubular in form, containing ink used to write or make marks.	794	18-57		
-	Language:persuade.V	To convince someone to do something by giving them good reasons to do so.	3645			
 	Language:poet.N	A person who writes poems.	1045	18-67		2341
 	Language:poetry.N	The class of literature comprising poems; a poet's literary production; composition in verse or language exhibiting conscious attention to patterns.	541			
 	Language:promise.V	To commit to doing something or assure that something will happen.	1675	18-36	versprechen::V	
@@ -4096,50 +4117,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Matter:wax.N	wax				3363
 	Matter:wood.N	wood (the substance)				3345
 	Matter:wrap.V	wrap 				3799
-	Mind:alert.A	alert 				2024
-	Mind:attention.N	attention (active perception)				2020
-	Mind:autism.N	autism				2011
-	Mind:automatic.A	automatic 				2034
-	Mind:calculate.V	calculate, reckon 				2003
-	Mind:conscious.A	conscious, aware 				2025
-	Mind:consider.V	consider, ponder, contemplate, think about (intensively) 				2027
-	Mind:decide.V	decide 				2032
-	Mind:depression.N	depression (debilitating gloom)				2010
-	Mind:desire.N	desire, longing				2031
-	Mind:experience.V	experience (consciously live through an event) 				2038
-	Mind:forget.V	forget 				2053
-	Mind:guess.V	guess, conjecture 				2048
-	Mind:idea.N	idea, concept (thought-bundle)				2055
-	Mind:imagine.V	imagine 				2056
-	Mind:insane.A	insane, crazy 				2009
-	Mind:intelligent.A	intelligent 				2005
-	Mind:intend.V	intend, mean to, do deliberately, have as a purpose 				2033
-	Mind:interest.N	interest (desire to pay attention to something), fascination				2022
-	Mind:invent.V	invent (plan something which has never been made before) 				2057
-	Mind:know.V	know 				2041
-	Mind:knowledge.N	knowledge				2042
-	Mind:learn.V	learn 				2044
-	Mind:logic.N	logic (formalized process of reasoning)				2008
-	Mind:mind.N	mind				2001
-	Mind:neglect.N	neglect, negligence, apathy				2021
-	Mind:notice.V	notice, observe 				2039
-	Mind:obsession.N	obsession				2012
-	Mind:phobia.N	phobia				2013
-	Mind:plan.N	plan, design				2058
-	Mind:reason.N	reason, explanation, rationale				2036
-	Mind:reasoning.N	reasoning, rational thought				2007
-	Mind:remember.V	remember 				2052
-	Mind:study.V	study 				2043
-	Mind:stupid.A	stupid, unintelligent 				2006
-	Mind:suppose.V	suppose, presume 				2049
-	Mind:talent.N	talent, skill, knack				2004
-	Mind:teach.V	teach 				2045
-	Mind:theory.N	theory				2050
-	Mind:think.V	think 				2002
-	Mind:understand.V	understand, comprehend 				2040
-	Mind:urgent.A	urgent (worthy of immediate attention) 				2026
-	Mind:want.V	want, wish, desire 				2030
-	Mind:whim.N	whim, caprice				2035
 	Modernity:abacus.N	A calculating tool that was in use centuries before the adoption of the written modern numeral system and is still widely used by merchants, traders and clerks in Asia, Africa, and elsewhere.	2489			
 	Modernity:address.N	Direction or superscription of a letter, or the name, title, and place of residence of the person addressed.	591	23-385		
 	Modernity:balloon.N	A small, elastic hollow body used for decoration and as toy.	3083			
@@ -4149,7 +4126,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Modernity:birth certificate.N	Official document certifying the details of a person's birth. Name, date, and parents' names are always included; details such as parents' occupation and religion may be included.	397	23-36		
 	Modernity:boss.N	A boss is a person in charge, or a supervisor.	2930		Chef::N	
 	Modernity:business.N	A business is an organizational entity involved in the provision of goods and services to consumers.	2931		Geschäft::N	
-	Modernity:calculate.V	To determine by mathematical processes.	2867		rechnen::V	
 	Modernity:camera.N	Optical instrument for storing images.	2618			
 	Modernity:card.N	A flat device in rectangular form that fulfills various functions.	2619	11-99902		3562
 	Modernity:certificate.N	Official document certifying some state of affairs.		19-99914		
@@ -4176,7 +4152,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Modernity:lavish.A	Very generous; giving (money, praise, etc.) in abundance.	222			
 	Modernity:library.N	A library is a collection of sources of information and similar resources, made accessible to a defined community for reference or borrowing.	2428			
 	Modernity:license.N	Official document that permits a right to do something.		23-99901		
-	Modernity:logic.N	Logic (from the Ancient Greek: λογική, logike) is the branch of philosophy concerned with the use and study of valid reasoning. The study of logic also features prominently in mathematics and computer science.	2429			
 	Modernity:machine.N	A device able to perform a particular, more or less complex, job.	144	23-19		
 	Modernity:map.N	Symbolic depiction of areas and regions.	2625			
 	Modernity:member.N	A person who belongs to any organized or non-organized group of people.	2424			
@@ -4213,7 +4188,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Modernity:stilts.N	Poles or pillars allowing a person to stand at a height above the ground.	2593			
 	Modernity:stroke (of pen).N	A single movement with a pen in order to write or paint something.	2993		Strich::N	
 	Modernity:tennis ball.N	Yellow, spherical object used for playing the game of tennis.	3103			
-	Modernity:theory.N	Theory is a contemplative and rational type of abstract or generalizing thinking, or the results of such thinking. Depending on the context, the results might for example include generalized explanations of how nature works.	2433			
 	Modernity:toy.N	A toy is an item that can be used for play.	2403			
 	Modernity:tragedy.N	Tragedy (from the Greek: τραγῳδία, tragōidia[a]) is a form of drama based on human suffering that invokes in its audience an accompanying catharsis or pleasure in the viewing.	2434			
 	Modernity:tray.N	Tray is a shallow platform designed for carrying things.	2629			
@@ -5109,7 +5083,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Society:spoil (somebody or something).V	To hinder or prevent (the efforts, plans, or desires) of.	92		verderben::V	
 	Society:stranger.N	Someone who is not known.	791	19-55		
 	Society:subjugate.V	To put somebody under one's authority.	1516			
-	Society:sympathize.V	To show understanding for somebody's problems or hurt feelings.	3903			
 	Society:team.N	A cooperative group of individuals working together for a common purpose.	3961			
 	Society:tibetan.N	Referring to the Tibetan people, their cultural practices or heritage.	3374			
 	Society:town or village.N	Referring to either smaller (village) or larger (town) settlements.	3609			
@@ -5545,7 +5518,6 @@ Value:worse.A		Worse, the comparative of bad.		16-99915
 	Value:right.A	right, correct 				1947
 	Value:seek.V	seek, search (for), look for 				1980
 	Value:simple.A	simple 				1935
-	Value:strange.A	strange, weird, unusual, peculiar 				1965
 	Value:suitable.A	suitable, proper, fit(ting), appropriate 				1909
 	Value:test.V	test, check 				1927
 	Value:virtuous.N	virtuous				1907
