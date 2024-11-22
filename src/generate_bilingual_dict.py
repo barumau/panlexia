@@ -12,6 +12,7 @@ in the Markdown format into the generated/ directory.
 CC-BY 2024 Panlexia (https://github.com/barumau/panlexia)
 """
 import helpers
+import languages
 import sys
 
 def make_bilingual_dictionary_table(source_language_dict, target_language_dict):
@@ -100,6 +101,16 @@ def format_and_write(source_lang, target_lang, dict):
 
     filename = "generated/" + source_lang + "-" + target_lang + ".md"
     file = helpers.simple_file_writer(filename)
+
+    # Hide navigation bar and footer in MkDocs generated webpages.
+    file.write("---\nhide:\n  - navigation\n  - footer\n---\n")
+    # Write dictionary name in Markdown format.
+    # Format:    # Source language - Target language exonym (Target language endonym)
+    # Example 1: # English - French (Français)
+    # Example 2: # English - Russian (Русский)
+    source_lang_full_name = languages.source_lang_code_to_name(source_lang)
+    target_lang_full_name = languages.target_lang_code_to_name(source_lang, target_lang)
+    file.write("# " + source_lang_full_name + " - " + target_lang_full_name + "\n")
 
     previous_initial = ""
     i = 0
