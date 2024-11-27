@@ -1,6 +1,9 @@
 id	initial_id	Definition	Concepticon_id	WOLD_id	NELex_id	ULD_id
 Action:automatic.A	Cognition:automatic.A	Capable of operating without external control or intervention.				2034
 Action:can.V	Action/Technology:be able.V	To have the ability to do something.	972	24-99902	können::V	208
+Action:get up from bed.V	Action/Technology:get up from bed.V	To leave one's place of sleeping.	3350		aufstehen::V	
+Action:hinder.V	Nature:hinder.V	To make difficult to accomplish; to frustrate, act as obstacle; to keep back; to delay or impede.	554		behindern::V	
+Action:stop.V	Action/Technology:stop doing.V	To stop doing the action one was doing.	3351		aufhören::V	
 Agriculture:burn land.V	Agriculture/Plant:burn land.V	Clear an area with fire.	3539			
 Agriculture:crops.N	Agriculture/Plant:crops.N	The output of plants cultivated that is grown on a large scale.	3081			
 Agriculture:cultivate.V	Agriculture/Plant:cultivate.V	To prepare an area by tilling, planting seeds etc. in order to grow plants.	1541	8-15		
@@ -32,10 +35,12 @@ Agriculture:thresh.V	Agriculture/Plant:thresh.V	Separating the grain from the st
 Agriculture:threshing-floor.N	Agriculture/Plant:threshing-floor.N	Dry flat area where the grain is separated from the straw or husks by beating.	223	8-35		
 Agriculture:till.V	Agriculture/Plant:till.V	Prepare land for cultivation by work such as ploughing, harrowing, and manuring.	3273			
 Agriculture:winnowing.V	Action/Technology:winnowing.V	Wind winnowing is an agricultural method developed by ancient cultures for separating grain from chaff.	2462			
+Animal:Accipitridae.N	Animal:eagle.N	Any of several large carnivorous birds in the family Accipitridae, having a powerful hooked bill and keen vision.	1905	3-584	Adler::N	
 Animal:Acridomorpha.N	Animal:grasshopper.N	A plant-eating insect with long back legs that can jump very high and makes a sharp high noise using its back legs or wings.	607	3-93		913
 Animal:Anatidae.N	Animal:duck.N	An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	1360	3-57	Ente::N	982
 Animal:animal.N	Animal:animal.N	Any living organism characterized by voluntary movement, the possession of cells with noncellulose cell walls and specialized sense organs enabling rapid response to stimuli, and the ingestion of complex organic substances such as plants and other animals.	619	3-11	Tier::N	904
 Animal:Annelida.N	Animal:worm.N	A generally tubular invertebrate of the annelid phylum.	1219	3-84	Wurm::N	916
+Animal:Anserinae.N	Animal:goose.N	Waterfowl of the Anatidae family.	1187	3-56	Gans::N	
 Animal:Anthophila.N	Animal:bee.N	Any of the membranous-winged insects which compose the superfamily Apoidea in the order Hymenoptera characterized by a hairy body and by sucking and chewing mouthparts.	665	3-82		920
 Animal:Anura.N	Animal:frog.N	Any insectivorous anuran amphibian of the family Ranidae, such as Rana temporaria of Europe, having a short squat tailless body with a moist smooth skin and very long hind legs specialized for hopping.	503	3-95		945
 Animal:Araneae.N	Animal:spider.N	Any predatory silk-producing arachnid of the order Araneae, having four pairs of legs and a rounded unsegmented body consisting of abdomen and cephalothorax.	843	3-818	Spinne::N	948
@@ -74,6 +79,7 @@ Animal:Homo sapiens.N	Family:person.N	A human being, any living member of Homo s
 Animal:Hydrochoerus hydrochaeris.N	Animal:capybara.N	The largest living rodent native to South America, living partly on land and partly in water.	314	3-9991		
 Animal:Insecta.N	Animal:insect.N	A class of the Arthropoda typically having a segmented body with an external chitinous covering, a pair of compound eyes, a pair of antennae, three pairs of mouthparts, and two pairs of wings.	620	3-81		905
 Animal:Lacertidae.N	Animal:lizard.N	Any reptile of the suborder Lacertilia, especially those of the family Lacertidae, typically having an elongated body, four limbs, and a small tail: includes the gechos, iguanas, chameleons, monitors, and slow worms.	632	3-96		930
+Animal:lair.N	Animal:lair.N	The resting or living place of a wild animal.	2949		Bau::N	
 Animal:Lampyridae.N	Animal:firefly.N	A nocturnal, bioluminescent beetle of the family Lampyridae.	206	3-91		922
 Animal:Leporidae.N	Animal:rabbit.N	One of several small mammals of the family Leporidae, with long ears, long hind legs and a short, fluffy tail.	1136	3-614		967
 Animal:male in general.A	Family:male.A	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.	1553			
@@ -85,6 +91,7 @@ Animal:mouse.N	Animal:mouse.N	Any of numerous small rodents of the genus ''mus''
 Animal:Nephropidae.N	Animal:lobster.N	Clawed lobsters comprise a family (Nephropidae, sometimes also Homaridae) of large marine crustaceans.	2397			941
 Animal:Ovis aries.N	Animal:sheep.N	A common, four-legged animal (Ovis) that is commonly kept by humans for its wool.	1331	3-25	Schaf::N	956
 Animal:Passeridae.N	Animal:sparrow.N	A small song bird, in the family Passeridae.	1854	3-99941		985
+Animal:Perca.N	Animal:perch (fish).N	Perch is a common name for fish of the genus Perca, freshwater gamefish belonging to the family Percidae.	2966		Barsch::N	
 Animal:pet.N	Animal:pet.N	An animal or a bird that is kept at home for companionship rather than for practical use.	3780	3-99933		
 Animal:Rhopalocera.N	Animal:butterfly.N	A lepidopteran that is active at day.	1791	3-92	Schmetterling::N	921
 Animal:Sciuridae.N	Animal:squirrel.N	A small or medium-sized rodent of the family Sciuridae.	1628	3-869	Eichhörnchen::N	970
@@ -113,6 +120,8 @@ Atmosphere:hail.N	Nature:hail.N	Precipitation in the form of balls or irregular 
 Atmosphere:hailing.V	Nature:hailing.V	To fall from the clouds in form of ball or lumps of ice.	104			
 Atmosphere:hot weather.N	Nature:hot weather.N	A period of unusually high temperatures.	3693			
 Atmosphere:humid.A	Nature:humid.A	(Of the air) Containing a high quantity of water vapor.	143			
+Atmosphere:lightning bolt.N	Nature:bolt (of lightning).N	A sudden, short, temporary burst of light.	2007	1-57		
+Atmosphere:lightning.N	Nature:lightning.N	The flash of light caused by the discharge of atmospheric electrical charge.	1654	1-55		1125
 Atmosphere:muggy.A	Nature:muggy.A	A type of weather when it is hot and the air is damp.	3757			
 Atmosphere:rain.N	Nature:rain (precipitation).N	Precipitation in the form of liquid water drops with diameters greater than 0.5 millimeters.	658	1-75	Regen::N	1128
 Atmosphere:rain.V	Nature:rain (raining).V	To fall from the clouds in drops of water.	1253		regnen::V	
@@ -192,6 +201,7 @@ Belief:temple.N	Belief:temple.N	A house of worship and spiritual activities.	911
 Belief:witch.N	Belief:witch.N	A female person who practices magic.	824			
 Belief:woman’s rattle.N				22-99914		
 Belief:worship.V	Belief:worship.V	To show devotion and obeisance to.	257	22-16		
+Body:ache.V	Body:ache.V	To be in continuous pain.	1815		schmerzen::V	
 Body:ankle.N	Body:ankle.N	A joint formed where the foot and the leg meet.	803	4-371		
 Body:anus.N	Body:anus.N	The lower opening of the digestive tract, through which faeces pass.	1935			558
 Body:arm or hand.N	Body:arm or hand.N	Extremities emerging from the upper part of the human body.	2121			
@@ -202,6 +212,7 @@ Body:back of head.N	Body:back of head.N	The back part of the head.	523
 Body:back.N	Body:back.N	The rear of body, especially the part between the neck and the end of the spine and opposite the chest and belly.	1291	4-19	Rücken::N	503
 Body:bald.A	Body:bald.A	Without hair on the head.	1125	4-93		
 Body:bark or skin.N	Body:bark or skin.N	Cover of the bodies of animals and plants.	2127			
+Body:be born.V	Body:be born.V	To start living.	1090	4-72	geboren werden::V	
 Body:beak.N	Body:beak.N	External anatomical structure of birds which is used for taking food and for eating.	73	4-241		
 Body:beard.N	Body:beard.N	Facial hair of humans on the chin, cheeks and jaw.	678	4-142	Bart::N	519
 Body:belch.V	Action/Technology:belch.V	To release gas from the digestive tract through the mouth.	2245			
@@ -248,6 +259,7 @@ Body:close mouth.V	Body:close (mouth).V	To close one's mouth.	3547
 Body:collarbone.N	Body:collarbone.N	Bone linking the scapula and sternum.	1994	4-302		
 Body:corpse.N	Body:corpse.N	A dead body.	767	4-77		
 Body:coughing.N	Action/Technology:cough (act of coughing).N	The act of coughing or the sound of coughing.	3913			
+Body:die.V	Body:die.V	To cease to live.	1494	4-75	sterben::V	626
 Body:dribble.N				4-99905		
 Body:dribble.V	Body:dribble.V	To let saliva flow out of one’s mouth onto one’s chin.	268	4-591		
 Body:ear.N	Body:ear.N	The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.	1247	4-22	Ohr::N	514
@@ -262,6 +274,7 @@ Body:eyebrow.N	Body:eyebrow.N	The hair that grows over the bone ridge above the 
 Body:eyelash.N	Body:eyelash.N	One of the hairs that grows on the eyelid, around the eyes.	1540	4-214		
 Body:eyelid.N	Body:eyelid.N	A skin flap that can be closed over an eye.	17	4-213		
 Body:face.N	Body:face.N	The front part of the head, featuring the eyes, nose, and mouth and the surrounding area.	1560	4-204	Gesicht::N	510
+Body:fall asleep.V	Body:fall asleep.V	To go to sleep; to change from waking state to sleeping state.	1106		einschlafen::V	
 Body:fart.V	Body:fart.V	To emit digestive gases through the anus.	1159	4-64		
 Body:fat.N	Body:fat.N	Esters of three fatty acid chains and the alcohol glycerol which form a semi-solid substance in room temperature and occur in animals and plants.	323	5-791	Fett::N	
 Body:feather.N	Body:feather.N	A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	1201	4-393	Feder::N	592
@@ -304,6 +317,7 @@ Body:intestines.N	Body:intestines.N	The alimentary canal of an animal or human t
 Body:jaw.N	Body:jaw.N	Either of the two opposable structures forming, or near the entrance to, the mouth.	798	4-207	Kiefer[Anatomie]::N	
 Body:joint.N	Body:joint.N	Any part of the body where two bones join.	999			
 Body:kidney.N	Body:kidney.N	An organ in the body that produces urine.	489	4-451		574
+Body:kill.V	Body:kill.V	To put to death; to end a life.	1417	4-76	töten::V	
 Body:knee.N	Body:knee.N	In man, the joint in the middle part of the leg.	1371	4-36	Knie::N	541
 Body:knuckle.N	Body:knuckle.N	Joints of the fingers brought to prominence when hand is clenched.	2824			
 Body:lap.N	Body:lap.N	The front area from waist to knees, especially when sitting.	3263	4-99907		
@@ -356,6 +370,7 @@ Body:pubic hair.N	Body:pubic hair.N	Dense, coarse hair that grows on the male an
 Body:pulse.N	Body:pulse.N	The rhytmic contraction and expansion of arteries at each heart beat, often discernible at points such the wrists and the neck.	3267			
 Body:pupil.N	Body:pupil.N	Contractile aperture in iris.	1658			
 Body:rest or sleep.V	Action/Technology:rest or sleep.V	Lie down or sleep.	2116			
+Body:rest.V	Body:rest.V	To cease working, moving or thinking for some time in order to relieve fatigue.	168	4-912	sich erholen::V	
 Body:rib.N	Body:rib.N	One of the long curved bones which form the rib cage.	801	4-162		
 Body:right hand.N	Body:right hand.N	The right hand of a human.	2183			
 Body:saliva.N	Body:saliva.N	A secretion from the salivary glands (found in the mouth) that can be spat out.	1503	4-9991		
@@ -365,6 +380,7 @@ Body:scrotum.N	Body:scrotum.N	Anatomical male reproductive structure.	2834
 Body:semen.N	Body:semen.N	An organic fluid that may contain spermatozoa. It is secreted by the gonads (sexual glands) and other sexual organs of male or hermaphroditic animals and can fertilize female ova.	2283			
 Body:shell.N	Animal:shell.N	A hard outer covering of an animal, as the hard case of a mollusk.	598	3-655		591
 Body:shin.N	Body:shin.N	The front part of the leg below the knee.	186			
+Body:shiver.V	Body:shiver.V	To shake nervously, as if from fear.	52	4-68	zittern::V	
 Body:shoulder.N	Body:shoulder.N	One side of the top of the torso, where an arm attaches or joins.	1482	4-3	Schulter::N	530
 Body:shoulderblade.N	Body:shoulderblade.N	A large flat bone located at the back of each shoulder.	172	4-301		
 Body:side.N	Body:side (body).N	The side of the body.	3344			
@@ -411,6 +427,7 @@ Body:waist.N	Body:waist.N	In human beings, the part between the thorax and hips.
 Body:wake up (sb).V	Body:wake up (someone).V	Rouse from sleep.	3174		wecken::V	
 Body:wake up.V	Body:wake up.V	To stop sleeping.	1602	4-63	aufwachen::V	665
 Body:wart.N	Body:wart.N	Typically small, rough, and hard growths that are similar in color to the rest of the skin.	2665			
+Body:weak.A	Body:weak.A	Lacking in force or ability.	1601	4-82	schwach::A	
 Body:wing.N	Body:wing.N	The appendage of an animal's (bird, bat, insect) body that enables it to fly in the air.	1257	4-392	Flügel::N	595
 Body:womb.N	Body:womb.N	The major female reproductive organ of most mammals, including humans. It is a large muscle enveloping the phoetus during pregnancy.	804	4-47		
 Body:wound.N	Body:wound.N	A type of injury in which in skin or tisue is torn, cut,  punctured or otherwise hurt.	1109	4-85	Wunde::N	632
@@ -473,6 +490,7 @@ Building:wall.N	Building:wall.N	The outer structure which encloses a building an
 Building:windmill.N	Action/Technology:windmill.N	A large structure or building with long revolving blades or sails that is used for converting wind energy in order to produce electricity or to directly power an attached mechanical construction for grinding.	3841			
 Building:window.N	Building:window.N	An opening, usually covered by one or more panes of clear glass, to allow light from outside to enter a building or vehicle.	1375	7-25	Fenster::N	1514
 Building:yard.N	Building:yard.N	A small, usually uncultivated area adjoining or within the precincts of a house or other building.	736	7-15		
+Cleaning:bathe.V	Body:bathe.V	To clean oneself by immersion in water.	138	4-69	baden::V	
 Cleaning:broom.N	Action/Technology:broom.N	A tool used to sweep and clean the floor, made of a bundle of straws or twigs attached to a long handle.	245	9-38	Besen::N	
 Cleaning:clean (sth).V	Motion:clean (something).V	To cause something to be no longer dirty.	2235		reinigen::V	
 Cleaning:clean.A	Perception:clean.A	Not dirty.	704	15-87	sauber::A	
@@ -588,6 +606,7 @@ Clothing:wear.V	Clothing/Grooming:wear.V	Fix clothes on your body and carry them
 Clothing:weave.V	Clothing/Grooming:weave.V	To create a fabric by interlacing threads.	133	6-33		1421
 Clothing:wrapper.N	Clothing/Grooming:wrapper.N	A colorful women's garment widely worn in West Africa.	462			
 Clothing:yarn.N	Clothing/Grooming:yarn.N	Consists of multiple strings of natural or synthetic fibre twisted together in a continuous bulky thread; used in textile production.	3445			
+Cognition:affair.N	Possession:affair.N	That which is considered to exist as a separate quality or concept.	2214		Angelegenheit::N	
 Cognition:attention.N	Cognition:attention.N	Active perception.				2020
 Cognition:attentive.A	Cognition:attentive.A	Giving attention.	1908			2024
 Cognition:autism.N	Cognition:autism.N	A pervasive neurological condition that is observable in early childhood and persists throughout the lifespan, characterised by atypical communication, language development, eye contact, and sensory experiences.				2011
@@ -617,7 +636,7 @@ Cognition:effect.N	Cognition:effect.N	The manifestation of the particular influe
 Cognition:err.V	Cognition:err.V	To make a mistake.	839			
 Cognition:exact.A	Emotion:exact.A	Without diversion from the desired or agreed specification; neither exceeding nor failling short in any way.	1466			
 Cognition:expect.V	Emotion:expect.V	expect, anticipate (believe that X will come/happen) 				2074
-Cognition:experience.V	Cognition:experience.V	experience (consciously live through an event) 				2038
+Cognition:experience.V	Cognition:experience.V	Live through an event consciously. 				2038
 Cognition:experienced.A	Cognition:experienced.A	To have apprehended objects, thoughts, or emotions through senses and mind.	2218			
 Cognition:false.A	Emotion:false.A	Not concurring with a given set of facts; fake; unreal.	3069			1945
 Cognition:familiar.A	Emotion:familiar.A	Knowing somebody or something well.	3005		bekannt::A	
@@ -627,6 +646,7 @@ Cognition:forget.V	Cognition:forget.V	To lose memory of something.	1523	17-32	ve
 Cognition:guess.V	Cognition:guess.V	To suppose, to estimate or to make a surmise.	1932	17-171		2048
 Cognition:hesitate.V	Cognition:hesitate.V	To hold back from saying or doing something because of doubt or uncertainty.	3629			
 Cognition:idea.N	Cognition:idea.N	A plan or notion that is formed and exists in the mind as a result of mental activity.	1609	17-19		2055
+Cognition:imagination.N		Forming of mental images of something not present.				
 Cognition:imagine.V	Cognition:imagine.V	To form a mental image of (something not present).	3879			2056
 Cognition:intellect.N	Cognition:mind.N	The ability for rational thought. The mind as the seat of intelligence as opposed to heart or soul as the seat of emotions.	1562	17-11		
 Cognition:intelligent.A	Cognition:intelligent.A	intelligent 				2005
@@ -670,6 +690,7 @@ Cognition:truth.N	Emotion:truth.N	That which conforms to reality.	1638		Wahrheit
 Cognition:understand.V	Cognition:understand.V	To be aware of the meaning of.	1536	17-16	verstehen::V	2040
 Cognition:untruth.N	Emotion:untruth.N	A false statement made with the intention to deceive.	475			
 Cognition:urgent.A	Cognition:urgent.A	Worthy of immediate attention.				2026
+Cognition:watch.V	Action/Technology:watch.V	To have one's attention or one's eyes on something or someone.	1650		ansehen::V	
 Cognition:whim.N	Cognition:whim.N	A sudden or fanciful idea.				2035
 Cognition:wise.A	Cognition:wise.A	Showing good judgement or the benefit of experience.	698	17-21		
 Combat:battle cry.N	Language:battle cry (war whoop).N	A shout, used by warriors in battle with the purpose of arousing aggression on their own side or intimidating the enemy.	3741			
@@ -677,6 +698,7 @@ Combat:bomb.N	Modernity:bomb.N	A device filled with explosives used for destroyi
 Combat:box.V	Action/Technology:box (somebody or something).V	The act of using fists to fight or hit.	3108			
 Combat:brawl.N	Action/Technology:brawl.V	A normally unarmed and ruleless scuffle.	3301			
 Combat:brawl.V	Action/Technology:brawl (fight).V	To be involved in a normally unarmed and ruleless scuffle.	2902		sich schlagen::V	
+Combat:defend.V	Combat/Hunting:defend.V	To keep something or someone safe or prevent harm coming to someone or something.	1330	20-44	verteidigen::V	
 Combat:fight.N	Action/Technology:fight (combat).N	A hostile encounter, such as a battle or combat.	3880		Kampf::N	
 Combat:fight.V	Combat/Hunting:fight.V	To be involved in a physical confrontation.	1423	20-11		782
 Combat:helmet.N	Combat/Hunting:helmet.N	Any of various forms of protective head covering worn e.g.  by soldiers, firefighters, divers, cyclists, etc.	1680	20-33		1432
@@ -738,7 +760,9 @@ Communication:thank.V	Society:thank (somebody).V	To express one's gratitude.	241
 Communication:thanks.INT		Expression of gratitude.		16-99903		
 Communication:translate.V	Action/Technology:translate.V	To communicate of the meaning of a source-language text by means of an equivalent target-language text.	2906		übersetzen::V	
 Communication:type.V	Modernity:type (on something).V	Using keys of a computer or typewriter.	3134			
+Communication:urge.V	Emotion:urge (someone).V	To encourage someone to do something.	2881		antreiben::V	
 Communication:watch (TV).V	Modernity:watch (tv).V	The act of watching television.	3136			
+Communication:write.V	Language:write.V	To form (letters, words or symbols) on a surface in order to communicate.	1672	18-51	schreiben::V	
 Communiction:call.N	Language:call (appeal).N	An act of calling with the voice.	2944		Ruf::N	
 Contact:slap.N		A hit with something flat, usually the open palm of the hand.		9-99921		
 Contact:slap.V	Action/Technology:slap.V	Hit with something flat, usually the open palm of the hand.	3160			
@@ -750,6 +774,7 @@ Cosmos:Orion.N	Nature:orion's constellation.N	A constellation of stars visible f
 Cosmos:Orion’s Belt.N	Nature:orion’s belt.N	A pattern of three stars in the constellation Orion.	3343			
 Cosmos:planet.N	Nature:planet.N	planet				1127
 Cosmos:Polaris.N	Nature:polar star.N	Referring to Polaris or Alpha Ursae Minoris, a star aligned with earth’s axis of rotation and often used for navigation.	3339			
+Cosmos:rise.V	Nature:rise (move upwards).V	(Of a heavenly body) To appear to move upwards from behind the horizon of a planet as a result of the planet's rotation.	568	10-21	aufgehen[Sonne]::V	
 Cosmos:set.V	Nature:set (heavenly bodies).V	[Of a heavenly body, essentially the Sun and the Moon] To disappear below the horizon of a planet or another heavenly body (most often the Earth).	160		untergehen[Sonne]::V	
 Cosmos:shooting star.N	Nature:shooting star.N	Name for the visible path of a meteoroid.	2835			
 Cosmos:star.N	Nature:star.N	A luminous celestial body that is made from gases (particularly hydrogen and helium) and forms the shape of a sphere.	1430	1-54	Stern::N	1131
@@ -915,6 +940,7 @@ Emotion:become angry.V	Emotion:become angry.V	To turn into an angry mental state
 Emotion:blame.N	Emotion:blame.N	Accusation for something negative or undesirable.	381	16-78		
 Emotion:blame.V	Emotion:blame (somebody).V	To hold somebody responsible for something.	2716			
 Emotion:boring.A	Emotion:boring.A	Causing boredom.	905			2065
+Emotion:bother.V	Emotion:bother (harass).V	To annoy persistently.	2869		belästigen::V	
 Emotion:comfort.N	Emotion:comfort.N	comfort (freedom from pain and/or worry)				2069
 Emotion:confused.A	Cognition:confused.A	Being in a state of not exactly knowing or understanding what is happening; bewildered; perplexed.	3858			
 Emotion:confusion.N	Emotion:confusion.N	A feeling of uncertainty about what to do or what is happening.	3853			
@@ -961,6 +987,7 @@ Emotion:impatient.A	Emotion:impatient.A	Becoming irritable in difficult situatio
 Emotion:interest.N	Emotion:interest (feeling).N	A desire to learn about something or somebody.	3847			2022
 Emotion:jealous.A	Emotion:jealous.A	Feeling insecure over an anticipated loss of status or affection in a human connection.	2821			
 Emotion:jealousy.N	Emotion:jealousy.N	A jealous feeling, disposition, state, or mood.	2016			
+Emotion:joy.N	Emotion:joy.N	Mental happiness.	2524		Freude::N	
 Emotion:kindness.N	Emotion:kindness.N	The quality of being caring, generous and helpful towards other people.	3468			
 Emotion:like.V	Emotion:like.V	To enjoy, be in favor/favour of.	1117		mögen::V	
 Emotion:long for.V	Emotion:long (for something).V	To have a very strong desire for something.	3473			
@@ -969,6 +996,7 @@ Emotion:look forward.V				16-99911
 Emotion:love.N	Emotion:love (affection).N	A feeling of affection and fondness for someone.	3834			
 Emotion:love.V	Emotion:love.V	To have an intense feeling of affection and care towards another person.	923	16-27	lieben::V	2067
 Emotion:lover.N				2-99908		
+Emotion:make angry.V	Emotion:make angry (annoy).V	To cause somebody to be annoyed.	2892		ärgern::V	
 Emotion:merry.A	Emotion:merry.A	In good spirits.	1976		lustig::A	
 Emotion:miss.V	Action/Technology:miss (somebody).V	To long to see somebody again.	2328			
 Emotion:mood.N				16-99905		
@@ -1039,6 +1067,7 @@ Family:older sibling.N	Family:older sibling.N	A person who is born before anothe
 Family:older sister.N	Family:older sister.N	A female with more years of age than one or more of her siblings.	1758	2-454		
 Family:orphan.N	Family:orphan.N	A person one or both of whose parents have died, especially a minor.	1149	2-75		
 Family:parents.N	Family:parents.N	Father and mother of a child.	505	2-37	Eltern::N	
+Family:raise.V	Action/Technology:raise (bring up).V	To take care of an infant or some other living creature, usually until it can live independently.	2134	8-99962	aufziehen::V	
 Family:relatives.N	Family:relatives.N	A person that is considered to be of the same family due to shared ancestors, marriage or adoption.	1644	2-81		
 Family:sibling-in-law.N	Family:sibling-in-law.N	The husband of one's sister.	1832	2-6412		
 Family:sibling.N	Family:sibling.N	A person who has the same parents as another person.	1640	2-456		
@@ -1064,6 +1093,8 @@ Flower:Prunus salicina.N	Agriculture/Plant:plum blossom.N	The flower of the Chin
 Food:alcohol.N	Food:alcohol (drink).N	A drink (a liquor or brew) containing ethanol, commonly known as alcohol.	2050			
 Food:bake.V	Food:bake.V	To cook (something) in an oven, but not in fat, or harden by means of dry heat.	183	5-24	backen::V	3493
 Food:barbecue.V		To cook food on a grill traditionally employing hot charcoal as the heating medium.		9-99928		
+Food:berry.N	Food:berry.N	A soft fruit which develops from a superior ovary and contains seeds not encased in pits.	904		Beere::N	1020
+Food:boil.V	Food:boil (of liquid).V	To be at a temperature (as a liquid) where it moves into the gaseous phase.	792	5-22	sieden::V	
 Food:bread.N	Food:bread.N	A common food made mainly from flour, water and yeast and produced by kneading and baking a dough.	1368	5-51	Brot::N	3415
 Food:cake.N	Modernity:cake.N	Cake is a form of sweet dessert that is typically baked.	2408			
 Food:Camellia sinensis.N	Food:tea.N	tea (beverage made from leaves of plant sp. Camellia sinensis)	1373	23-9	Tee::N	3477
@@ -1071,12 +1102,15 @@ Food:candy.N	Modernity:candy.N	Food item that is rich in sugar.	874	23-565
 Food:Citrullus lanatus.N	Food:watermelon.N	A large, sprawling annual plant with coarse, hairy pinnately-lobed leaves and white to yellow flowers.	2766	8-99954		
 Food:Citrus sinensis.N	Agriculture/Plant:orange (fruit).N	A fruit of the citrus species citrus x sinensis.	2627			
 Food:Coffea.N	Food:coffee.N	A beverage made by infusing the beans of the coffee plant in hot water.	1299	23-91		3478
+Food:cook (tv).V	Food:cook (something).V	To prepare a meal or a single dish.	1100	5-21	zubereiten::V	
 Food:cream.N				5-9991		
 Food:dinner.N	Food:dinner (supper).N	A meal that is eaten in the late afternoon or evening daily.	1833	5-44		
-Food:drink.V	Body:drink.V	drink 				721
+Food:drink.V	Food:drink.V	To consume a liquid through the mouth.	1401	5-13	trinken::V	721
+Food:feed.V	Food:feed.V	To give food.	739		füttern::V	
 Food:fermented alcohol.N	Food:alcohol (fermented drink).N	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	404	5-94		
 Food:Ficus carica.N	Food:fig.N	The fruit of the fig tree, pear-shaped and containing many small seeds.	322	5-75		
 Food:flour.N	Food:flour.N	Ground or milled grain or cereal.	1594	5-55		3410
+Food:fork.N	Food:fork.N	A utensil with spikes used to put solid food into the mouth.	1302	5-39	Gabel::N	
 Food:Glycine max.N	Food:soya bean.N	The edible seed of the soybean plant which contains a lot of protein.	2028			
 Food:griddle.N		A metal or stone flat plate on which food is fried or baked.		7-99903		
 Food:infusion.N	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.				
@@ -1085,8 +1119,10 @@ Food:Malus domestica.N	Agriculture/Plant:apple.N	The popular, crisp, round fruit
 Food:Metroxylon sagu.N	Food:sago.N	Starch extracted from the spongy centre, or pith, of various tropical palm stems, especially Metroxylon sagu.	2270			
 Food:Musa acuminata.N	Agriculture/Plant:banana.N	The fruit of the banana tree.	868	8-84		
 Food:Musa balbisiana.N	Agriculture/Plant:plantain.N	A kind of banana that is normally cooked and not eaten raw.	399			
+Food:mush.N	Food:mush (food).N	A kind of porridge that is prepared by boiling it with water or milk until thick.	3651		Brei::N	
 Food:NaCl.N	Food:salt.N	A condiment (NaCl - Sodium Chloride) used to add to or enhance the flavour of food (commonly with pepper).	1274	5-81	Salz::N	3466
 Food:noodle.N	Food:noodle.N	A string or strip of pasta, especially as used in Chinese and Italian cookery.	973			
+Food:oil.N	Food:oil (organic substance).N	Fat from animals or plants in a liquid form.	1484	5-79	Öl::N	
 Food:pizza.N	Food:pizza.N	An Italian dish consisting of a flat base of leavened wheat-based dough topped with tomato, cheese, and other ingredients.				3425
 Food:Prunus armeniaca.N	Food:apricot.N	A fruit of orange color with a fuzzy peel and a black seed inside, similar to a peach or plum of a tree from the family Prunus armeniaca.	3730			
 Food:salad.N	Food:salad.N	A food made primarily of a mixture of raw or cold ingredients, typically vegetables, usually served with a dressing such as vinegar or mayonnaise.				3460
@@ -1097,6 +1133,7 @@ Food:Solanum lycopersicum.N	Food:tomato.N	The savoury fruit of the Solanum lycop
 Food:soup.N	Food:soup.N	A cooked, liquid dish (made from meat or vegetables that are mixed with broth in a pot) that is often sold in tins.	1547	5-64	Suppe::N	3462
 Food:spoon.N	Food:spoon.N	An implement for eating or serving, a small bowl with a long straight handle.	1378	5-37	Löffel::N	1230
 Food:supper.N	Food:supper.N	The last meal of the evening.		5-45		3489
+Food:swallow.V	Food:swallow.V	The reflex in the human body that makes something pass from the mouth to the pharynx and into the esophagus, with the shutting of the epiglottis.	897	5-181	schlucken::V	724
 Form:bend (sth).V	Action/Technology:bend (something).V	To carry out a movement to turn something into a curved shape.	2224		biegen::V	
 Form:bend.V	Action/Technology:bend.V	Movement that causes the formation of a curve.	2004	9-14	beugen::V	
 Form:triangle.N	Form:triangle.N	A triangle is a polygon with three corners and three sides, one of the basic shapes in geometry				3526
@@ -1194,6 +1231,7 @@ Grooming:necklace.N	Clothing/Grooming:necklace.N	An article of jewelry that is w
 Grooming:ointment.N	Clothing/Grooming:ointment.N	A semisolid preparation intended for external application to the skin or mucous membranes. (source: UMLS)	1926	6-94		
 Grooming:ornament.N	Clothing/Grooming:ornament.N	An element of decoration.	917	6-71		
 Grooming:razor.N	Clothing/Grooming:razor.N	A bladed tool used for the removal of body hair through the act of shaving.	151	6-93		
+Grooming:ribbon.N	Action/Technology:ribbon.N	A ribbon is a thin band of material, typically cloth but also plastic or sometimes metal, used primarily as decorative binding and tying.	2969		Band::N	
 Grooming:ring.N	Clothing/Grooming:ring.N	A round piece of (precious) metal worn around the finger.	1374	6-73	Ring::N	
 Grooming:shave.V	Clothing/Grooming:shave.V	To cut the hair close to the skin with a razor.	231			
 Grooming:shower.V	Clothing/Grooming:shower (action).V	Douse oneself in a stream of water in order to clean oneself.	3128			
@@ -1296,6 +1334,7 @@ House:door knocker.N	Modernity:door knocker.N	An item at a door that allows peop
 House:escalator.N	Modernity:escalator.N	A moving staircase.	2596			
 House:guestroom.N		A room for guests.		7-99904		
 House:kitchen.N	House:kitchen.N	A room equipped for preparing and cooking food.	1365			1535
+House:live.V	House:dwell (live, reside).V	To live or dwell at home.	363	7-11	wohnen::V	1556
 House:mattress.N	Modernity:mattress.N	A pad on which a person can recline and sleep.	105	23-53		
 House:pillow.N	House:pillow.N	Cushion placed under the head for sleeping.	1044	7-421	Kissen::N	1343
 House:rug.N	Action/Technology:rug.N	A piece of thick cloth or wool that is smaller than a carpet and is put on the floor as decoration.	292	9-771		1487
@@ -1314,6 +1353,8 @@ Hunting:hunter.N	Combat/Hunting:hunter.N	A person who hunts game.	1053
 Hunting:hunting dog.N	Combat/Hunting:hunting dog.N	A type of canine bred for hunting or a dog trained to assist humans with hunting.	3380			
 Hunting:net fishing.V	Action/Technology:fishing (with a net).V	To hunt for fishes by using a fishnet.	2639			
 Hunting:net.N	Action/Technology:net (for catching).N	A grid-like device used for fishing and sports.	2653			
+Hunting:trap.N	Combat/Hunting:trap (pitfall).N	A device for catching and holding animals.	1075	20-64	Falle::N	1223
+Hunting:trap.V	Combat/Hunting:trap (catch).V	To catch in a trap, to immobilize.	1170	20-65	fassen::V	
 Integrity:part.N	Quantity:part.N	A separate unit of a larger whole. All parts are needed to complete the whole thing.	779	13-23	Teil::N	2660
 Integrity:piece.N	Quantity:piece.N	A part that is broken, cut or separated from something larger and is usable on its own.	594	13-231	Stück::N	2661
 Integrity:whole.A	Space:whole.A	In its entirety.	2277			2640
@@ -1343,6 +1384,8 @@ Law:verdict.N				21-99902
 Literature:alphabet.N	Communication:alphabet.N	alphabet				2243
 Material:brass.N	Action/Technology:brass.N	The copper-zinc alloy. A yellow-colored metal made of the mixture of copper and zinc and used in the making of decorations and musical instruments.	3743			3321
 Material:canvas.N		A type of coarse cloth, woven from hemp, useful for making sails and tents or as a surface for paintings.		9-99905		
+Matter:ash.N	Nature:ash.N	The incombustible matter remaining after a substance has been incinerated.	646	1-84	Asche::N	
+Matter:ignite.V	Nature:light (ignite).V	To start a fire or light a flame.	737	1-86	anzünden::V	
 Matter:rust.N	Action/Technology:rust.N	Any of various metallic coatings formed by corrosion, especially after oxidation in presence of water.	3064	9-99916		3549
 Matter:rusty.A	Nature:rusty.A	Having been affected by rust.	3870			
 Motion:approach.V	Motion:approach.V	To come near to; to move towards.	1778	10-56		
@@ -1362,12 +1405,18 @@ Motion:drag.V	Action/Technology:drag.V	To draw slowly or heavily.	2030		schleppe
 Motion:drop (something).V	Action/Technology:drop (something).V	To let something fall down.	2866	10-16	fallen lassen::V	
 Motion:enter.V	Motion:enter.V	To go into.	749	10-57	hineingehen::V	3036
 Motion:fall.V	Motion:fall.V	To descend in free fall due to the effect of gravity.	1280	10-23	fallen::V	
+Motion:flee.V	Motion:flee.V	Leaving a dangerous or unpleasant situation.	956	10-51	fliehen::V	
+Motion:flow.V	Motion:flow.V	To move as a fluid from one position to another (e.g. of water or of people).	2003	10-32	fließen::V	
 Motion:fly.V	Motion:fly (move through air).V	To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	1441	10-37	fliegen::V	3038
 Motion:follow.V	Motion:follow.V	To go or come after (in physical space) someone or something.	1085	10-52		
 Motion:go.V	Motion:go.V	To get from one place to another by any means.	695	10-47	gehen::V	3001
+Motion:halt.V	Action/Technology:halt (stop).V	To halt one’s movement.	2880		anhalten::V	
+Motion:jump.V	Motion:jump.V	To propel oneself rapidly upward such that momentum causes the body to become airborne.	1829	10-43	springen::V	703
 Motion:leave.V	Motion:leave.V	To move away from a place, a situation or a talk.	1752	10-49	weggehen::V	3003
 Motion:lift.V	Motion:lift.V	To cause an object to have a higher location than previously.	501	10-22	hochheben::V	
 Motion:move (oneself).V	Action/Technology:move (oneself).V	To get oneself in motion in order to arrive at some other place.	2874		sich bewegen::V	
+Motion:pull.V	Action/Technology:pull.V	To apply a force to (an object), in order that it moves towards the origin of the force that was applied.	1455	9-33	ziehen::V	3765
+Motion:push.V	Motion:push.V	To apply a force to (an object), in order that it moves away from the origin of the force that was applied.	1452	10-67	schieben::V	3767
 Motion:raise.V	Motion:raise.V	To cause to rise; to move something from a lower position to a higher one.	1317		heben::V	
 Motion:ride.V	Motion:ride.V	To transport oneself by sitting on and directing an animal.	367	10-66		3048
 Motion:roll.V	Motion:roll.V	To move like a ball/cylinder by turning over and over.	827	10-15		3049
@@ -1377,6 +1426,7 @@ Motion:swing (sth).V	Action/Technology:swing (something).V	To set something in s
 Motion:swing.N	Action/Technology:swing.N	Tool used for play with a seat hanging from ropes.	3101			
 Motion:swing.V	Action/Technology:swing (movement).V	To move freely to and fro.	2871		schwingen::V	
 Motion:take a walk.V	Action/Technology:walk (take a walk).V	To wander around.	2890		spazierengehen::V	
+Motion:throw.V	Motion:throw.V	To cause (an object) to move rapidly through the air, with the force of the hand or arm.	1456	10-25	werfen::V	
 Motion:trail.N		The track or indication marking the route followed by something that has passed, such as the footprints of animal on land or the contrail of an airplane in the sky.		9-99924		
 Motion:turn (sth).V	Motion:turn (something).V	To position by moving an object around its axis.	1445	10-12	wenden::V	3052
 Motion:turn.V	Motion:turn.V	To change the direction of movement or the direction in which something is facing.	1588			3053
@@ -1408,6 +1458,7 @@ Music:tone.N	Perception:tone (music).N	Traditionally in Western music, a musical
 Music:violin.N				18-99906		
 Music:violinist.N				18-99907		
 Music:whistle instrument.N	Action/Technology:whistle (instrument).N	Wind instrument most often made out of metal or wood used for producing a loud, shrill tone.	3107			
+Nature:brook.N	Nature:brook.N	A very shallow flowing body of water smaller than a creek that can easily be crossed.	3821		Bach::N	
 Nature:flame.N	Nature:flame.N	A bright yellow, red or bluish light which emerges during combustion processes.	889	1-82		
 Nature:flame.V		To be on fire and producing especially bright flames		1-99911		
 Nature:nature.N	Agriculture/Plant:nature.N	The physical world including all living things as well as the land and the seas.	3897			
@@ -1466,13 +1517,15 @@ Perception:feel.V	Action/Technology:feel (tactually).V	To sense something by tou
 Perception:feeling sense.N	Perception:feeling (haptic sense).N	The sense that enables to perceive surfaces of things.	2521			
 Perception:hear or listen.V	Perception:hear or listen.V	To perceive sound with the ear, with or without paying attention to it.	3862		vernehmen::V	
 Perception:hear.V	Perception:hear.V	To perceive sound with the ear, without necessarily paying attention to it.	1408	15-41	hören::V	861
+Perception:look.V	Perception:look.V	To actively use one's eyes.	1819	15-52	anschauen::V	
 Perception:pain.N	Emotion:pain.N	An unpleasant, usually localised physical sensation that is often the result of an injury, disease or other ailment.	1783	16-31	Schmerz::N	881
 Perception:painful.A	Perception:painful.A	Full of pain; causing uneasiness or distress, either physical or mental.	1129			
 Perception:touch.V	Perception:touch.V	To put one's hand on something/someone so that one can feel them. To be in physical contact with.	1892	15-71	berühren::V	750
+Perception:visible.A	Perception:visible.A	That one can see.	1868		zu sehen sein::V	
 Perception:wet.A	Perception:wet.A	Covered with or impregnated with liquid.	1726	15-83	nass::A	3620
-Perception:yellow.A	Perception:yellow.A	Having the colour of a yolk, a lemon or gold.	1424	15-69	gelb::A	839
 Plant:Adesmia campestris.N		The mamuelchoique, a kind of shrub of species Adesmia campestris.		8-99929		
 Plant:Aglaia odorata.N		A shrub or small tree in the mahogany family, from south China and Indo-China, grown ornamentally for the handsome leaves and fragrant flowers, which are tiny, round, and yellow; clusters of them are used for leis.		8-99912		
+Plant:Allium cepa.N	Agriculture/Plant:onion.N	A vegetable and is the most widely cultivated species of the genus Allium.	2366	8-99935	Zwiebel::N	1090
 Plant:Ananas comosus.N	Agriculture/Plant:pineapple.N	A tropical plant with edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.	2440	8-99939		
 Plant:Annona montana.N	Agriculture/Plant:mountain soursop (annona montana).N	Type of tree found in the Amazon	3936			
 Plant:Annona squamosa.N		A West Indian tree that bears edible fruit.				
@@ -1537,6 +1590,7 @@ Possession:generous.A	Emotion:generous.A	Willing to give more than expected, esp
 Possession:gift.N	Action/Technology:gift.N	A gift or a present is an item given to someone without the expectation of payment or return.	2982	11-99903	Geschenk::N	
 Possession:gratis.A	Possession:gratis (of charge).?	Free of charge, without cost.	130	11-99901		
 Possession:greedy.A	Emotion:greedy.A	Excessively desirous of money, wealth or possessions.	2018	16-83		
+Possession:keep.V	Possession:keep.V	To retain possession of something.	1477	11-17	aufbewahren::V	
 Possession:market.N	Possession:market.N	Place of commercial activity in which articles are bought and sold.	633	11-85		1598
 Possession:poor person.N	Possession:poor person.N	A person with little or no possessions or money.	3662			
 Possession:poor.A	Possession:poor.A	With little or no possessions or money.	1674	11-52	arm::A	1716
@@ -1708,8 +1762,11 @@ Quantity:99.NUM	Quantity:ninety nine.NUM	The natural number ninety-nine (99).	35
 Quantity:999.NUM	Quantity:nine hundred and ninety nine.NUM	The natural number nine hundred and ninety-nine (999).	3521			
 Quantity:a little.A	Quantity:a little.A	More than one, but not as much as usual or as expected. (for mass nouns)	2924	13-99901	ein wenig::ADV	
 Quantity:add.V	Action/Technology:add.V	Join or unite so as to bring about an increase.	2882		hinzufügen::V	
+Quantity:all.PRO	Quantity:all.?	The totality of.	98	13-14	alles::PRN	
 Quantity:by.ADP		Distributive numeral marker.		13-99902		
 Quantity:calculate.V	Modernity:calculate.V	To determine by mathematical processes.	2867		rechnen::V	2003
+Quantity:count.N	Quantity:count (quantity).N	The total number of individual things in a given unit or sample obtained by counting all or a subsample of them.	2945		Anzahl::N	
+Quantity:count.V	Quantity:count.V	To determine the amount of something or to enumerate the digits of one's numeral system.	1420	13-107	zählen::V	
 Quantity:decrease.V	Action/Technology:decrease.V	To become smaller in number or size.	2864		abnehmen::V	
 Quantity:empty.A	Quantity:empty.A	Without content.	1624	13-22	leer::A	2686
 Quantity:enough.ADV	Quantity:enough.?	All that is required, needed, or appropriate.	1881	13-18		2731
@@ -1724,16 +1781,21 @@ Quantity:more.A	Quantity:more.A	more (a larger quantity of) 				2645
 Quantity:most.A	Quantity:most.A	most (the largest quantity of) 				2646
 Quantity:much.A	Cognition:much.?	An indefinite large number of. (for mass nouns)	3452			2644
 Quantity:multiply.V	Quantity:multiply.V	multiply 				2624
+Relation:alone.A	Quantity:alone.A	Without any others being included or involved.	1964	13-331	allein::ADV	
 Relation:identity.N	Cognition:identity.N	A persisting state of being the same for an entity or someone, from an objective or a subjective standpoint.	3960			
 Relation:kind.N	Cognition:kind (thing).N	A category of things distinguished by a common characteristic or quality.	844		Art::N	
 Relation:main.A	Cognition:main.?	The most important element.	1078			
 Relation:necessary.A	Cognition:necessary.?	Needed for a purpose or a reason.	1030			
 Relation:necessity.N	Cognition:necessity.N	Something that needs to be done.	422			
 Relation:strange.A	Cognition:strange.A	Out of the ordinary.	600			1965
+Relation:together.ADV	Space:together.?	In proximity to each other (of two things).	2482		zusammen::ADV	
 Society:emperor.N	Society:emperor.N	The supreme leader of an empire.	3377			
 Society:help.N	Society:help.N	The act of helping someone.	3467		Hilfe::N	
 Society:help.V	Society:help.V	To give assistance or aid to.	1897	19-58		2155
+Society:meet.V	Society:meet.V	To encounter a person, either intentionally or by chance.	1831	19-65	treffen::V	3040
 Society:people.N	Society:people.N	A group of persons forming or belonging to a particular nation, class, ethnic group, country, family, etc.	789	19-21	Volk::N	
+Society:world.N	Nature:world.N	A planet or another domain with all its inhabitants and all things upon it.	965	1-1	Welt::N	1101
+Sound:bark.V	Animal:barking.V	To produce a loud, short, explosive sound similar to that of a dog.	1206		bellen::V	
 Sound:be silent.V	Language:be silent.V	To stop speaking or making noise.	48	18-23		
 Sound:bell.N	Action/Technology:bell.N	A simple sound-making device.	2246			
 Sound:chime.V	Modernity:chime (action).V	To ring the bells.	2897		läuten::V	
@@ -1766,7 +1828,22 @@ Sound:whisper.V	Language:whisper.V	To speak in a quiet voice, without vibration 
 Sound:whistle.V	Language:whistle.V	To make a sound or a melody by forcing the breath out between closed lips.	1025	18-17	pfeifen::V	
 Space:apart.ADV	Direction:apart.ADV	apart 		12-99901		2950
 Space:back.ADV	Space:back (direction).?	Toward the previous place or condition where one came from.	2910	12-99902	zurück::ADV	2921
+Space:cover.V	Space:cover.V	To place something over or upon to conceal or protect.	761	12-26	bedecken::V	1252
+Space:east.N	Space:east.N	One of the four principal compass points, specifically 90°, conventionally directed to the right on maps. The direction of the rising sun.	1877	12-45	Osten::N	2914
 Space:encircle.V	Action/Technology:encircle.V	To enclose or cause to be enclosed; to surround; to confine.	3274			
+Space:everywhere.PRO	Space:everywhere.?	In all places.	2999		überall::ADV	
+Space:flat.A	Space:flat.A	Having no variations in altitude.	1633	12-71	flach::A	
+Space:from here.ADV	Space:from here.?	Directed from here towards another direction.	2927		von hier::ADV	
+Space:in front of.ADP	Space:in front of.?	In front of in space	1883	12-041	vor::PRP	
+Space:north.N	Space:north.N	One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map.	1598	12-47	Norden::N	2910
+Space:open.V	Space:open.V	To make the inside something accessible by moving an obstacle aside (e.g. a door or covering), or to move said obstacle.	1156	12-24	öffnen::V	
+Space:pick up.V	Space:pick up.V	To lift; to grasp and raise; to collect.	371	12-212	aufheben::V	
+Space:separate.V	Space:separate.V	To cause something or someone to move away from something or someone else.	1359	12-23	sich trennen::V	
+Space:shut.A	Space:closed.A	Closed and inaccessible.	589		geschlossen::A	3626
+Space:shut.V	Space:shut.V	To move (a door, a window, etc.) so that it closes its opening.	1046	12-25	schließen::V	
+Space:south.N	Space:south.N	One of the four major compass points, specifically 180°, directed toward the South Pole, and conventionally downwards on a map.	1595	12-48	Süden::N	2912
+Space:under.ADP	Space:below or under.?	Situated in a lower place than something else.	1485	12-07	unter::PRP	
+Space:west.N	Space:west.N	One of the four principal compass points, specifically 270°, conventionally directed to the left on maps. The direction of the setting sun.	1817	12-46	Westen::N	2916
 Space:wide.A	Space:wide.A	Having a long distance or area between two points, especially horizontally.	1243	12-61	breit::A	2826
 Storage:bag.N	Action/Technology:bag.N	A container that stores things and is small enough so that one can wear it.	2468	6-99901	Tasche::N	
 Storage:bamboo basket.N	Action/Technology:bamboo basket.N	A basket from bamboo that is carried on the back.	3360			
@@ -1795,6 +1872,7 @@ Storage:sack.N	Action/Technology:sack.N	A specific bag used to store or carry it
 Storage:tin (can).N	Modernity:tin (can).N	A tin-plate canister, often cylindrical, for preserved foods such as fruit, meat, or fish.	1582			1307
 Storage:vase.N	Modernity:vase.N	An often round vessel which is used for decoration or for holding cut flowers.	3746			
 Time:afternoon.N	Time:afternoon.N	The part of the day which follows noon, between noon and evening.	1807	14-451		3287
+Time:again.ADV	Time:again.?	Once more.	204	14-35	wieder::ADV	
 Time:age.N	Time:age.N	The amount of time that a person, animal or plant has lived or that an object has existed.	1789	14-12	Alter::N	3211
 Time:already.ADV	Time:already.?	Prior to a specified point in time.	2576		schon::ADV	3245
 Time:always.ADV	Time:always.?	At all times.	1676	14-31	immer::ADV	3242
@@ -1802,16 +1880,26 @@ Time:April.N	Time:april.N	The 4th month of the Gregorian calendar.	2847		April::
 Time:August.N	Time:august.N	The 8th month of the Gregorian calendar.	2851		August::N	4008
 Time:autumn or harvest season.N	Time:autumn or harvest season.?	The time during which crops are typically harvested, often co-occurring with the season of autumn.	3327			
 Time:autumn.N	Time:autumn.N	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.	1276	14-77	Herbst::N	3272
+Time:be late.A	Time:be late.A	To be later than the expected time.	425	14-24		
+Time:before.ADV	Time:before.?	At a time before that.	1882	12-04	vorher::ADV	
+Time:begin or beting sth.V	Time:begin or start.V	To begin doing an activity, or (of an activity) to begin.	3447		beginnen::V	3235
+Time:begin sth.V	Time:begin.V	To begin an activity.	1806	14-25	anfangen::V	
+Time:begin.V	Time:start.V	(Of an activity) to begin.	3449			
+Time:beginning.N	Time:beginning.N	The beginning of an activity or event.	1557	14-251		
 Time:calendar.N	Modernity:calendar.N	A table showing the months and days of the year.	1967	23-61		
 Time:Chinese New Year.N				14-99901		
 Time:December.N	Time:december.N	The 12th month of the Gregorian calendar.	2855		Dezember::N	4012
 Time:dry season.N	Time:dry season.N	Yearly period of low rainfall in the tropics.	452			
+Time:early.A	Time:early.A	Before the expected time or towards the beginning of a time period.	672	14-16		3250
+Time:evening.N	Time:evening.N	That part of the day in which daylight decreases and the night falls.	1629	14-46	Abend::N	
 Time:February.N	Time:february.N	The second month of the Gregorian calendar, having 29 days in a leap year and 28 in other years.	2037		Februar::N	4002
 Time:final.A	Quantity:last (final).?	The last, after all the others.	1529	13-35	letzter::A	3261
+Time:finish.V	Time:finish.V	To end something, to bring something to a conclusion.	1766	14-27	beenden::V	
 Time:future.A	Time:-to-be.A	Something that will be but is not yet, for example future bride or bride-to-be.				3210
 Time:future.N	Time:future.N	The future is what will happen in the time after the present.	2427			
 Time:hot season.N	Time:hot season.N	Period of the year associated with hot or warm weather.	3047			
 Time:hour.N	Time:hour.N	A time period of sixty minutes; one twenty-fourth of a day.	1353	14-51		3291
+Time:immediately.ADV	Time:immediately.?	In an immediate manner; instantly or without delay.	1963	14-19	auf einmal::ADV	
 Time:January.N	Time:january.N	The first month of the Gregorian calendar, having 31 days.	2036		Januar::N	4001
 Time:July.N	Time:july.N	The 7th month of the Gregorian calendar.	2850		Juli::N	4007
 Time:June.N	Time:june.N	The 6th month of the Gregorian calendar.	2849		Juni::N	4006
@@ -1850,6 +1938,7 @@ Time:second.N	Time:second.N	A time period of 1/60th of a minute.				3293
 Time:September.N	Time:september.N	The 9th month of the Gregorian calendar.	2852		September::N	4009
 Time:short dry season.N				1-99909		
 Time:short.ADV	Time:short (time).?	For a brief period or a short amount of time.	3312			3232
+Time:soon.ADV	Time:soon.?	In a near future.	703	14-331	bald::ADV	
 Time:springtime.N	Time:springtime.N	Traditionally the first of the four seasons, the season of growth with an ever increasing amount of daytime.	1537	14-75	Frühling::N	3270
 Time:still.ADV	Time:still (continuing).?	Continuance of motion or state even until the time mentioned.	2919		noch::ADV	3246
 Time:summer.N	Time:summer.N	Traditionally the second of the four seasons regarded as being from June 21 to September 20 (or just June, July and August) in the Northern Hemisphere and from December 21 to March 20 (or just December, January and February) in the Southern Hemisphere.	1342	14-76	Sommer::N	3271
@@ -1910,20 +1999,45 @@ Value:compare.V	Action/Technology:compare.V	To estimate something in terms of si
 Value:duty.N	Emotion:obligation (duty).N	Either a moral or legal responsibility to accomplish a certain task.	3471			
 Value:equal.A	Grammar:equal.A	Having a specified quality that another has.	1570			2404
 Value:ethics.N		The science of human duty that investigates what people ought to do or which behavior is morally right.				
+Value:fault.N	Emotion:fault.N	Responsibility for a wrong act done deliberately or a good act omitted deliberately.	134	16-76	Schuld::N	
 Value:good.A	Emotion:good.A	Having desired or positive qualities.	1035	16-71	gut::A	1905
 Value:important.A	Emotion:important.A	Having relevant and crucial value.	1285			2023
 Value:improve.V	Action/Technology:improve (something).V	Improvement is the process of a thing moving from one state to a state considered to be better, usually through some action intended to bring about that better state.	2872		verbessern::V	
+Value:in vain.ADV	Grammar:in vain.?	Without success, without the desired effect.	1765	16-99902	vergebens::ADV	
 Value:right.N	Government:right.N	That which is due to individuals, like a right right to do or to be something.				1603
 Value:value.N		The degree of importance of some thing or action with the aim of determining which actions are best to do.				
 Value:worse.A		Worse, the comparative of bad.		16-99915		
+Vision:black or dark.A	Perception:black or dark.A	Either the color or the absence of light.	2633			
+Vision:black.A	Perception:black.A	Dark and colourless; not reflecting visible light.	163	15-65	schwarz::A	831
+Vision:blacken.V	Action/Technology:blacken.V	To change the color of something into black.	2808			
+Vision:blind.A	Body:blind.A	Unable to see.	1653	4-97	blind::A	
+Vision:blue or green.A	Perception:blue or green.A	Having green or blue as color.	2382			
+Vision:blue.A	Perception:blue.A	Having the pure color of a clear sky; the primary color between green and violet in the visible spectrum, an effect of light with a wavelength between 450 and 500 nm.	837	15-67	blau::A	843
+Vision:bright yellow.A	Perception:bright yellow.A	A very intense variant of the color yellow.	3751			
+Vision:bright.A	Perception:bright.A	bright (with much light present) 				824
+Vision:brilliant.A	Perception:brilliant.A	(Of a color) having a high saturation and reflecting a considerable amount of light.	3709			
+Vision:brown.A	Perception:brown.A	Having a brown color.	2409	15-99901		847
+Vision:color.N	Perception:color.N	color				830
+Vision:darkness.N	Nature:darkness.N	Absence of light.	11	1-62		
+Vision:green.A	Perception:green.A	Having green as its colour; having the hue of that portion of the visible spectrum lying between yellow and blue, evoked in the human observer by radiant energy with wavelengths of approximately 490 to 570 nanometers.	1425	15-68	grün::A	841
+Vision:grey.A	Perception:grey.A	Having a colour between black and white, like ash or stone.	153	15-99902	grau::A	832
+Vision:orange.A	Perception:orange (color).A	A bright reddish-yellowish colour.	3328	15-99903		837
+Vision:pink.A	Perception:pink.A	Having pink as its colour.	3446	15-99904		
+Vision:purple.A	Perception:purple.A	Having purple as its color.	2452			845
+Vision:red.A	Perception:red.A	Having red as its colour.	156	15-66	rot::A	835
+Vision:white.A	Perception:white.A	Bright and colourless; reflecting equal quantities of all frequencies of visible light.	1335	15-64	weiß::A	833
+Vision:yellow.A	Perception:yellow.A	Having the colour of a yolk, a lemon or gold.	1424	15-69	gelb::A	839
 Work:difficult.A	Cognition:difficult.A	Not easy, which needs hard work, patience and effort of either the physical or mental kind.	584	17-47		3933
 Work:easy.A	Cognition:easy.A	Requiring little skill or effort; posing no difficulty.	686	17-46		3932
+Work:lazy.A	Body:lazy.A	Unwilling to do work or make an effort.	1564	4-92	faul::A	
 Work:repair.V	Action/Technology:repair.V	To restore something by replacing a broken part or putting together what is broken.	2243		reparieren::V	
 Work:result in.V	Cognition:result in.V	Having a specific result, a logical consequence.	1723		geraten::V	
 Work:skilled.A	Action/Technology:skilled.A	Experienced and clever, professional.	807			
 Work:succeed.V	Cognition:succeed.V	To attain a desired goal.	1112		gelingen::V	
 Work:tool.N	Action/Technology:tool.N	A mechanical device intended to make a task easier.	1361	9-422		
 Work:try.V	Cognition:try.V	To attempt to do something.	1812	17-48	versuchen::V	
+Work:work.N	Action/Technology:work (labour).N	Productive activity, service, trade, or craft for which one is regularly paid.	984	9-12	Arbeit::N	
+Work:work.V	Action/Technology:work (activity).V	To do a specific task by employing physical or mental powers.	1086		arbeiten::V	
 Work:worker.N	Modernity:worker.N	Somebody who works.	2977		Arbeiter::N	
 Work:workshop.N	Modernity:workshop.N	A room or building in which work, especially mechanical work, is carried on.	1677	23-58		
 	Action/Technology:accustom.V	Get used to something.	1118			
@@ -1936,7 +2050,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Action/Technology:because of.?	For the reason of.	2918		wegen::PRP	171
 	Action/Technology:become extinguished.V	Being stopped from burning or emitting light.	2209			
 	Action/Technology:birth (accouchement).N	The process of giving birth to a child.	2805			
-	Action/Technology:blacken.V	To change the color of something into black.	2808			
 	Action/Technology:break (breaking).V	To come apart or split into pieces (intransitive).	3020			
 	Action/Technology:break (cleave).V	To divide something with force in two or more parts.	2558		zerbrechen::V	
 	Action/Technology:break (destroy or get destroyed).V	To divide or be divided into pieces and thereby damaged.	680	9-26	brechen::V	
@@ -1993,13 +2106,11 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Action/Technology:get dizzy.V	Experience an impairment in spatial perception and stability.	2712			
 	Action/Technology:get drunk.V	Activity of drinking alcoholic beverages that leads to having an altered conciousness.	3980			
 	Action/Technology:get lost.V	To end up in an unknown place, to be not to be found again, to get lost, to irrecoverably slip away.	423			
-	Action/Technology:get up from bed.V	To leave one's place of sleeping.	3350		aufstehen::V	
 	Action/Technology:glass.N	A hard, amorphous, inorganic, usually transparent, brittle substance made by fusing silicates, sometimes borates and phosphates, with certain basic oxides and then rapidly cooling to prevent crystallization.	604	9-74	Glas::N	
 	Action/Technology:glasses.N	Frames bearing lenses worn in front of the eyes used for vision correction.	2292			
 	Action/Technology:glue.N	Substance used for sticking objects together.	1069	9-56		
 	Action/Technology:gnaw.V	Treat some material with one's teeth.	2706			
 	Action/Technology:gridiron.N	Wooden grill used to dry or smoke meat or fish	3932			
-	Action/Technology:halt (stop).V	To halt one’s movement.	2880		anhalten::V	
 	Action/Technology:handle.N	A part of an object meant to hold that object with (e.g. the handle of a mug, pan or bag).	1254		Griff::N	
 	Action/Technology:hang up.V	To put up to hang.	357	9-341	aufhängen::V	
 	Action/Technology:hang.V	Remain suspended to some point above.	2884		hängen::V	
@@ -2062,14 +2173,11 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Action/Technology:protect.V	To prevent something or somebody from being harmed.	2900		schützen::V	
 	Action/Technology:pull off (skin).V	To strip or pull off the skin or hide of.	291	9-29		
 	Action/Technology:pull out.V	To pull something out.	2325			
-	Action/Technology:pull.V	To apply a force to (an object), in order that it moves towards the origin of the force that was applied.	1455	9-33	ziehen::V	
 	Action/Technology:put in order.V	To arrange something in a tidy manner.	3459			
 	Action/Technology:quickly.A	To carry out an action in a quick manner.	3365			
-	Action/Technology:raise (bring up).V	To take care of an infant or some other living creature, usually until it can live independently.	2134	8-99962	aufziehen::V	
 	Action/Technology:rake (something).V	The act of moving a tool over a surface in order to level or clean it.	3127			
 	Action/Technology:recommend.V	To suggest something or somebody.	2759			
 	Action/Technology:result.N	The final outcome or consequence of a causal chain, operation or set of circumstances.	3969			
-	Action/Technology:ribbon.N	A ribbon is a thin band of material, typically cloth but also plastic or sometimes metal, used primarily as decorative binding and tying.	2969		Band::N	
 	Action/Technology:ring (make sound).V	Ring most broadly refers to a hollow circular shape or to a high-pitched sound.	2875		klingeln::V	
 	Action/Technology:rinse.V	To clean by pouring water over the objects.	2904		spülen::V	
 	Action/Technology:roar (of sea).V	A sound emitted by a stormy sea.	2876		brausen::V	
@@ -2095,7 +2203,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Action/Technology:stab.V	To perforate the surface of something with a pointed tool or weapon.	1434			
 	Action/Technology:steel.N	Alloys of iron and carbon, widely used in construction and other applications because of their high tensile strengths and low costs.	2343			
 	Action/Technology:steelyard (balance).N	Straight balance with arms of unequal length.	2687			
-	Action/Technology:stop doing.V	To stop doing the action one was doing.	3351		aufhören::V	
 	Action/Technology:strap.N	A strap is an elongated flap or ribbon, usually of fabric or leather.	2973		Riemen::N	
 	Action/Technology:stretch.V	To lengthen by pulling.	214	9-32		
 	Action/Technology:strike (something).V	To intentionally hit something with a sharp blow or to impel, usually with a hand.	3309		hauen::V	
@@ -2126,10 +2233,7 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Action/Technology:untie.V	To loosen, as something interlaced or knotted; to disengage the parts of. To unbind, to free from restraint.	352	9-161		
 	Action/Technology:use (verb).V	To employ an object, often to reach a certain goal; to put into service.	2072			
 	Action/Technology:warm up.V	To make warm or warmer.	2032			
-	Action/Technology:watch.V	To have one's eyes, one's attention on something or someone.	1650		ansehen::V	
 	Action/Technology:wave (verb).V	To move one's hand or arm in a waving motion, with or without holding something like a flag.	3544			
-	Action/Technology:work (activity).V	To do a specific task by employing physical or mental powers.	1086		arbeiten::V	
-	Action/Technology:work (labour).N	Productive activity, service, trade, or craft for which one is regularly paid.	984	9-12	Arbeit::N	
 	Action/Technology:working or work.?	The process by which one produces something (sometimes also in exchange for money).	2281			
 	Adposition:about.ADP	about (pertaining to; on the topic of) 				170
 	Adposition:above.ADP	above, over 				120
@@ -2298,7 +2402,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Agriculture/Plant:oak.N	Any tree of the genus Quercus in the order Fagales, characterized by simple, usually lobed leaves, scaly winter buds, a star-shaped pith, and its fruit, the acorn, which is a nut; the wood is tough, hard, and durable, generally having a distinct pattern.	644	8-61		
 	Agriculture/Plant:oat.N	A species of grass (Avena sativa) grown for its seed.	60	8-46		
 	Agriculture/Plant:okra.N	A flowering plant in the mallow (Malvaceae) family valued for its edible pods; okro, ochro; ladies' fingers.	1737			
-	Agriculture/Plant:onion.N	A vegetable and is the most widely cultivated species of the genus Allium.	2366	8-99935	Zwiebel::N	
 	Agriculture/Plant:osmanthus fragrans.N	A small tree species native to Asia from the Himalayas through southern China.	2747			
 	Agriculture/Plant:palm tree.N	Any of various evergreen trees from the family Palmae or Arecaceae, which are mainly found in the tropics.	1181	8-81		
 	Agriculture/Plant:pandanus.N	Palm-like, dioecious trees and shrubs native to the Old World tropics and subtropics.	469			
@@ -2374,7 +2477,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Animal:bandicoot.N	Marsupial of Peramelemorphia order.	3012	3-99907		
 	Animal:barbel.N	European freshwater fish belonging to the family of carps (Cyprinidae), Genus of barbus.	524			
 	Animal:bark or shell.?	Cover of the bodies of animals and plants, including the hard exterior part of mollusks, oysters, etc.	3865			
-	Animal:barking.V	To produce a loud, short, explosive sound similar to that of a dog.	1206		bellen::V	
 	Animal:bat.N	A small, nocturnal, flying mammal of the order Chiroptera, which navigates by means of echolocation. It looks like a mouse with membranous wings extending from the forelimbs to the hind limbs or tail.	1793	3-591		
 	Animal:beaver.N	A mammal of the genus Castor, having a wide, flat tail and webbed feet.	1194	3-873		
 	Animal:bedbug.N	A small blood-sucking insect that lives in houses, especially beds.	1949			
@@ -2451,7 +2553,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Animal:drive (cattle).V	Cause animals to move while following them.	2868		treiben::V	
 	Animal:duiker.N	Any of several ruminants of the family Bovidae, chiefly of Africa and Asia, having permanent, hollow, unbranched horns.	1872			
 	Animal:eagle or hawk.N	Large carnivorous bird with a hooked bill and good vision.	2683			
-	Animal:eagle.N	Any of several large carnivorous birds in the family Accipitridae, having a powerful hooked bill and keen vision.	1905	3-584	Adler::N	
 	Animal:earthworm.N	A tube-shaped, segmented worm found in the phylum Annelida.	2350			
 	Animal:echidna.N	Egg-laying mammal of the Tachyglossidae family.	3008			
 	Animal:eggshell.N	The calcareous covering protecting the inside of an egg.	3857			
@@ -2484,7 +2585,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Animal:gibbon.N	Apes in the family Hylobatidae.	2511			
 	Animal:gill.N	The breathing organ of fish and other aquatic animals.	1916	3-654		
 	Animal:giraffe.N	A quadruped animal native to Africa, remarkable for the length of its legs and neck.	3089			
-	Animal:goose.N	Waterfowl of the Anatidae family.	1187	3-56	Gans::N	
 	Animal:goral.N	A small ungulate with goat-like and antelope-like appearance.	3259			
 	Animal:gorilla.N	Large, African ape covered in dark hair.	3144			
 	Animal:graze.V	To feed on grasses and herbage in a field or on pastureland.	3058			
@@ -2528,7 +2628,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Animal:kangaroo.N	A marsupial from the family Macropodidae having powerful hind legs and large feet for leaping.	164	3-88		
 	Animal:kingfisher.N	A group of small to medium-sized brightly colored birds in the order Coraciiformes.	2444	3-99923		
 	Animal:ladybug.N	Flying insect of the Coleoptera order.	3139			
-	Animal:lair.N	The resting or living place of a wild animal.	2949		Bau::N	
 	Animal:lamb.N	Young sheep.	820	3-29		
 	Animal:large wild herbivore.N	Wild herbivores, like deer or kangaroo, wo are traditionally hunted for their meat.	2456			
 	Animal:large-bullet-ant (subfamily paraponerinae).N	Common designation for carnivorous ants of the Paraponerinae subfamily	3935			
@@ -2589,7 +2688,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Animal:peck.V	(Of a bird) to move the beak forward quickly to strike, bite, or pick up something.	3684			
 	Animal:pelican.N	Large water birds comprising the family Pelecanidae. They are characterised by a long beak and large throat pouch used for catching prey and draining water from the scooped up contents before swallowing.	472			
 	Animal:penguin.N	Aquatic, flightless birds.	2831			
-	Animal:perch (fish).N	Perch is a common name for fish of the genus Perca, freshwater gamefish belonging to the family Percidae.	2966		Barsch::N	
 	Animal:perch (of bird).V	To land and rest on a perch, branch, fence, etc.	3682			
 	Animal:pheasant.N	Bird of the family Phasianidae.	3060			
 	Animal:pig dung.N	The faeces of a pig.	3379			
@@ -2792,7 +2890,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Belief:tell fortunes.V	To predict information about a person's future.	226			
 	Body:abdomen.N	abdomen				505
 	Body:abortion.N	An intervention in a pregnancy by removal or expulsion of an embryo or fetus resulting in termination of the pregnancy.	3866			
-	Body:ache.V	To be in continuous pain.	1815		schmerzen::V	
 	Body:adam's apple.N	A lump at the front of the neck.	802			
 	Body:alcoholic (person).N	A person who is affected by alcoholism in that they frequently drink alcohol which leads to addiction.	3867			
 	Body:alive.A	alive 				620
@@ -2800,17 +2897,14 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Body:appearance.N	The outward or visible aspect of a person or thing.	1017			
 	Body:apply (ointment).V	To put and spread some substance on the skin.	3650			
 	Body:bathe (someone).V	Clean someone else with water.	3170			
-	Body:bathe.V	To clean oneself by immersion in water.	138	4-69	baden::V	
 	Body:be alive or life.?	The act of being alive or the life itself.	3184			
 	Body:be alive.V	To be alive; to have a life.	1422	4-74	lebendig::A	
-	Body:be born.V	To start living.	1090	4-72	geboren werden::V	
 	Body:be dead or death or die.?	To be not alive or the end of a life or to cease to live.	3186			
 	Body:be dead or die or kill.?	To be not alive or to cease to live or to cause the end of a life.	3185			
 	Body:beget.V	(Especially of a male parent) to procreate or generate.	1152	4-71		
 	Body:birth.N	birth				603
 	Body:birthmark.N	A birthmark is a benign irregularity on the skin which is present at birth or appears shortly after birth, usually in the first month. Birthmarks are caused by overgrowth of blood vessels, melanocytes, smooth muscle, fat, fibroblasts, or keratinocytes.	1751			
 	Body:bite.V	Clamping the teeth hard on something.	1403	4-58	beißen::V	722
-	Body:blind.A	Unable to see.	1653	4-97	blind::A	
 	Body:blond.A	A pale yellowish-brown color usually of hair.	3872			
 	Body:breath or breathe.?	The air that goes into one's lungs or the act of breathing.	3183			
 	Body:castrate.V	Any action, surgical, chemical, or otherwise, by which a biological male loses use of the testicles.	2563			
@@ -2834,8 +2928,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Body:death.N	The end of life.	910		Tod::N	
 	Body:dentist.N	A person who is medically trained and licensed to practice the prevention, diagnosis, and treatment of diseases, injuries, and malformations of the teeth, jaws, and mouth.	3876			
 	Body:diarrhea.N	A condition in which the sufferer has frequent and watery bowel movements.	1177			
-	Body:die.V	die 				626
-	Body:die.V	To cease to live.	1494	4-75	sterben::V	
 	Body:drown.V	drown (die/kill via immersion) 				791
 	Body:drown.V	To be suffocated in water or other fluid; to perish by suffocation in water.	1904	4-751		
 	Body:drowned.A	To have perished by suffocation in water.	3187			
@@ -2845,7 +2937,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Body:eat.V	eat 				720
 	Body:excreta.N	Waste matter, such as sweat, urine, or faeces, discharged from the body.	47			
 	Body:faint (pass out).V	To become unconscious as a result of a temporary decrease in the blood supply to the brain.	3616			
-	Body:fall asleep.V	To go to sleep; to change from waking state to sleeping state.	1106		einschlafen::V	
 	Body:fatigue.N	A state of physical and/or mental weakness and a lack of vigor.	1140			
 	Body:feather or fur or hair.N	The cover of a mammal or a bird.	2381			
 	Body:fetus.N	fetus (foetus), embryo				602
@@ -2874,13 +2965,10 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Body:itch (cause itching or feel itchy).V	To have an unpleasant sensation on the skin that provokes the need to scratch; to be the cause of this sensation.	3855	4-99914		
 	Body:itch or itchy or itching.?	To have an unpleasant sensation on the skin that provokes the need to scratch or to be the cause of this sensation; the result of itching, i.e. an unpleasant sensation on the skin, or the property of having or producing such a sensation.	3856			
 	Body:itch.N	An unpleasant sensation on the skin that provokes the desire to scratch.	148	4-854		
-	Body:jump.V	jump, leap 				703
 	Body:kick.V	kick 				754
 	Body:kill.V	kill 				627
-	Body:kill.V	To put to death; to end a life.	1417	4-76	töten::V	
 	Body:kiss.V	kiss 				761
 	Body:lame.A	Moving with pain or difficulty on account of injury, defect or temporary obstruction of a function.	320	4-94		
-	Body:lazy.A	Unwilling to do work or make an effort.	1564	4-92	faul::A	
 	Body:lean (meat).A	Carry little fat (of meat).	2219			
 	Body:lick.V	To stroke with the tongue.	319	4-59	lecken::V	
 	Body:lie.V	lie (recline horizontally) 				737
@@ -2901,14 +2989,12 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Body:pregnant.A	Carrying developing offspring within the body.	1123	4-73		
 	Body:pus.N	A whitish-yellow or yellow substance produced during inflammatory responses of the body that can be found in regions of pyogenic bacterial infections.	1808	4-857		
 	Body:refreshed.A	refreshed, perky 				651
-	Body:rest.V	To cease working, moving or thinking for some time in order to relieve fatigue.	168	4-912	sich erholen::V	
 	Body:ringworm.N	Dermatophytosis, fungal skin infection making round patches on the skin.	3171			
 	Body:run.V	run 				702
 	Body:scald (burn oneself with liquid).V	To cause an injury by contact with steam or hot liquid.	3383			
 	Body:scratch.V	To rub or scrape (a part of the body) with a sharp object (e.g. to relieve an itching).	1436	4-8541		
 	Body:sex.N	sex (male or female status), gender				610
 	Body:shave.V	shave (scrape off beard-hairs with a blade) 				771
-	Body:shiver.V	To shake nervously, as if from fear.	52	4-68	zittern::V	
 	Body:sick.A	sick, ill 				631
 	Body:sick.A	Whose health is altered.	1847	4-84	krank::A	
 	Body:sit.V	sit (be in a sitting position) 				733
@@ -2930,7 +3016,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Body:strong.A	Capable of producing great physical force.	785	4-81	stark::A	
 	Body:suffer.V	To physically feel a damage, a pain, a disease or a punishment.	1101			
 	Body:sunbathe.V	Sit or lie in the sun in order to tan the skin.	3131			
-	Body:swallow.V	swallow 				724
 	Body:swim.V	swim 				706
 	Body:throw.V	throw 				753
 	Body:tickle (somebody).V	To move your fingers lightly on a sensitive part of somebody's body to make them feel uncomfortable and cause them to laugh.	3647			
@@ -2941,7 +3026,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Body:vomit.V	vomit 				725
 	Body:wake up.V	wake up (become awake) 				
 	Body:walk.V	walk 				701
-	Body:weak.A	Lacking in force or ability.	1601	4-82	schwach::A	
 	Building:attic.N	attic, garret				1531
 	Building:block of flats.N	block of flats, apartment building				1555
 	Building:bookstore.N	bookstore				1582
@@ -2963,7 +3047,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Building:post office.N	post office				1568
 	Building:prison.N	prison				1569
 	Building:rail.N	rail (usually horizontal bar for restraining/supporting things)				1332
-	Building:reside.V	reside, dwell, live 				1556
 	Building:restaurant.N	restaurant				1572
 	Building:school.N	school				1570
 	Building:stadium.N	stadium				1597
@@ -3043,7 +3126,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Combat/Hunting:cock.N	The part of a firearm that hits the back of the bullet and sets it off, firing the gun.	1878			
 	Combat/Hunting:crossbow.N	A weapon based on the bow, consisting of a bow mounted on a stock.	3193			
 	Combat/Hunting:defeat.N	An end to a struggle or contest that did not end in success.	782	20-42		
-	Combat/Hunting:defend.V	To keep something or someone safe or prevent harm coming to someone or something.	1330	20-44	verteidigen::V	
 	Combat/Hunting:fish trap.N	A contraption made of wires, rods, fishing-net or other suitable materials with the purpose of catching fish alive.	389	20-55		
 	Combat/Hunting:fisherman.N	A person whose profession is catching fish.	1858	20-51		
 	Combat/Hunting:fishhook.N	A metal hook for catching fish.	1074	20-52		
@@ -3076,8 +3158,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Combat/Hunting:sword.N	A long-bladed weapon that has a handle (and sometimes a hilt) and is designed to stab, cut or slash.	1535	20-27		
 	Combat/Hunting:tank.N	Armoured vehicle used by the military.	3102			
 	Combat/Hunting:torture.V	To intentionally inflict physical or mental suffering upon a person or an animal in order to punish, to coerce or for sheer cruelty.	1952			
-	Combat/Hunting:trap (catch).V	To catch in a trap, to immobilize.	1170	20-65	fassen::V	
-	Combat/Hunting:trap (pitfall).N	A device for catching and holding animals.	1075	20-64	Falle::N	
 	Combat/Hunting:victory.N	An end to a struggle or contest that did end in success.	783	20-41		
 	Combat/Hunting:war.N	A conflict or a state of hostility between two or more parties, nations or states, in which armed forces or military operations are used.	935		Krieg::N	
 	Combat/Hunting:waste.V	To cause extensive destruction or ruin utterly.	79			
@@ -3212,25 +3292,20 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Direction:direct.A	direct, immediate (with no intermediaries or obstacles) 				2926
 	Direction:direction.N	direction (orientation of motion)				2900
 	Direction:down.ADV	down 				2902
-	Direction:east.N	east				2914
 	Direction:forward.ADV	forward 				2923
 	Direction:left(-hand).A	left(-hand) 				2904
 	Direction:meandering.A	meandering, convoluted, serpentine 				2927
-	Direction:north.N	north				2910
 	Direction:parallel.A	parallel 				2960
 	Direction:right(-hand).A	right(-hand) 				2903
 	Direction:route.N	route, path, course				2931
 	Direction:rural area.N	rural area, countryside				2943
 	Direction:source.N	source, origin				2930
-	Direction:south.N	south				2912
 	Direction:together.ADV	together 				2951
 	Direction:up.ADV	up 				2901
 	Direction:upside-down.A	upside-down, inverted 				2924
 	Direction:village.N	village				2942
-	Direction:west.N	west				2916
 	Emotion:bad luck.N	An undesirable event such as an accident.	56	16-19	Unglück::N	
 	Emotion:beautiful.A	Having nice or positive properties (specifically with regard to the senses, and most commonly, that of sight).	1427	16-81	schön::A	
-	Emotion:bother (harass).V	To annoy persistently.	2869		belästigen::V	
 	Emotion:calm.A	calm, tranquil 				2062
 	Emotion:care.N	care, concern (about someone / something)				2066
 	Emotion:carp.V	To complain or find fault in a petty or disagreeable way.	2193		schimpfen::V	
@@ -3251,7 +3326,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Emotion:dreadful.A	Causing dread; very bad.	528			
 	Emotion:embrace.V	To squeeze someone in one's arms.	928	16-3		
 	Emotion:faithful.A	Steadfast in affection.	100	16-65		
-	Emotion:fault.N	Responsibility for a wrong act done deliberately or a good act omitted deliberately.	134	16-76	Schuld::N	
 	Emotion:good luck.N	Something positive that happens to someone by chance.	720	16-18		
 	Emotion:groan.V	To utter a low, guttural sound of frustration.	716	16-39	stöhnen::V	
 	Emotion:handsome.A	Used to describe a person that is attractive and pleasing in appearance.	3814			
@@ -3259,11 +3333,9 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Emotion:hostility.N	An aversion, feeling of rivalry, or aggressiveness experienced by an individual or group towards another.	3955			
 	Emotion:inclination.N	A likelihood of behaving in a particular way or going in a particular direction.	918			
 	Emotion:insolent.A	Unrestrained by convention or propriety.	91			
-	Emotion:joy.N	Mental happiness.	2524		Freude::N	
 	Emotion:keen.A	Full of or characterized by enthusiasm.	39			
 	Emotion:location of emotions.N	The place where emotions are thought to be stored.	2198			
 	Emotion:lovely.A	Beautiful especially in a pleasing or charming way.	2233			
-	Emotion:make angry (annoy).V	To cause somebody to be annoyed.	2892		ärgern::V	
 	Emotion:mighty or powerful or strong.A	Holding much (political, social, ...) power or being done using a huge amount of energy or having great physical strength.	3188			
 	Emotion:misery.N	The state of being poor or emotionally suffering.	2553			
 	Emotion:mistake.N	A mistake, an oversight, a slight; usually apologetic, referring to one's own failures.	1293	16-77	Fehler::N	
@@ -3290,7 +3362,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Emotion:trauma.N	A physical wound and, in particular, a psychological state of pain, ensued from a harmful experience of set of events.	3965			
 	Emotion:ugly.A	Not good looking.	1548	16-82		
 	Emotion:upset.A	upset, agitated 				2063
-	Emotion:urge (someone).V	To encourage someone to do something.	2881		antreiben::V	
 	Emotion:vulgar.A	Rude and likely to offend, using allusions on the sexual level.	1080			
 	Emotion:wrong.A	Not correct.	1390	16-74		1949
 	Event:accident.N	accident (unintentional and unexpected event)				3903
@@ -3454,11 +3525,9 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Food:beef.N	The meat of cows.	2570			
 	Food:beer.N	An alcoholic beverage commonly fermented from barley malt, with hops or some other substance to impart a bitter flavor.	1639	5-93		
 	Food:beer.N	beer				3479
-	Food:berry.N	A soft fruit which develops from a superior ovary and contains seeds not encased in pits.	904		Beere::N	
 	Food:betel nut.N	The seed of the areca palm (Mama'an in Meranau common version).	2369			
 	Food:beverage.N	Any one of various liquids for drinking.	731	5-9		
 	Food:beverage.N	beverage				3402
-	Food:boil (of liquid).V	To be at a temperature (as a liquid) where it moves into the gaseous phase.	792	5-22	sieden::V	
 	Food:boil (something).V	To bring some liquid into a state of boiling.	2492		kochen::V	
 	Food:boil.V	To boil some liquid or to be boiling (of some liquid).	2493			
 	Food:boiled water.N	Water that was boiled and is still hot.	3362			
@@ -3497,7 +3566,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Food:congee.N	A type of rice porridge or gruel popular in many Asian countries	2049			
 	Food:consume (drink or eat).V	To consume food or drink.	2787			
 	Food:cook (person).N	The person who prepares food.	2315			
-	Food:cook (something).V	To prepare a meal or a single dish.	1100	5-21	zubereiten::V	
 	Food:cook.V	cook (prepare by applying heat) 				3491
 	Food:cooked corn.N	Boiled corn.	3027			
 	Food:cooked rice.N	Boiled rice.	1191			
@@ -3512,7 +3580,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Food:dish.N	Any kind of vessel for holding or serving meals.	481	5-31	Geschirr::N	
 	Food:dough.N	A mixture of flour and water ready to be baked into bread, pastry etc.	273	5-53		
 	Food:draw milk.V	To draw milk from (a mammal, especially a cow).	93	5-87	melken::V	
-	Food:drink.V	To consume a liquid through the mouth.	1401	5-13	trinken::V	
 	Food:earthen jug.N	A liquid container made of baked clay.	3409			
 	Food:eat.V	To consume something solid or semi-solid (usually food) by putting it into the mouth and eventually swallowing it.	1336	5-11	essen::V	
 	Food:egg.N	Egg (either fertilized or not) from domesticated birds, most commonly hens, seen as food.	744	5-97	Ei::N	
@@ -3521,11 +3588,9 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Food:fat (of meat and food).A	The property of food, especially meat, to contain a large proportion of fat.	2449			
 	Food:fat (oily).A	To contain a lot of fat or oil.	2719			
 	Food:fat meat.N	Any animal meat with a higher fat content.	3436			
-	Food:feed.V	To give food.	739		füttern::V	
 	Food:fodder.N	Feed for livestock, especially chopped hay or straw.	3046			
 	Food:food.N	A substance that can be ingested and utilized by the organism as a source of nutrition and energy.	256	5-12	Nahrung::N	
 	Food:food.N	food				3401
-	Food:fork.N	A utensil with spikes used to put solid food into the mouth.	1302	5-39	Gabel::N	
 	Food:fresh (of water).A	Of water which was recently filled up or gathered from a source.	2195			
 	Food:fruit.N	A botanical fruit that can be eaten raw used as food.	1507	5-71		
 	Food:fry.V	fry 				3492
@@ -3571,11 +3636,9 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Food:mill.N	A mill is a device that breaks solid materials into smaller pieces by grinding, crushing, or cutting.	636	5-57		
 	Food:mix.V	To mix together different elements.	2017	5-49		
 	Food:mortar.N	A bowl used to crush and grind ingredients with a pestle.	224	5-58		
-	Food:mush (food).N	A kind of porridge that is prepared by boiling it with water or milk until thick.	3651		Brei::N	
 	Food:mustard.N	It can be a yellow sauce with a strong taste or a plant which is used to make mustard sauce.	3181			
 	Food:nut.N	A hard-shelled seed.	191	5-77		
 	Food:oil (from plants).N	Liquid hydrophobic substance from plants which is used for cooking.	2555			
-	Food:oil (organic substance).N	Fat from animals or plants in a liquid form.	1484	5-79	Öl::N	
 	Food:olive.N	The small oval fruit of the olive tree, Olea europaea.	1154	5-78		
 	Food:opium.N	The dried latex obtained from the opium poppy.	2498			
 	Food:organic fat or oil.N	Animal or plant fat in a soft or liquid state.	2551			
@@ -3634,7 +3697,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Food:suck.V	To draw in a substance by creating a practical vacuum in the mouth, and as a result a difference in pressure.	1421	5-16		
 	Food:sugar.N	A sweet crystalline or powdered substance, white when pure, consisting of sucrose obtained mainly from sugar cane and sugar beets and used in many foods, drinks, and medicines to improve their taste.	862	5-85		
 	Food:sugar.N	sugar				3452
-	Food:swallow.V	The reflex in the human body that makes something pass from the mouth to the pharynx and into the esophagus, with the shutting of the epiglottis.	897	5-181	schlucken::V	
 	Food:tapioca.N	Starch extracted from the root of manioc	3940			
 	Food:taste.N	The sensory impression of food or other substances on the tongue.	2190		Geschmack::N	
 	Food:tasteless.A	Having no flavour.	1771			
@@ -3848,7 +3910,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Grammar:be.V	To have existence.	1579	24-01		
 	Grammar:become.V	To begin to be; to come to be; to turn into.	1990	24-02	werden::V	
 	Grammar:every (each).?	All the members of a referred group individually.	3416	13-99903		
-	Grammar:in vain.?	Without success, without the desired effect.	1765	16-99902	vergebens::ADV	
 	Grammar:next.?	Following in a sequence.	1354	24-12		
 	Grammar:nothing or zero.NUM	Not anything or the cardinal number that denotes no quantity or amount at all.	3198			
 	Grammar:of that kind (such).?	In that way, such, etc.	2337			
@@ -3882,7 +3943,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	House:cupboard.N	Storing space with a door that can be closed.	3357			
 	House:desk.N	desk				1347
 	House:dish.N	dish (any shallow concave container)				1309
-	House:dwell (live, reside).V	To live or dwell at home.	363	7-11	wohnen::V	
 	House:furniture.N	furniture				1340
 	House:hammock.N	A swinging couch or bed, usually made of netting or canvas about six feet (1.8 m) wide, suspended by clews or cords at the ends.	2019	7-66		
 	House:incense.N	An aromatic material that releases fragrant smoke when burned.	3356			
@@ -3977,7 +4037,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Language:threaten.V	To make a threat of injury or punishment against someone.	1192	18-44		
 	Language:trumpet.N	A musical instrument in the brass family.	775			
 	Language:word.N	A distinct unit of language (sounds in speech or written letters) with a particular meaning, composed of one or more morphemes, and also of one or more phonemes that determine its sound pattern.	1599	18-26	Wort::N	
-	Language:write.V	To form (letters, words or symbols) on a surface in order to communicate.	1672	18-51	schreiben::V	
 	Law:abuse.N	Improper or excessive treatment or usage (e.g. alcohol); application to a wrong or bad purpose (e.g. public funds).	1953			
 	Law:accuse.V	To lay a charge against; bring an accusation against.	1814	21-31		
 	Law:acquit.V	To pronounce not guilty of criminal charges.	988	21-34		
@@ -4085,8 +4144,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Matter:preserve.V	preserve, maintain (keep X in good condition) 				3759
 	Matter:press.V	press (do pressure to; push upon with weight or force) 				3761
 	Matter:pry.V	pry (move with a lever) 				3763
-	Matter:pull.V	pull (draw something toward oneself) 				3765
-	Matter:push.V	push (press on something in order to move it) 				3767
 	Matter:quartz.N	quartz				3340
 	Matter:rock.N	rock, stone				3333
 	Matter:rot.V	rot, decay 				3769
@@ -4239,9 +4296,7 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Motion:fall (of snow and rain).V	The process by which rain or snow descend from the clouds to the earth.	2234			
 	Motion:fetch.V	To go after something or somebody and bring them back.	3551			
 	Motion:firedrill.N	A fire drill is a method of practicing the evacuation of a building for a fire or other emergency.	517			
-	Motion:flee.V	Leaving a dangerous or unpleasant situation.	956	10-51	fliehen::V	
 	Motion:float.V	Of an object or substance, to be supported by a liquid of greater density than the object so as that part of the object or substance remains above the surface. [WK:float]	1574	10-34		
-	Motion:flow.V	To move as a fluid from one position to another (e.g. of water or of people).	2003	10-32	fließen::V	
 	Motion:gather.V	gather, collect (bring or come together) 				3039
 	Motion:go down (descend).V	To go from a higher to a lower place.	2014	10-473	sinken::V	
 	Motion:go out.V	To move out of or depart from.	1107	10-474		
@@ -4252,7 +4307,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Motion:insert.V	To cause something to go into; to infix; to introduce.	3071		stecken::V	
 	Motion:journey.N	journey, trip, voyage				3073
 	Motion:journey.N	Moving from one place to the other or moving around without.	2393			
-	Motion:jump.V	To propel oneself rapidly upward such that momentum causes the body to become airborne.	1829	10-43	springen::V	
 	Motion:kick.V	To strike somebody or something with the foot.	1135	10-431	treten::V	
 	Motion:kneel.V	To go down on one or both knees.	66	10-412		
 	Motion:knock.V	Making a sound by beating with the hand or with a tool against something.	2396		klopfen::V	
@@ -4262,7 +4316,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Motion:limp.V	To walk lamely, as if favouring one leg.	366	10-451		
 	Motion:load.N	load, burden				3074
 	Motion:mast.N	Post of wood or steel, long, round and straight, standing on a ship, intended to carry the sails, flags, floodlights, or communications equipment.	184	10-87		
-	Motion:meet.V	meet, encounter, come across 				3040
 	Motion:miss.V	miss, fail to hit/reach/see etc. 				3041
 	Motion:motionless.A	Not moving.	1636			
 	Motion:move quickly.V	To move forward in a fast way.	2220			
@@ -4277,7 +4330,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Motion:port.N	Area of water next to the coast, often surrounded by thick walls, where ships and boats can be sheltered.	610	10-91		
 	Motion:pound (food).V	To prepare food with a pounding or beating movement, for example, pre-processing of grain or of sago.	3768			
 	Motion:pursue.V	Trying to achieve, to catch, or to reach something or someone.	1047	10-53		
-	Motion:push.V	To apply a force to (an object), in order that it moves away from the origin of the force that was applied.	1452	10-67	schieben::V	
 	Motion:put (in a sitting position).V	To put someone or oneself in a sitting position.	3832			
 	Motion:put (in a standing position).V	To put someone or oneself in a standing position.	3833			
 	Motion:put.V	put (cause item X to be located at place Y) 				3012
@@ -4314,7 +4366,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Motion:surpass.V	To go beyond a limit.	402			
 	Motion:sway.V	To move or swing from side to side; or backward and forward; to rock.	573		schwanken::V	
 	Motion:swim.V	To move through the water, without touching the bottom.	1439	10-35	schwimmen::V	
-	Motion:throw.V	To cause (an object) to move rapidly through the air, with the force of the hand or arm.	1456	10-25	werfen::V	
 	Motion:thrust.V	To push forcefully.	246		stoßen::V	
 	Motion:transit.V	To cross something (a river, a street etc.).	574			
 	Motion:travel.V	To make a journey, especially over a long distance.	3665			
@@ -4335,20 +4386,17 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Nature:air.N	A predominantly mechanical mixture of a variety of individual gases forming the earth's enveloping atmosphere.	27	1-71	Luft::N	
 	Nature:arctic lights.N	A natural light display in the sky particularly in the Arctic regions.	261	1-771		
 	Nature:area.N	Area is the quantity that expresses the extent of a two-dimensional figure or shape, or planar lamina, in the plane.	2980		Gegend::N	
-	Nature:ash.N	The incombustible matter remaining after a substance has been incinerated.	646	1-84	Asche::N	
 	Nature:bay.N	An open, curving indentation made by the sea or a lake into a coastline.	663	1-34	Bucht::N	
 	Nature:bay.N	bay (small body of water offset from lake or sea)				1160
 	Nature:be situated.?	The way in which something is positioned vis-à-vis its surroundings.	62			
 	Nature:beach.N	A sandy strip of land close to the sea or ocean.	3460	1-99901		
 	Nature:beach.N	beach, shore				1161
-	Nature:bolt (of lightning).N	A sudden, short, temporary burst of light.	2007	1-57		
 	Nature:bottom.N	The part furthest in the direction toward which an unsupported object would fall.	690	12-34		
 	Nature:boulder.N	A large rock fragment of natural origin, usually too heavy to be moved by a single person.	3810			
 	Nature:branch (bifurcation).N	A separation of a river, a road, etc.	826			
 	Nature:breeze.N	A gentle to moderate wind.	3982			
 	Nature:bronze or copper.N	Chemical element with symbol Cu and atomic number 29 or an alloy made from it.	3192			
 	Nature:bronze.N	An alloy consisting primarily of copper and the addition of other metals (usually tin) and sometimes arsenic, phosphorus, aluminium, manganese, and silicon.	2313			
-	Nature:brook.N	A very shallow flowing body of water smaller than a creek that can easily be crossed.	3821		Bach::N	
 	Nature:bubble.N	A small ball of air or gas in a liquid.	3689			
 	Nature:burn (something).V	To cause to undergo fire combustion.	141	1-851	verbrennen::V	
 	Nature:burning.V	To be consumed by fire.	1428	1-852	brennen::V	
@@ -4372,7 +4420,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Nature:creek (tidal).N	A narrow inlet or bay, especially of the sea.	990			
 	Nature:current (stream).N	A current, in a river or stream, is the flow of water influenced by gravity as the water moves downhill to reduce its potential energy.	2935		Strömung::N	
 	Nature:curved.A	Being bent as to form an arch.	1698			
-	Nature:darkness.N	Absence of light.	11	1-62		
 	Nature:day or sun.N	Either the bright object at the sky that illuminates the earth completely, or the time when the object illuminates the earth.	2140			
 	Nature:desert.N	A barren area of landscape, typically covered with sand, characterized by little precipitation and hostile living conditions for plant and animal life.	3687			
 	Nature:desert.N	desert				1164
@@ -4420,7 +4467,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Nature:hew.V	To chop away at; to whittle down; to mow down.	553			
 	Nature:high tide.N	The level of water when the tide is at its highest level.	613	1-354		
 	Nature:hill.N	A natural elevation of the land surface, usually rounded and smaller than a mountain.	614		Hügel::N	1167
-	Nature:hinder.V	To make difficult to accomplish; to frustrate, act as obstacle; to keep back; to delay or impede.	554		behindern::V	
 	Nature:horizon.N	The apparent line that separates earth from sky, the line that divides all visible directions into two categories: those that intersect the Earth's surface, and those that do not.	2287			
 	Nature:ice.N	The dense substance formed by the freezing of water to the solid state; it commonly occurs in the form of hexagonal crystals.	617	1-77	Eis::N	
 	Nature:inflated.A	Exaggerated or made bigger.	535			
@@ -4434,9 +4480,7 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Nature:land.N	A specified geographical tract of the Earth's surface including all its attributes, comprising its geology, superficial deposits, topography, hydrology, soils, flora and fauna, together with the results of past and present human activity, to the extent that these attributes exert a significant influence on the present and future land utilization. (Source: WHIT)	626	1-21		
 	Nature:landscape.N	The visible features of a land.	2342			
 	Nature:lawn.N	An area of grass, especially near to a house or in a park, that is cut regularly to keep it short.	3990			
-	Nature:light (ignite).V	To start a fire or light a flame.	737	1-86	anzünden::V	
 	Nature:light (radiation).N	Electromagnetic radiation that is capable of causing a visual sensation. (Source: CED)	630	1-61	Licht::N	
-	Nature:lightning.N	The flash of light caused by the discharge of atmospheric electrical charge.	1654	1-55		1125
 	Nature:lime (material).N	A calcium-containing inorganic material in which carbonates, oxides and hydroxides predominate.	2540			
 	Nature:liquid.A	Existing as or having characteristics of a liquid.	58			
 	Nature:low tide.N	the tide at the point of maximum ebb.	1026	1-353		
@@ -4476,7 +4520,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Nature:reef.N	A line of rocks in the tidal zone of a coast, submerged at high water but partly uncovered at low water.	660	1-342		
 	Nature:resin.N	Any of a class of solid or semisolid organic products of natural or synthetic origin with no definite melting point, generally of high molecular weight.	664			
 	Nature:ridge.N	Elevated zone of a mountain range, that frequently coincides with the watershed.	1748			
-	Nature:rise (move upwards).V	(Of a heavenly body) To appear to move upwards from behind the horizon of a planet as a result of the planet's rotation.	568	10-21	aufgehen[Sonne]::V	
 	Nature:rock.N	Any aggregate of minerals that makes up part of the earth's crust. It may be unconsolidated, such as sand, clay, or mud, or consolidated, such as granite, limestone, or coal.	668			
 	Nature:rough (of sea).A	With large waves (of sea).	259	1-323		
 	Nature:sand hill.N	Ecological community or xeric wildfire-maintained ecosystem (different from sand dune).	3019			
@@ -4530,7 +4573,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Nature:whirlpool.N	A rapidly rotating body of water.	1982	1-362		
 	Nature:wood.N	The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.	1803	1-43	Holz::N	
 	Nature:woods.N	A vegetation community dominated by trees and other woody shrubs, growing close enough together that the tree tops touch or overlap, creating various degrees of shade on the forest floor.	2311			
-	Nature:world.N	The Earth with all its inhabitants and all things upon it.	965	1-1	Welt::N	1101
 	Number:first.NUM	first 				2541
 	Number:half.NUM	half (1/2) 				2530
 	Number:once.ADV	once (occurring one time; for one iteration) 				2551
@@ -4558,28 +4600,16 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Perception:beige.A	A kind of yellowish color, mixed with gray.	3707			
 	Perception:bitter.A	bitter 				875
 	Perception:bitter.A	Having an acrid taste.	887	15-37	bitter::A	
-	Perception:black or dark.A	Either the color or the absence of light.	2633			
-	Perception:black.A	black 				831
-	Perception:black.A	Dark and colourless; not reflecting visible light.	163	15-65	schwarz::A	
 	Perception:blemish.N	blemish				854
-	Perception:blue or green.A	Having green or blue as color.	2382			
-	Perception:blue.A	blue 				843
-	Perception:blue.A	Having the pure color of a clear sky; the primary color between green and violet in the visible spectrum, an effect of light with a wavelength between 450 and 500 nm.	837	15-67	blau::A	
 	Perception:blunt.A	Having a thick edge or point, as an instrument; not sharp.	379	15-79	stumpf::A	
 	Perception:brackish.A	(Of water) Salty or slightly salty, as a mixture of fresh and sea water.	70	15-39		
-	Perception:bright yellow.A	A very intense variant of the color yellow.	3751			
-	Perception:bright.A	bright (with much light present) 				824
 	Perception:bright.A	Emitting or reflecting light readily or in large amounts. [WN:679]	679	15-57	hell::A	
-	Perception:brilliant.A	(Of a color) having a high saturation and reflecting a considerable amount of light.	3709			
-	Perception:brown.A	brown 		15-99901		847
-	Perception:brown.A	Having a brown color.	2409			
 	Perception:clear (to see).A	If something is visible without obstacles (e.g., clouds, spots).	3710			
 	Perception:cold (chill).N	Cold is the presence of low temperature, especially in the atmosphere.	2932		Kälte::N	
 	Perception:cold (feeling cold).A	The subjective feeling of a decreased body temperature.	3819			
 	Perception:cold.A	cold 				892
 	Perception:cold.A	Having a low temperature.	1287	15-86	kalt::A	
 	Perception:color.N	An attribute of things that results from the light they reflect, transmit, or emit in so far as this light causes a visual sensation that depends on its wavelengths.	1613	15-61		
-	Perception:color.N	color				830
 	Perception:colorful.A	Having many colors.	2997		bunt::A	
 	Perception:conceal.V	conceal, hide 				813
 	Perception:cool.A	cool 				893
@@ -4602,11 +4632,7 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Perception:get wet.V	To become wet (for example, by standing in the rain).	2324			
 	Perception:glaring.A	Shining intensely and brightly.	2228			
 	Perception:good-looking.A	Being pleasant to watch (of humans).	2410		hübsch::A	
-	Perception:gray.A	gray, grey 				832
 	Perception:green or unripe.A	Having a green color or being not ripe (of fruits).	2300			
-	Perception:green.A	green 				841
-	Perception:green.A	Having green as its colour; having the hue of that portion of the visible spectrum lying between yellow and blue, evoked in the human observer by radiant energy with wavelengths of approximately 490 to 570 nanometers.	1425	15-68	grün::A	
-	Perception:grey.A	Having a colour between black and white, like ash or stone.	153	15-99902	grau::A	
 	Perception:hard.A	Resistant to pressure.	1884	15-74	hart::A	
 	Perception:harmony.N	harmony (pleasing combination of stimuli)				855
 	Perception:hearing (aural sense).N	The sense that enables to perceive sounds.	2518			
@@ -4632,7 +4658,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Perception:lilac.A	A light variant of the color purple which resembles the color of the flowers of a Syringa tree.	3752			
 	Perception:listen.V	To perceive with the ear (paying attention to what is heard).	1608	15-42	zuhören::V	
 	Perception:look at.V	look at (intentionally and attentively see) 				811
-	Perception:look.V	To actively use one's eyes.	1819	15-52	anschauen::V	
 	Perception:loud.A	(Of a sound) to have a high volume.	377	15-45		
 	Perception:loud.A	loud (of much sonic intensity) 				864
 	Perception:magenta.A	A variant of the color red but deeper and mixed with purple.	3753			
@@ -4640,19 +4665,13 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Perception:noise.N	Sound which is unwanted, either because of its effects on humans, its effect on fatigue or malfunction of physical equipment, or its interference with the perception or detection of other sounds.	1182		Lärm::N	
 	Perception:noisy.A	To make a lot of noise.	3883			
 	Perception:odor (smell).N	The property of something that can be perceived and recognized through the nose.	3704		Geruch::N	
-	Perception:orange (color).A	A bright reddish-yellowish colour.	3328	15-99903		837
 	Perception:ornament.N	ornament, decoration				853
 	Perception:perceive.V	perceive (become aware of using the physical senses) 				802
 	Perception:picture.N	picture, image				823
 	Perception:pinch.V	To squeeze a small amount of a person's skin and flesh, making it hurt.	378	15-712		
-	Perception:pink.A	Having pink as its colour.	3446	15-99904		
 	Perception:pitch.N	pitch (frequency of sound waves), tone (high or low pitch)				865
 	Perception:pleasure.N	pleasure				882
-	Perception:purple.A	Having purple as its color.	2452			
-	Perception:purple.A	purple 				845
 	Perception:quiet.A	With little or no sound; denoting absence of disturbing noise.	1314	15-46		
-	Perception:red.A	Having red as its colour.	156	15-66	rot::A	
-	Perception:red.A	red 				835
 	Perception:reveal.V	reveal, disclose 				814
 	Perception:rough.A	Having a texture that has much friction. Not smooth.	1923	15-76		
 	Perception:salty.A	Containing salt.	1091	15-36		
@@ -4700,18 +4719,14 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Perception:transparent.A	If a substance or object permits the uninterrupted passage of light and one can see through it.	3754			
 	Perception:turquoise.A	Having a light greenish blue as its color.	3914			
 	Perception:ugly.A	ugly 				852
-	Perception:visible.A	That one can see.	1868		zu sehen sein::V	
 	Perception:warm.A	Having a temperature slightly higher than usual, still pleasant.	1232	15-851	warm::A	
 	Perception:warm.A	warm 				894
 	Perception:weight.N	The amount a thing weighs.	2466		Gewicht::N	
-	Perception:white.A	Bright and colourless; reflecting equal quantities of all frequencies of visible light.	1335	15-64	weiß::A	
-	Perception:white.A	white 				833
 	Perception:wrinkled.A	Uneven, with many furrows and prominent points, often in reference to the skin or hide of animals.	380	15-89		
 	Plant:apple.N	apple (tree/fruit of genus Malus)				1030
 	Plant:bamboo.N	bamboo (plant/stem of genera Bambusa / Arundinaria / Dendrocalamus)				1040
 	Plant:banana.N	banana (plant/fruit of genus Musa)				1031
 	Plant:bean.N	bean (lima/snap/etc.: plant/seed of genus Phaseolus or similar)				1080
-	Plant:berry.N	berry (small pulpy fruit)				1020
 	Plant:bush.N	bush, shrub				1002
 	Plant:cabbage.N	cabbage (plant/leaves of sp. Brassica oleracea capitata)				1081
 	Plant:carrot.N	carrot (plant/root of sp. Daucus carota sativus)				1082
@@ -4749,7 +4764,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Plant:oak.N	oak (tree of genus Quercus)				1044
 	Plant:oat.N	oat (plant/seed of genus Avena)				1075
 	Plant:olive.N	olive (tree/fruit of sp. Olea europaea)				1036
-	Plant:onion.N	onion (plant/bulb of sp. Allium sepa)				1090
 	Plant:oregano.N	oregano (herb of sp. Origanum vulgare)				1068
 	Plant:pea.N	pea (plant/seed of sp. Pisum sativum)				1091
 	Plant:peanut.N	peanut (plant/seed/pod of sp. Arachis hypogaea)				1092
@@ -4774,7 +4788,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Plant:weed.N	weed (unwanted plant)				1006
 	Plant:wheat.N	wheat (plant/seed of sp. Triticum aestivum)				1078
 	Possession:acquire (something).V	To come into possession of something, usually with an effort.	3892			
-	Possession:affair.N	That which is considered to exist as a separate quality or concept.	2214		Angelegenheit::N	
 	Possession:afford.V	To have enough money to get something.	3893			
 	Possession:barter.V	To exchange goods without involving money.	370			
 	Possession:beggar.N	A person who begs.	1934	11-53		
@@ -4804,7 +4817,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Possession:hold.V	To grasp or grip (particularly with the hand) so that the object does not end up at the surface below.	1448	11-15	halten::V	
 	Possession:inherit.V	To receive money, property or other possessions from somebody when they die.	3664			
 	Possession:interest.N	A sum paid or charged for the use of money or for borrowing money over a given time period.	2062			
-	Possession:keep.V	To retain possession of something.	1477	11-17	aufbewahren::V	
 	Possession:lend.V	To put an item or resource at the disposal of another, with the requirement to have the same or its equivalent returned eventually.	582	11-61		
 	Possession:let go or set free.V	To give freedom; to stop holding; to release from confinement or restraint.	1095	11-34		
 	Possession:look for.V	To try to find something.	1468	11-31	suchen::V	
@@ -4837,7 +4849,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Possession:weigh.V	To determine the weight of an object.	1098	11-92		
 	Quality:bent.A	bent 				3606
 	Quality:clean.A	clean 				3611
-	Quality:closed.A	closed, shut 				3626
 	Quality:dry.A	dry 				3621
 	Quality:dull.A	dull, blunt (of little sharpness) 				3631
 	Quality:durable.A	durable, resilient, robust, strong (in this sense) 				3640
@@ -4872,10 +4883,8 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Quantity:add.V	add, append, join so as to cause an increase 				2620
 	Quantity:affair (classifier).CLF	Classifier for things or circumstances.	2737			
 	Quantity:all or many.?	Either a totality or a large number of people or objects.	2650			
-	Quantity:all.?	The totality of.	98	13-14	alles::PRN	
 	Quantity:all.A	all (the whole number or entire sum of) 				2641
 	Quantity:allotment.N	allotment, portion (someone's share of X)				2663
-	Quantity:alone.A	Without any others being included or involved.	1964	13-331	allein::ADV	
 	Quantity:amount.N	Quantity is a property that can exist as a magnitude or multitude.	2987		Menge::N	
 	Quantity:animal (classifier).CLF	Classifier for animals.	3056			
 	Quantity:axe (classifier).CLF	Classifier for axe-like objects.	2083			
@@ -4893,9 +4902,7 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Quantity:chain (classifier).CLF	Classifier for objects that can be put or are arranged on a chain.	2724			
 	Quantity:chicken (classifier).CLF	Classifier for bird-like animals.	2081			
 	Quantity:clothing (classifier).CLF	Classifier for things that one wears.	2088			
-	Quantity:count (quantity).N	The total number of individual things in a given unit or sample obtained by counting all or a subsample of them.	2945		Anzahl::N	
 	Quantity:count.V	count, enumerate 				2602
-	Quantity:count.V	To determine the amount of something or to enumerate the digits of one's numeral system.	1420	13-107	zählen::V	
 	Quantity:cow (classifier).CLF	Classifier for cows and animals as large as cows.	2168			
 	Quantity:crowd.N	A large group of people.	2023	13-19		
 	Quantity:deal (classifier).CLF	Classifier for bargains or business deals.	2738			
@@ -5046,7 +5053,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Society:lord.N	A man of noble rank or high office; a nobleman.	3153			
 	Society:master.N	Someone who has control over something or someone; the owner of an animal or slave or someone who employs others.	383	19-41		
 	Society:mate.N			19-99944		
-	Society:meet.V	To encounter a person, either intentionally or by chance.	1831	19-65	treffen::V	
 	Society:mid-autumn festival.N	A harvest festival celebrated by ethnic Chinese and Vietnamese peoples.	2187			
 	Society:midwife.N	A person, usually a woman, who helps women in childbirth and provides ante- and postnatal care.	3859			
 	Society:murderer.N	A person who commits murder.	3871			
@@ -5114,7 +5120,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Space:base.N	The bottom or lowest part.	831			
 	Space:be left.A	To remain in the same place after others have left or been removed.	3196			
 	Space:behind.?	At the back of.	1686	12-011	hinter::PRP	
-	Space:below or under.?	Situated in a lower place than something else.	1485	12-07	unter::PRP	
 	Space:beside.?	To be positioned at the side of a given object.	1816	12-02		
 	Space:between.?	In the position or interval that separates two things.	689		zwischen::PRP	
 	Space:big.A	Of a great size.	1202	12-55	groß::A	
@@ -5128,10 +5133,8 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Space:change.V	To make different or to become different.	1264	12-93	ändern::V	
 	Space:circle.N	A two-dimensional, geometric shape that is made up of every point on a plane which is equidistant from the centre. May be drawn with a pair of compasses.	1467	12-82	Kreis::N	
 	Space:circular (round in two dimensions).A	Having a circular shape.	2302			
-	Space:closed.A	Inaccessible.	589		geschlossen::A	
 	Space:coarse.A	Unrefined with reference to material.	2151			
 	Space:corner.N	The area around the point where two converging walls meet.	192	12-76	Ecke::N	1518
-	Space:cover.V	To place something over or upon to conceal or protect.	761	12-26	bedecken::V	
 	Space:crooked.A	Opposite of straight.	297	12-74		
 	Space:cross.N	A geometrical figure consisting of two straight lines or bars bisecting each other, or any figure or object of similar shape.	1367	12-77	Kreuz::N	
 	Space:deep.A	Having a bottom or base that is far away from the top.	1593	12-67		
@@ -5142,17 +5145,13 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Space:divide.V	To split or separate something into two or more parts.	1119	12-232	teilen::V	
 	Space:down or below.?	Moving from a higher position to a lower one, or being at a lower position.	2094			
 	Space:down.?	Moving to a lower position.	1326	12-03	hinab::ADV	
-	Space:east.N	One of the four principal compass points, specifically 90°, conventionally directed to the right on maps. The direction of the rising sun.	1877	12-45	Osten::N	
 	Space:edge.N	The boundary of a surface.	863	12-353	Kante::N	
 	Space:end (of space).N	Extreme part.	742	12-35	Ende::N	
-	Space:everywhere.?	In all places.	2999		überall::ADV	
 	Space:far.A	Having a large intervening distance with regard to something.	1406	12-44	fern::A	
 	Space:fathom.N	A linear unit of measurement, equal to 6 feet, for water depth.	81	12-541		
 	Space:fine or thin.A	Of a substance: divided into or consisting of very small pieces.	2157		fein::A	
-	Space:flat.A	Having no variations in altitude.	1633	12-71	flach::A	
 	Space:forward.?	Moving ahead.	2912		vorwärts::ADV	
 	Space:fringe.N	The border of an object.	2989		Rand::N	
-	Space:from here.?	Directed from here towards another direction.	2927		von hier::ADV	
 	Space:from.?	Starting at a given point in space or time.	693			
 	Space:front (part).N	The forward part or surface, as of a building.	2194			
 	Space:gap (distance).N	A separation in space.	2948		Abstand::N	
@@ -5169,7 +5168,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Space:hole.N	A, often round, piece of nothingness in some solid.	1667	12-85	Loch::N	
 	Space:hollow.A	Having an empty space inside.	3701			
 	Space:horizontal.A	Plane is said to be horizontal at a given point if it is perpendicular to the gradient of the gravity field at that point— in other words, if apparent gravity makes a plumb bob hang perpendicular to the plane at that point.	2376			
-	Space:in front of.?	In front of in space	1883	12-041	vor::PRP	
 	Space:in.?	Contained or encased by something.	1460	12-012		
 	Space:inside.?	Contained or encased by something or inside a building as opposed to outside in the open air.	1606	12-05		
 	Space:instead.?	As a replacement for.	1652			
@@ -5194,13 +5192,10 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Space:near (in space).A	Not far distant in space.	3735			
 	Space:near.A	Not far distant in time or space or degree or circumstances.	1942	12-43	nah::A	
 	Space:next to.?	To be positioned adjacent to.	2917		neben::PRP	
-	Space:north.N	One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map.	1598	12-47	Norden::N	
-	Space:open.V	To make the inside something accessible by moving an obstacle aside (e.g. a door or covering), or to move said obstacle.	1156	12-24	öffnen::V	
 	Space:outside.?	In the open, not within a building, or outside of something in general.	762	12-06		
 	Space:over here.?	Near here.	3410			
 	Space:over there.?	There in the distance.	3411			
 	Space:peak.N	The highest or lowest point on a surface.	2205			
-	Space:pick up.V	To lift; to grasp and raise; to collect.	371	12-212	aufheben::V	
 	Space:pile up.V	To gather together in a heap or unsorted stack.	1576	12-213		
 	Space:place (position).N	A position or area in a space.	723	12-11	Ort::N	
 	Space:point (pointed end).N	The pointed, sharp end of an object like e.g. a spear or arrowhead.	3255			
@@ -5211,10 +5206,8 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Space:resemble.V	To be like or similar to something else.	1777			
 	Space:right.A	Something that is on the right side relative to another object.	1019	12-41	rechter::A	
 	Space:round.A	Circular or having a circular cross-section in at least one direction.	1395	12-81	rund::A	
-	Space:separate.V	To cause something or someone to move away from something or someone else.	1359	12-23	sich trennen::V	
 	Space:shallow.A	Having little depth.	193	12-68		
 	Space:short.A	Small in length by comparison.	1645	12-59	kurz::A	
-	Space:shut.V	To move (a door, a window, etc.) so that it closes its opening.	1046	12-25	schließen::V	
 	Space:side.N	The side of an object or person.	682	12-36	Seite::N	
 	Space:sit.V	To be in a position with the upper body upright and the legs resting.	1416	12-13	sitzen::V	
 	Space:size (of object).N	The height of objects.	2845		Größe::N	
@@ -5222,7 +5215,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Space:slanted.A	Being positioned not straight vertically or horizontally.	3075			
 	Space:small (not tall).A	Small in height (of persons).	2484			
 	Space:small.A	Not large or big; small in size.	1246	12-56	klein::A	
-	Space:south.N	One of the four major compass points, specifically 180°, directed toward the South Pole, and conventionally downwards on a map.	1595	12-48	Süden::N	
 	Space:space (available).N	Available space to place things.	3006		Platz::N	
 	Space:spherical (round in three dimensions).A	Having a spherical shape.	2303			
 	Space:square.N	A geometrical figure with four sides that meet each other on right angles, or something resembling its shape.	850	12-78		
@@ -5243,16 +5235,13 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Space:thin.A	Being narrow or carrying a small amount of fat.	2308			
 	Space:thither (there to).?	Directed towards this place there.	2923		dorthin::ADV	
 	Space:tip (of object).N	The pointed end of something.	2992		Spitze::N	
-	Space:together.?	In proximity to each other (of two things).	2482		zusammen::ADV	
 	Space:top.N	Highest and most elevated point.	1753	12-33		
 	Space:towards.?	Going into the direction of.	2754			
 	Space:up or above.?	Moving from a lower position to a higher one or being at a higher position.	2379			
 	Space:up.?	Moving to a higher position.	1591	12-08	hinauf::ADV	
 	Space:vertical.A	Direction passing by a given point is said to be vertical if it is locally aligned with the gradient of the gravity field.	2375			
-	Space:west.N	One of the four principal compass points, specifically 270°, conventionally directed to the left on maps. The direction of the setting sun.	1817	12-46	Westen::N	
 	Space:whither (where to).?	Directed to what location?	2928		wohin::FADV	
 	Time:afterwards.?	Later or after something else has happened or happens.	2093		danach::ADV	
-	Time:again.?	Once more.	204	14-35	wieder::ADV	
 	Time:again.ADV	again, once more, re- 				3228
 	Time:alternate.V	alternate, take turns (do X then Y then X then Y) 				3229
 	Time:ancient.N	ancient				3247
@@ -5260,12 +5249,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Time:at first.?	When first seen or considered.	2915		zuerst::ADV	
 	Time:at that time.?	At a certain time in the past.	2922		damals::ADV	
 	Time:be dead or die.V	To cease or have ceased to live.	2101			
-	Time:be late.A	To be later than the expected time.	425	14-24		
-	Time:before.?	At a time before that.	1882	12-04	vorher::ADV	
-	Time:begin or start.V	To begin doing an activity, of (of an activity) to begin.	3447		beginnen::V	
-	Time:begin.V	begin, commence, start 				3235
-	Time:begin.V	To begin an activity.	1806	14-25	anfangen::V	
-	Time:beginning.N	The beginning of an activity or event.	1557	14-251		
 	Time:busy.A	The state of being occupied with something.	2755			
 	Time:cease.V	cease, stop doing, quit 				3239
 	Time:cease.V	To have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.	1928	14-28	enden::V	
@@ -5286,17 +5269,13 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Time:delay.V	delay, retard, tarry 				3253
 	Time:duration.N	duration (amount of time consumed)				3230
 	Time:dusk.N	The darkest stage of twilight in the evening.	2297			
-	Time:early.A	Before the expected time or towards the beginning of a time period.	672	14-16		
-	Time:early.A	early, premature 				3250
 	Time:end (of time).N	The last or final part.	743	14-26	Schluss::N	
 	Time:end.V	end, conclude, finish 				3238
 	Time:evening.N	evening (dusk to midnight)				3288
-	Time:evening.N	That part of the day in which daylight decreases and the night falls.	1629	14-46	Abend::N	
 	Time:eventually.ADV	eventually (in the far future) 				3208
 	Time:ever.ADV	ever (at any time) 				3243
 	Time:ex-.A	"ex- (as in ""ex-president""), former "				3209
 	Time:fast.A	Occurring or happening within a short time.	1631	14-21		
-	Time:finish.V	To end something, to bring something to a conclusion.	1766	14-27	beenden::V	
 	Time:first day of the month.N	The first day of the month.	3354			
 	Time:for a long time.?	(Of an action or state) to last a long period of time.	418	14-332	lange::ADV	
 	Time:forenoon.N	The time before noon.	2775			
@@ -5313,7 +5292,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Time:how long.?	Asking for the duration of an event.	2338			
 	Time:hurry.V	To move or do something at a fast pace.	754	14-23	sich beeilen::V	
 	Time:idle.N	The state of not being occupied with anything.	2756			
-	Time:immediately.?	In an immediate manner; instantly or without delay.	1963	14-19	auf einmal::ADV	
 	Time:instantly (immediately).?	Without delay.	2916		sofort::ADV	
 	Time:interval.N	interval (quantity of time between events X and Y)				3219
 	Time:irregular.A	irregular, sporadic, intermittent 				3220
@@ -5353,10 +5331,8 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Time:slow.A	With low speed.	701	14-22		
 	Time:slowly.ADV	slowly (with little speed) 				3258
 	Time:sometimes.?	On certain occasions, or in certain circumstances, but not always.	1544	14-33	manchmal::ADV	
-	Time:soon.?	In a near future.	703	14-331	bald::ADV	
 	Time:soon.ADV	soon (in the near future) 				3207
 	Time:speed.N	speed, velocity (degree of fastness or slowness)				3256
-	Time:start.V	(Of an activity) to begin.	3449			
 	Time:sudden.A	sudden, abrupt 				3234
 	Time:suddenly.?	Happening unexpectedly.	2920		plötzlich::ADV	
 	Time:sunday.N	Sunday				4027
@@ -5412,7 +5388,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Tool:comb.N	comb				1245
 	Tool:computer.N	computer (electronic instruction-obeying information-handler)				1277
 	Tool:cord.N	cord, cable (thicker than wire)		9-99904		1241
-	Tool:cover.N	cover (thing put onto or extended over something else)				1252
 	Tool:dial.N	dial (circle marked with numbers/symbols)				1265
 	Tool:dome.N	dome (anything shaped like an upside-down bowl)				1253
 	Tool:drain.N	drain (device that removes unwanted liquid)				1268
@@ -5476,7 +5451,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Tool:syringe.N	syringe				1271
 	Tool:tongs.N	tongs				1231
 	Tool:tool.N	tool, utensil, implement				1200
-	Tool:trap.N	trap				1223
 	Tool:umbrella.N	umbrella				1298
 	Tool:valve.N	valve (flow-controller)				1272
 	Tool:weapon.N	weapon				1207
