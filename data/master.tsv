@@ -118,6 +118,7 @@ Atmosphere:fog.N	Nature:fog.N	Water droplets or, rarely, ice crystals suspended 
 Atmosphere:foggy.A	Nature:foggy.A	A thick layer of fog.	3759			
 Atmosphere:hail.N	Nature:hail.N	Precipitation in the form of balls or irregular lumps of ice.	609			1124
 Atmosphere:hailing.V	Nature:hailing.V	To fall from the clouds in form of ball or lumps of ice.	104			
+Atmosphere:harmattan.N	Time:harmattan.N	Dry, dusty and cold West African trade wind from northeastern direction.	451			
 Atmosphere:hot weather.N	Nature:hot weather.N	A period of unusually high temperatures.	3693			
 Atmosphere:humid.A	Nature:humid.A	(Of the air) Containing a high quantity of water vapor.	143			
 Atmosphere:lightning bolt.N	Nature:bolt (of lightning).N	A sudden, short, temporary burst of light.	2007	1-57		
@@ -1194,6 +1195,7 @@ Function:not.PTCL	Grammar:not.?	Negates the meaning of the modified verb or adje
 Function:nothing.PRO	Grammar:nothing.?	Not anything.	687	24-14		
 Function:or.CNJ	Cognition:or.?	Conjunction that indicates an alternative.	1014	17-54	oder::CNJ	
 Function:other.PRO	Grammar:other.?	The rest of a group of.	197	24-11	anderer::A	
+Function:perhaps.ADV	Time:perhaps.?	(Of an event) to be possible to occur or to have occurred.	2278			241
 Function:PRS.PTCL		The particle indicating the present tense.				
 Function:PST.PTCL		The particle indicating the past tense.				
 Function:Q.PTCL		The word that is used in the interrogation and indicates doubt		24-99905		
@@ -1892,17 +1894,25 @@ Time:December.N	Time:december.N	The 12th month of the Gregorian calendar.	2855		
 Time:dry season.N	Time:dry season.N	Yearly period of low rainfall in the tropics.	452			
 Time:early.A	Time:early.A	Before the expected time or towards the beginning of a time period.	672	14-16		3250
 Time:evening.N	Time:evening.N	That part of the day in which daylight decreases and the night falls.	1629	14-46	Abend::N	
+Time:fast.A	Time:fast.A	Occurring or happening within a short time.	1631	14-21		
 Time:February.N	Time:february.N	The second month of the Gregorian calendar, having 29 days in a leap year and 28 in other years.	2037		Februar::N	4002
 Time:final.A	Quantity:last (final).?	The last, after all the others.	1529	13-35	letzter::A	3261
 Time:finish.V	Time:finish.V	To end something, to bring something to a conclusion.	1766	14-27	beenden::V	
+Time:for a long time.ADV	Time:for a long time.?	(Of an action or state) to last a long period of time.	418	14-332	lange::ADV	3231
+Time:former.A	Time:former.?	Coming before in time.	3004		ehemalig::A	3209
+Time:Friday.N	Time:friday.N	The fifth day of the week in Europe and in systems using the ISO 8601 norm; the sixth day of the week in the United States of America.	1692	14-67	Freitag::N	4025
 Time:future.A	Time:-to-be.A	Something that will be but is not yet, for example future bride or bride-to-be.				3210
-Time:future.N	Time:future.N	The future is what will happen in the time after the present.	2427			
+Time:future.N	Time:future.N	The future is what will happen in the time after the present.	2427			3203
 Time:hot season.N	Time:hot season.N	Period of the year associated with hot or warm weather.	3047			
 Time:hour.N	Time:hour.N	A time period of sixty minutes; one twenty-fourth of a day.	1353	14-51		3291
+Time:hurry.V	Time:hurry.V	To move or do something at a fast pace.	754	14-23	sich beeilen::V	
 Time:immediately.ADV	Time:immediately.?	In an immediate manner; instantly or without delay.	1963	14-19	auf einmal::ADV	
+Time:immediately.ADV	Time:instantly (immediately).?	Without delay.	2916		sofort::ADV	
+Time:interval.N	Time:interval.N	Quantity of time between events X and Y.				3219
 Time:January.N	Time:january.N	The first month of the Gregorian calendar, having 31 days.	2036		Januar::N	4001
 Time:July.N	Time:july.N	The 7th month of the Gregorian calendar.	2850		Juli::N	4007
 Time:June.N	Time:june.N	The 6th month of the Gregorian calendar.	2849		Juni::N	4006
+Time:just.ADV	Time:just.?	Only a very short time before.	84			
 Time:last month.N	Time:last month.N	The month before this month.	2792			
 Time:last year.N	Time:last year.?	The year before the current one.	514			
 Time:last.V	Time:last (endure).V	To endure, continue over time.	1186	14-252		
@@ -1910,19 +1920,29 @@ Time:late.ADV	Time:late.?	Towards the end of a time period.	477	14-17		3252
 Time:long ago.ADV	Time:long ago.?	At a time in the past, especially the distant past.	373	14-99902		3204
 Time:March.N	Time:march.N	The third month of the Gregorian calendar.	2846		März::N	4003
 Time:May.N	Time:may (month).N	The 5th month of the Gregorian calendar.	2848		Mai::N	4005
+Time:midday.N	Time:midday.N	Time of day when the sun is in its zenith.	12	14-45	Mittag::N	
+Time:midnight.N	Time:midnight.N	The middle of the night.	2656			3289
 Time:minute.N	Time:minute.N	A time period of 60 seconds.				3292
+Time:modern.A	Time:modern.N	Pertaining to a current or recent time and style.				3248
+Time:moment.N	Time:moment.N	An instant.				3241
+Time:Monday.N	Time:monday.N	The first day of the week in Europe and in systems using the ISO 8601 norm; the second day of the week in the United States of America.	1697	14-63	Montag::N	4021
 Time:monsoon season.N	Time:monsoon season.N	A period of heavy rain particularly during summer time.	3323			
 Time:month.N	Time:month.N	A period into which a year is divided, historically based on the phases of the moon. In the Gregorian calendar there are twelve months.	1370	14-71	Monat::N	3279
+Time:morning.N	Time:morning.N	The period of time from the start of the day (midnight) until midday (12:00).	1339	14-44	Morgen::N	3285
 Time:never.ADV	Time:never.?	At no time.	1656	14-34	niemals::ADV	3244
 Time:New Year.N				14-99903		
 Time:New Year's eve.N	Society:new year's eve.N	The last day of the year.	2188			
 Time:new.A	Time:new.A	Recently made, created or begun.	1231	14-13	neu::A	3214
+Time:next month.ADV	Time:next month.N	The month after this month.	2793			
+Time:next year.ADV	Time:next year.?	The year after the current one.	515			
+Time:next.A	Grammar:next.?	Following immediately in a sequence.	1354	24-12		3263
 Time:night.N	Time:night.N	The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.	1233	14-42	Nacht::N	3284
-Time:November.N	Time:november.N	The 11th month of the Gregorian calendar.	2854		November::N	
+Time:noon.N	Time:noon.N	12 o'clock in the daytime.	2490			
+Time:November.N	Time:november.N	The 11th month of the Gregorian calendar.	2854		November::N	4011
 Time:now or today.ADV	Time:now or today.?	On the current day or in the current moment.	2097			
 Time:now.ADV	Time:now.?	At present; at this time.	1376	14-18	jetzt::ADV	3206
 Time:October.N	Time:october.N	The 10th month of the Gregorian calendar.	2853		Oktober::N	4010
-Time:often.ADV	Time:often.?	Many times, with short intervals between occasions.	1852	14-32	oft::ADV	
+Time:often.ADV	Time:often.?	Many times, with short intervals between occasions.	1852	14-32	oft::ADV	3225
 Time:old (of man).A	Time:old (of man).A	Old of a man as opposed to old of a woman.	565			
 Time:old (of person).A	Time:old (aged).A	To be old (of persons).	2112		alt[Lebewesen]::A	
 Time:old (of woman).A	Time:old (of woman).A	Old of a woman as opposed to old of a man.	566			
@@ -1930,28 +1950,47 @@ Time:old (used).A	Time:old (used).A	To be old (of things). That which has been u
 Time:old.A	Time:old.A	Having lived or existed for a relatively long period of time.	1229	14-15	alt::A	3213
 Time:one time.ADV	Time:one time.?	An instance or occurrence of an event.	374		einmal::ADV	
 Time:pass.V	Time:pass.V	Of time, to elapse, to be spent.	1951		vergehen::V	
+Time:past.A		Something that was before but is not anymore.				
+Time:past.N	Time:the past.N	The times that were before but are not anymore.				3201
+Time:pause.V	Time:pause.V	Suspend action temporarily.				3237
 Time:period.N	Time:period.N	A length of time.	508	14-99905		3240
+Time:permanent.A	Time:permanent.A	Lasting for an indefinitely long time				3216
+Time:present.A		Something that is currently. 				
+Time:present.N	Time:the present.N	The time that is currently. 				3202
+Time:quickly.ADV	Action/Technology:quickly.A	To carry out an action in a quick manner.	3365			3257
 Time:rainy season.N	Time:rainy season.N	Period of year when most of a region's average annual rainfall occurs.	453			
 Time:rhythm.N	Time:rhythm.N	rhythm				3222
+Time:Saturday.N	Time:saturday.N	The sixth day of the week in Europe and in systems using the ISO 8601 norm; the seventh day of the week in the United States of America.	1700	14-68	Samstag::N	4026
 Time:season.N	Time:season.N	One of the four equal periods into which the year is divided by the equinoxes and solstices, resulting from the apparent movement of the sun north and south of the equator during the course of the earth's orbit around it. These periods (spring, summer, autumn and winter) have their characteristic weather conditions in different regions, and occur at opposite times of the year in the N and S hemispheres.	691	14-78		3269
 Time:second.N	Time:second.N	A time period of 1/60th of a minute.				3293
+Time:seldom.ADV	Time:seldom.ADV	Rarely.				3226
 Time:September.N	Time:september.N	The 9th month of the Gregorian calendar.	2852		September::N	4009
 Time:short dry season.N				1-99909		
 Time:short.ADV	Time:short (time).?	For a brief period or a short amount of time.	3312			3232
-Time:soon.ADV	Time:soon.?	In a near future.	703	14-331	bald::ADV	
+Time:slow.A	Time:slow.A	With low speed.	701	14-22		
+Time:slowly.ADV	Motion:slowly.?	With low speed.	2165			3258
+Time:soon.ADV	Time:soon.?	In the near future.	703	14-331	bald::ADV	3207
+Time:speed.N	Time:speed.N	Degree of fastness or slowness.				3256
 Time:springtime.N	Time:springtime.N	Traditionally the first of the four seasons, the season of growth with an ever increasing amount of daytime.	1537	14-75	Frühling::N	3270
 Time:still.ADV	Time:still (continuing).?	Continuance of motion or state even until the time mentioned.	2919		noch::ADV	3246
 Time:summer.N	Time:summer.N	Traditionally the second of the four seasons regarded as being from June 21 to September 20 (or just June, July and August) in the Northern Hemisphere and from December 21 to March 20 (or just December, January and February) in the Southern Hemisphere.	1342	14-76	Sommer::N	3271
+Time:Sunday.N	Time:sunday.N	The seventh day of the week in Europe and in systems using the ISO 8601 standard, or the first day of the week in the United States of America, the Sabbath for most Christians.	1699	14-62	Sonntag::N	4027
+Time:temporary.A	Time:temporary.A	Existing only for a period or periods of time.				3218
 Time:three days before now.ADV	Time:three days before now.?	Three days before today.	2333			
 Time:three days from now.ADV	Time:three days from now.?	Three days from today.	2332			
+Time:Thursday.N	Time:thursday.N	The fourth day of the week in Europe and in systems using the ISO 8601 norm; the fifth day of the week in the United States of America.	1693	14-66	Donnerstag::N	4024
 Time:time.N	Time:time.N	The dimension of the physical universe which, at a given place, orders the sequence of events. The continuum of past-present-future.	892	14-11	Zeit::N	3200
 Time:today.ADV	Time:today.?	On the current day or date.	1283	14-47	heute::ADV	3266
 Time:tomorrow or yesterday.ADV	Time:tomorrow or yesterday.?	The day after the present day or the day before today.	2801			
 Time:tomorrow.ADV	Time:tomorrow.?	The day after the present day.	1329	14-48	morgen::ADV	3267
+Time:Tuesday.N	Time:tuesday.N	The second day of the week in Europe and in systems using the ISO 8601 norm; the third day of the week in the United States of America.	1695	14-64	Dienstag::N	4022
 Time:wait.V	Motion:wait (for).V	To refrain from acting or moving for some duration or until some event occurs.	1590	10-99908	warten::V	3255
+Time:Wednesday.N	Time:wednesday.N	The third day of the week in Europe and in systems using the ISO 8601 norm; the fourth day of the week in the United States of America.	1694	14-65	Mittwoch::N	4023
+Time:week.N	Time:week.N	A period of seven days.	1469	14-61	Woche::N	3280
 Time:winter.N	Time:winter.N	Traditionally, the fourth of the seasons, marked by the applicable hemisphere of the planet being at its minimum angle of exposure to the Sun, resulting in short days, long nights and typically in low temperatures.	1471	14-74	Winter::N	3273
 Time:year.N	Time:year.N	The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	1226	14-73	Jahr::N	3278
 Time:yesterday.ADV	Time:yesterday.?	The day before today.	1174	14-49	gestern::ADV	3265
+Time:young.A	Time:young.A	In the early part of growth or life.	1207	14-14	jung::A	3212
 Transit:airplane.N	Modernity:airplane.N	A powered heavier-than-air aircraft with fixed wings that obtains lift by the Bernoulli effect and is used for transportation.	1597	23-16		3102
 Transit:anchor.N	Motion:anchor.N	Something, usually a heavy piece of metal with points which dig into the sea-bed, used to hold a boat in one position.	1870	10-89		
 Transit:bicycle.N	Modernity:bicycle.N	A vehicle with two wheels in tandem, pedals connected to the rear wheel by a chain, handlebars for steering, and a saddlelike seat.	747	23-13		3110
@@ -2174,7 +2213,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Action/Technology:pull off (skin).V	To strip or pull off the skin or hide of.	291	9-29		
 	Action/Technology:pull out.V	To pull something out.	2325			
 	Action/Technology:put in order.V	To arrange something in a tidy manner.	3459			
-	Action/Technology:quickly.A	To carry out an action in a quick manner.	3365			
 	Action/Technology:rake (something).V	The act of moving a tool over a surface in order to level or clean it.	3127			
 	Action/Technology:recommend.V	To suggest something or somebody.	2759			
 	Action/Technology:result.N	The final outcome or consequence of a causal chain, operation or set of circumstances.	3969			
@@ -3802,7 +3840,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Function word:i.ADP	I (nom), me (acc) 				281
 	Function word:if.CNJ	if (on condition that...; supposing that...) 				232
 	Function word:make.V	"make, render (impart quality X to Y; e.g. ""I make you happy"") "				205
-	Function word:maybe.ADV	maybe, perhaps 				241
 	Function word:miss.N	Miss				273
 	Function word:mister.N	Mister, Mr.				271
 	Function word:mrs..N	Mrs.				274
@@ -3910,7 +3947,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Grammar:be.V	To have existence.	1579	24-01		
 	Grammar:become.V	To begin to be; to come to be; to turn into.	1990	24-02	werden::V	
 	Grammar:every (each).?	All the members of a referred group individually.	3416	13-99903		
-	Grammar:next.?	Following in a sequence.	1354	24-12		
 	Grammar:nothing or zero.NUM	Not anything or the cardinal number that denotes no quantity or amount at all.	3198			
 	Grammar:of that kind (such).?	In that way, such, etc.	2337			
 	Grammar:of this kind (such).?	In this way, such, etc.	2336		so::ADV	
@@ -4352,7 +4388,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Motion:sledge.N	A low sled drawn by animals, typically on snow, ice or grass.	368			
 	Motion:slide.V	slide, slip, glide 				3050
 	Motion:slip.V	To fall over (usually unexpectedly) onto the ground or floor, due to the floor being slippery, smooth or slimy.	1324	10-42		
-	Motion:slowly.?	With low speed.	2165			
 	Motion:spill (something).V	Cause liquids to flow over the edge or out of a container.	3130			
 	Motion:splash.V	To cause a liquid to spatter about. [WN:365]	365	10-352		
 	Motion:spoke.N	One of the connecting rods between the wheel hub and the rim.	182			
@@ -4575,7 +4610,7 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Nature:woods.N	A vegetation community dominated by trees and other woody shrubs, growing close enough together that the tree tops touch or overlap, creating various degrees of shade on the forest floor.	2311			
 	Number:first.NUM	first 				2541
 	Number:half.NUM	half (1/2) 				2530
-	Number:once.ADV	once (occurring one time; for one iteration) 				2551
+	Number:once.ADV	Occurring one time.				2551
 	Number:second.NUM	second 				2542
 	Number:twice.ADV	twice (happening two times; for two iterations) 				2552
 	People:ambassador.N	ambassador				398
@@ -5274,92 +5309,40 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Time:evening.N	evening (dusk to midnight)				3288
 	Time:eventually.ADV	eventually (in the far future) 				3208
 	Time:ever.ADV	ever (at any time) 				3243
-	Time:ex-.A	"ex- (as in ""ex-president""), former "				3209
-	Time:fast.A	Occurring or happening within a short time.	1631	14-21		
 	Time:first day of the month.N	The first day of the month.	3354			
-	Time:for a long time.?	(Of an action or state) to last a long period of time.	418	14-332	lange::ADV	
 	Time:forenoon.N	The time before noon.	2775			
-	Time:former.?	Coming before in time.	3004		ehemalig::A	
 	Time:four days before now.?	Four days before today.	3278			
 	Time:four days from now.?	Four days from today.	3277			
 	Time:frequency.N	frequency (degree of oftenness or seldomness)				3224
-	Time:frequently.ADV	frequently, often 				3225
-	Time:friday.N	Friday				4025
-	Time:friday.N	The fifth day of the week in Europe and in systems using the ISO 8601 norm; the sixth day of the week in the United States of America.	1692	14-67	Freitag::N	
 	Time:gradual.A	gradual 				3233
 	Time:graveyard shift.N	graveyard shift, middle of the night (midnight to dawn)				3290
-	Time:harmattan.N	Dry, dusty and cold West African trade wind from northeastern direction.	451			
 	Time:how long.?	Asking for the duration of an event.	2338			
-	Time:hurry.V	To move or do something at a fast pace.	754	14-23	sich beeilen::V	
 	Time:idle.N	The state of not being occupied with anything.	2756			
-	Time:instantly (immediately).?	Without delay.	2916		sofort::ADV	
-	Time:interval.N	interval (quantity of time between events X and Y)				3219
 	Time:irregular.A	irregular, sporadic, intermittent 				3220
-	Time:just.?	Only a very short time before.	84			
-	Time:long.A	long (of much duration) 				3231
-	Time:midday.N	Time of day when the sun is in its zenith.	12	14-45	Mittag::N	
-	Time:midnight.N	In the middle of the night.	2656			
-	Time:midnight.N	midnight				3289
-	Time:modern.N	modern				3248
-	Time:moment.N	moment, an instant				3241
-	Time:monday.N	Monday				4021
-	Time:monday.N	The first day of the week in Europe and in systems using the ISO 8601 norm; the second day of the week in the United States of America.	1697	14-63	Montag::N	
-	Time:morning.N	morning (dawn to noon)				3285
-	Time:morning.N	The period of time from the start of the day (midnight) until midday (12:00).	1339	14-44	Morgen::N	
-	Time:next month.N	The month after this month.	2793			
-	Time:next year.?	The year after the current one.	515			
-	Time:next.A	"next (coming immediately after; ""tomorrow"" = the next day) "				3263
-	Time:noon.N	12 o'clock in the daytime.	2490			
-	Time:noon.N	noon				3286
-	Time:november.N	November				4011
 	Time:once (in the past).?	One time during a certain time in the past.	2914		einst::ADV	
-	Time:pause.V	pause, hesitate, suspend action temporarily 				3237
-	Time:perhaps.?	(Of an event) to be possible to occur or to have occurred.	2278			
-	Time:permanent.A	permanent, perpetual 				3216
 	Time:prior.A	prior, preceding, previous, contra-next 				3262
-	Time:quickly.ADV	quickly, rapidly, swiftly (with much speed) 				3257
 	Time:ready.A	Prepared for immediate action or use.	790	14-29		
 	Time:recently.ADV	recently (in the near past) 				3205
 	Time:regular.A	regular (at uniform intervals), periodic 				3221
 	Time:rush.V	rush, hurry, hasten 				3254
 	Time:sabbath.N	sabbath (day of week with religious significance)				3295
-	Time:saturday.N	The sixth day of the week in Europe and in systems using the ISO 8601 norm; the seventh day of the week in the United States of America.	1700	14-68	Samstag::N	4026
 	Time:second day of the month.N	The second day of the month.	3355			
-	Time:seldom.ADV	seldom, rarely 				3226
 	Time:sequence.N	sequence, order (temporal arrangement of events in a series)				3260
 	Time:series.N	series (a number of similar things following one another)				3259
-	Time:slow.A	With low speed.	701	14-22		
-	Time:slowly.ADV	slowly (with little speed) 				3258
 	Time:sometimes.?	On certain occasions, or in certain circumstances, but not always.	1544	14-33	manchmal::ADV	
-	Time:soon.ADV	soon (in the near future) 				3207
-	Time:speed.N	speed, velocity (degree of fastness or slowness)				3256
 	Time:sudden.A	sudden, abrupt 				3234
 	Time:suddenly.?	Happening unexpectedly.	2920		plötzlich::ADV	
-	Time:sunday.N	Sunday				4027
-	Time:sunday.N	The seventh day of the week in Europe and in systems using the ISO 8601 standard, or the first day of the week in the United States of America, the Sabbath for most Christians.	1699	14-62	Sonntag::N	
 	Time:sunrise.N	The instant at which the upper edge of the Sun appears over the eastern horizon in the morning.	2296			
 	Time:sunset.N	The daily disappearance of the Sun below the western horizon as a result of Earth's rotation.	2295			
-	Time:temporary.A	temporary, transient 				3218
 	Time:the day after tomorrow.N	the day after tomorrow				3268
 	Time:the day before yesterday.N	the day before yesterday				3264
-	Time:the future.N	the future				3203
-	Time:the past.N	the past				3201
-	Time:the present.N	the present				3202
 	Time:then.?	Soon after that.	2921		dann::ADV	
 	Time:third day of the month.N	The third day of the month.	3352			
 	Time:this month.N	The same month as today.	2791			
 	Time:this year.?	The current year.	513			
-	Time:thursday.N	The fourth day of the week in Europe and in systems using the ISO 8601 norm; the fifth day of the week in the United States of America.	1693	14-66	Donnerstag::N	
-	Time:thursday.N	Thursday				4024
 	Time:time.N	"time (e.g. ""do it 3 times""), occasion, instance, iteration"		14-99906		3227
 	Time:timely.A	timely, prompt, on time 				3251
-	Time:tuesday.N	The second day of the week in Europe and in systems using the ISO 8601 norm; the third day of the week in the United States of America.	1695	14-64	Dienstag::N	
-	Time:tuesday.N	Tuesday				4022
 	Time:until.?	Up to that point in time.	2753			
-	Time:wednesday.N	The third day of the week in Europe and in systems using the ISO 8601 norm; the fourth day of the week in the United States of America.	1694	14-65	Mittwoch::N	
-	Time:wednesday.N	Wednesday				4023
-	Time:week.N	A period of seven days.	1469	14-61	Woche::N	
-	Time:week.N	week				3280
 	Time:while.N	A certain duration of time, a period of time.	726			
 	Time:wristwatch.N	An instrument used to measure or keep track of time that is carried around the wrist.	3349			
 	Time:year after next year.?	The year after the next year.	2330			
@@ -5367,8 +5350,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Time:yet.?	Up to a particular time.	2577			
 	Time:young (of man).A	Young of a man as opposed to young of a woman.	564			
 	Time:young (of woman).A	Young of a woman as opposed to young of a man.	563			
-	Time:young.A	In the early part of growth or life.	1207	14-14	jung::A	
-	Time:young.A	young (of little age; having existed/lived for a brief time) 				3212
 	Tool:arrow.N	arrow (sharp-tipped shaft shot from a bow)				1212
 	Tool:axe.N	axe				1203
 	Tool:balloon.N	balloon				1280
