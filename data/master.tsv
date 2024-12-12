@@ -1,14 +1,26 @@
 id	initial_id	Definition	Concepticon_id	WOLD_id	NELex_id	ULD_id
 Action:automatic.A	Cognition:automatic.A	Capable of operating without external control or intervention.				2034
+Action:broken.A	Action/Technology:broken (not working).A	Not capable of working.	3190	9-261		
 Action:can.V	Action/Technology:be able.V	To have the ability to do something.	972	24-99902	können::V	208
+Action:cease or finish.V	Action/Technology:cease or finish.V	To stop doing something, voluntarily or involuntarily.	2115			
+Action:dexterous.A	Action/Technology:dexterous.A	Nimble in the use of the hands or body.	1824		geschickt::A	
+Action:do or make.V	Action/Technology:do or make.V	To do something or to make something.	2575			
+Action:do.V	Action/Technology:do.V	To perform an action.	813	9-11	tun::V	
+Action:fail.V	Action/Technology:fail.V	Not succeeding in an endeavour (of persons) or to stop working as intended (of objects).	3861			
 Action:get up from bed.V	Action/Technology:get up from bed.V	To leave one's place of sleeping.	3350		aufstehen::V	
+Action:hang up.V	Action/Technology:hang up.V	To put up to hang.	357	9-341	aufhängen::V	
+Action:hang.V	Action/Technology:hang.V	Remain suspended to some point above.	2884		hängen::V	
+Action:happen.V	Action/Technology:happen.V	To come to pass.	248		passieren::V	3901
+Action:hardly.ADV	Action/Technology:hardly.?	Barely perceivable or noticeable.	2926		kaum::ADV	
 Action:hinder.V	Nature:hinder.V	To make difficult to accomplish; to frustrate, act as obstacle; to keep back; to delay or impede.	554		behindern::V	
+Action:make.V	Action/Technology:make.V	To create something by combining or assembling materials or parts or by changing it.	734	9-111	machen::V	
 Action:stop.V	Action/Technology:stop doing.V	To stop doing the action one was doing.	3351		aufhören::V	
 Agriculture:burn land.V	Agriculture/Plant:burn land.V	Clear an area with fire.	3539			
 Agriculture:crops.N	Agriculture/Plant:crops.N	The output of plants cultivated that is grown on a large scale.	3081			
 Agriculture:cultivate.V	Agriculture/Plant:cultivate.V	To prepare an area by tilling, planting seeds etc. in order to grow plants.	1541	8-15		
 Agriculture:farm.N	Agriculture/Plant:farm.N	Any tract of land or building used for agricultural purposes, such as for raising crops and livestock.	201			1595
 Agriculture:farmer.N	Agriculture/Plant:farmer.N	A person who works the land or who keeps livestock, especially on a farm.	979	8-11		
+Agriculture:flail.N	Action/Technology:flail.N	A manual device used for beating or striking with, consisting of a free-swinging stick attached to a handle.	3057			
 Agriculture:grow.V	Agriculture/Plant:grow plants.V	To cultivate a specific type of plant in order to harvest it.	3461	8-9996		
 Agriculture:harvest or harvest season.N	Agriculture/Plant:harvest or harvest season.N	The crop gathered in a season and the time during which crops are typically harvested.	3541	8-41		
 Agriculture:harvest.N	Agriculture/Plant:harvest.N	The crop gathered in a season.	611			
@@ -81,6 +93,7 @@ Animal:Insecta.N	Animal:insect.N	A class of the Arthropoda typically having a se
 Animal:Lacertidae.N	Animal:lizard.N	Any reptile of the suborder Lacertilia, especially those of the family Lacertidae, typically having an elongated body, four limbs, and a small tail: includes the gechos, iguanas, chameleons, monitors, and slow worms.	632	3-96		930
 Animal:lair.N	Animal:lair.N	The resting or living place of a wild animal.	2949		Bau::N	
 Animal:Lampyridae.N	Animal:firefly.N	A nocturnal, bioluminescent beetle of the family Lampyridae.	206	3-91		922
+Animal:leather or hide.N	Action/Technology:leather or hide.N	A generic way of referring to either cured or uncured animal hides.	3326			
 Animal:Leporidae.N	Animal:rabbit.N	One of several small mammals of the family Leporidae, with long ears, long hind legs and a short, fluffy tail.	1136	3-614		967
 Animal:male in general.A	Family:male.A	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.	1553			
 Animal:male.A	Animal:male (of animal).A	Relating to the male sex of animals.	2263	3-12		
@@ -239,6 +252,7 @@ Body:breast milk.N	Body:breast milk.N	The milk of humans.	3912
 Body:breast or milk.N	Body:breast or milk.N	Either the organ of females which gives nourishing substance for newborns, or the substance itself.	2129			
 Body:breast.N	Body:breast.N	The fleshy organ on the chest of a sexually mature human female containing mammary glands.	1402	4-41	Busen::N	550
 Body:breastbone.N	Body:breastbone.N	Long flat bone located in the center of the chest.	2810			
+Body:breath or life.N	Action/Technology:breath or life.N	The act of inhalation and exhalation of air as one part of physiological respiration required to sustain life, or the fact that life is sustained itself.	2269			
 Body:breath.N	Body:breath.N	The air inhaled and exhaled through the lungs.	870		Atem::N	
 Body:breath.V	Body:breath.V	To repeatedly draw air into, and expel it from, the lungs, in order to extract oxygen from it and excrete waste products.	1407	4-51	atmen::V	710
 Body:bruise.N	Body:bruise.N	A collection of blood in the body tissue outside the blood vessels	1148	4-852		
@@ -260,6 +274,7 @@ Body:close mouth.V	Body:close (mouth).V	To close one's mouth.	3547
 Body:collarbone.N	Body:collarbone.N	Bone linking the scapula and sternum.	1994	4-302		
 Body:corpse.N	Body:corpse.N	A dead body.	767	4-77		
 Body:coughing.N	Action/Technology:cough (act of coughing).N	The act of coughing or the sound of coughing.	3913			
+Body:die (from accident).V	Action/Technology:die (from accident).V	To cease to live due to unforeseen circumstances.	2865		umkommen::V	
 Body:die.V	Body:die.V	To cease to live.	1494	4-75	sterben::V	626
 Body:dribble.N				4-99905		
 Body:dribble.V	Body:dribble.V	To let saliva flow out of one’s mouth onto one’s chin.	268	4-591		
@@ -298,6 +313,7 @@ Body:front tooth.N	Body:front tooth (incisor).N	Aeveral teeth located above and 
 Body:fur.N	Body:fur.N	The body-hair of an animal (excluding humans) or a piece of clothing made thereof.	580	6-28	Fell::N	
 Body:gall bladder.N	Body:gall bladder.N	A pear-shaped organ located beneath the liver that serves as a storage sac for bile until it is released into the small intestine.	3372			
 Body:genitalia.N	Body:genitalia.N	The sexual organs: the testicles and penis of a male; or the labia, clitoris, and vagina of a female.	198			
+Body:get drunk.V	Action/Technology:get drunk.V	Activity of drinking alcoholic beverages that leads to having an altered conciousness.	3980			
 Body:goiter.N	Body:goiter.N	Enlargement of the thyroid gland.	1957	4-842		
 Body:grow up.V	Cognition:grow up.V	To mature and become an adult.	552			
 Body:gum.N	Body:gums.N	The mucosal tissue that partly lies over the teeth in the mouth.	139	4-271		
@@ -314,6 +330,7 @@ Body:hip.N	Body:hip.N	The outward-projecting parts of the pelvis and top of the 
 Body:hoof.N	Body:hoof.N	Natural horn covering of an animal's foot.	152			
 Body:horn.N	Body:horn (anatomy).N	A hard growth of keratin that protrudes from the top of the head of certain animals.	1393	4-17	Horn::N	593
 Body:human skin.N	Body:skin (human).N	The outer tissue of human beings.	2613			
+Body:inhale.V	Action/Technology:inhale.V	Breathe in some substance (smoke, steam) other than air.	2705			
 Body:intestines.N	Body:intestines.N	The alimentary canal of an animal or human through which food passes after having passed all stomachs.	1991	4-461		573
 Body:jaw.N	Body:jaw.N	Either of the two opposable structures forming, or near the entrance to, the mouth.	798	4-207	Kiefer[Anatomie]::N	
 Body:joint.N	Body:joint.N	Any part of the body where two bones join.	999			
@@ -467,6 +484,7 @@ Building:gate.N	Building:gate.N	A gate or gateway is a point of entry to a space
 Building:house.N	Building:house.N	The abode of a human being, their place of residence.	1252	7-12	Haus::N	1550
 Building:hut.N	Building:hut.N	A simple roofed shelter, often with one  open side.	1678	7-13		
 Building:igloo.N	Building:igloo.N	A snow hut built from snow and serving as a shelter.	2592			
+Building:ladder or stairs.N	Action/Technology:ladder or stairs.N	Construction consisting of steps designed to bridge vertical distances.	2689			
 Building:mason.N	Building:mason.N	A craftsman who builds in stone or brick otherwise known as masonry.	877	7-61		
 Building:mortar binder.N	Building:mortar binder.N	Paste made of a mixture of a binder (cement, plaster or lime), sand and water used in masonry to make bricks, stones, etc. stick together.	1731	7-63		
 Building:oven.N	Food:oven.N	An enclosed heated compartment usually lined with a refractory material used for baking or drying substances, firing ceramics, heat-treating, etc.	1143	5-25		3495
@@ -497,6 +515,8 @@ Cleaning:clean (sth).V	Motion:clean (something).V	To cause something to be no lo
 Cleaning:clean.A	Perception:clean.A	Not dirty.	704	15-87	sauber::A	
 Cleaning:dirt.N	Perception:dirt.N	Any unclean substance, such as mud, dust, dung etc.	25		Schmutz::N	
 Cleaning:dirty.A	Perception:dirty.A	Covered with or containing unpleasant substances such as dirt or grime.	1230	15-88	schmutzig::A	3612
+Cleaning:dustpan.N	Action/Technology:dustpan.N	A cleaning utensil, commonly used in combination with a broom or brush.	2051			
+Cleaning:launder.V	Action/Technology:launder (wash clothes).V	To remove dirt from clothes.	2503			
 Cleaning:sweep.V	Action/Technology:sweep.V	To clean a surface with a broom.	230	9-37	fegen::V	
 Cleaning:vacuum (sth).V	Modernity:vacuum (something).V	Clean something by using a vacuum cleaner.	3135			
 Cleaning:wash (clothes).V	Action/Technology:wash (clothes).V	To clean pieces of clothing by using water and supplementary cleansing products as a part of hygiene routine.	3434			
@@ -644,6 +664,7 @@ Cognition:familiar.A	Emotion:familiar.A	Knowing somebody or something well.	3005
 Cognition:find out.V	Cognition:find out.V	To apprehend something involuntarily.	2237			
 Cognition:foreign.A	Cognition:foreign.A	Not belonging to that in which it is contained; introduced from an outside source.	109		fremd::A	
 Cognition:forget.V	Cognition:forget.V	To lose memory of something.	1523	17-32	vergessen::V	2053
+Cognition:get dizzy.V	Action/Technology:get dizzy.V	Experience an impairment in spatial perception and stability.	2712			
 Cognition:guess.V	Cognition:guess.V	To suppose, to estimate or to make a surmise.	1932	17-171		2048
 Cognition:hesitate.V	Cognition:hesitate.V	To hold back from saying or doing something because of doubt or uncertainty.	3629			
 Cognition:idea.N	Cognition:idea.N	A plan or notion that is formed and exists in the mind as a result of mental activity.	1609	17-19		2055
@@ -725,7 +746,6 @@ Communication:explain.V	Cognition:explain.V	To inform about the reason for somet
 Communication:fairy tale.N	Modernity:fairy tale.N	A fairy tale is a type of short story that typically features folkloric fantasy characters, such as dwarves, dragons, elves, fairies, giants, gnomes, goblins, griffins, mermaids, talking animals, trolls, unicorns, or witches, and usually magic or enchantments.	2937	18-99901	Märchen::N	
 Communication:flirt.V	Emotion:flirt.V	To talk or behave amorously, without serious intentions.	494			
 Communication:forbid.V	Language:forbid.V	To tell not to do something.	83	18-38		
-Communication:forgive.V	Emotion:forgive.V	To stop blaming someone for an offense.	1528	16-69		
 Communication:gesture.V	Body:gesture.V	gesture 				747
 Communication:goodbye.INT	Language:goodbye.N	A conventional expression, used as a farewell when parting.	3554			
 Communication:goodbye.V		To say goodbye.		19-99943		
@@ -743,6 +763,7 @@ Communication:mail.N	Modernity:mail.N	A batch of letters and parcels received vi
 Communication:news.N	Action/Technology:news.N	News is information about current events.	2964		Neuigkeit::N	2277
 Communication:newspaper.N	Modernity:newspaper.N	A publication (usually published daily or weekly and printed on cheap, low-quality paper) that contains news and other articles.	1298	23-6	Zeitung::N	2245
 Communication:offer.V	Business:offer.V	offer (present for acceptance or rejection) 				1720
+Communication:pardon.V	Emotion:forgive.V	To stop blaming someone for an offense.	1528	16-69		2120
 Communication:phone.V	Language:talk (phone).V	To communicate by means of a telephone.	3133			
 Communication:postage stamp.N	Modernity:postage stamp.N	A piece of paper that is affixed to letters or packages to pay for their delivery.	596	23-41		
 Communication:postcard.N	Modernity:postcard.N	A rectangular piece of thick paper or thin cardboard intended to be written on and mailed without an envelope.	1497	23-43		
@@ -960,6 +981,7 @@ Emotion:depressed.A	Emotion:depressed.A	A mental state of despondency, unhappinn
 Emotion:depression.N	Emotion:depression.N	A state of feeling sad that can become a chronic illness.	3877			2010
 Emotion:desire.N	Cognition:desire.N	A wish for something to happen.				2031
 Emotion:desire.V	Emotion:desire.V	To want to do something, to wish for something to happen, or to have affection for someone.	2117			
+Emotion:despise.V	Action/Technology:despise.V	To feel a strong dislike for something.	2715			
 Emotion:disappointment.N	Emotion:disappointment.N	A feeling of sadness because something did not happen the way it was expected or did not happen at all.	3845			2078
 Emotion:emotional.A	Emotion:emotional.A	Having any strong feeling, as of joy, sorrow, or fear.	3761			
 Emotion:enthuse.V				16-9991		
@@ -1007,7 +1029,11 @@ Emotion:need.N	Cognition:need (noun).N	The fact or an instance of feeling the la
 Emotion:need.V	Cognition:need (something).?	Feeling the desire or the urge for something.	2339			3976
 Emotion:obsession.N	Cognition:obsession.N	A compulsive or irrational preoccupation with something.				2012
 Emotion:on purpose.ADV	Emotion:on purpose.?	(Doing or feeling something) in a deliberate or controlled way.	1031	17-99901		
+Emotion:patience.N	Behavior:patience.N	Enduring of difficult situations or a long waiting time with an even temper.				2130
+Emotion:patient.A	Emotion:patient.A	Enduring difficult situations or a long waiting time with an even temper.	3884			
 Emotion:phobia.N	Cognition:phobia.N	An irrational, abnormal, or obsessive fear of something.				2013
+Emotion:pity.N	Emotion:pity.N	Deep awareness of the suffering of another, coupled with the wish to relieve it.	1141	16-35		2131
+Emotion:pity.V	Behavior:pity.V	Feel compassion at the misfortune or suffering of someone or something.				
 Emotion:regret.V	Emotion:regret.V	To wish that a past event had not happened.	1875	16-34		2079
 Emotion:respect.N	Emotion:respect (noun).N	An attitude of admiration or esteem.	1912			
 Emotion:respect.V	Emotion:respect (somebody).V	To have respect for someone or something; to have regard for something, to observe a custom, practice, rule or right.	385	19-99941		1916
@@ -1100,6 +1126,7 @@ Food:bread.N	Food:bread.N	A common food made mainly from flour, water and yeast 
 Food:cake.N	Modernity:cake.N	Cake is a form of sweet dessert that is typically baked.	2408			
 Food:Camellia sinensis.N	Food:tea.N	tea (beverage made from leaves of plant sp. Camellia sinensis)	1373	23-9	Tee::N	3477
 Food:candy.N	Modernity:candy.N	Food item that is rich in sugar.	874	23-565		
+Food:chop.V	Action/Technology:chop (into pieces).V	To chop meat, vegetables etc. into small pieces.	2149		hacken::V	
 Food:Citrullus lanatus.N	Food:watermelon.N	A large, sprawling annual plant with coarse, hairy pinnately-lobed leaves and white to yellow flowers.	2766	8-99954		
 Food:Citrus sinensis.N	Agriculture/Plant:orange (fruit).N	A fruit of the citrus species citrus x sinensis.	2627			
 Food:Coffea.N	Food:coffee.N	A beverage made by infusing the beans of the coffee plant in hot water.	1299	23-91		3478
@@ -1114,6 +1141,7 @@ Food:flour.N	Food:flour.N	Ground or milled grain or cereal.	1594	5-55		3410
 Food:fork.N	Food:fork.N	A utensil with spikes used to put solid food into the mouth.	1302	5-39	Gabel::N	
 Food:Glycine max.N	Food:soya bean.N	The edible seed of the soybean plant which contains a lot of protein.	2028			
 Food:griddle.N		A metal or stone flat plate on which food is fried or baked.		7-99903		
+Food:gridiron.N	Action/Technology:gridiron.N	Wooden grill used to dry or smoke meat or fish	3932			
 Food:infusion.N	Modernity:tea.N	The drink made by infusing dried leaves or buds in hot water.				
 Food:main meal.N	Food:dinner (main meal).N	The main meal of the day, eaten in the middle of the day or in the evening	3829			
 Food:Malus domestica.N	Agriculture/Plant:apple.N	The popular, crisp, round fruit of the apple tree, usually with red, yellow or green skin, light-coloured flesh and pips inside.	1320	8-99905	Apfel::N	
@@ -1137,6 +1165,15 @@ Food:supper.N	Food:supper.N	The last meal of the evening.		5-45		3489
 Food:swallow.V	Food:swallow.V	The reflex in the human body that makes something pass from the mouth to the pharynx and into the esophagus, with the shutting of the epiglottis.	897	5-181	schlucken::V	724
 Form:bend (sth).V	Action/Technology:bend (something).V	To carry out a movement to turn something into a curved shape.	2224		biegen::V	
 Form:bend.V	Action/Technology:bend.V	Movement that causes the formation of a curve.	2004	9-14	beugen::V	
+Form:break.V	Action/Technology:break (destroy or get destroyed).V	To divide or be divided into pieces and thereby damaged.	680	9-26	brechen::V	
+Form:broken.A	Action/Technology:broken.A	Not capable of working or broken into pieces.	588			
+Form:cleave.V	Action/Technology:break (cleave).V	To divide something with force in two or more parts.	2558		zerbrechen::V	
+Form:collapse.V	Action/Technology:collapse.V	To fall down suddenly because of pressure or having no strength or support.	3986			
+Form:explode.V	Action/Technology:explode.V	To burst violently as a result of internal pressure.	3976			
+Form:fold.V	Action/Technology:fold.V	To bend a thin material (such as paper) over so that it comes in contact with itself.	1470	9-15		
+Form:get broken.V	Action/Technology:break (breaking).V	To come apart or split into pieces (intransitive).	3020			
+Form:intact.A	Action/Technology:intact.A	That has not been impaired or altered; lacking nothing essential, especially not damaged.	220			
+Form:shattered.A	Action/Technology:broken (shattered).A	Broken into pieces.	3191			
 Form:triangle.N	Form:triangle.N	A triangle is a polygon with three corners and three sides, one of the basic shapes in geometry				3526
 Function:1DU EXCL.PRO	Family:we two (exclusive).?	Exclusive dual of the first person: I and exactly one other person, but not the addressed person (you).	2636			
 Function:1DU INCL.PRO	Family:we two (inclusive).?	Inclusive dual of the first person: I and exactly one other person, including the addressed person (you).	2637	24-99914		
@@ -1174,6 +1211,7 @@ Function:and or but.CNJ				24-99901
 Function:and.CNJ	Cognition:and.?	Used to connect two homogeneous words or phrases.	1577	17-51	und::CNJ	
 Function:because.CNJ	Cognition:because.?	Conjunction initiating a causal phrase.	1157	17-52		
 Function:but.CNJ	Grammar:but.?	A coordinating expression that signals a contrast to what was previously said, e.g. disagreement or a further point to consider.	3843			
+Function:by.ADP	Action/Technology:by (passive marker).?	Marker of the agent in a passive sentence.	2751			
 Function:FUT.PTCL		The particle indicating the future tense.				
 Function:here.ADV	Grammar:here.?	At this place.	136	24-09	hier::ADV	
 Function:hey.INT		Particle for getting attention of people.		24-99904		
@@ -1254,18 +1292,29 @@ Handiwork:braid.V	Action/Technology:braid (verb).V	To braid together hair, threa
 Handiwork:carpenter.N	Action/Technology:carpenter.N	Artisan who works with wood.	1042	9-43		
 Handiwork:carve.V	Action/Technology:carve.V	To cut or to chip in order to form something.	228	9-81		
 Handiwork:cast.V	Action/Technology:cast.V	To pour [a hardenable liquid material, like metal, plaster, glass, concrete etc.] into a mold in order to produce a solid object of the shape of the mold.	211	9-63		
+Handiwork:chain.N	Action/Technology:chain.N	A series of interlocked rings or links forming a flexible length.	1627	9-18		
 Handiwork:chisel.N	Action/Technology:chisel.N	A tool with a cutting edge at the end.	1979	9-84		
+Handiwork:chop.V	Action/Technology:chop.V	To chop wood, or to chop meat, vegetables etc. into small pieces.	155	9-222		
 Handiwork:cut (with axe).V	Action/Technology:cut (with axe).V	To chop with an axe, e.g. wood in order to use it as firewood.	3151			
 Handiwork:cut (with knife).V	Action/Technology:cut (with knife).V	To slice or to divide into pieces with help of a knife or a knifelike object.	2156			
 Handiwork:cut (with scissors).V	Action/Technology:cut (with scissors).V	To divide into pieces with help of scissors, especially things like a rope, a piece of cloth, or a piece of paper.	2155			
+Handiwork:cut down.V	Action/Technology:cut down.V	To bring down by cutting.	355	9-221		
+Handiwork:cut or hack.V	Action/Technology:cut or hack.V	To perform an incision or chop something.	3889			
+Handiwork:cut.V	Action/Technology:cut.V	To perform an incision (for example, with a knife).	1432	9-22	schneiden::V	3727
 Handiwork:drill.N	Action/Technology:drill.N	A power tool designed to create holes by means of rotating the drill bits into hard material.	3423	9-99908		
+Handiwork:dry in sun.V	Action/Technology:dry in sun.V	To put something in the sun in order to dry it.	3364			
+Handiwork:fasten.V	Action/Technology:fasten.V	Tighten and close, for example a belt.	1094			
 Handiwork:file.N	Action/Technology:file (tool).N	A hand tool with a long flat metal bar used to re-shape objects.	3407	9-99909		
+Handiwork:fix.V	Action/Technology:fix.V	To restore something by replacing a broken part or putting together what is broken, or to repair a hole in a cloth or wheel.	3074			
 Handiwork:forge.V	Action/Technology:forge.V	To create and mold by hammering.	288	9-61		
 Handiwork:glue.V		To stick objects together with adhesive substance.			kleben::V	
+Handiwork:gnaw.V	Action/Technology:gnaw.V	Treat some material with one's teeth.	2706			
 Handiwork:grate.V	Action/Technology:grate (something).V	To abrade an object by rubbing it against a rough surface.	3114			
 Handiwork:grindstone.N	Action/Technology:grindstone.N	A grindstone is a round sharpening stone used for grinding or sharpening ferrous tools.	2459			
 Handiwork:hammer.N	Action/Technology:hammer.N	A tool with a heavy head and a handle used for pounding.	1481	9-49		
 Handiwork:hammer.V	Action/Technology:hammer (something).V	Strike or beat something with a hammer.	3115			
+Handiwork:hollow out.V	Action/Technology:hollow out.V	To make a hole in something.	46	9-461		
+Handiwork:knot.N	Action/Technology:knot.N	A loop of string or any other long flexible material which cannot be untied without pulling part of the string through the loops.	760	9-192	Knoten::N	
 Handiwork:mould.N	Action/Technology:mould.N	A frame or model around or on which something is formed or shaped.	1166			
 Handiwork:nail.N	Action/Technology:nail (tool).N	A spike-shaped metal fastener used for joining wood or similar materials.	502	9-5	Nagel::N	
 Handiwork:nail.V	Action/Technology:nail.V	To hammer a nail into something.	3306			
@@ -1330,10 +1379,12 @@ House:bed.N	House:bed.N	A piece of furniture, made for a person to sleep on.	166
 House:bedroom.N	House:bedroom.N	The area where people sleep.	2505			1538
 House:bench.N	House:bench.N	A piece of furniture offering place for many people.	2584	7-99901		
 House:blanket.N	House:blanket.N	A large cloth used for warmth and for sleeping.	806	7-422	Decke::N	1485
+House:campfire.N	Action/Technology:campfire.N	A campfire is a fire at a campsite that provides light and warmth, and heat for cooking.	2986		Lagerfeuer::N	
 House:cradle.N	Modernity:cradle.N	A bed for a baby.	2946		Wiege::N	
 House:curtain.N	Modernity:curtain.N	Piece of cloth on a window intended to obscure the interior of a room or to prevent people from looking inside.	2621			1486
 House:door knocker.N	Modernity:door knocker.N	An item at a door that allows people outside a house to alert those inside.	2598			
 House:escalator.N	Modernity:escalator.N	A moving staircase.	2596			
+House:fire stick.N	Action/Technology:fire stick.N	Sticks used specifically to set fire to something or to burn.	3016			
 House:guestroom.N		A room for guests.		7-99904		
 House:kitchen.N	House:kitchen.N	A room equipped for preparing and cooking food.	1365			1535
 House:live.V	House:dwell (live, reside).V	To live or dwell at home.	363	7-11	wohnen::V	1556
@@ -1357,18 +1408,20 @@ Hunting:net fishing.V	Action/Technology:fishing (with a net).V	To hunt for fishe
 Hunting:net.N	Action/Technology:net (for catching).N	A grid-like device used for fishing and sports.	2653			
 Hunting:trap.N	Combat/Hunting:trap (pitfall).N	A device for catching and holding animals.	1075	20-64	Falle::N	1223
 Hunting:trap.V	Combat/Hunting:trap (catch).V	To catch in a trap, to immobilize.	1170	20-65	fassen::V	
-Integrity:part.N	Quantity:part.N	A separate unit of a larger whole. All parts are needed to complete the whole thing.	779	13-23	Teil::N	2660
-Integrity:piece.N	Quantity:piece.N	A part that is broken, cut or separated from something larger and is usable on its own.	594	13-231	Stück::N	2661
-Integrity:whole.A	Space:whole.A	In its entirety.	2277			2640
 Interaction:agreement.N	Cognition:agreement.N	The state of sharing the same feeling or opinion.	3644			
 Interaction:betray.V	Cognition:betray.V	To harm someone or hurt their feelings by violating their trust or being disloyal to them.	1902	17-441		
+Interaction:careful.A	Action/Technology:careful.A	Be cautious.	2758			
 Interaction:choose.V	Emotion:choose.V	To make a choice from a number of alternatives.	1750	16-622	wählen::V	1984
 Interaction:deceive.V	Cognition:deceive.V	To trick someone by making them believe something that is not true or by acting in a dishonest way, usually in order to take advantage of it.	3230		täuschen::V	
+Interaction:endure.V	Action/Technology:endure.V	To allow (something that one dislikes or disagrees with) to continue to exist or occur without interference; accept or undergo, often unwillingly.	833		ertragen::V	
+Interaction:escape.V	Action/Technology:escape.V	To get free, to free oneself.	1615		flüchten::V	
+Interaction:flatter.V	Action/Technology:flatter.V	To praise somebody openly.	2709			
 Interaction:ignore.V	Cognition:ignore.V	To deliberately not listen or pay attention to.	41			
 Interaction:imitate.V	Cognition:imitate.V	To follow as a model or a pattern.	117	17-172		
 Interaction:induce.V	Cognition:induce.V	To encourage into action; to cause to act in a specified manner.	61			
 Interaction:kind or polite.A	Emotion:kind or polite.A	Being nice and giving off the impression of benevolence or keeping to a given society's standards of social manners in order to show respect.	583			
 Interaction:kind.A	Emotion:kind.A	Being nice and giving off the impression of benevolence.	3299			
+Interaction:let.V	Action/Technology:cause to (let).V	To allow or cause somebody to do something.	2896		lassen::V	
 Interaction:manner.N	Cognition:manner.N	Way of performing or effecting anything.	488	17-49		
 Interaction:neglect.N	Cognition:neglect.N	Failure to care for or attend to something.				2021
 Interaction:neglect.V		To fail to care for or attend to something.				
@@ -1386,8 +1439,10 @@ Law:verdict.N				21-99902
 Literature:alphabet.N	Communication:alphabet.N	alphabet				2243
 Material:brass.N	Action/Technology:brass.N	The copper-zinc alloy. A yellow-colored metal made of the mixture of copper and zinc and used in the making of decorations and musical instruments.	3743			3321
 Material:canvas.N		A type of coarse cloth, woven from hemp, useful for making sails and tents or as a surface for paintings.		9-99905		
+Material:glass.N	Action/Technology:glass.N	A hard, amorphous, inorganic, usually transparent, brittle substance made by fusing silicates, sometimes borates and phosphates, with certain basic oxides and then rapidly cooling to prevent crystallization.	604	9-74	Glas::N	3350
 Matter:ash.N	Nature:ash.N	The incombustible matter remaining after a substance has been incinerated.	646	1-84	Asche::N	
 Matter:ignite.V	Nature:light (ignite).V	To start a fire or light a flame.	737	1-86	anzünden::V	
+Matter:iron or metal.N	Action/Technology:iron or metal.N	A generic way of referring to either the ore or the finished product.	3324			
 Matter:rust.N	Action/Technology:rust.N	Any of various metallic coatings formed by corrosion, especially after oxidation in presence of water.	3064	9-99916		3549
 Matter:rusty.A	Nature:rusty.A	Having been affected by rust.	3870			
 Motion:approach.V	Motion:approach.V	To come near to; to move towards.	1778	10-56		
@@ -1461,6 +1516,8 @@ Music:violin.N				18-99906
 Music:violinist.N				18-99907		
 Music:whistle instrument.N	Action/Technology:whistle (instrument).N	Wind instrument most often made out of metal or wood used for producing a loud, shrill tone.	3107			
 Nature:brook.N	Nature:brook.N	A very shallow flowing body of water smaller than a creek that can easily be crossed.	3821		Bach::N	
+Nature:bushfire.N	Action/Technology:bushfire.N	An uncontrolled fire in a wooded or grassy area.	2811			
+Nature:clay.N	Action/Technology:clay.N	A loose, earthy, extremely fine-grained, natural sediment or soft rock composed primarily of clay-size or colloidal particles and characterized by high plasticity and by a considerable content of clay mineral and subordinate amounts of finely divided quartz, decomposed feldspar, carbonates, ferruginous matter, and other impurities; it forms a plastic, moldable mass when finely ground and mixed with water, retains its shape on drying, and becomes firm, rocklike and permanently hard on heating or firing.	1399	9-73	Lehm::N	3334
 Nature:flame.N	Nature:flame.N	A bright yellow, red or bluish light which emerges during combustion processes.	889	1-82		
 Nature:flame.V		To be on fire and producing especially bright flames		1-99911		
 Nature:nature.N	Agriculture/Plant:nature.N	The physical world including all living things as well as the land and the seas.	3897			
@@ -1487,20 +1544,27 @@ People:black woman.N	Family:black woman.N	Term used to describe women who are pe
 People:blind person.N	Family:blind person.N	Person who has a complete lack of form and visual light perception.	457			
 People:boy or son.N	Family:boy or son.N	Either a son or a boy.	2391			
 People:boy.N	Family:boy.N	A young male person, usually a child or teenager.	1366	2-25	Junge::N	307
+People:BRA.N		A Brazilian person.		19-99913		
 People:brave person.N	Family:brave person.N	A person with a brave character.	2226			
 People:chatterer.N	Family:chatterer.N	A person who talks a lot.	2207			
 People:child or offspring.N	Family:child.N	A young human or the descendant of a human.	2099			
 People:child.N	Family:child (young human).N	A person below the age of puberty.	1304	2-27	Kind::N	305
+People:CHN.N		A Chinese person.		19-99915		
 People:daughter or girl.N	Family:daughter or girl.N	Either a daughter or a girl.	2392			
 People:deaf person.N	Family:deaf person.N	Person who is  partial or total unable to hear.	458			
+People:DEU.N		A German person.		2-99906		
 People:disabled person.N	Body:disabled person.N	A person with a physical condition or mental disorder that is characterized by physical, sensory, cognitive or intellectual impairment.	3621			
+People:European.N		A European person.		19-99917		
 People:female.A	Family:female (of person).A	Relating to the female sex of humans.	2260	2-24		612
 People:female.N	Family:female person.N	A human belonging to the female sex.	2105			
 People:fool.N	Society:fool.N	A person with poor judgment or little intelligence.	1438	19-9992		
+People:FRA.N		the French person		19-99922		
 People:girl.N	Family:girl.N	A young female person, usually a child or teenager.	1646	2-26	Mädchen::N	309
 People:guest or stranger.N	Family:guest or stranger.N	Either a guest or a stranger.	2908			
 People:humankind.N		The human race as a whole.				
+People:HUN.N		A Hungarian person.		2-99907		
 People:husband or man.N	Family:husband or male person.N	Either the male partner in a marriage or a male person.	2646			
+People:left handed.A	Action/Technology:left handed.A	Preference of using the left hand.	2825			
 People:male.A	Family:male (of person).A	Relating to the male sex of humans.	2261	2-23		614
 People:man or person.N	Family:man or person.N	Either a man or a person (in general).	2645			
 People:man.N	Family:man.N	An adult human member of the sex that begets young by fertilizing ova.	1554	2-21	Mann::N	314
@@ -1508,6 +1572,7 @@ People:old man.N	Family:old man.N	A male person who is old of age.	406	2-461
 People:old person.N	Family:old person.N	An older person (usually considered to be above the age of 60).	725			
 People:old woman.N	Family:old woman.N	An old woman.	907	2-471		
 People:people.N	Family:people or person.N	Either multiple human beings or one human being.	2661		Leute::N	
+People:SVK.N		A Slovak person.		2-99915		
 People:twins.N	Family:twins.N	A case of multiple birth in which the mother gives birth to two offspring from the same pregnancy.	1005	2-458		
 People:virgin.N	Family:virgin.N	A person who has never engaged in sexual intercourse.	2298			
 People:white man.N	Family:white man.N	Term used to describe men who are perceived to be light-skinned.	2839			
@@ -1592,7 +1657,9 @@ Possession:generous.A	Emotion:generous.A	Willing to give more than expected, esp
 Possession:gift.N	Action/Technology:gift.N	A gift or a present is an item given to someone without the expectation of payment or return.	2982	11-99903	Geschenk::N	
 Possession:gratis.A	Possession:gratis (of charge).?	Free of charge, without cost.	130	11-99901		
 Possession:greedy.A	Emotion:greedy.A	Excessively desirous of money, wealth or possessions.	2018	16-83		
+Possession:hold or take.V	Action/Technology:hold or take.V	To grasp something or to carry something in ones hands.	2104			
 Possession:keep.V	Possession:keep.V	To retain possession of something.	1477	11-17	aufbewahren::V	
+Possession:lack.V	Action/Technology:lack (not have).V	To lack something or to describe the state when something is not there.	2329			1732
 Possession:market.N	Possession:market.N	Place of commercial activity in which articles are bought and sold.	633	11-85		1598
 Possession:poor person.N	Possession:poor person.N	A person with little or no possessions or money.	3662			
 Possession:poor.A	Possession:poor.A	With little or no possessions or money.	1674	11-52	arm::A	1716
@@ -1767,6 +1834,7 @@ Quantity:add.V	Action/Technology:add.V	Join or unite so as to bring about an inc
 Quantity:all.PRO	Quantity:all.?	The totality of.	98	13-14	alles::PRN	
 Quantity:by.ADP		Distributive numeral marker.		13-99902		
 Quantity:calculate.V	Modernity:calculate.V	To determine by mathematical processes.	2867		rechnen::V	2003
+Quantity:catty.CLF	Action/Technology:catty (mass unit).CLF	A traditional Chinese unit of mass used across East and Southeast Asia, notably for weighing food and other groceries in some wet markets, street markets, and shops.	2647			
 Quantity:count.N	Quantity:count (quantity).N	The total number of individual things in a given unit or sample obtained by counting all or a subsample of them.	2945		Anzahl::N	
 Quantity:count.V	Quantity:count.V	To determine the amount of something or to enumerate the digits of one's numeral system.	1420	13-107	zählen::V	
 Quantity:decrease.V	Action/Technology:decrease.V	To become smaller in number or size.	2864		abnehmen::V	
@@ -1774,6 +1842,7 @@ Quantity:empty.A	Quantity:empty.A	Without content.	1624	13-22	leer::A	2686
 Quantity:enough.ADV	Quantity:enough.?	All that is required, needed, or appropriate.	1881	13-18		2731
 Quantity:few pieces.A	Cognition:few pieces.?	More than one, but not as many as usual or as expected. (for countable nouns)	3451			
 Quantity:fill.V	Quantity:fill.V	To make full.	2006	13-99907	füllen::V	
+Quantity:foot.N	Action/Technology:foot (unit).N	A unit of length.	2688			
 Quantity:full.A	Quantity:full.A	Containing the most or maximum amount possible in the given available space.	1429	13-21	voll::A	2685
 Quantity:increase.V	Action/Technology:increase.V	(Of a quantity) to become bigger.	1041		zunehmen::V	
 Quantity:little.A	Quantity:little.A	A small quantity of.				2647
@@ -1783,14 +1852,24 @@ Quantity:more.A	Quantity:more.A	more (a larger quantity of) 				2645
 Quantity:most.A	Quantity:most.A	most (the largest quantity of) 				2646
 Quantity:much.A	Cognition:much.?	An indefinite large number of. (for mass nouns)	3452			2644
 Quantity:multiply.V	Quantity:multiply.V	multiply 				2624
+Region:AUS.N		Australia.		19-99902		
+Region:CHN.N		China		19-99903		
+Region:EGY.N		Egypt		19-99904		
+Region:GRC.N		Greece		19-99906		
+Region:IND.N		India		19-99907		
+Region:MDG.N		Madagascar		19-99908		
+Region:SPA.N		Spain		19-99911		
 Relation:alone.A	Quantity:alone.A	Without any others being included or involved.	1964	13-331	allein::ADV	
 Relation:identity.N	Cognition:identity.N	A persisting state of being the same for an entity or someone, from an objective or a subjective standpoint.	3960			
 Relation:kind.N	Cognition:kind (thing).N	A category of things distinguished by a common characteristic or quality.	844		Art::N	
 Relation:main.A	Cognition:main.?	The most important element.	1078			
 Relation:necessary.A	Cognition:necessary.?	Needed for a purpose or a reason.	1030			
 Relation:necessity.N	Cognition:necessity.N	Something that needs to be done.	422			
+Relation:part.N	Quantity:part.N	A separate unit of a larger whole. All parts are needed to complete the whole thing.	779	13-23	Teil::N	2660
+Relation:piece.N	Quantity:piece.N	A part that is broken, cut or separated from something larger and is usable on its own.	594	13-231	Stück::N	2661
 Relation:strange.A	Cognition:strange.A	Out of the ordinary.	600			1965
 Relation:together.ADV	Space:together.?	In proximity to each other (of two things).	2482		zusammen::ADV	
+Relation:whole.A	Space:whole.A	In its entirety.	2277			2640
 Society:emperor.N	Society:emperor.N	The supreme leader of an empire.	3377			
 Society:help.N	Society:help.N	The act of helping someone.	3467		Hilfe::N	
 Society:help.V	Society:help.V	To give assistance or aid to.	1897	19-58		2155
@@ -1831,12 +1910,17 @@ Sound:whistle.V	Language:whistle.V	To make a sound or a melody by forcing the br
 Space:apart.ADV	Direction:apart.ADV	apart 		12-99901		2950
 Space:back.ADV	Space:back (direction).?	Toward the previous place or condition where one came from.	2910	12-99902	zurück::ADV	2921
 Space:cover.V	Space:cover.V	To place something over or upon to conceal or protect.	761	12-26	bedecken::V	1252
+Space:diminish.V	Action/Technology:diminish.V	To make smaller.	1184			
 Space:east.N	Space:east.N	One of the four principal compass points, specifically 90°, conventionally directed to the right on maps. The direction of the rising sun.	1877	12-45	Osten::N	2914
 Space:encircle.V	Action/Technology:encircle.V	To enclose or cause to be enclosed; to surround; to confine.	3274			
 Space:everywhere.PRO	Space:everywhere.?	In all places.	2999		überall::ADV	
 Space:flat.A	Space:flat.A	Having no variations in altitude.	1633	12-71	flach::A	
 Space:from here.ADV	Space:from here.?	Directed from here towards another direction.	2927		von hier::ADV	
+Space:get lost.V	Action/Technology:get lost.V	To end up in an unknown place, to be not to be found again, to get lost, to irrecoverably slip away.	423			
 Space:in front of.ADP	Space:in front of.?	In front of in space	1883	12-041	vor::PRP	
+Space:lay.V	Action/Technology:lay (verb).V	To place down in a position of rest, or in a horizontal position.	2071		legen::V	
+Space:lean.V	Action/Technology:lean.V	To bend or move from a vertical position or to make something do that.	3619			
+Space:lost.A	Action/Technology:lost.A	Not knowing where you are and unable to find the way.	3667			
 Space:north.N	Space:north.N	One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map.	1598	12-47	Norden::N	2910
 Space:open.V	Space:open.V	To make the inside something accessible by moving an obstacle aside (e.g. a door or covering), or to move said obstacle.	1156	12-24	öffnen::V	
 Space:pick up.V	Space:pick up.V	To lift; to grasp and raise; to collect.	371	12-212	aufheben::V	
@@ -1854,6 +1938,7 @@ Storage:basket.N	Action/Technology:basket.N	A lightweight container, generally r
 Storage:bottle.N	Modernity:bottle.N	A container, typically made of glass and having a tapered neck, used for holding liquids.	1321	23-56		1303
 Storage:box.N	Modernity:box.N	A generic man-made object with space in it (commonly made of cardboard or wood) that is used to keep and store many various different objects.	1465		Kiste::N	1305
 Storage:bucket.N	Action/Technology:bucket.N	Typically a watertight, vertical cylinder or truncated cone, with an open top and a flat bottom, attached to a semicircular carrying handle called the bail.	2052	9-99903	Eimer::N	1306
+Storage:bundle.N	Action/Technology:bundle.N	A group of things fastened together.	2943		Bündel::N	
 Storage:can.N	Modernity:can.N	A small, round-shaped metal container, used for different purposes like storing food or liquids, or collecting money.	1051	23-54		
 Storage:case.N		A box possibly with compartments that can contain a number of identical items, like bottles.		7-99902		
 Storage:chest.N	Modernity:box or chest.N	A strong box with a lid on top and with space in it that is used to keep and store many various different objects.	3150			
@@ -1890,6 +1975,7 @@ Time:begin.V	Time:start.V	(Of an activity) to begin.	3449
 Time:beginning.N	Time:beginning.N	The beginning of an activity or event.	1557	14-251		
 Time:calendar.N	Modernity:calendar.N	A table showing the months and days of the year.	1967	23-61		
 Time:Chinese New Year.N				14-99901		
+Time:continue.V	Action/Technology:continue.V	To carry on with something or to keep existing or happening.	3699			3236
 Time:December.N	Time:december.N	The 12th month of the Gregorian calendar.	2855		Dezember::N	4012
 Time:dry season.N	Time:dry season.N	Yearly period of low rainfall in the tropics.	452			
 Time:early.A	Time:early.A	Before the expected time or towards the beginning of a time period.	672	14-16		3250
@@ -2058,6 +2144,7 @@ Vision:brilliant.A	Perception:brilliant.A	(Of a color) having a high saturation 
 Vision:brown.A	Perception:brown.A	Having a brown color.	2409	15-99901		847
 Vision:color.N	Perception:color.N	color				830
 Vision:darkness.N	Nature:darkness.N	Absence of light.	11	1-62		
+Vision:glasses.N	Action/Technology:glasses.N	Frames bearing lenses worn in front of the eyes used for vision correction.	2292			
 Vision:green.A	Perception:green.A	Having green as its colour; having the hue of that portion of the visible spectrum lying between yellow and blue, evoked in the human observer by radiant energy with wavelengths of approximately 490 to 570 nanometers.	1425	15-68	grün::A	841
 Vision:grey.A	Perception:grey.A	Having a colour between black and white, like ash or stone.	153	15-99902	grau::A	832
 Vision:orange.A	Perception:orange (color).A	A bright reddish-yellowish colour.	3328	15-99903		837
@@ -2068,13 +2155,14 @@ Vision:white.A	Perception:white.A	Bright and colourless; reflecting equal quanti
 Vision:yellow.A	Perception:yellow.A	Having the colour of a yolk, a lemon or gold.	1424	15-69	gelb::A	839
 Work:difficult.A	Cognition:difficult.A	Not easy, which needs hard work, patience and effort of either the physical or mental kind.	584	17-47		3933
 Work:easy.A	Cognition:easy.A	Requiring little skill or effort; posing no difficulty.	686	17-46		3932
+Work:labour.N	Action/Technology:labour (effort).N	Work that has to be done and inflicts mental or physical pain.	2525			
 Work:lazy.A	Body:lazy.A	Unwilling to do work or make an effort.	1564	4-92	faul::A	
 Work:repair.V	Action/Technology:repair.V	To restore something by replacing a broken part or putting together what is broken.	2243		reparieren::V	
 Work:result in.V	Cognition:result in.V	Having a specific result, a logical consequence.	1723		geraten::V	
 Work:skilled.A	Action/Technology:skilled.A	Experienced and clever, professional.	807			
 Work:succeed.V	Cognition:succeed.V	To attain a desired goal.	1112		gelingen::V	
 Work:tool.N	Action/Technology:tool.N	A mechanical device intended to make a task easier.	1361	9-422		
-Work:try.V	Cognition:try.V	To attempt to do something.	1812	17-48	versuchen::V	
+Action:try.V	Cognition:try.V	To attempt to do something.	1812	17-48	versuchen::V	
 Work:work.N	Action/Technology:work (labour).N	Productive activity, service, trade, or craft for which one is regularly paid.	984	9-12	Arbeit::N	
 Work:work.V	Action/Technology:work (activity).V	To do a specific task by employing physical or mental powers.	1086		arbeiten::V	
 Work:worker.N	Modernity:worker.N	Somebody who works.	2977		Arbeiter::N	
@@ -2089,96 +2177,26 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Action/Technology:because of.?	For the reason of.	2918		wegen::PRP	171
 	Action/Technology:become extinguished.V	Being stopped from burning or emitting light.	2209			
 	Action/Technology:birth (accouchement).N	The process of giving birth to a child.	2805			
-	Action/Technology:break (breaking).V	To come apart or split into pieces (intransitive).	3020			
-	Action/Technology:break (cleave).V	To divide something with force in two or more parts.	2558		zerbrechen::V	
-	Action/Technology:break (destroy or get destroyed).V	To divide or be divided into pieces and thereby damaged.	680	9-26	brechen::V	
 	Action/Technology:break (of rope).V	The breaking of a thread or strap.	460		reißen::V	
-	Action/Technology:breath or life.N	The act of inhalation and exhalation of air as one part of physiological respiration required to sustain life, or the fact that life is sustained itself.	2269			
-	Action/Technology:broken (not working).A	Not capable of working.	3190	9-261		
-	Action/Technology:broken (shattered).A	Broken into pieces.	3191			
-	Action/Technology:broken.A	Not capable of working or broken into pieces.	588			
-	Action/Technology:bundle.N	A group of things fastened together.	2943		Bündel::N	
 	Action/Technology:burden stick.N	A long piece of wood used to carry a burden.	3159			
 	Action/Technology:burn.V	To put fire on something or to be on fire.	2102			
 	Action/Technology:bury.V	To put in the ground and cover with earth.	1719	4-78		
-	Action/Technology:bushfire.N	An uncontrolled fire in a wooded or grassy area.	2811			
-	Action/Technology:by (passive marker).?	Marker of the agent in a passive sentence.	2751			
-	Action/Technology:campfire.N	A campfire is a fire at a campsite that provides light and warmth, and heat for cooking.	2986		Lagerfeuer::N	
-	Action/Technology:careful.A	Be cautious.	2758			
-	Action/Technology:catty (mass unit).CLF	A traditional Chinese unit of mass used across East and Southeast Asia, notably for weighing food and other groceries in some wet markets, street markets, and shops.	2647			
-	Action/Technology:cause to (let).V	To allow or cause somebody to do something.	2896		lassen::V	
-	Action/Technology:cease or finish.V	To stop doing something, voluntarily or involuntarily.	2115			
-	Action/Technology:chain.N	A series of interlocked rings or links forming a flexible length.	1627	9-18		
-	Action/Technology:chop (into pieces).V	To chop meat, vegetables etc. into small pieces.	2149		hacken::V	
-	Action/Technology:chop.V	To chop wood, or to chop meat, vegetables etc. into small pieces.	155	9-222		
-	Action/Technology:clay.N	A loose, earthy, extremely fine-grained, natural sediment or soft rock composed primarily of clay-size or colloidal particles and characterized by high plasticity and by a considerable content of clay mineral and subordinate amounts of finely divided quartz, decomposed feldspar, carbonates, ferruginous matter, and other impurities; it forms a plastic, moldable mass when finely ground and mixed with water, retains its shape on drying, and becomes firm, rocklike and permanently hard on heating or firing.	1399	9-73	Lehm::N	
 	Action/Technology:clog (something).V	To block a fluid or similar from running through a pipe-like object.	2707			
-	Action/Technology:collapse.V	To fall down suddenly because of pressure or having no strength or support.	3986			
-	Action/Technology:continue.V	To carry on with something or to keep existing or happening.	3699			
-	Action/Technology:cut down.V	To bring down by cutting.	355	9-221		
-	Action/Technology:cut or hack.V	To perform an incision or chop something.	3889			
-	Action/Technology:cut.V	To perform an incision (for example, with a knife).	1432	9-22	schneiden::V	
-	Action/Technology:despise.V	To feel a strong dislike for something.	2715			
-	Action/Technology:dexterous.A	Nimble in the use of the hands or body.	1824		geschickt::A	
-	Action/Technology:die (from accident).V	To cease to live due to unforeseen circumstances.	2865		umkommen::V	
-	Action/Technology:diminish.V	To make smaller.	1184			
 	Action/Technology:dip.V	To put something partially in a liquid for a short time and take it out again.	3697	10-99904		
-	Action/Technology:do or make.V	To do something or to make something.	2575			
-	Action/Technology:do.V	To perform an action.	813	9-11	tun::V	
 	Action/Technology:draw (water).V	To draw by a physical force causing or tending to cause to approach, adhere, or unite.	1911	9-9		
-	Action/Technology:dry in sun.V	To put something in the sun in order to dry it.	3364			
 	Action/Technology:dry up.V	To lose moisture, usually through evaporation or absorption.	1786		trocknen::V	
-	Action/Technology:dustpan.N	A cleaning utensil, commonly used in combination with a broom or brush.	2051			
 	Action/Technology:emerge (appear).V	To become known or apparent.	1076		erscheinen::V	
-	Action/Technology:endure.V	To allow (something that one dislikes or disagrees with) to continue to exist or occur without interference; accept or undergo, often unwillingly.	833		ertragen::V	
-	Action/Technology:escape.V	To get free, to free oneself.	1615		flüchten::V	
-	Action/Technology:explode.V	To burst violently as a result of internal pressure.	3976			
 	Action/Technology:fade (loose color).V	Loose color (of cloth or other material).	2704			
-	Action/Technology:fail.V	Not succeeding in an endeavour (of persons) or to stop working as intended (of objects).	3861			
-	Action/Technology:fasten.V	Tighten and close, for example a belt.	1094			
-	Action/Technology:fire stick.N	Sticks used specifically to set fire to something or to burn.	3016			
-	Action/Technology:fix.V	To restore something by replacing a broken part or putting together what is broken, or to repair a hole in a cloth or wheel.	3074			
-	Action/Technology:flail.N	A manual device used for beating or striking with, consisting of a free-swinging stick attached to a handle.	3057			
-	Action/Technology:flatter.V	To praise somebody openly.	2709			
-	Action/Technology:fold.V	To bend a thin material (such as paper) over so that it comes in contact with itself.	1470	9-15		
-	Action/Technology:foot (unit).N	A unit of length.	2688			
-	Action/Technology:get dizzy.V	Experience an impairment in spatial perception and stability.	2712			
-	Action/Technology:get drunk.V	Activity of drinking alcoholic beverages that leads to having an altered conciousness.	3980			
-	Action/Technology:get lost.V	To end up in an unknown place, to be not to be found again, to get lost, to irrecoverably slip away.	423			
-	Action/Technology:glass.N	A hard, amorphous, inorganic, usually transparent, brittle substance made by fusing silicates, sometimes borates and phosphates, with certain basic oxides and then rapidly cooling to prevent crystallization.	604	9-74	Glas::N	
-	Action/Technology:glasses.N	Frames bearing lenses worn in front of the eyes used for vision correction.	2292			
 	Action/Technology:glue.N	Substance used for sticking objects together.	1069	9-56		
-	Action/Technology:gnaw.V	Treat some material with one's teeth.	2706			
-	Action/Technology:gridiron.N	Wooden grill used to dry or smoke meat or fish	3932			
 	Action/Technology:handle.N	A part of an object meant to hold that object with (e.g. the handle of a mug, pan or bag).	1254		Griff::N	
-	Action/Technology:hang up.V	To put up to hang.	357	9-341	aufhängen::V	
-	Action/Technology:hang.V	Remain suspended to some point above.	2884		hängen::V	
-	Action/Technology:happen.V	To come to pass.	248		passieren::V	
-	Action/Technology:hardly.?	Barely perceivable or noticeable.	2926		kaum::ADV	
 	Action/Technology:hit (a target).V	To hit something that someone has aimed for.	3307			
 	Action/Technology:hit.V	To hit against with a sharp blow or to impel, usually with a hand or weapon or to be forcefully or suddenly contacting, e.g. a tree falling down and hitting the ground.	1433			
-	Action/Technology:hold or take.V	To grasp something or to carry something in ones hands.	2104			
-	Action/Technology:hollow out.V	To make a hole in something.	46	9-461		
-	Action/Technology:inhale.V	Breathe in some substance (smoke, steam) other than air.	2705			
-	Action/Technology:intact.A	That has not been impaired or altered; lacking nothing essential, especially not damaged.	220			
-	Action/Technology:iron or metal.N	A generic way of referring to either the ore or the finished product.	3324			
 	Action/Technology:jog (something).V	To shake something.	2899		rütteln::V	
-	Action/Technology:knot.N	A loop of string or any other long flexible material which cannot be untied without pulling part of the string through the loops.	760	9-192	Knoten::N	
-	Action/Technology:labour (effort).N	Work that has to be done and inflicts mental or physical pain.	2525			
-	Action/Technology:lack (not have).V	To lack something or to describe the state when something is not there.	2329			
-	Action/Technology:ladder or stairs.N	Construction consisting of steps designed to bridge vertical distances.	2689			
-	Action/Technology:launder (wash clothes).V	To remove dirt from clothes.	2503			
-	Action/Technology:lay (verb).V	To place down in a position of rest, or in a horizontal position.	2071		legen::V	
-	Action/Technology:lean.V	To bend or move from a vertical position or to make something do that.	3619			
 	Action/Technology:leash.N	A leash is a rope or similar material attached to the neck or head of an animal for restraint or control.	2959		Leine::N	
-	Action/Technology:leather or hide.N	A generic way of referring to either cured or uncured animal hides.	3326			
-	Action/Technology:left handed.A	Preference of using the left hand.	2825			
 	Action/Technology:lighter.N	Portable instrument for igniting something.	3092			
 	Action/Technology:loose.A	Being not tight.	2506			
 	Action/Technology:loosen.V	To make undone or untied ; to free from any fastening.	1933			
-	Action/Technology:lost.A	Not knowing where you are and unable to find the way.	3667			
 	Action/Technology:make dry.V	To remove the moisture and make dry.	2015			
-	Action/Technology:make.V	To create something by combining or assembling materials or parts or by changing it.	734	9-111	machen::V	
 	Action/Technology:manage.V	To watch and direct someone and/or some activity; to be in charge.	3073			
 	Action/Technology:massage (somebody).V	To rub someone's body with the hands.	3119			
 	Action/Technology:mat.N	A flat object laid on the floor to protect a person from the hard floor.	195	9-77		
@@ -2870,7 +2888,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Behavior:embarrassment.N	embarrassment				2103
 	Behavior:enthusiasm.N	enthusiasm, zeal				2119
 	Behavior:foolish.A	foolish 				2109
-	Behavior:forgive.V	forgive, pardon 				2120
 	Behavior:funny.A	funny, comical 				2107
 	Behavior:grateful.A	grateful, thankful 				2121
 	Behavior:guard.V	guard, monitor, watch over 				2122
@@ -2885,8 +2902,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Behavior:mercy.N	mercy				2128
 	Behavior:nice.A	nice, kind, affable 				2129
 	Behavior:oppose.V	oppose 				2158
-	Behavior:patience.N	patience				2130
-	Behavior:pity.V	pity, feel compassion toward, feel sorry for 				2131
 	Behavior:pretend.V	pretend, act, feign 				2132
 	Behavior:pride.N	pride (proudness; self-respect)				2101
 	Behavior:protect.V	protect, defend 				2153
@@ -3115,7 +3130,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Business:invest.V	invest 				1790
 	Business:job.N	job, employment				1795
 	Business:keep.V	"keep, retain, go on having (e.g. ""you should keep this book"") "				1731
-	Business:lack.V	lack (be without) 				1732
 	Business:lend.V	lend 				1761
 	Business:lose.V	lose (cease having; contra-acquire) 				1733
 	Business:loss.N	loss (contra-profit)				1792
@@ -3380,8 +3394,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Emotion:nervous.A	A mental state of nervousness or agitation. Also, being easily excited or irritated.	3975			
 	Emotion:painful or sick.A	To cause pain or to be ill.	2103			
 	Emotion:passionate.A	Characterized by intense emotion.	1880			
-	Emotion:patient.A	Enduring difficult situations or a long waiting time with an even temper.	3884			
-	Emotion:pity.N	Deep awareness of the suffering of another, coupled with the wish to relieve it.	1141	16-35		
 	Emotion:play.V	To act in a manner such that one has fun; to engage in playful activities expressly for the purpose of recreation.	1413	16-26	spielen::V	
 	Emotion:pleasure.N	An emotional state of sensual gratification or frivolous amusement.	3916			
 	Emotion:precious.A	Being dear or important to somebody.	3002		wertvoll::A	
@@ -3420,7 +3432,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Event:exercise.N	exercise, practice (effort made to improve skills/health)				3934
 	Event:fail.V	fail 				3942
 	Event:flaw.N	flaw, defect, imperfection				3908
-	Event:happen.V	happen, occur 				3901
 	Event:injure.V	injure, damage, harm 				3960
 	Event:method.N	method, manner, way (of doing), technique				3931
 	Event:miracle.N	miracle				3904
@@ -4125,11 +4136,9 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Matter:burst.V	burst 				3719
 	Matter:chalk.N	chalk				3337
 	Matter:chemical.N	chemical (substance made by or used in chemistry)				3395
-	Matter:clay.N	clay				3334
 	Matter:consume.V	consume, deplete, expend, exhaust, use up 				3721
 	Matter:contain.V	contain 				3723
 	Matter:crush.V	crush (press on so as to break or re-shape) 				3725
-	Matter:cut.V	cut 				3727
 	Matter:dig.V	dig 				3729
 	Matter:dirt.N	dirt, earth (tangible), soil				3330
 	Matter:dissolve.V	dissolve 				3731
@@ -4148,7 +4157,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Matter:fuel.N	fuel				3310
 	Matter:garbage.N	garbage, trash, rubbish				3399
 	Matter:gentle.A	gentle, mild 				3811
-	Matter:glass.N	glass				3350
 	Matter:gravity.N	gravity				3840
 	Matter:grind.V	grind 				3745
 	Matter:hang.V	hang, suspend, dangle 				3747
@@ -5290,7 +5298,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Time:century.N	century				3276
 	Time:clock.N	An instrument used to measure or keep track of time.	1323	14-53		
 	Time:constant.A	constant, invariant, stable 				3217
-	Time:continue.V	continue, keep on doing/being 				3236
 	Time:cycle.N	cycle (one complete performance of a periodic process)				3223
 	Time:date.N	date (coordinates of a day given in some timekeeping system)				3282
 	Time:dawn.N	A period of time at the beginning of the day shortly before sunrise during which the light gradually becomes stronger.	729	14-43		
@@ -5478,35 +5485,22 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 	Value:virtuous.N	virtuous				1907
 		(superlative marker)		24-99911		
 		A bag made of skin for containing water or wine.		9-9992		
-		A Brazilian person.		19-99913		
-		A Chinese person.		19-99915		
 		A Creole or black person.		19-99918		
-		A European person.		19-99917		
 		A flat stone used as the floor of either an open fire or an enclosed fireplace or oven.		9-99912		
-		A German person.		2-99906		
-		A Hungarian person.		2-99907		
 		A kind of Japanese fish cake.		5-99911		
 		A man-made landing place for boats and ships on a shore or river bank.		9-99926		
 		A non-Gypsy person.		2-9991		
-		A Slovak person.		2-99915		
 		A small, usually one-wheeled cart with handles at one end for transporting small loads.		9-99927		
 		A Vlax Gypsy person.		2-99918		
 		Amomum, a genus of plants in the ginger family.		8-99902		
 		An odorant plant that gorws in the bleak plateaus. sp. Micromeria nubigena.		8-99916		
 		Anatto, a derivative of the achiote trees of tropical regions of the Americas, used to produce a red food coloring.		8-99903		
 		Arabia		19-99901		
-		Australia.		19-99902		
-		China		19-99903		
-		Egypt		19-99904		
-		Greece		19-99906		
-		India		19-99907		
-		Madagascar		19-99908		
 		Rarotonga		19-99909		
 		Sated, statiate, full-up of eating.		5-99902		
 		Scarcity		17-99904		
 		Sir, the epithet that is used with male given names.		19-9991		
 		Smoked food.		5-99918		
-		Spain		19-99911		
 		the amphibian		3-99903		
 		The Andean guinea pig, that is raised for food, medicine and ritual in the Andes.		3-99904		
 		the Andean owl		3-99905		
@@ -5523,7 +5517,6 @@ Work:workshop.N	Modernity:workshop.N	A room or building in which work, especiall
 		The constellation		1-99904		
 		The cutlass, a short sword.		20-99902		
 		the foreman		19-99921		
-		the French person		19-99922		
 		the government document		19-99923		
 		the herd		3-99917		
 		The hocco, the crested curassow, also called royal pheasant		3-99918		
