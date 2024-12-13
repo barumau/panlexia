@@ -19,6 +19,8 @@ Concepticon = 'data/Concepticon/concepticon.tsv'
 Concepticon_WOLD = 'data/Concepticon/Haspelmath-2009-1460.tsv'
 NorthEuraLex = 'data/Concepticon/Dellert-2017-1016.tsv'
 ULD_file = 'data/ULD/ULD.tsv'
+Borin = 'data/Concepticon/Borin-2015-1532.tsv'
+master_file = 'data/master.tsv'
 
 simple_semantic_field_from = {
     "The physical world" : "Nature",
@@ -166,8 +168,35 @@ def sort_and_write_to_file(id_map, filename):
     for row in sorted_map:
         id_writer.dict.writerow(["", row[0], row[1], row[2], row[3], row[4], row[5]])
 
+def get_PWN_id_by_Concepticon_id(concepticon_id):
+    """Finds and returns Princeton WordNet offset and PoS by Concepticon id or empty if not found."""
+    concepticon = helpers.tsv_reader(Borin)
+
+    for row in concepticon.dict:
+        if row["CONCEPTICON_ID"] == concepticon_id:
+            offset = row["PWN_SYNSET"].replace('n', '').replace('a', '').replace('v', '').replace('r', '')
+            offset_and_pos = offset + "\t" + row["PWN_POS"]
+            return offset_and_pos
+
+    return ""
+
+def map_Concepticon_ids_to_PWN_synset_ids():
+    """Prints mapping of Concepticon ids to WordNet offset and PoS."""
+    master = helpers.tsv_reader(master_file)
+    i = 0
+    for row in master.dict:
+        concepticon_id = row["Concepticon_id"]
+        if concepticon_id != "":
+            pwn_id = get_WN_id_by_Concepticon_id(concepticon_id)
+            print(f"{concepticon_id}\t{pwn_id}")
+            if pwn_id != "":
+                i = i + 1
+        else:
+            print("\t\t\t")
+    print("Mapped ", i, " ids to PWN.")
+
 # Execution begins
 id_map = []
 create_initial_concept_id_definition_map(id_map)
 create_initial_concept_ids_from_ULD(id_map)
-sort_and_write_to_file(id_map, "data/master.tsv")
+sort_and_write_to_file(id_map, master_file)
