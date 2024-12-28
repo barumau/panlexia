@@ -125,20 +125,20 @@ Action/Technology:tie.V	no	To establish connection between two or more things.	1
 Action/Technology:tight.A	no	Being not loose.	2403505	a	3053			
 								
 Action/Technology:tin or tinplate.N	no	A metallic element with symbol Sn or a thin sheet of steel coated with tin to prevent rusting.	4439840	n	3217	9-69		
-Cound:tinkle.V	no	Emit a sound suggestive of a tinkle.			2888		klirren::V	
-Action/Technology:tinplate.N	no	A thin sheet of steel coated with tin to prevent rusting; used to make cans etc.			358			
+Sound:tinkle.V	no	Emit a sound suggestive of a tinkle.	2186506	v	2888		klirren::V	
+Action/Technology:tinplate.N	no	A thin sheet of steel coated with tin to prevent rusting; used to make cans etc.	4439840	n	358			
 Action/Technology:torch or lamp.N	no	Any portable device that produces light.	4456115	n	2131	7-45		
-Action/Technology:try (test).V	no	To put something to trial, to test whether something works as expected.			2571			
-Action/Technology:tug.V	no	A great force, applied in order that an object will move towards the origin of the force that was applied to it.			2029			
-Action/Technology:tumble (fall down).V	no	To fall down accidentally.			2894		hinfallen::V	
+Action/Technology:try (test).V	no	To put something to trial, to test whether something works as expected.	2531625	v	2571			
+Action/Technology:tug.V	no	A great force, applied in order that an object will move towards the origin of the force that was applied to it.	1452918	v	2029			
+Action/Technology:tumble.V	no	To fall down accidentally.	1976488	v	2894		hinfallen::V	
 Action/Technology:tumpline.N	no	A strap slung over the forehead or chest used (especially by native Americans) for carrying packs or loads.			294	9-92		
-Action/Technology:turn over.V	no	To change the direction one is facing while lying in bed, on the floor, or similar.			3537			
-Action/Technology:twinkle.V	no	Shine with flickering light.			2889		funkeln::V	
-Action/Technology:uncover.V	no	To uncover; to show and display that which was hidden.			1108			
+Action/Technology:turn over.V	no	To change the direction one is facing while lying in bed, on the floor, or similar.	1222958	v	3537			
+Action/Technology:twinkle.V	no	Shine with flickering light.	2159890	v	2889		funkeln::V	
+Action/Technology:uncover.V	no	To uncover; to show and display that which was hidden.	2143283	v	1108			
 Action/Technology:untie.V	no	To loosen, as something interlaced or knotted; to disengage the parts of. To unbind, to free from restraint.	1284461	v	352	9-161		
-Action/Technology:use (verb).V	no	To employ an object, often to reach a certain goal; to put into service.			2072			
-Action/Technology:warm up.V	no	To make warm or warmer.			2032			
-Motion:wave.V	yes	To move one's hand or arm in a waving motion, with or without holding something like a flag.			3544			
+Action/Technology:use.V	no	To employ an object, often to reach a certain goal; to put into service.	1158872	v	2072			
+Action/Technology:warm up.V	no	To make warm or warmer.	372958	v	2032			
+Motion:wave.V	yes	To move one's hand or arm in a waving motion, with or without holding something like a flag.	1041415	v	3544			
 Action/Technology:working or work.?	no	The process by which one produces something (sometimes also in exchange for money).			2281			
 Adposition:about.ADP	no	about (pertaining to; on the topic of)						170
 Adposition:above.ADP	no	above, over						120
@@ -172,9 +172,9 @@ Adposition:under.ADP	no	under, below, beneath						121
 Adposition:with.ADP	no	with (accompanied by / furnished with)						150
 Adposition:without.ADP	no	without (not with)						151
 Agriculture:burn land.V	yes	Clear an area with fire.			3539			
-Agriculture:crops.N	yes	The output of plants cultivated that is grown on a large scale.			3081			
+Agriculture:crop.N	yes	The output of plants cultivated that is grown on a large scale.	13085864	n	3081			
 Agriculture:cultivate.V	yes	To prepare an area by tilling, planting seeds etc. in order to grow plants.	1741446	v	1541	8-15		
-Agriculture:farm.N	yes	Any tract of land or building used for agricultural purposes, such as for raising crops and livestock.			201			1595
+Agriculture:farm.N	yes	Any tract of land or building used for agricultural purposes, such as for raising crops and livestock.	3322099	n	201			1595
 Agriculture:farmer.N	yes	A person who works the land or who keeps livestock, especially on a farm.	10078806	n	979	8-11		
 Agriculture:flail.N	yes	A manual device used for beating or striking with, consisting of a free-swinging stick attached to a handle.			3057			
 Agriculture:grow.V	yes	To cultivate a specific type of plant in order to harvest it.			3461	8-9996		
