@@ -1,26 +1,26 @@
 id	final	Definition	WN_offset	WN_PoS	Concepticon_id	WOLD_id	NELex_id	ULD_id
-Action:automatic.A	yes	Capable of operating without external control or intervention.	181476	 a 				2034
+Action:automatic.A	yes	Capable of operating without external control or intervention.	181476	a				2034
 Action:broken.A	yes	Not capable of working.	680156	a	3190	9-261		
 Action:can.V	yes	To have the ability to do something.			972	24-99902	können::V	208
-Action:discontinue.V	yes	To stop doing something, voluntarily or involuntarily.	2680814	 v 	2115			3239
+Action:discontinue.V	yes	To stop doing something, voluntarily or involuntarily.	2680814	v	2115			3239
 Action:dexterous.A	yes	Nimble in the use of the hands or body.	62367	 s 	1824		geschickt::A	
 Action:do or make.V	yes	To do something or to make something.			2575			
 Action:do.V	yes	To perform an action.	10435	v	813	9-11	tun::V	
-Action:fail.V	yes	Not succeeding in an endeavour (of persons) or to stop working as intended (of objects).	2529284	 v 	3861			
+Action:fail.V	yes	Not succeeding in an endeavour (of persons) or to stop working as intended (of objects).	2529284	v	3861			
 Action:get up from bed.V	yes	To leave one's place of sleeping.			3350		aufstehen::V	
 Action:hang up.V	yes	To put up to hang.	1481360	v	357	9-341	aufhängen::V	
-Action:hang.V	yes	Remain suspended to some point above.	1482075	 v 	2884		hängen::V	
-Action:happen.V	yes	To come to pass.	339934	 v 	248		passieren::V	3901
+Action:hang.V	yes	Remain suspended to some point above.	1482075	v	2884		hängen::V	
+Action:happen.V	yes	To come to pass.	339934	v	248		passieren::V	3901
 Action:hardly.ADV	yes	Barely perceivable or noticeable.	3093	r	2926		kaum::ADV	
-Action:hinder.V	yes	To make difficult to accomplish; to frustrate, act as obstacle; to keep back; to delay or impede.	2451370	 v 	554		behindern::V	
+Action:hinder.V	yes	To make difficult to accomplish; to frustrate, act as obstacle; to keep back; to delay or impede.	2451370	v	554		behindern::V	
 Action:make.V	yes	To create something by combining or assembling materials or parts or by changing it.	1621555	v	734	9-111	machen::V	
 Action:stop.V	yes	To stop doing the action one was doing.	2680814	v	3351		aufhören::V	
 Action:try.V	yes	To attempt to do something.	2530167	v	1812	17-48	versuchen::V	
-Action/Technology:accustom.V	no	Get used to something.	273445	 v 	1118			
+Action/Technology:accustom.V	no	Get used to something.	273445	v	1118			
 Action/Technology:against.A	no	In opposite direction to.			2469			
-Action/Technology:amuse oneself (have fun).V	no	To do something joyful.	2492362	 v 	3239			
-Action/Technology:arrange.V	no	To give structure to.	1463963	 v 	1568			
-Action/Technology:attach.V	no	To fasten one thing to another.	1296462	 v 	3894			
+Action/Technology:amuse oneself (have fun).V	no	To do something joyful.	2492362	v	3239			
+Relation:arrange.V	no	To give structure to.	1463963	v	1568			
+Action/Technology:attach.V	no	To fasten one thing to another.	1296462	v	3894			
 Action/Technology:baby carrier.N	no	A piece of cloth used around the body to carry a child			3926			
 Action/Technology:beat.V	no	To strike or pound repeatedly, usually in some sort of rhythm.	1398919	v	1665			
 Action/Technology:because of.?	no	For the reason of.			2918		wegen::PRP	171
@@ -28,77 +28,77 @@ Action/Technology:become extinguished.V	no	Being stopped from burning or emittin
 Action/Technology:birth (accouchement).N	no	The process of giving birth to a child.	13532886	n	2805			
 Action/Technology:break (of rope).V	no	The breaking of a thread or strap.			460		reißen::V	
 Action/Technology:burden stick.N	no	A long piece of wood used to carry a burden.			3159			
-Action/Technology:burn.V	no	To put fire on something or to be on fire.	378664	 v 	2102			
+Action/Technology:burn.V	no	To put fire on something or to be on fire.	378664	v	2102			
 Action/Technology:bury.V	no	To put in the ground and cover with earth.	2456493	v	1719	4-78		
-Action/Technology:clog (something).V	no	To block a fluid or similar from running through a pipe-like object.	1478603	 v 	2707			
-Action/Technology:dip.V	no	To put something partially in a liquid for a short time and take it out again.	1577093	 v 	3697	10-99904		
+Action/Technology:clog (something).V	no	To block a fluid or similar from running through a pipe-like object.	1478603	v	2707			
+Action/Technology:dip.V	no	To put something partially in a liquid for a short time and take it out again.	1577093	v	3697	10-99904		
 Action/Technology:draw (water).V	no	To draw by a physical force causing or tending to cause to approach, adhere, or unite.	1854132	v	1911	9-9		
-Action/Technology:dry up.V	no	To lose moisture, usually through evaporation or absorption.	218475	 v 	1786		trocknen::V	
-Action/Technology:emerge (appear).V	no	To become known or apparent.	423971	 v 	1076		erscheinen::V	
+Action/Technology:dry up.V	no	To lose moisture, usually through evaporation or absorption.	218475	v	1786		trocknen::V	
+Action/Technology:emerge (appear).V	no	To become known or apparent.	423971	v	1076		erscheinen::V	
 Clothing:fade.V	no	Loose color (of cloth or other material).			2704			
 Action/Technology:glue.N	no	Substance used for sticking objects together.	14702875	n	1069	9-56		
-Action/Technology:handle.N	no	A part of an object meant to hold that object with (e.g. the handle of a mug, pan or bag).	3485997	 n 	1254		Griff::N	
+Action/Technology:handle.N	no	A part of an object meant to hold that object with (e.g. the handle of a mug, pan or bag).	3485997	n	1254		Griff::N	
 Action/Technology:hit (a target).V	no	To hit something that someone has aimed for.	1137138	v	3307			
-Action/Technology:hit.V	no	To hit against with a sharp blow or to impel, usually with a hand or weapon or to be forcefully or suddenly contacting, e.g. a tree falling down and hitting the ground.	1236164	 v 	1433			
+Action/Technology:hit.V	no	To hit against with a sharp blow or to impel, usually with a hand or weapon or to be forcefully or suddenly contacting, e.g. a tree falling down and hitting the ground.	1236164	v	1433			
 Action/Technology:jog (something).V	no	Bring to a specified condition by or as if by shaking.	559556	v	2899		rütteln::V	
-Action/Technology:leash.N	no	A leash is a rope or similar material attached to the neck or head of an animal for restraint or control.	3652932	 n 	2959		Leine::N	
-Action/Technology:lighter.N	no	Portable instrument for igniting something.	15101361	 n 	3092			
-Action/Technology:loose.A	no	Being not tight.	503321	 a 	2506			
-Action/Technology:loosen.V	no	To make undone or untied ; to free from any fastening.	419375	 v 	1933			
+Action/Technology:leash.N	no	A leash is a rope or similar material attached to the neck or head of an animal for restraint or control.	3652932	n	2959		Leine::N	
+Action/Technology:lighter.N	no	Portable instrument for igniting something.	15101361	n	3092			
+Action/Technology:loose.A	no	Being not tight.	503321	a	2506			
+Action/Technology:loosen.V	no	To make undone or untied ; to free from any fastening.	419375	v	1933			
 Action/Technology:make dry.V	no	To remove the moisture and make dry.			2015			
 Action/Technology:manage.V	no	To watch and direct someone and/or some activity; to be in charge.	2436349	v	3073			
-Action/Technology:massage (somebody).V	no	To rub someone's body with the hands.			3119			
+Action/Technology:massage (somebody).V	no	To rub someone's body with the hands.	1232738	v	3119			
 Action/Technology:mat.N	no	A flat object laid on the floor to protect a person from the hard floor.	3727837	n	195	9-77		
-Action/Technology:mince (something).V	no	To cut something, especially food, into small pieces.			3082			
+Action/Technology:mince (something).V	no	To cut something, especially food, into small pieces.	1560583	v	3082			
 Action/Technology:miss (a target).V	no	To fail to hit (a target, a bell, etc.).	1237901	v	161	20-63		
-Action/Technology:moisten.V	no	To make moist.			28			
-Action/Technology:mold (get rotten).N	no	Discoloration and food caused by fungal species.			3251			
+Action/Technology:moisten.V	no	To make moist.	217956	v	28			
+Plant:mold.N	no	Discoloration in food caused by fungal species.	13077033	n	3251			
 Action/Technology:mold.V	no	To create something, usually for a specific function.	1662771	v	289	9-72		
-Action/Technology:mop (something).V	no	To clean or wipe up by using cloth or a mop.			3120			
+Cleaning:mop.V	yes	To clean or wipe up by using cloth or a mop.	1393339	v	3120			
 Action/Technology:mosquito net.N	no	A web that keeps mosquitos away.			2795	7-99905		
-Action/Technology:move away.V	no	To change one's domicile or place of business.			229			
+Action/Technology:move away.V	no	To change one's domicile or place of business.	1855606	v	229			
 Action/Technology:must.V	no	To be required to do something.			971			
-Action/Technology:net.N	no	A grid-like device or object.			2963		Netz::N	
-Action/Technology:noose.N	no	A loop at the end of a rope.			2604		Schlinge::N	
-Action/Technology:not have.V	no	Not being in possession of something (both abstract and concrete).			3363			
-Action/Technology:open (state).A	no	To be accessible and/or not closed.			3235		offen::A	
-Action/Technology:order.V	no	To order someone or several persons by a superior authority to do something, or to arrange something in a tidy manner.			1128			
+Action/Technology:net.N	no	A grid-like device or object.	13258362	n	2963		Netz::N	
+Action/Technology:noose.N	no	A loop at the end of a rope.	3829563	n	2604		Schlinge::N	
+Possession:miss.V	yes	Not being in possession of something (both abstract and concrete).	2632353	v	3363			
+Action/Technology:open.A	no	To be accessible and/or not closed.	1652380	a	3235		offen::A	
+Action/Technology:order.V	no	To order someone or several persons by a superior authority to do something, or to arrange something in a tidy manner.	746718	v	1128			
 Action/Technology:paint (pigments).N	no	A mixture of pigment and a vehicle, such as oil or water, that together form a liquid or paste that can be applied to a surface to provide an adherent coating that imparts colour, protects the surface and/or gives the surface different features.	3875218	n	647	9-88	Farbe::N	
 Action/Technology:paint (something) or painting.V	no	To apply color to a wall or to make a painting or drawing.			3194			
-Action/Technology:paint (something).V	no	The act of spreading coloured pigments on a surface.			3122			
-Action/Technology:paintbrush.N	no	Brush used to spread pigments of colour on a surface.			3094			
-Action/Technology:painting.V	no	To make a painting or drawing.	1362736	v	2001	9-89	malen::V	
-Action/Technology:pearl.N	no	A small hard shiny ball formed in mussels or oysters.			3325			
-Action/Technology:picture (painting).N	no	A painted image.			3303		Bild::N	
-Action/Technology:post (something).V	no	To send something by means of a postal service.			3126			
+Action/Technology:paint (something).V	no	Spread coloured pigments on a surface.	1362736	v	3122			
+Action/Technology:paintbrush.N	no	Brush used to spread pigments of colour on a surface.	3876231	n	3094			
+Action/Technology:paint.V	no	To make a painting or drawing.	1362736	v	2001	9-89	malen::V	
+Action/Technology:pearl.N	no	A small hard shiny ball formed in mussels or oysters.	13372403	n	3325			
+Art:picture.N	yes	A painted image.	3931044	n	3303		Bild::N	
+Communication:mail.V	yes	To send something by means of a postal service.	1437888	v	3126			
 Action/Technology:pound.V	no	To strike hard, usually repeatedly.	1414626	v	354	9-211		
-Action/Technology:powerful.A	no	Being done using a huge amount of energy.			3001		kräftig::A	
-Action/Technology:prepare.V	no	To carry out things in advance to avoid to be later not able to do them.			2909	9-99934	vorbereiten::V	
+Action/Technology:powerful.A	no	Being done using a huge amount of energy.	1825671	a	3001		kräftig::A	
+Action/Technology:prepare.V	no	To carry out things in advance to avoid to be later not able to do them.	406243	v	2909	9-99934	vorbereiten::V	
 Action/Technology:press.V	no	To apply pressure to an item.	1447257	v	1913	9-342	drücken::V	
-Action/Technology:process.N	no	A systematic and continuous course of actions and changes, which can be goal-directed or spontaneous.			3970			
-Action/Technology:protect.V	no	To prevent something or somebody from being harmed.			2900		schützen::V	
+Action/Technology:process.N	no	A systematic and continuous course of actions and changes, which can be goal-directed or spontaneous.	1023820	n	3970			
+Action/Technology:protect.V	no	To prevent something or somebody from being harmed.	1128193	v	2900		schützen::V	
 Action/Technology:pull off (skin).V	no	To strip or pull off the skin or hide of.	1274657	v	291	9-29		
 Action/Technology:pull out.V	no	To pull something out.			2325			
-Action/Technology:put in order.V	no	To arrange something in a tidy manner.			3459			
-Action/Technology:rake (something).V	no	The act of moving a tool over a surface in order to level or clean it.			3127			
-Action/Technology:recommend.V	no	To suggest something or somebody.			2759			
-Action/Technology:result.N	no	The final outcome or consequence of a causal chain, operation or set of circumstances.			3969			
-Action/Technology:ring (make sound).V	no	Ring most broadly refers to a hollow circular shape or to a high-pitched sound.			2875		klingeln::V	
-Action/Technology:rinse.V	no	To clean by pouring water over the objects.			2904		spülen::V	
-Action/Technology:roar (of sea).V	no	A sound emitted by a stormy sea.			2876		brausen::V	
+Cleaning:tidy.V	no	To arrange something in a tidy manner.	275843	v	3459			
+Action/Technology:rake.V	no	The act of moving a tool over a surface in order to level or clean it.	2099669	v	3127			
+Action/Technology:recommend.V	no	To suggest something or somebody.	875141	v	2759			
+Action/Technology:result.N	no	The final outcome or consequence of a causal chain, operation or set of circumstances.	11410625	n	3969			
+Sound:ring.V	no	Sound loudly and sonorously.	2180898	v	2875		klingeln::V	
+Action/Technology:rinse.V	no	To clean by pouring water over the objects.	1536168	v	2904		spülen::V	
+Sound:roar.V	no	A sound emitted by a stormy sea.	1046059	v	2876		brausen::V	
 Action/Technology:rope.N	no	Thick, strong string made of several strands that have been twisted together.	4108268	n	1218	9-19		1417
-Action/Technology:rot.V	no	To be exposed to decomposition.			2907		verfaulen::V	
+Action/Technology:rot.V	no	To be exposed to decomposition.	209837	v	2907		verfaulen::V	
 Action/Technology:rub.V	no	To move one's hand or an object over a surface or other object (maintaining constant contact and applying moderate pressure).	1249724	v	1449	9-31	reiben::V	
-Action/Technology:ruler.N	no	A long flat device that is designed to assist with drawing straight lines or measuring by means of distance markings.			3405			
-Action/Technology:scatter.V	no	To throw or drop things in different directions so that they cover a large area.			3705			
+Action/Technology:ruler.N	no	A long flat device that is designed to assist with drawing straight lines or measuring by means of distance markings.	4118776	n	3405			
+Action/Technology:scatter.V	no	To throw or drop things in different directions so that they cover a large area.	2030424	v	3705			
 Action/Technology:scrape.V	no	To move an object against another object such that abrasion or minor cutting occurs.	1308160	v	1767	5-48	kratzen::V	
-Action/Technology:seat (somebody).V	no	To cause somebody to sit (e.g. by offering a seat).			2878		setzen::V	
-Action/Technology:sharpen (something).V	no	To make sharp or sharper.			251		schleifen::V	
-Action/Technology:sheath.N	no	A protection cover for a sharp blade (of a sword or knife).			3424			
-Action/Technology:slaughter.V	no	To kill animals for food.			1796			
-Action/Technology:sleep (state).N	no	Sleep is a naturally recurring state of mind and body characterized by altered consciousness, relatively inhibited sensory activity, inhibition of nearly all voluntary muscles, and reduced interactions with surroundings.			2972		Schlaf::N	
-Action/Technology:smear.V	no	To spread (a substance) across a surface by rubbing.			364	9-99936		
-Action/Technology:smoke (emit smoke).V	no	To emit smoke (such as something which burns).			2859		rauchen::V	
+Action/Technology:seat (somebody).V	no	To cause somebody to sit (e.g. by offering a seat).	1543998	v	2878		setzen::V	
+Action/Technology:sharpen (something).V	no	To make sharp or sharper.	1246601	v	251		schleifen::V	
+Action/Technology:sheath.N	no	A protection cover for a sharp blade (of a sword or knife).	4187061	n	3424			
+Agriculture:slaughter.V	no	To kill animals for food.	1322854	v	1796			
+Body:sleep.N	no	Sleep is a naturally recurring state of mind and body characterized by altered consciousness, relatively inhibited sensory activity, inhibition of nearly all voluntary muscles, and reduced interactions with surroundings.	14024882	n	2972		Schlaf::N	
+Action/Technology:smear.V	no	To spread (a substance) across a surface by rubbing.	1233387	v	364	9-99936		
+Nature:smoke.V	no	To emit smoke (such as something which burns).	2767922	v	2859		rauchen::V	
 Action/Technology:snap (of stick).V	no	Quick breaking or cracking sound or the action of producing such a sound.			459			
 Action/Technology:snowman.N	no	A mass of snow sculptured into the shape of a human.			3098			
 Action/Technology:split open.V	no	To open something with a cut or incision, revealing its inside.			3080			
@@ -1828,7 +1828,7 @@ Communication:history.N	no	history (organized account of past events), chronicle
 Communication:indicate.V	no	indicate						2219
 Communication:information.N	no	information						2201
 Communication:insult.N	no	insult						2276
-Communication:internet.N	no	Internet						2299
+Communication:internet.N	no	Internet	3580615	n				2299
 Communication:invite.V	no	invite						2220
 Communication:issue.N	no	issue, edition (of periodical etc.)						2247
 Communication:joke.N	yes	Something that is said or done in a non-serious, comic way.			3425	18-99903		
@@ -3686,8 +3686,8 @@ Motion:rise (oneself).V	no	To get up from a lying, sitting, or kneeling position
 Motion:roll.V	yes	To move like a ball/cylinder by turning over and over.	1866610	v	827	10-15		3049
 Motion:run away.V	yes	Leave a dangerous situation by moving one's body away from it.			2142			
 Motion:run.V	no	To move quickly by alternately making a short jump off of either foot.	1926311	v	1519	10-46	rennen::V	702
-Motion:send.V	no	To make something (an object, a message) go from one place to another.	1951480	 v 	1127	10-63	schicken::V	3010
-Motion:shake.V	no	To cause (something) to move rapidly from side to side.	1889610	 v 	1909	10-26	schütteln::V	3773
+Motion:send.V	no	To make something (an object, a message) go from one place to another.	1951480	v	1127	10-63	schicken::V	3010
+Motion:shake.V	no	To cause (something) to move rapidly from side to side.	1889610	v	1909	10-26	schütteln::V	3773
 Motion:sink (descend).V	no	To go down in water, mud, quicksand etc. or to cause something to go down in it.	1985923	v	1088	10-33	versinken::V	
 Motion:sit down.V	no	To move into a position where the upper body is upright and the bottom is resting  on a surface or the floor.			1649		sich setzen::V	
 Motion:skate.V	no	Move swiftly over a smooth or slippery surface.			3129			
@@ -4060,7 +4060,7 @@ Perception:copper (color).A	no	Having a red to yellow metallic color that resemb
 Perception:damp.A	no	Refers to the presence of a liquid, especially water, often in trace amounts.			2998		feucht::A	
 Perception:dark green.A	no	A darker variant of the color green, mixed with black, with an approximate wavelength between 543 and 549 nm.			3795			
 Perception:dark yellow.A	no	A darker variant of the primary color yellow, mixed with black, orange or red.			3706			
-Vision:dark.A	yes	Having an absolute or (more often) relative lack of light.	273082	 a 	706	15-63	dunkel::A	825
+Vision:dark.A	yes	Having an absolute or (more often) relative lack of light.	273082	a	706	15-63	dunkel::A	825
 Perception:delicious.A	no	delicious, tasty						872
 Perception:dry.A	no	(Almost) free from liquid or moisture.	2551380	a	1398	15-84	trocken::A	
 Perception:dull.A	no	Lacking the ability to cut easily; not sharp.			1397			
