@@ -1,5 +1,13 @@
 import csv
 
+def get_term(id):
+    """Returns the term of a concept id. F.ex. returns 'term' from 'Field:term.PoS'."""
+    return id.split(':')[1].split('.')[0]
+
+def get_PoS(id):
+    """Returns the part of speech of a concept id. F.ex. returns 'PoS' from 'Field:term.PoS'."""
+    return id.split('.')[1]
+
 class csv_reader:
     """Helper for opening and closing a CSV or TSV file for reading."""
     def __init__(self, file_name, delimiter):

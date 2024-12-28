@@ -1,52 +1,52 @@
 id	final	Definition	WN_offset	WN_PoS	Concepticon_id	WOLD_id	NELex_id	ULD_id
-Action:automatic.A	yes	Capable of operating without external control or intervention.						2034
+Action:automatic.A	yes	Capable of operating without external control or intervention.	181476	 a 				2034
 Action:broken.A	yes	Not capable of working.	680156	a	3190	9-261		
 Action:can.V	yes	To have the ability to do something.			972	24-99902	können::V	208
-Action:cease or finish.V	yes	To stop doing something, voluntarily or involuntarily.			2115			
-Action:dexterous.A	yes	Nimble in the use of the hands or body.			1824		geschickt::A	
+Action:discontinue.V	yes	To stop doing something, voluntarily or involuntarily.	2680814	 v 	2115			3239
+Action:dexterous.A	yes	Nimble in the use of the hands or body.	62367	 s 	1824		geschickt::A	
 Action:do or make.V	yes	To do something or to make something.			2575			
 Action:do.V	yes	To perform an action.	10435	v	813	9-11	tun::V	
-Action:fail.V	yes	Not succeeding in an endeavour (of persons) or to stop working as intended (of objects).			3861			
+Action:fail.V	yes	Not succeeding in an endeavour (of persons) or to stop working as intended (of objects).	2529284	 v 	3861			
 Action:get up from bed.V	yes	To leave one's place of sleeping.			3350		aufstehen::V	
 Action:hang up.V	yes	To put up to hang.	1481360	v	357	9-341	aufhängen::V	
-Action:hang.V	yes	Remain suspended to some point above.			2884		hängen::V	
-Action:happen.V	yes	To come to pass.			248		passieren::V	3901
-Action:hardly.ADV	yes	Barely perceivable or noticeable.			2926		kaum::ADV	
-Action:hinder.V	yes	To make difficult to accomplish; to frustrate, act as obstacle; to keep back; to delay or impede.			554		behindern::V	
+Action:hang.V	yes	Remain suspended to some point above.	1482075	 v 	2884		hängen::V	
+Action:happen.V	yes	To come to pass.	339934	 v 	248		passieren::V	3901
+Action:hardly.ADV	yes	Barely perceivable or noticeable.	3093	r	2926		kaum::ADV	
+Action:hinder.V	yes	To make difficult to accomplish; to frustrate, act as obstacle; to keep back; to delay or impede.	2451370	 v 	554		behindern::V	
 Action:make.V	yes	To create something by combining or assembling materials or parts or by changing it.	1621555	v	734	9-111	machen::V	
-Action:stop.V	yes	To stop doing the action one was doing.			3351		aufhören::V	
+Action:stop.V	yes	To stop doing the action one was doing.	2680814	v	3351		aufhören::V	
 Action:try.V	yes	To attempt to do something.	2530167	v	1812	17-48	versuchen::V	
-Action/Technology:accustom.V	no	Get used to something.			1118			
+Action/Technology:accustom.V	no	Get used to something.	273445	 v 	1118			
 Action/Technology:against.A	no	In opposite direction to.			2469			
-Action/Technology:amuse oneself (have fun).V	no	To do something joyful.			3239			
-Action/Technology:arrange.V	no	To give structure to.			1568			
-Action/Technology:attach.V	no	To fasten one thing to another.			3894			
+Action/Technology:amuse oneself (have fun).V	no	To do something joyful.	2492362	 v 	3239			
+Action/Technology:arrange.V	no	To give structure to.	1463963	 v 	1568			
+Action/Technology:attach.V	no	To fasten one thing to another.	1296462	 v 	3894			
 Action/Technology:baby carrier.N	no	A piece of cloth used around the body to carry a child			3926			
 Action/Technology:beat.V	no	To strike or pound repeatedly, usually in some sort of rhythm.	1398919	v	1665			
 Action/Technology:because of.?	no	For the reason of.			2918		wegen::PRP	171
 Action/Technology:become extinguished.V	no	Being stopped from burning or emitting light.			2209			
-Action/Technology:birth (accouchement).N	no	The process of giving birth to a child.			2805			
+Action/Technology:birth (accouchement).N	no	The process of giving birth to a child.	13532886	n	2805			
 Action/Technology:break (of rope).V	no	The breaking of a thread or strap.			460		reißen::V	
 Action/Technology:burden stick.N	no	A long piece of wood used to carry a burden.			3159			
-Action/Technology:burn.V	no	To put fire on something or to be on fire.			2102			
+Action/Technology:burn.V	no	To put fire on something or to be on fire.	378664	 v 	2102			
 Action/Technology:bury.V	no	To put in the ground and cover with earth.	2456493	v	1719	4-78		
-Action/Technology:clog (something).V	no	To block a fluid or similar from running through a pipe-like object.			2707			
-Action/Technology:dip.V	no	To put something partially in a liquid for a short time and take it out again.			3697	10-99904		
+Action/Technology:clog (something).V	no	To block a fluid or similar from running through a pipe-like object.	1478603	 v 	2707			
+Action/Technology:dip.V	no	To put something partially in a liquid for a short time and take it out again.	1577093	 v 	3697	10-99904		
 Action/Technology:draw (water).V	no	To draw by a physical force causing or tending to cause to approach, adhere, or unite.	1854132	v	1911	9-9		
-Action/Technology:dry up.V	no	To lose moisture, usually through evaporation or absorption.			1786		trocknen::V	
-Action/Technology:emerge (appear).V	no	To become known or apparent.			1076		erscheinen::V	
-Action/Technology:fade (loose color).V	no	Loose color (of cloth or other material).			2704			
+Action/Technology:dry up.V	no	To lose moisture, usually through evaporation or absorption.	218475	 v 	1786		trocknen::V	
+Action/Technology:emerge (appear).V	no	To become known or apparent.	423971	 v 	1076		erscheinen::V	
+Clothing:fade.V	no	Loose color (of cloth or other material).			2704			
 Action/Technology:glue.N	no	Substance used for sticking objects together.	14702875	n	1069	9-56		
-Action/Technology:handle.N	no	A part of an object meant to hold that object with (e.g. the handle of a mug, pan or bag).			1254		Griff::N	
-Action/Technology:hit (a target).V	no	To hit something that someone has aimed for.			3307			
-Action/Technology:hit.V	no	To hit against with a sharp blow or to impel, usually with a hand or weapon or to be forcefully or suddenly contacting, e.g. a tree falling down and hitting the ground.			1433			
-Action/Technology:jog (something).V	no	To shake something.			2899		rütteln::V	
-Action/Technology:leash.N	no	A leash is a rope or similar material attached to the neck or head of an animal for restraint or control.			2959		Leine::N	
-Action/Technology:lighter.N	no	Portable instrument for igniting something.			3092			
-Action/Technology:loose.A	no	Being not tight.			2506			
-Action/Technology:loosen.V	no	To make undone or untied ; to free from any fastening.			1933			
+Action/Technology:handle.N	no	A part of an object meant to hold that object with (e.g. the handle of a mug, pan or bag).	3485997	 n 	1254		Griff::N	
+Action/Technology:hit (a target).V	no	To hit something that someone has aimed for.	1137138	v	3307			
+Action/Technology:hit.V	no	To hit against with a sharp blow or to impel, usually with a hand or weapon or to be forcefully or suddenly contacting, e.g. a tree falling down and hitting the ground.	1236164	 v 	1433			
+Action/Technology:jog (something).V	no	Bring to a specified condition by or as if by shaking.	559556	v	2899		rütteln::V	
+Action/Technology:leash.N	no	A leash is a rope or similar material attached to the neck or head of an animal for restraint or control.	3652932	 n 	2959		Leine::N	
+Action/Technology:lighter.N	no	Portable instrument for igniting something.	15101361	 n 	3092			
+Action/Technology:loose.A	no	Being not tight.	503321	 a 	2506			
+Action/Technology:loosen.V	no	To make undone or untied ; to free from any fastening.	419375	 v 	1933			
 Action/Technology:make dry.V	no	To remove the moisture and make dry.			2015			
-Action/Technology:manage.V	no	To watch and direct someone and/or some activity; to be in charge.			3073			
+Action/Technology:manage.V	no	To watch and direct someone and/or some activity; to be in charge.	2436349	v	3073			
 Action/Technology:massage (somebody).V	no	To rub someone's body with the hands.			3119			
 Action/Technology:mat.N	no	A flat object laid on the floor to protect a person from the hard floor.	3727837	n	195	9-77		
 Action/Technology:mince (something).V	no	To cut something, especially food, into small pieces.			3082			
@@ -922,7 +922,8 @@ Belief:burial mound.N	no	A mound of earth raised around burial sites/graves.			3
 Belief:Catholic priest.N	yes	A minister of the Catholic church empowered to administer the sacraments, most particularly that of the Eucharist or Holy Communion, as well as those of confession and extreme unction.	10471250	n	852	22-18		
 Belief:Christ.N	yes					22-99901		
 Belief:Christianity.N	yes	Christianity						1870
-Belief:Christmas.N	yes	Christmas or Christmas Day (Old English: Crīstesmæsse, meaning Christ's Mass) is an annual festival commemorating the birth of Jesus Christ, observed most commonly on December 25 as a religious and cultural celebration among billions of people around the world.			2405	22-99902		
+Belief:Hanukkah.N	yes							
+Belief:Christmas.N	yes	Christmas is an annual festival commemorating the birth of Jesus Christ, observed most commonly on December 25 as a religious and cultural celebration among billions of people around the world.			2405	22-99902		
 Belief:church.N	no	A building where Christian religious activities take place.	3028079	n	1349	22-131	Kirche::N	
 Belief:circumcision.N	no	The act of excising or amputating the prepuce (the foreskin on penises, the clitoral hood on clitorises)	395654	n	393	22-5		
 Belief:conjure.V	no	To practice witchcraft or magic.			2222			
@@ -1093,8 +1094,8 @@ Body:die (from accident).V	yes	To cease to live due to unforeseen circumstances.
 Body:die.V	yes	To cease to live.	358431	v	1494	4-75	sterben::V	626
 Body:dribble.N	yes					4-99905		
 Body:dribble.V	yes	To let saliva flow out of one’s mouth onto one’s chin.	102974	v	268	4-591		
-Body:drown.V	no	To be suffocated in water or other fluid; to perish by suffocation in water.	360501	v	1904	4-751		
 Body:drown.V	no	drown (die/kill via immersion)						791
+Body:drown.V	no	To be suffocated in water or other fluid; to perish by suffocation in water.	360501	v	1904	4-751		
 Body:drowned.A	no	To have perished by suffocation in water.			3187			
 Body:drunk.A	no	Being in a temporary state in which one's physical and mental faculties are impaired due to excessive consumption of alcohol.	797299	a	1463	4-98		652
 Body:dumb.A	no	Unable to speak; lacking power of speech.			1492			
@@ -1188,8 +1189,8 @@ Body:jaw.N	yes	Either of the two opposable structures forming, or near the entra
 Body:joint.N	yes	Any part of the body where two bones join.			999			
 Body:kick.V	no	kick						754
 Body:kidney.N	yes	An organ in the body that produces urine.	5332802	n	489	4-451		574
-Body:kill.V	yes	To put to death; to end a life.	1325536	v	1417	4-76	töten::V	
 Body:kill.V	no	kill						627
+Body:kill.V	yes	To put to death; to end a life.	1325536	v	1417	4-76	töten::V	
 Body:kiss.V	no	kiss						761
 Body:knee.N	yes	In man, the joint in the middle part of the leg.	5573602	n	1371	4-36	Knie::N	541
 Body:knuckle.N	yes	Joints of the fingers brought to prominence when hand is clenched.			2824			
@@ -1268,7 +1269,6 @@ Body:rest.V	yes	To cease working, moving or thinking for some time in order to r
 Body:rib.N	yes	One of the long curved bones which form the rib cage.	5279026	n	801	4-162		
 Body:right hand.N	yes	The right hand of a human.			2183			
 Body:ringworm.N	no	Dermatophytosis, fungal skin infection making round patches on the skin.			3171			
-Body:run.V	no	run						702
 Body:saliva.N	yes	A secretion from the salivary glands (found in the mouth) that can be spat out.			1503	4-9991		
 Body:scab.N	yes	A hard coating on the skin formed during the wound healing reconstruction phase.			2664			
 Body:scald (burn oneself with liquid).V	no	To cause an injury by contact with steam or hot liquid.			3383			
@@ -1283,16 +1283,14 @@ Body:shin.N	yes	The front part of the leg below the knee.			186
 Body:shiver.V	yes	To shake nervously, as if from fear.	1888946	v	52	4-68	zittern::V	
 Body:shoulder.N	yes	One side of the top of the torso, where an arm attaches or joins.	5548840	n	1482	4-3	Schulter::N	530
 Body:shoulderblade.N	yes	A large flat bone located at the back of each shoulder.	5279688	n	172	4-301		
-Body:sick.A	no	Whose health is altered.	2541302	a	1847	4-84	krank::A	
-Body:sick.A	no	sick, ill						631
+Body:sick.A	no	Whose health is altered.	2541302	a	1847	4-84	krank::A	631
 Body:side.N	yes	The side of the body.			3344			
 Body:sit.V	no	sit (be in a sitting position)						733
 Body:skeleton.N	yes	The body part that forms the supporting structure inside of the human body or the body of animals.			2668			561
 Body:skin.N	yes	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.	1895735	n	763	4-12	Haut::N	580
 Body:skinny.A	no	skinny, thin (bodily)						641
 Body:skull.N	yes	The main bone of the head; the cranium.	5540121	n	1605	4-202		
-Body:sleep.V	no	To rest in a state of decreased consciousness and reduced metabolism.	14742	v	1585	4-61	schlafen::V	
-Body:sleep.V	no	sleep						660
+Body:sleep.V	yes	To rest in a state of decreased consciousness and reduced metabolism.	14742	v	1585	4-61	schlafen::V	660
 Body:sleepy.A	no	Feeling tired and willing to go to sleep.			3620			
 Body:smallpox.N	yes	A highly contagious viral disease characterized by fever and weakness and skin eruption with pustules that form scabs that slough off leaving scars.			1054			
 Body:smile.V	no	smile						744
@@ -1618,8 +1616,8 @@ Cognition:attentive.A	yes	Giving attention.			1908			2024
 Cognition:autism.N	yes	A pervasive neurological condition that is observable in early childhood and persists throughout the lifespan, characterised by atypical communication, language development, eye contact, and sensory experiences.						2011
 Cognition:awake.A	yes	Not sleeping.			825			664
 Cognition:be ignorant.V	yes	Be in a state of not knowing something.			2651			
-Cognition:believe.V	yes	To have as opinion, belief, or idea, to think.	631737	v	1513	17-14		
 Cognition:believe.V	yes	To be confident about something.	683280	v	1890	17-15	glauben::V	
+Cognition:believe.V	yes	To have as opinion, belief, or idea, to think.	631737	v	1513	17-14		
 Cognition:by heart.ADV	yes	Completely and faithfully, refering to something that has been learnt and memorized.			71			
 Cognition:cause.N	yes	That which brings about any condition or produces any effect.	7326557	n	860	17-42	Grund::N	2036
 Cognition:certain.A	yes	Without any doubt or possibility of deviation.	335421	a	509	17-37		
@@ -1720,7 +1718,7 @@ Combat:violence.N	yes	The intentional use of physical force or power against one
 Combat:war.N	no	war						1635
 Combat:win.V	yes	To achieve a victory.			866	20-99909	siegen::V	2366
 Combat:wrestle.V	yes	wrestle						783
-Combat.warship.N	yes					20-99906		
+Combat:warship.N	yes					20-99906		
 Combat/Hunting:ambush.N	no	The act of concealing yourself and lying in wait to attack by surprise.	1246926	n	65	20-49		
 Combat/Hunting:armour.N	no	Clothing that soldiers wear to protect themselves during combat. Historically made of leather or metal, today special materials like kevlar are used.	2739668	n	1061	20-31		
 Combat/Hunting:army.N	no	A large, military force concerned mainly with ground operations.	8191230	n	1561	20-15		
@@ -1777,8 +1775,8 @@ Combat/Hunting:torture.V	no	To intentionally inflict physical or mental sufferin
 Combat/Hunting:victory.N	no	An end to a struggle or contest that did end in success.	7473441	n	783	20-41		
 Combat/Hunting:war.N	no	A conflict or a state of hostility between two or more parties, nations or states, in which armed forces or military operations are used.			935		Krieg::N	
 Combat/Hunting:waste.V	no	To cause extensive destruction or ruin utterly.			79			
-Combat/Hunting:weapons.N	no	An instrument of attack or defense in combat, as a gun, missile, or sword.	4565375	n	951	20-21		
-Communication:accept	yes	To take or get something that was offered by someone, to willingly receive			3898			1721
+Combat/Hunting:weapon.N	no	An instrument of attack or defense in combat, as a gun, missile, or sword.	4565375	n	951	20-21		
+Communication:accept.V	yes	To take or get something that was offered by someone, to willingly receive			3898			1721
 Communication:address.N	no	address (postal co-ordinates)						2262
 Communication:admit.V	no	admit, confess						2210
 Communication:advertisement.N	no	advertisement						2270
@@ -1841,8 +1839,7 @@ Communication:language.N	yes	A system of communication using the spoken or signe
 Communication:language.N	no	language (the verbal communication technique of a people)						2202
 Communication:letter.N	yes	A text that is written to and for a specific person or set of people (and is most commonly sent to them by post).	6624161	n	1612	23-42	Brief::N	2261
 Communication:lie.N	yes	Intentionally false statement for the purpose of deception.			2826		Lüge::N	
-Communication:lie.V	yes	To knowingly say something that is untrue.	834259	v	601	16-67		
-Communication:lie.V	no	lie (utter a known falsehood)						2221
+Communication:lie.V	yes	To knowingly say something that is untrue.	834259	v	601	16-67		2221
 Communication:list.N	no	list						2253
 Communication:magazine.N	no	magazine (periodical publication)						2246
 Communication:mail.N	yes	A batch of letters and parcels received via post.	6264398	n	167	23-4		
@@ -1991,7 +1988,7 @@ Dimension:width.N	no	width (degree of wideness or narrowness)						2825
 Direction:alone.ADV	no	alone						2952
 Direction:away.ADV	no	away (from this or that place)						2920
 Direction:backward.ADV	no	backward						2922
-Direction:city.N	no	city						2941
+Direction:compass.N	no	An instrument for navigation and orientation.			2606			
 Direction:destination.N	no	destination						2932
 Direction:direct.A	no	direct, immediate (with no intermediaries or obstacles)						2926
 Direction:direction.N	no	direction (orientation of motion)						2900
@@ -2540,8 +2537,7 @@ Food:bowl.N	no	A roughly hemispherical container used to hold, mix or present fo
 Food:braise (verb).V	no	A method of cooking using steam that avoids overcooking or burning food.			2068			
 Food:bread.N	yes	A common food made mainly from flour, water and yeast and produced by kneading and baking a dough.	7679356	n	1368	5-51	Brot::N	3415
 Food:breadfruit.N	no	A species of flowering tree in the mulberry family, Moraceae originating in the South Pacific and that was eventually spread to the rest of Oceania.			2371			
-Food:breakfast.N	no	The first meal of the day, usually eaten in the morning.	7574602	n	1322	5-42		
-Food:breakfast.N	no	breakfast						3485
+Food:breakfast.N	no	The first meal of the day, usually eaten in the morning.	7574602	n	1322	5-42		3485
 Food:broccoli.N	no	A plant of the cabbage family, Brassicaceae, which is shaped like a tree.			3726	8-99908		
 Food:brown sugar.N	no	Unrefined natural sugar that owes its brown colour and softer consistency to the preservation of molasses.			3440			
 Food:bunch.N	no	A group of things fastened or growing together.	7959943	n	1966	5-712		
@@ -2645,8 +2641,7 @@ Food:light (in taste).A	no	Light or watery in taste.			2181
 Food:light (smell or taste).A	no	Being not strong in smell or taste.			2201			
 Food:liquor.N	no	Alcoholic beverage containing more than 20 percent alcohol.			842			
 Food:litchi.N	no	The sole member of the genus Litchi in the soapberry family, Sapindaceae.			2768			
-Food:lunch.N	no	Meal usually eaten at midday.	7575076	n	768	5-43		
-Food:lunch.N	no	lunch						3487
+Food:lunch.N	no	Meal usually eaten at midday.	7575076	n	768	5-43		3487
 Food:lychee.N	no	A tropical fruit with a hard brownish peel with a black seed in the inside and with flesh of a tree from the soapberry family.			3731			
 Food:machete.N	no	A machete is a broad blade used either as an implement like an axe, or in combat like a short sword.			2680			
 Food:main meal.N	yes	The main meal of the day, eaten in the middle of the day or in the evening			3829			
@@ -2657,11 +2652,9 @@ Food:mead.N	no	Wine made of honey.	7890750	n	941	5-91
 Food:meal.N	no	meal						3484
 Food:meal.N	no	The act of eating food, usually at a specific time.			1526	5-41	Essen::N	
 Food:meat dishes.N	no	Dishes containing meat (as opposed to vegetables).			2767			
-Food:meat.N	no	The edible flesh of animals, especially that of mammals.	7649854	n	634	5-61	Fleisch::N	
-Food:meat.N	no	meat						3430
+Food:meat.N	no	The edible flesh of animals, especially that of mammals.	7649854	n	634	5-61	Fleisch::N	3430
 Food:Metroxylon sagu.N	yes	Starch extracted from the spongy centre, or pith, of various tropical palm stems, especially Metroxylon sagu.			2270			
-Food:milk.N	no	The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	7844042	n	635	5-86	Milch::N	
-Food:milk.N	no	milk						3440
+Food:milk.N	no	The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	7844042	n	635	5-86	Milch::N	3440
 Food:mill.N	no	A mill is a device that breaks solid materials into smaller pieces by grinding, crushing, or cutting.	3765561	n	636	5-57		
 Food:mix.V	no	To mix together different elements.	184117	v	2017	5-49		
 Food:mortar.N	no	A bowl used to crush and grind ingredients with a pestle.	3786901	n	224	5-58		
@@ -2927,7 +2920,7 @@ Function:how.PRO	yes	In what way?			1239	17-61	wie::FADV
 Function:if.CNJ	yes	[The introduction of a condition or decision.]			1459	17-53		
 Function:in that way.ADV	yes	Doing something in that manner.			3414			
 Function:in this way.ADV	yes	Doing something in this manner.			3413			
-Function:let:PTCL	yes	The optative particle.				24-99906		
+Function:let.PTCL	yes	The optative particle.				24-99906		
 Function:NEG.PTCL	yes	Negative marker.				24-99907		
 Function:neither.CNJ	yes	The first word in neither... nor.				24-99908		
 Function:no or not.PTCL	yes	A word used to show disagreement with something or to negate something.			2279			
@@ -2971,6 +2964,7 @@ Game:chess.N	no	chess						2390
 Game:coach.N	no	coach (one who directs athletes)						2361
 Game:defeat.V	no	defeat, beat (cause to lose)						2369
 Game:doll.N	no	doll						2302
+Game:dominoes.N	no	A game played with rectangular ties.			2594			
 Game:football.N	no	football (American/tackle f~)						2383
 Game:football.N	no	football (association f~), soccer						2381
 Game:game.N	no	game (a rule-governed system of competitive amusement)						2355
@@ -3398,8 +3392,7 @@ Matter:adhere.V	no	adhere (hold tightly to / stick to something)						3703
 Matter:air.N	no	air						3305
 Matter:alcohol.N	no	alcohol						3358
 Matter:alkaline.A	no	alkaline						3802
-Matter:ash.N	yes	The incombustible matter remaining after a substance has been incinerated.	14769160	n	646	1-84	Asche::N	
-Matter:ash.N	no	ash						3311
+Matter:ash.N	yes	The incombustible matter remaining after a substance has been incinerated.	14769160	n	646	1-84	Asche::N	3311
 Matter:atom.N	no	atom						3815
 Matter:balance.N	no	balance, equilibrium						3842
 Matter:beat.V	no	beat (repeatedly hit), batter						3705
@@ -3473,7 +3466,6 @@ Matter:rubber.N	no	rubber						3352
 Matter:rust.N	yes	Any of various metallic coatings formed by corrosion, especially after oxidation in presence of water.			3064	9-99916		3549
 Matter:rusty.A	yes	Having been affected by rust.			3870			
 Matter:sand.N	no	sand						3331
-Matter:shake.V	no	shake						3773
 Matter:shoot.V	no	shoot (cause to rapidly go forth)						3775
 Matter:sink.V	no	sink						3777
 Matter:soap.N	no	soap						3364
@@ -3511,15 +3503,12 @@ Modernity:card.N	no	A flat device in rectangular form that fulfills various func
 Modernity:certificate.N	no	Official document certifying some state of affairs.				19-99914		
 Modernity:channel.N	no	In physical geography, a channel is a type of landform consisting of the outline of a path of relatively shallow and narrow body of fluid, most commonly the confine of a river, river delta or strait.			2423			
 Modernity:cigarette.N	no	A product manufactured out of cured and finely cut leaves, which are rolled or stuffed into a paper-wrapped cylinder for smoking.	3030663	n	969	23-59		
-Modernity:city.N	no	A big village.			2547			
 Modernity:companionship.N	no	An interpersonal relationship is a strong, deep, or close association or acquaintance between two or more people that may range in duration from brief to enduring.			2983		Gesellschaft::N	
-Modernity:compass.N	no	An instrument for navigation and orientation.			2606			
 Modernity:computer.N	no	A device for automatically performing sets of logical or arithmetical instructions.			3086			
 Modernity:damage (injury).N	no	Loss or harm resulting from injury to person or objects.			2947		Schaden::N	
 Modernity:darts.N	no	A game in which small arrows are thrown on a target.			2587			
 Modernity:defect.N	no	A fault or malfunction.			1995			
 Modernity:doll.N	no	A model of a human, a humanoid, an animal or a fictional character, usually made of cloth or plastic.			1659		Puppe::N	
-Modernity:dominoes.N	no	A game played with rectangular ties.			2594			
 Modernity:election.N	no	A process by which members of a population vote to choose a person to hold public office.	181781	n	240	23-38		
 Modernity:electricity.N	no	A general term used for all phenomena caused by electric charge whether static or in motion.	11450566	n	59	23-17		
 Modernity:engine.N	no	Machine that converts energy into mechanical energy.			2622			
@@ -3622,9 +3611,8 @@ Motion:drift.V	no	drift, wander						3035
 Motion:drip (emit liquid).V	no	To emit drops of liquid.	2071142	v	2253	10-24		
 Motion:drip (fall in globules).V	no	To fall in globules or small portions, as water or other liquid.			808			
 Motion:drip or drop something.V	no	To fall in globules or small portions, as water or other liquid or to let something fall down.			3359			
-Motion:drive or impel or ride.V	no	Drive a vehicle or cause vehicles, other objects, people or animals to move (typically while following them or sitting/standing on them).			3291			
-Motion:drive.V	no	To operate a vehicle.	1930874	v	741	10-65	fahren::V	
-Motion:drive.V	no	drive, impel, propel						3014
+Motion:drive or impel or ride.V	no	Drive a vehicle or cause vehicles, other objects, people or animals to move (typically while following them or sitting/standing on them).	2056971	v	3291			3014
+Transit:drive.V	no	To operate a vehicle.	1930874	v	741	10-65	fahren::V	
 Motion:drop (something).V	yes	To let something fall down.	1977701	v	2866	10-16	fallen lassen::V	
 Motion:drop.V	no	The event of moving to a lower position due to the effect of gravity.			750			
 Motion:drumming.V	no	To produce sound with a drum.			111			
@@ -3697,10 +3685,9 @@ Motion:ride.V	yes	To transport oneself by sitting on and directing an animal.	19
 Motion:rise (oneself).V	no	To get up from a lying, sitting, or kneeling position.			1512			
 Motion:roll.V	yes	To move like a ball/cylinder by turning over and over.	1866610	v	827	10-15		3049
 Motion:run away.V	yes	Leave a dangerous situation by moving one's body away from it.			2142			
-Motion:run.V	no	To move quickly by alternately making a short jump off of either foot.	1926311	v	1519	10-46	rennen::V	
-Motion:send.V	no	To make something (an object, a message) go from one place to another.	1031256	v	1127	10-63	schicken::V	
-Motion:send.V	no	send (cause to go), dispatch, transmit						3010
-Motion:shake.V	no	To cause (something) to move rapidly from side to side.	559556	v	1909	10-26	schütteln::V	
+Motion:run.V	no	To move quickly by alternately making a short jump off of either foot.	1926311	v	1519	10-46	rennen::V	702
+Motion:send.V	no	To make something (an object, a message) go from one place to another.	1951480	 v 	1127	10-63	schicken::V	3010
+Motion:shake.V	no	To cause (something) to move rapidly from side to side.	1889610	 v 	1909	10-26	schütteln::V	3773
 Motion:sink (descend).V	no	To go down in water, mud, quicksand etc. or to cause something to go down in it.	1985923	v	1088	10-33	versinken::V	
 Motion:sit down.V	no	To move into a position where the upper body is upright and the bottom is resting  on a surface or the floor.			1649		sich setzen::V	
 Motion:skate.V	no	Move swiftly over a smooth or slippery surface.			3129			
@@ -3828,8 +3815,7 @@ Nature:earth (soil).N	no	The soft and loose material forming a great part of the
 Nature:earth (wet substance).N	no	The soft and loose material forming a great part of the Earth surface in wet form.			2158			
 Nature:earth or land.N	no	Referring either to agriculturally viable land (e.g. for farming) or earth in its natural form.			3603			
 Nature:earth.N	no	earth (terra firma contrasted with sea and heaven)						1110
-Nature:earthquake.N	no	The violent shaking of the ground produced by deep seismic waves, originating from the epicentre.	7428954	n	6	1-45		
-Nature:earthquake.N	no	earthquake						1150
+Nature:earthquake.N	no	The violent shaking of the ground produced by deep seismic waves, originating from the epicentre.	7428954	n	6	1-45		1150
 Nature:eclipse.N	no	An astronomical event that occurs when an astronomical object is temporarily obscured, either by passing into the shadow of another body or by having another body pass between it and the viewer.			2285			
 Nature:eclipse.N	no	eclipse						1122
 Nature:elevation.N	no	The elevation of a geographic location is its height above or below a fixed reference point, most commonly a reference geoid, a mathematical model of the Earth's sea level as an equipotential gravitational surface (see Geodetic system, vertical datum).			2936		Anhöhe::N	
@@ -4055,8 +4041,8 @@ People:young woman.N	yes	A female juvenile between the onset of puberty and matu
 Perception:beautiful.A	no	beautiful						851
 Perception:become numb.V	no	Be caused not to be sensitive (usually of body parts).			2216			
 Perception:beige.A	no	A kind of yellowish color, mixed with gray.			3707			
-Perception:bitter.A	no	Having an acrid taste.	2396098	a	887	15-37	bitter::A	
 Perception:bitter.A	no	bitter						875
+Perception:bitter.A	no	Having an acrid taste.	2396098	a	887	15-37	bitter::A	
 Perception:blemish.N	no	blemish						854
 Perception:blunt.A	no	Having a thick edge or point, as an instrument; not sharp.	800464	a	379	15-79	stumpf::A	
 Perception:brackish.A	no	(Of water) Salty or slightly salty, as a mixture of fresh and sea water.	1074062	a	70	15-39		
@@ -4064,8 +4050,8 @@ Perception:bright.A	no	Emitting or reflecting light readily or in large amounts.
 Perception:clear (to see).A	no	If something is visible without obstacles (e.g., clouds, spots).			3710			
 Perception:cold (chill).N	no	Cold is the presence of low temperature, especially in the atmosphere.			2932		Kälte::N	
 Perception:cold (feeling cold).A	no	The subjective feeling of a decreased body temperature.			3819			
-Perception:cold.A	no	Having a low temperature.	1251128	a	1287	15-86	kalt::A	
 Perception:cold.A	no	cold						892
+Perception:cold.A	no	Having a low temperature.	1251128	a	1287	15-86	kalt::A	
 Perception:color.N	no	An attribute of things that results from the light they reflect, transmit, or emit in so far as this light causes a visual sensation that depends on its wavelengths.	4956594	n	1613	15-61		
 Perception:colorful.A	no	Having many colors.			2997		bunt::A	
 Perception:conceal.V	no	conceal, hide						813
@@ -4074,8 +4060,7 @@ Perception:copper (color).A	no	Having a red to yellow metallic color that resemb
 Perception:damp.A	no	Refers to the presence of a liquid, especially water, often in trace amounts.			2998		feucht::A	
 Perception:dark green.A	no	A darker variant of the color green, mixed with black, with an approximate wavelength between 543 and 549 nm.			3795			
 Perception:dark yellow.A	no	A darker variant of the primary color yellow, mixed with black, orange or red.			3706			
-Perception:dark.A	no	Having an absolute or (more often) relative lack of light.	409440	a	706	15-63	dunkel::A	
-Perception:dark.A	no	dark, dim (with little light present)						825
+Vision:dark.A	yes	Having an absolute or (more often) relative lack of light.	273082	 a 	706	15-63	dunkel::A	825
 Perception:delicious.A	no	delicious, tasty						872
 Perception:dry.A	no	(Almost) free from liquid or moisture.	2551380	a	1398	15-84	trocken::A	
 Perception:dull.A	no	Lacking the ability to cut easily; not sharp.			1397			
@@ -4139,19 +4124,16 @@ Perception:quiet.A	no	With little or no sound; denoting absence of disturbing no
 Perception:reveal.V	no	reveal, disclose						814
 Perception:rough.A	no	Having a texture that has much friction. Not smooth.	2238462	a	1923	15-76		
 Perception:salty.A	no	Containing salt.	2398773	a	1091	15-36		
-Perception:see.V	no	To perceive [images] with the eye, without necessarily paying attention to them.	2129289	v	1409	15-51	sehen::V	
-Perception:see.V	no	see						810
+Perception:see.V	no	To perceive [images] with the eye, without necessarily paying attention to them.	2129289	v	1409	15-51	sehen::V	810
 Perception:seeing (visual sense).N	no	The sense that enables to perceive light.			2519			
 Perception:sense (perceive by senses).V	no	To perceive by means of senses.			2572			
 Perception:sense.N	no	sense (ability to perceive a given kind of stimuli)						801
 Perception:shadow.N	no	shadow						821
 Perception:shape.N	no	The form of an object or person which refers to its outline.			3747			
 Perception:sharp.A	no	Having the ability to cut easily.	800826	a	1396	15-78	scharf::A	
-Perception:shine.V	no	To emit light.	2763740	v	708	15-56	scheinen[Sonne]::V	
-Perception:shine.V	no	shine (radiate light)						822
+Perception:shine.V	no	To emit light.	2763740	v	708	15-56	scheinen[Sonne]::V	822
 Perception:shiny.A	no	Property of a surface that is bright from reflected light.			3977			
-Perception:show.V	no	To have somebody see something.	923793	v	1039	15-55	zeigen::V	
-Perception:show.V	no	show, display						815
+Perception:show.V	no	To have somebody see something.	923793	v	1039	15-55	zeigen::V	815
 Perception:silence.N	no	Absence of sound, especially of noise.			3458		Ruhe::N	
 Perception:silent.A	no	silent						862
 Perception:similar.A	no	Having some particular qualities or characteristics in common, but not all of them.	2071420	a	1558	12-92		
@@ -4247,8 +4229,8 @@ Plant:Helianthus annuus.N	yes	Annual plant with a large yellow flowering head of
 Plant:Ipomoea batatas.N	yes	A dicotyledonous plant of the family Convolvulaceae, having an edible tuberous root.	7712063	n	159	8-91		
 Plant:kelp.N	no	kelp (seaweed of orders Laminariales and Fucales)						1086
 Plant:leaf spine.N	yes	A hard, rigid extension of leaves with sharp, stiff ends.			2803			
-Plant:leaf.N	yes	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	13131883	n	628	8-56	Blatt::N	
 Plant:leaf.N	no	leaf						1024
+Plant:leaf.N	yes	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	13131883	n	628	8-56	Blatt::N	
 Plant:lentil.N	no	lentil (plant/seeds of sp. Lens culinaris)						1087
 Plant:lettuce.N	no	lettuce (plant/leaves of genus Lactuca)						1088
 Plant:Lupin.N	yes	Any plant of the genus Lupin; bearing erect spikes of usually purplish-blue flowers.				8-99927		
@@ -4280,8 +4262,7 @@ Plant:Prunus armeniaca.N	yes	A tree that bears the apricot fruit.			2357
 Plant:Prunus salicina.N	yes	An Asian tree species classified in the Armeniaca section of the genus Prunus subgenus Prunus.			2356			
 Plant:reed.N	yes	Any of various types of tall stiff grass-like plants growing together in groups near water.			659	8-99943		
 Plant:rice.N	no	rice (plant/seed of sp. Oryza sativa)						1076
-Plant:root.N	yes	The absorbing and anchoring organ of a vascular plant; it bears neither leaves nor flowers and is usually subterranean.	13125117	n	670	8-54	Wurzel::N	
-Plant:root.N	no	root (of a plant)						1027
+Plant:root.N	yes	The absorbing and anchoring organ of a vascular plant; it bears neither leaves nor flowers and is usually subterranean.	13125117	n	670	8-54	Wurzel::N	1027
 Plant:rose.N	no	rose						1052
 Plant:rye.N	no	rye (plant/seed of sp. Secale cereale)						1077
 Plant:safflower.N	no	safflower (Carthamus tinctorius)						1058
@@ -4615,8 +4596,7 @@ Quantity:chain (classifier).CLF	no	Classifier for objects that can be put or are
 Quantity:chicken (classifier).CLF	no	Classifier for bird-like animals.			2081			
 Quantity:clothing (classifier).CLF	no	Classifier for things that one wears.			2088			
 Quantity:count.N	yes	The total number of individual things in a given unit or sample obtained by counting all or a subsample of them.			2945		Anzahl::N	
-Quantity:count.V	yes	To determine the amount of something or to enumerate the digits of one's numeral system.	948071	v	1420	13-107	zählen::V	
-Quantity:count.V	no	count, enumerate						2602
+Quantity:count.V	yes	To determine the amount of something or to enumerate the digits of one's numeral system.	948071	v	1420	13-107	zählen::V	2602
 Quantity:cow (classifier).CLF	no	Classifier for cows and animals as large as cows.			2168			
 Quantity:crowd.N	no	A large group of people.	8182379	n	2023	13-19		
 Quantity:deal (classifier).CLF	no	Classifier for bargains or business deals.			2738			
@@ -4754,6 +4734,7 @@ Society:charity.N	no	A benevolent action in favor of the needy, or an activity o
 Society:chief.N	no	The head of a company or group.			2394			
 Society:chieftain.N	no	The leader/ruler of a tribe/clan.	10164025	n	301	19-24		
 Society:citizen.N	no	A native or naturalized member of a state or nation who owes allegiance, bears responsibilities and obtains rights, including protection, from the government.	9923673	n	1032	19-37		
+Society:city.N	no	A big village.			2547			
 Society:clan.N	no	Extended family.	7969695	n	302	19-23		
 Society:command.V	no	To order someone or several persons by a superior authority to do something.	746718	v	1998	19-45		
 Society:companion.N	no	One who accompanies or associates with another, either habitually or casually.			3978		Kamerad::N	
@@ -4844,7 +4825,7 @@ Society:subjugate.V	no	To put somebody under one's authority.			1516
 Society:team.N	no	A cooperative group of individuals working together for a common purpose.			3961			
 Society:tibetan.N	no	Referring to the Tibetan people, their cultural practices or heritage.			3374			
 Society:town or village.N	no	Referring to either smaller (village) or larger (town) settlements.			3609			
-Society:town.N	no	An area with residential districts, shops and amenities, and its own local government.	8665504	n	1391	19-15	Stadt::N	
+Society:town.N	no	An area with residential districts, shops and amenities, and its own local government.	8665504	n	1391	19-15	Stadt::N	2941
 Society:treaty.N	no	Formal agreement between nations, states or other international bodies.			3169			
 Society:tribe.N	no	Group of people linked by the same linguistic and cultural traditions that usually live far from urban areas and practice their own legal rules and have their own political system.			1549			
 Society:trust (somebody).V	no	To have great confidence in someone that he or she is sincere, honest, and will not deliberately inflict any harm.			3902			
@@ -5078,8 +5059,7 @@ Storage:tin (can).N	yes	A tin-plate canister, often cylindrical, for preserved f
 Storage:vase.N	yes	An often round vessel which is used for decoration or for holding cut flowers.			3746			
 Time:afternoon.N	yes	The part of the day which follows noon, between noon and evening.	15166191	n	1807	14-451		3287
 Time:afterwards.?	no	Later or after something else has happened or happens.			2093		danach::ADV	
-Time:again.ADV	yes	Once more.	40365	r	204	14-35	wieder::ADV	
-Time:again.ADV	no	again, once more, re-						3228
+Time:again.ADV	yes	Once more.	40365	r	204	14-35	wieder::ADV	3228
 Time:age.N	yes	The amount of time that a person, animal or plant has lived or that an object has existed.	4924103	n	1789	14-12	Alter::N	3211
 Time:already.ADV	yes	Prior to a specified point in time.			2576		schon::ADV	3245
 Time:alternate.V	no	alternate, take turns (do X then Y then X then Y)						3229
@@ -5102,7 +5082,6 @@ Time:beginning.N	yes	The beginning of an activity or event.	7290905	n	1557	14-25
 Time:busy.A	no	The state of being occupied with something.			2755			
 Time:calendar.N	yes	A table showing the months and days of the year.	8266849	n	1967	23-61		
 Time:cease.V	no	To have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.	2609764	v	1928	14-28	enden::V	
-Time:cease.V	no	cease, stop doing, quit						3239
 Time:century.N	no	century						3276
 Time:Chinese New Year.N	yes					14-99901		
 Time:clock.N	no	An instrument used to measure or keep track of time.	3046257	n	1323	14-53		
@@ -5126,8 +5105,7 @@ Time:dusk.N	no	The darkest stage of twilight in the evening.			2297
 Time:early.A	yes	Before the expected time or towards the beginning of a time period.	100592	r	672	14-16		3250
 Time:end (of time).N	no	The last or final part.	7291794	n	743	14-26	Schluss::N	
 Time:end.V	no	end, conclude, finish						3238
-Time:evening.N	yes	That part of the day in which daylight decreases and the night falls.	15166462	n	1629	14-46	Abend::N	
-Time:evening.N	no	evening (dusk to midnight)						3288
+Time:evening.N	yes	That part of the day in which daylight decreases and the night falls.	15166462	n	1629	14-46	Abend::N	3288
 Time:eventually.ADV	no	eventually (in the far future)						3208
 Time:ever.ADV	no	ever (at any time)						3243
 Time:fast.A	yes	Occurring or happening within a short time.	86000	r	1631	14-21		
