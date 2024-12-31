@@ -1,520 +1,1239 @@
 id	style	word	pronunciation
-Action:can.V		болох	pɔɮɔ̆x
-Agriculture:herd (something).V		маллах	maɮɮăx
-Agriculture:herd (something).V		хариулах	xarʲiʊ̆ɮăx
-Agriculture:irrigate.V		услах	ʊsɮăx
-Agriculture:pick.V		түүх	tʰuːx
-Agriculture:shovel.N		хүрз	xurt͡s
-Animal:Anatidae.N		нугас	nʊɢăs
-Animal:Annelida.N		хорхой	xɔrxɔi̯
-Animal:Annelida.N		өт	ɵtʰ
-Animal:Araneae.N		аалз	aːɮt͡s
-Animal:Aves.N		шувуу	ʃʊw̜ʊ
-Animal:Canis lupus familiaris.N		нохой	nɔxɔi̯
-Animal:Canis lupus.N		чоно	t͡ʃʰɔnɔ̆
-Animal:Corvus.N		хэрээ	xere
-Animal:Culicidae.N		шумуул	ʃʊmʊɮ
-Animal:Diptera.N		ялаа	jaɮa
-Animal:Equus ferus caballus.N		адуу	atʊ
-Animal:Equus ferus caballus.N		морь	mɔrʲ
-Animal:Felis catus.N		мигуй	mʲiɢʊi̯
-Animal:Felis catus.N		муур	mʊːr
-Animal:Formicidae.N		шоргоолж	ʃɔrɢɔɮt͡ʃ
-Animal:Gallus gallus domesticus.N		тахиа	tʰaxʲiă
-Animal:Homo sapiens.N		хүн	xuŋ
-Animal:Ovis aries.N		хонь	xɔnʲ
-Animal:Rhopalocera.N		эрвээхэй	erw̜exĕj
-Animal:Sciuridae.N		хэрэм	xerĕm
-Animal:Serpentes.N		могой	mɔɢɔi̯
-Animal:Sus scrofa domestica.N		гахай	ɢăxai̯
-Animal:Ursidae.N		баавгай	paːw̜ɢai̯
-Animal:Vulpes.N		үнэг	unĕɡ
-Animal:animal.N		адгуус	atɢʊs
-Animal:animal.N		амьтан	amʲtʰăŋ
-Animal:fish.N		загас	t͡saɢăs
-Animal:mouse.N		хулгана	xʊɮɢănă
-Animal:wool.N		ноос	nɔːs
-Animal:wool.N		унгас	ʊnɢăs
-Atmosphere:cloud.N		үүл	uːɮ
-Atmosphere:cold.A		сэрүүн	seruŋ
-Atmosphere:fog.N		будан	pʊtăn
-Atmosphere:rain.N		бороо	pɔrɔ
-Atmosphere:rain.V		бороо орно	pɔrɔ ɔ̆rnɔ̆
-Atmosphere:rainbow.N		солонго	sɔɮɔ̆nɢɔ̆
-Atmosphere:sky.N		огторгуй	ɔɢtʰɔ̆rɢʊi̯
-Atmosphere:sky.N		тэнгэр	tʰenɡĕr
-Atmosphere:thunder.N		тэнгэрийн дуу	tʰenɡĕrʲin tʊ
-Atmosphere:thunder.V		дуугарах	tʊːɢărăx
-Atmosphere:weather.N		тэнгэр	tʰenɡĕr
-Atmosphere:weather.N		цаг уур	t͡sʰaɢ ʊr
-Atmosphere:wind.N		салхи	saɮxʲi
-Belief:deity.N		бурхан	pʊrxăŋ
-Belief:idol.N		баримал	parʲimăɮ
-Belief:spirit.N		оюун	ɔjʊŋ
-Body:arm.N		гар	ɢăr
-Body:back.N		ар	ar
-Body:back.N		нуруу	nʊrʊ
-Body:beard.N		сахал	saxăɮ
-Body:belly.N		гэдэс	ɡetĕs
-Body:belly.N		хэвлий	xew̜ɮʲi
-Body:blood.N		цус	t͡sʰʊs
-Body:blow.V		үлзэх	uɮt͡sĕx
-Body:body.N		бие	pʲiʲi
-Body:bone.N		яс	jas
-Body:brain.N		тархи	tʰarxʲi
-Body:breast.N		хөх	xɵx
-Body:breath.N		амьсгаа	amʲsɢa
-Body:breath.V		амьсгалах	amʲsɢăɮăx
-Body:cheek.N		хацар	xat͡sʰăr
-Body:chest.N		цээж	t͡sʰeːt͡ʃ
-Body:chin.N		эрүү	eru
-Body:ear.N		чих	t͡ʃʰʲix
-Body:elbow.N		тохой	tʰɔxɔi̯
-Body:eye.N		нүд	nut
-Body:face.N		нүүр	nuːr
-Body:face.N		царай	t͡sʰarai̯
-Body:fat.N		өөх	oːx
-Body:feather.N		өд	ɵt
-Body:finger.N		хуруу	xʊrʊ
-Body:fingernail.N		хурууны хумс	xʊrʊnĭ xʊ̆ms
-Body:foot.N		хөл	xɵɮ
-Body:footprint.N		мөр	mɵr
-Body:forehead.N		дух	tʊx
-Body:fur.N		арьс	arʲs
-Body:hair.N		үс	us
-Body:hand.N		алга	aɮɢă
-Body:hand.N		гар	ɢăr
-Body:head.N		толгой	tʰɔɮɢɔi̯
-Body:heart.N		зүрх	t͡surx
-Body:heel.N		өсгий	ɵsɡʲi
-Body:horn.N		эвэр	ew̜ĕr
-Body:jaw.N		эрүү	eru
-Body:knee.N		өвдөг	ɵw̜tɵ̆ɡ
-Body:leg.N		хөл	xɵɮ
-Body:lip.N		уруул	ʊrʊɮ
-Body:liver.N		элэг	eɮĕɡ
-Body:moustache.N		дээд сахал	teːt săxăɮ
-Body:moustache.N		живэр сахал	t͡ʃʲiw̜ĕr săxăɮ
-Body:mouth.N		ам	am
-Body:nail.N		хумс	xʊms
-Body:nape.N		хүзүү	xut͡su
-Body:nape.N		шил	ʃʲiɮ
-Body:navel.N		хүйс	xuːi̯s
-Body:neck.N		хүзүү	xut͡su
-Body:nose.N		хамар	xamăr
-Body:obese.A		голигор	ɢɔ̆ɮʲiɢɔ̆r
-Body:obese.A		тарган	tʰarɢăŋ
-Body:palm.N		алга	aɮɢă
-Body:shoulder.N		бугалга	pʊɢăɮɢă
-Body:shoulder.N		мөр	mɵr
-Body:skin.N		арьс	arʲs
-Body:stomach.N		ходоод	xɔtɔt
-Body:tail.N		сүүл	suːɮ
-Body:tear.N		нулимс	nʊɮʲims
-Body:tendon.N		бүлх	puɮx
-Body:tendon.N		шандас	ʃantăs
-Body:throat.N		хоолой	xɔːɮɔi̯
-Body:toe.N		хуруу	xʊrʊ
-Body:tongue.N		хэл	xeɮ
-Body:tooth.N		шүд	ʃut
-Body:upper leg.N		гуя	ɢʊ̆jă
-Body:vein.N		судас	sʊtăs
-Body:wing.N		далавч	taɮăw̜t͡ʃʰ
-Body:wing.N		жигүүр	t͡ʃʲiɡur
-Body:wound.N		шарх	ʃarx
-Building:board.N		банз	pant͡s
-Building:build.V		барих	parʲix
-Building:door.N		хаалга	xaːɮɢă
-Building:door.N		үүд	uːt
-Building:floor.N		шал	ʃaɮ
-Building:gate.N		хаалга	xaːɮɢă
-Building:house.N		байшин	paːi̯ʃʲin
-Building:house.N		гэр	ɡer
-Building:post.N		сургааг	sʊrɢaɡ
-Building:roof.N		дээвэр	teːw̜ĕr
-Building:window.N		гэгээвч	ɡeɡew̜t͡ʃʰ
-Cleaning:broom.N		туужуу	tʰʊːt͡ʃʊ
-Cleaning:broom.N		хамуур	xamʊr
-Cleaning:clean (sth).V		арилгах	arʲiɮɢăx
-Cleaning:clean (sth).V		цэвэрлэх	t͡sʰew̜ĕrɮĕx
-Cleaning:clean.A		хиргүй	xʲirɡui̯
-Cleaning:clean.A		цэвэр	t͡sʰew̜ĕr
-Cleaning:dirt.N		хир	xʲir
-Cleaning:dirt.N		шавхай	ʃaw̜xai̯
-Cleaning:dirty.A		бохир	pɔxʲir
-Cleaning:dirty.A		хиртэй	xʲirtʰĕj
-Cleaning:sweep.V		хамах	xamăx
-Cleaning:sweep.V		шүүрдэх	ʃuːrtĕx
-Cleaning:wash (oneself).V		биеэ угаах	pʲiʲiĕ ʊ̆ɢax
-Cleaning:wash.V		угаах	ʊɢax
-Cleaning:wipe.V		арчих	art͡ʃʰʲix
-Clothing:belt.N		бүс	pus
-Clothing:boot.N		гутал	ɢʊ̆tʰăɮ
-Clothing:button.N		товч	tʰɔw̜t͡ʃʰ
-Clothing:cap.N		бүрх	purx
-Clothing:cap.N		малгай	maɮɢai̯
-Clothing:cloth.N		бөс	pɵs
-Clothing:clothes.N		хувцас	xʊw̜t͡sʰăs
-Clothing:collar.N		зах заам	t͡sax t͡sam
-Clothing:dress up.V		хувцаслах	xʊw̜t͡sʰăsɮăx
-Clothing:dye.V		будах	pʊtăx
-Clothing:knit.V		нэхэх	nexĕx
-Clothing:knit.V		сүлжих	suɮt͡ʃʲix
-Clothing:leather.N		арьс	arʲs
-Clothing:leather.N		савхи	saw̜xʲi
-Clothing:naked.A		нүцгэн	nut͡sʰɡĕŋ
-Clothing:needle.N		зүү	t͡suː
-Clothing:put on.V		өмсөх	ɵmsɵ̆x
-Clothing:scarf or turban.N		алчуур	aɮt͡ʃʰʊr
-Clothing:scarf or turban.N		даавуу	taːw̜ʊ
-Clothing:sew.V		оёх	ɔjɔ̆x
-Clothing:shirt.N		цамц	t͡sʰamt͡sʰ
-Clothing:shoe.N		туфли	tʰʊfɮʲi
-Clothing:sleeve.N		ханцуй	xant͡sʰʊi̯
-Clothing:thread.N		боолт	pɔːɮtʰ
-Clothing:thread.N		утас	ʊtʰăs
-Clothing:towel.N		алчуур	aɮt͡ʃʰʊr
-Clothing:trousers.N		өмд	ɵmt
-Clothing:undress.V		тайлах	tʰaːi̯ɮăx
-Cognition:familiar.A		танил	tʰanʲiɮ
-Cognition:true.A		жинхэнэ	t͡ʃʲinxĕnĕ
-Cognition:true.A		үнэн	unĕŋ
-Cognition:truth.N		үнэн	unĕŋ
-Cognition:wake up (tr).V		сэрээх	serex
-Cognition:wake up.V		сэрэх	serĕx
-Combat:brawl.V		зодолдох	t͡sɔtɔ̆ɮtɔ̆x
-Combat:fight.N		байлдаан	paːi̯ɮtaŋ
-Combat:fight.N		тэмцэл	tʰemt͡sʰĕɮ
-Combat:strike (sb).V		цохих	t͡sʰɔxʲix
-Combat:violence.N		хүчирхэх	xut͡ʃʰʲirxĕx
-Combat:win.V		ялах	jaɮăx
-Communication:boast.V		бардах	partăx
-Communication:boast.V		сайрхах	saːi̯rxăx
-Communication:book.N		бичиг	pʲit͡ʃʰʲiɡ
-Communication:book.N		ном	nɔm
-Communication:call.V		дуудах	tʊːtăx
-Communication:chat.V		ярилцах	jarʲiɮt͡sʰăx
-Communication:convey (a message).V		дуулгах	tʊːɮɢăx
-Communication:convey (a message).V		мэдээлэх	meteɮĕx
-Communication:fairy tale.N		явган үлгэр	jaw̜ɢăn ŭɮɡĕr
-Communication:kiss.V		озох	ɔt͡sɔ̆x
-Communication:kiss.V		үнсэх	unsĕx
-Communication:language.N		хэл	xeɮ
-Communication:letter.N		захиа	t͡saxʲiă
-Communication:letter.N		захидал	t͡saxʲităɮ
-Communication:lie.N		худал	xʊtăɮ
-Communication:news.N		сонин	sɔnʲiŋ
-Communication:newspaper.N		сонин	sɔnʲiŋ
-Communication:talk.V		хэлэх	xeɮĕx
-Communication:talk.V		хөөрөлдөх	xoːrɵ̆ɮtɵ̆x
-Communication:tell.V		өгүүлэх	ɵɡuɮĕx
-Communication:translate.V		орчуулах	ɔrt͡ʃʰʊɮăx
-Communiction:call.N		дуудлага	tʊːtɮăɢă
-Cosmos:Sun.N		нар	nar
-Cosmos:moon.N		сар	sar
-Cosmos:set.V		жаргах	t͡ʃarɢăx
-Cosmos:star.N		од	ɔt
-Degree:very.ADV		тун	tʰʊŋ
-Element:Ag.N		мөнгө	mɵnɡɵ̆
-Element:Au.N		алт	aɮtʰ
-Element:Fe.N		төмөр	tʰɵmɵ̆r
-Emotion:be angry.V		уурлах	ʊːrɮăx
-Emotion:cry.V		уйлах	ʊːi̯ɮăx
-Emotion:evil.A		муу	mʊː
-Emotion:evil.A		хортой	xɔrtʰɔi̯
-Emotion:fear.V		айх	aːi̯x
-Emotion:gentle.A		наалинхай	naːɮʲinxai̯
-Emotion:grief.N		гаслан	ɢăsɮăn
-Emotion:happiness.N		жаргалан	t͡ʃarɢăɮăn
-Emotion:like.V		таалах	tʰaːɮăx
-Emotion:longing.N		дур	tʊr
-Emotion:longing.N		хүсэл	xusĕɮ
-Emotion:love.V		янаглах	janăɢɮăx
-Emotion:merry.A		цэнгэлтэй	t͡sʰenɡĕɮtʰĕj
-Emotion:move.V		сэтгэл уяруулах	setʰɡĕɮ ʊ̆jărʊɮăx
-Emotion:sad.A		гунигт	ɢʊ̆nʲiɡtʰ
-Emotion:want.V		хүсэх	xusĕx
-Family:aunt.N		авга эгч	aw̜ɢă ĕɡt͡ʃʰ
-Family:aunt.N		нагац эгч	naɢăt͡sʰ ĕɡt͡ʃʰ
-Family:brother.N		ах	ax
-Family:brother.N		дүү	tuː
-Family:daughter.N		охин	ɔxʲiŋ
-Family:family.N		айл	aːi̯ɮ
-Family:father.N		аав	aːw̜
-Family:father.N		эцэг	et͡sʰĕɡ
-Family:grandfather.N		өвгөн аав	ɵw̜ɡɵ̆n aw̜
-Family:grandmother.N		эмгээ	emɡe
-Family:grandmother.N		эмэг эх	emĕɡ ĕx
-Family:husband.N		нөхөр	nɵxɵ̆r
-Family:mother.N		эх	ex
-Family:mother.N		ээж	eːt͡ʃ
-Family:parents.N		эцэг эх	et͡sʰĕɡ ĕx
-Family:sister.N		охин дүү	ɔxʲin tu
-Family:sister.N		эгч	eɡt͡ʃʰ
-Family:son.N		хүү	xuː
-Family:uncle.N		авга ах	aw̜ɢă ăx
-Family:uncle.N		нагац ах	naɢăt͡sʰ ăx
-Family:wife.N		гэргий	ɡerɡʲi
-Family:wife.N		эхнэр	exnĕr
-Food:Camellia sinensis.N		цай	t͡sʰaːi̯
-Food:Malus domestica.N		алим	aɮʲim
-Food:NaCl.N		давс	taw̜s
-Food:bake.V		жигнэх	t͡ʃʲiɡnĕx
-Food:bread.N		талх	tʰaɮx
-Food:soup.N		шөл	ʃɵɮ
-Food:spoon.N		халбага	xaɮpăɢă
-Form:bend (sth).V		матах	matʰăx
-Form:bend (sth).V		муруйлгах	mʊrʊi̯ɮɢăx
-Form:bend.V		бөгтийлгөх	pɵɡtʰʲiɮɡɵ̆x
-Function:1PL.PRO		бид	pʲit
-Function:1SG.PRO		би	pʲi
-Function:2PL.PRO		та нар	tʰa năr
-Function:2SG.PRO		чи	t͡ʃʰʲi
-Function:3PL.PRO		тэд	tʰet
-Function:3SG M.PRO		тэр	tʰer
-Function:3SG M.PRO		тэр хүн	tʰer xŭŋ
-Function:and.CNJ		болон	pɔɮɔ̆ŋ
-Function:and.CNJ		ч	t͡ʃʰ
-Function:here.ADV		энд	ent
-Function:how many.PRO		хэд	xet
-Function:how many.PRO		хэдий	xetʲi
-Function:how.PRO		хэрхэн	xerxĕŋ
-Function:how.PRO		яаж	jaːt͡ʃ
-Function:not.PTCL		-гүй	-ɡui̯
-Function:not.PTCL		эс	es
-Function:or.CNJ		буюу	pʊjʊ
-Function:other.PRO		нөгөө	nɵɡo
-Function:other.PRO		өөр	oːr
-Function:that.PRO		тэр	tʰer
-Function:there.ADV		тэнд	tʰent
-Function:this.PRO		энэ	enĕ
-Function:what.PRO		юу	jʊː
-Function:where.PRO		хаа	xaː
-Function:where.PRO		хаана	xaːnă
-Function:who.PRO		хэн	xeŋ
-Function:why.PRO		юунд	jʊːnt
-Function:why.PRO		яагаад	jaːɢat
-Grooming:comb.N		сам	sam
-Grooming:comb.V		самнах	samnăx
-Grooming:decorate.V		гоёх	ɢɔ̆jɔ̆x
-Grooming:decorate.V		чимэх	t͡ʃʰʲimĕx
-Grooming:mirror.N		толь	tʰɔɮʲ
-Grooming:ring.N		бөгж	pɵɡt͡ʃ
-Handiwork:glue.V		наах	naːx
-Handiwork:nail.N		хадаас	xatas
-Handiwork:repair.V		засах	t͡sasăx
-Handiwork:repair.V		сэлбэх	seɮpĕx
-Handiwork:ware.N		бараа	para
-Handiwork:ware.N		таваар	tʰaw̜ar
-Handiwork:worker.N		ажилчин	at͡ʃʲiɮt͡ʃʰʲiŋ
-Handiwork:worker.N		хөдөлмөрчин	xɵtɵ̆ɮmɵ̆rt͡ʃʰʲiŋ
-Health:become sick.V		өвдөж эхлэх	ɵw̜tɵ̆t͡ʃ ĕxɮĕx
-Health:disease.N		эмгэг	emɡĕɡ
-Health:fever.N		халуун	xaɮʊŋ
-Health:healthy.A		бие	pʲiʲi
-Health:healthy.A		эрүүл мэнд	eruɮ mĕnt
-Health:medicine.N		эм	em
-Health:physician.N		эмч	emt͡ʃʰ
-Health:recover.V		засрах	t͡sasrăx
-House:bed.N		ор	ɔr
-House:blanket.N		хучлага	xʊt͡ʃʰɮăɢă
-House:blanket.N		хөнжил	xɵnt͡ʃʲiɮ
-House:cradle.N		өлгий	ɵɮɡʲi
-House:pillow.N		дэр	ter
-House:table.N		ширээ	ʃʲire
-Hunting:bow.N		нум	nʊm
-Hunting:fishing.V		загас барих	t͡saɢăs părʲix
-Hunting:fishing.V		загасчлах	t͡saɢăst͡ʃʰɮăx
-Hunting:hunt.V		агнах	aɢnăx
-Hunting:hunt.V		гөрөөлөх	ɡɵroɮɵ̆x
-Integrity:part.N		хувь	xʊw̜ʲ
-Integrity:part.N		хэсэг	xesĕɡ
-Integrity:piece.N		хэсэг	xesĕɡ
-Interaction:choose.V		сонгох	sɔnɢɔ̆x
-Interaction:rescue.V		гэтэлгэх	ɡetʰĕɮɡĕx
-Mind:dream.N		зүүд	t͡suːt
-Motion:arrive.V		хүрэх	xurĕx
-Motion:bring.V		аваачих	aw̜at͡ʃʰʲix
-Motion:bring.V		авчрах	aw̜t͡ʃʰrăx
-Motion:carry.V		авчрах	aw̜t͡ʃʰrăx
-Motion:catch.V		барих	parʲix
-Motion:climb.V		авирах	aw̜ʲirăx
-Motion:come back.V		буцаж ирэх	pʊt͡sʰăt͡ʃ ʲirĕx
-Motion:come back.V		харих	xarʲix
-Motion:come.V		ирэх	ʲirĕx
-Motion:creep.V		мөлхөх	mɵɮxɵ̆x
-Motion:drag.V		чирэх	t͡ʃʰʲirĕx
-Motion:drop (something).V		унагах	ʊnăɢăx
-Motion:enter.V		орох	ɔrɔ̆x
-Motion:fall.V		унах	ʊnăx
-Motion:fly.V		нисэх	nʲisĕx
-Motion:go.V		явах	jaw̜ăx
-Motion:leave.V		явах	jaw̜ăx
-Motion:lift.V		өргөх	ɵrɡɵ̆x
-Motion:move (oneself).V		хөдлөх	xɵtɮɵ̆x
-Motion:raise.V		өргөх	ɵrɡɵ̆x
-Motion:step.V		алхах	aɮxăx
-Motion:swing (sth).V		даллах	taɮɮăx
-Motion:swing (sth).V		дэвэх	tew̜ĕx
-Motion:swing.V		ганхах	ɢănxăx
-Motion:swing.V		хэлбэлзэх	xeɮpĕɮt͡sĕx
-Motion:take a walk.V		зугаалах	t͡sʊɢaɮăx
-Motion:turn (sth).V		эргүүлэх	erɡuɮĕx
-Motion:walk.N		явдал	jaw̜tăɮ
-Music:sing.V		дуулах	tʊːɮăx
-Music:song.N		дуу	tʊː
-Music:tone.N		авиа	aw̜ʲiă
-Music:tone.N		аялгуу	ajăɮɢʊ
-Nature:river.N		гол	ɢɔ̆ɮ
-Nature:river.N		мөрөн	mɵrɵ̆ŋ
-Nature:sea.N		далай	taɮai̯
-Nature:sea.N		тэнгис	tʰenɡʲis
-Nature:shore of lake.N		эрэг	erĕɡ
-Nature:slope.N		хүр	xur
-People:boy.N		хүү	xuː
-People:child.N		хүүхэд	xuːxĕt
-People:girl.N		бүсгүй	pusɡui̯
-People:girl.N		охин	ɔxʲiŋ
-People:man.N		эр	er
-People:man.N		эрэгтэй	erĕɡtʰĕj
-People:people.N		хүмүүс	xumus
-People:woman.N		хатагтай	xatʰăɢtʰai̯
-People:woman.N		эмэгтэй	emĕɡtʰĕj
-Perception:feel.V		мэдрэх	metrĕx
-Perception:hear or listen.V		дуулах	tʊːɮăx
-Perception:hear.V		дуулах	tʊːɮăx
-Perception:pain.N		өвчин	ɵw̜t͡ʃʰʲiŋ
-Perception:touch.V		шүргэх	ʃurɡĕx
-Perception:wet.A		нойтон	nɔːi̯tʰɔ̆ŋ
-Perception:yellow.A		шар	ʃar
-Plant:Betula.N		хус	xʊs
-Plant:bark.N		холтос	xɔɮtʰɔ̆s
-Plant:branch.N		гишүү	ɡʲiʃu
-Plant:flower.N		цэцэг	t͡sʰet͡sʰĕɡ
-Plant:leaf.N		навч	naw̜t͡ʃʰ
-Plant:root.N		үндэс	untĕs
-Plant:seed.N		тариа	tʰarʲiă
-Plant:tree trunk.N		гуалин	ɢʊ̆ăɮʲin
-Plant:tree trunk.N		иш	ʲiʃ
-Plant:tree.N		мод	mɔt
-Plant:twig.N		салаа	saɮa
-Possession:abandon.V		хаях	xajăx
-Possession:gift.N		бэлэг	peɮĕɡ
-Possession:poor.A		ядуу	jatʊ
-Possession:price.N		үнэ	unĕ
-Possession:rich.A		баялаг	pajăɮăɢ
-Possession:rich.A		баян	pajăŋ
-Possession:sell.V		худалдах	xʊtăɮtăx
-Quantity:1.NUM		нэг	neɡ
-Quantity:10.NUM		арав	arăw̜
-Quantity:100.NUM		зуу	t͡sʊː
-Quantity:1000.NUM		мянга	mʲănɢă
-Quantity:11.NUM		арван нэг	arw̜ăn nĕɡ
-Quantity:12.NUM		арван хоёр	arw̜ăn xɔ̆jɔ̆r
-Quantity:2.NUM		хоёр	xɔjɔ̆r
-Quantity:20.NUM		хорь	xɔrʲ
-Quantity:3.NUM		гурав	ɢʊ̆răw̜
-Quantity:30.NUM		гуч	ɢʊ̆t͡ʃʰ
-Quantity:4.NUM		дөрөв	tɵrɵ̆w̜
-Quantity:40.NUM		дөч	tɵt͡ʃʰ
-Quantity:5.NUM		тав	tʰaw̜
-Quantity:50.NUM		тавь	tʰaw̜ʲ
-Quantity:6.NUM		зургаа	t͡sʊrɢa
-Quantity:60.NUM		жар	t͡ʃar
-Quantity:7.NUM		долоо	tɔɮɔ
-Quantity:70.NUM		дал	taɮ
-Quantity:8.NUM		найм	naːi̯m
-Quantity:80.NUM		ная	najă
-Quantity:9.NUM		ес	jiːs
-Quantity:90.NUM		ер	jiːr
-Quantity:a little.A		жаахан	t͡ʃaːxăŋ
-Quantity:add.V		нэмэх	nemĕx
-Quantity:decrease.V		багасах	paɢăsăx
-Quantity:decrease.V		хорогдох	xɔrɔ̆ɢtɔ̆x
-Quantity:empty.A		хоосон	xɔːsɔ̆ŋ
-Quantity:fill.V		дүүргэх	tuːrɡĕx
-Quantity:full.A		дүүрэн	tuːrĕŋ
-Quantity:increase.V		ихсэх	ʲixsĕx
-Society:help.N		тусламж	tʰʊsɮămt͡ʃ
-Society:people.N		улс	ʊɮs
-Sound:chime.V		цохих	t͡sʰɔxʲix
-Sound:howl.V		улих	ʊɮʲix
-Sound:laugh.N		инээдэм	ʲinetĕm
-Sound:laugh.V		инээх	ʲinex
-Sound:make noise.V		шуугих	ʃʊːɢʲix
-Sound:rustle (of leaves).V		сэржигнэх	sert͡ʃʲiɡnĕx
-Sound:shout.V		хашгирах	xaʃɡʲirăx
-Sound:sound (of instrument or voice).V		хангинах	xanɡʲinăx
-Sound:voice.N		дуу	tʊː
-Sound:whistle.V		исгэрэх	ʲisɡĕrĕx
-Space:back.ADV		буцаж	pʊt͡sʰăt͡ʃ
-Space:back.ADV		гэдрэг	ɡetrĕɡ
-Space:wide.A		өргөн	ɵrɡɵ̆ŋ
-Storage:bag.N		цүнх	t͡sʰunx
-Storage:box.N		авдар	aw̜tăr
-Storage:box.N		хайрцаг	xaːi̯rt͡sʰăɢ
-Storage:bucket.N		хувин	xʊw̜ʲin
-Storage:bucket.N		хөнөг	xɵnɵ̆ɡ
-Storage:heap.N		бөөн	poːŋ
-Storage:lid.N		таг	tʰaɢ
-Storage:lid.N		хавхаг	xaw̜xăɢ
-Storage:load.N		ачаа	at͡ʃʰa
-Storage:misplace.V		гээх	ɡeːx
-Storage:pouch.N		агсаа	aɢsa
-Storage:pouch.N		уут	ʊːtʰ
-Storage:pour.V		аягалах	ajăɢăɮăx
-Storage:pour.V		цутгах	t͡sʰʊtʰɢăx
-Storage:sack.N		шуудай	ʃʊːtai̯
-Time:April.N		дөрөвдүгээр сар	tɵrɵ̆w̜tŭɡer săr
-Time:August.N		наймдугаар сар	naːi̯mtʊ̆ɢar săr
-Time:December.N		арван хоёрдугаар сар	arw̜ăn xɔ̆jɔ̆rtʊ̆ɢar săr
-Time:February.N		хоёрдугаар сар	xɔjɔ̆rtʊ̆ɢar săr
-Time:January.N		нэгдүгээр сар	neɡtŭɡer săr
-Time:July.N		долдугаар сар	tɔɮtʊ̆ɢar săr
-Time:June.N		зургаадугаар сар	t͡sʊrɢatʊ̆ɢar săr
-Time:March.N		гуравдугаар сар	ɢʊ̆răw̜tʊ̆ɢar săr
-Time:May.N		тавдугаар сар	tʰaw̜tʊ̆ɢar săr
-Time:November.N		арван нэгдүгээр сар	arw̜ăn nĕɡtŭɡer săr
-Time:October.N		аравдугаар сар	arăw̜tʊ̆ɢar săr
-Time:September.N		есдүгээр сар	jiːstŭɡer săr
-Time:age.N		нас	nas
-Time:already.ADV		нэгэнт	neɡĕntʰ
-Time:always.ADV		байнга	paːi̯nɢă
-Time:autumn.N		намар	namăr
-Time:final.A		сүүлийн	suːɮʲiŋ
-Time:month.N		сар	sar
-Time:never.ADV		хэдийд ч	xetʲit t͡ʃʰ
-Time:never.ADV		хэзээ ч	xet͡se t͡ʃʰ
-Time:new.A		шинэ	ʃʲinĕ
-Time:night.N		шөнө	ʃɵnɵ̆
-Time:now.ADV		өнөө	ɵno
-Time:often.ADV		олонтоо	ɔɮɔ̆ntʰɔ
-Time:old (of person).A		хижээл	xʲit͡ʃeɮ
-Time:old (of person).A		өвгөн	ɵw̜ɡɵ̆ŋ
-Time:old.A		хуучин	xʊːt͡ʃʰʲiŋ
-Time:one time.ADV		нэг удаа	neɡ ʊ̆ta
-Time:pass.V		нөгчих	nɵɡt͡ʃʰʲix
-Time:pass.V		өнгөрөх	ɵnɡɵ̆rɵ̆x
-Time:springtime.N		хавар	xaw̜ăr
-Time:still.ADV		дахиад	taxʲiăt
-Time:still.ADV		дахин	taxʲiŋ
-Time:summer.N		зун	t͡sʊŋ
-Time:time.N		цаг	t͡sʰaɢ
-Time:today.ADV		өнөө	ɵno
-Time:today.ADV		өнөөдөр	ɵnotɵ̆r
-Time:tomorrow.ADV		маргаадар	marɢatăr
-Time:tomorrow.ADV		маргааш	marɢaʃ
-Time:wait.V		хүлээх	xuɮex
-Time:winter.N		өвөл	ɵw̜ɵ̆ɮ
-Time:year.N		жил	t͡ʃʲiɮ
-Time:yesterday.ADV		өчигдөр	ɵt͡ʃʰʲiɡtɵ̆r
-Transit:boat.N		завь	t͡saw̜ʲ
-Transit:oar.N		сэлүүр	seɮur
-Transit:road.N		зам	t͡sam
-Transit:road.N		харгуй	xarɢʊi̯
-Transit:row.V		сэлүүрдэх	seɮurtĕx
-Value:bad.A		муу	mʊː
-Value:bad.A		өөдгүй	oːtɡui̯
-Value:good.A		сайн	saːi̯ŋ
-Value:improve.V		засах	t͡sasăx
-Value:improve.V		сайжруулах	saːi̯t͡ʃrʊɮăx
+PLX:1PL.pro		бид	pʲit
+PLX:1SG.pro		би	pʲi
+PLX:2PL.pro		та нар	tʰa năr
+PLX:2SG.pro		чи	t͡ʃʰʲi
+PLX:3PL.pro		тэд	tʰet
+PLX:3SG M.pro		тэр	tʰer
+PLX:3SG M.pro		тэр хүн	tʰer xŭŋ
+PLX:and.cnj		болон	pɔɮɔ̆ŋ
+PLX:and.cnj		ч	t͡ʃʰ
+PLX:because of.adp		дээрээс	teːres
+PLX:because of.adp		төлөө	tʰɵɮo
+PLX:behind.adp		ард	art
+PLX:beside.adp		хажууд	xat͡ʃʊt
+PLX:can.v		болох	pɔɮɔ̆x
+PLX:die (from accident).V		үхэх	uxĕx
+PLX:everywhere.pro		хааяагүй	xaːjaɢui̯
+PLX:everywhere.pro		энд тэндгүй	ent tʰĕntɡui̯
+PLX:from here.adv		эндээс	entes
+PLX:get sick.V		өвдөж эхлэх	ɵw̜tɵ̆t͡ʃ ĕxɮĕx
+PLX:how many.pro		хэд	xet
+PLX:how many.pro		хэдий	xetʲi
+PLX:how.pro		хэрхэн	xerxĕŋ
+PLX:how.pro		яаж	jaːt͡ʃ
+PLX:in front of.adp		өмнө	ɵmnɵ̆
+PLX:or.cnj		буюу	pʊjʊ
+PLX:that.pro		тэр	tʰer
+PLX:this.pro		энэ	enĕ
+PLX:under.adp		доор	tɔːr
+PLX:what.pro		юу	jʊː
+PLX:where.pro		хаа	xaː
+PLX:where.pro		хаана	xaːnă
+PLX:where_to.pro		хаана	xaːnă
+PLX:where_to.pro		хааш	xaːʃ
+PLX:who.pro		хэн	xeŋ
+PLX:why.pro		юунд	jʊːnt
+PLX:why.pro		яагаад	jaːɢat
+PWN:abandon.v.02		хаях	xajăx
+PWN:abdomen.n.01		гэдэс	ɡetĕs
+PWN:abdomen.n.01		хэвлий	xew̜ɮʲi
+PWN:above.r.02		дээр	teːr
+PWN:act.v.02		хийх	xʲix
+PWN:act.v.02		үйлдэх	uːi̯ɮtĕx
+PWN:add.v.01		нэмэх	nemĕx
+PWN:address.n.03		хэлсэн үг	xeɮsĕn ŭɡ
+PWN:affect.v.05		сэтгэл уяруулах	setʰɡĕɮ ʊ̆jărʊɮăx
+PWN:again.r.01		дахиад	taxʲiăt
+PWN:again.r.01		дахин	taxʲiŋ
+PWN:age.n.01		нас	nas
+PWN:ahead.r.03		урагшаа	ʊrăɢʃa
+PWN:aid.n.02		тусламж	tʰʊsɮămt͡ʃ
+PWN:air.n.01		агаар	aɢar
+PWN:alive.a.01		амьд	amʲt
+PWN:alive.a.01		амьтай	amʲtʰai̯
+PWN:all.a.01		бүгд	puɡt
+PWN:all.a.01		цөм	t͡sʰɵm
+PWN:allege.v.01		гэх	ɡex
+PWN:allege.v.01		хэлэх	xeɮĕx
+PWN:alone.r.02		ганцаараа	ɢănt͡sʰara
+PWN:already.r.01		нэгэнт	neɡĕntʰ
+PWN:always.r.01		байнга	paːi̯nɢă
+PWN:anger.v.01		уур хүргэх	ʊːr xŭrɡĕx
+PWN:anger.v.01		уурлуулах	ʊːrɮʊɮăx
+PWN:anger.v.02		уурлах	ʊːrɮăx
+PWN:animal.n.01		адгуус	atɢʊs
+PWN:animal.n.01		амьтан	amʲtʰăŋ
+PWN:animation.n.01		амь	amʲ
+PWN:animation.n.01		амьдрал	amʲtrăɮ
+PWN:ant.n.01		шоргоолж	ʃɔrɢɔɮt͡ʃ
+PWN:apparel.n.01		хувцас	xʊw̜t͡sʰăs
+PWN:apple.n.01		алим	aɮʲim
+PWN:april.n.01		дөрөвдүгээр сар	tɵrɵ̆w̜tŭɡer săr
+PWN:apt.s.03		цэцэн	t͡sʰet͡sʰĕŋ
+PWN:area.n.01		газар	ɢăt͡săr
+PWN:area.n.01		хавь	xaw̜ʲ
+PWN:arise.v.03		босох	pɔsɔ̆x
+PWN:arm.n.01		гар	ɢăr
+PWN:arrive.v.01		ирэх	ʲirĕx
+PWN:arrive.v.01		хүрэх	xurĕx
+PWN:arrow.n.02		годил	ɢɔ̆tʲiɮ
+PWN:arrow.n.02		сум	sʊm
+PWN:ascend.v.01		нэмэгдэх	nemĕɡtĕx
+PWN:ash.n.01		үнс	uns
+PWN:ask.v.02		гуйх	ɢʊi̯x
+PWN:ask.v.05		асуух	asʊx
+PWN:august.n.01		наймдугаар сар	naːi̯mtʊ̆ɢar săr
+PWN:aunt.n.01		авга эгч	aw̜ɢă ĕɡt͡ʃʰ
+PWN:aunt.n.01		нагац эгч	naɢăt͡sʰ ĕɡt͡ʃʰ
+PWN:awaken.v.01		сэрээх	serex
+PWN:back.n.01		ар	ar
+PWN:back.n.01		нуруу	nʊrʊ
+PWN:back.r.01		буцаж	pʊt͡sʰăt͡ʃ
+PWN:back.r.01		гэдрэг	ɡetrĕɡ
+PWN:back.r.02		буцаан	pʊt͡sʰaŋ
+PWN:back.r.02		сөөргөө	soːrɡo
+PWN:bad.a.01		муу	mʊː
+PWN:bad.a.01		өөдгүй	oːtɡui̯
+PWN:bag.n.01		цүнх	t͡sʰunx
+PWN:bake.v.02		жигнэх	t͡ʃʲiɡnĕx
+PWN:bare.s.01		нүцгэн	nut͡sʰɡĕŋ
+PWN:bark.n.01		холтос	xɔɮtʰɔ̆s
+PWN:bark.v.04		хуцах	xʊt͡sʰăx
+PWN:bathe.v.01		усанд орох	ʊsănt ɔ̆rɔ̆x
+PWN:battle.n.01		байлдаан	paːi̯ɮtaŋ
+PWN:battle.n.01		тэмцэл	tʰemt͡sʰĕɮ
+PWN:bay.n.01		булан	pʊɮăn
+PWN:bay.n.01		далайн тохой	taɮai̯n tʰɔ̆xɔi̯
+PWN:be_born.v.01		төрөх	tʰɵrɵ̆x
+PWN:bear.n.01		баавгай	paːw̜ɢai̯
+PWN:beard.n.01		сахал	saxăɮ
+PWN:beautiful.a.01		гуа	ɢʊ̆ă
+PWN:beautiful.a.01		сайхан	saːi̯xăŋ
+PWN:become.v.01		болох	pɔɮɔ̆x
+PWN:bed.n.01		ор	ɔr
+PWN:begin.v.03		эхлэх	exɮĕx
+PWN:believe.v.01		итгэх	ʲitʰɡĕx
+PWN:beloved.s.01		хайрт	xaːi̯rtʰ
+PWN:belt.n.02		бүс	pus
+PWN:bend.v.01		матах	matʰăx
+PWN:bend.v.01		муруйлгах	mʊrʊi̯ɮɢăx
+PWN:benefit.n.02		ашиг	aʃʲiɡ
+PWN:berry.n.01		жимсгэнэ	t͡ʃʲimsɡĕnĕ
+PWN:better.v.02		засах	t͡sasăx
+PWN:better.v.02		сайжруулах	saːi̯t͡ʃrʊɮăx
+PWN:between.r.02		завсар	t͡saw̜săr
+PWN:between.r.02		хооронд	xɔːrɔ̆nt
+PWN:birch.n.02		хус	xʊs
+PWN:bird.n.01		шувуу	ʃʊw̜ʊ
+PWN:bite.v.01		зуух	t͡sʊːx
+PWN:bite.v.01		хазах	xat͡săx
+PWN:bitter.s.06		гашуун	ɢăʃʊŋ
+PWN:black.a.01		хар	xar
+PWN:blade.n.01		навч	naw̜t͡ʃʰ
+PWN:blanket.n.01		хучлага	xʊt͡ʃʰɮăɢă
+PWN:blanket.n.01		хөнжил	xɵnt͡ʃʲiɮ
+PWN:blind.a.01		сохор	sɔxɔ̆r
+PWN:blood.n.01		цус	t͡sʰʊs
+PWN:blow.v.01		үлзэх	uɮt͡sĕx
+PWN:blow.v.02		салхилах	saɮxʲiɮăx
+PWN:blow.v.02		хөөрөгдөх	xoːrɵ̆ɡtɵ̆x
+PWN:blue.s.01		хөх	xɵx
+PWN:blue.s.01		цэнхэр	t͡sʰenxĕr
+PWN:blunt.s.02		мохоо	mɔxɔ
+PWN:board.n.02		банз	pant͡s
+PWN:boast.v.01		бардах	partăx
+PWN:boast.v.01		сайрхах	saːi̯rxăx
+PWN:boat.n.01		завь	t͡saw̜ʲ
+PWN:body.n.01		бие	pʲiʲi
+PWN:boil.v.01		буцлах	pʊt͡sʰɮăx
+PWN:boil.v.01		даргилах	tarɡʲiɮăx
+PWN:boil.v.03		чанах	t͡ʃʰanăx
+PWN:bone.n.01		яс	jas
+PWN:book.n.01		бичиг	pʲit͡ʃʰʲiɡ
+PWN:book.n.01		ном	nɔm
+PWN:boot.n.01		гутал	ɢʊ̆tʰăɮ
+PWN:botch.v.01		эвдэх	ew̜tĕx
+PWN:boundary_line.n.01		хил	xʲiɮ
+PWN:bow.n.04		нум	nʊm
+PWN:box.n.01		авдар	aw̜tăr
+PWN:box.n.01		хайрцаг	xaːi̯rt͡sʰăɢ
+PWN:brain.n.01		тархи	tʰarxʲi
+PWN:branch.n.02		гишүү	ɡʲiʃu
+PWN:branchlet.n.01		салаа	saɮa
+PWN:brawl.v.01		зодолдох	t͡sɔtɔ̆ɮtɔ̆x
+PWN:bread.n.01		талх	tʰaɮx
+PWN:break.v.05		хугалах	xʊɢăɮăx
+PWN:breast.n.02		хөх	xɵx
+PWN:breath.n.02		амьсгаа	amʲsɢa
+PWN:breathe.v.01		амьсгалах	amʲsɢăɮăx
+PWN:bridge.n.01		гүүр	ɡuːr
+PWN:bright.a.01		гэгээн	ɡeɡeŋ
+PWN:bright.a.01		гэрэлтэй	ɡerĕɮtʰĕj
+PWN:bring.v.01		аваачих	aw̜at͡ʃʰʲix
+PWN:bring.v.01		авчрах	aw̜t͡ʃʰrăx
+PWN:brook.n.01		горхи	ɢɔ̆rxʲi
+PWN:broom.n.01		туужуу	tʰʊːt͡ʃʊ
+PWN:broom.n.01		хамуур	xamʊr
+PWN:brother.n.01		ах	ax
+PWN:brother.n.01		дүү	tuː
+PWN:brow.n.01		дух	tʊx
+PWN:bucket.n.01		хувин	xʊw̜ʲin
+PWN:bucket.n.01		хөнөг	xɵnɵ̆ɡ
+PWN:bull.n.01		бух	pʊx
+PWN:bundle.n.02		боодол	pɔːtɔ̆ɮ
+PWN:burn.v.03		шатах	ʃatʰăx
+PWN:burn.v.07		шатаах	ʃatʰax
+PWN:business.n.01		наймаа	naːi̯ma
+PWN:butter.n.01		тос	tʰɔs
+PWN:butterfly.n.01		эрвээхэй	erw̜exĕj
+PWN:button.n.01		товч	tʰɔw̜t͡ʃʰ
+PWN:buy.v.01		худалдан авах	xʊtăɮtăn ăw̜ăx
+PWN:calculate.v.01		тооцоох	tʰɔːt͡sʰɔx
+PWN:calendar_month.n.01		сар	sar
+PWN:call.v.05		дуудах	tʊːtăx
+PWN:campfire.n.01		түүдэг	tʰuːtĕɡ
+PWN:cap.n.01		бүрх	purx
+PWN:cap.n.01		малгай	maɮɢai̯
+PWN:cat.n.01		мигуй	mʲiɢʊi̯
+PWN:cat.n.01		муур	mʊːr
+PWN:catch.v.04		барих	parʲix
+PWN:cause.n.01		учир	ʊt͡ʃʰʲir
+PWN:cave.n.01		агуй	aɢʊi̯
+PWN:cavil.v.01		хараах	xarax
+PWN:center.n.01		дунд	tʊnt
+PWN:center.n.01		төв	tʰɵw̜
+PWN:chair.n.01		сандал	santăɮ
+PWN:change.v.01		өөрчлөх	oːrt͡ʃʰɮɵ̆x
+PWN:change.v.03		хувирах	xʊw̜ʲirăx
+PWN:character.n.08		үсэг	usĕɡ
+PWN:cheap.a.01		хямд	xʲămt
+PWN:cheek.n.01		хацар	xat͡sʰăr
+PWN:cherished.s.01		үнэт	unĕtʰ
+PWN:chicken.n.02		тахиа	tʰaxʲiă
+PWN:child.n.01		хүүхэд	xuːxĕt
+PWN:chin.n.01		эрүү	eru
+PWN:choose.v.01		сонгох	sɔnɢɔ̆x
+PWN:chop.v.01		цавчих	t͡sʰaw̜t͡ʃʰʲix
+PWN:church.n.02		сүм	sum
+PWN:circle.n.03		тойрог	tʰɔːi̯rɔ̆ɢ
+PWN:circle.n.03		хүрээ	xure
+PWN:citizenry.n.01		улс	ʊɮs
+PWN:claw.n.01		савар	saw̜ăr
+PWN:claw.n.01		хумс	xʊms
+PWN:clay.n.01		шавар	ʃaw̜ăr
+PWN:clean.a.01		хиргүй	xʲirɡui̯
+PWN:clean.a.01		цэвэр	t͡sʰew̜ĕr
+PWN:clean.v.01		арилгах	arʲiɮɢăx
+PWN:clean.v.01		цэвэрлэх	t͡sʰew̜ĕrɮĕx
+PWN:climb.v.01		авирах	aw̜ʲirăx
+PWN:close.v.01		хаах	xaːx
+PWN:cloud.n.02		үүл	uːɮ
+PWN:coal.n.01		нүүрс	nuːrs
+PWN:cock.n.04		эр тахиа	er tʰăxʲiă
+PWN:cold.a.01		сэрүүн	seruŋ
+PWN:cold.a.01		хүйтэн	xuːi̯tʰĕŋ
+PWN:coldness.n.03		хүйт	xuːi̯tʰ
+PWN:collar.n.01		зах заам	t͡sax t͡sam
+PWN:colorful.a.01		эрээн	ereŋ
+PWN:comb.n.01		сам	sam
+PWN:comb.v.01		самнах	samnăx
+PWN:commend.v.01		магтах	maɢtʰăx
+PWN:commend.v.01		сайшаах	saːi̯ʃax
+PWN:companion.n.01		нөхөр	nɵxɵ̆r
+PWN:companion.n.01		хань	xanʲ
+PWN:company.n.03		хамт байх	xamtʰ pai̯x
+PWN:complete.v.01		дуусгах	tʊːsɢăx
+PWN:connect.v.01		залгах	t͡saɮɢăx
+PWN:conserve.v.02		гамнах	ɢămnăx
+PWN:construct.v.01		барих	parʲix
+PWN:conversation.n.01		яриа	jarʲiă
+PWN:converse.v.01		ярилцах	jarʲiɮt͡sʰăx
+PWN:convey.v.01		дуулгах	tʊːɮɢăx
+PWN:convey.v.01		мэдээлэх	meteɮĕx
+PWN:cook.v.02		бэлдэх	peɮtĕx
+PWN:corner.n.03		өнцөг	ɵnt͡sʰɵ̆ɡ
+PWN:corpulent.s.01		голигор	ɢɔ̆ɮʲiɢɔ̆r
+PWN:corpulent.s.01		тарган	tʰarɢăŋ
+PWN:correctly.r.01		зүйтэй	t͡suːi̯tʰĕj
+PWN:correctly.r.01		зөв	t͡sɵw̜
+PWN:cough.v.01		ханиах	xanʲiăx
+PWN:count.n.01		тоо	tʰɔː
+PWN:count.v.01		тоолох	tʰɔːɮɔ̆x
+PWN:country.n.02		орон	ɔrɔ̆ŋ
+PWN:country.n.02		улс	ʊɮs
+PWN:cover.v.01		бүрэх	purĕx
+PWN:cow.n.01		үнээ	une
+PWN:cradle.n.01		өлгий	ɵɮɡʲi
+PWN:crane.n.05		тогоруу	tʰɔɢɔ̆rʊ
+PWN:crawl.v.01		мөлхөх	mɵɮxɵ̆x
+PWN:crisscross.n.01		загалмай	t͡saɢăɮmai̯
+PWN:crow.n.01		хэрээ	xere
+PWN:cry.n.01		дуудлага	tʊːtɮăɢă
+PWN:cry.v.02		уйлах	ʊːi̯ɮăx
+PWN:cuckoo.n.02		хөхөө	xɵxo
+PWN:cup.n.01		аяга	ajăɢă
+PWN:current.n.02		урсгал	ʊrsɢăɮ
+PWN:cut.v.01		огтлох	ɔɢtʰɮɔ̆x
+PWN:damage.n.01		хор	xɔr
+PWN:damage.n.01		хөнөөл	xɵnoɮ
+PWN:damage.v.01		гэмтээх	ɡemtʰex
+PWN:damp.s.01		чийгтэй	t͡ʃʰʲiɡtʰĕj
+PWN:dance.v.02		бүжиглэх	put͡ʃʲiɡɮĕx
+PWN:dark.a.01		бараан	paraŋ
+PWN:dark.a.01		харанхуй	xarănxʊi̯
+PWN:daughter.n.01		охин	ɔxʲiŋ
+PWN:day.n.01		өдөр	ɵtɵ̆r
+PWN:deaf.a.01		чих хатуу	t͡ʃʰʲix xătʰʊ
+PWN:death.n.01		үхэл	uxĕɮ
+PWN:deceive.v.01		мэхлэх	mexɮĕx
+PWN:december.n.01		арван хоёрдугаар сар	arw̜ăn xɔ̆jɔ̆rtʊ̆ɢar săr
+PWN:decompose.v.03		бээх	peːx
+PWN:decompose.v.03		өгрөх	ɵɡrɵ̆x
+PWN:decorate.v.01		гоёх	ɢɔ̆jɔ̆x
+PWN:decorate.v.01		чимэх	t͡ʃʰʲimĕx
+PWN:decrease.v.01		багасах	paɢăsăx
+PWN:decrease.v.01		хорогдох	xɔrɔ̆ɢtɔ̆x
+PWN:defend.v.03		хамгаалах	xamɢaɮăx
+PWN:deft.s.01		дүйтэй	tuːi̯tʰĕj
+PWN:deity.n.01		бурхан	pʊrxăŋ
+PWN:descend.v.01		доошлох	tɔːʃɮɔ̆x
+PWN:descend.v.01		татрах	tʰatʰrăx
+PWN:desire.n.01		дур	tʊr
+PWN:desire.n.01		хүсэл	xusĕɮ
+PWN:desire.v.01		хүсэх	xusĕx
+PWN:destroy.v.02		сүйтгэх	suːi̯tʰɡĕx
+PWN:destroy.v.02		эвдэх	ew̜tĕx
+PWN:detect.v.01		ажиглах	at͡ʃʲiɡɮăx
+PWN:detect.v.01		ажих	at͡ʃʲix
+PWN:die.v.01		нас барах	nas părăx
+PWN:die.v.01		үхэх	uxĕx
+PWN:different.a.01		ондоо	ɔntɔ
+PWN:different.a.01		янз янзын	jant͡s ʲănt͡sĭŋ
+PWN:dig.v.01		малтах	maɮtʰăx
+PWN:digest.v.03		тэсэх	tʰesĕx
+PWN:dirt.n.02		хир	xʲir
+PWN:dirt.n.02		шавхай	ʃaw̜xai̯
+PWN:dirty.a.01		бохир	pɔxʲir
+PWN:dirty.a.01		хиртэй	xʲirtʰĕj
+PWN:disappear.v.01		алга болох	aɮɢă pɔ̆ɮɔ̆x
+PWN:disappear.v.01		далд орох	taɮt ɔ̆rɔ̆x
+PWN:discontinue.v.01		болих	pɔɮʲix
+PWN:discontinue.v.01		зогсох	t͡sɔɢsɔ̆x
+PWN:disease.n.01		эмгэг	emɡĕɡ
+PWN:dish.n.01		сав суулга	saw̜ sʊɮɢă
+PWN:dissolve.v.09		хайлах	xaːi̯ɮăx
+PWN:distance.n.01		зай	t͡saːi̯
+PWN:distance.n.03		зай	t͡saːi̯
+PWN:distance.n.03		хол ойр	xɔɮ ɔi̯r
+PWN:dive.v.03		шунгах	ʃʊnɢăx
+PWN:divide.v.01		хуваах	xʊw̜ax
+PWN:doctor.n.01		эмч	emt͡ʃʰ
+PWN:dog.n.01		нохой	nɔxɔi̯
+PWN:doll.n.01		хүүхэлдэй	xuːxĕɮtĕj
+PWN:down.r.01		уруу	ʊrʊ
+PWN:drag.v.01		чирэх	t͡ʃʰʲirĕx
+PWN:dream.n.01		зүүд	t͡suːt
+PWN:dress.v.01		хувцаслах	xʊw̜t͡sʰăsɮăx
+PWN:drink.v.01		уух	ʊːx
+PWN:drive.v.01		явах	jaw̜ăx
+PWN:drive.v.15		туух	tʰʊːx
+PWN:drop.n.01		дусал	tʊsăɮ
+PWN:drop.v.01		унагах	ʊnăɢăx
+PWN:drove.n.02		сүрэг	surĕɡ
+PWN:dry.a.01		хатсан	xatʰsăŋ
+PWN:dry.v.01		хатах	xatʰăx
+PWN:duck.n.01		нугас	nʊɢăs
+PWN:dust.n.01		тоос	tʰɔːs
+PWN:dye.v.01		будах	pʊtăx
+PWN:eagle.n.01		бүргэд	purɡĕt
+PWN:ear.n.01		чих	t͡ʃʰʲix
+PWN:earlier.r.01		урьд	ʊrʲt
+PWN:east.n.01		дорно	tɔrnɔ̆
+PWN:east.n.01		зүүн	t͡suːŋ
+PWN:eat.v.01		идэх	ʲitĕx
+PWN:edge.n.06		ирмэг	ʲirmĕɡ
+PWN:egg.n.02		өндөг	ɵntɵ̆ɡ
+PWN:eight.s.01		найм	naːi̯m
+PWN:eighty.s.01		ная	najă
+PWN:elapse.v.01		нөгчих	nɵɡt͡ʃʰʲix
+PWN:elapse.v.01		өнгөрөх	ɵnɡɵ̆rɵ̆x
+PWN:elbow.n.01		тохой	tʰɔxɔi̯
+PWN:eleven.s.01		арван нэг	arw̜ăn nĕɡ
+PWN:elk.n.01		хандгай	xantɢai̯
+PWN:emerge.v.01		бултайх	pʊɮtʰai̯x
+PWN:emerge.v.01		гарах	ɢărăx
+PWN:empty.a.01		хоосон	xɔːsɔ̆ŋ
+PWN:end.n.03		төгсгөл	tʰɵɡsɡɵ̆ɮ
+PWN:end.n.03		эцэс	et͡sʰĕs
+PWN:end.n.09		зах	t͡sax
+PWN:end.n.09		үзүүр	ut͡sur
+PWN:end.v.01		дүүрэх	tuːrĕx
+PWN:enter.v.01		орох	ɔrɔ̆x
+PWN:entirely.r.02		гагцхүү	ɢăɡt͡sʰxu
+PWN:entirely.r.02		зөвхөн	t͡sɵw̜xɵ̆ŋ
+PWN:erstwhile.s.01		агсан	aɢsăŋ
+PWN:erstwhile.s.01		байсан	paːi̯săŋ
+PWN:escape.v.01		оргох	ɔrɢɔ̆x
+PWN:evening.n.01		үдэш	utĕʃ
+PWN:evil.a.01		муу	mʊː
+PWN:evil.a.01		хортой	xɔrtʰɔi̯
+PWN:exclaim.v.01		хашгирах	xaʃɡʲirăx
+PWN:exit.v.01		явах	jaw̜ăx
+PWN:expensive.a.01		үнэтэй	unĕtʰĕj
+PWN:extraneous.s.03		гадаад	ɢătat
+PWN:extraneous.s.03		харь	xarʲ
+PWN:eye.n.01		нүд	nut
+PWN:fabric.n.01		бөс	pɵs
+PWN:face.n.01		нүүр	nuːr
+PWN:face.n.01		царай	t͡sʰarai̯
+PWN:faineant.s.01		залхуу	t͡saɮxʊ
+PWN:fairytale.n.01		явган үлгэр	jaw̜ɢăn ŭɮɡĕr
+PWN:fall.n.01		намар	namăr
+PWN:fall.v.01		унах	ʊnăx
+PWN:fall_asleep.v.01		унтчих	ʊntʰt͡ʃʰʲix
+PWN:familiar.a.01		танил	tʰanʲiɮ
+PWN:family.n.02		айл	aːi̯ɮ
+PWN:far.r.02		холын	xɔɮĭŋ
+PWN:fat.n.01		өөх	oːx
+PWN:father.n.01		аав	aːw̜
+PWN:father.n.01		эцэг	et͡sʰĕɡ
+PWN:fault.n.06		буруу	pʊrʊ
+PWN:fault.n.06		гэм	ɡem
+PWN:fear.v.01		айх	aːi̯x
+PWN:feather.n.01		өд	ɵt
+PWN:february.n.01		хоёрдугаар сар	xɔjɔ̆rtʊ̆ɢar săr
+PWN:feed.v.01		тэжээх	tʰet͡ʃex
+PWN:feel.v.03		мэдрэх	metrĕx
+PWN:female_child.n.01		бүсгүй	pusɡui̯
+PWN:female_child.n.01		охин	ɔxʲiŋ
+PWN:fence.n.01		хашаа	xaʃa
+PWN:fever.n.01		халуун	xaɮʊŋ
+PWN:fifty.s.01		тавь	tʰaw̜ʲ
+PWN:fill.v.01		дүүргэх	tuːrɡĕx
+PWN:find.v.03		олох	ɔɮɔ̆x
+PWN:fine-looking.s.01		сайхан	saːi̯xăŋ
+PWN:fine-looking.s.01		хөөрхөн	xoːrxɵ̆ŋ
+PWN:fine.a.05		нарийн	narʲiŋ
+PWN:finger.n.01		хуруу	xʊrʊ
+PWN:fingernail.n.01		хурууны хумс	xʊrʊnĭ xʊ̆ms
+PWN:fir.n.02		гачуур	ɢăt͡ʃʰʊr
+PWN:fire.n.03		гал	ɢăɮ
+PWN:firm.s.02		бөх	pɵx
+PWN:firm.s.02		хатуу	xatʰʊ
+PWN:first.a.01		нэгдэх	neɡtĕx
+PWN:first.a.01		нэгдүгээр	neɡtŭɡer
+PWN:first.r.02		анх	anx
+PWN:first.r.02		эхлээд	exɮet
+PWN:fish.n.01		загас	t͡saɢăs
+PWN:fish.v.02		загас барих	t͡saɢăs părʲix
+PWN:fish.v.02		загасчлах	t͡saɢăst͡ʃʰɮăx
+PWN:five.s.01		тав	tʰaw̜
+PWN:fix.v.12		бэлтгэх	peɮtʰɡĕx
+PWN:flash.v.01		гялалзах	ɡʲăɮăɮt͡săx
+PWN:flash.v.01		гялжах	ɡʲăɮt͡ʃăx
+PWN:flat.s.01		хавтгай	xaw̜tʰɢai̯
+PWN:flee.v.01		гүйж очих	ɡuːi̯t͡ʃ ɔ̆t͡ʃʰʲix
+PWN:flee.v.01		зугтах	t͡sʊɢtʰăx
+PWN:flex.v.05		бөгтийлгөх	pɵɡtʰʲiɮɡɵ̆x
+PWN:flip.v.06		хаях	xajăx
+PWN:flip.v.06		шидэх	ʃʲitĕx
+PWN:floor.n.01		шал	ʃaɮ
+PWN:flower.n.02		цэцэг	t͡sʰet͡sʰĕɡ
+PWN:fly.n.01		ялаа	jaɮa
+PWN:fly.v.01		нисэх	nʲisĕx
+PWN:foam.n.01		хөөс	xoːs
+PWN:foe.n.02		дайсан	taːi̯săŋ
+PWN:fog.n.01		будан	pʊtăn
+PWN:food.n.02		хүнс	xuns
+PWN:foot.n.01		хөл	xɵɮ
+PWN:footprint.n.01		мөр	mɵr
+PWN:foreman.n.01		дарга	tarɢă
+PWN:forest.n.01		ой	ɔːi̯
+PWN:forget.v.02		мартах	martʰăx
+PWN:fork.n.01		сэрээ	sere
+PWN:form.n.03		угалз	ʊɢăɮt͡s
+PWN:form.n.03		хээ	xeː
+PWN:forty.s.01		дөч	tɵt͡ʃʰ
+PWN:four.s.01		дөрөв	tɵrɵ̆w̜
+PWN:fox.n.01		үнэг	unĕɡ
+PWN:freeze.v.02		хөлдөх	xɵɮtɵ̆x
+PWN:frequently.r.01		олонтоо	ɔɮɔ̆ntʰɔ
+PWN:fresh.a.01		жихүүн	t͡ʃʲixuŋ
+PWN:fresh.a.01		эрүүл	eruɮ
+PWN:friday.n.01		баасан	paːsăn
+PWN:friend.n.01		найз	naːi̯t͡s
+PWN:friend.n.01		нөхөр	nɵxɵ̆r
+PWN:frost.n.01		хяруу	xʲărʊ
+PWN:frost.n.01		хүйт	xuːi̯tʰ
+PWN:frost.n.01		цан	t͡sʰan
+PWN:fry.v.02		хайрах	xaːi̯răx
+PWN:fry.v.02		шарах	ʃarăx
+PWN:full.a.01		дүүрэн	tuːrĕŋ
+PWN:fume.v.02		баагих	paːɢʲix
+PWN:fur.n.03		арьс	arʲs
+PWN:game.n.01		наадам	naːtăm
+PWN:game.n.01		тоглоом	tʰɔɢɮɔm
+PWN:gate.n.01		хаалга	xaːɮɢă
+PWN:gate.n.01		үүд	uːt
+PWN:gateway.n.01		хаалга	xaːɮɢă
+PWN:gather.v.01		түүх	tʰuːx
+PWN:gather.v.01		хураах	xʊrax
+PWN:gay.s.02		цэнгэлтэй	t͡sʰenɡĕɮtʰĕj
+PWN:gentle.s.01		наалинхай	naːɮʲinxai̯
+PWN:get.v.01		хүлээн авах	xuɮen ăw̜ăx
+PWN:get_down.v.07		эхлэх	exɮĕx
+PWN:get_up.v.02		босох	pɔsɔ̆x
+PWN:gift.n.01		бэлэг	peɮĕɡ
+PWN:give.v.03		өгөх	ɵɡɵ̆x
+PWN:give.v.08		бэлэглэх	peɮĕɡɮĕx
+PWN:glass.n.01		шил	ʃʲiɮ
+PWN:glue.v.01		наах	naːx
+PWN:gold.n.03		алт	aɮtʰ
+PWN:good.a.01		сайн	saːi̯ŋ
+PWN:goose.n.01		галуу	ɢăɮʊ
+PWN:govern.v.03		эзэмших	et͡sĕmʃʲix
+PWN:grain.n.08		мөхлөг	mɵxɮɵ̆ɡ
+PWN:grain.n.08		үр	ur
+PWN:grandfather.n.01		өвгөн аав	ɵw̜ɡɵ̆n aw̜
+PWN:grandma.n.01		эмгээ	emɡe
+PWN:grandma.n.01		эмэг эх	emĕɡ ĕx
+PWN:grasp.v.01		атгах	atʰɢăx
+PWN:grass.n.01		ногоо	nɔɢɔ
+PWN:grass.n.01		өвс	ɵw̜s
+PWN:grassland.n.01		нуга	nʊɢă
+PWN:grave.n.02		булш	pʊɮʃ
+PWN:green.s.01		ногоон	nɔɢɔŋ
+PWN:grey.s.01		орог	ɔrɔ̆ɢ
+PWN:grey.s.01		саарал	saːrăɮ
+PWN:grief.n.02		гаслан	ɢăsɮăn
+PWN:groan.v.01		гэнгэнэх	ɡenɡĕnĕx
+PWN:groan.v.01		ёолох	jɔːɮɔ̆x
+PWN:grok.v.01		ойлгох	ɔːi̯ɮɢɔ̆x
+PWN:grow.v.03		ургах	ʊrɢăx
+PWN:grow.v.03		өсөх	ɵsɵ̆x
+PWN:guest.n.01		айлчин	aːi̯ɮt͡ʃʰʲiŋ
+PWN:guest.n.01		зочин	t͡sɔt͡ʃʰʲiŋ
+PWN:gun.n.01		буу	pʊː
+PWN:hair.n.01		үс	us
+PWN:hand.n.01		алга	aɮɢă
+PWN:hand.n.01		гар	ɢăr
+PWN:handle.n.01		иш	ʲiʃ
+PWN:handle.n.01		сэнж	sent͡ʃ
+PWN:hang.v.01		дүүжлээтэй байх	tuːt͡ʃɮetʰĕj pai̯x
+PWN:hang.v.01		өлгөөтэй байх	ɵɮɡotʰĕj pai̯x
+PWN:hang.v.02		дүүжлэх	tuːt͡ʃɮĕx
+PWN:hang.v.02		өлгөх	ɵɮɡɵ̆x
+PWN:happen.v.01		тохиох	tʰɔxʲiɔ̆x
+PWN:happiness.n.01		жаргалан	t͡ʃarɢăɮăn
+PWN:hard.a.03		хатуу	xatʰʊ
+PWN:hardly.r.02		арай	arai̯
+PWN:hardly.r.02		арай гэж	arai̯ ɡĕt͡ʃ
+PWN:hardworking.s.01		чармайлтгай	t͡ʃʰarmai̯ɮtʰɢai̯
+PWN:hare.n.01		туулай	tʰʊːɮai̯
+PWN:hark_back.v.01		буцаж ирэх	pʊt͡sʰăt͡ʃ ʲirĕx
+PWN:hark_back.v.01		харих	xarʲix
+PWN:hay.n.01		өвс	ɵw̜s
+PWN:head.n.01		толгой	tʰɔɮɢɔi̯
+PWN:healthy.a.01		бие	pʲiʲi
+PWN:healthy.a.01		эрүүл мэнд	eruɮ mĕnt
+PWN:hear.v.01		дуулах	tʊːɮăx
+PWN:heart.n.02		зүрх	t͡surx
+PWN:heat.n.01		халуун	xaɮʊŋ
+PWN:heavy.a.01		хүнд	xunt
+PWN:heel.n.02		өсгий	ɵsɡʲi
+PWN:height.n.01		өндөр	ɵntɵ̆r
+PWN:herd.n.01		сүрэг	surĕɡ
+PWN:herd.v.01		маллах	maɮɮăx
+PWN:herd.v.01		хариулах	xarʲiʊ̆ɮăx
+PWN:here.r.01		энд	ent
+PWN:here.r.03		нааш	naːʃ
+PWN:hide.n.02		арьс	arʲs
+PWN:hide.v.01		далдлах	taɮtɮăx
+PWN:hide.v.01		нуух	nʊːx
+PWN:hide.v.02		нуух	nʊːx
+PWN:hill.n.01		болдог	pɔɮtɔ̆ɢ
+PWN:hog.n.03		гахай	ɢăxai̯
+PWN:hold.v.02		барих	parʲix
+PWN:hole.n.01		онгорхой	ɔnɢɔ̆rxɔi̯
+PWN:hole.n.01		цоорхой	t͡sʰɔːrxɔi̯
+PWN:home.n.01		гэр	ɡer
+PWN:honey.n.01		бал	paɮ
+PWN:hook.n.05		гох	ɢɔ̆x
+PWN:horn.n.02		эвэр	ew̜ĕr
+PWN:horse.n.01		адуу	atʊ
+PWN:horse.n.01		морь	mɔrʲ
+PWN:hot.a.01		халуун	xaɮʊŋ
+PWN:house.n.01		байшин	paːi̯ʃʲin
+PWN:house.n.01		гэр	ɡer
+PWN:howl.v.02		улих	ʊɮʲix
+PWN:hundred.s.01		зуу	t͡sʊː
+PWN:hunger.n.01		өлсгөлөн	ɵɮsɡɵ̆ɮɵ̆n
+PWN:hungry.a.01		өлссөн	ɵɮssɵ̆ŋ
+PWN:hungry.a.01		өлөн	ɵɮɵ̆ŋ
+PWN:hunt.v.01		агнах	aɢnăx
+PWN:hunt.v.01		гөрөөлөх	ɡɵroɮɵ̆x
+PWN:hurt.v.06		шархирах	ʃarxʲirăx
+PWN:hurt.v.06		өвдөх	ɵw̜tɵ̆x
+PWN:husband.n.01		нөхөр	nɵxɵ̆r
+PWN:ice.n.01		мөс	mɵs
+PWN:idea.n.01		сэтгэл	setʰɡĕɮ
+PWN:idol.n.01		баримал	parʲimăɮ
+PWN:ignite.v.01		асаах	asax
+PWN:ignite.v.01		ноцоох	nɔt͡sʰɔx
+PWN:ill.a.01		өвчтэй	ɵw̜t͡ʃʰtʰĕj
+PWN:immediately.r.01		дороо	tɔrɔ
+PWN:immediately.r.01		нэгмөсөн	neɡmɵ̆sɵ̆ŋ
+PWN:impede.v.01		саад хийх	saːt xʲix
+PWN:impede.v.01		тотгор болох	tʰɔtʰɢɔ̆r pɔ̆ɮɔ̆x
+PWN:increase.v.01		ихсэх	ʲixsĕx
+PWN:indicate.v.02		үзүүлэх	ut͡suɮĕx
+PWN:insert.v.01		шаах	ʃaːx
+PWN:insert.v.01		шигтгэх	ʃʲiɡtʰɡĕx
+PWN:interrupt.v.02		саад болох	saːt pɔ̆ɮɔ̆x
+PWN:invite.v.02		залах	t͡saɮăx
+PWN:iron.n.01		төмөр	tʰɵmɵ̆r
+PWN:island.n.01		арал	arăɮ
+PWN:item.n.01		юм	jʊm
+PWN:january.n.01		нэгдүгээр сар	neɡtŭɡer săr
+PWN:jaw.n.01		эрүү	eru
+PWN:join.v.02		нэгтгэх	neɡtʰɡĕx
+PWN:join.v.02		хамтруулах	xamtʰrʊɮăx
+PWN:joy.n.01		баяр	pajăr
+PWN:joy.n.01		баясгалан	pajăsɢăɮăn
+PWN:july.n.01		долдугаар сар	tɔɮtʊ̆ɢar săr
+PWN:jump.v.01		дэвхрэх	tew̜xrĕx
+PWN:jump.v.01		харайх	xarai̯x
+PWN:june.n.01		зургаадугаар сар	t͡sʊrɢatʊ̆ɢar săr
+PWN:keep.v.03		хадгалах	xatɢăɮăx
+PWN:kettle.n.01		тогоо	tʰɔɢɔ
+PWN:kick.v.03		өшиглөх	ɵʃʲiɡɮɵ̆x
+PWN:kill.v.10		алах	aɮăx
+PWN:kind.n.01		төрөл	tʰɵrɵ̆ɮ
+PWN:kind.n.01		янз	jant͡s
+PWN:king.n.01		ван	w̜an
+PWN:knee.n.01		өвдөг	ɵw̜tɵ̆ɡ
+PWN:knife.n.01		хутга	xʊtʰɢă
+PWN:knit.v.01		нэхэх	nexĕx
+PWN:knit.v.01		сүлжих	suɮt͡ʃʲix
+PWN:knock.v.02		тогших	tʰɔɢʃʲix
+PWN:knock.v.02		цохих	t͡sʰɔxʲix
+PWN:knot.n.02		зангилаа	t͡sanɡʲiɮa
+PWN:know.v.01		мэдэх	metĕx
+PWN:ladder.n.01		шат	ʃatʰ
+PWN:lair.n.01		нүх	nux
+PWN:lair.n.01		элүү	eɮu
+PWN:lake.n.01		нуур	nʊːr
+PWN:land.n.02		газар	ɢăt͡săr
+PWN:land.n.02		шороо	ʃɔrɔ
+PWN:land.n.04		хөрс	xɵrs
+PWN:language.n.01		хэл	xeɮ
+PWN:large.a.01		их	ʲix
+PWN:large.a.01		том	tʰɔm
+PWN:last.a.02		сүүлийн	suːɮʲiŋ
+PWN:laugh.v.01		инээх	ʲinex
+PWN:laughter.n.02		инээдэм	ʲinetĕm
+PWN:lay.v.02		тавих	tʰaw̜ʲix
+PWN:lay.v.02		хийх	xʲix
+PWN:lead.v.01		хөтлөх	xɵtʰɮɵ̆x
+PWN:learn.v.01		сурах	sʊrăx
+PWN:leash.n.01		оосор	ɔːsɔ̆r
+PWN:leather.n.01		арьс	arʲs
+PWN:leather.n.01		савхи	saw̜xʲi
+PWN:left.r.01		буруу	pʊrʊ
+PWN:leg.n.02		хөл	xɵɮ
+PWN:length.n.01		урт	ʊrtʰ
+PWN:let.v.01		-уулах	-ʊɮăx
+PWN:letter.n.01		захиа	t͡saxʲiă
+PWN:letter.n.01		захидал	t͡saxʲităɮ
+PWN:lick.v.02		долоох	tɔɮɔx
+PWN:lid.n.02		таг	tʰaɢ
+PWN:lid.n.02		хавхаг	xaw̜xăɢ
+PWN:lie.n.01		худал	xʊtăɮ
+PWN:lie.v.02		хэвтэх	xew̜tʰĕx
+PWN:lift.v.03		өргөх	ɵrɡɵ̆x
+PWN:like.v.03		таалах	tʰaːɮăx
+PWN:line.n.04		шугам	ʃʊɢăm
+PWN:lip.n.01		уруул	ʊrʊɮ
+PWN:listen.v.01		чагнах	t͡ʃʰaɢnăx
+PWN:listen.v.02		дуулах	tʊːɮăx
+PWN:little.r.01		жаахан	t͡ʃaːxăŋ
+PWN:liver.n.01		элэг	eɮĕɡ
+PWN:load.n.01		ачаа	at͡ʃʰa
+PWN:lock.n.01		цоож	t͡sʰɔːt͡ʃ
+PWN:lock.n.01		цуурга	t͡sʰʊːrɢă
+PWN:long.a.02		урт	ʊrtʰ
+PWN:long.r.01		удаан	ʊtaŋ
+PWN:look.v.01		харах	xarăx
+PWN:look.v.02		шиг үзэгдэх	ʃʲiɡ ŭt͡sĕɡtĕx
+PWN:lose.v.05		гээх	ɡeːx
+PWN:louse.n.01		бөөс	poːs
+PWN:love.v.03		янаглах	janăɢɮăx
+PWN:low.r.01		дор	tɔr
+PWN:luminosity.n.01		гэгээ	ɡeɡe
+PWN:luminosity.n.01		гэрэл	ɡerĕɮ
+PWN:mainland.n.01		хуурай газар	xʊːrai̯ ɢăt͡săr
+PWN:make_noise.v.01		шуугих	ʃʊːɢʲix
+PWN:male_child.n.01		хүү	xuː
+PWN:man.n.01		эр	er
+PWN:man.n.01		эрэгтэй	erĕɡtʰĕj
+PWN:march.n.01		гуравдугаар сар	ɢʊ̆răw̜tʊ̆ɢar săr
+PWN:may.n.01		тавдугаар сар	tʰaw̜tʊ̆ɢar săr
+PWN:meal.n.01		идээ	ʲite
+PWN:meaning.n.01		утга	ʊtʰɢă
+PWN:measure.v.01		хэмжих	xemt͡ʃʲix
+PWN:meat.n.01		мах	max
+PWN:medicine.n.02		эм	em
+PWN:meet.v.07		хуралдах	xʊrăɮtăx
+PWN:meet.v.09		дайралдах	taːi̯răɮtăx
+PWN:meet.v.09		учрах	ʊt͡ʃʰrăx
+PWN:melt.v.01		уярах	ʊjărăx
+PWN:memory.n.03		ой	ɔːi̯
+PWN:memory.n.03		цээж	t͡sʰeːt͡ʃ
+PWN:message.n.01		мэдээ	mete
+PWN:milk.n.01		сүү	suː
+PWN:milk.v.01		саах	saːx
+PWN:mind.n.01		ухаан	ʊxaŋ
+PWN:mirror.n.01		толь	tʰɔɮʲ
+PWN:misfortune.n.02		гай	ɢai̯
+PWN:misfortune.n.02		гамшиг	ɢămʃʲiɡ
+PWN:mistake.n.01		алдаа	aɮta
+PWN:mistake.n.01		эндэл	entĕɮ
+PWN:monday.n.01		даваа	taw̜a
+PWN:money.n.01		мөнгө	mɵnɡɵ̆
+PWN:money.n.01		цаас	t͡sʰaːs
+PWN:moon.n.01		сар	sar
+PWN:moor.n.02		хүлрийн намаг	xuɮrʲin nămăɢ
+PWN:morning.n.01		өглөө	ɵɡɮo
+PWN:mosquito.n.01		шумуул	ʃʊmʊɮ
+PWN:mother.n.01		эх	ex
+PWN:mother.n.01		ээж	eːt͡ʃ
+PWN:mountain.n.01		уул	ʊːɮ
+PWN:mouse.n.01		хулгана	xʊɮɢănă
+PWN:mouth.n.01		ам	am
+PWN:move.v.03		хөдлөх	xɵtɮɵ̆x
+PWN:mush.n.02		богшмол	pɔɢʃmɔ̆ɮ
+PWN:mush.n.02		будаа	pʊta
+PWN:mushroom.n.02		мөөг	moːɡ
+PWN:mustache.n.01		дээд сахал	teːt săxăɮ
+PWN:mustache.n.01		живэр сахал	t͡ʃʲiw̜ĕr săxăɮ
+PWN:nail.n.01		хумс	xʊms
+PWN:nail.n.02		хадаас	xatas
+PWN:name.n.01		нэр	ner
+PWN:name.v.01		нэрлэх	nerɮĕx
+PWN:nape.n.01		хүзүү	xut͡su
+PWN:nape.n.01		шил	ʃʲiɮ
+PWN:narrative.n.01		тууж	tʰʊːt͡ʃ
+PWN:narrow.a.01		нарийн	narʲiŋ
+PWN:narrow.a.01		уйтан	ʊːi̯tʰăŋ
+PWN:natural_elevation.n.01		гүвээ	ɡuw̜e
+PWN:navel.n.01		хүйс	xuːi̯s
+PWN:near.r.01		дөтийн	tɵtʰʲiŋ
+PWN:near.r.01		ойрын	ɔːi̯rĭŋ
+PWN:neck.n.01		хүзүү	xut͡su
+PWN:needle.n.03		зүү	t͡suː
+PWN:nest.n.01		үүр	uːr
+PWN:net_income.n.01		тор	tʰɔr
+PWN:net_income.n.01		өөш	oːʃ
+PWN:never.r.01		хэдийд ч	xetʲit t͡ʃʰ
+PWN:never.r.01		хэзээ ч	xet͡se t͡ʃʰ
+PWN:new.a.01		шинэ	ʃʲinĕ
+PWN:news.n.01		сонин	sɔnʲiŋ
+PWN:newspaper.n.01		сонин	sɔnʲiŋ
+PWN:night.n.01		шөнө	ʃɵnɵ̆
+PWN:nine.s.01		ес	jiːs
+PWN:ninety.s.01		ер	jiːr
+PWN:noise.n.01		анир	anʲir
+PWN:noise.n.01		дуу	tʊː
+PWN:noise.n.01		чимээ	t͡ʃʰʲime
+PWN:noise.n.01		шуугиан	ʃʊːɢʲiăŋ
+PWN:noon.n.01		үд	ut
+PWN:noose.n.02		урхи	ʊrxʲi
+PWN:north.n.03		умар	ʊmăr
+PWN:nose.n.01		хамар	xamăr
+PWN:not.r.01		-гүй	-ɡui̯
+PWN:not.r.01		эс	es
+PWN:november.n.01		арван нэгдүгээр сар	arw̜ăn nĕɡtŭɡer săr
+PWN:now.r.04		өнөө	ɵno
+PWN:oar.n.01		сэлүүр	seɮur
+PWN:october.n.01		аравдугаар сар	arăw̜tʊ̆ɢar săr
+PWN:oil.n.01		тос	tʰɔs
+PWN:old.a.01		хижээл	xʲit͡ʃeɮ
+PWN:old.a.01		хуучин	xʊːt͡ʃʰʲiŋ
+PWN:old.a.01		өвгөн	ɵw̜ɡɵ̆ŋ
+PWN:olfactory_property.n.01		үнэр	unĕr
+PWN:once.r.01		нэг удаа	neɡ ʊ̆ta
+PWN:once.r.03		нэг	neɡ
+PWN:one-half.n.01		хагас	xaɢăs
+PWN:one.s.01		нэг	neɡ
+PWN:onion.n.02		сонгино	sɔnɡʲinɔ̆
+PWN:open.a.01		онгорхой	ɔnɢɔ̆rxɔi̯
+PWN:open.v.01		нээх	neːx
+PWN:open.v.01		тайлах	tʰaːi̯ɮăx
+PWN:other.a.01		нөгөө	nɵɡo
+PWN:other.a.01		өөр	oːr
+PWN:owl.n.01		ууль	ʊːɮʲ
+PWN:own.v.01		эзэмших	et͡sĕmʃʲix
+PWN:pain.n.03		өвчин	ɵw̜t͡ʃʰʲiŋ
+PWN:paint.n.01		будаг	pʊtăɢ
+PWN:paint.v.02		зурах	t͡sʊrăx
+PWN:palm.n.01		алга	aɮɢă
+PWN:parent.n.01		эцэг эх	et͡sʰĕɡ ĕx
+PWN:part.n.02		хувь	xʊw̜ʲ
+PWN:part.n.02		хэсэг	xesĕɡ
+PWN:part.n.03		хэсэг	xesĕɡ
+PWN:pasture.n.01		бэлчээр	peɮt͡ʃʰer
+PWN:path.n.02		жим	t͡ʃʲim
+PWN:path.n.02		зөрөг	t͡sɵrɵ̆ɡ
+PWN:paw.n.01		савар	saw̜ăr
+PWN:pay.v.01		төлөх	tʰɵɮɵ̆x
+PWN:peak.n.04		оргил	ɔrɡʲiɮ
+PWN:peak.n.04		орой	ɔrɔi̯
+PWN:peel.n.02		хальс	xaɮʲs
+PWN:people.n.01		хүмүүс	xumus
+PWN:perca.n.01		алгана	aɮɢănă
+PWN:periphery.n.01		зах	t͡sax
+PWN:periphery.n.01		хөвөө	xɵw̜o
+PWN:person.n.01		хүн	xuŋ
+PWN:perturb.v.01		амраахгүй байх	amraxɡui̯ pai̯x
+PWN:perturb.v.01		зовоох	t͡sɔw̜ɔx
+PWN:pick.v.02		түүх	tʰuːx
+PWN:pick_up.v.02		өргөх	ɵrɡɵ̆x
+PWN:picture.n.01		зураг	t͡sʊrăɢ
+PWN:pike.n.02		цурхай	t͡sʰʊrxai̯
+PWN:pile.n.01		бөөн	poːŋ
+PWN:pillow.n.01		дэр	ter
+PWN:pine.n.01		нарс	nars
+PWN:pit.n.01		алам	aɮăm
+PWN:pit.n.01		нүх	nux
+PWN:play.v.05		наадах	naːtăx
+PWN:pointed.a.01		шовгор	ʃɔw̜ɢɔ̆r
+PWN:pointed.a.01		шовх	ʃɔw̜x
+PWN:pole.n.01		сургааг	sʊrɢaɡ
+PWN:poor.a.02		ядуу	jatʊ
+PWN:populate.v.01		амьдрах	amʲtrăx
+PWN:populate.v.01		суух	sʊːx
+PWN:position.n.01		байр	paːi̯r
+PWN:position.n.01		газар	ɢăt͡săr
+PWN:pot.n.01		тогоо	tʰɔɢɔ
+PWN:pouch.n.01		агсаа	aɢsa
+PWN:pouch.n.01		уут	ʊːtʰ
+PWN:pour.v.01		аягалах	ajăɢăɮăx
+PWN:pour.v.01		цутгах	t͡sʰʊtʰɢăx
+PWN:power.n.01		засаг	t͡sasăɢ
+PWN:powerful.a.01		чийрэг	t͡ʃʰʲirĕɡ
+PWN:press.v.01		дарах	tarăx
+PWN:price.n.02		үнэ	unĕ
+PWN:produce.v.02		бүтээх	putʰex
+PWN:produce.v.02		гаргах	ɢărɢăx
+PWN:produce.v.02		хийх	xʲix
+PWN:promise.v.01		амлах	amɮăx
+PWN:protect.v.01		хамгаалах	xamɢaɮăx
+PWN:pull.v.01		татах	tʰatʰăx
+PWN:push.v.01		түлхэх	tʰuɮxĕx
+PWN:put.v.01		босгох	pɔsɢɔ̆x
+PWN:put.v.01		тавих	tʰaw̜ʲix
+PWN:quantity.n.03		тоо	tʰɔː
+PWN:rain.n.01		бороо	pɔrɔ
+PWN:rain.v.01		бороо орно	pɔrɔ ɔ̆rnɔ̆
+PWN:rainbow.n.01		солонго	sɔɮɔ̆nɢɔ̆
+PWN:raise.v.02		өргөх	ɵrɡɵ̆x
+PWN:raw.a.03		түүхий	tʰuːxʲi
+PWN:read.v.01		унших	ʊnʃʲix
+PWN:rear.v.02		хүмүүжүүлэх	xumut͡ʃuɮĕx
+PWN:rear.v.02		өсгөх	ɵsɡɵ̆x
+PWN:recognize.v.04		таних	tʰanʲix
+PWN:recuperate.v.04		засрах	t͡sasrăx
+PWN:red.s.01		улаан	ʊɮaŋ
+PWN:remember.v.01		дурсах	tʊrsăx
+PWN:repair.v.01		засах	t͡sasăx
+PWN:repair.v.01		сэлбэх	seɮpĕx
+PWN:rescue.v.01		гэтэлгэх	ɡetʰĕɮɡĕx
+PWN:rest.v.05		амрах	amrăx
+PWN:result.v.01		илрэх	ʲiɮrĕx
+PWN:ribbon.n.04		тууз	tʰʊːt͡s
+PWN:rich.a.01		баялаг	pajăɮăɢ
+PWN:rich.a.01		баян	pajăŋ
+PWN:riddle.n.01		оньсого	ɔnʲsɔ̆ɢɔ̆
+PWN:right.r.04		баруун	parʊŋ
+PWN:ring.n.08		бөгж	pɵɡt͡ʃ
+PWN:ring.v.01		дуугарах	tʊːɢărăx
+PWN:ring.v.01		хонхдох	xɔnxtɔ̆x
+PWN:ring.v.03		цохих	t͡sʰɔxʲix
+PWN:rinse.v.01		зайлах	t͡saːi̯ɮăx
+PWN:ripe.a.01		болсон	pɔɮsɔ̆ŋ
+PWN:ripen.v.02		боловсрох	pɔɮɔ̆w̜srɔ̆x
+PWN:rise.v.16		мандах	mantăx
+PWN:river.n.01		гол	ɢɔ̆ɮ
+PWN:river.n.01		мөрөн	mɵrɵ̆ŋ
+PWN:road.n.01		зам	t͡sam
+PWN:road.n.01		зам	t͡sam
+PWN:road.n.01		харгуй	xarɢʊi̯
+PWN:road.n.01		харгуй	xarɢʊi̯
+PWN:roar.v.01		бургилах	pʊrɡʲiɮăx
+PWN:rock.n.01		чулуу	t͡ʃʰʊɮʊ
+PWN:rock.v.01		хэлбэлзэх	xeɮpĕɮt͡sĕx
+PWN:roof.n.01		дээвэр	teːw̜ĕr
+PWN:root.n.01		үндэс	untĕs
+PWN:round.a.01		дугариг	tʊɢărʲiɡ
+PWN:round.a.01		дугуй	tʊɢʊi̯
+PWN:row.v.01		сэлүүрдэх	seɮurtĕx
+PWN:rub.v.01		нидчих	nʲitt͡ʃʰʲix
+PWN:rub.v.01		нухах	nʊxăx
+PWN:run.v.01		гүйх	ɡuːi̯x
+PWN:run.v.06		гүйх	ɡuːi̯x
+PWN:run.v.06		урсах	ʊrsăx
+PWN:run.v.06		урсах	ʊrsăx
+PWN:rush.v.01		давхих	taw̜xʲix
+PWN:rush.v.04		хурдлах	xʊrtɮăx
+PWN:rush.v.04		шамдах	ʃamtăx
+PWN:rush.v.04		яарах	jaːrăx
+PWN:rustle.v.01		сэржигнэх	sert͡ʃʲiɡnĕx
+PWN:sack.n.01		шуудай	ʃʊːtai̯
+PWN:sad.a.01		гунигт	ɢʊ̆nʲiɡtʰ
+PWN:salt.n.02		давс	taw̜s
+PWN:sand.n.01		элс	eɮs
+PWN:saturday.n.01		бямба	pʲămpă
+PWN:scarf.n.01		алчуур	aɮt͡ʃʰʊr
+PWN:scarf.n.01		даавуу	taːw̜ʊ
+PWN:scrape.v.01		маажих	maːt͡ʃʲix
+PWN:scrape.v.01		хусах	xʊsăx
+PWN:sea.n.01		далай	taɮai̯
+PWN:sea.n.01		тэнгис	tʰenɡʲis
+PWN:search.v.01		бэдрэх	petrĕx
+PWN:search.v.01		эрэх	erĕx
+PWN:seashore.n.01		эрэг	erĕɡ
+PWN:seat.v.01		суулгах	sʊːɮɢăx
+PWN:second.s.01		хоёрдугаар	xɔjɔ̆rtʊ̆ɢar
+PWN:see.v.01		үзэх	ut͡sĕx
+PWN:seed.n.02		тариа	tʰarʲiă
+PWN:sell.v.01		худалдах	xʊtăɮtăx
+PWN:send.v.01		илгээх	ʲiɮɡex
+PWN:send.v.01		явуулах	jaw̜ʊɮăx
+PWN:separate.v.02		салах	saɮăx
+PWN:september.n.01		есдүгээр сар	jiːstŭɡer săr
+PWN:set.v.10		жаргах	t͡ʃarɢăx
+PWN:seven.s.01		долоо	tɔɮɔ
+PWN:seventy.s.01		дал	taɮ
+PWN:severe.s.01		муухай	mʊːxai̯
+PWN:sew.v.01		оёх	ɔjɔ̆x
+PWN:shadow.n.01		сүүдэр	suːtĕr
+PWN:shake.v.01		сэгсрэх	seɡsrĕx
+PWN:shake.v.08		холхнулах	xɔɮxnʊ̆ɮăx
+PWN:sharp.a.09		иртэй	ʲirtʰĕj
+PWN:sharp.a.09		хурц	xʊrt͡sʰ
+PWN:sharpen.v.01		билүүдэх	pʲiɮutĕx
+PWN:sharpen.v.01		гуранздах	ɢʊ̆rănt͡stăx
+PWN:shatter.v.03		хага цохих	xaɢă t͡sʰɔ̆xʲix
+PWN:shatter.v.03		хагалах	xaɢăɮăx
+PWN:sheep.n.01		хонь	xɔnʲ
+PWN:shelf.n.01		тавиур	tʰaw̜ʲiʊ̆r
+PWN:shine.v.02		гэрэлтэх	ɡerĕɮtʰĕx
+PWN:shirt.n.01		цамц	t͡sʰamt͡sʰ
+PWN:shoe.n.01		туфли	tʰʊfɮʲi
+PWN:shoot.v.01		буу буудах	pʊː pʊtăx
+PWN:shoot.v.01		харвах	xarw̜ăx
+PWN:shop.n.01		дэлгүүр	teɮɡur
+PWN:shore.n.01		эрэг	erĕɡ
+PWN:short.a.02		богино	pɔɢʲinɔ̆
+PWN:short.a.02		охор	ɔxɔ̆r
+PWN:shoulder.n.01		бугалга	pʊɢăɮɢă
+PWN:shoulder.n.01		мөр	mɵr
+PWN:shovel.n.01		хүрз	xurt͡s
+PWN:shudder.v.02		дагжих	taɢt͡ʃʲix
+PWN:shut.a.01		битүү	pʲitʰu
+PWN:shut.a.01		хаалтай	xaːɮtʰai̯
+PWN:side.n.01		тал	tʰaɮ
+PWN:side.n.01		этгээд	etʰɡet
+PWN:silence.n.01		тайван	tʰaːi̯w̜ăŋ
+PWN:silence.n.01		энх	enx
+PWN:silver.n.01		мөнгө	mɵnɡɵ̆
+PWN:sin.n.01		нүгэл	nuɡĕɮ
+PWN:sin.n.01		хилэнц	xʲiɮĕnt͡sʰ
+PWN:sing.v.02		дуулах	tʊːɮăx
+PWN:sink.v.01		живэх	t͡ʃʲiw̜ĕx
+PWN:sister.n.01		охин дүү	ɔxʲin tu
+PWN:sister.n.01		эгч	eɡt͡ʃʰ
+PWN:sit_down.v.01		суух	sʊːx
+PWN:sit_down.v.01		суух	sʊːx
+PWN:six.s.01		зургаа	t͡sʊrɢa
+PWN:sixty.s.01		жар	t͡ʃar
+PWN:size.n.01		хэмжээ	xemt͡ʃe
+PWN:ski.n.01		цана	t͡sʰană
+PWN:sky.n.01		огторгуй	ɔɢtʰɔ̆rɢʊi̯
+PWN:sky.n.01		тэнгэр	tʰenɡĕr
+PWN:slab.n.01		хавтан	xaw̜tʰăn
+PWN:sled.n.01		чарга	t͡ʃʰarɢă
+PWN:sleep.n.01		нойр	nɔːi̯r
+PWN:sleep.v.01		унтах	ʊntʰăx
+PWN:sleeve.n.01		ханцуй	xant͡sʰʊi̯
+PWN:slice.n.05		зүсэм	t͡susĕm
+PWN:slice.n.05		хэрчим	xert͡ʃʰʲim
+PWN:slope.n.01		хүр	xur
+PWN:small.a.01		бага	paɢă
+PWN:small.a.01		жаахан	t͡ʃaːxăŋ
+PWN:smell.v.01		үнэрлэх	unĕrɮĕx
+PWN:smoke.n.02		утаа	ʊtʰa
+PWN:smooth.a.01		цагаан	t͡sʰaɢaŋ
+PWN:snake.n.01		могой	mɔɢɔi̯
+PWN:snap.v.03		цуурах	t͡sʰʊːrăx
+PWN:snog.v.01		озох	ɔt͡sɔ̆x
+PWN:snog.v.01		үнсэх	unsĕx
+PWN:snow.n.01		цас	t͡sʰas
+PWN:soft.a.01		зөөлөн	t͡soːɮɵ̆ŋ
+PWN:sometimes.r.01		заримдаа	t͡sarʲimta
+PWN:sometimes.r.01		хааяа	xaːja
+PWN:son.n.01		хүү	xuː
+PWN:song.n.01		дуу	tʊː
+PWN:soon.r.01		түргэн	tʰurɡĕŋ
+PWN:soon.r.01		удахгүй	ʊtăxɡui̯
+PWN:sore.n.01		шарх	ʃarx
+PWN:sound.v.02		хангинах	xanɡʲinăx
+PWN:soup.n.01		шөл	ʃɵɮ
+PWN:sour.a.02		эсгэлэн	esɡĕɮĕŋ
+PWN:south.n.03		урд	ʊrt
+PWN:south.n.03		өмнө	ɵmnɵ̆
+PWN:space.n.02		завсар	t͡saw̜săr
+PWN:space.n.02		зай	t͡saːi̯
+PWN:spade.n.02		хүрз	xurt͡s
+PWN:spark.n.06		оч	ɔt͡ʃʰ
+PWN:speak.v.03		ярих	jarʲix
+PWN:speak.v.03		өгүүлэх	ɵɡuɮĕx
+PWN:spider.n.01		аалз	aːɮt͡s
+PWN:spirit.n.04		оюун	ɔjʊŋ
+PWN:spoil.v.02		үжрэх	ut͡ʃrĕx
+PWN:spoil.v.02		өмхийрөх	ɵmxʲirɵ̆x
+PWN:spoon.n.01		халбага	xaɮpăɢă
+PWN:spring.n.01		хавар	xaw̜ăr
+PWN:spring.n.03		булаг	pʊɮăɢ
+PWN:squirrel.n.01		хэрэм	xerĕm
+PWN:stand.v.01		зогсох	t͡sɔɢsɔ̆x
+PWN:star.n.03		од	ɔt
+PWN:state.n.04		гүрэн	ɡurĕŋ
+PWN:state.n.04		төр	tʰɵr
+PWN:stay.v.04		үлдэх	uɮtĕx
+PWN:steal.v.01		хулгайлах	xʊɮɢai̯ɮăx
+PWN:step.v.01		алхах	aɮxăx
+PWN:stick.n.01		саваа	saw̜a
+PWN:still.r.01		дахиад	taxʲiăt
+PWN:still.r.01		дахин	taxʲiŋ
+PWN:sting.v.02		хатгах	xatʰɢăx
+PWN:stingy.a.01		харамч	xarămt͡ʃʰ
+PWN:stir.v.01		хутгах	xʊtʰɢăx
+PWN:stomach.n.01		ходоод	xɔtɔt
+PWN:stop.v.01		зогсох	t͡sɔɢsɔ̆x
+PWN:stove.n.01		зуух	t͡sʊːx
+PWN:stove.n.01		пийшин	pʲiʃʲin
+PWN:strap.n.01		сур	sʊr
+PWN:strap.n.01		тасам	tʰasăm
+PWN:strength.n.01		тэнхээ	tʰenxe
+PWN:strength.n.01		эрч	ert͡ʃʰ
+PWN:strike.v.01		дэлдэх	teɮtĕx
+PWN:strike.v.01		цохих	t͡sʰɔxʲix
+PWN:string.n.01		татлага	tʰatʰɮăɢă
+PWN:stroke.n.10		зураас	t͡sʊras
+PWN:strong.a.01		хүчтэй	xut͡ʃʰtʰĕj
+PWN:strong.a.01		чадалтай	t͡ʃʰatăɮtʰai̯
+PWN:stupid.a.01		тэнэг	tʰenĕɡ
+PWN:subsequently.r.01		дараа нь	tara nʲ
+PWN:subsequently.r.01		тэгээд	tʰeɡet
+PWN:succeed.v.01		бүтэх	putʰĕx
+PWN:suddenly.r.01		гэнэт	ɡenĕtʰ
+PWN:summer.n.01		зун	t͡sʊŋ
+PWN:sun.n.01		нар	nar
+PWN:sunday.n.01		ням	nʲăm
+PWN:support.n.07		тулга	tʰʊɮɢă
+PWN:support.n.07		тулгуур	tʰʊɮɢʊr
+PWN:swallow.v.01		залгих	t͡saɮɡʲix
+PWN:swamp.n.01		балчиг	paɮt͡ʃʰʲiɡ
+PWN:swamp.n.01		намаг	namăɢ
+PWN:swan.n.01		хун	xʊn
+PWN:sweep.v.06		хамах	xamăx
+PWN:sweep.v.06		шүүрдэх	ʃuːrtĕx
+PWN:sweet.a.01		амттай	amtʰtʰai̯
+PWN:sweet.a.01		чихэрлэг	t͡ʃʰʲixĕrɮĕɡ
+PWN:swim.v.01		сэлэх	seɮĕx
+PWN:swing.v.01		ганхах	ɢănxăx
+PWN:swing.v.01		хэлбэлзэх	xeɮpĕɮt͡sĕx
+PWN:swing.v.05		даллах	taɮɮăx
+PWN:swing.v.05		дэвэх	tew̜ĕx
+PWN:swing_around.v.01		хөрвүүлэх	xɵrw̜uɮĕx
+PWN:table.n.02		ширээ	ʃʲire
+PWN:tail.n.01		сүүл	suːɮ
+PWN:take.v.04		авах	aw̜ăx
+PWN:talk.v.02		хэлэх	xeɮĕx
+PWN:talk.v.02		хөөрөлдөх	xoːrɵ̆ɮtɵ̆x
+PWN:taste.n.01		амт	amtʰ
+PWN:taste.v.01		амсаж үзэх	amsăt͡ʃ ŭt͡sĕx
+PWN:tasty.a.01		амттай	amtʰtʰai̯
+PWN:tea.n.01		цай	t͡sʰaːi̯
+PWN:teach.v.01		заах	t͡saːx
+PWN:teacher.n.01		багш	paɢʃ
+PWN:tear.n.01		нулимс	nʊɮʲims
+PWN:tear.v.01		урах	ʊrăx
+PWN:tell.v.03		өгүүлэх	ɵɡuɮĕx
+PWN:ten.s.01		арав	arăw̜
+PWN:tendon.n.01		бүлх	puɮx
+PWN:tendon.n.01		шандас	ʃantăs
+PWN:tether.v.01		уях	ʊjăx
+PWN:then.r.01		тэгээд	tʰeɡet
+PWN:then.r.01		хожим	xɔt͡ʃʲim
+PWN:then.r.03		тэгэхэд	tʰeɡĕxĕt
+PWN:there.r.01		тэнд	tʰent
+PWN:there.r.03		тийш	tʰʲiʃ
+PWN:thick.a.01		зузаан	t͡sʊt͡saŋ
+PWN:thick.a.03		нягт	nʲăɢtʰ
+PWN:thick.a.03		чигжүү	t͡ʃʰʲiɡt͡ʃu
+PWN:thigh.n.01		гуя	ɢʊ̆jă
+PWN:thin.a.01		нимгэн	nʲimɡĕŋ
+PWN:thin.a.02		голшиг	ɢɔ̆ɮʃʲiɡ
+PWN:thing.n.09		хэрэг	xerĕɡ
+PWN:thing.n.12		хэрэг	xerĕɡ
+PWN:thing.n.12		үйл	uːi̯ɮ
+PWN:think.v.03		санах	sanăx
+PWN:third.s.01		гуравдугаар	ɢʊ̆răw̜tʊ̆ɢar
+PWN:thirty.s.01		гуч	ɢʊ̆t͡ʃʰ
+PWN:thorax.n.02		цээж	t͡sʰeːt͡ʃ
+PWN:thousand.s.01		мянга	mʲănɢă
+PWN:thread.n.01		боолт	pɔːɮtʰ
+PWN:thread.n.01		утас	ʊtʰăs
+PWN:three.s.01		гурав	ɢʊ̆răw̜
+PWN:throat.n.01		хоолой	xɔːɮɔi̯
+PWN:through.r.01		дундуур	tʊntʊr
+PWN:thrust.v.01		нудрах	nʊtrăx
+PWN:thrust.v.01		ёврох	jɔw̜rɔ̆x
+PWN:thunder.n.02		тэнгэрийн дуу	tʰenɡĕrʲin tʊ
+PWN:thunder.v.03		дуугарах	tʊːɢărăx
+PWN:thursday.n.01		пүрэв	purĕw̜
+PWN:thus.r.02		ингээд	ʲinɡet
+PWN:thus.r.02		тэгж	tʰeɡt͡ʃ
+PWN:tie.v.01		боох	pɔːx
+PWN:tie.v.01		хүлэх	xuɮĕx
+PWN:time.n.05		цаг	t͡sʰaɢ
+PWN:tinkle.v.01		хангир жингэр хийх	xanɡʲir t͡ʃʲinɡĕr xʲix
+PWN:tip.n.01		үзүүр	ut͡sur
+PWN:tire.v.02		ядрах	jatrăx
+PWN:today.r.02		өнөө	ɵno
+PWN:today.r.02		өнөөдөр	ɵnotɵ̆r
+PWN:toe.n.01		хуруу	xʊrʊ
+PWN:together.r.01		хамт	xamtʰ
+PWN:together.r.01		цуг	t͡sʰʊɢ
+PWN:token.n.02		тамга	tʰamɢă
+PWN:token.n.02		тэмдэг	tʰemtĕɡ
+PWN:tomorrow.r.01		маргаадар	marɢatăr
+PWN:tomorrow.r.01		маргааш	marɢaʃ
+PWN:tone.n.07		авиа	aw̜ʲiă
+PWN:tone.n.07		аялгуу	ajăɮɢʊ
+PWN:tongue.n.01		хэл	xeɮ
+PWN:tooth.n.01		шүд	ʃut
+PWN:touch.v.01		шүргэх	ʃurɡĕx
+PWN:towel.n.01		алчуур	aɮt͡ʃʰʊr
+PWN:town.n.01		хот	xɔtʰ
+PWN:translate.v.01		орчуулах	ɔrt͡ʃʰʊɮăx
+PWN:transport.v.02		авчрах	aw̜t͡ʃʰrăx
+PWN:trap.n.01		занга	t͡sanɢă
+PWN:trap.n.01		хавх	xaw̜x
+PWN:trap.v.02		барих	parʲix
+PWN:travel.v.01		хөдлөх	xɵtɮɵ̆x
+PWN:travel.v.01		явах	jaw̜ăx
+PWN:tree.n.01		мод	mɔt
+PWN:trouser.n.01		өмд	ɵmt
+PWN:true.a.01		жинхэнэ	t͡ʃʲinxĕnĕ
+PWN:true.a.01		үнэн	unĕŋ
+PWN:trunk.n.01		гуалин	ɢʊ̆ăɮʲin
+PWN:trunk.n.01		иш	ʲiʃ
+PWN:truth.n.01		үнэн	unĕŋ
+PWN:try.v.01		оролдох	ɔrɔ̆ɮtɔ̆x
+PWN:tube.n.01		хоолой	xɔːɮɔi̯
+PWN:tuesday.n.01		мягмар	mʲăɢmăr
+PWN:tumble.v.01		ойчих	ɔːi̯t͡ʃʰʲix
+PWN:turn.v.04		эргүүлэх	erɡuɮĕx
+PWN:twelve.s.01		арван хоёр	arw̜ăn xɔ̆jɔ̆r
+PWN:twenty.s.01		хорь	xɔrʲ
+PWN:two.s.01		хоёр	xɔjɔ̆r
+PWN:uncle.n.01		авга ах	aw̜ɢă ăx
+PWN:uncle.n.01		нагац ах	naɢăt͡sʰ ăx
+PWN:understand.v.01		мэдэж авах	metĕt͡ʃ ăw̜ăx
+PWN:undress.v.01		тайлах	tʰaːi̯ɮăx
+PWN:unfold.v.04		нялах	nʲăɮăx
+PWN:unfold.v.04		түрхэх	tʰurxĕx
+PWN:up.r.01		дээш	teːʃ
+PWN:up.r.01		өөд	oːt
+PWN:urge.v.01		шамдуулах	ʃamtʊɮăx
+PWN:vainly.r.01		хий	xʲi
+PWN:vein.n.01		судас	sʊtăs
+PWN:very.r.01		тун	tʰʊŋ
+PWN:victimize.v.03		хуурах	xʊːrăx
+PWN:village.n.02		гацаа	ɢăt͡sʰa
+PWN:village.n.02		тосгон	tʰɔsɢɔ̆ŋ
+PWN:violence.n.01		хүчирхэх	xut͡ʃʰʲirxĕx
+PWN:visible.a.01		харагдах	xarăɢtăx
+PWN:visible.a.01		үзэгдэх	ut͡sĕɡtĕx
+PWN:visit.v.07		зочлох	t͡sɔt͡ʃʰɮɔ̆x
+PWN:voice.n.02		дуу	tʊː
+PWN:wait.v.01		хүлээх	xuɮex
+PWN:wake_up.v.02		сэрэх	serĕx
+PWN:walk.n.01		явдал	jaw̜tăɮ
+PWN:walk.v.01		явган явах	jaw̜ɢăn ʲăw̜ăx
+PWN:walk.v.10		зугаалах	t͡sʊɢaɮăx
+PWN:war.n.01		дайн	taːi̯ŋ
+PWN:ware.n.01		бараа	para
+PWN:ware.n.01		таваар	tʰaw̜ar
+PWN:warm.a.01		дулаан	tʊɮaŋ
+PWN:wash.v.02		биеэ угаах	pʲiʲiĕ ʊ̆ɢax
+PWN:wash.v.03		угаах	ʊɢax
+PWN:watch.v.01		харах	xarăx
+PWN:water.n.06		ус	ʊs
+PWN:water.v.01		услах	ʊsɮăx
+PWN:wave.n.01		давалгаа	taw̜ăɮɢa
+PWN:wave.n.01		долгио	tɔɮɡʲiɔ̆
+PWN:weak.a.01		сул	sʊɮ
+PWN:wealth.n.01		баялаг	pajăɮăɢ
+PWN:wear.v.09		өмсөх	ɵmsɵ̆x
+PWN:weather.n.01		тэнгэр	tʰenɡĕr
+PWN:weather.n.01		цаг уур	t͡sʰaɢ ʊr
+PWN:wednesday.n.01		лхагва	ɮxăɢw̜ă
+PWN:week.n.01		долоо хоног	tɔɮɔ xɔ̆nɔ̆ɢ
+PWN:weight.n.01		жин	t͡ʃʲin
+PWN:well.n.01		худаг	xʊtăɢ
+PWN:west.n.02		баруун	parʊŋ
+PWN:west.n.02		өрнө	ɵrnɵ̆
+PWN:wet.a.01		нойтон	nɔːi̯tʰɔ̆ŋ
+PWN:whistle.v.03		исгэрэх	ʲisɡĕrĕx
+PWN:white.a.01		цагаан	t͡sʰaɢaŋ
+PWN:wide.a.01		өргөн	ɵrɡɵ̆ŋ
+PWN:wife.n.01		гэргий	ɡerɡʲi
+PWN:wife.n.01		эхнэр	exnĕr
+PWN:willow.n.01		бургас	pʊrɢăs
+PWN:willow.n.01		уд	ʊt
+PWN:win.v.01		ялах	jaɮăx
+PWN:wind.n.01		салхи	saɮxʲi
+PWN:wind.v.03		боох	pɔːx
+PWN:wind.v.03		ороох	ɔrɔx
+PWN:window.n.01		гэгээвч	ɡeɡew̜t͡ʃʰ
+PWN:wing.n.01		далавч	taɮăw̜t͡ʃʰ
+PWN:wing.n.01		жигүүр	t͡ʃʲiɡur
+PWN:winter.n.01		өвөл	ɵw̜ɵ̆ɮ
+PWN:wipe.v.01		арчих	art͡ʃʰʲix
+PWN:wolf.n.01		чоно	t͡ʃʰɔnɔ̆
+PWN:woman.n.01		хатагтай	xatʰăɢtʰai̯
+PWN:woman.n.01		эмэгтэй	emĕɡtʰĕj
+PWN:wood.n.01		мод	mɔt
+PWN:wool.n.02		ноос	nɔːs
+PWN:wool.n.02		унгас	ʊnɢăs
+PWN:word.n.01		үг	uɡ
+PWN:work.n.01		ажил	at͡ʃʲiɮ
+PWN:work.n.01		хөдөлмөр	xɵtɵ̆ɮmɵ̆r
+PWN:work.v.01		ажиллах	at͡ʃʲiɮɮăx
+PWN:work.v.01		хөдөлмөрлөх	xɵtɵ̆ɮmɵ̆rɮɵ̆x
+PWN:worker.n.01		ажилчин	at͡ʃʲiɮt͡ʃʰʲiŋ
+PWN:worker.n.01		хөдөлмөрчин	xɵtɵ̆ɮmɵ̆rt͡ʃʰʲiŋ
+PWN:world.n.02		дэлхий	teɮxʲi
+PWN:world.n.02		орчлон	ɔrt͡ʃʰɮɔ̆n
+PWN:worm.n.01		хорхой	xɔrxɔi̯
+PWN:worm.n.01		өт	ɵtʰ
+PWN:write.v.02		бичих	pʲit͡ʃʰʲix
+PWN:year.n.01		жил	t͡ʃʲiɮ
+PWN:yellow.s.01		шар	ʃar
+PWN:yesterday.r.01		өчигдөр	ɵt͡ʃʰʲiɡtɵ̆r
+PWN:young.a.01		залуу	t͡saɮʊ

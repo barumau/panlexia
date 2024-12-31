@@ -1,462 +1,1069 @@
 id	style	word	pronunciation
-Action:can.V		karin	karən
-Agriculture:herd (something).V		hei jê man	hɛə ʒe man
-Agriculture:irrigate.V		av dan	av dan
-Agriculture:pick.V		çinîn	t͡ʃənin
-Agriculture:shovel.N		bêr	ber
-Animal:Anatidae.N		werdek	wɛrdɛk
-Animal:Annelida.N		kurm	kʊrm
-Animal:Araneae.N		pîrê	pire
-Animal:Aves.N		çûk	t͡ʃuk
-Animal:Canis lupus familiaris.N		seh	sɛh
-Animal:Canis lupus.N		gur	ɡʊr
-Animal:Corvus.N		qijik	qəʒək
-Animal:Culicidae.N		mêş	meʃ
-Animal:Diptera.N		mêş	meʃ
-Animal:Equus ferus caballus.N		hesp	hɛsp
-Animal:Felis catus.N		pişîk	pəʃik
-Animal:Formicidae.N		gêrîk	ɡerik
-Animal:Formicidae.N		mîro	miro
-Animal:Gallus gallus domesticus.N		mirîşk	məriʃk
-Animal:Homo sapiens.N		mirov	mərov
-Animal:Ovis aries.N		mîh	mih
-Animal:Rhopalocera.N		perperîk	pɛrpɛrik
-Animal:Sciuridae.N		pilûr	pəlur
-Animal:Serpentes.N		mar	mar
-Animal:Sus scrofa domestica.N		beraz	bɛraz
-Animal:Ursidae.N		hirç	hərt͡ʃ
-Animal:Vulpes.N		rovî	rovi
-Animal:animal.N		heywan	hɛjwan
-Animal:fish.N		masî	masi
-Animal:mouse.N		mişk	məʃk
-Animal:wool.N		herî	hɛri
-Atmosphere:cloud.N		ewr	ɛwr
-Atmosphere:cold.A		jemîrî	ʒɛmiri
-Atmosphere:fog.N		mij	məʒ
-Atmosphere:rain.N		baran	baran
-Atmosphere:rain.V		bahran tê	bahran te
-Atmosphere:rainbow.N		heftreng	hɛftrɛnɡ
-Atmosphere:sky.N		ezman	ɛzman
-Atmosphere:thunder.N		gire-gir	ɡərɛ-ɡər
-Atmosphere:thunder.V		gire-gir	ɡərɛ-ɡər
-Atmosphere:weather.N		hewa	hɛwa
-Atmosphere:wind.N		ba	ba
-Belief:deity.N		xwedê	χwɛde
-Belief:idol.N		figûr	fəɡur
-Belief:spirit.N		aqil	aqəl
-Body:arm.N		çepil	t͡ʃɛpəl
-Body:back.N		pişt	pəʃt
-Body:beard.N		rih	rəh
-Body:belly.N		zik	zək
-Body:belly.N		ûr	ur
-Body:blood.N		xwîn	χwin
-Body:blow.V		puf kirin	pʊf kərən
-Body:body.N		gowde	ɡowdɛ
-Body:body.N		laş	laʃ
-Body:bone.N		hestî	hɛsti
-Body:brain.N		mêjî	meʒi
-Body:breast.N		sîng	sinɡ
-Body:breath.N		hilm	həlm
-Body:breath.V		hilmijîn	həlməʒin
-Body:cheek.N		dêm	dem
-Body:cheek.N		hinarik	hənarək
-Body:chest.N		sîng	sinɡ
-Body:chin.N		zenî	zɛni
-Body:ear.N		guh	ɡʊh
-Body:elbow.N		enîşk	ɛniʃk
-Body:eye.N		çav	t͡ʃav
-Body:face.N		rû	ru
-Body:fat.N		rûn	run
-Body:feather.N		pîrtîk	pirtik
-Body:finger.N		tilî	təli
-Body:fingernail.N		neynuk	nɛjnʊk
-Body:foot.N		ling	lənɡ
-Body:footprint.N		rêç	ret͡ʃ
-Body:forehead.N		enî	ɛni
-Body:fur.N		heyar	hɛjar
-Body:hair.N		por	por
-Body:hand.N		dest	dɛst
-Body:head.N		serî	sɛri
-Body:heart.N		dil	dəl
-Body:heel.N		pahnî	pahni
-Body:horn.N		strô	strô
-Body:jaw.N		arguşk	arɡʊʃk
-Body:knee.N		kabok	kabok
-Body:leg.N		çip	t͡ʃəp
-Body:lip.N		lêv	lev
-Body:liver.N		kezeb	kɛzɛb
-Body:moustache.N		simbêl	səmbel
-Body:mouth.N		dev	dɛv
-Body:nail.N		bizmar	bəzmar
-Body:nape.N		stû	stu
-Body:navel.N		navik	navək
-Body:neck.N		qirik	qərək
-Body:neck.N		stû	stu
-Body:nose.N		bêvil	bevəl
-Body:obese.A		qelew	qɛlɛw
-Body:palm.N		kefadest	kɛfadɛst
-Body:shoulder.N		mil	məl
-Body:skin.N		çerm	t͡ʃɛrm
-Body:stomach.N		navêş	naveʃ
-Body:tail.N		dûv	duv
-Body:tear.N		hêstir	hestər
-Body:tendon.N		reh	rɛh
-Body:throat.N		qirik	qərək
-Body:toe.N		tilî linga	təli lənɡa
-Body:tongue.N		ziman	zəman
-Body:tooth.N		didan	dədan
-Body:upper leg.N		rahn	rahn
-Body:vein.N		reh	rɛh
-Body:wing.N		per	pɛr
-Body:wound.N		kul	kʊl
-Building:board.N		dep	dɛp
-Building:build.V		lêkirin	lekərən
-Building:door.N		derî	dɛri
-Building:floor.N		binpê	bənpe
-Building:gate.N		derge	dɛrɡɛ
-Building:house.N		mal	mal
-Building:house.N		xanî	χani
-Building:post.N		sing	sənɡ
-Building:roof.N		sere xanî	sɛrɛ χani
-Building:window.N		çam	t͡ʃam
-Building:window.N		şibeke	ʃəbɛkɛ
-Cleaning:broom.N		melkes	mɛlkɛs
-Cleaning:clean (sth).V		paqijkirin	paqəʒkərən
-Cleaning:clean.A		pakij	pakəʒ
-Cleaning:dirt.N		gemar	ɡɛmar
-Cleaning:dirty.A		lewitî	lɛwəti
-Cleaning:sweep.V		maliştin	maləʃtən
-Cleaning:wash (oneself).V		serîşûştin	sɛriʃuʃtən
-Cleaning:wash.V		şuştin	ʃʊʃtən
-Cleaning:wipe.V		pakîj kirin	pakiʒ kərən
-Clothing:belt.N		qayiş	qajəʃ
-Clothing:boot.N		gizme	ɡəzmɛ
-Clothing:boot.N		çizme	t͡ʃəzmɛ
-Clothing:button.N		bişkok	bəʃkok
-Clothing:cap.N		fîno	fino
-Clothing:cloth.N		paç	pat͡ʃ
-Clothing:clothes.N		çil	t͡ʃəl
-Clothing:collar.N		stûvang	stuvanɡ
-Clothing:dress up.V		xwe kirin	χwɛ kərən
-Clothing:dye.V		boyax kirin	bojaχ kərən
-Clothing:knit.V		hûnan	hunan
-Clothing:leather.N		çerm	t͡ʃɛrm
-Clothing:naked.A		rût	rut
-Clothing:naked.A		tazî	tazi
-Clothing:needle.N		derzî	dɛrzi
-Clothing:put on.V		pê kirin	pe kərən
-Clothing:scarf or turban.N		şar	ʃar
-Clothing:sew.V		kêl kirin	kel kərən
-Clothing:shirt.N		miltan	məltan
-Clothing:shirt.N		qutik	qʊtək
-Clothing:shoe.N		şêkal	ʃekal
-Clothing:sleeve.N		hûçik	hut͡ʃək
-Clothing:thread.N		ta	ta
-Clothing:towel.N		dezmal	dɛzmal
-Clothing:trousers.N		şewel	ʃɛwɛl
-Clothing:undress.V		jê kirin	ʒe kərən
-Cognition:familiar.A		naskirî	naskəri
-Cognition:true.A		rast	rast
-Cognition:truth.N		rastî	rasti
-Cognition:wake up (tr).V		bixwe hesandin	bəχwɛ hɛsandən
-Cognition:wake up.V		şiyarbûn	ʃəjarbun
-Combat:brawl.V		li hev bezîn	lə hɛv bɛzin
-Combat:fight.N		şer	ʃɛr
-Combat:strike (sb).V		lêdan	ledan
-Combat:strike (sb).V		lêxistin	leχəstən
-Combat:violence.N		zor	zor
-Combat:win.V		biser ketin	bəsɛr kɛtən
-Communication:boast.V		pesnê xwe dan	pɛsne χwɛ dan
-Communication:book.N		kitêb	kəteb
-Communication:book.N		pirtûk	pərtuk
-Communication:call.V		bakirin	bakərən
-Communication:chat.V		hev biştaxilin	hɛv bəʃtaχələn
-Communication:convey (a message).V		vegotin	vɛɡotən
-Communication:fairy tale.N		çirok	t͡ʃərok
-Communication:kiss.V		maçkirin	mat͡ʃkərən
-Communication:language.N		ziman	zəman
-Communication:letter.N		name	namɛ
-Communication:lie.N		derew	dɛrɛw
-Communication:news.N		hewal	hɛwal
-Communication:newspaper.N		rojname	roʒnamɛ
-Communication:talk.V		axaftin	aχaftən
-Communication:tell.V		behs kirin	bɛhs kərən
-Communication:translate.V		derbas kirin	dɛrbas kərən
-Communication:translate.V		qulibandin	qʊləbandən
-Communiction:call.N		hawar	hawar
-Cosmos:Sun.N		roj	roʒ
-Cosmos:moon.N		heyv	hɛjv
-Cosmos:set.V		çun ava	t͡ʃʊn ava
-Cosmos:star.N		stêrk	sterk
-Degree:very.ADV		gelek	ɡɛlɛk
-Element:Ag.N		zîv	ziv
-Element:Au.N		zêr	zer
-Element:Fe.N		hesing	hɛsənɡ
-Emotion:be angry.V		enirîn	ɛnərin
-Emotion:cry.V		girîn	ɡərin
-Emotion:evil.A		aciz	ad͡ʒəz
-Emotion:evil.A		xerab	χɛrab
-Emotion:fear.V		tirsîn	tərsin
-Emotion:gentle.A		nazenîn	nazɛnin
-Emotion:grief.N		derd	dɛrd
-Emotion:happiness.N		bext	bɛχt
-Emotion:like.V		dil kirin	dəl kərən
-Emotion:longing.N		şewq	ʃɛwq
-Emotion:love.V		hez kirin	hɛz kərən
-Emotion:merry.A		kêfxweş	kefχwɛʃ
-Emotion:move.V		hêjan	heʒan
-Emotion:sad.A		xemgîn	χɛmɡin
-Emotion:want.V		xwestîn	χwɛstin
-Family:aunt.N		metik	mɛtək
-Family:aunt.N		xaltîk	χaltik
-Family:brother.N		bira	bəra
-Family:daughter.N		keç	kɛt͡ʃ
-Family:family.N		malbat	malbat
-Family:father.N		bav	bav
-Family:grandfather.N		bapîr	bapir
-Family:grandmother.N		pîrik	pirək
-Family:husband.N		mêr	mer
-Family:mother.N		dayik	dajək
-Family:mother.N		dê	de
-Family:parents.N		bavudê	bavʊde
-Family:sister.N		xweh	χwɛh
-Family:son.N		kur	kʊr
-Family:uncle.N		am	am
-Family:uncle.N		xal	χal
-Family:wife.N		kulfet	kʊlfɛt
-Food:Camellia sinensis.N		çay	t͡ʃaj
-Food:Malus domestica.N		sêv	sev
-Food:NaCl.N		xwe	χwɛ
-Food:bake.V		pijandin	pəʒandən
-Food:bread.N		nan	nan
-Food:soup.N		şorbe	ʃorbɛ
-Food:spoon.N		kevçî	kɛvt͡ʃi
-Form:bend (sth).V		tewandin	tɛwandən
-Form:bend (sth).V		xwarkirin	χwarkərən
-Form:bend.V		tewîn	tɛwin
-Form:bend.V		xwar kirin	χwar kərən
-Function:1PL.PRO		êm	em
-Function:1SG.PRO		ez	ɛz
-Function:2PL.PRO		hûn	hun
-Function:2SG.PRO		tu	tʊ
-Function:3PL.PRO		we	wɛ
-Function:3SG M.PRO		wî	wi
-Function:and.CNJ		û	u
-Function:here.ADV		li vir	lə vər
-Function:how many.PRO		çend	t͡ʃɛnd
-Function:how.PRO		çawa	t͡ʃawa
-Function:not.PTCL		ne	nɛ
-Function:not.PTCL		nîn	nin
-Function:not.PTCL		tine	tənɛ
-Function:or.CNJ		an	an
-Function:or.CNJ		yan	jan
-Function:other.PRO		yê din	je dən
-Function:that.PRO		ev	ɛv
-Function:there.ADV		li wê derê	lə we dɛre
-Function:this.PRO		ev	ɛv
-Function:what.PRO		çi	t͡ʃə
-Function:where.PRO		li ku dere	lə kʊ dɛrɛ
-Function:who.PRO		ki	kə
-Function:why.PRO		çima	t͡ʃəma
-Grooming:comb.N		şeh	ʃɛh
-Grooming:comb.V		şeh kirin	ʃɛh kərən
-Grooming:decorate.V		xemilandin	χɛməlandən
-Grooming:mirror.N		eynik	ɛjnək
-Grooming:ring.N		xelek	χɛlɛk
-Handiwork:glue.V		zeliqîn	zɛləqin
-Handiwork:glue.V		şirêz kirin	ʃərez kərən
-Handiwork:nail.N		bizmar	bəzmar
-Handiwork:repair.V		veherînerîn	vɛhɛrinɛrin
-Handiwork:ware.N		tişt	təʃt
-Handiwork:worker.N		hîşçî	hiʃt͡ʃi
-Health:become sick.V		nexweş kêt	nɛχwɛʃ ket
-Health:disease.N		nexweşî	nɛχwɛʃi
-Health:fever.N		ta	ta
-Health:healthy.A		nojdarî	noʒdari
-Health:medicine.N		derman	dɛrman
-Health:physician.N		doktor	doktor
-Health:recover.V		baş bûn	baʃ bun
-House:bed.N		qerewêle	qɛrɛwelɛ
-House:blanket.N		bataniye	batanəjɛ
-House:cradle.N		derguş	dɛrɡʊʃ
-House:pillow.N		balgî	balɡi
-House:table.N		mase	masɛ
-Hunting:bow.N		kêvan	kevan
-Hunting:fishing.V		masî girtin	masi ɡərtən
-Hunting:hunt.V		nêçîr kirin	net͡ʃir kərən
-Integrity:part.N		parçe	part͡ʃɛ
-Integrity:piece.N		lib	ləb
-Integrity:piece.N		parçe	part͡ʃɛ
-Interaction:choose.V		ray dan	raj dan
-Interaction:rescue.V		rihakirin	rəhakərən
-Mind:dream.N		xewn	χɛwn
-Motion:arrive.V		gihan	ɡəhan
-Motion:arrive.V		gihîştin	ɡəhiʃtən
-Motion:bring.V		anîn	anin
-Motion:bring.V		birin	bərən
-Motion:carry.V		kişandin	kəʃandən
-Motion:carry.V		rajtin	raʒtən
-Motion:catch.V		girtin	ɡərtən
-Motion:catch.V		sem kirin	sɛm kərən
-Motion:climb.V		hilperikîn	həlpɛrəkin
-Motion:come back.V		vegerandin	vɛɡɛrandən
-Motion:come.V		hatin	hatən
-Motion:creep.V		xuşandin	χʊʃandən
-Motion:drag.V		kişandin	kəʃandən
-Motion:drop (something).V		xistin	χəstən
-Motion:drop (something).V		xistin bixe	χəstən bəχɛ
-Motion:enter.V		ketin hundir	kɛtən hʊndər
-Motion:fall.V		ketin	kɛtən
-Motion:fly.V		firîn	fərin
-Motion:go.V		çûn	t͡ʃun
-Motion:leave.V		çûn	t͡ʃun
-Motion:lift.V		hildan	həldan
-Motion:move (oneself).V		leqîn	lɛqin
-Motion:raise.V		hildan	həldan
-Motion:step.V		meşkirin	mɛʃkərən
-Motion:swing (sth).V		têwdan	tewdan
-Motion:swing.V		libakirin	ləbakərən
-Motion:take a walk.V		gerandin	ɡɛrandən
-Motion:turn (sth).V		zivîrin	zəvirən
-Motion:walk.N		fîtêz	fitez
-Music:sing.V		stran	stran
-Music:song.N		sitran	sətran
-Music:tone.N		awaz	awaz
-Nature:river.N		rûbar	rubar
-Nature:river.N		çem	t͡ʃɛm
-Nature:sea.N		behr	bɛhr
-Nature:shore of lake.N		kevî	kɛvi
-Nature:slope.N		kaş	kaʃ
-People:boy.N		kur	kʊr
-People:child.N		zarok	zarok
-People:girl.N		keç	kɛt͡ʃ
-People:girl.N		keçik	kɛt͡ʃək
-People:man.N		mêr	mer
-People:people.N		xelk	χɛlk
-People:woman.N		jin	ʒən
-Perception:feel.V		hîs kirin	his kərən
-Perception:hear or listen.V		bihîstin	bəhistən
-Perception:hear.V		guhdar jirin	ɡʊhdar ʒərən
-Perception:pain.N		êş	eʃ
-Perception:touch.V		lêketin	lekɛtən
-Perception:wet.A		şilek	ʃəlɛk
-Perception:yellow.A		zer	zɛr
-Plant:Betula.N		dara sipî	dara səpi
-Plant:bark.N		qaqil	qaqəl
-Plant:branch.N		gulî	ɡʊli
-Plant:flower.N		kulînk	kʊlink
-Plant:leaf.N		pel	pɛl
-Plant:root.N		reh	rɛh
-Plant:seed.N		tov	tov
-Plant:tree trunk.N		bavik	bavək
-Plant:tree.N		dar	dar
-Plant:twig.N		şax	ʃaχ
-Possession:abandon.V		bêkes	bekɛs
-Possession:abandon.V		tanê hişt	tane həʃt
-Possession:gift.N		diyarî	dəjari
-Possession:poor.A		desteng	dɛstɛnɡ
-Possession:poor.A		feqîr	fɛqir
-Possession:price.N		buha	bʊha
-Possession:rich.A		dewlemend	dɛwlɛmɛnd
-Possession:sell.V		firotin	fərotən
-Quantity:1.NUM		yek	jɛk
-Quantity:10.NUM		deh	dɛh
-Quantity:100.NUM		sêd	sed
-Quantity:1000.NUM		hezar	hɛzar
-Quantity:11.NUM		yazdeh	jazdɛh
-Quantity:12.NUM		diwazdeh	dəwazdɛh
-Quantity:2.NUM		didu	dədʊ
-Quantity:20.NUM		bîst	bist
-Quantity:3.NUM		sisê	səse
-Quantity:30.NUM		sih	səh
-Quantity:4.NUM		çar	t͡ʃar
-Quantity:40.NUM		çil	t͡ʃəl
-Quantity:5.NUM		penç	pɛnt͡ʃ
-Quantity:50.NUM		pençi	pɛnt͡ʃə
-Quantity:6.NUM		şeş	ʃɛʃ
-Quantity:60.NUM		şêst	ʃest
-Quantity:7.NUM		heft	hɛft
-Quantity:70.NUM		heftê	hɛfte
-Quantity:8.NUM		heşt	hɛʃt
-Quantity:80.NUM		heştê	hɛʃte
-Quantity:9.NUM		neh	nɛh
-Quantity:90.NUM		nod	nod
-Quantity:a little.A		hebkî	hɛbki
-Quantity:add.V		dan ser	dan sɛr
-Quantity:add.V		li tiştekî zêde kirin	lə təʃtɛki zedɛ kərən
-Quantity:decrease.V		kêm bûn	kem bun
-Quantity:empty.A		vala	vala
-Quantity:fill.V		dagirtin	daɡərtən
-Quantity:full.A		tijî	təʒi
-Quantity:increase.V		qelew bûn	qɛlɛw bun
-Society:help.N		alîkarî	alikari
-Society:people.N		xelk	χɛlk
-Sound:chime.V		lê de	le dɛ
-Sound:howl.V		ûrîn	urin
-Sound:laugh.N		pîrqînî	pirqini
-Sound:laugh.V		kenîn	kɛnin
-Sound:make noise.V		guşîn	ɡʊʃin
-Sound:rustle (of leaves).V		guşîn	ɡʊʃin
-Sound:shout.V		qîrîn	qirin
-Sound:sound (of instrument or voice).V		deng pe ketin	dɛnɡ pɛ kɛtən
-Sound:voice.N		pejn	pɛʒn
-Sound:whistle.V		fîkandin	fikandən
-Space:back.ADV		paşdo	paʃdo
-Space:back.ADV		paşvê	paʃve
-Space:wide.A		fireh	fərɛh
-Storage:bag.N		bêrîk	berik
-Storage:box.N		sindoq	səndoq
-Storage:bucket.N		dewl	dɛwl
-Storage:heap.N		lod	lod
-Storage:lid.N		devik	dɛvək
-Storage:load.N		bar	bar
-Storage:misplace.V		wendakirin	wɛndakərən
-Storage:pouch.N		kîsik	kisək
-Storage:pour.V		rijandin	rəʒandən
-Storage:sack.N		tûr	tur
-Time:April.N		nîsan	nisan
-Time:August.N		tebax	tɛbaχ
-Time:December.N		kanûn	kanun
-Time:February.N		sibat	səbat
-Time:January.N		çile	t͡ʃəlɛ
-Time:July.N		tîmeh	timɛh
-Time:June.N		hezîran	hɛziran
-Time:March.N		adar	adar
-Time:May.N		gûlan	ɡulan
-Time:November.N		mijdar	məʒdar
-Time:October.N		çotmeh	t͡ʃotmɛh
-Time:September.N		îlon	ilon
-Time:age.N		temen	tɛmɛn
-Time:already.ADV		hew	hɛw
-Time:always.ADV		daîm	daim
-Time:autumn.N		payîz	pajiz
-Time:final.A		paşîn	paʃin
-Time:month.N		meh	mɛh
-Time:never.ADV		tu çar	tʊ t͡ʃar
-Time:new.A		nû	nu
-Time:night.N		şev	ʃɛv
-Time:now.ADV		nuha	nʊha
-Time:often.ADV		gelek çaran	ɡɛlɛk t͡ʃaran
-Time:old (of person).A		pîr	pir
-Time:old.A		kevn	kɛvn
-Time:old.A		pîr	pir
-Time:one time.ADV		çarik	t͡ʃarək
-Time:pass.V		derbas bûn	dɛrbas bun
-Time:springtime.N		bihar	bəhar
-Time:still.ADV		dîsa	disa
-Time:still.ADV		hêj	heʒ
-Time:summer.N		havîn	havin
-Time:time.N		çax	t͡ʃaχ
-Time:today.ADV		îro	iro
-Time:tomorrow.ADV		sibeh	səbɛh
-Time:wait.V		payîn	pajin
-Time:winter.N		zistan	zəstan
-Time:year.N		sal	sal
-Time:yesterday.ADV		do	do
-Transit:boat.N		kelek	kɛlɛk
-Transit:oar.N		bêrik	berək
-Transit:road.N		rê	re
-Transit:row.V		qaîq ajotin	qaiq aʒotən
-Value:bad.A		xerab	χɛrab
-Value:good.A		baş	baʃ
-Value:improve.V		sererastkirin	sɛrɛrastkərən
+PLX:1PL.pro		êm	em
+PLX:1SG.pro		ez	ɛz
+PLX:2PL.pro		hûn	hun
+PLX:2SG.pro		tu	tʊ
+PLX:3PL.pro		we	wɛ
+PLX:3SG M.pro		wî	wi
+PLX:and.cnj		û	u
+PLX:because of.adp		ji ber	ʒə bɛr
+PLX:because of.adp		ji bo	ʒə bo
+PLX:behind.adp		li pişt	lə pəʃt
+PLX:beside.adp		li ba	lə ba
+PLX:can.v		karin	karən
+PLX:die (from accident).V		mirin	mərən
+PLX:everywhere.pro		li her derê	lə hɛr dɛre
+PLX:from here.adv		ji vir	ʒə vər
+PLX:get sick.V		nexweş kêt	nɛχwɛʃ ket
+PLX:how many.pro		çend	t͡ʃɛnd
+PLX:how.pro		çawa	t͡ʃawa
+PLX:in front of.adp		li ber	lə bɛr
+PLX:or.cnj		an	an
+PLX:or.cnj		yan	jan
+PLX:that.pro		ev	ɛv
+PLX:this.pro		ev	ɛv
+PLX:under.adp		li bin	lə bən
+PLX:what.pro		çi	t͡ʃə
+PLX:where.pro		li ku dere	lə kʊ dɛrɛ
+PLX:where_to.pro		li ku dere	lə kʊ dɛrɛ
+PLX:who.pro		ki	kə
+PLX:why.pro		çima	t͡ʃəma
+PWN:abandon.v.02		bêkes	bekɛs
+PWN:abandon.v.02		tanê hişt	tane həʃt
+PWN:abdomen.n.01		zik	zək
+PWN:abdomen.n.01		ûr	ur
+PWN:above.r.02		banî	bani
+PWN:act.v.02		kirin	kərən
+PWN:add.v.01		dan ser	dan sɛr
+PWN:add.v.01		li tiştekî zêde kirin	lə təʃtɛki zedɛ kərən
+PWN:address.n.03		axavtin	aχavtən
+PWN:address.n.03		gotar	ɡotar
+PWN:affect.v.05		hêjan	heʒan
+PWN:again.r.01		dîsa	disa
+PWN:again.r.01		jar din	ʒar dən
+PWN:age.n.01		temen	tɛmɛn
+PWN:ahead.r.03		ber bi pêş	bɛr bə peʃ
+PWN:aid.n.02		alîkarî	alikari
+PWN:air.n.01		ba	ba
+PWN:alive.a.01		bisaxî	bəsaχi
+PWN:all.a.01		hemû	hɛmu
+PWN:allege.v.01		gotin	ɡotən
+PWN:allege.v.01		peyivîn	pɛjəvin
+PWN:alone.r.02		tenê	tɛne
+PWN:already.r.01		hew	hɛw
+PWN:always.r.01		daîm	daim
+PWN:anger.v.01		xeyirandin	χɛjərandən
+PWN:anger.v.02		enirîn	ɛnərin
+PWN:animal.n.01		heywan	hɛjwan
+PWN:animation.n.01		jiyan	ʒəjan
+PWN:ant.n.01		gêrîk	ɡerik
+PWN:ant.n.01		mîro	miro
+PWN:apparel.n.01		çil	t͡ʃəl
+PWN:apple.n.01		sêv	sev
+PWN:april.n.01		nîsan	nisan
+PWN:apt.s.03		baqil	baqəl
+PWN:area.n.01		dever	dɛvɛr
+PWN:arise.v.03		rabûn	rabun
+PWN:arm.n.01		çepil	t͡ʃɛpəl
+PWN:arrive.v.01		gihan	ɡəhan
+PWN:arrive.v.01		gihîştin	ɡəhiʃtən
+PWN:arrive.v.01		hatin	hatən
+PWN:arrow.n.02		çîrik	t͡ʃirək
+PWN:ascend.v.01		hildan	həldan
+PWN:ash.n.01		xweli	χwɛlə
+PWN:ask.v.02		tika kirin	təka kərən
+PWN:ask.v.05		pirs kirin	pərs kərən
+PWN:ask.v.05		pirsîn	pərsin
+PWN:august.n.01		tebax	tɛbaχ
+PWN:aunt.n.01		metik	mɛtək
+PWN:aunt.n.01		xaltîk	χaltik
+PWN:awaken.v.01		bixwe hesandin	bəχwɛ hɛsandən
+PWN:back.n.01		pişt	pəʃt
+PWN:back.r.01		paşdo	paʃdo
+PWN:back.r.01		paşvê	paʃve
+PWN:back.r.02		paşpê	paʃpe
+PWN:bad.a.01		xerab	χɛrab
+PWN:bag.n.01		bêrîk	berik
+PWN:bake.v.02		pijandin	pəʒandən
+PWN:bare.s.01		rût	rut
+PWN:bare.s.01		tazî	tazi
+PWN:bark.n.01		qaqil	qaqəl
+PWN:bark.v.04		kewtîn	kɛwtin
+PWN:bathe.v.01		serîşûştin	sɛriʃuʃtən
+PWN:battle.n.01		şer	ʃɛr
+PWN:bay.n.01		derav	dɛrav
+PWN:be_born.v.01		bûn	bun
+PWN:be_born.v.01		hatin dinyê	hatən dənje
+PWN:bear.n.01		hirç	hərt͡ʃ
+PWN:beard.n.01		rih	rəh
+PWN:beautiful.a.01		xweş	χwɛʃ
+PWN:beautiful.a.01		xweşik	χwɛʃək
+PWN:become.v.01		bûn	bun
+PWN:bed.n.01		qerewêle	qɛrɛwelɛ
+PWN:begin.v.03		dest pêkirin	dɛst pekərən
+PWN:believe.v.01		bawer bûn	bawɛr bun
+PWN:beloved.s.01		delal	dɛlal
+PWN:belt.n.02		qayiş	qajəʃ
+PWN:bend.v.01		tewandin	tɛwandən
+PWN:bend.v.01		xwarkirin	χwarkərən
+PWN:benefit.n.02		fêde	fedɛ
+PWN:berry.n.01		hirç	hərt͡ʃ
+PWN:better.v.02		sererastkirin	sɛrɛrastkərən
+PWN:between.r.02		di nav...da	də nav...da
+PWN:between.r.02		nabeyne	nabɛjnɛ
+PWN:birch.n.02		dara sipî	dara səpi
+PWN:bird.n.01		çûk	t͡ʃuk
+PWN:bite.v.01		gez kirin	ɡɛz kərən
+PWN:bitter.s.06		tahl	tahl
+PWN:black.a.01		reş	rɛʃ
+PWN:blade.n.01		pel	pɛl
+PWN:blanket.n.01		bataniye	batanəjɛ
+PWN:blind.a.01		kor	kor
+PWN:blood.n.01		xwîn	χwin
+PWN:blow.v.01		puf kirin	pʊf kərən
+PWN:blow.v.02		ba le de	ba lɛ dɛ
+PWN:blue.s.01		şîn	ʃin
+PWN:blunt.s.02		ne tûj	nɛ tuʒ
+PWN:board.n.02		dep	dɛp
+PWN:boast.v.01		pesnê xwe dan	pɛsne χwɛ dan
+PWN:boat.n.01		kelek	kɛlɛk
+PWN:body.n.01		gowde	ɡowdɛ
+PWN:body.n.01		laş	laʃ
+PWN:boil.v.01		kelîn	kɛlin
+PWN:boil.v.03		kelandin	kɛlandən
+PWN:boil.v.03		xwarin çe kirin	χwarən t͡ʃɛ kərən
+PWN:bone.n.01		hestî	hɛsti
+PWN:book.n.01		kitêb	kəteb
+PWN:book.n.01		pirtûk	pərtuk
+PWN:boot.n.01		gizme	ɡəzmɛ
+PWN:boot.n.01		çizme	t͡ʃəzmɛ
+PWN:botch.v.01		heram bûn	hɛram bun
+PWN:boundary_line.n.01		kevî	kɛvi
+PWN:bow.n.04		kêvan	kevan
+PWN:box.n.01		sindoq	səndoq
+PWN:brain.n.01		mêjî	meʒi
+PWN:branch.n.02		gulî	ɡʊli
+PWN:branchlet.n.01		şax	ʃaχ
+PWN:brawl.v.01		li hev bezîn	lə hɛv bɛzin
+PWN:bread.n.01		nan	nan
+PWN:break.v.05		şikandin	ʃəkandən
+PWN:breast.n.02		sîng	sinɡ
+PWN:breath.n.02		hilm	həlm
+PWN:breathe.v.01		hilmijîn	həlməʒin
+PWN:bridge.n.01		kopî	kopi
+PWN:bright.a.01		ronî	roni
+PWN:bring.v.01		anîn	anin
+PWN:bring.v.01		birin	bərən
+PWN:brook.n.01		çem	t͡ʃɛm
+PWN:broom.n.01		melkes	mɛlkɛs
+PWN:brother.n.01		bira	bəra
+PWN:brow.n.01		enî	ɛni
+PWN:bucket.n.01		dewl	dɛwl
+PWN:bull.n.01		ga	ɡa
+PWN:bundle.n.02		pêçek	pet͡ʃɛk
+PWN:burn.v.03		şewitîn	ʃɛwətin
+PWN:burn.v.07		şewitandin	ʃɛwətandən
+PWN:business.n.01		firoşgeh	fəroʃɡɛh
+PWN:butter.n.01		rûn	run
+PWN:butterfly.n.01		perperîk	pɛrpɛrik
+PWN:button.n.01		bişkok	bəʃkok
+PWN:buy.v.01		kirîn	kərin
+PWN:calculate.v.01		hesibandin	hɛsəbandən
+PWN:calendar_month.n.01		meh	mɛh
+PWN:call.v.05		bakirin	bakərən
+PWN:campfire.n.01		agir	aɡər
+PWN:cap.n.01		fîno	fino
+PWN:cat.n.01		pişîk	pəʃik
+PWN:catch.v.04		girtin	ɡərtən
+PWN:catch.v.04		sem kirin	sɛm kərən
+PWN:cause.n.01		asas	asas
+PWN:cave.n.01		şikeft	ʃəkɛft
+PWN:cavil.v.01		pevçûn	pɛvt͡ʃun
+PWN:center.n.01		nabênê	nabene
+PWN:center.n.01		nav	nav
+PWN:chair.n.01		kursî	kʊrsi
+PWN:change.v.01		degiş kirin	dɛɡəʃ kərən
+PWN:change.v.03		dêgiş kirin	deɡəʃ kərən
+PWN:change.v.03		guherandin	ɡʊhɛrandən
+PWN:character.n.08		herf	hɛrf
+PWN:cheap.a.01		erzan	ɛrzan
+PWN:cheek.n.01		dêm	dem
+PWN:cheek.n.01		hinarik	hənarək
+PWN:cherished.s.01		giranbiha	ɡəranbəha
+PWN:cherished.s.01		hêja	heʒa
+PWN:chicken.n.02		mirîşk	məriʃk
+PWN:child.n.01		zarok	zarok
+PWN:chin.n.01		zenî	zɛni
+PWN:choose.v.01		ray dan	raj dan
+PWN:chop.v.01		kolandin	kolandən
+PWN:church.n.02		gilyas	ɡəljas
+PWN:circle.n.03		çemil	t͡ʃɛməl
+PWN:citizenry.n.01		xelk	χɛlk
+PWN:claw.n.01		napîk	napik
+PWN:clay.n.01		kelpîç	kɛlpit͡ʃ
+PWN:clean.a.01		pakij	pakəʒ
+PWN:clean.v.01		paqijkirin	paqəʒkərən
+PWN:climb.v.01		hilperikîn	həlpɛrəkin
+PWN:close.v.01		girtin	ɡərtən
+PWN:cloud.n.02		ewr	ɛwr
+PWN:coal.n.01		komir	komər
+PWN:cock.n.04		dîk	dik
+PWN:cold.a.01		jemîrî	ʒɛmiri
+PWN:cold.a.01		sar	sar
+PWN:coldness.n.03		serma	sɛrma
+PWN:collar.n.01		stûvang	stuvanɡ
+PWN:colorful.a.01		rengîn	rɛnɡin
+PWN:comb.n.01		şeh	ʃɛh
+PWN:comb.v.01		şeh kirin	ʃɛh kərən
+PWN:commend.v.01		pesinandin	pɛsənandən
+PWN:companion.n.01		heval	hɛval
+PWN:company.n.03		komal	komal
+PWN:complete.v.01		xelas kirin	χɛlas kərən
+PWN:connect.v.01		anîn pê	anin pe
+PWN:conserve.v.02		lê xwedî derketin	le χwɛdi dɛrkɛtən
+PWN:conserve.v.02		rê li ber girtin	re lə bɛr ɡərtən
+PWN:construct.v.01		lêkirin	lekərən
+PWN:conversation.n.01		guftûgo	ɡʊftuɡo
+PWN:converse.v.01		hev biştaxilin	hɛv bəʃtaχələn
+PWN:convey.v.01		vegotin	vɛɡotən
+PWN:cook.v.02		çe kirin	t͡ʃɛ kərən
+PWN:corner.n.03		qunç	qʊnt͡ʃ
+PWN:corpulent.s.01		qelew	qɛlɛw
+PWN:correctly.r.01		rast	rast
+PWN:correctly.r.01		saxlem	saχlɛm
+PWN:cough.v.01		kuxin	kʊχən
+PWN:count.n.01		çend	t͡ʃɛnd
+PWN:count.v.01		hejmardin	hɛʒmardən
+PWN:country.n.02		welat	wɛlat
+PWN:cover.v.01		sergirtin	sɛrɡərtən
+PWN:cow.n.01		çêlek	t͡ʃelɛk
+PWN:cradle.n.01		derguş	dɛrɡʊʃ
+PWN:crane.n.05		quling	qʊlənɡ
+PWN:crawl.v.01		xuşandin	χʊʃandən
+PWN:crisscross.n.01		xaç	χat͡ʃ
+PWN:crow.n.01		qijik	qəʒək
+PWN:cry.n.01		hawar	hawar
+PWN:cry.v.02		girîn	ɡərin
+PWN:cuckoo.n.02		pepûk	pɛpuk
+PWN:cup.n.01		kada	kada
+PWN:current.n.02		şewl	ʃɛwl
+PWN:cut.v.01		jêkirin	ʒekərən
+PWN:damage.n.01		xisar	χəsar
+PWN:damage.v.01		xerab kirin	χɛrab kərən
+PWN:damp.s.01		şil	ʃəl
+PWN:dance.v.02		reqisîn	rɛqəsin
+PWN:dark.a.01		tarî	tari
+PWN:daughter.n.01		keç	kɛt͡ʃ
+PWN:day.n.01		roj	roʒ
+PWN:deaf.a.01		kerr	kɛrr
+PWN:death.n.01		mirin	mərən
+PWN:deceive.v.01		lê zexeli kirin	le zɛχɛlə kərən
+PWN:deceive.v.01		xapandin	χapandən
+PWN:december.n.01		kanûn	kanun
+PWN:decompose.v.03		xerabûn	χɛrabun
+PWN:decorate.v.01		xemilandin	χɛməlandən
+PWN:decrease.v.01		kêm bûn	kem bun
+PWN:defend.v.03		paraztin	paraztən
+PWN:deft.s.01		ziring	zərənɡ
+PWN:deft.s.01		zîrek	zirɛk
+PWN:deity.n.01		xwedê	χwɛde
+PWN:descend.v.01		noq bûn	noq bun
+PWN:desire.n.01		şewq	ʃɛwq
+PWN:desire.v.01		xwestîn	χwɛstin
+PWN:destroy.v.02		hilşandin	həlʃandən
+PWN:detect.v.01		bala xwe dan	bala χwɛ dan
+PWN:detect.v.01		çac lê ketin	t͡ʃad͡ʒ le kɛtən
+PWN:die.v.01		mirin	mərən
+PWN:different.a.01		çîhê	t͡ʃihe
+PWN:dig.v.01		kolandin	kolandən
+PWN:digest.v.03		bihêzkirin	bəhezkərən
+PWN:dirt.n.02		gemar	ɡɛmar
+PWN:dirty.a.01		lewitî	lɛwəti
+PWN:disappear.v.01		wendabûn	wɛndabun
+PWN:discontinue.v.01		xelas kirin	χɛlas kərən
+PWN:disease.n.01		nexweşî	nɛχwɛʃi
+PWN:dish.n.01		ferax	fɛraχ
+PWN:dissolve.v.09		helandin	hɛlandən
+PWN:distance.n.01		dûrahî	durahi
+PWN:distance.n.03		dûrahî	durahi
+PWN:dive.v.03		noqîn	noqin
+PWN:dive.v.03		qutxuyardin	qʊtχʊjardən
+PWN:divide.v.01		parvekirin	parvɛkərən
+PWN:doctor.n.01		doktor	doktor
+PWN:dog.n.01		seh	sɛh
+PWN:doll.n.01		bûk	buk
+PWN:down.r.01		berjêr	bɛrʒer
+PWN:drag.v.01		kişandin	kəʃandən
+PWN:dream.n.01		xewn	χɛwn
+PWN:dress.v.01		xwe kirin	χwɛ kərən
+PWN:drink.v.01		vexwarin	vɛχwarən
+PWN:drive.v.01		ajotin	aʒotən
+PWN:drive.v.15		bêherandin	behɛrandən
+PWN:drop.n.01		dilop	dəlop
+PWN:drop.v.01		xistin	χəstən
+PWN:drop.v.01		xistin bixe	χəstən bəχɛ
+PWN:drove.n.02		lufik	lʊfək
+PWN:dry.a.01		zuwa	zʊwa
+PWN:dry.v.01		zuwabûn	zʊwabun
+PWN:duck.n.01		werdek	wɛrdɛk
+PWN:dust.n.01		toz	toz
+PWN:dye.v.01		boyax kirin	bojaχ kərən
+PWN:eagle.n.01		eylo	ɛjlo
+PWN:ear.n.01		guh	ɡʊh
+PWN:earlier.r.01		pîşî	piʃi
+PWN:east.n.01		rojhilat	roʒhəlat
+PWN:eat.v.01		xwarin	χwarən
+PWN:edge.n.06		kevî	kɛvi
+PWN:egg.n.02		hêk	hek
+PWN:eight.s.01		heşt	hɛʃt
+PWN:eighty.s.01		heştê	hɛʃte
+PWN:elapse.v.01		derbas bûn	dɛrbas bun
+PWN:elbow.n.01		enîşk	ɛniʃk
+PWN:eleven.s.01		yazdeh	jazdɛh
+PWN:elk.n.01		pazkovî	pazkovi
+PWN:emerge.v.01		peyda bûn	pɛjda bun
+PWN:empty.a.01		vala	vala
+PWN:end.n.03		girtin	ɡərtən
+PWN:end.n.09		talî	tali
+PWN:end.v.01		xalas bû	χalas bu
+PWN:enter.v.01		ketin hundir	kɛtən hʊndər
+PWN:entirely.r.02		bes	bɛs
+PWN:entirely.r.02		tenê	tɛne
+PWN:erstwhile.s.01		kevnar	kɛvnar
+PWN:erstwhile.s.01		peşidar	pɛʃədar
+PWN:escape.v.01		revîn	rɛvin
+PWN:evening.n.01		êvar	evar
+PWN:evil.a.01		aciz	ad͡ʒəz
+PWN:evil.a.01		xerab	χɛrab
+PWN:exclaim.v.01		qîrîn	qirin
+PWN:exit.v.01		çûn	t͡ʃun
+PWN:expensive.a.01		biha	bəha
+PWN:extraneous.s.03		xerîb	χɛrib
+PWN:eye.n.01		çav	t͡ʃav
+PWN:fabric.n.01		paç	pat͡ʃ
+PWN:face.n.01		rû	ru
+PWN:faineant.s.01		têmbêl	tembel
+PWN:fairytale.n.01		çirok	t͡ʃərok
+PWN:fall.n.01		payîz	pajiz
+PWN:fall.v.01		ketin	kɛtən
+PWN:fall_asleep.v.01		razan	razan
+PWN:familiar.a.01		naskirî	naskəri
+PWN:family.n.02		malbat	malbat
+PWN:far.r.02		dûr	dur
+PWN:fat.n.01		rûn	run
+PWN:father.n.01		bav	bav
+PWN:fault.n.06		suç	sʊt͡ʃ
+PWN:fear.v.01		tirsîn	tərsin
+PWN:feather.n.01		pîrtîk	pirtik
+PWN:february.n.01		sibat	səbat
+PWN:feed.v.01		xwarine dan lê	χwarənɛ dan le
+PWN:feel.v.03		hîs kirin	his kərən
+PWN:female_child.n.01		keç	kɛt͡ʃ
+PWN:female_child.n.01		keçik	kɛt͡ʃək
+PWN:fence.n.01		hejik	hɛʒək
+PWN:fever.n.01		ta	ta
+PWN:fifty.s.01		pençi	pɛnt͡ʃə
+PWN:fill.v.01		dagirtin	daɡərtən
+PWN:find.v.03		peyda kirin	pɛjda kərən
+PWN:fine-looking.s.01		xweşik	χwɛʃək
+PWN:fine.a.05		tenik	tɛnək
+PWN:finger.n.01		tilî	təli
+PWN:fingernail.n.01		neynuk	nɛjnʊk
+PWN:fir.n.02		merx	mɛrχ
+PWN:fire.n.03		agir	aɡər
+PWN:firm.s.02		saxlem	saχlɛm
+PWN:first.a.01		yekemîn	jɛkɛmin
+PWN:first.r.02		bere	bɛrɛ
+PWN:fish.n.01		masî	masi
+PWN:fish.v.02		masî girtin	masi ɡərtən
+PWN:five.s.01		penç	pɛnt͡ʃ
+PWN:fix.v.12		amade kirin	amadɛ kərən
+PWN:flash.v.01		çikisîn	t͡ʃəkəsin
+PWN:flat.s.01		pahn	pahn
+PWN:flee.v.01		bazdan	bazdan
+PWN:flex.v.05		tewîn	tɛwin
+PWN:flex.v.05		xwar kirin	χwar kərən
+PWN:flip.v.06		avêtin	avetən
+PWN:floor.n.01		binpê	bənpe
+PWN:flower.n.02		kulînk	kʊlink
+PWN:fly.n.01		mêş	meʃ
+PWN:fly.v.01		firîn	fərin
+PWN:foam.n.01		kef	kɛf
+PWN:foe.n.02		dijmin	dəʒmən
+PWN:fog.n.01		mij	məʒ
+PWN:food.n.02		xwarin	χwarən
+PWN:foot.n.01		ling	lənɡ
+PWN:footprint.n.01		rêç	ret͡ʃ
+PWN:foreman.n.01		bêg	beɡ
+PWN:forest.n.01		daristan	darəstan
+PWN:forest.n.01		çiya	t͡ʃəja
+PWN:forget.v.02		ji bir kirin	ʒə bər kərən
+PWN:fork.n.01		çetel	t͡ʃɛtɛl
+PWN:form.n.03		desen	dɛsɛn
+PWN:forty.s.01		çil	t͡ʃəl
+PWN:four.s.01		çar	t͡ʃar
+PWN:fox.n.01		rovî	rovi
+PWN:freeze.v.02		qefilandin	qɛfəlandən
+PWN:frequently.r.01		gelek çaran	ɡɛlɛk t͡ʃaran
+PWN:fresh.a.01		ter	tɛr
+PWN:friday.n.01		în	in
+PWN:friend.n.01		heval	hɛval
+PWN:frost.n.01		xûsik	χusək
+PWN:frost.n.01		şext	ʃɛχt
+PWN:fry.v.02		qelandin	qɛlandən
+PWN:fry.v.02		sor kirin	sor kərən
+PWN:full.a.01		tijî	təʒi
+PWN:fume.v.02		kişandin	kəʃandən
+PWN:fur.n.03		heyar	hɛjar
+PWN:game.n.01		lîstik	listək
+PWN:gate.n.01		derî	dɛri
+PWN:gateway.n.01		derge	dɛrɡɛ
+PWN:gather.v.01		komkirin	komkərən
+PWN:gay.s.02		kêfxweş	kefχwɛʃ
+PWN:gentle.s.01		nazenîn	nazɛnin
+PWN:get.v.01		standin	standən
+PWN:get_down.v.07		li dest pêkirin	lə dɛst pekərən
+PWN:get_up.v.02		rabûn	rabun
+PWN:gift.n.01		diyarî	dəjari
+PWN:give.v.03		dan	dan
+PWN:give.v.03		dayin	dajən
+PWN:give.v.08		diyarî kirin	dəjari kərən
+PWN:glass.n.01		qedeh	qɛdɛh
+PWN:glue.v.01		zeliqîn	zɛləqin
+PWN:glue.v.01		şirêz kirin	ʃərez kərən
+PWN:gold.n.03		zêr	zer
+PWN:good.a.01		baş	baʃ
+PWN:goose.n.01		qaz	qaz
+PWN:govern.v.03		hukim kirin	hʊkəm kərən
+PWN:govern.v.03		zebt kirin	zɛbt kərən
+PWN:grain.n.08		dexl	dɛχl
+PWN:grandfather.n.01		bapîr	bapir
+PWN:grandma.n.01		pîrik	pirək
+PWN:grasp.v.01		dest avêtin	dɛst avetən
+PWN:grass.n.01		giha	ɡəha
+PWN:grassland.n.01		sûrik	surək
+PWN:grave.n.02		mezel	mɛzɛl
+PWN:green.s.01		şîn	ʃin
+PWN:grey.s.01		gewr	ɡɛwr
+PWN:grief.n.02		derd	dɛrd
+PWN:groan.v.01		nalîn	nalin
+PWN:grok.v.01		fêmkirin	femkərən
+PWN:grow.v.03		mezin bûn	mɛzən bun
+PWN:guest.n.01		mêvan	mevan
+PWN:gun.n.01		tifing	təfənɡ
+PWN:hair.n.01		por	por
+PWN:hand.n.01		dest	dɛst
+PWN:handle.n.01		destî	dɛsti
+PWN:hang.v.01		darve kirin	darvɛ kərən
+PWN:hang.v.02		aliqandin	aləqandən
+PWN:happen.v.01		hatin holê	hatən hole
+PWN:happen.v.01		hatin serê kesî	hatən sɛre kɛsi
+PWN:happiness.n.01		bext	bɛχt
+PWN:hard.a.03		hişk	həʃk
+PWN:hardly.r.02		himangi	həmanɡə
+PWN:hardly.r.02		tema	tɛma
+PWN:hardworking.s.01		jêhatî	ʒehati
+PWN:hare.n.01		kîroşk	kiroʃk
+PWN:hark_back.v.01		vegerandin	vɛɡɛrandən
+PWN:hay.n.01		sap	sap
+PWN:head.n.01		serî	sɛri
+PWN:healthy.a.01		nojdarî	noʒdari
+PWN:hear.v.01		guhdar jirin	ɡʊhdar ʒərən
+PWN:heart.n.02		dil	dəl
+PWN:heat.n.01		germayî	ɡɛrmaji
+PWN:heavy.a.01		giran	ɡəran
+PWN:heel.n.02		pahnî	pahni
+PWN:height.n.01		bilindayî	bələndaji
+PWN:herd.n.01		hoz	hoz
+PWN:herd.v.01		hei jê man	hɛə ʒe man
+PWN:here.r.01		li vir	lə vər
+PWN:here.r.03		vir	vər
+PWN:hide.n.02		çerm	t͡ʃɛrm
+PWN:hide.v.01		kemîndanîn	kɛmindanin
+PWN:hide.v.01		veşartin	vɛʃartən
+PWN:hide.v.02		hîlanin	hilanən
+PWN:hill.n.01		gir	ɡər
+PWN:hog.n.03		beraz	bɛraz
+PWN:hold.v.02		hîştin	hiʃtən
+PWN:hold.v.02		sekinîn	sɛkənin
+PWN:hole.n.01		qul	qʊl
+PWN:home.n.01		mal	mal
+PWN:honey.n.01		hingiv	hənɡəv
+PWN:hook.n.05		çenqel	t͡ʃɛnqɛl
+PWN:horn.n.02		strô	strô
+PWN:horse.n.01		hesp	hɛsp
+PWN:hot.a.01		kelandî	kɛlandi
+PWN:house.n.01		mal	mal
+PWN:house.n.01		xanî	χani
+PWN:howl.v.02		ûrîn	urin
+PWN:hundred.s.01		sêd	sed
+PWN:hunger.n.01		birçîtî	bərt͡ʃiti
+PWN:hungry.a.01		birçî	bərt͡ʃi
+PWN:hunt.v.01		nêçîr kirin	net͡ʃir kərən
+PWN:hurt.v.06		êşandin	eʃandən
+PWN:husband.n.01		mêr	mer
+PWN:ice.n.01		qeşa	qɛʃa
+PWN:idea.n.01		fikir	fəkər
+PWN:idol.n.01		figûr	fəɡur
+PWN:ignite.v.01		pêxistin	peχəstən
+PWN:ill.a.01		nexweş	nɛχwɛʃ
+PWN:immediately.r.01		jar kê	ʒar ke
+PWN:immediately.r.01		yekser	jɛksɛr
+PWN:impede.v.01		bara wi	bara wə
+PWN:increase.v.01		qelew bûn	qɛlɛw bun
+PWN:indicate.v.02		şanîdan	ʃanidan
+PWN:insert.v.01		têxistin	teχəstən
+PWN:interrupt.v.02		aciz kirin	ad͡ʒəz kərən
+PWN:invite.v.02		dawet kirin	dawɛt kərən
+PWN:iron.n.01		hesing	hɛsənɡ
+PWN:island.n.01		girav	ɡərav
+PWN:item.n.01		tişt	təʃt
+PWN:january.n.01		çile	t͡ʃəlɛ
+PWN:jaw.n.01		arguşk	arɡʊʃk
+PWN:join.v.02		bi yek kirin	bə jɛk kərən
+PWN:joy.n.01		kêfxweşî	kefχwɛʃi
+PWN:july.n.01		tîmeh	timɛh
+PWN:jump.v.01		hilpekîn	həlpɛkin
+PWN:june.n.01		hezîran	hɛziran
+PWN:keep.v.03		hilandin	həlandən
+PWN:kettle.n.01		şîril	ʃirəl
+PWN:kick.v.03		têlekirin	telɛkərən
+PWN:kill.v.10		kûştin	kuʃtən
+PWN:kind.n.01		çeh	t͡ʃɛh
+PWN:king.n.01		qral	qral
+PWN:king.n.01		şah	ʃah
+PWN:knee.n.01		kabok	kabok
+PWN:knife.n.01		kêr	ker
+PWN:knit.v.01		hûnan	hunan
+PWN:knock.v.02		kutandin	kʊtandən
+PWN:knot.n.02		girêk	ɡərek
+PWN:know.v.01		zanîn	zanin
+PWN:ladder.n.01		pêling	pelənɡ
+PWN:lair.n.01		avahî	avahi
+PWN:lake.n.01		gol	ɡol
+PWN:land.n.02		ax	aχ
+PWN:land.n.04		herd	hɛrd
+PWN:language.n.01		ziman	zəman
+PWN:large.a.01		mezin	mɛzən
+PWN:last.a.02		paşîn	paʃin
+PWN:laugh.v.01		kenîn	kɛnin
+PWN:laughter.n.02		pîrqînî	pirqini
+PWN:lay.v.02		danîn	danin
+PWN:lay.v.02		razandin	razandən
+PWN:lead.v.01		raber kirin	rabɛr kərən
+PWN:learn.v.01		fêrbun	ferbʊn
+PWN:learn.v.01		halmandin	halmandən
+PWN:leash.n.01		şirît	ʃərit
+PWN:leather.n.01		çerm	t͡ʃɛrm
+PWN:left.r.01		çepê	t͡ʃɛpe
+PWN:leg.n.02		çip	t͡ʃəp
+PWN:length.n.01		dirêjahî	dəreʒahi
+PWN:let.v.01		berdan	bɛrdan
+PWN:let.v.01		hiştin	həʃtən
+PWN:letter.n.01		name	namɛ
+PWN:lick.v.02		alastin	alastən
+PWN:lid.n.02		devik	dɛvək
+PWN:lie.n.01		derew	dɛrɛw
+PWN:lie.v.02		paldan	paldan
+PWN:lift.v.03		hildan	həldan
+PWN:like.v.03		dil kirin	dəl kərən
+PWN:line.n.04		xezik	χɛzək
+PWN:lip.n.01		lêv	lev
+PWN:listen.v.01		guhdarî kirin	ɡʊhdari kərən
+PWN:listen.v.02		bihîstin	bəhistən
+PWN:little.r.01		hebkî	hɛbki
+PWN:liver.n.01		kezeb	kɛzɛb
+PWN:load.n.01		bar	bar
+PWN:lock.n.01		qonax	qonaχ
+PWN:long.a.02		dirêj	dəreʒ
+PWN:long.r.01		dirêj	dəreʒ
+PWN:look.v.01		sêr kirin	ser kərən
+PWN:look.v.02		xoyer kir	χojɛr kər
+PWN:lose.v.05		wendakirin	wɛndakərən
+PWN:louse.n.01		spi	spə
+PWN:love.v.03		hez kirin	hɛz kərən
+PWN:low.r.01		jêrî	ʒeri
+PWN:luminosity.n.01		ronahî	ronahi
+PWN:mainland.n.01		bejahî	bɛʒahi
+PWN:make_noise.v.01		guşîn	ɡʊʃin
+PWN:male_child.n.01		kur	kʊr
+PWN:man.n.01		mêr	mer
+PWN:march.n.01		adar	adar
+PWN:may.n.01		gûlan	ɡulan
+PWN:meal.n.01		xwarin	χwarən
+PWN:meaning.n.01		aqil	aqəl
+PWN:measure.v.01		pê kanîn	pe kanin
+PWN:meat.n.01		goşt	ɡoʃt
+PWN:medicine.n.02		derman	dɛrman
+PWN:meet.v.07		li hev çivîn	lə hɛv t͡ʃəvin
+PWN:meet.v.09		rast hatin	rast hatən
+PWN:melt.v.01		helandin	hɛlandən
+PWN:memory.n.03		aqil	aqəl
+PWN:message.n.01		nûçe	nut͡ʃɛ
+PWN:milk.n.01		şîr	ʃir
+PWN:milk.v.01		dotin	dotən
+PWN:mind.n.01		fêm	fem
+PWN:mirror.n.01		eynik	ɛjnək
+PWN:misfortune.n.02		bêbextî	bebɛχti
+PWN:mistake.n.01		şaşî	ʃaʃi
+PWN:monday.n.01		duşemb	dʊʃɛmb
+PWN:money.n.01		pere	pɛrɛ
+PWN:moon.n.01		heyv	hɛjv
+PWN:moor.n.02		mafêl	mafel
+PWN:morning.n.01		sibeh	səbɛh
+PWN:mosquito.n.01		mêş	meʃ
+PWN:mother.n.01		dayik	dajək
+PWN:mother.n.01		dê	de
+PWN:mountain.n.01		kaş	kaʃ
+PWN:mouse.n.01		mişk	məʃk
+PWN:mouth.n.01		dev	dɛv
+PWN:move.v.03		leqîn	lɛqin
+PWN:mush.n.02		hewdêl	hɛwdel
+PWN:mushroom.n.02		bîrov	birov
+PWN:mustache.n.01		simbêl	səmbel
+PWN:nail.n.01		bizmar	bəzmar
+PWN:nail.n.02		bizmar	bəzmar
+PWN:name.n.01		nav	nav
+PWN:name.n.01		paşnav	paʃnav
+PWN:name.v.01		bi nav kirin	bə nav kərən
+PWN:nape.n.01		stû	stu
+PWN:narrative.n.01		vegotin	vɛɡotən
+PWN:narrative.n.01		çirok	t͡ʃərok
+PWN:narrow.a.01		tenik	tɛnək
+PWN:natural_elevation.n.01		sere gir	sɛrɛ ɡər
+PWN:navel.n.01		navik	navək
+PWN:near.r.01		nêzîk	nezik
+PWN:neck.n.01		qirik	qərək
+PWN:neck.n.01		stû	stu
+PWN:needle.n.03		derzî	dɛrzi
+PWN:nest.n.01		hêlîn	helin
+PWN:net_income.n.01		tor	tor
+PWN:never.r.01		tu çar	tʊ t͡ʃar
+PWN:new.a.01		nû	nu
+PWN:news.n.01		hewal	hɛwal
+PWN:newspaper.n.01		rojname	roʒnamɛ
+PWN:night.n.01		şev	ʃɛv
+PWN:nine.s.01		neh	nɛh
+PWN:ninety.s.01		nod	nod
+PWN:noise.n.01		deng	dɛnɡ
+PWN:noise.n.01		hês	hes
+PWN:noise.n.01		xarbalix	χarbaləχ
+PWN:noon.n.01		nîro	niro
+PWN:noose.n.02		dahf	dahf
+PWN:north.n.03		bakur	bakʊr
+PWN:nose.n.01		bêvil	bevəl
+PWN:not.r.01		ne	nɛ
+PWN:not.r.01		nîn	nin
+PWN:not.r.01		tine	tənɛ
+PWN:november.n.01		mijdar	məʒdar
+PWN:now.r.04		nuha	nʊha
+PWN:oar.n.01		bêrik	berək
+PWN:october.n.01		çotmeh	t͡ʃotmɛh
+PWN:oil.n.01		rûn	run
+PWN:old.a.01		kevn	kɛvn
+PWN:old.a.01		pîr	pir
+PWN:old.a.01		pîr	pir
+PWN:olfactory_property.n.01		bêhn	behn
+PWN:once.r.01		çarik	t͡ʃarək
+PWN:once.r.03		jar ke	ʒar kɛ
+PWN:one-half.n.01		nîvî	nivi
+PWN:one.s.01		yek	jɛk
+PWN:onion.n.02		pîvaz	pivaz
+PWN:open.a.01		vekirî	vɛkəri
+PWN:open.v.01		vekirin	vɛkərən
+PWN:other.a.01		yê din	je dən
+PWN:owl.n.01		bûm	bum
+PWN:owl.n.01		kund	kʊnd
+PWN:own.v.01		hebûn	hɛbun
+PWN:pain.n.03		êş	eʃ
+PWN:paint.n.01		boyax	bojaχ
+PWN:paint.v.02		boyax kirin	bojaχ kərən
+PWN:paint.v.02		rengandin	rɛnɡandən
+PWN:palm.n.01		kefadest	kɛfadɛst
+PWN:parent.n.01		bavudê	bavʊde
+PWN:part.n.02		parçe	part͡ʃɛ
+PWN:part.n.03		lib	ləb
+PWN:part.n.03		parçe	part͡ʃɛ
+PWN:pasture.n.01		beyar	bɛjar
+PWN:path.n.02		xaçirek	χat͡ʃərɛk
+PWN:paw.n.01		dinik	dənək
+PWN:paw.n.01		dirnax	dərnaχ
+PWN:pay.v.01		dayin	dajən
+PWN:pay.v.01		pere dan	pɛrɛ dan
+PWN:peak.n.04		sere gir	sɛrɛ ɡər
+PWN:peel.n.02		qaşik	qaʃək
+PWN:people.n.01		xelk	χɛlk
+PWN:perca.n.01		okûn	okun
+PWN:periphery.n.01		kevî	kɛvi
+PWN:person.n.01		mirov	mərov
+PWN:perturb.v.01		li tela yeki ketin	lə tɛla jɛkə kɛtən
+PWN:pick.v.02		çinîn	t͡ʃənin
+PWN:pick_up.v.02		hildan	həldan
+PWN:picture.n.01		dimen	dəmɛn
+PWN:pike.n.02		mesîyê lûf	mɛsije luf
+PWN:pile.n.01		lod	lod
+PWN:pillow.n.01		balgî	balɡi
+PWN:pine.n.01		dara bî	dara bi
+PWN:pit.n.01		çahl	t͡ʃahl
+PWN:play.v.05		listin	ləstən
+PWN:pointed.a.01		pîj	piʒ
+PWN:pole.n.01		sing	sənɡ
+PWN:poor.a.02		desteng	dɛstɛnɡ
+PWN:poor.a.02		feqîr	fɛqir
+PWN:populate.v.01		rûniştin	runəʃtən
+PWN:position.n.01		dever	dɛvɛr
+PWN:pot.n.01		beroş	bɛroʃ
+PWN:pouch.n.01		kîsik	kisək
+PWN:pour.v.01		rijandin	rəʒandən
+PWN:power.n.01		destihilat	dɛstəhəlat
+PWN:power.n.01		qewet	qɛwɛt
+PWN:powerful.a.01		gir	ɡər
+PWN:powerful.a.01		xurt	χʊrt
+PWN:press.v.01		pêl kirin	pel kərən
+PWN:price.n.02		buha	bʊha
+PWN:produce.v.02		kirin	kərən
+PWN:produce.v.02		peyda kirin	pɛjda kərən
+PWN:produce.v.02		çê kirin	t͡ʃe kərən
+PWN:produce.v.02		çêkirin	t͡ʃekərən
+PWN:promise.v.01		soz dan	soz dan
+PWN:protect.v.01		hemet kirin	hɛmɛt kərən
+PWN:pull.v.01		kişandin	kəʃandən
+PWN:push.v.01		damdan	damdan
+PWN:put.v.01		danîn	danin
+PWN:quantity.n.03		qas	qas
+PWN:rain.n.01		baran	baran
+PWN:rain.v.01		bahran tê	bahran te
+PWN:rainbow.n.01		heftreng	hɛftrɛnɡ
+PWN:raise.v.02		hildan	həldan
+PWN:raw.a.03		xav	χav
+PWN:read.v.01		xwendin	χwɛndən
+PWN:rear.v.02		mesinkirin	mɛsənkərən
+PWN:recognize.v.04		pêhesîn	pehɛsin
+PWN:recuperate.v.04		baş bûn	baʃ bun
+PWN:red.s.01		sor	sor
+PWN:remember.v.01		bir bûn	bər bun
+PWN:repair.v.01		veherînerîn	vɛhɛrinɛrin
+PWN:rescue.v.01		rihakirin	rəhakərən
+PWN:rest.v.05		baş bûn	baʃ bun
+PWN:result.v.01		qewîmîn	qɛwimin
+PWN:ribbon.n.04		band	band
+PWN:rich.a.01		dewlemend	dɛwlɛmɛnd
+PWN:riddle.n.01		tiştonek	təʃtonɛk
+PWN:right.r.04		rastê	raste
+PWN:ring.n.08		xelek	χɛlɛk
+PWN:ring.v.01		ringerin	rənɡɛrən
+PWN:ring.v.01		sîl dan	sil dan
+PWN:ring.v.03		lê de	le dɛ
+PWN:rinse.v.01		şuştin	ʃʊʃtən
+PWN:ripe.a.01		gihaştî	ɡəhaʃti
+PWN:ripen.v.02		kemilîn	kɛməlin
+PWN:rise.v.16		hilatin	həlatən
+PWN:river.n.01		rûbar	rubar
+PWN:river.n.01		çem	t͡ʃɛm
+PWN:road.n.01		rê	re
+PWN:road.n.01		rê	re
+PWN:roar.v.01		guşîn	ɡʊʃin
+PWN:rock.n.01		kevir	kɛvər
+PWN:rock.v.01		hejandin	hɛʒandən
+PWN:roof.n.01		sere xanî	sɛrɛ χani
+PWN:root.n.01		reh	rɛh
+PWN:round.a.01		gilover	ɡəlovɛr
+PWN:row.v.01		qaîq ajotin	qaiq aʒotən
+PWN:rub.v.01		firikandin	fərəkandən
+PWN:run.v.01		baz dan	baz dan
+PWN:run.v.06		herikîn	hɛrəkin
+PWN:run.v.06		xwe girtin	χwɛ ɡərtən
+PWN:rush.v.01		fîzîn	fizin
+PWN:rush.v.04		lezandin	lɛzandən
+PWN:rush.v.04		zûkirin	zukərən
+PWN:rustle.v.01		guşîn	ɡʊʃin
+PWN:sack.n.01		tûr	tur
+PWN:sad.a.01		xemgîn	χɛmɡin
+PWN:salt.n.02		xwe	χwɛ
+PWN:sand.n.01		qûm	qum
+PWN:saturday.n.01		şemî	ʃɛmi
+PWN:scarf.n.01		şar	ʃar
+PWN:scrape.v.01		xurandin	χʊrandən
+PWN:sea.n.01		behr	bɛhr
+PWN:search.v.01		lêgerîn	leɡɛrin
+PWN:seashore.n.01		berav	bɛrav
+PWN:seat.v.01		rûniştin	runəʃtən
+PWN:second.s.01		duda	dʊda
+PWN:see.v.01		dîtin	ditən
+PWN:seed.n.02		tov	tov
+PWN:sell.v.01		firotin	fərotən
+PWN:send.v.01		şandin	ʃandən
+PWN:separate.v.02		hew berdan	hɛw bɛrdan
+PWN:september.n.01		îlon	ilon
+PWN:set.v.10		çun ava	t͡ʃʊn ava
+PWN:seven.s.01		heft	hɛft
+PWN:seventy.s.01		heftê	hɛfte
+PWN:severe.s.01		nebaş	nɛbaʃ
+PWN:sew.v.01		kêl kirin	kel kərən
+PWN:shadow.n.01		sî	si
+PWN:shake.v.01		daweşîn	dawɛʃin
+PWN:shake.v.08		hejandin	hɛʒandən
+PWN:sharp.a.09		tûj	tuʒ
+PWN:sharpen.v.01		çarkirin	t͡ʃarkərən
+PWN:shatter.v.03		perçe kirin	pɛrt͡ʃɛ kərən
+PWN:shatter.v.03		şikênandin	ʃəkenandən
+PWN:sheep.n.01		mîh	mih
+PWN:shelf.n.01		rêbaz	rebaz
+PWN:shine.v.02		şewk de	ʃɛwk dɛ
+PWN:shirt.n.01		miltan	məltan
+PWN:shirt.n.01		qutik	qʊtək
+PWN:shoe.n.01		şêkal	ʃekal
+PWN:shoot.v.01		agir kirin	aɡər kərən
+PWN:shop.n.01		dikan	dəkan
+PWN:shore.n.01		kevî	kɛvi
+PWN:short.a.02		kin	kən
+PWN:shoulder.n.01		mil	məl
+PWN:shovel.n.01		bêr	ber
+PWN:shudder.v.02		hejîn	hɛʒin
+PWN:shut.a.01		asê	ase
+PWN:side.n.01		rûpel	rupɛl
+PWN:silence.n.01		rihetî	rəhɛti
+PWN:silver.n.01		zîv	ziv
+PWN:sin.n.01		guneh	ɡʊnɛh
+PWN:sing.v.02		stran	stran
+PWN:sink.v.01		xerq bûn	χɛrq bun
+PWN:sister.n.01		xweh	χwɛh
+PWN:sit_down.v.01		runiştin	rʊnəʃtən
+PWN:sit_down.v.01		rûniştin	runəʃtən
+PWN:six.s.01		şeş	ʃɛʃ
+PWN:sixty.s.01		şêst	ʃest
+PWN:size.n.01		mezinî	mɛzəni
+PWN:ski.n.01		lakan	lakan
+PWN:sky.n.01		ezman	ɛzman
+PWN:slab.n.01		dep	dɛp
+PWN:sled.n.01		xîjik	χiʒək
+PWN:sleep.n.01		xew	χɛw
+PWN:sleep.v.01		razan	razan
+PWN:sleep.v.01		razandin	razandən
+PWN:sleeve.n.01		hûçik	hut͡ʃək
+PWN:slice.n.05		parçe	part͡ʃɛ
+PWN:slope.n.01		kaş	kaʃ
+PWN:small.a.01		çûçik	t͡ʃut͡ʃək
+PWN:smell.v.01		bihn kirin	bəhn kərən
+PWN:smoke.n.02		dû	du
+PWN:smooth.a.01		dûz	duz
+PWN:smooth.a.01		şayîk	ʃajik
+PWN:snake.n.01		mar	mar
+PWN:snap.v.03		jêkirin	ʒekərən
+PWN:snog.v.01		maçkirin	mat͡ʃkərən
+PWN:snow.n.01		berf	bɛrf
+PWN:soft.a.01		nerm	nɛrm
+PWN:sometimes.r.01		çarna	t͡ʃarna
+PWN:son.n.01		kur	kʊr
+PWN:song.n.01		sitran	sətran
+PWN:soon.r.01		nêzîk	nezik
+PWN:sore.n.01		kul	kʊl
+PWN:sound.v.02		deng pe ketin	dɛnɡ pɛ kɛtən
+PWN:soup.n.01		şorbe	ʃorbɛ
+PWN:sour.a.02		tirş	tərʃ
+PWN:south.n.03		başur	baʃʊr
+PWN:space.n.02		çih	t͡ʃəh
+PWN:spade.n.02		mer	mɛr
+PWN:spark.n.06		çirûşk	t͡ʃəruʃk
+PWN:speak.v.03		peyivîn	pɛjəvin
+PWN:spider.n.01		pîrê	pire
+PWN:spirit.n.04		aqil	aqəl
+PWN:spoil.v.02		xerabûn	χɛrabun
+PWN:spoon.n.01		kevçî	kɛvt͡ʃi
+PWN:spring.n.01		bihar	bəhar
+PWN:spring.n.03		kanî	kani
+PWN:squirrel.n.01		pilûr	pəlur
+PWN:stand.v.01		sekinîn	sɛkənin
+PWN:star.n.03		stêrk	sterk
+PWN:state.n.04		dewlet	dɛwlɛt
+PWN:stay.v.04		sekinîn	sɛkənin
+PWN:steal.v.01		dizî birin	dəzi bərən
+PWN:steal.v.01		dizîn	dəzin
+PWN:step.v.01		meşkirin	mɛʃkərən
+PWN:stick.n.01		çam	t͡ʃam
+PWN:still.r.01		dîsa	disa
+PWN:still.r.01		hêj	heʒ
+PWN:sting.v.02		têrekirin	terɛkərən
+PWN:stingy.a.01		destgirtî	dɛstɡərti
+PWN:stir.v.01		têvdan	tevdan
+PWN:stomach.n.01		navêş	naveʃ
+PWN:stop.v.01		rawestîn	rawɛstin
+PWN:stove.n.01		sobe	sobɛ
+PWN:strap.n.01		qayiş	qajəʃ
+PWN:strength.n.01		xurtî	χʊrti
+PWN:strike.v.01		li dan	lə dan
+PWN:strike.v.01		lêdan	ledan
+PWN:strike.v.01		lêxistin	leχəstən
+PWN:string.n.01		doxin	doχən
+PWN:stroke.n.10		xezik	χɛzək
+PWN:strong.a.01		xurt	χʊrt
+PWN:stupid.a.01		gêj	ɡeʒ
+PWN:subsequently.r.01		piştra	pəʃtra
+PWN:succeed.v.01		çe bûn	t͡ʃɛ bun
+PWN:suddenly.r.01		ji nişkave	ʒə nəʃkavɛ
+PWN:summer.n.01		havîn	havin
+PWN:sun.n.01		roj	roʒ
+PWN:sunday.n.01		yekşemb	jɛkʃɛmb
+PWN:support.n.07		destek	dɛstɛk
+PWN:swallow.v.01		daqulbandin	daqʊlbandən
+PWN:swamp.n.01		hezek	hɛzɛk
+PWN:swan.n.01		qû	qu
+PWN:sweep.v.06		maliştin	maləʃtən
+PWN:sweet.a.01		şîrîn	ʃirin
+PWN:swim.v.01		avjenîn	avʒɛnin
+PWN:swing.v.01		libakirin	ləbakərən
+PWN:swing.v.05		têwdan	tewdan
+PWN:swing_around.v.01		vegerandin	vɛɡɛrandən
+PWN:table.n.02		mase	masɛ
+PWN:tail.n.01		dûv	duv
+PWN:take.v.04		girtin	ɡərtən
+PWN:talk.v.02		axaftin	aχaftən
+PWN:taste.n.01		tam	tam
+PWN:taste.v.01		tehm kirin	tɛhm kərən
+PWN:tasty.a.01		xweş	χwɛʃ
+PWN:tea.n.01		çay	t͡ʃaj
+PWN:teach.v.01		hîn kirin	hin kərən
+PWN:teacher.n.01		mamoste	mamostɛ
+PWN:tear.n.01		hêstir	hestər
+PWN:tear.v.01		qelişandin	qɛləʃandən
+PWN:tell.v.03		behs kirin	bɛhs kərən
+PWN:ten.s.01		deh	dɛh
+PWN:tendon.n.01		reh	rɛh
+PWN:tether.v.01		tewilandin	tɛwəlandən
+PWN:then.r.01		paşê	paʃe
+PWN:then.r.03		hîngî	hinɡi
+PWN:there.r.01		li wê derê	lə we dɛre
+PWN:there.r.03		wêda	weda
+PWN:thick.a.01		şîşman	ʃiʃman
+PWN:thick.a.03		gir	ɡər
+PWN:thigh.n.01		rahn	rahn
+PWN:thin.a.01		zirav	zərav
+PWN:thin.a.02		zirav	zərav
+PWN:thing.n.09		pirsgirêk	pərsɡərek
+PWN:thing.n.12		tişt	təʃt
+PWN:think.v.03		fikirîn	fəkərin
+PWN:third.s.01		sisêya	səseja
+PWN:thirty.s.01		sih	səh
+PWN:thorax.n.02		sîng	sinɡ
+PWN:thousand.s.01		hezar	hɛzar
+PWN:thread.n.01		ta	ta
+PWN:three.s.01		sisê	səse
+PWN:throat.n.01		qirik	qərək
+PWN:through.r.01		kura	kʊra
+PWN:thrust.v.01		lêketin	lekɛtən
+PWN:thunder.n.02		gire-gir	ɡərɛ-ɡər
+PWN:thunder.v.03		gire-gir	ɡərɛ-ɡər
+PWN:thursday.n.01		pêşemb	peʃɛmb
+PWN:thus.r.02		weha	wɛha
+PWN:tie.v.01		girêdan	ɡəredan
+PWN:time.n.05		çax	t͡ʃaχ
+PWN:tinkle.v.01		zingzing hat	zənɡzənɡ hat
+PWN:tip.n.01		derzî	dɛrzi
+PWN:tire.v.02		betilîln	bɛtəliln
+PWN:tire.v.02		qerimîn	qɛrəmin
+PWN:today.r.02		îro	iro
+PWN:toe.n.01		tilî linga	təli lənɡa
+PWN:together.r.01		bi hev re	bə hɛv rɛ
+PWN:together.r.01		tev	tɛv
+PWN:token.n.02		şanek	ʃanɛk
+PWN:tomorrow.r.01		sibeh	səbɛh
+PWN:tone.n.07		awaz	awaz
+PWN:tongue.n.01		ziman	zəman
+PWN:tooth.n.01		didan	dədan
+PWN:touch.v.01		lêketin	lekɛtən
+PWN:towel.n.01		dezmal	dɛzmal
+PWN:town.n.01		baçar	bat͡ʃar
+PWN:translate.v.01		derbas kirin	dɛrbas kərən
+PWN:translate.v.01		qulibandin	qʊləbandən
+PWN:transport.v.02		kişandin	kəʃandən
+PWN:transport.v.02		rajtin	raʒtən
+PWN:trap.n.01		dafik	dafək
+PWN:trap.v.02		pê girtin	pe ɡərtən
+PWN:trap.v.02		sêm kirin	sem kərən
+PWN:travel.v.01		leqîn	lɛqin
+PWN:travel.v.01		çûn	t͡ʃun
+PWN:tree.n.01		dar	dar
+PWN:trouser.n.01		şewel	ʃɛwɛl
+PWN:true.a.01		rast	rast
+PWN:trunk.n.01		bavik	bavək
+PWN:truth.n.01		rastî	rasti
+PWN:try.v.01		çeribandin	t͡ʃɛrəbandən
+PWN:tube.n.01		borî	bori
+PWN:tuesday.n.01		sêşem	seʃɛm
+PWN:tumble.v.01		kêtin	ketən
+PWN:turn.v.04		zivîrin	zəvirən
+PWN:twelve.s.01		diwazdeh	dəwazdɛh
+PWN:twenty.s.01		bîst	bist
+PWN:two.s.01		didu	dədʊ
+PWN:uncle.n.01		am	am
+PWN:uncle.n.01		xal	χal
+PWN:understand.v.01		fêmkirin	femkərən
+PWN:undress.v.01		jê kirin	ʒe kərən
+PWN:unfold.v.04		bax dan	baχ dan
+PWN:up.r.01		banî	bani
+PWN:urge.v.01		bezandin	bɛzandən
+PWN:vainly.r.01		deya çun	dɛja t͡ʃʊn
+PWN:vainly.r.01		îfleh bûn	iflɛh bun
+PWN:vein.n.01		reh	rɛh
+PWN:very.r.01		gelek	ɡɛlɛk
+PWN:victimize.v.03		xapandin	χapandən
+PWN:village.n.02		gund	ɡʊnd
+PWN:violence.n.01		zor	zor
+PWN:visible.a.01		diyar bûn	dəjar bun
+PWN:visit.v.07		mêvan bûn	mevan bun
+PWN:voice.n.02		pejn	pɛʒn
+PWN:wait.v.01		payîn	pajin
+PWN:wake_up.v.02		şiyarbûn	ʃəjarbun
+PWN:walk.n.01		fîtêz	fitez
+PWN:walk.v.01		meşîn	mɛʃin
+PWN:walk.v.10		gerandin	ɡɛrandən
+PWN:war.n.01		sêwaş	sewaʃ
+PWN:war.n.01		çeng	t͡ʃɛnɡ
+PWN:ware.n.01		tişt	təʃt
+PWN:warm.a.01		germ	ɡɛrm
+PWN:wash.v.02		serîşûştin	sɛriʃuʃtən
+PWN:wash.v.03		şuştin	ʃʊʃtən
+PWN:watch.v.01		hesibandin	hɛsəbandən
+PWN:water.n.06		av	av
+PWN:water.v.01		av dan	av dan
+PWN:wave.n.01		şewl	ʃɛwl
+PWN:weak.a.01		kesad	kɛsad
+PWN:wealth.n.01		serwet	sɛrwɛt
+PWN:wear.v.09		pê kirin	pe kərən
+PWN:weather.n.01		hewa	hɛwa
+PWN:wednesday.n.01		çarşemb	t͡ʃarʃɛmb
+PWN:week.n.01		heftî	hɛfti
+PWN:weight.n.01		giranî	ɡərani
+PWN:well.n.01		kani	kanə
+PWN:well.n.01		çal	t͡ʃal
+PWN:west.n.02		rojava	roʒava
+PWN:wet.a.01		şilek	ʃəlɛk
+PWN:whistle.v.03		fîkandin	fikandən
+PWN:white.a.01		sipî	səpi
+PWN:wide.a.01		fireh	fərɛh
+PWN:wife.n.01		kulfet	kʊlfɛt
+PWN:willow.n.01		dara belalûk	dara bɛlaluk
+PWN:win.v.01		biser ketin	bəsɛr kɛtən
+PWN:wind.n.01		ba	ba
+PWN:wind.v.03		pêçandin	pet͡ʃandən
+PWN:window.n.01		çam	t͡ʃam
+PWN:window.n.01		şibeke	ʃəbɛkɛ
+PWN:wing.n.01		per	pɛr
+PWN:winter.n.01		zistan	zəstan
+PWN:wipe.v.01		pakîj kirin	pakiʒ kərən
+PWN:wolf.n.01		gur	ɡʊr
+PWN:woman.n.01		jin	ʒən
+PWN:wood.n.01		dep	dɛp
+PWN:wool.n.02		herî	hɛri
+PWN:word.n.01		gotin	ɡotən
+PWN:work.n.01		xebat	χɛbat
+PWN:work.v.01		kar kirin	kar kərən
+PWN:work.v.01		şêxulin	ʃeχʊlən
+PWN:worker.n.01		hîşçî	hiʃt͡ʃi
+PWN:world.n.02		dinya	dənja
+PWN:worm.n.01		kurm	kʊrm
+PWN:write.v.02		nivîsandin	nəvisandən
+PWN:year.n.01		sal	sal
+PWN:yellow.s.01		zer	zɛr
+PWN:yesterday.r.01		do	do
+PWN:young.a.01		xort	χort

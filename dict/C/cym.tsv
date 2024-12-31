@@ -1,486 +1,1130 @@
 id	style	word	pronunciation
-Action:can.V		gallu	ɡaɬɪ
-Agriculture:herd (something).V		bugeilio	bɪɡɛ͡ɪlɪɔ
-Agriculture:irrigate.V		dyfrhau	dəvr̥a͡ɪ
-Agriculture:pick.V		casglu	kasɡlɪ
-Agriculture:shovel.N		rhaw	r̥a͡ʊ
-Animal:Anatidae.N		hwyad	hʊ͡ɪad
-Animal:Annelida.N		abwydyn	abʊ͡ɪdɪn
-Animal:Annelida.N		pryf genwair	prəv ɡɛnwa͡ɪr
-Animal:Araneae.N		cor	kɔr
-Animal:Araneae.N		pryf copyn	prəv kɔpɪn
-Animal:Aves.N		aderyn	adɛrɪn
-Animal:Canis lupus familiaris.N		ci	kɪ
-Animal:Canis lupus.N		blaidd	bla͡ɪð
-Animal:Corvus.N		brân	brɑːn
-Animal:Culicidae.N		gwybedyn	ɡʊ͡ɪbɛdɪn
-Animal:Diptera.N		cleren	klɛrɛn
-Animal:Equus ferus caballus.N		ceffyl	kɛfɪl
-Animal:Felis catus.N		cath	kaθ
-Animal:Formicidae.N		morgrugyn	mɔrɡrɪɡɪn
-Animal:Gallus gallus domesticus.N		cyw	kɪ͡ʊ
-Animal:Homo sapiens.N		dyn	dɪn
-Animal:Ovis aries.N		dafad	davad
-Animal:Rhopalocera.N		glöyn byw	ɡlɔən bɪ͡ʊ
-Animal:Rhopalocera.N		iâr fach yr haf	ɪɑːr vaχ ər hav
-Animal:Sciuridae.N		gwiwer	ɡwɪ͡ʊɛr
-Animal:Serpentes.N		neidr	nɛ͡ɪdr
-Animal:Sus scrofa domestica.N		mochyn	mɔχɪn
-Animal:Ursidae.N		arth	arθ
-Animal:Vulpes.N		cadno	kadnɔ
-Animal:animal.N		anifail	anɪva͡ɪl
-Animal:fish.N		pysgod	pəsɡɔd
-Animal:mouse.N		llygoden	ɬəɡɔdɛn
-Animal:wool.N		gwlân	ɡʊlɑːn
-Atmosphere:cloud.N		cwmwl	kʊmʊl
-Atmosphere:cold.A		oeraidd	ɔ͡ɪra͡ɪð
-Atmosphere:fog.N		niwl	nɪ͡ʊl
-Atmosphere:rain.N		glaw	ɡla͡ʊ
-Atmosphere:rain.V		glawio	ɡla͡ʊɪɔ
-Atmosphere:rainbow.N		enfys	ɛnvɪs
-Atmosphere:sky.N		awyr	a͡ʊɪr
-Atmosphere:thunder.N		tyrfau	tərva͡ɪ
-Atmosphere:thunder.V		taranu	taranɪ
-Atmosphere:weather.N		tywydd	tə͡ʊɪð
-Atmosphere:wind.N		gwynt	ɡʊ͡ɪnt
-Belief:deity.N		duw	dɪ͡ʊ
-Belief:idol.N		ffigur	fɪɡɪr
-Belief:spirit.N		ysbryd	əsbrɪd
-Body:arm.N		braich	bra͡ɪχ
-Body:back.N		cefn	kɛvn
-Body:beard.N		barf	barv
-Body:belly.N		bol	bɔl
-Body:blood.N		gwaed	ɡwa͡ɪd
-Body:blow.V		chwythu	χʊ͡ɪθɪ
-Body:body.N		corff	kɔrf
-Body:bone.N		asgwrn	asɡʊrn
-Body:brain.N		ymennydd	əmɛnnɪð
-Body:breast.N		bron	brɔn
-Body:breath.N		anadl	anadl
-Body:breath.V		anadlu	anadlɪ
-Body:cheek.N		boch	bɔχ
-Body:chest.N		brest	brɛst
-Body:chin.N		gên	ɡeːn
-Body:ear.N		clust	klɪst
-Body:elbow.N		penelin	pɛnɛlɪn
-Body:eye.N		llygad	ɬəɡad
-Body:face.N		wyneb	ʊ͡ɪnɛb
-Body:fat.N		braster	brastɛr
-Body:fat.N		saim	sa͡ɪm
-Body:feather.N		plufyn	plɪvɪn
-Body:finger.N		bys	bɪs
-Body:fingernail.N		ewin	ɛ͡ʊɪn
-Body:foot.N		troed	trɔ͡ɪd
-Body:footprint.N		ôl	oːl
-Body:forehead.N		talcen	talkɛn
-Body:fur.N		ffwr	fʊr
-Body:hair.N		blew	blɛ͡ʊ
-Body:hand.N		llaw	ɬa͡ʊ
-Body:head.N		pen	pɛn
-Body:heart.N		calon	kalɔn
-Body:heel.N		sawdl	sa͡ʊdl
-Body:horn.N		corn	kɔrn
-Body:jaw.N		gên	ɡeːn
-Body:knee.N		glin	ɡlɪn
-Body:leg.N		coes	kɔ͡ɪs
-Body:lip.N		gwefus	ɡwɛvɪs
-Body:liver.N		iau	ɪa͡ɪ
-Body:moustache.N		mwstas	mʊstas
-Body:mouth.N		ceg	kɛɡ
-Body:nail.N		ewin	ɛ͡ʊɪn
-Body:nape.N		gwar	ɡwar
-Body:nape.N		gwegil	ɡwɛɡɪl
-Body:navel.N		bogail	bɔɡa͡ɪl
-Body:neck.N		gwddf	ɡʊðv
-Body:nose.N		trwyn	trʊ͡ɪn
-Body:obese.A		tew	tɛ͡ʊ
-Body:palm.N		palf	palv
-Body:shoulder.N		ysgwydd	əsɡʊ͡ɪð
-Body:skin.N		croen	krɔ͡ɪn
-Body:stomach.N		cylla	kəɬa
-Body:stomach.N		stumog	stɪmɔɡ
-Body:tail.N		cwt	kʊt
-Body:tail.N		cynffon	kənfɔn
-Body:tear.N		deigryn	dɛ͡ɪɡrɪn
-Body:tendon.N		gewyn	ɡɛ͡ʊɪn
-Body:throat.N		gwddf	ɡʊðv
-Body:toe.N		bys troed	bəs trɔ͡ɪd
-Body:tongue.N		tafod	tavɔd
-Body:tooth.N		dant	dant
-Body:upper leg.N		clun	klɪn
-Body:vein.N		gwythïen	ɡʊ͡ɪθɪɛn
-Body:wing.N		adain	ada͡ɪn
-Body:wound.N		clwyf	klʊ͡ɪv
-Building:board.N		astell	astɛɬ
-Building:board.N		bwrdd	bʊrð
-Building:build.V		adeiladu	adɛ͡ɪladɪ
-Building:door.N		drws	drʊs
-Building:floor.N		llawr	ɬa͡ʊr
-Building:gate.N		porth	pɔrθ
-Building:house.N		tŷ	tiː
-Building:post.N		polyn	pɔlɪn
-Building:roof.N		to	tɔ
-Building:window.N		ffenestr	fɛnɛstr
-Cleaning:broom.N		ysgub	əsɡɪb
-Cleaning:clean (sth).V		glanhau	ɡlan̥a͡ɪ
-Cleaning:clean.A		glân	ɡlɑːn
-Cleaning:dirt.N		baw	ba͡ʊ
-Cleaning:dirt.N		budreddi	bɪdrɛðɪ
-Cleaning:dirty.A		brwnt	brʊnt
-Cleaning:dirty.A		budr	bɪdr
-Cleaning:sweep.V		ysgubo	əsɡɪbɔ
-Cleaning:wash (oneself).V		ymolchi	əmɔlχɪ
-Cleaning:wash.V		golchi	ɡɔlχɪ
-Cleaning:wipe.V		sychu	səχɪ
-Clothing:belt.N		gwregys	ɡwrɛɡɪs
-Clothing:boot.N		botasen	bɔtasɛn
-Clothing:button.N		botwm	bɔtʊm
-Clothing:cap.N		cap	kap
-Clothing:cloth.N		brethyn	brɛθɪn
-Clothing:cloth.N		lliain	ɬɪa͡ɪn
-Clothing:clothes.N		dillad	dɪɬad
-Clothing:clothes.N		gwisgoedd	ɡwɪsɡɔ͡ɪð
-Clothing:collar.N		coler	kɔlɛr
-Clothing:dress up.V		ymwisgo	əmwɪsɡɔ
-Clothing:dye.V		lliwio	ɬɪ͡ʊɪɔ
-Clothing:knit.V		gwau	ɡwa͡ɪ
-Clothing:leather.N		lledr	ɬɛdr
-Clothing:naked.A		noeth	nɔ͡ɪθ
-Clothing:needle.N		nodwydd	nɔdʊ͡ɪð
-Clothing:put on.V		gwisgo	ɡwɪsɡɔ
-Clothing:scarf or turban.N		sgarff	sɡarf
-Clothing:sew.V		gwnïo	ɡʊnɪɔ
-Clothing:shirt.N		crys	krɪs
-Clothing:shoe.N		esgid	ɛsɡɪd
-Clothing:sleeve.N		llawes	ɬa͡ʊɛs
-Clothing:thread.N		edau	ɛda͡ɪ
-Clothing:thread.N		edefyn	ɛdɛvɪn
-Clothing:towel.N		lliain sychu	ɬɪa͡ɪn səχɪ
-Clothing:towel.N		tywel	tə͡ʊɛl
-Clothing:trousers.N		trowsus	trɔ͡ʊsɪs
-Clothing:undress.V		tynnu	tənnɪ
-Cognition:familiar.A		cyfarwydd	kəvarʊ͡ɪð
-Cognition:familiar.A		cynefin	kənɛvɪn
-Cognition:true.A		gwir	ɡwɪr
-Cognition:truth.N		gwir	ɡwɪr
-Cognition:truth.N		gwirionedd	ɡwɪrɪɔnɛð
-Cognition:wake up (tr).V		deffro	dɛfrɔ
-Cognition:wake up.V		dihuno	dɪhɪnɔ
-Combat:brawl.V		ffraeo	fra͡ɪɔ
-Combat:brawl.V		terfysgu	tɛrvəsɡɪ
-Combat:fight.N		brwydr	brʊ͡ɪdr
-Combat:strike (sb).V		curo	kɪrɔ
-Combat:violence.N		ffyrnigrwydd	fərnɪɡrʊ͡ɪð
-Combat:win.V		ennill	ɛnnɪɬ
-Communication:boast.V		brolio	brɔlɪɔ
-Communication:boast.V		ymffrostio	əmfrɔst͡ʃɔ
-Communication:book.N		llyfr	ɬɪvr
-Communication:call.V		galw	ɡalʊ
-Communication:chat.V		sgwrsio	sɡʊrʃɔ
-Communication:convey (a message).V		cyfleu	kəvlɛ͡ɪ
-Communication:fairy tale.N		chwedl werin	χwɛdl ʊɛrɪn
-Communication:kiss.V		cusanu	kɪsanɪ
-Communication:language.N		iaith	ɪa͡ɪθ
-Communication:letter.N		llythyr	ɬəθɪr
-Communication:lie.N		anwiredd	anwɪrɛð
-Communication:lie.N		celwydd	kɛlʊ͡ɪð
-Communication:news.N		newydd	nɛ͡ʊɪð
-Communication:newspaper.N		papur newydd	papɪr nɛ͡ʊɪð
-Communication:talk.V		siarad	ʃarad
-Communication:tell.V		dweud	dwɛ͡ɪd
-Communication:translate.V		cyfieithu	kəvɪɛ͡ɪθɪ
-Communiction:call.N		galwad	ɡalwad
-Cosmos:Sun.N		haul	ha͡ɪl
-Cosmos:moon.N		lleuad	ɬɛ͡ɪad
-Cosmos:set.V		machlud	maχlɪd
-Cosmos:star.N		seren	sɛrɛn
-Degree:very.ADV		iawn	ɪa͡ʊn
-Element:Ag.N		arian	arɪan
-Element:Au.N		aur	a͡ɪr
-Element:Fe.N		haearn	ha͡ɪarn
-Emotion:be angry.V		gofidio	ɡɔvɪdɪɔ
-Emotion:cry.V		llefain	ɬɛva͡ɪn
-Emotion:cry.V		wylo	ʊ͡ɪlɔ
-Emotion:evil.A		drwg	drʊɡ
-Emotion:fear.V		ofni	ɔvnɪ
-Emotion:gentle.A		mwyn	mʊ͡ɪn
-Emotion:grief.N		galar	ɡalar
-Emotion:happiness.N		hapusrwydd	hapɪsrʊ͡ɪð
-Emotion:like.V		hoffi	hɔfɪ
-Emotion:longing.N		chwant	χwant
-Emotion:love.V		caru	karɪ
-Emotion:merry.A		llon	ɬɔn
-Emotion:move.V		cynhyrfu	kən̥ərvɪ
-Emotion:sad.A		trist	trɪst
-Emotion:want.V		bod mewn angen	bɔd mɛ͡ʊn aŋɛn
-Family:aunt.N		modryb	mɔdrɪb
-Family:brother.N		brawd	bra͡ʊd
-Family:daughter.N		merch	mɛrχ
-Family:family.N		teulu	tɛ͡ɪlɪ
-Family:family.N		tylwyth	təlʊ͡ɪθ
-Family:father.N		tad	tad
-Family:grandfather.N		tad-cu	tad-kɪ
-Family:grandfather.N		taid	ta͡ɪd
-Family:grandmother.N		mam-gu	mam-ɡɪ
-Family:grandmother.N		nain	na͡ɪn
-Family:husband.N		gŵr	ɡuːr
-Family:mother.N		mam	mam
-Family:parents.N		rhieni	r̥ɪɛnɪ
-Family:sister.N		chwaer	χwa͡ɪr
-Family:son.N		mab	mab
-Family:uncle.N		ewythr	ɛ͡ʊɪθr
-Family:wife.N		gwraig	ɡwra͡ɪɡ
-Food:Camellia sinensis.N		te	tɛ
-Food:Malus domestica.N		afal	aval
-Food:NaCl.N		halen	halɛn
-Food:bake.V		crasu	krasɪ
-Food:bake.V		pobi	pɔbɪ
-Food:bread.N		bara	bara
-Food:soup.N		cawl	ka͡ʊl
-Food:spoon.N		llwy	ɬʊ͡ɪ
-Form:bend (sth).V		plygu	pləɡɪ
-Form:bend.V		plygu	pləɡɪ
-Function:1PL.PRO		ni	nɪ
-Function:1SG.PRO		fi	vɪ
-Function:2PL.PRO		chi	χɪ
-Function:2SG.PRO		ti	tɪ
-Function:3PL.PRO		hwy	hʊ͡ɪ
-Function:3SG M.PRO		fe	vɛ
-Function:and.CNJ		a	a
-Function:here.ADV		yma	əma
-Function:how many.PRO		faint	va͡ɪnt
-Function:how.PRO		sut	sɪt
-Function:not.PTCL		ni	nɪ
-Function:not.PTCL		nid	nɪd
-Function:or.CNJ		neu	nɛ͡ɪ
-Function:other.PRO		arall	araɬ
-Function:that.PRO		hynny	hənnɪ
-Function:there.ADV		acw	akʊ
-Function:this.PRO		hyn	hɪn
-Function:what.PRO		pa beth	pa bɛθ
-Function:where.PRO		ble	blɛ
-Function:where.PRO		ym mha le	əm m̥a lɛ
-Function:who.PRO		pwy	pʊ͡ɪ
-Function:why.PRO		pam	pam
-Grooming:comb.N		crib	krɪb
-Grooming:comb.V		cribo	krɪbɔ
-Grooming:decorate.V		addurno	aðɪrnɔ
-Grooming:decorate.V		harddu	harðɪ
-Grooming:mirror.N		drych	drɪχ
-Grooming:ring.N		modrwy	mɔdrʊ͡ɪ
-Handiwork:glue.V		gludio	ɡlɪdɪɔ
-Handiwork:nail.N		hoel	hɔ͡ɪl
-Handiwork:repair.V		atgyweirio	atɡə͡ʊɛ͡ɪrɪɔ
-Handiwork:repair.V		trwsio	trʊʃɔ
-Handiwork:ware.N		nwydd	nʊ͡ɪð
-Handiwork:worker.N		gweithiwr	ɡwɛ͡ɪθɪ͡ʊr
-Health:become sick.V		mynd yn sâl	mənd ən sɑːl
-Health:become sick.V		mynd yn wael	mənd ən ʊa͡ɪl
-Health:disease.N		afiechyd	avɪɛχɪd
-Health:disease.N		anhwylder	an̥ʊ͡ɪldɛr
-Health:fever.N		twymyn	tʊ͡ɪmɪn
-Health:healthy.A		iechyd	ɪɛχɪd
-Health:medicine.N		meddyginiaeth	mɛðəɡɪnɪa͡ɪθ
-Health:physician.N		meddyg	mɛðɪɡ
-Health:recover.V		cael yn ôl	ka͡ɪl ən oːl
-Health:recover.V		gwella	ɡwɛɬa
-House:bed.N		gwely	ɡwɛlɪ
-House:blanket.N		blanced	blankɛd
-House:blanket.N		gwrthban	ɡʊrθban
-House:cradle.N		crud	krɪd
-House:pillow.N		clustog	klɪstɔɡ
-House:pillow.N		gobennydd	ɡɔbɛnnɪð
-House:table.N		bwrdd	bʊrð
-Hunting:bow.N		bwa	bwa
-Hunting:fishing.V		pysgota	pəsɡɔta
-Hunting:hunt.V		hela	hɛla
-Integrity:part.N		rhan	r̥an
-Integrity:piece.N		darn	darn
-Interaction:choose.V		dewis	dɛ͡ʊɪs
-Interaction:rescue.V		achub	aχɪb
-Mind:dream.N		breuddwyd	brɛ͡ɪðʊ͡ɪd
-Motion:arrive.V		cyrraedd	kərra͡ɪð
-Motion:bring.V		dod â	dɔd ɑː
-Motion:carry.V		cludo	klɪdɔ
-Motion:catch.V		dal	dal
-Motion:climb.V		dringo	drɪŋɔ
-Motion:come back.V		dychwelyd	dəχwɛlɪd
-Motion:come.V		dod	dɔd
-Motion:creep.V		cropian	krɔpɪan
-Motion:drag.V		llusgo	ɬɪsɡɔ
-Motion:drop (something).V		gollwng	ɡɔɬʊŋ
-Motion:enter.V		mynd i mewn	mənd ɪ mɛ͡ʊn
-Motion:fall.V		cwympo	kʊ͡ɪmpɔ
-Motion:fly.V		hedfan	hɛdvan
-Motion:go.V		mynd	mɪnd
-Motion:leave.V		mynd	mɪnd
-Motion:leave.V		ymadael	əmada͡ɪl
-Motion:lift.V		dyrchafu	dərχavɪ
-Motion:move (oneself).V		symud	səmɪd
-Motion:raise.V		codi	kɔdɪ
-Motion:step.V		camu	kamɪ
-Motion:swing (sth).V		siglo	sɪɡlɔ
-Motion:swing.V		siglo	sɪɡlɔ
-Motion:take a walk.V		mynd am dro	mənd am drɔ
-Motion:turn (sth).V		troi	trɔ͡ɪ
-Motion:walk.N		tro	trɔ
-Music:sing.V		canu	kanɪ
-Music:song.N		cân	kɑːn
-Music:tone.N		tôn	toːn
-Nature:river.N		afon	avɔn
-Nature:sea.N		môr	moːr
-Nature:shore of lake.N		glan	ɡlan
-Nature:slope.N		llethr	ɬɛθr
-People:boy.N		bachgen	baχɡɛn
-People:boy.N		hogyn	hɔɡɪn
-People:child.N		plentyn	plɛntɪn
-People:girl.N		geneth	ɡɛnɛθ
-People:girl.N		merch	mɛrχ
-People:man.N		dyn	dɪn
-People:people.N		pobl	pɔbl
-People:woman.N		gwraig	ɡwra͡ɪɡ
-People:woman.N		merch	mɛrχ
-Perception:feel.V		clywed	klə͡ʊɛd
-Perception:feel.V		teimlo	tɛ͡ɪmlɔ
-Perception:hear or listen.V		clywed sôn am	klə͡ʊɛd soːn am
-Perception:hear.V		clywed	klə͡ʊɛd
-Perception:pain.N		gwayw	ɡwaɪ͡ʊ
-Perception:pain.N		poen	pɔ͡ɪn
-Perception:touch.V		cyffwrdd	kəfʊrð
-Perception:wet.A		gwlyb	ɡʊlɪb
-Perception:yellow.A		melyn	mɛlɪn
-Plant:Betula.N		bedwen	bɛdwɛn
-Plant:bark.N		rhisgl	r̥ɪsɡl
-Plant:branch.N		cangen	kaŋɛn
-Plant:flower.N		blodyn	blɔdɪn
-Plant:leaf.N		deilen	dɛ͡ɪlɛn
-Plant:root.N		gwreiddyn	ɡwrɛ͡ɪðɪn
-Plant:seed.N		had	had
-Plant:tree trunk.N		boncyff	bɔnkɪf
-Plant:tree trunk.N		colfen	kɔlvɛn
-Plant:tree.N		coeden	kɔ͡ɪdɛn
-Plant:twig.N		cainc	ka͡ɪnk
-Plant:twig.N		cangen	kaŋɛn
-Possession:abandon.V		gadael	ɡada͡ɪl
-Possession:gift.N		anrheg	anr̥ɛɡ
-Possession:gift.N		rhodd	r̥ɔð
-Possession:poor.A		tlawd	tla͡ʊd
-Possession:price.N		pris	prɪs
-Possession:rich.A		cyfoethog	kəvɔ͡ɪθɔɡ
-Possession:sell.V		gwerthu	ɡwɛrθɪ
-Quantity:1.NUM		un	ɪn
-Quantity:10.NUM		deg	dɛɡ
-Quantity:100.NUM		cant	kant
-Quantity:1000.NUM		mil	mɪl
-Quantity:11.NUM		un ar ddeg	ɪn ar ðɛɡ
-Quantity:12.NUM		deuddeg	dɛ͡ɪðɛɡ
-Quantity:12.NUM		un deg dau	ɪn dɛɡ da͡ɪ
-Quantity:2.NUM		dau	da͡ɪ
-Quantity:20.NUM		ugain	ɪɡa͡ɪn
-Quantity:3.NUM		tri	trɪ
-Quantity:30.NUM		deg ar hugain	dɛɡ ar hɪɡa͡ɪn
-Quantity:30.NUM		tri deg	trɪ dɛɡ
-Quantity:4.NUM		pedwar	pɛdwar
-Quantity:40.NUM		deugain	dɛ͡ɪɡa͡ɪn
-Quantity:5.NUM		pump	pɪmp
-Quantity:50.NUM		hanner cant	hannɛr kant
-Quantity:6.NUM		chwech	χwɛχ
-Quantity:60.NUM		chwe deg	χwɛ dɛɡ
-Quantity:7.NUM		saith	sa͡ɪθ
-Quantity:70.NUM		deg a thrigain	dɛɡ a θrɪɡa͡ɪn
-Quantity:70.NUM		saith deg	sa͡ɪθ dɛɡ
-Quantity:8.NUM		wyth	ʊ͡ɪθ
-Quantity:80.NUM		pedar ugain	pɛdar ɪɡa͡ɪn
-Quantity:80.NUM		wyth deg	ʊ͡ɪθ dɛɡ
-Quantity:9.NUM		naw	na͡ʊ
-Quantity:90.NUM		deg a phedwar ugain	dɛɡ a fɛdwar ɪɡa͡ɪn
-Quantity:90.NUM		naw deg	na͡ʊ dɛɡ
-Quantity:a little.A		tipyn	tɪpɪn
-Quantity:a little.A		ychydig	əχədɪɡ
-Quantity:add.V		chwanegu	χwanɛɡɪ
-Quantity:decrease.V		lleihau	ɬɛ͡ɪha͡ɪ
-Quantity:empty.A		gwag	ɡwaɡ
-Quantity:fill.V		llenwi	ɬɛnwɪ
-Quantity:full.A		llawn	ɬa͡ʊn
-Quantity:increase.V		cynyddu	kənəðɪ
-Society:help.N		cymorth	kəmɔrθ
-Society:people.N		pobl	pɔbl
-Sound:chime.V		canu	kanɪ
-Sound:howl.V		oernadu	ɔ͡ɪrnadɪ
-Sound:howl.V		udo	ɪdɔ
-Sound:laugh.N		chwerthin	χwɛrθɪn
-Sound:laugh.V		chwerthin	χwɛrθɪn
-Sound:make noise.V		cadw sŵn	kadʊ suːn
-Sound:make noise.V		gwneud twrw	ɡʊnɛ͡ɪd twrʊ
-Sound:rustle (of leaves).V		chwithrwd	χwɪθrʊd
-Sound:rustle (of leaves).V		siffrwd	sɪfrʊd
-Sound:shout.V		bloeddio	blɔ͡ɪðɪɔ
-Sound:shout.V		gweiddi	ɡwɛ͡ɪðɪ
-Sound:sound (of instrument or voice).V		seinio	sɛ͡ɪnɪɔ
-Sound:voice.N		llais	ɬa͡ɪs
-Sound:whistle.V		chwibanu	χwɪbanɪ
-Space:back.ADV		yn ôl	ən oːl
-Space:wide.A		llydan	ɬədan
-Storage:bag.N		cod	kɔd
-Storage:box.N		blwch	blʊχ
-Storage:box.N		bocs	bɔks
-Storage:bucket.N		bwced	bʊkɛd
-Storage:bucket.N		cunnog	kɪnnɔɡ
-Storage:heap.N		pentwr	pɛntʊr
-Storage:lid.N		caead	ka͡ɪad
-Storage:load.N		llwyth	ɬʊ͡ɪθ
-Storage:misplace.V		colli	kɔɬɪ
-Storage:pouch.N		cwd	kʊd
-Storage:pour.V		tywallt	tə͡ʊaɬt
-Storage:sack.N		sach	saχ
-Time:April.N		Ebrill	ɛbrɪɬ
-Time:August.N		Awst	a͡ʊst
-Time:December.N		Rhagfyr	r̥aɡvɪr
-Time:February.N		Chwefror	χwɛvrɔr
-Time:January.N		Ionawr	ɪɔna͡ʊr
-Time:July.N		Gorffennaf	ɡɔrfɛnnav
-Time:June.N		Mehefin	mɛhɛvɪn
-Time:March.N		Mawrth	ma͡ʊrθ
-Time:May.N		Mai	ma͡ɪ
-Time:November.N		Tachwedd	taχwɛð
-Time:October.N		Hydref	hədrɛv
-Time:September.N		Medi	mɛdɪ
-Time:age.N		oed	ɔ͡ɪd
-Time:already.ADV		eisoes	ɛ͡ɪsɔ͡ɪs
-Time:already.ADV		yn barod	ən barɔd
-Time:always.ADV		bob amser	bɔb amsɛr
-Time:autumn.N		hydref	hədrɛv
-Time:final.A		olaf	ɔlav
-Time:month.N		mis	mɪs
-Time:never.ADV		ni ... byth	nɪ ... bɪθ
-Time:never.ADV		ni ... erioed	nɪ ... ɛrɪɔ͡ɪd
-Time:new.A		newydd	nɛ͡ʊɪð
-Time:night.N		nos	nɔs
-Time:now.ADV		yn awr	ən a͡ʊr
-Time:often.ADV		yn aml	ən aml
-Time:often.ADV		yn fynych	ən vənɪχ
-Time:old (of person).A		oedrannus	ɔ͡ɪdrannɪs
-Time:old.A		hen	hɛn
-Time:one time.ADV		unwaith	ɪnwa͡ɪθ
-Time:pass.V		myned heibio	mənɛd hɛ͡ɪbɪɔ
-Time:pass.V		pasio	paʃɔ
-Time:springtime.N		gwanwyn	ɡwanʊ͡ɪn
-Time:still.ADV		eto	ɛtɔ
-Time:summer.N		haf	hav
-Time:time.N		amser	amsɛr
-Time:today.ADV		heddiw	hɛðɪ͡ʊ
-Time:tomorrow.ADV		yfory	əvɔrɪ
-Time:wait.V		aros	arɔs
-Time:wait.V		disgwyl	dɪsɡʊ͡ɪl
-Time:winter.N		gaeaf	ɡa͡ɪav
-Time:year.N		blwyddyn	blʊ͡ɪðɪn
-Time:yesterday.ADV		ddoe	ðɔ͡ɪ
-Transit:boat.N		cwch	kʊχ
-Transit:oar.N		rhwyf	r̥ʊ͡ɪv
-Transit:road.N		ffordd	fɔrð
-Transit:road.N		heol	hɛɔl
-Transit:row.V		rhwyfo	r̥ʊ͡ɪvɔ
-Value:bad.A		drwg	drʊɡ
-Value:bad.A		gwael	ɡwa͡ɪl
-Value:good.A		da	da
-Value:improve.V		diwygio	dɪ͡ʊəɡɪɔ
+PLX:1PL.pro		ni	nɪ
+PLX:1SG.pro		fi	vɪ
+PLX:2PL.pro		chi	χɪ
+PLX:2SG.pro		ti	tɪ
+PLX:3PL.pro		hwy	hʊ͡ɪ
+PLX:3SG M.pro		fe	vɛ
+PLX:and.cnj		a	a
+PLX:because of.adp		o achos	ɔ aχɔs
+PLX:because of.adp		oherwydd	ɔhɛrʊ͡ɪð
+PLX:behind.adp		ar ôl	ar oːl
+PLX:beside.adp		ar bwys	ar bʊ͡ɪs
+PLX:can.v		gallu	ɡaɬɪ
+PLX:die (from accident).V		trengi	trɛŋɪ
+PLX:everywhere.pro		ym mhobman	əm m̥ɔbman
+PLX:from here.adv		oddi yma	ɔðɪ əma
+PLX:get sick.V		mynd yn sâl	mənd ən sɑːl
+PLX:get sick.V		mynd yn wael	mənd ən ʊa͡ɪl
+PLX:how many.pro		faint	va͡ɪnt
+PLX:how.pro		sut	sɪt
+PLX:in front of.adp		o flaen	ɔ vla͡ɪn
+PLX:or.cnj		neu	nɛ͡ɪ
+PLX:that.pro		hynny	hənnɪ
+PLX:this.pro		hyn	hɪn
+PLX:under.adp		islaw	ɪsla͡ʊ
+PLX:what.pro		pa beth	pa bɛθ
+PLX:where.pro		ble	blɛ
+PLX:where.pro		ym mha le	əm m̥a lɛ
+PLX:where_to.pro		i ba le	ɪ ba lɛ
+PLX:where_to.pro		i ble	ɪ blɛ
+PLX:who.pro		pwy	pʊ͡ɪ
+PLX:why.pro		pam	pam
+PWN:abandon.v.02		gadael	ɡada͡ɪl
+PWN:abdomen.n.01		bol	bɔl
+PWN:above.r.02		fry	vrɪ
+PWN:act.v.02		gwneud	ɡʊnɛ͡ɪd
+PWN:add.v.01		chwanegu	χwanɛɡɪ
+PWN:address.n.03		araith	ara͡ɪθ
+PWN:affect.v.05		cynhyrfu	kən̥ərvɪ
+PWN:again.r.01		drachefn	draχɛvn
+PWN:age.n.01		oed	ɔ͡ɪd
+PWN:ahead.r.03		ymlaen	əmla͡ɪn
+PWN:aid.n.02		cymorth	kəmɔrθ
+PWN:air.n.01		awyr	a͡ʊɪr
+PWN:alive.a.01		yn fyw	ən vɪ͡ʊ
+PWN:all.a.01		popeth	pɔpɛθ
+PWN:allege.v.01		dweud	dwɛ͡ɪd
+PWN:alone.r.02		ar ei ben ei hun	ar ɛ͡ɪ bɛn ɛ͡ɪ hɪn
+PWN:alone.r.02		unig	ɪnɪɡ
+PWN:already.r.01		eisoes	ɛ͡ɪsɔ͡ɪs
+PWN:already.r.01		yn barod	ən barɔd
+PWN:always.r.01		bob amser	bɔb amsɛr
+PWN:anger.v.01		cythruddo	kəθrɪðɔ
+PWN:anger.v.02		gofidio	ɡɔvɪdɪɔ
+PWN:animal.n.01		anifail	anɪva͡ɪl
+PWN:animation.n.01		bywyd	bə͡ʊɪd
+PWN:ant.n.01		morgrugyn	mɔrɡrɪɡɪn
+PWN:apparel.n.01		dillad	dɪɬad
+PWN:apparel.n.01		gwisgoedd	ɡwɪsɡɔ͡ɪð
+PWN:apple.n.01		afal	aval
+PWN:april.n.01		Ebrill	ɛbrɪɬ
+PWN:apt.s.03		deallus	dɛaɬɪs
+PWN:area.n.01		cylch	kɪlχ
+PWN:arise.v.03		codi	kɔdɪ
+PWN:arm.n.01		braich	bra͡ɪχ
+PWN:arrive.v.01		cyrraedd	kərra͡ɪð
+PWN:arrive.v.01		dod	dɔd
+PWN:arrow.n.02		saeth	sa͡ɪθ
+PWN:ascend.v.01		codi	kɔdɪ
+PWN:ash.n.01		lludw	ɬɪdʊ
+PWN:ask.v.02		gofyn am	ɡɔvən am
+PWN:ask.v.05		gofyn	ɡɔvɪn
+PWN:august.n.01		Awst	a͡ʊst
+PWN:aunt.n.01		modryb	mɔdrɪb
+PWN:awaken.v.01		deffro	dɛfrɔ
+PWN:back.n.01		cefn	kɛvn
+PWN:back.r.01		yn ôl	ən oːl
+PWN:back.r.02		yn ôl	ən oːl
+PWN:bad.a.01		drwg	drʊɡ
+PWN:bad.a.01		gwael	ɡwa͡ɪl
+PWN:bag.n.01		cod	kɔd
+PWN:bake.v.02		crasu	krasɪ
+PWN:bake.v.02		pobi	pɔbɪ
+PWN:bare.s.01		noeth	nɔ͡ɪθ
+PWN:bark.n.01		rhisgl	r̥ɪsɡl
+PWN:bark.v.04		cyfarth	kəvarθ
+PWN:bathe.v.01		cael bath	ka͡ɪl baθ
+PWN:battle.n.01		brwydr	brʊ͡ɪdr
+PWN:bay.n.01		bae	ba͡ɪ
+PWN:be_born.v.01		cael eich geni	ka͡ɪl ɛ͡ɪχ ɡɛnɪ
+PWN:bear.n.01		arth	arθ
+PWN:beard.n.01		barf	barv
+PWN:beautiful.a.01		hardd	harð
+PWN:beautiful.a.01		prydferth	prədvɛrθ
+PWN:beautiful.a.01		teg	tɛɡ
+PWN:become.v.01		dod yn	dɔd ɪn
+PWN:become.v.01		mynd yn	mənd ɪn
+PWN:bed.n.01		gwely	ɡwɛlɪ
+PWN:begin.v.03		dechrau	dɛχra͡ɪ
+PWN:believe.v.01		coelio	kɔ͡ɪlɪɔ
+PWN:believe.v.01		credu	krɛdɪ
+PWN:beloved.s.01		annwyl	annʊ͡ɪl
+PWN:beloved.s.01		hoff	hɔf
+PWN:belt.n.02		gwregys	ɡwrɛɡɪs
+PWN:bend.v.01		plygu	pləɡɪ
+PWN:benefit.n.02		budd	bɪð
+PWN:benefit.n.02		elw	ɛlʊ
+PWN:berry.n.01		aeronen	a͡ɪrɔnɛn
+PWN:better.v.02		diwygio	dɪ͡ʊəɡɪɔ
+PWN:between.r.02		cydrhwng	kədr̥ʊŋ
+PWN:between.r.02		rhwng	r̥ʊŋ
+PWN:birch.n.02		bedwen	bɛdwɛn
+PWN:bird.n.01		aderyn	adɛrɪn
+PWN:bite.v.01		brathu	braθɪ
+PWN:bite.v.01		cnoi	knɔ͡ɪ
+PWN:bitter.s.06		chwerw	χwɛrʊ
+PWN:black.a.01		du	dɪ
+PWN:blade.n.01		deilen	dɛ͡ɪlɛn
+PWN:blanket.n.01		blanced	blankɛd
+PWN:blanket.n.01		gwrthban	ɡʊrθban
+PWN:blind.a.01		dall	daɬ
+PWN:blood.n.01		gwaed	ɡwa͡ɪd
+PWN:blow.v.01		chwythu	χʊ͡ɪθɪ
+PWN:blow.v.02		chwythu	χʊ͡ɪθɪ
+PWN:blue.s.01		glas	ɡlas
+PWN:blunt.s.02		pŵl	puːl
+PWN:board.n.02		astell	astɛɬ
+PWN:board.n.02		bwrdd	bʊrð
+PWN:boast.v.01		brolio	brɔlɪɔ
+PWN:boast.v.01		ymffrostio	əmfrɔst͡ʃɔ
+PWN:boat.n.01		cwch	kʊχ
+PWN:body.n.01		corff	kɔrf
+PWN:boil.v.01		berwi	bɛrwɪ
+PWN:boil.v.03		berwi	bɛrwɪ
+PWN:bone.n.01		asgwrn	asɡʊrn
+PWN:book.n.01		llyfr	ɬɪvr
+PWN:boot.n.01		botasen	bɔtasɛn
+PWN:botch.v.01		difetha	dɪvɛθa
+PWN:boundary_line.n.01		ffin	fɪn
+PWN:boundary_line.n.01		goror	ɡɔrɔr
+PWN:bow.n.04		bwa	bwa
+PWN:box.n.01		blwch	blʊχ
+PWN:box.n.01		bocs	bɔks
+PWN:brain.n.01		ymennydd	əmɛnnɪð
+PWN:branch.n.02		cangen	kaŋɛn
+PWN:branchlet.n.01		cainc	ka͡ɪnk
+PWN:branchlet.n.01		cangen	kaŋɛn
+PWN:brawl.v.01		ffraeo	fra͡ɪɔ
+PWN:brawl.v.01		terfysgu	tɛrvəsɡɪ
+PWN:bread.n.01		bara	bara
+PWN:break.v.05		torri	tɔrrɪ
+PWN:breast.n.02		bron	brɔn
+PWN:breath.n.02		anadl	anadl
+PWN:breathe.v.01		anadlu	anadlɪ
+PWN:bridge.n.01		pont	pɔnt
+PWN:bright.a.01		disglair	dɪsɡla͡ɪr
+PWN:bring.v.01		dod â	dɔd ɑː
+PWN:brook.n.01		afonig	avɔnɪɡ
+PWN:brook.n.01		cornant	kɔrnant
+PWN:brook.n.01		nant	nant
+PWN:broom.n.01		ysgub	əsɡɪb
+PWN:brother.n.01		brawd	bra͡ʊd
+PWN:brow.n.01		talcen	talkɛn
+PWN:bucket.n.01		bwced	bʊkɛd
+PWN:bucket.n.01		cunnog	kɪnnɔɡ
+PWN:bull.n.01		tarw	tarʊ
+PWN:bundle.n.02		bwndel	bʊndɛl
+PWN:bundle.n.02		coflaid	kɔvla͡ɪd
+PWN:burn.v.03		llosgi	ɬɔsɡɪ
+PWN:burn.v.07		llosgi	ɬɔsɡɪ
+PWN:business.n.01		busnes	bɪsnɛs
+PWN:butter.n.01		ymenyn	əmɛnɪn
+PWN:butterfly.n.01		glöyn byw	ɡlɔən bɪ͡ʊ
+PWN:butterfly.n.01		iâr fach yr haf	ɪɑːr vaχ ər hav
+PWN:button.n.01		botwm	bɔtʊm
+PWN:buy.v.01		prynu	prənɪ
+PWN:calculate.v.01		cyfrifo	kəvrɪvɔ
+PWN:calendar_month.n.01		mis	mɪs
+PWN:call.v.05		galw	ɡalʊ
+PWN:campfire.n.01		coelcerth	kɔ͡ɪlkɛrθ
+PWN:cap.n.01		cap	kap
+PWN:cat.n.01		cath	kaθ
+PWN:catch.v.04		dal	dal
+PWN:cause.n.01		achos	aχɔs
+PWN:cause.n.01		rheswm	r̥ɛsʊm
+PWN:cave.n.01		ogof	ɔɡɔv
+PWN:cavil.v.01		grwgnach	ɡrʊɡnaχ
+PWN:center.n.01		canol	kanɔl
+PWN:chair.n.01		cadair	kada͡ɪr
+PWN:change.v.01		altro	altrɔ
+PWN:change.v.03		newid	nɛ͡ʊɪd
+PWN:character.n.08		llythyren	ɬəθərɛn
+PWN:cheap.a.01		rhad	r̥ad
+PWN:cheek.n.01		boch	bɔχ
+PWN:cherished.s.01		gwerthfawr	ɡwɛrθva͡ʊr
+PWN:chicken.n.02		cyw	kɪ͡ʊ
+PWN:child.n.01		plentyn	plɛntɪn
+PWN:chin.n.01		gên	ɡeːn
+PWN:choose.v.01		dewis	dɛ͡ʊɪs
+PWN:chop.v.01		torri	tɔrrɪ
+PWN:church.n.02		eglwys	ɛɡlʊ͡ɪs
+PWN:circle.n.03		cylch	kɪlχ
+PWN:citizenry.n.01		pobl	pɔbl
+PWN:claw.n.01		crafanc	kravank
+PWN:clay.n.01		clai	kla͡ɪ
+PWN:clean.a.01		glân	ɡlɑːn
+PWN:clean.v.01		glanhau	ɡlan̥a͡ɪ
+PWN:climb.v.01		dringo	drɪŋɔ
+PWN:close.v.01		cau	ka͡ɪ
+PWN:cloud.n.02		cwmwl	kʊmʊl
+PWN:coal.n.01		glo	ɡlɔ
+PWN:cock.n.04		ceiliog	kɛ͡ɪlɪɔɡ
+PWN:cold.a.01		oer	ɔ͡ɪr
+PWN:cold.a.01		oeraidd	ɔ͡ɪra͡ɪð
+PWN:coldness.n.03		annwyd	annʊ͡ɪd
+PWN:coldness.n.03		oerni	ɔ͡ɪrnɪ
+PWN:collar.n.01		coler	kɔlɛr
+PWN:colorful.a.01		lliwgar	ɬɪ͡ʊɡar
+PWN:comb.n.01		crib	krɪb
+PWN:comb.v.01		cribo	krɪbɔ
+PWN:commend.v.01		canmol	kanmɔl
+PWN:companion.n.01		cydymaith	kədəma͡ɪθ
+PWN:company.n.03		cwmni	kʊmnɪ
+PWN:complete.v.01		darfod	darvɔd
+PWN:complete.v.01		gorffen	ɡɔrfɛn
+PWN:connect.v.01		cysylltu	kəsəɬtɪ
+PWN:conserve.v.02		cadw	kadʊ
+PWN:construct.v.01		adeiladu	adɛ͡ɪladɪ
+PWN:conversation.n.01		sgwrs	sɡʊrs
+PWN:converse.v.01		sgwrsio	sɡʊrʃɔ
+PWN:convey.v.01		cyfleu	kəvlɛ͡ɪ
+PWN:cook.v.02		coginio	kɔɡɪnɪɔ
+PWN:corner.n.03		cornel	kɔrnɛl
+PWN:corpulent.s.01		tew	tɛ͡ʊ
+PWN:correctly.r.01		cywir	kə͡ʊɪr
+PWN:cough.v.01		pesychu	pɛsəχɪ
+PWN:count.n.01		cyfrif	kəvrɪv
+PWN:count.v.01		cyfrif	kəvrɪv
+PWN:country.n.02		gwlad	ɡʊlad
+PWN:cover.v.01		gorchuddio	ɡɔrχɪðɪɔ
+PWN:cow.n.01		buwch	bɪ͡ʊχ
+PWN:cradle.n.01		crud	krɪd
+PWN:crane.n.05		crychydd	krəχɪð
+PWN:crane.n.05		garan	ɡaran
+PWN:crawl.v.01		cropian	krɔpɪan
+PWN:crisscross.n.01		croes	krɔ͡ɪs
+PWN:crow.n.01		brân	brɑːn
+PWN:cry.n.01		galwad	ɡalwad
+PWN:cry.v.02		llefain	ɬɛva͡ɪn
+PWN:cry.v.02		wylo	ʊ͡ɪlɔ
+PWN:cuckoo.n.02		cog	kɔɡ
+PWN:cuckoo.n.02		cwcw	kʊkʊ
+PWN:cup.n.01		cwpan	kʊpan
+PWN:current.n.02		cerrynt	kɛrrɪnt
+PWN:cut.v.01		torri	tɔrrɪ
+PWN:damage.n.01		difrod	dɪvrɔd
+PWN:damage.n.01		niwed	nɪ͡ʊɛd
+PWN:damage.v.01		niweidio	nɪ͡ʊɛ͡ɪdɪɔ
+PWN:damp.s.01		llaith	ɬa͡ɪθ
+PWN:dance.v.02		dawnsio	da͡ʊnʃɔ
+PWN:dark.a.01		tywyll	tə͡ʊɪɬ
+PWN:daughter.n.01		merch	mɛrχ
+PWN:day.n.01		diwrnod	dɪ͡ʊrnɔd
+PWN:day.n.01		dydd	dɪð
+PWN:deaf.a.01		byddar	bəðar
+PWN:death.n.01		marwolaeth	marwɔla͡ɪθ
+PWN:deceive.v.01		twyllo	tʊ͡ɪɬɔ
+PWN:december.n.01		Rhagfyr	r̥aɡvɪr
+PWN:decompose.v.03		dadfeilio	dadvɛ͡ɪlɪɔ
+PWN:decompose.v.03		pydru	pədrɪ
+PWN:decorate.v.01		addurno	aðɪrnɔ
+PWN:decorate.v.01		harddu	harðɪ
+PWN:decrease.v.01		lleihau	ɬɛ͡ɪha͡ɪ
+PWN:defend.v.03		amddiffyn	amðɪfɪn
+PWN:deft.s.01		deheuig	dɛhɛ͡ɪɪɡ
+PWN:deft.s.01		medrus	mɛdrɪs
+PWN:deity.n.01		duw	dɪ͡ʊ
+PWN:descend.v.01		syrthio	sərθɪɔ
+PWN:desire.n.01		chwant	χwant
+PWN:desire.v.01		bod mewn angen	bɔd mɛ͡ʊn aŋɛn
+PWN:destroy.v.02		dinistrio	dɪnɪstrɪɔ
+PWN:detect.v.01		sylwi	səlwɪ
+PWN:die.v.01		marw	marʊ
+PWN:different.a.01		gwahanol	ɡwahanɔl
+PWN:dig.v.01		cloddio	klɔðɪɔ
+PWN:dig.v.01		palu	palɪ
+PWN:digest.v.03		dioddef	dɪɔðɛv
+PWN:dirt.n.02		baw	ba͡ʊ
+PWN:dirt.n.02		budreddi	bɪdrɛðɪ
+PWN:dirty.a.01		brwnt	brʊnt
+PWN:dirty.a.01		budr	bɪdr
+PWN:disappear.v.01		diflannu	dɪvlannɪ
+PWN:discontinue.v.01		peidio	pɛ͡ɪdɪɔ
+PWN:disease.n.01		afiechyd	avɪɛχɪd
+PWN:disease.n.01		anhwylder	an̥ʊ͡ɪldɛr
+PWN:dish.n.01		llestri	ɬɛstrɪ
+PWN:dissolve.v.09		meirioli	mɛ͡ɪrɪɔlɪ
+PWN:dissolve.v.09		toddi	tɔðɪ
+PWN:distance.n.01		bwlch	bʊlχ
+PWN:distance.n.01		pellter	pɛɬtɛr
+PWN:distance.n.03		pellter	pɛɬtɛr
+PWN:dive.v.03		plymio	pləmɪɔ
+PWN:dive.v.03		ymsuddo	əmsɪðɔ
+PWN:divide.v.01		rhannu	r̥annɪ
+PWN:doctor.n.01		meddyg	mɛðɪɡ
+PWN:dog.n.01		ci	kɪ
+PWN:doll.n.01		dol	dɔl
+PWN:down.r.01		i lawr	ɪ la͡ʊr
+PWN:down.r.01		i waered	ɪ ʊa͡ɪrɛd
+PWN:drag.v.01		llusgo	ɬɪsɡɔ
+PWN:dream.n.01		breuddwyd	brɛ͡ɪðʊ͡ɪd
+PWN:dress.v.01		ymwisgo	əmwɪsɡɔ
+PWN:drink.v.01		yfed	əvɛd
+PWN:drive.v.01		dreifio	drɛ͡ɪvɪɔ
+PWN:drive.v.01		gyrru	ɡərrɪ
+PWN:drive.v.15		gyrru	ɡərrɪ
+PWN:drop.n.01		dafn	davn
+PWN:drop.n.01		diferyn	dɪvɛrɪn
+PWN:drop.v.01		gollwng	ɡɔɬʊŋ
+PWN:drove.n.02		haid	ha͡ɪd
+PWN:dry.a.01		sych	sɪχ
+PWN:dry.v.01		sychu	səχɪ
+PWN:duck.n.01		hwyad	hʊ͡ɪad
+PWN:dust.n.01		llwch	ɬʊχ
+PWN:dye.v.01		lliwio	ɬɪ͡ʊɪɔ
+PWN:eagle.n.01		eryr	ɛrɪr
+PWN:ear.n.01		clust	klɪst
+PWN:earlier.r.01		o'r blaen	ɔˈr bla͡ɪn
+PWN:east.n.01		dwyrain	dʊ͡ɪra͡ɪn
+PWN:eat.v.01		bwyta	bʊ͡ɪta
+PWN:edge.n.06		min	mɪn
+PWN:edge.n.06		ymyl	əmɪl
+PWN:egg.n.02		wy	ʊ͡ɪ
+PWN:eight.s.01		wyth	ʊ͡ɪθ
+PWN:eighty.s.01		pedar ugain	pɛdar ɪɡa͡ɪn
+PWN:eighty.s.01		wyth deg	ʊ͡ɪθ dɛɡ
+PWN:elapse.v.01		myned heibio	mənɛd hɛ͡ɪbɪɔ
+PWN:elapse.v.01		pasio	paʃɔ
+PWN:elbow.n.01		penelin	pɛnɛlɪn
+PWN:eleven.s.01		un ar ddeg	ɪn ar ðɛɡ
+PWN:elk.n.01		elc	ɛlk
+PWN:emerge.v.01		ymddangos	əmðaŋɔs
+PWN:empty.a.01		gwag	ɡwaɡ
+PWN:end.n.03		diwedd	dɪ͡ʊɛð
+PWN:end.n.09		pen	pɛn
+PWN:end.v.01		gorffen	ɡɔrfɛn
+PWN:enter.v.01		mynd i mewn	mənd ɪ mɛ͡ʊn
+PWN:entirely.r.02		yn unig	ən ɪnɪɡ
+PWN:erstwhile.s.01		blaenorol	bla͡ɪnɔrɔl
+PWN:escape.v.01		dianc	dɪank
+PWN:evening.n.01		noswaith	nɔswa͡ɪθ
+PWN:evil.a.01		drwg	drʊɡ
+PWN:exclaim.v.01		bloeddio	blɔ͡ɪðɪɔ
+PWN:exclaim.v.01		gweiddi	ɡwɛ͡ɪðɪ
+PWN:exit.v.01		mynd	mɪnd
+PWN:exit.v.01		ymadael	əmada͡ɪl
+PWN:expensive.a.01		drud	drɪd
+PWN:extraneous.s.03		estron	ɛstrɔn
+PWN:eye.n.01		llygad	ɬəɡad
+PWN:fabric.n.01		brethyn	brɛθɪn
+PWN:fabric.n.01		lliain	ɬɪa͡ɪn
+PWN:face.n.01		wyneb	ʊ͡ɪnɛb
+PWN:faineant.s.01		diog	dɪɔɡ
+PWN:fairytale.n.01		chwedl werin	χwɛdl ʊɛrɪn
+PWN:fall.n.01		hydref	hədrɛv
+PWN:fall.v.01		cwympo	kʊ͡ɪmpɔ
+PWN:fall_asleep.v.01		mynd i gysgu	mənd ɪ ɡəsɡɪ
+PWN:fall_asleep.v.01		syrthio i gysgu	sərθɪɔ ɪ ɡəsɡɪ
+PWN:familiar.a.01		cyfarwydd	kəvarʊ͡ɪð
+PWN:familiar.a.01		cynefin	kənɛvɪn
+PWN:family.n.02		teulu	tɛ͡ɪlɪ
+PWN:family.n.02		tylwyth	təlʊ͡ɪθ
+PWN:far.r.02		pell	pɛɬ
+PWN:fat.n.01		braster	brastɛr
+PWN:fat.n.01		saim	sa͡ɪm
+PWN:father.n.01		tad	tad
+PWN:fault.n.06		bai	ba͡ɪ
+PWN:fear.v.01		ofni	ɔvnɪ
+PWN:feather.n.01		plufyn	plɪvɪn
+PWN:february.n.01		Chwefror	χwɛvrɔr
+PWN:feed.v.01		porthi	pɔrθɪ
+PWN:feel.v.03		clywed	klə͡ʊɛd
+PWN:feel.v.03		teimlo	tɛ͡ɪmlɔ
+PWN:female_child.n.01		geneth	ɡɛnɛθ
+PWN:female_child.n.01		merch	mɛrχ
+PWN:fence.n.01		ffens	fɛns
+PWN:fever.n.01		twymyn	tʊ͡ɪmɪn
+PWN:fifty.s.01		hanner cant	hannɛr kant
+PWN:fill.v.01		llenwi	ɬɛnwɪ
+PWN:find.v.03		darganfod	darɡanvɔd
+PWN:fine-looking.s.01		tlws	tlʊs
+PWN:fine.a.05		main	ma͡ɪn
+PWN:finger.n.01		bys	bɪs
+PWN:fingernail.n.01		ewin	ɛ͡ʊɪn
+PWN:fir.n.02		ffynidwydden	fənɪdʊ͡ɪðɛn
+PWN:fire.n.03		tân	tɑːn
+PWN:firm.s.02		cadarn	kadarn
+PWN:first.a.01		cyntaf	kəntav
+PWN:first.r.02		yn gyntaf	ən ɡəntav
+PWN:fish.n.01		pysgod	pəsɡɔd
+PWN:fish.v.02		pysgota	pəsɡɔta
+PWN:five.s.01		pump	pɪmp
+PWN:fix.v.12		paratoi	paratɔ͡ɪ
+PWN:flash.v.01		pefrio	pɛvrɪɔ
+PWN:flat.s.01		gwastad	ɡwastad
+PWN:flee.v.01		ffoi	fɔ͡ɪ
+PWN:flex.v.05		plygu	pləɡɪ
+PWN:flip.v.06		taflu	tavlɪ
+PWN:floor.n.01		llawr	ɬa͡ʊr
+PWN:flower.n.02		blodyn	blɔdɪn
+PWN:fly.n.01		cleren	klɛrɛn
+PWN:fly.v.01		hedfan	hɛdvan
+PWN:foam.n.01		ewyn	ɛ͡ʊɪn
+PWN:foe.n.02		gelyn	ɡɛlɪn
+PWN:fog.n.01		niwl	nɪ͡ʊl
+PWN:food.n.02		bwyd	bʊ͡ɪd
+PWN:foot.n.01		troed	trɔ͡ɪd
+PWN:footprint.n.01		ôl	oːl
+PWN:foreman.n.01		pennaeth	pɛnna͡ɪθ
+PWN:forest.n.01		coedwig	kɔ͡ɪdwɪɡ
+PWN:forget.v.02		anghofio	aŋ̥ɔvɪɔ
+PWN:fork.n.01		fforc	fɔrk
+PWN:form.n.03		patrwm	patrʊm
+PWN:forty.s.01		deugain	dɛ͡ɪɡa͡ɪn
+PWN:four.s.01		pedwar	pɛdwar
+PWN:fox.n.01		cadno	kadnɔ
+PWN:freeze.v.02		rhewi	r̥ɛ͡ʊɪ
+PWN:frequently.r.01		yn aml	ən aml
+PWN:frequently.r.01		yn fynych	ən vənɪχ
+PWN:fresh.a.01		iach	ɪaχ
+PWN:friday.n.01		dydd Gwener	dəð ɡwɛnɛr
+PWN:friend.n.01		cyfaill	kəva͡ɪɬ
+PWN:frost.n.01		barrug	barrɪɡ
+PWN:frost.n.01		rhew	r̥ɛ͡ʊ
+PWN:fry.v.02		ffrio	frɪɔ
+PWN:full.a.01		llawn	ɬa͡ʊn
+PWN:fume.v.02		mygu	məɡɪ
+PWN:fur.n.03		ffwr	fʊr
+PWN:game.n.01		chwarae	χwara͡ɪ
+PWN:gate.n.01		drws	drʊs
+PWN:gateway.n.01		porth	pɔrθ
+PWN:gather.v.01		casglu	kasɡlɪ
+PWN:gay.s.02		llon	ɬɔn
+PWN:gentle.s.01		mwyn	mʊ͡ɪn
+PWN:get.v.01		derbyn	dɛrbɪn
+PWN:get_down.v.07		cychwyn	kəχʊ͡ɪn
+PWN:get_up.v.02		codi	kɔdɪ
+PWN:gift.n.01		anrheg	anr̥ɛɡ
+PWN:gift.n.01		rhodd	r̥ɔð
+PWN:give.v.03		rhoi	r̥ɔ͡ɪ
+PWN:give.v.08		rhoddi	r̥ɔðɪ
+PWN:glass.n.01		gwydr	ɡʊ͡ɪdr
+PWN:glue.v.01		gludio	ɡlɪdɪɔ
+PWN:gold.n.03		aur	a͡ɪr
+PWN:good.a.01		da	da
+PWN:goose.n.01		gŵydd	ɡuːɪð
+PWN:govern.v.03		llywodraethu	ɬə͡ʊɔdra͡ɪθɪ
+PWN:govern.v.03		rheoli	r̥ɛɔlɪ
+PWN:grain.n.08		grawn	ɡra͡ʊn
+PWN:grandfather.n.01		tad-cu	tad-kɪ
+PWN:grandfather.n.01		taid	ta͡ɪd
+PWN:grandma.n.01		mam-gu	mam-ɡɪ
+PWN:grandma.n.01		nain	na͡ɪn
+PWN:grasp.v.01		gafael	ɡava͡ɪl
+PWN:grass.n.01		glaswellt	ɡlaswɛɬt
+PWN:grassland.n.01		dôl	doːl
+PWN:grave.n.02		bedd	bɛð
+PWN:green.s.01		gwyrdd	ɡʊ͡ɪrð
+PWN:grey.s.01		llwyd	ɬʊ͡ɪd
+PWN:grief.n.02		galar	ɡalar
+PWN:groan.v.01		griddfan	ɡrɪðvan
+PWN:grok.v.01		amgyffred	amɡəfrɛd
+PWN:grow.v.03		tyfu	təvɪ
+PWN:guest.n.01		gwestai	ɡwɛsta͡ɪ
+PWN:gun.n.01		dryll	drɪɬ
+PWN:hair.n.01		blew	blɛ͡ʊ
+PWN:hand.n.01		llaw	ɬa͡ʊ
+PWN:handle.n.01		carn	karn
+PWN:hang.v.01		hongian	hɔŋɪan
+PWN:hang.v.02		crogi	krɔɡɪ
+PWN:hang.v.02		hongian	hɔŋɪan
+PWN:happen.v.01		digwydd	dɪɡʊ͡ɪð
+PWN:happiness.n.01		hapusrwydd	hapɪsrʊ͡ɪð
+PWN:hard.a.03		caled	kalɛd
+PWN:hardly.r.02		prin	prɪn
+PWN:hardworking.s.01		dyfal	dəval
+PWN:hare.n.01		ysgyfarnog	əsɡəvarnɔɡ
+PWN:hark_back.v.01		dychwelyd	dəχwɛlɪd
+PWN:hay.n.01		gwair	ɡwa͡ɪr
+PWN:head.n.01		pen	pɛn
+PWN:healthy.a.01		iechyd	ɪɛχɪd
+PWN:hear.v.01		clywed	klə͡ʊɛd
+PWN:heart.n.02		calon	kalɔn
+PWN:heat.n.01		gwres	ɡwrɛs
+PWN:heavy.a.01		trwm	trʊm
+PWN:heel.n.02		sawdl	sa͡ʊdl
+PWN:height.n.01		uchder	ɪχdɛr
+PWN:herd.n.01		diadell	dɪadɛɬ
+PWN:herd.n.01		praidd	pra͡ɪð
+PWN:herd.v.01		bugeilio	bɪɡɛ͡ɪlɪɔ
+PWN:here.r.01		yma	əma
+PWN:here.r.03		hyd yma	həd əma
+PWN:hide.n.02		croen	krɔ͡ɪn
+PWN:hide.v.01		cuddio	kɪðɪɔ
+PWN:hide.v.02		celu	kɛlɪ
+PWN:hide.v.02		cuddio	kɪðɪɔ
+PWN:hill.n.01		bryn	brɪn
+PWN:hog.n.03		mochyn	mɔχɪn
+PWN:hold.v.02		dal	dal
+PWN:hole.n.01		twll	tʊɬ
+PWN:home.n.01		cartref	kartrɛv
+PWN:honey.n.01		mêl	meːl
+PWN:hook.n.05		bach	baχ
+PWN:horn.n.02		corn	kɔrn
+PWN:horse.n.01		ceffyl	kɛfɪl
+PWN:hot.a.01		poeth	pɔ͡ɪθ
+PWN:house.n.01		tŷ	tiː
+PWN:howl.v.02		oernadu	ɔ͡ɪrnadɪ
+PWN:howl.v.02		udo	ɪdɔ
+PWN:hundred.s.01		cant	kant
+PWN:hunger.n.01		newyn	nɛ͡ʊɪn
+PWN:hungry.a.01		newynog	nɛ͡ʊənɔɡ
+PWN:hunt.v.01		hela	hɛla
+PWN:hurt.v.06		brifo	brɪvɔ
+PWN:husband.n.01		gŵr	ɡuːr
+PWN:ice.n.01		iâ	ɪɑː
+PWN:idea.n.01		meddwl	mɛðʊl
+PWN:idol.n.01		ffigur	fɪɡɪr
+PWN:ignite.v.01		cynnau	kənna͡ɪ
+PWN:ill.a.01		gwael	ɡwa͡ɪl
+PWN:ill.a.01		sâl	sɑːl
+PWN:immediately.r.01		ar unwaith	ar ɪnwa͡ɪθ
+PWN:immediately.r.01		ar yr un pryd	ar ər ɪn prɪd
+PWN:impede.v.01		atal	atal
+PWN:impede.v.01		rhwystro	r̥ʊ͡ɪstrɔ
+PWN:increase.v.01		cynyddu	kənəðɪ
+PWN:indicate.v.02		dangos	daŋɔs
+PWN:insert.v.01		plannu	plannɪ
+PWN:interrupt.v.02		aflonyddu	avlɔnəðɪ
+PWN:invite.v.02		gwahodd	ɡwahɔð
+PWN:iron.n.01		haearn	ha͡ɪarn
+PWN:island.n.01		ynys	ənɪs
+PWN:item.n.01		eitem	ɛ͡ɪtɛm
+PWN:january.n.01		Ionawr	ɪɔna͡ʊr
+PWN:jaw.n.01		gên	ɡeːn
+PWN:join.v.02		cyfuno	kəvɪnɔ
+PWN:join.v.02		uno	ɪnɔ
+PWN:joy.n.01		gorfoledd	ɡɔrvɔlɛð
+PWN:july.n.01		Gorffennaf	ɡɔrfɛnnav
+PWN:jump.v.01		llamu	ɬamɪ
+PWN:jump.v.01		neidio	nɛ͡ɪdɪɔ
+PWN:june.n.01		Mehefin	mɛhɛvɪn
+PWN:keep.v.03		cadw	kadʊ
+PWN:kettle.n.01		tegell	tɛɡɛɬ
+PWN:kick.v.03		cicio	kɪkɪɔ
+PWN:kill.v.10		lladd	ɬað
+PWN:kind.n.01		bath	baθ
+PWN:king.n.01		brenin	brɛnɪn
+PWN:knee.n.01		glin	ɡlɪn
+PWN:knife.n.01		cyllell	kəɬɛɬ
+PWN:knit.v.01		gwau	ɡwa͡ɪ
+PWN:knock.v.02		taro	tarɔ
+PWN:knot.n.02		cwlwm	kʊlʊm
+PWN:know.v.01		gwybod	ɡʊ͡ɪbɔd
+PWN:ladder.n.01		ysgol	əsɡɔl
+PWN:lair.n.01		ffau	fa͡ɪ
+PWN:lake.n.01		llyn	ɬɪn
+PWN:land.n.02		pridd	prɪð
+PWN:land.n.04		llawr	ɬa͡ʊr
+PWN:language.n.01		iaith	ɪa͡ɪθ
+PWN:large.a.01		mawr	ma͡ʊr
+PWN:last.a.02		olaf	ɔlav
+PWN:laugh.v.01		chwerthin	χwɛrθɪn
+PWN:laughter.n.02		chwerthin	χwɛrθɪn
+PWN:lay.v.02		gosod	ɡɔsɔd
+PWN:lead.v.01		arwain	arwa͡ɪn
+PWN:learn.v.01		dysgu	dəsɡɪ
+PWN:leash.n.01		tennyn	tɛnnɪn
+PWN:leather.n.01		lledr	ɬɛdr
+PWN:left.r.01		aswy	asʊ͡ɪ
+PWN:left.r.01		chwith	χwɪθ
+PWN:leg.n.02		coes	kɔ͡ɪs
+PWN:length.n.01		hyd	hɪd
+PWN:let.v.01		gadael	ɡada͡ɪl
+PWN:letter.n.01		llythyr	ɬəθɪr
+PWN:lick.v.02		llyfu	ɬəvɪ
+PWN:lid.n.02		caead	ka͡ɪad
+PWN:lie.n.01		anwiredd	anwɪrɛð
+PWN:lie.n.01		celwydd	kɛlʊ͡ɪð
+PWN:lie.v.02		gorwedd	ɡɔrwɛð
+PWN:lift.v.03		codi	kɔdɪ
+PWN:like.v.03		hoffi	hɔfɪ
+PWN:line.n.04		llinell	ɬɪnɛɬ
+PWN:lip.n.01		gwefus	ɡwɛvɪs
+PWN:listen.v.01		gwrando	ɡwrandɔ
+PWN:listen.v.02		clywed sôn am	klə͡ʊɛd soːn am
+PWN:little.r.01		tipyn	tɪpɪn
+PWN:little.r.01		ychydig	əχədɪɡ
+PWN:liver.n.01		iau	ɪa͡ɪ
+PWN:load.n.01		llwyth	ɬʊ͡ɪθ
+PWN:lock.n.01		clo	klɔ
+PWN:long.a.02		hir	hɪr
+PWN:long.r.01		amser hir	amsɛr hɪr
+PWN:look.v.01		edrych	ɛdrɪχ
+PWN:look.v.01		syllu	səɬɪ
+PWN:look.v.02		ymddangos	əmðaŋɔs
+PWN:lose.v.05		colli	kɔɬɪ
+PWN:louse.n.01		lleuen	ɬɛ͡ɪɛn
+PWN:love.v.03		caru	karɪ
+PWN:low.r.01		isod	ɪsɔd
+PWN:low.r.01		oddi tanodd	ɔðɪ tanɔð
+PWN:luminosity.n.01		golau	ɡɔla͡ɪ
+PWN:mainland.n.01		tir	tɪr
+PWN:make_noise.v.01		cadw sŵn	kadʊ suːn
+PWN:make_noise.v.01		gwneud twrw	ɡʊnɛ͡ɪd twrʊ
+PWN:male_child.n.01		bachgen	baχɡɛn
+PWN:male_child.n.01		hogyn	hɔɡɪn
+PWN:man.n.01		dyn	dɪn
+PWN:march.n.01		Mawrth	ma͡ʊrθ
+PWN:may.n.01		Mai	ma͡ɪ
+PWN:meal.n.01		pryd o fwyd	prəd ɔ vʊ͡ɪd
+PWN:meaning.n.01		ystyr	əstɪr
+PWN:measure.v.01		mesur	mɛsɪr
+PWN:meat.n.01		cig	kɪɡ
+PWN:medicine.n.02		meddyginiaeth	mɛðəɡɪnɪa͡ɪθ
+PWN:meet.v.07		casglu	kasɡlɪ
+PWN:meet.v.07		cynnull	kənnɪɬ
+PWN:meet.v.09		cwrdd	kʊrð
+PWN:meet.v.09		cyfarfod	kəvarvɔd
+PWN:melt.v.01		toddi	tɔðɪ
+PWN:memory.n.03		cof	kɔv
+PWN:message.n.01		neges	nɛɡɛs
+PWN:milk.n.01		llaeth	ɬa͡ɪθ
+PWN:milk.n.01		llefrith	ɬɛvrɪθ
+PWN:milk.v.01		godro	ɡɔdrɔ
+PWN:mind.n.01		meddwl	mɛðʊl
+PWN:mirror.n.01		drych	drɪχ
+PWN:misfortune.n.02		anffawd	anfa͡ʊd
+PWN:mistake.n.01		camgymeriad	kamɡəmɛrɪad
+PWN:mistake.n.01		gwall	ɡwaɬ
+PWN:monday.n.01		dydd Llun	dəð ɬɪn
+PWN:money.n.01		arian	arɪan
+PWN:money.n.01		pres	prɛs
+PWN:moon.n.01		lleuad	ɬɛ͡ɪad
+PWN:moor.n.02		rhos	r̥ɔs
+PWN:morning.n.01		bore	bɔrɛ
+PWN:mosquito.n.01		gwybedyn	ɡʊ͡ɪbɛdɪn
+PWN:mother.n.01		mam	mam
+PWN:mountain.n.01		mynydd	mənɪð
+PWN:mouse.n.01		llygoden	ɬəɡɔdɛn
+PWN:mouth.n.01		ceg	kɛɡ
+PWN:move.v.03		syflyd	səvlɪd
+PWN:mush.n.02		uwd	ɪ͡ʊd
+PWN:mushroom.n.02		madarch	madarχ
+PWN:mustache.n.01		mwstas	mʊstas
+PWN:nail.n.01		ewin	ɛ͡ʊɪn
+PWN:nail.n.02		hoel	hɔ͡ɪl
+PWN:name.n.01		enw	ɛnʊ
+PWN:name.v.01		enwi	ɛnwɪ
+PWN:nape.n.01		gwar	ɡwar
+PWN:nape.n.01		gwegil	ɡwɛɡɪl
+PWN:narrative.n.01		stori	stɔrɪ
+PWN:narrow.a.01		cul	kɪl
+PWN:natural_elevation.n.01		bryn	brɪn
+PWN:navel.n.01		bogail	bɔɡa͡ɪl
+PWN:near.r.01		agos	aɡɔs
+PWN:neck.n.01		gwddf	ɡʊðv
+PWN:needle.n.03		nodwydd	nɔdʊ͡ɪð
+PWN:nest.n.01		nyth	nɪθ
+PWN:net_income.n.01		gwe	ɡwɛ
+PWN:net_income.n.01		rhwyd	r̥ʊ͡ɪd
+PWN:never.r.01		ni ... byth	nɪ ... bɪθ
+PWN:never.r.01		ni ... erioed	nɪ ... ɛrɪɔ͡ɪd
+PWN:new.a.01		newydd	nɛ͡ʊɪð
+PWN:news.n.01		newydd	nɛ͡ʊɪð
+PWN:newspaper.n.01		papur newydd	papɪr nɛ͡ʊɪð
+PWN:night.n.01		nos	nɔs
+PWN:nine.s.01		naw	na͡ʊ
+PWN:ninety.s.01		deg a phedwar ugain	dɛɡ a fɛdwar ɪɡa͡ɪn
+PWN:ninety.s.01		naw deg	na͡ʊ dɛɡ
+PWN:noise.n.01		sain	sa͡ɪn
+PWN:noise.n.01		trwst	trʊst
+PWN:noon.n.01		nawn	na͡ʊn
+PWN:noose.n.02		cwlwm rhedeg	kʊlʊm r̥ɛdɛɡ
+PWN:north.n.03		gogledd	ɡɔɡlɛð
+PWN:nose.n.01		trwyn	trʊ͡ɪn
+PWN:not.r.01		ni	nɪ
+PWN:not.r.01		nid	nɪd
+PWN:november.n.01		Tachwedd	taχwɛð
+PWN:now.r.04		yn awr	ən a͡ʊr
+PWN:oar.n.01		rhwyf	r̥ʊ͡ɪv
+PWN:october.n.01		Hydref	hədrɛv
+PWN:oil.n.01		olew	ɔlɛ͡ʊ
+PWN:old.a.01		hen	hɛn
+PWN:old.a.01		oedrannus	ɔ͡ɪdrannɪs
+PWN:olfactory_property.n.01		aroglau	arɔɡla͡ɪ
+PWN:once.r.01		unwaith	ɪnwa͡ɪθ
+PWN:once.r.03		gynt	ɡɪnt
+PWN:one-half.n.01		hanner	hannɛr
+PWN:one.s.01		un	ɪn
+PWN:onion.n.02		nionyn	nɪɔnɪn
+PWN:onion.n.02		winwnsyn	wɪnʊnsɪn
+PWN:open.a.01		agored	aɡɔrɛd
+PWN:open.v.01		agor	aɡɔr
+PWN:other.a.01		arall	araɬ
+PWN:owl.n.01		tylluan	təɬɪan
+PWN:own.v.01		meddu	mɛðɪ
+PWN:pain.n.03		gwayw	ɡwaɪ͡ʊ
+PWN:pain.n.03		poen	pɔ͡ɪn
+PWN:paint.n.01		paent	pa͡ɪnt
+PWN:paint.v.02		peintio	pɛ͡ɪnt͡ʃɔ
+PWN:palm.n.01		palf	palv
+PWN:parent.n.01		rhieni	r̥ɪɛnɪ
+PWN:part.n.02		rhan	r̥an
+PWN:part.n.03		darn	darn
+PWN:pasture.n.01		porfa	pɔrva
+PWN:path.n.02		llwybr	ɬʊ͡ɪbr
+PWN:paw.n.01		ewin	ɛ͡ʊɪn
+PWN:pay.v.01		talu	talɪ
+PWN:peak.n.04		copa	kɔpa
+PWN:peel.n.02		croen	krɔ͡ɪn
+PWN:peel.n.02		plisgyn	plɪsɡɪn
+PWN:people.n.01		pobl	pɔbl
+PWN:perca.n.01		draenog	dra͡ɪnɔɡ
+PWN:periphery.n.01		cwr	kʊr
+PWN:periphery.n.01		ymyl	əmɪl
+PWN:person.n.01		dyn	dɪn
+PWN:perturb.v.01		trafferthu	trafɛrθɪ
+PWN:pick.v.02		casglu	kasɡlɪ
+PWN:pick_up.v.02		codi	kɔdɪ
+PWN:picture.n.01		llun	ɬɪn
+PWN:picture.n.01		pictiwr	pɪktɪ͡ʊr
+PWN:pike.n.02		penhwyad	pɛn̥ʊ͡ɪad
+PWN:pile.n.01		pentwr	pɛntʊr
+PWN:pillow.n.01		clustog	klɪstɔɡ
+PWN:pillow.n.01		gobennydd	ɡɔbɛnnɪð
+PWN:pine.n.01		pinwydden	pɪnʊ͡ɪðɛn
+PWN:pit.n.01		pwll	pʊɬ
+PWN:pit.n.01		pydew	pədɛ͡ʊ
+PWN:play.v.05		chwarae	χwara͡ɪ
+PWN:pointed.a.01		pigfain	pɪɡva͡ɪn
+PWN:pole.n.01		polyn	pɔlɪn
+PWN:poor.a.02		tlawd	tla͡ʊd
+PWN:populate.v.01		byw	bɪ͡ʊ
+PWN:position.n.01		lle	ɬɛ
+PWN:pot.n.01		crochan	krɔχan
+PWN:pot.n.01		pot	pɔt
+PWN:pouch.n.01		cwd	kʊd
+PWN:pour.v.01		tywallt	tə͡ʊaɬt
+PWN:power.n.01		awdurdod	a͡ʊdɪrdɔd
+PWN:power.n.01		grym	ɡrɪm
+PWN:powerful.a.01		grymus	ɡrəmɪs
+PWN:powerful.a.01		nerthol	nɛrθɔl
+PWN:press.v.01		gwasgu	ɡwasɡɪ
+PWN:press.v.01		pwyso	pʊ͡ɪsɔ
+PWN:price.n.02		pris	prɪs
+PWN:produce.v.02		cynhyrchu	kən̥ərχɪ
+PWN:produce.v.02		gwneud	ɡʊnɛ͡ɪd
+PWN:promise.v.01		addo	aðɔ
+PWN:protect.v.01		noddi	nɔðɪ
+PWN:pull.v.01		tynnu	tənnɪ
+PWN:push.v.01		gwthio	ɡʊθɪɔ
+PWN:put.v.01		gosod	ɡɔsɔd
+PWN:quantity.n.03		maint	ma͡ɪnt
+PWN:quantity.n.03		swm	sʊm
+PWN:rain.n.01		glaw	ɡla͡ʊ
+PWN:rain.v.01		glawio	ɡla͡ʊɪɔ
+PWN:rainbow.n.01		enfys	ɛnvɪs
+PWN:raise.v.02		dyrchafu	dərχavɪ
+PWN:raw.a.03		amrwd	amrʊd
+PWN:read.v.01		darllen	darɬɛn
+PWN:rear.v.02		dod i fyny	dɔd ɪ vənɪ
+PWN:recognize.v.04		adnabod	adnabɔd
+PWN:recuperate.v.04		cael yn ôl	ka͡ɪl ən oːl
+PWN:recuperate.v.04		gwella	ɡwɛɬa
+PWN:red.s.01		coch	kɔχ
+PWN:remember.v.01		cofio	kɔvɪɔ
+PWN:repair.v.01		atgyweirio	atɡə͡ʊɛ͡ɪrɪɔ
+PWN:repair.v.01		trwsio	trʊʃɔ
+PWN:rescue.v.01		achub	aχɪb
+PWN:rest.v.05		dadflino	dadvlɪnɔ
+PWN:rest.v.05		ymlacio	əmlakɪɔ
+PWN:result.v.01		diweddu	dɪ͡ʊɛðɪ
+PWN:ribbon.n.04		rhuban	r̥ɪban
+PWN:rich.a.01		cyfoethog	kəvɔ͡ɪθɔɡ
+PWN:riddle.n.01		pos	pɔs
+PWN:right.r.04		de	dɛ
+PWN:right.r.04		deau	dɛa͡ɪ
+PWN:ring.n.08		modrwy	mɔdrʊ͡ɪ
+PWN:ring.v.01		canu	kanɪ
+PWN:ring.v.01		seinio	sɛ͡ɪnɪɔ
+PWN:ring.v.03		canu	kanɪ
+PWN:rinse.v.01		streulio	strɛ͡ɪlɪɔ
+PWN:ripe.a.01		aeddfed	a͡ɪðvɛd
+PWN:ripen.v.02		aeddfedu	a͡ɪðvɛdɪ
+PWN:rise.v.16		codi	kɔdɪ
+PWN:river.n.01		afon	avɔn
+PWN:road.n.01		ffordd	fɔrð
+PWN:road.n.01		ffordd	fɔrð
+PWN:road.n.01		heol	hɛɔl
+PWN:roar.v.01		rhuo	r̥ɪɔ
+PWN:rock.n.01		carreg	karrɛɡ
+PWN:rock.v.01		siglo	sɪɡlɔ
+PWN:roof.n.01		to	tɔ
+PWN:root.n.01		gwreiddyn	ɡwrɛ͡ɪðɪn
+PWN:round.a.01		crwn	krʊn
+PWN:row.v.01		rhwyfo	r̥ʊ͡ɪvɔ
+PWN:rub.v.01		rhwbio	r̥ʊbɪɔ
+PWN:run.v.01		rhedeg	r̥ɛdɛɡ
+PWN:run.v.06		ffrydio	frədɪɔ
+PWN:run.v.06		llifo	ɬɪvɔ
+PWN:rush.v.01		rhuthro	r̥ɪθrɔ
+PWN:rush.v.04		brysio	brəʃɔ
+PWN:rush.v.04		rhuthro	r̥ɪθrɔ
+PWN:rustle.v.01		chwithrwd	χwɪθrʊd
+PWN:rustle.v.01		siffrwd	sɪfrʊd
+PWN:sack.n.01		sach	saχ
+PWN:sad.a.01		trist	trɪst
+PWN:salt.n.02		halen	halɛn
+PWN:sand.n.01		tywod	tə͡ʊɔd
+PWN:saturday.n.01		dydd Sadwrn	dəð sadʊrn
+PWN:scarf.n.01		sgarff	sɡarf
+PWN:scrape.v.01		crafu	kravɪ
+PWN:sea.n.01		môr	moːr
+PWN:search.v.01		chwilio am	χwɪlɪɔ am
+PWN:seashore.n.01		arfordir	arvɔrdɪr
+PWN:seashore.n.01		traeth	tra͡ɪθ
+PWN:seat.v.01		gosod	ɡɔsɔd
+PWN:second.s.01		ail	a͡ɪl
+PWN:see.v.01		gweld	ɡwɛld
+PWN:seed.n.02		had	had
+PWN:sell.v.01		gwerthu	ɡwɛrθɪ
+PWN:send.v.01		anfon	anvɔn
+PWN:separate.v.02		ymwahanu	əmwahanɪ
+PWN:september.n.01		Medi	mɛdɪ
+PWN:set.v.10		machlud	maχlɪd
+PWN:seven.s.01		saith	sa͡ɪθ
+PWN:seventy.s.01		deg a thrigain	dɛɡ a θrɪɡa͡ɪn
+PWN:seventy.s.01		saith deg	sa͡ɪθ dɛɡ
+PWN:severe.s.01		enbyd	ɛnbɪd
+PWN:sew.v.01		gwnïo	ɡʊnɪɔ
+PWN:shadow.n.01		cysgod	kəsɡɔd
+PWN:shake.v.01		siglo	sɪɡlɔ
+PWN:shake.v.01		ysgwyd	əsɡʊ͡ɪd
+PWN:shake.v.08		ysgytio	əsɡət͡ʃɔ
+PWN:sharp.a.09		miniog	mɪnɪɔɡ
+PWN:sharpen.v.01		hogi	hɔɡɪ
+PWN:shatter.v.03		torri	tɔrrɪ
+PWN:sheep.n.01		dafad	davad
+PWN:shelf.n.01		silff	sɪlf
+PWN:shine.v.02		tywynnu	tə͡ʊənnɪ
+PWN:shirt.n.01		crys	krɪs
+PWN:shoe.n.01		esgid	ɛsɡɪd
+PWN:shoot.v.01		saethu	sa͡ɪθɪ
+PWN:shop.n.01		siop	ʃɔp
+PWN:shore.n.01		glan	ɡlan
+PWN:short.a.02		byr	bɪr
+PWN:short.a.02		cwta	kʊta
+PWN:shoulder.n.01		ysgwydd	əsɡʊ͡ɪð
+PWN:shovel.n.01		rhaw	r̥a͡ʊ
+PWN:shudder.v.02		crynu	krənɪ
+PWN:shut.a.01		caead	ka͡ɪad
+PWN:shut.a.01		caeëdig	ka͡ɪɛdɪɡ
+PWN:side.n.01		ochr	ɔχr
+PWN:silence.n.01		tawelwch	ta͡ʊɛlʊχ
+PWN:silver.n.01		arian	arɪan
+PWN:sin.n.01		pechod	pɛχɔd
+PWN:sing.v.02		canu	kanɪ
+PWN:sink.v.01		suddo	sɪðɔ
+PWN:sister.n.01		chwaer	χwa͡ɪr
+PWN:sit_down.v.01		eistedd	ɛ͡ɪstɛð
+PWN:sit_down.v.01		eistedd	ɛ͡ɪstɛð
+PWN:six.s.01		chwech	χwɛχ
+PWN:sixty.s.01		chwe deg	χwɛ dɛɡ
+PWN:size.n.01		maint	ma͡ɪnt
+PWN:size.n.01		maintioli	ma͡ɪnt͡ʃɔlɪ
+PWN:ski.n.01		sgi	sɡɪ
+PWN:sky.n.01		awyr	a͡ʊɪr
+PWN:slab.n.01		llech	ɬɛχ
+PWN:sled.n.01		car llusg	kar ɬɪsɡ
+PWN:sled.n.01		sled	slɛd
+PWN:sleep.n.01		cwsg	kʊsɡ
+PWN:sleep.v.01		cysgu	kəsɡɪ
+PWN:sleep.v.01		huno	hɪnɔ
+PWN:sleeve.n.01		llawes	ɬa͡ʊɛs
+PWN:slice.n.05		tafell	tavɛɬ
+PWN:slope.n.01		llethr	ɬɛθr
+PWN:small.a.01		bach	baχ
+PWN:smell.v.01		arogli	arɔɡlɪ
+PWN:smoke.n.02		mwg	mʊɡ
+PWN:smooth.a.01		llyfn	ɬɪvn
+PWN:snake.n.01		neidr	nɛ͡ɪdr
+PWN:snap.v.03		clecian	klɛkɪan
+PWN:snap.v.03		torri'n glats	tɔrrɪˈn ɡlats
+PWN:snog.v.01		cusanu	kɪsanɪ
+PWN:snow.n.01		eira	ɛ͡ɪra
+PWN:snow.n.01		ôd	oːd
+PWN:soft.a.01		meddal	mɛðal
+PWN:sometimes.r.01		ar brydiau	ar brədɪa͡ɪ
+PWN:sometimes.r.01		weithiau	wɛ͡ɪθɪa͡ɪ
+PWN:son.n.01		mab	mab
+PWN:song.n.01		cân	kɑːn
+PWN:soon.r.01		gyda hyn	ɡəda hɪn
+PWN:soon.r.01		yn fuan	ən vɪan
+PWN:sore.n.01		clwyf	klʊ͡ɪv
+PWN:sound.v.02		seinio	sɛ͡ɪnɪɔ
+PWN:soup.n.01		cawl	ka͡ʊl
+PWN:sour.a.02		sur	sɪr
+PWN:south.n.03		de	dɛ
+PWN:space.n.02		lle	ɬɛ
+PWN:spade.n.02		rhaw	r̥a͡ʊ
+PWN:spark.n.06		gwreichioni	ɡwrɛ͡ɪχɪɔnɪ
+PWN:speak.v.03		llefaru	ɬɛvarɪ
+PWN:spider.n.01		cor	kɔr
+PWN:spider.n.01		pryf copyn	prəv kɔpɪn
+PWN:spirit.n.04		ysbryd	əsbrɪd
+PWN:spoil.v.02		braenu	bra͡ɪnɪ
+PWN:spoil.v.02		pydru	pədrɪ
+PWN:spoon.n.01		llwy	ɬʊ͡ɪ
+PWN:spring.n.01		gwanwyn	ɡwanʊ͡ɪn
+PWN:spring.n.03		ffynhonnell	fən̥ɔnnɛɬ
+PWN:spring.n.03		tarddiad	tarðɪad
+PWN:squirrel.n.01		gwiwer	ɡwɪ͡ʊɛr
+PWN:stand.v.01		sefyll	sɛvɪɬ
+PWN:star.n.03		seren	sɛrɛn
+PWN:state.n.04		gwladwriaeth	ɡʊladwrɪa͡ɪθ
+PWN:stay.v.04		aros	arɔs
+PWN:stay.v.04		sefyll	sɛvɪɬ
+PWN:steal.v.01		dwyn	dʊ͡ɪn
+PWN:steal.v.01		lladrata	ɬadrata
+PWN:step.v.01		camu	kamɪ
+PWN:stick.n.01		brigyn	brɪɡɪn
+PWN:stick.n.01		ffon	fɔn
+PWN:still.r.01		eto	ɛtɔ
+PWN:sting.v.02		pigo	pɪɡɔ
+PWN:stingy.a.01		crintach	krɪntaχ
+PWN:stingy.a.01		cybyddlyd	kəbəðlɪd
+PWN:stir.v.01		cyffroi	kəfrɔ͡ɪ
+PWN:stomach.n.01		cylla	kəɬa
+PWN:stomach.n.01		stumog	stɪmɔɡ
+PWN:stop.v.01		stopio	stɔpɪɔ
+PWN:stove.n.01		stof	stɔv
+PWN:strap.n.01		strap	strap
+PWN:strength.n.01		cryfder	krəvdɛr
+PWN:strength.n.01		nerth	nɛrθ
+PWN:strike.v.01		curo	kɪrɔ
+PWN:strike.v.01		taro	tarɔ
+PWN:string.n.01		llinyn	ɬɪnɪn
+PWN:stroke.n.10		strôc	stroːk
+PWN:stroke.n.10		trawiad	tra͡ʊɪad
+PWN:strong.a.01		cadarn	kadarn
+PWN:strong.a.01		cryf	krɪv
+PWN:stupid.a.01		twp	tʊp
+PWN:subsequently.r.01		wedyn	wɛdɪn
+PWN:succeed.v.01		llwyddo	ɬʊ͡ɪðɔ
+PWN:suddenly.r.01		yn sydyn	ən sədɪn
+PWN:summer.n.01		haf	hav
+PWN:sun.n.01		haul	ha͡ɪl
+PWN:sunday.n.01		dydd Sul	dəð sɪl
+PWN:support.n.07		ateg	atɛɡ
+PWN:support.n.07		cynhalydd	kən̥alɪð
+PWN:swallow.v.01		llyncu	ɬənkɪ
+PWN:swamp.n.01		cors	kɔrs
+PWN:swan.n.01		alarch	alarχ
+PWN:sweep.v.06		ysgubo	əsɡɪbɔ
+PWN:sweet.a.01		melys	mɛlɪs
+PWN:swim.v.01		nofio	nɔvɪɔ
+PWN:swing.v.01		siglo	sɪɡlɔ
+PWN:swing.v.05		siglo	sɪɡlɔ
+PWN:swing_around.v.01		troi	trɔ͡ɪ
+PWN:table.n.02		bwrdd	bʊrð
+PWN:tail.n.01		cwt	kʊt
+PWN:tail.n.01		cynffon	kənfɔn
+PWN:take.v.04		cymryd	kəmrɪd
+PWN:talk.v.02		siarad	ʃarad
+PWN:taste.n.01		cyflas	kəvlas
+PWN:taste.v.01		profi	prɔvɪ
+PWN:tasty.a.01		blasus	blasɪs
+PWN:tasty.a.01		danteithiol	dantɛ͡ɪθɪɔl
+PWN:tea.n.01		te	tɛ
+PWN:teach.v.01		dysgu	dəsɡɪ
+PWN:teacher.n.01		athro	aθrɔ
+PWN:tear.n.01		deigryn	dɛ͡ɪɡrɪn
+PWN:tear.v.01		rhwygo	r̥ʊ͡ɪɡɔ
+PWN:tell.v.03		dweud	dwɛ͡ɪd
+PWN:ten.s.01		deg	dɛɡ
+PWN:tendon.n.01		gewyn	ɡɛ͡ʊɪn
+PWN:tether.v.01		clymu	kləmɪ
+PWN:then.r.01		y pryd hwnnw	ə prəd hʊnnʊ
+PWN:then.r.01		yna	əna
+PWN:then.r.03		ar y pryd	ar ə prɪd
+PWN:then.r.03		bryd hynny	brəd hənnɪ
+PWN:there.r.01		acw	akʊ
+PWN:there.r.03		tuag yno	tɪaɡ ənɔ
+PWN:thick.a.01		trwchus	trʊχɪs
+PWN:thick.a.03		dwys	dʊ͡ɪs
+PWN:thigh.n.01		clun	klɪn
+PWN:thin.a.01		tenau	tɛna͡ɪ
+PWN:thin.a.02		main	ma͡ɪn
+PWN:thing.n.09		pwnc	pʊnk
+PWN:thing.n.12		peth	pɛθ
+PWN:think.v.03		meddwl	mɛðʊl
+PWN:third.s.01		trydydd	trədɪð
+PWN:thirty.s.01		deg ar hugain	dɛɡ ar hɪɡa͡ɪn
+PWN:thirty.s.01		tri deg	trɪ dɛɡ
+PWN:thorax.n.02		brest	brɛst
+PWN:thousand.s.01		mil	mɪl
+PWN:thread.n.01		edau	ɛda͡ɪ
+PWN:thread.n.01		edefyn	ɛdɛvɪn
+PWN:three.s.01		tri	trɪ
+PWN:throat.n.01		gwddf	ɡʊðv
+PWN:through.r.01		trwy	trʊ͡ɪ
+PWN:thrust.v.01		gwthio	ɡʊθɪɔ
+PWN:thunder.n.02		tyrfau	tərva͡ɪ
+PWN:thunder.v.03		taranu	taranɪ
+PWN:thursday.n.01		dydd Iau	dəð ɪa͡ɪ
+PWN:thus.r.02		fel	vɛl
+PWN:thus.r.02		felly	vɛɬɪ
+PWN:tie.v.01		clymu	kləmɪ
+PWN:time.n.05		amser	amsɛr
+PWN:tinkle.v.01		tincian	tɪnkɪan
+PWN:tip.n.01		blaen	bla͡ɪn
+PWN:tire.v.02		blino	blɪnɔ
+PWN:today.r.02		heddiw	hɛðɪ͡ʊ
+PWN:toe.n.01		bys troed	bəs trɔ͡ɪd
+PWN:together.r.01		gyda'i gilydd	ɡədaˈɪ ɡɪlɪð
+PWN:together.r.01		ynghyd	əŋ̥ɪd
+PWN:token.n.02		arwydd	arʊ͡ɪð
+PWN:tomorrow.r.01		yfory	əvɔrɪ
+PWN:tone.n.07		tôn	toːn
+PWN:tongue.n.01		tafod	tavɔd
+PWN:tooth.n.01		dant	dant
+PWN:touch.v.01		cyffwrdd	kəfʊrð
+PWN:towel.n.01		lliain sychu	ɬɪa͡ɪn səχɪ
+PWN:towel.n.01		tywel	tə͡ʊɛl
+PWN:town.n.01		tref	trɛv
+PWN:translate.v.01		cyfieithu	kəvɪɛ͡ɪθɪ
+PWN:transport.v.02		cludo	klɪdɔ
+PWN:trap.n.01		magl	maɡl
+PWN:trap.v.02		dal	dal
+PWN:travel.v.01		mynd	mɪnd
+PWN:travel.v.01		symud	səmɪd
+PWN:tree.n.01		coeden	kɔ͡ɪdɛn
+PWN:trouser.n.01		trowsus	trɔ͡ʊsɪs
+PWN:true.a.01		gwir	ɡwɪr
+PWN:trunk.n.01		boncyff	bɔnkɪf
+PWN:trunk.n.01		colfen	kɔlvɛn
+PWN:truth.n.01		gwir	ɡwɪr
+PWN:truth.n.01		gwirionedd	ɡwɪrɪɔnɛð
+PWN:try.v.01		ceisio	kɛ͡ɪʃɔ
+PWN:try.v.01		profi	prɔvɪ
+PWN:tube.n.01		pibell	pɪbɛɬ
+PWN:tuesday.n.01		dydd Mawrth	dəð ma͡ʊrθ
+PWN:tumble.v.01		cwympo	kʊ͡ɪmpɔ
+PWN:turn.v.04		troi	trɔ͡ɪ
+PWN:twelve.s.01		deuddeg	dɛ͡ɪðɛɡ
+PWN:twelve.s.01		un deg dau	ɪn dɛɡ da͡ɪ
+PWN:twenty.s.01		ugain	ɪɡa͡ɪn
+PWN:two.s.01		dau	da͡ɪ
+PWN:uncle.n.01		ewythr	ɛ͡ʊɪθr
+PWN:understand.v.01		deall	dɛaɬ
+PWN:undress.v.01		tynnu	tənnɪ
+PWN:unfold.v.04		taenu	ta͡ɪnɪ
+PWN:up.r.01		i fyny	ɪ vənɪ
+PWN:up.r.01		i'r lan	ɪˈr lan
+PWN:urge.v.01		annog	annɔɡ
+PWN:vainly.r.01		yn ofer	ən ɔvɛr
+PWN:vein.n.01		gwythïen	ɡʊ͡ɪθɪɛn
+PWN:very.r.01		iawn	ɪa͡ʊn
+PWN:victimize.v.03		hocedu	hɔkɛdɪ
+PWN:village.n.02		pentref	pɛntrɛv
+PWN:violence.n.01		ffyrnigrwydd	fərnɪɡrʊ͡ɪð
+PWN:visible.a.01		dod i'r golwg	dɔd ɪˈr ɡɔlʊɡ
+PWN:visit.v.07		ymweld â	əmwɛld ɑː
+PWN:voice.n.02		llais	ɬa͡ɪs
+PWN:wait.v.01		aros	arɔs
+PWN:wait.v.01		disgwyl	dɪsɡʊ͡ɪl
+PWN:wake_up.v.02		dihuno	dɪhɪnɔ
+PWN:walk.n.01		tro	trɔ
+PWN:walk.v.01		cerdded	kɛrðɛd
+PWN:walk.v.10		mynd am dro	mənd am drɔ
+PWN:war.n.01		rhyfel	r̥əvɛl
+PWN:ware.n.01		nwydd	nʊ͡ɪð
+PWN:warm.a.01		cynnes	kənnɛs
+PWN:warm.a.01		twym	tʊ͡ɪm
+PWN:wash.v.02		ymolchi	əmɔlχɪ
+PWN:wash.v.03		golchi	ɡɔlχɪ
+PWN:watch.v.01		gwylio	ɡʊ͡ɪlɪɔ
+PWN:water.n.06		dŵr	duːr
+PWN:water.v.01		dyfrhau	dəvr̥a͡ɪ
+PWN:wave.n.01		ton	tɔn
+PWN:weak.a.01		gwan	ɡwan
+PWN:wealth.n.01		cyfoeth	kəvɔ͡ɪθ
+PWN:wear.v.09		gwisgo	ɡwɪsɡɔ
+PWN:weather.n.01		tywydd	tə͡ʊɪð
+PWN:wednesday.n.01		dydd Mercher	dəð mɛrχɛr
+PWN:week.n.01		wythnos	ʊ͡ɪθnɔs
+PWN:weight.n.01		pwysau	pʊ͡ɪsa͡ɪ
+PWN:well.n.01		ffynnon	fənnɔn
+PWN:west.n.02		gorllewin	ɡɔrɬɛ͡ʊɪn
+PWN:wet.a.01		gwlyb	ɡʊlɪb
+PWN:whistle.v.03		chwibanu	χwɪbanɪ
+PWN:white.a.01		gwyn	ɡʊ͡ɪn
+PWN:wide.a.01		llydan	ɬədan
+PWN:wife.n.01		gwraig	ɡwra͡ɪɡ
+PWN:willow.n.01		helygen	hɛləɡɛn
+PWN:win.v.01		ennill	ɛnnɪɬ
+PWN:wind.n.01		gwynt	ɡʊ͡ɪnt
+PWN:wind.v.03		lapio	lapɪɔ
+PWN:window.n.01		ffenestr	fɛnɛstr
+PWN:wing.n.01		adain	ada͡ɪn
+PWN:winter.n.01		gaeaf	ɡa͡ɪav
+PWN:wipe.v.01		sychu	səχɪ
+PWN:wolf.n.01		blaidd	bla͡ɪð
+PWN:woman.n.01		gwraig	ɡwra͡ɪɡ
+PWN:woman.n.01		merch	mɛrχ
+PWN:wood.n.01		pren	prɛn
+PWN:wool.n.02		gwlân	ɡʊlɑːn
+PWN:word.n.01		gair	ɡa͡ɪr
+PWN:work.n.01		gwaith	ɡwa͡ɪθ
+PWN:work.v.01		gweithio	ɡwɛ͡ɪθɪɔ
+PWN:worker.n.01		gweithiwr	ɡwɛ͡ɪθɪ͡ʊr
+PWN:world.n.02		byd	bɪd
+PWN:worm.n.01		abwydyn	abʊ͡ɪdɪn
+PWN:worm.n.01		pryf genwair	prəv ɡɛnwa͡ɪr
+PWN:write.v.02		ysgrifennu	əsɡrɪvɛnnɪ
+PWN:year.n.01		blwyddyn	blʊ͡ɪðɪn
+PWN:yellow.s.01		melyn	mɛlɪn
+PWN:yesterday.r.01		ddoe	ðɔ͡ɪ
+PWN:young.a.01		ifanc	ɪvank

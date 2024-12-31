@@ -1,532 +1,1239 @@
 id	style	word	pronunciation
-Action:can.V		ahal izan	ahal isan
-Agriculture:herd (something).V		begiratu	beɡiɾatu
-Agriculture:irrigate.V		isuri	iɕuɾi
-Agriculture:pick.V		batu	batu
-Agriculture:pick.V		bildu	bildu
-Agriculture:shovel.N		pala	pala
-Animal:Anatidae.N		ahate	ahate
-Animal:Annelida.N		har	haɾ
-Animal:Araneae.N		armiarma	aɾmiɑɾma
-Animal:Aves.N		hegazti	heɡasti
-Animal:Aves.N		txori	t͡ʃoɾi
-Animal:Canis lupus familiaris.N		txakur	t͡ʃakuɾ
-Animal:Canis lupus.N		otso	ot͡ɕo
-Animal:Corvus.N		bele	bele
-Animal:Culicidae.N		eltxo	elt͡ʃo
-Animal:Diptera.N		euli	ɛuli
-Animal:Equus ferus caballus.N		zaldi	saldi
-Animal:Felis catus.N		katu	katu
-Animal:Formicidae.N		inurri	inuri
-Animal:Gallus gallus domesticus.N		oilo	ɔjlo
-Animal:Homo sapiens.N		gizaki	ɡisaki
-Animal:Ovis aries.N		ardi	aɾdi
-Animal:Rhopalocera.N		pinpirin	pinpiɾin
-Animal:Rhopalocera.N		tximeleta	t͡ʃimeleta
-Animal:Sciuridae.N		urtxintxa	uɾt͡ʃint͡ʃa
-Animal:Serpentes.N		suge	ɕuɡe
-Animal:Sus scrofa domestica.N		txerri	t͡ʃeri
-Animal:Sus scrofa domestica.N		urde	uɾde
-Animal:Ursidae.N		hartz	haɾt͡s
-Animal:Vulpes.N		azeri	aseɾi
-Animal:animal.N		abere	abeɾe
-Animal:animal.N		piztia	pistiɑ
-Animal:fish.N		arrain	arɑjn
-Animal:mouse.N		sagu	ɕaɡu
-Animal:wool.N		artile	aɾtile
-Atmosphere:cloud.N		hodei	hodɛj
-Atmosphere:cold.A		hotzil	hot͡sil
-Atmosphere:fog.N		laino	lɑjno
-Atmosphere:rain.N		euri	ɛuɾi
-Atmosphere:rain.V		euria ari izan	ɛuɾiɑ aɾi isan
-Atmosphere:rainbow.N		ortzadar	oɾt͡sadaɾ
-Atmosphere:rainbow.N		ostadar	oɕtadaɾ
-Atmosphere:sky.N		zeru	seɾu
-Atmosphere:thunder.N		ihurtzuri	ihuɾt͡suɾi
-Atmosphere:thunder.N		ostots	oɕtot͡ɕ
-Atmosphere:thunder.V		trumoia jo	tɾumɔja d͡ʒo
-Atmosphere:weather.N		eguraldi	eɡuɾaldi
-Atmosphere:wind.N		haize	hɑjse
-Belief:deity.N		jainko	d͡ʒɑjnko
-Belief:idol.N		figura	fiɡuɾa
-Belief:spirit.N		gogo	ɡoɡo
-Body:arm.N		beso	beɕo
-Body:back.N		bizkar	biskaɾ
-Body:beard.N		bizar	bisaɾ
-Body:belly.N		sabel	ɕabel
-Body:blood.N		odol	odol
-Body:blow.V		putz egin	put͡s eɡin
-Body:blow.V		ufa egin	ufa eɡin
-Body:body.N		soin	ɕɔjn
-Body:bone.N		hezur	hesuɾ
-Body:brain.N		burmuin	buɾmuin
-Body:brain.N		garun	ɡaɾun
-Body:breast.N		titi	titi
-Body:breast.N		ugatz	uɡat͡s
-Body:breath.N		arnasa	aɾnaɕa
-Body:breath.N		hats	hat͡ɕ
-Body:breath.V		arnasa egin	aɾnaɕa eɡin
-Body:breath.V		hats egin	hat͡ɕ eɡin
-Body:cheek.N		masail	maɕɑjl
-Body:chest.N		bular	bulaɾ
-Body:chin.N		kokots	kokot͡ɕ
-Body:ear.N		belarri	belari
-Body:elbow.N		ukondo	ukondo
-Body:eye.N		begi	beɡi
-Body:face.N		aurpegi	ɑuɾpeɡi
-Body:fat.N		koipe	kɔjpe
-Body:fat.N		urin	uɾin
-Body:feather.N		hegaki	heɡaki
-Body:feather.N		luma	luma
-Body:finger.N		hatz	hat͡s
-Body:fingernail.N		azazkal	asaskal
-Body:foot.N		oin	ɔjn
-Body:footprint.N		lorratz	lorat͡s
-Body:forehead.N		bekoki	bekoki
-Body:fur.N		ile	ile
-Body:fur.N		larru	laru
-Body:hair.N		bilo	bilo
-Body:hair.N		ile	ile
-Body:hand.N		esku	eɕku
-Body:head.N		buru	buɾu
-Body:heart.N		bihotz	bihot͡s
-Body:heel.N		oinburu	ɔjnbuɾu
-Body:heel.N		orpo	oɾpo
-Body:horn.N		adar	adaɾ
-Body:jaw.N		masailezur	maɕɑjlesuɾ
-Body:knee.N		belaun	belɑun
-Body:leg.N		zango	sanɡo
-Body:lip.N		ezpain	espɑjn
-Body:liver.N		gibel	ɡibel
-Body:moustache.N		bibote	bibote
-Body:moustache.N		sudurpeko	ɕuduɾpeko
-Body:mouth.N		aho	aho
-Body:nail.N		azazkal	asaskal
-Body:nape.N		garondo	ɡaɾondo
-Body:navel.N		zilbor	silboɾ
-Body:neck.N		sama	ɕama
-Body:nose.N		sudur	ɕuduɾ
-Body:obese.A		gizen	ɡisen
-Body:palm.N		ahur	ahuɾ
-Body:shoulder.N		besaburu	beɕabuɾu
-Body:skin.N		azal	asal
-Body:stomach.N		urdail	uɾdɑjl
-Body:tail.N		buztan	bustan
-Body:tail.N		isats	iɕat͡ɕ
-Body:tear.N		malko	malko
-Body:tendon.N		gihar-zain	ɡihaɾsɑjn
-Body:throat.N		eztarri	estari
-Body:toe.N		behatz	behat͡s
-Body:tongue.N		mihi	mihi
-Body:tooth.N		hortz	hoɾt͡s
-Body:upper leg.N		izter	isteɾ
-Body:vein.N		zain	sɑjn
-Body:wing.N		hego	heɡo
-Body:wound.N		zauri	sɑuɾi
-Building:board.N		ohol	ohol
-Building:build.V		eraiki	eɾɑjki
-Building:door.N		ate	ate
-Building:floor.N		zoru	soɾu
-Building:gate.N		atari	ataɾi
-Building:house.N		etxe	et͡ʃe
-Building:post.N		haga	haɡa
-Building:roof.N		teilatu	tɛjlatu
-Building:window.N		leiho	lɛjho
-Cleaning:broom.N		erratz	erat͡s
-Cleaning:clean (sth).V		garbitu	ɡaɾbitu
-Cleaning:clean (sth).V		ikuzi	ikusi
-Cleaning:clean.A		garbi	ɡaɾbi
-Cleaning:clean.A		xahu	ʃahu
-Cleaning:dirt.N		lohi	lohi
-Cleaning:dirt.N		zikin	sikin
-Cleaning:dirty.A		lohi	lohi
-Cleaning:dirty.A		zikin	sikin
-Cleaning:sweep.V		erraztatu	erastatu
-Cleaning:wash (oneself).V		burua garbitu	buɾuɑ ɡaɾbitu
-Cleaning:wash.V		garbitu	ɡaɾbitu
-Cleaning:wash.V		xahutu	ʃahutu
-Cleaning:wipe.V		xukatu	ʃukatu
-Clothing:belt.N		gerriko	ɡeriko
-Clothing:boot.N		bota	bota
-Clothing:button.N		botoi	botɔj
-Clothing:cap.N		txano	t͡ʃano
-Clothing:cap.N		txapel	t͡ʃapel
-Clothing:cloth.N		ehun	ehun
-Clothing:clothes.N		arropa	aropa
-Clothing:clothes.N		jantziak	d͡ʒant͡siɑk
-Clothing:collar.N		idun	idun
-Clothing:dress up.V		jantzi	d͡ʒant͡si
-Clothing:dye.V		tindatu	tindatu
-Clothing:knit.V		puntu egin	puntu eɡin
-Clothing:knit.V		trikotatu	tɾikotatu
-Clothing:leather.N		larru	laru
-Clothing:naked.A		biluzi	bilusi
-Clothing:needle.N		jostorratz	d͡ʒoɕtorat͡s
-Clothing:needle.N		orratz	orat͡s
-Clothing:put on.V		jantzi	d͡ʒant͡si
-Clothing:scarf or turban.N		oihal	ɔjhal
-Clothing:scarf or turban.N		zapi	sapi
-Clothing:sew.V		josi	d͡ʒoɕi
-Clothing:shirt.N		alkandora	alkandoɾa
-Clothing:shirt.N		atorra	atora
-Clothing:shoe.N		oinetako	ɔjnetako
-Clothing:shoe.N		oski	oɕki
-Clothing:sleeve.N		mahuka	mahuka
-Clothing:thread.N		hari	haɾi
-Clothing:towel.N		eskuoihal	eɕkuɔjhal
-Clothing:towel.N		eskuzapi	eɕkusapi
-Clothing:trousers.N		galtzak	ɡalt͡sak
-Clothing:trousers.N		prakak	pɾakak
-Clothing:undress.V		erantzi	eɾant͡si
-Cognition:familiar.A		ezagun	esaɡun
-Cognition:true.A		egiazko	eɡiɑsko
-Cognition:truth.N		egia	eɡiɑ
-Cognition:wake up (tr).V		esnatu	eɕnatu
-Cognition:wake up (tr).V		iratzartu	iɾat͡saɾtu
-Cognition:wake up.V		atzarri	at͡sari
-Cognition:wake up.V		esnatu	eɕnatu
-Combat:brawl.V		elkar borrokatu	elkaɾ borokatu
-Combat:brawl.V		elkar jo	elkaɾ d͡ʒo
-Combat:fight.N		auska	ɑuɕka
-Combat:fight.N		gudu	ɡudu
-Combat:strike (sb).V		erauntsi	eɾɑunt͡ɕi
-Combat:strike (sb).V		jo	d͡ʒo
-Combat:violence.N		bortizkeria	boɾtiskeɾiɑ
-Combat:violence.N		bortxa	boɾt͡ʃa
-Combat:win.V		irabazi	iɾabasi
-Communication:boast.V		ahoberokeriak esan	ahobeɾokeɾiɑk eɕan
-Communication:boast.V		harrokerian ibili	harokeɾiɑn ibili
-Communication:book.N		liburu	libuɾu
-Communication:call.V		dei egin	dɛj eɡin
-Communication:chat.V		solas egin	ɕolaɕ eɡin
-Communication:chat.V		solastu	ɕolaɕtu
-Communication:convey (a message).V		jakinarazi	d͡ʒakinaɾasi
-Communication:fairy tale.N		ipuin	ipuin
-Communication:kiss.V		musu eman	muɕu eman
-Communication:language.N		hizkuntza	hiskunt͡sa
-Communication:letter.N		eskutitz	eɕkutit͡s
-Communication:letter.N		gutun	ɡutun
-Communication:lie.N		gezur	ɡesuɾ
-Communication:news.N		berri	beri
-Communication:newspaper.N		egunkari	eɡunkaɾi
-Communication:talk.V		hitz egin	hit͡s eɡin
-Communication:tell.V		edestu	edeɕtu
-Communication:tell.V		kontatu	kontatu
-Communication:translate.V		itzuli	it͡suli
-Communiction:call.N		dei	dɛj
-Cosmos:Sun.N		eguzki	eɡuski
-Cosmos:moon.N		ilargi	ilaɾɡi
-Cosmos:set.V		sartu	ɕaɾtu
-Cosmos:star.N		izar	isaɾ
-Degree:very.ADV		oso	oɕo
-Element:Ag.N		urrezuri	uresuɾi
-Element:Ag.N		zilar	silaɾ
-Element:Au.N		urre	ure
-Element:Au.N		urregorri	ureɡori
-Element:Fe.N		burdina	buɾdina
-Emotion:be angry.V		ernegatu	eɾneɡatu
-Emotion:be angry.V		haserretu	haɕeretu
-Emotion:cry.V		negar egin	neɡaɾ eɡin
-Emotion:evil.A		gaizto	ɡɑjsto
-Emotion:evil.A		tzar	t͡saɾ
-Emotion:fear.V		beldur izan	belduɾ isan
-Emotion:gentle.A		eme	eme
-Emotion:gentle.A		ezti	esti
-Emotion:grief.N		atsekabe	at͡ɕekabe
-Emotion:grief.N		xangrin	ʃanɡɾin
-Emotion:happiness.N		zori	soɾi
-Emotion:like.V		atsegin izan	at͡ɕeɡin isan
-Emotion:like.V		laket izan	laket isan
-Emotion:longing.N		gogo	ɡoɡo
-Emotion:love.V		maitatu	mɑjtatu
-Emotion:love.V		maite izan	mɑjte isan
-Emotion:merry.A		alaitsu	alɑjt͡ɕu
-Emotion:move.V		hunkitu	hunkitu
-Emotion:sad.A		betilun	betilun
-Emotion:sad.A		itun	itun
-Emotion:want.V		nahi izan	nahi isan
-Family:aunt.N		izeba	iseba
-Family:brother.N		anaia	anɑja
-Family:brother.N		neba	neba
-Family:daughter.N		alaba	alaba
-Family:family.N		familia	familiɑ
-Family:family.N		sendi	ɕendi
-Family:father.N		aita	ɑjta
-Family:grandfather.N		aitatxi	ɑjtat͡ʃi
-Family:grandfather.N		aitona	ɑjtona
-Family:grandmother.N		amatxi	amat͡ʃi
-Family:grandmother.N		amona	amona
-Family:husband.N		senar	ɕenaɾ
-Family:mother.N		ama	ama
-Family:parents.N		gurasoak	ɡuɾaɕoak
-Family:sister.N		ahizpa	ahispa
-Family:son.N		seme	ɕeme
-Family:uncle.N		osaba	oɕaba
-Family:wife.N		emazte	emaste
-Food:Camellia sinensis.N		te	te
-Food:Malus domestica.N		sagar	ɕaɡaɾ
-Food:NaCl.N		gatz	ɡat͡s
-Food:bake.V		labean egin	labean eɡin
-Food:bread.N		ogi	oɡi
-Food:soup.N		salda	ɕalda
-Food:soup.N		zopa	sopa
-Food:spoon.N		koilara	kɔjlaɾa
-Form:bend (sth).V		makolatu	makolatu
-Form:bend (sth).V		malgutu	malɡutu
-Form:bend.V		makurtu	makuɾtu
-Function:1PL.PRO		gu	ɡu
-Function:1SG.PRO		ni	ni
-Function:2PL.PRO		zuek	suɛk
-Function:2SG.PRO		zu	su
-Function:3PL.PRO		berak	beɾak
-Function:3SG M.PRO		bera	beɾa
-Function:and.CNJ		eta	eta
-Function:here.ADV		hemen	hemen
-Function:how many.PRO		zenbat	senbat
-Function:how.PRO		nola	nola
-Function:how.PRO		zelan	selan
-Function:not.PTCL		ez	es
-Function:or.CNJ		edo	edo
-Function:other.PRO		beste	beɕte
-Function:that.PRO		hura	huɾa
-Function:there.ADV		han	han
-Function:this.PRO		hau	hɑu
-Function:what.PRO		zer	seɾ
-Function:where.PRO		non	non
-Function:who.PRO		nor	noɾ
-Function:why.PRO		zeren	seɾen
-Function:why.PRO		zergatik	seɾɡatik
-Grooming:comb.N		orrazi	orasi
-Grooming:comb.V		orraztu	orastu
-Grooming:decorate.V		apaindu	apɑjndu
-Grooming:mirror.N		mirail	miɾɑjl
-Grooming:ring.N		uztai	ustɑj
-Handiwork:glue.V		itsatsi	it͡ɕat͡ɕi
-Handiwork:nail.N		iltze	ilt͡se
-Handiwork:repair.V		konpondu	konpondu
-Handiwork:ware.N		salgai	ɕalɡɑj
-Handiwork:worker.N		behargin	behaɾɡin
-Handiwork:worker.N		langile	lanɡile
-Health:become sick.V		gaixotu	ɡɑjʃotu
-Health:disease.N		eritasun	eɾitaɕun
-Health:disease.N		gaixotasun	ɡɑjʃotaɕun
-Health:fever.N		sukar	ɕukaɾ
-Health:healthy.A		osasun	oɕaɕun
-Health:medicine.N		osagai	oɕaɡɑj
-Health:medicine.N		sendagai	ɕendaɡɑj
-Health:physician.N		osagile	oɕaɡile
-Health:physician.N		sendagile	ɕendaɡile
-Health:recover.V		osatu	oɕatu
-House:bed.N		ohatze	ohat͡se
-House:bed.N		ohe	ohe
-House:blanket.N		burusi	buɾuɕi
-House:cradle.N		kuma	kuma
-House:cradle.N		sehaska	ɕehaɕka
-House:pillow.N		kuxin	kuʃin
-House:table.N		mahai	mahɑj
-Hunting:bow.N		arku	aɾku
-Hunting:fishing.V		arrantza egin	arant͡sa eɡin
-Hunting:fishing.V		arrantzatu	arant͡satu
-Hunting:hunt.V		ehizatu	ehisatu
-Integrity:part.N		atal	atal
-Integrity:piece.N		puska	puɕka
-Interaction:choose.V		aukeratu	ɑukeɾatu
-Interaction:choose.V		hautatu	hɑutatu
-Interaction:rescue.V		gaizkatu	ɡɑjskatu
-Interaction:rescue.V		salbatu	ɕalbatu
-Mind:dream.N		amets	amet͡ɕ
-Motion:arrive.V		heldu	heldu
-Motion:arrive.V		iritsi	iɾit͡ɕi
-Motion:bring.V		ekarri	ekari
-Motion:carry.V		eraman	eɾaman
-Motion:carry.V		eroan	eɾoan
-Motion:catch.V		atzeman	at͡seman
-Motion:climb.V		igo	iɡo
-Motion:come back.V		itzuli	it͡suli
-Motion:come.V		etorri	etori
-Motion:creep.V		narras egin	naraɕ eɡin
-Motion:drag.V		herrestatu	hereɕtatu
-Motion:drag.V		narrastu	naraɕtu
-Motion:drop (something).V		erortzen utzi	eɾoɾt͡sen ut͡si
-Motion:enter.V		sartu	ɕaɾtu
-Motion:fall.V		erori	eɾoɾi
-Motion:fly.V		hegaldatu	heɡaldatu
-Motion:fly.V		hegan egin	heɡan eɡin
-Motion:go.V		joan	d͡ʒoan
-Motion:leave.V		alde egin	alde eɡin
-Motion:lift.V		altxatu	alt͡ʃatu
-Motion:lift.V		goratu	ɡoɾatu
-Motion:move (oneself).V		higitu	hiɡitu
-Motion:raise.V		goratu	ɡoɾatu
-Motion:raise.V		jaso	d͡ʒaɕo
-Motion:step.V		oinkatu	ɔjnkatu
-Motion:swing (sth).V		zabukatu	sabukatu
-Motion:swing.V		kulunkatu	kulunkatu
-Motion:take a walk.V		ostera bat egin	oɕteɾa bat eɡin
-Motion:take a walk.V		paseatu	paɕeatu
-Motion:turn (sth).V		bihurtu	bihuɾtu
-Motion:walk.N		ibilera	ibileɾa
-Music:sing.V		abestu	abeɕtu
-Music:sing.V		kantatu	kantatu
-Music:song.N		abesti	abeɕti
-Music:tone.N		soinu	ɕɔjnu
-Music:tone.N		tonu	tonu
-Nature:river.N		ibai	ibɑj
-Nature:river.N		uhaitz	uhɑjt͡s
-Nature:sea.N		itsaso	it͡ɕaɕo
-Nature:shore of lake.N		bazter	basteɾ
-Nature:slope.N		aldapa	aldapa
-People:boy.N		mutil	mutil
-People:child.N		haur	hɑuɾ
-People:girl.N		neska	neɕka
-People:man.N		gizon	ɡison
-People:people.N		jende	d͡ʒende
-People:woman.N		andere	andeɾe
-People:woman.N		emakume	emakume
-Perception:feel.V		sentitu	ɕentitu
-Perception:hear or listen.V		aditu	aditu
-Perception:hear.V		aditu	aditu
-Perception:pain.N		min	min
-Perception:touch.V		ukitu	ukitu
-Perception:wet.A		busti	buɕti
-Perception:yellow.A		hori	hoɾi
-Plant:Betula.N		urki	uɾki
-Plant:bark.N		azal	asal
-Plant:branch.N		adar	adaɾ
-Plant:flower.N		lili	lili
-Plant:leaf.N		hosto	hoɕto
-Plant:root.N		sustrai	ɕuɕtɾɑj
-Plant:root.N		zuztar	sustaɾ
-Plant:seed.N		haziak	hasiɑk
-Plant:tree trunk.N		enbor	enboɾ
-Plant:tree.N		zuhaitz	suhɑjt͡s
-Plant:twig.N		abar	abaɾ
-Possession:abandon.V		utzietsi	ut͡siɛt͡ɕi
-Possession:gift.N		opari	opaɾi
-Possession:poor.A		behartsu	behaɾt͡ɕu
-Possession:poor.A		txiro	t͡ʃiɾo
-Possession:price.N		prezio	pɾesiɔ
-Possession:price.N		salneurri	ɕalnɛuri
-Possession:rich.A		dirudun	diɾudun
-Possession:sell.V		saldu	ɕaldu
-Quantity:1.NUM		bat	bat
-Quantity:10.NUM		hamar	hamaɾ
-Quantity:100.NUM		ehun	ehun
-Quantity:1000.NUM		mila	mila
-Quantity:11.NUM		hamaika	hamɑjka
-Quantity:12.NUM		hamabi	hamabi
-Quantity:2.NUM		bi	bi
-Quantity:2.NUM		biga	biɡa
-Quantity:20.NUM		hogei	hoɡɛj
-Quantity:3.NUM		hiru	hiɾu
-Quantity:30.NUM		hogeita hamar	hoɡɛjta hamaɾ
-Quantity:4.NUM		lau	lɑu
-Quantity:40.NUM		berrogei	beroɡɛj
-Quantity:5.NUM		bost	boɕt
-Quantity:50.NUM		berrogeita hamar	beroɡɛjta hamaɾ
-Quantity:6.NUM		sei	ɕɛj
-Quantity:60.NUM		hirurogei	hiɾuɾoɡɛj
-Quantity:7.NUM		zazpi	saspi
-Quantity:70.NUM		hirurogeita hamar	hiɾuɾoɡɛjta hamaɾ
-Quantity:8.NUM		zortzi	soɾt͡si
-Quantity:80.NUM		laurogei	lɑuɾoɡɛj
-Quantity:9.NUM		bederatzi	bedeɾat͡si
-Quantity:90.NUM		laurogeita hamar	lɑuɾoɡɛjta hamaɾ
-Quantity:a little.A		apur bat	apuɾ bat
-Quantity:a little.A		pixka bat	piʃka bat
-Quantity:add.V		eratxiki	eɾat͡ʃiki
-Quantity:add.V		gaineratu	ɡɑjneɾatu
-Quantity:decrease.V		beheratu	beheɾatu
-Quantity:decrease.V		gutxitu	ɡut͡ʃitu
-Quantity:empty.A		huts	hut͡ɕ
-Quantity:fill.V		bete	bete
-Quantity:full.A		bete	bete
-Quantity:increase.V		gora egin	ɡoɾa eɡin
-Society:help.N		helpide	helpide
-Society:help.N		laguntza	laɡunt͡sa
-Society:people.N		herri	heri
-Society:people.N		populu	populu
-Sound:chime.V		hots egin	hot͡ɕ eɡin
-Sound:chime.V		jo	d͡ʒo
-Sound:howl.V		uhuri egin	uhuɾi eɡin
-Sound:howl.V		ulu egin	ulu eɡin
-Sound:laugh.N		barre	bare
-Sound:laugh.N		karkara	kaɾkaɾa
-Sound:laugh.V		barre egin	bare eɡin
-Sound:laugh.V		irri egin	iri eɡin
-Sound:make noise.V		zarata atera	saɾata ateɾa
-Sound:rustle (of leaves).V		fir-fir egin	fiɾfiɾ eɡin
-Sound:shout.V		garrasi egin	ɡaraɕi eɡin
-Sound:shout.V		oihu egin	ɔjhu eɡin
-Sound:sound (of instrument or voice).V		soinu egin	ɕɔjnu eɡin
-Sound:voice.N		ahots	ahot͡ɕ
-Sound:whistle.V		txistu egin	t͡ʃiɕtu eɡin
-Space:back.ADV		atzera	at͡seɾa
-Space:wide.A		zabal	sabal
-Storage:bag.N		poltsa	polt͡ɕa
-Storage:box.N		kutxa	kut͡ʃa
-Storage:bucket.N		treska	tɾeɕka
-Storage:heap.N		mendoi	mendɔj
-Storage:heap.N		pila	pila
-Storage:lid.N		estalki	eɕtalki
-Storage:lid.N		tapa	tapa
-Storage:load.N		karga	kaɾɡa
-Storage:load.N		zama	sama
-Storage:misplace.V		galdu	ɡaldu
-Storage:pouch.N		zorro	soro
-Storage:pour.V		isuri	iɕuɾi
-Storage:sack.N		zaku	saku
-Time:April.N		apiril	apiɾil
-Time:August.N		abuztu	abustu
-Time:December.N		abendu	abendu
-Time:February.N		otsail	ot͡ɕɑjl
-Time:January.N		urtarril	uɾtaril
-Time:July.N		uztail	ustɑjl
-Time:June.N		ekain	ekɑjn
-Time:March.N		martxo	maɾt͡ʃo
-Time:May.N		maiatz	mɑjat͡s
-Time:November.N		azaro	asaɾo
-Time:October.N		urri	uri
-Time:September.N		irail	iɾɑjl
-Time:age.N		adin	adin
-Time:already.ADV		ja	d͡ʒa
-Time:already.ADV		jada	d͡ʒada
-Time:always.ADV		beti	beti
-Time:autumn.N		neguantz	neɡuɑnt͡s
-Time:autumn.N		udazken	udasken
-Time:final.A		azken	asken
-Time:final.A		hondar	hondaɾ
-Time:month.N		hil	hil
-Time:never.ADV		inoiz ez	inɔjs es
-Time:never.ADV		sekula ez	ɕekula es
-Time:new.A		berri	beri
-Time:night.N		gau	ɡɑu
-Time:now.ADV		orain	oɾɑjn
-Time:often.ADV		askotan	aɕkotan
-Time:often.ADV		maiz	mɑjs
-Time:old (of person).A		adindun	adindun
-Time:old.A		zahar	sahaɾ
-Time:one time.ADV		aldi bat	aldi bat
-Time:one time.ADV		behin	behin
-Time:pass.V		iragan	iɾaɡan
-Time:springtime.N		udalehen	udalehen
-Time:still.ADV		oraindik	oɾɑjndik
-Time:summer.N		uda	uda
-Time:time.N		aldi	aldi
-Time:time.N		denbora	denboɾa
-Time:today.ADV		gaur	ɡɑuɾ
-Time:tomorrow.ADV		bihar	bihaɾ
-Time:wait.V		itxaron	it͡ʃaɾon
-Time:wait.V		zain egon	sɑjn eɡon
-Time:winter.N		negu	neɡu
-Time:year.N		urte	uɾte
-Time:yesterday.ADV		atzo	at͡so
-Transit:boat.N		potin	potin
-Transit:boat.N		txalupa	t͡ʃalupa
-Transit:oar.N		arraun	arɑun
-Transit:road.N		errepide	erepide
-Transit:row.V		arraun egin	arɑun eɡin
-Transit:row.V		bogatu	boɡatu
-Value:bad.A		txar	t͡ʃaɾ
-Value:good.A		on	on
-Value:improve.V		hobetu	hobetu
+PLX:1PL.pro		gu	ɡu
+PLX:1SG.pro		ni	ni
+PLX:2PL.pro		zuek	suɛk
+PLX:2SG.pro		zu	su
+PLX:3PL.pro		berak	beɾak
+PLX:3SG M.pro		bera	beɾa
+PLX:and.cnj		eta	eta
+PLX:because of.adp		-gatik	ɡatik
+PLX:behind.adp		gibelean	ɡibelean
+PLX:behind.adp		ostean	oɕtean
+PLX:beside.adp		aldamenean	aldamenean
+PLX:beside.adp		ondoan	ondoan
+PLX:can.v		ahal izan	ahal isan
+PLX:die (from accident).V		istripuz hil	iɕtɾipus hil
+PLX:everywhere.pro		edonon	edonon
+PLX:from here.adv		hemendik	hemendik
+PLX:from here.adv		honetatik	honetatik
+PLX:get sick.V		gaixotu	ɡɑjʃotu
+PLX:how many.pro		zenbat	senbat
+PLX:how.pro		nola	nola
+PLX:how.pro		zelan	selan
+PLX:in front of.adp		aurrean	ɑurean
+PLX:or.cnj		edo	edo
+PLX:that.pro		hura	huɾa
+PLX:this.pro		hau	hɑu
+PLX:under.adp		azpian	aspiɑn
+PLX:under.adp		pean	pean
+PLX:what.pro		zer	seɾ
+PLX:where.pro		non	non
+PLX:where_to.pro		nora	noɾa
+PLX:who.pro		nor	noɾ
+PLX:why.pro		zeren	seɾen
+PLX:why.pro		zergatik	seɾɡatik
+PWN:abandon.v.02		utzietsi	ut͡siɛt͡ɕi
+PWN:abdomen.n.01		sabel	ɕabel
+PWN:above.r.02		goian	ɡɔjan
+PWN:act.v.02		egin	eɡin
+PWN:add.v.01		eratxiki	eɾat͡ʃiki
+PWN:add.v.01		gaineratu	ɡɑjneɾatu
+PWN:address.n.03		hitzaldi	hit͡saldi
+PWN:address.n.03		mintzaldi	mint͡saldi
+PWN:affect.v.05		hunkitu	hunkitu
+PWN:again.r.01		berriro	beriɾo
+PWN:age.n.01		adin	adin
+PWN:ahead.r.03		aurrera	ɑureɾa
+PWN:aid.n.02		helpide	helpide
+PWN:aid.n.02		laguntza	laɡunt͡sa
+PWN:air.n.01		aire	ɑjɾe
+PWN:alive.a.01		bizirik	bisiɾik
+PWN:all.a.01		dena	dena
+PWN:allege.v.01		esan	eɕan
+PWN:alone.r.02		bakarrik	bakarik
+PWN:already.r.01		ja	d͡ʒa
+PWN:already.r.01		jada	d͡ʒada
+PWN:always.r.01		beti	beti
+PWN:anger.v.01		ernegatu	eɾneɡatu
+PWN:anger.v.01		haserretu	haɕeretu
+PWN:anger.v.02		ernegatu	eɾneɡatu
+PWN:anger.v.02		haserretu	haɕeretu
+PWN:animal.n.01		abere	abeɾe
+PWN:animal.n.01		piztia	pistiɑ
+PWN:animation.n.01		bizi	bisi
+PWN:animation.n.01		bizitza	bisit͡sa
+PWN:ant.n.01		inurri	inuri
+PWN:apparel.n.01		arropa	aropa
+PWN:apparel.n.01		jantziak	d͡ʒant͡siɑk
+PWN:apple.n.01		sagar	ɕaɡaɾ
+PWN:april.n.01		apiril	apiɾil
+PWN:apt.s.03		zuhur	suhuɾ
+PWN:area.n.01		alderdi	aldeɾdi
+PWN:area.n.01		eskualde	eɕkuɑlde
+PWN:arise.v.03		altxatu	alt͡ʃatu
+PWN:arise.v.03		zutitu	sutitu
+PWN:arm.n.01		beso	beɕo
+PWN:arrive.v.01		etorri	etori
+PWN:arrive.v.01		heldu	heldu
+PWN:arrive.v.01		iritsi	iɾit͡ɕi
+PWN:arrow.n.02		gezi	ɡesi
+PWN:ascend.v.01		igo	iɡo
+PWN:ash.n.01		errauts	erɑut͡ɕ
+PWN:ask.v.02		eskatu	eɕkatu
+PWN:ask.v.02		galdegin	ɡaldeɡin
+PWN:ask.v.05		galdetu	ɡaldetu
+PWN:august.n.01		abuztu	abustu
+PWN:aunt.n.01		izeba	iseba
+PWN:awaken.v.01		esnatu	eɕnatu
+PWN:awaken.v.01		iratzartu	iɾat͡saɾtu
+PWN:back.n.01		bizkar	biskaɾ
+PWN:back.r.01		atzera	at͡seɾa
+PWN:back.r.02		atzera	at͡seɾa
+PWN:back.r.02		atzerantz	at͡seɾant͡s
+PWN:bad.a.01		txar	t͡ʃaɾ
+PWN:bag.n.01		poltsa	polt͡ɕa
+PWN:bake.v.02		labean egin	labean eɡin
+PWN:bare.s.01		biluzi	bilusi
+PWN:bark.n.01		azal	asal
+PWN:bark.v.04		zaunkatu	sɑunkatu
+PWN:bathe.v.01		bainatu	bɑjnatu
+PWN:bathe.v.01		bainua hartu	bɑjnuɑ haɾtu
+PWN:battle.n.01		auska	ɑuɕka
+PWN:battle.n.01		gudu	ɡudu
+PWN:bay.n.01		golko	ɡolko
+PWN:be_born.v.01		jaio	d͡ʒɑjo
+PWN:bear.n.01		hartz	haɾt͡s
+PWN:beard.n.01		bizar	bisaɾ
+PWN:beautiful.a.01		eder	edeɾ
+PWN:become.v.01		bihurtu	bihuɾtu
+PWN:become.v.01		bilakatu	bilakatu
+PWN:bed.n.01		ohatze	ohat͡se
+PWN:bed.n.01		ohe	ohe
+PWN:begin.v.03		hasi	haɕi
+PWN:believe.v.01		sinetsi	ɕinet͡ɕi
+PWN:beloved.s.01		laztan	lastan
+PWN:beloved.s.01		maite	mɑjte
+PWN:belt.n.02		gerriko	ɡeriko
+PWN:bend.v.01		makolatu	makolatu
+PWN:bend.v.01		malgutu	malɡutu
+PWN:benefit.n.02		onura	onuɾa
+PWN:benefit.n.02		probetxu	pɾobet͡ʃu
+PWN:berry.n.01		baia	bɑja
+PWN:better.v.02		hobetu	hobetu
+PWN:between.r.02		artean	aɾtean
+PWN:birch.n.02		urki	uɾki
+PWN:bird.n.01		hegazti	heɡasti
+PWN:bird.n.01		txori	t͡ʃoɾi
+PWN:bite.v.01		ausiki egin	ɑuɕiki eɡin
+PWN:bite.v.01		hozka egin	hoska eɡin
+PWN:bitter.s.06		garratz	ɡarat͡s
+PWN:bitter.s.06		karmin	kaɾmin
+PWN:black.a.01		beltz	belt͡s
+PWN:blade.n.01		hosto	hoɕto
+PWN:blanket.n.01		burusi	buɾuɕi
+PWN:blind.a.01		itsu	it͡ɕu
+PWN:blood.n.01		odol	odol
+PWN:blow.v.01		putz egin	put͡s eɡin
+PWN:blow.v.01		ufa egin	ufa eɡin
+PWN:blow.v.02		haizea ibili	hɑjsea ibili
+PWN:blue.s.01		urdin	uɾdin
+PWN:blunt.s.02		kamuts	kamut͡ɕ
+PWN:board.n.02		ohol	ohol
+PWN:boast.v.01		ahoberokeriak esan	ahobeɾokeɾiɑk eɕan
+PWN:boast.v.01		harrokerian ibili	harokeɾiɑn ibili
+PWN:boat.n.01		potin	potin
+PWN:boat.n.01		txalupa	t͡ʃalupa
+PWN:body.n.01		soin	ɕɔjn
+PWN:boil.v.01		irakin	iɾakin
+PWN:boil.v.03		egosi	eɡoɕi
+PWN:bone.n.01		hezur	hesuɾ
+PWN:book.n.01		liburu	libuɾu
+PWN:boot.n.01		bota	bota
+PWN:botch.v.01		hondatu	hondatu
+PWN:boundary_line.n.01		muga	muɡa
+PWN:bow.n.04		arku	aɾku
+PWN:box.n.01		kutxa	kut͡ʃa
+PWN:brain.n.01		burmuin	buɾmuin
+PWN:brain.n.01		garun	ɡaɾun
+PWN:branch.n.02		adar	adaɾ
+PWN:branchlet.n.01		abar	abaɾ
+PWN:brawl.v.01		elkar borrokatu	elkaɾ borokatu
+PWN:brawl.v.01		elkar jo	elkaɾ d͡ʒo
+PWN:bread.n.01		ogi	oɡi
+PWN:break.v.05		apurtu	apuɾtu
+PWN:breast.n.02		titi	titi
+PWN:breast.n.02		ugatz	uɡat͡s
+PWN:breath.n.02		arnasa	aɾnaɕa
+PWN:breath.n.02		hats	hat͡ɕ
+PWN:breathe.v.01		arnasa egin	aɾnaɕa eɡin
+PWN:breathe.v.01		hats egin	hat͡ɕ eɡin
+PWN:bridge.n.01		zubi	subi
+PWN:bright.a.01		argi	aɾɡi
+PWN:bring.v.01		ekarri	ekari
+PWN:brook.n.01		erreka	ereka
+PWN:brook.n.01		lats	lat͡ɕ
+PWN:broom.n.01		erratz	erat͡s
+PWN:brother.n.01		anaia	anɑja
+PWN:brother.n.01		neba	neba
+PWN:brow.n.01		bekoki	bekoki
+PWN:bucket.n.01		treska	tɾeɕka
+PWN:bull.n.01		zezen	sesen
+PWN:bundle.n.02		azao	asao
+PWN:bundle.n.02		espal	eɕpal
+PWN:burn.v.03		sutan egon	ɕutan eɡon
+PWN:burn.v.07		erre	ere
+PWN:burn.v.07		kiskali	kiɕkali
+PWN:business.n.01		negozio	neɡosiɔ
+PWN:butter.n.01		gurin	ɡuɾin
+PWN:butterfly.n.01		pinpirin	pinpiɾin
+PWN:butterfly.n.01		tximeleta	t͡ʃimeleta
+PWN:button.n.01		botoi	botɔj
+PWN:buy.v.01		erosi	eɾoɕi
+PWN:calculate.v.01		kalkulatu	kalkulatu
+PWN:calendar_month.n.01		hil	hil
+PWN:call.v.05		dei egin	dɛj eɡin
+PWN:campfire.n.01		su	ɕu
+PWN:cap.n.01		txano	t͡ʃano
+PWN:cap.n.01		txapel	t͡ʃapel
+PWN:cat.n.01		katu	katu
+PWN:catch.v.04		atzeman	at͡seman
+PWN:cause.n.01		zergati	seɾɡati
+PWN:cave.n.01		kobazulo	kobasulo
+PWN:cavil.v.01		erneguka ari izan	eɾneɡuka aɾi isan
+PWN:center.n.01		erdi	eɾdi
+PWN:chair.n.01		aulki	ɑulki
+PWN:change.v.01		mudatu	mudatu
+PWN:change.v.03		aldatu	aldatu
+PWN:character.n.08		hizki	hiski
+PWN:cheap.a.01		merke	meɾke
+PWN:cheek.n.01		masail	maɕɑjl
+PWN:cherished.s.01		baliotsu	baliɔt͡ɕu
+PWN:chicken.n.02		oilo	ɔjlo
+PWN:child.n.01		haur	hɑuɾ
+PWN:chin.n.01		kokots	kokot͡ɕ
+PWN:choose.v.01		aukeratu	ɑukeɾatu
+PWN:choose.v.01		hautatu	hɑutatu
+PWN:chop.v.01		xehatu	ʃehatu
+PWN:church.n.02		eliza	elisa
+PWN:circle.n.03		biribilki	biɾibilki
+PWN:citizenry.n.01		herri	heri
+PWN:citizenry.n.01		populu	populu
+PWN:claw.n.01		atzapar	at͡sapaɾ
+PWN:clay.n.01		buztin	bustin
+PWN:clean.a.01		garbi	ɡaɾbi
+PWN:clean.a.01		xahu	ʃahu
+PWN:clean.v.01		garbitu	ɡaɾbitu
+PWN:clean.v.01		ikuzi	ikusi
+PWN:climb.v.01		igo	iɡo
+PWN:close.v.01		itxi	it͡ʃi
+PWN:cloud.n.02		hodei	hodɛj
+PWN:coal.n.01		ikatz	ikat͡s
+PWN:cock.n.04		oilar	ɔjlaɾ
+PWN:cold.a.01		hotz	hot͡s
+PWN:cold.a.01		hotzil	hot͡sil
+PWN:coldness.n.03		hotz	hot͡s
+PWN:collar.n.01		idun	idun
+PWN:colorful.a.01		koloretsu	koloɾet͡ɕu
+PWN:comb.n.01		orrazi	orasi
+PWN:comb.v.01		orraztu	orastu
+PWN:commend.v.01		goraipatu	ɡoɾɑjpatu
+PWN:commend.v.01		laudatu	lɑudatu
+PWN:companion.n.01		adiskide	adiɕkide
+PWN:companion.n.01		lagunkide	laɡunkide
+PWN:company.n.03		gizarte	ɡisaɾte
+PWN:complete.v.01		bukatu	bukatu
+PWN:connect.v.01		uztartu	ustaɾtu
+PWN:conserve.v.02		begiratu	beɡiɾatu
+PWN:construct.v.01		eraiki	eɾɑjki
+PWN:conversation.n.01		elkarrizketa	elkarisketa
+PWN:conversation.n.01		hizketa	hisketa
+PWN:converse.v.01		solas egin	ɕolaɕ eɡin
+PWN:converse.v.01		solastu	ɕolaɕtu
+PWN:convey.v.01		jakinarazi	d͡ʒakinaɾasi
+PWN:cook.v.02		prestatu	pɾeɕtatu
+PWN:corner.n.03		kantoi	kantɔj
+PWN:corpulent.s.01		gizen	ɡisen
+PWN:correctly.r.01		zuzen	susen
+PWN:cough.v.01		eztul egin	estul eɡin
+PWN:count.n.01		kopuru	kopuɾu
+PWN:count.v.01		kopuratu	kopuɾatu
+PWN:count.v.01		zenbatu	senbatu
+PWN:country.n.02		herrialde	heriɑlde
+PWN:cover.v.01		estali	eɕtali
+PWN:cow.n.01		behi	behi
+PWN:cradle.n.01		kuma	kuma
+PWN:cradle.n.01		sehaska	ɕehaɕka
+PWN:crane.n.05		kurrilo	kurilo
+PWN:crawl.v.01		narras egin	naraɕ eɡin
+PWN:crisscross.n.01		gurutze	ɡuɾut͡se
+PWN:crow.n.01		bele	bele
+PWN:cry.n.01		dei	dɛj
+PWN:cry.v.02		negar egin	neɡaɾ eɡin
+PWN:cuckoo.n.02		kuku	kuku
+PWN:cup.n.01		kikara	kikaɾa
+PWN:current.n.02		laster	laɕteɾ
+PWN:cut.v.01		moztu	mostu
+PWN:damage.n.01		kalte	kalte
+PWN:damage.v.01		akastu	akaɕtu
+PWN:damp.s.01		heze	hese
+PWN:dance.v.02		dantzan egin	dant͡san eɡin
+PWN:dance.v.02		dantzatu	dant͡satu
+PWN:dark.a.01		ilun	ilun
+PWN:daughter.n.01		alaba	alaba
+PWN:day.n.01		egun	eɡun
+PWN:deaf.a.01		gor	ɡoɾ
+PWN:death.n.01		herio	heɾiɔ
+PWN:death.n.01		heriotza	heɾiɔt͡sa
+PWN:deceive.v.01		engainatu	enɡɑjnatu
+PWN:deceive.v.01		tronpatu	tɾonpatu
+PWN:december.n.01		abendu	abendu
+PWN:decompose.v.03		hirotu	hiɾotu
+PWN:decompose.v.03		usteldu	uɕteldu
+PWN:decorate.v.01		apaindu	apɑjndu
+PWN:decrease.v.01		beheratu	beheɾatu
+PWN:decrease.v.01		gutxitu	ɡut͡ʃitu
+PWN:defend.v.03		aldeztu	aldestu
+PWN:deft.s.01		antzetsu	ant͡set͡ɕu
+PWN:deft.s.01		trebe	tɾebe
+PWN:deity.n.01		jainko	d͡ʒɑjnko
+PWN:descend.v.01		beheititu	behɛjtitu
+PWN:desire.n.01		gogo	ɡoɡo
+PWN:desire.v.01		nahi izan	nahi isan
+PWN:destroy.v.02		suntsitu	ɕunt͡ɕitu
+PWN:detect.v.01		konturatu	kontuɾatu
+PWN:detect.v.01		ohartu	ohaɾtu
+PWN:die.v.01		hil	hil
+PWN:die.v.01		zendu	sendu
+PWN:different.a.01		desberdin	deɕbeɾdin
+PWN:different.a.01		ezberdin	esbeɾdin
+PWN:dig.v.01		aitzurtu	ɑjt͡suɾtu
+PWN:digest.v.03		jasan	d͡ʒaɕan
+PWN:digest.v.03		pairatu	pɑjɾatu
+PWN:dirt.n.02		lohi	lohi
+PWN:dirt.n.02		zikin	sikin
+PWN:dirty.a.01		lohi	lohi
+PWN:dirty.a.01		zikin	sikin
+PWN:disappear.v.01		desagertu	deɕaɡeɾtu
+PWN:discontinue.v.01		utzi	ut͡si
+PWN:disease.n.01		eritasun	eɾitaɕun
+PWN:disease.n.01		gaixotasun	ɡɑjʃotaɕun
+PWN:dish.n.01		baxera	baʃeɾa
+PWN:dish.n.01		ontziteria	ont͡siteɾiɑ
+PWN:dissolve.v.09		gesaldu	ɡeɕaldu
+PWN:distance.n.01		tarte	taɾte
+PWN:distance.n.03		urrunera	uruneɾa
+PWN:dive.v.03		murgildu	muɾɡildu
+PWN:dive.v.03		pulunpatu	pulunpatu
+PWN:divide.v.01		zatitu	satitu
+PWN:doctor.n.01		osagile	oɕaɡile
+PWN:doctor.n.01		sendagile	ɕendaɡile
+PWN:dog.n.01		txakur	t͡ʃakuɾ
+PWN:doll.n.01		andrakila	andɾakila
+PWN:doll.n.01		panpina	panpina
+PWN:down.r.01		behera	beheɾa
+PWN:down.r.01		beherantz	beheɾant͡s
+PWN:drag.v.01		herrestatu	hereɕtatu
+PWN:drag.v.01		narrastu	naraɕtu
+PWN:dream.n.01		amets	amet͡ɕ
+PWN:dress.v.01		jantzi	d͡ʒant͡si
+PWN:drink.v.01		edan	edan
+PWN:drive.v.01		joan	d͡ʒoan
+PWN:drive.v.15		bultza egin	bult͡sa eɡin
+PWN:drop.n.01		xorta	ʃoɾta
+PWN:drop.v.01		erortzen utzi	eɾoɾt͡sen ut͡si
+PWN:drove.n.02		aldra	aldɾa
+PWN:dry.a.01		lehor	lehoɾ
+PWN:dry.a.01		siku	ɕiku
+PWN:dry.v.01		idortu	idoɾtu
+PWN:dry.v.01		lehortu	lehoɾtu
+PWN:duck.n.01		ahate	ahate
+PWN:dust.n.01		hauts	hɑut͡ɕ
+PWN:dye.v.01		tindatu	tindatu
+PWN:eagle.n.01		arrano	arano
+PWN:ear.n.01		belarri	belari
+PWN:earlier.r.01		lehenago	lehenaɡo
+PWN:east.n.01		ekialde	ekiɑlde
+PWN:east.n.01		sortalde	ɕoɾtalde
+PWN:eat.v.01		jan	d͡ʒan
+PWN:edge.n.06		ertz	eɾt͡s
+PWN:egg.n.02		arrautza	arɑut͡sa
+PWN:eight.s.01		zortzi	soɾt͡si
+PWN:eighty.s.01		laurogei	lɑuɾoɡɛj
+PWN:elapse.v.01		iragan	iɾaɡan
+PWN:elbow.n.01		ukondo	ukondo
+PWN:eleven.s.01		hamaika	hamɑjka
+PWN:elk.n.01		altze	alt͡se
+PWN:emerge.v.01		agertu	aɡeɾtu
+PWN:empty.a.01		huts	hut͡ɕ
+PWN:end.n.03		bukaera	bukaeɾa
+PWN:end.n.09		buru	buɾu
+PWN:end.n.09		mutur	mutuɾ
+PWN:end.v.01		bukatu	bukatu
+PWN:enter.v.01		sartu	ɕaɾtu
+PWN:entirely.r.02		bakarrik	bakarik
+PWN:erstwhile.s.01		lehengo	lehenɡo
+PWN:escape.v.01		ihes egin	iheɕ eɡin
+PWN:evening.n.01		arrats	arat͡ɕ
+PWN:evil.a.01		gaizto	ɡɑjsto
+PWN:evil.a.01		tzar	t͡saɾ
+PWN:exclaim.v.01		garrasi egin	ɡaraɕi eɡin
+PWN:exclaim.v.01		oihu egin	ɔjhu eɡin
+PWN:exit.v.01		alde egin	alde eɡin
+PWN:expensive.a.01		garesti	ɡaɾeɕti
+PWN:extraneous.s.03		arrotz	arot͡s
+PWN:eye.n.01		begi	beɡi
+PWN:fabric.n.01		ehun	ehun
+PWN:face.n.01		aurpegi	ɑuɾpeɡi
+PWN:faineant.s.01		alfer	alfeɾ
+PWN:faineant.s.01		nagi	naɡi
+PWN:fairytale.n.01		ipuin	ipuin
+PWN:fall.n.01		neguantz	neɡuɑnt͡s
+PWN:fall.n.01		udazken	udasken
+PWN:fall.v.01		erori	eɾoɾi
+PWN:fall_asleep.v.01		lokartu	lokaɾtu
+PWN:familiar.a.01		ezagun	esaɡun
+PWN:family.n.02		familia	familiɑ
+PWN:family.n.02		sendi	ɕendi
+PWN:far.r.02		urrun	urun
+PWN:fat.n.01		koipe	kɔjpe
+PWN:fat.n.01		urin	uɾin
+PWN:father.n.01		aita	ɑjta
+PWN:fault.n.06		erru	eru
+PWN:fear.v.01		beldur izan	belduɾ isan
+PWN:feather.n.01		hegaki	heɡaki
+PWN:feather.n.01		luma	luma
+PWN:february.n.01		otsail	ot͡ɕɑjl
+PWN:feed.v.01		bazkatu	baskatu
+PWN:feel.v.03		sentitu	ɕentitu
+PWN:female_child.n.01		neska	neɕka
+PWN:fence.n.01		hesi	heɕi
+PWN:fever.n.01		sukar	ɕukaɾ
+PWN:fifty.s.01		berrogeita hamar	beroɡɛjta hamaɾ
+PWN:fill.v.01		bete	bete
+PWN:find.v.03		aurkitu	ɑuɾkitu
+PWN:find.v.03		idoro	idoɾo
+PWN:fine-looking.s.01		polit	polit
+PWN:fine.a.05		fin	fin
+PWN:finger.n.01		hatz	hat͡s
+PWN:fingernail.n.01		azazkal	asaskal
+PWN:fir.n.02		izei	isɛj
+PWN:fire.n.03		su	ɕu
+PWN:firm.s.02		tinko	tinko
+PWN:first.a.01		aurren	ɑuren
+PWN:first.a.01		lehen	lehen
+PWN:first.r.02		aurrena	ɑurena
+PWN:first.r.02		lehenbizi	lehenbisi
+PWN:fish.n.01		arrain	arɑjn
+PWN:fish.v.02		arrantza egin	arant͡sa eɡin
+PWN:fish.v.02		arrantzatu	arant͡satu
+PWN:five.s.01		bost	boɕt
+PWN:fix.v.12		gertatu	ɡeɾtatu
+PWN:flash.v.01		izarniatu	isaɾniɑtu
+PWN:flat.s.01		lau	lɑu
+PWN:flat.s.01		ordoki	oɾdoki
+PWN:flee.v.01		ihes egin	iheɕ eɡin
+PWN:flex.v.05		makurtu	makuɾtu
+PWN:flip.v.06		aurtiki	ɑuɾtiki
+PWN:flip.v.06		jaurti	d͡ʒɑuɾti
+PWN:floor.n.01		zoru	soɾu
+PWN:flower.n.02		lili	lili
+PWN:fly.n.01		euli	ɛuli
+PWN:fly.v.01		hegaldatu	heɡaldatu
+PWN:fly.v.01		hegan egin	heɡan eɡin
+PWN:foam.n.01		bits	bit͡ɕ
+PWN:foe.n.02		arerio	aɾeɾiɔ
+PWN:foe.n.02		etsai	et͡ɕɑj
+PWN:fog.n.01		laino	lɑjno
+PWN:food.n.02		jan	d͡ʒan
+PWN:foot.n.01		oin	ɔjn
+PWN:footprint.n.01		lorratz	lorat͡s
+PWN:foreman.n.01		nagusi	naɡuɕi
+PWN:forest.n.01		baso	baɕo
+PWN:forest.n.01		oihan	ɔjhan
+PWN:forget.v.02		ahantzi	ahant͡si
+PWN:forget.v.02		ahaztu	ahastu
+PWN:fork.n.01		sardexka	ɕaɾdeʃka
+PWN:form.n.03		eredu	eɾedu
+PWN:form.n.03		marrazki	maraski
+PWN:forty.s.01		berrogei	beroɡɛj
+PWN:four.s.01		lau	lɑu
+PWN:fox.n.01		azeri	aseɾi
+PWN:freeze.v.02		hormatu	hoɾmatu
+PWN:freeze.v.02		izoztu	isostu
+PWN:frequently.r.01		askotan	aɕkotan
+PWN:frequently.r.01		maiz	mɑjs
+PWN:fresh.a.01		fresko	fɾeɕko
+PWN:fresh.a.01		hozkirri	hoskiri
+PWN:friday.n.01		ostiral	oɕtiɾal
+PWN:friend.n.01		lagun	laɡun
+PWN:frost.n.01		antzigar	ant͡siɡaɾ
+PWN:frost.n.01		izotzaldi	isot͡saldi
+PWN:fry.v.02		erregosi	ereɡoɕi
+PWN:full.a.01		bete	bete
+PWN:fume.v.02		kea bota	kea bota
+PWN:fur.n.03		ile	ile
+PWN:fur.n.03		larru	laru
+PWN:game.n.01		jolas	d͡ʒolaɕ
+PWN:gate.n.01		ate	ate
+PWN:gateway.n.01		atari	ataɾi
+PWN:gather.v.01		bildu	bildu
+PWN:gather.v.01		bildumatu	bildumatu
+PWN:gay.s.02		alaitsu	alɑjt͡ɕu
+PWN:gentle.s.01		eme	eme
+PWN:gentle.s.01		ezti	esti
+PWN:get.v.01		jaso	d͡ʒaɕo
+PWN:get_down.v.07		hasi	haɕi
+PWN:get_up.v.02		jaiki	d͡ʒɑjki
+PWN:gift.n.01		opari	opaɾi
+PWN:give.v.03		eman	eman
+PWN:give.v.08		oparitu	opaɾitu
+PWN:glass.n.01		beira	bɛjɾa
+PWN:glue.v.01		itsatsi	it͡ɕat͡ɕi
+PWN:gold.n.03		urre	ure
+PWN:gold.n.03		urregorri	ureɡori
+PWN:good.a.01		on	on
+PWN:goose.n.01		antzara	ant͡saɾa
+PWN:govern.v.03		menpean izan	menpean isan
+PWN:grain.n.08		ale	ale
+PWN:grain.n.08		pikor	pikoɾ
+PWN:grandfather.n.01		aitatxi	ɑjtat͡ʃi
+PWN:grandfather.n.01		aitona	ɑjtona
+PWN:grandma.n.01		amatxi	amat͡ʃi
+PWN:grandma.n.01		amona	amona
+PWN:grasp.v.01		oratu	oɾatu
+PWN:grass.n.01		belar	belaɾ
+PWN:grassland.n.01		belardi	belaɾdi
+PWN:grassland.n.01		larre	lare
+PWN:grave.n.02		hilobi	hilobi
+PWN:grave.n.02		hobi	hobi
+PWN:green.s.01		berde	beɾde
+PWN:green.s.01		musker	muɕkeɾ
+PWN:grey.s.01		urdin	uɾdin
+PWN:grey.s.01		urdinabar	uɾdinabaɾ
+PWN:grief.n.02		atsekabe	at͡ɕekabe
+PWN:grief.n.02		xangrin	ʃanɡɾin
+PWN:groan.v.01		intziri egin	int͡siɾi eɡin
+PWN:grok.v.01		ulertu	uleɾtu
+PWN:grow.v.03		hazi	hasi
+PWN:guest.n.01		apopilo	apopilo
+PWN:guest.n.01		arrotz	arot͡s
+PWN:gun.n.01		fusil	fuɕil
+PWN:hair.n.01		bilo	bilo
+PWN:hair.n.01		ile	ile
+PWN:hand.n.01		esku	eɕku
+PWN:handle.n.01		eskutoki	eɕkutoki
+PWN:hang.v.01		eskegita egon	eɕkeɡita eɡon
+PWN:hang.v.01		zintzilik egon	sint͡silik eɡon
+PWN:hang.v.02		eseki	eɕeki
+PWN:hang.v.02		eskegi	eɕkeɡi
+PWN:happen.v.01		gertatu	ɡeɾtatu
+PWN:happen.v.01		pasatu	paɕatu
+PWN:happiness.n.01		zori	soɾi
+PWN:hard.a.03		gogor	ɡoɡoɾ
+PWN:hardly.r.02		nekez	nekes
+PWN:hardly.r.02		ozta	osta
+PWN:hardworking.s.01		lanzale	lansale
+PWN:hardworking.s.01		maratz	maɾat͡s
+PWN:hare.n.01		erbi	eɾbi
+PWN:hark_back.v.01		itzuli	it͡suli
+PWN:hay.n.01		belar ondu	belaɾ ondu
+PWN:head.n.01		buru	buɾu
+PWN:healthy.a.01		osasun	oɕaɕun
+PWN:hear.v.01		aditu	aditu
+PWN:heart.n.02		bihotz	bihot͡s
+PWN:heat.n.01		bero	beɾo
+PWN:heavy.a.01		astun	aɕtun
+PWN:heavy.a.01		pisutsu	piɕut͡ɕu
+PWN:heel.n.02		oinburu	ɔjnbuɾu
+PWN:heel.n.02		orpo	oɾpo
+PWN:height.n.01		garaiera	ɡaɾɑjeɾa
+PWN:height.n.01		goiera	ɡɔjeɾa
+PWN:herd.n.01		abere talde	abeɾe talde
+PWN:herd.n.01		saldo	ɕaldo
+PWN:herd.v.01		begiratu	beɡiɾatu
+PWN:here.r.01		hemen	hemen
+PWN:here.r.03		hona	hona
+PWN:hide.n.02		azal	asal
+PWN:hide.v.01		ezkutatu	eskutatu
+PWN:hide.v.02		ezkutatu	eskutatu
+PWN:hide.v.02		ostendu	oɕtendu
+PWN:hill.n.01		muino	muino
+PWN:hill.n.01		pentoka	pentoka
+PWN:hog.n.03		txerri	t͡ʃeri
+PWN:hog.n.03		urde	uɾde
+PWN:hold.v.02		eutsi	ɛut͡ɕi
+PWN:hole.n.01		zulo	sulo
+PWN:home.n.01		etxaleku	et͡ʃaleku
+PWN:home.n.01		etxe	et͡ʃe
+PWN:honey.n.01		ezti	esti
+PWN:hook.n.05		mako	mako
+PWN:horn.n.02		adar	adaɾ
+PWN:horse.n.01		zaldi	saldi
+PWN:hot.a.01		bero	beɾo
+PWN:hot.a.01		oso bero	oɕo beɾo
+PWN:house.n.01		etxe	et͡ʃe
+PWN:howl.v.02		uhuri egin	uhuɾi eɡin
+PWN:howl.v.02		ulu egin	ulu eɡin
+PWN:hundred.s.01		ehun	ehun
+PWN:hunger.n.01		gose	ɡoɕe
+PWN:hungry.a.01		gose	ɡoɕe
+PWN:hunt.v.01		ehizatu	ehisatu
+PWN:hurt.v.06		min egin	min eɡin
+PWN:husband.n.01		senar	ɕenaɾ
+PWN:ice.n.01		horma	hoɾma
+PWN:idea.n.01		gogoeta	ɡoɡoeta
+PWN:idol.n.01		figura	fiɡuɾa
+PWN:ignite.v.01		piztu	pistu
+PWN:ill.a.01		eri	eɾi
+PWN:ill.a.01		gaixo	ɡɑjʃo
+PWN:immediately.r.01		batera	bateɾa
+PWN:immediately.r.01		berehala	beɾehala
+PWN:impede.v.01		oztopatu	ostopatu
+PWN:increase.v.01		gora egin	ɡoɾa eɡin
+PWN:indicate.v.02		erakutsi	eɾakut͡ɕi
+PWN:insert.v.01		sartu	ɕaɾtu
+PWN:interrupt.v.02		galarazi	ɡalaɾasi
+PWN:invite.v.02		gonbidatu	ɡonbidatu
+PWN:iron.n.01		burdina	buɾdina
+PWN:island.n.01		irla	iɾla
+PWN:island.n.01		uharte	uhaɾte
+PWN:item.n.01		gauzaki	ɡɑusaki
+PWN:january.n.01		urtarril	uɾtaril
+PWN:jaw.n.01		masailezur	maɕɑjlesuɾ
+PWN:join.v.02		bateratu	bateɾatu
+PWN:join.v.02		batu	batu
+PWN:joy.n.01		poz	pos
+PWN:joy.n.01		pozkari	poskaɾi
+PWN:july.n.01		uztail	ustɑjl
+PWN:jump.v.01		jauzi egin	d͡ʒɑusi eɡin
+PWN:june.n.01		ekain	ekɑjn
+PWN:keep.v.03		gorde	ɡoɾde
+PWN:kettle.n.01		pazia	pasiɑ
+PWN:kick.v.03		ostiaktu	oɕtiɑktu
+PWN:kick.v.03		zapaldu	sapaldu
+PWN:kill.v.10		heriotza eman	heɾiɔt͡sa eman
+PWN:kill.v.10		hil	hil
+PWN:kind.n.01		mota	mota
+PWN:king.n.01		errege	ereɡe
+PWN:knee.n.01		belaun	belɑun
+PWN:knife.n.01		aizto	ɑjsto
+PWN:knit.v.01		puntu egin	puntu eɡin
+PWN:knit.v.01		trikotatu	tɾikotatu
+PWN:knock.v.02		jo	d͡ʒo
+PWN:knot.n.02		korapilo	koɾapilo
+PWN:know.v.01		jakin	d͡ʒakin
+PWN:ladder.n.01		zurubi	suɾubi
+PWN:lair.n.01		ohantze	ohant͡se
+PWN:lake.n.01		aintzira	ɑjnt͡siɾa
+PWN:lake.n.01		laku	laku
+PWN:land.n.02		lur	luɾ
+PWN:land.n.04		lur	luɾ
+PWN:land.n.04		zoru	soɾu
+PWN:language.n.01		hizkuntza	hiskunt͡sa
+PWN:large.a.01		handi	handi
+PWN:last.a.02		azken	asken
+PWN:last.a.02		hondar	hondaɾ
+PWN:laugh.v.01		barre egin	bare eɡin
+PWN:laugh.v.01		irri egin	iri eɡin
+PWN:laughter.n.02		barre	bare
+PWN:laughter.n.02		karkara	kaɾkaɾa
+PWN:lay.v.02		jarri	d͡ʒari
+PWN:lead.v.01		gidatu	ɡidatu
+PWN:learn.v.01		ikasi	ikaɕi
+PWN:leash.n.01		lotura	lotuɾa
+PWN:leather.n.01		larru	laru
+PWN:left.r.01		ezker	eskeɾ
+PWN:leg.n.02		zango	sanɡo
+PWN:length.n.01		luzera	luseɾa
+PWN:let.v.01		-arazi	aɾasi
+PWN:letter.n.01		eskutitz	eɕkutit͡s
+PWN:letter.n.01		gutun	ɡutun
+PWN:lick.v.02		lamikatu	lamikatu
+PWN:lick.v.02		miaztu	miɑstu
+PWN:lid.n.02		estalki	eɕtalki
+PWN:lid.n.02		tapa	tapa
+PWN:lie.n.01		gezur	ɡesuɾ
+PWN:lie.v.02		etzan	et͡san
+PWN:lift.v.03		goratu	ɡoɾatu
+PWN:lift.v.03		jaso	d͡ʒaɕo
+PWN:like.v.03		atsegin izan	at͡ɕeɡin isan
+PWN:like.v.03		laket izan	laket isan
+PWN:line.n.04		linea	linea
+PWN:lip.n.01		ezpain	espɑjn
+PWN:listen.v.01		entzun	ent͡sun
+PWN:listen.v.02		aditu	aditu
+PWN:little.r.01		apur bat	apuɾ bat
+PWN:little.r.01		pixka bat	piʃka bat
+PWN:liver.n.01		gibel	ɡibel
+PWN:load.n.01		karga	kaɾɡa
+PWN:load.n.01		zama	sama
+PWN:lock.n.01		sarraila	ɕarɑjla
+PWN:long.a.02		luze	luse
+PWN:long.r.01		luzaro	lusaɾo
+PWN:look.v.01		begietsi	beɡiɛt͡ɕi
+PWN:look.v.02		begitandu	beɡitandu
+PWN:look.v.02		iruditu	iɾuditu
+PWN:lose.v.05		galdu	ɡaldu
+PWN:louse.n.01		zorri	sori
+PWN:love.v.03		maitatu	mɑjtatu
+PWN:love.v.03		maite izan	mɑjte isan
+PWN:low.r.01		behean	behean
+PWN:luminosity.n.01		argi	aɾɡi
+PWN:mainland.n.01		lehor	lehoɾ
+PWN:make_noise.v.01		zarata atera	saɾata ateɾa
+PWN:male_child.n.01		mutil	mutil
+PWN:man.n.01		gizon	ɡison
+PWN:march.n.01		martxo	maɾt͡ʃo
+PWN:may.n.01		maiatz	mɑjat͡s
+PWN:meal.n.01		janaldi	d͡ʒanaldi
+PWN:meaning.n.01		zentzu	sent͡su
+PWN:measure.v.01		neurtu	nɛuɾtu
+PWN:meat.n.01		haragi	haɾaɡi
+PWN:meat.n.01		okela	okela
+PWN:medicine.n.02		osagai	oɕaɡɑj
+PWN:medicine.n.02		sendagai	ɕendaɡɑj
+PWN:meet.v.07		bildu	bildu
+PWN:meet.v.09		topatu	topatu
+PWN:melt.v.01		urtu	uɾtu
+PWN:memory.n.03		gogoramen	ɡoɡoɾamen
+PWN:memory.n.03		oroimen	oɾɔjmen
+PWN:message.n.01		albiste	albiɕte
+PWN:milk.n.01		esne	eɕne
+PWN:milk.v.01		jetzi	d͡ʒet͡si
+PWN:mind.n.01		adimen	adimen
+PWN:mind.n.01		ulermen	uleɾmen
+PWN:mirror.n.01		mirail	miɾɑjl
+PWN:misfortune.n.02		zorigaitz	soɾiɡɑjt͡s
+PWN:misfortune.n.02		zoritxar	soɾit͡ʃaɾ
+PWN:mistake.n.01		huts	hut͡ɕ
+PWN:mistake.n.01		hutsegin	hut͡ɕeɡin
+PWN:monday.n.01		astelehen	aɕtelehen
+PWN:money.n.01		diru	diɾu
+PWN:moon.n.01		ilargi	ilaɾɡi
+PWN:moor.n.02		zohikaztegi	sohikasteɡi
+PWN:morning.n.01		goiz	ɡɔjs
+PWN:mosquito.n.01		eltxo	elt͡ʃo
+PWN:mother.n.01		ama	ama
+PWN:mountain.n.01		mendi	mendi
+PWN:mouse.n.01		sagu	ɕaɡu
+PWN:mouth.n.01		aho	aho
+PWN:move.v.03		zirkin egin	siɾkin eɡin
+PWN:mush.n.02		ahi	ahi
+PWN:mush.n.02		pure	puɾe
+PWN:mushroom.n.02		onddo	onɟo
+PWN:mushroom.n.02		perretxiko	peret͡ʃiko
+PWN:mustache.n.01		bibote	bibote
+PWN:mustache.n.01		sudurpeko	ɕuduɾpeko
+PWN:nail.n.01		azazkal	asaskal
+PWN:nail.n.02		iltze	ilt͡se
+PWN:name.n.01		izen	isen
+PWN:name.v.01		izena eman	isena eman
+PWN:nape.n.01		garondo	ɡaɾondo
+PWN:narrative.n.01		edesti	edeɕti
+PWN:narrative.n.01		kontakizun	kontakisun
+PWN:narrow.a.01		mehar	mehaɾ
+PWN:natural_elevation.n.01		garai	ɡaɾɑj
+PWN:natural_elevation.n.01		goragune	ɡoɾaɡune
+PWN:navel.n.01		zilbor	silboɾ
+PWN:near.r.01		hurbil	huɾbil
+PWN:near.r.01		hurre	hure
+PWN:neck.n.01		sama	ɕama
+PWN:needle.n.03		jostorratz	d͡ʒoɕtorat͡s
+PWN:needle.n.03		orratz	orat͡s
+PWN:nest.n.01		habia	habiɑ
+PWN:net_income.n.01		sare	ɕaɾe
+PWN:never.r.01		inoiz ez	inɔjs es
+PWN:never.r.01		sekula ez	ɕekula es
+PWN:new.a.01		berri	beri
+PWN:news.n.01		berri	beri
+PWN:newspaper.n.01		egunkari	eɡunkaɾi
+PWN:night.n.01		gau	ɡɑu
+PWN:nine.s.01		bederatzi	bedeɾat͡si
+PWN:ninety.s.01		laurogeita hamar	lɑuɾoɡɛjta hamaɾ
+PWN:noise.n.01		harrabots	harabot͡ɕ
+PWN:noise.n.01		hots	hot͡ɕ
+PWN:noise.n.01		zarata	saɾata
+PWN:noon.n.01		eguerdi	eɡuɛɾdi
+PWN:noose.n.02		bilur	biluɾ
+PWN:noose.n.02		xedera	ʃedeɾa
+PWN:north.n.03		ipar	ipaɾ
+PWN:north.n.03		iparralde	iparalde
+PWN:nose.n.01		sudur	ɕuduɾ
+PWN:not.r.01		ez	es
+PWN:november.n.01		azaro	asaɾo
+PWN:now.r.04		orain	oɾɑjn
+PWN:oar.n.01		arraun	arɑun
+PWN:october.n.01		urri	uri
+PWN:oil.n.01		olio	oliɔ
+PWN:old.a.01		adindun	adindun
+PWN:old.a.01		zahar	sahaɾ
+PWN:olfactory_property.n.01		usain	uɕɑjn
+PWN:once.r.01		aldi bat	aldi bat
+PWN:once.r.01		behin	behin
+PWN:once.r.03		antzina	ant͡sina
+PWN:one-half.n.01		erdi	eɾdi
+PWN:one.s.01		bat	bat
+PWN:onion.n.02		tipula	tipula
+PWN:open.a.01		ireki	iɾeki
+PWN:open.v.01		ireki	iɾeki
+PWN:open.v.01		zabaldu	sabaldu
+PWN:other.a.01		beste	beɕte
+PWN:owl.n.01		hontza	hont͡sa
+PWN:own.v.01		eduki	eduki
+PWN:own.v.01		ukan	ukan
+PWN:pain.n.03		min	min
+PWN:paint.n.01		pintura	pintuɾa
+PWN:paint.v.02		margotu	maɾɡotu
+PWN:palm.n.01		ahur	ahuɾ
+PWN:parent.n.01		gurasoak	ɡuɾaɕoak
+PWN:part.n.02		atal	atal
+PWN:part.n.03		puska	puɕka
+PWN:pasture.n.01		alha	alha
+PWN:pasture.n.01		bazkaleku	baskaleku
+PWN:path.n.02		bidexka	bideʃka
+PWN:path.n.02		zidor	sidoɾ
+PWN:paw.n.01		atzapar	at͡sapaɾ
+PWN:paw.n.01		erpe	eɾpe
+PWN:pay.v.01		ordaindu	oɾdɑjndu
+PWN:peak.n.04		gain	ɡɑjn
+PWN:peak.n.04		tontor	tontoɾ
+PWN:peel.n.02		azal	asal
+PWN:people.n.01		jende	d͡ʒende
+PWN:perca.n.01		perka	peɾka
+PWN:periphery.n.01		ertz	eɾt͡s
+PWN:person.n.01		gizaki	ɡisaki
+PWN:perturb.v.01		alamena eman	alamena eman
+PWN:perturb.v.01		gohaindu	ɡohɑjndu
+PWN:pick.v.02		batu	batu
+PWN:pick.v.02		bildu	bildu
+PWN:pick_up.v.02		jaso	d͡ʒaɕo
+PWN:picture.n.01		irudi	iɾudi
+PWN:pike.n.02		lutxo	lut͡ʃo
+PWN:pile.n.01		mendoi	mendɔj
+PWN:pile.n.01		pila	pila
+PWN:pillow.n.01		kuxin	kuʃin
+PWN:pine.n.01		ler	leɾ
+PWN:pit.n.01		hobi	hobi
+PWN:play.v.05		jolastu	d͡ʒolaɕtu
+PWN:pointed.a.01		puntadun	puntadun
+PWN:pole.n.01		haga	haɡa
+PWN:poor.a.02		behartsu	behaɾt͡ɕu
+PWN:poor.a.02		txiro	t͡ʃiɾo
+PWN:populate.v.01		bizi izan	bisi isan
+PWN:position.n.01		toki	toki
+PWN:pot.n.01		lapiko	lapiko
+PWN:pot.n.01		ontzi	ont͡si
+PWN:pouch.n.01		zorro	soro
+PWN:pour.v.01		isuri	iɕuɾi
+PWN:power.n.01		botere	boteɾe
+PWN:powerful.a.01		kementsu	kement͡ɕu
+PWN:press.v.01		sakatu	ɕakatu
+PWN:price.n.02		prezio	pɾesiɔ
+PWN:price.n.02		salneurri	ɕalnɛuri
+PWN:produce.v.02		egin	eɡin
+PWN:produce.v.02		ekoiztu	ekɔjstu
+PWN:promise.v.01		agindu	aɡindu
+PWN:protect.v.01		babestu	babeɕtu
+PWN:protect.v.01		gerizatu	ɡeɾisatu
+PWN:pull.v.01		tira egin	tiɾa eɡin
+PWN:push.v.01		bultzatu	bult͡satu
+PWN:put.v.01		ipini	ipini
+PWN:quantity.n.03		kopuru	kopuɾu
+PWN:rain.n.01		euri	ɛuɾi
+PWN:rain.v.01		euria ari izan	ɛuɾiɑ aɾi isan
+PWN:rainbow.n.01		ortzadar	oɾt͡sadaɾ
+PWN:rainbow.n.01		ostadar	oɕtadaɾ
+PWN:raise.v.02		altxatu	alt͡ʃatu
+PWN:raise.v.02		goratu	ɡoɾatu
+PWN:raw.a.03		gordin	ɡoɾdin
+PWN:read.v.01		irakurri	iɾakuri
+PWN:rear.v.02		hazi	hasi
+PWN:recognize.v.04		antzeman	ant͡seman
+PWN:recognize.v.04		ezagutu	esaɡutu
+PWN:recuperate.v.04		osatu	oɕatu
+PWN:red.s.01		gorri	ɡori
+PWN:remember.v.01		gogoan izan	ɡoɡoan isan
+PWN:remember.v.01		gogoratu	ɡoɡoɾatu
+PWN:repair.v.01		konpondu	konpondu
+PWN:rescue.v.01		gaizkatu	ɡɑjskatu
+PWN:rescue.v.01		salbatu	ɕalbatu
+PWN:rest.v.05		atseden egin	at͡ɕeden eɡin
+PWN:result.v.01		heldu	heldu
+PWN:ribbon.n.04		xingola	ʃinɡola
+PWN:ribbon.n.04		zinta	sinta
+PWN:rich.a.01		dirudun	diɾudun
+PWN:riddle.n.01		asmakizun	aɕmakisun
+PWN:right.r.04		eskuin	eɕkuin
+PWN:ring.n.08		uztai	ustɑj
+PWN:ring.v.01		txirrina jo	t͡ʃirina d͡ʒo
+PWN:ring.v.03		hots egin	hot͡ɕ eɡin
+PWN:ring.v.03		jo	d͡ʒo
+PWN:rinse.v.01		irakutzi	iɾakut͡si
+PWN:ripe.a.01		heldu	heldu
+PWN:ripe.a.01		umo	umo
+PWN:ripen.v.02		heldu	heldu
+PWN:ripen.v.02		zoritu	soɾitu
+PWN:rise.v.16		ilki	ilki
+PWN:rise.v.16		sortu	ɕoɾtu
+PWN:river.n.01		ibai	ibɑj
+PWN:river.n.01		uhaitz	uhɑjt͡s
+PWN:road.n.01		bide	bide
+PWN:road.n.01		errepide	erepide
+PWN:roar.v.01		marru egin	maru eɡin
+PWN:rock.n.01		harri	hari
+PWN:rock.v.01		zabuka ibili	sabuka ibili
+PWN:roof.n.01		teilatu	tɛjlatu
+PWN:root.n.01		sustrai	ɕuɕtɾɑj
+PWN:root.n.01		zuztar	sustaɾ
+PWN:round.a.01		biribil	biɾibil
+PWN:row.v.01		arraun egin	arɑun eɡin
+PWN:row.v.01		bogatu	boɡatu
+PWN:rub.v.01		igurtzi	iɡuɾt͡si
+PWN:run.v.01		lasterka egin	laɕteɾka eɡin
+PWN:run.v.06		isuri	iɕuɾi
+PWN:run.v.06		zorrotadaka isuri	sorotadaka iɕuɾi
+PWN:rush.v.01		ziztu bizian joan	sistu bisiɑn d͡ʒoan
+PWN:rush.v.04		lasterkatu	laɕteɾkatu
+PWN:rush.v.04		lehiatu	lehiɑtu
+PWN:rustle.v.01		fir-fir egin	fiɾfiɾ eɡin
+PWN:sack.n.01		zaku	saku
+PWN:sad.a.01		betilun	betilun
+PWN:sad.a.01		itun	itun
+PWN:salt.n.02		gatz	ɡat͡s
+PWN:sand.n.01		harea	haɾea
+PWN:sand.n.01		hondar	hondaɾ
+PWN:saturday.n.01		larunbat	laɾunbat
+PWN:scarf.n.01		oihal	ɔjhal
+PWN:scarf.n.01		zapi	sapi
+PWN:scrape.v.01		hatz egin	hat͡s eɡin
+PWN:scrape.v.01		hazka egin	haska eɡin
+PWN:sea.n.01		itsaso	it͡ɕaɕo
+PWN:search.v.01		bilatu	bilatu
+PWN:seashore.n.01		itsasalde	it͡ɕaɕalde
+PWN:seat.v.01		jesarri	d͡ʒeɕari
+PWN:second.s.01		bigarren	biɡaren
+PWN:see.v.01		ikusi	ikuɕi
+PWN:seed.n.02		haziak	hasiɑk
+PWN:sell.v.01		saldu	ɕaldu
+PWN:send.v.01		bidali	bidali
+PWN:separate.v.02		banandu	banandu
+PWN:september.n.01		irail	iɾɑjl
+PWN:set.v.10		sartu	ɕaɾtu
+PWN:seven.s.01		zazpi	saspi
+PWN:seventy.s.01		hirurogeita hamar	hiɾuɾoɡɛjta hamaɾ
+PWN:severe.s.01		larri	lari
+PWN:sew.v.01		josi	d͡ʒoɕi
+PWN:shadow.n.01		geriza	ɡeɾisa
+PWN:shadow.n.01		itzal	it͡sal
+PWN:shake.v.01		astindu	aɕtindu
+PWN:shake.v.01		inarrosi	inaroɕi
+PWN:shake.v.08		astindu	aɕtindu
+PWN:shake.v.08		inarrosi	inaroɕi
+PWN:sharp.a.09		zorrotz	sorot͡s
+PWN:sharpen.v.01		zorroztu	sorostu
+PWN:shatter.v.03		apurtu	apuɾtu
+PWN:sheep.n.01		ardi	aɾdi
+PWN:shelf.n.01		apalategi	apalateɡi
+PWN:shine.v.02		eguzkia egon	eɡuskiɑ eɡon
+PWN:shirt.n.01		alkandora	alkandoɾa
+PWN:shirt.n.01		atorra	atora
+PWN:shoe.n.01		oinetako	ɔjnetako
+PWN:shoe.n.01		oski	oɕki
+PWN:shoot.v.01		tiro egin	tiɾo eɡin
+PWN:shop.n.01		denda	denda
+PWN:shop.n.01		saltegi	ɕalteɡi
+PWN:shore.n.01		bazter	basteɾ
+PWN:short.a.02		labur	labuɾ
+PWN:shoulder.n.01		besaburu	beɕabuɾu
+PWN:shovel.n.01		pala	pala
+PWN:shudder.v.02		dar-dar egin	daɾdaɾ eɡin
+PWN:shudder.v.02		ikara egin	ikaɾa eɡin
+PWN:shut.a.01		itxita	it͡ʃita
+PWN:side.n.01		albo	albo
+PWN:silence.n.01		nasaitasun	naɕɑjtaɕun
+PWN:silver.n.01		urrezuri	uresuɾi
+PWN:silver.n.01		zilar	silaɾ
+PWN:sin.n.01		bekatu	bekatu
+PWN:sin.n.01		hoben	hoben
+PWN:sing.v.02		abestu	abeɕtu
+PWN:sing.v.02		kantatu	kantatu
+PWN:sink.v.01		urperatu	uɾpeɾatu
+PWN:sister.n.01		ahizpa	ahispa
+PWN:sit_down.v.01		eseri	eɕeɾi
+PWN:sit_down.v.01		eserita egon	eɕeɾita eɡon
+PWN:sit_down.v.01		jesarri	d͡ʒeɕari
+PWN:six.s.01		sei	ɕɛj
+PWN:sixty.s.01		hirurogei	hiɾuɾoɡɛj
+PWN:size.n.01		kaizu	kɑjsu
+PWN:size.n.01		tamaina	tamɑjna
+PWN:ski.n.01		eski	eɕki
+PWN:sky.n.01		zeru	seɾu
+PWN:slab.n.01		lauza	lɑusa
+PWN:sled.n.01		lera	leɾa
+PWN:sled.n.01		narra	nara
+PWN:sleep.n.01		lo	lo
+PWN:sleep.v.01		lo egin	lo eɡin
+PWN:sleeve.n.01		mahuka	mahuka
+PWN:slice.n.05		pirripita	piripita
+PWN:slice.n.05		xerra	ʃera
+PWN:slope.n.01		aldapa	aldapa
+PWN:small.a.01		txiki	t͡ʃiki
+PWN:smell.v.01		usaindu	uɕɑjndu
+PWN:smell.v.01		usnatu	uɕnatu
+PWN:smoke.n.02		ke	ke
+PWN:smooth.a.01		leun	lɛun
+PWN:snake.n.01		suge	ɕuɡe
+PWN:snap.v.03		eten	eten
+PWN:snap.v.03		tarrat egin	tarat eɡin
+PWN:snog.v.01		musu eman	muɕu eman
+PWN:snow.n.01		elur	eluɾ
+PWN:soft.a.01		beratz	beɾat͡s
+PWN:soft.a.01		bigun	biɡun
+PWN:sometimes.r.01		batzuetan	bat͡suɛtan
+PWN:sometimes.r.01		zenbaitetan	senbɑjtetan
+PWN:son.n.01		seme	ɕeme
+PWN:song.n.01		abesti	abeɕti
+PWN:soon.r.01		aurki	ɑuɾki
+PWN:soon.r.01		laster	laɕteɾ
+PWN:sore.n.01		zauri	sɑuɾi
+PWN:sound.v.02		soinu egin	ɕɔjnu eɡin
+PWN:soup.n.01		salda	ɕalda
+PWN:soup.n.01		zopa	sopa
+PWN:sour.a.02		mingots	minɡot͡ɕ
+PWN:south.n.03		hego	heɡo
+PWN:south.n.03		hegoalde	heɡoalde
+PWN:space.n.02		leku	leku
+PWN:spade.n.02		burdinpala	buɾdinpala
+PWN:spark.n.06		txinparta	t͡ʃinpaɾta
+PWN:spark.n.06		zirta	siɾta
+PWN:speak.v.03		hitz egin	hit͡s eɡin
+PWN:speak.v.03		mintzatu	mint͡satu
+PWN:spider.n.01		armiarma	aɾmiɑɾma
+PWN:spirit.n.04		gogo	ɡoɡo
+PWN:spoil.v.02		hirotu	hiɾotu
+PWN:spoil.v.02		usteldu	uɕteldu
+PWN:spoon.n.01		koilara	kɔjlaɾa
+PWN:spring.n.01		udalehen	udalehen
+PWN:spring.n.03		iturbegi	ituɾbeɡi
+PWN:spring.n.03		iturri	ituri
+PWN:squirrel.n.01		urtxintxa	uɾt͡ʃint͡ʃa
+PWN:stand.v.01		zutik egon	sutik eɡon
+PWN:star.n.03		izar	isaɾ
+PWN:state.n.04		estatu	eɕtatu
+PWN:stay.v.04		gelditu	ɡelditu
+PWN:steal.v.01		lapurtu	lapuɾtu
+PWN:steal.v.01		ostu	oɕtu
+PWN:step.v.01		oinkatu	ɔjnkatu
+PWN:stick.n.01		makila	makila
+PWN:still.r.01		oraindik	oɾɑjndik
+PWN:sting.v.02		sastatu	ɕaɕtatu
+PWN:stingy.a.01		zeken	seken
+PWN:stingy.a.01		zikoitz	sikɔjt͡s
+PWN:stir.v.01		eragin	eɾaɡin
+PWN:stomach.n.01		urdail	uɾdɑjl
+PWN:stop.v.01		gelditu	ɡelditu
+PWN:stop.v.01		geratu	ɡeɾatu
+PWN:stove.n.01		berogailu	beɾoɡɑjlu
+PWN:strap.n.01		uhal	uhal
+PWN:strength.n.01		indar	indaɾ
+PWN:strike.v.01		erauntsi	eɾɑunt͡ɕi
+PWN:strike.v.01		jo	d͡ʒo
+PWN:strike.v.01		jo	d͡ʒo
+PWN:string.n.01		lokailu	lokɑjlu
+PWN:stroke.n.10		marra	mara
+PWN:strong.a.01		bizkor	biskoɾ
+PWN:strong.a.01		indartsu	indaɾt͡ɕu
+PWN:stupid.a.01		lelo	lelo
+PWN:stupid.a.01		pello	peʎo
+PWN:subsequently.r.01		gerora	ɡeɾoɾa
+PWN:subsequently.r.01		ondoren	ondoɾen
+PWN:succeed.v.01		lortu	loɾtu
+PWN:suddenly.r.01		bat-batean	batbatean
+PWN:summer.n.01		uda	uda
+PWN:sun.n.01		eguzki	eɡuski
+PWN:sunday.n.01		igande	iɡande
+PWN:support.n.07		bermagailu	beɾmaɡɑjlu
+PWN:support.n.07		irozgarri	iɾosɡari
+PWN:swallow.v.01		irentsi	iɾent͡ɕi
+PWN:swamp.n.01		zingira	sinɡiɾa
+PWN:swan.n.01		beltxarga	belt͡ʃaɾɡa
+PWN:sweep.v.06		erraztatu	erastatu
+PWN:sweet.a.01		goxo	ɡoʃo
+PWN:swim.v.01		igeri egin	iɡeɾi eɡin
+PWN:swim.v.01		igerikatu	iɡeɾikatu
+PWN:swing.v.01		kulunkatu	kulunkatu
+PWN:swing.v.05		zabukatu	sabukatu
+PWN:swing_around.v.01		alderantzikatu	aldeɾant͡sikatu
+PWN:swing_around.v.01		biratu	biɾatu
+PWN:table.n.02		mahai	mahɑj
+PWN:tail.n.01		buztan	bustan
+PWN:tail.n.01		isats	iɕat͡ɕ
+PWN:take.v.04		hartu	haɾtu
+PWN:talk.v.02		hitz egin	hit͡s eɡin
+PWN:taste.n.01		dasta	daɕta
+PWN:taste.v.01		dastatu	daɕtatu
+PWN:tasty.a.01		goxo	ɡoʃo
+PWN:tea.n.01		te	te
+PWN:teach.v.01		irakatsi	iɾakat͡ɕi
+PWN:teacher.n.01		irakasle	iɾakaɕle
+PWN:tear.n.01		malko	malko
+PWN:tear.v.01		zarratatu	saratatu
+PWN:tell.v.03		edestu	edeɕtu
+PWN:tell.v.03		kontatu	kontatu
+PWN:ten.s.01		hamar	hamaɾ
+PWN:tendon.n.01		gihar-zain	ɡihaɾsɑjn
+PWN:tether.v.01		estekatu	eɕtekatu
+PWN:then.r.01		ondoren	ondoɾen
+PWN:then.r.03		orduan	oɾduɑn
+PWN:there.r.01		han	han
+PWN:there.r.03		hara	haɾa
+PWN:thick.a.01		lodi	lodi
+PWN:thick.a.03		sarri	ɕari
+PWN:thick.a.03		trinko	tɾinko
+PWN:thigh.n.01		izter	isteɾ
+PWN:thin.a.01		mehe	mehe
+PWN:thin.a.02		lerden	leɾden
+PWN:thing.n.09		afera	afeɾa
+PWN:thing.n.12		gauza	ɡɑusa
+PWN:think.v.03		gogoeta egin	ɡoɡoeta eɡin
+PWN:think.v.03		pentsatu	pent͡ɕatu
+PWN:third.s.01		hirugarren	hiɾuɡaren
+PWN:thirty.s.01		hogeita hamar	hoɡɛjta hamaɾ
+PWN:thorax.n.02		bular	bulaɾ
+PWN:thousand.s.01		mila	mila
+PWN:thread.n.01		hari	haɾi
+PWN:three.s.01		hiru	hiɾu
+PWN:throat.n.01		eztarri	estari
+PWN:through.r.01		zehar	sehaɾ
+PWN:thrust.v.01		bultzatu	bult͡satu
+PWN:thunder.n.02		ihurtzuri	ihuɾt͡suɾi
+PWN:thunder.n.02		ostots	oɕtot͡ɕ
+PWN:thunder.v.03		trumoia jo	tɾumɔja d͡ʒo
+PWN:thursday.n.01		ostegun	oɕteɡun
+PWN:thus.r.02		hala	hala
+PWN:thus.r.02		honela	honela
+PWN:tie.v.01		estekatu	eɕtekatu
+PWN:tie.v.01		lotu	lotu
+PWN:time.n.05		aldi	aldi
+PWN:time.n.05		denbora	denboɾa
+PWN:tinkle.v.01		tintin egin	tintin eɡin
+PWN:tip.n.01		punta	punta
+PWN:tire.v.02		nekatu	nekatu
+PWN:tire.v.02		unatu	unatu
+PWN:today.r.02		gaur	ɡɑuɾ
+PWN:toe.n.01		behatz	behat͡s
+PWN:together.r.01		elkarrekin	elkarekin
+PWN:token.n.02		agerbide	aɡeɾbide
+PWN:token.n.02		agergarri	aɡeɾɡari
+PWN:tomorrow.r.01		bihar	bihaɾ
+PWN:tone.n.07		soinu	ɕɔjnu
+PWN:tone.n.07		tonu	tonu
+PWN:tongue.n.01		mihi	mihi
+PWN:tooth.n.01		hortz	hoɾt͡s
+PWN:touch.v.01		ukitu	ukitu
+PWN:towel.n.01		eskuoihal	eɕkuɔjhal
+PWN:towel.n.01		eskuzapi	eɕkusapi
+PWN:town.n.01		hiri	hiɾi
+PWN:translate.v.01		itzuli	it͡suli
+PWN:transport.v.02		eraman	eɾaman
+PWN:transport.v.02		eroan	eɾoan
+PWN:trap.n.01		harrapagailu	harapaɡɑjlu
+PWN:trap.v.02		harrapatu	harapatu
+PWN:travel.v.01		higitu	hiɡitu
+PWN:travel.v.01		joan	d͡ʒoan
+PWN:tree.n.01		zuhaitz	suhɑjt͡s
+PWN:trouser.n.01		galtzak	ɡalt͡sak
+PWN:trouser.n.01		prakak	pɾakak
+PWN:true.a.01		egiazko	eɡiɑsko
+PWN:trunk.n.01		enbor	enboɾ
+PWN:truth.n.01		egia	eɡiɑ
+PWN:try.v.01		ahalegindu	ahaleɡindu
+PWN:try.v.01		saiatu	ɕɑjatu
+PWN:tube.n.01		hodi	hodi
+PWN:tuesday.n.01		astearte	aɕteaɾte
+PWN:tumble.v.01		erori	eɾoɾi
+PWN:turn.v.04		bihurtu	bihuɾtu
+PWN:twelve.s.01		hamabi	hamabi
+PWN:twenty.s.01		hogei	hoɡɛj
+PWN:two.s.01		bi	bi
+PWN:two.s.01		biga	biɡa
+PWN:uncle.n.01		osaba	oɕaba
+PWN:understand.v.01		aditu	aditu
+PWN:undress.v.01		erantzi	eɾant͡si
+PWN:unfold.v.04		igurtzi	iɡuɾt͡si
+PWN:up.r.01		gora	ɡoɾa
+PWN:up.r.01		gorantz	ɡoɾant͡s
+PWN:urge.v.01		bulkatu	bulkatu
+PWN:vainly.r.01		alferrik	alferik
+PWN:vein.n.01		zain	sɑjn
+PWN:very.r.01		oso	oɕo
+PWN:victimize.v.03		iruzurtu	iɾusuɾtu
+PWN:village.n.02		herri	heri
+PWN:violence.n.01		bortizkeria	boɾtiskeɾiɑ
+PWN:violence.n.01		bortxa	boɾt͡ʃa
+PWN:visible.a.01		azaldu	asaldu
+PWN:visit.v.07		ikustatu	ikuɕtatu
+PWN:voice.n.02		ahots	ahot͡ɕ
+PWN:wait.v.01		itxaron	it͡ʃaɾon
+PWN:wait.v.01		zain egon	sɑjn eɡon
+PWN:wake_up.v.02		atzarri	at͡sari
+PWN:wake_up.v.02		esnatu	eɕnatu
+PWN:walk.n.01		ibilera	ibileɾa
+PWN:walk.v.01		ibili	ibili
+PWN:walk.v.10		ostera bat egin	oɕteɾa bat eɡin
+PWN:walk.v.10		paseatu	paɕeatu
+PWN:war.n.01		guda	ɡuda
+PWN:ware.n.01		salgai	ɕalɡɑj
+PWN:warm.a.01		bero	beɾo
+PWN:wash.v.02		burua garbitu	buɾuɑ ɡaɾbitu
+PWN:wash.v.03		garbitu	ɡaɾbitu
+PWN:wash.v.03		xahutu	ʃahutu
+PWN:watch.v.01		begiratu	beɡiɾatu
+PWN:water.n.06		ur	uɾ
+PWN:water.v.01		isuri	iɕuɾi
+PWN:wave.n.01		olatu	olatu
+PWN:wave.n.01		uhin	uhin
+PWN:weak.a.01		ahul	ahul
+PWN:weak.a.01		indargabe	indaɾɡabe
+PWN:wealth.n.01		aberastasun	abeɾaɕtaɕun
+PWN:wear.v.09		jantzi	d͡ʒant͡si
+PWN:weather.n.01		eguraldi	eɡuɾaldi
+PWN:wednesday.n.01		asteazken	aɕteasken
+PWN:week.n.01		aste	aɕte
+PWN:weight.n.01		hazta	hasta
+PWN:well.n.01		putzu	put͡su
+PWN:west.n.02		mendebalde	mendebalde
+PWN:west.n.02		sartalde	ɕaɾtalde
+PWN:wet.a.01		busti	buɕti
+PWN:whistle.v.03		txistu egin	t͡ʃiɕtu eɡin
+PWN:white.a.01		zuri	suɾi
+PWN:wide.a.01		zabal	sabal
+PWN:wife.n.01		emazte	emaste
+PWN:willow.n.01		sahats	ɕahat͡ɕ
+PWN:willow.n.01		zume	sume
+PWN:win.v.01		irabazi	iɾabasi
+PWN:wind.n.01		haize	hɑjse
+PWN:wind.v.03		bildu	bildu
+PWN:window.n.01		leiho	lɛjho
+PWN:wing.n.01		hego	heɡo
+PWN:winter.n.01		negu	neɡu
+PWN:wipe.v.01		xukatu	ʃukatu
+PWN:wolf.n.01		otso	ot͡ɕo
+PWN:woman.n.01		andere	andeɾe
+PWN:woman.n.01		emakume	emakume
+PWN:wood.n.01		zur	suɾ
+PWN:wool.n.02		artile	aɾtile
+PWN:word.n.01		hitz	hit͡s
+PWN:work.n.01		lan	lan
+PWN:work.v.01		behar egin	behaɾ eɡin
+PWN:work.v.01		lan egin	lan eɡin
+PWN:worker.n.01		behargin	behaɾɡin
+PWN:worker.n.01		langile	lanɡile
+PWN:world.n.02		ludi	ludi
+PWN:world.n.02		mundu	mundu
+PWN:worm.n.01		har	haɾ
+PWN:write.v.02		idatzi	idat͡si
+PWN:year.n.01		urte	uɾte
+PWN:yellow.s.01		hori	hoɾi
+PWN:yesterday.r.01		atzo	at͡so
+PWN:young.a.01		gazte	ɡaste

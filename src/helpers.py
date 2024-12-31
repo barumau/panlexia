@@ -37,10 +37,10 @@ class tsv_writer:
 
 def get_other_id_to_Panlexia_id_map(other_id):
     """Creates a dictionary of ULD to Panlexia ids."""
-    master_file = 'data/master.tsv'
-    master = tsv_reader(master_file)
+    id_map_file = 'data/id_map.tsv'
+    id_map = tsv_reader(id_map_file)
     map_to_Panlexia = {}
-    for row in master.dict:
+    for row in id_map.dict:
         if row[other_id] != "":
             map_to_Panlexia[row[other_id]] = row["id"]
     return map_to_Panlexia

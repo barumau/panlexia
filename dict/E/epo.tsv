@@ -1,484 +1,546 @@
 id	style	word
-Action:can.V		povi
-Agriculture:farm.N		farmo
-Animal:Acridomorpha.N		akrido, lokusto
-Animal:Anatidae.N		anaso
-Animal:Annelida.N		vermo
-Animal:Anthophila.N		abelo
-Animal:Anura.N		rano
-Animal:Araneae.N		araneo
-Animal:Aves.N		birdo
-Animal:Blattodea.N		blato
-Animal:Bos taurus.N		bovo
-Animal:Canis lupus familiaris.N		hundo
-Animal:Canis lupus.N		lupo
-Animal:Capra hircus.N		kapro
-Animal:Cervidae.N		cervo
-Animal:Cetacea.N		baleno
-Animal:Corvus.N		korvo
-Animal:Culicidae.N		moskito
-Animal:Diptera.N		muŝo
-Animal:Elephantidae.N		elefanto
-Animal:Equus asinus.N		azeno
-Animal:Equus ferus caballus.N		ĉevalo
-Animal:Felis catus.N		kato
-Animal:Felis leo.N		leono
-Animal:Felis tigris.N		tigro
-Animal:Formicidae.N		formiko
-Animal:Gallus gallus domesticus.N		koko
-Animal:Grylloidea.N		grilo
-Animal:Homo sapiens.N		homo
-Animal:Insecta.N		insekto
-Animal:Lacertidae.N		lacerto
-Animal:Lampyridae.N		lampiro
-Animal:Leporidae.N		"kuniklo (hare = ""leporo"")"
-Animal:Mantodea.N		manto
-Animal:Meleagris gallopavo.N		meleagro
-Animal:Nephropidae.N		omaro
-Animal:Ovis aries.N		ŝafo
-Animal:Passeridae.N		pasero
-Animal:Rhopalocera.N		papilio
-Animal:Sciuridae.N		sciuro
-Animal:Serpentes.N		serpento
-Animal:Simiiformes.N		simio
-Animal:Sus scrofa domestica.N		porko
-Animal:Testudines.N		testudo
-Animal:Ursidae.N		urso
-Animal:Vulpes.N		vulpo
-Animal:animal.N		besto, animalo
-Animal:dragon.N		drako
-Animal:fish.N		fiŝo
-Animal:mouse.N		muso
-Animal:wool.N		lano
-Atmosphere:cloud.N		nubo
-Atmosphere:fog.N		nebulo
-Atmosphere:hail.N		hajlo
-Atmosphere:rain.N		pluvo
-Atmosphere:rainbow.N		ĉielarko
-Atmosphere:sky.N		ĉielo
-Atmosphere:storm.N		tempesto, ŝtormo
-Atmosphere:thunder.N		tondro
-Atmosphere:weather.N		vetero
-Atmosphere:wind.N		vento
-Belief:angel.N		anĝelo
-Belief:bless.V		beni
-Belief:curse.V		malbeni
-Belief:deity.N		dio
-Belief:fairy.N		feo
-Belief:ghost.N		spirito
-Belief:heaven.N		ĉielo
-Belief:hell.N		inferno
-Belief:holiday.N		festotago
-Belief:holy.A		sankta
-Belief:magic.N		magio, sorĉarto
-Belief:pray.V		preĝi
-Belief:priest.N		pastoro
-Belief:religion.N		religio
-Belief:rite.N		rito
-Belief:soul.N		animo
-Body:anus.N		anuso
-Body:arm.N		brako
-Body:back.N		dorso
-Body:beard.N		barbo
-Body:blood.N		sango
-Body:body hair.N		haro
-Body:body.N		korpo
-Body:bone.N		osto
-Body:brain.N		cerbo
-Body:breast.N		mamo
-Body:breath.V		spiri
-Body:buttock.N		gluteo
-Body:cheek.N		vango
-Body:chest.N		brusto
-Body:chin.N		mentono
-Body:ear.N		orelo
-Body:egg.N		ovo
-Body:elbow.N		kubuto
-Body:eye.N		okulo
-Body:face.N		vizaĝo
-Body:feather.N		plumo
-Body:feces.N		fekaĵo
-Body:finger.N		fingro
-Body:fist.N		pugno
-Body:flesh.N		karno
-Body:foot.N		piedo
-Body:forehead.N		frunto
-Body:hand.N		mano
-Body:head hair.N		hararo
-Body:head.N		kapo
-Body:heart.N		koro
-Body:heel.N		kalkano
-Body:hip.N		kokso
-Body:horn.N		korno
-Body:intestines.N		intesto
-Body:kidney.N		reno
-Body:knee.N		genuo
-Body:leg.N		kruro, gambo
-Body:lip.N		lipo
-Body:live.V		vivi
-Body:liver.N		hepato
-Body:lung.N		pulmo
-Body:mouth.N		buŝo
-Body:muscle.N		muskolo
-Body:nail.N		ungo
-Body:navel.N		umbiliko
-Body:neck.N		kolo, nuko
-Body:nerve.N		nervo
-Body:nose.N		nazo
-Body:obese.A		grasa
-Body:organ.N		organo
-Body:palm.N		manplato
-Body:penis.N		peniso
-Body:piss.N		urino
-Body:shell.N		karapaco, konko
-Body:shoulder.N		ŝultro
-Body:skeleton.N		skeleto, ostaro
-Body:skin.N		haŭto
-Body:sneeze.V		terni
-Body:spine.N		spino, vertebraro
-Body:spit.V		kraĉi
-Body:stomach.N		stomako
-Body:sweat.N		ŝvito
-Body:tail.N		vosto
-Body:tear.N		larmo
-Body:testicle.N		testiko
-Body:throat.N		gorĝo
-Body:thumb.N		dikfingro, polekso
-Body:toe.N		piedfingro
-Body:tongue.N		lango
-Body:tooth.N		dento
-Body:vagina.N		vagino
-Body:vein.N		vejno
-Body:waist.N		talio
-Body:wing.N		flugilo
-Body:wound.N		vundo
-Body:wrist.N		manartiko, manradiko
-Building:bar.N		trinkejo
-Building:board.N		tabulo
-Building:brick.N		briko
-Building:build.V		konstrui
-Building:building.N		konstruaĵo
-Building:camp.N		tendumejo, kampadejo, bivakejo
-Building:ceiling.N		plafono
-Building:cellar.N		kelo
-Building:chimney.N		kamentubo, fumtubo
-Building:church.N		preĝejo
-Building:door.N		pordo
-Building:fireplace.N		kameno
-Building:floor.N		planko
-Building:frame.N		kadro
-Building:house.N		domo
-Building:oven.N		forno, bakujo
-Building:pyramid.N		piramido
-Building:roof.N		tegmento
-Building:room.N		ĉambro
-Building:stairs.N		ŝtuparo
-Building:tower.N		turo
-Building:wall.N		muro
-Building:window.N		fenestro
-Cleaning:dirty.A		malpura
-Clothing:T-shirt.N		T-ĉemizo, to-ĉemizo
-Clothing:apron.N		antaŭtuko
-Clothing:belt.N		zono
-Clothing:cap.N		ĉapo
-Clothing:cloth.N		tolo
-Clothing:coat.N		palto, mantelo
-Clothing:collar.N		kolumo
-Clothing:dress.N		robo
-Clothing:garment.N		vestaĵo
-Clothing:glove.N		ganto
-Clothing:harness.N		jungilaro
-Clothing:hat.N		ĉapelo
-Clothing:jacket.N		jako
-Clothing:jeans.N		ĝinzo
-Clothing:leather.N		ledo
-Clothing:loom.N		teksilo
-Clothing:naked.A		nuda, senkovra
-Clothing:necktie.N		kravato
-Clothing:needle.N		kudrilo, nadlo
-Clothing:pocket.N		poŝo
-Clothing:sew.V		kudri
-Clothing:shirt.N		ĉemizo
-Clothing:shoe.N		ŝuo
-Clothing:shorts.N		ŝorto, sportkuloto
-Clothing:silk.N		silko
-Clothing:skirt.N		jupo
-Clothing:slipper.N		pantoflo
-Clothing:sock.N		ŝtrumpeto
-Clothing:suit.N		kompleto
-Clothing:thread.N		fadeno
-Clothing:towel.N		mantuko, bantuko, viŝtuko
-Clothing:trousers.N		pantalono
-Clothing:underpants.N		kalsono, kalsoneto
-Clothing:uniform.N		uniformo
-Clothing:veil.N		vualo
-Clothing:weave.V		teksi
-Cognition:awake.A		maldormanta
-Cognition:expect.V		antaŭsupozi, antaŭvidi
-Cognition:false.A		malvera, falsa
-Cognition:same.A		sama
-Cognition:true.A		vera
-Cognition:wake up.V		vekiĝi
-Combat:fight.V		batali, barakti, lukti, militi
-Combat:helmet.N		kasko
-Combat:wrestle.V		lukti
-Communication:accept		akcepti
-Communication:answer.V		respondo
-Communication:book.N		libro
-Communication:call.V		voki, alvoki
-Communication:cellphone.N		poŝtelefono
-Communication:deny.V		nei
-Communication:gesture.V		gesti
-Communication:letter.N		letero
-Communication:news.N		novaĵoj, informoj
-Communication:newspaper.N		ĵurnalo
-Communication:offer.V		proponi
-Communication:praise.V		laŭdi
-Communication:telephone.N		telefono
-Communication:television set.N		televido
-Communication:thank.V		danki
-Cosmos:Sun.N		suno
-Cosmos:moon.N		luno
-Cosmos:planet.N		planedo
-Cosmos:star.N		stelo
-Cosmos:telescope.N		teleskopo
-Cosmos:universe.N		universo
-Degree:almost.ADV		preskaŭ
-Degree:at least.ADV		almenaŭ
-Degree:at most.ADV		nur, ne pli ol
-Degree:degree.N		grado, kiomo
-Degree:least.ADV		malplej, malplejmulte
-Degree:less.ADV		malpli, malplimulte
-Degree:little.ADV		malmulte
-Degree:more.ADV		pli, plimulte
-Degree:most.ADV		plej, plejmulte
-Degree:very.ADV		multe, tre
-Element:Ag.N		arĝento
-Element:Au.N		oro
-Element:C.N		karbono
-Element:Cu.N		kupro
-Element:Fe.N		fero
-Element:K.N		kalio
-Element:N.N		nitrogeno
-Element:Na.N		natrio
-Element:Ne.N		neono
-Element:O.N		oksigeno
-Element:Pb.N		plumbo
-Element:S.N		sulfuro
-Element:Sn.N		stano
-Emotion:admire.V		admiri
-Emotion:angry.A		kolera
-Emotion:boring.A		teda, enuiga
-Emotion:comfort.N		komforto
-Emotion:courage.N		kuraĝo
-Emotion:disappointment.N		malkontentiĝo, seniluziiĝo
-Emotion:evil.A		malbon(eg)a
-Emotion:fear.N		timi
-Emotion:feel.V		senti
-Emotion:happy.A		feliĉa
-Emotion:hate.V		malami
-Emotion:hope.V		esperi
-Emotion:love.V		ami
-Emotion:respect.V		estimi, respekti
-Emotion:sad.A		malfeliĉa, malgaja, trista
-Emotion:worry.V		ĉagreno, maltrankviliĝo
-Family:aunt.N		onklino
-Family:brother.N		frato
-Family:daughter.N		filino
-Family:family.N		familio
-Family:father.N		patro
-Family:grandfather.N		avo
-Family:grandmother.N		avino
-Family:husband.N		edzo
-Family:marriage.N		edzeco
-Family:mother.N		patrino
-Family:sister.N		fratino
-Family:son.N		filo
-Family:uncle.N		onklo
-Family:wife.N		edzino
-Food:Camellia sinensis.N		teo
-Food:Coffea.N		kafo
-Food:NaCl.N		salo
-Food:Solanum lycopersicum.N		tomato
-Food:bake.V		baki
-Food:bread.N		pano
-Food:drink.V		trinki
-Food:flour.N		faruno
-Food:pizza.N		pico
-Food:salad.N		salato
-Food:sandwich.N		sandviĉo
-Food:sausage.N		kolbaso
-Food:soup.N		supo
-Food:spoon.N		kulero
-Form:triangle.N		triangulo
-Grooming:brush.N		broŝilo
-Handiwork:patch.N		flikaĵo
-Health:disease.N		malsano
-Health:fever.N		febro
-Health:healthy.A		sana
-Health:hospital.N		malsanulejo, hospitalo
-Health:physician.N		kuracisto
-House:bed.N		lito
-House:blanket.N		kovrilo
-House:curtain.N		kurteno
-House:pillow.N		kuseno
-House:rug.N		tapiŝo
-House:table.N		tablo
-Hunting:bow.N		pafarko
-Hunting:hunt.V		ĉasi
-Integrity:part.N		parto
-Integrity:piece.N		peco
-Integrity:whole.A		tuta, entuta
-Interaction:choose.V		elekti, selekti
-Law:crime.N		krimo
-Literature:alphabet.N		aboco, alfabeto
-Material:brass.N		latuno
-Matter:rust.N		rusto
-Mind:dream.N		sonĝo
-Motion:bring.V		alporti, venigi, kunpreni, kunporti
-Motion:carry.V		porti
-Motion:catch.V		kapti
-Motion:come back.V		reveni, revenigi, reiri
-Motion:come.V		veni, alveni
-Motion:enter.V		eniri, enveni
-Motion:fly.V		flugi
-Motion:go.V		iri
-Motion:leave.V		foriri, lasi, forlasi
-Motion:ride.V		veturi, rajdi
-Motion:roll.V		ruliĝi
-Motion:turn (sth).V		devojigi, turni
-Motion:turn.V		turni, turniĝi, (rotacii, rivolui)
-Music:sing.V		kanti
-Nature:river.N		rivero
-Nature:sea.N		maro, oceano
-People:adult.N		plenkreskulo
-People:baby.N		bebo
-People:boy.N		knabo
-People:child.N		infano
-People:female.A		virina, ina
-People:girl.N		knabino
-People:male.A		vira
-People:man.N		viro
-People:woman.N		virino
-Perception:feel.V		sensi
-Perception:hear.V		aŭdi
-Perception:pain.N		doloro
-Perception:touch.V		tuŝi
-Perception:wet.A		malseka
-Perception:yellow.A		flava
-Plant:Citrus sinensis.N		oranĝo
-Plant:Ficus carica.N		figo
-Plant:Glycine max.N		sojo
-Plant:Gossypium.N		kotono
-Plant:Helianthus annuus.N		sunfloro, helianto
-Plant:bud.N		burĝono
-Plant:flower.N		floro
-Plant:plant.N		plantaĵo, vegetalo
-Possession:market.N		bazaro
-Possession:poor.A		malriĉa
-Possession:price.N		prezo
-Possession:receive.V		ricevi
-Possession:rich.A		riĉa
-Possession:value.N		valoro
-Quantity:0.NUM		nulo
-Quantity:1.NUM		unu
-Quantity:10.NUM		dek
-Quantity:100.NUM		cent
-Quantity:1000.NUM		mil
-Quantity:10^6.NUM		miliono
-Quantity:2.NUM		du
-Quantity:3.NUM		tri
-Quantity:4.NUM		kvar
-Quantity:5.NUM		kvin
-Quantity:6.NUM		ses
-Quantity:7.NUM		sep
-Quantity:8.NUM		ok
-Quantity:9.NUM		naŭ
-Quantity:empty.A		malplena
-Quantity:enough.ADV		sufiĉe
-Quantity:full.A		plena
-Quantity:little.A		iomete (da)
-Quantity:many.A		multaj
-Quantity:more.A		pli (multe da), pli (multaj)
-Quantity:most.A		la plimulto, la plejmulto, la pliparto, la plejparto
-Quantity:much.A		multe (da), multo
-Quantity:multiply.V		obligi, multipliki
-Society:help.V		helpi
-Sound:laugh.V		ridi
-Space:apart.ADV		aparte, dise
-Space:back.ADV		reen, reire, revene
-Space:wide.A		larĝa, vasta
-Storage:barrel.N		barelo
-Storage:basket.N		korbo
-Storage:bottle.N		botelo
-Storage:box.N		kartono
-Storage:bucket.N		sitelo
-Storage:package.N		pakaĵo
-Storage:tin (can).N		ladskatolo
-Time:April.N		aprilo
-Time:August.N		aŭgusto
-Time:December.N		decembro
-Time:February.N		februaro
-Time:January.N		januaro
-Time:July.N		julio
-Time:June.N		junio
-Time:March.N		marto
-Time:May.N		majo
-Time:October.N		oktobro
-Time:September.N		septembro
-Time:afternoon.N		postagmezo
-Time:age.N		aĝo
-Time:already.ADV		jam
-Time:always.ADV		ĉiam, ĉiame
-Time:autumn.N		aŭtuno
-Time:final.A		fina, lasta
-Time:hour.N		horo
-Time:late.ADV		malfrua, malfrue
-Time:long ago.ADV		antaŭlonge
-Time:minute.N		minuto
-Time:month.N		monato
-Time:never.ADV		neniam
-Time:new.A		nova
-Time:night.N		nokto
-Time:now.ADV		nun, nuntempe
-Time:old (used).A		malnova
-Time:old.A		maljuna
-Time:period.N		epoko
-Time:rhythm.N		ritmo
-Time:season.N		sezono
-Time:second.N		sekundo
-Time:short.ADV		mallonga, mallongdaŭra
-Time:springtime.N		printempo
-Time:still.ADV		ankoraŭ
-Time:summer.N		somero
-Time:time.N		tempo
-Time:today.ADV		hodiaŭ
-Time:tomorrow.ADV		morgaŭ
-Time:wait.V		atendi
-Time:winter.N		vintro
-Time:year.N		jaro
-Time:yesterday.ADV		hieraŭ
-Transit:airplane.N		aviadilo, aeroplano
-Transit:bicycle.N		biciklo
-Transit:boat.N		boato
-Transit:brake.V		bremsilo
-Transit:bus.N		aŭtobuso, buso {colloquial}
-Transit:car.N		aŭtomobilo, aŭto {colloquial}
-Transit:cart.N		vagono, ĉaro
-Transit:motorcycle.N		motorciklo
-Transit:oar.N		padelo, remilo
-Transit:railroad.N		fervojo
-Transit:road.N		vojo
-Transit:rocket.N		rakedo
-Transit:sailcloth.N		velo
-Transit:ship.N		ŝipo
-Transit:train.N		trajno, vagonaro
-Transit:truck.N		kamiono, ŝarĝaŭto
-Transit:vehicle.N		veturilo
-Transit:wheel.N		rado
-Value:bad.A		malbona
-Value:compare.V		kompari
-Value:equal.A		egala
-Value:good.A		bona
-Value:important.A		grava
-Value:right.N		rajto
+PLX:1SG.pro		mi
+PLX:2SG.pro		vi
+PLX:and.cnj		kaj
+PLX:because of.adp		pro, kaŭze de
+PLX:but.cnj		sed
+PLX:can.v		povi
+PLX:if.cnj		se
+PLX:or.cnj		aŭ
+PLX:that.cnj		ke
+PLX:that.pro		kiu
+PLX:that.pro		tiu
+PLX:this.pro		ĉi tiu
+PWN:abdomen.n.01		abdomeno
+PWN:afternoon.n.01		postagmezo
+PWN:again.r.01		ree, refoje, denove
+PWN:age.n.01		aĝo
+PWN:agree.v.01		konsenti
+PWN:airplane.n.01		aviadilo, aeroplano
+PWN:alive.a.01		viva, vivanta
+PWN:already.r.01		jam
+PWN:always.r.01		ĉiam, ĉiame
+PWN:amusing.s.02		amuza, komika
+PWN:angel.n.01		anĝelo
+PWN:animal.n.01		besto, animalo
+PWN:answer.v.01		respondo
+PWN:ant.n.01		formiko
+PWN:anus.n.01		anuso
+PWN:april.n.01		aprilo
+PWN:arm.n.01		brako
+PWN:arrive.v.01		veni, alveni
+PWN:ash.n.01		cindro
+PWN:attack.v.01		ataki
+PWN:august.n.01		aŭgusto
+PWN:aunt.n.01		onklino
+PWN:automatic.a.01		aŭtomata
+PWN:baby.n.01		bebo
+PWN:back.n.01		dorso
+PWN:back.r.01		reen, reire, revene
+PWN:bad.a.01		malbona
+PWN:bake.v.02		baki
+PWN:bare.s.01		nuda, senkovra
+PWN:barroom.n.01		trinkejo
+PWN:basket.n.01		korbo
+PWN:be.v.01		esti
+PWN:bear.n.01		urso
+PWN:beard.n.01		barbo
+PWN:become.v.01		iĝi
+PWN:bed.n.01		lito
+PWN:bee.n.01		abelo
+PWN:behavior.n.01		konduto
+PWN:belt.n.02		zono
+PWN:berry.n.01		bero
+PWN:besides.r.02		ankaŭ
+PWN:bicycle.n.01		biciklo
+PWN:bird.n.01		birdo
+PWN:bite.v.01		mordi
+PWN:black.a.01		nigra
+PWN:blame.v.01		kulpigi
+PWN:blanket.n.01		kovrilo
+PWN:bless.v.01		beni
+PWN:blood.n.01		sango
+PWN:blue.s.01		blua
+PWN:board.n.02		tabulo
+PWN:boat.n.01		boato
+PWN:body.n.01		korpo
+PWN:body_hair.n.01		haro
+PWN:bone.n.01		osto
+PWN:book.n.01		libro
+PWN:bottle.n.01		botelo
+PWN:bow.n.04		pafarko
+PWN:bowl.n.01		bovlo
+PWN:box.n.01		kartono
+PWN:brain.n.01		cerbo
+PWN:brainsick.s.01		freneza
+PWN:brake.v.02		bremsilo
+PWN:bread.n.01		pano
+PWN:breast.n.02		mamo
+PWN:breathe.v.01		spiri
+PWN:brick.n.01		briko
+PWN:bridge.n.01		ponto
+PWN:bright.a.01		brila, hela, luma
+PWN:bring.v.01		alporti, venigi, kunpreni, kunporti
+PWN:brother.n.01		frato
+PWN:brow.n.01		frunto
+PWN:brown.s.01		bruna
+PWN:brush.n.02		broŝilo
+PWN:bucket.n.01		sitelo
+PWN:bus.n.01		aŭtobuso, buso {colloquial}
+PWN:butterfly.n.01		papilio
+PWN:buttocks.n.01		gluteo
+PWN:calculate.v.01		kalkuli
+PWN:calendar_month.n.01		monato
+PWN:call.v.05		voki, alvoki
+PWN:camp.n.03		tendumejo, kampadejo, bivakejo
+PWN:cap.n.01		ĉapo
+PWN:car.n.01		aŭtomobilo, aŭto {colloquial}
+PWN:carbon.n.01		karbono
+PWN:cat.n.01		kato
+PWN:catch.v.04		kapti
+PWN:caterpillar.n.01		raŭpo
+PWN:cattle.n.01		bovo
+PWN:cause.n.01		kialo
+PWN:caution.n.01		singardo, prudento
+PWN:century.n.01		jarcento, centjaro
+PWN:cheek.n.01		vango
+PWN:chicken.n.02		koko
+PWN:child.n.01		infano
+PWN:chimney.n.01		kamentubo, fumtubo
+PWN:chin.n.01		mentono
+PWN:choose.v.01		elekti, selekti
+PWN:clay.n.01		argilo
+PWN:cloud.n.02		nubo
+PWN:coal.n.01		terkarbo
+PWN:coat.n.01		palto, mantelo
+PWN:cockroach.n.01		blato
+PWN:coffee.n.01		kafo
+PWN:collaborate.v.01		kunlabori
+PWN:collar.n.01		kolumo
+PWN:color.n.01		koloro
+PWN:commiseration.n.01		kompati
+PWN:compete.v.01		konkurenci
+PWN:compromise.n.01		kompromiso
+PWN:construct.v.01		konstrui
+PWN:contend.v.06		batali, barakti, lukti, militi
+PWN:copper.n.01		kupro
+PWN:corpulent.s.01		grasa
+PWN:count.v.01		nombri
+PWN:cover.v.01		kovrilo
+PWN:crime.n.01		krimo
+PWN:crow.n.01		korvo
+PWN:curse.v.03		malbeni
+PWN:cut.v.01		tranĉi
+PWN:dance.v.02		danci
+PWN:dark.a.01		malhela
+PWN:date.n.01		dato
+PWN:daughter.n.01		filino
+PWN:dead.a.01		morta, mortinta
+PWN:december.n.01		decembro
+PWN:deer.n.01		cervo
+PWN:deity.n.01		dio
+PWN:deny.v.04		nei
+PWN:depend.v.01		dependi de
+PWN:depository_financial_institution.n.01		banko
+PWN:deserve.v.01		meriti
+PWN:desire.v.01		voli, deziri
+PWN:detect.v.01		rimarki, observi
+PWN:die.v.01		morti
+PWN:difficult.a.01		malfacila
+PWN:dirty.a.01		malpura
+PWN:discontinue.v.01		ĉesigi, ĉesi
+PWN:disease.n.01		malsano
+PWN:doctor.n.01		kuracisto
+PWN:dog.n.01		hundo
+PWN:domestic_ass.n.01		azeno
+PWN:dragon.n.01		drako
+PWN:dream.n.01		sonĝo
+PWN:dress.n.01		robo
+PWN:drink.v.01		trinki
+PWN:drive.v.01		peli
+PWN:duck.n.01		anaso
+PWN:ear.n.01		orelo
+PWN:early.r.03		frua, frue, antaŭmatura
+PWN:earthquake.n.01		tertremo
+PWN:east.n.01		oriento
+PWN:eight.s.01		ok
+PWN:elbow.n.01		kubuto
+PWN:elementary.s.01		facila
+PWN:elephant.n.01		elefanto
+PWN:embarrassment.n.01		embaraso
+PWN:empty.a.01		malplena
+PWN:enough.r.01		sufiĉe
+PWN:enter.v.01		eniri, enveni
+PWN:enthusiasm.n.01		entuziasmo
+PWN:estimate.v.01		konjekti, diveni
+PWN:evening.n.01		vespero
+PWN:evil.a.01		malbon(eg)a
+PWN:exist.v.01		ekzisti
+PWN:exit.v.01		foriri, lasi, forlasi
+PWN:exuberate.v.01		festi, celebri
+PWN:eye.n.01		okulo
+PWN:fabric.n.01		tolo
+PWN:face.n.01		vizaĝo
+PWN:fairy.n.01		feo
+PWN:fall.n.01		aŭtuno
+PWN:family.n.02		familio
+PWN:farm.n.01		farmo
+PWN:father.n.01		patro
+PWN:faulty.s.02		malĝusta, erara
+PWN:fear.n.01		timi
+PWN:feather.n.01		plumo
+PWN:february.n.01		februaro
+PWN:feel.v.03		sensi
+PWN:feel.v.09		senti
+PWN:female.s.03		virina, ina
+PWN:female_child.n.01		knabino
+PWN:fever.n.01		febro
+PWN:finger.n.01		fingro
+PWN:fireplace.n.01		kameno
+PWN:fish.n.01		fiŝo
+PWN:fist.n.01		pugno
+PWN:five.s.01		kvin
+PWN:flesh.n.01		karno
+PWN:floor.n.01		planko
+PWN:flour.n.01		faruno
+PWN:flower.n.02		floro
+PWN:fly.n.01		muŝo
+PWN:fly.v.01		flugi
+PWN:fog.n.01		nebulo
+PWN:following.s.02		posta, sekvanta
+PWN:foolish.a.01		malsaĝa, stulta
+PWN:foot.n.01		piedo
+PWN:forest.n.01		arbaro, forsto
+PWN:forget.v.02		forgesi
+PWN:forgive.v.01		pardoni
+PWN:four.s.01		kvar
+PWN:fox.n.01		vulpo
+PWN:frequently.r.01		ofte
+PWN:friday.n.01		vendredo
+PWN:friend.n.01		amiko
+PWN:frog.n.01		rano
+PWN:full.a.01		plena
+PWN:gate.n.01		pordo
+PWN:get_down.v.07		komenci, komenciĝi
+PWN:ghost.n.03		spirito
+PWN:glass.n.01		vitro
+PWN:glove.n.02		ganto
+PWN:glowworm.n.01		lampiro
+PWN:goat.n.01		kapro
+PWN:gold.n.03		oro
+PWN:good.a.01		bona
+PWN:grandfather.n.01		avo
+PWN:grandma.n.01		avino
+PWN:grasshopper.n.01		akrido, lokusto
+PWN:grateful.a.01		danka
+PWN:green.s.01		verda
+PWN:grey.s.01		griza
+PWN:guard.v.01		gardi
+PWN:guilty.a.01		kulpa
+PWN:habit.n.01		kutimo
+PWN:hand.n.01		mano
+PWN:happen.v.01		okazi
+PWN:happy.a.01		feliĉa
+PWN:hark_back.v.01		reveni, revenigi, reiri
+PWN:hate.v.01		malami
+PWN:have.v.01		havi, posedi
+PWN:head.n.01		kapo
+PWN:head_covering.n.01		vualo
+PWN:healthy.a.01		sana
+PWN:hear.v.01		aŭdi
+PWN:heart.n.02		koro
+PWN:heaven.n.02		ĉielo
+PWN:heel.n.02		kalkano
+PWN:hell.n.04		inferno
+PWN:helmet.n.02		kasko
+PWN:help.v.01		helpi
+PWN:here.r.01		ĉi tie, ĉi tien
+PWN:hide.n.02		haŭto
+PWN:hide.v.01		kaŝi
+PWN:hill.n.01		monteto
+PWN:hip.n.01		kokso
+PWN:hog.n.03		porko
+PWN:holy.a.01		sankta
+PWN:hope.v.02		esperi
+PWN:horn.n.02		korno
+PWN:horse.n.01		ĉevalo
+PWN:hour.n.01		horo
+PWN:house.n.01		domo
+PWN:hundred.s.01		cent
+PWN:hunt.v.01		ĉasi
+PWN:husband.n.01		edzo
+PWN:idea.n.01		ideo, koncepto
+PWN:ill.a.01		malsana
+PWN:indicate.v.02		montri, vidigi
+PWN:innocent.a.01		senkulpa
+PWN:insect.n.01		insekto
+PWN:intestine.n.01		intesto
+PWN:intoxicated.a.01		ebria
+PWN:iron.n.01		fero
+PWN:jade.n.01		jado
+PWN:january.n.01		januaro
+PWN:jersey.n.03		T-ĉemizo, to-ĉemizo
+PWN:july.n.01		julio
+PWN:jump.v.01		salti
+PWN:june.n.01		junio
+PWN:kidney.n.01		reno
+PWN:knee.n.01		genuo
+PWN:lake.n.01		lago
+PWN:last.a.02		fina, lasta
+PWN:late.r.01		malfrua, malfrue
+PWN:laugh.v.01		ridi
+PWN:lead.n.02		plumbo
+PWN:lead.v.01		gvidi, konduki
+PWN:learn.v.01		lerni, ekscii, informiĝi
+PWN:leather.n.01		ledo
+PWN:leg.n.02		kruro, gambo
+PWN:letter.n.01		letero
+PWN:lie.v.05		mensogi
+PWN:lightning.n.01		fulmo
+PWN:lion.n.01		leono
+PWN:lip.n.01		lipo
+PWN:liver.n.01		hepato
+PWN:lizard.n.01		lacerto
+PWN:long.a.02		longa
+PWN:long.r.01		longa, longdaŭra
+PWN:loom.n.01		teksilo
+PWN:love.v.03		ami
+PWN:lung.n.01		pulmo
+PWN:magic.n.01		magio, sorĉarto
+PWN:male.s.03		vira
+PWN:male_child.n.01		knabo
+PWN:man.n.01		viro
+PWN:many.a.01		multaj
+PWN:march.n.01		marto
+PWN:marketplace.n.02		bazaro
+PWN:may.n.01		majo
+PWN:meet.v.09		renkonti
+PWN:melt.v.01		fandi, fandiĝi
+PWN:merely.r.01		sole
+PWN:milk.n.01		lakto
+PWN:mind.n.01		menso
+PWN:monday.n.01		lundo
+PWN:monkey.n.01		simio
+PWN:moon.n.01		luno
+PWN:more.a.02		pli, plimulte
+PWN:morning.n.01		mateno, antaŭtagmezo
+PWN:mosquito.n.01		moskito
+PWN:mother.n.01		patrino
+PWN:motorcycle.n.01		motorciklo
+PWN:mountain.n.01		monto
+PWN:mouse.n.01		muso
+PWN:mouth.n.01		buŝo
+PWN:nail.n.01		ungo
+PWN:navel.n.01		umbiliko
+PWN:neck.n.01		kolo, nuko
+PWN:needle.n.03		kudrilo, nadlo
+PWN:neon.n.01		neono
+PWN:nest.n.01		nesto, kuŝejo, bestoloĝejo
+PWN:never.r.01		neniam
+PWN:new.a.01		nova
+PWN:news.n.01		novaĵoj, informoj
+PWN:newspaper.n.01		ĵurnalo
+PWN:night.n.01		nokto
+PWN:nine.s.01		naŭ
+PWN:nitrogen.n.01		nitrogeno
+PWN:north.n.03		nordo
+PWN:nose.n.01		nazo
+PWN:not.r.01		ne
+PWN:november.n.01		novembro
+PWN:now.r.04		nun, nuntempe
+PWN:oar.n.01		padelo, remilo
+PWN:object.n.01		aĵo, objekto
+PWN:october.n.01		oktobro
+PWN:old.a.01		maljuna
+PWN:one.s.01		unu
+PWN:onion.n.02		cepo
+PWN:orange.s.01		oranĝkolora
+PWN:oven.n.01		forno, bakujo
+PWN:oxygen.n.01		oksigeno
+PWN:pain.n.03		doloro
+PWN:palm.n.01		manplato
+PWN:part.n.02		parto
+PWN:part.n.03		peco
+PWN:passeridae.n.01		pasero
+PWN:penis.n.01		peniso
+PWN:person.n.01		homo
+PWN:pillow.n.01		kuseno
+PWN:pine.n.01		pino
+PWN:plant.n.02		plantaĵo, vegetalo
+PWN:pocket.n.01		poŝo
+PWN:poor.a.02		malriĉa
+PWN:populate.v.01		loĝi
+PWN:potassium.n.01		kalio
+PWN:pray.v.01		preĝi
+PWN:price.n.02		prezo
+PWN:priest.n.01		pastoro
+PWN:pull.v.01		tiri, altiri
+PWN:purple.s.01		purpura
+PWN:push.v.01		puŝi
+PWN:rabbit.n.01		"kuniklo (hare = ""leporo"")"
+PWN:rain.n.01		pluvo
+PWN:rainbow.n.01		ĉielarko
+PWN:red.s.01		ruĝa
+PWN:religion.n.02		religio
+PWN:remember.v.01		memori, rememori
+PWN:repent.v.02		bedaŭri
+PWN:rich.a.01		riĉa
+PWN:ride.v.01		veturi, rajdi
+PWN:rite.n.01		rito
+PWN:river.n.01		rivero
+PWN:road.n.01		vojo
+PWN:roll.v.14		ruliĝi
+PWN:roof.n.01		tegmento
+PWN:room.n.01		ĉambro
+PWN:root.n.01		radiko
+PWN:rope.n.01		ŝnuro
+PWN:rug.n.01		tapiŝo
+PWN:run.v.01		kuri
+PWN:sabbath.n.01		preĝtago, sabato
+PWN:sad.a.01		malfeliĉa, malgaja, trista
+PWN:sail.n.01		velo
+PWN:salt.n.02		salo
+PWN:same.a.01		sama
+PWN:saturday.n.01		sabato
+PWN:sausage.n.01		kolbaso
+PWN:sea.n.01		maro, oceano
+PWN:season.n.02		sezono
+PWN:see.v.01		vidi
+PWN:send.v.01		sendi
+PWN:september.n.01		septembro
+PWN:sequence.n.01		sinsekvo, ordo
+PWN:seven.s.01		sep
+PWN:sew.v.01		kudri
+PWN:shake.v.01		skui, skuiĝi, tremi
+PWN:sheep.n.01		ŝafo
+PWN:shell.n.10		karapaco, konko
+PWN:shine.v.02		brili
+PWN:ship.n.01		ŝipo
+PWN:shirt.n.01		ĉemizo
+PWN:shoe.n.01		ŝuo
+PWN:short.a.02		mallonga
+PWN:shoulder.n.01		ŝultro
+PWN:shut.a.01		fermita
+PWN:silk.n.01		silko
+PWN:silver.n.01		arĝento
+PWN:sing.v.02		kanti
+PWN:sister.n.01		fratino
+PWN:six.s.01		ses
+PWN:skirt.n.02		jupo
+PWN:sky.n.01		ĉielo
+PWN:sleep.v.01		dormi
+PWN:sleep_together.v.01		koiti, fiki
+PWN:snake.n.01		serpento
+PWN:sneeze.v.01		terni
+PWN:snow.n.01		neĝo
+PWN:sodium.n.01		natrio
+PWN:soil.n.02		grundo
+PWN:son.n.01		filo
+PWN:soon.r.01		baldaŭ, postnelonge
+PWN:sore.n.01		vundo
+PWN:soul.n.01		animo
+PWN:soup.n.01		supo
+PWN:south.n.03		sudo
+PWN:spider.n.01		araneo
+PWN:spinal_column.n.01		spino, vertebraro
+PWN:spit.v.01		kraĉi
+PWN:spoon.n.01		kulero
+PWN:spring.n.01		printempo
+PWN:squirrel.n.01		sciuro
+PWN:stand.v.01		stari
+PWN:star.n.03		stelo
+PWN:state.n.04		nacio
+PWN:stay.v.04		resti
+PWN:still.r.01		ankoraŭ
+PWN:stomach.n.01		stomako
+PWN:storm.n.01		tempesto, ŝtormo
+PWN:string.n.01		ŝnureto
+PWN:study.v.05		studi
+PWN:stupid.a.01		malinteligenta, stulta
+PWN:sulfur.n.01		sulfuro
+PWN:summer.n.01		somero
+PWN:sun.n.01		suno
+PWN:sunday.n.01		dimanĉo
+PWN:swallow.v.01		gluti
+PWN:swamp.n.01		marĉo
+PWN:table.n.02		tablo
+PWN:tail.n.01		vosto
+PWN:talk.v.02		paroli
+PWN:tea.n.01		teo
+PWN:teach.v.01		instrui
+PWN:tear.n.01		larmo
+PWN:telephone.n.01		telefono
+PWN:television_receiver.n.01		televido
+PWN:ten.s.01		dek
+PWN:testis.n.01		testiko
+PWN:there.r.01		tie, tien
+PWN:think.v.03		pensi
+PWN:thorax.n.02		brusto
+PWN:thousand.s.01		mil
+PWN:thread.n.01		fadeno
+PWN:three.s.01		tri
+PWN:throat.n.01		gorĝo
+PWN:thumb.n.01		dikfingro, polekso
+PWN:thunder.n.02		tondro
+PWN:thursday.n.01		ĵaŭdo
+PWN:tide.n.01		tajdo
+PWN:tiger.n.02		tigro
+PWN:time.n.05		tempo
+PWN:tin.n.01		stano
+PWN:today.r.02		hodiaŭ
+PWN:toe.n.01		piedfingro
+PWN:tomorrow.r.01		morgaŭ
+PWN:tongue.n.01		lango
+PWN:tooth.n.01		dento
+PWN:touch.v.01		tuŝi
+PWN:towel.n.01		mantuko, bantuko, viŝtuko
+PWN:tower.n.01		turo
+PWN:town.n.01		urbo, metropolo
+PWN:train.n.01		trajno, vagonaro
+PWN:transport.v.02		porti
+PWN:trap.n.01		kaptilo
+PWN:travel.v.01		iri
+PWN:trouser.n.01		pantalono
+PWN:true.a.01		vera
+PWN:tuesday.n.01		mardo
+PWN:turn.v.04		devojigi, turni
+PWN:turtle.n.02		testudo
+PWN:two.s.01		du
+PWN:uncle.n.01		onklo
+PWN:understand.v.01		kompreni
+PWN:vagina.n.01		vagino
+PWN:valley.n.01		valo
+PWN:vein.n.01		vejno
+PWN:very.r.01		multe, tre
+PWN:vinegar.n.01		vinagro
+PWN:wagon.n.01		vagono, ĉaro
+PWN:waist.n.01		talio
+PWN:wait.v.01		atendi
+PWN:wake_up.v.02		vekiĝi
+PWN:weather.n.01		vetero
+PWN:weave.v.02		teksi
+PWN:wednesday.n.01		merkredo
+PWN:week.n.01		semajno
+PWN:west.n.02		okcidento
+PWN:wet.a.01		malseka
+PWN:whale.n.02		baleno
+PWN:wheel.n.01		rado
+PWN:white.a.01		blanka
+PWN:wide.a.01		larĝa, vasta
+PWN:wife.n.01		edzino
+PWN:willow.n.01		saliko
+PWN:wind.n.01		vento
+PWN:window.n.01		fenestro
+PWN:wing.n.01		flugilo
+PWN:winter.n.01		vintro
+PWN:wolf.n.01		lupo
+PWN:woman.n.01		virino
+PWN:wool.n.02		lano
+PWN:world.n.02		mondo
+PWN:worm.n.01		vermo
+PWN:wrist.n.01		manartiko, manradiko
+PWN:year.n.01		jaro
+PWN:yellow.s.01		flava
+PWN:yesterday.r.01		hieraŭ
+PWN:young.a.01		juna
+PWN:zero.s.01		nulo

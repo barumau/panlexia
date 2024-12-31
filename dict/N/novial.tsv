@@ -1,430 +1,501 @@
 id	style	word
-Action:can.V		pove
-Agriculture:farm.N		ferme
-Animal:Acridomorpha.N		lokuste
-Animal:Annelida.N		verme
-Animal:Anthophila.N		abele
-Animal:Anura.N		rane
-Animal:Araneae.N		arane
-Animal:Aves.N		fogle
-Animal:Blattodea.N		blate
-Animal:Bos taurus.N		bove
-Animal:Canis lupus familiaris.N		hunde
-Animal:Canis lupus.N		volf
-Animal:Capra hircus.N		kapre (-o, -a)
-Animal:Cetacea.N		balene
-Animal:Culicidae.N		moskito
-Animal:Diptera.N		mushe
-Animal:Equus asinus.N		asne
-Animal:Equus ferus caballus.N		kavale (-o, -a)
-Animal:Felis catus.N		kate (-o, -a)
-Animal:Felis leo.N		leone (-o, -a)
-Animal:Felis tigris.N		tigre (-o, -a)
-Animal:Formicidae.N		formike
-Animal:Gallus gallus domesticus.N		hane
-Animal:Homo sapiens.N		home
-Animal:Insecta.N		insekte
-Animal:Leporidae.N		lepore (-o, -a)
-Animal:Meleagris gallopavo.N		dinde (-o, -a)
-Animal:Nephropidae.N		homarde
-Animal:Ovis aries.N		mutone (-o, -a)
-Animal:Rhopalocera.N		papilione
-Animal:Sciuridae.N		squirele
-Animal:Serpentes.N		serpente
-Animal:Simiiformes.N		simie (-o, -a)
-Animal:Sus scrofa domestica.N		porke (-o, -a)
-Animal:Testudines.N		tortuge
-Animal:Ursidae.N		urse (-o, -a)
-Animal:Vulpes.N		foxe (-o, -a)
-Animal:animal.N		animal
-Animal:dragon.N		dragone
-Animal:fish.N		fishe
-Animal:mouse.N		muse (-o, -a)
-Animal:wool.N		lane
-Atmosphere:cloud.N		nube
-Atmosphere:fog.N		neble
-Atmosphere:hail.N		grele
-Atmosphere:rain.N		pluve
-Atmosphere:rainbow.N		pluve-arko
-Atmosphere:sky.N		siele
-Atmosphere:storm.N		sturme
-Atmosphere:thunder.N		tondra
-Atmosphere:weather.N		vetre
-Atmosphere:wind.N		vente
-Belief:angel.N		anjele
-Belief:bless.V		benedikte
-Belief:curse.V		damna
-Belief:deity.N		dee (-o, -a)
-Belief:fairy.N		fea
-Belief:ghost.N		spirite
-Belief:heaven.N		siele
-Belief:hell.N		inferne
-Belief:holiday.N		feste
-Belief:holy.A		sakri
-Belief:magic.N		magia
-Belief:pray.V		prega
-Belief:priest.N		prestre
-Belief:religion.N		religione
-Belief:rite.N		ritu, seremonie
-Belief:soul.N		alme
-Body:arm.N		brase
-Body:back.N		dorse
-Body:beard.N		barbe
-Body:blood.N		sange
-Body:body hair.N		pile (on body), hare (on head)
-Body:body.N		korpore
-Body:bone.N		ose
-Body:brain.N		serebre
-Body:breast.N		mame
-Body:breath.V		spira
-Body:buttock.N		kule
-Body:cheek.N		vange
-Body:chest.N		pektore, bruste
-Body:chin.N		mentone
-Body:ear.N		orele
-Body:egg.N		ove
-Body:eye.N		okule
-Body:face.N		fasie
-Body:feather.N		plume
-Body:feces.N		feke
-Body:finger.N		fingre
-Body:fist.N		pugne
-Body:flesh.N		karne
-Body:foot.N		pede
-Body:forehead.N		fronte
-Body:hand.N		manu
-Body:head.N		kape
-Body:heart.N		kordie
-Body:heel.N		talone
-Body:hip.N		hanche
-Body:horn.N		korne
-Body:intestines.N		intestines
-Body:kidney.N		rene
-Body:knee.N		genu
-Body:leg.N		gambe
-Body:lip.N		labie
-Body:live.V		viva
-Body:lung.N		lung
-Body:mouth.N		boke
-Body:muscle.N		muskle
-Body:nail.N		ungle
-Body:navel.N		nable
-Body:neck.N		kole
-Body:nerve.N		nerve
-Body:nose.N		nase
-Body:obese.A		korpulent(i)
-Body:organ.N		organe
-Body:palm.N		palme
-Body:piss.N		urine
-Body:shell.N		shele
-Body:shoulder.N		shultre
-Body:skeleton.N		skelete
-Body:skin.N		pele
-Body:sneeze.V		sternuta
-Body:spine.N		spine
-Body:spit.V		sputa
-Body:stomach.N		stomake
-Body:sweat.N		sudore
-Body:tail.N		kaude
-Body:tear.N		lakrime
-Body:testicle.N		testikle
-Body:throat.N		guture
-Body:thumb.N		puse
-Body:toe.N		pedefingre
-Body:tongue.N		lange, tunge
-Body:tooth.N		dente
-Body:vein.N		veine
-Body:waist.N		talie
-Body:wing.N		ale
-Body:wound.N		vunde
-Building:bar.N		taverne
-Building:board.N		planke
-Building:brick.N		brike
-Building:build.V		konstrukte
-Building:building.N		edifise
-Building:camp.N		bivake
-Building:ceiling.N		plafone
-Building:cellar.N		kelere
-Building:chimney.N		kamine
-Building:church.N		kirke, eklesie
-Building:door.N		porte
-Building:fireplace.N		kamine
-Building:floor.N		planche
-Building:frame.N		frame
-Building:house.N		huse
-Building:oven.N		forne
-Building:pyramid.N		piramide
-Building:roof.N		tekte
-Building:room.N		chambre
-Building:stairs.N		eskalere
-Building:tower.N		turme
-Building:wall.N		mure
-Building:window.N		fenestre
-Cleaning:dirty.A		sordid(i)
-Clothing:cloth.N		texatum
-Clothing:coat.N		jake
-Clothing:collar.N		kolare
-Clothing:garment.N		veste
-Clothing:glove.N		gante
-Clothing:harness.N		harnese
-Clothing:hat.N		chapele, kaskete
-Clothing:jacket.N		jakete
-Clothing:leather.N		ledre
-Clothing:naked.A		nud(i)
-Clothing:necktie.N		kravate
-Clothing:needle.N		agulie
-Clothing:pocket.N		poshe
-Clothing:sew.V		suta
-Clothing:shirt.N		kamise
-Clothing:shoe.N		shu(e)
-Clothing:shorts.N		kalsone
-Clothing:silk.N		silke
-Clothing:skirt.N		jupe
-Clothing:sock.N		kalsete
-Clothing:thread.N		file
-Clothing:trousers.N		pantalone
-Clothing:uniform.N		uniforme
-Clothing:veil.N		vele
-Clothing:weave.V		texa
-Cognition:expect.V		expekta
-Cognition:false.A		falsi
-Cognition:same.A		sam(i), identi
-Cognition:true.A		veri
-Cognition:wake up.V		veka
-Combat:fight.V		kombata, lukta
-Combat:helmet.N		helme
-Combat:wrestle.V		lukta
-Communication:accept		alsepta
-Communication:answer.V		respondo
-Communication:book.N		libre
-Communication:call.V		voka
-Communication:deny.V		deskonfirma
-Communication:gesture.V		gesta
-Communication:letter.N		letre
-Communication:newspaper.N		jurnale
-Communication:offer.V		ofra
-Communication:praise.V		lauda
-Communication:telephone.N		telefone
-Communication:thank.V		danka
-Cosmos:Sun.N		sune
-Cosmos:moon.N		lune
-Cosmos:planet.N		planete
-Cosmos:star.N		stele
-Cosmos:telescope.N		teleskope
-Cosmos:universe.N		universe
-Degree:almost.ADV		preske
-Degree:at least.ADV		aminim
-Degree:at most.ADV		amaxim
-Degree:degree.N		gradu
-Degree:least.ADV		minim
-Degree:less.ADV		min
-Degree:little.ADV		pokim
-Degree:more.ADV		plu
-Degree:most.ADV		maxim
-Degree:very.ADV		tre
-Element:Ag.N		arjente
-Element:Au.N		ore
-Element:C.N		karbo
-Element:Cu.N		kupre
-Element:Fe.N		fere
-Element:K.N		kali(um)
-Element:N.N		nitrogene
-Element:Na.N		natrium
-Element:O.N		oxe, oxigene
-Element:Pb.N		plumbe
-Element:S.N		sulfre
-Element:Sn.N		stane
-Emotion:admire.V		admira
-Emotion:angry.A		irat (irant)
-Emotion:boring.A		enoyant(i), tedant(i), tedivi
-Emotion:comfort.N		komforte
-Emotion:courage.N		kuraje
-Emotion:disappointment.N		deseptione
-Emotion:evil.A		mal(i)
-Emotion:fear.N		tima, pavora
-Emotion:feel.V		senti
-Emotion:happy.A		felisi
-Emotion:hate.V		odia
-Emotion:hope.V		espera
-Emotion:love.V		ama
-Emotion:respect.V		respekte
-Emotion:sad.A		tristi
-Emotion:worry.V		tormente
-Family:brother.N		fratro
-Family:daughter.N		filia
-Family:family.N		familie
-Family:father.N		patro
-Family:husband.N		marito
-Family:marriage.N		mariteso
-Family:mother.N		matra
-Family:sister.N		fratra
-Family:son.N		filio
-Family:wife.N		marita
-Food:Camellia sinensis.N		tee
-Food:Coffea.N		kafe
-Food:NaCl.N		sale
-Food:Solanum lycopersicum.N		tomate
-Food:bake.V		baka
-Food:bread.N		pane
-Food:drink.V		drinka
-Food:flour.N		farine
-Food:salad.N		salade
-Food:sausage.N		sosise
-Food:soup.N		supe
-Food:spoon.N		kuliere
-Grooming:brush.N		brose
-Health:disease.N		maladeso
-Health:fever.N		febre
-Health:healthy.A		san(i)
-Health:hospital.N		hospitale
-House:bed.N		lite
-House:curtain.N		kurtene
-House:pillow.N		kusene
-House:rug.N		tapisete
-House:table.N		table
-Hunting:hunt.V		chasa
-Integrity:part.N		parte
-Integrity:piece.N		piese
-Integrity:whole.A		integri, komplet(i)
-Interaction:choose.V		selekte
-Law:crime.N		krime
-Literature:alphabet.N		alfabete
-Material:brass.N		latone
-Matter:rust.N		ruste
-Mind:dream.N		sonje
-Motion:carry.V		porta
-Motion:catch.V		kapta
-Motion:come back.V		retrovada, retrosenda
-Motion:come.V		veni, ariva
-Motion:enter.V		envada
-Motion:fly.V		vola
-Motion:go.V		vada
-Motion:leave.V		departa
-Motion:ride.V		vehikla
-Motion:roll.V		rula
-Motion:turn (sth).V		turna
-Motion:turn.V		turna, rota
-Music:sing.V		kanta
-Nature:river.N		fluvie
-Nature:sea.N		mare, oseane
-People:baby.N		infante (-o, -a)
-People:boy.N		puero
-People:female.A		femal, feminini
-People:girl.N		puera
-People:male.A		maskulin(i)
-People:man.N		homo
-People:woman.N		homa, fema
-Perception:feel.V		senti
-Perception:hear.V		audi
-Perception:pain.N		dolore
-Perception:touch.V		tucha
-Perception:yellow.A		gelbi
-Plant:Citrus sinensis.N		oranje
-Plant:Ficus carica.N		fige
-Plant:Gossypium.N		kotone
-Plant:bud.N		burjone
-Plant:flower.N		flore
-Plant:plant.N		plante
-Possession:market.N		merkate
-Possession:poor.A		povri
-Possession:price.N		pretie
-Possession:receive.V		resiva
-Possession:rich.A		richi
-Possession:value.N		valore
-Quantity:0.NUM		sero
-Quantity:1.NUM		un, uni
-Quantity:10.NUM		dek
-Quantity:100.NUM		sent
-Quantity:1000.NUM		mil
-Quantity:10^6.NUM		milione
-Quantity:2.NUM		du
-Quantity:3.NUM		tri
-Quantity:4.NUM		quar
-Quantity:5.NUM		sink
-Quantity:6.NUM		six
-Quantity:7.NUM		set
-Quantity:8.NUM		ot
-Quantity:9.NUM		nin
-Quantity:empty.A		vakui
-Quantity:full.A		plen(i)
-Quantity:little.A		poki, pokum
-Quantity:many.A		multi, multes
-Quantity:more.A		plu
-Quantity:most.A		maxim
-Quantity:much.A		multi, multum
-Quantity:multiply.V		multisa, multiplika
-Society:help.V		helpa
-Sound:laugh.V		rida
-Space:apart.ADV		separatim
-Space:back.ADV		retro
-Space:wide.A		larji
-Storage:barrel.N		barele
-Storage:basket.N		korbe
-Storage:bottle.N		botle
-Storage:box.N		boxe, keste
-Storage:package.N		pakete
-Time:April.N		aprile
-Time:August.N		auguste
-Time:December.N		desembre
-Time:February.N		februare
-Time:January.N		januare
-Time:July.N		julie
-Time:June.N		june
-Time:March.N		marte
-Time:May.N		maye
-Time:October.N		oktobre
-Time:September.N		septembre
-Time:age.N		aje
-Time:already.ADV		ja, anteu
-Time:always.ADV		sempre
-Time:autumn.N		autumne
-Time:final.A		lasti
-Time:hour.N		hore
-Time:late.ADV		tardi, tardim
-Time:long ago.ADV		longim anteu
-Time:minute.N		minute
-Time:month.N		monate, mensu
-Time:never.ADV		nul(i)tem
-Time:new.A		nov(i)
-Time:night.N		nokte
-Time:now.ADV		nun
-Time:old (used).A		old(i), ansieni
-Time:old.A		old(i), ansieni
-Time:period.N		periode, ere, epoke
-Time:rhythm.N		ritme
-Time:season.N		sesone
-Time:second.N		sekunde
-Time:short.ADV		kurtitem
-Time:springtime.N		printempe
-Time:still.ADV		ankore
-Time:summer.N		somre
-Time:time.N		tempe
-Time:today.ADV		disdi
-Time:tomorrow.ADV		morge
-Time:wait.V		varta
-Time:winter.N		vintre
-Time:year.N		yare
-Time:yesterday.ADV		yer
-Transit:airplane.N		avie
-Transit:bicycle.N		bisikle
-Transit:boat.N		bote
-Transit:brake.V		frene
-Transit:bus.N		omnibuse
-Transit:car.N		automobile
-Transit:cart.N		chare
-Transit:oar.N		reme
-Transit:railroad.N		relvie, fervie
-Transit:road.N		vie
-Transit:rocket.N		rakete
-Transit:sailcloth.N		segle
-Transit:ship.N		shipe
-Transit:train.N		trene
-Transit:truck.N		kamione
-Transit:vehicle.N		vehikle
-Transit:wheel.N		rote
-Value:bad.A		mal(i)
-Value:compare.V		kompara
-Value:equal.A		egal(i)
-Value:good.A		bon(i)
-Value:important.A		importanti
-Value:right.N		jure
+PLX:1SG.pro		me
+PLX:2SG.pro		vu
+PLX:and.cnj		e
+PLX:because of.adp		pro
+PLX:but.cnj		ma
+PLX:can.v		pove
+PLX:if.cnj		si
+PLX:or.cnj		o
+PLX:that.cnj		ke
+PLX:that.pro		kel
+PLX:that.pro		ti, to, ta, te
+PLX:this.pro		disi, diso, -a, -e
+PWN:abdomen.n.01		abdomene
+PWN:again.r.01		altrifoy
+PWN:age.n.01		aje
+PWN:agree.v.01		konsento
+PWN:airplane.n.01		avie
+PWN:alive.a.01		vivant
+PWN:already.r.01		ja, anteu
+PWN:always.r.01		sempre
+PWN:amusing.s.02		komiki
+PWN:angel.n.01		anjele
+PWN:animal.n.01		animal
+PWN:answer.v.01		respondo
+PWN:ant.n.01		formike
+PWN:april.n.01		aprile
+PWN:arm.n.01		brase
+PWN:arrive.v.01		veni, ariva
+PWN:attack.v.01		ataka
+PWN:august.n.01		auguste
+PWN:automatic.a.01		automati
+PWN:baby.n.01		infante (-o, -a)
+PWN:back.n.01		dorse
+PWN:back.r.01		retro
+PWN:bad.a.01		mal(i)
+PWN:bake.v.02		baka
+PWN:bare.s.01		nud(i)
+PWN:barroom.n.01		taverne
+PWN:basket.n.01		korbe
+PWN:be.v.01		es
+PWN:bear.n.01		urse (-o, -a)
+PWN:beard.n.01		barbe
+PWN:become.v.01		deveni
+PWN:bed.n.01		lite
+PWN:bee.n.01		abele
+PWN:behavior.n.01		konduite
+PWN:berry.n.01		bere
+PWN:besides.r.02		anke
+PWN:bicycle.n.01		bisikle
+PWN:bird.n.01		fogle
+PWN:bite.v.01		morda
+PWN:black.a.01		nigri
+PWN:blame.v.01		blama
+PWN:bless.v.01		benedikte
+PWN:blood.n.01		sange
+PWN:blue.s.01		blu(i)
+PWN:board.n.02		planke
+PWN:boat.n.01		bote
+PWN:body.n.01		korpore
+PWN:body_hair.n.01		pile (on body), hare (on head)
+PWN:bone.n.01		ose
+PWN:book.n.01		libre
+PWN:bottle.n.01		botle
+PWN:bowl.n.01		bole
+PWN:box.n.01		boxe, keste
+PWN:brain.n.01		serebre
+PWN:brainsick.s.01		fol(i)
+PWN:brake.v.02		frene
+PWN:bread.n.01		pane
+PWN:breast.n.02		mame
+PWN:breathe.v.01		spira
+PWN:brick.n.01		brike
+PWN:bridge.n.01		ponte
+PWN:bright.a.01		lumosi
+PWN:brother.n.01		fratro
+PWN:brow.n.01		fronte
+PWN:brown.s.01		brun(i)
+PWN:brush.n.02		brose
+PWN:bus.n.01		omnibuse
+PWN:butterfly.n.01		papilione
+PWN:buttocks.n.01		kule
+PWN:calculate.v.01		kalkula
+PWN:calendar_month.n.01		monate, mensu
+PWN:call.v.05		voka
+PWN:camp.n.03		bivake
+PWN:car.n.01		automobile
+PWN:carbon.n.01		karbo
+PWN:cat.n.01		kate (-o, -a)
+PWN:catch.v.04		kapta
+PWN:cattle.n.01		bove
+PWN:cause.n.01		resone
+PWN:caution.n.01		kautione
+PWN:century.n.01		sekle, yarsente
+PWN:cheek.n.01		vange
+PWN:chicken.n.02		hane
+PWN:chimney.n.01		kamine
+PWN:chin.n.01		mentone
+PWN:choose.v.01		selekte
+PWN:clay.n.01		argile
+PWN:cloud.n.02		nube
+PWN:coal.n.01		karbone
+PWN:coat.n.01		jake
+PWN:cockroach.n.01		blate
+PWN:coffee.n.01		kafe
+PWN:collaborate.v.01		koopera, ko-labora
+PWN:collar.n.01		kolare
+PWN:color.n.01		kolore
+PWN:commiseration.n.01		pitia
+PWN:compete.v.01		konkura
+PWN:compromise.n.01		kompromise
+PWN:construct.v.01		konstrukte
+PWN:contend.v.06		kombata, lukta
+PWN:copper.n.01		kupre
+PWN:corpulent.s.01		korpulent(i)
+PWN:count.v.01		konta
+PWN:cover.v.01		kovre
+PWN:crime.n.01		krime
+PWN:curse.v.03		damna
+PWN:cut.v.01		seka
+PWN:dance.v.02		dansa
+PWN:dark.a.01		obskur(i)
+PWN:date.n.01		datum
+PWN:daughter.n.01		filia
+PWN:dead.a.01		morit
+PWN:december.n.01		desembre
+PWN:deity.n.01		dee (-o, -a)
+PWN:deny.v.04		deskonfirma
+PWN:depend.v.01		dependa
+PWN:depository_financial_institution.n.01		banke
+PWN:deserve.v.01		merita
+PWN:desire.v.01		voli
+PWN:detect.v.01		observa
+PWN:die.v.01		mori
+PWN:difficult.a.01		desfasil(i)
+PWN:dirty.a.01		sordid(i)
+PWN:discontinue.v.01		sesa
+PWN:disease.n.01		maladeso
+PWN:dog.n.01		hunde
+PWN:domestic_ass.n.01		asne
+PWN:dragon.n.01		dragone
+PWN:dream.n.01		sonje
+PWN:drink.v.01		drinka
+PWN:drive.v.01		pusha
+PWN:ear.n.01		orele
+PWN:early.r.03		frui, prematuri
+PWN:earthquake.n.01		tremblo de tere
+PWN:east.n.01		est
+PWN:eight.s.01		ot
+PWN:elementary.s.01		fasil(i)
+PWN:embarrassment.n.01		embaraso
+PWN:empty.a.01		vakui
+PWN:enter.v.01		envada
+PWN:enthusiasm.n.01		selo
+PWN:estimate.v.01		konjektura
+PWN:evening.n.01		vespre
+PWN:evil.a.01		mal(i)
+PWN:exist.v.01		exist
+PWN:exit.v.01		departa
+PWN:exuberate.v.01		festa
+PWN:eye.n.01		okule
+PWN:fabric.n.01		texatum
+PWN:face.n.01		fasie
+PWN:fairy.n.01		fea
+PWN:fall.n.01		autumne
+PWN:family.n.02		familie
+PWN:farm.n.01		ferme
+PWN:father.n.01		patro
+PWN:faulty.s.02		deskorekti
+PWN:fear.n.01		tima, pavora
+PWN:feather.n.01		plume
+PWN:february.n.01		februare
+PWN:feel.v.03		senti
+PWN:feel.v.09		senti
+PWN:female.s.03		femal, feminini
+PWN:female_child.n.01		puera
+PWN:fever.n.01		febre
+PWN:finger.n.01		fingre
+PWN:fireplace.n.01		kamine
+PWN:fish.n.01		fishe
+PWN:fist.n.01		pugne
+PWN:five.s.01		sink
+PWN:flesh.n.01		karne
+PWN:floor.n.01		planche
+PWN:flour.n.01		farine
+PWN:flower.n.02		flore
+PWN:fly.n.01		mushe
+PWN:fly.v.01		vola
+PWN:fog.n.01		neble
+PWN:following.s.02		sekuent(i)
+PWN:foolish.a.01		folatri
+PWN:foot.n.01		pede
+PWN:forest.n.01		foreste
+PWN:forget.v.02		oblive
+PWN:forgive.v.01		pardona
+PWN:four.s.01		quar
+PWN:fox.n.01		foxe (-o, -a)
+PWN:frequently.r.01		frequentim
+PWN:friday.n.01		venerdie
+PWN:friend.n.01		amike (-o, -a)
+PWN:frog.n.01		rane
+PWN:full.a.01		plen(i)
+PWN:gate.n.01		porte
+PWN:get_down.v.07		komensa, starta
+PWN:ghost.n.03		spirite
+PWN:glass.n.01		vitre
+PWN:glove.n.02		gante
+PWN:goat.n.01		kapre (-o, -a)
+PWN:gold.n.03		ore
+PWN:good.a.01		bon(i)
+PWN:grasshopper.n.01		lokuste
+PWN:grateful.a.01		gratitudosi
+PWN:green.s.01		verdi
+PWN:grey.s.01		gris(i)
+PWN:guard.v.01		garda
+PWN:guilty.a.01		blamindi
+PWN:habit.n.01		kustome
+PWN:hand.n.01		manu
+PWN:happen.v.01		eventa
+PWN:happy.a.01		felisi
+PWN:hark_back.v.01		retrovada, retrosenda
+PWN:hate.v.01		odia
+PWN:have.v.01		have
+PWN:head.n.01		kape
+PWN:head_covering.n.01		vele
+PWN:healthy.a.01		san(i)
+PWN:hear.v.01		audi
+PWN:heart.n.02		kordie
+PWN:heaven.n.02		siele
+PWN:heel.n.02		talone
+PWN:hell.n.04		inferne
+PWN:helmet.n.02		helme
+PWN:help.v.01		helpa
+PWN:here.r.01		hir, dislok
+PWN:hide.n.02		pele
+PWN:hide.v.01		kasha
+PWN:hill.n.01		koline, montete
+PWN:hip.n.01		hanche
+PWN:hog.n.03		porke (-o, -a)
+PWN:holy.a.01		sakri
+PWN:hope.v.02		espera
+PWN:horn.n.02		korne
+PWN:horse.n.01		kavale (-o, -a)
+PWN:hour.n.01		hore
+PWN:house.n.01		huse
+PWN:hundred.s.01		sent
+PWN:hunt.v.01		chasa
+PWN:husband.n.01		marito
+PWN:idea.n.01		idee
+PWN:indicate.v.02		montra
+PWN:innocent.a.01		inosent(i)
+PWN:insect.n.01		insekte
+PWN:intestine.n.01		intestines
+PWN:iron.n.01		fere
+PWN:january.n.01		januare
+PWN:july.n.01		julie
+PWN:jump.v.01		salta
+PWN:june.n.01		june
+PWN:kidney.n.01		rene
+PWN:knee.n.01		genu
+PWN:lake.n.01		lago
+PWN:last.a.02		lasti
+PWN:late.r.01		tardi, tardim
+PWN:laugh.v.01		rida
+PWN:lead.n.02		plumbe
+PWN:lead.v.01		gida, dukte
+PWN:learn.v.01		lerna
+PWN:leather.n.01		ledre
+PWN:leg.n.02		gambe
+PWN:letter.n.01		letre
+PWN:lie.v.05		mentia
+PWN:lightning.n.01		fulmine
+PWN:lion.n.01		leone (-o, -a)
+PWN:lip.n.01		labie
+PWN:long.a.02		longi
+PWN:long.r.01		longitem
+PWN:love.v.03		ama
+PWN:lung.n.01		lung
+PWN:magic.n.01		magia
+PWN:male.s.03		maskulin(i)
+PWN:male_child.n.01		puero
+PWN:man.n.01		homo
+PWN:many.a.01		multi, multes
+PWN:march.n.01		marte
+PWN:marketplace.n.02		merkate
+PWN:may.n.01		maye
+PWN:meet.v.09		renkontra
+PWN:melt.v.01		fuse
+PWN:merely.r.01		solim
+PWN:milk.n.01		milke
+PWN:mind.n.01		mente
+PWN:monday.n.01		lundie
+PWN:monkey.n.01		simie (-o, -a)
+PWN:moon.n.01		lune
+PWN:more.a.02		plu
+PWN:morning.n.01		matine
+PWN:mosquito.n.01		moskito
+PWN:mother.n.01		matra
+PWN:mountain.n.01		monte
+PWN:mouse.n.01		muse (-o, -a)
+PWN:mouth.n.01		boke
+PWN:nail.n.01		ungle
+PWN:navel.n.01		nable
+PWN:neck.n.01		kole
+PWN:needle.n.03		agulie
+PWN:nest.n.01		neste
+PWN:never.r.01		nul(i)tem
+PWN:new.a.01		nov(i)
+PWN:newspaper.n.01		jurnale
+PWN:night.n.01		nokte
+PWN:nine.s.01		nin
+PWN:nitrogen.n.01		nitrogene
+PWN:north.n.03		nord
+PWN:nose.n.01		nase
+PWN:not.r.01		non
+PWN:november.n.01		novembre
+PWN:now.r.04		nun
+PWN:oar.n.01		reme
+PWN:object.n.01		objekte
+PWN:october.n.01		oktobre
+PWN:old.a.01		old(i), ansieni
+PWN:one.s.01		un, uni
+PWN:onion.n.02		onione
+PWN:oven.n.01		forne
+PWN:oxygen.n.01		oxe, oxigene
+PWN:pain.n.03		dolore
+PWN:palm.n.01		palme
+PWN:part.n.02		parte
+PWN:part.n.03		piese
+PWN:person.n.01		home
+PWN:pillow.n.01		kusene
+PWN:pine.n.01		pine
+PWN:plant.n.02		plante
+PWN:pocket.n.01		poshe
+PWN:poor.a.02		povri
+PWN:populate.v.01		resida
+PWN:potassium.n.01		kali(um)
+PWN:pray.v.01		prega
+PWN:price.n.02		pretie
+PWN:priest.n.01		prestre
+PWN:pull.v.01		tira
+PWN:purple.s.01		purpri
+PWN:push.v.01		pusha
+PWN:rabbit.n.01		lepore (-o, -a)
+PWN:rain.n.01		pluve
+PWN:rainbow.n.01		pluve-arko
+PWN:red.s.01		red(i)
+PWN:religion.n.02		religione
+PWN:remember.v.01		memora
+PWN:repent.v.02		regreta
+PWN:rich.a.01		richi
+PWN:ride.v.01		vehikla
+PWN:rite.n.01		ritu, seremonie
+PWN:river.n.01		fluvie
+PWN:road.n.01		vie
+PWN:roll.v.14		rula
+PWN:roof.n.01		tekte
+PWN:room.n.01		chambre
+PWN:root.n.01		radike
+PWN:rope.n.01		korde
+PWN:rug.n.01		tapisete
+PWN:run.v.01		kurse
+PWN:sabbath.n.01		sabate
+PWN:sad.a.01		tristi
+PWN:sail.n.01		segle
+PWN:salt.n.02		sale
+PWN:same.a.01		sam(i), identi
+PWN:saturday.n.01		saturdie
+PWN:sausage.n.01		sosise
+PWN:sea.n.01		mare, oseane
+PWN:season.n.02		sesone
+PWN:see.v.01		vida
+PWN:send.v.01		senda
+PWN:september.n.01		septembre
+PWN:sequence.n.01		ordine
+PWN:seven.s.01		set
+PWN:sew.v.01		suta
+PWN:shake.v.01		trembla
+PWN:sheep.n.01		mutone (-o, -a)
+PWN:shell.n.10		shele
+PWN:shine.v.02		luma
+PWN:ship.n.01		shipe
+PWN:shirt.n.01		kamise
+PWN:shoe.n.01		shu(e)
+PWN:short.a.02		kurti
+PWN:shoulder.n.01		shultre
+PWN:shut.a.01		klosat(i)
+PWN:silk.n.01		silke
+PWN:silver.n.01		arjente
+PWN:sing.v.02		kanta
+PWN:sister.n.01		fratra
+PWN:six.s.01		six
+PWN:skirt.n.02		jupe
+PWN:sky.n.01		siele
+PWN:sleep.v.01		dormi
+PWN:snake.n.01		serpente
+PWN:sneeze.v.01		sternuta
+PWN:snow.n.01		nive
+PWN:sodium.n.01		natrium
+PWN:soil.n.02		krase
+PWN:son.n.01		filio
+PWN:soon.r.01		bald, proxitem
+PWN:sore.n.01		vunde
+PWN:soul.n.01		alme
+PWN:soup.n.01		supe
+PWN:south.n.03		sud
+PWN:spider.n.01		arane
+PWN:spinal_column.n.01		spine
+PWN:spit.v.01		sputa
+PWN:spoon.n.01		kuliere
+PWN:spring.n.01		printempe
+PWN:squirrel.n.01		squirele
+PWN:stand.v.01		stea
+PWN:star.n.03		stele
+PWN:state.n.04		natione
+PWN:stay.v.04		resta
+PWN:still.r.01		ankore
+PWN:stomach.n.01		stomake
+PWN:storm.n.01		sturme
+PWN:string.n.01		kordete
+PWN:study.v.05		studia
+PWN:stupid.a.01		stupid(i)
+PWN:sulfur.n.01		sulfre
+PWN:summer.n.01		somre
+PWN:sun.n.01		sune
+PWN:sunday.n.01		sundie
+PWN:swallow.v.01		gluta
+PWN:swamp.n.01		marshe
+PWN:table.n.02		table
+PWN:tail.n.01		kaude
+PWN:talk.v.02		parla
+PWN:tea.n.01		tee
+PWN:teach.v.01		dose, instrukte
+PWN:tear.n.01		lakrime
+PWN:telephone.n.01		telefone
+PWN:ten.s.01		dek
+PWN:testis.n.01		testikle
+PWN:there.r.01		dar, tilok
+PWN:think.v.03		opine
+PWN:thorax.n.02		pektore, bruste
+PWN:thousand.s.01		mil
+PWN:thread.n.01		file
+PWN:three.s.01		tri
+PWN:throat.n.01		guture
+PWN:thumb.n.01		puse
+PWN:thunder.n.02		tondra
+PWN:thursday.n.01		jodie
+PWN:tiger.n.02		tigre (-o, -a)
+PWN:time.n.05		tempe
+PWN:tin.n.01		stane
+PWN:today.r.02		disdi
+PWN:toe.n.01		pedefingre
+PWN:tomorrow.r.01		morge
+PWN:tongue.n.01		lange, tunge
+PWN:tooth.n.01		dente
+PWN:touch.v.01		tucha
+PWN:tower.n.01		turme
+PWN:town.n.01		urbe
+PWN:train.n.01		trene
+PWN:transport.v.02		porta
+PWN:trap.n.01		kaptilo
+PWN:travel.v.01		vada
+PWN:trouser.n.01		pantalone
+PWN:true.a.01		veri
+PWN:tuesday.n.01		mardie
+PWN:turn.v.04		turna
+PWN:turtle.n.02		tortuge
+PWN:two.s.01		du
+PWN:understand.v.01		komprenda
+PWN:valley.n.01		vale
+PWN:vein.n.01		veine
+PWN:very.r.01		tre
+PWN:vinegar.n.01		vinegre
+PWN:wagon.n.01		chare
+PWN:waist.n.01		talie
+PWN:wait.v.01		varta
+PWN:wake_up.v.02		veka
+PWN:weather.n.01		vetre
+PWN:weave.v.02		texa
+PWN:wednesday.n.01		merkurdie
+PWN:week.n.01		semani
+PWN:west.n.02		vest
+PWN:whale.n.02		balene
+PWN:wheel.n.01		rote
+PWN:white.a.01		blanki
+PWN:wide.a.01		larji
+PWN:wife.n.01		marita
+PWN:wind.n.01		vente
+PWN:window.n.01		fenestre
+PWN:wing.n.01		ale
+PWN:winter.n.01		vintre
+PWN:wolf.n.01		volf
+PWN:woman.n.01		homa, fema
+PWN:wool.n.02		lane
+PWN:world.n.02		monde
+PWN:worm.n.01		verme
+PWN:year.n.01		yare
+PWN:yellow.s.01		gelbi
+PWN:yesterday.r.01		yer
+PWN:young.a.01		yun(i)
+PWN:zero.s.01		sero

@@ -1,508 +1,1202 @@
 id	style	word	pronunciation
-Action:can.V		фӕразын	fərazɨn
-Agriculture:herd (something).V		хизын	χizɨn
-Agriculture:irrigate.V		бакалын	bakalɨn
-Agriculture:pick.V		тонын	tonɨn
-Agriculture:shovel.N		æвгæнæн	ævɡænæn
-Agriculture:shovel.N		кæфой	kæfoj
-Animal:Anatidae.N		ацц	at͡st͡s
-Animal:Annelida.N		зулкъ	zulkʼ
-Animal:Annelida.N		къуыдыргалм	kʼʷɨdɨrɡalm
-Animal:Araneae.N		хӕлуарӕг	χəluarəɡ
-Animal:Aves.N		маргъ	marʁ
-Animal:Aves.N		цъиу	t͡sʼiu
-Animal:Canis lupus familiaris.N		куыдз	kʷɨd͡z
-Animal:Canis lupus.N		бирӕгъ	birəʁ
-Animal:Corvus.N		халон	χalon
-Animal:Culicidae.N		къогъо	kʼoʁo
-Animal:Diptera.N		бындз	bɨnd͡z
-Animal:Equus ferus caballus.N		бӕх	bəχ
-Animal:Felis catus.N		гӕды	ɡədɨ
-Animal:Formicidae.N		мæлдзыг	mæld͡zɨɡ
-Animal:Gallus gallus domesticus.N		карк	kark
-Animal:Homo sapiens.N		адӕймаг	adəjmaɡ
-Animal:Homo sapiens.N		лӕг	ləɡ
-Animal:Homo sapiens.N		удгоймаг	udɡojmaɡ
-Animal:Ovis aries.N		фыс	fɨs
-Animal:Rhopalocera.N		гæлæбу	ɡælæbu
-Animal:Sciuridae.N		æхсæрæг	æχsæræɡ
-Animal:Serpentes.N		калм	kalm
-Animal:Sus scrofa domestica.N		хуы	χʷɨ
-Animal:Ursidae.N		арс	ars
-Animal:Vulpes.N		рувас	ruvas
-Animal:animal.N		сырд	sɨrd
-Animal:animal.N		цӕрӕгой	t͡sərəɡoj
-Animal:fish.N		кӕсаг	kəsaɡ
-Animal:mouse.N		мыст	mɨst
-Animal:wool.N		фӕсмын	fəsmɨn
-Atmosphere:cloud.N		ӕврагъ	əvraʁ
-Atmosphere:cold.A		сатæг	satæɡ
-Atmosphere:cold.A		уазалгомау	wazalɡomau
-Atmosphere:fog.N		мигъ	miʁ
-Atmosphere:rain.N		уарын	warɨn
-Atmosphere:rain.V		уарын	warɨn
-Atmosphere:rainbow.N		арвырдын	arvɨrdɨn
-Atmosphere:rainbow.N		арвырон	arvɨron
-Atmosphere:sky.N		арв	arv
-Atmosphere:sky.N		уӕларв	wəlarv
-Atmosphere:thunder.N		æрвнæрын	ærvnærɨn
-Atmosphere:thunder.V		нæрын	nærɨn
-Atmosphere:weather.N		боныхъӕд	bonɨqəd
-Atmosphere:wind.N		дымгӕ	dɨmɡə
-Belief:deity.N		хуыцау	χʷɨt͡sau
-Belief:idol.N		кæрдгæныв	kærdɡænɨv
-Belief:spirit.N		уд	ud
-Body:arm.N		цонг	t͡sonɡ
-Body:back.N		фӕсонтӕ	fəsontə
-Body:beard.N		зачъе	zat͡ʃʼe
-Body:belly.N		гуыбын	ɡʷɨbɨn
-Body:blood.N		туг	tuɡ
-Body:blow.V		фу кӕнын	fu kənɨn
-Body:body.N		буар	buar
-Body:bone.N		стӕг	stəɡ
-Body:brain.N		магъз	maʁz
-Body:breast.N		дзидзи	d͡zid͡zi
-Body:breath.N		улӕфт	uləft
-Body:breath.V		улӕфын	uləfɨn
-Body:cheek.N		рус	rus
-Body:cheek.N		уадул	wadul
-Body:cheek.N		ӕхсӕрфарс	əχsərfars
-Body:chest.N		риу	riu
-Body:chin.N		роцъо	rot͡sʼo
-Body:ear.N		хъус	qus
-Body:elbow.N		рæмбын	ræmbɨn
-Body:eye.N		цӕст	t͡səst
-Body:face.N		цӕсгом	t͡səsɡom
-Body:fat.N		сой	soj
-Body:feather.N		сис	sis
-Body:finger.N		ӕнруылдз	ənruɨld͡z
-Body:fingernail.N		ных	nɨχ
-Body:foot.N		фад	fad
-Body:footprint.N		фæд	fæd
-Body:forehead.N		ных	nɨχ
-Body:fur.N		царм	t͡sarm
-Body:hair.N		хил	χil
-Body:hand.N		къух	kʼuχ
-Body:head.N		сӕр	sər
-Body:heart.N		зӕрдӕ	zərdə
-Body:heel.N		зӕвӕт	zəvət
-Body:horn.N		сыкъа	sɨkʼa
-Body:jaw.N		ӕфсӕр	əfsər
-Body:knee.N		уӕраг	wəraɡ
-Body:leg.N		зӕнг	zənɡ
-Body:lip.N		был	bɨl
-Body:liver.N		игæр	iɡær
-Body:moustache.N		рихи	riχi
-Body:mouth.N		дзых	d͡zɨχ
-Body:nail.N		ных	nɨχ
-Body:nape.N		къӕбут	kʼəbut
-Body:navel.N		бикъ	bikʼ
-Body:neck.N		къубал	kʼubal
-Body:nose.N		фындз	fɨnd͡z
-Body:obese.A		нард	nard
-Body:palm.N		армытъӕпӕн	armɨtʼəpən
-Body:shoulder.N		уӕхск	wəχsk
-Body:skin.N		царм	t͡sarm
-Body:stomach.N		ахсӕн	aχsən
-Body:tail.N		къӕдзил	kʼəd͡zil
-Body:tear.N		цæссыг	t͡sæssɨɡ
-Body:tendon.N		нуар	nuar
-Body:tendon.N		хъиутæ	qiutæ
-Body:throat.N		хъуыр	qʷɨr
-Body:toe.N		къух	kʼuχ
-Body:tongue.N		ӕвзаг	əvzaɡ
-Body:tooth.N		дӕндаг	dəndaɡ
-Body:upper leg.N		агъд	aʁd
-Body:vein.N		дадзин	dad͡zin
-Body:vein.N		тугдадзин	tuɡdad͡zin
-Body:wing.N		базыр	bazɨr
-Body:wound.N		цӕф	t͡səf
-Building:board.N		фæйнæг	fæjnæɡ
-Building:build.V		амайын	amajɨn
-Building:door.N		дуар	duar
-Building:floor.N		астӕрд	astərd
-Building:gate.N		кулдуар	kulduar
-Building:house.N		хӕдзар	χəd͡zar
-Building:post.N		хъил	qil
-Building:roof.N		уӕлхӕдзар	wəlχəd͡zar
-Building:window.N		рудзынг	rud͡zɨnɡ
-Building:window.N		фæрссаг	færssaɡ
-Cleaning:broom.N		уисой	wisoj
-Cleaning:clean (sth).V		ныссæрфын	nɨssærfɨn
-Cleaning:clean (sth).V		ныссыгъдæг кæнын	nɨssɨʁdæɡ kænɨn
-Cleaning:clean (sth).V		ссыгъдæг кæнын	ssɨʁdæɡ kænɨn
-Cleaning:clean.A		сыгъдæг	sɨʁdæɡ
-Cleaning:dirt.N		цъыф	t͡sʼɨf
-Cleaning:dirty.A		чъиллон	t͡ʃʼillon
-Cleaning:sweep.V		мӕрзын	mərzɨn
-Cleaning:wash (oneself).V		хи æхсын	χi æχsɨn
-Cleaning:wash.V		ӕхсын	əχsɨn
-Cleaning:wipe.V		сӕрфын	sərfɨn
-Clothing:belt.N		рон	ron
-Clothing:boot.N		цырыхъхъ	t͡sɨrɨqq
-Clothing:button.N		цӕппӕр	t͡səppər
-Clothing:cap.N		худ	χud
-Clothing:cloth.N		хъуымац	qʷɨmat͡s
-Clothing:clothes.N		дарӕс	darəs
-Clothing:collar.N		æфцæггот	æft͡sæɡɡot
-Clothing:dress up.V		дарæс скæнын	daræs skænɨn
-Clothing:dress up.V		дзаума скæнын	d͡zauma skænɨn
-Clothing:dye.V		ахорын	aχorɨn
-Clothing:knit.V		бийын	bijɨn
-Clothing:knit.V		кæнын	kænɨn
-Clothing:leather.N		мæскуы	mæskʷɨ
-Clothing:naked.A		бӕгънӕг	bəʁnəɡ
-Clothing:needle.N		судзин	sud͡zin
-Clothing:put on.V		скæнын	skænɨn
-Clothing:scarf or turban.N		кæлмæрзæн	kælmærzæn
-Clothing:scarf or turban.N		кæрдæн	kærdæn
-Clothing:sew.V		хуыйын	χʷɨjɨn
-Clothing:shirt.N		хӕдон	χədon
-Clothing:shoe.N		басмахъ	basmaq
-Clothing:sleeve.N		дыс	dɨs
-Clothing:thread.N		ӕндах	əndaχ
-Clothing:towel.N		хисæрфæн	χisærfæn
-Clothing:trousers.N		æддаг хæлаф	æddaɡ χælaf
-Clothing:trousers.N		салбар	salbar
-Clothing:trousers.N		хæлаф	χælaf
-Clothing:undress.V		ласын	lasɨn
-Cognition:familiar.A		зонгӕ	zonɡə
-Cognition:true.A		ӕцӕг	ət͡səɡ
-Cognition:truth.N		æцæг	æt͡sæɡ
-Cognition:wake up (tr).V		райхъал кӕнын	rajqal kənɨn
-Cognition:wake up.V		райхъал уын	rajqal uɨn
-Combat:brawl.V		хыл кæнын	χɨl kænɨn
-Combat:fight.N		тох	toχ
-Combat:fight.N		хæст	χæst
-Combat:fight.N		хъæбысæйхæст	qæbɨsæjχæst
-Combat:strike (sb).V		ныццæвын	nɨt͡st͡sævɨn
-Combat:violence.N		тыхдзинад	tɨχd͡zinad
-Combat:violence.N		тыхми	tɨχmi
-Combat:win.V		басӕттын	basəttɨn
-Combat:win.V		фӕуӕлахиз уӕвын	fəwəlaχiz uəvɨn
-Communication:boast.V		ӕппӕлын	əppəlɨn
-Communication:book.N		чиныг	t͡ʃinɨɡ
-Communication:call.V		сидын	sidɨn
-Communication:chat.V		ныхас кæнын	nɨχas kænɨn
-Communication:convey (a message).V		фехъусын кæнын	fequsɨn kænɨn
-Communication:fairy tale.N		аргъау	arʁau
-Communication:kiss.V		ба кæнын	ba kænɨn
-Communication:kiss.V		пъа кæнын	pʼa kænɨn
-Communication:language.N		ӕвзаг	əvzaɡ
-Communication:letter.N		фыстӕг	fɨstəɡ
-Communication:lie.N		гӕдыдзинад	ɡədɨd͡zinad
-Communication:lie.N		мӕнг	mənɡ
-Communication:news.N		хабар	χabar
-Communication:newspaper.N		газет	ɡazet
-Communication:talk.V		ныхас кӕнын	nɨχas kənɨn
-Communication:tell.V		радзурын	rad͡zurɨn
-Communication:tell.V		ратаурæгъ кæнын	ratauræʁ kænɨn
-Communication:translate.V		ратæлмац кæнын	ratælmat͡s kænɨn
-Communiction:call.N		сидт	sidt
-Cosmos:Sun.N		хур	χur
-Cosmos:moon.N		мӕй	məj
-Cosmos:set.V		 аныгуылын	 anɨɡʷɨlɨn
-Cosmos:star.N		стъалы	stʼalɨ
-Degree:very.ADV		иттӕг	ittəɡ
-Degree:very.ADV		тынг	tɨnɡ
-Element:Ag.N		ӕвзист	əvzist
-Element:Au.N		сыгъзӕрин	sɨʁzərin
-Element:Fe.N		ӕфсӕйнаг	əfsəjnaɡ
-Emotion:be angry.V		мæсты кæнын	mæstɨ kænɨn
-Emotion:cry.V		кӕуын	kəwɨn
-Emotion:evil.A		фыдзӕрдӕ	fɨd͡zərdə
-Emotion:fear.V		тæрсын	tærsɨn
-Emotion:gentle.A		мынчын	mɨnt͡ʃɨn
-Emotion:grief.N		хъыг	qɨɡ
-Emotion:happiness.N		амонд	amond
-Emotion:like.V		зæрдæмæ цæуын	zærdæmæ t͡sæuɨn
-Emotion:longing.N		монц	mont͡s
-Emotion:love.V		уарзын	warzɨn
-Emotion:merry.A		хъӕлдзӕг	qəld͡zəɡ
-Emotion:move.V		зæрдæ суынгæг кæнын	zærdæ suɨnɡæɡ kænɨn
-Emotion:sad.A		ӕрхӕндӕг	ərχəndəɡ
-Emotion:want.V		фӕндын	fəndɨn
-Family:aunt.N		мадыхо	madɨχo
-Family:brother.N		ӕфсымӕр	əfsɨmər
-Family:daughter.N		чызг	t͡ʃɨzɡ
-Family:family.N		бинонтæ	binontæ
-Family:father.N		фыд	fɨd
-Family:grandfather.N		мадыфыд	madɨfɨd
-Family:grandfather.N		фыдыфыд	fɨdɨfɨd
-Family:grandmother.N		мады мад	madɨ mad
-Family:grandmother.N		фыды мад	fɨdɨ mad
-Family:husband.N		мой	moj
-Family:mother.N		мад	mad
-Family:parents.N		ныййарджытæ	nɨjjard͡ʒɨtæ
-Family:sister.N		хо	χo
-Family:son.N		фырт	fɨrt
-Family:uncle.N		фыдыфсымӕр	fɨdɨfsɨmər
-Family:wife.N		ус	us
-Food:Camellia sinensis.N		цай	t͡saj
-Food:Malus domestica.N		фӕткъуы	fətkʼʷɨ
-Food:NaCl.N		цӕхх	t͡səχχ
-Food:bake.V		фыцын	fɨt͡sɨn
-Food:bread.N		дзул	d͡zul
-Food:soup.N		бас	bas
-Food:spoon.N		уидыг	widɨɡ
-Form:bend (sth).V		тасын кӕнын	tasɨn kənɨn
-Form:bend.V		æркъæдз кæнын	ærkʼæd͡z kænɨn
-Form:bend.V		æртасын кæнын	ærtasɨn kænɨn
-Function:1PL.PRO		мах	maχ
-Function:1SG.PRO		æз	æz
-Function:2PL.PRO		сымах	sɨmaχ
-Function:2SG.PRO		ды	dɨ
-Function:3PL.PRO		уыдон	wɨdon
-Function:3SG M.PRO		уый	wɨj
-Function:and.CNJ		ӕмӕ	əmə
-Function:here.ADV		ам	am
-Function:how many.PRO		цал	t͡sal
-Function:how.PRO		куыд	kʷɨd
-Function:not.PTCL		нӕ	nə
-Function:or.CNJ		кӕнӕ	kənə
-Function:other.PRO		иннӕ	innə
-Function:other.PRO		ӕндӕр	əndər
-Function:that.PRO		уый	wɨj
-Function:there.ADV		уым	wɨm
-Function:this.PRO		ай	aj
-Function:what.PRO		цы	t͡sɨ
-Function:where.PRO		кӕм	kəm
-Function:who.PRO		чи	t͡ʃi
-Function:why.PRO		цӕмӕн	t͡səmən
-Grooming:comb.N		сӕрвасӕн	sərvasən
-Grooming:comb.V		æрфасын	ærfasɨn
-Grooming:comb.V		ныффасын	nɨffasɨn
-Grooming:decorate.V		фӕлындын	fəlɨndɨn
-Grooming:mirror.N		айдæн	ajdæn
-Grooming:mirror.N		кæсæн	kæsæn
-Grooming:ring.N		къухдарӕн	kʼuχdarən
-Handiwork:glue.V		æндадзын	ændad͡zɨn
-Handiwork:glue.V		ныхасын	nɨχasɨn
-Handiwork:nail.N		зӕгӕл	zəɡəl
-Handiwork:repair.V		æмпъузын	æmpʼuzɨn
-Handiwork:repair.V		цалцæг кæнын	t͡salt͡sæɡ kænɨn
-Handiwork:ware.N		базайраг	bazajraɡ
-Handiwork:worker.N		кусæг	kusæɡ
-Health:become sick.V		фӕрынчын уын	fərɨnt͡ʃɨn uɨn
-Health:disease.N		низ	niz
-Health:disease.N		рын	rɨn
-Health:fever.N		ризӕг	rizəɡ
-Health:fever.N		тӕфсӕг	təfsəɡ
-Health:healthy.A		æнæниздзинад	ænænizd͡zinad
-Health:medicine.N		хос	χos
-Health:physician.N		дохтыр	doχtɨr
-Health:physician.N		хосгæнæг	χosɡænæɡ
-Health:recover.V		рандидзын	randid͡zɨn
-Health:recover.V		сæндидзын	sændid͡zɨn
-Health:recover.V		сдзæбæх уын	sd͡zæbæχ uɨn
-House:bed.N		сынтӕг	sɨntəɡ
-House:blanket.N		хъӕццул	qət͡st͡sul
-House:cradle.N		авдæн	avdæn
-House:pillow.N		баз	baz
-House:table.N		стъол	stʼol
-Hunting:bow.N		ӕрдын	ərdɨn
-Hunting:fishing.V		æнгуыр дарын	ænɡʷɨr darɨn
-Hunting:fishing.V		кæсаг ахсын æнгуырæй	kæsaɡ aχsɨn ænɡʷɨræj
-Hunting:hunt.V		цуан кæнын	t͡suan kænɨn
-Integrity:part.N		хай	χaj
-Integrity:piece.N		кæрдих	kærdiχ
-Integrity:piece.N		комдзаг	komd͡zaɡ
-Interaction:choose.V		равзарын	ravzarɨn
-Interaction:rescue.V		фервӕзын кӕнын	fervəzɨn kənɨn
-Mind:dream.N		фын	fɨn
-Motion:arrive.V		æрцæуын	ært͡sæuɨn
-Motion:bring.V		æрбахæссын	ærbaχæssɨn
-Motion:bring.V		æрхæссын	ærχæssɨn
-Motion:carry.V		хӕссын	χəssɨn
-Motion:catch.V		ӕрцахсын	ərt͡saχsɨn
-Motion:climb.V		хилын	χilɨn
-Motion:come back.V		æрбаздæхын	ærbazdæχɨn
-Motion:come back.V		аздæхын	azdæχɨn
-Motion:come back.V		раздæхын	razdæχɨn
-Motion:come back.V		фæстæмæ_раздæхын	fæstæmæ razdæχɨn
-Motion:come.V		æрцæуын	ært͡sæuɨn
-Motion:creep.V		бырын	bɨrɨn
-Motion:drag.V		ласын	lasɨn
-Motion:drop (something).V		къухтӕй феуӕгъд кӕнын	kʼuχtəj fewəʁd kənɨn
-Motion:drop (something).V		ӕрӕппарын	ərəpparɨn
-Motion:enter.V		мидæмæ цæуын	midæmæ t͡sæuɨn
-Motion:fall.V		хауын	χawɨn
-Motion:fly.V		тӕхын	təχɨn
-Motion:go.V		цӕуын	t͡səwɨn
-Motion:leave.V		ацӕуын	at͡səwɨn
-Motion:lift.V		уæлæмæ хæцын	uælæmæ χæt͡sɨn
-Motion:move (oneself).V		тæлфын	tælfɨn
-Motion:move (oneself).V		цæуын	t͡sæuɨn
-Motion:raise.V		сдарын	sdarɨn
-Motion:raise.V		схæцын	sχæt͡sɨn
-Motion:step.V		къахдзæф кæнын	kʼaχd͡zæf kænɨn
-Motion:step.V		санчъех кæнын	sant͡ʃʼeχ kænɨn
-Motion:step.V		цæуын	t͡sæuɨn
-Motion:swing (sth).V		тилын	tilɨn
-Motion:swing (sth).V		уигъын	wiʁɨn
-Motion:swing.V		æнкъуысын	ænkʼʷɨsɨn
-Motion:swing.V		змæлын	zmælɨn
-Motion:take a walk.V		озер кæнын	ozer kænɨn
-Motion:take a walk.V		тезгъо кæнын	tezʁo kænɨn
-Motion:turn (sth).V		афæлдахын	afældaχɨn
-Motion:turn (sth).V		рафæлдахын	rafældaχɨn
-Motion:walk.N		цыд	t͡sɨd
-Music:sing.V		зарын	zarɨn
-Music:song.N		зарӕг	zarəɡ
-Music:tone.N		мыр	mɨr
-Nature:river.N		дон	don
-Nature:river.N		цӕугӕдон	t͡səuɡədon
-Nature:sea.N		денджыз	dend͡ʒɨz
-Nature:shore of lake.N		был	bɨl
-Nature:slope.N		къул	kʼul
-People:boy.N		лӕппу	ləppu
-People:child.N		сывӕллон	sɨvəllon
-People:girl.N		чызг	t͡ʃɨzɡ
-People:man.N		лӕг	ləɡ
-People:man.N		нӕлгоймаг	nəlɡojmaɡ
-People:people.N		адӕм	adəm
-People:woman.N		сылгоймаг	sɨlɡojmaɡ
-Perception:feel.V		ӕнкъарын	ənkʼarɨn
-Perception:hear or listen.V		фехъусын	fequsɨn
-Perception:hear.V		хъусын	qusɨn
-Perception:pain.N		рис	ris
-Perception:touch.V		агайын	aɡajɨn
-Perception:wet.A		хуылыдз	χʷɨlɨd͡z
-Perception:yellow.A		бур	bur
-Plant:Betula.N		бæрз	bærz
-Plant:bark.N		цъар	t͡sʼar
-Plant:branch.N		арх	arχ
-Plant:flower.N		дидинӕг	didinəɡ
-Plant:leaf.N		сыф	sɨf
-Plant:root.N		уидаг	widaɡ
-Plant:seed.N		мыггаг	mɨɡɡaɡ
-Plant:seed.N		тауинаг	tawinaɡ
-Plant:tree trunk.N		хӕтӕл	χətəl
-Plant:tree.N		бӕлас	bəlas
-Plant:twig.N		къалиу	kʼaliu
-Possession:abandon.V		ныууадзын	nɨwuad͡zɨn
-Possession:gift.N		хуын	χʷɨn
-Possession:poor.A		мӕгуыр	məɡʷɨr
-Possession:price.N		аргъ	arʁ
-Possession:rich.A		хъӕздыг	qəzdɨɡ
-Possession:sell.V		уӕй кӕнын	wəj kənɨn
-Quantity:1.NUM		иу	iu
-Quantity:10.NUM		дӕс	dəs
-Quantity:100.NUM		сӕдӕ	sədə
-Quantity:1000.NUM		мин	min
-Quantity:11.NUM		иуæндæс	iuændæs
-Quantity:12.NUM		дыууадæс	dɨwuadæs
-Quantity:2.NUM		дыууӕ	dɨwuə
-Quantity:20.NUM		дыууын	dɨwuɨn
-Quantity:3.NUM		ӕртӕ	ərtə
-Quantity:30.NUM		æртын	ærtɨn
-Quantity:30.NUM		дæсæмæссæдз	dæsæmæssæd͡z
-Quantity:4.NUM		цыппар	t͡sɨppar
-Quantity:40.NUM		дыууиссæдзы	dɨwuissæd͡zɨ
-Quantity:40.NUM		цыппор	t͡sɨppor
-Quantity:40.NUM		цыппур	t͡sɨppur
-Quantity:5.NUM		фондз	fond͡z
-Quantity:50.NUM		фӕндзай	fənd͡zaj
-Quantity:6.NUM		ӕхсӕз	əχsəz
-Quantity:60.NUM		æртиссæдзы	ærtissæd͡zɨ
-Quantity:60.NUM		æхсай	æχsaj
-Quantity:7.NUM		авд	avd
-Quantity:70.NUM		æвдай	ævdaj
-Quantity:70.NUM		дæс æмæ æртиссæдзы	dæs æmæ ærtissæd͡zɨ
-Quantity:8.NUM		аст	ast
-Quantity:80.NUM		æстай	æstaj
-Quantity:80.NUM		цыппарыссæдзы	t͡sɨpparɨssæd͡zɨ
-Quantity:9.NUM		фараст	farast
-Quantity:90.NUM		дæс æмæ цыппарыссæдзы	dæs æmæ t͡sɨpparɨssæd͡zɨ
-Quantity:90.NUM		нæуæдз	næuæd͡z
-Quantity:a little.A		чысыл	t͡ʃɨsɨl
-Quantity:add.V		ӕфтауын	əftawɨn
-Quantity:decrease.V		фæкъаддæр уын	fækʼaddær uɨn
-Quantity:decrease.V		фæцух уын	fæt͡suχ uɨn
-Quantity:empty.A		афтид	aftid
-Quantity:fill.V		байдзаг кæнын	bajd͡zaɡ kænɨn
-Quantity:full.A		дзаг	d͡zaɡ
-Quantity:full.A		йедзаг 	jed͡zaɡ 
-Quantity:increase.V		сахадын	saχadɨn
-Quantity:increase.V		сбирæ уын	sbiræ uɨn
-Quantity:increase.V		фæфылдæр уын	fæfɨldær uɨn
-Society:help.N		æххуыс	æχχʷɨs
-Society:help.N		ахъаз	aqaz
-Society:people.N		адӕм	adəm
-Sound:chime.V		цæгъдын	t͡sæʁdɨn
-Sound:howl.V		ниуын	niwɨn
-Sound:laugh.N		худæг	χudæɡ
-Sound:laugh.N		худт	χudt
-Sound:laugh.N		худын	χudɨn
-Sound:laugh.V		худын	χudɨn
-Sound:make noise.V		хъæлæба кæнын	qælæba kænɨn
-Sound:shout.V		хъӕр кӕнын	qər kənɨn
-Sound:sound (of instrument or voice).V		азæлын	azælɨn
-Sound:sound (of instrument or voice).V		зæлын	zælɨn
-Sound:sound (of instrument or voice).V		хъуысын	qʷɨsɨn
-Sound:voice.N		хъӕлӕс	qələs
-Sound:whistle.V		æхситт кæнын	æχsitt kænɨn
-Sound:whistle.V		къуыззитт кæнын	kʼʷɨzzitt kænɨn
-Space:back.ADV		фӕстӕмӕ	fəstəmə
-Space:wide.A		фӕтӕн	fətən
-Storage:bag.N		дзæкъул	d͡zækʼul
-Storage:bag.N		хызын	χɨzɨn
-Storage:box.N		асыкк	asɨkk
-Storage:bucket.N		ведра	vedra
-Storage:bucket.N		къæрта	kʼærta
-Storage:bucket.N		чъыбыла	t͡ʃʼɨbɨla
-Storage:heap.N		кӕри	kəri
-Storage:lid.N		æмбæрзæн	æmbærzæn
-Storage:lid.N		сæр	sær
-Storage:load.N		уаргъ	warʁ
-Storage:misplace.V		фесафын	fesafɨn
-Storage:pouch.N		дзӕкъул	d͡zəkʼul
-Storage:pour.V		ныккӕнын	nɨkkənɨn
-Storage:sack.N		голлаг	ɡollaɡ
-Time:April.N		апрель	aprelʲ
-Time:August.N		август	avɡust
-Time:December.N		декабрь	dekabrʲ
-Time:February.N		февраль	fevralʲ
-Time:January.N		январь	janvarʲ
-Time:July.N		июль	iʲulʲ
-Time:June.N		июнь	iʲunʲ
-Time:March.N		мартъи	martʼi
-Time:May.N		май	maj
-Time:November.N		ноябрь	noʲabrʲ
-Time:October.N		октябрь	oktʲabrʲ
-Time:September.N		сентябрь	sentʲabrʲ
-Time:age.N		кар	kar
-Time:already.ADV		нырид	nɨrid
-Time:always.ADV		ӕдзух	əd͡zuχ
-Time:autumn.N		фæззæг	fæzzæɡ
-Time:final.A		фӕстаг	fəstaɡ
-Time:month.N		мӕй	məj
-Time:never.ADV		никæд	nikæd
-Time:never.ADV		никуы	nikʷɨ
-Time:new.A		ног	noɡ
-Time:night.N		ӕхсӕв	əχsəv
-Time:now.ADV		ныр	nɨr
-Time:often.ADV		арæх	aræχ
-Time:old (of person).A		ацӕргӕ	at͡sərɡə
-Time:old.A		зӕронд	zərond
-Time:one time.ADV		иу хатт	iu χatt
-Time:pass.V		аивгъуийын	aivʁʷijɨn
-Time:springtime.N		уалдзæг	wald͡zæɡ
-Time:still.ADV		ма	ma
-Time:summer.N		сӕрд	sərd
-Time:time.N		рӕстӕг	rəstəɡ
-Time:today.ADV		абон	abon
-Time:tomorrow.ADV		райсом	rajsom
-Time:wait.V		ӕнхъӕлмӕ кӕсын	ənqəlmə kəsɨn
-Time:winter.N		зымӕг	zɨməɡ
-Time:year.N		аз	az
-Time:year.N		афӕдз	afəd͡z
-Time:yesterday.ADV		знон	znon
-Transit:boat.N		чема	t͡ʃema
-Transit:oar.N		къохар	kʼoχar
-Transit:road.N		фӕндаг	fəndaɡ
-Transit:row.V		бæлæгъ тæрын	bælæʁ tærɨn
-Transit:row.V		чема тæрын	t͡ʃema tærɨn
-Value:bad.A		цауд	t͡saud
-Value:good.A		хорз	χorz
-Value:improve.V		фæхуыздæр кæнын	fæχʷɨzdær kænɨn
+PLX:1PL.pro		мах	maχ
+PLX:1SG.pro		æз	æz
+PLX:2PL.pro		сымах	sɨmaχ
+PLX:2SG.pro		ды	dɨ
+PLX:3PL.pro		уыдон	wɨdon
+PLX:3SG M.pro		уый	wɨj
+PLX:and.cnj		ӕмӕ	əmə
+PLX:because of.adp		тыххай	tɨχχaj
+PLX:behind.adp		фӕстӕ	fəstə
+PLX:beside.adp		цур	t͡sur
+PLX:can.v		фӕразын	fərazɨn
+PLX:die (from accident).V		бабын уын	babɨn uɨn
+PLX:die (from accident).V		байсæфын	bajsæfɨn
+PLX:die (from accident).V		мард фæуын	mard fæuɨn
+PLX:die (from accident).V		фесæфын	fesæfɨn
+PLX:everywhere.pro		алкæм	alkæm
+PLX:everywhere.pro		алыран	alɨran
+PLX:everywhere.pro		кæмдæриддæр	kæmdæriddær
+PLX:from here.adv		ардыгæй	ardɨɡæj
+PLX:get sick.V		фӕрынчын уын	fərɨnt͡ʃɨn uɨn
+PLX:how many.pro		цал	t͡sal
+PLX:how.pro		куыд	kʷɨd
+PLX:in front of.adp		разы	razɨ
+PLX:or.cnj		кӕнӕ	kənə
+PLX:that.pro		уый	wɨj
+PLX:this.pro		ай	aj
+PLX:under.adp		бын	bɨn
+PLX:what.pro		цы	t͡sɨ
+PLX:where.pro		кӕм	kəm
+PLX:where_to.pro		кӕдӕм	kədəm
+PLX:who.pro		чи	t͡ʃi
+PLX:why.pro		цӕмӕн	t͡səmən
+PWN:abandon.v.02		ныууадзын	nɨwuad͡zɨn
+PWN:abdomen.n.01		гуыбын	ɡʷɨbɨn
+PWN:above.r.02		уӕле	wəle
+PWN:act.v.02		кӕнын	kənɨn
+PWN:add.v.01		ӕфтауын	əftawɨn
+PWN:address.n.03		раныхас	ranɨχas
+PWN:affect.v.05		зæрдæ суынгæг кæнын	zærdæ suɨnɡæɡ kænɨn
+PWN:again.r.01		ногӕй	noɡəj
+PWN:age.n.01		кар	kar
+PWN:ahead.r.03		размӕ	razmə
+PWN:aid.n.02		æххуыс	æχχʷɨs
+PWN:aid.n.02		ахъаз	aqaz
+PWN:air.n.01		уӕлдӕф	wəldəf
+PWN:alive.a.01		цардӕгас	t͡sardəɡas
+PWN:all.a.01		æппæтдæр	æppætdær
+PWN:all.a.01		алцы	alt͡sɨ
+PWN:all.a.01		иууылдӕр	iwuɨldər
+PWN:allege.v.01		зæгъын	zæʁɨn
+PWN:alone.r.02		иунæг	iunæɡ
+PWN:already.r.01		нырид	nɨrid
+PWN:always.r.01		ӕдзух	əd͡zuχ
+PWN:anger.v.01		мӕсты кӕнын	məstɨ kənɨn
+PWN:anger.v.02		мæсты кæнын	mæstɨ kænɨn
+PWN:animal.n.01		сырд	sɨrd
+PWN:animal.n.01		цӕрӕгой	t͡sərəɡoj
+PWN:animation.n.01		цард	t͡sard
+PWN:animation.n.01		цӕрӕнбон	t͡sərənbon
+PWN:ant.n.01		мæлдзыг	mæld͡zɨɡ
+PWN:apparel.n.01		дарӕс	darəs
+PWN:apple.n.01		фӕткъуы	fətkʼʷɨ
+PWN:april.n.01		апрель	aprelʲ
+PWN:apt.s.03		зондджын	zondd͡ʒɨn
+PWN:area.n.01		ран	ran
+PWN:arise.v.03		стын	stɨn
+PWN:arm.n.01		цонг	t͡sonɡ
+PWN:arrive.v.01		æрцæуын	ært͡sæuɨn
+PWN:arrive.v.01		æрцæуын	ært͡sæuɨn
+PWN:arrow.n.02		фат	fat
+PWN:ascend.v.01		сыстын	sɨstɨn
+PWN:ash.n.01		фӕнык	fənɨk
+PWN:ash.n.01		ӕртхутӕг	ərtχutəɡ
+PWN:ask.v.02		курын	kurɨn
+PWN:ask.v.05		фӕрсын	fərsɨn
+PWN:august.n.01		август	avɡust
+PWN:aunt.n.01		мадыхо	madɨχo
+PWN:awaken.v.01		райхъал кӕнын	rajqal kənɨn
+PWN:back.n.01		фӕсонтӕ	fəsontə
+PWN:back.r.01		фӕстӕмӕ	fəstəmə
+PWN:back.r.02		фӕстӕмӕ	fəstəmə
+PWN:bad.a.01		цауд	t͡saud
+PWN:bag.n.01		дзæкъул	d͡zækʼul
+PWN:bag.n.01		хызын	χɨzɨn
+PWN:bake.v.02		фыцын	fɨt͡sɨn
+PWN:bare.s.01		бӕгънӕг	bəʁnəɡ
+PWN:bark.n.01		цъар	t͡sʼar
+PWN:bark.v.04		рæйын	ræjɨn
+PWN:bathe.v.01		хи найын	χi najɨn
+PWN:battle.n.01		тох	toχ
+PWN:battle.n.01		хæст	χæst
+PWN:battle.n.01		хъæбысæйхæст	qæbɨsæjχæst
+PWN:bay.n.01		донбакæлæн	donbakælæn
+PWN:be_born.v.01		райгуырын	rajɡʷɨrɨn
+PWN:bear.n.01		арс	ars
+PWN:beard.n.01		зачъе	zat͡ʃʼe
+PWN:beautiful.a.01		аив	aiv
+PWN:beautiful.a.01		рӕсугъд	rəsuʁd
+PWN:become.v.01		суӕвын	suəvɨn
+PWN:bed.n.01		сынтӕг	sɨntəɡ
+PWN:begin.v.03		райдайын	rajdajɨn
+PWN:believe.v.01		уырнын	wɨrnɨn
+PWN:beloved.s.01		уарзон	warzon
+PWN:belt.n.02		рон	ron
+PWN:bend.v.01		тасын кӕнын	tasɨn kənɨn
+PWN:benefit.n.02		пайда	pajda
+PWN:berry.n.01		гагадыргъ	ɡaɡadɨrʁ
+PWN:better.v.02		фæхуыздæр кæнын	fæχʷɨzdær kænɨn
+PWN:between.r.02		астӕу	astəu
+PWN:birch.n.02		бæрз	bærz
+PWN:bird.n.01		маргъ	marʁ
+PWN:bird.n.01		цъиу	t͡sʼiu
+PWN:bite.v.01		хæцын	χæt͡sɨn
+PWN:bitter.s.06		судзаг	sud͡zaɡ
+PWN:black.a.01		сау	sau
+PWN:blade.n.01		сыф	sɨf
+PWN:blanket.n.01		хъӕццул	qət͡st͡sul
+PWN:blind.a.01		куырм	kʷɨrm
+PWN:blood.n.01		туг	tuɡ
+PWN:blow.v.01		фу кӕнын	fu kənɨn
+PWN:blow.v.02		дымын	dɨmɨn
+PWN:blue.s.01		цъӕх	t͡sʼəχ
+PWN:blunt.s.02		къуымых	kʼʷɨmɨχ
+PWN:board.n.02		фæйнæг	fæjnæɡ
+PWN:boast.v.01		ӕппӕлын	əppəlɨn
+PWN:boat.n.01		чема	t͡ʃema
+PWN:body.n.01		буар	buar
+PWN:boil.v.01		фыцын	fɨt͡sɨn
+PWN:boil.v.03		фыцын	fɨt͡sɨn
+PWN:bone.n.01		стӕг	stəɡ
+PWN:book.n.01		чиныг	t͡ʃinɨɡ
+PWN:boot.n.01		цырыхъхъ	t͡sɨrɨqq
+PWN:botch.v.01		фесафын	fesafɨn
+PWN:boundary_line.n.01		арӕн	arən
+PWN:bow.n.04		ӕрдын	ərdɨn
+PWN:box.n.01		асыкк	asɨkk
+PWN:brain.n.01		магъз	maʁz
+PWN:branch.n.02		арх	arχ
+PWN:branchlet.n.01		къалиу	kʼaliu
+PWN:brawl.v.01		хыл кæнын	χɨl kænɨn
+PWN:bread.n.01		дзул	d͡zul
+PWN:break.v.05		асæттын	asættɨn
+PWN:break.v.05		басæттын	basættɨn
+PWN:break.v.05		ныссæттын	nɨssættɨn
+PWN:breast.n.02		дзидзи	d͡zid͡zi
+PWN:breath.n.02		улӕфт	uləft
+PWN:breathe.v.01		улӕфын	uləfɨn
+PWN:bridge.n.01		хид	χid
+PWN:bright.a.01		рухс	ruχs
+PWN:bring.v.01		æрбахæссын	ærbaχæssɨn
+PWN:bring.v.01		æрхæссын	ærχæssɨn
+PWN:brook.n.01		мӕсчъыдон	məst͡ʃʼɨdon
+PWN:broom.n.01		уисой	wisoj
+PWN:brother.n.01		ӕфсымӕр	əfsɨmər
+PWN:brow.n.01		ных	nɨχ
+PWN:bucket.n.01		ведра	vedra
+PWN:bucket.n.01		къæрта	kʼærta
+PWN:bucket.n.01		чъыбыла	t͡ʃʼɨbɨla
+PWN:bull.n.01		гал	ɡal
+PWN:bundle.n.02		баст	bast
+PWN:burn.v.03		судзын	sud͡zɨn
+PWN:burn.v.07		басудзын	basud͡zɨn
+PWN:business.n.01		бизнес	biznes
+PWN:business.n.01		хъуыддаг	qʷɨddaɡ
+PWN:butter.n.01		нӕлхӕ	nəlχə
+PWN:butterfly.n.01		гæлæбу	ɡælæbu
+PWN:button.n.01		цӕппӕр	t͡səppər
+PWN:buy.v.01		балхӕнын	balχənɨn
+PWN:calculate.v.01		хынцын	χɨnt͡sɨn
+PWN:calendar_month.n.01		мӕй	məj
+PWN:call.v.05		сидын	sidɨn
+PWN:campfire.n.01		арт	art
+PWN:cap.n.01		худ	χud
+PWN:cat.n.01		гӕды	ɡədɨ
+PWN:catch.v.04		ӕрцахсын	ərt͡saχsɨn
+PWN:cause.n.01		ӕфсон	əfson
+PWN:cave.n.01		лӕгӕт	ləɡət
+PWN:cavil.v.01		æлгъитын	ælʁitɨn
+PWN:center.n.01		астӕу	astəu
+PWN:chair.n.01		бандон	bandon
+PWN:change.v.01		аивын	aivɨn
+PWN:change.v.03		ивын	ivɨn
+PWN:character.n.08		дамгъӕ	damʁə
+PWN:cheap.a.01		аслам	aslam
+PWN:cheek.n.01		рус	rus
+PWN:cheek.n.01		уадул	wadul
+PWN:cheek.n.01		ӕхсӕрфарс	əχsərfars
+PWN:cherished.s.01		зынаргъ	zɨnarʁ
+PWN:chicken.n.02		карк	kark
+PWN:child.n.01		сывӕллон	sɨvəllon
+PWN:chin.n.01		роцъо	rot͡sʼo
+PWN:choose.v.01		равзарын	ravzarɨn
+PWN:chop.v.01		кæрдын	kærdɨn
+PWN:chop.v.01		лыгтæ кæнын	lɨɡtæ kænɨn
+PWN:church.n.02		аргъуан	arʁʷan
+PWN:circle.n.03		зиллакк	zillakk
+PWN:citizenry.n.01		адӕм	adəm
+PWN:claw.n.01		ных	nɨχ
+PWN:clay.n.01		ӕлыг	əlɨɡ
+PWN:clean.a.01		сыгъдæг	sɨʁdæɡ
+PWN:clean.v.01		ныссæрфын	nɨssærfɨn
+PWN:clean.v.01		ныссыгъдæг кæнын	nɨssɨʁdæɡ kænɨn
+PWN:clean.v.01		ссыгъдæг кæнын	ssɨʁdæɡ kænɨn
+PWN:climb.v.01		хилын	χilɨn
+PWN:close.v.01		ӕхгӕнын	əχɡənɨn
+PWN:cloud.n.02		ӕврагъ	əvraʁ
+PWN:coal.n.01		ӕвзалы	əvzalɨ
+PWN:cock.n.04		уасӕг	wasəɡ
+PWN:cold.a.01		сатæг	satæɡ
+PWN:cold.a.01		уазал	wazal
+PWN:cold.a.01		уазалгомау	wazalɡomau
+PWN:coldness.n.03		уазал	wazal
+PWN:collar.n.01		æфцæггот	æft͡sæɡɡot
+PWN:colorful.a.01		гæрæм	ɡæræm
+PWN:colorful.a.01		хъулон	qulon
+PWN:comb.n.01		сӕрвасӕн	sərvasən
+PWN:comb.v.01		æрфасын	ærfasɨn
+PWN:comb.v.01		ныффасын	nɨffasɨn
+PWN:commend.v.01		раппӕлын	rappəlɨn
+PWN:companion.n.01		ӕмбал	əmbal
+PWN:company.n.03		æхсæнад	æχsænad
+PWN:company.n.03		дзыллæ	d͡zɨllæ
+PWN:complete.v.01		фӕуын	fəwɨn
+PWN:connect.v.01		бӕттын	bəttɨn
+PWN:conserve.v.02		бавæрын	baværɨn
+PWN:conserve.v.02		нывæрын	nɨværɨn
+PWN:construct.v.01		амайын	amajɨn
+PWN:conversation.n.01		ныхас	nɨχas
+PWN:converse.v.01		ныхас кæнын	nɨχas kænɨn
+PWN:convey.v.01		фехъусын кæнын	fequsɨn kænɨn
+PWN:cook.v.02		сцӕттӕ кӕнын	st͡səttə kənɨn
+PWN:corner.n.03		тигъ	tiʁ
+PWN:corner.n.03		фисын	fisɨn
+PWN:corpulent.s.01		нард	nard
+PWN:correctly.r.01		раст	rast
+PWN:cough.v.01		хуыфын	χʷɨfɨn
+PWN:count.n.01		бӕрц	bərt͡s
+PWN:count.v.01		нымайын	nɨmajɨn
+PWN:country.n.02		бӕстӕ	bəstə
+PWN:cover.v.01		ӕмбӕрзын	əmbərzɨn
+PWN:cow.n.01		хъуг	quɡ
+PWN:cradle.n.01		авдæн	avdæn
+PWN:crane.n.05		зырнæг	zɨrnæɡ
+PWN:crane.n.05		хърихъупп	qriqupp
+PWN:crawl.v.01		бырын	bɨrɨn
+PWN:crisscross.n.01		дзуар	d͡zuar
+PWN:crow.n.01		халон	χalon
+PWN:cry.n.01		сидт	sidt
+PWN:cry.v.02		кӕуын	kəwɨn
+PWN:cuckoo.n.02		гаккук	ɡakkuk
+PWN:cup.n.01		къус	kʼus
+PWN:cup.n.01		пиала	piala
+PWN:current.n.02		цыд	t͡sɨd
+PWN:cut.v.01		кӕрдын	kərdɨn
+PWN:damage.n.01		зиан	zian
+PWN:damage.v.01		халын	χalɨn
+PWN:damp.s.01		уымӕл	wɨməl
+PWN:dance.v.02		кафын	kafɨn
+PWN:dark.a.01		талынг	talɨnɡ
+PWN:daughter.n.01		чызг	t͡ʃɨzɡ
+PWN:day.n.01		бон	bon
+PWN:deaf.a.01		къуырма	kʼʷɨrma
+PWN:death.n.01		адзал	ad͡zal
+PWN:death.n.01		мæлæт	mælæt
+PWN:deceive.v.01		асайын	asajɨn
+PWN:deceive.v.01		фӕливын	fəlivɨn
+PWN:december.n.01		декабрь	dekabrʲ
+PWN:decompose.v.03		бамбийын	bambijɨn
+PWN:decorate.v.01		фӕлындын	fəlɨndɨn
+PWN:decrease.v.01		фæкъаддæр уын	fækʼaddær uɨn
+PWN:decrease.v.01		фæцух уын	fæt͡suχ uɨn
+PWN:defend.v.03		бахизын	baχizɨn
+PWN:deft.s.01		хӕрзарӕхст	χərzarəχst
+PWN:deity.n.01		хуыцау	χʷɨt͡sau
+PWN:descend.v.01		дæлæмæ æрхауын	dælæmæ ærχawɨn
+PWN:desire.n.01		монц	mont͡s
+PWN:desire.v.01		фӕндын	fəndɨn
+PWN:destroy.v.02		фехалын	feχalɨn
+PWN:detect.v.01		фенын	fenɨn
+PWN:die.v.01		мӕлын	məlɨn
+PWN:different.a.01		æндæр æмæ æндæр	ændær æmæ ændær
+PWN:different.a.01		алы	alɨ
+PWN:different.a.01		алыхуызон	alɨχʷɨzon
+PWN:dig.v.01		къахын	kʼaχɨn
+PWN:digest.v.03		бавзарын	bavzarɨn
+PWN:dirt.n.02		цъыф	t͡sʼɨf
+PWN:dirty.a.01		чъиллон	t͡ʃʼillon
+PWN:disappear.v.01		æрбайсæфын	ærbajsæfɨn
+PWN:disappear.v.01		фæдæлдзæх уын	fædæld͡zæχ uɨn
+PWN:disappear.v.01		фæтары уын	fætarɨ uɨn
+PWN:disappear.v.01		фесæфын	fesæfɨn
+PWN:discontinue.v.01		банцайын	bant͡sajɨn
+PWN:discontinue.v.01		фенцайын	fent͡sajɨn
+PWN:disease.n.01		низ	niz
+PWN:disease.n.01		рын	rɨn
+PWN:dish.n.01		мигæнæн	miɡænæn
+PWN:dish.n.01		мигæнæнтæ	miɡænæntæ
+PWN:dissolve.v.09		стайын	stajɨn
+PWN:distance.n.01		æхсæнуат	æχsænuat
+PWN:distance.n.03		дæрддзæг	dærdd͡zæɡ
+PWN:distance.n.03		дардцæг	dardt͡sæɡ
+PWN:dive.v.03		ныгъуылын	nɨʁʷɨlɨn
+PWN:divide.v.01		уарын	warɨn
+PWN:doctor.n.01		дохтыр	doχtɨr
+PWN:doctor.n.01		хосгæнæг	χosɡænæɡ
+PWN:dog.n.01		куыдз	kʷɨd͡z
+PWN:doll.n.01		чындз	t͡ʃɨnd͡z
+PWN:down.r.01		дӕлӕмӕ	dələmə
+PWN:down.r.01		уырдыгмӕ	wɨrdɨɡmə
+PWN:drag.v.01		ласын	lasɨn
+PWN:dream.n.01		фын	fɨn
+PWN:dress.v.01		дарæс скæнын	daræs skænɨn
+PWN:dress.v.01		дзаума скæнын	d͡zauma skænɨn
+PWN:drink.v.01		нуазын	nuazɨn
+PWN:drive.v.01		цӕуын	t͡səwɨn
+PWN:drive.v.15		скъӕрын	skʼərɨn
+PWN:drop.n.01		æртах	ærtaχ
+PWN:drop.v.01		къухтӕй феуӕгъд кӕнын	kʼuχtəj fewəʁd kənɨn
+PWN:drop.v.01		ӕрӕппарын	ərəpparɨn
+PWN:drove.n.02		бал	bal
+PWN:dry.a.01		хус	χus
+PWN:dry.v.01		хус кæнын	χus kænɨn
+PWN:duck.n.01		ацц	at͡st͡s
+PWN:dust.n.01		рыг	rɨɡ
+PWN:dye.v.01		ахорын	aχorɨn
+PWN:eagle.n.01		цӕргӕс	t͡sərɡəs
+PWN:ear.n.01		хъус	qus
+PWN:earlier.r.01		раздæр	razdær
+PWN:east.n.01		скæсæн	skæsæn
+PWN:eat.v.01		хӕрын	χərɨn
+PWN:edge.n.06		фӕрск	fərsk
+PWN:egg.n.02		айк	ajk
+PWN:eight.s.01		аст	ast
+PWN:eighty.s.01		æстай	æstaj
+PWN:eighty.s.01		цыппарыссæдзы	t͡sɨpparɨssæd͡zɨ
+PWN:elapse.v.01		аивгъуийын	aivʁʷijɨn
+PWN:elbow.n.01		рæмбын	ræmbɨn
+PWN:eleven.s.01		иуæндæс	iuændæs
+PWN:elk.n.01		цæгатаг саг	t͡sæɡataɡ saɡ
+PWN:emerge.v.01		разынын	razɨnɨn
+PWN:empty.a.01		афтид	aftid
+PWN:end.n.03		кæрон	kæron
+PWN:end.n.09		кӕрон	kəron
+PWN:end.v.01		фæуын	fæuɨn
+PWN:enter.v.01		мидæмæ цæуын	midæmæ t͡sæuɨn
+PWN:entirely.r.02		канд	kand
+PWN:entirely.r.02		ӕрмӕст	ərməst
+PWN:erstwhile.s.01		раздӕры	razdərɨ
+PWN:escape.v.01		алидзын	alid͡zɨn
+PWN:evening.n.01		изӕр	izər
+PWN:evil.a.01		фыдзӕрдӕ	fɨd͡zərdə
+PWN:exclaim.v.01		хъӕр кӕнын	qər kənɨn
+PWN:exit.v.01		ацӕуын	at͡səwɨn
+PWN:expensive.a.01		зынаргъ	zɨnarʁ
+PWN:extraneous.s.03		æцæгæлон	æt͡sæɡælon
+PWN:eye.n.01		цӕст	t͡səst
+PWN:fabric.n.01		хъуымац	qʷɨmat͡s
+PWN:face.n.01		цӕсгом	t͡səsɡom
+PWN:faineant.s.01		зивӕг	zivəɡ
+PWN:faineant.s.01		зивӕггӕнаг	zivəɡɡənaɡ
+PWN:fairytale.n.01		аргъау	arʁau
+PWN:fall.n.01		фæззæг	fæzzæɡ
+PWN:fall.v.01		хауын	χawɨn
+PWN:fall_asleep.v.01		бафынæй уын	bafɨnæj uɨn
+PWN:familiar.a.01		зонгӕ	zonɡə
+PWN:family.n.02		бинонтæ	binontæ
+PWN:far.r.02		дард	dard
+PWN:far.r.02		дӕрддаг	dərddaɡ
+PWN:fat.n.01		сой	soj
+PWN:father.n.01		фыд	fɨd
+PWN:fault.n.06		азым	azɨm
+PWN:fear.v.01		тæрсын	tærsɨn
+PWN:feather.n.01		сис	sis
+PWN:february.n.01		февраль	fevralʲ
+PWN:feed.v.01		дарын	darɨn
+PWN:feed.v.01		холлаг æвæрын	χollaɡ æværɨn
+PWN:feed.v.01		холлаг дæттын	χollaɡ dættɨn
+PWN:feel.v.03		ӕнкъарын	ənkʼarɨn
+PWN:female_child.n.01		чызг	t͡ʃɨzɡ
+PWN:fence.n.01		æмбонд	æmbond
+PWN:fence.n.01		быру	bɨru
+PWN:fence.n.01		гæрæн	ɡæræn
+PWN:fever.n.01		ризӕг	rizəɡ
+PWN:fever.n.01		тӕфсӕг	təfsəɡ
+PWN:fifty.s.01		фӕндзай	fənd͡zaj
+PWN:fill.v.01		байдзаг кæнын	bajd͡zaɡ kænɨn
+PWN:find.v.03		ссарын	ssarɨn
+PWN:fine-looking.s.01		аив	aiv
+PWN:fine-looking.s.01		рӕсугъд	rəsuʁd
+PWN:fine.a.05		лыстӕг	lɨstəɡ
+PWN:finger.n.01		ӕнруылдз	ənruɨld͡z
+PWN:fingernail.n.01		ных	nɨχ
+PWN:fir.n.02		наз	naz
+PWN:fire.n.03		зынг	zɨnɡ
+PWN:firm.s.02		фидар	fidar
+PWN:firm.s.02		хъӕддых	qəddɨχ
+PWN:first.a.01		фыццаг	fɨt͡st͡saɡ
+PWN:first.a.01		фыццӕгӕм	fɨt͡st͡səɡəm
+PWN:first.r.02		фыццаг	fɨt͡st͡saɡ
+PWN:fish.n.01		кӕсаг	kəsaɡ
+PWN:fish.v.02		æнгуыр дарын	ænɡʷɨr darɨn
+PWN:fish.v.02		кæсаг ахсын æнгуырæй	kæsaɡ aχsɨn ænɡʷɨræj
+PWN:five.s.01		фондз	fond͡z
+PWN:fix.v.12		æрæввонг кæнын	ærævvonɡ kænɨn
+PWN:fix.v.12		бацаттæ кæнын	bat͡sattæ kænɨn
+PWN:flash.v.01		тыбар-тыбур_кӕнын	tɨbar-tɨbur kənɨn
+PWN:flat.s.01		тъӕпӕн	tʼəpən
+PWN:flee.v.01		лидзын	lid͡zɨn
+PWN:flex.v.05		æркъæдз кæнын	ærkʼæd͡z kænɨn
+PWN:flex.v.05		æртасын кæнын	ærtasɨn kænɨn
+PWN:flip.v.06		зыввытт кӕнын	zɨvvɨtt kənɨn
+PWN:floor.n.01		астӕрд	astərd
+PWN:flower.n.02		дидинӕг	didinəɡ
+PWN:fly.n.01		бындз	bɨnd͡z
+PWN:fly.v.01		тӕхын	təχɨn
+PWN:foam.n.01		фынк	fɨnk
+PWN:foe.n.02		знаг	znaɡ
+PWN:foe.n.02		сон	son
+PWN:foe.n.02		фыдгул	fɨdɡul
+PWN:foe.n.02		фыдзæрдæ	fɨd͡zærdæ
+PWN:fog.n.01		мигъ	miʁ
+PWN:food.n.02		хойраг	χojraɡ
+PWN:foot.n.01		фад	fad
+PWN:footprint.n.01		фæд	fæd
+PWN:foreman.n.01		ӕмцег	əmt͡seɡ
+PWN:forest.n.01		хъӕд	qəd
+PWN:forget.v.02		айрох кæнын	ajroχ kænɨn
+PWN:forget.v.02		ферох кæнын	feroχ kænɨn
+PWN:fork.n.01		вилкæ	vilkæ
+PWN:form.n.03		кæдзист	kæd͡zist
+PWN:form.n.03		нывæфтыд	nɨvæftɨd
+PWN:forty.s.01		дыууиссæдзы	dɨwuissæd͡zɨ
+PWN:forty.s.01		цыппор	t͡sɨppor
+PWN:forty.s.01		цыппур	t͡sɨppur
+PWN:four.s.01		цыппар	t͡sɨppar
+PWN:fox.n.01		рувас	ruvas
+PWN:freeze.v.02		сӕлын	səlɨn
+PWN:frequently.r.01		арæх	aræχ
+PWN:fresh.a.01		сатæг	satæɡ
+PWN:friday.n.01		майрæмбон	majræmbon
+PWN:friend.n.01		лымӕн	lɨmən
+PWN:frost.n.01		ихæн	iχæn
+PWN:frost.n.01		халас	χalas
+PWN:fry.v.02		цурын	t͡surɨn
+PWN:full.a.01		дзаг	d͡zaɡ
+PWN:full.a.01		йедзаг 	jed͡zaɡ 
+PWN:fume.v.02		фæздæг кæнын	fæzdæɡ kænɨn
+PWN:fur.n.03		царм	t͡sarm
+PWN:game.n.01		хъазт	qazt
+PWN:gate.n.01		дуар	duar
+PWN:gateway.n.01		кулдуар	kulduar
+PWN:gather.v.01		æртонын	ærtonɨn
+PWN:gay.s.02		хъӕлдзӕг	qəld͡zəɡ
+PWN:gentle.s.01		мынчын	mɨnt͡ʃɨn
+PWN:get.v.01		райсын	rajsɨn
+PWN:get_down.v.07		райдайын	rajdajɨn
+PWN:get_up.v.02		стын	stɨn
+PWN:gift.n.01		хуын	χʷɨn
+PWN:give.v.03		дӕттын	dəttɨn
+PWN:give.v.08		лæвар кæнын	lævar kænɨn
+PWN:glass.n.01		авг	avɡ
+PWN:glue.v.01		æндадзын	ændad͡zɨn
+PWN:glue.v.01		ныхасын	nɨχasɨn
+PWN:gold.n.03		сыгъзӕрин	sɨʁzərin
+PWN:good.a.01		хорз	χorz
+PWN:goose.n.01		хъаз	qaz
+PWN:govern.v.03		æлдариуæг кæнын	ældariuæɡ kænɨn
+PWN:grain.n.08		мыггаг	mɨɡɡaɡ
+PWN:grain.n.08		тауинаг	tawinaɡ
+PWN:grandfather.n.01		мадыфыд	madɨfɨd
+PWN:grandfather.n.01		фыдыфыд	fɨdɨfɨd
+PWN:grandma.n.01		мады мад	madɨ mad
+PWN:grandma.n.01		фыды мад	fɨdɨ mad
+PWN:grasp.v.01		фӕлӕбурын	fələburɨn
+PWN:grass.n.01		кӕрдӕг	kərdəɡ
+PWN:grassland.n.01		уыгӕрдӕн	wɨɡərdən
+PWN:grave.n.02		ингӕн	inɡən
+PWN:green.s.01		кӕрдӕгхуыз	kərdəɡχʷɨz
+PWN:green.s.01		цъӕх	t͡sʼəχ
+PWN:grey.s.01		фӕныкхуыз	fənɨkχʷɨz
+PWN:grey.s.01		цъӕх	t͡sʼəχ
+PWN:grief.n.02		хъыг	qɨɡ
+PWN:groan.v.01		дзыназын	d͡zɨnazɨn
+PWN:groan.v.01		хъæрзын	qærzɨn
+PWN:grok.v.01		бамбарын	bambarɨn
+PWN:grok.v.01		ӕмбарын	əmbarɨn
+PWN:grow.v.03		рӕзын	rəzɨn
+PWN:guest.n.01		уазӕг	wazəɡ
+PWN:gun.n.01		топп	topp
+PWN:hair.n.01		хил	χil
+PWN:hand.n.01		къух	kʼuχ
+PWN:handle.n.01		фистон	fiston
+PWN:hang.v.01		ауыгъд уын	awɨʁd uɨn
+PWN:hang.v.02		ауындзын	awɨnd͡zɨn
+PWN:happen.v.01		æрцæуын	ært͡sæuɨn
+PWN:happiness.n.01		амонд	amond
+PWN:hard.a.03		хъӕбӕр	qəbər
+PWN:hardly.r.02		цъус	t͡sʼus
+PWN:hardworking.s.01		æнæзивæг	ænæzivæɡ
+PWN:hardworking.s.01		æнувыд	ænuvɨd
+PWN:hare.n.01		тæрхъус	tærqus
+PWN:hark_back.v.01		æрбаздæхын	ærbazdæχɨn
+PWN:hark_back.v.01		аздæхын	azdæχɨn
+PWN:hark_back.v.01		раздæхын	razdæχɨn
+PWN:hark_back.v.01		фæстæмæ_раздæхын	fæstæmæ razdæχɨn
+PWN:hay.n.01		хос	χos
+PWN:head.n.01		сӕр	sər
+PWN:healthy.a.01		æнæниздзинад	ænænizd͡zinad
+PWN:hear.v.01		хъусын	qusɨn
+PWN:heart.n.02		зӕрдӕ	zərdə
+PWN:heat.n.01		ӕнтӕф	əntəf
+PWN:heavy.a.01		уӕззау	wəzzau
+PWN:heel.n.02		зӕвӕт	zəvət
+PWN:height.n.01		бæрзæнд	bærzænd
+PWN:height.n.01		бæрзонд	bærzond
+PWN:height.n.01		бæрзонддзинад	bærzondd͡zinad
+PWN:herd.n.01		дзуг	d͡zuɡ
+PWN:herd.n.01		рӕгъау	rəʁau
+PWN:herd.v.01		хизын	χizɨn
+PWN:here.r.01		ам	am
+PWN:here.r.03		ардӕм	ardəm
+PWN:hide.n.02		царм	t͡sarm
+PWN:hide.v.01		бамбӕхсын	bambəχsɨn
+PWN:hide.v.01		басусӕг кӕнын	basusəɡ kənɨn
+PWN:hide.v.02		æмбæхсын	æmbæχsɨn
+PWN:hide.v.02		нымæхсын	nɨmæχsɨn
+PWN:hill.n.01		къуыбыр	kʼʷɨbɨr
+PWN:hill.n.01		обау	obau
+PWN:hog.n.03		хуы	χʷɨ
+PWN:hold.v.02		дарын	darɨn
+PWN:hole.n.01		хуынкъ	χʷɨnkʼ
+PWN:home.n.01		къона	kʼona
+PWN:honey.n.01		мыд	mɨd
+PWN:hook.n.05		хæбырæгъ	χæbɨræʁ
+PWN:hook.n.05		хæдз	χæd͡z
+PWN:horn.n.02		сыкъа	sɨkʼa
+PWN:horse.n.01		бӕх	bəχ
+PWN:hot.a.01		тӕвд	təvd
+PWN:house.n.01		хӕдзар	χəd͡zar
+PWN:howl.v.02		ниуын	niwɨn
+PWN:hundred.s.01		сӕдӕ	sədə
+PWN:hunger.n.01		стонг	stonɡ
+PWN:hungry.a.01		ӕххормаг	əχχormaɡ
+PWN:hunt.v.01		цуан кæнын	t͡suan kænɨn
+PWN:hurt.v.06		риссын	rissɨn
+PWN:husband.n.01		мой	moj
+PWN:ice.n.01		их	iχ
+PWN:idea.n.01		хъуыды	qʷɨdɨ
+PWN:idol.n.01		кæрдгæныв	kærdɡænɨv
+PWN:ignite.v.01		ссудзын	ssud͡zɨn
+PWN:ill.a.01		нӕфӕразгӕ	nəfərazɡə
+PWN:immediately.r.01		æваст	ævast
+PWN:immediately.r.01		æвиппайды	ævippajdɨ
+PWN:immediately.r.01		уайтагъд	wajtaʁd
+PWN:immediately.r.01		уайтагъд	wajtaʁd
+PWN:immediately.r.01		уыцы сахат	wɨt͡sɨ saχat
+PWN:impede.v.01		къуылымпы кæнын	kʼʷɨlɨmpɨ kænɨn
+PWN:impede.v.01		ныхдур æвæрын	nɨχdur æværɨn
+PWN:impede.v.01		хъыг дарын	qɨɡ darɨn
+PWN:impede.v.01		цæлхдур æвæрын	t͡sælχdur æværɨn
+PWN:increase.v.01		сахадын	saχadɨn
+PWN:increase.v.01		сбирæ уын	sbiræ uɨn
+PWN:increase.v.01		фæфылдæр уын	fæfɨldær uɨn
+PWN:indicate.v.02		амонын	amonɨn
+PWN:insert.v.01		ныссадзын	nɨssad͡zɨn
+PWN:interrupt.v.02		хъыгдарын	qɨɡdarɨn
+PWN:invite.v.02		ӕрбахонын	ərbaχonɨn
+PWN:invite.v.02		ӕрхонын	ərχonɨn
+PWN:iron.n.01		ӕфсӕйнаг	əfsəjnaɡ
+PWN:island.n.01		сакъадах	sakʼadaχ
+PWN:item.n.01		дзаума	d͡zauma
+PWN:january.n.01		январь	janvarʲ
+PWN:jaw.n.01		ӕфсӕр	əfsər
+PWN:join.v.02		баиу кӕнын	baiu kənɨn
+PWN:joy.n.01		цин	t͡sin
+PWN:joy.n.01		циндзинад	t͡sind͡zinad
+PWN:july.n.01		июль	iʲulʲ
+PWN:jump.v.01		гæпп кæнын	ɡæpp kænɨn
+PWN:jump.v.01		лиуырын	liwɨrɨn
+PWN:jump.v.01		сæррæтт кæнын	særrætt kænɨn
+PWN:june.n.01		июнь	iʲunʲ
+PWN:keep.v.03		æвæрын	æværɨn
+PWN:kettle.n.01		аг	aɡ
+PWN:kill.v.10		амарын	amarɨn
+PWN:kind.n.01		хуыз	χʷɨz
+PWN:kind.n.01		хуызад	χʷɨzad
+PWN:king.n.01		къарол	kʼarol
+PWN:knee.n.01		уӕраг	wəraɡ
+PWN:knife.n.01		кард	kard
+PWN:knit.v.01		бийын	bijɨn
+PWN:knit.v.01		кæнын	kænɨn
+PWN:knock.v.02		гуыпп-гуыпп кæнын	ɡʷɨpp-ɡʷɨpp kænɨn
+PWN:knock.v.02		къуырцц-къуырцц кæнын	kʼʷɨrt͡st͡s-kʼʷɨrt͡st͡s kænɨn
+PWN:knock.v.02		хойын	χojɨn
+PWN:knot.n.02		ӕлхынцъ	əlχɨnt͡sʼ
+PWN:know.v.01		зонын	zonɨn
+PWN:ladder.n.01		асин	asin
+PWN:lair.n.01		хуынкъ	χʷɨnkʼ
+PWN:lake.n.01		цад	t͡sad
+PWN:land.n.02		сыджыт	sɨd͡ʒɨt
+PWN:land.n.04		зӕхх	zəχχ
+PWN:language.n.01		ӕвзаг	əvzaɡ
+PWN:large.a.01		дынджыр	dɨnd͡ʒɨr
+PWN:last.a.02		фӕстаг	fəstaɡ
+PWN:laugh.v.01		худын	χudɨn
+PWN:laughter.n.02		худæг	χudæɡ
+PWN:laughter.n.02		худт	χudt
+PWN:laughter.n.02		худын	χudɨn
+PWN:lay.v.02		ӕрӕвӕрын	ərəvərɨn
+PWN:lead.v.01		кӕнын	kənɨn
+PWN:lead.v.01		фæкæнын	fækænɨn
+PWN:learn.v.01		ахуыр кӕнын	aχʷɨr kənɨn
+PWN:leather.n.01		мæскуы	mæskʷɨ
+PWN:left.r.01		галиу	ɡaliu
+PWN:leg.n.02		зӕнг	zənɡ
+PWN:length.n.01		дӕргъ	dərʁ
+PWN:let.v.01		кæнын	kænɨn
+PWN:letter.n.01		фыстӕг	fɨstəɡ
+PWN:lick.v.02		сдæрын	sdærɨn
+PWN:lid.n.02		æмбæрзæн	æmbærzæn
+PWN:lid.n.02		сæр	sær
+PWN:lie.n.01		гӕдыдзинад	ɡədɨd͡zinad
+PWN:lie.n.01		мӕнг	mənɡ
+PWN:lie.v.02		хуыссын	χʷɨssɨn
+PWN:lift.v.03		сдарын	sdarɨn
+PWN:lift.v.03		схæцын	sχæt͡sɨn
+PWN:like.v.03		зæрдæмæ цæуын	zærdæmæ t͡sæuɨn
+PWN:line.n.04		хахх	χaχχ
+PWN:lip.n.01		был	bɨl
+PWN:listen.v.01		хъусын	qusɨn
+PWN:listen.v.02		фехъусын	fequsɨn
+PWN:little.r.01		чысыл	t͡ʃɨsɨl
+PWN:liver.n.01		игæр	iɡær
+PWN:load.n.01		уаргъ	warʁ
+PWN:lock.n.01		гуыдыр	ɡʷɨdɨr
+PWN:long.a.02		даргъ	darʁ
+PWN:long.r.01		бирæ рæстæг	biræ ræstæɡ
+PWN:look.v.01		акӕсын	akəsɨn
+PWN:look.v.02		зынын	zɨnɨn
+PWN:lose.v.05		фесафын	fesafɨn
+PWN:louse.n.01		сыст	sɨst
+PWN:love.v.03		уарзын	warzɨn
+PWN:low.r.01		бынæй	bɨnæj
+PWN:low.r.01		дæлæ	dælæ
+PWN:low.r.01		дæлейы	dælejɨ
+PWN:luminosity.n.01		рухс	ruχs
+PWN:mainland.n.01		сурзæхх	surzæχχ
+PWN:make_noise.v.01		хъæлæба кæнын	qælæba kænɨn
+PWN:male_child.n.01		лӕппу	ləppu
+PWN:man.n.01		лӕг	ləɡ
+PWN:man.n.01		нӕлгоймаг	nəlɡojmaɡ
+PWN:march.n.01		мартъи	martʼi
+PWN:may.n.01		май	maj
+PWN:meal.n.01		хӕрд	χərd
+PWN:meaning.n.01		нысаниуæг	nɨsaniuæɡ
+PWN:measure.v.01		барын	barɨn
+PWN:meat.n.01		дзидза	d͡zid͡za
+PWN:meat.n.01		фыдызгъӕл	fɨdɨzʁəl
+PWN:medicine.n.02		хос	χos
+PWN:meet.v.07		æрæмбырд уын	æræmbɨrd uɨn
+PWN:meet.v.09		фембæлын	fembælɨn
+PWN:melt.v.01		тайын	tajɨn
+PWN:memory.n.03		зæрдылдарын	zærdɨldarɨn
+PWN:memory.n.03		мысæн	mɨsæn
+PWN:memory.n.03		мысын	mɨsɨn
+PWN:message.n.01		уац	wat͡s
+PWN:milk.n.01		ӕхсыр	əχsɨr
+PWN:milk.v.01		дуцын	dut͡sɨn
+PWN:mind.n.01		зонд	zond
+PWN:mirror.n.01		айдæн	ajdæn
+PWN:mirror.n.01		кæсæн	kæsæn
+PWN:misfortune.n.02		бæллæх	bællæχ
+PWN:mistake.n.01		рӕдыд	rədɨd
+PWN:monday.n.01		къуырисæр	kʼʷɨrisær
+PWN:money.n.01		ӕхца	əχt͡sa
+PWN:moon.n.01		мӕй	məj
+PWN:moor.n.02		цъыфдзаст	t͡sʼɨfd͡zast
+PWN:morning.n.01		райсом	rajsom
+PWN:mosquito.n.01		къогъо	kʼoʁo
+PWN:mother.n.01		мад	mad
+PWN:mountain.n.01		хох	χoχ
+PWN:mouse.n.01		мыст	mɨst
+PWN:mouth.n.01		дзых	d͡zɨχ
+PWN:move.v.03		змӕлын	zməlɨn
+PWN:mush.n.02		кас	kas
+PWN:mushroom.n.02		зокъо	zokʼo
+PWN:mushroom.n.02		къозо	kʼozo
+PWN:mustache.n.01		рихи	riχi
+PWN:nail.n.01		ных	nɨχ
+PWN:nail.n.02		зӕгӕл	zəɡəl
+PWN:name.n.01		ном	nom
+PWN:name.v.01		хонын	χonɨn
+PWN:nape.n.01		къӕбут	kʼəbut
+PWN:narrative.n.01		радзырд	rad͡zɨrd
+PWN:narrow.a.01		нарӕг	narəɡ
+PWN:narrow.a.01		уынгӕг	wɨnɡəɡ
+PWN:natural_elevation.n.01		уæлвæз	uælvæz
+PWN:natural_elevation.n.01		уæлхох	uælχoχ
+PWN:navel.n.01		бикъ	bikʼ
+PWN:near.r.01		хӕстӕг	χəstəɡ
+PWN:neck.n.01		къубал	kʼubal
+PWN:needle.n.03		судзин	sud͡zin
+PWN:nest.n.01		ахстон	aχston
+PWN:net_income.n.01		хыз	χɨz
+PWN:never.r.01		никæд	nikæd
+PWN:never.r.01		никуы	nikʷɨ
+PWN:new.a.01		ног	noɡ
+PWN:news.n.01		хабар	χabar
+PWN:newspaper.n.01		газет	ɡazet
+PWN:night.n.01		ӕхсӕв	əχsəv
+PWN:nine.s.01		фараст	farast
+PWN:ninety.s.01		дæс æмæ цыппарыссæдзы	dæs æmæ t͡sɨpparɨssæd͡zɨ
+PWN:ninety.s.01		нæуæдз	næuæd͡z
+PWN:noise.n.01		зӕл	zəl
+PWN:noise.n.01		мыр	mɨr
+PWN:noise.n.01		уынæр	wɨnær
+PWN:noon.n.01		æмбисбон	æmbisbon
+PWN:noose.n.02		цасм	t͡sasm
+PWN:north.n.03		цæгат	t͡sæɡat
+PWN:nose.n.01		фындз	fɨnd͡z
+PWN:not.r.01		нӕ	nə
+PWN:november.n.01		ноябрь	noʲabrʲ
+PWN:now.r.04		ныр	nɨr
+PWN:oar.n.01		къохар	kʼoχar
+PWN:october.n.01		октябрь	oktʲabrʲ
+PWN:oil.n.01		зети	zeti
+PWN:old.a.01		ацӕргӕ	at͡sərɡə
+PWN:old.a.01		зӕронд	zərond
+PWN:olfactory_property.n.01		смаг	smaɡ
+PWN:once.r.01		иу хатт	iu χatt
+PWN:once.r.03		кӕддӕр	kəddər
+PWN:one-half.n.01		æмбис	æmbis
+PWN:one-half.n.01		æрдæг	ærdæɡ
+PWN:one.s.01		иу	iu
+PWN:onion.n.02		хъӕдындз	qədɨnd͡z
+PWN:open.a.01		гом	ɡom
+PWN:open.v.01		гом кӕнын	ɡom kənɨn
+PWN:other.a.01		иннӕ	innə
+PWN:other.a.01		ӕндӕр	əndər
+PWN:owl.n.01		 уыг	 uɨɡ
+PWN:owl.n.01		сидахъ	sidaq
+PWN:own.v.01		хицау уын	χit͡sau uɨn
+PWN:pain.n.03		рис	ris
+PWN:paint.n.01		ахорæн	aχoræn
+PWN:paint.v.02		ныв кӕнын	nɨv kənɨn
+PWN:palm.n.01		армытъӕпӕн	armɨtʼəpən
+PWN:parent.n.01		ныййарджытæ	nɨjjard͡ʒɨtæ
+PWN:part.n.02		хай	χaj
+PWN:part.n.03		кæрдих	kærdiχ
+PWN:part.n.03		комдзаг	komd͡zaɡ
+PWN:pasture.n.01		сæрвæт	særvæt
+PWN:pasture.n.01		хизæн	χizæn
+PWN:pasture.n.01		хизæнуат	χizænuat
+PWN:path.n.02		къахвæд	kʼaχvæd
+PWN:path.n.02		къахвæндаг	kʼaχvændaɡ
+PWN:paw.n.01		дзӕмбы	d͡zəmbɨ
+PWN:pay.v.01		фидын	fidɨn
+PWN:peak.n.04		цъупп	t͡sʼupp
+PWN:peel.n.02		цъар	t͡sʼar
+PWN:people.n.01		адӕм	adəm
+PWN:perca.n.01		окунь	okunʲ
+PWN:periphery.n.01		кӕрон	kəron
+PWN:person.n.01		адӕймаг	adəjmaɡ
+PWN:person.n.01		лӕг	ləɡ
+PWN:person.n.01		удгоймаг	udɡojmaɡ
+PWN:perturb.v.01		хъыгдарын	qɨɡdarɨn
+PWN:pick.v.02		тонын	tonɨn
+PWN:pick_up.v.02		сисын	sisɨn
+PWN:picture.n.01		ныв	nɨv
+PWN:pike.n.02		хихор кӕсаг	χiχor kəsaɡ
+PWN:pile.n.01		кӕри	kəri
+PWN:pillow.n.01		баз	baz
+PWN:pine.n.01		нӕзы	nəzɨ
+PWN:pit.n.01		дзыхъхъ	d͡zɨqq
+PWN:pit.n.01		къахт	kʼaχt
+PWN:pit.n.01		урм	urm
+PWN:play.v.05		хъазын	qazɨn
+PWN:pointed.a.01		цыргъбырынкъ	t͡sɨrʁbɨrɨnkʼ
+PWN:pointed.a.01		цыргъфындз	t͡sɨrʁfɨnd͡z
+PWN:pole.n.01		хъил	qil
+PWN:poor.a.02		мӕгуыр	məɡʷɨr
+PWN:populate.v.01		цӕрын	t͡sərɨn
+PWN:position.n.01		бынат	bɨnat
+PWN:position.n.01		ран	ran
+PWN:pot.n.01		аг	aɡ
+PWN:pot.n.01		чысыл аг	t͡ʃɨsɨl aɡ
+PWN:pouch.n.01		дзӕкъул	d͡zəkʼul
+PWN:pour.v.01		ныккӕнын	nɨkkənɨn
+PWN:power.n.01		хицаудзинад	χit͡saud͡zinad
+PWN:powerful.a.01		домбай	dombaj
+PWN:powerful.a.01		тыхджын	tɨχd͡ʒɨn
+PWN:press.v.01		æлхъивын	ælqivɨn
+PWN:press.v.01		хæцын	χæt͡sɨn
+PWN:price.n.02		аргъ	arʁ
+PWN:produce.v.02		саразын	sarazɨn
+PWN:produce.v.02		саразын	sarazɨn
+PWN:produce.v.02		сцæттæ кæнын	st͡sættæ kænɨn
+PWN:promise.v.01		дзырд раттын	d͡zɨrd rattɨn
+PWN:promise.v.01		зӕрдӕ бавӕрын	zərdə bavərɨn
+PWN:protect.v.01		хъахъхъӕнын	qaqqənɨn
+PWN:pull.v.01		ласын	lasɨn
+PWN:push.v.01		схойын	sχojɨn
+PWN:put.v.01		ӕвӕрын	əvərɨn
+PWN:quantity.n.03		бӕрц	bərt͡s
+PWN:rain.n.01		уарын	warɨn
+PWN:rain.v.01		уарын	warɨn
+PWN:rainbow.n.01		арвырдын	arvɨrdɨn
+PWN:rainbow.n.01		арвырон	arvɨron
+PWN:raise.v.02		уæлæмæ хæцын	uælæmæ χæt͡sɨn
+PWN:raw.a.03		хом	χom
+PWN:read.v.01		кӕсын	kəsɨn
+PWN:read.v.01		фӕрсын	fərsɨn
+PWN:rear.v.02		хъомыл кӕнын	qomɨl kənɨn
+PWN:recognize.v.04		базонын	bazonɨn
+PWN:recuperate.v.04		рандидзын	randid͡zɨn
+PWN:recuperate.v.04		сæндидзын	sændid͡zɨn
+PWN:recuperate.v.04		сдзæбæх уын	sd͡zæbæχ uɨn
+PWN:red.s.01		сырх	sɨrχ
+PWN:remember.v.01		æрбаймысын	ærbajmɨsɨn
+PWN:remember.v.01		æрхъуыды кæнын	ærqʷɨdɨ kænɨn
+PWN:remember.v.01		æрымысын	ærɨmɨsɨn
+PWN:remember.v.01		зæрдыл æрлæууын	zærdɨl ærlæuwɨn
+PWN:repair.v.01		æмпъузын	æmpʼuzɨn
+PWN:repair.v.01		цалцæг кæнын	t͡salt͡sæɡ kænɨn
+PWN:rescue.v.01		фервӕзын кӕнын	fervəzɨn kənɨn
+PWN:rest.v.05		улæфын	ulæfɨn
+PWN:rest.v.05		фæллад уадзын	fællad uad͡zɨn
+PWN:result.v.01		разынын	razɨnɨn
+PWN:ribbon.n.04		лент	lent
+PWN:rich.a.01		хъӕздыг	qəzdɨɡ
+PWN:riddle.n.01		базон-базон	bazon-bazon
+PWN:riddle.n.01		уыци-уыци	wɨt͡si-uɨt͡si
+PWN:right.r.04		рахиз	raχiz
+PWN:ring.n.08		къухдарӕн	kʼuχdarən
+PWN:ring.v.01		цæгъдын	t͡sæʁdɨn
+PWN:ring.v.03		цæгъдын	t͡sæʁdɨn
+PWN:rinse.v.01		æнхъæвзын	ænqævzɨn
+PWN:ripe.a.01		рӕгъӕд	rəʁəd
+PWN:ripen.v.02		срæгъæд уын	sræʁæd uɨn
+PWN:ripen.v.02		сцæттæ уын	st͡sættæ uɨn
+PWN:rise.v.16		скæсын	skæsɨn
+PWN:river.n.01		дон	don
+PWN:river.n.01		цӕугӕдон	t͡səuɡədon
+PWN:road.n.01		фӕндаг	fəndaɡ
+PWN:road.n.01		фӕндаг	fəndaɡ
+PWN:roar.v.01		абухын	abuχɨn
+PWN:rock.n.01		дур	dur
+PWN:rock.v.01		æнкъуысын	ænkʼʷɨsɨn
+PWN:roof.n.01		уӕлхӕдзар	wəlχəd͡zar
+PWN:root.n.01		уидаг	widaɡ
+PWN:round.a.01		тымбыл	tɨmbɨl
+PWN:row.v.01		бæлæгъ тæрын	bælæʁ tærɨn
+PWN:row.v.01		чема тæрын	t͡ʃema tærɨn
+PWN:rub.v.01		сӕрфын	sərfɨn
+PWN:rub.v.01		хафын	χafɨn
+PWN:run.v.01		згъорын	zʁorɨn
+PWN:run.v.06		кæлын	kælɨn
+PWN:run.v.06		кӕлын	kəlɨn
+PWN:run.v.06		уайын	wajɨn
+PWN:run.v.06		цæуын	t͡sæuɨn
+PWN:rush.v.01		тæхын	tæχɨn
+PWN:rush.v.01		уайын	wajɨn
+PWN:rush.v.04		тагъд кæнын	taʁd kænɨn
+PWN:rush.v.04		тагъд кæнын	taʁd kænɨn
+PWN:rush.v.04		тындзын	tɨnd͡zɨn
+PWN:rush.v.04		тындзын	tɨnd͡zɨn
+PWN:sack.n.01		голлаг	ɡollaɡ
+PWN:sad.a.01		ӕрхӕндӕг	ərχəndəɡ
+PWN:salt.n.02		цӕхх	t͡səχχ
+PWN:sand.n.01		змис	zmis
+PWN:saturday.n.01		сабат	sabat
+PWN:scarf.n.01		кæлмæрзæн	kælmærzæn
+PWN:scarf.n.01		кæрдæн	kærdæn
+PWN:scrape.v.01		хафын	χafɨn
+PWN:sea.n.01		денджыз	dend͡ʒɨz
+PWN:search.v.01		агурын	aɡurɨn
+PWN:seashore.n.01		донбыл	donbɨl
+PWN:seat.v.01		сбадын кӕнын	sbadɨn kənɨn
+PWN:second.s.01		дыккæгæм	dɨkkæɡæm
+PWN:second.s.01		дыккаг	dɨkkaɡ
+PWN:see.v.01		уынын	wɨnɨn
+PWN:seed.n.02		мыггаг	mɨɡɡaɡ
+PWN:seed.n.02		тауинаг	tawinaɡ
+PWN:sell.v.01		уӕй кӕнын	wəj kənɨn
+PWN:send.v.01		ӕрвитын	ərvitɨn
+PWN:separate.v.02		фæйнæрдæм фæцæуын айхæлын	fæjnærdæm fæt͡sæuɨn ajχælɨn
+PWN:september.n.01		сентябрь	sentʲabrʲ
+PWN:set.v.10		 аныгуылын	 anɨɡʷɨlɨn
+PWN:seven.s.01		авд	avd
+PWN:seventy.s.01		æвдай	ævdaj
+PWN:seventy.s.01		дæс æмæ æртиссæдзы	dæs æmæ ærtissæd͡zɨ
+PWN:severe.s.01		ӕвзӕр	əvzər
+PWN:sew.v.01		хуыйын	χʷɨjɨn
+PWN:shadow.n.01		аууон	awuon
+PWN:shake.v.01		уигъын	wiʁɨn
+PWN:shake.v.08		æнкъусын	ænkʼusɨn
+PWN:sharp.a.09		цыргъ	t͡sɨrʁ
+PWN:sharpen.v.01		ссын	ssɨn
+PWN:sharpen.v.01		цыргъ кӕнын	t͡sɨrʁ kənɨn
+PWN:shatter.v.03		асӕттын	asəttɨn
+PWN:sheep.n.01		фыс	fɨs
+PWN:shelf.n.01		тӕрхӕг	tərχəɡ
+PWN:shelf.n.01		уӕлвӕйнӕг	wəlvəjnəɡ
+PWN:shine.v.02		рухс кӕнын	ruχs kənɨn
+PWN:shirt.n.01		хӕдон	χədon
+PWN:shoe.n.01		басмахъ	basmaq
+PWN:shoot.v.01		ӕхсын	əχsɨn
+PWN:shop.n.01		дукани	dukani
+PWN:shore.n.01		был	bɨl
+PWN:short.a.02		цыбыр	t͡sɨbɨr
+PWN:shoulder.n.01		уӕхск	wəχsk
+PWN:shovel.n.01		æвгæнæн	ævɡænæn
+PWN:shovel.n.01		кæфой	kæfoj
+PWN:shudder.v.02		ризын	rizɨn
+PWN:shut.a.01		æхгæд	æχɡæd
+PWN:side.n.01		фахс	faχs
+PWN:silence.n.01		æнцой	ænt͡soj
+PWN:silver.n.01		ӕвзист	əvzist
+PWN:sin.n.01		тæригъæд	tæriʁæd
+PWN:sing.v.02		зарын	zarɨn
+PWN:sink.v.01		дӕлдон_кӕнын	dəldon kənɨn
+PWN:sister.n.01		хо	χo
+PWN:sit_down.v.01		бадын	badɨn
+PWN:sit_down.v.01		сбадын	sbadɨn
+PWN:six.s.01		ӕхсӕз	əχsəz
+PWN:sixty.s.01		æртиссæдзы	ærtissæd͡zɨ
+PWN:sixty.s.01		æхсай	æχsaj
+PWN:size.n.01		ас	as
+PWN:ski.n.01		къахдзоныгътæ	kʼaχd͡zonɨʁtæ
+PWN:ski.n.01		лыжæтæ	lɨʒætæ
+PWN:sky.n.01		арв	arv
+PWN:sky.n.01		уӕларв	wəlarv
+PWN:slab.n.01		къӕй	kʼəj
+PWN:sled.n.01		дзоныгъ	d͡zonɨʁ
+PWN:sleep.n.01		хуыссӕг	χʷɨssəɡ
+PWN:sleep.v.01		фынӕй кӕнын	fɨnəj kənɨn
+PWN:sleep.v.01		хуыссын	χʷɨssɨn
+PWN:sleeve.n.01		дыс	dɨs
+PWN:slice.n.05		къӕбӕр	kʼəbər
+PWN:slope.n.01		къул	kʼul
+PWN:small.a.01		гыццыл	ɡɨt͡st͡sɨl
+PWN:smell.v.01		смудын	smudɨn
+PWN:smoke.n.02		фӕздӕг	fəzdəɡ
+PWN:smooth.a.01		лӕгъз	ləʁz
+PWN:snake.n.01		калм	kalm
+PWN:snap.v.03		скъуийын	skʼʷijɨn
+PWN:snog.v.01		ба кæнын	ba kænɨn
+PWN:snog.v.01		пъа кæнын	pʼa kænɨn
+PWN:snow.n.01		мит	mit
+PWN:soft.a.01		фӕлмӕн	fəlmən
+PWN:sometimes.r.01		хатт	χatt
+PWN:son.n.01		фырт	fɨrt
+PWN:song.n.01		зарӕг	zarəɡ
+PWN:soon.r.01		рæхджы	ræχd͡ʒɨ
+PWN:soon.r.01		тагъд	taʁd
+PWN:sore.n.01		цӕф	t͡səf
+PWN:sound.v.02		азæлын	azælɨn
+PWN:sound.v.02		зæлын	zælɨn
+PWN:sound.v.02		хъуысын	qʷɨsɨn
+PWN:soup.n.01		бас	bas
+PWN:sour.a.02		туаг	tuaɡ
+PWN:south.n.03		хуссар	χussar
+PWN:space.n.02		бууат	buwat
+PWN:spade.n.02		бел	bel
+PWN:spark.n.06		цӕхӕр	t͡səχər
+PWN:speak.v.03		дзурын	d͡zurɨn
+PWN:spider.n.01		хӕлуарӕг	χəluarəɡ
+PWN:spirit.n.04		уд	ud
+PWN:spoil.v.02		ӕмбийын	əmbijɨn
+PWN:spoon.n.01		уидыг	widɨɡ
+PWN:spring.n.01		уалдзæг	wald͡zæɡ
+PWN:spring.n.03		суадон	suadon
+PWN:squirrel.n.01		æхсæрæг	æχsæræɡ
+PWN:stand.v.01		лӕууын	ləwuɨn
+PWN:star.n.03		стъалы	stʼalɨ
+PWN:state.n.04		паддзахад	padd͡zaχad
+PWN:stay.v.04		лӕууын	ləwuɨn
+PWN:steal.v.01		давын	davɨn
+PWN:step.v.01		къахдзæф кæнын	kʼaχd͡zæf kænɨn
+PWN:step.v.01		санчъех кæнын	sant͡ʃʼeχ kænɨn
+PWN:step.v.01		цæуын	t͡sæuɨn
+PWN:stick.n.01		лӕдзӕг	ləd͡zəɡ
+PWN:still.r.01		ма	ma
+PWN:sting.v.02		фæрæхойын	færæχojɨn
+PWN:stingy.a.01		æлгъин	ælʁin
+PWN:stingy.a.01		мæрддзæст	mærdd͡zæst
+PWN:stingy.a.01		чъынды	t͡ʃʼɨndɨ
+PWN:stir.v.01		азмæнтын	azmæntɨn
+PWN:stir.v.01		астауын	astawɨn
+PWN:stir.v.01		ахæццæ кæнын	aχæt͡st͡sæ kænɨn
+PWN:stomach.n.01		ахсӕн	aχsən
+PWN:stop.v.01		æрлæууын	ærlæuwɨn
+PWN:stove.n.01		пец	pet͡s
+PWN:strap.n.01		гӕрз	ɡərz
+PWN:strength.n.01		æхсар	æχsar
+PWN:strength.n.01		тых	tɨχ
+PWN:strike.v.01		ныццæвын	nɨt͡st͡sævɨn
+PWN:strike.v.01		нӕмын	nəmɨn
+PWN:strike.v.01		цӕвын	t͡səvɨn
+PWN:string.n.01		бӕндӕн	bəndən
+PWN:stroke.n.10		хахх	χaχχ
+PWN:strong.a.01		тыхджын	tɨχd͡ʒɨn
+PWN:stupid.a.01		ӕдылы	ədɨlɨ
+PWN:subsequently.r.01		стæй	stæj
+PWN:subsequently.r.01		уый фæстæ	wɨj fæstæ
+PWN:succeed.v.01		бантысын	bantɨsɨn
+PWN:suddenly.r.01		æваст	ævast
+PWN:suddenly.r.01		æвиппайды	ævippajdɨ
+PWN:summer.n.01		сӕрд	sərd
+PWN:sun.n.01		хур	χur
+PWN:sunday.n.01		хуыцаубон	χʷɨt͡saubon
+PWN:support.n.07		быцæу	bɨt͡sæu
+PWN:swallow.v.01		ныхъуырын	nɨqʷɨrɨn
+PWN:swamp.n.01		цъыфдзаст	t͡sʼɨfd͡zast
+PWN:swan.n.01		доныхъаз	donɨqaz
+PWN:sweep.v.06		мӕрзын	mərzɨn
+PWN:sweet.a.01		адджын	add͡ʒɨn
+PWN:swim.v.01		ленк кӕнын	lenk kənɨn
+PWN:swing.v.01		æнкъуысын	ænkʼʷɨsɨn
+PWN:swing.v.01		змæлын	zmælɨn
+PWN:swing.v.05		тилын	tilɨn
+PWN:swing.v.05		уигъын	wiʁɨn
+PWN:swing_around.v.01		афæлдахын	afældaχɨn
+PWN:table.n.02		стъол	stʼol
+PWN:tail.n.01		къӕдзил	kʼəd͡zil
+PWN:take.v.04		райсын	rajsɨn
+PWN:talk.v.02		ныхас кӕнын	nɨχas kənɨn
+PWN:taste.n.01		ад	ad
+PWN:taste.v.01		аходын	aχodɨn
+PWN:taste.v.01		уынын	wɨnɨn
+PWN:tasty.a.01		хӕрзад	χərzad
+PWN:tea.n.01		цай	t͡saj
+PWN:teach.v.01		ахуыр кæнын	aχʷɨr kænɨn
+PWN:teacher.n.01		ахуыргæнæг	aχʷɨrɡænæɡ
+PWN:tear.n.01		цæссыг	t͡sæssɨɡ
+PWN:tear.v.01		аскъуынын	askʼʷɨnɨn
+PWN:tell.v.03		радзурын	rad͡zurɨn
+PWN:tell.v.03		ратаурæгъ кæнын	ratauræʁ kænɨn
+PWN:ten.s.01		дӕс	dəs
+PWN:tendon.n.01		нуар	nuar
+PWN:tendon.n.01		хъиутæ	qiutæ
+PWN:tether.v.01		æрбæттын	ærbættɨn
+PWN:tether.v.01		бабæттын	babættɨn
+PWN:then.r.01		стæй	stæj
+PWN:then.r.03		уæд	uæd
+PWN:there.r.01		уым	wɨm
+PWN:there.r.03		уырдӕм	wɨrdəm
+PWN:thick.a.01		сӕвджын	səvd͡ʒɨn
+PWN:thick.a.03		бæзджын	bæzd͡ʒɨn
+PWN:thick.a.03		тар	tar
+PWN:thigh.n.01		агъд	aʁd
+PWN:thin.a.01		тæнæг	tænæɡ
+PWN:thin.a.02		гуырвидыц	ɡʷɨrvidɨt͡s
+PWN:thin.a.02		рæхснæг	ræχsnæɡ
+PWN:thin.a.02		сагамад	saɡamad
+PWN:thin.a.02		хæрзконд	χærzkond
+PWN:thing.n.09		хъуыддаг	qʷɨddaɡ
+PWN:thing.n.12		дзаума	d͡zauma
+PWN:think.v.03		хъуыды кӕнын	qʷɨdɨ kənɨn
+PWN:think.v.03		ӕнхъӕлын	ənqəlɨn
+PWN:third.s.01		æртыккæгæм	ærtɨkkæɡæm
+PWN:third.s.01		æртыккаг	ærtɨkkaɡ
+PWN:thirty.s.01		æртын	ærtɨn
+PWN:thirty.s.01		дæсæмæссæдз	dæsæmæssæd͡z
+PWN:thorax.n.02		риу	riu
+PWN:thousand.s.01		мин	min
+PWN:thread.n.01		ӕндах	əndaχ
+PWN:three.s.01		ӕртӕ	ərtə
+PWN:throat.n.01		хъуыр	qʷɨr
+PWN:through.r.01		æхсæнты	æχsæntɨ
+PWN:thrust.v.01		риуыгъын	riwɨʁɨn
+PWN:thunder.n.02		æрвнæрын	ærvnærɨn
+PWN:thunder.v.03		нæрын	nærɨn
+PWN:thursday.n.01		цыппæрæм	t͡sɨppæræm
+PWN:thus.r.02		афтӕ	aftə
+PWN:tie.v.01		бабӕттын	babəttɨn
+PWN:time.n.05		рӕстӕг	rəstəɡ
+PWN:tinkle.v.01		дзæгъ-дзæгъ кæнын	d͡zæʁ-d͡zæʁ kænɨn
+PWN:tinkle.v.01		дзыгъал-мыгъул кæнын	d͡zɨʁal-mɨʁul kænɨn
+PWN:tip.n.01		бырынкъ	bɨrɨnkʼ
+PWN:tire.v.02		бафæллайын	bafællajɨn
+PWN:tire.v.02		бафæлмæцын	bafælmæt͡sɨn
+PWN:tire.v.02		сфæлмæцын	sfælmæt͡sɨn
+PWN:today.r.02		абон	abon
+PWN:toe.n.01		къух	kʼuχ
+PWN:together.r.01		иумӕ	iumə
+PWN:token.n.02		нысан	nɨsan
+PWN:tomorrow.r.01		райсом	rajsom
+PWN:tone.n.07		мыр	mɨr
+PWN:tongue.n.01		ӕвзаг	əvzaɡ
+PWN:tooth.n.01		дӕндаг	dəndaɡ
+PWN:touch.v.01		агайын	aɡajɨn
+PWN:towel.n.01		хисæрфæн	χisærfæn
+PWN:town.n.01		сахар	saχar
+PWN:translate.v.01		ратæлмац кæнын	ratælmat͡s kænɨn
+PWN:transport.v.02		хӕссын	χəssɨn
+PWN:trap.n.01		къӕппӕг	kʼəppəɡ
+PWN:trap.n.01		цъысым	t͡sʼɨsɨm
+PWN:trap.v.02		ӕрцахсын	ərt͡saχsɨn
+PWN:travel.v.01		тæлфын	tælfɨn
+PWN:travel.v.01		цæуын	t͡sæuɨn
+PWN:travel.v.01		цӕуын	t͡səwɨn
+PWN:tree.n.01		бӕлас	bəlas
+PWN:trouser.n.01		æддаг хæлаф	æddaɡ χælaf
+PWN:trouser.n.01		салбар	salbar
+PWN:trouser.n.01		хæлаф	χælaf
+PWN:true.a.01		ӕцӕг	ət͡səɡ
+PWN:trunk.n.01		хӕтӕл	χətəl
+PWN:truth.n.01		æцæг	æt͡sæɡ
+PWN:try.v.01		фӕлварын	fəlvarɨn
+PWN:tube.n.01		хӕтӕл	χətəl
+PWN:tuesday.n.01		дыццæг	dɨt͡st͡sæɡ
+PWN:tumble.v.01		ӕрхауын	ərχawɨn
+PWN:turn.v.04		афæлдахын	afældaχɨn
+PWN:turn.v.04		рафæлдахын	rafældaχɨn
+PWN:twelve.s.01		дыууадæс	dɨwuadæs
+PWN:twenty.s.01		дыууын	dɨwuɨn
+PWN:two.s.01		дыууӕ	dɨwuə
+PWN:uncle.n.01		фыдыфсымӕр	fɨdɨfsɨmər
+PWN:undress.v.01		ласын	lasɨn
+PWN:unfold.v.04		байсæрдын	bajsærdɨn
+PWN:unfold.v.04		сахорын	saχorɨn
+PWN:up.r.01		уӕлӕмӕ	wələmə
+PWN:urge.v.01		рог кæнын	roɡ kænɨn
+PWN:urge.v.01		тагъд кæнын	taʁd kænɨn
+PWN:vainly.r.01		æнæхъуаджы	ænæqʷad͡ʒɨ
+PWN:vainly.r.01		дзæгъæлы	d͡zæʁælɨ
+PWN:vainly.r.01		уæгъды	uæʁdɨ
+PWN:vein.n.01		дадзин	dad͡zin
+PWN:vein.n.01		тугдадзин	tuɡdad͡zin
+PWN:very.r.01		иттӕг	ittəɡ
+PWN:very.r.01		тынг	tɨnɡ
+PWN:victimize.v.03		асайын	asajɨn
+PWN:village.n.02		хъӕу	qəu
+PWN:violence.n.01		тыхдзинад	tɨχd͡zinad
+PWN:violence.n.01		тыхми	tɨχmi
+PWN:visible.a.01		зынын	zɨnɨn
+PWN:visit.v.07		абæрæг кæнын	abæræɡ kænɨn
+PWN:visit.v.07		бабæрæг кæнын	babæræɡ kænɨn
+PWN:visit.v.07		бауайын	bawajɨn
+PWN:voice.n.02		хъӕлӕс	qələs
+PWN:wait.v.01		ӕнхъӕлмӕ кӕсын	ənqəlmə kəsɨn
+PWN:wake_up.v.02		райхъал уын	rajqal uɨn
+PWN:walk.n.01		цыд	t͡sɨd
+PWN:walk.v.01		рацу-бацу_кӕнын	rat͡su-bat͡su kənɨn
+PWN:walk.v.01		цӕуын	t͡səwɨn
+PWN:walk.v.10		озер кæнын	ozer kænɨn
+PWN:walk.v.10		тезгъо кæнын	tezʁo kænɨn
+PWN:war.n.01		хӕст	χəst
+PWN:ware.n.01		базайраг	bazajraɡ
+PWN:warm.a.01		хъарм	qarm
+PWN:wash.v.02		хи æхсын	χi æχsɨn
+PWN:wash.v.03		ӕхсын	əχsɨn
+PWN:watch.v.01		кӕсын	kəsɨn
+PWN:water.n.06		дон	don
+PWN:water.v.01		бакалын	bakalɨn
+PWN:wave.n.01		уылӕн	wɨlən
+PWN:weak.a.01		ӕнӕбон	ənəbon
+PWN:wealth.n.01		исбон	isbon
+PWN:wealth.n.01		мулк	mulk
+PWN:wealth.n.01		хъæздыгдзинад	qæzdɨɡd͡zinad
+PWN:wear.v.09		скæнын	skænɨn
+PWN:weather.n.01		боныхъӕд	bonɨqəd
+PWN:wednesday.n.01		æртыццæг	ærtɨt͡st͡sæɡ
+PWN:week.n.01		къуыри	kʼʷɨri
+PWN:weight.n.01		уӕз	wəz
+PWN:well.n.01		цъай	t͡sʼaj
+PWN:west.n.02		ныгуылæн	nɨɡʷɨlæn
+PWN:wet.a.01		хуылыдз	χʷɨlɨd͡z
+PWN:whistle.v.03		æхситт кæнын	æχsitt kænɨn
+PWN:whistle.v.03		къуыззитт кæнын	kʼʷɨzzitt kænɨn
+PWN:white.a.01		урс	urs
+PWN:wide.a.01		фӕтӕн	fətən
+PWN:wife.n.01		ус	us
+PWN:willow.n.01		хӕрис	χəris
+PWN:win.v.01		басӕттын	basəttɨn
+PWN:win.v.01		фӕуӕлахиз уӕвын	fəwəlaχiz uəvɨn
+PWN:wind.n.01		дымгӕ	dɨmɡə
+PWN:wind.v.03		батухын	batuχɨn
+PWN:window.n.01		рудзынг	rud͡zɨnɡ
+PWN:window.n.01		фæрссаг	færssaɡ
+PWN:wing.n.01		базыр	bazɨr
+PWN:winter.n.01		зымӕг	zɨməɡ
+PWN:wipe.v.01		сӕрфын	sərfɨn
+PWN:wolf.n.01		бирӕгъ	birəʁ
+PWN:woman.n.01		сылгоймаг	sɨlɡojmaɡ
+PWN:wood.n.01		хъӕдӕрмӕг	qədərməɡ
+PWN:wool.n.02		фӕсмын	fəsmɨn
+PWN:word.n.01		дзырд	d͡zɨrd
+PWN:work.n.01		фӕллой	fəlloj
+PWN:work.v.01		кусын	kusɨn
+PWN:worker.n.01		кусæг	kusæɡ
+PWN:world.n.02		дуне	dune
+PWN:worm.n.01		зулкъ	zulkʼ
+PWN:worm.n.01		къуыдыргалм	kʼʷɨdɨrɡalm
+PWN:write.v.02		фыссын	fɨssɨn
+PWN:year.n.01		аз	az
+PWN:year.n.01		афӕдз	afəd͡z
+PWN:yellow.s.01		бур	bur
+PWN:yesterday.r.01		знон	znon
+PWN:young.a.01		ӕрыгон	ərɨɡon

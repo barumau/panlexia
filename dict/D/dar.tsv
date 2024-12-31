@@ -1,496 +1,1147 @@
 id	style	word	pronunciation
-Action:can.V		ахъри бикӏахъес	aqri bikʼaqes
-Action:can.V		имкан	imkan
-Agriculture:herd (something).V		дуки дикес	duki dikes
-Agriculture:shovel.N		аяхъ	ajaq
-Agriculture:shovel.N		кӏатӏа	kʼatʼa
-Agriculture:shovel.N		тӏумкья	tʼumqʼja
-Animal:Anatidae.N		бятӏ	bjatʼ
-Animal:Anatidae.N		бятӏ-бятӏ	bjatʼ-bjatʼ
-Animal:Annelida.N		миликъ	miliɢ
-Animal:Araneae.N		хъисхъа	qisqa
-Animal:Aves.N		арцан	art͡san
-Animal:Canis lupus familiaris.N		хя	χja
-Animal:Canis lupus.N		бецӏ	bet͡sʼ
-Animal:Corvus.N		къяна	ɢjana
-Animal:Culicidae.N		ливливак	liwliwak
-Animal:Culicidae.N		хӏуръ	ħurʔ
-Animal:Equus ferus caballus.N		урчи	urt͡ʃi
-Animal:Equus ferus caballus.N		ябу	jabu
-Animal:Felis catus.N		гата	ɡata
-Animal:Formicidae.N		имиала	imiala
-Animal:Gallus gallus domesticus.N		гӏяргӏя	ʕjarʕja
-Animal:Homo sapiens.N		адам	adam
-Animal:Ovis aries.N		чахъу	t͡ʃaqu
-Animal:Rhopalocera.N		къабулдан	ɢabuldan
-Animal:Sciuridae.N		ярма	jarma
-Animal:Serpentes.N		чӏичӏала	t͡ʃʼit͡ʃʼala
-Animal:Sus scrofa domestica.N		цура	t͡sura
-Animal:Ursidae.N		синка	sinka
-Animal:Vulpes.N		гурда	ɡurda
-Animal:animal.N		хIяйвап	χijajwap
-Animal:fish.N		балихъ	baliq
-Animal:mouse.N		ваца	wat͡sa
-Animal:wool.N		бала	bala
-Atmosphere:cloud.N		гъагул	ʁaɡul
-Atmosphere:cold.A		тяхӏуси	tjaħusi
-Atmosphere:fog.N		дирихь	dirix
-Atmosphere:rain.N		заб	zab
-Atmosphere:rain.V		дашес	daʃes
-Atmosphere:rainbow.N		зурхӏяб	zurħjab
-Atmosphere:sky.N		зак	zak
-Atmosphere:sky.N		зубри	zubri
-Atmosphere:thunder.N		къукъу	ɢuɢu
-Atmosphere:thunder.V		къукъубикӏес	ɢuɢubikʼes
-Atmosphere:weather.N		аргъ	arʁ
-Atmosphere:wind.N		дягӏ	djaʕ
-Belief:deity.N		аллагь	allah
-Belief:idol.N		куц	kut͡s
-Belief:idol.N		чебаала	t͡ʃebaala
-Belief:spirit.N		рухӏ	ruħ
-Body:arm.N		някъ	njaɢ
-Body:back.N		къакъ	ɢaɢ
-Body:beard.N		муцӏур	mut͡sʼur
-Body:belly.N		кани	kani
-Body:blood.N		хӏи	ħi
-Body:blow.V		уфикӏес	ufikʼes
-Body:body.N		кьаркьала	qʼarqʼala
-Body:bone.N		лига	liɡa
-Body:brain.N		мехӏе	meħe
-Body:breast.N		мама	mama
-Body:breath.N		гьигьикӏни	hihikʼni
-Body:breath.V		гьигьикӏес	hihikʼes
-Body:cheek.N		ляжи	ljaʒi
-Body:chest.N		михъир	miqir
-Body:chin.N		муцӏур	mut͡sʼur
-Body:ear.N		лихӏи	liħi
-Body:elbow.N		газанякъ	ɡazanjaɢ
-Body:eye.N		хӏули	ħuli
-Body:face.N		бяхӏ	bjaħ
-Body:fat.N		гӏявадеш	ʕjawadeʃ
-Body:feather.N		пухӏяла	puħjala
-Body:finger.N		тӏул	tʼul
-Body:fingernail.N		ника	nika
-Body:foot.N		кьяш	qʼjaʃ
-Body:footprint.N		асар	asar
-Body:forehead.N		анда	anda
-Body:fur.N		бала	bala
-Body:hair.N		гъез	ʁez
-Body:hand.N		някъ	njaɢ
-Body:head.N		бекӏ	bekʼ
-Body:heart.N		уркӏи	urkʼi
-Body:heel.N		кьячӏа	qʼjat͡ʃʼa
-Body:horn.N		мукеки	mukeki
-Body:jaw.N		хъяйхъяй	qjajqjaj
-Body:knee.N		кьукьа	qʼuqʼa
-Body:leg.N		кьяш	qʼjaʃ
-Body:lip.N		кӏентӏ	kʼentʼ
-Body:liver.N		печень	pet͡ʃenʲ
-Body:moustache.N		супел	supel
-Body:mouth.N		кьак	qʼak
-Body:nail.N		ника	nika
-Body:nape.N		хъянтӏа	qjantʼa
-Body:navel.N		чӏиличӏа	t͡ʃʼilit͡ʃʼa
-Body:neck.N		хъяб	qjab
-Body:nose.N		къянкъ	ɢjanɢ
-Body:obese.A		гӏявадешлизибад барибси	ʕjawadeʃlizibad baribsi
-Body:obese.A		гӏяваси	ʕjawasi
-Body:obese.A		цӏерхьси	t͡sʼerxsi
-Body:palm.N		хъат	qat
-Body:shoulder.N		хъуцӏари	qut͡sʼari
-Body:skin.N		кули	kuli
-Body:stomach.N		къикъя	ɢiɢja
-Body:tail.N		къуйрукъ	ɢujruɢ
-Body:tear.N		бисала кӏаитӏ	bisala kʼaitʼ
-Body:tendon.N		лапи	lapi
-Body:throat.N		сурс-кьакьари	surs-qʼaqʼari
-Body:toe.N		гумул	ɡumul
-Body:tongue.N		лезми	lezmi
-Body:tongue.N		мез	mez
-Body:tongue.N		миз	miz
-Body:tooth.N		цула	t͡sula
-Body:upper leg.N		урдур	urdur
-Body:vein.N		тум	tum
-Body:wing.N		дукала	dukala
-Body:wound.N		дяхъи	djaqi
-Building:board.N		уркьули	urqʼuli
-Building:build.V		лушес	luʃes
-Building:door.N		унза	unza
-Building:floor.N		жинс	ʒins
-Building:floor.N		чӏябар	t͡ʃʼjabar
-Building:gate.N		къапу	ɢapu
-Building:house.N		хъали	qali
-Building:post.N		чӏалхьа	t͡ʃʼalxa
-Building:roof.N		хъалч	qalt͡ʃ
-Building:window.N		улкьай	ulqʼaj
-Cleaning:broom.N		бушкала	buʃkala
-Cleaning:clean (sth).V		умубирес	umubires
-Cleaning:clean.A		умуси	umusi
-Cleaning:dirt.N		чярт	t͡ʃjart
-Cleaning:dirty.A		чаьтси	t͡ʃaʲtsi
-Cleaning:sweep.V		бушкес	buʃkes
-Cleaning:wash (oneself).V		бирцес	birt͡ses
-Cleaning:wash.V		бирцес	birt͡ses
-Cleaning:wipe.V		бушкес	buʃkes
-Clothing:belt.N		ири	iri
-Clothing:belt.N		камал	kamal
-Clothing:boot.N		чакма	t͡ʃakma
-Clothing:button.N		хъапа	qapa
-Clothing:cap.N		кьапӏа	qʼapʼa
-Clothing:cloth.N		чӏянкӏи	t͡ʃʼjankʼi
-Clothing:clothes.N		палтар	paltar
-Clothing:collar.N		хъаьбцӏари	qaʲbt͡sʼari
-Clothing:dress up.V		палтар чегьес	paltar t͡ʃehes
-Clothing:leather.N		дабагъ	dabaʁ
-Clothing:naked.A		чӏянкӏуси	t͡ʃʼjankʼusi
-Clothing:needle.N		буреба	bureba
-Clothing:put on.V		чегьес	t͡ʃehes
-Clothing:scarf or turban.N		кӏана	kʼana
-Clothing:sew.V		ибес	ibes
-Clothing:shirt.N		хӏева	ħewa
-Clothing:sleeve.N		дулгъа	dulʁa
-Clothing:sleeve.N		хӏеркӏла кьяли	ħerkʼla qʼjali
-Clothing:thread.N		гьимир	himir
-Clothing:thread.N		чӏи	t͡ʃʼi
-Clothing:towel.N		дяхӏушкан	djaħuʃkan
-Clothing:trousers.N		шалбар	ʃalbar
-Clothing:undress.V		чеббатес	t͡ʃebbates
-Cognition:familiar.A		бахъли валуси	baqli walusi
-Cognition:familiar.A		гапла	ɡapla
-Cognition:truth.N		мар	mar
-Cognition:wake up (tr).V		чеваргъахъес	t͡ʃewarʁaqes
-Cognition:wake up.V		чеваргъес	t͡ʃewarʁes
-Combat:brawl.V		бирхӏес	birħes
-Combat:fight.N		мушул вашни	muʃul waʃni
-Combat:strike (sb).V		бяхъес	bjaqes
-Combat:strike (sb).V		игьес	ihes
-Combat:strike (sb).V		чевхъес	t͡ʃewqes
-Combat:strike (sb).V		чегахъес	t͡ʃeɡaqes
-Combat:strike (sb).V		чичи-биалра хапли халаси асар барес	t͡ʃit͡ʃi-bialra χapli χalasi asar bares
-Combat:violence.N		зулму	zulmu
-Combat:win.V		ахъес	aqes
-Combat:win.V		къиян жапа черардукес	ɢijan ʒapa t͡ʃerardukes
-Combat:win.V		чедибдеш сархес	t͡ʃedibdeʃ sarχes
-Communication:boast.V		пӏягъикӏес	pʼjaʁikʼes
-Communication:boast.V		сунечи сай гапикӏес	sunet͡ʃi saj ɡapikʼes
-Communication:book.N		табтар	tabtar
-Communication:call.V		жибирес	ʒibires
-Communication:chat.V		ихтилатикӏес	iχtilatikʼes
-Communication:chat.V		лякьирикӏес	ljaqʼirikʼes
-Communication:convey (a message).V		бетаахъес	betaaqes
-Communication:convey (a message).V		бурес	bures
-Communication:convey (a message).V		эс	es
-Communication:fairy tale.N		хабар	χabar
-Communication:kiss.V		байикӏес	bajikʼes
-Communication:kiss.V		уммайдирес	ummajdires
-Communication:language.N		мез	mez
-Communication:letter.N		кагъар	kaʁar
-Communication:lie.N		къяна	ɢjana
-Communication:news.N		хабар	χabar
-Communication:newspaper.N		газат	ɡazat
-Communication:talk.V		гъайикIес	ʁajikijes
-Communication:tell.V		хабар бурес	χabar bures
-Communication:translate.V		шурбатес	ʃurbates
-Communiction:call.N		вяв	wjaw
-Communiction:call.N		жи	ʒi
-Cosmos:Sun.N		бархӏи	barħi
-Cosmos:moon.N		бац	bat͡s
-Cosmos:star.N		зубари	zubari
-Cosmos:star.N		ури	uri
-Degree:very.ADV		дебали	debali
-Degree:very.ADV		цӏакьли	t͡sʼaqʼli
-Element:Ag.N		арц	art͡s
-Element:Au.N		мургьи	murhi
-Element:Fe.N		мегь	meh
-Emotion:be angry.V		гӏясивирес	ʕjasiwires
-Emotion:cry.V		висес	wises
-Emotion:evil.A		гIясиси	ɡijasisi
-Emotion:fear.V		урухирес	uruχires
-Emotion:gentle.A		хIялимси	χijalimsi
-Emotion:grief.N		дард	dard
-Emotion:happiness.N		игъбар	iʁbar
-Emotion:like.V		гIях1Iбилзес	ɡijaχɨibilzes
-Emotion:like.V		кьабулбиркес	qʼabulbirkes
-Emotion:longing.N		иштяхӏ	iʃtjaħ
-Emotion:love.V		дигахъес	diɡaqes
-Emotion:love.V		дигес	diɡes
-Emotion:merry.A		разиси	razisi
-Emotion:move.V		уркIецIидухъахъес	urkijet͡siiduqaqes
-Emotion:move.V		уркIиличи асарбарес	urkiilit͡ʃi asarbares
-Emotion:sad.A		пашманси	paʃmansi
-Emotion:want.V		бигахъес	biɡaqes
-Family:aunt.N		дудешла я нешла рузи	dudeʃla ja neʃla ruzi
-Family:brother.N		узи	uzi
-Family:daughter.N		рурси	rursi
-Family:family.N		хъалибарг	qalibarɡ
-Family:father.N		ада	ada
-Family:father.N		дудеш	dudeʃ
-Family:grandfather.N		хала дудеш	χala dudeʃ
-Family:grandmother.N		хала неш	χala neʃ
-Family:husband.N		мурул	murul
-Family:mother.N		аба	aba
-Family:parents.N		ада аба	ada aba
-Family:parents.N		бегӏти	beʕti
-Family:parents.N		неш-дудеш	neʃ-dudeʃ
-Family:sister.N		рузи	ruzi
-Family:son.N		урши	urʃi
-Family:uncle.N		абадги	abadɡi
-Family:uncle.N		абаузи	abauzi
-Family:uncle.N		авадзи	awad͡zi
-Family:uncle.N		ададзи	adad͡zi
-Family:uncle.N		адаузи	adauzi
-Family:uncle.N		изи	izi
-Family:wife.N		хьунул	xunul
-Food:Camellia sinensis.N		чай	t͡ʃaj
-Food:Camellia sinensis.N		чайла кьар	t͡ʃajla qʼar
-Food:Malus domestica.N		гӏинц	ʕint͡s
-Food:NaCl.N		зе	ze
-Food:bake.V		берцIес	bert͡sijes
-Food:bread.N		кацӏ	kat͡sʼ
-Food:soup.N		нергъ	nerʁ
-Food:spoon.N		кьулса	qʼulsa
-Form:bend (sth).V		балкӏахъес	balkʼaqes
-Form:bend (sth).V		къямаэс	ɢjamaes
-Form:bend.V		балкӏахъес	balkʼaqes
-Form:bend.V		къямаэс	ɢjamaes
-Function:1PL.PRO		нуша	nuʃa
-Function:1SG.PRO		нуни	nuni
-Function:2PL.PRO		хӏуша	ħuʃa
-Function:2PL.PRO		хӏушани	ħuʃani
-Function:2SG.PRO		хӏу	ħu
-Function:2SG.PRO		хӏуни	ħuni
-Function:3PL.PRO		илди	ildi
-Function:3PL.PRO		итди	itdi
-Function:3PL.PRO		ихди	iχdi
-Function:3PL.PRO		ишди	iʃdi
-Function:3SG M.PRO		ит	it
-Function:and.CNJ		ва	wa
-Function:here.ADV		ишаб	iʃab
-Function:how many.PRO		сецад	set͡sad
-Function:how many.PRO		чум	t͡ʃum
-Function:how.PRO		се тяхӏярли	se tjaħjarli
-Function:how.PRO		сен-сен	sen-sen
-Function:not.PTCL		агара	aɡara
-Function:not.PTCL		гьеч	het͡ʃ
-Function:not.PTCL		хӏя	ħja
-Function:not.PTCL		юх	juχ
-Function:other.PRO		декӏарси	dekʼarsi
-Function:there.ADV		икӏаб	ikʼab
-Function:there.ADV		ихаб	iχab
-Function:what.PRO		се	se
-Function:where.PRO		чинаб	t͡ʃinab
-Function:where.PRO		чинаба	t͡ʃinaba
-Function:who.PRO		чи	t͡ʃi
-Function:why.PRO		се багьандан	se bahandan
-Function:why.PRO		сен	sen
-Grooming:comb.V		хъарсбарес	qarsbares
-Grooming:decorate.V		жагабарес	ʒaɡabares
-Grooming:decorate.V		къугъабарес	ɢuʁabares
-Grooming:mirror.N		дяхӏимцӏала	djaħimt͡sʼala
-Grooming:ring.N		къаш чебси тӏулека	ɢaʃ t͡ʃebsi tʼuleka
-Handiwork:glue.V		балсес	balses
-Handiwork:glue.V		чебалсес	t͡ʃebalses
-Handiwork:nail.N		гӏябул	ʕjabul
-Handiwork:repair.V		балбирес	balbires
-Handiwork:ware.N		мас	mas
-Health:become sick.V		изес	izes
-Health:disease.N		изала	izala
-Health:fever.N		ружери	ruʒeri
-Health:healthy.A		арадеш	aradeʃ
-Health:medicine.N		дарман	darman
-Health:physician.N		тухтур	tuχtur
-Health:recover.V		гӏяхӏбухъес	ʕjaħbuqes
-Health:recover.V		хатӏа гьарбарес	χatʼa harbares
-House:bed.N		калхьуси тах	kalxusi taχ
-House:bed.N		кровать	krowatʲ
-House:blanket.N		юргъан	jurʁan
-House:pillow.N		гӏянала	ʕjanala
-House:table.N		кьумур	qʼumur
-House:table.N		стол	stol
-Hunting:bow.N		урги-дерга	urɡi-derɡa
-Hunting:fishing.V		бялихъуна урцес	bjaliquna urt͡ses
-Hunting:hunt.V		ггӏяяр вашес	ɡʕjajar waʃes
-Integrity:part.N		кесек	kesek
-Integrity:part.N		пай	paj
-Integrity:piece.N		кесек	kesek
-Interaction:choose.V		биркIес	birkijes
-Interaction:rescue.V		верцахъес	wert͡saqes
-Mind:dream.N		муэр	muer
-Mind:dream.N		муэрти	muerti
-Motion:bring.V		кабухес	kabuχes
-Motion:bring.V		хес	χes
-Motion:catch.V		буцес	but͡ses
-Motion:climb.V		айцIес	ajt͡sijes
-Motion:come back.V		чар арес	t͡ʃar ares
-Motion:come back.V		чар иэс	t͡ʃar ies
-Motion:come.V		бакӏес	bakʼes
-Motion:creep.V		хъусли вашес	qusli waʃes
-Motion:drop (something).V		кабикахъес	kabikaqes
-Motion:enter.V		ацӏес	at͡sʼes
-Motion:enter.V		ухӏнаухъес	uħnauqes
-Motion:fall.V		кабиркес	kabirkes
-Motion:fly.V		урцес	urt͡ses
-Motion:go.V		вашес	waʃes
-Motion:leave.V		арукьес	aruqʼes
-Motion:leave.V		тяйдииэс	tjajdiies
-Motion:lift.V		ахъбуцес	aqbut͡ses
-Motion:move (oneself).V		башес	baʃes
-Motion:raise.V		ахъбуцес	aqbut͡ses
-Motion:step.V		ганзикӏес	ɡanzikʼes
-Motion:swing (sth).V		гьакӏикӏес	hakʼikʼes
-Motion:swing.V		гьакӏикӏес	hakʼikʼes
-Motion:take a walk.V		шадив вашес	ʃadiw waʃes
-Motion:turn (sth).V		шуратес	ʃurates
-Motion:turn (sth).V		шурухъес	ʃuruqes
-Motion:walk.N		бузии	buzii
-Motion:walk.N		ганз	ɡanz
-Motion:walk.N		имцӏабикӏни	imt͡sʼabikʼni
-Music:sing.V		бучӏес	but͡ʃʼes
-Music:sing.V		далайбикӏес	dalajbikʼes
-Music:sing.V		далайирес	dalajires
-Music:song.N		далай	dalaj
-Music:tone.N		тӏама	tʼama
-Nature:river.N		хӏеркӏ	ħerkʼ
-Nature:sea.N		урхьу	urxu
-Nature:shore of lake.N		дуб	dub
-Nature:slope.N		бяхӏ	bjaħ
-Nature:slope.N		катруг	katruɡ
-People:boy.N		дурхӏя	durħja
-People:boy.N		урши	urʃi
-People:child.N		дурхӏя	durħja
-People:child.N		хъяша	qjaʃa
-People:girl.N		риштӏаси рурси	riʃtʼasi rursi
-People:man.N		мурул	murul
-People:man.N		мурул адам	murul adam
-People:people.N		адамти	adamti
-People:woman.N		хьунул	xunul
-Perception:feel.V		иргъес	irʁes
-Perception:hear.V		бикьес	biqʼes
-Perception:pain.N		изала	izala
-Perception:pain.N		челукьан	t͡ʃeluqʼan
-Perception:touch.V		асарбарес	asarbares
-Perception:wet.A		шинкӏаси	ʃinkʼasi
-Perception:yellow.A		бухъутӏа	buqutʼa
-Plant:Betula.N		махъ	maq
-Plant:bark.N		гӏянкӏа	ʕjankʼa
-Plant:branch.N		кьяли	qʼjali
-Plant:flower.N		вава	wawa
-Plant:leaf.N		кӏапӏи	kʼapʼi
-Plant:root.N		мякь	mjaqʼ
-Plant:root.N		хӏячи	ħjat͡ʃi
-Plant:seed.N		цӏули	t͡sʼuli
-Plant:tree.N		галга	ɡalɡa
-Plant:twig.N		кьяли	qʼjali
-Possession:gift.N		савгъат	sawʁat
-Possession:poor.A		мискин	miskin
-Possession:price.N		кьимат	qʼimat
-Possession:rich.A		давлачевси	dawlat͡ʃewsi
-Possession:sell.V		бицес	bit͡ses
-Quantity:1.NUM		ца	t͡sa
-Quantity:10.NUM		вецӏал	wet͡sʼal
-Quantity:100.NUM		даршал	darʃal
-Quantity:1000.NUM		азир	azir
-Quantity:11.NUM		вецIну цара	wet͡sinu t͡sara
-Quantity:12.NUM		вецIнукIел	wet͡sinukijel
-Quantity:2.NUM		кӏел	kʼel
-Quantity:20.NUM		гъал	ʁal
-Quantity:3.NUM		хIаьбал	χiaʲbal
-Quantity:30.NUM		хIаьб цIали	χiaʲb t͡siali
-Quantity:4.NUM		авал	awal
-Quantity:40.NUM		авцӏали	awt͡sʼali
-Quantity:5.NUM		шел	ʃel
-Quantity:50.NUM		шу цIали	ʃu t͡siali
-Quantity:6.NUM		урегал	ureɡal
-Quantity:60.NUM		урез цIали	urez t͡siali
-Quantity:7.NUM		верхIал	werχial
-Quantity:70.NUM		верхI цIали	werχi t͡siali
-Quantity:8.NUM		гехIал	ɡeχial
-Quantity:80.NUM		гехI цIали	ɡeχi t͡siali
-Quantity:9.NUM		урчIемал	urt͡ʃijemal
-Quantity:90.NUM		учIем цIали	ut͡ʃijem t͡siali
-Quantity:a little.A		кам-камти	kam-kamti
-Quantity:add.V		чеимцӏабарес	t͡ʃeimt͡sʼabares
-Quantity:decrease.V		камбиес	kambijes
-Quantity:decrease.V		къантӏбиэс	ɢantʼbies
-Quantity:empty.A		бацIси	bat͡sisi
-Quantity:fill.V		бицӏахъес	bit͡sʼaqes
-Quantity:full.A		бицIибси	bit͡siibsi
-Society:help.N		икьала	iqʼala
-Society:help.N		кумек	kumek
-Society:people.N		халкь	χalqʼ
-Sound:chime.V		занкъбикIес	zanɢbikijes
-Sound:chime.V		зингъбикIес	zinʁbikijes
-Sound:chime.V		зингъбухъес	zinʁbuqes
-Sound:chime.V		зинкъбикIес	zinɢbikijes
-Sound:laugh.N		дукелцӏи	dukelt͡sʼi
-Sound:laugh.V		дукаркӏес	dukarkʼes
-Sound:make noise.V		гӏялагъяжавикӏес	ʕjalaʁjaʒawikʼes
-Sound:make noise.V		тӏамравиркьес	tʼamrawirqʼes
-Sound:shout.V		вявикӏес	wjawikʼes
-Sound:sound (of instrument or voice).V		зайбикӏес	zajbikʼes
-Sound:sound (of instrument or voice).V		тӏамалибиркьес	tʼamalibirqʼes
-Sound:voice.N		тӏама	tʼama
-Sound:whistle.V		шятӏикӏес	ʃjatʼikʼes
-Space:back.ADV		гӏелабяхӏ	ʕelabjaħ
-Space:back.ADV		уб	ub
-Space:back.ADV		ургӏебли	urʕebli
-Space:wide.A		бягӏуси	bjaʕusi
-Storage:bag.N		тавра	tawra
-Storage:box.N		тӏакьа	tʼaqʼa
-Storage:box.N		ящик	jaɕːik
-Storage:heap.N		бекӏа	bekʼa
-Storage:lid.N		чебхьла	t͡ʃebxla
-Storage:load.N		декӏдеш	dekʼdeʃ
-Storage:misplace.V		бетахъахъес	betaqaqes
-Storage:pouch.N		гавлаг	ɡawlaɡ
-Storage:sack.N		гавлаг	ɡawlaɡ
-Time:April.N		апрель	aprelʲ
-Time:August.N		август	awɡust
-Time:December.N		декабрь	dekabrʲ
-Time:February.N		февраль	fewralʲ
-Time:January.N		январь	janwarʲ
-Time:July.N		июль	ijulʲ
-Time:June.N		июнь	ijunʲ
-Time:March.N		март	mart
-Time:May.N		май	maj
-Time:November.N		ноябрь	nojabrʲ
-Time:October.N		октябрь	oktjabrʲ
-Time:September.N		сентябрь	sentjabrʲ
-Time:age.N		гӏямру	ʕjamru
-Time:already.ADV		жявлил	ʒjawlil
-Time:always.ADV		даим	daim
-Time:autumn.N		гӏебшни	ʕebʃni
-Time:final.A		бегӏла гӏергъиси	beʕla ʕerʁisi
-Time:month.N		баз	baz
-Time:never.ADV		сезаманалра	sezamanalra
-Time:new.A		сагаси	saɡasi
-Time:night.N		дуги	duɡi
-Time:now.ADV		бусягӏят	busjaʕjat
-Time:now.ADV		гьанна	hanna
-Time:often.ADV		гьаман	haman
-Time:old (of person).A		бухъна	buqna
-Time:old.A		буркьа	burqʼa
-Time:one time.ADV		гьачам	hat͡ʃam
-Time:pass.V		арбукьес	arbuqʼes
-Time:pass.V		ахъес	aqes
-Time:pass.V		таманбиэс	tamanbies
-Time:pass.V		шалгӏеббухъес	ʃalʕebbuqes
-Time:springtime.N		хӏеб	ħeb
-Time:still.ADV		гьатӏнра	hatʼnra
-Time:still.ADV		гьачамлис	hat͡ʃamlis
-Time:still.ADV		гӏурра	ʕurra
-Time:summer.N		дуцӏрум	dut͡sʼrum
-Time:time.N		замана	zamana
-Time:today.ADV		ишбархӏи	iʃbarħi
-Time:tomorrow.ADV		жагӏял	ʒaʕjal
-Time:wait.V		хӏерли кайэс	ħerli kajes
-Time:winter.N		яни	jani
-Time:year.N		дус	dus
-Time:yesterday.ADV		даг	daɡ
-Transit:boat.N		къаякъ	ɢajaɢ
-Transit:boat.N		лодка	lodka
-Transit:oar.N		шалхъа	ʃalqa
-Transit:road.N		гьуни	huni
-Value:bad.A		вайси	wajsi
-Value:good.A		гӏяхӏси	ʕjaħsi
-Value:improve.V		ункъбарес	unɢbares
+PLX:1PL.pro		нуша	nuʃa
+PLX:1SG.pro		нуни	nuni
+PLX:2PL.pro		хӏуша	ħuʃa
+PLX:2PL.pro		хӏушани	ħuʃani
+PLX:2SG.pro		хӏу	ħu
+PLX:2SG.pro		хӏуни	ħuni
+PLX:3PL.pro		илди	ildi
+PLX:3PL.pro		итди	itdi
+PLX:3PL.pro		ихди	iχdi
+PLX:3PL.pro		ишди	iʃdi
+PLX:3SG M.pro		ит	it
+PLX:and.cnj		ва	wa
+PLX:because of.adp		багьандан	bahandan
+PLX:because of.adp		сабабли	sababli
+PLX:behind.adp		гӏелаб	ʕelab
+PLX:behind.adp		гӏелабад	ʕelabad
+PLX:beside.adp		мякьлаб	mjaqʼlab
+PLX:can.v		ахъри бикӏахъес	aqri bikʼaqes
+PLX:can.v		имкан	imkan
+PLX:die (from accident).V		вебкӏес	webkʼes
+PLX:die (from accident).V		вегъес	weʁes
+PLX:everywhere.pro		гьар мерлаб	har merlab
+PLX:everywhere.pro		гьар-чинабалра	har-t͡ʃinabalra
+PLX:from here.adv		ишадли	iʃadli
+PLX:get sick.V		изес	izes
+PLX:how many.pro		сецад	set͡sad
+PLX:how many.pro		чум	t͡ʃum
+PLX:how.pro		се тяхӏярли	se tjaħjarli
+PLX:how.pro		сен-сен	sen-sen
+PLX:in front of.adp		гьала	hala
+PLX:in front of.adp		гьалаб	halab
+PLX:in front of.adp		мякьлаб	mjaqʼlab
+PLX:under.adp		гьала	hala
+PLX:under.adp		гьалаб	halab
+PLX:under.adp		у	u
+PLX:under.adp		уди	udi
+PLX:under.adp		урга	urɡa
+PLX:what.pro		се	se
+PLX:where.pro		чинаб	t͡ʃinab
+PLX:where.pro		чинаба	t͡ʃinaba
+PLX:where_to.pro		селис	selis
+PLX:where_to.pro		чина	t͡ʃina
+PLX:who.pro		чи	t͡ʃi
+PLX:why.pro		се багьандан	se bahandan
+PLX:why.pro		сен	sen
+PWN:abdomen.n.01		кани	kani
+PWN:act.v.02		бетарахъес	betaraqes
+PWN:act.v.02		бирес	bires
+PWN:act.v.02		узес	uzes
+PWN:add.v.01		чеимцӏабарес	t͡ʃeimt͡sʼabares
+PWN:address.n.03		гъай	ʁaj
+PWN:affect.v.05		уркIецIидухъахъес	urkijet͡siiduqaqes
+PWN:affect.v.05		уркIиличи асарбарес	urkiilit͡ʃi asarbares
+PWN:again.r.01		гӏурра	ʕurra
+PWN:age.n.01		гӏямру	ʕjamru
+PWN:ahead.r.03		гьалабяхӏ	halabjaħ
+PWN:aid.n.02		икьала	iqʼala
+PWN:aid.n.02		кумек	kumek
+PWN:air.n.01		гьава	hawa
+PWN:alive.a.01		мицӏирси	mit͡sʼirsi
+PWN:all.a.01		ши	ʃi
+PWN:allege.v.01		эс	es
+PWN:alone.r.02		вегIла цIакьаначил	weɡila t͡siaqʼanat͡ʃil
+PWN:already.r.01		жявлил	ʒjawlil
+PWN:always.r.01		даим	daim
+PWN:anger.v.01		гӏясивирахъес	ʕjasiwiraqes
+PWN:anger.v.02		гӏясивирес	ʕjasiwires
+PWN:animal.n.01		хIяйвап	χijajwap
+PWN:animation.n.01		гӏямру	ʕjamru
+PWN:ant.n.01		имиала	imiala
+PWN:apparel.n.01		палтар	paltar
+PWN:apple.n.01		гӏинц	ʕint͡s
+PWN:april.n.01		апрель	aprelʲ
+PWN:apt.s.03		духуси	duχusi
+PWN:area.n.01		мер-муса	mer-musa
+PWN:arise.v.03		азес	azes
+PWN:arm.n.01		някъ	njaɢ
+PWN:arrive.v.01		бакӏес	bakʼes
+PWN:arrow.n.02		урги	urɡi
+PWN:ash.n.01		палда	palda
+PWN:ask.v.02		тиладиикӏес	tiladiikʼes
+PWN:ask.v.05		хьарбаэс	xarbaes
+PWN:august.n.01		август	awɡust
+PWN:aunt.n.01		дудешла я нешла рузи	dudeʃla ja neʃla ruzi
+PWN:awaken.v.01		чеваргъахъес	t͡ʃewarʁaqes
+PWN:back.n.01		къакъ	ɢaɢ
+PWN:back.r.01		гӏелабяхӏ	ʕelabjaħ
+PWN:back.r.01		уб	ub
+PWN:back.r.01		ургӏебли	urʕebli
+PWN:back.r.02		ургӏебли	urʕebli
+PWN:bad.a.01		вайси	wajsi
+PWN:bag.n.01		тавра	tawra
+PWN:bake.v.02		берцIес	bert͡sijes
+PWN:bare.s.01		чӏянкӏуси	t͡ʃʼjankʼusi
+PWN:bark.n.01		гӏянкӏа	ʕjankʼa
+PWN:bark.v.04		гъямбикӏес	ʁjambikʼes
+PWN:battle.n.01		мушул вашни	muʃul waʃni
+PWN:bay.n.01		бухта	buχta
+PWN:be_born.v.01		акӏес	akʼes
+PWN:bear.n.01		синка	sinka
+PWN:beard.n.01		муцӏур	mut͡sʼur
+PWN:beautiful.a.01		жагаси	ʒaɡasi
+PWN:become.v.01		етаэс	jetaes
+PWN:bed.n.01		калхьуси тах	kalxusi taχ
+PWN:bed.n.01		кровать	krowatʲ
+PWN:begin.v.03		вехӏихьес	weħixes
+PWN:believe.v.01		вирхарес	wirχares
+PWN:beloved.s.01		гӏязизси	ʕjazizsi
+PWN:beloved.s.01		гӏяхӏси	ʕjaħsi
+PWN:beloved.s.01		дяхӏшаласи	djaħʃalasi
+PWN:belt.n.02		ири	iri
+PWN:belt.n.02		камал	kamal
+PWN:bend.v.01		балкӏахъес	balkʼaqes
+PWN:bend.v.01		къямаэс	ɢjamaes
+PWN:benefit.n.02		хайри	χajri
+PWN:berry.n.01		кьарла цӏедеш	qʼarla t͡sʼedeʃ
+PWN:better.v.02		ункъбарес	unɢbares
+PWN:between.r.02		урга	urɡa
+PWN:between.r.02		ургаб	urɡab
+PWN:birch.n.02		махъ	maq
+PWN:bird.n.01		арцан	art͡san
+PWN:bite.v.01		дурхъали биэс	durqali bies
+PWN:bite.v.01		кьацӏбилкес	qʼat͡sʼbilkes
+PWN:bitter.s.06		кьутӏкьуси	qʼutʼqʼusi
+PWN:black.a.01		цӏудара	t͡sʼudara
+PWN:blade.n.01		кӏапӏи	kʼapʼi
+PWN:blanket.n.01		юргъан	jurʁan
+PWN:blind.a.01		сукъур	suɢur
+PWN:blood.n.01		хӏи	ħi
+PWN:blow.v.01		уфикӏес	ufikʼes
+PWN:blue.s.01		хьанцӏа	xant͡sʼa
+PWN:blunt.s.02		къакси	ɢaksi
+PWN:board.n.02		уркьули	urqʼuli
+PWN:boast.v.01		пӏягъикӏес	pʼjaʁikʼes
+PWN:boast.v.01		сунечи сай гапикӏес	sunet͡ʃi saj ɡapikʼes
+PWN:boat.n.01		къаякъ	ɢajaɢ
+PWN:boat.n.01		лодка	lodka
+PWN:body.n.01		кьаркьала	qʼarqʼala
+PWN:boil.v.01		руржес	rurʒes
+PWN:boil.v.01		хъярбикӏес	qjarbikʼes
+PWN:boil.v.03		руржес	rurʒes
+PWN:bone.n.01		лига	liɡa
+PWN:book.n.01		табтар	tabtar
+PWN:boot.n.01		чакма	t͡ʃakma
+PWN:botch.v.01		заябарес	zajabares
+PWN:boundary_line.n.01		дазу	dazu
+PWN:bow.n.04		урги-дерга	urɡi-derɡa
+PWN:box.n.01		тӏакьа	tʼaqʼa
+PWN:box.n.01		ящик	jaɕːik
+PWN:brain.n.01		мехӏе	meħe
+PWN:branch.n.02		кьяли	qʼjali
+PWN:branchlet.n.01		кьяли	qʼjali
+PWN:brawl.v.01		бирхӏес	birħes
+PWN:bread.n.01		кацӏ	kat͡sʼ
+PWN:break.v.05		баьлчес	baʲlt͡ʃes
+PWN:break.v.05		бургIаьс	burɡiaʲs
+PWN:breast.n.02		мама	mama
+PWN:breath.n.02		гьигьикӏни	hihikʼni
+PWN:breathe.v.01		гьигьикӏес	hihikʼes
+PWN:bridge.n.01		гуми	ɡumi
+PWN:bright.a.01		шаласи	ʃalasi
+PWN:bring.v.01		кабухес	kabuχes
+PWN:bring.v.01		хес	χes
+PWN:broom.n.01		бушкала	buʃkala
+PWN:brother.n.01		узи	uzi
+PWN:brow.n.01		анда	anda
+PWN:bull.n.01		унц	unt͡s
+PWN:bundle.n.02		бергари	berɡari
+PWN:burn.v.03		ухес	uχes
+PWN:burn.v.07		бигес	biɡes
+PWN:butter.n.01		гӏявадеш	ʕjawadeʃ
+PWN:butterfly.n.01		къабулдан	ɢabuldan
+PWN:button.n.01		хъапа	qapa
+PWN:buy.v.01		асес	ases
+PWN:calendar_month.n.01		баз	baz
+PWN:call.v.05		жибирес	ʒibires
+PWN:campfire.n.01		цӏа	t͡sʼa
+PWN:cap.n.01		кьапӏа	qʼapʼa
+PWN:cat.n.01		гата	ɡata
+PWN:catch.v.04		буцес	but͡ses
+PWN:cause.n.01		гӏянжи	ʕjanʒi
+PWN:cave.n.01		иникъ	iniɢ
+PWN:cavil.v.01		биргес	birɡes
+PWN:center.n.01		бай	baj
+PWN:chair.n.01		ута	uta
+PWN:character.n.08		хӏярп	ħjarp
+PWN:cheap.a.01		дургӏеси	durʕesi
+PWN:cheek.n.01		ляжи	ljaʒi
+PWN:cherished.s.01		гӏяхӏси	ʕjaħsi
+PWN:cherished.s.01		дурхъаси	durqasi
+PWN:cherished.s.01		кьиматчебси	qʼimatt͡ʃebsi
+PWN:chicken.n.02		гӏяргӏя	ʕjarʕja
+PWN:child.n.01		дурхӏя	durħja
+PWN:child.n.01		хъяша	qjaʃa
+PWN:chin.n.01		муцӏур	mut͡sʼur
+PWN:choose.v.01		биркIес	birkijes
+PWN:church.n.02		киласа	kilasa
+PWN:circle.n.03		мява	mjawa
+PWN:citizenry.n.01		халкь	χalqʼ
+PWN:claw.n.01		иика	iika
+PWN:claw.n.01		кьялши	qʼjalʃi
+PWN:clean.a.01		умуси	umusi
+PWN:clean.v.01		умубирес	umubires
+PWN:climb.v.01		айцIес	ajt͡sijes
+PWN:close.v.01		кьаьпIбарес	qʼaʲpibares
+PWN:cloud.n.02		гъагул	ʁaɡul
+PWN:coal.n.01		га	ɡa
+PWN:cock.n.04		дагъа	daʁa
+PWN:cold.a.01		бугӏярси	buʕjarsi
+PWN:cold.a.01		тяхӏуси	tjaħusi
+PWN:coldness.n.03		бугӏярдеш	buʕjardeʃ
+PWN:collar.n.01		хъаьбцӏари	qaʲbt͡sʼari
+PWN:colorful.a.01		хъула	qula
+PWN:comb.v.01		хъарсбарес	qarsbares
+PWN:commend.v.01		гапирес	ɡapires
+PWN:companion.n.01		гьалмагъ	halmaʁ
+PWN:companion.n.01		уртахъ	urtaq
+PWN:company.n.03		къушум	ɢuʃum
+PWN:company.n.03		кьукья	qʼuqʼja
+PWN:complete.v.01		таманбарес	tamanbares
+PWN:connect.v.01		бигьес	bihes
+PWN:construct.v.01		лушес	luʃes
+PWN:conversation.n.01		ихIилат	iχiilat
+PWN:converse.v.01		ихтилатикӏес	iχtilatikʼes
+PWN:converse.v.01		лякьирикӏес	ljaqʼirikʼes
+PWN:convey.v.01		бетаахъес	betaaqes
+PWN:convey.v.01		бурес	bures
+PWN:convey.v.01		эс	es
+PWN:corner.n.03		гӏямзи	ʕjamzi
+PWN:corner.n.03		мер-муса	mer-musa
+PWN:corpulent.s.01		гӏявадешлизибад барибси	ʕjawadeʃlizibad baribsi
+PWN:corpulent.s.01		гӏяваси	ʕjawasi
+PWN:corpulent.s.01		цӏерхьси	t͡sʼerxsi
+PWN:correctly.r.01		бархьси	barxsi
+PWN:count.n.01		кьадар	qʼadar
+PWN:count.v.01		буйгӏес	bujʕes
+PWN:cover.v.01		кIапIбарес	kiapibares
+PWN:cow.n.01		кьял	qʼjal
+PWN:crane.n.05		къургъ	ɢurʁ
+PWN:crawl.v.01		хъусли вашес	qusli waʃes
+PWN:crisscross.n.01		къанч	ɢant͡ʃ
+PWN:crow.n.01		къяна	ɢjana
+PWN:cry.n.01		вяв	wjaw
+PWN:cry.n.01		жи	ʒi
+PWN:cry.v.02		висес	wises
+PWN:cuckoo.n.02		гегуг	ɡeɡuɡ
+PWN:cup.n.01		сукура	sukura
+PWN:current.n.02		чяхӏбикӏни	t͡ʃjaħbikʼni
+PWN:cut.v.01		кьисбирес	qʼisbires
+PWN:damage.n.01		зарал	zaral
+PWN:damage.v.01		зарал барес	zaral bares
+PWN:damage.v.01		заябарес	zajabares
+PWN:damp.s.01		хӏябцси	ħjabt͡ssi
+PWN:dance.v.02		улхъес	ulqes
+PWN:dark.a.01		цӏябси	t͡sʼjabsi
+PWN:daughter.n.01		рурси	rursi
+PWN:day.n.01		бархӏи	barħi
+PWN:deaf.a.01		гӏянцӏа	ʕjant͡sʼa
+PWN:death.n.01		бебкӏа	bebkʼa
+PWN:deceive.v.01		къаьнаугъес	ɢaʲnauʁes
+PWN:december.n.01		декабрь	dekabrʲ
+PWN:decompose.v.03		берхӏес	berħes
+PWN:decorate.v.01		жагабарес	ʒaɡabares
+PWN:decorate.v.01		къугъабарес	ɢuʁabares
+PWN:decrease.v.01		камбиес	kambijes
+PWN:decrease.v.01		къантӏбиэс	ɢantʼbies
+PWN:defend.v.03		валтахъан виэс	waltaqan wies
+PWN:deft.s.01		ункъли барибси	unɢli baribsi
+PWN:deft.s.01		урибси уста	uribsi usta
+PWN:deity.n.01		аллагь	allah
+PWN:descend.v.01		камбикӏес	kambikʼes
+PWN:desire.n.01		иштяхӏ	iʃtjaħ
+PWN:desire.v.01		бигахъес	biɡaqes
+PWN:destroy.v.02		бячес	bjat͡ʃes
+PWN:detect.v.01		гӏяйиббарес	ʕjajibbares
+PWN:detect.v.01		хӏисаб касес	ħisab kases
+PWN:detect.v.01		чебаэс	t͡ʃebaes
+PWN:die.v.01		вебкӏес	webkʼes
+PWN:different.a.01		гьар журала	har ʒurala
+PWN:different.a.01		декӏарси	dekʼarsi
+PWN:different.a.01		царал тяхӏярла	t͡saral tjaħjarla
+PWN:dig.v.01		икъес	iɢes
+PWN:dirt.n.02		чярт	t͡ʃjart
+PWN:dirty.a.01		чаьтси	t͡ʃaʲtsi
+PWN:disappear.v.01		бетахъес	betaqes
+PWN:disappear.v.01		кӏунбацӏес	kʼunbat͡sʼes
+PWN:disease.n.01		изала	izala
+PWN:dish.n.01		тӏалхӏяна	tʼalħjana
+PWN:dissolve.v.09		камдикӏес	kamdikʼes
+PWN:distance.n.01		манзил	manzil
+PWN:distance.n.03		манзил	manzil
+PWN:divide.v.01		бутӏес	butʼes
+PWN:doctor.n.01		тухтур	tuχtur
+PWN:dog.n.01		хя	χja
+PWN:doll.n.01		начи	nat͡ʃi
+PWN:doll.n.01		нускӏари	nuskʼari
+PWN:down.r.01		катхIел	katχijel
+PWN:down.r.01		катхIелбях	katχijelbjaχ
+PWN:down.r.01		уди	udi
+PWN:down.r.01		удибяхI	udibjaχi
+PWN:dream.n.01		муэр	muer
+PWN:dream.n.01		муэрти	muerti
+PWN:dress.v.01		палтар чегьес	paltar t͡ʃehes
+PWN:drink.v.01		бужес	buʒes
+PWN:drive.v.01		арашес	araʃes
+PWN:drive.v.15		гьалаб беркӏес	halab berkʼes
+PWN:drive.v.15		гӏергънилхьес	ʕerʁnilxes
+PWN:drive.v.15		дугӏиэс	duʕies
+PWN:drop.n.01		кӏантӏ	kʼantʼ
+PWN:drop.v.01		кабикахъес	kabikaqes
+PWN:drove.n.02		хӏенкь	ħenqʼ
+PWN:dry.a.01		дегъси	deʁsi
+PWN:dry.v.01		бурэс	bures
+PWN:duck.n.01		бятӏ	bjatʼ
+PWN:duck.n.01		бятӏ-бятӏ	bjatʼ-bjatʼ
+PWN:dust.n.01		хяса	χjasa
+PWN:eagle.n.01		чӏака	t͡ʃʼaka
+PWN:ear.n.01		лихӏи	liħi
+PWN:earlier.r.01		жяали	ʒjaali
+PWN:earlier.r.01		убла замана	ubla zamana
+PWN:east.n.01		восток	wostok
+PWN:eat.v.01		букес	bukes
+PWN:edge.n.06		дуб	dub
+PWN:edge.n.06		улка	ulka
+PWN:egg.n.02		гидгари	ɡidɡari
+PWN:eight.s.01		гехIал	ɡeχial
+PWN:eighty.s.01		гехI цIали	ɡeχi t͡siali
+PWN:elapse.v.01		арбукьес	arbuqʼes
+PWN:elapse.v.01		ахъес	aqes
+PWN:elapse.v.01		таманбиэс	tamanbies
+PWN:elapse.v.01		шалгӏеббухъес	ʃalʕebbuqes
+PWN:elbow.n.01		газанякъ	ɡazanjaɢ
+PWN:eleven.s.01		вецIну цара	wet͡sinu t͡sara
+PWN:emerge.v.01		дакӏубухъес	dakʼubuqes
+PWN:empty.a.01		бацIси	bat͡sisi
+PWN:end.n.03		хъар	qar
+PWN:end.n.09		дуб	dub
+PWN:end.n.09		хъар	qar
+PWN:end.v.01		аберхес	aberχes
+PWN:end.v.01		таманаэс	tamanaes
+PWN:enter.v.01		ацӏес	at͡sʼes
+PWN:enter.v.01		ухӏнаухъес	uħnauqes
+PWN:entirely.r.02		-мадан	-madan
+PWN:entirely.r.02		чӏянкӏли	t͡ʃʼjankʼli
+PWN:escape.v.01		вебшес	webʃes
+PWN:escape.v.01		гьавухъес	hawuqes
+PWN:escape.v.01		дуцӏли арукьес	dut͡sʼli aruqʼes
+PWN:evening.n.01		бархӏехъ	barħeq
+PWN:evil.a.01		гIясиси	ɡijasisi
+PWN:exclaim.v.01		вявикӏес	wjawikʼes
+PWN:exit.v.01		арукьес	aruqʼes
+PWN:exit.v.01		тяйдииэс	tjajdiies
+PWN:expensive.a.01		дурхъаси	durqasi
+PWN:extraneous.s.03		урхӏла	urħla
+PWN:eye.n.01		хӏули	ħuli
+PWN:fabric.n.01		чӏянкӏи	t͡ʃʼjankʼi
+PWN:face.n.01		бяхӏ	bjaħ
+PWN:faineant.s.01		азгъинси	azʁinsi
+PWN:fairytale.n.01		хабар	χabar
+PWN:fall.n.01		гӏебшни	ʕebʃni
+PWN:fall.v.01		кабиркес	kabirkes
+PWN:fall_asleep.v.01		усаэс	usaes
+PWN:familiar.a.01		бахъли валуси	baqli walusi
+PWN:familiar.a.01		гапла	ɡapla
+PWN:family.n.02		хъалибарг	qalibarɡ
+PWN:far.r.02		гьарахъси	haraqsi
+PWN:fat.n.01		гӏявадеш	ʕjawadeʃ
+PWN:father.n.01		ада	ada
+PWN:father.n.01		дудеш	dudeʃ
+PWN:fault.n.06		такьсир	taqʼsir
+PWN:fear.v.01		урухирес	uruχires
+PWN:feather.n.01		пухӏяла	puħjala
+PWN:february.n.01		февраль	fewralʲ
+PWN:feed.v.01		балхес	balχes
+PWN:feel.v.03		иргъес	irʁes
+PWN:female_child.n.01		риштӏаси рурси	riʃtʼasi rursi
+PWN:fence.n.01		хӏяри	ħjari
+PWN:fence.n.01		чяли	t͡ʃjali
+PWN:fever.n.01		ружери	ruʒeri
+PWN:fifty.s.01		шу цIали	ʃu t͡siali
+PWN:fill.v.01		бицӏахъес	bit͡sʼaqes
+PWN:find.v.03		баргес	barɡes
+PWN:fine-looking.s.01		жагаси	ʒaɡasi
+PWN:fine.a.05		назикси	naziksi
+PWN:finger.n.01		тӏул	tʼul
+PWN:fingernail.n.01		ника	nika
+PWN:fir.n.02		яда	jada
+PWN:fire.n.03		цӏа	t͡sʼa
+PWN:firm.s.02		чӏумаси	t͡ʃʼumasi
+PWN:first.a.01		гьалаб-гьалабил	halab-halabil
+PWN:first.a.01		цаибил	t͡saibil
+PWN:first.r.02		гьала-гьала	hala-hala
+PWN:first.r.02		гьаланачи	halanat͡ʃi
+PWN:fish.n.01		балихъ	baliq
+PWN:fish.v.02		бялихъуна урцес	bjaliquna urt͡ses
+PWN:five.s.01		шел	ʃel
+PWN:fix.v.12		хӏядурбарес	ħjadurbares
+PWN:flash.v.01		лямцӏбикӏес	ljamt͡sʼbikʼes
+PWN:flash.v.01		цӏярцӏярбикӏес	t͡sʼjart͡sʼjarbikʼes
+PWN:flat.s.01		диркьси	dirqʼsi
+PWN:flex.v.05		балкӏахъес	balkʼaqes
+PWN:flex.v.05		къямаэс	ɢjamaes
+PWN:flip.v.06		лайбикӏес	lajbikʼes
+PWN:floor.n.01		жинс	ʒins
+PWN:floor.n.01		чӏябар	t͡ʃʼjabar
+PWN:flower.n.02		вава	wawa
+PWN:fly.v.01		урцес	urt͡ses
+PWN:foam.n.01		хьамхьа	xamxa
+PWN:foam.n.01		хьулехьа	xulexa
+PWN:foe.n.02		душман	duʃman
+PWN:fog.n.01		дирихь	dirix
+PWN:food.n.02		беркала	berkala
+PWN:food.n.02		хурег	χureɡ
+PWN:foot.n.01		кьяш	qʼjaʃ
+PWN:footprint.n.01		асар	asar
+PWN:foreman.n.01		начальник	nat͡ʃalʲnik
+PWN:foreman.n.01		хIяким	χijakim
+PWN:forest.n.01		вацӏа	wat͡sʼa
+PWN:forget.v.02		хъумартес	qumartes
+PWN:fork.n.01		алтӏанаг	altʼanaɡ
+PWN:fork.n.01		кӏачӏа	kʼat͡ʃʼa
+PWN:form.n.03		някьиш	njaqʼiʃ
+PWN:forty.s.01		авцӏали	awt͡sʼali
+PWN:four.s.01		авал	awal
+PWN:fox.n.01		гурда	ɡurda
+PWN:frequently.r.01		гьаман	haman
+PWN:fresh.a.01		тяхӏуси	tjaħusi
+PWN:friday.n.01		жумягӏ	ʒumjaʕ
+PWN:friend.n.01		ашна	aʃna
+PWN:friend.n.01		валликьяна	walliqʼjana
+PWN:friend.n.01		гьалмагъ	halmaʁ
+PWN:friend.n.01		уртахъ	urtaq
+PWN:frost.n.01		бугӏярдеш	buʕjardeʃ
+PWN:frost.n.01		шах	ʃaχ
+PWN:fry.v.02		буцӏес	but͡sʼes
+PWN:full.a.01		бицIибси	bit͡siibsi
+PWN:fume.v.02		ваятӏа улкес	wajatʼa ulkes
+PWN:fume.v.02		дахъал гав дурайэс	daqal ɡaw durajes
+PWN:fur.n.03		бала	bala
+PWN:game.n.01		хӏяз	ħjaz
+PWN:gate.n.01		унза	unza
+PWN:gateway.n.01		къапу	ɢapu
+PWN:gather.v.01		дуцес	dut͡ses
+PWN:gay.s.02		разиси	razisi
+PWN:gentle.s.01		хIялимси	χijalimsi
+PWN:get_down.v.07		бехӏбихъес	beħbiqes
+PWN:get_down.v.07		вехӏихьес	weħixes
+PWN:get_up.v.02		азес	azes
+PWN:gift.n.01		савгъат	sawʁat
+PWN:give.v.03		гес	ɡes
+PWN:give.v.03		лугес	luɡes
+PWN:give.v.08		пешкешбирес	peʃkeʃbires
+PWN:glass.n.01		шиша	ʃiʃa
+PWN:glue.v.01		балсес	balses
+PWN:glue.v.01		чебалсес	t͡ʃebalses
+PWN:gold.n.03		мургьи	murhi
+PWN:good.a.01		гӏяхӏси	ʕjaħsi
+PWN:goose.n.01		къаз	ɢaz
+PWN:grain.n.08		гье	he
+PWN:grandfather.n.01		хала дудеш	χala dudeʃ
+PWN:grandma.n.01		хала неш	χala neʃ
+PWN:grasp.v.01		буцес	but͡ses
+PWN:grass.n.01		кьар	qʼar
+PWN:grassland.n.01		кьарла диркьа	qʼarla dirqʼa
+PWN:grassland.n.01		сага	saɡa
+PWN:grave.n.02		хӏяб	ħjab
+PWN:green.s.01		шиниша	ʃiniʃa
+PWN:grey.s.01		гъурша	ʁurʃa
+PWN:grief.n.02		дард	dard
+PWN:groan.v.01		цӏумикӏес	t͡sʼumikʼes
+PWN:grok.v.01		иргъес	irʁes
+PWN:grow.v.03		бухъес	buqes
+PWN:grow.v.03		халабикӏес	χalabikʼes
+PWN:guest.n.01		гӏяхӏял	ʕjaħjal
+PWN:gun.n.01		тупанг	tupanɡ
+PWN:hair.n.01		гъез	ʁez
+PWN:hand.n.01		някъ	njaɢ
+PWN:handle.n.01		ар	ar
+PWN:hang.v.01		чебяхӏахъес	t͡ʃebjaħaqes
+PWN:hang.v.02		чебяхӏахъес	t͡ʃebjaħaqes
+PWN:happiness.n.01		игъбар	iʁbar
+PWN:hard.a.03		чӏумаси	t͡ʃʼumasi
+PWN:hardly.r.02		хӏилхӏи	ħilħi
+PWN:hardworking.s.01		чекайзурси	t͡ʃekajzursi
+PWN:hare.n.01		гӏяра	ʕjara
+PWN:hark_back.v.01		чар арес	t͡ʃar ares
+PWN:hark_back.v.01		чар иэс	t͡ʃar ies
+PWN:hay.n.01		мура	mura
+PWN:head.n.01		бекӏ	bekʼ
+PWN:healthy.a.01		арадеш	aradeʃ
+PWN:hear.v.01		бикьес	biqʼes
+PWN:heart.n.02		уркӏи	urkʼi
+PWN:heat.n.01		буцӏардеш	but͡sʼardeʃ
+PWN:heavy.a.01		декӏси	dekʼsi
+PWN:heavy.a.01		зугьаси	zuhasi
+PWN:heel.n.02		кьячӏа	qʼjat͡ʃʼa
+PWN:height.n.01		ахъдеш	aqdeʃ
+PWN:herd.n.01		дурзам	durzam
+PWN:herd.v.01		дуки дикес	duki dikes
+PWN:here.r.01		ишаб	iʃab
+PWN:here.r.03		иша	iʃa
+PWN:hide.n.02		кули	kuli
+PWN:hide.v.02		дигӏянбарес	diʕjanbares
+PWN:hill.n.01		бекӏа	bekʼa
+PWN:hog.n.03		цура	t͡sura
+PWN:hold.v.02		бурцес	burt͡ses
+PWN:hole.n.01		гӏями	ʕjami
+PWN:hole.n.01		тӏярхъи	tʼjarqi
+PWN:home.n.01		хъали	qali
+PWN:home.n.01		юрт	jurt
+PWN:honey.n.01		варъа	warʔa
+PWN:horn.n.02		мукеки	mukeki
+PWN:horse.n.01		урчи	urt͡ʃi
+PWN:horse.n.01		ябу	jabu
+PWN:hot.a.01		буцӏарси	but͡sʼarsi
+PWN:house.n.01		хъали	qali
+PWN:hundred.s.01		даршал	darʃal
+PWN:hungry.a.01		гъарибси	ʁaribsi
+PWN:hunt.v.01		ггӏяяр вашес	ɡʕjajar waʃes
+PWN:hurt.v.06		изес	izes
+PWN:husband.n.01		мурул	murul
+PWN:ice.n.01		миъ	miʔ
+PWN:idea.n.01		пикри	pikri
+PWN:idol.n.01		куц	kut͡s
+PWN:idol.n.01		чебаала	t͡ʃebaala
+PWN:ignite.v.01		абалкахъес	abalkaqes
+PWN:ill.a.01		изули	izuli
+PWN:immediately.r.01		бусягӏят	busjaʕjat
+PWN:immediately.r.01		итмадан	itmadan
+PWN:impede.v.01		вайбаркьуна виркьес	wajbarqʼuna wirqʼes
+PWN:impede.v.01		вирхес	wirχes
+PWN:impede.v.01		гьалаилзес	halailzes
+PWN:indicate.v.02		чебаахъес	t͡ʃebaaqes
+PWN:insert.v.01		катӏес	katʼes
+PWN:invite.v.02		живарес	ʒiwares
+PWN:iron.n.01		мегь	meh
+PWN:island.n.01		остров	ostrow
+PWN:item.n.01		секӏал	sekʼal
+PWN:january.n.01		январь	janwarʲ
+PWN:jaw.n.01		хъяйхъяй	qjajqjaj
+PWN:join.v.02		цалабяхъес	t͡salabjaqes
+PWN:joy.n.01		разидеш	razideʃ
+PWN:joy.n.01		шаддеш	ʃaddeʃ
+PWN:july.n.01		июль	ijulʲ
+PWN:jump.v.01		тӏяхӏикӏес	tʼjaħikʼes
+PWN:june.n.01		июнь	ijunʲ
+PWN:keep.v.03		бихӏес	biħes
+PWN:kettle.n.01		шанг	ʃanɡ
+PWN:kick.v.03		ванцӏухъес	want͡sʼuqes
+PWN:kill.v.10		кабушес	kabuʃes
+PWN:kind.n.01		жура	ʒura
+PWN:king.n.01		пача	pat͡ʃa
+PWN:king.n.01		пачала у	pat͡ʃala u
+PWN:king.n.01		пачях	pat͡ʃjaχ
+PWN:knee.n.01		кьукьа	qʼuqʼa
+PWN:knife.n.01		дис	dis
+PWN:knock.v.02		кьутӏикӏес	qʼutʼikʼes
+PWN:knot.n.02		гӏянд	ʕjand
+PWN:know.v.01		балес	bales
+PWN:ladder.n.01		ганзи	ɡanzi
+PWN:ladder.n.01		ганзухъ	ɡanzuq
+PWN:lake.n.01		шара	ʃara
+PWN:land.n.02		ванза	wanza
+PWN:land.n.02		дегъ	deʁ
+PWN:land.n.04		лутӏи	lutʼi
+PWN:land.n.04		хьулчи	xult͡ʃi
+PWN:language.n.01		мез	mez
+PWN:large.a.01		халаси	χalasi
+PWN:last.a.02		бегӏла гӏергъиси	beʕla ʕerʁisi
+PWN:laugh.v.01		дукаркӏес	dukarkʼes
+PWN:laughter.n.02		дукелцӏи	dukelt͡sʼi
+PWN:lay.v.02		кабирхьес	kabirxes
+PWN:lead.v.01		икес	ikes
+PWN:learn.v.01		балес	bales
+PWN:leash.n.01		гьая	haja
+PWN:leather.n.01		дабагъ	dabaʁ
+PWN:left.r.01		алгъай	alʁaj
+PWN:leg.n.02		кьяш	qʼjaʃ
+PWN:length.n.01		бухъянди	buqjandi
+PWN:letter.n.01		кагъар	kaʁar
+PWN:lick.v.02		ижес	iʒes
+PWN:lid.n.02		чебхьла	t͡ʃebxla
+PWN:lie.n.01		къяна	ɢjana
+PWN:lie.v.02		калхьес	kalxes
+PWN:lift.v.03		ахъбуцес	aqbut͡ses
+PWN:like.v.03		гIях1Iбилзес	ɡijaχɨibilzes
+PWN:like.v.03		кьабулбиркес	qʼabulbirkes
+PWN:line.n.04		тугъ	tuʁ
+PWN:lip.n.01		кӏентӏ	kʼentʼ
+PWN:listen.v.01		лехӏилзес	leħilzes
+PWN:little.r.01		кам-камти	kam-kamti
+PWN:liver.n.01		печень	pet͡ʃenʲ
+PWN:load.n.01		декӏдеш	dekʼdeʃ
+PWN:lock.n.01		чедирхьути мегь	t͡ʃedirxuti meh
+PWN:long.a.02		бухъяна	buqjana
+PWN:long.r.01		бахъхӏи	baqħi
+PWN:look.v.01		хIерикIес	χijerikijes
+PWN:look.v.01		хIерирес	χijerires
+PWN:lose.v.05		бетахъахъес	betaqaqes
+PWN:louse.n.01		неръ	nerʔ
+PWN:love.v.03		дигахъес	diɡaqes
+PWN:love.v.03		дигес	diɡes
+PWN:luminosity.n.01		шала	ʃala
+PWN:mainland.n.01		дегъ	deʁ
+PWN:make_noise.v.01		гӏялагъяжавикӏес	ʕjalaʁjaʒawikʼes
+PWN:make_noise.v.01		тӏамравиркьес	tʼamrawirqʼes
+PWN:male_child.n.01		дурхӏя	durħja
+PWN:male_child.n.01		урши	urʃi
+PWN:man.n.01		мурул	murul
+PWN:man.n.01		мурул адам	murul adam
+PWN:march.n.01		март	mart
+PWN:may.n.01		май	maj
+PWN:meal.n.01		укни	ukni
+PWN:meaning.n.01		мягӏна	mjaʕna
+PWN:measure.v.01		умцес	umt͡ses
+PWN:meat.n.01		диъ	diʔ
+PWN:medicine.n.02		дарман	darman
+PWN:meet.v.07		учибикес	ut͡ʃibikes
+PWN:meet.v.07		цалабикес	t͡salabikes
+PWN:meet.v.09		валикес	walikes
+PWN:meet.v.09		цугикес	t͡suɡikes
+PWN:melt.v.01		бицӏес	bit͡sʼes
+PWN:memory.n.03		гьанбиркни	hanbirkni
+PWN:memory.n.03		хъумхӏертни	qumħertni
+PWN:message.n.01		хабар	χabar
+PWN:milk.n.01		ниъ	niʔ
+PWN:milk.v.01		изес	izes
+PWN:mind.n.01		гӏякьлу	ʕjaqʼlu
+PWN:mirror.n.01		дяхӏимцӏала	djaħimt͡sʼala
+PWN:misfortune.n.02		балагь	balah
+PWN:mistake.n.01		хатӏа	χatʼa
+PWN:monday.n.01		итни	itni
+PWN:money.n.01		арц	art͡s
+PWN:moon.n.01		бац	bat͡s
+PWN:morning.n.01		савли	sawli
+PWN:mosquito.n.01		ливливак	liwliwak
+PWN:mosquito.n.01		хӏуръ	ħurʔ
+PWN:mother.n.01		аба	aba
+PWN:mountain.n.01		дубура	dubura
+PWN:mouse.n.01		ваца	wat͡sa
+PWN:mouth.n.01		кьак	qʼak
+PWN:move.v.03		бара вяшикIес	bara wjaʃikijes
+PWN:move.v.03		вяшванбикIес	wjaʃwanbikijes
+PWN:move.v.03		циила шишбикIес	t͡siila ʃiʃbikijes
+PWN:mush.n.02		дахни	daχni
+PWN:mush.n.02		каш	kaʃ
+PWN:mushroom.n.02		шайтӏа кьапӏа	ʃajtʼa qʼapʼa
+PWN:mustache.n.01		супел	supel
+PWN:nail.n.01		ника	nika
+PWN:nail.n.02		гӏябул	ʕjabul
+PWN:name.n.01		зур	zur
+PWN:name.v.01		у бедес	u bedes
+PWN:nape.n.01		хъянтӏа	qjantʼa
+PWN:narrative.n.01		хабар	χabar
+PWN:narrow.a.01		чIаьртIаси	t͡ʃiaʲrtiasi
+PWN:natural_elevation.n.01		муза	muza
+PWN:navel.n.01		чӏиличӏа	t͡ʃʼilit͡ʃʼa
+PWN:near.r.01		гъамси	ʁamsi
+PWN:neck.n.01		хъяб	qjab
+PWN:needle.n.03		буреба	bureba
+PWN:nest.n.01		пукьа	puqʼa
+PWN:net_income.n.01		тур	tur
+PWN:net_income.n.01		тӏимкь	tʼimqʼ
+PWN:never.r.01		сезаманалра	sezamanalra
+PWN:new.a.01		сагаси	saɡasi
+PWN:news.n.01		хабар	χabar
+PWN:newspaper.n.01		газат	ɡazat
+PWN:night.n.01		дуги	duɡi
+PWN:nine.s.01		урчIемал	urt͡ʃijemal
+PWN:ninety.s.01		учIем цIали	ut͡ʃijem t͡siali
+PWN:noise.n.01		вяв-гьав	wjaw-haw
+PWN:noise.n.01		тӏама	tʼama
+PWN:noise.n.01		тӏама-гьама	tʼama-hama
+PWN:noon.n.01		дайхӏерила замана	dajħerila zamana
+PWN:noon.n.01		хӏерейсла	ħerejsla
+PWN:noose.n.02		бул	bul
+PWN:noose.n.02		гьаяла мява	hajala mjawa
+PWN:noose.n.02		гьимирла	himirla
+PWN:nose.n.01		къянкъ	ɢjanɢ
+PWN:not.r.01		агара	aɡara
+PWN:not.r.01		гьеч	het͡ʃ
+PWN:not.r.01		хӏя	ħja
+PWN:not.r.01		юх	juχ
+PWN:november.n.01		ноябрь	nojabrʲ
+PWN:now.r.04		бусягӏят	busjaʕjat
+PWN:now.r.04		гьанна	hanna
+PWN:oar.n.01		шалхъа	ʃalqa
+PWN:october.n.01		октябрь	oktjabrʲ
+PWN:old.a.01		буркьа	burqʼa
+PWN:old.a.01		бухъна	buqna
+PWN:olfactory_property.n.01		гягӏ	ɡjaʕ
+PWN:once.r.01		гьачам	hat͡ʃam
+PWN:once.r.03		гьачам	hat͡ʃam
+PWN:one-half.n.01		байхъала	bajqala
+PWN:one.s.01		ца	t͡sa
+PWN:onion.n.02		жерши	ʒerʃi
+PWN:open.a.01		абхьибси	abxibsi
+PWN:open.a.01		гьаргси	harɡsi
+PWN:open.a.01		гӏячихъси	ʕjat͡ʃiqsi
+PWN:open.v.01		абхьес	abxes
+PWN:other.a.01		декӏарси	dekʼarsi
+PWN:owl.n.01		тӏума	tʼuma
+PWN:own.v.01		биэс	bies
+PWN:pain.n.03		изала	izala
+PWN:pain.n.03		челукьан	t͡ʃeluqʼan
+PWN:paint.n.01		ранг	ranɡ
+PWN:paint.v.02		суратикӏес	suratikʼes
+PWN:palm.n.01		хъат	qat
+PWN:parent.n.01		ада аба	ada aba
+PWN:parent.n.01		бегӏти	beʕti
+PWN:parent.n.01		неш-дудеш	neʃ-dudeʃ
+PWN:part.n.02		кесек	kesek
+PWN:part.n.02		пай	paj
+PWN:part.n.03		кесек	kesek
+PWN:pasture.n.01		дуки-гьуиила мер	duki-huiila mer
+PWN:path.n.02		дакь	daqʼ
+PWN:path.n.02		кьяшли барибси гьуни	qʼjaʃli baribsi huni
+PWN:paw.n.01		иика	iika
+PWN:paw.n.01		кьялши	qʼjalʃi
+PWN:peak.n.04		хъар бекӏ	qar bekʼ
+PWN:peak.n.04		хъар кьама	qar qʼama
+PWN:peel.n.02		гӏянкӏби	ʕjankʼbi
+PWN:peel.n.02		кумрн	kumrn
+PWN:peel.n.02		халдари	χaldari
+PWN:people.n.01		адамти	adamti
+PWN:periphery.n.01		дуб	dub
+PWN:periphery.n.01		хьар	xar
+PWN:person.n.01		адам	adam
+PWN:picture.n.01		сурат	surat
+PWN:pile.n.01		бекӏа	bekʼa
+PWN:pillow.n.01		гӏянала	ʕjanala
+PWN:pine.n.01		яда	jada
+PWN:pit.n.01		дукъ	duɢ
+PWN:play.v.05		хӏязли виркьес	ħjazli wirqʼes
+PWN:pointed.a.01		цӏикӏси	t͡sʼikʼsi
+PWN:pole.n.01		чӏалхьа	t͡ʃʼalxa
+PWN:poor.a.02		мискин	miskin
+PWN:populate.v.01		гӏямру дуркӏес	ʕjamru durkʼes
+PWN:populate.v.01		хӏерирес	ħerires
+PWN:position.n.01		мер	mer
+PWN:position.n.01		муса	musa
+PWN:pot.n.01		шанг	ʃanɡ
+PWN:pouch.n.01		гавлаг	ɡawlaɡ
+PWN:power.n.01		хӏукумат	ħukumat
+PWN:powerful.a.01		кьуватси	qʼuwatsi
+PWN:powerful.a.01		цӏакьси	t͡sʼaqʼsi
+PWN:press.v.01		биршес арши	birʃes arʃi
+PWN:price.n.02		кьимат	qʼimat
+PWN:produce.v.02		барес	bares
+PWN:produce.v.02		бирес	bires
+PWN:produce.v.02		узес	uzes
+PWN:promise.v.01		вягӏдалавиэс	wjaʕdalawies
+PWN:promise.v.01		чеасес	t͡ʃeases
+PWN:pull.v.01		битӏикӏес	bitʼikʼes
+PWN:pull.v.01		зузбирес	zuzbires
+PWN:quantity.n.03		бекӏа	bekʼa
+PWN:quantity.n.03		кьадар	qʼadar
+PWN:quantity.n.03		цӏур	t͡sʼur
+PWN:rain.n.01		заб	zab
+PWN:rain.v.01		дашес	daʃes
+PWN:rainbow.n.01		зурхӏяб	zurħjab
+PWN:raise.v.02		ахъбуцес	aqbut͡ses
+PWN:raw.a.03		шинкӏабирес	ʃinkʼabires
+PWN:read.v.01		бучӏес	but͡ʃʼes
+PWN:rear.v.02		вяркъес	wjarɢes
+PWN:recuperate.v.04		гӏяхӏбухъес	ʕjaħbuqes
+PWN:recuperate.v.04		хатӏа гьарбарес	χatʼa harbares
+PWN:red.s.01		хӏунтӏена	ħuntʼena
+PWN:repair.v.01		балбирес	balbires
+PWN:rescue.v.01		верцахъес	wert͡saqes
+PWN:rest.v.05		бамсриихъес	bamsriiqes
+PWN:result.v.01		баэс	baes
+PWN:result.v.01		сабаэс	sabaes
+PWN:result.v.01		чебакӏес	t͡ʃebakʼes
+PWN:ribbon.n.04		хӏяба	ħjaba
+PWN:ribbon.n.04		чял	t͡ʃjal
+PWN:rich.a.01		давлачевси	dawlat͡ʃewsi
+PWN:riddle.n.01		багьира	bahira
+PWN:right.r.04		вархьси	warxsi
+PWN:right.r.04		гӏяйибагарси	ʕjajibaɡarsi
+PWN:ring.n.08		къаш чебси тӏулека	ɢaʃ t͡ʃebsi tʼuleka
+PWN:ring.v.01		занкъбикIес	zanɢbikijes
+PWN:ring.v.01		зингъбикIес	zinʁbikijes
+PWN:ring.v.01		зингъбухъес	zinʁbuqes
+PWN:ring.v.01		зинкъбикIес	zinɢbikijes
+PWN:ring.v.03		занкъбикIес	zanɢbikijes
+PWN:ring.v.03		зингъбикIес	zinʁbikijes
+PWN:ring.v.03		зингъбухъес	zinʁbuqes
+PWN:ring.v.03		зинкъбикIес	zinɢbikijes
+PWN:rinse.v.01		баргарес	barɡares
+PWN:ripe.a.01		бикьурси	biqʼursi
+PWN:ripen.v.02		бикьес	biqʼes
+PWN:rise.v.16		гьаббакӏес	habbakʼes
+PWN:river.n.01		хӏеркӏ	ħerkʼ
+PWN:road.n.01		гьуни	huni
+PWN:road.n.01		гьуни	huni
+PWN:roar.v.01		бургъес	burʁes
+PWN:rock.n.01		къаркъа	ɢarɢa
+PWN:rock.v.01		гьакӏарбикӏес	hakʼarbikʼes
+PWN:rock.v.01		гьаршикӏес	harʃikʼes
+PWN:rock.v.01		кӏиуркӏикӏес	kʼiurkʼikʼes
+PWN:roof.n.01		хъалч	qalt͡ʃ
+PWN:root.n.01		мякь	mjaqʼ
+PWN:root.n.01		хӏячи	ħjat͡ʃi
+PWN:round.a.01		журуга	ʒuruɡa
+PWN:rub.v.01		суркбирес	surkbires
+PWN:run.v.01		дуцӏикӏес	dut͡sʼikʼes
+PWN:run.v.06		дашес	daʃes
+PWN:run.v.06		кертIес	kertijes
+PWN:run.v.06		чяхIбикIес	t͡ʃjaχibikijes
+PWN:rush.v.04		гьалакикӏес	halakikʼes
+PWN:rush.v.04		гьалакикӏес	halakikʼes
+PWN:rush.v.04		къалабаикӏес	ɢalabaikʼes
+PWN:sack.n.01		гавлаг	ɡawlaɡ
+PWN:sad.a.01		пашманси	paʃmansi
+PWN:salt.n.02		зе	ze
+PWN:sand.n.01		белкьунси чакар	belqʼunsi t͡ʃakar
+PWN:sand.n.01		гъум	ʁum
+PWN:saturday.n.01		сут	sut
+PWN:scarf.n.01		кӏана	kʼana
+PWN:sea.n.01		урхьу	urxu
+PWN:search.v.01		умцӏес	umt͡sʼes
+PWN:seashore.n.01		дуб	dub
+PWN:seashore.n.01		дуб-алавла	dub-alawla
+PWN:second.s.01		кIиибил	kiiibil
+PWN:second.s.01		кIиэсил	kiiesil
+PWN:see.v.01		чебиэс	t͡ʃebies
+PWN:seed.n.02		цӏули	t͡sʼuli
+PWN:sell.v.01		бицес	bit͡ses
+PWN:send.v.01		бархьес	barxes
+PWN:separate.v.02		декӏарбиркес	dekʼarbirkes
+PWN:september.n.01		сентябрь	sentjabrʲ
+PWN:seven.s.01		верхIал	werχial
+PWN:seventy.s.01		верхI цIали	werχi t͡siali
+PWN:severe.s.01		вайси	wajsi
+PWN:sew.v.01		ибес	ibes
+PWN:shadow.n.01		дяхӏцӏи	djaħt͡sʼi
+PWN:shake.v.01		гьакӏарбикӏахъес	hakʼarbikʼaqes
+PWN:shake.v.01		гьакӏбирес	hakʼbires
+PWN:shake.v.01		зерзербирес	zerzerbires
+PWN:shake.v.08		гьакӏарбикӏахъес	hakʼarbikʼaqes
+PWN:shake.v.08		гьакӏбирес	hakʼbires
+PWN:shake.v.08		зерзербирес	zerzerbires
+PWN:sharp.a.09		бугаси	buɡasi
+PWN:shatter.v.03		баьчес	baʲt͡ʃes
+PWN:shatter.v.03		бургIес	burɡijes
+PWN:sheep.n.01		чахъу	t͡ʃaqu
+PWN:shelf.n.01		кьаси	qʼasi
+PWN:shine.v.02		шалабикӏес	ʃalabikʼes
+PWN:shirt.n.01		хӏева	ħewa
+PWN:shoot.v.01		къяйкикӏес	ɢjajkikʼes
+PWN:shop.n.01		тукен	tuken
+PWN:shore.n.01		дуб	dub
+PWN:short.a.02		къантӏа	ɢantʼa
+PWN:shoulder.n.01		хъуцӏари	qut͡sʼari
+PWN:shovel.n.01		аяхъ	ajaq
+PWN:shovel.n.01		кӏатӏа	kʼatʼa
+PWN:shovel.n.01		тӏумкья	tʼumqʼja
+PWN:shudder.v.02		зер-зер бикIес	zer-zer bikijes
+PWN:shut.a.01		кьяпӏси	qʼjapʼsi
+PWN:side.n.01		шали	ʃali
+PWN:silence.n.01		паргъатдеш	parʁatdeʃ
+PWN:silver.n.01		арц	art͡s
+PWN:sin.n.01		бунагь	bunah
+PWN:sing.v.02		бучӏес	but͡ʃʼes
+PWN:sing.v.02		далайбикӏес	dalajbikʼes
+PWN:sing.v.02		далайирес	dalajires
+PWN:sink.v.01		кайгӏес	kajʕes
+PWN:sister.n.01		рузи	ruzi
+PWN:sit_down.v.01		вехӏихьес	weħixes
+PWN:sit_down.v.01		кабиэс	kabies
+PWN:sit_down.v.01		кайэс	kajes
+PWN:six.s.01		урегал	ureɡal
+PWN:sixty.s.01		урез цIали	urez t͡siali
+PWN:size.n.01		кьадар	qʼadar
+PWN:ski.n.01		лыжаби	lɨʒabi
+PWN:sky.n.01		зак	zak
+PWN:sky.n.01		зубри	zubri
+PWN:slab.n.01		гӏена	ʕena
+PWN:sled.n.01		гъяй	ʁjaj
+PWN:sleep.n.01		гьанкӏ	hankʼ
+PWN:sleep.v.01		усес	uses
+PWN:sleeve.n.01		дулгъа	dulʁa
+PWN:sleeve.n.01		хӏеркӏла кьяли	ħerkʼla qʼjali
+PWN:slice.n.05		кесек	kesek
+PWN:slope.n.01		бяхӏ	bjaħ
+PWN:slope.n.01		катруг	katruɡ
+PWN:small.a.01		биштӏал	biʃtʼal
+PWN:smell.v.01		сунтӏикӏес	suntʼikʼes
+PWN:smoke.n.02		гав	ɡaw
+PWN:smooth.a.01		гъалагси	ʁalaɡsi
+PWN:snake.n.01		чӏичӏала	t͡ʃʼit͡ʃʼala
+PWN:snap.v.03		бердилн асуагарбиэс	berdiln asuaɡarbies
+PWN:snap.v.03		гьуцӏикӏес	hut͡sʼikʼes
+PWN:snog.v.01		байикӏес	bajikʼes
+PWN:snog.v.01		уммайдирес	ummajdires
+PWN:snow.n.01		дяхӏи	djaħi
+PWN:soft.a.01		кӏантӏиси	kʼantʼisi
+PWN:sometimes.r.01		цацахӏели	t͡sat͡saħeli
+PWN:son.n.01		урши	urʃi
+PWN:song.n.01		далай	dalaj
+PWN:soon.r.01		вахъхӏи агарли	waqħi aɡarli
+PWN:soon.r.01		гьанна бусягӏят	hanna busjaʕjat
+PWN:sore.n.01		дяхъи	djaqi
+PWN:sound.v.02		зайбикӏес	zajbikʼes
+PWN:sound.v.02		тӏамалибиркьес	tʼamalibirqʼes
+PWN:soup.n.01		нергъ	nerʁ
+PWN:sour.a.02		цӏикӏси	t͡sʼikʼsi
+PWN:space.n.02		мер	mer
+PWN:space.n.02		муса	musa
+PWN:spade.n.02		кӏатӏа	kʼatʼa
+PWN:spark.n.06		цӏала тӏякь	t͡sʼala tʼjaqʼ
+PWN:spark.n.06		цӏилцӏилаг	t͡sʼilt͡sʼilaɡ
+PWN:speak.v.03		икIэс	ikies
+PWN:spider.n.01		хъисхъа	qisqa
+PWN:spirit.n.04		рухӏ	ruħ
+PWN:spoil.v.02		берхӏес	berħes
+PWN:spoon.n.01		кьулса	qʼulsa
+PWN:spring.n.01		хӏеб	ħeb
+PWN:spring.n.03		бекӏ гӏиниз	bekʼ ʕiniz
+PWN:squirrel.n.01		ярма	jarma
+PWN:stand.v.01		тӏашилзес	tʼaʃilzes
+PWN:star.n.03		зубари	zubari
+PWN:star.n.03		ури	uri
+PWN:state.n.04		пачалихъ	pat͡ʃaliq
+PWN:stay.v.04		калес	kales
+PWN:steal.v.01		бигӏес	biʕes
+PWN:step.v.01		ганзикӏес	ɡanzikʼes
+PWN:stick.n.01		тӏерхьа	tʼerxa
+PWN:still.r.01		гьатӏнра	hatʼnra
+PWN:still.r.01		гьачамлис	hat͡ʃamlis
+PWN:still.r.01		гӏурра	ʕurra
+PWN:sting.v.02		къузбирес	ɢuzbires
+PWN:stir.v.01		халтIбарес	χaltibares
+PWN:stomach.n.01		къикъя	ɢiɢja
+PWN:stop.v.01		тIашбизес	tiaʃbizes
+PWN:stove.n.01		печ	pet͡ʃ
+PWN:strap.n.01		хӏаьба	ħaʲba
+PWN:strength.n.01		бару	baru
+PWN:strength.n.01		гьунар	hunar
+PWN:strength.n.01		дебадеш	debadeʃ
+PWN:strength.n.01		держла цӏакьдешла даража	derʒla t͡sʼaqʼdeʃla daraʒa
+PWN:strength.n.01		къала	ɢala
+PWN:strike.v.01		баьхъес	baʲqes
+PWN:strike.v.01		бяхъес	bjaqes
+PWN:strike.v.01		игьес	ihes
+PWN:strike.v.01		чевхъес	t͡ʃewqes
+PWN:strike.v.01		чегахъес	t͡ʃeɡaqes
+PWN:strike.v.01		чичи-биалра хапли халаси асар барес	t͡ʃit͡ʃi-bialra χapli χalasi asar bares
+PWN:string.n.01		ги	ɡi
+PWN:string.n.01		гъая	ʁaja
+PWN:stroke.n.10		тугъ	tuʁ
+PWN:stupid.a.01		ахмахси	aχmaχsi
+PWN:subsequently.r.01		гӏур	ʕur
+PWN:subsequently.r.01		кӏинайс	kʼinajs
+PWN:suddenly.r.01		хапли	χapli
+PWN:summer.n.01		дуцӏрум	dut͡sʼrum
+PWN:sun.n.01		бархӏи	barħi
+PWN:sunday.n.01		алхIят	alχijat
+PWN:support.n.07		убяхъяла	ubjaqjala
+PWN:swallow.v.01		кьяриэс	qʼjaries
+PWN:swamp.n.01		билхӏла	bilħla
+PWN:swan.n.01		лебедь	lebedʲ
+PWN:sweep.v.06		бушкес	buʃkes
+PWN:sweet.a.01		муриси	murisi
+PWN:swim.v.01		куртӏикӏес	kurtʼikʼes
+PWN:swing.v.01		гьакӏикӏес	hakʼikʼes
+PWN:swing.v.05		гьакӏикӏес	hakʼikʼes
+PWN:swing_around.v.01		убилчебарес	ubilt͡ʃebares
+PWN:table.n.02		кьумур	qʼumur
+PWN:table.n.02		стол	stol
+PWN:tail.n.01		къуйрукъ	ɢujruɢ
+PWN:take.v.04		сасес	sases
+PWN:talk.v.02		гъайикIес	ʁajikijes
+PWN:taste.n.01		тӏем	tʼem
+PWN:tasty.a.01		бизиси	bizisi
+PWN:tea.n.01		чай	t͡ʃaj
+PWN:tea.n.01		чайла кьар	t͡ʃajla qʼar
+PWN:teach.v.01		бучӏахъес	but͡ʃʼaqes
+PWN:teacher.n.01		преподаватель	prepodawatelʲ
+PWN:teacher.n.01		учитель	ut͡ʃitelʲ
+PWN:tear.n.01		бисала кӏаитӏ	bisala kʼaitʼ
+PWN:tear.v.01		баргаэс	barɡaes
+PWN:tear.v.01		бутӏа-бутӏабарес	butʼa-butʼabares
+PWN:tear.v.01		гъярбердес	ʁjarberdes
+PWN:tell.v.03		хабар бурес	χabar bures
+PWN:ten.s.01		вецӏал	wet͡sʼal
+PWN:tendon.n.01		лапи	lapi
+PWN:tether.v.01		бигьес	bihes
+PWN:tether.v.01		билгьес	bilhes
+PWN:then.r.01		гӏур	ʕur
+PWN:then.r.01		кӏинайс	kʼinajs
+PWN:then.r.03		ит замана	it zamana
+PWN:then.r.03		итхӏели	itħeli
+PWN:there.r.01		икӏаб	ikʼab
+PWN:there.r.01		ихаб	iχab
+PWN:there.r.03		икӏа	ikʼa
+PWN:there.r.03		ила	ila
+PWN:thick.a.01		бабза	babza
+PWN:thick.a.03		зумаси	zumasi
+PWN:thigh.n.01		урдур	urdur
+PWN:thin.a.01		букӏула	bukʼula
+PWN:thin.a.02		бархьси	barxsi
+PWN:thin.a.02		букӏулси	bukʼulsi
+PWN:thin.a.02		исбагьиси	isbahisi
+PWN:thing.n.09		авара	awara
+PWN:thing.n.09		биру-балтан	biru-baltan
+PWN:thing.n.09		къуллукъ	ɢulluɢ
+PWN:thing.n.09		хIянчи	χijant͡ʃi
+PWN:thing.n.12		гӏягӏниахъала	ʕjaʕniaqala
+PWN:thing.n.12		секӏал	sekʼal
+PWN:think.v.03		пикриикӏес	pikriikʼes
+PWN:thirty.s.01		хIаьб цIали	χiaʲb t͡siali
+PWN:thorax.n.02		михъир	miqir
+PWN:thousand.s.01		азир	azir
+PWN:thread.n.01		гьимир	himir
+PWN:thread.n.01		чӏи	t͡ʃʼi
+PWN:three.s.01		хIаьбал	χiaʲbal
+PWN:throat.n.01		сурс-кьакьари	surs-qʼaqʼari
+PWN:thrust.v.01		къужбирес	ɢuʒbires
+PWN:thunder.n.02		къукъу	ɢuɢu
+PWN:thunder.v.03		къукъубикӏес	ɢuɢubikʼes
+PWN:thursday.n.01		хамис	χamis
+PWN:thus.r.02		илкьяйда	ilqʼjajda
+PWN:tie.v.01		бигьи дебабирес	bihi debabires
+PWN:tie.v.01		душес	duʃes
+PWN:tie.v.01		цӏапӏбикес	t͡sʼapʼbikes
+PWN:time.n.05		замана	zamana
+PWN:tire.v.02		вамсес	wamses
+PWN:today.r.02		ишбархӏи	iʃbarħi
+PWN:toe.n.01		гумул	ɡumul
+PWN:together.r.01		барх	barχ
+PWN:together.r.01		цахӏнабли	t͡saħnabli
+PWN:token.n.02		лишан	liʃan
+PWN:tomorrow.r.01		жагӏял	ʒaʕjal
+PWN:tone.n.07		тӏама	tʼama
+PWN:tongue.n.01		лезми	lezmi
+PWN:tongue.n.01		мез	mez
+PWN:tongue.n.01		миз	miz
+PWN:tooth.n.01		цула	t͡sula
+PWN:touch.v.01		асарбарес	asarbares
+PWN:towel.n.01		дяхӏушкан	djaħuʃkan
+PWN:town.n.01		шагьар	ʃahar
+PWN:translate.v.01		шурбатес	ʃurbates
+PWN:trap.n.01		тӏимкь	tʼimqʼ
+PWN:trap.v.02		акес	akes
+PWN:trap.v.02		хъямики буцес	qjamiki but͡ses
+PWN:trap.v.02		чесес	t͡ʃeses
+PWN:travel.v.01		башес	baʃes
+PWN:travel.v.01		вашес	waʃes
+PWN:tree.n.01		галга	ɡalɡa
+PWN:trouser.n.01		шалбар	ʃalbar
+PWN:truth.n.01		мар	mar
+PWN:try.v.01		валилзес	walilzes
+PWN:tube.n.01		дяд	djad
+PWN:tube.n.01		труба	truba
+PWN:tuesday.n.01		талат	talat
+PWN:tumble.v.01		кабикес	kabikes
+PWN:tumble.v.01		кадиркес	kadirkes
+PWN:tumble.v.01		кайкес	kajkes
+PWN:turn.v.04		шуратес	ʃurates
+PWN:turn.v.04		шурухъес	ʃuruqes
+PWN:twelve.s.01		вецIнукIел	wet͡sinukijel
+PWN:twenty.s.01		гъал	ʁal
+PWN:two.s.01		кӏел	kʼel
+PWN:uncle.n.01		абадги	abadɡi
+PWN:uncle.n.01		абаузи	abauzi
+PWN:uncle.n.01		авадзи	awad͡zi
+PWN:uncle.n.01		ададзи	adad͡zi
+PWN:uncle.n.01		адаузи	adauzi
+PWN:uncle.n.01		изи	izi
+PWN:understand.v.01		аргъес	arʁes
+PWN:undress.v.01		чеббатес	t͡ʃebbates
+PWN:unfold.v.04		бакес	bakes
+PWN:unfold.v.04		басес	bases
+PWN:up.r.01		лагбяхI	laɡbjaχi
+PWN:up.r.01		чедибях	t͡ʃedibjaχ
+PWN:urge.v.01		къалабаварес	ɢalabawares
+PWN:vainly.r.01		дугӏли	duʕli
+PWN:vein.n.01		тум	tum
+PWN:very.r.01		дебали	debali
+PWN:very.r.01		цӏакьли	t͡sʼaqʼli
+PWN:victimize.v.03		виргӏявиргес	wirʕjawirɡes
+PWN:village.n.02		ши	ʃi
+PWN:violence.n.01		зулму	zulmu
+PWN:visible.a.01		хӏулба чебкули биэс	ħulba t͡ʃebkuli bies
+PWN:visit.v.07		гьавакӏе	hawakʼe
+PWN:visit.v.07		укьес	uqʼes
+PWN:visit.v.07		чегьаухъес	t͡ʃehauqes
+PWN:voice.n.02		тӏама	tʼama
+PWN:wait.v.01		хӏерли кайэс	ħerli kajes
+PWN:wake_up.v.02		чеваргъес	t͡ʃewarʁes
+PWN:walk.n.01		бузии	buzii
+PWN:walk.n.01		ганз	ɡanz
+PWN:walk.n.01		имцӏабикӏни	imt͡sʼabikʼni
+PWN:walk.v.01		бузес	buzes
+PWN:walk.v.01		вяшикӏес	wjaʃikʼes
+PWN:walk.v.01		дуцӏикӏес	dut͡sʼikʼes
+PWN:walk.v.10		шадив вашес	ʃadiw waʃes
+PWN:war.n.01		дургъби	durʁbi
+PWN:war.n.01		дявти	djawti
+PWN:ware.n.01		мас	mas
+PWN:warm.a.01		ванаси	wanasi
+PWN:wash.v.02		бирцес	birt͡ses
+PWN:wash.v.03		бирцес	birt͡ses
+PWN:water.n.06		шин	ʃin
+PWN:wave.n.01		рамч	ramt͡ʃ
+PWN:wave.n.01		ругер	ruɡer
+PWN:weak.a.01		зягӏипси	zjaʕipsi
+PWN:wealth.n.01		давла	dawla
+PWN:wear.v.09		чегьес	t͡ʃehes
+PWN:weather.n.01		аргъ	arʁ
+PWN:wednesday.n.01		арбягӏ	arbjaʕ
+PWN:week.n.01		жумягӏ	ʒumjaʕ
+PWN:weight.n.01		битӏакӏ	bitʼakʼ
+PWN:well.n.01		къую	ɢuju
+PWN:west.n.02		запад	zapad
+PWN:wet.a.01		шинкӏаси	ʃinkʼasi
+PWN:whistle.v.03		шятӏикӏес	ʃjatʼikʼes
+PWN:white.a.01		цӏуба	t͡sʼuba
+PWN:wide.a.01		бягӏуси	bjaʕusi
+PWN:wife.n.01		хьунул	xunul
+PWN:willow.n.01		жярла галга	ʒjarla ɡalɡa
+PWN:win.v.01		ахъес	aqes
+PWN:win.v.01		къиян жапа черардукес	ɢijan ʒapa t͡ʃerardukes
+PWN:win.v.01		чедибдеш сархес	t͡ʃedibdeʃ sarχes
+PWN:wind.n.01		дягӏ	djaʕ
+PWN:window.n.01		улкьай	ulqʼaj
+PWN:wing.n.01		дукала	dukala
+PWN:winter.n.01		яни	jani
+PWN:wipe.v.01		бушкес	buʃkes
+PWN:wolf.n.01		бецӏ	bet͡sʼ
+PWN:woman.n.01		хьунул	xunul
+PWN:wood.n.01		урцул	urt͡sul
+PWN:wool.n.02		бала	bala
+PWN:word.n.01		гъай	ʁaj
+PWN:word.n.01		дев	dew
+PWN:work.n.01		хӏянчи	ħjant͡ʃi
+PWN:work.v.01		узес	uzes
+PWN:world.n.02		дунъя	dunʔja
+PWN:worm.n.01		миликъ	miliɢ
+PWN:write.v.02		лукӏес	lukʼes
+PWN:year.n.01		дус	dus
+PWN:yellow.s.01		бухъутӏа	buqutʼa
+PWN:yesterday.r.01		даг	daɡ
+PWN:young.a.01		жагьил	ʒahil

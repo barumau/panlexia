@@ -1,578 +1,1443 @@
 id	style	word	pronunciation
-Action:can.V		mutembi	mutʰɤmpi
-Agriculture:herd (something).V		adulambi	atulampi
-Agriculture:irrigate.V		hungkerembi	xuŋkʰɤrɤmpi
-Agriculture:irrigate.V		suitambi	suitʰampi
-Agriculture:pick.V		fithembi	fitʰxɤmpi
-Animal:Anatidae.N		niyehe	nijɤxɤ
-Animal:Annelida.N		umiyaha	umijaxa
-Animal:Araneae.N		helmehen	xɤlmɤxɤn
-Animal:Araneae.N		helmeku	xɤlmɤkʰu
-Animal:Aves.N		cecike	t͡ʃɤt͡ʃikʰɤ
-Animal:Canis lupus familiaris.N		indahūn	intaxʊn
-Animal:Canis lupus.N		niohe	ɲɔxɤ
-Animal:Corvus.N		karaki	kʰarakʰi
-Animal:Culicidae.N		oyo	ɔjɔ
-Animal:Diptera.N		derhuwe	tɤrxuwɤ
-Animal:Equus ferus caballus.N		morin	mɔrin
-Animal:Felis catus.N		ujirhi	ud͡ʒirxi
-Animal:Formicidae.N		yeruhuwe	jɤruxuwɤ
-Animal:Gallus gallus domesticus.N		coko	t͡ʃɔkʰɔ
-Animal:Homo sapiens.N		niyalma	nijalma
-Animal:Ovis aries.N		honin	xɔnin
-Animal:Rhopalocera.N		dondon	tɔntɔn
-Animal:Sciuridae.N		soison	sɔisɔn
-Animal:Serpentes.N		meihe	mɤixɤ
-Animal:Sus scrofa domestica.N		ulgiyan	ulkijan
-Animal:Ursidae.N		lefu	lɤfu
-Animal:Vulpes.N		dobi	tɔpi
-Animal:animal.N		ulha	ulxa
-Animal:fish.N		nimaha	nimaxa
-Animal:mouse.N		singgeri	siŋkɤri
-Animal:wool.N		jafu	d͡ʒafu
-Atmosphere:cloud.N		tugi	tʰuki
-Atmosphere:cold.A		serguwen	sɤrkuwɤn
-Atmosphere:cold.A		seruken	sɤrukʰɤn
-Atmosphere:fog.N		talman	tʰalman
-Atmosphere:rain.N		aga	aka
-Atmosphere:rain.V		aga dambi	aka tampi
-Atmosphere:rain.V		agambi	akampi
-Atmosphere:rainbow.N		nioron	ɲɔrɔn
-Atmosphere:sky.N		abka	apkʰa
-Atmosphere:thunder.N		akjan	akʰd͡ʒan
-Atmosphere:thunder.V		akjambi	akʰd͡ʒampi
-Atmosphere:weather.N		abka	apkʰa
-Atmosphere:weather.N		abkai sukdun	apkʰai sukʰtun
-Atmosphere:wind.N		edun	ɤtun
-Belief:deity.N		di	ti
-Belief:deity.N		enduri	ɤnturi
-Belief:idol.N		ūren	ʊrɤn
-Belief:spirit.N		oori simen	ɔɔri simɤn
-Body:arm.N		gala	kala
-Body:arm.N		mayan	majan
-Body:back.N		fisa	fisa
-Body:back.N		seire	sɤirɤ
-Body:beard.N		hūse	xʊsɤ
-Body:belly.N		hefeli	xɤfɤli
-Body:blood.N		senggi	sɤŋki
-Body:blow.V		dambi	tampi
-Body:body.N		beye	pɤjɤ
-Body:bone.N		giranggi	kiraŋki
-Body:bone.N		haihan	xaixan
-Body:brain.N		fehi	fɤxi
-Body:breast.N		hefeliyen	xɤfɤlijɤn
-Body:breast.N		tunggen	tʰuŋkɤn
-Body:breath.N		ergen	ɤrkɤn
-Body:breath.N		ki	kʰi
-Body:breath.N		sukdun	sukʰtun
-Body:breath.V		ergen gaimbi	ɤrkɤn kaimpi
-Body:cheek.N		šakšaha	ʃakʰʃaxa
-Body:chest.N		huhun	xuxun
-Body:chin.N		sencehe	sɤnt͡ʃɤxɤ
-Body:ear.N		šan	ʃan
-Body:elbow.N		mayan	majan
-Body:eye.N		yasa	jasa
-Body:face.N		cira	t͡ʃira
-Body:fat.N		nimenggi	nimɤŋki
-Body:fat.N		tarhūn	tʰarxʊn
-Body:feather.N		fungaha	fuŋaxa
-Body:finger.N		simhun	simxun
-Body:fingernail.N		hitahūn	xitʰaxʊn
-Body:foot.N		bethe	pɤtʰxɤ
-Body:footprint.N		songko	sɔŋkʰɔ
-Body:forehead.N		šenggin	ʃɤŋkin
-Body:fur.N		furdehe	furtɤxɤ
-Body:hair.N		funiyehe	funijɤxɤ
-Body:hand.N		gala	kala
-Body:head.N		uju	ud͡ʒu
-Body:heart.N		niyaman	nijaman
-Body:heel.N		guye	kujɤ
-Body:horn.N		buleri	pulɤri
-Body:horn.N		laba	lapa
-Body:jaw.N		fiyada	fijata
-Body:knee.N		tobgiya	tʰɔpkija
-Body:leg.N		bethe	pɤtʰxɤ
-Body:lip.N		femen	fɤmɤn
-Body:liver.N		fahūn	faxʊn
-Body:moustache.N		šungkulu	ʃuŋkʰulu
-Body:mouth.N		angga	aŋka
-Body:nail.N		hitahūn	xitʰaxʊn
-Body:nape.N		meifen	mɤifɤn
-Body:navel.N		cungguru	t͡ʃuŋkuru
-Body:neck.N		meifen	mɤifɤn
-Body:neck.N		monggon	mɔŋkɔn
-Body:nose.N		oforo	ɔfɔrɔ
-Body:obese.A		tarhūn	tʰarxʊn
-Body:palm.N		simhun hefeli	simxun xɤfɤli
-Body:shoulder.N		aidagan	aitakan
-Body:skin.N		notho	nɔtʰxɔ
-Body:skin.N		sukū	sukʰʊ
-Body:stomach.N		guwejihe	kuwɤd͡ʒixɤ
-Body:tail.N		uncehen	unt͡ʃɤxɤn
-Body:tear.N		hūwajambi	xʊwad͡ʒampi
-Body:tendon.N		ca	t͡ʃa
-Body:throat.N		aksun da	akʰsun ta
-Body:toe.N		simhun	simxun
-Body:tongue.N		ilenggu	ilɤŋku
-Body:tooth.N		weihe	wɤixɤ
-Body:upper leg.N		suksaha	sukʰsaxa
-Body:vein.N		jun	d͡ʒun
-Body:vein.N		me	mɤ
-Body:vein.N		sudala	sutala
-Body:wing.N		asha	asxa
-Body:wound.N		feye	fɤjɤ
-Building:board.N		jurgan	d͡ʒurkan
-Building:board.N		sarhū	sarxʊ
-Building:build.V		sahame weilembi	saxamɤ wɤilɤmpi
-Building:door.N		uce	ut͡ʃɤ
-Building:floor.N		falan	falan
-Building:gate.N		angga	aŋka
-Building:gate.N		duka	tukʰa
-Building:house.N		boo	pɔɔ
-Building:house.N		gurun	kurun
-Building:house.N		ūlen	ʊlɤn
-Building:post.N		moo	mɔɔ
-Building:roof.N		oyo	ɔjɔ
-Building:window.N		fa	fa
-Cleaning:broom.N		eriku	ɤrikʰu
-Cleaning:broom.N		šudu eriku	ʃutu ɤrikʰu
-Cleaning:clean (sth).V		bolgombi	pɔlkɔmpi
-Cleaning:clean.A		bolgo	pɔlkɔ
-Cleaning:dirt.N		berten	pɤrtʰɤn
-Cleaning:dirt.N		fongson	fɔŋsɔn
-Cleaning:dirty.A		hacuka	xat͡ʃukʰa
-Cleaning:sweep.V		erimbi	ɤrimpi
-Cleaning:wash (oneself).V		obombi	ɔpɔmpi
-Cleaning:wash (oneself).V		werembi	wɤrɤmpi
-Cleaning:wash.V		obombi	ɔpɔmpi
-Cleaning:wash.V		šorgimbi	ʃɔrkimpi
-Cleaning:wipe.V		fumbi	fumpi
-Cleaning:wipe.V		mabulanbi	mapulanpi
-Clothing:belt.N		telgin	tʰɤlkin
-Clothing:belt.N		umiyesun	umijɤsun
-Clothing:boot.N		gūlha	kʊlxa
-Clothing:button.N		tohon	tʰɔxɔn
-Clothing:cap.N		fulhutu	fulxutʰu
-Clothing:cap.N		yekse	jɤkʰsɤ
-Clothing:cloth.N		bošo	pɔʃɔ
-Clothing:cloth.N		muten	mutʰɤn
-Clothing:clothes.N		etuku	ɤtʰukʰu
-Clothing:collar.N		lingse	liŋsɤ
-Clothing:dress up.V		etukulembi	ɤtʰukʰulɤmpi
-Clothing:dye.V		icembi	it͡ʃɤmpi
-Clothing:knit.V		tobcilambi	tʰɔpt͡ʃilampi
-Clothing:leather.N		sukū	sukʰʊ
-Clothing:naked.A		niohušun	ɲɔxuʃun
-Clothing:needle.N		ulme	ulmɤ
-Clothing:put on.V		gidambi	kitampi
-Clothing:scarf or turban.N		bošo	pɔʃɔ
-Clothing:sew.V		ifimbi	ifimpi
-Clothing:shirt.N		cimci	t͡ʃimt͡ʃi
-Clothing:shirt.N		gahari	kaxari
-Clothing:shoe.N		sabu	sapu
-Clothing:sleeve.N		ulhi	ulxi
-Clothing:thread.N		siren	sirɤn
-Clothing:thread.N		tonggo	tʰɔŋkɔ
-Clothing:towel.N		fungku	fuŋkʰu
-Clothing:trousers.N		fakūri	fakʰʊri
-Clothing:undress.V		gaimbi	kaimpi
-Clothing:undress.V		sumbi	sumpi
-Cognition:familiar.A		gebungge	kɤpuŋkɤ
-Cognition:true.A		mujangga	mud͡ʒaŋka
-Cognition:true.A		yaargiyan	jaarkijan
-Cognition:true.A		yargiyangga	jarkijaŋka
-Cognition:truth.N		yaargiyan	jaarkijan
-Cognition:wake up (tr).V		and getembi	ant kɤtʰɤmpi
-Cognition:wake up.V		and getembi	ant kɤtʰɤmpi
-Cognition:wake up.V		getembi	kɤtʰɤmpi
-Combat:brawl.V		cahūšambi	t͡ʃaxʊʃampi
-Combat:fight.N		afan	afan
-Combat:strike (sb).V		debderembi	tɤptɤrɤmpi
-Combat:strike (sb).V		fangkambi	faŋkʰampi
-Combat:strike (sb).V		fekcembi	fɤkʰt͡ʃɤmpi
-Combat:violence.N		ergelen	ɤrkɤlɤn
-Combat:violence.N		eten	ɤtʰɤn
-Combat:win.V		etembi	ɤtʰɤmpi
-Communication:boast.V		bardanggilambi	partaŋkilampi
-Communication:boast.V		fiyotombi	fijɔtʰɔmpi
-Communication:boast.V		kūwasadambi	kʰʊwasatampi
-Communication:book.N		bithe	pitʰxɤ
-Communication:call.V		esunggiyembi	ɤsuŋkijɤmpi
-Communication:call.V		kaicambi	kʰait͡ʃampi
-Communication:chat.V		tatambi	tʰatʰampi
-Communication:convey (a message).V		ulambi	ulampi
-Communication:fairy tale.N		juben	d͡ʒupɤn
-Communication:fairy tale.N		ulabun	ulapun
-Communication:kiss.V		angga ojombi	aŋka ɔd͡ʒɔmpi
-Communication:kiss.V		ojombi	ɔd͡ʒɔmpi
-Communication:language.N		gisun	kisun
-Communication:letter.N		jasigan	d͡ʒasikan
-Communication:lie.N		holo gisun	xɔlɔ kisun
-Communication:news.N		mejige	mɤd͡ʒikɤ
-Communication:newspaper.N		boolan hoošan	pɔɔlan xɔɔʃan
-Communication:talk.V		gisurembi	kisurɤmpi
-Communication:tell.V		alambi	alampi
-Communication:translate.V		hafumbi	xafumpi
-Communication:translate.V		tungserembi	tʰuŋsɤrɤmpi
-Communiction:call.N		dere	tɤrɤ
-Cosmos:Sun.N		šun	ʃun
-Cosmos:moon.N		biya	pija
-Cosmos:set.V		tehembi	tʰɤxɤmpi
-Cosmos:set.V		tulembi	tʰulɤmpi
-Cosmos:star.N		usiha	usixa
-Degree:very.ADV		ambula	ampula
-Degree:very.ADV		asi	asi
-Degree:very.ADV		der dar seme	tɤr tar sɤmɤ
-Element:Ag.N		menggun	mɤŋkun
-Element:Au.N		aisin	aisin
-Element:Fe.N		huwešeku	xuwɤʃɤkʰu
-Element:Fe.N		sele	sɤlɤ
-Emotion:be angry.V		bujihilambi	pud͡ʒixilampi
-Emotion:be angry.V		gusucumbi	kusut͡ʃumpi
-Emotion:cry.V		songgombi	sɔŋkɔmpi
-Emotion:evil.A		aburi	apuri
-Emotion:evil.A		ehe	ɤxɤ
-Emotion:evil.A		miosihon	miɔsixɔn
-Emotion:fear.V		tuksimbi	tʰukʰsimpi
-Emotion:gentle.A		jilangga	d͡ʒilaŋka
-Emotion:gentle.A		nesuken	nɤsukʰɤn
-Emotion:grief.N		jobocun	d͡ʒɔpɔt͡ʃun
-Emotion:grief.N		usacun	usat͡ʃun
-Emotion:happiness.N		keksen	kʰɤkʰsɤn
-Emotion:happiness.N		urgun	urkun
-Emotion:like.V		cihalambi	t͡ʃixalampi
-Emotion:longing.N		buyecun	pujɤt͡ʃun
-Emotion:longing.N		buyen	pujɤn
-Emotion:longing.N		buyenin	pujɤnin
-Emotion:love.V		dosholombi	tɔsxɔlɔmpi
-Emotion:love.V		gosimbi	kɔsimpi
-Emotion:love.V		gositambi	kɔsitʰampi
-Emotion:merry.A		urguntu	urkuntʰu
-Emotion:move.V		arbušambi	arpuʃampi
-Emotion:move.V		aššambi	aʃʃampi
-Emotion:move.V		gurimbi	kurimpi
-Emotion:sad.A		urembi	urɤmpi
-Emotion:want.V		cihalambi	t͡ʃixalampi
-Family:aunt.N		deheme	tɤxɤmɤ
-Family:brother.N		ahūn	axʊn
-Family:brother.N		amji	amd͡ʒi
-Family:brother.N		šajingga ahūn	ʃad͡ʒiŋka axʊn
-Family:daughter.N		sargan jui	sarkan d͡ʒui
-Family:family.N		boigon	pɔikɔn
-Family:family.N		boigon anggala	pɔikɔn aŋkala
-Family:family.N		hala	xala
-Family:father.N		ama	ama
-Family:grandfather.N		mafa	mafa
-Family:grandmother.N		mama	mama
-Family:husband.N		eigen	ɤikɤn
-Family:mother.N		eme	ɤmɤ
-Family:mother.N		eniye	ɤnijɤ
-Family:parents.N		juru niyaman	d͡ʒuru nijaman
-Family:sister.N		eyun	ɤjun
-Family:sister.N		gege	kɤkɤ
-Family:sister.N		non	nɔn
-Family:son.N		jui	d͡ʒui
-Family:uncle.N		ecike	ɤt͡ʃikʰɤ
-Family:wife.N		urun	urun
-Food:Camellia sinensis.N		cai	t͡ʃai
-Food:Malus domestica.N		ping g'o	pʰiŋ kˈɔ
-Food:NaCl.N		dabsun	tapsun
-Food:bake.V		fiyakūmbi	fijakʰʊmpi
-Food:bread.N		efen	ɤfɤn
-Food:soup.N		šasihan	ʃasixan
-Food:spoon.N		kuini	kʰuini
-Form:bend (sth).V		bukdalambi	pukʰtalampi
-Form:bend (sth).V		bukdambi	pukʰtampi
-Form:bend (sth).V		gohorombi	kɔxɔrɔmpi
-Form:bend.V		bukdalambi	pukʰtalampi
-Form:bend.V		gohorombi	kɔxɔrɔmpi
-Form:bend.V		musembi	musɤmpi
-Function:1PL.PRO		be	pɤ
-Function:1PL.PRO		muse	musɤ
-Function:1SG.PRO		bi	pi
-Function:2PL.PRO		suwe	suwɤ
-Function:2SG.PRO		si	si
-Function:3PL.PRO		ce	t͡ʃɤ
-Function:3SG M.PRO		i	i
-Function:3SG M.PRO		tere	tʰɤrɤ
-Function:and.CNJ		bime	pimɤ
-Function:here.ADV		ubade	upatɤ
-Function:how many.PRO		udu	utu
-Function:how many.PRO		ya gese	ja kɤsɤ
-Function:how.PRO		adarame	ataramɤ
-Function:how.PRO		ainame	ainamɤ
-Function:not.PTCL		waka	wakʰa
-Function:or.CNJ		eici	ɤit͡ʃi
-Function:other.PRO		jacin	d͡ʒat͡ʃin
-Function:other.PRO		weri	wɤri
-Function:that.PRO		tere	tʰɤrɤ
-Function:there.ADV		cargi	t͡ʃarki
-Function:there.ADV		tubade	tʰupatɤ
-Function:this.PRO		uba	upa
-Function:what.PRO		ai	ai
-Function:where.PRO		aiba	aipa
-Function:who.PRO		we	wɤ
-Function:why.PRO		ai seme	ai sɤmɤ
-Function:why.PRO		ai turgun	ai tʰurkun
-Grooming:comb.N		ijifun	id͡ʒifun
-Grooming:comb.V		ijimbi	id͡ʒimpi
-Grooming:decorate.V		bitumbi	pitʰumpi
-Grooming:decorate.V		miyamimbi	mijamimpi
-Grooming:decorate.V		miyamišambi	mijamiʃampi
-Grooming:mirror.N		buleku	pulɤkʰu
-Grooming:mirror.N		toli	tʰɔli
-Grooming:ring.N		guifun	kuifun
-Handiwork:glue.V		amdulambi	amtulampi
-Handiwork:glue.V		latumbi	latʰumpi
-Handiwork:nail.N		hitahūn	xitʰaxʊn
-Handiwork:repair.V		hiyadambi	xijatampi
-Handiwork:ware.N		hacin	xat͡ʃin
-Handiwork:worker.N		hūsun	xʊsun
-Health:become sick.V		hatarambi	xatʰarampi
-Health:disease.N		nimeku	nimɤkʰu
-Health:healthy.A		katun	kʰatʰun
-Health:medicine.N		daifu i doro	taifu i tɔrɔ
-Health:medicine.N		okto	ɔkʰtʰɔ
-Health:physician.N		oktosi	ɔkʰtʰɔsi
-Health:recover.V		aitumbi	aitʰumpi
-Health:recover.V		sebimbitomsombi	sɤpimpitʰɔmsɔmpi
-House:bed.N		besergen	pɤsɤrkɤn
-House:blanket.N		dobtoloobi	tɔptʰɔlɔɔpi
-House:blanket.N		jafu	d͡ʒafu
-House:cradle.N		duri	turi
-House:pillow.N		cirkū	t͡ʃirkʰʊ
-House:table.N		dere	tɤrɤ
-Hunting:bow.N		beri	pɤri
-Hunting:fishing.V		nimaha buthambi	nimaxa putʰxampi
-Hunting:fishing.V		nimahašambi	nimaxaʃampi
-Hunting:fishing.V		welmiyembi	wɤlmijɤmpi
-Hunting:hunt.V		buthambi	putʰxampi
-Hunting:hunt.V		tumbi	tʰumpi
-Integrity:part.N		fiyentehe	fijɤntʰɤxɤ
-Integrity:part.N		ufuhi	ufuxi
-Integrity:piece.N		dalgan	talkan
-Integrity:piece.N		farsi	farsi
-Integrity:piece.N		tubi	tʰupi
-Interaction:choose.V		sonjonbi	sɔnd͡ʒɔnpi
-Interaction:rescue.V		tucimbi	tʰut͡ʃimpi
-Mind:dream.N		tolgin	tʰɔlkin
-Motion:arrive.V		isimbi	isimpi
-Motion:arrive.V		isinambi	isinampi
-Motion:arrive.V		isinjimbi	isind͡ʒimpi
-Motion:bring.V		gajimbi	kad͡ʒimpi
-Motion:carry.V		tukiyembi	tʰukʰijɤmpi
-Motion:catch.V		nambumbi	nampumpi
-Motion:catch.V		tambi	tʰampi
-Motion:climb.V		fašimbi	faʃimpi
-Motion:climb.V		uyulembi	ujulɤmpi
-Motion:come back.V		bederembi	pɤtɤrɤmpi
-Motion:come back.V		marimbi	marimpi
-Motion:come.V		bahambi	paxampi
-Motion:come.V		jimbi	d͡ʒimpi
-Motion:creep.V		bisurembi	pisurɤmpi
-Motion:drag.V		ušambi	uʃampi
-Motion:drop (something).V		tuhebumbi	tʰuxɤpumpi
-Motion:enter.V		dosinambi	tɔsinampi
-Motion:fall.V		tuhembi	tʰuxɤmpi
-Motion:fly.V		deyembi	tɤjɤmpi
-Motion:go.V		yabumbi	japumpi
-Motion:leave.V		milambi	milampi
-Motion:lift.V		tukiyembi	tʰukʰijɤmpi
-Motion:lift.V		ujimbi	ud͡ʒimpi
-Motion:lift.V		wesimbi	wɤsimpi
-Motion:move (oneself).V		arbušambi	arpuʃampi
-Motion:move (oneself).V		aššambi	aʃʃampi
-Motion:move (oneself).V		gurimbi	kurimpi
-Motion:raise.V		tukiyembi	tʰukʰijɤmpi
-Motion:raise.V		wesimbumbi	wɤsimpumpi
-Motion:step.V		fehūn	fɤxʊn
-Motion:step.V		okson	ɔkʰsɔn
-Motion:swing (sth).V		cekudembi	t͡ʃɤkʰutɤmpi
-Motion:swing.V		cekudembi	t͡ʃɤkʰutɤmpi
-Motion:take a walk.V		feliyeme tabumbi	fɤlijɤmɤ tʰapumpi
-Motion:turn (sth).V		forombi	fɔrɔmpi
-Motion:turn (sth).V		mudakiyambi	mutakʰijampi
-Motion:turn (sth).V		torhombi	tʰɔrxɔmpi
-Motion:walk.N		feliyen	fɤlijɤn
-Music:sing.V		uculembi	ut͡ʃulɤmpi
-Music:sing.V		yangkūnggalambi	jaŋkʰʊŋkalampi
-Music:song.N		ucun	ut͡ʃun
-Music:tone.N		mudan	mutan
-Nature:river.N		giyang	kijaŋ
-Nature:river.N		muke	mukʰɤ
-Nature:sea.N		mederi	mɤtɤri
-Nature:sea.N		namu	namu
-Nature:shore of lake.N		dalin	talin
-Nature:shore of lake.N		jecen dalin	d͡ʒɤt͡ʃɤn talin
-Nature:slope.N		fiyeleku	fijɤlɤkʰu
-People:boy.N		haha jui	xaxa d͡ʒui
-People:boy.N		tungdz	tʰuŋtz
-People:child.N		jui	d͡ʒui
-People:girl.N		niyang	nijaŋ
-People:girl.N		sargan jui	sarkan d͡ʒui
-People:man.N		eigen	ɤikɤn
-People:man.N		haha	xaxa
-People:man.N		niyalma	nijalma
-People:people.N		niyalma	nijalma
-People:woman.N		hehe	xɤxɤ
-People:woman.N		sargan	sarkan
-Perception:feel.V		bušumbi	puʃumpi
-Perception:feel.V		serebumbi	sɤrɤpumpi
-Perception:hear or listen.V		donjimbi	tɔnd͡ʒimpi
-Perception:hear.V		donjimbi	tɔnd͡ʒimpi
-Perception:pain.N		nimeku	nimɤkʰu
-Perception:wet.A		usuhin	usuxin
-Perception:yellow.A		suwayan	suwajan
-Plant:Betula.N		fiya	fija
-Plant:bark.N		notho	nɔtʰxɔ
-Plant:branch.N		gargan	karkan
-Plant:flower.N		ilha	ilxa
-Plant:leaf.N		abdaha	aptaxa
-Plant:root.N		da	ta
-Plant:root.N		fulehe	fulɤxɤ
-Plant:seed.N		use	usɤ
-Plant:tree trunk.N		da	ta
-Plant:tree trunk.N		gurun	kurun
-Plant:tree trunk.N		hithen	xitʰxɤn
-Plant:tree.N		moo	mɔɔ
-Plant:twig.N		gargan	karkan
-Plant:twig.N		moo	mɔɔ
-Possession:abandon.V		aljambi	ald͡ʒampi
-Possession:abandon.V		multujembi	multʰud͡ʒɤmpi
-Possession:abandon.V		uksulambi	ukʰsulampi
-Possession:gift.N		doro	tɔrɔ
-Possession:gift.N		doroi jaka	tɔrɔi d͡ʒakʰa
-Possession:poor.A		jilun	d͡ʒilun
-Possession:poor.A		yadahūn	jataxʊn
-Possession:price.N		hūda	xʊta
-Possession:rich.A		badaraka	patarakʰa
-Possession:rich.A		bayan	pajan
-Possession:sell.V		uncambi	unt͡ʃampi
-Quantity:1.NUM		emu	ɤmu
-Quantity:10.NUM		juwan	d͡ʒuwan
-Quantity:100.NUM		cen	t͡ʃɤn
-Quantity:1000.NUM		minggan	miŋkan
-Quantity:11.NUM		juwan emu	d͡ʒuwan ɤmu
-Quantity:12.NUM		juwan juwe	d͡ʒuwan d͡ʒuwɤ
-Quantity:2.NUM		juwe	d͡ʒuwɤ
-Quantity:20.NUM		orin	ɔrin
-Quantity:3.NUM		ilan	ilan
-Quantity:30.NUM		gūnin	kʊnin
-Quantity:4.NUM		duin	tuin
-Quantity:40.NUM		dehi	tɤxi
-Quantity:5.NUM		sunja	sund͡ʒa
-Quantity:50.NUM		susai	susai
-Quantity:6.NUM		ninggun	niŋkun
-Quantity:60.NUM		ninju	nind͡ʒu
-Quantity:7.NUM		nadan	natan
-Quantity:70.NUM		nadanjū	natand͡ʒʊ
-Quantity:8.NUM		jakūn	d͡ʒakʰʊn
-Quantity:80.NUM		jakūnju	d͡ʒakʰʊnd͡ʒu
-Quantity:9.NUM		uyun	ujun
-Quantity:90.NUM		uyunju	ujund͡ʒu
-Quantity:a little.A		ajige ajige	ad͡ʒikɤ ad͡ʒikɤ
-Quantity:add.V		jalgiyambi	d͡ʒalkijampi
-Quantity:add.V		nemembi	nɤmɤmpi
-Quantity:add.V		nonggimbi	nɔŋkimpi
-Quantity:decrease.V		gaimbi	kaimpi
-Quantity:decrease.V		komsolambi	kʰɔmsɔlampi
-Quantity:decrease.V		sumbi	sumpi
-Quantity:empty.A		ebetuhun	ɤpɤtʰuxun
-Quantity:empty.A		ebetuhun holo	ɤpɤtʰuxun xɔlɔ
-Quantity:fill.V		filhembi	filxɤmpi
-Quantity:full.A		jalu	d͡ʒalu
-Quantity:increase.V		labdulambi	laptulampi
-Quantity:increase.V		nemembi	nɤmɤmpi
-Quantity:increase.V		nonggimbi	nɔŋkimpi
-Society:help.N		aisilan	aisilan
-Society:people.N		irgen	irkɤn
-Society:people.N		uksura	ukʰsura
-Sound:chime.V		carkimbi	t͡ʃarkʰimpi
-Sound:laugh.V		injembi	ind͡ʒɤmpi
-Sound:make noise.V		curgimbi	t͡ʃurkimpi
-Sound:rustle (of leaves).V		amcanambi	amt͡ʃanampi
-Sound:rustle (of leaves).V		gardambi	kartampi
-Sound:shout.V		kaicambi	kʰait͡ʃampi
-Sound:shout.V		surembi	surɤmpi
-Sound:sound (of instrument or voice).V		guwembi	kuwɤmpi
-Sound:voice.N		jilgan	d͡ʒilkan
-Sound:whistle.V		fulgiyeku	fulkijɤkʰu
-Space:back.ADV		cashūn	t͡ʃasxʊn
-Space:wide.A		leli	lɤli
-Storage:bag.N		dabargan	taparkan
-Storage:bag.N		doboton	tɔpɔtʰɔn
-Storage:box.N		hiyase	xijasɤ
-Storage:box.N		hose	xɔsɤ
-Storage:bucket.N		sihan	sixan
-Storage:heap.N		borhon	pɔrxɔn
-Storage:lid.N		dobtoloobi	tɔptʰɔlɔɔpi
-Storage:load.N		aciha	at͡ʃixa
-Storage:load.N		acin	at͡ʃin
-Storage:misplace.V		aljambi	ald͡ʒampi
-Storage:misplace.V		ufarambi	ufarampi
-Storage:pouch.N		dabargan	taparkan
-Storage:pouch.N		fintaha	fintʰaxa
-Storage:pouch.N		fulakcan	fulakʰt͡ʃan
-Storage:pour.V		doolambi	tɔɔlampi
-Storage:pour.V		hungkerembi	xuŋkʰɤrɤmpi
-Storage:pour.V		suitambi	suitʰampi
-Storage:sack.N		fulhū	fulxʊ
-Time:April.N		duin biya	tuin pija
-Time:August.N		jakūn biya	d͡ʒakʰʊn pija
-Time:December.N		jorgon biya	d͡ʒɔrkɔn pija
-Time:February.N		juwe biya	d͡ʒuwɤ pija
-Time:January.N		aniya biya	anija pija
-Time:July.N		nadan biya	natan pija
-Time:June.N		ninggun biya	niŋkun pija
-Time:March.N		ilan biya	ilan pija
-Time:May.N		sunja biya	sund͡ʒa pija
-Time:November.N		omšon biya	ɔmʃɔn pija
-Time:October.N		juwan biya	d͡ʒuwan pija
-Time:September.N		uyun biya	ujun pija
-Time:age.N		mafa	mafa
-Time:already.ADV		aifini	aifini
-Time:always.ADV		aika ohode	aikʰa ɔxɔtɤ
-Time:always.ADV		urui	urui
-Time:autumn.N		bolori	pɔlɔri
-Time:final.A		lala	lala
-Time:month.N		biya	pija
-Time:new.A		arda	arta
-Time:new.A		kišan	kʰiʃan
-Time:new.A		soningga	sɔniŋka
-Time:night.N		dobon	tɔpɔn
-Time:night.N		dobori	tɔpɔri
-Time:now.ADV		ne	nɤ
-Time:often.ADV		daruhai	taruxai
-Time:often.ADV		erin akū	ɤrin akʰʊ
-Time:often.ADV		jing	d͡ʒiŋ
-Time:old (of person).A		fe	fɤ
-Time:old (of person).A		sakda	sakʰta
-Time:old.A		fe	fɤ
-Time:old.A		sakda	sakʰta
-Time:one time.ADV		emgeri	ɤmkɤri
-Time:one time.ADV		emu mari	ɤmu mari
-Time:pass.V		dulembi	tulɤmpi
-Time:springtime.N		selmin	sɤlmin
-Time:springtime.N		šeri	ʃɤri
-Time:still.ADV		cib cab	t͡ʃip t͡ʃap
-Time:still.ADV		geli	kɤli
-Time:summer.N		juwari	d͡ʒuwari
-Time:time.N		mudan	mutan
-Time:today.ADV		enenggi	ɤnɤŋki
-Time:today.ADV		ineku inenggi	inɤkʰu inɤŋki
-Time:tomorrow.ADV		cimari	t͡ʃimari
-Time:wait.V		aliyambi	alijampi
-Time:winter.N		tuweri	tʰuwɤri
-Time:year.N		se	sɤ
-Time:yesterday.ADV		sikse	sikʰsɤ
-Transit:boat.N		cūwhan	t͡ʃʊwxan
-Transit:boat.N		jahūdai	d͡ʒaxʊtai
-Transit:oar.N		joolikū	d͡ʒɔɔlikʰʊ
-Transit:road.N		jugūn	d͡ʒukʊn
-Transit:row.V		selbimbi	sɤlpimpi
-Value:bad.A		ehe	ɤxɤ
-Value:bad.A		ehelinggu	ɤxɤliŋku
-Value:good.A		sain	sain
-Value:good.A		saintu	saintʰu
-Value:improve.V		dasambi	tasampi
-Value:improve.V		wembi	wɤmpi
+PLX:1PL.pro		be	pɤ
+PLX:1PL.pro		muse	musɤ
+PLX:1SG.pro		bi	pi
+PLX:2PL.pro		suwe	suwɤ
+PLX:2SG.pro		si	si
+PLX:3PL.pro		ce	t͡ʃɤ
+PLX:3SG M.pro		i	i
+PLX:3SG M.pro		tere	tʰɤrɤ
+PLX:and.cnj		bime	pimɤ
+PLX:because of.adp		jakade	d͡ʒakʰatɤ
+PLX:behind.adp		amala	amala
+PLX:behind.adp		amrgi	amrki
+PLX:behind.adp		sitashūn	sitʰasxʊn
+PLX:beside.adp		tulgiyen	tʰulkijɤn
+PLX:can.v		mutembi	mutʰɤmpi
+PLX:die (from accident).V		susambi	susampi
+PLX:everywhere.pro		akūname	akʰʊnamɤ
+PLX:everywhere.pro		ba ba	pa pa
+PLX:everywhere.pro		babade	papatɤ
+PLX:from here.adv		ubaci	upat͡ʃi
+PLX:get sick.V		hatarambi	xatʰarampi
+PLX:how many.pro		udu	utu
+PLX:how many.pro		ya gese	ja kɤsɤ
+PLX:how.pro		adarame	ataramɤ
+PLX:how.pro		ainame	ainamɤ
+PLX:in front of.adp		jakade	d͡ʒakʰatɤ
+PLX:in front of.adp		julergi	d͡ʒulɤrki
+PLX:or.cnj		eici	ɤit͡ʃi
+PLX:that.pro		tere	tʰɤrɤ
+PLX:this.pro		uba	upa
+PLX:under.adp		wala	wala
+PLX:under.adp		wargi	warki
+PLX:what.pro		ai	ai
+PLX:where.pro		aiba	aipa
+PLX:where_to.pro		aibide	aipitɤ
+PLX:who.pro		we	wɤ
+PLX:why.pro		ai seme	ai sɤmɤ
+PLX:why.pro		ai turgun	ai tʰurkun
+PWN:abandon.v.02		aljambi	ald͡ʒampi
+PWN:abandon.v.02		multujembi	multʰud͡ʒɤmpi
+PWN:abandon.v.02		uksulambi	ukʰsulampi
+PWN:abdomen.n.01		hefeli	xɤfɤli
+PWN:above.r.02		dergi	tɤrki
+PWN:act.v.02		arambi	arampi
+PWN:add.v.01		jalgiyambi	d͡ʒalkijampi
+PWN:add.v.01		nemembi	nɤmɤmpi
+PWN:add.v.01		nonggimbi	nɔŋkimpi
+PWN:address.n.03		gisun	kisun
+PWN:affect.v.05		arbušambi	arpuʃampi
+PWN:affect.v.05		aššambi	aʃʃampi
+PWN:affect.v.05		gurimbi	kurimpi
+PWN:again.r.01		dabtan	taptʰan
+PWN:again.r.01		dahūn	taxʊn
+PWN:age.n.01		mafa	mafa
+PWN:ahead.r.03		julesi	d͡ʒulɤsi
+PWN:aid.n.02		aisilan	aisilan
+PWN:air.n.01		abkai sukdun	apkʰai sukʰtun
+PWN:air.n.01		sukdun	sukʰtun
+PWN:alive.a.01		ergengge	ɤrkɤŋkɤ
+PWN:alive.a.01		weihun	wɤixun
+PWN:all.a.01		eiten baita	ɤitʰɤn paitʰa
+PWN:all.a.01		elengge	ɤlɤŋkɤ
+PWN:allege.v.01		hendumbi	xɤntumpi
+PWN:alone.r.02		emuhun	ɤmuxun
+PWN:alone.r.02		lokdohon	lɔkʰtɔxɔn
+PWN:already.r.01		aifini	aifini
+PWN:always.r.01		aika ohode	aikʰa ɔxɔtɤ
+PWN:always.r.01		urui	urui
+PWN:anger.v.01		nungnembi	nuŋnɤmpi
+PWN:anger.v.02		bujihilambi	pud͡ʒixilampi
+PWN:anger.v.02		gusucumbi	kusut͡ʃumpi
+PWN:animal.n.01		ulha	ulxa
+PWN:animation.n.01		ergen	ɤrkɤn
+PWN:ant.n.01		yeruhuwe	jɤruxuwɤ
+PWN:apparel.n.01		etuku	ɤtʰukʰu
+PWN:apple.n.01		ping g'o	pʰiŋ kˈɔ
+PWN:april.n.01		duin biya	tuin pija
+PWN:apt.s.03		gabsihiyan	kapsixijan
+PWN:apt.s.03		sektu	sɤkʰtʰu
+PWN:apt.s.03		ulhisu	ulxisu
+PWN:area.n.01		hošo	xɔʃɔ
+PWN:arise.v.03		ikūrulambi	ikʰʊrulampi
+PWN:arm.n.01		gala	kala
+PWN:arm.n.01		mayan	majan
+PWN:arrive.v.01		bahambi	paxampi
+PWN:arrive.v.01		isimbi	isimpi
+PWN:arrive.v.01		isinambi	isinampi
+PWN:arrive.v.01		isinjimbi	isind͡ʒimpi
+PWN:arrive.v.01		jimbi	d͡ʒimpi
+PWN:arrow.n.02		niru	niru
+PWN:arrow.n.02		sirdan	sirtan
+PWN:ascend.v.01		labdulambi	laptulampi
+PWN:ascend.v.01		nemembi	nɤmɤmpi
+PWN:ash.n.01		furanaha	furanaxa
+PWN:ask.v.02		anggalambi	aŋkalampi
+PWN:ask.v.02		fonjimbi	fɔnd͡ʒimpi
+PWN:ask.v.02		fonjindumbi	fɔnd͡ʒintumpi
+PWN:ask.v.05		fonjimbi	fɔnd͡ʒimpi
+PWN:ask.v.05		fonjindumbi	fɔnd͡ʒintumpi
+PWN:ask.v.05		fonjinumbi	fɔnd͡ʒinumpi
+PWN:august.n.01		jakūn biya	d͡ʒakʰʊn pija
+PWN:aunt.n.01		deheme	tɤxɤmɤ
+PWN:awaken.v.01		and getembi	ant kɤtʰɤmpi
+PWN:back.n.01		fisa	fisa
+PWN:back.n.01		seire	sɤirɤ
+PWN:back.r.01		cashūn	t͡ʃasxʊn
+PWN:back.r.02		cashūn	t͡ʃasxʊn
+PWN:bad.a.01		ehe	ɤxɤ
+PWN:bad.a.01		ehelinggu	ɤxɤliŋku
+PWN:bag.n.01		dabargan	taparkan
+PWN:bag.n.01		doboton	tɔpɔtʰɔn
+PWN:bake.v.02		fiyakūmbi	fijakʰʊmpi
+PWN:bare.s.01		niohušun	ɲɔxuʃun
+PWN:bark.n.01		notho	nɔtʰxɔ
+PWN:bark.v.04		gūwambi	kʊwampi
+PWN:bathe.v.01		ebišembi	ɤpiʃɤmpi
+PWN:battle.n.01		afan	afan
+PWN:bay.n.01		birgan	pirkan
+PWN:be_born.v.01		banjimbi	pand͡ʒimpi
+PWN:bear.n.01		lefu	lɤfu
+PWN:beard.n.01		hūse	xʊsɤ
+PWN:beautiful.a.01		hocikon	xɔt͡ʃikʰɔn
+PWN:beautiful.a.01		oihori	ɔixɔri
+PWN:beautiful.a.01		yangsangga	jaŋsaŋka
+PWN:become.v.01		banjimbi	pand͡ʒimpi
+PWN:bed.n.01		besergen	pɤsɤrkɤn
+PWN:begin.v.03		dekdeljembi	tɤkʰtɤld͡ʒɤmpi
+PWN:begin.v.03		doktolambi	tɔkʰtʰɔlampi
+PWN:believe.v.01		akdambi	akʰtampi
+PWN:beloved.s.01		haji	xad͡ʒi
+PWN:belt.n.02		telgin	tʰɤlkin
+PWN:belt.n.02		umiyesun	umijɤsun
+PWN:bend.v.01		bukdalambi	pukʰtalampi
+PWN:bend.v.01		bukdambi	pukʰtampi
+PWN:bend.v.01		gohorombi	kɔxɔrɔmpi
+PWN:benefit.n.02		tusa	tʰusa
+PWN:berry.n.01		eritun	ɤritʰun
+PWN:berry.n.01		janjuri	d͡ʒand͡ʒuri
+PWN:berry.n.01		uluri	uluri
+PWN:better.v.02		dasambi	tasampi
+PWN:better.v.02		wembi	wɤmpi
+PWN:between.r.02		juwe sidende	d͡ʒuwɤ sitɤntɤ
+PWN:between.r.02		siden de	sitɤn tɤ
+PWN:birch.n.02		fiya	fija
+PWN:bird.n.01		cecike	t͡ʃɤt͡ʃikʰɤ
+PWN:bite.v.01		šufambi	ʃufampi
+PWN:bitter.s.06		gosihon	kɔsixɔn
+PWN:black.a.01		sahaliyan	saxalijan
+PWN:blade.n.01		abdaha	aptaxa
+PWN:blanket.n.01		dobtoloobi	tɔptʰɔlɔɔpi
+PWN:blanket.n.01		jafu	d͡ʒafu
+PWN:blind.a.01		dogo	tɔkɔ
+PWN:blind.a.01		hijuhūn	xid͡ʒuxʊn
+PWN:blood.n.01		senggi	sɤŋki
+PWN:blow.v.01		dambi	tampi
+PWN:blow.v.02		deyembi	tɤjɤmpi
+PWN:blue.s.01		kūke	kʰʊkʰɤ
+PWN:blue.s.01		lamun	lamun
+PWN:blunt.s.02		moco	mɔt͡ʃɔ
+PWN:blunt.s.02		mufuyen	mufujɤn
+PWN:board.n.02		jurgan	d͡ʒurkan
+PWN:board.n.02		sarhū	sarxʊ
+PWN:boast.v.01		bardanggilambi	partaŋkilampi
+PWN:boast.v.01		fiyotombi	fijɔtʰɔmpi
+PWN:boast.v.01		kūwasadambi	kʰʊwasatampi
+PWN:boat.n.01		cūwhan	t͡ʃʊwxan
+PWN:boat.n.01		jahūdai	d͡ʒaxʊtai
+PWN:body.n.01		beye	pɤjɤ
+PWN:boil.v.01		bujumbi	pud͡ʒumpi
+PWN:boil.v.01		feifumbi	fɤifumpi
+PWN:boil.v.01		fuyembi	fujɤmpi
+PWN:boil.v.03		buda arambi	puta arampi
+PWN:boil.v.03		bujumbi	pud͡ʒumpi
+PWN:boil.v.03		feifumbi	fɤifumpi
+PWN:bone.n.01		giranggi	kiraŋki
+PWN:bone.n.01		haihan	xaixan
+PWN:book.n.01		bithe	pitʰxɤ
+PWN:boot.n.01		gūlha	kʊlxa
+PWN:botch.v.01		gūwaliyambi	kʊwalijampi
+PWN:botch.v.01		gūwašambi	kʊwaʃampi
+PWN:boundary_line.n.01		gūsihiya	kʊsixija
+PWN:bow.n.04		beri	pɤri
+PWN:box.n.01		hiyase	xijasɤ
+PWN:box.n.01		hose	xɔsɤ
+PWN:brain.n.01		fehi	fɤxi
+PWN:branch.n.02		gargan	karkan
+PWN:branchlet.n.01		gargan	karkan
+PWN:branchlet.n.01		moo	mɔɔ
+PWN:brawl.v.01		cahūšambi	t͡ʃaxʊʃampi
+PWN:bread.n.01		efen	ɤfɤn
+PWN:break.v.05		bijambi	pid͡ʒampi
+PWN:break.v.05		cok cak sembi	t͡ʃɔkʰ t͡ʃakʰ sɤmpi
+PWN:breast.n.02		hefeliyen	xɤfɤlijɤn
+PWN:breast.n.02		tunggen	tʰuŋkɤn
+PWN:breath.n.02		ergen	ɤrkɤn
+PWN:breath.n.02		ki	kʰi
+PWN:breath.n.02		sukdun	sukʰtun
+PWN:breathe.v.01		ergen gaimbi	ɤrkɤn kaimpi
+PWN:bridge.n.01		doohan	tɔɔxan
+PWN:bridge.n.01		kiyoo	kʰijɔɔ
+PWN:bright.a.01		gehun	kɤxun
+PWN:bright.a.01		ildamu	iltamu
+PWN:bright.a.01		iletungge	ilɤtʰuŋkɤ
+PWN:bring.v.01		gajimbi	kad͡ʒimpi
+PWN:brook.n.01		birgan	pirkan
+PWN:brook.n.01		muke	mukʰɤ
+PWN:broom.n.01		eriku	ɤrikʰu
+PWN:broom.n.01		šudu eriku	ʃutu ɤrikʰu
+PWN:brother.n.01		ahūn	axʊn
+PWN:brother.n.01		amji	amd͡ʒi
+PWN:brother.n.01		šajingga ahūn	ʃad͡ʒiŋka axʊn
+PWN:brow.n.01		šenggin	ʃɤŋkin
+PWN:bucket.n.01		sihan	sixan
+PWN:bull.n.01		ihan	ixan
+PWN:bundle.n.02		boose	pɔɔsɤ
+PWN:bundle.n.02		fulmiyen	fulmijɤn
+PWN:burn.v.03		dambi	tampi
+PWN:burn.v.03		dekjimbi	tɤkʰd͡ʒimpi
+PWN:burn.v.03		halambi	xalampi
+PWN:burn.v.07		dambi	tampi
+PWN:burn.v.07		dekjimbi	tɤkʰd͡ʒimpi
+PWN:business.n.01		hūda	xʊta
+PWN:business.n.01		hūda maiman	xʊta maiman
+PWN:business.n.01		puseli	pʰusɤli
+PWN:butter.n.01		sun nimenggi	sun nimɤŋki
+PWN:butterfly.n.01		dondon	tɔntɔn
+PWN:button.n.01		tohon	tʰɔxɔn
+PWN:buy.v.01		udambi	utampi
+PWN:calculate.v.01		dembi	tɤmpi
+PWN:calendar_month.n.01		biya	pija
+PWN:call.v.05		esunggiyembi	ɤsuŋkijɤmpi
+PWN:call.v.05		kaicambi	kʰait͡ʃampi
+PWN:campfire.n.01		ihan tuwa	ixan tʰuwa
+PWN:cap.n.01		fulhutu	fulxutʰu
+PWN:cap.n.01		yekse	jɤkʰsɤ
+PWN:cat.n.01		ujirhi	ud͡ʒirxi
+PWN:catch.v.04		nambumbi	nampumpi
+PWN:catch.v.04		tambi	tʰampi
+PWN:cause.n.01		giyan	kijan
+PWN:cause.n.01		turgun	tʰurkun
+PWN:cave.n.01		dung	tuŋ
+PWN:cave.n.01		dunggu	tuŋku
+PWN:cavil.v.01		jong jong seme gašambi	d͡ʒɔŋ d͡ʒɔŋ sɤmɤ kaʃampi
+PWN:center.n.01		dulimba	tulimpa
+PWN:center.n.01		dulin	tulin
+PWN:chair.n.01		bandan	pantan
+PWN:chair.n.01		ise	isɤ
+PWN:chair.n.01		nikeku mulan	nikʰɤkʰu mulan
+PWN:change.v.01		forgošombi	fɔrkɔʃɔmpi
+PWN:change.v.01		gūwaliyambi	kʊwalijampi
+PWN:change.v.01		halambi	xalampi
+PWN:change.v.03		forgošombi	fɔrkɔʃɔmpi
+PWN:change.v.03		gūwaliyambi	kʊwalijampi
+PWN:change.v.03		halambi	xalampi
+PWN:character.n.08		hergen	xɤrkɤn
+PWN:cheap.a.01		ja	d͡ʒa
+PWN:cheek.n.01		šakšaha	ʃakʰʃaxa
+PWN:cherished.s.01		buyecuke	pujɤt͡ʃukʰɤ
+PWN:cherished.s.01		hihan	xixan
+PWN:cherished.s.01		ujen	ud͡ʒɤn
+PWN:chicken.n.02		coko	t͡ʃɔkʰɔ
+PWN:child.n.01		jui	d͡ʒui
+PWN:chin.n.01		sencehe	sɤnt͡ʃɤxɤ
+PWN:choose.v.01		sonjonbi	sɔnd͡ʒɔnpi
+PWN:chop.v.01		kengsimbi	kʰɤŋsimpi
+PWN:chop.v.01		sacimbi	sat͡ʃimpi
+PWN:church.n.02		tiyan ju tang miyoo	tʰijan d͡ʒu tʰaŋ mijɔɔ
+PWN:circle.n.03		fuka	fukʰa
+PWN:citizenry.n.01		irgen	irkɤn
+PWN:citizenry.n.01		uksura	ukʰsura
+PWN:claw.n.01		ošoho	ɔʃɔxɔ
+PWN:claw.n.01		wasiha	wasixa
+PWN:clay.n.01		yeye boihon	jɤjɤ pɔixɔn
+PWN:clean.a.01		bolgo	pɔlkɔ
+PWN:clean.v.01		bolgombi	pɔlkɔmpi
+PWN:climb.v.01		fašimbi	faʃimpi
+PWN:climb.v.01		uyulembi	ujulɤmpi
+PWN:close.v.01		gidambi	kitampi
+PWN:close.v.01		yaksimbi	jakʰsimpi
+PWN:cloud.n.02		tugi	tʰuki
+PWN:coal.n.01		yaha	jaxa
+PWN:cock.n.04		bulun	pulun
+PWN:cold.a.01		antuhūri	antʰuxʊri
+PWN:cold.a.01		beyen	pɤjɤn
+PWN:cold.a.01		serguwen	sɤrkuwɤn
+PWN:cold.a.01		seruken	sɤrukʰɤn
+PWN:coldness.n.03		beikuwen	pɤikʰuwɤn
+PWN:coldness.n.03		edun	ɤtun
+PWN:collar.n.01		lingse	liŋsɤ
+PWN:colorful.a.01		boconggo	pɔt͡ʃɔŋkɔ
+PWN:comb.n.01		ijifun	id͡ʒifun
+PWN:comb.v.01		ijimbi	id͡ʒimpi
+PWN:commend.v.01		algidambi	alkitampi
+PWN:commend.v.01		caksimbi	t͡ʃakʰsimpi
+PWN:commend.v.01		kiyakiyambi	kʰijakʰijampi
+PWN:companion.n.01		gargan	karkan
+PWN:companion.n.01		hoki	xɔkʰi
+PWN:company.n.03		hūfan	xʊfan
+PWN:complete.v.01		dubembi	tupɤmpi
+PWN:complete.v.01		wacihiyambi	wat͡ʃixijampi
+PWN:connect.v.01		holbombi	xɔlpɔmpi
+PWN:connect.v.01		suwaliyambi	suwalijampi
+PWN:conserve.v.02		bargiyambi	parkijampi
+PWN:conserve.v.02		taksimbi	tʰakʰsimpi
+PWN:construct.v.01		sahame weilembi	saxamɤ wɤilɤmpi
+PWN:conversation.n.01		gisuren	kisurɤn
+PWN:converse.v.01		tatambi	tʰatʰampi
+PWN:convey.v.01		ulambi	ulampi
+PWN:cook.v.02		buda arambi	puta arampi
+PWN:cook.v.02		bujumbi	pud͡ʒumpi
+PWN:corner.n.03		šala	ʃala
+PWN:corpulent.s.01		tarhūn	tʰarxʊn
+PWN:correctly.r.01		uru	uru
+PWN:cough.v.01		fucihiyambi	fut͡ʃixijampi
+PWN:cough.v.01		kengsimbi	kʰɤŋsimpi
+PWN:count.n.01		be	pɤ
+PWN:count.v.01		tolombi	tʰɔlɔmpi
+PWN:country.n.02		gurun	kurun
+PWN:cover.v.01		buheliyembi	puxɤlijɤmpi
+PWN:cover.v.01		huwejembi	xuwɤd͡ʒɤmpi
+PWN:cow.n.01		ihan	ixan
+PWN:cradle.n.01		duri	turi
+PWN:crane.n.05		bulehen	pulɤxɤn
+PWN:crawl.v.01		bisurembi	pisurɤmpi
+PWN:crisscross.n.01		šaka	ʃakʰa
+PWN:crow.n.01		karaki	kʰarakʰi
+PWN:cry.n.01		dere	tɤrɤ
+PWN:cry.v.02		songgombi	sɔŋkɔmpi
+PWN:cuckoo.n.02		kekuhe	kʰɤkʰuxɤ
+PWN:cup.n.01		hūntahan	xʊntʰaxan
+PWN:current.n.02		eyen	ɤjɤn
+PWN:cut.v.01		faitambi	faitʰampi
+PWN:damage.n.01		dauran	tauran
+PWN:damage.n.01		kokiran	kʰɔkʰiran
+PWN:damage.v.01		dašurambi	taʃurampi
+PWN:damage.v.01		kokirambi	kʰɔkʰirampi
+PWN:damp.s.01		derbehun	tɤrpɤxun
+PWN:damp.s.01		surgin	surkin
+PWN:dance.v.02		maksimbi	makʰsimpi
+PWN:dark.a.01		butu	putʰu
+PWN:dark.a.01		tulhun	tʰulxun
+PWN:daughter.n.01		sargan jui	sarkan d͡ʒui
+PWN:day.n.01		inenggi	inɤŋki
+PWN:day.n.01		šun	ʃun
+PWN:deaf.a.01		dutu	tutʰu
+PWN:deaf.a.01		maigū	maikʊ
+PWN:death.n.01		aldasi	altasi
+PWN:deceive.v.01		hoššombi	xɔʃʃɔmpi
+PWN:december.n.01		jorgon biya	d͡ʒɔrkɔn pija
+PWN:decompose.v.03		ibtenembi	iptʰɤnɤmpi
+PWN:decorate.v.01		bitumbi	pitʰumpi
+PWN:decorate.v.01		miyamimbi	mijamimpi
+PWN:decorate.v.01		miyamišambi	mijamiʃampi
+PWN:decrease.v.01		gaimbi	kaimpi
+PWN:decrease.v.01		komsolambi	kʰɔmsɔlampi
+PWN:decrease.v.01		sumbi	sumpi
+PWN:defend.v.03		akdulambi	akʰtulampi
+PWN:defend.v.03		haršambi	xarʃampi
+PWN:defend.v.03		seremšembi	sɤrɤmʃɤmpi
+PWN:deft.s.01		faksi	fakʰsi
+PWN:deft.s.01		gabsihiyan	kapsixijan
+PWN:deft.s.01		nergi	nɤrki
+PWN:deity.n.01		di	ti
+PWN:deity.n.01		enduri	ɤnturi
+PWN:descend.v.01		eyembi	ɤjɤmpi
+PWN:desire.n.01		buyecun	pujɤt͡ʃun
+PWN:desire.n.01		buyen	pujɤn
+PWN:desire.n.01		buyenin	pujɤnin
+PWN:desire.v.01		cihalambi	t͡ʃixalampi
+PWN:destroy.v.02		ebderembi	ɤptɤrɤmpi
+PWN:destroy.v.02		efulembi	ɤfulɤmpi
+PWN:detect.v.01		barkiyambi	parkʰijampi
+PWN:die.v.01		susambi	susampi
+PWN:different.a.01		encu	ɤnt͡ʃu
+PWN:dig.v.01		fetembi	fɤtʰɤmpi
+PWN:dig.v.01		feterembi	fɤtʰɤrɤmpi
+PWN:digest.v.03		alimbi	alimpi
+PWN:digest.v.03		daruobi	taruɔpi
+PWN:digest.v.03		goidambi	kɔitampi
+PWN:dirt.n.02		berten	pɤrtʰɤn
+PWN:dirt.n.02		fongson	fɔŋsɔn
+PWN:dirty.a.01		hacuka	xat͡ʃukʰa
+PWN:disappear.v.01		cumcurambi	t͡ʃumt͡ʃurampi
+PWN:discontinue.v.01		ilimbi	ilimpi
+PWN:discontinue.v.01		nakambi	nakʰampi
+PWN:disease.n.01		nimeku	nimɤkʰu
+PWN:dish.n.01		tetun	tʰɤtʰun
+PWN:dissolve.v.09		mukenembi	mukʰɤnɤmpi
+PWN:dissolve.v.09		semembi	sɤmɤmpi
+PWN:dissolve.v.09		werumbi	wɤrumpi
+PWN:distance.n.01		funtuhu	funtʰuxu
+PWN:distance.n.01		jaka	d͡ʒakʰa
+PWN:distance.n.01		siden	sitɤn
+PWN:distance.n.03		jugūn	d͡ʒukʊn
+PWN:dive.v.03		furimbi	furimpi
+PWN:divide.v.01		cahimbi	t͡ʃaximpi
+PWN:divide.v.01		dendembi	tɤntɤmpi
+PWN:doctor.n.01		oktosi	ɔkʰtʰɔsi
+PWN:dog.n.01		indahūn	intaxʊn
+PWN:doll.n.01		ūren	ʊrɤn
+PWN:down.r.01		funggaha	fuŋkaxa
+PWN:down.r.01		fusihūn	fusixʊn
+PWN:down.r.01		lilci	lilt͡ʃi
+PWN:drag.v.01		ušambi	uʃampi
+PWN:dream.n.01		tolgin	tʰɔlkin
+PWN:dress.v.01		etukulembi	ɤtʰukʰulɤmpi
+PWN:drink.v.01		omimbi	ɔmimpi
+PWN:drive.v.01		dalimbi	talimpi
+PWN:drive.v.01		fangkambi	faŋkʰampi
+PWN:drive.v.15		bašambi	paʃampi
+PWN:drive.v.15		bošombi	pɔʃɔmpi
+PWN:drive.v.15		dalimbi	talimpi
+PWN:drop.n.01		sabdan	saptan
+PWN:drop.v.01		tuhebumbi	tʰuxɤpumpi
+PWN:drove.n.02		borhon	pɔrxɔn
+PWN:dry.a.01		olhon	ɔlxɔn
+PWN:dry.v.01		akiyabumbi	akʰijapumpi
+PWN:dry.v.01		katambi	kʰatʰampi
+PWN:duck.n.01		niyehe	nijɤxɤ
+PWN:dust.n.01		buraki	purakʰi
+PWN:dust.n.01		buraki toron	purakʰi tʰɔrɔn
+PWN:dust.n.01		furanaha	furanaxa
+PWN:dye.v.01		icembi	it͡ʃɤmpi
+PWN:eagle.n.01		damin	tamin
+PWN:eagle.n.01		tashari	tʰasxari
+PWN:ear.n.01		šan	ʃan
+PWN:earlier.r.01		julergi	d͡ʒulɤrki
+PWN:earlier.r.01		onggolo	ɔŋkɔlɔ
+PWN:east.n.01		dergi	tɤrki
+PWN:eat.v.01		buda jembi	puta d͡ʒɤmpi
+PWN:eat.v.01		jembi	d͡ʒɤmpi
+PWN:edge.n.06		hošo	xɔʃɔ
+PWN:edge.n.06		jodorho	d͡ʒɔtɔrxɔ
+PWN:egg.n.02		umhan	umxan
+PWN:egg.n.02		use	usɤ
+PWN:eight.s.01		jakūn	d͡ʒakʰʊn
+PWN:eighty.s.01		jakūnju	d͡ʒakʰʊnd͡ʒu
+PWN:elapse.v.01		dulembi	tulɤmpi
+PWN:elbow.n.01		mayan	majan
+PWN:eleven.s.01		juwan emu	d͡ʒuwan ɤmu
+PWN:elk.n.01		anami	anami
+PWN:emerge.v.01		acabumbi	at͡ʃapumpi
+PWN:empty.a.01		ebetuhun	ɤpɤtʰuxun
+PWN:empty.a.01		ebetuhun holo	ɤpɤtʰuxun xɔlɔ
+PWN:end.n.03		šala	ʃala
+PWN:end.n.09		šala	ʃala
+PWN:end.v.01		dubembi	tupɤmpi
+PWN:enter.v.01		dosinambi	tɔsinampi
+PWN:entirely.r.02		dabala	tapala
+PWN:entirely.r.02		damu	tamu
+PWN:entirely.r.02		teile	tʰɤilɤ
+PWN:erstwhile.s.01		dunjihiyana	tund͡ʒixijana
+PWN:erstwhile.s.01		nenehe	nɤnɤxɤ
+PWN:escape.v.01		ongkimbi	ɔŋkʰimpi
+PWN:evening.n.01		yamji	jamd͡ʒi
+PWN:evil.a.01		aburi	apuri
+PWN:evil.a.01		ehe	ɤxɤ
+PWN:evil.a.01		miosihon	miɔsixɔn
+PWN:exclaim.v.01		kaicambi	kʰait͡ʃampi
+PWN:exclaim.v.01		surembi	surɤmpi
+PWN:exit.v.01		milambi	milampi
+PWN:expensive.a.01		haji	xad͡ʒi
+PWN:expensive.a.01		mangga	maŋka
+PWN:extraneous.s.03		encu	ɤnt͡ʃu
+PWN:eye.n.01		yasa	jasa
+PWN:fabric.n.01		bošo	pɔʃɔ
+PWN:fabric.n.01		muten	mutʰɤn
+PWN:face.n.01		cira	t͡ʃira
+PWN:faineant.s.01		banuhūn	panuxʊn
+PWN:fairytale.n.01		juben	d͡ʒupɤn
+PWN:fairytale.n.01		ulabun	ulapun
+PWN:fall.n.01		bolori	pɔlɔri
+PWN:fall.v.01		tuhembi	tʰuxɤmpi
+PWN:fall_asleep.v.01		šaburambi	ʃapurampi
+PWN:familiar.a.01		gebungge	kɤpuŋkɤ
+PWN:family.n.02		boigon	pɔikɔn
+PWN:family.n.02		boigon anggala	pɔikɔn aŋkala
+PWN:family.n.02		hala	xala
+PWN:far.r.02		duyen	tujɤn
+PWN:fat.n.01		nimenggi	nimɤŋki
+PWN:fat.n.01		tarhūn	tʰarxʊn
+PWN:father.n.01		ama	ama
+PWN:fault.n.06		fiyeren	fijɤrɤn
+PWN:fault.n.06		jaka	d͡ʒakʰa
+PWN:fear.v.01		tuksimbi	tʰukʰsimpi
+PWN:feather.n.01		fungaha	fuŋaxa
+PWN:february.n.01		juwe biya	d͡ʒuwɤ pija
+PWN:feed.v.01		ulebumbi	ulɤpumpi
+PWN:feel.v.03		bušumbi	puʃumpi
+PWN:feel.v.03		serebumbi	sɤrɤpumpi
+PWN:female_child.n.01		niyang	nijaŋ
+PWN:female_child.n.01		sargan jui	sarkan d͡ʒui
+PWN:fence.n.01		jerguwen	d͡ʒɤrkuwɤn
+PWN:fifty.s.01		susai	susai
+PWN:fill.v.01		filhembi	filxɤmpi
+PWN:fine-looking.s.01		yebcūngge	jɤpt͡ʃʊŋkɤ
+PWN:fine.a.05		nilukan	nilukʰan
+PWN:fine.a.05		oihori	ɔixɔri
+PWN:finger.n.01		simhun	simxun
+PWN:fingernail.n.01		hitahūn	xitʰaxʊn
+PWN:fir.n.02		jaksun	d͡ʒakʰsun
+PWN:fire.n.03		tuwa	tʰuwa
+PWN:firm.s.02		akdun	akʰtun
+PWN:firm.s.02		akdungga	akʰtuŋka
+PWN:firm.s.02		beki	pɤkʰi
+PWN:first.a.01		unggu	uŋku
+PWN:first.r.02		emu oci	ɤmu ɔt͡ʃi
+PWN:first.r.02		emuci	ɤmut͡ʃi
+PWN:first.r.02		tuktan	tʰukʰtʰan
+PWN:fish.n.01		nimaha	nimaxa
+PWN:fish.v.02		nimaha buthambi	nimaxa putʰxampi
+PWN:fish.v.02		nimahašambi	nimaxaʃampi
+PWN:fish.v.02		welmiyembi	wɤlmijɤmpi
+PWN:five.s.01		sunja	sund͡ʒa
+PWN:fix.v.12		belhembi	pɤlxɤmpi
+PWN:fix.v.12		dagilambi	takilampi
+PWN:fix.v.12		funfulambi	funfulampi
+PWN:flat.s.01		halfiyan	xalfijan
+PWN:flat.s.01		kapahūn	kʰapʰaxʊn
+PWN:flat.s.01		neshun	nɤsxun
+PWN:flee.v.01		biyalume yabumbi	pijalumɤ japumpi
+PWN:flee.v.01		burulambi	purulampi
+PWN:flex.v.05		bukdalambi	pukʰtalampi
+PWN:flex.v.05		gohorombi	kɔxɔrɔmpi
+PWN:flex.v.05		musembi	musɤmpi
+PWN:flip.v.06		hungkerembi	xuŋkʰɤrɤmpi
+PWN:flip.v.06		maktambi	makʰtʰampi
+PWN:flip.v.06		tulembi	tʰulɤmpi
+PWN:floor.n.01		falan	falan
+PWN:flower.n.02		ilha	ilxa
+PWN:fly.n.01		derhuwe	tɤrxuwɤ
+PWN:fly.v.01		deyembi	tɤjɤmpi
+PWN:foam.n.01		obonggi	ɔpɔŋki
+PWN:foe.n.02		bata	patʰa
+PWN:foe.n.02		kimum bata	kʰimum patʰa
+PWN:fog.n.01		talman	tʰalman
+PWN:food.n.02		buda	puta
+PWN:food.n.02		jemengge	d͡ʒɤmɤŋkɤ
+PWN:food.n.02		jengge	d͡ʒɤŋkɤ
+PWN:foot.n.01		bethe	pɤtʰxɤ
+PWN:footprint.n.01		songko	sɔŋkʰɔ
+PWN:foreman.n.01		uju	ud͡ʒu
+PWN:forest.n.01		bujan	pud͡ʒan
+PWN:forget.v.02		melembi	mɤlɤmpi
+PWN:forget.v.02		onggombi	ɔŋkɔmpi
+PWN:fork.n.01		fajū	fad͡ʒʊ
+PWN:fork.n.01		fasilan	fasilan
+PWN:fork.n.01		šolon	ʃɔlɔn
+PWN:form.n.03		alhūdan	alxʊtan
+PWN:forty.s.01		dehi	tɤxi
+PWN:four.s.01		duin	tuin
+PWN:fox.n.01		dobi	tɔpi
+PWN:freeze.v.02		beiguwerembi	pɤikuwɤrɤmpi
+PWN:freeze.v.02		beyembi	pɤjɤmpi
+PWN:freeze.v.02		gecembi	kɤt͡ʃɤmpi
+PWN:frequently.r.01		daruhai	taruxai
+PWN:frequently.r.01		erin akū	ɤrin akʰʊ
+PWN:frequently.r.01		jing	d͡ʒiŋ
+PWN:fresh.a.01		ice	it͡ʃɤ
+PWN:fresh.a.01		niyarhūn	nijarxʊn
+PWN:friend.n.01		gargan	karkan
+PWN:frost.n.01		beiguwen	pɤikuwɤn
+PWN:frost.n.01		gecen	kɤt͡ʃɤn
+PWN:frost.n.01		gecen	kɤt͡ʃɤn
+PWN:fry.v.02		carumbi	t͡ʃarumpi
+PWN:full.a.01		jalu	d͡ʒalu
+PWN:fume.v.02		akiyabumbi	akʰijapumpi
+PWN:fume.v.02		fangšambi	faŋʃampi
+PWN:fume.v.02		omimbi	ɔmimpi
+PWN:fur.n.03		furdehe	furtɤxɤ
+PWN:game.n.01		efin	ɤfin
+PWN:gate.n.01		uce	ut͡ʃɤ
+PWN:gateway.n.01		angga	aŋka
+PWN:gateway.n.01		duka	tukʰa
+PWN:gather.v.01		bargiyambi	parkijampi
+PWN:gather.v.01		ganambi	kanampi
+PWN:gather.v.01		iktambi	ikʰtʰampi
+PWN:gay.s.02		urguntu	urkuntʰu
+PWN:gentle.s.01		jilangga	d͡ʒilaŋka
+PWN:gentle.s.01		nesuken	nɤsukʰɤn
+PWN:get.v.01		alimbi	alimpi
+PWN:get.v.01		alime gaimbi	alimɤ kaimpi
+PWN:get.v.01		bargiyambi	parkijampi
+PWN:get_down.v.07		dekdeljembi	tɤkʰtɤld͡ʒɤmpi
+PWN:get_down.v.07		derimbi	tɤrimpi
+PWN:get_down.v.07		doktolanbi	tɔkʰtʰɔlanpi
+PWN:get_up.v.02		dekdelembi	tɤkʰtɤlɤmpi
+PWN:get_up.v.02		dekdembi	tɤkʰtɤmpi
+PWN:gift.n.01		doro	tɔrɔ
+PWN:gift.n.01		doroi jaka	tɔrɔi d͡ʒakʰa
+PWN:give.v.03		bumbi	pumpi
+PWN:give.v.08		acabumbi	at͡ʃapumpi
+PWN:give.v.08		fimembi	fimɤmpi
+PWN:glass.n.01		boli	pɔli
+PWN:glass.n.01		bolosu	pɔlɔsu
+PWN:glue.v.01		amdulambi	amtulampi
+PWN:glue.v.01		latumbi	latʰumpi
+PWN:gold.n.03		aisin	aisin
+PWN:good.a.01		sain	sain
+PWN:good.a.01		saintu	saintʰu
+PWN:goose.n.01		niongniyaha	ɲɔŋnijaxa
+PWN:govern.v.03		kadalambi	kʰatalampi
+PWN:grain.n.08		aiha šušu	aixa ʃuʃu
+PWN:grandfather.n.01		mafa	mafa
+PWN:grandma.n.01		mama	mama
+PWN:grasp.v.01		jafambi	d͡ʒafampi
+PWN:grasp.v.01		tabcilambi	tʰapt͡ʃilampi
+PWN:grass.n.01		orho	ɔrxɔ
+PWN:grassland.n.01		ongko	ɔŋkʰɔ
+PWN:grave.n.02		eifu	ɤifu
+PWN:grave.n.02		tomon	tʰɔmɔn
+PWN:green.s.01		niowanggiyan	ɲɔwaŋkijan
+PWN:grey.s.01		boro	pɔrɔ
+PWN:grief.n.02		jobocun	d͡ʒɔpɔt͡ʃun
+PWN:grief.n.02		usacun	usat͡ʃun
+PWN:groan.v.01		fiyacumbi	fijat͡ʃumpi
+PWN:groan.v.01		nitumbi	nitʰumpi
+PWN:grok.v.01		barkiyambi	parkʰijampi
+PWN:grow.v.03		fulhurembi	fulxurɤmpi
+PWN:grow.v.03		mutumbi	mutʰumpi
+PWN:guest.n.01		antaha	antʰaxa
+PWN:gun.n.01		miyoocan	mijɔɔt͡ʃan
+PWN:hair.n.01		funiyehe	funijɤxɤ
+PWN:hand.n.01		gala	kala
+PWN:handle.n.01		fesin	fɤsin
+PWN:handle.n.01		jafakū	d͡ʒafakʰʊ
+PWN:hang.v.01		fašimbi	faʃimpi
+PWN:hang.v.01		suharambi	suxarampi
+PWN:hang.v.02		lakiyambi	lakʰijampi
+PWN:happen.v.01		tušambi	tʰuʃampi
+PWN:happiness.n.01		keksen	kʰɤkʰsɤn
+PWN:happiness.n.01		urgun	urkun
+PWN:hard.a.03		cang seme	t͡ʃaŋ sɤmɤ
+PWN:hard.a.03		yak seme	jakʰ sɤmɤ
+PWN:hardly.r.02		elei elekei	ɤlɤi ɤlɤkʰɤi
+PWN:hardly.r.02		elekei	ɤlɤkʰɤi
+PWN:hardly.r.02		etneggi	ɤtʰnɤkki
+PWN:hardworking.s.01		ejeke	ɤd͡ʒɤkʰɤ
+PWN:hardworking.s.01		kicebe	kʰit͡ʃɤpɤ
+PWN:hare.n.01		gūlmahūn	kʊlmaxʊn
+PWN:hark_back.v.01		bederembi	pɤtɤrɤmpi
+PWN:hark_back.v.01		marimbi	marimpi
+PWN:hay.n.01		hife	xifɤ
+PWN:head.n.01		uju	ud͡ʒu
+PWN:healthy.a.01		katun	kʰatʰun
+PWN:hear.v.01		donjimbi	tɔnd͡ʒimpi
+PWN:heart.n.02		niyaman	nijaman
+PWN:heat.n.01		halhūn	xalxʊn
+PWN:heavy.a.01		laju	lad͡ʒu
+PWN:heavy.a.01		lete lata	lɤtʰɤ latʰa
+PWN:heel.n.02		guye	kujɤ
+PWN:height.n.01		kuru	kʰuru
+PWN:herd.n.01		fenihe	fɤnixɤ
+PWN:herd.n.01		feniyen	fɤnijɤn
+PWN:herd.n.01		mukūn	mukʰʊn
+PWN:herd.v.01		adulambi	atulampi
+PWN:here.r.01		ubade	upatɤ
+PWN:here.r.03		ubade	upatɤ
+PWN:hide.n.02		notho	nɔtʰxɔ
+PWN:hide.n.02		sukū	sukʰʊ
+PWN:hide.v.01		dasitambi	tasitʰampi
+PWN:hide.v.01		somimbi	sɔmimpi
+PWN:hide.v.02		dasitambi	tasitʰampi
+PWN:hide.v.02		harimbi	xarimpi
+PWN:hill.n.01		ala	ala
+PWN:hog.n.03		ulgiyan	ulkijan
+PWN:hold.v.02		tatambi	tʰatʰampi
+PWN:hole.n.01		angga	aŋka
+PWN:hole.n.01		sangga	saŋka
+PWN:hole.n.01		yeru	jɤru
+PWN:home.n.01		susu	susu
+PWN:honey.n.01		coko umgan	t͡ʃɔkʰɔ umkan
+PWN:honey.n.01		hibsu	xipsu
+PWN:hook.n.05		gohon	kɔxɔn
+PWN:hook.n.05		tabukū	tʰapukʰʊ
+PWN:horn.n.02		buleri	pulɤri
+PWN:horn.n.02		laba	lapa
+PWN:horse.n.01		morin	mɔrin
+PWN:hot.a.01		halhūn	xalxʊn
+PWN:hot.a.01		šalu	ʃalu
+PWN:house.n.01		boo	pɔɔ
+PWN:house.n.01		gurun	kurun
+PWN:house.n.01		ūlen	ʊlɤn
+PWN:hundred.s.01		cen	t͡ʃɤn
+PWN:hunger.n.01		omihon	ɔmixɔn
+PWN:hungry.a.01		urunembi	urunɤmpi
+PWN:hunt.v.01		buthambi	putʰxampi
+PWN:hunt.v.01		tumbi	tʰumpi
+PWN:hurt.v.06		caksimbi	t͡ʃakʰsimpi
+PWN:hurt.v.06		fintambi	fintʰampi
+PWN:hurt.v.06		ninembi	ninɤmpi
+PWN:husband.n.01		eigen	ɤikɤn
+PWN:ice.n.01		juhe	d͡ʒuxɤ
+PWN:idea.n.01		gūnigan	kʊnikan
+PWN:idol.n.01		ūren	ʊrɤn
+PWN:ignite.v.01		fosombi	fɔsɔmpi
+PWN:ill.a.01		nimekungge	nimɤkʰuŋkɤ
+PWN:immediately.r.01		andande	antantɤ
+PWN:immediately.r.01		emu derei	ɤmu tɤrɤi
+PWN:immediately.r.01		uthai	utʰxai
+PWN:impede.v.01		hanggambi	xaŋkampi
+PWN:impede.v.01		kambi	kʰampi
+PWN:increase.v.01		labdulambi	laptulampi
+PWN:increase.v.01		nemembi	nɤmɤmpi
+PWN:increase.v.01		nonggimbi	nɔŋkimpi
+PWN:indicate.v.02		tuwabumbi	tʰuwapumpi
+PWN:insert.v.01		nukambi	nukʰampi
+PWN:insert.v.01		sindambi	sintampi
+PWN:interrupt.v.02		nungnembi	nuŋnɤmpi
+PWN:invite.v.02		guilembi	kuilɤmpi
+PWN:invite.v.02		solimbi	sɔlimpi
+PWN:iron.n.01		huwešeku	xuwɤʃɤkʰu
+PWN:iron.n.01		sele	sɤlɤ
+PWN:island.n.01		tun	tʰun
+PWN:item.n.01		hacin	xat͡ʃin
+PWN:january.n.01		aniya biya	anija pija
+PWN:jaw.n.01		fiyada	fijata
+PWN:join.v.02		uhelembi	uxɤlɤmpi
+PWN:join.v.02		uherilembi	uxɤrilɤmpi
+PWN:joy.n.01		keksen	kʰɤkʰsɤn
+PWN:july.n.01		nadan biya	natan pija
+PWN:jump.v.01		fekcembi	fɤkʰt͡ʃɤmpi
+PWN:jump.v.01		fekucembi	fɤkʰut͡ʃɤmpi
+PWN:jump.v.01		fekumbi	fɤkʰumpi
+PWN:june.n.01		ninggun biya	niŋkun pija
+PWN:keep.v.03		karmambi	kʰarmampi
+PWN:kettle.n.01		fuifukū	fuifukʰʊ
+PWN:kick.v.03		feshelembi	fɤsxɤlɤmpi
+PWN:kick.v.03		fiyokocombi	fijɔkʰɔt͡ʃɔmpi
+PWN:kick.v.03		maktambi	makʰtʰampi
+PWN:kill.v.10		sedembi	sɤtɤmpi
+PWN:kill.v.10		wambi	wampi
+PWN:kind.n.01		hacin	xat͡ʃin
+PWN:kind.n.01		sukdun	sukʰtun
+PWN:king.n.01		gurun i ejen	kurun i ɤd͡ʒɤn
+PWN:knee.n.01		tobgiya	tʰɔpkija
+PWN:knife.n.01		huwesi	xuwɤsi
+PWN:knit.v.01		tobcilambi	tʰɔpt͡ʃilampi
+PWN:knock.v.02		forimbi	fɔrimpi
+PWN:knock.v.02		toksimbi	tʰɔkʰsimpi
+PWN:knot.n.02		mampin	mampʰin
+PWN:know.v.01		takambi	tʰakʰampi
+PWN:ladder.n.01		wan	wan
+PWN:lair.n.01		yeru	jɤru
+PWN:lake.n.01		omo	ɔmɔ
+PWN:lake.n.01		tenggin	tʰɤŋkin
+PWN:land.n.02		boihon	pɔixɔn
+PWN:land.n.02		na	na
+PWN:land.n.04		falan	falan
+PWN:land.n.04		fere	fɤrɤ
+PWN:language.n.01		gisun	kisun
+PWN:large.a.01		amba	ampa
+PWN:last.a.02		lala	lala
+PWN:laugh.v.01		injembi	ind͡ʒɤmpi
+PWN:lay.v.02		sindambi	sintampi
+PWN:lead.v.01		kutulembi	kʰutʰulɤmpi
+PWN:lead.v.01		yarhūdambi	jarxʊtampi
+PWN:lead.v.01		yarumbi	jarumpi
+PWN:learn.v.01		tacimbi	tʰat͡ʃimpi
+PWN:leash.n.01		sūna	sʊna
+PWN:leather.n.01		sukū	sukʰʊ
+PWN:left.r.01		hashū	xasxʊ
+PWN:leg.n.02		bethe	pɤtʰxɤ
+PWN:length.n.01		curhūn	t͡ʃurxʊn
+PWN:let.v.01		aljambi	ald͡ʒampi
+PWN:let.v.01		fakcambi	fakʰt͡ʃampi
+PWN:let.v.01		uksalambi	ukʰsalampi
+PWN:letter.n.01		jasigan	d͡ʒasikan
+PWN:lick.v.02		ilembi	ilɤmpi
+PWN:lid.n.02		dobtoloobi	tɔptʰɔlɔɔpi
+PWN:lie.n.01		holo gisun	xɔlɔ kisun
+PWN:lie.v.02		dedumbi	tɤtumpi
+PWN:lie.v.02		fangšambi	faŋʃampi
+PWN:lie.v.02		holtombi	xɔltʰɔmpi
+PWN:lift.v.03		tukiyembi	tʰukʰijɤmpi
+PWN:lift.v.03		wesimbumbi	wɤsimpumpi
+PWN:like.v.03		cihalambi	t͡ʃixalampi
+PWN:line.n.04		futa	futʰa
+PWN:line.n.04		juduran	d͡ʒuturan
+PWN:line.n.04		sijin	sid͡ʒin
+PWN:lip.n.01		femen	fɤmɤn
+PWN:listen.v.01		donjimbi	tɔnd͡ʒimpi
+PWN:listen.v.02		donjimbi	tɔnd͡ʒimpi
+PWN:little.r.01		ajige ajige	ad͡ʒikɤ ad͡ʒikɤ
+PWN:liver.n.01		fahūn	faxʊn
+PWN:load.n.01		aciha	at͡ʃixa
+PWN:load.n.01		acin	at͡ʃin
+PWN:lock.n.01		jilkin	d͡ʒilkʰin
+PWN:long.a.02		golmin	kɔlmin
+PWN:long.r.01		golmin	kɔlmin
+PWN:look.v.01		tuwambi	tʰuwampi
+PWN:look.v.01		yasalambi	jasalampi
+PWN:look.v.01		šambi	ʃampi
+PWN:look.v.02		gebekeljembi	kɤpɤkʰɤld͡ʒɤmpi
+PWN:look.v.02		tucinembi	tʰut͡ʃinɤmpi
+PWN:look.v.02		tuyembumbi	tʰujɤmpumpi
+PWN:lose.v.05		aljambi	ald͡ʒampi
+PWN:lose.v.05		ufarambi	ufarampi
+PWN:louse.n.01		cihe	t͡ʃixɤ
+PWN:love.v.03		dosholombi	tɔsxɔlɔmpi
+PWN:love.v.03		gosimbi	kɔsimpi
+PWN:love.v.03		gositambi	kɔsitʰampi
+PWN:low.r.01		nunggari	nuŋkari
+PWN:luminosity.n.01		fiyan	fijan
+PWN:mainland.n.01		ba na	pa na
+PWN:mainland.n.01		na	na
+PWN:make_noise.v.01		curgimbi	t͡ʃurkimpi
+PWN:male_child.n.01		haha jui	xaxa d͡ʒui
+PWN:male_child.n.01		tungdz	tʰuŋtz
+PWN:man.n.01		eigen	ɤikɤn
+PWN:man.n.01		haha	xaxa
+PWN:man.n.01		niyalma	nijalma
+PWN:march.n.01		ilan biya	ilan pija
+PWN:may.n.01		sunja biya	sund͡ʒa pija
+PWN:meal.n.01		buda	puta
+PWN:meal.n.01		fungse	fuŋsɤ
+PWN:meal.n.01		jemengge	d͡ʒɤmɤŋkɤ
+PWN:meaning.n.01		jorin	d͡ʒɔrin
+PWN:measure.v.01		kemnembi	kʰɤmnɤmpi
+PWN:measure.v.01		miyalimbi	mijalimpi
+PWN:meat.n.01		yali	jali
+PWN:medicine.n.02		daifu i doro	taifu i tɔrɔ
+PWN:medicine.n.02		okto	ɔkʰtʰɔ
+PWN:meet.v.07		ganambi	kanampi
+PWN:meet.v.07		imiyambi	imijampi
+PWN:meet.v.09		dahacambi	taxat͡ʃampi
+PWN:meet.v.09		dere acambi	tɤrɤ at͡ʃampi
+PWN:meet.v.09		teisulembi	tʰɤisulɤmpi
+PWN:melt.v.01		mukenembi	mukʰɤnɤmpi
+PWN:melt.v.01		semembi	sɤmɤmpi
+PWN:melt.v.01		wembi	wɤmpi
+PWN:memory.n.03		fehi	fɤxi
+PWN:memory.n.03		jon	d͡ʒɔn
+PWN:memory.n.03		merkin	mɤrkʰin
+PWN:message.n.01		mede	mɤtɤ
+PWN:milk.n.01		huhun	xuxun
+PWN:milk.v.01		sambi	sampi
+PWN:milk.v.01		sirimbi	sirimpi
+PWN:mind.n.01		fehi	fɤxi
+PWN:mirror.n.01		buleku	pulɤkʰu
+PWN:mirror.n.01		toli	tʰɔli
+PWN:misfortune.n.02		gosihon	kɔsixɔn
+PWN:misfortune.n.02		suilacun	suilat͡ʃun
+PWN:mistake.n.01		ufaracun	ufarat͡ʃun
+PWN:money.n.01		jiha	d͡ʒixa
+PWN:moon.n.01		biya	pija
+PWN:moor.n.02		simelen	simɤlɤn
+PWN:morning.n.01		cimaha	t͡ʃimaxa
+PWN:morning.n.01		cimari	t͡ʃimari
+PWN:mosquito.n.01		oyo	ɔjɔ
+PWN:mother.n.01		eme	ɤmɤ
+PWN:mother.n.01		eniye	ɤnijɤ
+PWN:mountain.n.01		alin	alin
+PWN:mouse.n.01		singgeri	siŋkɤri
+PWN:mouth.n.01		angga	aŋka
+PWN:move.v.03		arbušambi	arpuʃampi
+PWN:move.v.03		aššambi	aʃʃampi
+PWN:move.v.03		teodenjembi	tʰɤɔtɤnd͡ʒɤmpi
+PWN:mush.n.02		lala	lala
+PWN:mushroom.n.02		megu	mɤku
+PWN:mushroom.n.02		sence	sɤnt͡ʃɤ
+PWN:mustache.n.01		šungkulu	ʃuŋkʰulu
+PWN:nail.n.01		hitahūn	xitʰaxʊn
+PWN:nail.n.02		hitahūn	xitʰaxʊn
+PWN:name.n.01		gebu	kɤpu
+PWN:name.v.01		gebu arambi	kɤpu arampi
+PWN:name.v.01		gebu bumbi	kɤpu pumpi
+PWN:name.v.01		gebulembi	kɤpulɤmpi
+PWN:nape.n.01		meifen	mɤifɤn
+PWN:narrative.n.01		juben	d͡ʒupɤn
+PWN:narrow.a.01		isheliyen	isxɤlijɤn
+PWN:natural_elevation.n.01		bukduhun	pukʰtuxun
+PWN:natural_elevation.n.01		kuru	kʰuru
+PWN:navel.n.01		cungguru	t͡ʃuŋkuru
+PWN:near.r.01		hanci	xant͡ʃi
+PWN:near.r.01		hanciki	xant͡ʃikʰi
+PWN:neck.n.01		meifen	mɤifɤn
+PWN:neck.n.01		monggon	mɔŋkɔn
+PWN:needle.n.03		ulme	ulmɤ
+PWN:nest.n.01		feye	fɤjɤ
+PWN:net_income.n.01		helmehen i ašu	xɤlmɤxɤn i aʃu
+PWN:new.a.01		arda	arta
+PWN:new.a.01		kišan	kʰiʃan
+PWN:new.a.01		soningga	sɔniŋka
+PWN:news.n.01		mejige	mɤd͡ʒikɤ
+PWN:newspaper.n.01		boolan hoošan	pɔɔlan xɔɔʃan
+PWN:night.n.01		dobon	tɔpɔn
+PWN:night.n.01		dobori	tɔpɔri
+PWN:nine.s.01		uyun	ujun
+PWN:ninety.s.01		uyunju	ujund͡ʒu
+PWN:noise.n.01		jilgan	d͡ʒilkan
+PWN:noise.n.01		mudan	mutan
+PWN:noon.n.01		inenggi dulin	inɤŋki tulin
+PWN:noose.n.02		sengken	sɤŋkʰɤn
+PWN:noose.n.02		urgan	urkan
+PWN:north.n.03		amargi	amarki
+PWN:nose.n.01		oforo	ɔfɔrɔ
+PWN:not.r.01		waka	wakʰa
+PWN:november.n.01		omšon biya	ɔmʃɔn pija
+PWN:now.r.04		ne	nɤ
+PWN:oar.n.01		joolikū	d͡ʒɔɔlikʰʊ
+PWN:october.n.01		juwan biya	d͡ʒuwan pija
+PWN:oil.n.01		io	iɔ
+PWN:oil.n.01		nimenggi	nimɤŋki
+PWN:old.a.01		fe	fɤ
+PWN:old.a.01		fe	fɤ
+PWN:old.a.01		sakda	sakʰta
+PWN:old.a.01		sakda	sakʰta
+PWN:olfactory_property.n.01		amtan	amtʰan
+PWN:once.r.01		emgeri	ɤmkɤri
+PWN:once.r.01		emu mari	ɤmu mari
+PWN:once.r.03		emkeci	ɤmkʰɤt͡ʃi
+PWN:once.r.03		emu mari	ɤmu mari
+PWN:one-half.n.01		hontoho	xɔntʰɔxɔ
+PWN:one.s.01		emu	ɤmu
+PWN:onion.n.02		elu	ɤlu
+PWN:open.a.01		mila	mila
+PWN:open.v.01		neimbi	nɤimpi
+PWN:open.v.01		nerkimbi	nɤrkʰimpi
+PWN:other.a.01		jacin	d͡ʒat͡ʃin
+PWN:other.a.01		weri	wɤri
+PWN:owl.n.01		humše	xumʃɤ
+PWN:own.v.01		jafambi	d͡ʒafampi
+PWN:pain.n.03		nimeku	nimɤkʰu
+PWN:paint.n.01		io	iɔ
+PWN:paint.n.01		šugin	ʃukin
+PWN:paint.v.02		cilembi	t͡ʃilɤmpi
+PWN:palm.n.01		simhun hefeli	simxun xɤfɤli
+PWN:parent.n.01		juru niyaman	d͡ʒuru nijaman
+PWN:part.n.02		fiyentehe	fijɤntʰɤxɤ
+PWN:part.n.02		ufuhi	ufuxi
+PWN:part.n.03		dalgan	talkan
+PWN:part.n.03		farsi	farsi
+PWN:part.n.03		tubi	tʰupi
+PWN:pasture.n.01		fodoho	fɔtɔxɔ
+PWN:pasture.n.01		ongko	ɔŋkʰɔ
+PWN:path.n.02		doko jugūn	tɔkʰɔ d͡ʒukʊn
+PWN:paw.n.01		fatha	fatʰxa
+PWN:peak.n.04		uibo	uipɔ
+PWN:peak.n.04		šokšohon	ʃɔkʰʃɔxɔn
+PWN:peel.n.02		fan	fan
+PWN:peel.n.02		notho	nɔtʰxɔ
+PWN:people.n.01		niyalma	nijalma
+PWN:perca.n.01		kiyakū	kʰijakʰʊ
+PWN:periphery.n.01		hošo	xɔʃɔ
+PWN:person.n.01		niyalma	nijalma
+PWN:perturb.v.01		nungnembi	nuŋnɤmpi
+PWN:pick.v.02		fithembi	fitʰxɤmpi
+PWN:pick_up.v.02		tomsombi	tʰɔmsɔmpi
+PWN:pick_up.v.02		tunggiyembi	tʰuŋkijɤmpi
+PWN:pick_up.v.02		ujimbi	ud͡ʒimpi
+PWN:picture.n.01		nirugan	nirukan
+PWN:picture.n.01		ūren	ʊrɤn
+PWN:pike.n.02		geošen	kɤɔʃɤn
+PWN:pile.n.01		borhon	pɔrxɔn
+PWN:pillow.n.01		cirkū	t͡ʃirkʰʊ
+PWN:pine.n.01		jakdan	d͡ʒakʰtan
+PWN:pit.n.01		yeru	jɤru
+PWN:play.v.05		derimbi	tɤrimpi
+PWN:play.v.05		fithembi	fitʰxɤmpi
+PWN:pointed.a.01		jofohonggo	d͡ʒɔfɔxɔŋkɔ
+PWN:pointed.a.01		nukacuka	nukʰat͡ʃukʰa
+PWN:pole.n.01		moo	mɔɔ
+PWN:poor.a.02		jilun	d͡ʒilun
+PWN:poor.a.02		yadahūn	jataxʊn
+PWN:populate.v.01		tembi	tʰɤmpi
+PWN:position.n.01		ba	pa
+PWN:pot.n.01		fuifukū	fuifukʰʊ
+PWN:pouch.n.01		dabargan	taparkan
+PWN:pouch.n.01		fintaha	fintʰaxa
+PWN:pouch.n.01		fulakcan	fulakʰt͡ʃan
+PWN:pour.v.01		doolambi	tɔɔlampi
+PWN:pour.v.01		hungkerembi	xuŋkʰɤrɤmpi
+PWN:pour.v.01		suitambi	suitʰampi
+PWN:power.n.01		erdemu	ɤrtɤmu
+PWN:power.n.01		horon	xɔrɔn
+PWN:power.n.01		hoton toose	xɔtʰɔn tʰɔɔsɤ
+PWN:powerful.a.01		hūsungge	xʊsuŋkɤ
+PWN:press.v.01		fiyanarambi	fijanarampi
+PWN:press.v.01		gidambi	kitampi
+PWN:price.n.02		hūda	xʊta
+PWN:produce.v.02		arambi	arampi
+PWN:produce.v.02		herembi	xɤrɤmpi
+PWN:produce.v.02		hergembi	xɤrkɤmpi
+PWN:produce.v.02		ombi	ɔmpi
+PWN:produce.v.02		tebumbi	tʰɤpumpi
+PWN:promise.v.01		boljombi	pɔld͡ʒɔmpi
+PWN:protect.v.01		akdulambi	akʰtulampi
+PWN:protect.v.01		bargiyatambi	parkijatʰampi
+PWN:protect.v.01		cabsimbi	t͡ʃapsimpi
+PWN:pull.v.01		gocimbi	kɔt͡ʃimpi
+PWN:pull.v.01		ušambi	uʃampi
+PWN:push.v.01		anambi	anampi
+PWN:put.v.01		sindambi	sintampi
+PWN:put.v.01		tuhembi	tʰuxɤmpi
+PWN:rain.n.01		aga	aka
+PWN:rain.v.01		aga dambi	aka tampi
+PWN:rain.v.01		agambi	akampi
+PWN:rainbow.n.01		nioron	ɲɔrɔn
+PWN:raise.v.02		tukiyembi	tʰukʰijɤmpi
+PWN:raise.v.02		ujimbi	ud͡ʒimpi
+PWN:raise.v.02		wesimbi	wɤsimpi
+PWN:raw.a.03		eshun	ɤsxun
+PWN:read.v.01		hūlambi	xʊlampi
+PWN:rear.v.02		hūwašambi	xʊwaʃampi
+PWN:rear.v.02		jombi	d͡ʒɔmpi
+PWN:rear.v.02		jondombi	d͡ʒɔntɔmpi
+PWN:recognize.v.04		takambi	tʰakʰampi
+PWN:recuperate.v.04		aitumbi	aitʰumpi
+PWN:recuperate.v.04		sebimbitomsombi	sɤpimpitʰɔmsɔmpi
+PWN:red.s.01		fulgiyan	fulkijan
+PWN:remember.v.01		ejembi	ɤd͡ʒɤmpi
+PWN:repair.v.01		hiyadambi	xijatampi
+PWN:rescue.v.01		tucimbi	tʰut͡ʃimpi
+PWN:rest.v.05		teyembi	tʰɤjɤmpi
+PWN:result.v.01		mutembi	mutʰɤmpi
+PWN:ribbon.n.04		subehe	supɤxɤ
+PWN:ribbon.n.04		uše	uʃɤ
+PWN:rich.a.01		badaraka	patarakʰa
+PWN:rich.a.01		bayan	pajan
+PWN:right.r.04		ici	it͡ʃi
+PWN:ring.n.08		guifun	kuifun
+PWN:ring.v.01		carkimbi	t͡ʃarkʰimpi
+PWN:ring.v.03		carkimbi	t͡ʃarkʰimpi
+PWN:rinse.v.01		werembi	wɤrɤmpi
+PWN:ripe.a.01		urembi	urɤmpi
+PWN:ripen.v.02		fahanambi	faxanampi
+PWN:rise.v.16		tucimbi	tʰut͡ʃimpi
+PWN:river.n.01		giyang	kijaŋ
+PWN:river.n.01		muke	mukʰɤ
+PWN:road.n.01		doro	tɔrɔ
+PWN:road.n.01		jugūn	d͡ʒukʊn
+PWN:roar.v.01		darimbi	tarimpi
+PWN:roar.v.01		gūyambi	kʊjampi
+PWN:roar.v.01		mijimbi	mid͡ʒimpi
+PWN:rock.n.01		wehe	wɤxɤ
+PWN:rock.n.01		wehengge	wɤxɤŋkɤ
+PWN:rock.v.01		haiharšambi	xaixarʃampi
+PWN:roof.n.01		oyo	ɔjɔ
+PWN:root.n.01		da	ta
+PWN:root.n.01		fulehe	fulɤxɤ
+PWN:round.a.01		muheliyen	muxɤlijɤn
+PWN:row.v.01		selbimbi	sɤlpimpi
+PWN:rub.v.01		bišumbi	piʃumpi
+PWN:rub.v.01		monjimbi	mɔnd͡ʒimpi
+PWN:run.v.01		surtembi	surtʰɤmpi
+PWN:run.v.06		eyembi	ɤjɤmpi
+PWN:run.v.06		eyembi	ɤjɤmpi
+PWN:run.v.06		fūlhambi	fʊlxampi
+PWN:rush.v.01		niolhumbi	ɲɔlxumpi
+PWN:rush.v.04		amcambi	amt͡ʃampi
+PWN:rush.v.04		amcanambi	amt͡ʃanampi
+PWN:rush.v.04		ebšembi	ɤpʃɤmpi
+PWN:rush.v.04		ekšembi	ɤkʰʃɤmpi
+PWN:rush.v.04		oyombumbi	ɔjɔmpumpi
+PWN:rustle.v.01		amcanambi	amt͡ʃanampi
+PWN:rustle.v.01		gardambi	kartampi
+PWN:sack.n.01		fulhū	fulxʊ
+PWN:sad.a.01		urembi	urɤmpi
+PWN:salt.n.02		dabsun	tapsun
+PWN:sand.n.01		yonggan	jɔŋkan
+PWN:scarf.n.01		bošo	pɔʃɔ
+PWN:scrape.v.01		ušambi	uʃampi
+PWN:scrape.v.01		šaringgiyambi	ʃariŋkijampi
+PWN:sea.n.01		mederi	mɤtɤri
+PWN:sea.n.01		namu	namu
+PWN:search.v.01		baimbi	paimpi
+PWN:search.v.01		suwelembi	suwɤlɤmpi
+PWN:seashore.n.01		dalin	talin
+PWN:seashore.n.01		jecen dalin	d͡ʒɤt͡ʃɤn talin
+PWN:seat.v.01		sindambi	sintampi
+PWN:seat.v.01		tuhembi	tʰuxɤmpi
+PWN:second.s.01		jacin	d͡ʒat͡ʃin
+PWN:see.v.01		sabumbi	sapumpi
+PWN:see.v.01		tuwašambi	tʰuwaʃampi
+PWN:see.v.01		šambi	ʃampi
+PWN:seed.n.02		use	usɤ
+PWN:sell.v.01		uncambi	unt͡ʃampi
+PWN:send.v.01		benembi	pɤnɤmpi
+PWN:separate.v.02		delhembi	tɤlxɤmpi
+PWN:separate.v.02		fakcambi	fakʰt͡ʃampi
+PWN:separate.v.02		faksalabūmbi	fakʰsalapʊmpi
+PWN:september.n.01		uyun biya	ujun pija
+PWN:set.v.10		tehembi	tʰɤxɤmpi
+PWN:set.v.10		tulembi	tʰulɤmpi
+PWN:seven.s.01		nadan	natan
+PWN:seventy.s.01		nadanjū	natand͡ʒʊ
+PWN:severe.s.01		cahi	t͡ʃaxi
+PWN:severe.s.01		delferi	tɤlfɤri
+PWN:severe.s.01		oyoki	ɔjɔkʰi
+PWN:sew.v.01		ifimbi	ifimpi
+PWN:shadow.n.01		helmen	xɤlmɤn
+PWN:shake.v.01		denggeljembi	tɤŋkɤld͡ʒɤmpi
+PWN:shake.v.01		fisihimbi	fisiximpi
+PWN:sharp.a.09		dacungga	tat͡ʃuŋka
+PWN:sharp.a.09		hatan	xatʰan
+PWN:sharpen.v.01		hujurembi	xud͡ʒurɤmpi
+PWN:sharpen.v.01		moselambi	mɔsɤlampi
+PWN:sharpen.v.01		nilambi	nilampi
+PWN:shatter.v.03		cok cak sembi	t͡ʃɔkʰ t͡ʃakʰ sɤmpi
+PWN:shatter.v.03		fithembi	fitʰxɤmpi
+PWN:sheep.n.01		honin	xɔnin
+PWN:shelf.n.01		sarhū	sarxʊ
+PWN:shine.v.02		fosombi	fɔsɔmpi
+PWN:shirt.n.01		cimci	t͡ʃimt͡ʃi
+PWN:shirt.n.01		gahari	kaxari
+PWN:shoe.n.01		sabu	sapu
+PWN:shoot.v.01		tuwa	tʰuwa
+PWN:shop.n.01		jalan	d͡ʒalan
+PWN:shop.n.01		puseli	pʰusɤli
+PWN:shore.n.01		dalin	talin
+PWN:shore.n.01		jecen dalin	d͡ʒɤt͡ʃɤn talin
+PWN:short.a.02		foholon	fɔxɔlɔn
+PWN:shoulder.n.01		aidagan	aitakan
+PWN:shudder.v.02		dengsitembi	tɤŋsitʰɤmpi
+PWN:shudder.v.02		durbembi	turpɤmpi
+PWN:side.n.01		ashan	asxan
+PWN:side.n.01		ergi	ɤrki
+PWN:silence.n.01		elhe	ɤlxɤ
+PWN:silver.n.01		menggun	mɤŋkun
+PWN:sin.n.01		ehe sui	ɤxɤ sui
+PWN:sing.v.02		uculembi	ut͡ʃulɤmpi
+PWN:sing.v.02		yangkūnggalambi	jaŋkʰʊŋkalampi
+PWN:sink.v.01		eyembi	ɤjɤmpi
+PWN:sink.v.01		tuhembi	tʰuxɤmpi
+PWN:sister.n.01		eyun	ɤjun
+PWN:sister.n.01		gege	kɤkɤ
+PWN:sister.n.01		non	nɔn
+PWN:sit_down.v.01		tecembi	tʰɤt͡ʃɤmpi
+PWN:sit_down.v.01		tembi	tʰɤmpi
+PWN:six.s.01		ninggun	niŋkun
+PWN:sixty.s.01		ninju	nind͡ʒu
+PWN:size.n.01		urgen	urkɤn
+PWN:ski.n.01		suntaha	suntʰaxa
+PWN:sky.n.01		abka	apkʰa
+PWN:slab.n.01		undehen	untɤxɤn
+PWN:sled.n.01		huncu	xunt͡ʃu
+PWN:sleep.n.01		amu	amu
+PWN:sleep.v.01		amgambi	amkampi
+PWN:sleeve.n.01		ulhi	ulxi
+PWN:slice.n.05		fiyentehe	fijɤntʰɤxɤ
+PWN:slope.n.01		fiyeleku	fijɤlɤkʰu
+PWN:small.a.01		ajige	ad͡ʒikɤ
+PWN:smell.v.01		wangkiyambi	waŋkʰijampi
+PWN:smoke.n.02		omimbi	ɔmimpi
+PWN:smooth.a.01		nilukan	nilukʰan
+PWN:snake.n.01		meihe	mɤixɤ
+PWN:snap.v.03		tatambi	tʰatʰampi
+PWN:snog.v.01		angga ojombi	aŋka ɔd͡ʒɔmpi
+PWN:snog.v.01		ojombi	ɔd͡ʒɔmpi
+PWN:snow.n.01		nimanggi	nimaŋki
+PWN:soft.a.01		genggen	kɤŋkɤn
+PWN:soft.a.01		haihū	xaixʊ
+PWN:soft.a.01		haihūngga	xaixʊŋka
+PWN:soft.a.01		lalaha	lalaxa
+PWN:sometimes.r.01		emembihede	ɤmɤmpixɤtɤ
+PWN:sometimes.r.01		ememu erinde	ɤmɤmu ɤrintɤ
+PWN:sometimes.r.01		emend fonde	ɤmɤnt fɔntɤ
+PWN:son.n.01		jui	d͡ʒui
+PWN:song.n.01		ucun	ut͡ʃun
+PWN:soon.r.01		atanggi ocibe	atʰaŋki ɔt͡ʃipɤ
+PWN:sore.n.01		feye	fɤjɤ
+PWN:sound.v.02		guwembi	kuwɤmpi
+PWN:soup.n.01		šasihan	ʃasixan
+PWN:sour.a.02		jušuhun	d͡ʒuʃuxun
+PWN:south.n.03		julergi	d͡ʒulɤrki
+PWN:space.n.02		ba	pa
+PWN:space.n.02		jalaktan	d͡ʒalakʰtʰan
+PWN:space.n.02		siden	sitɤn
+PWN:spade.n.02		coo	t͡ʃɔɔ
+PWN:spark.n.06		tuwa i fithen	tʰuwa i fitʰxɤn
+PWN:spark.n.06		yolonggi	jɔlɔŋki
+PWN:speak.v.03		gisurembi	kisurɤmpi
+PWN:speak.v.03		hendumbi	xɤntumpi
+PWN:spider.n.01		helmehen	xɤlmɤxɤn
+PWN:spider.n.01		helmeku	xɤlmɤkʰu
+PWN:spirit.n.04		oori simen	ɔɔri simɤn
+PWN:spoil.v.02		ibtenembi	iptʰɤnɤmpi
+PWN:spoil.v.02		niyambi	nijampi
+PWN:spoon.n.01		kuini	kʰuini
+PWN:spring.n.01		selmin	sɤlmin
+PWN:spring.n.01		šeri	ʃɤri
+PWN:spring.n.03		sekiyen	sɤkʰijɤn
+PWN:squirrel.n.01		soison	sɔisɔn
+PWN:stand.v.01		ilimbi	ilimpi
+PWN:star.n.03		usiha	usixa
+PWN:state.n.04		gurun	kurun
+PWN:stay.v.04		bimbi	pimpi
+PWN:steal.v.01		hūlhambi	xʊlxampi
+PWN:step.v.01		fehūn	fɤxʊn
+PWN:step.v.01		okson	ɔkʰsɔn
+PWN:stick.n.01		moo	mɔɔ
+PWN:still.r.01		cib cab	t͡ʃip t͡ʃap
+PWN:still.r.01		geli	kɤli
+PWN:sting.v.02		fergimbi	fɤrkimpi
+PWN:sting.v.02		hadambi	xatampi
+PWN:stingy.a.01		bušuhūn	puʃuxʊn
+PWN:stingy.a.01		jibge	d͡ʒipkɤ
+PWN:stir.v.01		kūrdambi	kʰʊrtampi
+PWN:stomach.n.01		guwejihe	kuwɤd͡ʒixɤ
+PWN:stop.v.01		ilimbi	ilimpi
+PWN:stop.v.01		ilinambi	ilinampi
+PWN:stove.n.01		jun	d͡ʒun
+PWN:stove.n.01		ludz	lutz
+PWN:strap.n.01		joolikū	d͡ʒɔɔlikʰʊ
+PWN:strength.n.01		kulun	kʰulun
+PWN:strike.v.01		debderembi	tɤptɤrɤmpi
+PWN:strike.v.01		fangkambi	faŋkʰampi
+PWN:strike.v.01		fekcembi	fɤkʰt͡ʃɤmpi
+PWN:strike.v.01		gobimbi	kɔpimpi
+PWN:string.n.01		futa	futʰa
+PWN:string.n.01		sijin	sid͡ʒin
+PWN:stroke.n.10		jijun	d͡ʒid͡ʒun
+PWN:strong.a.01		elhengge	ɤlxɤŋkɤ
+PWN:stupid.a.01		dusihiyen	tusixijɤn
+PWN:stupid.a.01		eheliyan	ɤxɤlijan
+PWN:subsequently.r.01		amari	amari
+PWN:succeed.v.01		gushembi	kusxɤmpi
+PWN:suddenly.r.01		lok seme	lɔkʰ sɤmɤ
+PWN:summer.n.01		juwari	d͡ʒuwari
+PWN:sun.n.01		šun	ʃun
+PWN:support.n.07		bangtu	paŋtʰu
+PWN:support.n.07		mašan	maʃan
+PWN:swallow.v.01		nunggembi	nuŋkɤmpi
+PWN:swamp.n.01		detu	tɤtʰu
+PWN:swamp.n.01		lebenggi ba	lɤpɤŋki pa
+PWN:swamp.n.01		lifakū	lifakʰʊ
+PWN:swan.n.01		garu	karu
+PWN:sweep.v.06		erimbi	ɤrimpi
+PWN:sweet.a.01		jancuhūn	d͡ʒant͡ʃuxʊn
+PWN:swim.v.01		ebišembi	ɤpiʃɤmpi
+PWN:swim.v.01		niyerembi	nijɤrɤmpi
+PWN:swim.v.01		šetumbi	ʃɤtʰumpi
+PWN:swing.v.01		cekudembi	t͡ʃɤkʰutɤmpi
+PWN:swing.v.05		cekudembi	t͡ʃɤkʰutɤmpi
+PWN:swing_around.v.01		forombi	fɔrɔmpi
+PWN:swing_around.v.01		kurbulambi	kʰurpulampi
+PWN:swing_around.v.01		kurbumbi	kʰurpumpi
+PWN:table.n.02		dere	tɤrɤ
+PWN:tail.n.01		uncehen	unt͡ʃɤxɤn
+PWN:take.v.04		gamambi	kamampi
+PWN:take.v.04		omimbi	ɔmimpi
+PWN:talk.v.02		gisurembi	kisurɤmpi
+PWN:taste.n.01		amtan simten	amtʰan simtʰɤn
+PWN:taste.v.01		amtalambi	amtʰalampi
+PWN:taste.v.01		fimembi	fimɤmpi
+PWN:tasty.a.01		amtangga	amtʰaŋka
+PWN:tea.n.01		cai	t͡ʃai
+PWN:teach.v.01		tacibumbi	tʰat͡ʃipumpi
+PWN:teacher.n.01		giyoosi	kijɔɔsi
+PWN:teacher.n.01		sefu	sɤfu
+PWN:teacher.n.01		tacibukū	tʰat͡ʃipukʰʊ
+PWN:tear.n.01		hūwajambi	xʊwad͡ʒampi
+PWN:tear.v.01		fakcambi	fakʰt͡ʃampi
+PWN:tear.v.01		hūwajambi	xʊwad͡ʒampi
+PWN:tell.v.03		alambi	alampi
+PWN:ten.s.01		juwan	d͡ʒuwan
+PWN:tendon.n.01		ca	t͡ʃa
+PWN:tether.v.01		fulmiyembi	fulmijɤmpi
+PWN:tether.v.01		huthumbi	xutʰxumpi
+PWN:tether.v.01		kudembi	kʰutɤmpi
+PWN:then.r.01		tereci	tʰɤrɤt͡ʃi
+PWN:then.r.03		tereci	tʰɤrɤt͡ʃi
+PWN:there.r.01		cargi	t͡ʃarki
+PWN:there.r.01		tubade	tʰupatɤ
+PWN:there.r.03		tubade	tʰupatɤ
+PWN:thick.a.01		jiramin	d͡ʒiramin
+PWN:thick.a.01		luku	lukʰu
+PWN:thick.a.01		tumin	tʰumin
+PWN:thick.a.03		fišin	fiʃin
+PWN:thick.a.03		jajuri	d͡ʒad͡ʒuri
+PWN:thick.a.03		jira	d͡ʒira
+PWN:thigh.n.01		suksaha	sukʰsaxa
+PWN:thin.a.01		narhūn	narxʊn
+PWN:thin.a.01		niyekše	nijɤkʰʃɤ
+PWN:thin.a.02		kanggili	kʰaŋkili
+PWN:thing.n.09		sita	sitʰa
+PWN:thing.n.09		weile	wɤilɤ
+PWN:thing.n.12		jaka	d͡ʒakʰa
+PWN:think.v.03		kidumbi	kʰitumpi
+PWN:third.s.01		ilaci	ilat͡ʃi
+PWN:thirty.s.01		gūnin	kʊnin
+PWN:thorax.n.02		huhun	xuxun
+PWN:thousand.s.01		minggan	miŋkan
+PWN:thread.n.01		siren	sirɤn
+PWN:thread.n.01		tonggo	tʰɔŋkɔ
+PWN:three.s.01		ilan	ilan
+PWN:throat.n.01		aksun da	akʰsun ta
+PWN:through.r.01		fonddo	fɔnttɔ
+PWN:thrust.v.01		anambi	anampi
+PWN:thrust.v.01		cungūšambi	t͡ʃuŋʊʃampi
+PWN:thunder.n.02		akjan	akʰd͡ʒan
+PWN:thunder.v.03		akjambi	akʰd͡ʒampi
+PWN:thus.r.02		inu	inu
+PWN:tie.v.01		fulmiyembi	fulmijɤmpi
+PWN:tie.v.01		huthumbi	xutʰxumpi
+PWN:time.n.05		mudan	mutan
+PWN:tinkle.v.01		carkimbi	t͡ʃarkʰimpi
+PWN:tip.n.01		bonggo	pɔŋkɔ
+PWN:tip.n.01		uju	ud͡ʒu
+PWN:tire.v.02		bandambi	pantampi
+PWN:today.r.02		enenggi	ɤnɤŋki
+PWN:today.r.02		ineku inenggi	inɤkʰu inɤŋki
+PWN:toe.n.01		simhun	simxun
+PWN:together.r.01		emde	ɤmtɤ
+PWN:together.r.01		emgi	ɤmki
+PWN:token.n.02		gūnin	kʊnin
+PWN:tomorrow.r.01		cimari	t͡ʃimari
+PWN:tone.n.07		mudan	mutan
+PWN:tongue.n.01		ilenggu	ilɤŋku
+PWN:tooth.n.01		weihe	wɤixɤ
+PWN:towel.n.01		fungku	fuŋkʰu
+PWN:town.n.01		hecen	xɤt͡ʃɤn
+PWN:translate.v.01		hafumbi	xafumpi
+PWN:translate.v.01		tungserembi	tʰuŋsɤrɤmpi
+PWN:transport.v.02		tukiyembi	tʰukʰijɤmpi
+PWN:trap.n.01		eye	ɤjɤ
+PWN:trap.n.01		hūbin	xʊpin
+PWN:trap.v.02		gamambi	kamampi
+PWN:trap.v.02		omimbi	ɔmimpi
+PWN:travel.v.01		arbušambi	arpuʃampi
+PWN:travel.v.01		aššambi	aʃʃampi
+PWN:travel.v.01		gurimbi	kurimpi
+PWN:travel.v.01		yabumbi	japumpi
+PWN:tree.n.01		moo	mɔɔ
+PWN:trouser.n.01		fakūri	fakʰʊri
+PWN:true.a.01		mujangga	mud͡ʒaŋka
+PWN:true.a.01		yaargiyan	jaarkijan
+PWN:true.a.01		yargiyangga	jarkijaŋka
+PWN:trunk.n.01		da	ta
+PWN:trunk.n.01		gurun	kurun
+PWN:trunk.n.01		hithen	xitʰxɤn
+PWN:truth.n.01		yaargiyan	jaarkijan
+PWN:try.v.01		amtalambi	amtʰalampi
+PWN:try.v.01		anggasimbi	aŋkasimpi
+PWN:try.v.01		beidembi	pɤitɤmpi
+PWN:tube.n.01		sihan	sixan
+PWN:tube.n.01		teifun	tʰɤifun
+PWN:tumble.v.01		fuhešembi	fuxɤʃɤmpi
+PWN:turn.v.04		forombi	fɔrɔmpi
+PWN:turn.v.04		mudakiyambi	mutakʰijampi
+PWN:turn.v.04		torhombi	tʰɔrxɔmpi
+PWN:twelve.s.01		juwan juwe	d͡ʒuwan d͡ʒuwɤ
+PWN:twenty.s.01		orin	ɔrin
+PWN:two.s.01		juwe	d͡ʒuwɤ
+PWN:uncle.n.01		ecike	ɤt͡ʃikʰɤ
+PWN:understand.v.01		barkiyambi	parkʰijampi
+PWN:understand.v.01		nambumbi	nampumpi
+PWN:understand.v.01		sambi	sampi
+PWN:undress.v.01		gaimbi	kaimpi
+PWN:undress.v.01		sumbi	sumpi
+PWN:unfold.v.04		ijumbi	id͡ʒumpi
+PWN:unfold.v.04		sektembi	sɤkʰtʰɤmpi
+PWN:unfold.v.04		undarambi	untarampi
+PWN:up.r.01		wesihun	wɤsixun
+PWN:urge.v.01		anambi	anampi
+PWN:urge.v.01		bošombi	pɔʃɔmpi
+PWN:vainly.r.01		untuhuri	untʰuxuri
+PWN:vein.n.01		jun	d͡ʒun
+PWN:vein.n.01		me	mɤ
+PWN:vein.n.01		sudala	sutala
+PWN:very.r.01		ambula	ampula
+PWN:very.r.01		asi	asi
+PWN:very.r.01		der dar seme	tɤr tar sɤmɤ
+PWN:victimize.v.03		batkalambi	patʰkʰalampi
+PWN:victimize.v.03		jaldambi	d͡ʒaltampi
+PWN:village.n.02		tokso	tʰɔkʰsɔ
+PWN:violence.n.01		ergelen	ɤrkɤlɤn
+PWN:violence.n.01		eten	ɤtʰɤn
+PWN:visible.a.01		tuwabumbi	tʰuwapumpi
+PWN:visit.v.07		acambi	at͡ʃampi
+PWN:visit.v.07		eldembume enggelenembi	ɤltɤmpumɤ ɤŋkɤlɤnɤmpi
+PWN:voice.n.02		jilgan	d͡ʒilkan
+PWN:wait.v.01		aliyambi	alijampi
+PWN:wake_up.v.02		and getembi	ant kɤtʰɤmpi
+PWN:wake_up.v.02		getembi	kɤtʰɤmpi
+PWN:walk.n.01		feliyen	fɤlijɤn
+PWN:walk.v.01		cacihiyambi	t͡ʃat͡ʃixijampi
+PWN:walk.v.01		feksimbi	fɤkʰsimpi
+PWN:walk.v.01		kelfišembi	kʰɤlfiʃɤmpi
+PWN:walk.v.10		feliyeme tabumbi	fɤlijɤmɤ tʰapumpi
+PWN:war.n.01		dain	tain
+PWN:ware.n.01		hacin	xat͡ʃin
+PWN:warm.a.01		bulukan	pulukʰan
+PWN:warm.a.01		halhūn	xalxʊn
+PWN:warm.a.01		keb seme	kʰɤp sɤmɤ
+PWN:wash.v.02		obombi	ɔpɔmpi
+PWN:wash.v.02		werembi	wɤrɤmpi
+PWN:wash.v.03		obombi	ɔpɔmpi
+PWN:wash.v.03		šorgimbi	ʃɔrkimpi
+PWN:watch.v.01		tuwašatambi	tʰuwaʃatʰampi
+PWN:watch.v.01		yasalambi	jasalampi
+PWN:water.n.06		muke	mukʰɤ
+PWN:water.v.01		hungkerembi	xuŋkʰɤrɤmpi
+PWN:water.v.01		suitambi	suitʰampi
+PWN:wave.n.01		boljon	pɔld͡ʒɔn
+PWN:weak.a.01		butu	putʰu
+PWN:weak.a.01		eberhun	ɤpɤrxun
+PWN:weak.a.01		eberi	ɤpɤri
+PWN:wealth.n.01		ulin bayan	ulin pajan
+PWN:wear.v.09		gidambi	kitampi
+PWN:weather.n.01		abka	apkʰa
+PWN:weather.n.01		abkai sukdun	apkʰai sukʰtun
+PWN:weight.n.01		toose	tʰɔɔsɤ
+PWN:well.n.01		elmte sain	ɤlmtʰɤ sain
+PWN:west.n.02		wargi	warki
+PWN:wet.a.01		usuhin	usuxin
+PWN:whistle.v.03		fulgiyeku	fulkijɤkʰu
+PWN:white.a.01		šanggiyan	ʃaŋkijan
+PWN:wide.a.01		leli	lɤli
+PWN:wife.n.01		urun	urun
+PWN:willow.n.01		fodoho	fɔtɔxɔ
+PWN:win.v.01		etembi	ɤtʰɤmpi
+PWN:wind.n.01		edun	ɤtun
+PWN:wind.v.03		hūsimbi	xʊsimpi
+PWN:window.n.01		fa	fa
+PWN:wing.n.01		asha	asxa
+PWN:winter.n.01		tuweri	tʰuwɤri
+PWN:wipe.v.01		fumbi	fumpi
+PWN:wipe.v.01		mabulanbi	mapulanpi
+PWN:wolf.n.01		niohe	ɲɔxɤ
+PWN:woman.n.01		hehe	xɤxɤ
+PWN:woman.n.01		sargan	sarkan
+PWN:wood.n.01		moo	mɔɔ
+PWN:wool.n.02		jafu	d͡ʒafu
+PWN:word.n.01		gisun	kisun
+PWN:work.n.01		baita	paitʰa
+PWN:work.n.01		hūda	xʊta
+PWN:work.n.01		hūda maiman	xʊta maiman
+PWN:work.v.01		dambi	tampi
+PWN:work.v.01		hūsun yabumbi	xʊsun japumpi
+PWN:work.v.01		weilembi	wɤilɤmpi
+PWN:worker.n.01		hūsun	xʊsun
+PWN:world.n.02		jalan	d͡ʒalan
+PWN:worm.n.01		umiyaha	umijaxa
+PWN:write.v.02		arambi	arampi
+PWN:write.v.02		jijumbi	d͡ʒid͡ʒumpi
+PWN:year.n.01		se	sɤ
+PWN:yellow.s.01		suwayan	suwajan
+PWN:yesterday.r.01		sikse	sikʰsɤ
+PWN:young.a.01		ajigan	ad͡ʒikan
+PWN:young.a.01		asiha	asixa

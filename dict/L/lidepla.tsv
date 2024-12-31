@@ -1,445 +1,504 @@
 id	style	word
-Action:can.V		mog
-Agriculture:farm.N		ferma
-Animal:Acridomorpha.N		saltijuk
-Animal:Annelida.N		wurma
-Animal:Anthophila.N		mifen
-Animal:Anura.N		bakak
-Animal:Araneae.N		spaida
-Animal:Aves.N		faula
-Animal:Blattodea.N		kukaracha
-Animal:Bos taurus.N		gova
-Animal:Canis lupus familiaris.N		doga
-Animal:Canis lupus.N		wulfa
-Animal:Capra hircus.N		bakra
-Animal:Cervidae.N		hiran
-Animal:Cetacea.N		balena
-Animal:Culicidae.N		moskita
-Animal:Diptera.N		moska
-Animal:Equus asinus.N		asla
-Animal:Equus ferus caballus.N		kaval
-Animal:Felis catus.N		kota
-Animal:Felis leo.N		leon
-Animal:Felis tigris.N		tigra
-Animal:Formicidae.N		furmi
-Animal:Gallus gallus domesticus.N		koko, kokina, kokkin
-Animal:Homo sapiens.N		jen
-Animal:Insecta.N		insekta
-Animal:Lacertidae.N		lizarda
-Animal:Leporidae.N		kunila
-Animal:Mantodea.N		preijuk
-Animal:Meleagris gallopavo.N		kalkun
-Animal:Nephropidae.N		langusta
-Animal:Ovis aries.N		yan
-Animal:Rhopalocera.N		parpar
-Animal:Sciuridae.N		belka
-Animal:Serpentes.N		serpenta
-Animal:Simiiformes.N		maimun
-Animal:Sus scrofa domestica.N		swina
-Animal:Testudines.N		tortuga
-Animal:Ursidae.N		ber
-Animal:Vulpes.N		foxa
-Animal:animal.N		animal
-Animal:dragon.N		dragon, lung (Chinese)
-Animal:fish.N		fish
-Animal:mouse.N		maus
-Animal:wool.N		mao
-Atmosphere:cloud.N		badal
-Atmosphere:fog.N		tuman
-Atmosphere:hail.N		aispluva
-Atmosphere:rain.N		pluva
-Atmosphere:rainbow.N		raduga
-Atmosphere:sky.N		skay
-Atmosphere:storm.N		storma
-Atmosphere:thunder.N		guruha
-Atmosphere:weather.N		meteo
-Atmosphere:wind.N		feng
-Belief:angel.N		anjel
-Belief:bless.V		blesi
-Belief:curse.V		damni
-Belief:deity.N		boh
-Belief:ghost.N		fantom
-Belief:hell.N		inferna
-Belief:holiday.N		festa, bugundey
-Belief:holy.A		sante
-Belief:magic.N		magia
-Belief:priest.N		pop
-Belief:religion.N		religion
-Belief:rite.N		ritual
-Belief:soul.N		atma
-Body:anus.N		anus
-Body:arm.N		braka
-Body:back.N		bey
-Body:beard.N		barba
-Body:blood.N		hema
-Body:body hair.N		mao
-Body:body.N		korpa
-Body:bone.N		osta
-Body:brain.N		brein
-Body:breast.N		mam
-Body:breath.V		spiri
-Body:buttock.N		popa
-Body:cheek.N		wanga
-Body:chest.N		sina
-Body:chin.N		chibuk
-Body:ear.N		aur
-Body:egg.N		ovo
-Body:eye.N		oko
-Body:face.N		fas
-Body:feather.N		pluma
-Body:feces.N		fek
-Body:finger.N		finga
-Body:fist.N		kulak
-Body:flesh.N		masu
-Body:foot.N		peda
-Body:forehead.N		frenta
-Body:hand.N		handa
-Body:head hair.N		har
-Body:head.N		kapa
-Body:heart.N		kordia
-Body:heel.N		topuk
-Body:hip.N		 
-Body:horn.N		korna
-Body:intestines.N		antra, antratot
-Body:kidney.N		nefra
-Body:knee.N		genu
-Body:leg.N		gamba
-Body:lip.N		laba
-Body:live.V		jivi
-Body:liver.N		hepata
-Body:lung.N		pulmon
-Body:mouth.N		muh
-Body:muscle.N		muskula
-Body:nail.N		naka
-Body:navel.N		nabla
-Body:neck.N		galsa
-Body:nerve.N		nerva
-Body:nose.N		nos
-Body:obese.A		grose
-Body:organ.N		organ
-Body:palm.N		pama
-Body:penis.N		penis
-Body:piss.N		urina
-Body:shell.N		shel
-Body:shoulder.N		plecha
-Body:skeleton.N		skelet
-Body:skin.N		derma
-Body:sneeze.V		chihi
-Body:spine.N		spina
-Body:spit.V		spuki
-Body:stomach.N		stomak
-Body:sweat.N		sudor
-Body:tail.N		kauda
-Body:tear.N		larma
-Body:testicle.N		testikla
-Body:throat.N		gorla
-Body:thumb.N		granfinga
-Body:toe.N		pedafinga
-Body:tongue.N		lisan
-Body:tooth.N		denta
-Body:vagina.N		vagina
-Body:vein.N		vena
-Body:waist.N		talia
-Body:wing.N		ala
-Body:wound.N		wunda
-Body:wrist.N		polsa
-Building:bar.N		taverna, bar
-Building:board.N		planka, tabula
-Building:brick.N		brik
-Building:build.V		bildi
-Building:building.N		bildura
-Building:camp.N		kampa
-Building:ceiling.N		tavan
-Building:cellar.N		kela
-Building:chimney.N		fumtuba
-Building:door.N		dwar
-Building:fireplace.N		kamin
-Building:floor.N		poda
-Building:frame.N		frama
-Building:house.N		dom
-Building:oven.N		forna
-Building:pyramid.N		piramida
-Building:roof.N		ruf
-Building:room.N		shamba
-Building:stairs.N		sulam
-Building:tower.N		tawa
-Building:wall.N		mur
-Building:window.N		winda
-Cleaning:dirty.A		gande
-Clothing:apron.N		avantuh
-Clothing:belt.N		belta
-Clothing:cloth.N		kapra
-Clothing:coat.N		palto, mantela
-Clothing:collar.N		kolar
-Clothing:dress.N		roba
-Clothing:garment.N		klaida
-Clothing:glove.N		ganta
-Clothing:harness.N		jota
-Clothing:hat.N		shapa
-Clothing:jacket.N		jaka
-Clothing:leather.N		piga
-Clothing:naked.A		nude
-Clothing:necktie.N		tay
-Clothing:needle.N		igla
-Clothing:pocket.N		posh
-Clothing:sew.V		suti
-Clothing:shirt.N		kamisa
-Clothing:shoe.N		shu
-Clothing:shorts.N		shorta
-Clothing:silk.N		silka
-Clothing:skirt.N		jupa
-Clothing:sock.N		sok
-Clothing:thread.N		filu
-Clothing:towel.N		tualya
-Clothing:trousers.N		panta
-Clothing:uniform.N		uniforma
-Clothing:veil.N		vual
-Clothing:weave.V		texi
-Cognition:awake.A		jagi-she
-Cognition:expect.V		expekti
-Cognition:false.A		false
-Cognition:same.A		same
-Cognition:true.A		vere
-Combat:fight.V		batali, luchi
-Combat:helmet.N		helma
-Combat:wrestle.V		luchi
-Communication:accept		aksepti
-Communication:answer.V		jawabi
-Communication:book.N		kitaba
-Communication:call.V		voki
-Communication:deny.V		negi
-Communication:gesture.V		jesti
-Communication:letter.N		leta
-Communication:news.N		novas
-Communication:newspaper.N		gaseta
-Communication:offer.V		proposi
-Communication:praise.V		laudi
-Communication:telephone.N		telefon
-Communication:television set.N		TV
-Communication:thank.V		danki
-Cosmos:Sun.N		surya
-Cosmos:moon.N		luna
-Cosmos:planet.N		planeta
-Cosmos:star.N		stara
-Cosmos:telescope.N		teleskop
-Cosmos:universe.N		universa, kosmo
-Degree:almost.ADV		hampi
-Degree:at least.ADV		amini
-Degree:degree.N		grada, gradus
-Degree:least.ADV		minim
-Degree:less.ADV		meno
-Degree:little.ADV		shao
-Degree:more.ADV		pyu
-Degree:most.ADV		zuy
-Element:Ag.N		argenta
-Element:Au.N		golda
-Element:C.N		karbon
-Element:Cu.N		kuprum
-Element:Fe.N		fer
-Element:K.N		kalium
-Element:N.N		nitrogen
-Element:Na.N		natrium
-Element:Ne.N		neon
-Element:O.N		oxigen
-Element:Pb.N		plumbum
-Element:S.N		sulfa
-Element:Sn.N		tin
-Emotion:admire.V		admiri
-Emotion:angry.A		ira-ney
-Emotion:boring.A		enoi-she, tedi-she
-Emotion:comfort.N		byentaa
-Emotion:courage.N		kuraja
-Emotion:disappointment.N		 
-Emotion:evil.A		bade
-Emotion:fear.N		fobi
-Emotion:feel.V		senti
-Emotion:happy.A		felise
-Emotion:hate.V		heni
-Emotion:hope.V		nadi
-Emotion:love.V		luba
-Emotion:respect.V		respekti
-Emotion:sad.A		triste
-Emotion:worry.V		nokalmitaa
-Family:brother.N		brata
-Family:daughter.N		docha
-Family:family.N		familia
-Family:father.N		patra (papa)
-Family:grandfather.N		opa
-Family:grandmother.N		oma
-Family:husband.N		gamiman
-Family:marriage.N		gama
-Family:mother.N		mata (mama)
-Family:sister.N		sista
-Family:son.N		son
-Family:wife.N		gamigina
-Food:Camellia sinensis.N		chay
-Food:Coffea.N		kahwa
-Food:NaCl.N		solta
-Food:Solanum lycopersicum.N		tomata
-Food:bake.V		peki
-Food:bread.N		pan
-Food:drink.V		pi
-Food:flour.N		farina
-Food:pizza.N		pitsa
-Food:salad.N		salata
-Food:sandwich.N		sandwich
-Food:sausage.N		sosis, sosiskin
-Food:soup.N		sup
-Food:spoon.N		chiza
-Form:triangle.N		triangula
-Grooming:brush.N		brash
-Handiwork:patch.N		 
-Health:disease.N		morba
-Health:fever.N		febra
-Health:healthy.A		sane
-Health:hospital.N		hospital
-House:bed.N		kama
-House:blanket.N		manta
-House:curtain.N		kurtena
-House:pillow.N		kushen
-House:rug.N		tapis
-House:table.N		tabla
-Hunting:bow.N		arku
-Hunting:hunt.V		shikari, goni
-Integrity:part.N		parta
-Integrity:piece.N		pes
-Integrity:whole.A		tote
-Interaction:choose.V		selekti
-Literature:alphabet.N		alfabet
-Material:brass.N		latun
-Matter:rust.N		ruja
-Mind:dream.N		sonja (al nocha), drima (al dey)
-Motion:bring.V		bringi
-Motion:carry.V		porti
-Motion:catch.V		kapti
-Motion:come back.V		returni, lai bak
-Motion:come.V		lai, arivi
-Motion:enter.V		zin
-Motion:fly.V		flai
-Motion:go.V		go
-Motion:leave.V		departi
-Motion:ride.V		raki
-Motion:roll.V		roli
-Motion:turn (sth).V		turni
-Motion:turn.V		roti
-Music:sing.V		gani
-Nature:river.N		riva
-Nature:sea.N		mar, osean
-People:baby.N		bebi
-People:boy.N		boy
-People:child.N		kinda
-People:female.A		femina-ney
-People:girl.N		gela
-People:male.A		maskul-ney
-People:man.N		man
-People:woman.N		gina
-Perception:feel.V		sensi
-Perception:hear.V		audi
-Perception:pain.N		tunga
-Perception:touch.V		tachi
-Perception:wet.A		mokre
-Perception:yellow.A		hwan
-Plant:Citrus sinensis.N		oranja
-Plant:Ficus carica.N		figa
-Plant:Glycine max.N		soya
-Plant:Gossypium.N		koton
-Plant:Helianthus annuus.N		suryaflor
-Plant:bud.N		yema
-Plant:flower.N		flor
-Plant:plant.N		planta
-Possession:market.N		basar
-Possession:poor.A		povre
-Possession:price.N		prais
-Possession:receive.V		resivi
-Possession:rich.A		riche
-Quantity:0.NUM		nol
-Quantity:1.NUM		un
-Quantity:10.NUM		shi
-Quantity:100.NUM		sto
-Quantity:1000.NUM		mil
-Quantity:10^6.NUM		milion
-Quantity:2.NUM		dwa
-Quantity:3.NUM		tri
-Quantity:4.NUM		char
-Quantity:5.NUM		pet
-Quantity:6.NUM		sit
-Quantity:7.NUM		sem
-Quantity:8.NUM		ot
-Quantity:9.NUM		nin
-Quantity:empty.A		vakue
-Quantity:enough.ADV		basta, sufi-shem
-Quantity:full.A		fule
-Quantity:little.A		shao
-Quantity:many.A		mucho
-Quantity:more.A		pyu
-Quantity:most.A		maiste
-Quantity:much.A		mucho
-Quantity:multiply.V		multipliki
-Society:help.V		helpi
-Sound:laugh.V		ridi
-Space:apart.ADV		separem
-Space:back.ADV		bak
-Space:wide.A		chaure
-Storage:barrel.N		barela
-Storage:basket.N		basketa
-Storage:bottle.N		botela
-Storage:box.N		boxa
-Storage:bucket.N		dalwa
-Storage:package.N		paketa
-Storage:tin (can).N		tin-ken
-Time:afternoon.N		taim afte middey
-Time:age.N		yash
-Time:already.ADV		yo
-Time:always.ADV		sempre
-Time:autumn.N		oton
-Time:final.A		laste
-Time:hour.N		ora
-Time:late.ADV		tarde
-Time:long ago.ADV		longtaim bak, davem
-Time:minute.N		minuta
-Time:month.N		mes
-Time:never.ADV		neva
-Time:new.A		nove
-Time:night.N		nocha
-Time:now.ADV		nau
-Time:old (used).A		lao
-Time:old.A		lao
-Time:period.N		perioda, epoka
-Time:rhythm.N		ritma
-Time:season.N		seson
-Time:second.N		sekunda
-Time:short.ADV		kurte
-Time:springtime.N		vesna
-Time:still.ADV		haishi
-Time:summer.N		saif
-Time:time.N		taim
-Time:today.ADV		sedey
-Time:tomorrow.ADV		manya
-Time:wait.V		weiti
-Time:winter.N		hima
-Time:year.N		yar
-Time:yesterday.ADV		yeri
-Transit:airplane.N		avion
-Transit:bicycle.N		bisikla (baik)
-Transit:boat.N		bota
-Transit:brake.V		brek
-Transit:bus.N		bus
-Transit:car.N		auto
-Transit:cart.N		gari, vagon
-Transit:motorcycle.N		motosikla (moto)
-Transit:oar.N		rema
-Transit:railroad.N		ferdao
-Transit:road.N		kamina
-Transit:rocket.N		raketa
-Transit:sailcloth.N		parus
-Transit:ship.N		ship
-Transit:train.N		tren
-Transit:truck.N		kamion
-Transit:vehicle.N		vikla
-Transit:wheel.N		rada
-Value:bad.A		bade
-Value:compare.V		kompari
-Value:equal.A		egale
-Value:good.A		hao
-Value:important.A		muhim
-Value:right.N		raita
+PLX:and.cnj		e
+PLX:because of.adp		por
+PLX:but.cnj		bat
+PLX:can.v		mog
+PLX:if.cnj		si
+PLX:or.cnj		o (oda)
+PLX:that.cnj		ke
+PLX:that.pro		ke
+PLX:that.pro		toy
+PLX:this.pro		sey
+PWN:abdomen.n.01		duza
+PWN:afternoon.n.01		taim afte middey
+PWN:again.r.01		snova
+PWN:age.n.01		yash
+PWN:agree.v.01		konsenti
+PWN:airplane.n.01		avion
+PWN:alive.a.01		jiva-ney
+PWN:already.r.01		yo
+PWN:always.r.01		sempre
+PWN:amusing.s.02		drole
+PWN:angel.n.01		anjel
+PWN:animal.n.01		animal
+PWN:answer.v.01		jawabi
+PWN:ant.n.01		furmi
+PWN:anus.n.01		anus
+PWN:arm.n.01		braka
+PWN:arrive.v.01		lai, arivi
+PWN:ash.n.01		pepla
+PWN:attack.v.01		ataki
+PWN:automatic.a.01		automatike
+PWN:baby.n.01		bebi
+PWN:back.n.01		bey
+PWN:back.r.01		bak
+PWN:bad.a.01		bade
+PWN:bake.v.02		peki
+PWN:bare.s.01		nude
+PWN:barroom.n.01		taverna, bar
+PWN:basket.n.01		basketa
+PWN:be.v.01		bi (bin, es, ve bi)
+PWN:bear.n.01		ber
+PWN:beard.n.01		barba
+PWN:become.v.01		fa-
+PWN:bed.n.01		kama
+PWN:bee.n.01		mifen
+PWN:behavior.n.01		suluka
+PWN:belt.n.02		belta
+PWN:berry.n.01		beri
+PWN:besides.r.02		toshi
+PWN:bicycle.n.01		bisikla (baik)
+PWN:bird.n.01		faula
+PWN:bite.v.01		kusi
+PWN:black.a.01		swate
+PWN:blame.v.01		blami
+PWN:blanket.n.01		manta
+PWN:bless.v.01		blesi
+PWN:blood.n.01		hema
+PWN:blue.s.01		blu
+PWN:board.n.02		planka, tabula
+PWN:boat.n.01		bota
+PWN:body.n.01		korpa
+PWN:body_hair.n.01		mao
+PWN:bone.n.01		osta
+PWN:book.n.01		kitaba
+PWN:bottle.n.01		botela
+PWN:bow.n.04		arku
+PWN:bowl.n.01		kopa
+PWN:box.n.01		boxa
+PWN:brain.n.01		brein
+PWN:brainsick.s.01		pagale
+PWN:brake.v.02		brek
+PWN:bread.n.01		pan
+PWN:breast.n.02		mam
+PWN:breathe.v.01		spiri
+PWN:brick.n.01		brik
+PWN:bridge.n.01		ponta
+PWN:bright.a.01		yarke
+PWN:bring.v.01		bringi
+PWN:brother.n.01		brata
+PWN:brow.n.01		frenta
+PWN:brown.s.01		brun
+PWN:brush.n.02		brash
+PWN:bucket.n.01		dalwa
+PWN:bus.n.01		bus
+PWN:butterfly.n.01		parpar
+PWN:buttocks.n.01		popa
+PWN:calculate.v.01		kalkuli
+PWN:calendar_month.n.01		mes
+PWN:call.v.05		voki
+PWN:camp.n.03		kampa
+PWN:car.n.01		auto
+PWN:carbon.n.01		karbon
+PWN:cat.n.01		kota
+PWN:catch.v.04		kapti
+PWN:cattle.n.01		gova
+PWN:cause.n.01		reson
+PWN:caution.n.01		chaukitaa
+PWN:century.n.01		sekla
+PWN:cheek.n.01		wanga
+PWN:chicken.n.02		koko, kokina, kokkin
+PWN:child.n.01		kinda
+PWN:chimney.n.01		fumtuba
+PWN:chin.n.01		chibuk
+PWN:choose.v.01		selekti
+PWN:clay.n.01		glina
+PWN:cloud.n.02		badal
+PWN:coal.n.01		gual
+PWN:coat.n.01		palto, mantela
+PWN:cockroach.n.01		kukaracha
+PWN:coffee.n.01		kahwa
+PWN:collaborate.v.01		ko-operati, kogun
+PWN:collar.n.01		kolar
+PWN:color.n.01		kolor
+PWN:commiseration.n.01		piti
+PWN:compete.v.01		kompeti, konkuri
+PWN:compromise.n.01		kompromis
+PWN:construct.v.01		bildi
+PWN:contend.v.06		batali, luchi
+PWN:copper.n.01		kuprum
+PWN:corpulent.s.01		grose
+PWN:count.v.01		konti
+PWN:cover.v.01		kovra
+PWN:curse.v.03		damni
+PWN:cut.v.01		kati
+PWN:dance.v.02		dansi
+PWN:dark.a.01		tume
+PWN:date.n.01		datum
+PWN:daughter.n.01		docha
+PWN:dead.a.01		morta-ney
+PWN:deer.n.01		hiran
+PWN:deity.n.01		boh
+PWN:deny.v.04		negi
+PWN:depend.v.01		dependi fon
+PWN:depository_financial_institution.n.01		banka
+PWN:deserve.v.01		meriti
+PWN:desire.v.01		yao
+PWN:detect.v.01		merki, observi
+PWN:die.v.01		morti
+PWN:difficult.a.01		mushkile
+PWN:dirty.a.01		gande
+PWN:discontinue.v.01		stopi
+PWN:disease.n.01		morba
+PWN:dog.n.01		doga
+PWN:domestic_ass.n.01		asla
+PWN:dragon.n.01		dragon, lung (Chinese)
+PWN:dream.n.01		sonja (al nocha), drima (al dey)
+PWN:dress.n.01		roba
+PWN:drink.v.01		pi
+PWN:drive.v.01		pushi
+PWN:ear.n.01		aur
+PWN:early.r.03		rane, premature
+PWN:earthquake.n.01		sisma
+PWN:east.n.01		esta
+PWN:eight.s.01		ot
+PWN:elementary.s.01		fasile
+PWN:embarrassment.n.01		mushkila
+PWN:empty.a.01		vakue
+PWN:enough.r.01		basta, sufi-shem
+PWN:enter.v.01		zin
+PWN:enthusiasm.n.01		sagarmitaa
+PWN:estimate.v.01		gesi
+PWN:evening.n.01		aksham
+PWN:evil.a.01		bade
+PWN:exist.v.01		existi
+PWN:exit.v.01		departi
+PWN:exuberate.v.01		festi
+PWN:eye.n.01		oko
+PWN:fabric.n.01		kapra
+PWN:face.n.01		fas
+PWN:fall.n.01		oton
+PWN:family.n.02		familia
+PWN:farm.n.01		ferma
+PWN:father.n.01		patra (papa)
+PWN:faulty.s.02		noprave
+PWN:fear.n.01		fobi
+PWN:feather.n.01		pluma
+PWN:feel.v.03		sensi
+PWN:feel.v.09		senti
+PWN:female.s.03		femina-ney
+PWN:female_child.n.01		gela
+PWN:fever.n.01		febra
+PWN:finger.n.01		finga
+PWN:fireplace.n.01		kamin
+PWN:fish.n.01		fish
+PWN:fist.n.01		kulak
+PWN:five.s.01		pet
+PWN:flesh.n.01		masu
+PWN:floor.n.01		poda
+PWN:flour.n.01		farina
+PWN:flower.n.02		flor
+PWN:fly.n.01		moska
+PWN:fly.v.01		flai
+PWN:fog.n.01		tuman
+PWN:following.s.02		sekwi-she, lai-she
+PWN:foolish.a.01		norasum-ney
+PWN:foot.n.01		peda
+PWN:forest.n.01		shulin
+PWN:forget.v.02		fogeti
+PWN:forgive.v.01		pardoni
+PWN:four.s.01		char
+PWN:fox.n.01		foxa
+PWN:frequently.r.01		oftem
+PWN:friend.n.01		amiga
+PWN:frog.n.01		bakak
+PWN:full.a.01		fule
+PWN:gate.n.01		dwar
+PWN:get_down.v.07		begin, starti
+PWN:ghost.n.03		fantom
+PWN:glass.n.01		glas
+PWN:glove.n.02		ganta
+PWN:goat.n.01		bakra
+PWN:gold.n.03		golda
+PWN:good.a.01		hao
+PWN:grandfather.n.01		opa
+PWN:grandma.n.01		oma
+PWN:grasshopper.n.01		saltijuk
+PWN:grateful.a.01		danki-she
+PWN:green.s.01		grin
+PWN:grey.s.01		grey
+PWN:guard.v.01		gardi
+PWN:guilty.a.01		kulpaful
+PWN:habit.n.01		abyas, tradision
+PWN:hand.n.01		handa
+PWN:happen.v.01		eventi
+PWN:happy.a.01		felise
+PWN:hark_back.v.01		returni, lai bak
+PWN:hate.v.01		heni
+PWN:have.v.01		hev
+PWN:head.n.01		kapa
+PWN:head_covering.n.01		vual
+PWN:healthy.a.01		sane
+PWN:hear.v.01		audi
+PWN:heart.n.02		kordia
+PWN:heel.n.02		topuk
+PWN:hell.n.04		inferna
+PWN:helmet.n.02		helma
+PWN:help.v.01		helpi
+PWN:here.r.01		hir, ahir
+PWN:hide.n.02		derma
+PWN:hide.v.01		ahfi
+PWN:hill.n.01		kolina
+PWN:hip.n.01		 
+PWN:hog.n.03		swina
+PWN:holy.a.01		sante
+PWN:hope.v.02		nadi
+PWN:horn.n.02		korna
+PWN:horse.n.01		kaval
+PWN:hour.n.01		ora
+PWN:house.n.01		dom
+PWN:hundred.s.01		sto
+PWN:hunt.v.01		shikari, goni
+PWN:husband.n.01		gamiman
+PWN:idea.n.01		idea
+PWN:indicate.v.02		diki
+PWN:innocent.a.01		inosente
+PWN:insect.n.01		insekta
+PWN:intestine.n.01		antra, antratot
+PWN:iron.n.01		fer
+PWN:jade.n.01		 
+PWN:jump.v.01		salti
+PWN:kidney.n.01		nefra
+PWN:knee.n.01		genu
+PWN:lake.n.01		lak
+PWN:last.a.02		laste
+PWN:late.r.01		tarde
+PWN:laugh.v.01		ridi
+PWN:lead.n.02		plumbum
+PWN:lead.v.01		gidi, dukti
+PWN:learn.v.01		lerni
+PWN:leather.n.01		piga
+PWN:leg.n.02		gamba
+PWN:letter.n.01		leta
+PWN:lie.v.05		lugi
+PWN:lightning.n.01		bliza
+PWN:lion.n.01		leon
+PWN:lip.n.01		laba
+PWN:liver.n.01		hepata
+PWN:lizard.n.01		lizarda
+PWN:long.a.02		longe
+PWN:long.r.01		longe, longtaim-ney
+PWN:love.v.03		luba
+PWN:lung.n.01		pulmon
+PWN:magic.n.01		magia
+PWN:male.s.03		maskul-ney
+PWN:male_child.n.01		boy
+PWN:man.n.01		man
+PWN:many.a.01		mucho
+PWN:marketplace.n.02		basar
+PWN:meat.n.01		masu
+PWN:meet.v.09		miti
+PWN:melt.v.01		fa-likwe
+PWN:merely.r.01		sol
+PWN:milk.n.01		milka
+PWN:mind.n.01		menta
+PWN:monkey.n.01		maimun
+PWN:moon.n.01		luna
+PWN:more.a.02		pyu
+PWN:morning.n.01		sabah
+PWN:mosquito.n.01		moskita
+PWN:mother.n.01		mata (mama)
+PWN:motorcycle.n.01		motosikla (moto)
+PWN:mountain.n.01		monta
+PWN:mouse.n.01		maus
+PWN:mouth.n.01		muh
+PWN:nail.n.01		naka
+PWN:navel.n.01		nabla
+PWN:neck.n.01		galsa
+PWN:needle.n.03		igla
+PWN:neon.n.01		neon
+PWN:nest.n.01		nesta; lagilok
+PWN:never.r.01		neva
+PWN:new.a.01		nove
+PWN:news.n.01		novas
+PWN:newspaper.n.01		gaseta
+PWN:night.n.01		nocha
+PWN:nine.s.01		nin
+PWN:nitrogen.n.01		nitrogen
+PWN:north.n.03		norda
+PWN:nose.n.01		nos
+PWN:not.r.01		bu
+PWN:now.r.04		nau
+PWN:oar.n.01		rema
+PWN:object.n.01		obyekta
+PWN:old.a.01		lao
+PWN:one.s.01		un
+PWN:onion.n.02		luk
+PWN:orange.s.01		oranje
+PWN:oven.n.01		forna
+PWN:oxygen.n.01		oxigen
+PWN:pain.n.03		tunga
+PWN:palm.n.01		pama
+PWN:part.n.02		parta
+PWN:part.n.03		pes
+PWN:penis.n.01		penis
+PWN:person.n.01		jen
+PWN:pillow.n.01		kushen
+PWN:pine.n.01		pina
+PWN:plant.n.02		planta
+PWN:pocket.n.01		posh
+PWN:poor.a.02		povre
+PWN:populate.v.01		habiti
+PWN:potassium.n.01		kalium
+PWN:price.n.02		prais
+PWN:priest.n.01		pop
+PWN:pull.v.01		tiri
+PWN:purple.s.01		violete
+PWN:push.v.01		pushi
+PWN:rabbit.n.01		kunila
+PWN:rain.n.01		pluva
+PWN:rainbow.n.01		raduga
+PWN:red.s.01		rude
+PWN:religion.n.02		religion
+PWN:remember.v.01		remembi
+PWN:repent.v.02		afsosi
+PWN:rich.a.01		riche
+PWN:ride.v.01		raki
+PWN:rite.n.01		ritual
+PWN:river.n.01		riva
+PWN:road.n.01		kamina
+PWN:roll.v.14		roli
+PWN:roof.n.01		ruf
+PWN:room.n.01		shamba
+PWN:root.n.01		riza
+PWN:rope.n.01		korda
+PWN:rug.n.01		tapis
+PWN:run.v.01		lopi
+PWN:sabbath.n.01		 
+PWN:sad.a.01		triste
+PWN:sail.n.01		parus
+PWN:salt.n.02		solta
+PWN:same.a.01		same
+PWN:sausage.n.01		sosis, sosiskin
+PWN:sea.n.01		mar, osean
+PWN:season.n.02		seson
+PWN:see.v.01		vidi
+PWN:send.v.01		sendi
+PWN:sequence.n.01		sekwa, ordina
+PWN:seven.s.01		sem
+PWN:sew.v.01		suti
+PWN:shake.v.01		sheiki, tremi
+PWN:sheep.n.01		yan
+PWN:shell.n.10		shel
+PWN:shine.v.02		brili
+PWN:ship.n.01		ship
+PWN:shirt.n.01		kamisa
+PWN:shoe.n.01		shu
+PWN:short.a.02		kurte
+PWN:shoulder.n.01		plecha
+PWN:shut.a.01		klosi-ney
+PWN:silk.n.01		silka
+PWN:silver.n.01		argenta
+PWN:sing.v.02		gani
+PWN:sister.n.01		sista
+PWN:six.s.01		sit
+PWN:skirt.n.02		jupa
+PWN:sky.n.01		skay
+PWN:sleep.v.01		somni
+PWN:sleep_together.v.01		koiti
+PWN:snake.n.01		serpenta
+PWN:sneeze.v.01		chihi
+PWN:snow.n.01		snega
+PWN:sodium.n.01		natrium
+PWN:soil.n.02		grunta
+PWN:son.n.01		son
+PWN:soon.r.01		sun
+PWN:sore.n.01		wunda
+PWN:soul.n.01		atma
+PWN:soup.n.01		sup
+PWN:south.n.03		suda
+PWN:spider.n.01		spaida
+PWN:spinal_column.n.01		spina
+PWN:spit.v.01		spuki
+PWN:spoon.n.01		chiza
+PWN:spring.n.01		vesna
+PWN:squirrel.n.01		belka
+PWN:stand.v.01		stan
+PWN:star.n.03		stara
+PWN:state.n.04		nasion, stata
+PWN:stay.v.04		resti
+PWN:still.r.01		haishi
+PWN:stomach.n.01		stomak
+PWN:storm.n.01		storma
+PWN:string.n.01		syen
+PWN:study.v.05		studi
+PWN:stupid.a.01		stupide
+PWN:sulfur.n.01		sulfa
+PWN:summer.n.01		saif
+PWN:sun.n.01		surya
+PWN:swallow.v.01		gloti
+PWN:swamp.n.01		sumpa
+PWN:table.n.02		tabla
+PWN:tail.n.01		kauda
+PWN:talk.v.02		shwo
+PWN:tea.n.01		chay
+PWN:teach.v.01		talimi
+PWN:tear.n.01		larma
+PWN:telephone.n.01		telefon
+PWN:television_receiver.n.01		TV
+PWN:ten.s.01		shi
+PWN:testis.n.01		testikla
+PWN:there.r.01		dar, adar
+PWN:think.v.03		dumi
+PWN:thorax.n.02		sina
+PWN:thousand.s.01		mil
+PWN:thread.n.01		filu
+PWN:three.s.01		tri
+PWN:throat.n.01		gorla
+PWN:thumb.n.01		granfinga
+PWN:thunder.n.02		guruha
+PWN:tide.n.01		afluisa e defluisa
+PWN:tiger.n.02		tigra
+PWN:time.n.05		taim
+PWN:tin.n.01		tin
+PWN:today.r.02		sedey
+PWN:toe.n.01		pedafinga
+PWN:tomorrow.r.01		manya
+PWN:tongue.n.01		lisan
+PWN:tooth.n.01		denta
+PWN:touch.v.01		tachi
+PWN:towel.n.01		tualya
+PWN:tower.n.01		tawa
+PWN:town.n.01		urba
+PWN:train.n.01		tren
+PWN:transport.v.02		porti
+PWN:trap.n.01		kapter
+PWN:travel.v.01		go
+PWN:trouser.n.01		panta
+PWN:true.a.01		vere
+PWN:turn.v.04		turni
+PWN:turtle.n.02		tortuga
+PWN:two.s.01		dwa
+PWN:understand.v.01		samaji
+PWN:vagina.n.01		vagina
+PWN:valley.n.01		dol
+PWN:vein.n.01		vena
+PWN:vinegar.n.01		vinegra
+PWN:wagon.n.01		gari, vagon
+PWN:waist.n.01		talia
+PWN:wait.v.01		weiti
+PWN:weather.n.01		meteo
+PWN:weave.v.02		texi
+PWN:week.n.01		wik
+PWN:west.n.02		westa
+PWN:wet.a.01		mokre
+PWN:whale.n.02		balena
+PWN:wheel.n.01		rada
+PWN:white.a.01		blan
+PWN:wide.a.01		chaure
+PWN:wife.n.01		gamigina
+PWN:wind.n.01		feng
+PWN:window.n.01		winda
+PWN:wing.n.01		ala
+PWN:winter.n.01		hima
+PWN:wolf.n.01		wulfa
+PWN:woman.n.01		gina
+PWN:wool.n.02		mao
+PWN:world.n.02		munda
+PWN:worm.n.01		wurma
+PWN:wrist.n.01		polsa
+PWN:year.n.01		yar
+PWN:yellow.s.01		hwan
+PWN:yesterday.r.01		yeri
+PWN:young.a.01		yunge
+PWN:zero.s.01		nol

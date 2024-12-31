@@ -1,514 +1,1199 @@
 id	style	word	pronunciation
-Action:can.V		bilmek	bilmɛk
-Agriculture:herd (something).V		otlatmak	otlatmak
-Agriculture:irrigate.V		sulamak	sulamak
-Agriculture:pick.V		koparmak	kopaɾmak
-Agriculture:shovel.N		kürek	kyɾɛk
-Animal:Anatidae.N		ördek	œɾdɛk
-Animal:Annelida.N		kurt	kuɾt
-Animal:Annelida.N		solucan	solud͡ʒan
-Animal:Araneae.N		örümcek	œɾymd͡ʒɛk
-Animal:Aves.N		kuş	kuʃ
-Animal:Canis lupus familiaris.N		it	it
-Animal:Canis lupus familiaris.N		köpek	kœpɛk
-Animal:Canis lupus.N		kurt	kuɾt
-Animal:Corvus.N		karga	kaɾɡa
-Animal:Culicidae.N		sivrisinek	sivɾisinɛk
-Animal:Diptera.N		sinek	sinɛk
-Animal:Equus ferus caballus.N		at	at
-Animal:Equus ferus caballus.N		beygir	bɛjɡiɾ
-Animal:Felis catus.N		kedi	kɛdi
-Animal:Formicidae.N		karınca	kaɾɯnd͡ʒa
-Animal:Gallus gallus domesticus.N		tavuk	tavuk
-Animal:Homo sapiens.N		insan	insan
-Animal:Ovis aries.N		koyun	kojun
-Animal:Rhopalocera.N		kelebek	kɛlɛbɛk
-Animal:Sciuridae.N		sincap	sind͡ʒap
-Animal:Serpentes.N		yılan	jɯlan
-Animal:Sus scrofa domestica.N		domuz	domuz
-Animal:Ursidae.N		ayı	ajɯ
-Animal:Vulpes.N		tilki	tilki
-Animal:animal.N		hayvan	hajvan
-Animal:fish.N		balık	balɯk
-Animal:mouse.N		fare	faɾɛ
-Animal:mouse.N		sıçan	sɯt͡ʃan
-Animal:wool.N		yün	jyn
-Atmosphere:cloud.N		bulut	bulut
-Atmosphere:cold.A		serin	sɛɾin
-Atmosphere:fog.N		pus	pus
-Atmosphere:rain.N		yağmur	jaːmuɾ
-Atmosphere:rain.V		yağmak	jaːmak
-Atmosphere:rainbow.N		gökkuşağı	ɡœkːuʃaːɯ
-Atmosphere:sky.N		gök	ɡœk
-Atmosphere:thunder.N		gök gürlemesi	ɡœk ɡyɾlɛmɛsi
-Atmosphere:thunder.V		gök gürlemek	ɡœk ɡyɾlɛmɛk
-Atmosphere:weather.N		hava	hava
-Atmosphere:wind.N		rüzgâr	ɾyzɡaːɾ
-Atmosphere:wind.N		yel	jɛl
-Belief:deity.N		tanrı	tanɾɯ
-Belief:idol.N		heykel	hɛjkɛl
-Belief:idol.N		şekil	ʃɛkil
-Belief:spirit.N		tin	tin
-Body:arm.N		kol	kol
-Body:back.N		arka	aɾka
-Body:beard.N		sakal	sakal
-Body:belly.N		karın	kaɾɯn
-Body:blood.N		kan	kan
-Body:blow.V		üflemek	yflɛmɛk
-Body:body.N		vücut	vyd͡ʒut
-Body:bone.N		kemik	kɛmik
-Body:brain.N		beyin	bɛjin
-Body:breast.N		koyun	kojun
-Body:breath.N		nefes	nɛfɛs
-Body:breath.V		nefes almak	nɛfɛs almak
-Body:breath.V		solunmak	solunmak
-Body:cheek.N		yanak	janak
-Body:chest.N		göğüs	ɡœjys
-Body:chin.N		çene	t͡ʃɛnɛ
-Body:ear.N		kulak	kulak
-Body:elbow.N		dirsek	diɾsɛk
-Body:eye.N		göz	ɡœz
-Body:face.N		yüz	jyz
-Body:fat.N		yağ	jaː
-Body:feather.N		tüy	tyj
-Body:finger.N		parmak	paɾmak
-Body:fingernail.N		el tırnağı	ɛl tɯɾnaːɯ
-Body:foot.N		ayak	ajak
-Body:footprint.N		iz	iz
-Body:forehead.N		alın	alɯn
-Body:fur.N		post	post
-Body:hair.N		saç	sat͡ʃ
-Body:hand.N		el	ɛl
-Body:head.N		baş	baʃ
-Body:head.N		kafa	kafa
-Body:heart.N		kalp	kalp
-Body:heart.N		yürek	jyɾɛk
-Body:heel.N		topuk	topuk
-Body:horn.N		boynuz	bojnuz
-Body:jaw.N		çene	t͡ʃɛnɛ
-Body:knee.N		diz	diz
-Body:leg.N		bacak	bad͡ʒak
-Body:lip.N		dudak	dudak
-Body:liver.N		karaciğer	kaɾad͡ʒijɛɾ
-Body:moustache.N		bıyık	bɯjɯk
-Body:mouth.N		ağız	aːɯz
-Body:nail.N		tırnak	tɯɾnak
-Body:nape.N		ense	ɛnsɛ
-Body:navel.N		göbek	ɡœbɛk
-Body:neck.N		boyun	bojun
-Body:neck.N		gerdan	ɡɛɾdan
-Body:nose.N		burun	buɾun
-Body:obese.A		şişman	ʃiʃman
-Body:palm.N		avuç	avut͡ʃ
-Body:palm.N		el ayası	ɛl ajasɯ
-Body:shoulder.N		omuz	omuz
-Body:skin.N		cilt	d͡ʒilt
-Body:stomach.N		mide	midɛ
-Body:tail.N		kuyruk	kujɾuk
-Body:tear.N		gözyaşı	ɡœzjaʃɯ
-Body:tendon.N		kiriş	kiɾiʃ
-Body:throat.N		boğaz	boːaz
-Body:toe.N		ayak parmağı	ajak paɾmaːɯ
-Body:tongue.N		dil	dil
-Body:tooth.N		diş	diʃ
-Body:upper leg.N		uyluk	ujluk
-Body:vein.N		damar	damaɾ
-Body:wing.N		kanat	kanat
-Body:wound.N		yara	jaɾa
-Building:board.N		tahta	tahta
-Building:build.V		inşa etmek	inʃa ɛtmɛk
-Building:build.V		kurmak	kuɾmak
-Building:door.N		kapı	kapɯ
-Building:floor.N		döşeme	dœʃɛmɛ
-Building:floor.N		taban	taban
-Building:gate.N		kapı	kapɯ
-Building:house.N		ev	ɛv
-Building:post.N		çubuk	t͡ʃubuk
-Building:roof.N		dam	dam
-Building:roof.N		çatı	t͡ʃatɯ
-Building:window.N		pencere	pɛnd͡ʒɛɾɛ
-Cleaning:broom.N		süpürge	sypyɾɡɛ
-Cleaning:clean (sth).V		temizlemek	tɛmizlɛmɛk
-Cleaning:clean.A		pak	pak
-Cleaning:clean.A		temiz	tɛmiz
-Cleaning:dirt.N		pislik	pislik
-Cleaning:dirt.N		çamur	t͡ʃamuɾ
-Cleaning:dirty.A		kirli	kiɾli
-Cleaning:dirty.A		pis	pis
-Cleaning:sweep.V		süpürmek	sypyɾmɛk
-Cleaning:wash (oneself).V		yıkanmak	jɯkanmak
-Cleaning:wash.V		yıkamak	jɯkamak
-Cleaning:wipe.V		silmek	silmɛk
-Clothing:belt.N		kuşak	kuʃak
-Clothing:boot.N		çizme	t͡ʃizmɛ
-Clothing:button.N		düğme	dyjmɛ
-Clothing:cap.N		bere	bɛɾɛ
-Clothing:cap.N		kasket	kaskɛt
-Clothing:cloth.N		kumaş	kumaʃ
-Clothing:clothes.N		giyim	ɡijim
-Clothing:collar.N		yaka	jaka
-Clothing:dress up.V		giyinmek	ɡijinmɛk
-Clothing:dye.V		boyamak	bojamak
-Clothing:knit.V		örmek	œɾmɛk
-Clothing:leather.N		deri	dɛɾi
-Clothing:leather.N		meşin	mɛʃin
-Clothing:naked.A		çıplak	t͡ʃɯplak
-Clothing:needle.N		iğne	ijnɛ
-Clothing:put on.V		giymek	ɡijmɛk
-Clothing:scarf or turban.N		bez	bɛz
-Clothing:sew.V		dikmek	dikmɛk
-Clothing:shirt.N		gömlek	ɡœmlɛk
-Clothing:shoe.N		ayakkabı	ajakːabɯ
-Clothing:shoe.N		kundura	kunduɾa
-Clothing:sleeve.N		elbise kolu	ɛlbisɛ kolu
-Clothing:sleeve.N		yen	jɛn
-Clothing:thread.N		iplik	iplik
-Clothing:thread.N		tire	tiɾɛ
-Clothing:towel.N		havlu	havlu
-Clothing:trousers.N		pantolon	pantolon
-Clothing:undress.V		çıkarmak	t͡ʃɯkaɾmak
-Cognition:familiar.A		bilinen	bilinɛn
-Cognition:true.A		doğru	doːɾu
-Cognition:true.A		gerçek	ɡɛɾt͡ʃɛk
-Cognition:truth.N		doğruluk	doːɾuluk
-Cognition:truth.N		gerçeklik	ɡɛɾt͡ʃɛklik
-Cognition:wake up (tr).V		uyandırmak	ujandɯɾmak
-Cognition:wake up.V		uyanmak	ujanmak
-Combat:brawl.V		dövüşmek	dœvyʃmɛk
-Combat:fight.N		savaş	savaʃ
-Combat:strike (sb).V		dövmek	dœvmɛk
-Combat:violence.N		cebir	d͡ʒɛbiɾ
-Combat:violence.N		zor	zoɾ
-Combat:win.V		yenmek	jɛnmɛk
-Communication:boast.V		övünmek	œvynmɛk
-Communication:book.N		kitap	kitap
-Communication:call.V		çağırmak	t͡ʃaːɯɾmak
-Communication:chat.V		sohbet etmek	sohbɛt ɛtmɛk
-Communication:convey (a message).V		bildirmek	bildiɾmɛk
-Communication:fairy tale.N		masal	masal
-Communication:kiss.V		öpmek	œpmɛk
-Communication:language.N		dil	dil
-Communication:language.N		lisan	lisan
-Communication:letter.N		mektup	mɛktup
-Communication:lie.N		yalan	jalan
-Communication:news.N		haber	habɛɾ
-Communication:newspaper.N		gazete	ɡazɛtɛ
-Communication:talk.V		konuşmak	konuʃmak
-Communication:tell.V		bahsetmek	bahsɛtmɛk
-Communication:tell.V		hikâye etmek	hikaːjɛ ɛtmɛk
-Communication:translate.V		tercüme etmek	tɛɾd͡ʒymɛ ɛtmɛk
-Communication:translate.V		çevirmek	t͡ʃɛviɾmɛk
-Communiction:call.N		çağırma	t͡ʃaːɯɾma
-Cosmos:Sun.N		güneş	ɡynɛʃ
-Cosmos:moon.N		ay	aj
-Cosmos:set.V		batmak	batmak
-Cosmos:star.N		yıldız	jɯldɯz
-Degree:very.ADV		gayet	ɡajɛt
-Degree:very.ADV		pek	pɛk
-Element:Ag.N		gümüş	ɡymyʃ
-Element:Au.N		altın	altɯn
-Element:Fe.N		demir	dɛmiɾ
-Emotion:be angry.V		kızmak	kɯzmak
-Emotion:cry.V		ağlamak	aːlamak
-Emotion:evil.A		kötü	kœty
-Emotion:fear.V		korkmak	koɾkmak
-Emotion:gentle.A		nazik	nazik
-Emotion:grief.N		dert	dɛɾt
-Emotion:grief.N		keder	kɛdɛɾ
-Emotion:happiness.N		mutluluk	mutluluk
-Emotion:like.V		beğenmek	bɛjɛnmɛk
-Emotion:longing.N		arzu	aɾzu
-Emotion:longing.N		heves	hɛvɛs
-Emotion:love.V		sevmek	sɛvmɛk
-Emotion:merry.A		neşeli	nɛʃɛli
-Emotion:move.V		dokunmak	dokunmak
-Emotion:move.V		duygulandırmak	dujɡulandɯɾmak
-Emotion:sad.A		kederli	kɛdɛɾli
-Emotion:sad.A		üzüntülü	yzyntyly
-Emotion:want.V		istemek	istɛmɛk
-Family:aunt.N		hala	hala
-Family:aunt.N		teyze	tɛjzɛ
-Family:brother.N		abi	abi
-Family:brother.N		erkek kardeş	ɛɾkɛk kaɾdɛʃ
-Family:daughter.N		kız	kɯz
-Family:daughter.N		kız evlât	kɯz ɛvlaːt
-Family:family.N		aile	ailɛ
-Family:father.N		ata	ata
-Family:father.N		baba	baba
-Family:grandfather.N		büyükbaba	byjykbaba
-Family:grandfather.N		dede	dɛdɛ
-Family:grandmother.N		büyükanne	byjykanːɛ
-Family:grandmother.N		nine	ninɛ
-Family:husband.N		koca	kod͡ʒa
-Family:mother.N		ana	ana
-Family:mother.N		anne	anːɛ
-Family:parents.N		ana baba	ana baba
-Family:parents.N		ebeveyn	ɛbɛvɛjn
-Family:sister.N		abla	abla
-Family:sister.N		kız kardeş	kɯz kaɾdɛʃ
-Family:son.N		oğul	oːul
-Family:uncle.N		dayı	dajɯ
-Family:wife.N		karı	kaɾɯ
-Food:Camellia sinensis.N		çay	t͡ʃaj
-Food:Malus domestica.N		elma	ɛlma
-Food:NaCl.N		tuz	tuz
-Food:bake.V		fırında pişirmek	fɯɾɯnda piʃiɾmɛk
-Food:bake.V		pişirmek	piʃiɾmɛk
-Food:bread.N		ekmek	ɛkmɛk
-Food:soup.N		çorba	t͡ʃoɾba
-Food:spoon.N		kaşık	kaʃɯk
-Form:bend (sth).V		bükmek	bykmɛk
-Form:bend.V		eğmek	ɛjmɛk
-Function:1PL.PRO		biz	biz
-Function:1SG.PRO		ben	bɛn
-Function:2PL.PRO		siz	siz
-Function:2SG.PRO		sen	sɛn
-Function:3PL.PRO		onlar	onlaɾ
-Function:3SG M.PRO		o	o
-Function:and.CNJ		ile	ilɛ
-Function:and.CNJ		ve	vɛ
-Function:here.ADV		burada	buɾada
-Function:how many.PRO		kaç	kat͡ʃ
-Function:how many.PRO		ne kadar	nɛ kadaɾ
-Function:how.PRO		nasıl	nasɯl
-Function:not.PTCL		-mi-	mi
-Function:not.PTCL		değil	dɛjil
-Function:or.CNJ		ya	ja
-Function:or.CNJ		yahut	jahut
-Function:other.PRO		diğer	dijɛɾ
-Function:that.PRO		o	o
-Function:that.PRO		şu	ʃu
-Function:there.ADV		orada	oɾada
-Function:there.ADV		şurada	ʃuɾada
-Function:this.PRO		bu	bu
-Function:what.PRO		ne	nɛ
-Function:where.PRO		nerede	nɛɾɛdɛ
-Function:who.PRO		kim	kim
-Function:why.PRO		neden	nɛdɛn
-Grooming:comb.N		tarak	taɾak
-Grooming:comb.V		taramak	taɾamak
-Grooming:decorate.V		süslemek	syslɛmɛk
-Grooming:mirror.N		ayna	ajna
-Grooming:ring.N		yüzük	jyzyk
-Handiwork:glue.V		yapıştırmak	japɯʃtɯɾmak
-Handiwork:nail.N		çivi	t͡ʃivi
-Handiwork:repair.V		onarmak	onaɾmak
-Handiwork:repair.V		tamir etmek	tamiɾ ɛtmɛk
-Handiwork:ware.N		mal	mal
-Handiwork:worker.N		işçi	iʃt͡ʃi
-Health:become sick.V		hastalanmak	hastalanmak
-Health:disease.N		hastalık	hastalɯk
-Health:fever.N		ateş	atɛʃ
-Health:healthy.A		sağlık	saːlɯk
-Health:medicine.N		ilâç	ilaːt͡ʃ
-Health:physician.N		doktor	doktoɾ
-Health:physician.N		hekim	hɛkim
-Health:recover.V		şifa bulmak	ʃifa bulmak
-House:bed.N		yatak	jatak
-House:blanket.N		yorgan	joɾɡan
-House:blanket.N		örtü	œɾty
-House:cradle.N		beşik	bɛʃik
-House:pillow.N		yastık	jastɯk
-House:table.N		masa	masa
-Hunting:bow.N		yay	jaj
-Hunting:fishing.V		balık tutmak	balɯk tutmak
-Hunting:hunt.V		avlanmak	avlanmak
-Integrity:part.N		kısım	kɯsɯm
-Integrity:piece.N		parça	paɾt͡ʃa
-Integrity:piece.N		tane	tanɛ
-Interaction:choose.V		seçmek	sɛt͡ʃmɛk
-Interaction:rescue.V		kurtarmak	kuɾtaɾmak
-Mind:dream.N		düş	dyʃ
-Mind:dream.N		rüya	ɾyja
-Motion:arrive.V		varmak	vaɾmak
-Motion:bring.V		getirmek	ɡɛtiɾmɛk
-Motion:carry.V		taşımak	taʃɯmak
-Motion:catch.V		tutmak	tutmak
-Motion:catch.V		yakalamak	jakalamak
-Motion:climb.V		tırmanmak	tɯɾmanmak
-Motion:come back.V		dönmek	dœnmɛk
-Motion:come.V		gelmek	ɡɛlmɛk
-Motion:creep.V		sürünmek	syɾynmɛk
-Motion:drag.V		sürüklemek	syɾyklɛmɛk
-Motion:drop (something).V		düşürmek	dyʃyɾmɛk
-Motion:enter.V		içeri girmek	it͡ʃɛɾi ɡiɾmɛk
-Motion:fall.V		düşmek	dyʃmɛk
-Motion:fly.V		uçmak	ut͡ʃmak
-Motion:go.V		gitmek	ɡitmɛk
-Motion:leave.V		gitmek	ɡitmɛk
-Motion:lift.V		yukarı kaldırmak	jukaɾɯ kaldɯɾmak
-Motion:move (oneself).V		hareket etmek	haɾɛkɛt ɛtmɛk
-Motion:raise.V		kaldırmak	kaldɯɾmak
-Motion:step.V		adım atmak	adɯm atmak
-Motion:step.V		yürümek	jyɾymɛk
-Motion:swing (sth).V		sallamak	salːamak
-Motion:swing.V		titremek	titɾɛmɛk
-Motion:take a walk.V		dolaşmak	dolaʃmak
-Motion:take a walk.V		gezmek	ɡɛzmɛk
-Motion:turn (sth).V		çevirmek	t͡ʃɛviɾmɛk
-Motion:walk.N		gidiş	ɡidiʃ
-Motion:walk.N		yürüyüş	jyɾyjyʃ
-Music:sing.V		söylemek	sœjlɛmɛk
-Music:sing.V		şarkı söylemek	ʃaɾkɯ sœjlɛmɛk
-Music:song.N		türkü	tyɾky
-Music:tone.N		ses	sɛs
-Nature:river.N		nehir	nɛhiɾ
-Nature:sea.N		deniz	dɛniz
-Nature:shore of lake.N		kıyı	kɯjɯ
-Nature:shore of lake.N		sahil	sahil
-Nature:slope.N		bayır	bajɯɾ
-People:boy.N		erkek çocuk	ɛɾkɛk t͡ʃod͡ʒuk
-People:child.N		çocuk	t͡ʃod͡ʒuk
-People:girl.N		kız	kɯz
-People:man.N		adam	adam
-People:man.N		erkek	ɛɾkɛk
-People:people.N		halk	halk
-People:people.N		insanlar	insanlaɾ
-People:woman.N		bayan	bajan
-Perception:feel.V		duymak	dujmak
-Perception:feel.V		hissetmek	hisːɛtmɛk
-Perception:hear or listen.V		haber almak	habɛɾ almak
-Perception:hear.V		duymak	dujmak
-Perception:hear.V		işitmek	iʃitmɛk
-Perception:pain.N		ağrı	aːɾɯ
-Perception:pain.N		sancı	sand͡ʒɯ
-Perception:touch.V		dokunmak	dokunmak
-Perception:wet.A		yaş	jaʃ
-Perception:wet.A		ıslak	ɯslak
-Perception:yellow.A		sarı	saɾɯ
-Plant:Betula.N		huş	huʃ
-Plant:bark.N		kabuk	kabuk
-Plant:branch.N		budak	budak
-Plant:branch.N		dal	dal
-Plant:flower.N		çiçek	t͡ʃit͡ʃɛk
-Plant:leaf.N		yaprak	japɾak
-Plant:root.N		kök	kœk
-Plant:seed.N		ekin	ɛkin
-Plant:tree trunk.N		gövde	ɡœvdɛ
-Plant:tree.N		ağaç	aːat͡ʃ
-Plant:twig.N		dal	dal
-Possession:abandon.V		bırakmak	bɯɾakmak
-Possession:abandon.V		terk etmek	tɛɾk ɛtmɛk
-Possession:gift.N		armağan	aɾmaːan
-Possession:gift.N		hediye	hɛdijɛ
-Possession:poor.A		fakir	fakiɾ
-Possession:price.N		fiyat	fijat
-Possession:rich.A		zengin	zɛnɡin
-Possession:sell.V		satmak	satmak
-Quantity:1.NUM		bir	biɾ
-Quantity:10.NUM		on	on
-Quantity:100.NUM		yüz	jyz
-Quantity:1000.NUM		bin	bin
-Quantity:11.NUM		on bir	on biɾ
-Quantity:12.NUM		on iki	on iki
-Quantity:2.NUM		iki	iki
-Quantity:20.NUM		yirmi	jiɾmi
-Quantity:3.NUM		üç	yt͡ʃ
-Quantity:30.NUM		otuz	otuz
-Quantity:4.NUM		dört	dœɾt
-Quantity:40.NUM		kırk	kɯɾk
-Quantity:5.NUM		beş	bɛʃ
-Quantity:50.NUM		elli	ɛlːi
-Quantity:6.NUM		altı	altɯ
-Quantity:60.NUM		altmış	altmɯʃ
-Quantity:7.NUM		yedi	jɛdi
-Quantity:70.NUM		yetmiş	jɛtmiʃ
-Quantity:8.NUM		sekiz	sɛkiz
-Quantity:80.NUM		seksen	sɛksɛn
-Quantity:9.NUM		dokuz	dokuz
-Quantity:90.NUM		doksan	doksan
-Quantity:a little.A		biraz	biɾaz
-Quantity:add.V		eklemek	ɛklɛmɛk
-Quantity:add.V		katmak	katmak
-Quantity:decrease.V		azalmak	azalmak
-Quantity:empty.A		boş	boʃ
-Quantity:fill.V		doldurmak	dolduɾmak
-Quantity:full.A		dolmuş	dolmuʃ
-Quantity:full.A		dolu	dolu
-Quantity:increase.V		artmak	aɾtmak
-Quantity:increase.V		çoğalmak	t͡ʃoːalmak
-Society:help.N		yardım	jaɾdɯm
-Society:people.N		millet	milːɛt
-Society:people.N		ulus	ulus
-Sound:chime.V		çalmak	t͡ʃalmak
-Sound:howl.V		ulumak	ulumak
-Sound:laugh.N		gülme	ɡylmɛ
-Sound:laugh.N		kahkaha	kahkaha
-Sound:laugh.V		gülmek	ɡylmɛk
-Sound:make noise.V		gürültü yapmak	ɡyɾylty japmak
-Sound:rustle (of leaves).V		fışırdamak	fɯʃɯɾdamak
-Sound:shout.V		bağırmak	baːɯɾmak
-Sound:shout.V		haykırmak	hajkɯɾmak
-Sound:sound (of instrument or voice).V		tınlamak	tɯnlamak
-Sound:voice.N		ses	sɛs
-Sound:whistle.V		düdük çalmak	dydyk t͡ʃalmak
-Space:back.ADV		geriye	ɡɛɾijɛ
-Space:wide.A		enli	ɛnli
-Space:wide.A		geniş	ɡɛniʃ
-Storage:bag.N		çanta	t͡ʃanta
-Storage:box.N		sandık	sandɯk
-Storage:bucket.N		kova	kova
-Storage:heap.N		küme	kymɛ
-Storage:heap.N		yığın	jɯːɯn
-Storage:lid.N		kapak	kapak
-Storage:load.N		yük	jyk
-Storage:misplace.V		kaybetmek	kajbɛtmɛk
-Storage:misplace.V		yitirmek	jitiɾmɛk
-Storage:pouch.N		kese	kɛsɛ
-Storage:pouch.N		torba	toɾba
-Storage:pour.V		akıtmak	akɯtmak
-Storage:pour.V		dökmek	dœkmɛk
-Storage:sack.N		torba	toɾba
-Time:April.N		nisan	nisan
-Time:August.N		ağustos	aːustos
-Time:December.N		aralık	aɾalɯk
-Time:February.N		şubat	ʃubat
-Time:January.N		ocak	od͡ʒak
-Time:July.N		temmuz	tɛmːuz
-Time:June.N		haziran	haziɾan
-Time:March.N		mart	maɾt
-Time:May.N		mayıs	majɯs
-Time:November.N		kasım	kasɯm
-Time:October.N		ekim	ɛkim
-Time:September.N		eylül	ɛjlyl
-Time:age.N		yaş	jaʃ
-Time:already.ADV		çoktan	t͡ʃoktan
-Time:always.ADV		daima	daima
-Time:always.ADV		her zaman	hɛɾ zaman
-Time:autumn.N		güz	ɡyz
-Time:autumn.N		sonbahar	sonbahaɾ
-Time:final.A		son	son
-Time:final.A		sonuncu	sonund͡ʒu
-Time:month.N		ay	aj
-Time:never.ADV		asla değil	asla dɛjil
-Time:never.ADV		hiçbir zaman	hit͡ʃbiɾ zaman
-Time:new.A		yeni	jɛni
-Time:night.N		gece	ɡɛd͡ʒɛ
-Time:now.ADV		şimdi	ʃimdi
-Time:often.ADV		sık sık	sɯk sɯk
-Time:often.ADV		çok defa	t͡ʃok dɛfa
-Time:old (of person).A		yaşlı	jaʃlɯ
-Time:old.A		eski	ɛski
-Time:one time.ADV		bir defa	biɾ dɛfa
-Time:pass.V		geçmek	ɡɛt͡ʃmɛk
-Time:springtime.N		ilkbahar	ilkbahaɾ
-Time:still.ADV		henüz	hɛnyz
-Time:still.ADV		hâlâ	haːlaː
-Time:summer.N		yaz	jaz
-Time:time.N		zaman	zaman
-Time:today.ADV		bugün	buɡyn
-Time:tomorrow.ADV		yarın	jaɾɯn
-Time:wait.V		beklemek	bɛklɛmɛk
-Time:winter.N		kış	kɯʃ
-Time:year.N		sene	sɛnɛ
-Time:year.N		yıl	jɯl
-Time:yesterday.ADV		dün	dyn
-Transit:boat.N		kayık	kajɯk
-Transit:boat.N		sandal	sandal
-Transit:oar.N		kürek	kyɾɛk
-Transit:road.N		cadde	d͡ʒadːɛ
-Transit:road.N		yol	jol
-Transit:row.V		kürek çekmek	kyɾɛk t͡ʃɛkmɛk
-Value:bad.A		kötü	kœty
-Value:good.A		iyi	iji
-Value:improve.V		düzeltmek	dyzɛltmɛk
+PLX:1PL.pro		biz	biz
+PLX:1SG.pro		ben	bɛn
+PLX:2PL.pro		siz	siz
+PLX:2SG.pro		sen	sɛn
+PLX:3PL.pro		onlar	onlaɾ
+PLX:3SG M.pro		o	o
+PLX:and.cnj		ile	ilɛ
+PLX:and.cnj		ve	vɛ
+PLX:because of.adp		dolayı	dolajɯ
+PLX:behind.adp		arkasında	aɾkasɯnda
+PLX:beside.adp		yanında	janɯnda
+PLX:can.v		bilmek	bilmɛk
+PLX:die (from accident).V		ölmek	œlmɛk
+PLX:everywhere.pro		her yerde	hɛɾ jɛɾdɛ
+PLX:from here.adv		buradan	buɾadan
+PLX:get sick.V		hastalanmak	hastalanmak
+PLX:how many.pro		kaç	kat͡ʃ
+PLX:how many.pro		ne kadar	nɛ kadaɾ
+PLX:how.pro		nasıl	nasɯl
+PLX:in front of.adp		önünde	œnyndɛ
+PLX:or.cnj		ya	ja
+PLX:or.cnj		yahut	jahut
+PLX:that.pro		o	o
+PLX:that.pro		şu	ʃu
+PLX:this.pro		bu	bu
+PLX:under.adp		altında	altɯnda
+PLX:what.pro		ne	nɛ
+PLX:where.pro		nerede	nɛɾɛdɛ
+PLX:where_to.pro		nereye	nɛɾɛjɛ
+PLX:who.pro		kim	kim
+PLX:why.pro		neden	nɛdɛn
+PWN:abandon.v.02		bırakmak	bɯɾakmak
+PWN:abandon.v.02		terk etmek	tɛɾk ɛtmɛk
+PWN:abdomen.n.01		karın	kaɾɯn
+PWN:above.r.02		yukarıda	jukaɾɯda
+PWN:act.v.02		etmek	ɛtmɛk
+PWN:act.v.02		yapmak	japmak
+PWN:add.v.01		eklemek	ɛklɛmɛk
+PWN:add.v.01		katmak	katmak
+PWN:address.n.03		konuşma	konuʃma
+PWN:address.n.03		söylev	sœjlɛv
+PWN:affect.v.05		dokunmak	dokunmak
+PWN:affect.v.05		duygulandırmak	dujɡulandɯɾmak
+PWN:again.r.01		tekrar	tɛkɾaɾ
+PWN:again.r.01		yeniden	jɛnidɛn
+PWN:age.n.01		yaş	jaʃ
+PWN:ahead.r.03		ileri	ilɛɾi
+PWN:aid.n.02		yardım	jaɾdɯm
+PWN:air.n.01		hava	hava
+PWN:alive.a.01		canlı	d͡ʒanlɯ
+PWN:all.a.01		hepsi	hɛpsi
+PWN:all.a.01		her şey	hɛɾ ʃɛj
+PWN:allege.v.01		demek	dɛmɛk
+PWN:allege.v.01		söylemek	sœjlɛmɛk
+PWN:alone.r.02		tek başına	tɛk baʃɯna
+PWN:alone.r.02		yalnız	jalnɯz
+PWN:already.r.01		çoktan	t͡ʃoktan
+PWN:always.r.01		daima	daima
+PWN:always.r.01		her zaman	hɛɾ zaman
+PWN:anger.v.01		kızdırmak	kɯzdɯɾmak
+PWN:anger.v.02		kızmak	kɯzmak
+PWN:animal.n.01		hayvan	hajvan
+PWN:animation.n.01		hayat	hajat
+PWN:ant.n.01		karınca	kaɾɯnd͡ʒa
+PWN:apparel.n.01		giyim	ɡijim
+PWN:apple.n.01		elma	ɛlma
+PWN:april.n.01		nisan	nisan
+PWN:apt.s.03		akıllı	akɯlːɯ
+PWN:apt.s.03		zekî	zɛkiː
+PWN:area.n.01		yöre	jœɾɛ
+PWN:arise.v.03		ayağa kalkmak	ajaːa kalkmak
+PWN:arise.v.03		kalkmak	kalkmak
+PWN:arm.n.01		kol	kol
+PWN:arrive.v.01		gelmek	ɡɛlmɛk
+PWN:arrive.v.01		varmak	vaɾmak
+PWN:arrow.n.02		ok	ok
+PWN:ascend.v.01		artmak	aɾtmak
+PWN:ascend.v.01		yükselmek	jyksɛlmɛk
+PWN:ash.n.01		kül	kyl
+PWN:ask.v.02		dilemek	dilɛmɛk
+PWN:ask.v.02		rica etmek	ɾid͡ʒa ɛtmɛk
+PWN:ask.v.05		sormak	soɾmak
+PWN:august.n.01		ağustos	aːustos
+PWN:aunt.n.01		hala	hala
+PWN:aunt.n.01		teyze	tɛjzɛ
+PWN:awaken.v.01		uyandırmak	ujandɯɾmak
+PWN:back.n.01		arka	aɾka
+PWN:back.r.01		geriye	ɡɛɾijɛ
+PWN:back.r.02		geri	ɡɛɾi
+PWN:bad.a.01		kötü	kœty
+PWN:bag.n.01		çanta	t͡ʃanta
+PWN:bake.v.02		fırında pişirmek	fɯɾɯnda piʃiɾmɛk
+PWN:bake.v.02		pişirmek	piʃiɾmɛk
+PWN:bare.s.01		çıplak	t͡ʃɯplak
+PWN:bark.n.01		kabuk	kabuk
+PWN:bark.v.04		havlamak	havlamak
+PWN:bathe.v.01		banyo yapmak	banjo japmak
+PWN:bathe.v.01		yıkanmak	jɯkanmak
+PWN:battle.n.01		savaş	savaʃ
+PWN:bay.n.01		koy	koj
+PWN:bay.n.01		körfez	kœɾfɛz
+PWN:be_born.v.01		doğmak	doːmak
+PWN:bear.n.01		ayı	ajɯ
+PWN:beard.n.01		sakal	sakal
+PWN:beautiful.a.01		güzel	ɡyzɛl
+PWN:become.v.01		olmak	olmak
+PWN:become.v.01		olunmak	olunmak
+PWN:bed.n.01		yatak	jatak
+PWN:begin.v.03		başlamak	baʃlamak
+PWN:believe.v.01		inanmak	inanmak
+PWN:believe.v.01		zannetmek	zanːɛtmɛk
+PWN:beloved.s.01		sevimli	sɛvimli
+PWN:belt.n.02		kuşak	kuʃak
+PWN:bend.v.01		bükmek	bykmɛk
+PWN:benefit.n.02		fayda	fajda
+PWN:berry.n.01		tane	tanɛ
+PWN:better.v.02		düzeltmek	dyzɛltmɛk
+PWN:between.r.02		arasında	aɾasɯnda
+PWN:birch.n.02		huş	huʃ
+PWN:bird.n.01		kuş	kuʃ
+PWN:bite.v.01		ısırmak	ɯsɯɾmak
+PWN:bitter.s.06		acı	ad͡ʒɯ
+PWN:black.a.01		kara	kaɾa
+PWN:black.a.01		siyah	sijah
+PWN:blade.n.01		yaprak	japɾak
+PWN:blanket.n.01		yorgan	joɾɡan
+PWN:blanket.n.01		örtü	œɾty
+PWN:blind.a.01		kör	kœɾ
+PWN:blood.n.01		kan	kan
+PWN:blow.v.01		üflemek	yflɛmɛk
+PWN:blow.v.02		esmek	ɛsmɛk
+PWN:blue.s.01		mavi	mavi
+PWN:blunt.s.02		kör	kœɾ
+PWN:board.n.02		tahta	tahta
+PWN:boast.v.01		övünmek	œvynmɛk
+PWN:boat.n.01		kayık	kajɯk
+PWN:boat.n.01		sandal	sandal
+PWN:body.n.01		vücut	vyd͡ʒut
+PWN:boil.v.01		kaynamak	kajnamak
+PWN:boil.v.03		kaynatmak	kajnatmak
+PWN:boil.v.03		pişirmek	piʃiɾmɛk
+PWN:bone.n.01		kemik	kɛmik
+PWN:book.n.01		kitap	kitap
+PWN:boot.n.01		çizme	t͡ʃizmɛ
+PWN:botch.v.01		bozmak	bozmak
+PWN:boundary_line.n.01		had	had
+PWN:boundary_line.n.01		sınır	sɯnɯɾ
+PWN:bow.n.04		yay	jaj
+PWN:box.n.01		sandık	sandɯk
+PWN:brain.n.01		beyin	bɛjin
+PWN:branch.n.02		budak	budak
+PWN:branch.n.02		dal	dal
+PWN:branchlet.n.01		dal	dal
+PWN:brawl.v.01		dövüşmek	dœvyʃmɛk
+PWN:bread.n.01		ekmek	ɛkmɛk
+PWN:break.v.05		kırmak	kɯɾmak
+PWN:breast.n.02		koyun	kojun
+PWN:breath.n.02		nefes	nɛfɛs
+PWN:breathe.v.01		nefes almak	nɛfɛs almak
+PWN:breathe.v.01		solunmak	solunmak
+PWN:bridge.n.01		köprü	kœpɾy
+PWN:bright.a.01		aydınlık	ajdɯnlɯk
+PWN:bring.v.01		getirmek	ɡɛtiɾmɛk
+PWN:brook.n.01		dere	dɛɾɛ
+PWN:brook.n.01		çay	t͡ʃaj
+PWN:broom.n.01		süpürge	sypyɾɡɛ
+PWN:brother.n.01		abi	abi
+PWN:brother.n.01		erkek kardeş	ɛɾkɛk kaɾdɛʃ
+PWN:brow.n.01		alın	alɯn
+PWN:bucket.n.01		kova	kova
+PWN:bull.n.01		boğa	boːa
+PWN:bundle.n.02		deste	dɛstɛ
+PWN:burn.v.03		yanmak	janmak
+PWN:burn.v.07		yakmak	jakmak
+PWN:business.n.01		ticaret	tid͡ʒaɾɛt
+PWN:butter.n.01		tereyağı	tɛɾɛjaːɯ
+PWN:butterfly.n.01		kelebek	kɛlɛbɛk
+PWN:button.n.01		düğme	dyjmɛ
+PWN:buy.v.01		almak	almak
+PWN:calculate.v.01		hesap etmek	hɛsap ɛtmɛk
+PWN:calendar_month.n.01		ay	aj
+PWN:call.v.05		çağırmak	t͡ʃaːɯɾmak
+PWN:campfire.n.01		kamp ateşi	kamp atɛʃi
+PWN:cap.n.01		bere	bɛɾɛ
+PWN:cap.n.01		kasket	kaskɛt
+PWN:cat.n.01		kedi	kɛdi
+PWN:catch.v.04		tutmak	tutmak
+PWN:catch.v.04		yakalamak	jakalamak
+PWN:cause.n.01		sebep	sɛbɛp
+PWN:cave.n.01		in	in
+PWN:cave.n.01		mağara	maːaɾa
+PWN:cavil.v.01		küfretmek	kyfɾɛtmɛk
+PWN:center.n.01		merkez	mɛɾkɛz
+PWN:center.n.01		orta	oɾta
+PWN:chair.n.01		iskemle	iskɛmlɛ
+PWN:chair.n.01		sandalye	sandaljɛ
+PWN:change.v.01		değiştirmek	dɛjiʃtiɾmɛk
+PWN:change.v.03		değişmek	dɛjiʃmɛk
+PWN:character.n.08		harf	haɾf
+PWN:cheap.a.01		ucuz	ud͡ʒuz
+PWN:cheek.n.01		yanak	janak
+PWN:cherished.s.01		değerli	dɛjɛɾli
+PWN:chicken.n.02		tavuk	tavuk
+PWN:child.n.01		çocuk	t͡ʃod͡ʒuk
+PWN:chin.n.01		çene	t͡ʃɛnɛ
+PWN:choose.v.01		seçmek	sɛt͡ʃmɛk
+PWN:chop.v.01		yarmak	jaɾmak
+PWN:church.n.02		kilise	kilisɛ
+PWN:circle.n.03		daire	daiɾɛ
+PWN:citizenry.n.01		millet	milːɛt
+PWN:citizenry.n.01		ulus	ulus
+PWN:claw.n.01		pençe	pɛnt͡ʃɛ
+PWN:clay.n.01		balçık	balt͡ʃɯk
+PWN:clean.a.01		pak	pak
+PWN:clean.a.01		temiz	tɛmiz
+PWN:clean.v.01		temizlemek	tɛmizlɛmɛk
+PWN:climb.v.01		tırmanmak	tɯɾmanmak
+PWN:close.v.01		kapamak	kapamak
+PWN:cloud.n.02		bulut	bulut
+PWN:coal.n.01		kömür	kœmyɾ
+PWN:cock.n.04		horoz	hoɾoz
+PWN:cold.a.01		serin	sɛɾin
+PWN:cold.a.01		soğuk	soːuk
+PWN:coldness.n.03		soğukluk	soːukluk
+PWN:collar.n.01		yaka	jaka
+PWN:colorful.a.01		renkli	ɾɛnkli
+PWN:comb.n.01		tarak	taɾak
+PWN:comb.v.01		taramak	taɾamak
+PWN:commend.v.01		övmek	œvmɛk
+PWN:companion.n.01		arkadaş	aɾkadaʃ
+PWN:company.n.03		arkadaşlık	aɾkadaʃlɯk
+PWN:company.n.03		çevre	t͡ʃɛvɾɛ
+PWN:complete.v.01		bitirmek	bitiɾmɛk
+PWN:connect.v.01		bağlamak	baːlamak
+PWN:connect.v.01		birleştirmek	biɾlɛʃtiɾmɛk
+PWN:conserve.v.02		korumak	koɾumak
+PWN:construct.v.01		inşa etmek	inʃa ɛtmɛk
+PWN:construct.v.01		kurmak	kuɾmak
+PWN:conversation.n.01		görüşme	ɡœɾyʃmɛ
+PWN:converse.v.01		sohbet etmek	sohbɛt ɛtmɛk
+PWN:convey.v.01		bildirmek	bildiɾmɛk
+PWN:cook.v.02		hazırlamak	hazɯɾlamak
+PWN:corner.n.03		köşe	kœʃɛ
+PWN:corpulent.s.01		şişman	ʃiʃman
+PWN:correctly.r.01		doğru	doːɾu
+PWN:cough.v.01		öksürmek	œksyɾmɛk
+PWN:count.n.01		sayı	sajɯ
+PWN:count.v.01		saymak	sajmak
+PWN:country.n.02		ülke	ylkɛ
+PWN:cover.v.01		kaplamak	kaplamak
+PWN:cover.v.01		örtmek	œɾtmɛk
+PWN:cow.n.01		inek	inɛk
+PWN:cradle.n.01		beşik	bɛʃik
+PWN:crane.n.05		turna	tuɾna
+PWN:crawl.v.01		sürünmek	syɾynmɛk
+PWN:crisscross.n.01		haç	hat͡ʃ
+PWN:crow.n.01		karga	kaɾɡa
+PWN:cry.n.01		çağırma	t͡ʃaːɯɾma
+PWN:cry.v.02		ağlamak	aːlamak
+PWN:cuckoo.n.02		guguk	ɡuɡuk
+PWN:cup.n.01		fincan	find͡ʒan
+PWN:current.n.02		akıntı	akɯntɯ
+PWN:current.n.02		cereyan	d͡ʒɛɾɛjan
+PWN:cut.v.01		kesmek	kɛsmɛk
+PWN:damage.n.01		zarar	zaɾaɾ
+PWN:damage.v.01		zedelemek	zɛdɛlɛmɛk
+PWN:damage.v.01		ziyan vermek	zijan vɛɾmɛk
+PWN:damp.s.01		nemli	nɛmli
+PWN:damp.s.01		rutubetli	ɾutubɛtli
+PWN:dance.v.02		dans etmek	dans ɛtmɛk
+PWN:dance.v.02		oynamak	ojnamak
+PWN:dark.a.01		karanlık	kaɾanlɯk
+PWN:daughter.n.01		kız	kɯz
+PWN:daughter.n.01		kız evlât	kɯz ɛvlaːt
+PWN:day.n.01		gün	ɡyn
+PWN:deaf.a.01		sağır	saːɯɾ
+PWN:death.n.01		ölüm	œlym
+PWN:deceive.v.01		aldatmak	aldatmak
+PWN:december.n.01		aralık	aɾalɯk
+PWN:decompose.v.03		çürümek	t͡ʃyɾymɛk
+PWN:decorate.v.01		süslemek	syslɛmɛk
+PWN:decrease.v.01		azalmak	azalmak
+PWN:defend.v.03		savunmak	savunmak
+PWN:deft.s.01		becerikli	bɛd͡ʒɛɾikli
+PWN:deity.n.01		tanrı	tanɾɯ
+PWN:descend.v.01		inmek	inmɛk
+PWN:desire.n.01		arzu	aɾzu
+PWN:desire.n.01		heves	hɛvɛs
+PWN:desire.v.01		istemek	istɛmɛk
+PWN:destroy.v.02		tahrip etmek	tahɾip ɛtmɛk
+PWN:destroy.v.02		yıkmak	jɯkmak
+PWN:detect.v.01		farkına varmak	faɾkɯna vaɾmak
+PWN:die.v.01		vefat etmek	vɛfat ɛtmɛk
+PWN:die.v.01		ölmek	œlmɛk
+PWN:different.a.01		ayrı	ajɾɯ
+PWN:different.a.01		farklı	faɾklɯ
+PWN:dig.v.01		kazmak	kazmak
+PWN:digest.v.03		dayanmak	dajanmak
+PWN:digest.v.03		katlanmak	katlanmak
+PWN:dirt.n.02		pislik	pislik
+PWN:dirt.n.02		çamur	t͡ʃamuɾ
+PWN:dirty.a.01		kirli	kiɾli
+PWN:dirty.a.01		pis	pis
+PWN:disappear.v.01		kaybolmak	kajbolmak
+PWN:discontinue.v.01		bitmek	bitmɛk
+PWN:disease.n.01		hastalık	hastalɯk
+PWN:dish.n.01		kap kacak	kap kad͡ʒak
+PWN:dissolve.v.09		erimek	ɛɾimɛk
+PWN:distance.n.01		aralık	aɾalɯk
+PWN:distance.n.03		mesafe	mɛsafɛ
+PWN:distance.n.03		uzaklık	uzaklɯk
+PWN:dive.v.03		dalmak	dalmak
+PWN:divide.v.01		ayırmak	ajɯɾmak
+PWN:divide.v.01		bölmek	bœlmɛk
+PWN:doctor.n.01		doktor	doktoɾ
+PWN:doctor.n.01		hekim	hɛkim
+PWN:dog.n.01		it	it
+PWN:dog.n.01		köpek	kœpɛk
+PWN:doll.n.01		kukla	kukla
+PWN:down.r.01		aşağıya	aʃaːɯja
+PWN:drag.v.01		sürüklemek	syɾyklɛmɛk
+PWN:dream.n.01		düş	dyʃ
+PWN:dream.n.01		rüya	ɾyja
+PWN:dress.v.01		giyinmek	ɡijinmɛk
+PWN:drink.v.01		içmek	it͡ʃmɛk
+PWN:drive.v.01		gitmek	ɡitmɛk
+PWN:drive.v.15		gütmek	ɡytmɛk
+PWN:drop.n.01		damla	damla
+PWN:drop.v.01		düşürmek	dyʃyɾmɛk
+PWN:drove.n.02		sürü	syɾy
+PWN:dry.a.01		kuru	kuɾu
+PWN:dry.v.01		kurumak	kuɾumak
+PWN:duck.n.01		ördek	œɾdɛk
+PWN:dust.n.01		toz	toz
+PWN:dye.v.01		boyamak	bojamak
+PWN:eagle.n.01		karakuş	kaɾakuʃ
+PWN:eagle.n.01		kartal	kaɾtal
+PWN:ear.n.01		kulak	kulak
+PWN:earlier.r.01		önce	œnd͡ʒɛ
+PWN:earlier.r.01		önceden	œnd͡ʒɛdɛn
+PWN:east.n.01		doğu	doːu
+PWN:eat.v.01		yemek	jɛmɛk
+PWN:edge.n.06		kenar	kɛnaɾ
+PWN:egg.n.02		yumurta	jumuɾta
+PWN:eight.s.01		sekiz	sɛkiz
+PWN:eighty.s.01		seksen	sɛksɛn
+PWN:elapse.v.01		geçmek	ɡɛt͡ʃmɛk
+PWN:elbow.n.01		dirsek	diɾsɛk
+PWN:eleven.s.01		on bir	on biɾ
+PWN:elk.n.01		büyük kuzey geyiği	byjyk kuzɛj ɡɛjiji
+PWN:emerge.v.01		görünmek	ɡœɾynmɛk
+PWN:empty.a.01		boş	boʃ
+PWN:end.n.03		son	son
+PWN:end.n.09		uç	ut͡ʃ
+PWN:end.v.01		bitmek	bitmɛk
+PWN:end.v.01		sona ermek	sona ɛɾmɛk
+PWN:enter.v.01		içeri girmek	it͡ʃɛɾi ɡiɾmɛk
+PWN:entirely.r.02		ancak	and͡ʒak
+PWN:entirely.r.02		yalnız	jalnɯz
+PWN:erstwhile.s.01		önceki	œnd͡ʒɛki
+PWN:escape.v.01		kaçmak	kat͡ʃmak
+PWN:evening.n.01		akşam	akʃam
+PWN:evil.a.01		kötü	kœty
+PWN:exclaim.v.01		bağırmak	baːɯɾmak
+PWN:exclaim.v.01		haykırmak	hajkɯɾmak
+PWN:exit.v.01		gitmek	ɡitmɛk
+PWN:expensive.a.01		pahalı	pahalɯ
+PWN:extraneous.s.03		yabancı	jaband͡ʒɯ
+PWN:eye.n.01		göz	ɡœz
+PWN:fabric.n.01		kumaş	kumaʃ
+PWN:face.n.01		yüz	jyz
+PWN:faineant.s.01		tembel	tɛmbɛl
+PWN:fairytale.n.01		masal	masal
+PWN:fall.n.01		güz	ɡyz
+PWN:fall.n.01		sonbahar	sonbahaɾ
+PWN:fall.v.01		düşmek	dyʃmɛk
+PWN:fall_asleep.v.01		uykuya dalmak	ujkuja dalmak
+PWN:familiar.a.01		bilinen	bilinɛn
+PWN:family.n.02		aile	ailɛ
+PWN:far.r.02		uzak	uzak
+PWN:fat.n.01		yağ	jaː
+PWN:father.n.01		ata	ata
+PWN:father.n.01		baba	baba
+PWN:fault.n.06		kabahat	kabahat
+PWN:fault.n.06		suç	sut͡ʃ
+PWN:fear.v.01		korkmak	koɾkmak
+PWN:feather.n.01		tüy	tyj
+PWN:february.n.01		şubat	ʃubat
+PWN:feed.v.01		beslemek	bɛslɛmɛk
+PWN:feel.v.03		duymak	dujmak
+PWN:feel.v.03		hissetmek	hisːɛtmɛk
+PWN:female_child.n.01		kız	kɯz
+PWN:fence.n.01		çit	t͡ʃit
+PWN:fever.n.01		ateş	atɛʃ
+PWN:fifty.s.01		elli	ɛlːi
+PWN:fill.v.01		doldurmak	dolduɾmak
+PWN:find.v.03		bulmak	bulmak
+PWN:fine-looking.s.01		güzel	ɡyzɛl
+PWN:fine-looking.s.01		sevimli	sɛvimli
+PWN:fine.a.05		ince	ind͡ʒɛ
+PWN:fine.a.05		narin	naɾin
+PWN:finger.n.01		parmak	paɾmak
+PWN:fingernail.n.01		el tırnağı	ɛl tɯɾnaːɯ
+PWN:fir.n.02		köknar	kœknaɾ
+PWN:fir.n.02		çam	t͡ʃam
+PWN:fire.n.03		ateş	atɛʃ
+PWN:firm.s.02		sabit	sabit
+PWN:firm.s.02		sağlam	saːlam
+PWN:first.a.01		birinci	biɾind͡ʒi
+PWN:first.a.01		ilk	ilk
+PWN:first.r.02		ilk önce	ilk œnd͡ʒɛ
+PWN:fish.n.01		balık	balɯk
+PWN:fish.v.02		balık tutmak	balɯk tutmak
+PWN:five.s.01		beş	bɛʃ
+PWN:fix.v.12		hazırlamak	hazɯɾlamak
+PWN:flash.v.01		parıldamak	paɾɯldamak
+PWN:flat.s.01		düz	dyz
+PWN:flat.s.01		yassı	jasːɯ
+PWN:flee.v.01		kaçmak	kat͡ʃmak
+PWN:flex.v.05		eğmek	ɛjmɛk
+PWN:flip.v.06		atmak	atmak
+PWN:floor.n.01		döşeme	dœʃɛmɛ
+PWN:floor.n.01		taban	taban
+PWN:flower.n.02		çiçek	t͡ʃit͡ʃɛk
+PWN:fly.n.01		sinek	sinɛk
+PWN:fly.v.01		uçmak	ut͡ʃmak
+PWN:foam.n.01		köpük	kœpyk
+PWN:foe.n.02		düşman	dyʃman
+PWN:fog.n.01		pus	pus
+PWN:food.n.02		besin	bɛsin
+PWN:food.n.02		gıda	ɡɯda
+PWN:foot.n.01		ayak	ajak
+PWN:footprint.n.01		iz	iz
+PWN:foreman.n.01		müdür	mydyɾ
+PWN:foreman.n.01		şef	ʃɛf
+PWN:forest.n.01		koru	koɾu
+PWN:forest.n.01		orman	oɾman
+PWN:forget.v.02		unutmak	unutmak
+PWN:fork.n.01		çatal	t͡ʃatal
+PWN:form.n.03		örnek	œɾnɛk
+PWN:forty.s.01		kırk	kɯɾk
+PWN:four.s.01		dört	dœɾt
+PWN:fox.n.01		tilki	tilki
+PWN:freeze.v.02		donmak	donmak
+PWN:frequently.r.01		sık sık	sɯk sɯk
+PWN:frequently.r.01		çok defa	t͡ʃok dɛfa
+PWN:fresh.a.01		taze	tazɛ
+PWN:friday.n.01		cuma	d͡ʒuma
+PWN:friend.n.01		arkadaş	aɾkadaʃ
+PWN:friend.n.01		dost	dost
+PWN:frost.n.01		don	don
+PWN:frost.n.01		kırç	kɯɾt͡ʃ
+PWN:fry.v.02		kızartmak	kɯzaɾtmak
+PWN:full.a.01		dolmuş	dolmuʃ
+PWN:full.a.01		dolu	dolu
+PWN:fume.v.02		tütmek	tytmɛk
+PWN:fur.n.03		post	post
+PWN:game.n.01		oyun	ojun
+PWN:gate.n.01		kapı	kapɯ
+PWN:gateway.n.01		kapı	kapɯ
+PWN:gather.v.01		toplamak	toplamak
+PWN:gay.s.02		neşeli	nɛʃɛli
+PWN:gentle.s.01		nazik	nazik
+PWN:get.v.01		almak	almak
+PWN:get_down.v.07		başlamak	baʃlamak
+PWN:get_up.v.02		kalkmak	kalkmak
+PWN:get_up.v.02		yataktan kalkmak	jataktan kalkmak
+PWN:gift.n.01		armağan	aɾmaːan
+PWN:gift.n.01		hediye	hɛdijɛ
+PWN:give.v.03		vermek	vɛɾmɛk
+PWN:give.v.08		hediye etmek	hɛdijɛ ɛtmɛk
+PWN:glass.n.01		cam	d͡ʒam
+PWN:glue.v.01		yapıştırmak	japɯʃtɯɾmak
+PWN:gold.n.03		altın	altɯn
+PWN:good.a.01		iyi	iji
+PWN:goose.n.01		kaz	kaz
+PWN:govern.v.03		hâkim olmak	haːkim olmak
+PWN:grain.n.08		tane	tanɛ
+PWN:grandfather.n.01		büyükbaba	byjykbaba
+PWN:grandfather.n.01		dede	dɛdɛ
+PWN:grandma.n.01		büyükanne	byjykanːɛ
+PWN:grandma.n.01		nine	ninɛ
+PWN:grasp.v.01		tutmak	tutmak
+PWN:grasp.v.01		yakalamak	jakalamak
+PWN:grass.n.01		ot	ot
+PWN:grass.n.01		çim	t͡ʃim
+PWN:grassland.n.01		çimen	t͡ʃimɛn
+PWN:grave.n.02		kabir	kabiɾ
+PWN:green.s.01		yeşil	jɛʃil
+PWN:grey.s.01		boz	boz
+PWN:grief.n.02		dert	dɛɾt
+PWN:grief.n.02		keder	kɛdɛɾ
+PWN:groan.v.01		inlemek	inlɛmɛk
+PWN:grok.v.01		anlamak	anlamak
+PWN:grok.v.01		kavramak	kavɾamak
+PWN:grow.v.03		büyümek	byjymɛk
+PWN:grow.v.03		gelişmek	ɡɛliʃmɛk
+PWN:guest.n.01		konuk	konuk
+PWN:guest.n.01		misafir	misafiɾ
+PWN:gun.n.01		tüfek	tyfɛk
+PWN:hair.n.01		saç	sat͡ʃ
+PWN:hand.n.01		el	ɛl
+PWN:handle.n.01		kulp	kulp
+PWN:handle.n.01		tutamak	tutamak
+PWN:hang.v.01		asılı olmak	asɯlɯ olmak
+PWN:hang.v.02		asmak	asmak
+PWN:happen.v.01		olmak	olmak
+PWN:happiness.n.01		mutluluk	mutluluk
+PWN:hard.a.03		katı	katɯ
+PWN:hardly.r.02		dar	daɾ
+PWN:hardly.r.02		hemen hemen değil	hɛmɛn hɛmɛn dɛjil
+PWN:hardworking.s.01		çalışkan	t͡ʃalɯʃkan
+PWN:hare.n.01		tavşan	tavʃan
+PWN:hark_back.v.01		dönmek	dœnmɛk
+PWN:hay.n.01		kuru ot	kuɾu ot
+PWN:head.n.01		baş	baʃ
+PWN:head.n.01		kafa	kafa
+PWN:healthy.a.01		sağlık	saːlɯk
+PWN:hear.v.01		duymak	dujmak
+PWN:hear.v.01		işitmek	iʃitmɛk
+PWN:heart.n.02		kalp	kalp
+PWN:heart.n.02		yürek	jyɾɛk
+PWN:heat.n.01		sıcaklık	sɯd͡ʒaklɯk
+PWN:heavy.a.01		ağır	aːɯɾ
+PWN:heel.n.02		topuk	topuk
+PWN:height.n.01		yükseklik	jyksɛklik
+PWN:herd.n.01		sürü	syɾy
+PWN:herd.v.01		otlatmak	otlatmak
+PWN:here.r.01		burada	buɾada
+PWN:here.r.03		buraya	buɾaja
+PWN:hide.n.02		cilt	d͡ʒilt
+PWN:hide.v.01		saklamak	saklamak
+PWN:hide.v.02		saklamak	saklamak
+PWN:hill.n.01		tepe	tɛpɛ
+PWN:hog.n.03		domuz	domuz
+PWN:hold.v.02		tutmak	tutmak
+PWN:hole.n.01		delik	dɛlik
+PWN:hole.n.01		oyuk	ojuk
+PWN:home.n.01		ev	ɛv
+PWN:home.n.01		yurt	juɾt
+PWN:honey.n.01		bal	bal
+PWN:hook.n.05		çengel	t͡ʃɛnɡɛl
+PWN:horn.n.02		boynuz	bojnuz
+PWN:horse.n.01		at	at
+PWN:horse.n.01		beygir	bɛjɡiɾ
+PWN:hot.a.01		kızgın	kɯzɡɯn
+PWN:house.n.01		ev	ɛv
+PWN:howl.v.02		ulumak	ulumak
+PWN:hundred.s.01		yüz	jyz
+PWN:hunger.n.01		açlık	at͡ʃlɯk
+PWN:hungry.a.01		aç	at͡ʃ
+PWN:hunt.v.01		avlanmak	avlanmak
+PWN:hurt.v.06		ağrımak	aːɾɯmak
+PWN:husband.n.01		koca	kod͡ʒa
+PWN:ice.n.01		buz	buz
+PWN:idea.n.01		düşünce	dyʃynd͡ʒɛ
+PWN:idea.n.01		fikir	fikiɾ
+PWN:idol.n.01		heykel	hɛjkɛl
+PWN:idol.n.01		şekil	ʃɛkil
+PWN:ignite.v.01		ateşlemek	atɛʃlɛmɛk
+PWN:ignite.v.01		yakmak	jakmak
+PWN:ill.a.01		hasta	hasta
+PWN:ill.a.01		rahatsız	ɾahatsɯz
+PWN:immediately.r.01		birden	biɾdɛn
+PWN:immediately.r.01		derhal	dɛɾhal
+PWN:immediately.r.01		hemen	hɛmɛn
+PWN:impede.v.01		engellemek	ɛnɡɛlːɛmɛk
+PWN:increase.v.01		artmak	aɾtmak
+PWN:increase.v.01		çoğalmak	t͡ʃoːalmak
+PWN:indicate.v.02		göstermek	ɡœstɛɾmɛk
+PWN:insert.v.01		sokmak	sokmak
+PWN:interrupt.v.02		bozmak	bozmak
+PWN:interrupt.v.02		etkilemek	ɛtkilɛmɛk
+PWN:invite.v.02		davet etmek	davɛt ɛtmɛk
+PWN:iron.n.01		demir	dɛmiɾ
+PWN:island.n.01		ada	ada
+PWN:item.n.01		şey	ʃɛj
+PWN:january.n.01		ocak	od͡ʒak
+PWN:jaw.n.01		çene	t͡ʃɛnɛ
+PWN:join.v.02		birleştirmek	biɾlɛʃtiɾmɛk
+PWN:joy.n.01		neşe	nɛʃɛ
+PWN:joy.n.01		sevinç	sɛvint͡ʃ
+PWN:july.n.01		temmuz	tɛmːuz
+PWN:jump.v.01		atlamak	atlamak
+PWN:jump.v.01		sıçramak	sɯt͡ʃɾamak
+PWN:june.n.01		haziran	haziɾan
+PWN:keep.v.03		saklamak	saklamak
+PWN:kettle.n.01		kazan	kazan
+PWN:kick.v.03		tepmek	tɛpmɛk
+PWN:kill.v.10		öldürmek	œldyɾmɛk
+PWN:kind.n.01		çeşit	t͡ʃɛʃit
+PWN:king.n.01		kral	kɾal
+PWN:knee.n.01		diz	diz
+PWN:knife.n.01		bıçak	bɯt͡ʃak
+PWN:knit.v.01		örmek	œɾmɛk
+PWN:knock.v.02		çalmak	t͡ʃalmak
+PWN:knot.n.02		düğüm	dyjym
+PWN:know.v.01		bilmek	bilmɛk
+PWN:ladder.n.01		merdiven	mɛɾdivɛn
+PWN:lair.n.01		in	in
+PWN:lake.n.01		göl	ɡœl
+PWN:land.n.02		toprak	topɾak
+PWN:land.n.04		yer	jɛɾ
+PWN:land.n.04		zemin	zɛmin
+PWN:language.n.01		dil	dil
+PWN:language.n.01		lisan	lisan
+PWN:large.a.01		büyük	byjyk
+PWN:last.a.02		son	son
+PWN:last.a.02		sonuncu	sonund͡ʒu
+PWN:laugh.v.01		gülmek	ɡylmɛk
+PWN:laughter.n.02		gülme	ɡylmɛ
+PWN:laughter.n.02		kahkaha	kahkaha
+PWN:lay.v.02		koymak	kojmak
+PWN:lay.v.02		yatırmak	jatɯɾmak
+PWN:lead.v.01		gezdirmek	ɡɛzdiɾmɛk
+PWN:lead.v.01		yol göstermek	jol ɡœstɛɾmɛk
+PWN:learn.v.01		öğrenmek	œjɾɛnmɛk
+PWN:leash.n.01		kayış	kajɯʃ
+PWN:leather.n.01		deri	dɛɾi
+PWN:leather.n.01		meşin	mɛʃin
+PWN:left.r.01		sol	sol
+PWN:leg.n.02		bacak	bad͡ʒak
+PWN:length.n.01		uzunluk	uzunluk
+PWN:let.v.01		-tırmak	tɯɾmak
+PWN:letter.n.01		mektup	mɛktup
+PWN:lick.v.02		yalamak	jalamak
+PWN:lid.n.02		kapak	kapak
+PWN:lie.n.01		yalan	jalan
+PWN:lie.v.02		yatmak	jatmak
+PWN:lift.v.03		kaldırmak	kaldɯɾmak
+PWN:like.v.03		beğenmek	bɛjɛnmɛk
+PWN:line.n.04		hat	hat
+PWN:line.n.04		çizgi	t͡ʃizɡi
+PWN:lip.n.01		dudak	dudak
+PWN:listen.v.01		dinlemek	dinlɛmɛk
+PWN:listen.v.02		haber almak	habɛɾ almak
+PWN:little.r.01		biraz	biɾaz
+PWN:liver.n.01		karaciğer	kaɾad͡ʒijɛɾ
+PWN:load.n.01		yük	jyk
+PWN:lock.n.01		kilit	kilit
+PWN:long.a.02		uzun	uzun
+PWN:long.r.01		uzun	uzun
+PWN:long.r.01		çok	t͡ʃok
+PWN:look.v.01		seyretmek	sɛjɾɛtmɛk
+PWN:look.v.02		görünmek	ɡœɾynmɛk
+PWN:lose.v.05		kaybetmek	kajbɛtmɛk
+PWN:lose.v.05		yitirmek	jitiɾmɛk
+PWN:louse.n.01		bit	bit
+PWN:love.v.03		sevmek	sɛvmɛk
+PWN:low.r.01		aşağıda	aʃaːɯda
+PWN:luminosity.n.01		ışık	ɯʃɯk
+PWN:mainland.n.01		kara	kaɾa
+PWN:make_noise.v.01		gürültü yapmak	ɡyɾylty japmak
+PWN:male_child.n.01		erkek çocuk	ɛɾkɛk t͡ʃod͡ʒuk
+PWN:man.n.01		adam	adam
+PWN:man.n.01		erkek	ɛɾkɛk
+PWN:march.n.01		mart	maɾt
+PWN:may.n.01		mayıs	majɯs
+PWN:meal.n.01		yemek	jɛmɛk
+PWN:meaning.n.01		anlam	anlam
+PWN:measure.v.01		ölçmek	œlt͡ʃmɛk
+PWN:meat.n.01		et	ɛt
+PWN:medicine.n.02		ilâç	ilaːt͡ʃ
+PWN:meet.v.07		toplanmak	toplanmak
+PWN:meet.v.09		isabet etmek	isabɛt ɛtmɛk
+PWN:meet.v.09		rastlamak	ɾastlamak
+PWN:melt.v.01		erimek	ɛɾimɛk
+PWN:memory.n.03		bellek	bɛlːɛk
+PWN:message.n.01		haber	habɛɾ
+PWN:milk.n.01		süt	syt
+PWN:milk.v.01		sağmak	saːmak
+PWN:mind.n.01		zekâ	zɛkaː
+PWN:mirror.n.01		ayna	ajna
+PWN:misfortune.n.02		felâket	fɛlaːkɛt
+PWN:misfortune.n.02		talihsizlik	talihsizlik
+PWN:mistake.n.01		hata	hata
+PWN:mistake.n.01		yanlış	janlɯʃ
+PWN:monday.n.01		pazartesi	pazaɾtɛsi
+PWN:money.n.01		para	paɾa
+PWN:moon.n.01		ay	aj
+PWN:moor.n.02		cılgıt	d͡ʒɯlɡɯt
+PWN:morning.n.01		sabah	sabah
+PWN:mosquito.n.01		sivrisinek	sivɾisinɛk
+PWN:mother.n.01		ana	ana
+PWN:mother.n.01		anne	anːɛ
+PWN:mountain.n.01		dağ	daː
+PWN:mouse.n.01		fare	faɾɛ
+PWN:mouse.n.01		sıçan	sɯt͡ʃan
+PWN:mouth.n.01		ağız	aːɯz
+PWN:move.v.03		kımıldanmak	kɯmɯldanmak
+PWN:mush.n.02		ezme	ɛzmɛ
+PWN:mushroom.n.02		mantar	mantaɾ
+PWN:mustache.n.01		bıyık	bɯjɯk
+PWN:nail.n.01		tırnak	tɯɾnak
+PWN:nail.n.02		çivi	t͡ʃivi
+PWN:name.n.01		ad	ad
+PWN:name.n.01		isim	isim
+PWN:name.v.01		adlandırmak	adlandɯɾmak
+PWN:nape.n.01		ense	ɛnsɛ
+PWN:narrative.n.01		hikâye	hikaːjɛ
+PWN:narrative.n.01		öykü	œjky
+PWN:narrow.a.01		dar	daɾ
+PWN:natural_elevation.n.01		tümsek	tymsɛk
+PWN:natural_elevation.n.01		yükseklik	jyksɛklik
+PWN:navel.n.01		göbek	ɡœbɛk
+PWN:near.r.01		bitişik	bitiʃik
+PWN:near.r.01		yakın	jakɯn
+PWN:neck.n.01		boyun	bojun
+PWN:neck.n.01		gerdan	ɡɛɾdan
+PWN:needle.n.03		iğne	ijnɛ
+PWN:nest.n.01		yuva	juva
+PWN:net_income.n.01		ağ	aː
+PWN:never.r.01		asla değil	asla dɛjil
+PWN:never.r.01		hiçbir zaman	hit͡ʃbiɾ zaman
+PWN:new.a.01		yeni	jɛni
+PWN:news.n.01		haber	habɛɾ
+PWN:newspaper.n.01		gazete	ɡazɛtɛ
+PWN:night.n.01		gece	ɡɛd͡ʒɛ
+PWN:nine.s.01		dokuz	dokuz
+PWN:ninety.s.01		doksan	doksan
+PWN:noise.n.01		gürültü	ɡyɾylty
+PWN:noise.n.01		ses	sɛs
+PWN:noise.n.01		şamata	ʃamata
+PWN:noon.n.01		öğle	œjlɛ
+PWN:noose.n.02		ilmik	ilmik
+PWN:north.n.03		kuzey	kuzɛj
+PWN:nose.n.01		burun	buɾun
+PWN:not.r.01		-mi-	mi
+PWN:not.r.01		değil	dɛjil
+PWN:november.n.01		kasım	kasɯm
+PWN:now.r.04		şimdi	ʃimdi
+PWN:oar.n.01		kürek	kyɾɛk
+PWN:october.n.01		ekim	ɛkim
+PWN:oil.n.01		akar yağ	akaɾ jaː
+PWN:oil.n.01		yağ	jaː
+PWN:old.a.01		eski	ɛski
+PWN:old.a.01		yaşlı	jaʃlɯ
+PWN:olfactory_property.n.01		koku	koku
+PWN:once.r.01		bir defa	biɾ dɛfa
+PWN:once.r.03		eskiden	ɛskidɛn
+PWN:one-half.n.01		yarı	jaɾɯ
+PWN:one.s.01		bir	biɾ
+PWN:onion.n.02		soğan	soːan
+PWN:open.a.01		açık	at͡ʃɯk
+PWN:open.v.01		açmak	at͡ʃmak
+PWN:other.a.01		diğer	dijɛɾ
+PWN:owl.n.01		baykuş	bajkuʃ
+PWN:own.v.01		haiz olmak	haiz olmak
+PWN:own.v.01		sahip olmak	sahip olmak
+PWN:pain.n.03		ağrı	aːɾɯ
+PWN:pain.n.03		sancı	sand͡ʒɯ
+PWN:paint.n.01		boya	boja
+PWN:paint.v.02		resmini yapmak	ɾɛsmini japmak
+PWN:palm.n.01		avuç	avut͡ʃ
+PWN:palm.n.01		el ayası	ɛl ajasɯ
+PWN:parent.n.01		ana baba	ana baba
+PWN:parent.n.01		ebeveyn	ɛbɛvɛjn
+PWN:part.n.02		kısım	kɯsɯm
+PWN:part.n.03		parça	paɾt͡ʃa
+PWN:part.n.03		tane	tanɛ
+PWN:pasture.n.01		otlak	otlak
+PWN:path.n.02		keçiyolu	kɛt͡ʃijolu
+PWN:path.n.02		patika	patika
+PWN:paw.n.01		tırnak	tɯɾnak
+PWN:pay.v.01		ödemek	œdɛmɛk
+PWN:peak.n.04		zirve	ziɾvɛ
+PWN:peel.n.02		kabuk	kabuk
+PWN:people.n.01		halk	halk
+PWN:people.n.01		insanlar	insanlaɾ
+PWN:perca.n.01		hani	hani
+PWN:perca.n.01		levrek	lɛvɾɛk
+PWN:periphery.n.01		kenar	kɛnaɾ
+PWN:person.n.01		insan	insan
+PWN:perturb.v.01		rahatsız etmek	ɾahatsɯz ɛtmɛk
+PWN:pick.v.02		koparmak	kopaɾmak
+PWN:pick_up.v.02		kaldırmak	kaldɯɾmak
+PWN:picture.n.01		imaj	imad͡ʒ
+PWN:picture.n.01		resim	ɾɛsim
+PWN:pike.n.02		turnabalığı	tuɾnabalɯːɯ
+PWN:pile.n.01		küme	kymɛ
+PWN:pile.n.01		yığın	jɯːɯn
+PWN:pillow.n.01		yastık	jastɯk
+PWN:pine.n.01		çam	t͡ʃam
+PWN:pit.n.01		çukur	t͡ʃukuɾ
+PWN:play.v.05		oynamak	ojnamak
+PWN:pointed.a.01		sivri	sivɾi
+PWN:pole.n.01		çubuk	t͡ʃubuk
+PWN:poor.a.02		fakir	fakiɾ
+PWN:populate.v.01		oturmak	otuɾmak
+PWN:position.n.01		yer	jɛɾ
+PWN:pot.n.01		tencere	tɛnd͡ʒɛɾɛ
+PWN:pouch.n.01		kese	kɛsɛ
+PWN:pouch.n.01		torba	toɾba
+PWN:pour.v.01		akıtmak	akɯtmak
+PWN:pour.v.01		dökmek	dœkmɛk
+PWN:power.n.01		iktidar	iktidaɾ
+PWN:power.n.01		kudret	kudɾɛt
+PWN:powerful.a.01		dinç	dint͡ʃ
+PWN:powerful.a.01		kuvvetli	kuvːɛtli
+PWN:press.v.01		sıkmak	sɯkmak
+PWN:price.n.02		fiyat	fijat
+PWN:produce.v.02		imal etmek	imal ɛtmɛk
+PWN:produce.v.02		yapmak	japmak
+PWN:produce.v.02		yapmak	japmak
+PWN:promise.v.01		vaat etmek	vaːt ɛtmɛk
+PWN:protect.v.01		korumak	koɾumak
+PWN:pull.v.01		çekmek	t͡ʃɛkmɛk
+PWN:push.v.01		itmek	itmɛk
+PWN:push.v.01		sürmek	syɾmɛk
+PWN:put.v.01		koymak	kojmak
+PWN:quantity.n.03		miktar	miktaɾ
+PWN:rain.n.01		yağmur	jaːmuɾ
+PWN:rain.v.01		yağmak	jaːmak
+PWN:rainbow.n.01		gökkuşağı	ɡœkːuʃaːɯ
+PWN:raise.v.02		yukarı kaldırmak	jukaɾɯ kaldɯɾmak
+PWN:raw.a.03		çiğ	t͡ʃij
+PWN:read.v.01		okumak	okumak
+PWN:rear.v.02		yetiştirmek	jɛtiʃtiɾmɛk
+PWN:recognize.v.04		tanımak	tanɯmak
+PWN:recuperate.v.04		şifa bulmak	ʃifa bulmak
+PWN:red.s.01		kırmızı	kɯɾmɯzɯ
+PWN:remember.v.01		hatırlamak	hatɯɾlamak
+PWN:repair.v.01		onarmak	onaɾmak
+PWN:repair.v.01		tamir etmek	tamiɾ ɛtmɛk
+PWN:rescue.v.01		kurtarmak	kuɾtaɾmak
+PWN:rest.v.05		dinlenmek	dinlɛnmɛk
+PWN:result.v.01		düşmek	dyʃmɛk
+PWN:ribbon.n.04		bağ	baː
+PWN:ribbon.n.04		şerit	ʃɛɾit
+PWN:rich.a.01		zengin	zɛnɡin
+PWN:riddle.n.01		bilmece	bilmɛd͡ʒɛ
+PWN:right.r.04		sağ	saː
+PWN:ring.n.08		yüzük	jyzyk
+PWN:ring.v.01		zil çalmak	zil t͡ʃalmak
+PWN:ring.v.03		çalmak	t͡ʃalmak
+PWN:rinse.v.01		çalkamak	t͡ʃalkamak
+PWN:ripe.a.01		olgun	olɡun
+PWN:ripen.v.02		olgunlaşmak	olɡunlaʃmak
+PWN:rise.v.16		doğmak	doːmak
+PWN:river.n.01		nehir	nɛhiɾ
+PWN:road.n.01		cadde	d͡ʒadːɛ
+PWN:road.n.01		yol	jol
+PWN:road.n.01		yol	jol
+PWN:roar.v.01		köpürmek	kœpyɾmɛk
+PWN:roar.v.01		kükremek	kykɾɛmɛk
+PWN:rock.n.01		taş	taʃ
+PWN:rock.v.01		sallanmak	salːanmak
+PWN:roof.n.01		dam	dam
+PWN:roof.n.01		çatı	t͡ʃatɯ
+PWN:root.n.01		kök	kœk
+PWN:round.a.01		yuvarlak	juvaɾlak
+PWN:row.v.01		kürek çekmek	kyɾɛk t͡ʃɛkmɛk
+PWN:rub.v.01		ovmak	ovmak
+PWN:rub.v.01		sürtmek	syɾtmɛk
+PWN:run.v.01		koşmak	koʃmak
+PWN:run.v.06		akmak	akmak
+PWN:run.v.06		akmak	akmak
+PWN:rush.v.01		hızla gitmek	hɯzla ɡitmɛk
+PWN:rush.v.04		acele etmek	ad͡ʒɛlɛ ɛtmɛk
+PWN:rush.v.04		seğirtmek	sɛjiɾtmɛk
+PWN:rustle.v.01		fışırdamak	fɯʃɯɾdamak
+PWN:sack.n.01		torba	toɾba
+PWN:sad.a.01		kederli	kɛdɛɾli
+PWN:sad.a.01		üzüntülü	yzyntyly
+PWN:salt.n.02		tuz	tuz
+PWN:sand.n.01		kum	kum
+PWN:saturday.n.01		cumartesi	d͡ʒumaɾtɛsi
+PWN:scarf.n.01		bez	bɛz
+PWN:scrape.v.01		kaşımak	kaʃɯmak
+PWN:sea.n.01		deniz	dɛniz
+PWN:search.v.01		aramak	aɾamak
+PWN:seashore.n.01		kıyı	kɯjɯ
+PWN:seashore.n.01		sahil	sahil
+PWN:seat.v.01		koymak	kojmak
+PWN:seat.v.01		oturtmak	otuɾtmak
+PWN:second.s.01		ikinci	ikind͡ʒi
+PWN:see.v.01		görmek	ɡœɾmɛk
+PWN:seed.n.02		ekin	ɛkin
+PWN:sell.v.01		satmak	satmak
+PWN:send.v.01		göndermek	ɡœndɛɾmɛk
+PWN:send.v.01		yollamak	jolːamak
+PWN:separate.v.02		ayrılmak	ajɾɯlmak
+PWN:september.n.01		eylül	ɛjlyl
+PWN:set.v.10		batmak	batmak
+PWN:seven.s.01		yedi	jɛdi
+PWN:seventy.s.01		yetmiş	jɛtmiʃ
+PWN:severe.s.01		kötü	kœty
+PWN:sew.v.01		dikmek	dikmɛk
+PWN:shadow.n.01		gölge	ɡœlɡɛ
+PWN:shake.v.01		sarsmak	saɾsmak
+PWN:shake.v.01		çalkamak	t͡ʃalkamak
+PWN:shake.v.08		sallamak	salːamak
+PWN:sharp.a.09		keskin	kɛskin
+PWN:sharpen.v.01		bilemek	bilɛmɛk
+PWN:shatter.v.03		kırmak	kɯɾmak
+PWN:sheep.n.01		koyun	kojun
+PWN:shelf.n.01		raf	ɾaf
+PWN:shine.v.02		parlamak	paɾlamak
+PWN:shirt.n.01		gömlek	ɡœmlɛk
+PWN:shoe.n.01		ayakkabı	ajakːabɯ
+PWN:shoe.n.01		kundura	kunduɾa
+PWN:shoot.v.01		ateş etmek	atɛʃ ɛtmɛk
+PWN:shop.n.01		dükkân	dykːaːn
+PWN:shore.n.01		kıyı	kɯjɯ
+PWN:shore.n.01		sahil	sahil
+PWN:short.a.02		kısa	kɯsa
+PWN:shoulder.n.01		omuz	omuz
+PWN:shovel.n.01		kürek	kyɾɛk
+PWN:shudder.v.02		titremek	titɾɛmɛk
+PWN:shut.a.01		kapalı	kapalɯ
+PWN:side.n.01		taraf	taɾaf
+PWN:side.n.01		yan	jan
+PWN:silence.n.01		sakinlik	sakinlik
+PWN:silver.n.01		gümüş	ɡymyʃ
+PWN:sin.n.01		günah	ɡynah
+PWN:sing.v.02		söylemek	sœjlɛmɛk
+PWN:sing.v.02		şarkı söylemek	ʃaɾkɯ sœjlɛmɛk
+PWN:sink.v.01		batmak	batmak
+PWN:sister.n.01		abla	abla
+PWN:sister.n.01		kız kardeş	kɯz kaɾdɛʃ
+PWN:sit_down.v.01		oturmak	otuɾmak
+PWN:sit_down.v.01		oturmak	otuɾmak
+PWN:six.s.01		altı	altɯ
+PWN:sixty.s.01		altmış	altmɯʃ
+PWN:size.n.01		büyüklük	byjyklyk
+PWN:ski.n.01		kayak	kajak
+PWN:sky.n.01		gök	ɡœk
+PWN:slab.n.01		levha	lɛvha
+PWN:sled.n.01		kızak	kɯzak
+PWN:sleep.n.01		uyku	ujku
+PWN:sleep.v.01		uyumak	ujumak
+PWN:sleeve.n.01		elbise kolu	ɛlbisɛ kolu
+PWN:sleeve.n.01		yen	jɛn
+PWN:slice.n.05		dilim	dilim
+PWN:slope.n.01		bayır	bajɯɾ
+PWN:small.a.01		küçük	kyt͡ʃyk
+PWN:small.a.01		ufak	ufak
+PWN:smell.v.01		kokusunu almak	kokusunu almak
+PWN:smoke.n.02		duman	duman
+PWN:smooth.a.01		düz	dyz
+PWN:snake.n.01		yılan	jɯlan
+PWN:snap.v.03		yırtılmak	jɯɾtɯlmak
+PWN:snog.v.01		öpmek	œpmɛk
+PWN:snow.n.01		kar	kaɾ
+PWN:soft.a.01		yumuşak	jumuʃak
+PWN:sometimes.r.01		bazan	bazan
+PWN:son.n.01		oğul	oːul
+PWN:song.n.01		türkü	tyɾky
+PWN:soon.r.01		yakında	jakɯnda
+PWN:sore.n.01		yara	jaɾa
+PWN:sound.v.02		tınlamak	tɯnlamak
+PWN:soup.n.01		çorba	t͡ʃoɾba
+PWN:sour.a.02		ekşi	ɛkʃi
+PWN:south.n.03		güney	ɡynɛj
+PWN:space.n.02		yer	jɛɾ
+PWN:spade.n.02		bel	bɛl
+PWN:spark.n.06		kıvılcım	kɯvɯld͡ʒɯm
+PWN:speak.v.03		konuşmak	konuʃmak
+PWN:spider.n.01		örümcek	œɾymd͡ʒɛk
+PWN:spirit.n.04		tin	tin
+PWN:spoil.v.02		çürümek	t͡ʃyɾymɛk
+PWN:spoon.n.01		kaşık	kaʃɯk
+PWN:spring.n.01		ilkbahar	ilkbahaɾ
+PWN:spring.n.03		kaynak	kajnak
+PWN:spring.n.03		pınar	pɯnaɾ
+PWN:squirrel.n.01		sincap	sind͡ʒap
+PWN:stand.v.01		durmak	duɾmak
+PWN:star.n.03		yıldız	jɯldɯz
+PWN:state.n.04		devlet	dɛvlɛt
+PWN:stay.v.04		kalmak	kalmak
+PWN:steal.v.01		çalmak	t͡ʃalmak
+PWN:step.v.01		adım atmak	adɯm atmak
+PWN:step.v.01		yürümek	jyɾymɛk
+PWN:stick.n.01		değnek	dɛjnɛk
+PWN:stick.n.01		sopa	sopa
+PWN:still.r.01		henüz	hɛnyz
+PWN:still.r.01		hâlâ	haːlaː
+PWN:sting.v.02		batırmak	batɯɾmak
+PWN:sting.v.02		sokmak	sokmak
+PWN:stingy.a.01		cimri	d͡ʒimɾi
+PWN:stir.v.01		karıştırmak	kaɾɯʃtɯɾmak
+PWN:stomach.n.01		mide	midɛ
+PWN:stop.v.01		durmak	duɾmak
+PWN:stove.n.01		soba	soba
+PWN:strap.n.01		kayış	kajɯʃ
+PWN:strength.n.01		kuvvet	kuvːɛt
+PWN:strike.v.01		dövmek	dœvmɛk
+PWN:strike.v.01		vurmak	vuɾmak
+PWN:string.n.01		ip	ip
+PWN:string.n.01		sicim	sid͡ʒim
+PWN:stroke.n.10		çizgi	t͡ʃizɡi
+PWN:strong.a.01		güçlü	ɡyt͡ʃly
+PWN:strong.a.01		kuvvetli	kuvːɛtli
+PWN:stupid.a.01		aptal	aptal
+PWN:subsequently.r.01		ondan sonra	ondan sonɾa
+PWN:subsequently.r.01		sonradan	sonɾadan
+PWN:succeed.v.01		başarmak	baʃaɾmak
+PWN:suddenly.r.01		ansızın	ansɯzɯn
+PWN:suddenly.r.01		birdenbire	biɾdɛnbiɾɛ
+PWN:summer.n.01		yaz	jaz
+PWN:sun.n.01		güneş	ɡynɛʃ
+PWN:sunday.n.01		pazar	pazaɾ
+PWN:support.n.07		dayak	dajak
+PWN:support.n.07		destek	dɛstɛk
+PWN:swallow.v.01		yutmak	jutmak
+PWN:swamp.n.01		batak	batak
+PWN:swan.n.01		kuğu	kuːu
+PWN:sweep.v.06		süpürmek	sypyɾmɛk
+PWN:sweet.a.01		tatlı	tatlɯ
+PWN:sweet.a.01		şekerli	ʃɛkɛɾli
+PWN:swim.v.01		yüzmek	jyzmɛk
+PWN:swing.v.01		titremek	titɾɛmɛk
+PWN:swing.v.05		sallamak	salːamak
+PWN:swing_around.v.01		çevirmek	t͡ʃɛviɾmɛk
+PWN:table.n.02		masa	masa
+PWN:tail.n.01		kuyruk	kujɾuk
+PWN:take.v.04		almak	almak
+PWN:talk.v.02		konuşmak	konuʃmak
+PWN:taste.n.01		lezzet	lɛzːɛt
+PWN:taste.n.01		tat	tat
+PWN:taste.v.01		denemek	dɛnɛmɛk
+PWN:taste.v.01		tadına bakmak	tadɯna bakmak
+PWN:tasty.a.01		lezzetli	lɛzːɛtli
+PWN:tea.n.01		çay	t͡ʃaj
+PWN:teach.v.01		okutmak	okutmak
+PWN:teach.v.01		öğretmek	œjɾɛtmɛk
+PWN:teacher.n.01		hoca	hod͡ʒa
+PWN:teacher.n.01		öğretmen	œjɾɛtmɛn
+PWN:tear.n.01		gözyaşı	ɡœzjaʃɯ
+PWN:tear.v.01		yırtmak	jɯɾtmak
+PWN:tell.v.03		bahsetmek	bahsɛtmɛk
+PWN:tell.v.03		hikâye etmek	hikaːjɛ ɛtmɛk
+PWN:ten.s.01		on	on
+PWN:tendon.n.01		kiriş	kiɾiʃ
+PWN:tether.v.01		bağlamak	baːlamak
+PWN:then.r.01		sonra	sonɾa
+PWN:then.r.03		o zamanlar	o zamanlaɾ
+PWN:there.r.01		orada	oɾada
+PWN:there.r.01		şurada	ʃuɾada
+PWN:there.r.03		oraya	oɾaja
+PWN:there.r.03		şuraya	ʃuɾaja
+PWN:thick.a.01		iri	iɾi
+PWN:thick.a.01		kalın	kalɯn
+PWN:thick.a.03		sık	sɯk
+PWN:thick.a.03		yoğun	joːun
+PWN:thigh.n.01		uyluk	ujluk
+PWN:thin.a.01		ince	ind͡ʒɛ
+PWN:thin.a.02		narin	naɾin
+PWN:thing.n.09		husus	husus
+PWN:thing.n.09		iş	iʃ
+PWN:thing.n.12		iş	iʃ
+PWN:thing.n.12		şey	ʃɛj
+PWN:think.v.03		düşünmek	dyʃynmɛk
+PWN:third.s.01		üçüncü	yt͡ʃynd͡ʒy
+PWN:thirty.s.01		otuz	otuz
+PWN:thorax.n.02		göğüs	ɡœjys
+PWN:thousand.s.01		bin	bin
+PWN:thread.n.01		iplik	iplik
+PWN:thread.n.01		tire	tiɾɛ
+PWN:three.s.01		üç	yt͡ʃ
+PWN:throat.n.01		boğaz	boːaz
+PWN:through.r.01		ortasından	oɾtasɯndan
+PWN:through.r.01		sayesinde	sajɛsindɛ
+PWN:thrust.v.01		itmek	itmɛk
+PWN:thunder.n.02		gök gürlemesi	ɡœk ɡyɾlɛmɛsi
+PWN:thunder.v.03		gök gürlemek	ɡœk ɡyɾlɛmɛk
+PWN:thursday.n.01		perşembe	pɛɾʃɛmbɛ
+PWN:thus.r.02		böyle	bœjlɛ
+PWN:thus.r.02		öyle	œjlɛ
+PWN:tie.v.01		bağlamak	baːlamak
+PWN:time.n.05		zaman	zaman
+PWN:tinkle.v.01		zangırdamak	zanɡɯɾdamak
+PWN:tinkle.v.01		şakırdamak	ʃakɯɾdamak
+PWN:tip.n.01		baş	baʃ
+PWN:tip.n.01		uç	ut͡ʃ
+PWN:tire.v.02		yorulmak	joɾulmak
+PWN:today.r.02		bugün	buɡyn
+PWN:toe.n.01		ayak parmağı	ajak paɾmaːɯ
+PWN:together.r.01		beraber	bɛɾabɛɾ
+PWN:together.r.01		birlikte	biɾliktɛ
+PWN:token.n.02		işaret	iʃaɾɛt
+PWN:tomorrow.r.01		yarın	jaɾɯn
+PWN:tone.n.07		ses	sɛs
+PWN:tongue.n.01		dil	dil
+PWN:tooth.n.01		diş	diʃ
+PWN:touch.v.01		dokunmak	dokunmak
+PWN:towel.n.01		havlu	havlu
+PWN:town.n.01		kent	kɛnt
+PWN:town.n.01		şehir	ʃɛhiɾ
+PWN:translate.v.01		tercüme etmek	tɛɾd͡ʒymɛ ɛtmɛk
+PWN:translate.v.01		çevirmek	t͡ʃɛviɾmɛk
+PWN:transport.v.02		taşımak	taʃɯmak
+PWN:trap.n.01		tuzak	tuzak
+PWN:trap.v.02		tutmak	tutmak
+PWN:trap.v.02		yakalamak	jakalamak
+PWN:travel.v.01		gitmek	ɡitmɛk
+PWN:travel.v.01		hareket etmek	haɾɛkɛt ɛtmɛk
+PWN:tree.n.01		ağaç	aːat͡ʃ
+PWN:trouser.n.01		pantolon	pantolon
+PWN:true.a.01		doğru	doːɾu
+PWN:true.a.01		gerçek	ɡɛɾt͡ʃɛk
+PWN:trunk.n.01		gövde	ɡœvdɛ
+PWN:truth.n.01		doğruluk	doːɾuluk
+PWN:truth.n.01		gerçeklik	ɡɛɾt͡ʃɛklik
+PWN:try.v.01		denemek	dɛnɛmɛk
+PWN:tube.n.01		boru	boɾu
+PWN:tuesday.n.01		salı	salɯ
+PWN:tumble.v.01		yere düşmek	jɛɾɛ dyʃmɛk
+PWN:turn.v.04		çevirmek	t͡ʃɛviɾmɛk
+PWN:twelve.s.01		on iki	on iki
+PWN:twenty.s.01		yirmi	jiɾmi
+PWN:two.s.01		iki	iki
+PWN:uncle.n.01		dayı	dajɯ
+PWN:understand.v.01		anlamak	anlamak
+PWN:understand.v.01		duymak	dujmak
+PWN:undress.v.01		çıkarmak	t͡ʃɯkaɾmak
+PWN:unfold.v.04		sürmek	syɾmɛk
+PWN:up.r.01		yukarı	jukaɾɯ
+PWN:up.r.01		yukarıya	jukaɾɯja
+PWN:urge.v.01		teşvik etmek	tɛʃvik ɛtmɛk
+PWN:vainly.r.01		boşuna	boʃuna
+PWN:vein.n.01		damar	damaɾ
+PWN:very.r.01		gayet	ɡajɛt
+PWN:very.r.01		pek	pɛk
+PWN:victimize.v.03		aldatmak	aldatmak
+PWN:victimize.v.03		dolandırmak	dolandɯɾmak
+PWN:village.n.02		köy	kœj
+PWN:violence.n.01		cebir	d͡ʒɛbiɾ
+PWN:violence.n.01		zor	zoɾ
+PWN:visible.a.01		görünmek	ɡœɾynmɛk
+PWN:visit.v.07		görmeye gitmek	ɡœɾmɛjɛ ɡitmɛk
+PWN:visit.v.07		uğramak	uːɾamak
+PWN:visit.v.07		ziyaret etmek	zijaɾɛt ɛtmɛk
+PWN:voice.n.02		ses	sɛs
+PWN:wait.v.01		beklemek	bɛklɛmɛk
+PWN:wake_up.v.02		uyanmak	ujanmak
+PWN:walk.n.01		gidiş	ɡidiʃ
+PWN:walk.n.01		yürüyüş	jyɾyjyʃ
+PWN:walk.v.01		yürümek	jyɾymɛk
+PWN:walk.v.10		dolaşmak	dolaʃmak
+PWN:walk.v.10		gezmek	ɡɛzmɛk
+PWN:war.n.01		savaş	savaʃ
+PWN:ware.n.01		mal	mal
+PWN:warm.a.01		sıcak	sɯd͡ʒak
+PWN:wash.v.02		yıkanmak	jɯkanmak
+PWN:wash.v.03		yıkamak	jɯkamak
+PWN:watch.v.01		bakmak	bakmak
+PWN:water.n.06		su	su
+PWN:water.v.01		sulamak	sulamak
+PWN:wave.n.01		dalga	dalɡa
+PWN:weak.a.01		güçsüz	ɡyt͡ʃsyz
+PWN:weak.a.01		zayıf	zajɯf
+PWN:wealth.n.01		servet	sɛɾvɛt
+PWN:wealth.n.01		zenginlik	zɛnɡinlik
+PWN:wear.v.09		giymek	ɡijmɛk
+PWN:weather.n.01		hava	hava
+PWN:wednesday.n.01		çarşamba	t͡ʃaɾʃamba
+PWN:week.n.01		hafta	hafta
+PWN:weight.n.01		ağırlık	aːɯɾlɯk
+PWN:well.n.01		kuyu	kuju
+PWN:well.n.01		çeşme	t͡ʃɛʃmɛ
+PWN:west.n.02		batı	batɯ
+PWN:wet.a.01		yaş	jaʃ
+PWN:wet.a.01		ıslak	ɯslak
+PWN:whistle.v.03		düdük çalmak	dydyk t͡ʃalmak
+PWN:white.a.01		ak	ak
+PWN:white.a.01		beyaz	bɛjaz
+PWN:wide.a.01		enli	ɛnli
+PWN:wide.a.01		geniş	ɡɛniʃ
+PWN:wife.n.01		karı	kaɾɯ
+PWN:willow.n.01		söğüt	sœjyt
+PWN:win.v.01		yenmek	jɛnmɛk
+PWN:wind.n.01		rüzgâr	ɾyzɡaːɾ
+PWN:wind.n.01		yel	jɛl
+PWN:wind.v.03		sarmak	saɾmak
+PWN:window.n.01		pencere	pɛnd͡ʒɛɾɛ
+PWN:wing.n.01		kanat	kanat
+PWN:winter.n.01		kış	kɯʃ
+PWN:wipe.v.01		silmek	silmɛk
+PWN:wolf.n.01		kurt	kuɾt
+PWN:woman.n.01		bayan	bajan
+PWN:wood.n.01		ağaç	aːat͡ʃ
+PWN:wood.n.01		tahta	tahta
+PWN:wool.n.02		yün	jyn
+PWN:word.n.01		kelime	kɛlimɛ
+PWN:work.n.01		iş	iʃ
+PWN:work.n.01		çalışma	t͡ʃalɯʃma
+PWN:work.v.01		çalışmak	t͡ʃalɯʃmak
+PWN:worker.n.01		işçi	iʃt͡ʃi
+PWN:world.n.02		dünya	dynja
+PWN:worm.n.01		kurt	kuɾt
+PWN:worm.n.01		solucan	solud͡ʒan
+PWN:write.v.02		yazmak	jazmak
+PWN:year.n.01		sene	sɛnɛ
+PWN:year.n.01		yıl	jɯl
+PWN:yellow.s.01		sarı	saɾɯ
+PWN:yesterday.r.01		dün	dyn
+PWN:young.a.01		genç	ɡɛnt͡ʃ

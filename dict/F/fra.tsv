@@ -1,659 +1,1401 @@
 id	style	word
-Agriculture:cultivate.V		cultiver
-Agriculture:farmer.N		fermier, paysan
-Agriculture:harvest or harvest season.N		récolte
-Agriculture:mow.V		tondre
-Agriculture:paddy field.N		rizière
-Agriculture:pitchfork.N		fourche
-Agriculture:plough.V		labourer
-Agriculture:rake.N		râteau
-Agriculture:shovel.N		pelle
-Agriculture:sickle or scythe.N		faux,faucille
-Agriculture:sow seeds.V		semer
-Agriculture:thresh.V		battre le ble
-Agriculture:threshing-floor.N		aire de battage
-Animal:Acridomorpha.N		sauterelle
-Animal:Anatidae.N		canard
-Animal:Annelida.N		ver de terre
-Animal:Anthophila.N		abeille
-Animal:Anura.N		grenouille
-Animal:Araneae.N		araignée
-Animal:Aves.N		oiseau
-Animal:Blattodea.N		cafard, cancrelat
-Animal:Bos taurus.N		grand bétail, bœuf
-Animal:Canis lupus familiaris.N		chien
-Animal:Canis lupus.N		loup
-Animal:Capra hircus.N		chèvre
-Animal:Cervidae.N		daim, cerf, chevreuil
-Animal:Cetacea.N		baleine
-Animal:Corvus.N		corbeau
-Animal:Culicidae.N		moustique
-Animal:Diptera.N		mouche
-Animal:Elephantidae.N		éléphant
-Animal:Equus asinus × caballus.N		mulet
-Animal:Equus asinus.N		âne
-Animal:Equus ferus caballus.N		cheval
-Animal:Felis catus.N		chat
-Animal:Felis leo.N		lion
-Animal:Formicidae.N		fourmi
-Animal:Gallus gallus domesticus.N		poulet
-Animal:Homo sapiens.N		personne, être humain
-Animal:Insecta.N		insecte
-Animal:Lacertidae.N		lézard
-Animal:Lampyridae.N		verluisant, luciole
-Animal:Leporidae.N		lapin
-Animal:Ovis aries.N		mouton
-Animal:Rhopalocera.N		papillon
-Animal:Sciuridae.N		écureuil
-Animal:Serpentes.N		serpent
-Animal:Simiiformes.N		singe
-Animal:Sus scrofa domestica.N		cochon, porc
-Animal:Testudines.N		tortue
-Animal:Ursidae.N		ours
-Animal:Vespinae.N		guêpe
-Animal:Vulpes.N		renard
-Animal:animal.N		animal,bête
-Animal:female.A		femelle, feminin
-Animal:fish.N		poisson
-Animal:male.A		mâle, masculin
-Animal:wool.N		laine
-Art:sculptor.N		sculpteur
-Art:statue.N		statue
-Atmosphere:cloud.N		nuage
-Atmosphere:fan (action).V		s'éventer
-Atmosphere:fan (object).N		éventail
-Atmosphere:fog.N		brume, brouillard
-Atmosphere:rain.N		pluie
-Atmosphere:rainbow.N		arc-en-ciel
-Atmosphere:sky.N		ciel
-Atmosphere:storm.N		orage, tempête
-Atmosphere:thunder.N		tonnerre
-Atmosphere:weather.N		temps
-Atmosphere:wind.N		vent
-Belief:Catholic priest.N		prêtre,curé
-Belief:altar.N		autel
-Belief:bless.V		bénir
-Belief:curse.V		maudire
-Belief:deity.N		Dieu
-Belief:demon.N		démon
-Belief:ghost.N		fantôme, esprit, revenant
-Belief:heaven.N		ciel, cieux
-Belief:hell.N		enfer
-Belief:holy.A		sacré, saint
-Belief:idol.N		idole
-Belief:magic.N		magie, sorcellerie
-Belief:magician.N		sorcier, sorcière
-Belief:mosque.N		mosquée
-Belief:omen.N		présage, augure
-Belief:pray.V		prier
-Belief:religion.N		religion
-Belief:sermon.V		prêcher
-Belief:soul.N		âme, esprit
-Belief:temple.N		temple
-Belief:worship.V		adorer
-Body:ankle.N		cheville
-Body:arm.N		bras
-Body:armpit.N		aisselle
-Body:back.N		dos
-Body:bald.A		chauve
-Body:beak.N		bec
-Body:beard.N		barbe
-Body:belly.N		ventre
-Body:blink.V		cligner des yeux
-Body:blister.N		ampoule
-Body:blood vessel.N		veine, artère
-Body:blood.N		sang
-Body:body hair.N		poil
-Body:body.N		corps
-Body:boil.N		furoncle
-Body:bone.N		os
-Body:brain.N		cerveau
-Body:breast.N		sein, poitrine
-Body:breath.V		respirer
-Body:bruise.N		contusion, bleu
-Body:buttock.N		fesses, derrière
-Body:calf of leg.N		mollet
-Body:carcass.N		carcasse
-Body:cheek.N		joue
-Body:chest.N		poitrine
-Body:chin.N		menton
-Body:collarbone.N		clavicule
-Body:corpse.N		cadavre
-Body:dribble.N		bave
-Body:dribble.V		baver
-Body:ear.N		oreille
-Body:earlobe.N		lobe de l'oreille
-Body:earwax.N		cèrumen, cire d'oreille
-Body:elbow.N		coude
-Body:eye.N		oeil
-Body:eyebrow.N		sourcil
-Body:eyelash.N		cil
-Body:eyelid.N		paupière
-Body:face.N		visage
-Body:fart.V		péter
-Body:fat.N		graisse, le gras
-Body:feather.N		plume
-Body:feces.V		déféquer
-Body:finger.N		doigt
-Body:fingernail.N		ongle
-Body:flesh.N		chair
-Body:foot.N		pied
-Body:footprint.N		empreinte de pied
-Body:forehead.N		front
-Body:fur.N		fourrure
-Body:goiter.N		goître
-Body:gum.N		gencive
-Body:hand.N		main
-Body:head hair.N		cheveu
-Body:head.N		tête
-Body:heart.N		coeur
-Body:heel.N		talon
-Body:hiccup.V		hoqueter
-Body:hip.N		hanche
-Body:horn.N		corne
-Body:intestines.N		intestins, boyaux
-Body:jaw.N		machoire
-Body:kidney.N		rein
-Body:knee.N		genou
-Body:leg.N		jambe
-Body:lip.N		lèvre
-Body:liver.N		foie
-Body:lung.N		poumon
-Body:molar tooth.N		molaire
-Body:mouth.N		bouche
-Body:nape.N		nuque
-Body:navel.N		nombril
-Body:neck.N		cou
-Body:nipple.N		bout du sein (+hum), mamelle (+hum) téton (-hum),
-Body:nose.N		nez
-Body:nostril.N		narine
-Body:palm.N		paume
-Body:penis.N		pénis
-Body:piss.V		uriner
-Body:pubic hair.N		poil pubien
-Body:rib.N		côte
-Body:scar.N		cicatrice
-Body:shell.N		coquille, coquillage
-Body:shoulder.N		épaule
-Body:shoulderblade.N		omoplate
-Body:skin.N		peau, pelage
-Body:skull.N		crâne
-Body:sneeze.V		éternuer
-Body:spine.N		épine dorsale
-Body:spit.V		cracher
-Body:spleen.N		rate
-Body:stomach.N		estomac, (mal au) ventre
-Body:sweat.V		transpirer, suer
-Body:swell.N		bosse, enflure
-Body:tail.N		queue
-Body:tear.N		larme
-Body:temple.N		tempes
-Body:tendon.N		tendon
-Body:testicle.N		testicule
-Body:throat.N		gorge
-Body:thumb.N		pouce
-Body:toe.N		orteil, doigt de pied
-Body:tongue.N		langue
-Body:tooth.N		dent
-Body:udder.N		pis
-Body:upper leg.N		cuisse
-Body:vagina.N		vagin
-Body:vulva.N		vulve
-Body:waist.N		taille
-Body:wing.N		aile
-Body:womb.N		utérus, sein de la mère
-Body:wound.N		blessure, plaie
-Body:wrist.N		poignet
-Body:yawn.V		bâiller
-Building:adobe.N		adobe
-Building:arch.N		arche
-Building:beam.N		poutre
-Building:board.N		planche
-Building:brick.N		brique
-Building:build.V		bâtir,construire
-Building:camp.N		camp
-Building:chimney.N		cheminée
-Building:cookhouse.N		cuisine
-Building:door.N		porte
-Building:doorpost.N		pilier
-Building:fireplace.N		foyer
-Building:floor.N		plancher, sol
-Building:garden-house.N		cabane de jardin
-Building:house.N		maison
-Building:hut.N		hutte
-Building:mason.N		maçon
-Building:mortar binder.N		mortier
-Building:oven.N		four
-Building:post.N		poteau, poutre
-Building:rafter.N		poutre
-Building:ridgepole.N		poutre de faïte
-Building:roof.N		toit
-Building:room.N		pièce, chambre
-Building:tent.N		tente
-Building:thatch.N		toit de chaume
-Building:tower.N		tour
-Building:wall.N		mur
-Building:window.N		fenêtre
-Building:yard.N		cour
-Cleaning:broom.N		balai
-Cleaning:clean.A		propre
-Cleaning:dirty.A		sale,crasseux
-Cleaning:sweep.V		balayer
-Cleaning:wash.V		laver
-Cleaning:wipe.V		essuyer
-Clothing:Gossypium.N		coton
-Clothing:awl.N		alène
-Clothing:bead.N		perle
-Clothing:belt.N		ceinture
-Clothing:boot.N		botte
-Clothing:braid.N		tresser
-Clothing:button.N		bouton
-Clothing:cloak.N		cape
-Clothing:cloth.N		étoffe,tissu
-Clothing:clothes.N		habit, vêtement
-Clothing:coat.N		manteau, pardessus
-Clothing:collar.N		col
-Clothing:dress.N		robe (de femme)
-Clothing:dye.V		teindre
-Clothing:felt.N		feutre
-Clothing:glove.N		gant
-Clothing:grass-skirt.N		jupe en rafia
-Clothing:headband or headdress.N		couronne
-Clothing:headgear.N		chapeau, casquette, bonnet
-Clothing:leather.N		cuir
-Clothing:linen.N		lin
-Clothing:loom.N		métier â tisser
-Clothing:naked.A		nu
-Clothing:needle.N		aiguille
-Clothing:pin.N		épingle
-Clothing:pocket.N		poche
-Clothing:poncho.N		poncho
-Clothing:put on.V		porter, mettre (vêtement)
-Clothing:rag.N		mouchoir,chiffon
-Clothing:sew.V		coudre
-Clothing:shirt.N		chemise
-Clothing:shoe.N		chaussure, soulier
-Clothing:shoemaker.N		cordonnier
-Clothing:silk.N		soie
-Clothing:skirt.N		jupe
-Clothing:snowshoe.N		botte de neige
-Clothing:spin.V		filer
-Clothing:spindle.N		fuseau
-Clothing:stocking.N		bas, chaussette
-Clothing:tailor.N		tailleur
-Clothing:thread.N		fil
-Clothing:towel.N		serviette
-Clothing:trousers.N		pantalon
-Clothing:veil.N		voile
-Clothing:weave.V		tisser
-Cognition:same.A		même
-Cognition:study.V		étudier
-Cognition:true.A		vrai
-Cognition:wake up.V		se réveiller, s'eveiller
-Combat:bomb.N		bombe
-Combat:fight.V		se battre
-Combat:helmet.N		casque
-Communication:answer.V		répondre
-Communication:boast.V		se vanter
-Communication:book.N		livre
-Communication:call.V		appeler, hêler
-Communication:deny.V		nier
-Communication:forbid.V		interdire
-Communication:forgive.V		pardonner
-Communication:kiss.V		baiser,embrasser
-Communication:language.N		langue, langage
-Communication:letter.N		lettre
-Communication:lie.V		mentir
-Communication:mail.N		courrier, poste
-Communication:newspaper.N		journal
-Communication:postage stamp.N		timbre
-Communication:postcard.N		carte postale
-Communication:praise.N		louange, éloge
-Communication:radio.N		radio
-Communication:refuse.V		refuser
-Communication:telephone.N		téléphone
-Communication:television set.N		télé
-Communication:tell.V		raconter
-Cosmos:Sun.N		soleil
-Cosmos:moon.N		lune
-Cosmos:star.N		étoile
-Degree:more.ADV		plus, encore plus
-Element:Ag.N		argent
-Element:Au.N		or
-Element:Cu.N		cuivre
-Element:Fe.N		fer
-Element:Pb.N		plomb
-Emotion:anger.N		colère
-Emotion:anxiety.N		inquiétude, soucis
-Emotion:blame.N		blâme
-Emotion:courageous.A		courageux
-Emotion:cry.V		pleurer
-Emotion:dare.V		oser
-Emotion:envy.N		envie, jalousie
-Emotion:fear.N		peur, crainte
-Emotion:feel.V		tater, palper
-Emotion:grief.N		douleur, deuil
-Emotion:happy.A		joyeux, heureux
-Emotion:hate.V		haïr, détester
-Emotion:hope.V		espoir
-Emotion:love.V		aimer
-Emotion:shame.N		honte
-Emotion:surprised.A		étonné, surpris
-Emotion:want.V		vouloir,désirer
-Family:ancestors.N		ancêtres,aïeux
-Family:aunt.N		tante
-Family:brother.N		frère
-Family:child-in-law.N		belle-fils, gendre / belle-fille, bru
-Family:child.N		enfant
-Family:cousin.N		cousin, cousine
-Family:daughter.N		fille
-Family:descendant.N		descendants
-Family:divorce.N		divorce
-Family:family.N		famille
-Family:father.N		père
-Family:grandchild.N		petit fils
-Family:granddaughter.N		petite-fille
-Family:grandfather.N		grand-père
-Family:grandmother.N		grand-mère
-Family:grandparents.N		grand-parents
-Family:grandson.N		petit-fils
-Family:husband.N		mari
-Family:married man.N		homme marié
-Family:married woman.N		femme mariée
-Family:marry.V		se marier, épouser
-Family:mother.N		mère
-Family:nephew.N		neveu
-Family:niece.N		nièce
-Family:older brother.N		frêre aîné
-Family:older sibling.N		frêre/sœur aîné(e)
-Family:older sister.N		soeur aînée
-Family:orphan.N		orphelin, orpheline
-Family:parents.N		parents
-Family:relatives.N		parenté
-Family:sibling-in-law.N		beau-frère / belle-sœur
-Family:sibling.N		frère/soeur
-Family:sister.N		soeur
-Family:son.N		fils
-Family:stepdaughter.N		belle-fille
-Family:stepfather.N		beau-père
-Family:stepmother.N		belle-mère
-Family:stepson.N		beau-fils
-Family:uncle.N		oncle
-Family:wedding.N		mariage, noces
-Family:widow.N		veuve
-Family:widower.N		veuf
-Family:wife.N		femme, épouse
-Family:younger brother.N		frère cadet
-Family:younger sibling.N		frêre/sœur cadet(te)
-Family:younger sister.N		soeur cadette
-Food:Camellia sinensis.N		thé
-Food:Coffea.N		café
-Food:Ficus carica.N		figue
-Food:Musa acuminata.N		banane
-Food:NaCl.N		sel
-Food:bake.V		cuire au four
-Food:bread.N		pain
-Food:candy.N		confiserie, sucrerie, bonbon
-Food:dinner.N		dîner
-Food:fermented alcohol.N		boisson fermentée
-Food:flour.N		farine
-Food:sausage.N		saucisse
-Food:soup.N		soupe, potage
-Food:spoon.N		cuillère
-Food:supper.N		souper, repas du soir
-Form:bend.V		plier
-Function:1PL EXCL.PRO		nous
-Function:1PL INCL.PRO		nous
-Function:1PL.PRO		nous
-Function:1SG.PRO		je, moi
-Function:2PL.PRO		vous
-Function:2SG.PRO		tu
-Function:3PL.PRO		eux, elles
-Function:3SG M.PRO		il
-Function:3SG.PRO		il/elle
-Function:and.CNJ		et
-Function:here.ADV		ici
-Function:how many pieces.PRO		combien?
-Function:how much.PRO		combien?
-Function:how.PRO		comment?
-Function:if.CNJ		si
-Function:not.PTCL		ne... pas
-Function:nothing.PRO		rien
-Function:or.CNJ		ou
-Function:other.PRO		autre
-Function:that.PRO		сe
-Function:there.ADV		là, là-bas
-Function:this.PRO		celui-ci
-Function:what.PRO		quoi?
-Function:when.PRO		quand?
-Function:where.PRO		où?
-Function:which.PRO		quel? lequel?
-Function:who.PRO		qui?
-Function:why.PRO		pourquoi?
-Function:yes.PTCL		oui
-Grooming:bracelet.N		bracelet
-Grooming:brush.N		brosse
-Grooming:comb.N		peigne
-Grooming:earring.N		boucle d'oreille
-Grooming:jewel.N		bijou, joyau
-Grooming:mirror.N		miroir, glace
-Grooming:necklace.N		collier
-Grooming:ointment.N		pommade, onguent, crème
-Grooming:ornament.N		ornement
-Grooming:razor.N		rasoir
-Grooming:ring.N		bague, anneau
-Grooming:soap.N		savon
-Grooming:tattoo.N		tatouage
-Handiwork:adze.N		herminette
-Handiwork:anvil.N		enclume
-Handiwork:axe.N		hache
-Handiwork:blacksmith.N		forgeron
-Handiwork:bore.V		percer, perforer
-Handiwork:braid or weave.V		tresser
-Handiwork:carpenter.N		charpentier
-Handiwork:carve.V		sculpter,graver
-Handiwork:cast.V		mouler
-Handiwork:chisel.N		burin, ciseau däacier
-Handiwork:forge.V		forger
-Handiwork:hammer.N		marteau
-Handiwork:nail.N		clou, ongle
-Handiwork:peg.N		sardine
-Handiwork:potter.N		potier
-Handiwork:saw.N		scie
-Handiwork:screw.N		vis
-Handiwork:screwdriver.N		tournevis
-Handiwork:shears.N		ciseaux
-Handiwork:tool.N		outil
-Handiwork:whetstone.N		affiloir, pierre à aguiser
-Handiwork:workshop.N		atelier
-Health:disease.N		maladie
-Health:fever.N		fièvre
-Health:healthy.A		santé, en bonne santé
-Health:hospital.N		hôpital
-Health:injection.N		piqûre, injection
-Health:medicine.N		remède, médecine, médicament
-Health:physician.N		médecin
-Health:pill.N		comprimé, cachet
-Health:poison.N		poison
-House:bed.N		lit
-House:blanket.N		couverture
-House:mattress.N		matelas
-House:pillow.N		oreiller
-House:rug.N		tapis
-House:sink.N		évier, lavabo
-House:table.N		table
-House:toilet.N		toilette
-Hunting:boomerang.N		boomerang
-Hunting:bow.N		arc
-Hunting:hunt.V		chasser
-Integrity:part.N		morceau, partie
-Integrity:piece.N		morceau, pièce
-Interaction:choose.V		choisir
-Interaction:rescue.V		sauver
-Law:crime.N		crime, délit
-Mind:dream.V		rêver
-Motion:approach.V		approcher
-Motion:arrive.V		arriver
-Motion:bring.V		apporter, amener
-Motion:carry.V		porter
-Motion:catch.V		attraper
-Motion:climb.V		grimper
-Motion:come back.V		revenir
-Motion:come.V		venir
-Motion:crawl or creep.V		ramper
-Motion:drop (something).V		laisser tomber
-Motion:enter.V		entrer
-Motion:fall.V		tomber
-Motion:fly.V		voler
-Motion:follow.V		suivre
-Motion:go.V		aller
-Motion:leave.V		s'en aller,partir
-Motion:lift.V		lever, élever
-Motion:ride.V		chevaucher
-Motion:roll.V		rouler
-Motion:turn (sth).V		retourner
-Motion:walking stick.N		canne
-Music:brass instrument.N		cor, trompette
-Music:drum.N		tambour
-Music:government.N		gouvernement
-Music:music.N		musique
-Music:sing.V		chanter
-Music:song.N		chanson
-Nature:flame.N		flamme
-Nature:savanna.N		savane
-Nature:sea.N		mer
-Nature:shore.N		côte, rivage, bord,
-People:baby.N		enfant, bébé
-People:boy.N		garçon
-People:child.N		enfant
-People:female.A		femelle
-People:girl.N		fille
-People:male.A		mâle
-People:man.N		homme
-People:old man.N		vieillard
-People:old woman.N		vieillarde
-People:twins.N		jumeaux
-People:woman.N		femme
-People:young man.N		jeune homme
-People:young woman.N		jeune fille
-Perception:hear.V		entendre
-Perception:pain.N		douleur
-Perception:touch.V		toucher
-Perception:wet.A		mouillé,  humide
-Perception:yellow.A		jaune
-Plant:Beta vulgaris saccharifera.N		betterave
-Plant:Betula.N		bouleau
-Plant:Ficus carica.N		figuier
-Plant:Ipomoea batatas.N		patate douce
-Plant:bark.N		écorce
-Plant:branch or twig.N		branche,rameau
-Plant:flower.N		fleur
-Plant:leaf.N		feuille
-Plant:needle.N		spicule
-Plant:plant.N		plante
-Plant:root.N		racine
-Plant:sap.N		sève
-Plant:seed.N		graine, semence
-Plant:tree stump.N		souche d'arbre
-Plant:tree trunk.N		tronc d'arbre
-Plant:tree.N		arbre
-Plant:vine.N		vigne
-Possession:greedy.A		gourmand
-Possession:market.N		marché
-Possession:poor.A		pauvre
-Possession:price.N		prix
-Possession:rich.A		riche
-Possession:sell.V		vendre
-Possession:share.V		partager
-Quantity:0.NUM		zéro
-Quantity:1.NUM		un
-Quantity:10.NUM		dix
-Quantity:100.NUM		cent
-Quantity:1000.NUM		mille
-Quantity:11.NUM		onze
-Quantity:12.NUM		douze
-Quantity:15.NUM		quinze
-Quantity:2.NUM		deux
-Quantity:20.NUM		vingt
-Quantity:3.NUM		trois
-Quantity:4.NUM		quatre
-Quantity:5.NUM		cinq
-Quantity:6.NUM		six
-Quantity:7.NUM		sept
-Quantity:8.NUM		huit
-Quantity:9.NUM		neuf
-Quantity:empty.A		vide
-Quantity:enough.ADV		assez
-Quantity:full.A		plein, rempli
-Quantity:many.A		beaucoup
-Society:help.V		aider
-Society:people.N		gens
-Sound:be silent.V		se taire
-Sound:flute.N		flûte
-Sound:howl.V		hurler
-Sound:laugh.V		rire
-Sound:rattle.N		hochet, maracas
-Sound:shout.V		crier
-Sound:shriek.V		crier, hurler
-Sound:stutter.V		bégayer,balbutier
-Sound:voice.N		voix
-Sound:whisper.V		chuchoter
-Sound:whistle.V		siffler
-Space:wide.A		large
-Storage:basket.N		panier
-Storage:bottle.N		bouteille
-Storage:can.N		boîte
-Storage:case.N		cantine
-Storage:misplace.V		perdre
-Storage:netbag.N		filet
-Storage:pour.V		verser
-Time:afternoon.N		après-midi
-Time:age.N		âge
-Time:always.ADV		toujours
-Time:autumn.N		automne
-Time:calendar.N		calendrier
-Time:final.A		dernier
-Time:hour.N		heure
-Time:last.V		durer
-Time:late.ADV		tard
-Time:month.N		mois
-Time:never.ADV		jamais
-Time:new.A		nouveau
-Time:night.N		nuit
-Time:now.ADV		maintenant
-Time:often.ADV		souvent
-Time:old.A		vieux,âgé
-Time:season.N		saison
-Time:springtime.N		printemps
-Time:summer.N		été
-Time:time.N		heure
-Time:today.ADV		aujourd'hui
-Time:tomorrow.ADV		demain
-Time:winter.N		hiver
-Time:year.N		année
-Time:yesterday.ADV		hier
-Transit:airplane.N		avion
-Transit:anchor.N		ancre
-Transit:bicycle.N		vélo, bicyclette
-Transit:boat.N		bateau
-Transit:brake.V		freiner
-Transit:bus.N		bus, autobus
-Transit:canoe.N		pirogue
-Transit:car.N		voiture
-Transit:cart.N		wagon, charrette
-Transit:driver's license.N		permis de conduire
-Transit:license plate.N		plaque d'immatriculation
-Transit:motorcycle.N		moto, motocycle
-Transit:oar.N		rame
-Transit:paddle.N		pagaie
-Transit:road.N		route
-Transit:row.V		ramer
-Transit:rudder.N		gouvernail
-Transit:sail.V		naviguer
-Transit:sailcloth.N		voile
-Transit:ship.N		navire,bateau
-Transit:street.N		rue
-Transit:train.N		train
-Transit:wheel.N		roue
-Value:bad.A		mauvais
-Value:good.A		bon
+PLX:1PL EXCL.pro		nous
+PLX:1PL INCL.pro		nous
+PLX:1PL.pro		nous
+PLX:1SG.pro		je, moi
+PLX:2PL.pro		vous
+PLX:2SG.pro		tu
+PLX:3PL.pro		eux, elles
+PLX:3SG F.pro		elle
+PLX:3SG M.pro		il
+PLX:3SG.pro		il/elle
+PLX:and.cnj		et
+PLX:behind.adp		derrière
+PLX:how.pro		comment?
+PLX:if.cnj		si
+PLX:in front of.adp		devant
+PLX:or.cnj		ou
+PLX:that.pro		сe
+PLX:this.pro		celui-ci
+PLX:under.adp		dessous, sous
+PLX:what.pro		quoi?
+PLX:where.pro		où?
+PLX:who.pro		qui?
+PLX:why.pro		pourquoi?
+PLX:yes.ptcl		oui
+PWN:abdomen.n.01		ventre
+PWN:above.r.02		haut
+PWN:accuse.v.01		accuser
+PWN:acerate_leaf.n.01		spicule
+PWN:acorn.n.01		gland
+PWN:acquit.v.01		absoudre, acquitter
+PWN:act.v.02		faire
+PWN:address.n.03		discours, allocution (faire un/une)
+PWN:address.n.06		adresse
+PWN:admit.v.01		admettre, avouer
+PWN:adobe.n.02		adobe
+PWN:adornment.n.01		ornement
+PWN:adultery.n.01		adultère
+PWN:adz.n.01		herminette
+PWN:afternoon.n.01		après-midi
+PWN:again.r.01		encore une fois, encore, de nouveau
+PWN:age.n.01		âge
+PWN:air.n.01		air
+PWN:airplane.n.01		avion
+PWN:all.a.01		tous
+PWN:allege.v.01		dire
+PWN:alligator.n.02		crocodile, alligator
+PWN:alone.r.02		seul
+PWN:altar.n.02		autel
+PWN:always.r.01		toujours
+PWN:amazed.s.01		étonné, surpris
+PWN:ambush.n.01		embuscade, guet-apens
+PWN:ancestor.n.01		ancêtres,aïeux
+PWN:anchor.n.01		ancre
+PWN:anger.n.02		colère
+PWN:animal.n.01		animal,bête
+PWN:animation.n.01		vie
+PWN:ankle.n.01		cheville
+PWN:announce.v.01		annoncer,proclamer
+PWN:answer.v.01		répondre
+PWN:ant.n.01		fourmi
+PWN:anteater.n.02		fourmilier, tamanoir
+PWN:anvil.n.01		enclume
+PWN:anxiety.n.02		inquiétude, soucis
+PWN:apparel.n.01		habit, vêtement
+PWN:approach.v.01		approcher
+PWN:apt.s.03		intelligent,rusé
+PWN:arch.n.04		arche
+PWN:arm.n.01		bras
+PWN:armor.n.01		armure
+PWN:armpit.n.01		aisselle
+PWN:army.n.01		armée
+PWN:arrive.v.01		arriver
+PWN:arrive.v.01		venir
+PWN:arrow.n.02		flèche
+PWN:arson.n.01		incendie volontaire
+PWN:artery.n.01		veine, artère
+PWN:ascend.v.01		monter
+PWN:ash.n.01		cendres
+PWN:ask.v.02		demander
+PWN:ask.v.05		demander
+PWN:attack.n.05		attaque
+PWN:aunt.n.01		tante
+PWN:aurora_borealis.n.01		aurore boréale
+PWN:avaricious.s.01		gourmand
+PWN:awl.n.01		alène
+PWN:ax.n.01		hache
+PWN:axle.n.01		essieu
+PWN:baby.n.01		enfant, bébé
+PWN:back.n.01		dos
+PWN:bad.a.01		mauvais
+PWN:bait.n.02		appât
+PWN:bake.v.02		cuire au four
+PWN:bald.s.02		chauve
+PWN:ball.n.03		sphère, ballon
+PWN:bamboo.n.01		bambou
+PWN:banana.n.02		banane
+PWN:banyan.n.01		banyan
+PWN:bare.s.01		nu
+PWN:bark.n.01		écorce
+PWN:barley.n.02		orge
+PWN:barter.v.01		échanger
+PWN:basket.n.01		panier
+PWN:bat.n.01		chauve-souris
+PWN:bathe.v.01		se baigner
+PWN:battery.n.02		batterie
+PWN:battle-ax.n.01		hâche d'armes
+PWN:battle.n.01		guerre, bataille
+PWN:bay.n.01		golfe, baie
+PWN:be.v.03		être
+PWN:be.v.11		vivre
+PWN:be_born.v.01		né,naître
+PWN:bead.n.01		perle
+PWN:beak.n.02		bec
+PWN:beam.n.02		poutre
+PWN:bean.n.01		haricot
+PWN:bear.n.01		ours
+PWN:beard.n.01		barbe
+PWN:beautiful.a.01		beau,joli
+PWN:beaver.n.07		castor
+PWN:become.v.01		devenir
+PWN:bed.n.01		lit
+PWN:bee.n.01		abeille
+PWN:beech.n.01		hêtre
+PWN:beehive.n.04		ruche
+PWN:beer.n.01		bière
+PWN:beeswax.n.01		cire d'abeille
+PWN:beget.v.01		engendrer
+PWN:beggar.n.01		mendiant
+PWN:begin.v.03		commencer
+PWN:beginning.n.01		commencement
+PWN:believe.v.01		croire
+PWN:belt.n.02		ceinture
+PWN:beverage.n.01		boisson
+PWN:bicycle.n.01		vélo, bicyclette
+PWN:big_brother.n.02		frêre aîné
+PWN:big_sister.n.01		soeur aînée
+PWN:bill.n.02		compte
+PWN:billy.n.02		bouc
+PWN:birch.n.02		bouleau
+PWN:bird.n.01		oiseau
+PWN:birth_certificate.n.01		acte de naissance
+PWN:bite.v.01		mordre
+PWN:bitter.s.06		amer
+PWN:black.a.01		noir
+PWN:blacksmith.n.01		forgeron
+PWN:blade.n.01		feuille
+PWN:blanket.n.01		couverture
+PWN:bless.v.01		bénir
+PWN:blind.a.01		aveugle
+PWN:blink.v.01		cligner des yeux
+PWN:blister.n.03		ampoule
+PWN:blood.n.01		sang
+PWN:blow.v.02		souffler
+PWN:blue.s.01		bleu
+PWN:blunt.s.02		émoussé
+PWN:board.n.02		planche
+PWN:boast.v.01		se vanter
+PWN:boat.n.01		bateau
+PWN:body.n.01		corps
+PWN:body_hair.n.01		poil
+PWN:body_louse.n.01		pou
+PWN:boil.n.01		furoncle
+PWN:boil.v.01		bouillir
+PWN:boisterous.s.03		agité
+PWN:bolt.n.03		serrure
+PWN:bomb.n.01		bombe
+PWN:bone.n.01		os
+PWN:book.n.01		livre
+PWN:boomerang.n.01		boomerang
+PWN:boot.n.01		botte
+PWN:bore.v.02		percer, perforer
+PWN:borrow.v.01		emprunter
+PWN:bottle.n.01		bouteille
+PWN:bottom.n.02		fond
+PWN:boundary.n.02		frontière, limite
+PWN:bow.n.04		arc
+PWN:bowl.n.01		bol
+PWN:bracelet.n.02		bracelet
+PWN:brackish.s.02		saumâtre
+PWN:braid.n.01		tresser
+PWN:braid.v.01		tresser
+PWN:brain.n.01		cerveau
+PWN:brainsick.s.01		fou, bête, idiot
+PWN:brake.v.02		freiner
+PWN:brave.a.01		courageux
+PWN:bread.n.01		pain
+PWN:break.v.05		casser,briser
+PWN:breakfast.n.01		petit déjeuner
+PWN:breast.n.02		sein, poitrine
+PWN:breathe.v.01		respirer
+PWN:brick.n.01		brique
+PWN:bridge.n.01		pont
+PWN:bright.a.01		luisant, brillant
+PWN:bring.v.01		apporter, amener
+PWN:bring_around.v.02		guérir
+PWN:broken.s.11		brisé, cassé
+PWN:broom.n.01		balai
+PWN:brother.n.01		frère
+PWN:brow.n.01		front
+PWN:bruise.n.01		contusion, bleu
+PWN:brush.n.02		brosse
+PWN:bull.n.01		taureau
+PWN:bumble.v.03		bégayer,balbutier
+PWN:bunch.n.01		botte
+PWN:burn.v.03		brûler
+PWN:burn.v.07		brûler
+PWN:bury.v.02		enterrer
+PWN:bus.n.01		bus, autobus
+PWN:butter.n.01		beurre
+PWN:butterfly.n.01		papillon
+PWN:buttocks.n.01		fesses, derrière
+PWN:button.n.01		bouton
+PWN:buy.v.01		acheter
+PWN:cadaver.n.01		cadavre
+PWN:calendar.n.03		calendrier
+PWN:calendar_month.n.01		mois
+PWN:calf.n.01		veau
+PWN:calf.n.02		mollet
+PWN:call.v.05		appeler, hêler
+PWN:call_on_the_carpet.v.01		gronder
+PWN:calm.a.02		étale
+PWN:camel.n.01		chameau
+PWN:camp.n.03		camp
+PWN:can.n.01		boîte
+PWN:candle.n.01		bougie, cierge, chandelle
+PWN:canoe.n.01		pirogue
+PWN:cap.n.01		chapeau, casquette, bonnet
+PWN:cape.n.01		cap
+PWN:car.n.01		voiture
+PWN:carcase.n.01		carcasse
+PWN:caribou.n.01		renne
+PWN:carpenter.n.01		charpentier
+PWN:carve.v.01		sculpter,graver
+PWN:cassava.n.02		manioc
+PWN:cast.v.07		modéler, mouler
+PWN:cast.v.07		mouler
+PWN:cat.n.01		chat
+PWN:catch.v.04		attraper
+PWN:cattle.n.01		grand bétail, bœuf
+PWN:cause.n.01		cause
+PWN:cave.n.01		grotte
+PWN:center.n.01		milieu,centre
+PWN:certain.a.03		sûr,certain
+PWN:cerumen.n.01		cèrumen, cire d'oreille
+PWN:chain.n.03		chaîne
+PWN:chair.n.01		chaise,siège
+PWN:chameleon.n.03		caméléon
+PWN:change.v.01		changer
+PWN:charcoal.n.01		charbon de bois
+PWN:cheap.a.01		bon marché
+PWN:cheek.n.01		joue
+PWN:cheese.n.01		fromage
+PWN:chew.v.01		mastiquer, macher
+PWN:chicken.n.02		poulet
+PWN:child.n.01		enfant
+PWN:child.n.02		enfant
+PWN:chili.n.02		piment
+PWN:chimney.n.01		cheminée
+PWN:chin.n.01		menton
+PWN:chisel.n.01		burin, ciseau däacier
+PWN:choke.v.04		étouffer
+PWN:choose.v.01		choisir
+PWN:chop.v.01		tailler, couper
+PWN:church.n.02		église
+PWN:cigarette.n.01		cigarette
+PWN:circle.n.03		cercle
+PWN:circumcision.n.03		circumcision
+PWN:citizen.n.01		citoyen, sujet
+PWN:citizenry.n.01		gens
+PWN:citrus.n.01		citrique
+PWN:clavicle.n.01		clavicule
+PWN:claw.n.01		griffe
+PWN:clay.n.01		argile,glaise
+PWN:clean.a.01		propre
+PWN:clear.a.01		évident,net, clair
+PWN:cleave.v.01		fendre
+PWN:climb.v.01		grimper
+PWN:cloak.n.02		cape
+PWN:clock.n.01		horloge,montre
+PWN:close.v.01		fermer
+PWN:cloud.n.02		nuage
+PWN:club.n.03		massue, casse-tête
+PWN:coat.n.01		manteau, pardessus
+PWN:cobbler.n.01		cordonnier
+PWN:cock.n.04		coq
+PWN:cockroach.n.01		cafard, cancrelat
+PWN:coconut.n.02		noix de coco
+PWN:coffee.n.01		café
+PWN:coin.n.01		pièce de monnaie
+PWN:cold.a.01		froid
+PWN:cold.n.01		rhume
+PWN:collar.n.01		col
+PWN:color.n.01		couleur
+PWN:colt.n.01		poulain
+PWN:comb.n.01		peigne
+PWN:commiseration.n.01		pitié, compassion
+PWN:common_eel.n.01		anguille d'eau douce
+PWN:complete.v.01		finir, terminer
+PWN:conceive.v.03		concevoir
+PWN:cone.n.03		cône de sapin, pomme de sapin
+PWN:conserve.v.02		préserver
+PWN:construct.v.01		bâtir,construire
+PWN:contend.v.06		se battre
+PWN:conventicle.n.02		maison de réunion
+PWN:convict.v.01		inculper
+PWN:cook.v.02		cuire
+PWN:cooked.a.01		cuit
+PWN:cookhouse.n.02		cuisine
+PWN:copper.n.01		cuivre
+PWN:cormorant.n.01		cormoran
+PWN:corn.n.01		maïs
+PWN:corner.n.03		coin
+PWN:cornet.n.01		cor, trompette
+PWN:correctly.r.01		juste, correct
+PWN:cotton.n.02		coton
+PWN:cough.v.01		tousser
+PWN:count.v.01		compter
+PWN:country.n.02		pays
+PWN:court.n.08		cour
+PWN:court.n.10		cour
+PWN:cousin.n.01		cousin, cousine
+PWN:cover.v.01		couvrir
+PWN:cow.n.01		vache
+PWN:coyote.n.01		coyote
+PWN:crime.n.01		crime, délit
+PWN:crippled.s.01		boiteux
+PWN:crisscross.n.01		croix
+PWN:crooked.a.01		courbé, tordu
+PWN:crow.n.01		corbeau
+PWN:crowd.n.01		foule
+PWN:cry.v.02		pleurer
+PWN:cultivate.v.02		cultiver
+PWN:cup.n.01		tasse, coupe, gobelet
+PWN:curse.v.03		maudire
+PWN:custom.n.01		coutume
+PWN:cut.v.01		couper
+PWN:damage.v.01		endommager
+PWN:dance.v.02		danser
+PWN:dandruff.n.02		pellicules
+PWN:danger.n.01		danger
+PWN:dare.v.02		oser
+PWN:dark.a.01		foncé, obscure
+PWN:dark.n.01		obscurité
+PWN:daughter.n.01		fille
+PWN:dawn.n.01		aube
+PWN:day.n.01		jour
+PWN:day.n.05		jour
+PWN:dead.a.01		mort(e)
+PWN:deaf.a.01		sourd
+PWN:debt.n.02		dette
+PWN:deception.n.02		tromperie, fraude, triche
+PWN:decide.v.02		juger
+PWN:deep.a.03		profond
+PWN:deer.n.01		daim, cerf, chevreuil
+PWN:defeat.n.01		défaite
+PWN:defend.v.03		défendre
+PWN:defendant.n.01		accusé
+PWN:deity.n.01		Dieu
+PWN:deny.v.04		nier
+PWN:depository_financial_institution.n.01		banque
+PWN:descend.v.01		descendre
+PWN:descendants.n.01		descendants
+PWN:desire.v.01		vouloir,désirer
+PWN:destroy.v.02		détruire
+PWN:devil.n.02		démon
+PWN:dew.n.01		rosée
+PWN:die.v.01		mourir
+PWN:difficult.a.01		difficile
+PWN:dig.v.01		creuser
+PWN:dinner.n.01		dîner
+PWN:diplopoda.n.01		mille-pattes
+PWN:dirty.a.01		sale,crasseux
+PWN:disappear.v.01		disparaître
+PWN:disease.n.01		maladie
+PWN:dish.n.01		plat, assiette
+PWN:ditch.n.01		fossé
+PWN:dive.v.03		plonger
+PWN:divide.v.01		diviser
+PWN:divorce.n.01		divorce
+PWN:doctor.n.01		médecin
+PWN:dog.n.01		chien
+PWN:dolphin.n.02		dauphin
+PWN:domestic_ass.n.01		âne
+PWN:domestic_fowl.n.01		poule
+PWN:doorjamb.n.01		pilier
+PWN:doubt.n.01		doute
+PWN:dough.n.01		pâte
+PWN:dove.n.01		colombe
+PWN:down.r.01		en bas, là-bas
+PWN:draw.v.07		écoper
+PWN:dream.v.02		rêver
+PWN:dress.n.01		robe (de femme)
+PWN:drink.v.01		boire
+PWN:drip.n.01		bave
+PWN:drip.v.01		s'égoutter
+PWN:drive.v.01		conduire
+PWN:drivel.v.01		baver
+PWN:driver's_license.n.01		permis de conduire
+PWN:drop.v.01		laisser tomber
+PWN:drown.v.03		noyé(e)
+PWN:drum.n.01		tambour
+PWN:dry.a.01		sec
+PWN:duck.n.01		canard
+PWN:dumb.s.04		muet
+PWN:dust.n.01		poussière
+PWN:dye.v.01		teindre
+PWN:eagle.n.01		aigle
+PWN:ear.n.01		oreille
+PWN:earlier.r.01		avant, devant
+PWN:earlobe.n.01		lobe de l'oreille
+PWN:early.r.03		tôt,de bonne heure
+PWN:earring.n.01		boucle d'oreille
+PWN:earthquake.n.01		tremblement de terre, séisme
+PWN:east.n.01		est,orient
+PWN:eat.v.01		manger
+PWN:edge.n.06		bord, orée
+PWN:egg.n.02		oeuf
+PWN:egg_yolk.n.01		jaune d'oeuf
+PWN:eight.s.01		huit
+PWN:elbow.n.01		coude
+PWN:election.n.01		élection
+PWN:electricity.n.02		électricité, courant
+PWN:elementary.s.01		facile
+PWN:elephant.n.01		éléphant
+PWN:eleven.s.01		onze
+PWN:elf.n.01		fée
+PWN:elk.n.01		élan, orignal
+PWN:elongate.v.01		étendre
+PWN:ember.n.01		braise
+PWN:embrace.v.02		embrasser
+PWN:empty.a.01		vide
+PWN:enchantress.n.02		sorcier, sorcière
+PWN:end.n.03		fin
+PWN:end.n.09		bout, extrêmité
+PWN:end.v.01		cesser, s'arrêter
+PWN:enough.r.01		assez
+PWN:enter.v.01		entrer
+PWN:entirely.r.02		seul
+PWN:estimate.v.01		deviner
+PWN:evening.n.01		soir
+PWN:ewe.n.03		brebis
+PWN:exclaim.v.01		crier
+PWN:exit.v.01		s'en aller,partir
+PWN:exit.v.01		sortir
+PWN:expensive.a.01		cher
+PWN:explain.v.01		expliquer
+PWN:eye.n.01		oeil
+PWN:eyebrow.n.01		sourcil
+PWN:eyelash.n.01		cil
+PWN:eyelid.n.01		paupière
+PWN:fabric.n.01		étoffe,tissu
+PWN:face.n.01		visage
+PWN:fail.v.03		trahir
+PWN:faineant.s.01		paresseux
+PWN:faithful.a.01		fidèle
+PWN:fall.n.01		automne
+PWN:fall.v.01		tomber
+PWN:family.n.02		famille
+PWN:famine.n.02		famine, disette
+PWN:fan.n.01		éventail
+PWN:fan.v.03		s'éventer
+PWN:far.r.02		loin
+PWN:farmer.n.01		fermier, paysan
+PWN:fart.v.01		péter
+PWN:fast.r.01		vite, rapide
+PWN:fast.v.01		jeûner
+PWN:fat.n.01		graisse, le gras
+PWN:father.n.01		père
+PWN:fatherland.n.01		patrie
+PWN:fathom.n.01		brasse, toise
+PWN:faucet.n.01		robinet
+PWN:fault.n.06		faute
+PWN:faulty.s.02		faux
+PWN:fear.n.01		peur, crainte
+PWN:feather.n.01		plume
+PWN:feel.v.09		tater, palper
+PWN:felt.n.01		feutre
+PWN:female.a.01		femelle, feminin
+PWN:female.s.03		femelle
+PWN:female_child.n.01		fille
+PWN:fence.n.01		clôture
+PWN:fetid.s.01		puant
+PWN:fever.n.01		fièvre
+PWN:few.a.01		peu de
+PWN:field.n.01		champ
+PWN:fifteen.s.01		quinze
+PWN:fig.n.04		figue
+PWN:fin.n.06		nageoire
+PWN:find.v.03		trouver
+PWN:fine.n.01		amende
+PWN:finger.n.01		doigt
+PWN:fingernail.n.01		ongle
+PWN:fir.n.02		sapin
+PWN:fire.n.03		feu
+PWN:fire.n.03		flamme
+PWN:fireplace.n.01		foyer
+PWN:firewood.n.01		bois (pour le feu), bûches
+PWN:first.a.01		premier
+PWN:fish.n.01		poisson
+PWN:fisherman.n.01		pêcheur
+PWN:fishhook.n.01		hameçon
+PWN:fishing_line.n.01		ligne (pour la pêche)
+PWN:fishnet.n.01		filet de pêche
+PWN:five.s.01		cinq
+PWN:flat.s.01		plat
+PWN:flay.v.01		écorcher
+PWN:flea.n.01		puce
+PWN:flee.v.01		s'enfuir
+PWN:flesh.n.01		chair
+PWN:flex.v.05		plier
+PWN:flip.v.06		jeter
+PWN:float.v.02		flotter
+PWN:floor.n.01		plancher, sol
+PWN:flour.n.01		farine
+PWN:flower.n.02		fleur
+PWN:flute.n.01		flûte
+PWN:fly.n.01		mouche
+PWN:fly.v.01		voler
+PWN:foam.n.01		écume, mousse
+PWN:foe.n.02		ennemi
+PWN:fog.n.01		brume, brouillard
+PWN:fold.v.01		plier
+PWN:follow.v.01		suivre
+PWN:following.s.02		prochain
+PWN:food.n.02		nourriture
+PWN:foot.n.01		pied
+PWN:footprint.n.01		empreinte de pied
+PWN:forbid.v.01		interdire
+PWN:forest.n.01		bois, forêt
+PWN:forge.v.01		forger
+PWN:forget.v.02		oublier
+PWN:forgive.v.01		pardonner
+PWN:fork.n.01		fourchette
+PWN:fortress.n.01		forteresse
+PWN:four.s.01		quatre
+PWN:fox.n.01		renard
+PWN:fragrant.a.01		odorant, parfumé
+PWN:freeman.n.01		homme libre
+PWN:freeze.v.02		geler
+PWN:frequently.r.01		souvent
+PWN:friday.n.01		vendredi
+PWN:friend.n.01		ami
+PWN:frog.n.01		grenouille
+PWN:fruit.n.01		fruit
+PWN:fry.v.02		rôtir, frire
+PWN:full.a.01		plein, rempli
+PWN:fur.n.03		fourrure
+PWN:furrow.n.01		sillon
+PWN:gain.v.08		gagner
+PWN:garden.n.03		jardin
+PWN:gate.n.01		porte
+PWN:gather.v.01		recueillir
+PWN:get.v.01		obtenir
+PWN:ghost.n.03		fantôme, esprit, revenant
+PWN:gill.n.04		ouïes
+PWN:gingiva.n.01		gencive
+PWN:girl.n.01		jeune fille
+PWN:give.v.03		donner
+PWN:glass.n.01		verre
+PWN:glove.n.02		gant
+PWN:glowworm.n.01		verluisant, luciole
+PWN:glue.n.01		colle
+PWN:go_home.v.01		aller à la maison
+PWN:goat.n.01		chèvre
+PWN:goiter.n.01		goître
+PWN:gold.n.03		or
+PWN:good.a.01		bon
+PWN:good_fortune.n.01		bonne chance, bonheur
+PWN:goose.n.01		oie
+PWN:gourd.n.01		calebasse
+PWN:govern.v.03		régner, gouverner
+PWN:government.n.01		gouvernement
+PWN:grain.n.08		grain
+PWN:grandchild.n.01		petit fils
+PWN:granddaughter.n.01		petite-fille
+PWN:grandfather.n.01		grand-père
+PWN:grandma.n.01		grand-mère
+PWN:grandparent.n.01		grand-parents
+PWN:grandson.n.01		petit-fils
+PWN:grape.n.01		raisin
+PWN:grasp.v.01		saisir, attraper
+PWN:grass.n.01		herbe
+PWN:grass_skirt.n.01		jupe en rafia
+PWN:grasshopper.n.01		sauterelle
+PWN:grave.n.02		tombeau
+PWN:green.a.03		vert
+PWN:green.s.01		vert
+PWN:grief.n.02		douleur, deuil
+PWN:grind.v.05		moudre
+PWN:groan.v.01		grogner
+PWN:grow.v.03		grandir, croitre, pousser
+PWN:guard.n.01		garde,sentinelle
+PWN:guest.n.01		invité
+PWN:guilty.a.01		coupable
+PWN:gull.n.02		mouette
+PWN:gun.n.01		fusil, canon
+PWN:hammer.n.02		marteau
+PWN:hammock.n.02		hamac
+PWN:hand.n.01		main
+PWN:hang.v.02		suspendre, accrocher, pendre
+PWN:happy.a.01		joyeux, heureux
+PWN:hard.a.03		dur
+PWN:hare.n.01		lièvre
+PWN:hark_back.v.01		revenir
+PWN:hate.v.01		haïr, détester
+PWN:have.v.01		avoir
+PWN:hawk.n.01		faucon
+PWN:hay.n.01		foin
+PWN:head.n.01		tête
+PWN:head_covering.n.01		voile
+PWN:head_louse.n.01		pou
+PWN:headdress.n.01		couronne
+PWN:headman.n.02		chef
+PWN:healthy.a.01		santé, en bonne santé
+PWN:hear.v.01		entendre
+PWN:heart.n.02		coeur
+PWN:heaven.n.02		ciel, cieux
+PWN:heavy.a.01		lourd
+PWN:heel.n.02		talon
+PWN:hell.n.04		enfer
+PWN:helmet.n.02		casque
+PWN:help.v.01		aider
+PWN:hen.n.01		poule
+PWN:herder.n.02		berger
+PWN:here.r.01		ici
+PWN:heron.n.02		héron
+PWN:hiccup.v.01		hoqueter
+PWN:hide.n.02		peau, pelage
+PWN:hide.v.01		cacher,dissimuler
+PWN:high_tide.n.01		marée haute
+PWN:hill.n.01		montagne, colline
+PWN:hip.n.01		hanche
+PWN:hire.v.01		louer
+PWN:hoe.n.01		pioche, houe
+PWN:hog.n.03		cochon, porc
+PWN:hold.v.02		tenir
+PWN:hole.n.01		trou
+PWN:hollow.v.02		creuser
+PWN:holy.a.01		sacré, saint
+PWN:honey.n.01		miel
+PWN:hook.n.05		crochet
+PWN:hope.v.02		espoir
+PWN:horn.n.02		corne
+PWN:horse.n.01		cheval
+PWN:hospital.n.02		hôpital
+PWN:host.n.01		hôte
+PWN:hot.a.01		chaud
+PWN:hour.n.01		heure
+PWN:house.n.01		maison
+PWN:hovel.n.01		hutte
+PWN:howl.v.02		hurler
+PWN:hundred.s.01		cent
+PWN:hungry.a.01		faim
+PWN:hunt.v.01		chasser
+PWN:husband.n.01		homme marié
+PWN:husband.n.01		mari
+PWN:ice.n.01		glace
+PWN:idea.n.01		idée
+PWN:idol.n.01		idole
+PWN:ignite.v.01		allumer
+PWN:ill.a.01		malade
+PWN:imitate.v.01		imiter
+PWN:immediately.r.01		tout de suite
+PWN:incrimination.n.01		blâme
+PWN:indicate.v.02		montrer
+PWN:injection.n.03		piqûre, injection
+PWN:injure.v.01		blesser
+PWN:innocent.a.01		innocent
+PWN:insect.n.01		insecte
+PWN:instrument.n.02		outil
+PWN:intention.n.03		but
+PWN:intestine.n.01		intestins, boyaux
+PWN:intoxicated.a.01		ivre
+PWN:invite.v.02		inviter
+PWN:iron.n.01		fer
+PWN:island.n.01		île
+PWN:itch.n.03		démangeaison
+PWN:jaguar.n.01		jaguar
+PWN:jaw.n.01		machoire
+PWN:jealousy.n.01		envie, jalousie
+PWN:jewel.n.01		bijou, joyau
+PWN:join.v.02		unir
+PWN:judge.n.01		juge
+PWN:judgment.n.03		jugement
+PWN:jump.v.01		sauter
+PWN:kangaroo.n.01		kangourou
+PWN:keep.v.03		garder,retenir
+PWN:kettle.n.01		bouilloire
+PWN:key.n.01		clef
+PWN:kick.v.03		donner un coup de pied
+PWN:kid.n.05		chevreau
+PWN:kidney.n.01		rein
+PWN:kill.v.10		tuer
+PWN:kin.n.02		tribu,clan
+PWN:king.n.01		roi
+PWN:knead.v.01		pétrir
+PWN:knee.n.01		genou
+PWN:kneel.v.01		s'agenouiller
+PWN:knife.n.01		couteau
+PWN:knife.n.01		couteau (de table)
+PWN:knot.n.02		nœud
+PWN:know.v.01		savoir
+PWN:ladder.n.01		échelle
+PWN:lagoon.n.01		lagune
+PWN:lake.n.01		lac
+PWN:lamb.n.01		agneau
+PWN:land.n.02		terre, sol
+PWN:land.n.04		terre
+PWN:land.v.06		atterrir
+PWN:language.n.01		langue, langage
+PWN:larch.n.02		mélèze
+PWN:large.a.01		grand, gros
+PWN:lasso.n.02		lasso
+PWN:last.a.02		dernier
+PWN:last.v.01		durer
+PWN:late.r.01		tard
+PWN:laugh.v.01		rire
+PWN:law.n.01		loi
+PWN:lead.n.02		plomb
+PWN:lead.v.01		mener, conduire
+PWN:learn.v.01		apprendre
+PWN:leather.n.01		cuir
+PWN:left.r.01		gauche
+PWN:leg.n.02		jambe
+PWN:lend.v.02		prêter
+PWN:let_go_of.v.01		libérer, lâcher
+PWN:letter.n.01		lettre
+PWN:liberate.v.03		libérer
+PWN:license_plate.n.01		plaque d'immatriculation
+PWN:lick.v.02		lécher
+PWN:lie.v.05		mentir
+PWN:lie_down.v.01		se coucher
+PWN:light.a.01		léger
+PWN:light.a.06		clair
+PWN:lightning.n.01		éclair
+PWN:limp.v.01		boiter
+PWN:line.n.04		ligne, file
+PWN:linen.n.01		lin
+PWN:lion.n.01		lion
+PWN:lip.n.01		lèvre
+PWN:listen.v.01		écouter
+PWN:little_brother.n.01		frère cadet
+PWN:little_sister.n.01		soeur cadette
+PWN:liver.n.01		foie
+PWN:livestock.n.01		bétail, bestiaux
+PWN:lizard.n.01		lézard
+PWN:lock.n.01		serrure
+PWN:long.a.02		long
+PWN:long.r.01		longtemps
+PWN:look.v.01		regarder
+PWN:look.v.02		sembler
+PWN:loom.n.01		métier â tisser
+PWN:loot.n.01		butin, proie
+PWN:lord.n.03		noble
+PWN:lose.v.05		perdre
+PWN:loudly.r.01		bruyant
+PWN:love.v.03		aimer
+PWN:low.r.01		bas
+PWN:low_tide.n.01		marée basse
+PWN:luminosity.n.01		lumière
+PWN:lunch.n.01		déjeuner, repas de midi
+PWN:lung.n.01		poumon
+PWN:machine.n.01		machine
+PWN:magic.n.01		magie, sorcellerie
+PWN:mail.n.02		courrier, poste
+PWN:mainland.n.01		continent
+PWN:make.v.49		uriner
+PWN:male.a.01		mâle, masculin
+PWN:male.s.03		mâle
+PWN:male_child.n.01		garçon
+PWN:man.n.01		homme
+PWN:manger.n.01		auge
+PWN:manner.n.01		façon,maniere
+PWN:many.a.01		beaucoup
+PWN:mare.n.01		jument
+PWN:marketplace.n.02		marché
+PWN:marriage.n.03		mariage, noces
+PWN:marry.v.01		se marier, épouser
+PWN:mason.n.04		maçon
+PWN:mast.n.01		mât
+PWN:mat.n.01		paillet
+PWN:match.n.01		allumette
+PWN:mattress.n.01		matelas
+PWN:mead.n.03		hydromel
+PWN:meal.n.01		repas
+PWN:measure.v.01		mesurer
+PWN:meat.n.01		viande
+PWN:medicine.n.02		remède, médecine, médicament
+PWN:meet.v.09		rencontrer
+PWN:merchant.n.01		marchand, commerçant
+PWN:milk.n.01		lait
+PWN:milk.v.01		traire
+PWN:mill.n.04		moulin
+PWN:mind.n.01		pensée, avis
+PWN:minister.n.02		ministre
+PWN:mirror.n.01		miroir, glace
+PWN:misfortune.n.02		malheur, malchance, infortune
+PWN:miss.v.07		râter, manquer
+PWN:mistake.n.01		erreur,faute
+PWN:mix.v.04		mêler, mélanger
+PWN:molar.n.01		molaire
+PWN:monday.n.01		lundi
+PWN:money.n.01		argent
+PWN:monkey.n.01		singe
+PWN:moon.n.01		lune
+PWN:more.a.02		plus, encore plus
+PWN:morning.n.01		matin,matinée
+PWN:mortar.n.02		mortier
+PWN:mortar.n.03		mortier
+PWN:mosque.n.01		mosquée
+PWN:mosquito.n.01		moustique
+PWN:mother.n.01		mère
+PWN:motor.n.01		moteur
+PWN:motorcycle.n.01		moto, motocycle
+PWN:mouth.n.01		bouche
+PWN:move.v.02		mouvoir,bouger
+PWN:movie.n.01		film
+PWN:mow.v.01		tondre
+PWN:mud.n.01		boue
+PWN:mule.n.01		mulet
+PWN:mumble.v.01		marmonner, bredouiller
+PWN:murder.n.01		meurtre
+PWN:mushroom.n.02		champignon
+PWN:music.n.04		musique
+PWN:nail.n.02		clou, ongle
+PWN:name.n.01		nom
+PWN:name.v.01		appeler
+PWN:nape.n.01		nuque
+PWN:narrow.a.01		étroit
+PWN:navel.n.01		nombril
+PWN:near.r.01		près
+PWN:necessity.n.01		besoin,nécessité
+PWN:neck.n.01		cou
+PWN:necklace.n.01		collier
+PWN:needle.n.03		aiguille
+PWN:neighbor.n.01		voisin
+PWN:nephew.n.01		neveu
+PWN:nest.n.01		nid
+PWN:nettle.n.01		ortie
+PWN:never.r.01		jamais
+PWN:new.a.01		nouveau
+PWN:newspaper.n.01		journal
+PWN:niece.n.01		nièce
+PWN:night.n.01		nuit
+PWN:nine.s.01		neuf
+PWN:nipple.n.01		bout du sein (+hum), mamelle (+hum) téton (-hum),
+PWN:nit.n.02		lente
+PWN:no.r.03		non
+PWN:noise.n.01		son,bruit
+PWN:noon.n.01		midi
+PWN:north.n.03		nord
+PWN:nose.n.01		nez
+PWN:nostril.n.01		narine
+PWN:not.r.01		ne... pas
+PWN:now.r.04		maintenant
+PWN:number.n.02		nombre, numéro
+PWN:nurse.n.01		infirmière
+PWN:nut.n.01		noix
+PWN:oak.n.02		chêne
+PWN:oar.n.01		rame
+PWN:oat.n.01		avoine
+PWN:oath.n.03		serment
+PWN:obey.v.01		obéir
+PWN:obscure.s.01		obscur
+PWN:ocean.n.01		océan
+PWN:oil.n.01		huile
+PWN:ointment.n.01		pommade, onguent, crème
+PWN:old.a.01		vieux,âgé
+PWN:old_man.n.01		vieillard
+PWN:old_woman.n.01		vieillarde
+PWN:old_world_buffalo.n.01		bison, buffle
+PWN:old_world_vulture.n.01		vautour
+PWN:olive.n.01		olive
+PWN:omen.n.01		présage, augure
+PWN:one-half.n.01		moitié
+PWN:one.s.01		un
+PWN:open.v.01		ouvrir
+PWN:opossum.n.02		opossum
+PWN:order.v.01		commander, ordonner
+PWN:orphan.n.01		orphelin, orpheline
+PWN:other.a.01		autre
+PWN:outrigger.n.01		balancier
+PWN:oven.n.01		four
+PWN:overlord.n.01		maître
+PWN:owe.v.03		devoir
+PWN:owl.n.01		hibou
+PWN:own.v.01		posséder
+PWN:ox.n.01		boeuf
+PWN:paddle.n.04		pagaie
+PWN:paddy.n.02		rizière
+PWN:padlock.n.01		cadenas
+PWN:pain.n.03		douleur
+PWN:paint.n.01		peinture
+PWN:paint.v.02		peindre
+PWN:pair.n.01		couple, paire
+PWN:palm.n.01		paume
+PWN:palm.n.03		palmier
+PWN:pan.n.01		poêle
+PWN:paper.n.01		papier
+PWN:parent.n.01		parents
+PWN:parrot.n.01		perroquet
+PWN:part.n.02		morceau, partie
+PWN:part.n.03		morceau, pièce
+PWN:partake.v.02		partager
+PWN:pasture.n.01		pâturage, pâture
+PWN:path.n.02		sentier
+PWN:pay.v.01		payer
+PWN:peace.n.01		paix
+PWN:peak.n.04		haut,sommet
+PWN:peg.n.01		sardine
+PWN:pen.n.01		plume
+PWN:penis.n.01		pénis
+PWN:pepper.n.03		poivre
+PWN:perjury.n.01		parjure
+PWN:permit.v.01		permettre
+PWN:person.n.01		personne, être humain
+PWN:pestle.n.03		pilon
+PWN:petroleum.n.01		pétrole
+PWN:pick_up.v.02		ramasser
+PWN:pile_up.v.02		entasser
+PWN:pill.n.02		comprimé, cachet
+PWN:pillow.n.01		oreiller
+PWN:pinch.v.01		pincer
+PWN:pine.n.01		pin
+PWN:pipe.n.01		pipe
+PWN:pitcher.n.02		cruche, broc
+PWN:pitchfork.n.01		fourche
+PWN:plain.n.01		plaine, campagne
+PWN:plaintiff.n.01		plaignant
+PWN:plant.n.02		plante
+PWN:plant.v.01		planter
+PWN:plastic.n.01		plastique
+PWN:plate.n.04		assiette
+PWN:play.v.05		jouer
+PWN:plot.n.01		conspiration,complot
+PWN:plow.v.01		labourer
+PWN:pocket.n.01		poche
+PWN:poet.n.01		poète
+PWN:pointed.a.01		pointu
+PWN:poison.n.01		poison
+PWN:pole.n.01		poteau, poutre
+PWN:police.n.01		police
+PWN:poncho.n.01		poncho
+PWN:poor.a.02		pauvre
+PWN:populate.v.01		habiter, demeurer
+PWN:port.n.01		port
+PWN:position.n.01		endroit,place, lieu
+PWN:postage.n.02		timbre
+PWN:postcard.n.01		carte postale
+PWN:pot.n.01		casserole, marmite
+PWN:potato.n.01		pomme de terre
+PWN:potter.n.01		potier
+PWN:pour.v.01		verser
+PWN:praise.n.01		louange, éloge
+PWN:prawn.n.01		crevette
+PWN:pray.v.01		prier
+PWN:preach.v.01		prêcher
+PWN:precipice.n.01		falaise
+PWN:pregnant.a.01		enceinte
+PWN:president.n.03		président
+PWN:press.v.01		presser, appuyer
+PWN:prevent.v.02		empêcher
+PWN:price.n.02		prix
+PWN:priest.n.02		prêtre,curé
+PWN:prison.n.01		prison
+PWN:prisoner.n.01		prisonnier, captif
+PWN:produce.v.02		faire
+PWN:promise.v.01		promettre
+PWN:prostitute.n.01		prostituée
+PWN:proud.a.01		fier
+PWN:pubic_hair.n.01		poil pubien
+PWN:pull.v.01		tirer
+PWN:punishment.n.01		punition
+PWN:pursue.v.02		poursuivre
+PWN:pus.n.02		pus
+PWN:push.v.01		pousser
+PWN:put.v.01		mettre
+PWN:quail.n.02		caille
+PWN:quarrel.n.01		lutte, querelle
+PWN:queen.n.02		reine
+PWN:quiet.a.02		tranquille, silencieux, calme
+PWN:rabbit.n.01		lapin
+PWN:raccoon.n.02		raton laveur
+PWN:radio_receiver.n.01		radio
+PWN:raft.n.01		radeau
+PWN:rafter.n.01		poutre
+PWN:rag.n.01		mouchoir,chiffon
+PWN:rain.n.01		pluie
+PWN:rainbow.n.01		arc-en-ciel
+PWN:raise.v.02		lever, élever
+PWN:rake.n.03		râteau
+PWN:ram.n.05		bélier
+PWN:rape.n.03		viol
+PWN:rat.n.01		souris, rat
+PWN:rattle.n.02		hochet, maracas
+PWN:raw.a.03		cru
+PWN:razor.n.01		rasoir
+PWN:read.v.01		lire
+PWN:ready.a.01		prêt
+PWN:red.s.01		rouge
+PWN:reef.n.01		récif
+PWN:refund.v.01		rendre
+PWN:refuse.v.01		refuser
+PWN:relative.n.01		parenté
+PWN:religion.n.02		religion
+PWN:remainder.n.01		reste
+PWN:remember.v.01		se souvenir
+PWN:repent.v.02		regretter
+PWN:rescue.v.01		sauver
+PWN:rest.v.05		se reposer
+PWN:rib.n.02		côte
+PWN:rice.n.02		riz
+PWN:rich.a.01		riche
+PWN:ride.v.01		chevaucher
+PWN:ridge.n.06		poutre de faïte
+PWN:right.r.04		droite
+PWN:ring.n.08		bague, anneau
+PWN:ripe.a.01		mûr
+PWN:rise.v.16		monter, se lever
+PWN:road.n.01		route
+PWN:rock.n.01		pierre, roc, rocher
+PWN:roll.v.14		rouler
+PWN:roof.n.01		toit
+PWN:room.n.01		pièce, chambre
+PWN:root.n.01		racine
+PWN:rope.n.01		corde
+PWN:rotten.s.03		pourri
+PWN:rough.a.01		rugueux
+PWN:round.a.01		rond
+PWN:row.v.01		ramer
+PWN:rub.v.01		frotter
+PWN:rub.v.03		gratter
+PWN:rudder.n.02		gouvernail
+PWN:rug.n.01		tapis
+PWN:run.v.01		courir
+PWN:run.v.06		couler
+PWN:rush.v.04		se dépêcher
+PWN:rye.n.02		seigle
+PWN:sacrifice.n.04		sacrifice, offrande
+PWN:sail.n.01		voile
+PWN:sail.v.03		naviguer
+PWN:salt.n.02		sel
+PWN:salty.s.03		salé
+PWN:same.a.01		même
+PWN:sand.n.01		sable
+PWN:sap.n.01		sève
+PWN:saturday.n.01		samedi
+PWN:saucer.n.02		soucoupe
+PWN:sausage.n.01		saucisse
+PWN:savanna.n.01		savane
+PWN:saw.n.02		scie
+PWN:scale.n.10		écaille
+PWN:scapula.n.01		omoplate
+PWN:scar.n.01		cicatrice
+PWN:school.n.02		école
+PWN:scorpion.n.03		scorpion
+PWN:scrape.v.01		gratter
+PWN:screw.n.04		vis
+PWN:screwdriver.n.01		tournevis
+PWN:sculptor.n.01		sculpteur
+PWN:scythe.n.01		faux,faucille
+PWN:sea.n.01		mer
+PWN:search.v.01		chercher
+PWN:season.n.02		saison
+PWN:second.s.01		deuxième
+PWN:secret.s.01		secret
+PWN:see.v.01		voir
+PWN:seed.n.02		graine, semence
+PWN:sell.v.01		vendre
+PWN:send.v.01		envoyer
+PWN:sentence.v.01		condamner
+PWN:separate.v.02		séparer
+PWN:servant.n.01		domestique, serviteur
+PWN:seven.s.01		sept
+PWN:sew.v.01		coudre
+PWN:shadow.n.01		ombre
+PWN:shake.v.01		secouer,agiter
+PWN:shallow.a.01		peu profond
+PWN:shame.n.01		honte
+PWN:shark.n.01		requin
+PWN:sharp.a.09		tranchant, aiguisé
+PWN:shears.n.01		ciseaux
+PWN:sheep.n.01		mouton
+PWN:shelf.n.01		étagère
+PWN:shell.n.10		coquille, coquillage
+PWN:shield.n.02		bouclier
+PWN:shine.v.02		briller
+PWN:ship.n.01		navire,bateau
+PWN:shirt.n.01		chemise
+PWN:shoe.n.01		chaussure, soulier
+PWN:shoot.v.01		tirer,fusiller
+PWN:shop.n.01		boutique, magasin
+PWN:shore.n.01		côte, rivage, bord,
+PWN:short.a.02		court
+PWN:shoulder.n.01		épaule
+PWN:shovel.n.01		pelle
+PWN:shriek.v.01		crier, hurler
+PWN:shudder.v.02		trembler, frissonner
+PWN:sibling.n.01		frère/soeur
+PWN:side.n.01		côté
+PWN:sift.v.02		passer
+PWN:silk.n.01		soie
+PWN:silver.n.01		argent
+PWN:similar.a.01		comme,semblable
+PWN:simuliidae.n.01		moucheron
+PWN:sing.v.02		chanter
+PWN:sink.n.01		évier, lavabo
+PWN:sink.v.01		couler
+PWN:sister.n.01		soeur
+PWN:sit_down.v.01		être assis, asseoir
+PWN:six.s.01		six
+PWN:skid.v.04		glisser
+PWN:skin.v.04		peler,éplucher
+PWN:skirt.n.02		jupe
+PWN:skull.n.01		crâne
+PWN:sky.n.01		ciel
+PWN:slash.v.01		abattre
+PWN:slave.n.01		esclave
+PWN:sled.n.01		traîneau, luge
+PWN:sleep.v.01		dormir
+PWN:sleep_together.v.01		faire l'amour, copuler
+PWN:sling.n.04		fronde
+PWN:slowly.r.01		lent
+PWN:small.a.01		petit
+PWN:smell.v.01		sentir
+PWN:smell.v.02		sentir
+PWN:smile.v.01		sourire
+PWN:smoke.n.02		fumée
+PWN:smoke.v.01		fumer
+PWN:smooth.a.01		lisse
+PWN:snail.n.01		escargot
+PWN:snake.n.01		serpent
+PWN:sneeze.v.01		éternuer
+PWN:sniff.v.01		renifler
+PWN:snog.v.01		baiser,embrasser
+PWN:snore.v.01		ronfler
+PWN:snot.n.02		morve, mucus
+PWN:snow.n.01		neige
+PWN:snowshoe.n.01		botte de neige
+PWN:snuff_out.v.02		éteindre
+PWN:soap.n.01		savon
+PWN:soft.a.01		doux
+PWN:soldier.n.01		soldat
+PWN:some.a.01		quelques
+PWN:sometimes.r.01		parfois, quelquefois
+PWN:son.n.01		fils
+PWN:song.n.01		chanson
+PWN:soon.r.01		bientôt
+PWN:sore.n.01		blessure, plaie
+PWN:sorghum.n.01		mil, millet
+PWN:soul.n.01		âme, esprit
+PWN:soup.n.01		soupe, potage
+PWN:sour.a.02		acide, aigre
+PWN:south.n.03		sud
+PWN:sow.n.01		truie
+PWN:sow.v.01		semer
+PWN:spade.n.02		bêche
+PWN:speak.v.03		parler
+PWN:spear.n.01		javeline, lance
+PWN:spectacles.n.01		lunettes
+PWN:spider.n.01		araignée
+PWN:spider_web.n.02		toile d'araignée
+PWN:spin.v.06		filer
+PWN:spinal_column.n.01		épine dorsale
+PWN:spindle.n.04		fuseau
+PWN:spit.v.01		cracher
+PWN:spleen.n.01		rate
+PWN:spoon.n.01		cuillère
+PWN:spring.n.01		printemps
+PWN:sprinkle.v.02		éclabousser
+PWN:square.n.04		carré
+PWN:squash.n.02		courge, potiron, citrouille
+PWN:squat.v.01		s'accroupir
+PWN:squeeze.v.02		presser
+PWN:squirrel.n.01		écureuil
+PWN:stall.n.01		étable
+PWN:stallion.n.01		étalon
+PWN:stand.v.01		se tenir debout
+PWN:star.n.03		étoile
+PWN:statue.n.01		statue
+PWN:stay.v.04		rester, demeurer,attendre
+PWN:steal.v.01		voler, dérober
+PWN:steam.n.01		vapeur
+PWN:stepdaughter.n.01		belle-fille
+PWN:stepfather.n.01		beau-père
+PWN:stepmother.n.01		belle-mère
+PWN:stepson.n.01		beau-fils
+PWN:stingray.n.01		raie
+PWN:stingy.a.01		radin,avare
+PWN:stocking.n.01		bas, chaussette
+PWN:stomach.n.01		estomac, (mal au) ventre
+PWN:stool.v.04		déféquer
+PWN:storm.n.01		orage, tempête
+PWN:stove.n.01		four
+PWN:straight.a.02		droit
+PWN:straight_pin.n.01		épingle
+PWN:stranger.n.02		étranger
+PWN:stream.n.01		fleuve, rivière, ruisseau
+PWN:street.n.01		rue
+PWN:strike.v.01		frapper, battre
+PWN:strong.a.01		fort,puissant
+PWN:student.n.01		élève
+PWN:study.v.05		étudier
+PWN:stump.n.01		souche d'arbre
+PWN:stupid.a.01		bête, stupide
+PWN:suck.v.01		sucer, téter
+PWN:sugar.n.01		sucre
+PWN:sugarcane.n.01		canne à sucre
+PWN:summer.n.01		été
+PWN:sun.n.01		soleil
+PWN:sunday.n.01		dimanche
+PWN:supper.n.01		souper, repas du soir
+PWN:surrender.v.01		céder, se rendre
+PWN:suspect.v.01		soupçonner
+PWN:swallow.v.01		avaler
+PWN:swamp.n.01		marais, marécage
+PWN:swear.v.03		jurer
+PWN:sweat.v.01		transpirer, suer
+PWN:sweep.v.06		balayer
+PWN:sweet.a.01		sucré, doux
+PWN:sweet.n.03		confiserie, sucrerie, bonbon
+PWN:sweet_potato.n.02		patate douce
+PWN:swelling.n.01		bosse, enflure
+PWN:swim.v.01		nager
+PWN:swing_around.v.01		se retourner
+PWN:sword.n.01		épée
+PWN:table.n.02		table
+PWN:tail.n.01		queue
+PWN:tailor.n.01		tailleur
+PWN:take.v.04		prendre
+PWN:tall.a.01		grand
+PWN:tan.v.01		tanner
+PWN:tapir.n.01		tapir
+PWN:taste.v.01		goûter, avoir un goût...
+PWN:tattoo.n.02		tatouage
+PWN:tax.n.01		taxe,impôt
+PWN:tea.n.01		thé
+PWN:teach.v.01		enseigner
+PWN:teacher.n.01		professeur
+PWN:tear.n.01		larme
+PWN:tear.v.01		déchirer
+PWN:telephone.n.01		téléphone
+PWN:television_receiver.n.01		télé
+PWN:tell.v.03		raconter
+PWN:temple.n.01		temple
+PWN:temple.n.02		tempes
+PWN:ten.s.01		dix
+PWN:tendon.n.01		tendon
+PWN:tent.n.01		tente
+PWN:termite.n.01		termites
+PWN:testis.n.01		testicule
+PWN:thatch.n.02		toit de chaume
+PWN:there.r.01		là, là-bas
+PWN:thick.a.01		épais, gros
+PWN:thief.n.01		voleur
+PWN:thigh.n.01		cuisse
+PWN:thin.a.01		mince
+PWN:thing.n.12		chose
+PWN:think.v.02		croire, penser
+PWN:think.v.03		penser
+PWN:third.s.01		troisième
+PWN:thorax.n.02		poitrine
+PWN:thousand.s.01		mille
+PWN:thrash.v.06		battre le ble
+PWN:thread.n.01		fil
+PWN:threaten.v.02		menacer
+PWN:three.s.01		trois
+PWN:threshing_floor.n.01		aire de battage
+PWN:thrice.r.01		trois fois
+PWN:throat.n.01		gorge
+PWN:through.r.01		par
+PWN:thumb.n.01		pouce
+PWN:thump.v.03		marteler de ses poing
+PWN:thunder.n.02		tonnerre
+PWN:thunderbolt.n.01		foudre
+PWN:thursday.n.01		jeudi
+PWN:tick.n.02		tique
+PWN:tide.n.01		marée
+PWN:tie.v.01		lier
+PWN:time.n.05		heure
+PWN:tin_plate.n.01		étain
+PWN:tired.a.01		fatigué
+PWN:tobacco.n.01		tabac
+PWN:today.r.02		aujourd'hui
+PWN:toe.n.01		orteil, doigt de pied
+PWN:toilet.n.01		toilette
+PWN:tomorrow.r.01		demain
+PWN:tongs.n.01		pinces
+PWN:tongue.n.01		langue
+PWN:tooth.n.01		dent
+PWN:torch.n.01		lampe
+PWN:toucan.n.01		toucan
+PWN:touch.v.01		toucher
+PWN:towel.n.01		serviette
+PWN:tower.n.01		tour
+PWN:town.n.01		cité, ville
+PWN:train.n.01		train
+PWN:transport.v.02		porter
+PWN:trap.n.01		piège
+PWN:trap.v.02		attraper, prendre au piège
+PWN:travel.v.01		aller
+PWN:tree.n.01		arbre
+PWN:trouser.n.01		pantalon
+PWN:true.a.01		vrai
+PWN:trunk.n.01		tronc d'arbre
+PWN:try.v.01		essayer, tenter
+PWN:tuesday.n.01		mardi
+PWN:turn.v.04		retourner
+PWN:turtle.n.02		tortue
+PWN:twelve.s.01		douze
+PWN:twenty.s.01		vingt
+PWN:twice.r.01		deux fois
+PWN:twin.n.01		jumeaux
+PWN:two.s.01		deux
+PWN:udder.n.01		pis
+PWN:ugly.a.01		laid
+PWN:uncle.n.01		oncle
+PWN:understand.v.01		comprendre
+PWN:unfold.v.04		étaler, éparpiller
+PWN:untie.v.01		détacher, délier
+PWN:up.r.01		là-haut, là dessus
+PWN:uterus.n.01		utérus, sein de la mère
+PWN:vagina.n.01		vagin
+PWN:valley.n.01		vallée
+PWN:vegetable.n.01		légumes
+PWN:victory.n.01		victoire
+PWN:village.n.02		village
+PWN:vine.n.01		vigne
+PWN:voice.n.02		voix
+PWN:vomit.v.01		vomir
+PWN:vulva.n.01		vulve
+PWN:wages.n.01		salaire
+PWN:wagon.n.01		wagon, charrette
+PWN:waist.n.01		taille
+PWN:wake_up.v.02		se réveiller, s'eveiller
+PWN:walk.v.01		marcher
+PWN:walking_stick.n.01		canne
+PWN:warm.a.01		chaud
+PWN:wash.v.03		laver
+PWN:wasp.n.02		guêpe
+PWN:water.n.06		eau
+PWN:waterfall.n.01		chûte d'eau, cascade
+PWN:wave.n.01		vague
+PWN:weak.a.01		faible
+PWN:weapon.n.01		armes
+PWN:wear.v.09		porter, mettre (vêtement)
+PWN:weather.n.01		temps
+PWN:weave.v.02		tisser
+PWN:wednesday.n.01		mercredi
+PWN:week.n.01		semaine
+PWN:weigh.v.01		peser
+PWN:well.n.01		source,puits, fountaine
+PWN:west.n.02		ouest, occident
+PWN:wet.a.01		mouillé,  humide
+PWN:whale.n.02		baleine
+PWN:wheat.n.01		blé
+PWN:wheel.n.01		roue
+PWN:whetstone.n.01		affiloir, pierre à aguiser
+PWN:whirlpool.n.01		tourbillon )d'eau=
+PWN:whisper.v.01		chuchoter
+PWN:whistle.v.03		siffler
+PWN:white.a.01		blanc
+PWN:wide.a.01		large
+PWN:widow.n.01		veuve
+PWN:widower.n.01		veuf
+PWN:wife.n.01		femme mariée
+PWN:wife.n.01		femme, épouse
+PWN:wild_boar.n.01		sanglier
+PWN:wind.n.01		vent
+PWN:wind.v.03		enrouler
+PWN:window.n.01		fenêtre
+PWN:wine.n.01		vin
+PWN:wing.n.01		aile
+PWN:winter.n.01		hiver
+PWN:wipe.v.01		essuyer
+PWN:wise.a.01		sage,érudit
+PWN:withdraw.v.01		se rétirer, fuir, battre en retraite
+PWN:witness.n.01		témoin
+PWN:wolf.n.01		loup
+PWN:woman.n.01		femme
+PWN:wood.n.01		bois
+PWN:wool.n.02		laine
+PWN:word.n.01		mot, parole
+PWN:work.n.01		travail
+PWN:workshop.n.01		atelier
+PWN:world.n.02		monde
+PWN:worm.n.01		ver de terre
+PWN:worship.v.02		adorer
+PWN:wrinkled.a.01		ridé
+PWN:wrist.n.01		poignet
+PWN:write.v.02		écrire
+PWN:yam.n.04		igname
+PWN:yawn.v.01		bâiller
+PWN:year.n.01		année
+PWN:yellow.s.01		jaune
+PWN:yesterday.r.01		hier
+PWN:yoke.n.05		joug
+PWN:young.a.01		jeune
+PWN:young_buck.n.01		jeune homme
+PWN:zero.s.01		zéro

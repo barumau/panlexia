@@ -1,359 +1,291 @@
-id	word	style	morphology	etymology
-Action:can.V	kan		kan	eng:can, deu:können, zho:可 (kě), jpn:可 (ka), kor:가 (ga), vie:khả
-Animal:Anatidae.N	bata		bata	ara: بَطَّة‎ (baṭṭa), hin:बत्तख (battakh), tam:வாத்து (vāttu), tel:బాతు (bātu), swa:bata + spa:por:pato + tha:เป็ด  (pèt)
-Animal:Araneae.N	aran		aran	fra:araignee, por:aranha, spa:araña, eng:arachnid, deu:Arachno-, rus:арахнофо- (arakhno-), tur:arakno-, tam:அராக்கினிட் (arākkiṉiṭ), may:araknid
-Animal:Asian dragon.N	lung		lung	zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jpn:竜 (ryū), khm:រោង (roong), tha:มะโรง (má-roong)
-Animal:Aves.N	paxi		paxi	hin:mar:पक्षी (pakṣī), ben:পাখী (pakhī), tam:பட்சி (paṭci), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa)
-Animal:Canis lupus familiaris.N	bua		bua	swa:mbwa + fra:ouaf, zho:汪 (wāng), jpn:ワン (wan)
-Animal:dragon.N	drak		drak	eng:fra:dragon, spa:dragón, por:dragão, deu:Drache, rus:дракон (drakon), jpn:ドラゴン (doragon), kor:드래곤 (deuraegon), swa:dragoni
-Animal:Equus (Hippotigris).N	zebra		zebra	eng:deu:por:tur:may:zebra, fra:zèbre, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), ben:জেবরা (jebra), jpn:ゼブラ (zebura)
-Animal:Equus asinus × caballus.N	ihamar		iha·mar	
-Animal:Equus asinus.N	iha		iha	onom. eng:heehaw, fra:hi-han, rus:и-а (i-a), vie:hô hố, tur:aa-i
-Animal:Equus ferus caballus.N	mar		mar	mon:морь (mor'), kor:말 (mal), zho:马 (mǎ), yue:馬 (maa5), jpn:馬 (uma), vie:mã, tha:ม้า (maa), tam:மா (mā), eng:mare, deu:Mähre, isl:mar
-Animal:Felis catus.N	mau		mau	zho:猫 (māo), yue:貓 (maau), vie:mèo, tha:แมว (mæo), swa:nyau + eng:miaow; meow, fra:miaou, deu:spa:por:miau, rus:мяу (myau), fas: میو‎ (miyu), hin:म्याऊँ (myāū̃), tam:மியாவ் (miyāv), tur:miyav, 
-Animal:Felis leo.N	singa		singa	may:singa, hin:सिंघ (singh), ben:সিংহ (singh), tam:சிங்கம் (sinkam), tha:สิง (sing), zho:狮 (shī), jpn:獅子 (shishi), + swa:simba
-Animal:Felis tigris.N	bagre		bagr'e	hin:बाघ (bāgh), ben:বাঘ (bagh) + fas:(babr) + spa:por:tigre, rus:тигр (tigr)
-Animal:Hippopotamus amphibius.N	gubu		gubu	ful:ngabbu kon:ngubu, sot:tsw:kubu, zul:rwa:imvubu, amh:ጉማሬ (gumare)
-Animal:Homo sapiens.N	hom		hom	fra:homme, spa:hombre, por:homem, eng:human
-Animal:Homo sapiens.N	homan		hom·an	
-Animal:mouse.N	mushu		mush	rus:мышь (myś), pol:mysz, fas: موش‎ (muš) + zho:鼠 (shǔ)
-Animal:Serpentes.N	serpe		serp'e	hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé
-Animal:Ursidae.N	baru		baru	deu:Bär, eng:bear + hin:भालू (bhālū) ben:ভালুক (bhaluk), tam:பல்லுகம் (pallukam) + may:beruang
-Belief:altar.N	puja meza		puja meza	
-Belief:atheist.N	andeiste		an.de·ist'e	
-Belief:bless.V	barka		barka	ara:(mubārak), fas: برکت (barekat), ben:বরকত (borkot), may:berkah, tur:tebrik, swa:baraka, hau:ful:(al)barka, yor:alubarika
-Belief:buddha.N	buda		bud'a	
-Belief:Buddhism.N	budisme		bud·ism'e	
-Belief:Buddhist.N	budiste		bud·ist'e	
-Belief:Christianity.N	kristisme		krist·ism'e	
-Belief:deity.N	deo		de'o	por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)
-Belief:demon.A	diblik		dibl·ik	
-Belief:demon.N	dible		dibl'e	eng:devil, fra:diable, spa:diablo, por:diabo, rus:дьявол (dyavol), ara: إِبْلِيس⁩ (ʔiblīs), tur:hau:iblis, swa:ibilisi
-Belief:Devil.A	shatanik		shatan·ik	
-Belief:Devil.N	shatan		shatan	heb: שָׂטָן‎ (śaṭan), ara: شيطان (šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), yue:撒但 (saat3daan6), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), ben:শয়তান (śoẏtan), tam:சயித்தான் (cayittāṉ), may:Setan, tur:şeytan, swa:Shetani, hau:shaiɗan
-Belief:hell.N	narak		narak	hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)
-Belief:shaman.N	shaman		shaman	eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)
-Belief:Taoism.N	dauisme		dau·ism'e	
-Belief:Taoist.N	dauiste		dau·ist'e	
-Belief:worship.N	puja		puja	hin:पूजा (pūjā), urd: پوجا‎ (pūjā), tam:பூசை (pūcai), tel:పూజ (pūja), may:puja, tha:บูชา (bucha)
-Belief:worship.V	puja		puja	hin:पूजा (pūjā), urd: پوجا‎ (pūjā), tam:பூசை (pūcai), tel:పూజ (pūja), may:puja, tha:บูชา (bucha)
-Blut::N	hemo		hem'o	eng:spa:por:may:vie:tur:hemo-, fra:hémo-, rus:гемо- (gemo-), jpn:ヘモ- (hemo-)
-Body:anus.A	anusik		anus·ik	
-Body:anus.N	anus		anus	eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs
-Body:bone.N	oste		ost'e	eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, fas: استخوان (ostoxân), hin:अस्थि (asthi-)
-Body:breast.N	mam		mam	fas: ممه‎ (mame), tur:meme, eng:mamma, spa:por:mama + fra:mammifère, may:mamalia
-Body:eye.N	ain		ain	eng:eye + ara: عين (ʕayn), may:ain + zho:眼 (yǎn)
-Body:face.N	muka		muka	ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha
-Body:foot.N	fut		fut	eng:foot, deu:Pfote
-Body:hair.N	kesh		kesh	jpn:毛 (ke), hin:केश (keś), ben:কেশ (keś), tam:கேசம் (kēcam), tel:కేశము (kēśamu)
-Body:head hair.N	kap kesh		kap kesh	
-Body:hiccup.N	hik		hik	eng:hiccup, rus:икота (ikota), hin:हीक (hīk), jpn:ヒック (hikku)
-Body:hiccup.V	hik		hik	
-Body:kidney.N	nefre		nefr'e	eng:fra:nephro-, spa:por:nefro-, deu:Niere + rus:нефрит (nefrit)
-Body:nail.N	nag		nag	deu:Nagel, rus:ноготь (nogot'), fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), tam:நகம் (nakam)
-Body:nose.A	nazal		naz·al	
-Body:nose.N	naze		naz'e	eng:nose, spa:por:nariz, deu:Nase, rus:нос (nos), fas:نس‎ (nos), hin:नासिका (nāsikā), ben:নাক (nak), tam:நாசி (nāsi)
-Body:tear.N	ain sui		ain sui	tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา
-Building:bar.N	bar		bar	eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), yue:酒吧 (zau2baa1), jpn:バー (bā), hin:बार (bār), ben:বার (bar), tam:பார் (pār)
-Building:build.V	bina		bina	ara: بِنَاء‎ (bināʾ), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, + jpn:ビル (biru)
-Building:dam.N	baraje		bar·aj'e	
-Building:door.N	dor		dor	eng:door, deu:Tür, rus:дверь (dverʹ), fas: دَر (dar), hin:द्वार (dvār), ben:দরজা (dorja), tel:ద్వారము (dvāramu), jpn:(doa)
-Building:igloo.N	iglu		iglu	eng:igloo, fra:iglou, spa:iglú, por:tur:may:iglu, rus:иглу (iglu), hin:इग्लू (iglū), jpn:イグルー (igurū), kor:이글루 (igeullu)
-Building:oven.N	tanur		tanur	fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr), swa:tanuri, hau:tanda
-Clothing:coat.N	kot		kot	eng:coat, swa:koti, hau:kwat, orm:koota, jpn:コート (kōto), fas:(kot), hin:कोट (kot)
-Clothing:shirt.N	sherte		shert'e	eng:shirt, deu:T-Shirt, fra:por:T-shirt, fas: تی‌شِرْت (ti-šert), hin:टी-शर्ट (ṭī-śarṭ), ben:শার্ট (śarṭo), tur:tişört, zho:T恤衫 (tī-xùshān), yue:恤衫 (seot1 saam1), jpn:シャツ (shatsu), kor:셔츠 (syeocheu), tam:சட்டை (caṭṭai), ara: تِي شِيرْت (tī šīrt), swa:shati, yor:ṣẹ́ẹ̀tì
-Clothing:silk.N	sil		sil	zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), kor:사 (sa) + eng:silk, spa:por:sérico, rus:шёлк (sholk)
-Clothing:T-shirt.N	T-sherte		T-shert'e	
-Clothing:veil.N	hijab		hijab	ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)
-Cognition:awake.A	budik		bud·ik	
-Cognition:same.A	sim		sim	eng:same, fra:similaire, spa:por:similar, rus:самый (samyy), fas:هم‎ (ham), hin:सम (sam), may:sama
-Cognition:wake up (tr).V	budifa		bud·ifa	
-Cognition:wake up.V	bud		bud	san:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), vie:Bụt, tha:โพธิ (potí) + rus:будить
-Communication:book.N	buk		buk	eng:book, fra:bouquin, hin:बुक (buk), deu:Buch, may:buku, ful:swa:buku, wol:bukoo + rus:буклет (buklet)
-Communication:hello.INT	halo		halo	eng:hello,  zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo
-Communication:laugh.INT	haha		haha	eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)
-Communication:laugh.N	haha		haha	
-Communication:laugh.V	haha		haha	
-Communication:news.N	habar		habar	ara: خَبَر‎ (xabar), fas: خبر‎ (xabar), hin:ख़बर (xabar), ben:খবর (khôbôr), tam:கபர் (kapar), may:kabar, tur:haber, swa:habari, hau:labari, yor:làbarè, ful:habaru
-Communication:telephone.N	telefon		tele·fon	
-Cosmos:telescope.N	teleskope		tele·skop'e	
-Cosmos:universe.N	kosme		kosm'e	eng:fra:spa:cosmos, deu:Kosmos, por:cosmo, rus:космос (kosmos), tur:kozmo-
-Degree:less.ADV	les		les	eng:less
-Degree:more.ADV	mor		mor	eng:more, deu:mehr
-Element:Ac.N	acinium		acin·ium	eng:actinium, fra:actinium, spa:actinio, por:actínio, rus:актиний, zho:锕 (ā), jpn:アクチニウム, kor:악티늄, vie:actini, hin:एक्टिनियम, ben:অ্যাক্টিনিয়াম, may:aktinium, swa:aktini, ara: اكتنيوم
-Element:Ag.N	argente		argent'e	por:ita:argento, fra:argent, may:argentum, swa:agenti
-Element:Al.N	alumin		alumin	eng:aluminium, fra:aluminium, spa:aluminio, por:alumínio, rus:алюминий, zho:铝 (lǚ), jpn:アルミニウム, kor:알루미늄, vie:nhốm, hin:एल्युमिनियम, ben:অ্যালুমিনিয়াম, may:aluminium, swa:alumini, ara: الومينيوم (), hau:aluminum
-Element:Am.N	amerikium		amerik·ium	eng:americium, fra:américium, spa:americio, por:amerício, rus:америций, zho:镅 (méi), jpn:アメリシウム, kor:아메리슘, vie:amerixi, hin:अमेरिशियम, ben:অ্যামেরিসিয়াম, may:amerisium, swa:ameriki, ara: أمريكيوم
-Element:Ar.N	argon		argon	eng:argon, fra:argon, spa:argón, por:argon, rus:аргон, jpn:アルゴン, kor:아르곤, vie:agon, hin:ऑर्गन, ben:আর্গন, may:argon, swa:arigoni, ara: أرجون
-Element:As.N	arsenium		arsen·ium	eng:arsenic, fra:arsenic, spa:arsénico, por:arsénic, zho:砷 (shēn), vie:asen, hin:आर्सेनिक, ben:আর্সেনিক, may:arsen, swa:aseniki, ara: زرنيخ
-Element:As.N	astatin		astatin	eng:astatine, fra:astate, spa:ástato, por:astato, rus:астат(ин), zho:砹 (ài), jpn:アスタチン, kor:아스타틴, vie:astatin, hin:एस्टाटिन, ben:অ্যাস্টাটিন, may:astatin, swa:astatini, ara: استاتين
-Element:Au.N	aur		aur	ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum, swa:auri
-Element:B.N	boron		boron	eng:boron, fra:boron, spa:boro, por:boro, rus:бор, vie:bo, hin:बोरॉन्, ben:বোরন, may:boron, swa:boroni, ara: بورون
-Element:Ba.N	barium		bar·ium	eng:barium, fra:baryum, spa:bario, por:bário, rus:барий, zho:钡 (bèi), jpn:バリウム, kor:바륨, vie:bari, hin:बेरियम, ben:বেরিয়াম, may:barium, swa:bari, ara: باريوم
-Element:Be.N	berilium		beril·ium	eng:beryllium, fra:béryllium, spa:berilio, por:berílio, rus:бериллий, zho:铍 (pí), jpn:ベリリウム, kor:베릴륨, vie:swa:berili, hin:बेरिलियम, ben:বেরিলিয়াম, may:berilium, ara: بيريليوم
-Element:Bh.N	borium		bor·ium	eng:bohrium, fra:bohrium, spa:bohrio, por:bóhrio, rus:борий, zho: (bō), jpn:ボーリウム, kor:보륨, vie:bohri, hin:बोरियम, ben:বোহরিয়াম, may:bohrium, swa:bohri, ara: بوريوم
-Element:Bi.N	bismute		bismut'e	eng:bismuth, fra:bismuth, spa:bismuto, por:bismuto, rus:висмут, zho:铋 (bì), jpn:ビスマス, kor:비스무트, vie:bitmut, bismut, hin:बिस्मथ, ben:বিসমাথ, may:bismut, swa:bismuthi, ara: بزموث
-Element:Bk.N	berkelium		berkel·ium	eng:berkelium, fra:berkélium, spa:berkelio, por:berqueélio, rus:берклий, zho:锫 (péi), jpn:バークリウム, kor:버클륨, vie:beckeli, hin:बर्केलियम, ben:বার্কেলিয়াম, may:berkelium, swa:berkeli, ara: بركليوم
-Element:Br.N	brom		brom	eng:bromine, fra:brome, spa:bromo, por:bromo, rus:бром, kor:브롬, vie:brom, hin:ब्रोमिन, ben:ব্রোমিন, may:brom, swa:bromi, ara: بروم
-Element:C.N	karbe		karb'e	eng:carbon, fra:carbone, spa:carbón, por:carbono, vie:cacbon, hin:कार्बन, ben:কার্বন, may:karbon, swa:kaboni, ara: كربون
-Element:Ca.N	kalsium		kals·ium	eng:calcium (Ca), fra:calcium, spa:calcio, por:cálcio, rus:кальций, zho:钙 (gài), jpn:カルシウム, kor:칼슘, vie:canxi, hin:कैल्शियम, ben:ক্যালসিয়াম, may:kalsium, swa:kalisi, ara: كلسيوم
-Element:Cd.N	kadmium		kadm·ium	eng:cadmium, fra:cadmium, spa:cadmio, por:cádmio, rus:кадмий, zho:镉 (gé), jpn:カドミウム, kor:카드뮴, vie:catmi, hin:काडमियम, ben:ক্যাডমিয়াম, may:kadmium, swa:kadimi, ara: كادميوم
-Element:Ce.N	cerium		cer·ium	eng:cerium, fra:cérium, spa:cerio, por:cério, rus:церий, zho:铈 (shì), jpn:セリウム, kor:세륨, vie:xeri, hin:सेरियम, ben:সেরিয়াম, may:serium, swa:seri, ara: سيريوم
-Element:Cf.N	kalifornium		kaliforn·ium	eng:californium, fra:californium, spa:californio, por:califórnio, rus:калифорний, zho:锎 (kāi), jpn:カリホルニウム, kor:칼리포르늄, vie:califoni, hin:कैलीफोर्नियम, ben:ক্যালিফোর্নিয়াম, may:kalifornium, swa:kalifoni, ara: كاليفورنيوم
-Element:Cl.N	klor		klor	eng:chlorine, fra:chlore, spa:cloro, por:cloro, rus:хлор, vie:clo, hin:क्लोरीन, ben:ক্লোরিন, may:klor, swa:klorini, ara: كلور
-Element:Cm.N	kurium		kur·ium	eng:curium, fra:curium, spa:curio, por:cúrio, rus:кюрий, jpn:キュリウム, kor:퀴륨, vie:curi, hin:क्यूरियम, ben:কুরিয়াম, may:kurium, swa:kuri, ara: كوريوم
-Element:Cn.N	kopernium		kopern·ium	eng:fra:copernicium, spa:copérnico, por:copernício, rus:коперниций, jpn:コペルニシウム, kor:코페르니슘, vie:copernici, may:copernicium, swa:kopernici
-Element:Co.N	kobalte		kobalt'e	eng:cobalt, fra:cobalt, spa:cobalto, por:cobalto, rus:кобальт, zho:钴 (gǔ), jpn:コバルト, kor:코발트, vie:coban, hin:कोबाल्ट, ben:কোবাল্ট, may:kobalt, swa:kobalti, ara: كوبلت
-Element:Cr.N	kromium		krom·ium	eng:chromium, fra:chrome, spa:cromo, por:crómo, rus:хром, jpn:クロム, kor:크로뮴, vie:crom, hin:क्रोमियम, ben:ক্রোমিয়াম, may:krom, swa:kromi, ara: كروم
-Element:Cs.N	cesium		ces·ium	eng:caesium, fra:césium, spa:cesio, por:césio, rus:цезий, zho:铯 (sè), jpn:セシウム, kor:세슘, vie:xezi, hin:सीज़ियम, ben:সিজিয়াম, may:sesium, swa:sizi, ara: سيزيوم
-Element:Cu.N	kupre		kupr'e	eng:copper, fra:cuivre, spa:cobre, por:cobre, swa:kupri
-Element:Db.N	dubnium		dubn·ium	eng:dubnium, fra:dubnium, spa:dubnio, por:dúbnio, rus:дубний, ²нильсборий, zho: (dù), jpn:ドブニウム, kor:더브늄, vie:dubni, hin:डब्नियम, ben:ডুবনিয়াম, may:dubnium, swa:dubni, ara: دبنيوم
-Element:Ds.N	darmestadium		darmestad·ium	eng:darmstadtium, fra:darmstadtium, spa:darmstatio, por:darmstádio, rus:дармштадтий, zho: (dá), jpn:ダームスタチウム, kor:다름슈타튬, vie:darmstadti, hin:डार्म्स्टेडशियम, ben:ডারমস্টাডটিয়াম, may:darmstadtium, swa:darmstadti, ara: دارمشتاتيوم
-Element:Dy.N	disprosium		dispros·ium	eng:dysprosium, fra:dysprosium, spa:disprosio, por:disprósio, rus:диспрозий, zho:镝 (dī), jpn:ジスプロシウム, kor:디스프로슘, vie:đysprosi, hin:डिस्प्रोसियम, ben:ডিসপ্রোসিয়াম, may:disprosium, swa:disprosi, ara: ديسبروسيوم
-Element:Er.N	erbium		erb·ium	eng:erbium, fra:erbium, spa:erbio, por:érbio, rus:эрбий, zho:铒 (ěr), jpn:エルビウム, kor:에르븀, vie:eribi, hin:अर्बियम, ben:ইরবিয়াম, may:erbium, swa:erbi, ara: إربيوم
-Element:Es.N	einsteinium		einstein·ium	eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم
-Element:Eu.N	europium		europ·ium	eng:europium, fra:europium, spa:europio, por:európio, rus:европий, jpn:ユウロピウム, kor:유로퓸, vie:europi, hin:युरोपियम, ben:ইউরোপিয়াম, may:europium, swa:europi, ara: يروبيوم
-Element:F.N	flur		flur	eng:fluorine, fra:fluor, spa:flúor, por:flúor, rus:фтор, zho:氟 (fú), jpn:フッ素, kor:플루오르, vie:flo, hin:फ्लोरीन, ben:ফ্লুরিন, may:fluor, swa:florini, ara: فلور
-Element:Fe.N	fere		fer'e	spa:hierro, por:ferro, fra:fer, may:ferum, swa:feri
-Element:Fl.N	flerovium		flerov·ium	eng:may:flerovium, fra:flérovium, spa:flerovio, por:fleróvio, rus:флеровий, zho: (fū), jpn:フレロビウム, kor:플레로븀, vie:flerovi, swa:flerovi
-Element:Fm.N	fermium		ferm·ium	eng:fermium, fra:fermium, spa:fermio, por:férmio, rus:фермий, zho:镄 (fèi), jpn:フェルミウム, kor:페르뮴, vie:fecmi, hin:फर्मियम, ben:ফার্মিয়াম, may:fermium, swa:fermi, ara: فرميوم
-Element:Fr.N	fransium		frans·ium	eng:francium, fra:francium, spa:francio, por:frâncio, rus:франций, zho:钫 (fāng), jpn:フランシウム, kor:프랑슘, vie:franxi, hin:फ्रान्सियम, ben:ফ্রান্সিয়াম, may:fransium, swa:fransi, ara: فرنسيوم
-Element:Ga.N	galium		gal·ium	eng:gallium, fra:gallium, spa:galio, por:gálio, rus:галлий, zho:镓 (jiā), jpn:ガリウム, kor:갈륨, vie:gali, hin:गैलियम, ben:গ্যালিয়াম, may:galium, swa:gali, ara: جاليوم
-Element:Gd.N	gadolinium		gadolin·ium	eng:gadolinium, fra:gadolinium, spa:gadolinio, por:gadolínio, rus:гадолиний, zho:钆 (gá), jpn:ガドリニウム, kor:가돌리늄, vie:gađolini, hin:ग्याडोलिनियम, ben:গ্যাডোলিনিয়াম, may:gadolinium, swa:gadolini, ara: جدولينيوم
-Element:Ge.N	germanium		german·ium	eng:germanium, fra:germanium, spa:germanio, por:germânio, rus:германий, jpn:ゲルマニウム, kor:게르마늄, vie:gecmani, hin:जर्मेनियम, ben:জার্মেনিয়াম, may:germanium, swa:gerimani, ara: جرمانيوم
-Element:H.N	hidre		hidr'e	eng:fra:hydro-, spa:por:may:swa:hidro-, vie:hyđrô, ara: هيدروجين
-Element:He.N	helium		hel·ium	eng:helium, fra:hélium, spa:helio, por:hélio, rus:гелий, zho:氦 (hài), jpn:ヘリウム, kor:헬륨, vie:swa:heli, hin:हिलियम, ben:হিলিয়াম, may:helium, ara: هيليوم
-Element:Hf.N	hafnium		hafn·ium	eng:hafnium, fra:hafnium, spa:hafnio, por:háfnio, rus:гафний, zho:铪 (hā), jpn:ハフニウム, kor:하프늄, vie:hafini, hin:हाफ्नियम, ben:হাফনিয়াম, may:hafnium, swa:hafni, ara: هفنيوم
-Element:Hg.N	hidrargente		hidrargente	swa:hidrajiri
-Element:Ho.N	holmium		holm·ium	eng:holmium, fra:holmium, spa:holmio, por:hólmio, rus:гольмий, zho:钬 (huǒ), jpn:ホルミウム, kor:홀뮴, vie:honmi, hin:होल्मियम, ben:হলমিয়াম, may:holmium, swa:homi, ara: هلميوم
-Element:Hs.N	hesium		hes·ium	eng:hassium, fra:hassium, spa:hasio, por:hássio, rus:хассий, zho: (hēi), jpn:ハッシウム, kor:하슘, vie:hassi, hin:हसियम, ben:হ্যাসিয়াম, may:hassium, swa:hassi, ara: هاسيوم
-Element:I.N	iode		iod'e	eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:йод, jpn:ヨウ素, kor:요오드, vie:iot, hin:आयोडिन, ben:আয়োডিন, may:yodium, swa:iodini, ara: يود
-Element:In.N	hindium		hind·ium	eng:indium, fra:indium, spa:indium, por:índio, rus:индий, zho:铟 (yīn), jpn:インジウム, kor:인듐, vie:indi, hin:इण्डियम, ben:ইন্ডিয়াম, may:indium, swa:indi, ara: انديوم
-Element:Ir.N	iridium		irid·ium	eng:iridium, fra:iridium, spa:iridio, por:irídio, rus:иридий, jpn:イリジウム, kor:이리듐, vie:iriđi, hin:इरिडियम, ben:ইরিডিয়াম, may:iridium, swa:iridi, ara: إريديوم
-Element:K.N	kalium		kal·ium	rus:калий, jpn:カリウム, vie:kali, may:kalium, swa:kali
-Element:Kr.N	kriton		kriton	eng:krypton, fra:krypton, spa:criptón (kriptón), por:krípton, rus:криптон, zho:氪 (kè), jpn:クリプトン, kor:크립톤, vie:kripton, hin:क्रिप्टन, ben:ক্রিপ্টন, may:kripton, swa:kriptoni, ara: كربتون
-Element:La.N	lantan		lantan	eng:lanthanum, fra:lanthane, spa:lantano, por:lantâno, rus:лантан, zho:镧 (lán), jpn:ランタン, kor:란탄, vie:lantan, hin:लाञ्थनम, ben:ল্যান্থানাম, may:lantanium, swa:lanthani, ara: لنثانوم
-Element:Li.N	litium		lit·ium	eng:lithium, fra:lithium, spa:litio, por:lítio, rus:литий, zho:锂 (lǐ), jpn:リチウム, kor:리튬, vie:swa:lithi, hin:लिथियम, ben:লিথিয়াম, may:litium, swa:lithi, ara: ليثيوم
-Element:Lr.N	laurencium		laurenc·ium	eng:lawrencium, fra:lawrencium, spa:laurencio, por:lawrêncio, rus:лоуренсий, zho:铹 (láo), jpn:ローレンシウム, kor:로렌슘, vie:lorenxi, lawrenci, hin:लॉरेंशियम, ben:লরেনসিয়াম, may:lawrensium, swa:lawirensi, ara: لورنسيوم
-Element:Lu.N	lutesium		lutes·ium	eng:lutetium, fra:lutécium, spa:lutecio, por:lutécio, rus:лютеций, zho:镥 (lǔ), jpn:ルテニウム, kor:루테튬, vie:lutexi, hin:लुटेटियम, ben:লুটেসিয়াম, may:lutetium, swa:luteti, ara: لوتيتيوم
-Element:Lv.N	livermorium		livermor·ium	eng:fra:livermorium, spa:livermorio, por:livermório, rus:ливерморий, zho: (lì), jpn:リバモリウム, kor:리버모륨, vie:livermori, may:livermorium, swa:livermori
-Element:Mc.N	moskovium		moskov·ium	eng:fra:moscovium, spa:moscovio, por:moscovio, rus:московий, jpn:モスコビウム, kor:우눈펜튬, vie:moscovi, may:moskovium, swa:moscovi
-Element:Md.N	mendelevium		mendelev·ium	eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم
-Element:Mg.N	magnesium		magnes·ium	eng:magnesium, fra:magnésium, spa:magnesio, por:magnésio, rus:магний, zho:镁 (měi), jpn:マグネシウム, kor:마그네슘, vie:magiê, hin:मैग्नेशियम, ben:ম্যাগনেসিয়াম, may:magnesium, swa:magnesi, ara: مغنيسيوم
-Element:Mn.N	mangan		mangan	eng:manganese, fra:manganèse, spa:manganeso, por:manganésio, rus:марганец, zho:锰 (měng), jpn:マンガン, kor:망가니즈, vie:mangan, hin:मैंगनीज, ben:ম্যাঙ্গানিজ, may:manggan, swa:manganisi, ara: منجنيز
-Element:Mo.N	moliden		moliden	eng:molybdenum, fra:molybdène, spa:molibdeno, por:molibdénio, rus:молибден, zho:钼 (mù), jpn:モリブデン, kor:몰리브덴, vie:molypđen, hin:मोलिब्डेनम, ben:মলিবডেনাম, may:molibden, swa:molibdeni, ara: مولبيدنيوم
-Element:Mt.N	meitnerium		meitner·ium	eng:meitnerium, fra:meitnérium, spa:meitnerio, por:meitnério, rus:майтнерий, jpn:マイトネリウム, kor:마이트너륨, vie:meitneri, hin:मेइट्नेरियम, ben:মিটনেরিয়াম, may:meitnerium, swa:meitneri, ara: مايتنريوم
-Element:N.N	nitre		nitr'e	eng:nitrogen, fra:azote, spa:nitrógeno, por:nitrogénio, rus:азот, vie:nitơ, hin:नाइट्रोजन, ben:নাইট্রোজেন, may:nitrogen, swa:nitrojeni, ara: نيتروجين
-Element:Na.N	natre		natr'e	eng:sodium, fra:sodium, spa:sodio, por:sódio, rus:натрий, zho:钠 (nà), jpn:ナトリウム, kor:나트륨, vie:natri, hin:सोडियम, ben:সোডিয়াম, may:natrium, swa:natiri
-Element:Nb.N	niobium		niob·ium	eng:niobium, fra:niobium, spa:niobio, por:nióbio, rus:ниобий, zho:铌 (ní), jpn:ニオブ, kor:나이오븀, vie:niobi, hin:नायोबियम, ben:নাইওবিয়াম, may:niobium, swa:niobi, ara: نيوبيوم
-Element:Nd.N	neodimium		neodim·ium	eng:neodymium, fra:néodyme, spa:neodimio, por:neodímio, rus:неодим, zho:钕 (nǚ), jpn:ネオジム, kor:네오디뮴, vie:neođim, hin:नियोडाइमियम, ben:নিওডিমিয়াম, may:neodinium, swa:neodimi, ara: نيودميوم
-Element:Ne.N	neon		neon	eng:neon, fra:néon, spa:neón, por:néon, rus:неон, zho:氖 (nǎi), jpn:ネオン, kor:네온, vie:neon, nê-ông, hin:नियोन, ben:নিয়ন, may:neon, swa:neoni, ara: نيون
-Element:Nh.N	niponium		nipon·ium	eng:fra:may:nihonium, spa:nihonio, por:nihonium, rus:нихоний, jpn:ニホニウム, kor:우눈트륨, vie:swa:nihoni
-Element:Ni.N	nikel		nikel	eng:nickel, fra:nickel, spa:níquel, por:níquel, rus:никель, zho:镍 (niè), jpn:ニッケル, kor:니켈, vie:nikel, hin:निकेल, ben:নিকেল, may:nikel, swa:nikeli, ara: نيكل
-Element:No.N	nobelium		nobel·ium	eng:nobelium, fra:nobélium, spa:nobelio, por:nobélio, rus:нобелий, zho:锘 (nuò), jpn:ノーベリウム, kor:노벨륨, vie:nobeli, hin:नोबेलियम, ben:নোবেলিয়াম, may:nobelium, swa:nobeli, ara: نوبليوم
-Element:Np.N	neptunium		neptun·ium	eng:neptunium, fra:neptunium, spa:neptunio, por:neptúnio, rus:нептуний, zho:镎 (ná), jpn:ネプツニウム, kor:넵투늄, vie:neptuni, hin:नेप्ट्यूनियम, ben:নেপচুনিয়াম, may:neptunium, swa:neptuni, ara: نبتونيوم
-Element:O.N	oxe		ox'e	eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين
-Element:Og.N	oganeson		oganeson	eng:fra:por:may:oganesson, spa:oganesón, rus:оганесон, jpn:オガネソン, kor:우누녹튬
-Element:Os.N	osmium		osm·ium	eng:osmium, fra:osmium, spa:osmio, por:ósmio, rus:осмий, jpn:オスミウム, kor:오스뮴, vie:osimi, hin:अस्मियम, ben:অসমিয়াম, may:osmium, swa:osmi, ara: ازميوم
-Element:P.N	fosfe		fosf'e	eng:phosphorus, fra:phosphore, spa:fósforo, por:fósforo, rus:фосфор, vie:photpho, hin:फास्फोरस, ben:ফসফরাস, may:fosfor, swa:posfori, ara: فوسفور
-Element:Pa.N	protatinium		protatin·ium	eng:protactinium, fra:protactinium, spa:proactinio, por:protacnídio, rus:протактиний, zho:镤 (pú), jpn:プロトアクチニウム, kor:프로트악티늄, vie:protactini, hin:प्रोटैक्टीनियम, ben:প্রোটেক্টিনিয়াম, may:protaktinium, swa:protaktini, ara: بروتكتنيوم
-Element:Pb.N	plumbe		plumb'e	fra:plomb, spa:plomo, por:chumbo, swa:plumbi
-Element:Pd.N	paladium		palad·ium	eng:palladium, fra:palladium, spa:paladio, por:paládio, rus:палладий, zho:钯 (bǎ), jpn:パラジウム, kor:팔라듐, vie:palađi, hin:पलाडियम, ben:প্যালাডিয়াম, may:paladium, swa:paladi, ara: بلاديوم
-Element:Pm.N	prometium		promet·ium	eng:promethium, fra:prométhium, spa:prometio, por:promécio, rus:прометий, zho:钷 (pǒ), jpn:プロメチウム, kor:프로메튬, vie:prometi, hin:प्रोमेथियम, ben:প্রমিথিয়াম, may:prometium, swa:promethi, ara: بروميثيوم
-Element:Po.N	polskium		polsk·ium	eng:polonium, fra:polonium, spa:polonio, por:polónio, rus:полоний, zho:钋 (pō), jpn:ポロニウム, kor:폴로늄, vie:poloni, hin:पोलोनियम, ben:পোলনিয়াম, may:polonium, swa:poloni, ara: بولونيوم
-Element:Pr.N	prazedimium		prazedim·ium	eng:praseodymium, fra:praséodyme, spa:praseodimio, por:praseodímio, rus:празеодим, jpn:プラセオジム, kor:프라세오디뮴, vie:prazeođim, hin:प्रासियोडाइमियम, ben:প্র্যাসেওডিমিয়াম, may:praseodinium, swa:praseodimi, ara: براسوديميوم
-Element:Pt.N	platin		platin	eng:platinum, fra:platine, spa:platino, por:platina, rus:платина, zho:铂 (bó), vie:platin, hin:प्लाटिनम, ben:প্লাটিনাম, may:platina, swa:platini, ara: بلاتين
-Element:Pu.N	plutonium		pluton·ium	eng:plutonium, fra:plutonium, spa:plutonio, por:plutónio, rus:плутоний, zho:钚 (bù), jpn:プルトニウム, kor:플루토늄, vie:plutoni, hin:प्लूटोनियम, ben:প্লুটোনিয়াম, may:plutonium, swa:plutoni, ara: بلوتونيوم
-Element:Ra.N	radium		rad·ium	eng:radium, fra:radium, spa:radio, por:rádio, rus:радий, zho:镭 (léi), jpn:ラジウム, kor:라듐, vie:rađi, hin:रेडियम, ben:রেডিয়াম, may:radium, swa:radi, ara: راديوم
-Element:Rb.N	rubium		rub·ium	eng:rubidium, fra:rubidium, spa:rubidio, por:rubídio, rus:рубидий, zho:铷 (rú), jpn:ルビジウム, kor:루비듐, vie:rubiđi, hin:रुबिडियम, ben:রুবিডিয়াম, may:rubidium, swa:rubidi, ara: روبيديوم
-Element:Re.N	renium		ren·ium	eng:rhenium, fra:rhénium, spa:renio, por:rénio, rus:рений, zho:铼 (lái), jpn:レニウム, kor:레늄, vie:reni, hin:रेनियम, ben:রেনিয়াম, may:renium, swa:reni, ara: رنيوم
-Element:Rf.N	ruterfordium		ruterford·ium	eng:rutherfordium, fra:rutherfordium, spa:rutherfordio, por:rutherfórdio, rus:резерфордий, ²курчатовий, zho: (lú), jpn:ラザホージウム, kor:러더포듐, vie:rutherfordi, hin:रुथरफोर्डियम, ben:রাদারফোর্ডিয়াম, may:rutherfordium, swa:rutherfordi, ara: رذرفورديوم
-Element:Rg.N	rentgenium		rentgen·ium	eng:roentgenium, fra:roentgenium, spa:roentgenio, por:roentgênio, rus:рентгений, zho: (lún), jpn:レントゲニウム, kor:뢴트게늄, vie:roentgeni, hin:रॉन्टजैनियम, ben:রোয়েন্টজেনিয়াম, may:roentgenium, swa:roentgeni, ara: رونتجينيوم
-Element:Rh.N	rodium		rod·ium	eng:rhodium, fra:rhodium, spa:rodio, por:ródio, rus:родий, jpn:ロジウム, kor:로듐, vie:rođi, hin:रोडियम, ben:রোডিয়াম, may:rodium, swa:rodi, ara: روديوم
-Element:Rn.N	radon		radon	eng:radon, fra:radon, spa:radón, por:rádon, rus:радон, zho:氡 (dōng), jpn:ラドン, kor:라돈, vie:rađơn, hin:रेडन, ben:রেডন, may:radon, swa:radoni, ara: رادون
-Element:Ru.N	rusium		rus·ium	
-Element:S.N	sulfe		sulf'e	eng:sulfur, fra:soufre, spa:azufre, por:enxofre, swa:sulfuri
-Element:Sb.N	stibium		stib·ium	zho:锑 (tī), swa:stibi
-Element:Sc.N	skandium		skand·ium	eng:scandium, fra:scandium, spa:escandio, por:escândio, rus:скандий, zho:钪 (kàng), jpn:スカンジウム, kor:스칸듐, vie:scandi, hin:स्काण्डियम, ben:স্ক্যান্ডিয়াম, may:skandium, swa:skandi, ara: سكانديوم
-Element:Se.N	selenium		selen·ium	eng:selenium, fra:sélénium, spa:selenio, por:selénio, rus:селен, zho:硒 (xī), jpn:セレン, kor:셀렌, vie:selen, hin:सेलेनियम, ben:সেলেনিয়াম, may:selenium, swa:seleni, ara: سيلينيوم
-Element:Sg.N	siborgium		siborg·ium	eng:seaborgium, fra:seaborgium, spa:seaborgio, por:seabórgio, rus:сиборгий, zho: (xǐ), jpn:シーボーギウム, kor:새보쥼, vie:seaborgi, hin:सीबोर्गियम, ben:সিওবোর্গিয়াম, may:seaborgium, swa:seaborgi, ara: سيبورجيوم
-Element:Si.N	silike		silik'e	eng:silicon, fra:silicium, spa:silicio, por:silício, vie:silic, hin:सिलिकॉन, ben:সিলিকন, may:silikon, swa:silikoni, hau:siliki, ara: سيلكون (silikōn)
-Element:Sm.N	samarium		samar·ium	eng:samarium, fra:samarium, spa:samario, por:samário, rus:самарий, zho:钐 (shān), jpn:サマリウム, kor:사마륨, vie:samari, hin:सैमरियम, ben:সামারিয়াম, may:samarium, swa:hau:samari, ara: ساماريوم
-Element:Sn.N	stanium		stan·ium	spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin, swa:stani
-Element:Sr.N	strontium		stront·ium	eng:strontium, fra:strontium, spa:strontium, por:estrôncio, rus:стронций, zho:锶 (sī), jpn:ストロンチウム, kor:스트논듐, vie:stronti, hin:स्ट्रोन्सियम, ben:স্ট্রনসিয়াম, may:strontium, swa:stronti, ara: سترانشيوم
-Element:Ta.N	tantalium		tantal·ium	eng:tantalum, fra:tantale, spa:tántalo, por:tântalo, rus:тантал, zho:钽 (tǎn), jpn:タンタル, kor:탄탈, vie:tantali, hin:टाण्टलम, ben:ট্যান্টালাম, may:tantalum, swa:tantali, ara: تنتالم
-Element:Tb.N	terbium		terb·ium	eng:terbium, fra:terbium, spa:terbio, por:térbio, rus:тербий, zho:铽 (tè), jpn:テルビウム, kor:테르븀, 2터븀, vie:tecbi, hin:टर्बियम, ben:টার্বিয়াম, may:terbium, swa:taribi, ara: تربيوم
-Element:Tc.N	tehnetium		tehn·et·ium	eng:technetium, fra:technétium, spa:tecnetio, por:tecnécio, rus:технеций, zho:锝 (dé), jpn:テクネチウム, kor:테크네튬, vie:tecnexi, hin:टेक्निशियम, ben:টেকনিসিয়াম, may:teknetium, swa:tekineti, ara: تكنيتيوم
-Element:Te.N	telurium		telur·ium	eng:tellurium, fra:tellure, spa:telurio, por:telúrio, rus:теллур, zho:碲 (dì), jpn:テルル, kor:텔루르, vie:telu, hin:टेलुरियम, ben:টেলুরিয়াম, may:telurium, swa:teluri, ara: تيلوريوم
-Element:Th.N	torium		tor·ium	eng:thorium, fra:thorium, spa:torio, por:tório, rus:торий, zho:钍 (tǔ), jpn:トリウム, kor:토륨, vie:thori, hin:थोरियम, ben:থোরিয়াম, may:torium, swa:thori, ara: ثوريوم
-Element:Ti.N	titanium		titan·ium	eng:titanium, fra:titane, spa:titanio, por:titânio, rus:титан, zho:钛 (tài), jpn:チタン, kor:타이타늄, vie:titan, hin:टाइटानियम, ben:টাইটেনিয়াম, may:titanium, swa:titani, ara: تيتانيوم
-Element:Tl.N	talium		tal·ium	eng:thallium, fra:thallium, spa:talio, por:tálio, rus:таллий, zho:铊 (tā), jpn:タリウム, kor:탈륨, vie:tali, hin:थैलियम, ben:থ্যালিয়াম, may:tallium, swa:tali, ara: ثاليوم
-Element:Tm.N	tulium		tul·ium	eng:thulium, fra:thulium, spa:tulio, por:túlio, rus:тулий, zho:铥 (diū), jpn:ツリウム, kor:툴륨, vie:tuli, hin:थुलियम, ben:থুলিয়াম, may:tulium, swa:thuri, ara: ثليوم
-Element:Ts.N	tenesium		tenes·ium	eng:fra:por:may:tennessine, spa:teneso, rus:теннессин, jpn:テネシン, kor:우눈셉튬
-Element:U.N	uranium		uran·ium	eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم
-Element:V.N	vanadium		vanad·ium	eng:vanadium, fra:vanadium, spa:vanadio, por:vanádio, rus:ванадий, zho:钒 (fán), jpn:バナジウム, kor:바나듐, vie:vanađi, hin:वनेडियम, ben:ভ্যানাডিয়াম, may:vanadium, swa:vanadi, ara: فناديوم
-Element:W.N	volfram		volfram	eng:wolfram, spa:wolframio, rus:вольфрам, zho:钨 (wū), vie:vonfam, may:wolfram, swa:wolframi
-Element:Xe.N	xenon		xenon	eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون
-Element:Y.N	yutrium		yutr·ium	eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم
-Element:Yb.N	yuterbium		yuterb·ium	eng:ytterbium, fra:ytterbium, spa:iterbio, por:itérbio, rus:иттербий, zho:镱 (yì), jpn:イッテルビウム, kor:이테르븀, vie:ytecbi, hin:यिट्टरबियम, ben:ইটারবিয়াম, may:iterbium, swa:yitebi, ara: يتربيوم
-Element:Zn.N	zinke		zink'e	eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк, zho:锌 (xīn), ben:জিঙ্ক, may:seng, swa:zinki
-Element:Zr.N	zirkonium		zirkon·ium	eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم
-Emotion:love.N	love		lov'e	eng:love, rus:любить (liubit'), hin:लोभ (lobh), ben:লোভ (lōbh), may:loba, tha:โลภะ (lopha), jpn:ラブ (rabu), kor:러브 (reobeu)
-Emotion:love.V	love		lov'e	
-Emotion:pain.N	alge		alg'e	eng:por:spa:-algia, fra:deu:-algie, rus:-альгия (-alʹgiya) + jpn:ノスタルジー (nosutarujī), fas: نوستالژی‎ (nostâlži), tur:nostalji
-Emotion:painful.A	algik		alg·ik	
-Family:brother.N	brad		brad	ell:φράτηρ (phrater), eng:brother, por:brada; bródi, rus:брат (brat), fas: برادر‎ (barâdar), hin:बिरादर (birādar), ben:বেরাদর (beradôr), may:bruder, jpn:ブラザー (burazā), kor:브라더 (beuradeo), tur:birader, swa:bradha
-Family:father.N	pa		pa	eng:fra:papa, spa:papá, por:pai, rus:папа (papa), ara:(bābā), zho:爸 (bà), yue:爸 (baa1), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp), ben:বাবা (baba), may:bapa, hau:swa:tur:baba, ful:ba; baaba
-Family:mother.N	ma		ma	por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)
-Family:sister.N	sis		sis	eng:sister, deu:Schwester, rus:сестра (sestra)
-Food:bread.N	ban		ban	zho:包 (bāo), yue:包 (baau1), vie:bánh + por:pão, spa:pan, fra:pain, jpn:パン (pan), kor:빵 (ppang)
-Food:Camellia sinensis.N	cha		cha	zho:茶 (chá), yue:茶 (caa4), jpn:茶 (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), hau:shayi, por:chá
-Food:Citrullus lanatus.N	arbuz		arbuz	rus:арбуз (arbuz), pol:arbuz, tur:karpuz, fas: تربز (tarboz), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj), tam:தர்பூசணி (tarpūcaṇi)
-Food:Citrus sinensis.N	aranje		aranj'e	eng:fra:orange, spa:naranja, por:laranja, fas: نارنج‎ (nâranj), hin:नारंगी (narangi), tam:ஆரஞ்சு (ārañcu), jpn:(orenji) + rus:оранжевый (oranževiy)
-Food:Coffea.N	kafe		kafe	deu:Kaffee, fra:spa:por:café, rus:кофе, zho: 咖啡 (kāfēi), yue:咖啡 (gaa3 fe1), eng:coffee, hin:काफ़ी (kāfī), ben:কফি (kôphi), tur:kahve, hau:kofi, ful:kafe
-Food:Malus domestica.N	aple		apl'e	eng:apple, deu:Apfel, rus:яблоко (yabloko), may:apel, ben:আেপল (apôl), hau:aful
-Food:Metroxylon sagu.N	sagu fun		sagu fun	
-Food:noodle.N	mien		mien	zho:面 (miàn), yue:麵 (min6), jpn:麺 (men), kor:면 (myeon), vie:mì; miến, may:mie, tha:หมี่ (mii), khm:មី (mi)
-Food:pizza.N	piza		piza	eng:deu:fra:spa:tur:vie:pizza, rus:пицца (pitsa), fas: پیتزا‎ (pitzâ), hin:पिज़ा (pizā), ben:পিৎজা (pitja), tam:பீத்சா (pītcā), may:piza, zho:比萨 (bǐsà), jpn:ピザ (piza), kor:피자 (pija), ara: بِيتْزَا‎ (bītzā)
-Food:salad.N	salad		salad	fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), ful:salati
-Food:Solanum lycopersicum.N	tomat		tomat	eng:tomato, por:spa:tomate, deu:Tomate, rus:томат (tomat), tur:domates, hau:tumatiri, may:tomat, hin:टमाटर (ṭamāṭar), ben:টম্যাটো (ṭamyāṭo), jpn:トマト (tomato), kor:토마토 (tomato)
-Food:soup.N	supa		supa	eng:soup, fra: soupe, spa:por:sopa, deu: Suppe, rus:суп (sup), jpn:スープ (sūpu), kor:수프 (supeu), hin:सूप (sūp), may:sup, swa:supu
-Food:spoon.N	chamcha		chamcha	hin:चम्मच (cammac), ben:চামচ (camôc), may:camca, kan:ಚಮಚ (camaca), fas: چمچه (čamče), tel:చెమ్చా (cemcā), pnb:ਚਮਚਾ (camcā), tur:çömçe + tha:ช้อน (chon)
-Function:1PL EXCL.PRO	midi		mi·di	
-Function:1PL INCL.PRO	yumi		yu·mi	
-Function:1PL POSS.PRO	vi se		vi se	
-Function:1PL.PRO	vi		vi	
-Function:1SG POSS.PRO	mi se		mi se	
-Function:1SG.PRO	mi		mi	eng:fra:por:me, spa:mi; me, fas: من‎ (man), hin:मैं (mẽ), ben:আমি (ami), ful:mi, swa:mimi
-Function:2PL POSS.PRO	yu se		yu se	
-Function:2PL.PRO	yu		yu	
-Function:2SG POSS.PRO	tu se		tu se	
-Function:2SG.PRO	tu		tu	deu:du, fra:por:tu, spa:tú, rus:ты (ty), fas: تو‎ (to), hin:तू (tū), ben:তুই (tui)
-Function:3PL POSS.PRO	di se		di se	
-Function:3PL.PRO	di		di	
-Function:3SG POSS.PRO	da se		da se	
-Function:3SG.PRO	da		da	zho:他/她/它 (tā), ben:তা- (ta-), rus:та (ta), deu:das, eng:they; them
-Function:but.CNJ	ama		ama	ara: أما‎ (ʔamma), tur:ama, fas:urd:اما‎ (ammâ), hau:ful:amma, yor:àmọ́
-Function:FUT.PTCL	vil		vil	eng:will
-Function:here.ADV	hir		hir	
-Function:how.PRO	vat vei		vat vei	
-Function:if.CNJ	if		if	eng:if
-Function:noone.PRO	no von		no von	
-Function:nothing.PRO	no ting		no ting	
-Function:PRS.PTCL	nun		nun	eng:now, deu:nun, dan:sve:nu, fas: اکنون (aknun), pnb:ਹੁਣ (huṇ)
-Function:PST.PTCL	did		did	eng:did
-Function:that.PRO	da der		da der	
-Function:there.ADV	der		der	
-Function:these.PRO	di hir			
-Function:this.PRO	da hir		da hir	
-Function:those.PRO	di der			
-Function:what.PRO	vat		vat	eng:what, deu:was, ned:wat, sve:vad
-Function:what.PRO	vat ting		vat ting	
-Function:when.PRO	vat tem		vat tem	
-Function:where.PRO	vat plas		vat plas	
-Function:who POSS.PRO	hu se		hu se	
-Function:who.PRO	hu		hu	
-Function:who.PRO	vat von		vat von	
-Function:yes.PTCL	ye		ye	eng:yes; yeah, deu:ja, kor:예 (ye), may:ya
-Function:yes.PTCL	yes		yes	
-Hand::N	hande		hand'e	eng:hand, deu:Hand + hin:हाथ (hāth), ben:হাত (hat) + hau:hannu
-Horn::N	korne		korn'e	eng:horn, deu:Horn, fra:corne, spa:cuerno, por:corno, ara: قرن (qarn)
-House:table.N	meza		meza	por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa
-Hunting:bow.N	gung		gung	zho:弓 (gōng), yue:弓 (gung1), jpn:弓 (kyū), kor:궁 (gung), vie:cung
-Integrity:part.N	parte		part'e	eng:part, por:spa:parte + fas: پارچه (pârče), hin:पारचा (pārcā), tur:parça
-Kopf::N	kap		kap	deu:Kopf, spa:cabeza; cabo, por:cabeça; cabo, may:kepala + hin:कपाल (kapāl) + eng:cape, fra:cap + yue:岬 (gaap3), kor:갑 (gap)
-Music:sing.V	gante		gant'e	spa:por:cantar, ara: غَنَّى‎ (ḡannā), hin:गाना (gānā), ben:গান (gan), zho:歌 (gē), yue:歌 (go1), jpn:歌 (ka), kor:가 (ga), vie:ca
-Music:song.N	gante		gant'e	
-Music:tone.N	tona		tona	eng:tone, deu:Ton, fra:ton, spa:tono, por:tom, rus:тон (ton), hin:तान (tān), swa:kitone
-Nature:river.N	daria	aug	dar·ia	
-Nature:river.N	riv		riv	eng:river, fra:rivière, spa:por:rio
-Ohr::N	or		or	eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja, zho:耳 (ěr)
-People:baby.N	bebe		beb'e	fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)
-People:child.N	bacha		bacha	fas: بچه (bačče), hin:बच्चा (baccā), may:bocah, guj: બચ્ચું (baccũ), tgl:bata
-People:humankind.N	homania		hom·an·ia	
-Perception:hear or listen.V	audi		audi	eng:spa:fra:audio, por:áudio, deu:Audio, rus:аудио- (audio-), may:audio, jpn:オーディオ (ōdio), kor:오디오 (odio)
-Plant:Annona squamosa.N	ata		ata	fra:atte, por:ata, ben:আতা (ata), tgl:atis, som:aat
-Plant:Betula.N	betula		betula	spa:abedul, por:bétula, fra:bouleau, vie:bu-lô, ara: بَتُولَا‎ (batūlā)
-Plant:branch.N	shaka		shaka	fas: شاخه (šâxe), hin:शाखा (śākhā), ben:শাখা (śakha), tam:சாகை (sākai), tel:శాఖ (śākha), khm:សាខា (saakhaa), tha:สาขา (sǎa-kǎa)
-Plant:Ceiba pentandra.N	kapuk		kapuk	
-Plant:Cucumis melo.N	melon		melon	eng:fra:melon, spa:melón, por:melão, jpn:メロン (meron), kor:멜론 (mellon)
-Plant:flower.N	hua		hua	zho:花 (huā), yue:花 (faa1), vie:hoa, kor:화 (hwa) + swa:ua
-Plant:Glycine max.N	soya		soya	eng:soy, fra:spa:por:soja, rus:соя (soya), ara: صُويَا‎ (ṣūyā), hin:सोया (soyā), may:tur:soya + jpn:醤油 (shōyu)
-Plant:Gossypium.N	goton		goton	ara: قُطُن‎ (quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton, may:katun, jpn:コットン (kotton), kor:코튼 (koteun) + hin:गुड (guḍ)
-Plant:Ipomoea batatas.N	batata		batata	spa:por:eng:batata, fra:patate, deu:Batate, rus:батат (batat), ara: بَطَاطَا (baṭāṭā)
-Plant:leaf.N	yep		yep	zho:叶 (yè), yue:葉 (yip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō) + tur:yaprak
-Plant:Metroxylon sagu.N	sagu		sagu	eng:sago, fra:sagou, spa:sagú, por:may:sagu, rus:саго (sago), ara: سَاغُو‎ (sāḡū), zho:西谷米 (xīgúmǐ), jpn:サゴ (sago), hin:सागू (sāgū)
-Plant:Parkia biglobosa.N	nere		nere	man:nɛrɛ, wol:nere, fra:néré, ful:nɛtɛ
-Plant:seed.N	sem		sem	fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen
-Possession:market.N	bazar		bazar	fas:urd: بازار (bāzār), hin:बाज़ार (bāzār), tam:பசார் (pasār), fra:spa:por:bazar, eng:bazaar, rus:базар (bazar), may: pasar, zho:巴扎 (bāzhā); 巴剎 (bāshā)
-Quantity:0.NUM	siro		siro	ara: صِفْر‎ (ṣifr), swa:sifuri, hau:sifili, hin:सिफ़र (sifar), may:sifar, eng:por:zero, fra:zéro, spa:cero, rus:зеро (zero), jpn:ゼロ (zero), kor:제로 (jero), vie:zêrô
-Quantity:1.NUM	un		un	fra:un, spa:uno, por:um,una, eng:one
-Quantity:10.NUM	ten		ten	eng:ten, deu:zehn
-Quantity:10^12.NUM	tera		tera	eng:fra:spa:por:may:tur:tera-, rus:тера- (tera-), jpn:テラ (tera), kor:테라- (tera-)
-Quantity:10^15.NUM	peta		peta	eng:fra:spa:por:may:tur:peta-, rus:пета- (peta-), jpn:ペタ (peta), kor:페타- (peta-), zho:拍它- (pāitā-)
-Quantity:10^18.NUM	exa		exa	eng:fra:spa:por:exa, rus:экза- (ekza-), may:eska-, zho:艾可萨- (àikěsà-), jpn:エクサ (ekusa), kor:엑사- (eksa-)
-Quantity:10^21.NUM	zeta		zeta	eng:fra:spa:por:zetta-, may:zeta-, jpn:ゼタ- (zeta-), kor:제타- (jeta-), zho:泽它- (zétā-)
-Quantity:10^24.NUM	yota		yota	eng:fra:spa:por:yotta, may:yota-, zho:尧它- (yáotā-), jpn:ヨタ- (yota-), kor:요타- (yota-)
-Quantity:10^27.NUM	rona		rona	
-Quantity:10^30.NUM	kueta		kueta	
-Quantity:10^4.NUM	ten kilo		ten kilo	
-Quantity:10^6.NUM	mega		mega	eng:fra:spa:por:may:tur:mega-, rus:мега- (mega-), jpn:メガ (mega), kor:메가- (mega-)
-Quantity:10^9.NUM	giga		giga	eng:fra:spa:por:may:tur:giga-, rus:гига- (giga-), jpn:ギガ (giga), kor:기가- (giga-)
-Quantity:1000.NUM	kilo		kilo	eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)
-Quantity:11.NUM	ten un		ten un	
-Quantity:12.NUM	ten du		ten du	
-Quantity:2.NUM	due		du'e	fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui) + may:dua + kor:둘 (dul) + zho:對 (duì), yue:對 (deoi3), vie:đôi
-Quantity:3.NUM	tri		tri	eng:three, fra:trois, spa:tres, por:três, rus:три (tri), hin:त्रि-  (tri-), ben:ত্রি- (tri-), may:tri-
-Quantity:4.NUM	for		for	eng:four, deu:vier
-Quantity:5.NUM	faif		faif	eng:five, deu:fünf
-Quantity:6.NUM	sixe		six'e	eng:fra:six, deu:sechs, spa:por:seis + ara: سِتَّة‎ (sitta), hau:shida, swa:sita
-Quantity:7.NUM	seven		seven	eng:seven, deu:sieben, fra:sept, spa:siete, por:sete, hin:सात (sāt), ben:সাত (sat)
-Quantity:8.NUM	eit		eit	eng:eight, deu:acth, hin:आठ (āṭh), ben:আট (aṭ)
-Quantity:9.NUM	nain		nain	eng:nine, deu:neun
-Quantity:decrease.V	dekres		de.kres	
-Quantity:empty.A	hali		hali	ara:خَالٍ‎ (xāliy), hin:ख़ाली (xālī), ben:খালি (khali), tel:ఖాళీ (khāḷī), tam:(kali), fas:خالی (xāli), tur:hali
-Quantity:enough.ADV	bas		bas	spa:por:ita:basta + ara:fas:urd:س (bas), hin:(bas), swa:basi
-Quantity:increase.V	kres		kres	spa:crecer, por:crescer, fra:croître, eng:increase
-Society:emperor.N	imperer		imper·er	
-Society:help.N	helpe		help'e	
-Society:help.V	helpe		help'e	eng:help, deu:helfen
-Society:people.N	demo		dem'o	deu:eng:spa:por:may:tur:swa:demo-, fra:démo-, rus:демо- (demo-)
-Sound:giggle.INT	hihi		hihi	
-Sound:giggle.V	hihi		hihi	
-Sound:voice.N	fon		fon	eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon + fas: تلفن‎ (telefon), hin:फ़ोन (fon), ben:ফোন (phon), tur:telefon
-Storage:bag.N	bag		bag	eng:bag; baggage, hin:बैग (bæg), jpn:バッグ (baggu) + fra:bagage, por:bagagem, rus:багаж (bagazh), ben:ব্যাগেজ (byagej), may:beg; bagasi, tur:bagaj
-Storage:barrel.N	tong		tong	zho:桶 (tǒng), yue:桶 (tung3), kor:통 (tong), vie:thùng, may:tong, khm:តុង (tong), tha:ถัง (tǎng), fas: تنگ‎ (tong) + fra:tonneau, spa:tonel
-Storage:box.N	kas		kas	lat:capsa, deu:Kasse, eng:case, fra:caise, spa:caja, por:caixa, rus:касса (kassa), swa:kasha, ful:keesu + ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes + zho:卡式 (kǎshì), yue:卡式 (kaa1sik1), jpn:カセット (kasetto), kor:카세트 (kaseteu), hau:kaset
-Storage:bucket.N	balde		bald'e	spa:por:tgl:balde, hin:बाल्टी (bālṭī), ben:বালতি (balti), may:baldi, tam:வாளி (vāḷi)
-Storage:chest.N	sinduk		sin.duk	
-Storage:sack.N	sak		sak	deu:eng:sack, fra:sac, spa:por:saco, fas: ساک‎ (sâk), may:saku, ful:saakuuru, jpn:サック (sakku)
-Time:always.ADV	evri tem		evri tem	
-Time:April.N	mes for		mes for	
-Time:August.N	mes eit		mes eit	
-Time:December.N	mes ten du		mes ten du	
-Time:February.N	mes du		mes du	
-Time:final.A	final		fin·al	
-Time:January.N	mes un		mes un	
-Time:July.N	mes seven		mes seven	
-Time:June.N	mes sixe		mes six'e	
-Time:March.N	mes tri		mes tri	
-Time:May.N	mes faif		mes faif	
-Time:minute.N	minut		minut	eng:minute, spa:por:minuto, rus:мину́та (minúta), hin:मिनट (minaṭ), ben:মিনিট (miniṭ), may:minit
-Time:month.N	mes		mes	fra:mois, spa:mez, por:mês, rus:месяц (mes’ac), hin:मास (mās), ben:মাস (maś) + swa:mwezi
-Time:never.ADV	no tem		no tem	
-Time:new.A	nov		nov	eng:nov-, fra:nouveau, spa:nuevo, por:novo, rus:новый (novyy), hin:नव (nav), ben:নয় (nôy); নও- (nôo-), may:nawa
-Time:November.N	mes ten un		mes ten un	
-Time:now.ADV	nun		nun	
-Time:October.N	mes ten		mes ten	
-Time:old (of person).A	sen		sen	eng:fra:may:senior, spa:señor, por:sênior + zho:先辈 (xiānbèi), jpn:先輩 (senpai), kor:선배 (seonbae)
-Time:second.N	sekun		sekun	eng:second, spa:por:segundo, rus:секунда (sekunda), swa:sekunde, hin:सैकण्ड (saikaṇḍ), ben:সেকেন্ড (śekenḍ)
-Time:September.N	mes nain		mes nain	
-Time:year.N	nen		nen	zho:年 (nián), yue:年 (nin4), jpn:年 (nen), kor:년 (nyeon), vie:năm,niên
-Transit:boat.N	bot		bot	eng:boat, deu:Boot, fra:bateau, spa:bote, rus:бот (bot), hin:पोत (pot), swa:boti, jpn:ボート (bōto), kor:보트 (boteu)
-Transit:road.N	dau		dau	zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo
-Transit:ship.A	navik		nav·ik	
-Transit:ship.N	nav		nav	fra:navire, spa:nave, por:navio, fas: ناو‎ (nâv), hin:नाव (nāv), ben:নাও (naō), tam:நாவாய் (nāvāy)
-Transit:spaceship.N	kosmonav		kosm·o·nav	
-Value:bad.A	bad		bad	eng:bad, fas: بد (bad), hin:बद (bad), ben:বদ (bod)
-Value:duty.N	din		din	ara: دين (dīn), fas: دین (din), hin:दीन (dīn), ben:দীন (din), tur:may:din, swa:dini, hau:addini, ful:wol:diine
-Value:good.A	gud		gud	eng:good, deu:gut, rus:годный (godnyy)
+id	style	word	morphology	etymology
+PLX:1PL EXCL.pro		midi	mi·di	
+PLX:1PL INCL.pro		yumi	yu·mi	
+PLX:1PL POSS.pro		vi se	vi se	
+PLX:1PL.pro		vi	vi	
+PLX:1SG POSS.pro		mi se	mi se	
+PLX:1SG.pro		mi	mi	eng:fra:por:me, spa:mi; me, fas: من‎ (man), hin:मैं (mẽ), ben:আমি (ami), ful:mi, swa:mimi
+PLX:2PL POSS.pro		yu se	yu se	
+PLX:2PL.pro		yu	yu	
+PLX:2SG POSS.pro		tu se	tu se	
+PLX:2SG.pro		tu	tu	deu:du, fra:por:tu, spa:tú, rus:ты (ty), fas: تو‎ (to), hin:तू (tū), ben:তুই (tui)
+PLX:3PL POSS.pro		di se	di se	
+PLX:3PL.pro		di	di	
+PLX:3SG POSS.pro		da se	da se	
+PLX:3SG.pro		da	da	zho:他/她/它 (tā), ben:তা- (ta-), rus:та (ta), deu:das, eng:they; them
+PLX:Asian dragon.n		lung	lung	zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jpn:竜 (ryū), khm:រោង (roong), tha:มะโรง (má-roong)
+PWN:actinium.n.01		acinium	acin·ium	eng:actinium, fra:actinium, spa:actinio, por:actínio, rus:актиний, zho:锕 (ā), jpn:アクチニウム, kor:악티늄, vie:actini, hin:एक्टिनियम, ben:অ্যাক্টিনিয়াম, may:aktinium, swa:aktini, ara: اكتنيوم
+PWN:altar.n.02		puja meza	puja meza	
+PWN:aluminum.n.01		alumin	alumin	eng:aluminium, fra:aluminium, spa:aluminio, por:alumínio, rus:алюминий, zho:铝 (lǚ), jpn:アルミニウム, kor:알루미늄, vie:nhốm, hin:एल्युमिनियम, ben:অ্যালুমিনিয়াম, may:aluminium, swa:alumini, ara: الومينيوم (), hau:aluminum
+PWN:always.r.01		evri tem	evri tem	
+PWN:americium.n.01		amerikium	amerik·ium	eng:americium, fra:américium, spa:americio, por:amerício, rus:америций, zho:镅 (méi), jpn:アメリシウム, kor:아메리슘, vie:amerixi, hin:अमेरिशियम, ben:অ্যামেরিসিয়াম, may:amerisium, swa:ameriki, ara: أمريكيوم
+PWN:anal.a.01		anusik	anus·ik	
+PWN:antimony.n.01		stibium	stib·ium	zho:锑 (tī), swa:stibi
+PWN:anus.n.01		anus	anus	eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs
+PWN:argon.n.01		argon	argon	eng:argon, fra:argon, spa:argón, por:argon, rus:аргон, jpn:アルゴン, kor:아르곤, vie:agon, hin:ऑर्गन, ben:আর্গন, may:argon, swa:arigoni, ara: أرجون
+PWN:arsenic.n.02		arsenium	arsen·ium	eng:arsenic, fra:arsenic, spa:arsénico, por:arsénic, zho:砷 (shēn), vie:asen, hin:आर्सेनिक, ben:আর্সেনিক, may:arsen, swa:aseniki, ara: زرنيخ
+PWN:arsenic.n.02		astatin	astatin	eng:astatine, fra:astate, spa:ástato, por:astato, rus:астат(ин), zho:砹 (ài), jpn:アスタチン, kor:아스타틴, vie:astatin, hin:एस्टाटिन, ben:অ্যাস্টাটিন, may:astatin, swa:astatini, ara: استاتين
+PWN:atheist.n.01		andeiste	an.de·ist'e	
+PWN:awaken.v.01		budifa	bud·ifa	
+PWN:baby.n.01		bebe	beb'e	fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)
+PWN:bad.a.01		bad	bad	eng:bad, fas: بد (bad), hin:बद (bad), ben:বদ (bod)
+PWN:barium.n.01		barium	bar·ium	eng:barium, fra:baryum, spa:bario, por:bário, rus:барий, zho:钡 (bèi), jpn:バリウム, kor:바륨, vie:bari, hin:बेरियम, ben:বেরিয়াম, may:barium, swa:bari, ara: باريوم
+PWN:barroom.n.01		bar	bar	eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), yue:酒吧 (zau2baa1), jpn:バー (bā), hin:बार (bār), ben:বার (bar), tam:பார் (pār)
+PWN:bear.n.01		baru	baru	deu:Bär, eng:bear + hin:भालू (bhālū) ben:ভালুক (bhaluk), tam:பல்லுகம் (pallukam) + may:beruang
+PWN:berkelium.n.01		berkelium	berkel·ium	eng:berkelium, fra:berkélium, spa:berkelio, por:berqueélio, rus:берклий, zho:锫 (péi), jpn:バークリウム, kor:버클륨, vie:beckeli, hin:बर्केलियम, ben:বার্কেলিয়াম, may:berkelium, swa:berkeli, ara: بركليوم
+PWN:beryllium.n.01		berilium	beril·ium	eng:beryllium, fra:béryllium, spa:berilio, por:berílio, rus:бериллий, zho:铍 (pí), jpn:ベリリウム, kor:베릴륨, vie:swa:berili, hin:बेरिलियम, ben:বেরিলিয়াম, may:berilium, ara: بيريليوم
+PWN:birch.n.02		betula	betula	spa:abedul, por:bétula, fra:bouleau, vie:bu-lô, ara: بَتُولَا‎ (batūlā)
+PWN:bird.n.01		paxi	paxi	hin:mar:पक्षी (pakṣī), ben:পাখী (pakhī), tam:பட்சி (paṭci), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa)
+PWN:bismuth.n.01		bismute	bismut'e	eng:bismuth, fra:bismuth, spa:bismuto, por:bismuto, rus:висмут, zho:铋 (bì), jpn:ビスマス, kor:비스무트, vie:bitmut, bismut, hin:बिस्मथ, ben:বিসমাথ, may:bismut, swa:bismuthi, ara: بزموث
+PWN:black.a.01		blak	blak	eng:black, hau:baƙi
+PWN:blade.n.01		yep	yep	zho:叶 (yè), yue:葉 (yip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō) + tur:yaprak
+PWN:bless.v.01		barka	barka	ara:(mubārak), fas: برکت (barekat), ben:বরকত (borkot), may:berkah, tur:tebrik, swa:baraka, hau:ful:(al)barka, yor:alubarika
+PWN:blood.n.01		hemo	hem'o	eng:spa:por:may:vie:tur:hemo-, fra:hémo-, rus:гемо- (gemo-), jpn:ヘモ- (hemo-)
+PWN:blue.s.01		blu	blu	eng:blue, deu:blau, fra:bleu, spa:blao, swa:buluu, ful:bulo, may:belau; biru
+PWN:boat.n.01		bot	bot	eng:boat, deu:Boot, fra:bateau, spa:bote, rus:бот (bot), hin:पोत (pot), swa:boti, jpn:ボート (bōto), kor:보트 (boteu)
+PWN:bohrium.n.01		borium	bor·ium	eng:bohrium, fra:bohrium, spa:bohrio, por:bóhrio, rus:борий, zho: (bō), jpn:ボーリウム, kor:보륨, vie:bohri, hin:बोरियम, ben:বোহরিয়াম, may:bohrium, swa:bohri, ara: بوريوم
+PWN:bone.n.01		oste	ost'e	eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, fas: استخوان (ostoxân), hin:अस्थि (asthi-)
+PWN:book.n.01		buk	buk	eng:book, fra:bouquin, hin:बुक (buk), deu:Buch, may:buku, ful:swa:buku, wol:bukoo + rus:буклет (buklet)
+PWN:boron.n.01		boron	boron	eng:boron, fra:boron, spa:boro, por:boro, rus:бор, vie:bo, hin:बोरॉन्, ben:বোরন, may:boron, swa:boroni, ara: بورون
+PWN:bow.n.04		gung	gung	zho:弓 (gōng), yue:弓 (gung1), jpn:弓 (kyū), kor:궁 (gung), vie:cung
+PWN:branch.n.02		shaka	shaka	fas: شاخه (šâxe), hin:शाखा (śākhā), ben:শাখা (śakha), tam:சாகை (sākai), tel:శాఖ (śākha), khm:សាខា (saakhaa), tha:สาขา (sǎa-kǎa)
+PWN:bread.n.01		ban	ban	zho:包 (bāo), yue:包 (baau1), vie:bánh + por:pão, spa:pan, fra:pain, jpn:パン (pan), kor:빵 (ppang)
+PWN:breast.n.02		mam	mam	fas: ممه‎ (mame), tur:meme, eng:mamma, spa:por:mama + fra:mammifère, may:mamalia
+PWN:bromine.n.01		brom	brom	eng:bromine, fra:brome, spa:bromo, por:bromo, rus:бром, kor:브롬, vie:brom, hin:ब्रोमिन, ben:ব্রোমিন, may:brom, swa:bromi, ara: بروم
+PWN:brother.n.01		brad	brad	ell:φράτηρ (phrater), eng:brother, por:brada; bródi, rus:брат (brat), fas: برادر‎ (barâdar), hin:बिरादर (birādar), ben:বেরাদর (beradôr), may:bruder, jpn:ブラザー (burazā), kor:브라더 (beuradeo), tur:birader, swa:bradha
+PWN:brown.s.01		brun	brun	eng:brown, deu:braun, fra:brun, rus:бурый (buryy), hin:भूरा (bhurā), ara: بُنِّيّ (bunni)
+PWN:buddha.n.01		buda	bud'a	
+PWN:buddhism.n.01		budisme	bud·ism'e	
+PWN:buddhist.n.01		budiste	bud·ist'e	
+PWN:cadaver.n.01		nekre	nekr'e	eng:spa:por:necro-, fra:nécro-, deu:nekro-, rus:некро- (nekro-)
+PWN:cadmium.n.01		kadmium	kadm·ium	eng:cadmium, fra:cadmium, spa:cadmio, por:cádmio, rus:кадмий, zho:镉 (gé), jpn:カドミウム, kor:카드뮴, vie:catmi, hin:काडमियम, ben:ক্যাডমিয়াম, may:kadmium, swa:kadimi, ara: كادميوم
+PWN:calcium.n.01		kalsium	kals·ium	eng:calcium (Ca), fra:calcium, spa:calcio, por:cálcio, rus:кальций, zho:钙 (gài), jpn:カルシウム, kor:칼슘, vie:canxi, hin:कैल्शियम, ben:ক্যালসিয়াম, may:kalsium, swa:kalisi, ara: كلسيوم
+PWN:calendar_month.n.01		mes	mes	fra:mois, spa:mez, por:mês, rus:месяц (mes’ac), hin:मास (mās), ben:মাস (maś) + swa:mwezi
+PWN:californium.n.01		kalifornium	kaliforn·ium	eng:californium, fra:californium, spa:californio, por:califórnio, rus:калифорний, zho:锎 (kāi), jpn:カリホルニウム, kor:칼리포르늄, vie:califoni, hin:कैलीफोर्नियम, ben:ক্যালিফোর্নিয়াম, may:kalifornium, swa:kalifoni, ara: كاليفورنيوم
+PWN:carbon.n.01		karbe	karb'e	eng:carbon, fra:carbone, spa:carbón, por:carbono, vie:cacbon, hin:कार्बन, ben:কার্বন, may:karbon, swa:kaboni, ara: كربون
+PWN:cat.n.01		mau	mau	zho:猫 (māo), yue:貓 (maau), vie:mèo, tha:แมว (mæo), swa:nyau + eng:miaow; meow, fra:miaou, deu:spa:por:miau, rus:мяу (myau), fas: میو‎ (miyu), hin:म्याऊँ (myāū̃), tam:மியாவ் (miyāv), tur:miyav, 
+PWN:cerium.n.01		cerium	cer·ium	eng:cerium, fra:cérium, spa:cerio, por:cério, rus:церий, zho:铈 (shì), jpn:セリウム, kor:세륨, vie:xeri, hin:सेरियम, ben:সেরিয়াম, may:serium, swa:seri, ara: سيريوم
+PWN:cesium.n.01		cesium	ces·ium	eng:caesium, fra:césium, spa:cesio, por:césio, rus:цезий, zho:铯 (sè), jpn:セシウム, kor:세슘, vie:xezi, hin:सीज़ियम, ben:সিজিয়াম, may:sesium, swa:sizi, ara: سيزيوم
+PWN:child.n.01		bacha	bacha	fas: بچه (bačče), hin:बच्चा (baccā), may:bocah, guj: બચ્ચું (baccũ), tgl:bata
+PWN:chlorine.n.01		klor	klor	eng:chlorine, fra:chlore, spa:cloro, por:cloro, rus:хлор, vie:clo, hin:क्लोरीन, ben:ক্লোরিন, may:klor, swa:klorini, ara: كلور
+PWN:christianity.n.01		kristisme	krist·ism'e	
+PWN:christmas.n.01		kristogen	krist·o·gen	
+PWN:chromium.n.01		kromium	krom·ium	eng:chromium, fra:chrome, spa:cromo, por:crómo, rus:хром, jpn:クロム, kor:크로뮴, vie:crom, hin:क्रोमियम, ben:ক্রোমিয়াম, may:krom, swa:kromi, ara: كروم
+PWN:citizenry.n.01		demo	dem'o	deu:eng:spa:por:may:tur:swa:demo-, fra:démo-, rus:демо- (demo-)
+PWN:coat.n.01		kot	kot	eng:coat, swa:koti, hau:kwat, orm:koota, jpn:コート (kōto), fas:(kot), hin:कोट (kot)
+PWN:cobalt.n.01		kobalte	kobalt'e	eng:cobalt, fra:cobalt, spa:cobalto, por:cobalto, rus:кобальт, zho:钴 (gǔ), jpn:コバルト, kor:코발트, vie:coban, hin:कोबाल्ट, ben:কোবাল্ট, may:kobalt, swa:kobalti, ara: كوبلت
+PWN:coffee.n.01		kafe	kafe	deu:Kaffee, fra:spa:por:café, rus:кофе, zho: 咖啡 (kāfēi), yue:咖啡 (gaa3 fe1), eng:coffee, hin:काफ़ी (kāfī), ben:কফি (kôphi), tur:kahve, hau:kofi, ful:kafe
+PWN:color.n.01		rang	rang	fas: رَنْگ (rang), hin:रंग (raṅg), ben:রং (rông), tam:ரங்கு (raṅku), tur:renk, swa:rangi
+PWN:construct.v.01		bina	bina	ara: بِنَاء‎ (bināʾ), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, + jpn:ビル (biru)
+PWN:copper.n.01		kupre	kupr'e	eng:copper, fra:cuivre, spa:cobre, por:cobre, swa:kupri
+PWN:curium.n.01		kurium	kur·ium	eng:curium, fra:curium, spa:curio, por:cúrio, rus:кюрий, jpn:キュリウム, kor:퀴륨, vie:curi, hin:क्यूरियम, ben:কুরিয়াম, may:kurium, swa:kuri, ara: كوريوم
+PWN:cut.v.01		kat	kat	eng:cut, hin:काटना (kāṭnā), ben:কাটা (kata); কেতা (keta), tam:கடி (kaṭi), swa:-kata, ara: قَطَعَ (qaṭa’a), fas: قطعه‎ (qet'e), tur:kıta, zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu), vie:cắt, tha:กัด (kat)
+PWN:dam.n.01		baraje	bar·aj'e	
+PWN:darmstadtium.n.01		darmestadium	darmestad·ium	eng:darmstadtium, fra:darmstadtium, spa:darmstatio, por:darmstádio, rus:дармштадтий, zho: (dá), jpn:ダームスタチウム, kor:다름슈타튬, vie:darmstadti, hin:डार्म्स्टेडशियम, ben:ডারমস্টাডটিয়াম, may:darmstadtium, swa:darmstadti, ara: دارمشتاتيوم
+PWN:deity.n.01		deo	de'o	por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)
+PWN:demonic.s.01		diblik	dibl·ik	
+PWN:devil.n.02		dible	dibl'e	eng:devil, fra:diable, spa:diablo, por:diabo, rus:дьявол (dyavol), ara: إِبْلِيس⁩ (ʔiblīs), tur:hau:iblis, swa:ibilisi
+PWN:dog.n.01		bua	bua	swa:mbwa + fra:ouaf, zho:汪 (wāng), jpn:ワン (wan)
+PWN:domestic_ass.n.01		iha	iha	onom. eng:heehaw, fra:hi-han, rus:и-а (i-a), vie:hô hố, tur:aa-i
+PWN:doubt.n.01		shak	shak	ara: شَكَّ‎ (šakka), fas: شک‎ (šak), hin:शक (śak); शंका (śankā), may:syak; sangka, tur:şek, swa:shaka; -shuku, hau:shakka
+PWN:dragon.n.01		drak	drak	eng:fra:dragon, spa:dragón, por:dragão, deu:Drache, rus:дракон (drakon), jpn:ドラゴン (doragon), kor:드래곤 (deuraegon), swa:dragoni
+PWN:dubnium.n.01		dubnium	dubn·ium	eng:dubnium, fra:dubnium, spa:dubnio, por:dúbnio, rus:дубний, ²нильсборий, zho: (dù), jpn:ドブニウム, kor:더브늄, vie:dubni, hin:डब्नियम, ben:ডুবনিয়াম, may:dubnium, swa:dubni, ara: دبنيوم
+PWN:duck.n.01		bata	bata	ara: بَطَّة‎ (baṭṭa), hin:बत्तख (battakh), tam:வாத்து (vāttu), tel:బాతు (bātu), swa:bata + spa:por:pato + tha:เป็ด  (pèt)
+PWN:dysprosium.n.01		disprosium	dispros·ium	eng:dysprosium, fra:dysprosium, spa:disprosio, por:disprósio, rus:диспрозий, zho:镝 (dī), jpn:ジスプロシウム, kor:디스프로슘, vie:đysprosi, hin:डिस्प्रोसियम, ben:ডিসপ্রোসিয়াম, may:disprosium, swa:disprosi, ara: ديسبروسيوم
+PWN:east.n.01		dong	dong	zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu
+PWN:eight.s.01		eit	eit	eng:eight, deu:acth, hin:आठ (āṭh), ben:আট (aṭ), tam:எட்டு (eṭṭu)
+PWN:einsteinium.n.01		einsteinium	einstein·ium	eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم
+PWN:elementary.s.01		izi	izi	eng:easy, fra:aisé, zho:易 (yì), yue:易 (yi6), jpn:易 (i), kor:이, vie:dễ
+PWN:eleven.s.01		ten un	ten un	
+PWN:empty.a.01		hali	hali	ara:خَالٍ‎ (xāliy), hin:ख़ाली (xālī), ben:খালি (khali), tel:ఖాళీ (khāḷī), tam:(kali), fas:خالی (xāli), tur:hali
+PWN:enough.r.01		bas	bas	spa:por:ita:basta + ara:fas:urd:س (bas), hin:(bas), swa:basi
+PWN:erbium.n.01		erbium	erb·ium	eng:erbium, fra:erbium, spa:erbio, por:érbio, rus:эрбий, zho:铒 (ěr), jpn:エルビウム, kor:에르븀, vie:eribi, hin:अर्बियम, ben:ইরবিয়াম, may:erbium, swa:erbi, ara: إربيوم
+PWN:europium.n.01		europium	europ·ium	eng:europium, fra:europium, spa:europio, por:európio, rus:европий, jpn:ユウロピウム, kor:유로퓸, vie:europi, hin:युरोपियम, ben:ইউরোপিয়াম, may:europium, swa:europi, ara: يروبيوم
+PWN:eye.n.01		ain	ain	eng:eye + ara: عين (ʕayn), may:ain + zho:眼 (yǎn)
+PWN:face.n.01		muka	muka	ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha
+PWN:father.n.01		pa	pa	eng:fra:papa, spa:papá, por:pai, rus:папа (papa), ara:(bābā), zho:爸 (bà), yue:爸 (baa1), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp), ben:বাবা (baba), may:bapa, hau:swa:tur:baba, ful:ba; baaba
+PWN:fermium.n.01		fermium	ferm·ium	eng:fermium, fra:fermium, spa:fermio, por:férmio, rus:фермий, zho:镄 (fèi), jpn:フェルミウム, kor:페르뮴, vie:fecmi, hin:फर्मियम, ben:ফার্মিয়াম, may:fermium, swa:fermi, ara: فرميوم
+PWN:five.s.01		faif	faif	eng:five, deu:fünf
+PWN:flower.n.02		hua	hua	zho:花 (huā), yue:花 (faa1), vie:hoa, kor:화 (hwa) + swa:ua
+PWN:fluorine.n.01		flur	flur	eng:fluorine, fra:fluor, spa:flúor, por:flúor, rus:фтор, zho:氟 (fú), jpn:フッ素, kor:플루오르, vie:flo, hin:फ्लोरीन, ben:ফ্লুরিন, may:fluor, swa:florini, ara: فلور
+PWN:foot.n.01		fut	fut	eng:foot, deu:Pfote
+PWN:forgive.v.01		perdon	per.don	
+PWN:four.s.01		for	for	eng:four, deu:vier
+PWN:francium.n.01		fransium	frans·ium	eng:francium, fra:francium, spa:francio, por:frâncio, rus:франций, zho:钫 (fāng), jpn:フランシウム, kor:프랑슘, vie:franxi, hin:फ्रान्सियम, ben:ফ্রান্সিয়াম, may:fransium, swa:fransi, ara: فرنسيوم
+PWN:gadolinium.n.01		gadolinium	gadolin·ium	eng:gadolinium, fra:gadolinium, spa:gadolinio, por:gadolínio, rus:гадолиний, zho:钆 (gá), jpn:ガドリニウム, kor:가돌리늄, vie:gađolini, hin:ग्याडोलिनियम, ben:গ্যাডোলিনিয়াম, may:gadolinium, swa:gadolini, ara: جدولينيوم
+PWN:gallium.n.01		galium	gal·ium	eng:gallium, fra:gallium, spa:galio, por:gálio, rus:галлий, zho:镓 (jiā), jpn:ガリウム, kor:갈륨, vie:gali, hin:गैलियम, ben:গ্যালিয়াম, may:galium, swa:gali, ara: جاليوم
+PWN:gate.n.01		dor	dor	eng:door, deu:Tür, rus:дверь (dverʹ), fas: دَر (dar), hin:द्वार (dvār), ben:দরজা (dorja), tel:ద్వారము (dvāramu), jpn:(doa)
+PWN:germanium.n.01		germanium	german·ium	eng:germanium, fra:germanium, spa:germanio, por:germânio, rus:германий, jpn:ゲルマニウム, kor:게르마늄, vie:gecmani, hin:जर्मेनियम, ben:জার্মেনিয়াম, may:germanium, swa:gerimani, ara: جرمانيوم
+PWN:glass.n.01		glas	glas	deu:Glas, eng:glass + fas: گیلاس‎ (gilâs), hin:गिलास (gilās), ben:গ্লাস (glaś), jpn:グラス (gurasu), kor:글라스 (geullaseu), may:gelas, swa:glasi, hau:gilashi + rus:глазурь, spa:glasear
+PWN:gold.n.03		aur	aur	ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum, swa:auri
+PWN:good.a.01		gud	gud	eng:good, deu:gut, rus:годный (godnyy)
+PWN:goose.n.01		gansa	gansa	spa:por:ganso, hin:हंस (hans), ben:হাঁস (hãs), may:angsa eng:goose, rus:гусь (gus’), pol:gęś + yue:雁 (ngaan6), jpn:雁 (gan), tha:ห่าน (han)
+PWN:green.s.01		grin	grin	eng:green, deu:grün
+PWN:grey.s.01		gris	gris	eng:grey, deu:grau, fra:spa:gris, tur:gri
+PWN:hafnium.n.01		hafnium	hafn·ium	eng:hafnium, fra:hafnium, spa:hafnio, por:háfnio, rus:гафний, zho:铪 (hā), jpn:ハフニウム, kor:하프늄, vie:hafini, hin:हाफ्नियम, ben:হাফনিয়াম, may:hafnium, swa:hafni, ara: هفنيوم
+PWN:hair.n.01		kesh	kesh	jpn:毛 (ke), hin:केश (keś), ben:কেশ (keś), tam:கேசம் (kēcam), tel:కేశము (kēśamu)
+PWN:hanukkah.n.01		hanuka	hanuka	
+PWN:hassium.n.01		hesium	hes·ium	eng:hassium, fra:hassium, spa:hasio, por:hássio, rus:хассий, zho: (hēi), jpn:ハッシウム, kor:하슘, vie:hassi, hin:हसियम, ben:হ্যাসিয়াম, may:hassium, swa:hassi, ara: هاسيوم
+PWN:head_covering.n.01		hijab	hijab	ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)
+PWN:helium.n.01		helium	hel·ium	eng:helium, fra:hélium, spa:helio, por:hélio, rus:гелий, zho:氦 (hài), jpn:ヘリウム, kor:헬륨, vie:swa:heli, hin:हिलियम, ben:হিলিয়াম, may:helium, ara: هيليوم
+PWN:hell.n.04		narak	narak	hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)
+PWN:help.v.01		helpe	help'e	eng:help, deu:helfen
+PWN:here.r.01		hir	hir	
+PWN:hiccup.n.01		hik	hik	eng:hiccup, rus:икота (ikota), hin:हीक (hīk), jpn:ヒック (hikku)
+PWN:hiccup.v.01		hik	hik	
+PWN:hippopotamus.n.01		gubu	gubu	ful:ngabbu kon:ngubu, sot:tsw:kubu, zul:rwa:imvubu, amh:ጉማሬ (gumare)
+PWN:holmium.n.01		holmium	holm·ium	eng:holmium, fra:holmium, spa:holmio, por:hólmio, rus:гольмий, zho:钬 (huǒ), jpn:ホルミウム, kor:홀뮴, vie:honmi, hin:होल्मियम, ben:হলমিয়াম, may:holmium, swa:homi, ara: هلميوم
+PWN:horse.n.01		mar	mar	mon:морь (mor'), kor:말 (mal), zho:马 (mǎ), yue:馬 (maa5), jpn:馬 (uma), vie:mã, tha:ม้า (maa), tam:மா (mā), eng:mare, deu:Mähre, isl:mar
+PWN:hydrogen.n.01		hidre	hidr'e	eng:fra:hydro-, spa:por:may:swa:hidro-, vie:hyđrô, ara: هيدروجين
+PWN:igloo.n.01		iglu	iglu	eng:igloo, fra:iglou, spa:iglú, por:tur:may:iglu, rus:иглу (iglu), hin:इग्लू (iglū), jpn:イグルー (igurū), kor:이글루 (igeullu)
+PWN:indium.n.01		hindium	hind·ium	eng:indium, fra:indium, spa:indium, por:índio, rus:индий, zho:铟 (yīn), jpn:インジウム, kor:인듐, vie:indi, hin:इण्डियम, ben:ইন্ডিয়াম, may:indium, swa:indi, ara: انديوم
+PWN:iodine.n.01		iode	iod'e	eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:йод, jpn:ヨウ素, kor:요오드, vie:iot, hin:आयोडिन, ben:আয়োডিন, may:yodium, swa:iodini, ara: يود
+PWN:iridium.n.01		iridium	irid·ium	eng:iridium, fra:iridium, spa:iridio, por:irídio, rus:иридий, jpn:イリジウム, kor:이리듐, vie:iriđi, hin:इरिडियम, ben:ইরিডিয়াম, may:iridium, swa:iridi, ara: إريديوم
+PWN:iron.n.01		fere	fer'e	spa:hierro, por:ferro, fra:fer, may:ferum, swa:feri
+PWN:jersey.n.03		T-sherte	T-shert'e	
+PWN:kidney.n.01		nefre	nefr'e	eng:fra:nephro-, spa:por:nefro-, deu:Niere + rus:нефрит (nefrit)
+PWN:krypton.n.01		kriton	kriton	eng:krypton, fra:krypton, spa:criptón (kriptón), por:krípton, rus:криптон, zho:氪 (kè), jpn:クリプトン, kor:크립톤, vie:kripton, hin:क्रिप्टन, ben:ক্রিপ্টন, may:kripton, swa:kriptoni, ara: كربتون
+PWN:lanthanum.n.01		lantan	lantan	eng:lanthanum, fra:lanthane, spa:lantano, por:lantâno, rus:лантан, zho:镧 (lán), jpn:ランタン, kor:란탄, vie:lantan, hin:लाञ्थनम, ben:ল্যান্থানাম, may:lantanium, swa:lanthani, ara: لنثانوم
+PWN:last.a.02		final	fin·al	
+PWN:lawrencium.n.01		laurencium	laurenc·ium	eng:lawrencium, fra:lawrencium, spa:laurencio, por:lawrêncio, rus:лоуренсий, zho:铹 (láo), jpn:ローレンシウム, kor:로렌슘, vie:lorenxi, lawrenci, hin:लॉरेंशियम, ben:লরেনসিয়াম, may:lawrensium, swa:lawirensi, ara: لورنسيوم
+PWN:lead.n.02		plumbe	plumb'e	fra:plomb, spa:plomo, por:chumbo, swa:plumbi
+PWN:lion.n.01		singa	singa	may:singa, hin:सिंघ (singh), ben:সিংহ (singh), tam:சிங்கம் (sinkam), tha:สิง (sing), zho:狮 (shī), jpn:獅子 (shishi), + swa:simba
+PWN:lithium.n.01		litium	lit·ium	eng:lithium, fra:lithium, spa:litio, por:lítio, rus:литий, zho:锂 (lǐ), jpn:リチウム, kor:리튬, vie:swa:lithi, hin:लिथियम, ben:লিথিয়াম, may:litium, swa:lithi, ara: ليثيوم
+PWN:love.v.03		love	lov'e	
+PWN:lutetium.n.01		lutesium	lutes·ium	eng:lutetium, fra:lutécium, spa:lutecio, por:lutécio, rus:лютеций, zho:镥 (lǔ), jpn:ルテニウム, kor:루테튬, vie:lutexi, hin:लुटेटियम, ben:লুটেসিয়াম, may:lutetium, swa:luteti, ara: لوتيتيوم
+PWN:magnesium.n.01		magnesium	magnes·ium	eng:magnesium, fra:magnésium, spa:magnesio, por:magnésio, rus:магний, zho:镁 (měi), jpn:マグネシウム, kor:마그네슘, vie:magiê, hin:मैग्नेशियम, ben:ম্যাগনেসিয়াম, may:magnesium, swa:magnesi, ara: مغنيسيوم
+PWN:manganese.n.01		mangan	mangan	eng:manganese, fra:manganèse, spa:manganeso, por:manganésio, rus:марганец, zho:锰 (měng), jpn:マンガン, kor:망가니즈, vie:mangan, hin:मैंगनीज, ben:ম্যাঙ্গানিজ, may:manggan, swa:manganisi, ara: منجنيز
+PWN:marketplace.n.02		bazar	bazar	fas:urd: بازار (bāzār), hin:बाज़ार (bāzār), tam:பசார் (pasār), fra:spa:por:bazar, eng:bazaar, rus:базар (bazar), may: pasar, zho:巴扎 (bāzhā); 巴剎 (bāshā)
+PWN:meitnerium.n.01		meitnerium	meitner·ium	eng:meitnerium, fra:meitnérium, spa:meitnerio, por:meitnério, rus:майтнерий, jpn:マイトネリウム, kor:마이트너륨, vie:meitneri, hin:मेइट्नेरियम, ben:মিটনেরিয়াম, may:meitnerium, swa:meitneri, ara: مايتنريوم
+PWN:mendelevium.n.01		mendelevium	mendelev·ium	eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم
+PWN:mercury.n.01		hidrargente	hidrargente	swa:hidrajiri
+PWN:molybdenum.n.01		moliden	moliden	eng:molybdenum, fra:molybdène, spa:molibdeno, por:molibdénio, rus:молибден, zho:钼 (mù), jpn:モリブデン, kor:몰리브덴, vie:molypđen, hin:मोलिब्डेनम, ben:মলিবডেনাম, may:molibden, swa:molibdeni, ara: مولبيدنيوم
+PWN:more.a.02		mor	mor	eng:more, deu:mehr
+PWN:morning.n.01		suba	suba	ara: صَبَاح‎ (ṣabāḥ), fas: صبح‎ (sobh), hin:सुबह (subah), tur:sabah, swa:asubuhi, hau:asuba, ful:subaha
+PWN:mother.n.01		ma	ma	por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)
+PWN:mouse.n.01		mushu	mush	rus:мышь (myś), pol:mysz, fas: موش‎ (muš) + zho:鼠 (shǔ)
+PWN:mule.n.01		ihamar	iha·mar	
+PWN:nail.n.01		nag	nag	deu:Nagel, rus:ноготь (nogot'), fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), tam:நகம் (nakam)
+PWN:neodymium.n.01		neodimium	neodim·ium	eng:neodymium, fra:néodyme, spa:neodimio, por:neodímio, rus:неодим, zho:钕 (nǚ), jpn:ネオジム, kor:네오디뮴, vie:neođim, hin:नियोडाइमियम, ben:নিওডিমিয়াম, may:neodinium, swa:neodimi, ara: نيودميوم
+PWN:neon.n.01		neon	neon	eng:neon, fra:néon, spa:neón, por:néon, rus:неон, zho:氖 (nǎi), jpn:ネオン, kor:네온, vie:neon, nê-ông, hin:नियोन, ben:নিয়ন, may:neon, swa:neoni, ara: نيون
+PWN:neptunium.n.01		neptunium	neptun·ium	eng:neptunium, fra:neptunium, spa:neptunio, por:neptúnio, rus:нептуний, zho:镎 (ná), jpn:ネプツニウム, kor:넵투늄, vie:neptuni, hin:नेप्ट्यूनियम, ben:নেপচুনিয়াম, may:neptunium, swa:neptuni, ara: نبتونيوم
+PWN:never.r.01		no tem	no tem	
+PWN:new.a.01		nov	nov	eng:nov-, fra:nouveau, spa:nuevo, por:novo, rus:новый (novyy), hin:नव (nav), ben:নয় (nôy); নও- (nôo-), may:nawa
+PWN:nickel.n.01		nikel	nikel	eng:nickel, fra:nickel, spa:níquel, por:níquel, rus:никель, zho:镍 (niè), jpn:ニッケル, kor:니켈, vie:nikel, hin:निकेल, ben:নিকেল, may:nikel, swa:nikeli, ara: نيكل
+PWN:nine.s.01		nain	nain	eng:nine, deu:neun
+PWN:niobium.n.01		niobium	niob·ium	eng:niobium, fra:niobium, spa:niobio, por:nióbio, rus:ниобий, zho:铌 (ní), jpn:ニオブ, kor:나이오븀, vie:niobi, hin:नायोबियम, ben:নাইওবিয়াম, may:niobium, swa:niobi, ara: نيوبيوم
+PWN:nitrogen.n.01		nitre	nitr'e	eng:nitrogen, fra:azote, spa:nitrógeno, por:nitrogénio, rus:азот, vie:nitơ, hin:नाइट्रोजन, ben:নাইট্রোজেন, may:nitrogen, swa:nitrojeni, ara: نيتروجين
+PWN:no.r.03		no	no	eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)
+PWN:nobelium.n.01		nobelium	nobel·ium	eng:nobelium, fra:nobélium, spa:nobelio, por:nobélio, rus:нобелий, zho:锘 (nuò), jpn:ノーベリウム, kor:노벨륨, vie:nobeli, hin:नोबेलियम, ben:নোবেলিয়াম, may:nobelium, swa:nobeli, ara: نوبليوم
+PWN:north.n.03		norde	nord'e	eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)
+PWN:nose.n.01		naze	naz'e	eng:nose, spa:por:nariz, deu:Nase, rus:нос (nos), fas:نس‎ (nos), hin:नासिका (nāsikā), ben:নাক (nak), tam:நாசி (nāsi)
+PWN:now.r.04		nun	nun	
+PWN:one.s.01		un	un	fra:un, spa:uno, por:um,una, eng:one
+PWN:orange.s.01		aranje brun	aranj'e brun	
+PWN:osmium.n.01		osmium	osm·ium	eng:osmium, fra:osmium, spa:osmio, por:ósmio, rus:осмий, jpn:オスミウム, kor:오스뮴, vie:osimi, hin:अस्मियम, ben:অসমিয়াম, may:osmium, swa:osmi, ara: ازميوم
+PWN:oven.n.01		tanur	tanur	fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr), swa:tanuri, hau:tanda
+PWN:oxygen.n.01		oxe	ox'e	eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين
+PWN:palladium.n.01		paladium	palad·ium	eng:palladium, fra:palladium, spa:paladio, por:paládio, rus:палладий, zho:钯 (bǎ), jpn:パラジウム, kor:팔라듐, vie:palađi, hin:पलाडियम, ben:প্যালাডিয়াম, may:paladium, swa:paladi, ara: بلاديوم
+PWN:person.n.01		hom	hom	fra:homme, spa:hombre, por:homem, eng:human
+PWN:person.n.01		homan	hom·an	
+PWN:phosphorus.n.01		fosfe	fosf'e	eng:phosphorus, fra:phosphore, spa:fósforo, por:fósforo, rus:фосфор, vie:photpho, hin:फास्फोरस, ben:ফসফরাস, may:fosfor, swa:posfori, ara: فوسفور
+PWN:pink.s.01		hong	hong	zho:红 (hóng), yue:紅 (hung4), vie:hồng, kor:홍 (hong), jpn:紅色 (kōshoku)
+PWN:platinum.n.01		platin	platin	eng:platinum, fra:platine, spa:platino, por:platina, rus:платина, zho:铂 (bó), vie:platin, hin:प्लाटिनम, ben:প্লাটিনাম, may:platina, swa:platini, ara: بلاتين
+PWN:plutonium.n.01		plutonium	pluton·ium	eng:plutonium, fra:plutonium, spa:plutonio, por:plutónio, rus:плутоний, zho:钚 (bù), jpn:プルトニウム, kor:플루토늄, vie:plutoni, hin:प्लूटोनियम, ben:প্লুটোনিয়াম, may:plutonium, swa:plutoni, ara: بلوتونيوم
+PWN:polonium.n.01		polskium	polsk·ium	eng:polonium, fra:polonium, spa:polonio, por:polónio, rus:полоний, zho:钋 (pō), jpn:ポロニウム, kor:폴로늄, vie:poloni, hin:पोलोनियम, ben:পোলনিয়াম, may:polonium, swa:poloni, ara: بولونيوم
+PWN:potassium.n.01		kalium	kal·ium	rus:калий, jpn:カリウム, vie:kali, may:kalium, swa:kali
+PWN:praseodymium.n.01		prazedimium	prazedim·ium	eng:praseodymium, fra:praséodyme, spa:praseodimio, por:praseodímio, rus:празеодим, jpn:プラセオジム, kor:프라세오디뮴, vie:prazeođim, hin:प्रासियोडाइमियम, ben:প্র্যাসেওডিমিয়াম, may:praseodinium, swa:praseodimi, ara: براسوديميوم
+PWN:promethium.n.01		prometium	promet·ium	eng:promethium, fra:prométhium, spa:prometio, por:promécio, rus:прометий, zho:钷 (pǒ), jpn:プロメチウム, kor:프로메튬, vie:prometi, hin:प्रोमेथियम, ben:প্রমিথিয়াম, may:prometium, swa:promethi, ara: بروميثيوم
+PWN:protactinium.n.01		protatinium	protatin·ium	eng:protactinium, fra:protactinium, spa:proactinio, por:protacnídio, rus:протактиний, zho:镤 (pú), jpn:プロトアクチニウム, kor:프로트악티늄, vie:protactini, hin:प्रोटैक्टीनियम, ben:প্রোটেক্টিনিয়াম, may:protaktinium, swa:protaktini, ara: بروتكتنيوم
+PWN:purple.s.01		purpur	purpur	eng:purple, deu:Purpur, fra:pourpre, spa:por:púrpura, rus:пурпурный (purpúrnyj), kor:보라 (bora), jpn:紫 (murasaki)
+PWN:radium.n.01		radium	rad·ium	eng:radium, fra:radium, spa:radio, por:rádio, rus:радий, zho:镭 (léi), jpn:ラジウム, kor:라듐, vie:rađi, hin:रेडियम, ben:রেডিয়াম, may:radium, swa:radi, ara: راديوم
+PWN:radon.n.01		radon	radon	eng:radon, fra:radon, spa:radón, por:rádon, rus:радон, zho:氡 (dōng), jpn:ラドン, kor:라돈, vie:rađơn, hin:रेडन, ben:রেডন, may:radon, swa:radoni, ara: رادون
+PWN:red.s.01		rod	rod	eng:red, deu:rot, fra:rouge, spa:rojo, ita:rosso
+PWN:repent.v.02		sori	sori	
+PWN:rhenium.n.01		renium	ren·ium	eng:rhenium, fra:rhénium, spa:renio, por:rénio, rus:рений, zho:铼 (lái), jpn:レニウム, kor:레늄, vie:reni, hin:रेनियम, ben:রেনিয়াম, may:renium, swa:reni, ara: رنيوم
+PWN:rhinal.a.01		nazal	naz·al	
+PWN:rhodium.n.01		rodium	rod·ium	eng:rhodium, fra:rhodium, spa:rodio, por:ródio, rus:родий, jpn:ロジウム, kor:로듐, vie:rođi, hin:रोडियम, ben:রোডিয়াম, may:rodium, swa:rodi, ara: روديوم
+PWN:road.n.01		dau	dau	zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo
+PWN:roentgenium.n.01		rentgenium	rentgen·ium	eng:roentgenium, fra:roentgenium, spa:roentgenio, por:roentgênio, rus:рентгений, zho: (lún), jpn:レントゲニウム, kor:뢴트게늄, vie:roentgeni, hin:रॉन्टजैनियम, ben:রোয়েন্টজেনিয়াম, may:roentgenium, swa:roentgeni, ara: رونتجينيوم
+PWN:rubidium.n.01		rubium	rub·ium	eng:rubidium, fra:rubidium, spa:rubidio, por:rubídio, rus:рубидий, zho:铷 (rú), jpn:ルビジウム, kor:루비듐, vie:rubiđi, hin:रुबिडियम, ben:রুবিডিয়াম, may:rubidium, swa:rubidi, ara: روبيديوم
+PWN:run.v.01		ren	ren	eng:run, deu:rennen, hin:रनर (ranar), jpn:ランニング (ranningu)
+PWN:ruthenium.n.01		rusium	rus·ium	
+PWN:rutherfordium.n.01		ruterfordium	ruterford·ium	eng:rutherfordium, fra:rutherfordium, spa:rutherfordio, por:rutherfórdio, rus:резерфордий, ²курчатовий, zho: (lú), jpn:ラザホージウム, kor:러더포듐, vie:rutherfordi, hin:रुथरफोर्डियम, ben:রাদারফোর্ডিয়াম, may:rutherfordium, swa:rutherfordi, ara: رذرفورديوم
+PWN:samarium.n.01		samarium	samar·ium	eng:samarium, fra:samarium, spa:samario, por:samário, rus:самарий, zho:钐 (shān), jpn:サマリウム, kor:사마륨, vie:samari, hin:सैमरियम, ben:সামারিয়াম, may:samarium, swa:hau:samari, ara: ساماريوم
+PWN:same.a.01		sim	sim	eng:same, fra:similaire, spa:por:similar, rus:самый (samyy), fas:هم‎ (ham), hin:सम (sam), may:sama
+PWN:satan.n.01		shatan	shatan	heb: שָׂטָן‎ (śaṭan), ara: شيطان (šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), yue:撒但 (saat3daan6), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), ben:শয়তান (śoẏtan), tam:சயித்தான் (cayittāṉ), may:Setan, tur:şeytan, swa:Shetani, hau:shaiɗan
+PWN:satanic.a.02		shatanik	shatan·ik	
+PWN:scandium.n.01		skandium	skand·ium	eng:scandium, fra:scandium, spa:escandio, por:escândio, rus:скандий, zho:钪 (kàng), jpn:スカンジウム, kor:스칸듐, vie:scandi, hin:स्काण्डियम, ben:স্ক্যান্ডিয়াম, may:skandium, swa:skandi, ara: سكانديوم
+PWN:seaborgium.n.01		siborgium	siborg·ium	eng:seaborgium, fra:seaborgium, spa:seaborgio, por:seabórgio, rus:сиборгий, zho: (xǐ), jpn:シーボーギウム, kor:새보쥼, vie:seaborgi, hin:सीबोर्गियम, ben:সিওবোর্গিয়াম, may:seaborgium, swa:seaborgi, ara: سيبورجيوم
+PWN:secret.s.01		sir	sir	ara: سِرّ (sirr), hin:सेर (ser), may:sir, swa:siri, hau:asiri, ful:sirri, yor:àṣírí, tur:sır, fas:(serr)
+PWN:seed.n.02		sem	sem	fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen
+PWN:selenium.n.01		selenium	selen·ium	eng:selenium, fra:sélénium, spa:selenio, por:selénio, rus:селен, zho:硒 (xī), jpn:セレン, kor:셀렌, vie:selen, hin:सेलेनियम, ben:সেলেনিয়াম, may:selenium, swa:seleni, ara: سيلينيوم
+PWN:seven.s.01		seven	seven	eng:seven, deu:sieben, fra:sept, spa:siete, por:sete, hin:सात (sāt), ben:সাত (sat)
+PWN:shaman.n.01		shaman	shaman	eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)
+PWN:ship.n.01		nav	nav	fra:navire, spa:nave, por:navio, fas: ناو‎ (nâv), hin:नाव (nāv), ben:নাও (naō), tam:நாவாய் (nāvāy)
+PWN:shirt.n.01		sherte	shert'e	eng:shirt, deu:T-Shirt, fra:por:T-shirt, fas: تی‌شِرْت (ti-šert), hin:टी-शर्ट (ṭī-śarṭ), ben:শার্ট (śarṭo), tur:tişört, zho:T恤衫 (tī-xùshān), yue:恤衫 (seot1 saam1), jpn:シャツ (shatsu), kor:셔츠 (syeocheu), tam:சட்டை (caṭṭai), ara: تِي شِيرْت (tī šīrt), swa:shati, yor:ṣẹ́ẹ̀tì
+PWN:silicon.n.01		silike	silik'e	eng:silicon, fra:silicium, spa:silicio, por:silício, vie:silic, hin:सिलिकॉन, ben:সিলিকন, may:silikon, swa:silikoni, hau:siliki, ara: سيلكون (silikōn)
+PWN:silk.n.01		sil	sil	zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), kor:사 (sa) + eng:silk, spa:por:sérico, rus:шёлк (sholk)
+PWN:silver.n.01		argente	argent'e	por:ita:argento, fra:argent, may:argentum, swa:agenti
+PWN:sing.v.02		gante	gant'e	spa:por:cantar, ara: غَنَّى‎ (ḡannā), hin:गाना (gānā), ben:গান (gan), zho:歌 (gē), yue:歌 (go1), jpn:歌 (ka), kor:가 (ga), vie:ca
+PWN:sister.n.01		sis	sis	eng:sister, deu:Schwester, rus:сестра (sestra)
+PWN:six.s.01		sixe	six'e	eng:fra:six, deu:sechs, spa:por:seis + ara: سِتَّة‎ (sitta), hau:shida, swa:sita
+PWN:snake.n.01		serpe	serp'e	hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé
+PWN:sodium.n.01		natre	natr'e	eng:sodium, fra:sodium, spa:sodio, por:sódio, rus:натрий, zho:钠 (nà), jpn:ナトリウム, kor:나트륨, vie:natri, hin:सोडियम, ben:সোডিয়াম, may:natrium, swa:natiri
+PWN:song.n.01		gante	gant'e	
+PWN:soup.n.01		supa	supa	eng:soup, fra: soupe, spa:por:sopa, deu: Suppe, rus:суп (sup), jpn:スープ (sūpu), kor:수프 (supeu), hin:सूप (sūp), may:sup, swa:supu
+PWN:south.n.03		sud	sud	deu:Süden, fra:sud, spa:sur, por:sul, eng:south, rus:зюйд (zyuyd)
+PWN:spider.n.01		aran	aran	fra:araignee, por:aranha, spa:araña, eng:arachnid, deu:Arachno-, rus:арахнофо- (arakhno-), tur:arakno-, tam:அராக்கினிட் (arākkiṉiṭ), may:araknid
+PWN:spoon.n.01		chamcha	chamcha	hin:चम्मच (cammac), ben:চামচ (camôc), may:camca, kan:ಚಮಚ (camaca), fas: چمچه (čamče), tel:చెమ్చా (cemcā), pnb:ਚਮਚਾ (camcā), tur:çömçe + tha:ช้อน (chon)
+PWN:strontium.n.01		strontium	stront·ium	eng:strontium, fra:strontium, spa:strontium, por:estrôncio, rus:стронций, zho:锶 (sī), jpn:ストロンチウム, kor:스트논듐, vie:stronti, hin:स्ट्रोन्सियम, ben:স্ট্রনসিয়াম, may:strontium, swa:stronti, ara: سترانشيوم
+PWN:study.v.05		stude	stud'e	eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)
+PWN:sulfur.n.01		sulfe	sulf'e	eng:sulfur, fra:soufre, spa:azufre, por:enxofre, swa:sulfuri
+PWN:sweet_potato.n.02		batata	batata	spa:por:eng:batata, fra:patate, deu:Batate, rus:батат (batat), ara: بَطَاطَا (baṭāṭā)
+PWN:table.n.02		meza	meza	por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa
+PWN:tantalum.n.01		tantalium	tantal·ium	eng:tantalum, fra:tantale, spa:tántalo, por:tântalo, rus:тантал, zho:钽 (tǎn), jpn:タンタル, kor:탄탈, vie:tantali, hin:टाण्टलम, ben:ট্যান্টালাম, may:tantalum, swa:tantali, ara: تنتالم
+PWN:taoism.n.01		dauisme	dau·ism'e	
+PWN:taoist.n.01		dauiste	dau·ist'e	
+PWN:tea.n.01		cha	cha	zho:茶 (chá), yue:茶 (caa4), jpn:茶 (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), hau:shayi, por:chá
+PWN:tear.n.01		ain sui	ain sui	tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา
+PWN:technetium.n.01		tehnetium	tehn·et·ium	eng:technetium, fra:technétium, spa:tecnetio, por:tecnécio, rus:технеций, zho:锝 (dé), jpn:テクネチウム, kor:테크네튬, vie:tecnexi, hin:टेक्निशियम, ben:টেকনিসিয়াম, may:teknetium, swa:tekineti, ara: تكنيتيوم
+PWN:telephone.n.01		telefon	tele·fon	
+PWN:tellurium.n.01		telurium	telur·ium	eng:tellurium, fra:tellure, spa:telurio, por:telúrio, rus:теллур, zho:碲 (dì), jpn:テルル, kor:텔루르, vie:telu, hin:टेलुरियम, ben:টেলুরিয়াম, may:telurium, swa:teluri, ara: تيلوريوم
+PWN:ten.s.01		ten	ten	eng:ten, deu:zehn
+PWN:terbium.n.01		terbium	terb·ium	eng:terbium, fra:terbium, spa:terbio, por:térbio, rus:тербий, zho:铽 (tè), jpn:テルビウム, kor:테르븀, 2터븀, vie:tecbi, hin:टर्बियम, ben:টার্বিয়াম, may:terbium, swa:taribi, ara: تربيوم
+PWN:thallium.n.01		talium	tal·ium	eng:thallium, fra:thallium, spa:talio, por:tálio, rus:таллий, zho:铊 (tā), jpn:タリウム, kor:탈륨, vie:tali, hin:थैलियम, ben:থ্যালিয়াম, may:tallium, swa:tali, ara: ثاليوم
+PWN:there.r.01		der	der	
+PWN:thorium.n.01		torium	tor·ium	eng:thorium, fra:thorium, spa:torio, por:tório, rus:торий, zho:钍 (tǔ), jpn:トリウム, kor:토륨, vie:thori, hin:थोरियम, ben:থোরিয়াম, may:torium, swa:thori, ara: ثوريوم
+PWN:thousand.s.01		kilo	kilo	eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)
+PWN:three.s.01		tri	tri	eng:three, fra:trois, spa:tres, por:três, rus:три (tri), hin:त्रि-  (tri-), ben:ত্রি- (tri-), may:tri-
+PWN:thulium.n.01		tulium	tul·ium	eng:thulium, fra:thulium, spa:tulio, por:túlio, rus:тулий, zho:铥 (diū), jpn:ツリウム, kor:툴륨, vie:tuli, hin:थुलियम, ben:থুলিয়াম, may:tulium, swa:thuri, ara: ثليوم
+PWN:tiger.n.02		bagre	bagr'e	hin:बाघ (bāgh), ben:বাঘ (bagh) + fas:(babr) + spa:por:tigre, rus:тигр (tigr)
+PWN:tin.n.01		stanium	stan·ium	spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin, swa:stani
+PWN:titanium.n.01		titanium	titan·ium	eng:titanium, fra:titane, spa:titanio, por:titânio, rus:титан, zho:钛 (tài), jpn:チタン, kor:타이타늄, vie:titan, hin:टाइटानियम, ben:টাইটেনিয়াম, may:titanium, swa:titani, ara: تيتانيوم
+PWN:town.n.01		pol	pol	eng:spa:-polis, deu:fra:por:-pole, rus:-поль (-pol'), may:tur:-pol
+PWN:tungsten.n.01		volfram	volfram	eng:wolfram, spa:wolframio, rus:вольфрам, zho:钨 (wū), vie:vonfam, may:wolfram, swa:wolframi
+PWN:twelve.s.01		ten du	ten du	
+PWN:two.s.01		due	du'e	fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui) + may:dua + kor:둘 (dul) + zho:對 (duì), yue:對 (deoi3), vie:đôi
+PWN:ununbium.n.01		kopernium	kopern·ium	eng:fra:copernicium, spa:copérnico, por:copernício, rus:коперниций, jpn:コペルニシウム, kor:코페르니슘, vie:copernici, may:copernicium, swa:kopernici
+PWN:ununhexium.n.01		livermorium	livermor·ium	eng:fra:livermorium, spa:livermorio, por:livermório, rus:ливерморий, zho: (lì), jpn:リバモリウム, kor:리버모륨, vie:livermori, may:livermorium, swa:livermori
+PWN:ununpentium.n.01		moskovium	moskov·ium	eng:fra:moscovium, spa:moscovio, por:moscovio, rus:московий, jpn:モスコビウム, kor:우눈펜튬, vie:moscovi, may:moskovium, swa:moscovi
+PWN:ununquadium.n.01		flerovium	flerov·ium	eng:may:flerovium, fra:flérovium, spa:flerovio, por:fleróvio, rus:флеровий, zho: (fū), jpn:フレロビウム, kor:플레로븀, vie:flerovi, swa:flerovi
+PWN:ununtrium.n.01		niponium	nipon·ium	eng:fra:may:nihonium, spa:nihonio, por:nihonium, rus:нихоний, jpn:ニホニウム, kor:우눈트륨, vie:swa:nihoni
+PWN:uranium.n.01		uranium	uran·ium	eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم
+PWN:vanadium.n.01		vanadium	vanad·ium	eng:vanadium, fra:vanadium, spa:vanadio, por:vanádio, rus:ванадий, zho:钒 (fán), jpn:バナジウム, kor:바나듐, vie:vanađi, hin:वनेडियम, ben:ভ্যানাডিয়াম, may:vanadium, swa:vanadi, ara: فناديوم
+PWN:voice.n.02		fon	fon	eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon + fas: تلفن‎ (telefon), hin:फ़ोन (fon), ben:ফোন (phon), tur:telefon
+PWN:wake_up.v.02		bud	bud	san:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), vie:Bụt, tha:โพธิ (potí) + rus:будить
+PWN:west.n.02		veste	vest'e	eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)
+PWN:white.a.01		vait	vait	eng:white, deu:weiß
+PWN:worker.n.01		oper	op·er	
+PWN:worship.n.01		puja	puja	hin:पूजा (pūjā), urd: پوجا‎ (pūjā), tam:பூசை (pūcai), tel:పూజ (pūja), may:puja, tha:บูชา (bucha)
+PWN:worship.v.02		puja	puja	hin:पूजा (pūjā), urd: پوجا‎ (pūjā), tam:பூசை (pūcai), tel:పూజ (pūja), may:puja, tha:บูชา (bucha)
+PWN:xenon.n.01		xenon	xenon	eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون
+PWN:year.n.01		nen	nen	zho:年 (nián), yue:年 (nin4), jpn:年 (nen), kor:년 (nyeon), vie:năm,niên
+PWN:yellow.s.01		yel	yel	eng:yellow, deu:gelb, rus:желтый (želtyy)
+PWN:young.a.01		jun	jun	eng:fra:may:junior + spa:joven, por:jovem, fas: جوان‎ (javân), hin:जवान (javān) + kor:젊다 (jeomda)
+PWN:ytterbium.n.01		yuterbium	yuterb·ium	eng:ytterbium, fra:ytterbium, spa:iterbio, por:itérbio, rus:иттербий, zho:镱 (yì), jpn:イッテルビウム, kor:이테르븀, vie:ytecbi, hin:यिट्टरबियम, ben:ইটারবিয়াম, may:iterbium, swa:yitebi, ara: يتربيوم
+PWN:yttrium.n.01		yutrium	yutr·ium	eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم
+PWN:zebra.n.01		zebra	zebra	eng:deu:por:tur:may:zebra, fra:zèbre, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), ben:জেবরা (jebra), jpn:ゼブラ (zebura)
+PWN:zero.s.01		siro	siro	ara: صِفْر‎ (ṣifr), swa:sifuri, hau:sifili, hin:सिफ़र (sifar), may:sifar, eng:por:zero, fra:zéro, spa:cero, rus:зеро (zero), jpn:ゼロ (zero), kor:제로 (jero), vie:zêrô
+PWN:zinc.n.01		zinke	zink'e	eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк, zho:锌 (xīn), ben:জিঙ্ক, may:seng, swa:zinki
+PWN:zirconium.n.01		zirkonium	zirkon·ium	eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم
