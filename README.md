@@ -70,6 +70,8 @@ The Panlexia project re-uses material from the following sources:
 - Universal Language Dictionary (ULD) by Rick Harrison et al.
 - [The World Loanword Database (WOLD)](https://wold.clld.org), which is edited by Martin Haspelmath & Uri Tadmor and which is licensed under the
   [Creative Commons Attribution 3.0 Germany License](http://creativecommons.org/licenses/by/3.0/de/)
+- [Open Multilingual Wordnet](https://omwn.org/) by Francis Bond et al. which is licensed under the
+  [MIT License](https://github.com/globalwordnet/OMW/blob/develop/LICENSE)
 
 ## Contact
 
