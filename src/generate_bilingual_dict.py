@@ -43,7 +43,7 @@ def make_bilingual_dictionary_table(source_language_dict, target_language_dict):
             # Break the loop when one or the other dictionary has been read to the end.
             break
         if source_row["id"] == target_row["id"]:
-            word_class = source_row["id"].split('.')[1].lower()
+            word_class = helpers.get_PoS(source_row["id"])
             if has_transcription:
                 bilingual_dictionary.append([source_row["word"], word_class, target_row["word"], target_row["transcription"]])
             elif has_pronunciation:
