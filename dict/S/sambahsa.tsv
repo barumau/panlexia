@@ -1,21 +1,49 @@
 id	style	word
+PLX:about.pp		de
+PLX:above.pp		super
+PLX:after.pp		pos
 PLX:and.cnj		ed
-PLX:because of.adp		ob
+PLX:around.pp		(per)ambh
+PLX:at.pp		ad, bi
+PLX:because of.pp		ob
+PLX:before.pp		pre
+PLX:behind.pp		apter
 PLX:but.cnj		bet
+PLX:by means of.pp		med
 PLX:can.v		ghehd
+PLX:during.pp		unte
+PLX:except for.pp		except, ploisko
+PLX:for the purpose of.pp		pro
+PLX:how.pro		kam
 PLX:if.cnj		sei
+PLX:in exchange for.pp		po
+PLX:instead of.pp		vice
+PLX:near.pp		nieb ; claus
+PLX:on.pp		ep
 PLX:or.cnj		au
+PLX:outside of.pp		exter
+PLX:should.v		dehlgiet, solliet
 PLX:that.cnj		od
 PLX:that.pro		cid (cio)
 PLX:that.pro		od
 PLX:this.pro		tod
+PLX:through.pp		per
+PLX:to.pp		kye
+PLX:under.pp		sub
+PLX:when.pro		quan(do)
+PLX:where.pro		quer
+PLX:why.pro		ma
 PWN:abdomen.n.01		abdomen
+PWN:acid.s.03		acid
+PWN:act.n.02		act
+PWN:advancement.n.03		progress
 PWN:afternoon.n.01		posmiddien
 PWN:again.r.01		iter
 PWN:age.n.01		iete
 PWN:agree.v.01		samstehm
 PWN:airplane.n.01		plav
 PWN:alive.a.01		gwiv
+PWN:alkaline.a.01		alkalin
 PWN:already.r.01		ja
 PWN:always.r.01		semper
 PWN:amusing.s.02		goil
@@ -24,9 +52,12 @@ PWN:animal.n.01		animal
 PWN:answer.v.01		antwehrd
 PWN:ant.n.01		murm
 PWN:anus.n.01		anus, pehzd
+PWN:any.s.01		quodquid
+PWN:apple.n.01		appel
 PWN:arm.n.01		brakh
 PWN:arrive.v.01		gwehm, arrive
 PWN:ash.n.01		asch
+PWN:atom.n.01		atom
 PWN:attack.v.01		attaque
 PWN:automatic.a.01		automatic
 PWN:baby.n.01		baby
@@ -34,16 +65,21 @@ PWN:back.n.01		regv
 PWN:back.r.01		tsay
 PWN:bad.a.01		dus-
 PWN:bake.v.02		bauk
+PWN:balance.n.01		tula ; equiliber
+PWN:bamboo.n.01		bambu
+PWN:banana.n.02		banane
 PWN:bare.s.01		nogw
 PWN:barroom.n.01		taverne, crechma, bar
 PWN:basket.n.01		kist, corbh
 PWN:be.v.01		es
+PWN:bean.n.01		fassol
 PWN:bear.n.01		urx
 PWN:beard.n.01		berd
 PWN:become.v.01		bih
 PWN:bed.n.01		crovat, lict
 PWN:bee.n.01		bey
 PWN:behavior.n.01		sulouk
+PWN:believe.v.01		credeih
 PWN:belt.n.02		yeusmen; belt
 PWN:berry.n.01		ber
 PWN:besides.r.02		yaschi
@@ -55,6 +91,7 @@ PWN:blame.v.01		blame
 PWN:blanket.n.01		blanquet
 PWN:bless.v.01		blagh
 PWN:blood.n.01		sehrg
+PWN:blow.n.01		cutt
 PWN:blue.s.01		blou
 PWN:board.n.02		baurd, tapwl
 PWN:boat.n.01		boot
@@ -80,22 +117,30 @@ PWN:brother.n.01		brater
 PWN:brow.n.01		chol, bruwent
 PWN:brown.s.01		brun
 PWN:brush.n.02		beurst
+PWN:brush.v.04		firsche
 PWN:bucket.n.01		amfer
 PWN:bus.n.01		bus
+PWN:bustle.n.01		acitivitat
 PWN:butterfly.n.01		pelpel
 PWN:buttocks.n.01		cloins
+PWN:cabbage.n.01		kaupust
 PWN:calculate.v.01		hissab, calcule
 PWN:calendar_month.n.01		munt
 PWN:call.v.05		kal
 PWN:camp.n.03		camp, waun
+PWN:capsicum.n.01		paprika
 PWN:car.n.01		auto(mobil), wogh, carr
 PWN:carbon.n.01		carbon
+PWN:carrot.n.01		mork
 PWN:cat.n.01		cat
+PWN:catastrophe.n.02		desaster, catastrophe
 PWN:catch.v.04		kap
 PWN:cattle.n.01		gwow
 PWN:cause.n.01		raison
+PWN:cause.v.01		cause
 PWN:caution.n.01		caution, prudence
 PWN:century.n.01		secule
+PWN:certain.a.04		yakin, wassic
 PWN:cheek.n.01		gian
 PWN:chicken.n.02		gall, hen, kierk
 PWN:child.n.01		magv
@@ -114,26 +159,36 @@ PWN:color.n.01		color
 PWN:commiseration.n.01		compatt
 PWN:compete.v.01		spehrd; concurrence
 PWN:compromise.n.01		compromiss
+PWN:condition.n.01		stand
+PWN:consequence.n.01		resultat, consequence
 PWN:construct.v.01		strug
 PWN:contend.v.06		combat, katue
 PWN:copper.n.01		cuper, glaugh
+PWN:cork.n.01		fillon (corc)
+PWN:corn.n.01		mays
 PWN:corpulent.s.01		piwon
+PWN:cotton.n.02		coton
 PWN:count.v.01		conte, lehg
 PWN:cover.v.01		covehr
+PWN:cucumber.n.02		gurk
 PWN:curse.v.03		balstehm, aforise
 PWN:cut.v.01		(s)kehrz
 PWN:dance.v.02		dans
+PWN:danger.n.01		danger
 PWN:dark.a.01		deusk
 PWN:date.n.01		tarikhe
 PWN:daughter.n.01		dugter
 PWN:dead.a.01		mohrt
 PWN:deer.n.01		kerv
+PWN:defect.n.03		defect
 PWN:deity.n.01		div
 PWN:deny.v.04		nege
 PWN:depend.v.01		depend ud
 PWN:depository_financial_institution.n.01		bank
 PWN:deserve.v.01		stahal
 PWN:desire.v.01		vol
+PWN:destroy.v.01		destrug
+PWN:detail.n.01		detayl
 PWN:detect.v.01		kau, observe
 PWN:die.v.01		mehr
 PWN:difficult.a.01		difficil
@@ -147,26 +202,32 @@ PWN:dream.n.01		drehm (nocts); sehgn (diens)
 PWN:dress.n.01		rogv
 PWN:drink.v.01		poh
 PWN:drive.v.01		pusc, propulg
+PWN:each.s.01		cada ; ielg
 PWN:ear.n.01		aur
 PWN:early.r.03		aus, prematur
 PWN:earthquake.n.01		ginschien
 PWN:east.n.01		eust
+PWN:eclipse.n.01		eclipse
 PWN:eight.s.01		oct(o)
+PWN:electricity.n.01		electricitat
 PWN:elementary.s.01		facil
 PWN:embarrassment.n.01		embarass
 PWN:empty.a.01		tuich
+PWN:energy.n.01		energia
 PWN:enough.r.01		sat, kafi
 PWN:enter.v.01		entre
 PWN:enthusiasm.n.01		enthusiasme
 PWN:estimate.v.01		gvaedd
 PWN:evening.n.01		vesper
 PWN:evil.a.01		khiter
+PWN:exercise.n.03		exercice, kasra
 PWN:exist.v.01		exist
 PWN:exit.v.01		linekw, fortrehc
 PWN:exuberate.v.01		fest
 PWN:eye.n.01		ok
 PWN:fabric.n.01		woibh
 PWN:face.n.01		lige, face
+PWN:fail.v.01		deuys
 PWN:fall.n.01		osyern
 PWN:family.n.02		familia
 PWN:farm.n.01		farm
@@ -179,11 +240,14 @@ PWN:feel.v.09		kheiss
 PWN:female.s.03		ster
 PWN:female_child.n.01		pieg
 PWN:fever.n.01		feber
+PWN:fig.n.02		smauk
 PWN:finger.n.01		fingher
+PWN:fire.n.01		ogwn, piurn
 PWN:fireplace.n.01		vatra, ayd
 PWN:fish.n.01		pisk
 PWN:fist.n.01		peungst
 PWN:five.s.01		penk(we)
+PWN:flax.n.02		lin
 PWN:flesh.n.01		miems
 PWN:floor.n.01		 
 PWN:flour.n.01		melv
@@ -194,6 +258,8 @@ PWN:fog.n.01		nebule
 PWN:following.s.02		niebst
 PWN:foolish.a.01		akmak
 PWN:foot.n.01		ped
+PWN:footing.n.02		sul
+PWN:force.n.02		force
 PWN:forest.n.01		forest, sylve
 PWN:forget.v.02		myehrs
 PWN:forgive.v.01		indeulg
@@ -202,24 +268,33 @@ PWN:fox.n.01		vulp(ek)
 PWN:frequently.r.01		ops
 PWN:friend.n.01		prient
 PWN:frog.n.01		batrac
+PWN:fruit.n.01		fruit
 PWN:full.a.01		plen
+PWN:garlic.n.01		kerem
 PWN:gate.n.01		dwer
+PWN:gentle.s.01		mild
 PWN:get_down.v.07		inkap, start
 PWN:ghost.n.03		fantem
+PWN:ginger.n.01		zingimber
+PWN:ginseng.n.01		ginseng
 PWN:glass.n.01		glass
 PWN:glove.n.02		guant
 PWN:goat.n.01		ayg
 PWN:gold.n.03		gold
 PWN:good.a.01		weus-
+PWN:gourd.n.03		labu
 PWN:grandfather.n.01		grandpater
 PWN:grandma.n.01		grandmater
+PWN:grape.n.01		vinber
 PWN:grasshopper.n.01		tramstei
 PWN:grateful.a.01		grat
+PWN:gravity.n.01		gravitat
 PWN:green.s.01		glend
 PWN:grey.s.01		greis
 PWN:guard.v.01		guarde
 PWN:guilty.a.01		nocent
 PWN:habit.n.01		swohd, tradition
+PWN:hail.n.01		grandwn
 PWN:hand.n.01		hand
 PWN:happen.v.01		wakye
 PWN:happy.a.01		noroct
@@ -252,23 +327,31 @@ PWN:hunt.v.01		yagh
 PWN:husband.n.01		mann
 PWN:idea.n.01		idee
 PWN:indicate.v.02		deik
+PWN:injure.v.01		veurn, sauk, harm
 PWN:innocent.a.01		innocent
 PWN:insect.n.01		insect
 PWN:intestine.n.01		inster
 PWN:iron.n.01		sider
 PWN:jade.n.01		jade
+PWN:job.n.02		task
 PWN:jump.v.01		skand
+PWN:kelp.n.01		kelp
 PWN:kidney.n.01		nugver
 PWN:knee.n.01		genu
+PWN:knife.v.01		dyehgw
+PWN:know.v.01		gnoh
 PWN:lake.n.01		lak
+PWN:land.n.04		ardh
 PWN:last.a.02		senter/senst
 PWN:late.r.01		sert
 PWN:laugh.v.01		gleih
 PWN:lead.n.02		plumbh
 PWN:lead.v.01		guide, duc
+PWN:leaf.n.01		fel (phel)
 PWN:learn.v.01		euc
 PWN:leather.n.01		lieter
 PWN:leg.n.02		jamb
+PWN:lentil.n.01		linse
 PWN:letter.n.01		brev
 PWN:lie.v.05		leugh
 PWN:lightning.n.01		blix
@@ -281,17 +364,25 @@ PWN:long.r.01		long; diuturn
 PWN:love.v.03		liubh
 PWN:lung.n.01		pulmon, lyung
 PWN:magic.n.01		magia
+PWN:magnet.n.01		magnet
+PWN:make.v.03		cree
 PWN:male.s.03		ner
 PWN:male_child.n.01		pwarn
 PWN:man.n.01		wir
+PWN:mandarin.n.01		mandarin
 PWN:many.a.01		maung
+PWN:marijuana.n.01		kanep
 PWN:marketplace.n.02		mercat, basar
 PWN:meat.n.01		miems
 PWN:meet.v.09		trehv, incontre
 PWN:melt.v.01		smehld
 PWN:merely.r.01		tik
+PWN:method.n.01		methode
 PWN:milk.n.01		mehlg
 PWN:mind.n.01		ment
+PWN:mint.n.02		mint
+PWN:miracle.n.01		miracle, kyudos
+PWN:molecule.n.01		molecule
 PWN:monkey.n.01		maymoun
 PWN:moon.n.01		meun
 PWN:more.a.02		meis
@@ -302,10 +393,15 @@ PWN:motorcycle.n.01		motorciped
 PWN:mountain.n.01		ghyor(a)
 PWN:mouse.n.01		mus
 PWN:mouth.n.01		stohm
+PWN:mustard.n.01		sinep
 PWN:nail.n.01		onkh
+PWN:nature.n.03		nature
 PWN:navel.n.01		nabh
+PWN:necessary.a.01		necessar
 PWN:neck.n.01		coll
+PWN:need.v.03		naudh
 PWN:needle.n.03		nadh
+PWN:negative.s.08		negative
 PWN:neon.n.01		neon
 PWN:nest.n.01		nest; ten; laz
 PWN:never.r.01		naiw(o)
@@ -319,39 +415,65 @@ PWN:north.n.03		nord
 PWN:nose.n.01		nas
 PWN:not.r.01		ne
 PWN:now.r.04		nun
+PWN:oak.n.02		peurk, aig
 PWN:oar.n.01		erm
+PWN:oat.n.01		avsen, koper
 PWN:object.n.01		object
 PWN:old.a.01		veut
+PWN:olive.n.01		zaytoun, olive
 PWN:one.s.01		oin
 PWN:onion.n.02		cepel
+PWN:opportunity.n.01		chance
+PWN:orange.n.03		burtukal ; orange
 PWN:orange.s.01		orange
 PWN:oven.n.01		ogwn, furn
 PWN:oxygen.n.01		oxygen
 PWN:pain.n.03		gvol
 PWN:palm.n.01		pam
+PWN:pare.v.04		behrd
 PWN:part.n.02		part, deil
 PWN:part.n.03		schtuk, piece
+PWN:pea.n.01		ergv
+PWN:peanut.n.01		kalchang
 PWN:penis.n.01		penis
+PWN:pepper.n.01		piper
 PWN:person.n.01		anghen
 PWN:pillow.n.01		wangher, bolghi
 PWN:pine.n.01		puik
+PWN:plan.n.01		plan
+PWN:planet.n.01		planete
 PWN:plant.n.02		plante
+PWN:plum.n.01		prun
 PWN:pocket.n.01		gep
+PWN:polarity.n.02		polaritat
 PWN:poor.a.02		orm
 PWN:populate.v.01		resid, weik, gwiv, habite
+PWN:positive.s.10		positive
+PWN:possible.a.01		possible
 PWN:potassium.n.01		potassium, kalium
+PWN:potato.n.01		kartoffel, patat
+PWN:power.n.02		stieure
+PWN:prevent.v.01		preven
 PWN:price.n.02		pris
 PWN:priest.n.01		blaghmen, sakerdot, pr
+PWN:probable.a.01		probable
+PWN:procedure.n.01		proceddure
+PWN:program.n.08		programme
+PWN:project.n.02		project
 PWN:pull.v.01		trag
 PWN:purple.s.01		purpwr, violett
 PWN:push.v.01		pulg, pusc
 PWN:rabbit.n.01		cuincule
 PWN:rain.n.01		seuy
 PWN:rainbow.n.01		deuspont
+PWN:ready.a.01		parat
 PWN:red.s.01		rudh
 PWN:religion.n.02		religion
 PWN:remember.v.01		mehm
+PWN:render.v.01		-eih (suffix)
+PWN:repair.v.01		repare
 PWN:repent.v.02		regret
+PWN:rice.n.01		ris
 PWN:rich.a.01		riche
 PWN:ride.v.01		reid
 PWN:rite.n.01		ritual
@@ -362,12 +484,16 @@ PWN:roof.n.01		krov, tect
 PWN:room.n.01		kyal
 PWN:root.n.01		raudh
 PWN:rope.n.01		seil
+PWN:rose.n.01		rose
 PWN:rug.n.01		kelim; hassir
 PWN:run.v.01		curr, drah
+PWN:rye.n.01		rog
 PWN:sabbath.n.01		 
 PWN:sad.a.01		shi
+PWN:safety.n.01		salvtat, securitat
 PWN:sail.n.01		seghel
 PWN:salt.n.02		sald
+PWN:salvage.v.01		salv
 PWN:same.a.01		sam
 PWN:sausage.n.01		sossiss
 PWN:sea.n.01		mar, ocean
@@ -384,12 +510,14 @@ PWN:shine.v.02		bleig
 PWN:ship.n.01		nav
 PWN:shirt.n.01		camiss
 PWN:shoe.n.01		schou
+PWN:shoot.v.05		strehl
 PWN:short.a.02		cort
 PWN:shoulder.n.01		oms
 PWN:shut.a.01		clus/cluden
 PWN:silk.n.01		silk
 PWN:silver.n.01		argwrnt
 PWN:sing.v.02		sehngv
+PWN:sink.v.01		sehnk
 PWN:sister.n.01		swes(ter)
 PWN:six.s.01		six
 PWN:skirt.n.02		fustan
@@ -407,33 +535,45 @@ PWN:sore.n.01		vurnos
 PWN:soul.n.01		atmen
 PWN:soup.n.01		soup
 PWN:south.n.03		sud
+PWN:soy.n.04		soya
 PWN:spider.n.01		arank
+PWN:spill.v.01		sinekw
+PWN:spinach.n.01		spinak
 PWN:spinal_column.n.01		spina
 PWN:spit.v.01		spieu
 PWN:spoon.n.01		guar
+PWN:spread.v.10		extend, spehr
 PWN:spring.n.01		(pirm)wer
+PWN:sprout.n.01		ankul
+PWN:squash.n.01		melon
 PWN:squirrel.n.01		vever
 PWN:stand.v.01		stah
 PWN:star.n.03		star
 PWN:state.n.04		nation, stat
 PWN:stay.v.04		(re)man
 PWN:still.r.01		dar; bad
+PWN:stir.v.01		sreht
 PWN:stomach.n.01		stomak
 PWN:storm.n.01		storm
 PWN:string.n.01		schnur
 PWN:study.v.05		studye
 PWN:stupid.a.01		stupid
+PWN:succeed.v.01		kamyab
 PWN:sulfur.n.01		swelpel
 PWN:summer.n.01		lient
 PWN:sun.n.01		sol
+PWN:sunflower.n.01		solflor
 PWN:swallow.v.01		sorb
 PWN:swamp.n.01		muraisch
+PWN:system.n.01		systeme
 PWN:table.n.02		table
 PWN:tail.n.01		swayp
 PWN:talk.v.02		bah
 PWN:tea.n.01		chay
 PWN:teach.v.01		doc
 PWN:tear.n.01		dakru
+PWN:tear.v.01		dehr
+PWN:technology.n.01		technologia
 PWN:telephone.n.01		telephone
 PWN:television_receiver.n.01		TV
 PWN:ten.s.01		dec
@@ -448,14 +588,18 @@ PWN:throat.n.01		gurgule
 PWN:thumb.n.01		pallex
 PWN:thunder.n.02		stonter
 PWN:tide.n.01		schiau
+PWN:tie.v.01		behnd
 PWN:tiger.n.02		tigher
 PWN:time.n.05		wakt
 PWN:tin.n.01		stin
+PWN:tobacco.n.01		tabak
 PWN:today.r.02		hoyd
 PWN:toe.n.01		doik
+PWN:tomato.n.01		tomat
 PWN:tomorrow.r.01		cras
 PWN:tongue.n.01		lingua, dingw
 PWN:tooth.n.01		dent
+PWN:tornado.n.01		tornado
 PWN:touch.v.01		touche
 PWN:towel.n.01		handtuk
 PWN:tower.n.01		tor
@@ -464,25 +608,32 @@ PWN:train.n.01		train
 PWN:transport.v.02		behr
 PWN:trap.n.01		kapan
 PWN:travel.v.01		gwah, eih
+PWN:trouble.n.01		trouble, difficultat
 PWN:trouser.n.01		pantalon, bruks
 PWN:true.a.01		ver
+PWN:try.v.01		peit
 PWN:turn.v.04		wehrt, touren
 PWN:turtle.n.02		ghelon
 PWN:two.s.01		dwo
 PWN:understand.v.01		prete
+PWN:universe.n.01		universe, cosmos
 PWN:vagina.n.01		wagin
 PWN:valley.n.01		dal(in)
 PWN:vein.n.01		darz
 PWN:vinegar.n.01		acete
+PWN:violent.a.01		violent
 PWN:wagon.n.01		wogh, carr(ett)
 PWN:waist.n.01		lendv
 PWN:wait.v.01		 
+PWN:wash.v.01		lav
+PWN:waste.v.01		wazd
 PWN:weather.n.01		weter
 PWN:weave.v.02		wehbh
 PWN:week.n.01		hevd
 PWN:west.n.02		west
 PWN:wet.a.01		madh
 PWN:whale.n.02		kiet, baleina
+PWN:wheat.n.01		kwoid, traigv
 PWN:wheel.n.01		kwekwl, rot
 PWN:white.a.01		albh
 PWN:wide.a.01		weur
@@ -496,6 +647,7 @@ PWN:woman.n.01		gwen(a)
 PWN:wool.n.02		wuln(a)
 PWN:world.n.02		mund
 PWN:worm.n.01		vehrm
+PWN:wrap.v.01		veulbh
 PWN:wrist.n.01		runc
 PWN:year.n.01		yar
 PWN:yellow.s.01		gehlb

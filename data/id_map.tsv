@@ -32,47 +32,87 @@ PLX:3SG M.pro	pro		1211	2-931	er::PRN
 PLX:3SG N.pro	pro		2642			
 PLX:3SG POSS.pro	pro		2092			
 PLX:3SG.pro	pro		262	2-93		
+PLX:about.pp	pp					170
+PLX:above.pp	pp					120
+PLX:across.pp	pp					165
+PLX:after.pp	pp					142
 PLX:and.cnj	cnj		1577	17-51	und::CNJ	230
+PLX:anyone.pro	pro					
+PLX:anything.pro	pro					
+PLX:around.pp	pp					160
 PLX:Asian dragon.n	n					
+PLX:at.pp	pp					103
 PLX:baby sling.n	n		3926			
-PLX:because of.adp	adp		2918		wegen::PRP	171
-PLX:behind.adp	adp		1686	12-011	hinter::PRP	
-PLX:beside.adp	adp		2917		neben::PRP	
+PLX:because of.pp	adp		2918		wegen::PRP	171
+PLX:before.pp	pp					140
+PLX:behind.pp	adp		1686	12-011	hinter::PRP	
+PLX:behind.pp	pp					131
+PLX:beside.pp	adp		2917		neben::PRP	
+PLX:between.pp	pp					161
+PLX:beyond.pp	pp					162
 PLX:but.cnj	cnj		3843			231
-PLX:by agent.adp	adp		2751			
+PLX:by agent.pp	adp		2751			
+PLX:by means of.pp	pp					172
 PLX:can.v	v		972	24-99902	können::V	208
 PLX:die (from accident).V	v		2865		umkommen::V	
+PLX:during.pp	pp					141
 PLX:everywhere.pro	pro		2999		überall::ADV	
+PLX:except for.pp	pp					173
+PLX:for the purpose of.pp	pp					174
 PLX:from here.adv	adv		2927		von hier::ADV	
+PLX:from.pp	pp					101
 PLX:FUT.ptcl	ptcl					
 PLX:get sick.V	v		2327		krank werden::V	
 PLX:how many.pro	pro		822		wieviel::FNUM	
+PLX:how.pro	pro					260
 PLX:how.pro	pro		1239	17-61	wie::FADV	
 PLX:if.cnj	cnj		1459	17-53		232
-PLX:in front of.adp	adp		1883	12-041	vor::PRP	
+PLX:in exchange for.pp	pp					175
+PLX:in front of.pp	adp		1883	12-041	vor::PRP	
+PLX:in front of.pp	adv					130
+PLX:in.pp	pp					110
+PLX:instead of.pp	pp					176
 PLX:leg band.n	n			6-99904		
+PLX:like.pp	pp					177
+PLX:near.pp	pp					163
+PLX:of.pp	pp					178
 PLX:oganesson.n	n					
+PLX:on.pp	pp					164
 PLX:or.cnj	cnj		1014	17-54	oder::CNJ	233
+PLX:outside of.pp	pp					111
 PLX:PRS.ptcl	ptcl					
 PLX:PST.ptcl	ptcl					
 PLX:Q.ptcl	ptcl			24-99905		
+PLX:quantity of.pp	pp					179
+PLX:should.v	v					209
 PLX:tennessine.n	n					
+PLX:than.pp	pp					180
 PLX:that.cnj	cnj					234
 PLX:that.pro	pro		78	24-08	das::PRN	221
 PLX:that.pro	pro			24-99917		280
 PLX:this.pro	pro		1214	24-07	dies::PRN	220
-PLX:under.adp	adp		1485	12-07	unter::PRP	
+PLX:through.pp	pp					166
+PLX:to.pp	pp					102
+PLX:under.pp	adp		1485	12-07	unter::PRP	
+PLX:under.pp	pp					121
+PLX:what.pro	pro					224
 PLX:what.pro	pro		1236	17-64	was::FPRN	
+PLX:when.pro	pro					261
 PLX:where_to.pro	pro		2928		wohin::FADV	
+PLX:where.pro	pro					252
 PLX:where.pro	pro		1237	17-66	wo::FADV	
 PLX:who.pro	pro		1235	17-68	wer::FPRN	
+PLX:why.pro	pro					262
 PLX:why.pro	pro		1270	17-69	warum::FADV	
+PLX:with.pp	pp					150
+PLX:without.pp	pp					151
 PLX:yes.ptcl	ptcl		1268	17-55		
 PWN:abandon.v.01	v	02228031-v				
 PWN:abandon.v.02	v	02227741-v	1097		verlassen::V	
 PWN:abdomen.n.01	n	05556943-n				505
 PWN:abdomen.n.01	n	05556943-n	1251	4-431	Bauch::N	
 PWN:abortion.n.01	n	00230324-n	3866			
+PWN:about.r.03	adv	00071165-r				
 PWN:above.r.02	adv	00080169-r	1265	12-31	oben::ADV	
 PWN:accident.n.01	n	07301336-n				3903
 PWN:accuse.v.01	v	00842989-v	1814	21-31		
@@ -81,6 +121,7 @@ PWN:acid.s.03	a	00025470-a				3801
 PWN:acme.n.01	n	13940456-n				
 PWN:acorn.n.01	n	12267677-n	968	8-66		
 PWN:acquit.v.01	v	00904046-v	988	21-34		
+PWN:across.r.01	adv	00272951-r				
 PWN:act.n.01	n	06532095-n				
 PWN:act.n.02	n	00030358-n				3920
 PWN:act.v.02	v	00010435-v	813	9-11	tun::V	
@@ -113,8 +154,10 @@ PWN:allege.v.01	v	01016002-v	1458	18-22	sagen::V
 PWN:allergy.n.01	n	14532816-n	3868			
 PWN:alligator.n.02	n	01698434-n	1857	3-97		
 PWN:alone.r.02	adv	00157967-r	1964	13-331	allein::ADV	
+PWN:along.r.01	adv	00068368-r				
 PWN:already.r.01	adv	00031798-r	2576		schon::ADV	3245
 PWN:altar.n.02	n	02699494-n	853	22-14		
+PWN:alternatively.r.01	adv	00063172-r				
 PWN:aluminum.n.01	n	14627820-n	3385			3329
 PWN:always.r.01	adv	00019339-r	1676	14-31	immer::ADV	3242
 PWN:amazed.s.01	a	02357810-a	1572	16-15		
@@ -142,10 +185,12 @@ PWN:antimony.n.01	n	14628668-n
 PWN:anus.n.01	n	05538016-n	1935			558
 PWN:anvil.n.01	n	02725872-n	1648	9-62		
 PWN:anxiety.n.02	n	07523905-n	1000	16-33		
+PWN:any.s.01	a	02267686-a				222
 PWN:apparel.n.01	n	02728440-n	1895	6-12	Kleidung::N	
 PWN:appearance.n.01	n	04673965-n	1017			
 PWN:apple.n.01	n	07739125-n	1320	8-99905	Apfel::N	1030
 PWN:approach.v.01	v	02053941-v	1778	10-56		
+PWN:approximately.r.01	adv	00007015-r				
 PWN:april.n.01	n	15211189-n	2847		April::N	4004
 PWN:apt.s.03	a	01334958-a	1310	16-84	klug::A	
 PWN:arch.n.04	n	02733524-n	876	7-58		
@@ -251,7 +296,9 @@ PWN:beggar.n.01	n	09847010-n	1934	11-53
 PWN:begin.v.03	v	00348746-v	1806	14-25	anfangen::V	
 PWN:beginning.n.01	n	07290905-n	1557	14-251		
 PWN:behavior.n.01	n	01220984-n				2100
-PWN:believe.v.01	v	00683280-v	1890	17-15	glauben::V	
+PWN:behind.r.01	pp	00221985-r				
+PWN:believe.v.01	v	00683280-v		17-15	glauben::V	1925
+PWN:believe.v.03	v	00721098-v	1890			
 PWN:beloved.s.01	a	01462324-s	2470		lieb::A	
 PWN:belt.n.02	n	02827606-n	772	6-57	Gürtel::N	1441
 PWN:bend.v.01	v	02035919-v	2224		biegen::V	
@@ -262,8 +309,10 @@ PWN:berry.n.01	n	07742704-n	904		Beere::N	1020
 PWN:beryllium.n.01	n	14631295-n				
 PWN:besides.r.02	adv	00047534-r				240
 PWN:better.v.02	v	00205885-v	2872		verbessern::V	
+PWN:between.r.01	adv	00498387-r				
 PWN:between.r.02	adv	00250898-r	689		zwischen::PRP	
 PWN:beverage.n.01	n	07881800-n	731	5-9		
+PWN:beyond.r.01	adv	00045704-r				
 PWN:bicycle.n.01	n	02834778-n	747	23-13		3110
 PWN:big_brother.n.02	n	09853467-n	1759	2-444		
 PWN:big_sister.n.01	n	09854218-n	1758	2-454		
@@ -378,6 +427,7 @@ PWN:butterfly.n.01	n	02274259-n	1791	3-92	Schmetterling::N	921
 PWN:buttocks.n.01	n	05559256-n	834	4-464		557
 PWN:button.n.01	n	02928608-n	757	6-62	Knopf::N	
 PWN:buy.v.01	v	02207206-v	1869	11-81	kaufen::V	
+PWN:by.r.01	adv	00417787-r				
 PWN:cabbage.n.01	n	07713895-n	774	5-99908		1081
 PWN:cadaver.n.01	n	05218119-n	767	4-77		
 PWN:cadmium.n.01	n	14632444-n				
@@ -419,6 +469,7 @@ PWN:catch.v.04	v	01439190-v	702	10-252	fangen::V	751
 PWN:caterpillar.n.01	n	02309337-n	2247	3-99911		911
 PWN:cattle.n.01	n	02402425-n	1153	3-2		950
 PWN:cause.n.01	n	07326557-n	860	17-42	Grund::N	2036
+PWN:cause.v.01	v	01645601-v				204
 PWN:caution.n.01	n	04664058-n				2116
 PWN:cave.n.01	n	09238926-n	1155	1-28	Höhle::N	
 PWN:cavil.v.01	v	00808671-v	2193		schimpfen::V	
@@ -694,9 +745,11 @@ PWN:dunk.v.01	v	01577093-v	3697	10-99904
 PWN:dust.n.01	n	14839846-n	2	1-213	Staub::N	
 PWN:dye.v.01	v	00283090-v	157	6-39	färben::V	
 PWN:dysprosium.n.01	n	14636647-n				
+PWN:each.s.01	a	02269635-s	3416	13-99903		223
 PWN:eagle.n.01	n	01613294-n	1905	3-584	Adler::N	
 PWN:ear.n.01	n	05320899-n	1247	4-22	Ohr::N	514
 PWN:earlier.r.01	adv	00060939-r	1882	12-04	vorher::ADV	
+PWN:earlier.r.01	adv	00060939-r				
 PWN:earlobe.n.01	n	05323588-n	18	4-221		
 PWN:early.r.03	adv	00100592-r	672	14-16		3250
 PWN:earring.n.01	n	03262349-n	770	6-77		
@@ -915,8 +968,8 @@ PWN:gate.n.01	n	03427296-n	1567	7-22	Tür::N	1515
 PWN:gateway.n.01	n	03428477-n	2940		Tor::N	
 PWN:gather.v.01	v	01380638-v	7	12-21	sammeln::V	
 PWN:gay.s.02	a	01367651-s	1976		lustig::A	
-PWN:gentle.s.01	a	01509066-s	1954		sanft::A	
 PWN:gentle.s.01	a	01509066-s				3811
+PWN:gentle.s.01	a	01509066-s	1954		sanft::A	
 PWN:germanium.n.01	n	14638517-n				
 PWN:get_down.v.07	v	00345761-v	3447		beginnen::V	3235
 PWN:get_up.v.02	v	00018158-v	3350		aufstehen::V	
@@ -1076,8 +1129,7 @@ PWN:hydrochoerus.n.01	n	02365356-n	314	3-9991
 PWN:hydrogen.n.01	n	14640434-n				3374
 PWN:hymn.n.01	n	07035870-n		22-99907		
 PWN:ice.n.01	n	14915184-n	617	1-77	Eis::N	
-PWN:idea.n.01	n	05833840-n	1609	17-19		2055
-PWN:idea.n.01	n	05833840-n	2975		Gedanke::N	
+PWN:idea.n.01	n	05833840-n	1609	17-19	Gedanke::N	2055
 PWN:idol.n.01	n	03560161-n	1945	22-37	Figur::N	
 PWN:igloo.n.01	n	03560430-n	2592			
 PWN:ignite.v.01	v	02759614-v	737	1-86	anzünden::V	
@@ -1152,7 +1204,9 @@ PWN:knife.v.01	v	01231652-v	1434			3783
 PWN:knit.v.01	v	01671039-v	2905		stricken::V	
 PWN:knock.v.02	v	01414467-v	2396		klopfen::V	
 PWN:knot.n.02	n	03627232-n	760	9-192	Knoten::N	
-PWN:know.v.01	v	00594621-v	1410	17-17	wissen::V	
+PWN:know.v.01	v	00594621-v	1410	17-17	wissen::V	2041
+PWN:know.v.02		00595935-v	2238			
+PWN:know.v.04		00594337-v	2248			
 PWN:krypton.n.01	n	14642916-n				
 PWN:ladder.n.01	n	03632277-n	1464	7-37	Leiter::N	
 PWN:lagoon.n.01	n	09328746-n	623	1-341		
@@ -1161,8 +1215,8 @@ PWN:lake.n.01	n	09328904-n	624	1-33	See::N	1169
 PWN:lamb.n.01	n	02412440-n	820	3-29		
 PWN:land.n.02	n	09335240-n	1228	1-212	Erde::N	
 PWN:land.n.04	n	09334396-n	626	1-21		
-PWN:land.n.04	n	09334396-n	2159		Boden::N	
 PWN:land.n.04	n	09334396-n				1110
+PWN:land.n.04	n	09334396-n	2159		Boden::N	
 PWN:land.v.06	v	01981436-v	1922	10-92		
 PWN:language.n.01	n	06282651-n	1307	18-24	Sprache::N	
 PWN:lanthanum.n.01	n	14643118-n				
@@ -1269,6 +1323,7 @@ PWN:mandarin.n.01	n	12709901-n				1035
 PWN:manganese.n.01	n	14644654-n				
 PWN:manger.n.01	n	03717131-n	205	7-48		
 PWN:manner.n.01	n	04928903-n	488	17-49		
+PWN:manufacture.v.01	v	01653442-v	2886		herstellen::V	
 PWN:many.a.01	a	01551633-a	1198	13-15		2642
 PWN:maple.n.01	n	12752666-n				
 PWN:maple.n.02	n	12752205-n	3248			1043
@@ -1375,6 +1430,7 @@ PWN:natural_elevation.n.01	n	09366317-n	2936		Anhöhe::N
 PWN:nature.n.03	n	09366762-n	3897			1102
 PWN:nature.n.04	n	04623113-n				
 PWN:navel.n.01	n	05556595-n	1838	4-43	Nabel::N	553
+PWN:near.r.01	adv	00409709-r				
 PWN:near.r.01	adv	00409709-r	1942	12-43	nah::A	
 PWN:necessary.a.01	a	01580050-a				3975
 PWN:necessity.n.01	n	14450691-n	643	17-45		
@@ -1424,8 +1480,8 @@ PWN:number.n.02	n	13582013-n	1356	23-39
 PWN:nurse.n.01	n	10366966-n	1104	23-21		
 PWN:nut.n.01	n	13136556-n	191	5-77		
 PWN:oak.n.01	n	12268918-n				
-PWN:oak.n.02	n	12268246-n	644	8-61		
 PWN:oak.n.02	n	12268246-n				1044
+PWN:oak.n.02	n	12268246-n	644	8-61		
 PWN:oar.n.01	n	03837422-n	3137	10-85	Ruder::N	3152
 PWN:oat.n.01	n	12109827-n	60	8-46		1075
 PWN:oath.n.03	n	07226841-n	1712	21-25		
@@ -1463,6 +1519,7 @@ PWN:orphan.n.01	n	10384392-n	1149	2-75
 PWN:osmium.n.01	n	14647907-n				
 PWN:other.a.01	a	02069355-a	197	24-11	anderer::A	
 PWN:outrigger.n.01	n	03861271-n	416	10-832		
+PWN:outside.r.01	adv	00110659-r				
 PWN:oven.n.01	n	03862676-n	1143	5-25		3495
 PWN:overlord.n.01	n	10388440-n	383	19-41		
 PWN:owe.v.03	v	02253956-v	369	11-63		
@@ -1567,6 +1624,7 @@ PWN:position.n.01	n	08621598-n	723	12-11	Ort::N
 PWN:positive.a.01	a	01817500-a				
 PWN:positive.s.10	a	00358678-a				3832
 PWN:possible.a.01	a	01821266-a				3913
+PWN:possibly.r.01	adv	00300247-r	2278			241
 PWN:postage.n.02	n	06796119-n	596	23-41		
 PWN:postcard.n.01	n	06627938-n	1497	23-43		
 PWN:pot.n.01	n	03990474-n	1462	5-26	Topf::N	
@@ -1596,7 +1654,6 @@ PWN:prison.n.01	n	04005630-n	1281	21-39
 PWN:prisoner.n.01	n	10476086-n	1072	20-47		
 PWN:probable.a.01	a	01413247-a				3911
 PWN:procedure.n.01	n	01023820-n	3970			3928
-PWN:produce.v.02	v	01621555-v	2886		herstellen::V	
 PWN:produce.v.02	v	01621555-v	734	9-111	machen::V	
 PWN:program.n.08	n	00551215-n				3930
 PWN:project.n.02	n	05910453-n				3925
@@ -1655,6 +1712,7 @@ PWN:relative.n.01	n	10235549-n	1644	2-81
 PWN:religion.n.02	n	08081668-n	661	22-11		1801
 PWN:remainder.n.01	n	13810818-n	838	12-17		
 PWN:remember.v.01	v	00607780-v	707	17-31	sich erinnern an::V	2052
+PWN:render.v.01	v	00120675-v				205
 PWN:repair.v.01	v	00260648-v	2243	3074	reparieren::V	3961
 PWN:repent.v.02	v	01796582-v	1875	16-34		2079
 PWN:rescue.v.01	v	02551144-v	2008	11-25	retten::V	
@@ -1978,6 +2036,7 @@ PWN:student.n.01	n	10665698-n	753	17-26
 PWN:study.v.05	v	00607114-v	1929	17-242		2043
 PWN:stump.n.01	n	13111504-n	241	8-72		
 PWN:stupid.a.01	a	00439588-a	1518	17-22	dumm::A	2006
+PWN:subsequently.r.01	adv	00061203-r				
 PWN:subsequently.r.01	adv	00061203-r	2093		danach::ADV	
 PWN:succeed.v.01	v	02524171-v	1112		gelingen::V	3941
 PWN:suck.v.01	v	01169704-v	1421	5-16		
@@ -2069,6 +2128,9 @@ PWN:thing.n.09	n	04617289-n	2214		Angelegenheit::N
 PWN:thing.n.12	n	00002452-n	738	11-18	Sache::N	
 PWN:think.v.02	v	00631737-v	1513	17-14		
 PWN:think.v.03	v	00628491-v	1415	17-13	denken::V	2002
+PWN:think.v.03		00628491-v	2271			
+PWN:think.v.11		00629738-v				
+PWN:thinking.n.01	n	05770926-n	2975			
 PWN:third.s.01	a	02202307-a	1859	13-42	dritter::A	
 PWN:thirty.s.01	a	02189306-a	1715	13-99906	dreißig::NUM	
 PWN:thorax.n.02	n	05552607-n	1592	4-4	Brust::N	504
@@ -2081,6 +2143,7 @@ PWN:three.s.01	num	02186580-a	492	13-03	drei::NUM	2503
 PWN:threshing_floor.n.01	n	04428382-n	223	8-35		
 PWN:thrice.r.01	adv	00257784-r	417	13-44		
 PWN:throat.n.01	n	05547508-n	1346	4-29	Kehle::N	525
+PWN:through.r.01	adv	00478821-r				
 PWN:through.r.01	adv	00478821-r	97	24-05	durch::PRP	
 PWN:thrust.v.01	v	01899262-v	246		stoßen::V	
 PWN:thulium.n.01	n	14658546-n				

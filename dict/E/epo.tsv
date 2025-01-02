@@ -1,23 +1,65 @@
 id	style	word
 PLX:1SG.pro		mi
 PLX:2SG.pro		vi
+PLX:about.pp		pri
+PLX:above.pp		super
+PLX:across.pp		trans
+PLX:after.pp		post
 PLX:and.cnj		kaj
-PLX:because of.adp		pro, kaŭze de
+PLX:around.pp		ĉirkaŭ
+PLX:at.pp		ĉe
+PLX:because of.pp		pro, kaŭze de
+PLX:before.pp		antaŭ
+PLX:behind.pp		malantaŭ
+PLX:between.pp		inter
+PLX:beyond.pp		preter
 PLX:but.cnj		sed
+PLX:by means of.pp		per
 PLX:can.v		povi
+PLX:during.pp		dum
+PLX:except for.pp		krom
+PLX:for the purpose of.pp		por
+PLX:from.pp		de, el
+PLX:how.pro		kiel
 PLX:if.cnj		se
+PLX:in exchange for.pp		por, kontraŭ
+PLX:in front of.pp		antaŭ
+PLX:in.pp		en
+PLX:instead of.pp		anstataŭ
+PLX:like.pp		simila al
+PLX:near.pp		proksime al
+PLX:of.pp		de
+PLX:on.pp		sur
 PLX:or.cnj		aŭ
+PLX:outside of.pp		ekster
+PLX:quantity of.pp		da
+PLX:should.v		devus
+PLX:than.pp		ol
 PLX:that.cnj		ke
 PLX:that.pro		kiu
 PLX:that.pro		tiu
 PLX:this.pro		ĉi tiu
+PLX:through.pp		tra
+PLX:to.pp		al
+PLX:under.pp		sub
+PLX:what.pro		kio, kiu
+PLX:when.pro		kiam
+PLX:where.pro		kie, kien
+PLX:why.pro		kial
+PLX:with.pp		kun
+PLX:without.pp		sen
 PWN:abdomen.n.01		abdomeno
+PWN:accident.n.01		hazardo, akcidento
+PWN:acid.s.03		acida
+PWN:act.n.02		ago, faro
+PWN:advancement.n.03		progreso
 PWN:afternoon.n.01		postagmezo
 PWN:again.r.01		ree, refoje, denove
 PWN:age.n.01		aĝo
 PWN:agree.v.01		konsenti
 PWN:airplane.n.01		aviadilo, aeroplano
 PWN:alive.a.01		viva, vivanta
+PWN:alkaline.a.01		alkala
 PWN:already.r.01		jam
 PWN:always.r.01		ĉiam, ĉiame
 PWN:amusing.s.02		amuza, komika
@@ -26,10 +68,13 @@ PWN:animal.n.01		besto, animalo
 PWN:answer.v.01		respondo
 PWN:ant.n.01		formiko
 PWN:anus.n.01		anuso
+PWN:any.s.01		ajna, iu ajn
+PWN:apple.n.01		pomo
 PWN:april.n.01		aprilo
 PWN:arm.n.01		brako
 PWN:arrive.v.01		veni, alveni
 PWN:ash.n.01		cindro
+PWN:atom.n.01		atomo
 PWN:attack.v.01		ataki
 PWN:august.n.01		aŭgusto
 PWN:aunt.n.01		onklino
@@ -39,16 +84,21 @@ PWN:back.n.01		dorso
 PWN:back.r.01		reen, reire, revene
 PWN:bad.a.01		malbona
 PWN:bake.v.02		baki
+PWN:balance.n.01		ekvilibro
+PWN:bamboo.n.01		bambuo
+PWN:banana.n.02		banano
 PWN:bare.s.01		nuda, senkovra
 PWN:barroom.n.01		trinkejo
 PWN:basket.n.01		korbo
 PWN:be.v.01		esti
+PWN:bean.n.01		fazeolo
 PWN:bear.n.01		urso
 PWN:beard.n.01		barbo
 PWN:become.v.01		iĝi
 PWN:bed.n.01		lito
 PWN:bee.n.01		abelo
 PWN:behavior.n.01		konduto
+PWN:believe.v.01		kredi
 PWN:belt.n.02		zono
 PWN:berry.n.01		bero
 PWN:besides.r.02		ankaŭ
@@ -60,6 +110,7 @@ PWN:blame.v.01		kulpigi
 PWN:blanket.n.01		kovrilo
 PWN:bless.v.01		beni
 PWN:blood.n.01		sango
+PWN:blow.n.01		bato, frapo
 PWN:blue.s.01		blua
 PWN:board.n.02		tabulo
 PWN:boat.n.01		boato
@@ -85,30 +136,40 @@ PWN:brother.n.01		frato
 PWN:brow.n.01		frunto
 PWN:brown.s.01		bruna
 PWN:brush.n.02		broŝilo
+PWN:brush.v.04		balai
 PWN:bucket.n.01		sitelo
 PWN:bus.n.01		aŭtobuso, buso {colloquial}
+PWN:bustle.n.01		aktiveco, agado
 PWN:butterfly.n.01		papilio
 PWN:buttocks.n.01		gluteo
+PWN:cabbage.n.01		brasiko
 PWN:calculate.v.01		kalkuli
 PWN:calendar_month.n.01		monato
 PWN:call.v.05		voki, alvoki
 PWN:camp.n.03		tendumejo, kampadejo, bivakejo
 PWN:cap.n.01		ĉapo
+PWN:capsicum.n.01		kapsiko
 PWN:car.n.01		aŭtomobilo, aŭto {colloquial}
 PWN:carbon.n.01		karbono
+PWN:carrot.n.01		karoto
 PWN:cat.n.01		kato
+PWN:catastrophe.n.02		katastrofo
 PWN:catch.v.04		kapti
 PWN:caterpillar.n.01		raŭpo
 PWN:cattle.n.01		bovo
 PWN:cause.n.01		kialo
+PWN:cause.v.01		kaŭzi
 PWN:caution.n.01		singardo, prudento
 PWN:century.n.01		jarcento, centjaro
+PWN:certain.a.04		certa
 PWN:cheek.n.01		vango
+PWN:cherry.n.03		ĉerizo
 PWN:chicken.n.02		koko
 PWN:child.n.01		infano
 PWN:chimney.n.01		kamentubo, fumtubo
 PWN:chin.n.01		mentono
 PWN:choose.v.01		elekti, selekti
+PWN:chrysanthemum.n.01		krizantemo
 PWN:clay.n.01		argilo
 PWN:cloud.n.02		nubo
 PWN:coal.n.01		terkarbo
@@ -121,29 +182,39 @@ PWN:color.n.01		koloro
 PWN:commiseration.n.01		kompati
 PWN:compete.v.01		konkurenci
 PWN:compromise.n.01		kompromiso
+PWN:condition.n.01		stato, kondiĉo
+PWN:consequence.n.01		rezulto, sekvo
 PWN:construct.v.01		konstrui
 PWN:contend.v.06		batali, barakti, lukti, militi
 PWN:copper.n.01		kupro
+PWN:cork.n.01		korko
+PWN:corn.n.01		maizo
 PWN:corpulent.s.01		grasa
+PWN:cotton.n.02		kotono
 PWN:count.v.01		nombri
 PWN:cover.v.01		kovrilo
 PWN:crime.n.01		krimo
 PWN:crow.n.01		korvo
+PWN:cucumber.n.02		kukumo
 PWN:curse.v.03		malbeni
 PWN:cut.v.01		tranĉi
 PWN:dance.v.02		danci
+PWN:danger.n.01		danĝero
 PWN:dark.a.01		malhela
 PWN:date.n.01		dato
 PWN:daughter.n.01		filino
 PWN:dead.a.01		morta, mortinta
 PWN:december.n.01		decembro
 PWN:deer.n.01		cervo
+PWN:defect.n.03		difekto, malperfektaĵo
 PWN:deity.n.01		dio
 PWN:deny.v.04		nei
 PWN:depend.v.01		dependi de
 PWN:depository_financial_institution.n.01		banko
 PWN:deserve.v.01		meriti
 PWN:desire.v.01		voli, deziri
+PWN:destroy.v.01		detrui, malkrei
+PWN:detail.n.01		detal(aĵ)o
 PWN:detect.v.01		rimarki, observi
 PWN:die.v.01		morti
 PWN:difficult.a.01		malfacila
@@ -159,28 +230,35 @@ PWN:dress.n.01		robo
 PWN:drink.v.01		trinki
 PWN:drive.v.01		peli
 PWN:duck.n.01		anaso
+PWN:each.s.01		ĉiu
 PWN:ear.n.01		orelo
 PWN:early.r.03		frua, frue, antaŭmatura
 PWN:earthquake.n.01		tertremo
 PWN:east.n.01		oriento
+PWN:eclipse.n.01		eklipso
 PWN:eight.s.01		ok
 PWN:elbow.n.01		kubuto
+PWN:electricity.n.01		elektro
 PWN:elementary.s.01		facila
 PWN:elephant.n.01		elefanto
+PWN:elm.n.01		ulmo
 PWN:embarrassment.n.01		embaraso
 PWN:empty.a.01		malplena
+PWN:energy.n.01		energio
 PWN:enough.r.01		sufiĉe
 PWN:enter.v.01		eniri, enveni
 PWN:enthusiasm.n.01		entuziasmo
 PWN:estimate.v.01		konjekti, diveni
 PWN:evening.n.01		vespero
 PWN:evil.a.01		malbon(eg)a
+PWN:exercise.n.03		ekzerc(ad)o
 PWN:exist.v.01		ekzisti
 PWN:exit.v.01		foriri, lasi, forlasi
 PWN:exuberate.v.01		festi, celebri
 PWN:eye.n.01		okulo
 PWN:fabric.n.01		tolo
 PWN:face.n.01		vizaĝo
+PWN:fail.v.01		malsukcesi
 PWN:fairy.n.01		feo
 PWN:fall.n.01		aŭtuno
 PWN:family.n.02		familio
@@ -195,11 +273,14 @@ PWN:feel.v.09		senti
 PWN:female.s.03		virina, ina
 PWN:female_child.n.01		knabino
 PWN:fever.n.01		febro
+PWN:fig.n.02		figo
 PWN:finger.n.01		fingro
+PWN:fire.n.01		fajro
 PWN:fireplace.n.01		kameno
 PWN:fish.n.01		fiŝo
 PWN:fist.n.01		pugno
 PWN:five.s.01		kvin
+PWN:flax.n.02		lino
 PWN:flesh.n.01		karno
 PWN:floor.n.01		planko
 PWN:flour.n.01		faruno
@@ -210,6 +291,8 @@ PWN:fog.n.01		nebulo
 PWN:following.s.02		posta, sekvanta
 PWN:foolish.a.01		malsaĝa, stulta
 PWN:foot.n.01		piedo
+PWN:footing.n.02		bazo, fundamento
+PWN:force.n.02		forto
 PWN:forest.n.01		arbaro, forsto
 PWN:forget.v.02		forgesi
 PWN:forgive.v.01		pardoni
@@ -219,25 +302,34 @@ PWN:frequently.r.01		ofte
 PWN:friday.n.01		vendredo
 PWN:friend.n.01		amiko
 PWN:frog.n.01		rano
+PWN:fruit.n.01		frukto
 PWN:full.a.01		plena
+PWN:garlic.n.01		ajlo
 PWN:gate.n.01		pordo
+PWN:gentle.s.01		milda, afabla
 PWN:get_down.v.07		komenci, komenciĝi
 PWN:ghost.n.03		spirito
+PWN:ginger.n.01		zingibro
+PWN:ginseng.n.01		ginsengo
 PWN:glass.n.01		vitro
 PWN:glove.n.02		ganto
 PWN:glowworm.n.01		lampiro
 PWN:goat.n.01		kapro
 PWN:gold.n.03		oro
 PWN:good.a.01		bona
+PWN:gourd.n.03		kukurbo
 PWN:grandfather.n.01		avo
 PWN:grandma.n.01		avino
+PWN:grape.n.01		vinbero
 PWN:grasshopper.n.01		akrido, lokusto
 PWN:grateful.a.01		danka
+PWN:gravity.n.01		gravito, pezoforto
 PWN:green.s.01		verda
 PWN:grey.s.01		griza
 PWN:guard.v.01		gardi
 PWN:guilty.a.01		kulpa
 PWN:habit.n.01		kutimo
+PWN:hail.n.01		hajlo
 PWN:hand.n.01		mano
 PWN:happen.v.01		okazi
 PWN:happy.a.01		feliĉa
@@ -272,6 +364,7 @@ PWN:husband.n.01		edzo
 PWN:idea.n.01		ideo, koncepto
 PWN:ill.a.01		malsana
 PWN:indicate.v.02		montri, vidigi
+PWN:injure.v.01		damaĝi, difekti, vundi
 PWN:innocent.a.01		senkulpa
 PWN:insect.n.01		insekto
 PWN:intestine.n.01		intesto
@@ -280,20 +373,27 @@ PWN:iron.n.01		fero
 PWN:jade.n.01		jado
 PWN:january.n.01		januaro
 PWN:jersey.n.03		T-ĉemizo, to-ĉemizo
+PWN:job.n.02		tasko
 PWN:july.n.01		julio
 PWN:jump.v.01		salti
 PWN:june.n.01		junio
+PWN:kelp.n.01		fuko
 PWN:kidney.n.01		reno
 PWN:knee.n.01		genuo
+PWN:knife.v.01		piki
+PWN:know.v.01		scii (be aware of), koni (be acquainted with)
 PWN:lake.n.01		lago
+PWN:land.n.04		tero
 PWN:last.a.02		fina, lasta
 PWN:late.r.01		malfrua, malfrue
 PWN:laugh.v.01		ridi
 PWN:lead.n.02		plumbo
 PWN:lead.v.01		gvidi, konduki
+PWN:leaf.n.01		folio
 PWN:learn.v.01		lerni, ekscii, informiĝi
 PWN:leather.n.01		ledo
 PWN:leg.n.02		kruro, gambo
+PWN:lentil.n.01		lento
 PWN:letter.n.01		letero
 PWN:lie.v.05		mensogi
 PWN:lightning.n.01		fulmo
@@ -307,18 +407,27 @@ PWN:loom.n.01		teksilo
 PWN:love.v.03		ami
 PWN:lung.n.01		pulmo
 PWN:magic.n.01		magio, sorĉarto
+PWN:magnet.n.01		magneto
+PWN:make.v.03		krei, estigi
 PWN:male.s.03		vira
 PWN:male_child.n.01		knabo
 PWN:man.n.01		viro
+PWN:mandarin.n.01		mandarino
 PWN:many.a.01		multaj
+PWN:maple.n.02		acero
 PWN:march.n.01		marto
+PWN:marijuana.n.01		mariĥuano
 PWN:marketplace.n.02		bazaro
 PWN:may.n.01		majo
 PWN:meet.v.09		renkonti
 PWN:melt.v.01		fandi, fandiĝi
 PWN:merely.r.01		sole
+PWN:method.n.01		metodo, maniero
 PWN:milk.n.01		lakto
 PWN:mind.n.01		menso
+PWN:mint.n.02		mento
+PWN:miracle.n.01		miraklo
+PWN:molecule.n.01		molekulo
 PWN:monday.n.01		lundo
 PWN:monkey.n.01		simio
 PWN:moon.n.01		luno
@@ -330,10 +439,15 @@ PWN:motorcycle.n.01		motorciklo
 PWN:mountain.n.01		monto
 PWN:mouse.n.01		muso
 PWN:mouth.n.01		buŝo
+PWN:mustard.n.01		mustardo
 PWN:nail.n.01		ungo
+PWN:nature.n.03		naturo
 PWN:navel.n.01		umbiliko
+PWN:necessary.a.01		necesa, bezonata
 PWN:neck.n.01		kolo, nuko
+PWN:need.v.03		bezoni
 PWN:needle.n.03		kudrilo, nadlo
+PWN:negative.s.08		negativa
 PWN:neon.n.01		neono
 PWN:nest.n.01		nesto, kuŝejo, bestoloĝejo
 PWN:never.r.01		neniam
@@ -348,42 +462,70 @@ PWN:nose.n.01		nazo
 PWN:not.r.01		ne
 PWN:november.n.01		novembro
 PWN:now.r.04		nun, nuntempe
+PWN:oak.n.02		kverko
 PWN:oar.n.01		padelo, remilo
+PWN:oat.n.01		aveno
 PWN:object.n.01		aĵo, objekto
 PWN:october.n.01		oktobro
 PWN:old.a.01		maljuna
+PWN:olive.n.01		olivo
 PWN:one.s.01		unu
 PWN:onion.n.02		cepo
+PWN:opportunity.n.01		ŝanco
+PWN:orange.n.03		oranĝo
 PWN:orange.s.01		oranĝkolora
+PWN:oregano.n.01		origano
 PWN:oven.n.01		forno, bakujo
 PWN:oxygen.n.01		oksigeno
 PWN:pain.n.03		doloro
 PWN:palm.n.01		manplato
+PWN:pare.v.04		tondi
 PWN:part.n.02		parto
 PWN:part.n.03		peco
 PWN:passeridae.n.01		pasero
+PWN:pea.n.01		pizo
+PWN:peanut.n.01		arakido
 PWN:penis.n.01		peniso
+PWN:pepper.n.01		pipro
 PWN:person.n.01		homo
 PWN:pillow.n.01		kuseno
 PWN:pine.n.01		pino
+PWN:plan.n.01		plano, dezegno
+PWN:planet.n.01		planedo
 PWN:plant.n.02		plantaĵo, vegetalo
+PWN:plum.n.01		pruno
 PWN:pocket.n.01		poŝo
+PWN:polarity.n.02		poluseco
 PWN:poor.a.02		malriĉa
 PWN:populate.v.01		loĝi
+PWN:positive.s.10		pozitiva
+PWN:possible.a.01		ebla
+PWN:possibly.r.01		eble
 PWN:potassium.n.01		kalio
+PWN:potato.n.01		terpomo
+PWN:power.n.02		potenco, povo
 PWN:pray.v.01		preĝi
+PWN:prevent.v.01		malebligi
 PWN:price.n.02		prezo
 PWN:priest.n.01		pastoro
+PWN:probable.a.01		probabla
+PWN:procedure.n.01		procedo, procezo
+PWN:program.n.08		programo
+PWN:project.n.02		projekto
 PWN:pull.v.01		tiri, altiri
 PWN:purple.s.01		purpura
 PWN:push.v.01		puŝi
 PWN:rabbit.n.01		"kuniklo (hare = ""leporo"")"
 PWN:rain.n.01		pluvo
 PWN:rainbow.n.01		ĉielarko
+PWN:ready.a.01		preta, preparita
 PWN:red.s.01		ruĝa
 PWN:religion.n.02		religio
 PWN:remember.v.01		memori, rememori
+PWN:render.v.01		igi
+PWN:repair.v.01		ripari
 PWN:repent.v.02		bedaŭri
+PWN:rice.n.01		rizo
 PWN:rich.a.01		riĉa
 PWN:ride.v.01		veturi, rajdi
 PWN:rite.n.01		rito
@@ -394,12 +536,17 @@ PWN:roof.n.01		tegmento
 PWN:room.n.01		ĉambro
 PWN:root.n.01		radiko
 PWN:rope.n.01		ŝnuro
+PWN:rose.n.01		rozo
 PWN:rug.n.01		tapiŝo
 PWN:run.v.01		kuri
+PWN:rye.n.01		sekalo
 PWN:sabbath.n.01		preĝtago, sabato
 PWN:sad.a.01		malfeliĉa, malgaja, trista
+PWN:safety.n.01		sekureco
+PWN:safflower.n.01		kartamo
 PWN:sail.n.01		velo
 PWN:salt.n.02		salo
+PWN:salvage.v.01		savi
 PWN:same.a.01		sama
 PWN:saturday.n.01		sabato
 PWN:sausage.n.01		kolbaso
@@ -418,12 +565,14 @@ PWN:shine.v.02		brili
 PWN:ship.n.01		ŝipo
 PWN:shirt.n.01		ĉemizo
 PWN:shoe.n.01		ŝuo
+PWN:shoot.v.05		pafi, peli
 PWN:short.a.02		mallonga
 PWN:shoulder.n.01		ŝultro
 PWN:shut.a.01		fermita
 PWN:silk.n.01		silko
 PWN:silver.n.01		arĝento
 PWN:sing.v.02		kanti
+PWN:sink.v.01		subakviĝi, subakvigi, sinki
 PWN:sister.n.01		fratino
 PWN:six.s.01		ses
 PWN:skirt.n.02		jupo
@@ -441,34 +590,47 @@ PWN:sore.n.01		vundo
 PWN:soul.n.01		animo
 PWN:soup.n.01		supo
 PWN:south.n.03		sudo
+PWN:soy.n.04		sojo
 PWN:spider.n.01		araneo
+PWN:spill.v.01		misverŝi
+PWN:spinach.n.01		spinaco
 PWN:spinal_column.n.01		spino, vertebraro
 PWN:spit.v.01		kraĉi
 PWN:spoon.n.01		kulero
+PWN:spread.v.10		disvastigi
 PWN:spring.n.01		printempo
+PWN:sprout.n.01		sproso, ŝoso
+PWN:squash.n.01		melopepo
 PWN:squirrel.n.01		sciuro
 PWN:stand.v.01		stari
 PWN:star.n.03		stelo
 PWN:state.n.04		nacio
 PWN:stay.v.04		resti
 PWN:still.r.01		ankoraŭ
+PWN:stir.v.01		kirli, agaci
 PWN:stomach.n.01		stomako
 PWN:storm.n.01		tempesto, ŝtormo
+PWN:strength.n.01		fort(ec)o
 PWN:string.n.01		ŝnureto
 PWN:study.v.05		studi
 PWN:stupid.a.01		malinteligenta, stulta
+PWN:succeed.v.01		sukcesi
 PWN:sulfur.n.01		sulfuro
 PWN:summer.n.01		somero
 PWN:sun.n.01		suno
 PWN:sunday.n.01		dimanĉo
+PWN:sunflower.n.01		sunfloro, helianto
 PWN:swallow.v.01		gluti
 PWN:swamp.n.01		marĉo
+PWN:system.n.01		sistemo
 PWN:table.n.02		tablo
 PWN:tail.n.01		vosto
 PWN:talk.v.02		paroli
 PWN:tea.n.01		teo
 PWN:teach.v.01		instrui
 PWN:tear.n.01		larmo
+PWN:tear.v.01		ŝiri
+PWN:technology.n.01		teknologio, teĥniko
 PWN:telephone.n.01		telefono
 PWN:television_receiver.n.01		televido
 PWN:ten.s.01		dek
@@ -484,14 +646,18 @@ PWN:thumb.n.01		dikfingro, polekso
 PWN:thunder.n.02		tondro
 PWN:thursday.n.01		ĵaŭdo
 PWN:tide.n.01		tajdo
+PWN:tie.v.01		bindi, ligi
 PWN:tiger.n.02		tigro
 PWN:time.n.05		tempo
 PWN:tin.n.01		stano
+PWN:tobacco.n.01		tabako
 PWN:today.r.02		hodiaŭ
 PWN:toe.n.01		piedfingro
+PWN:tomato.n.01		tomato
 PWN:tomorrow.r.01		morgaŭ
 PWN:tongue.n.01		lango
 PWN:tooth.n.01		dento
+PWN:tornado.n.01		ciklono
 PWN:touch.v.01		tuŝi
 PWN:towel.n.01		mantuko, bantuko, viŝtuko
 PWN:tower.n.01		turo
@@ -500,23 +666,30 @@ PWN:train.n.01		trajno, vagonaro
 PWN:transport.v.02		porti
 PWN:trap.n.01		kaptilo
 PWN:travel.v.01		iri
+PWN:trouble.n.01		malfacilaĵo
 PWN:trouser.n.01		pantalono
 PWN:true.a.01		vera
+PWN:try.v.01		provi, peni
 PWN:tuesday.n.01		mardo
 PWN:turn.v.04		devojigi, turni
 PWN:turtle.n.02		testudo
 PWN:two.s.01		du
 PWN:uncle.n.01		onklo
 PWN:understand.v.01		kompreni
+PWN:universe.n.01		universo
+PWN:use.v.01		uzi, utiligi
 PWN:vagina.n.01		vagino
 PWN:valley.n.01		valo
 PWN:vein.n.01		vejno
 PWN:very.r.01		multe, tre
 PWN:vinegar.n.01		vinagro
+PWN:violent.a.01		perfort(em)a, malafabla
 PWN:wagon.n.01		vagono, ĉaro
 PWN:waist.n.01		talio
 PWN:wait.v.01		atendi
 PWN:wake_up.v.02		vekiĝi
+PWN:wash.v.01		lavi, purigi
+PWN:waste.v.01		malŝpari, misuzi
 PWN:weather.n.01		vetero
 PWN:weave.v.02		teksi
 PWN:wednesday.n.01		merkredo
@@ -524,6 +697,7 @@ PWN:week.n.01		semajno
 PWN:west.n.02		okcidento
 PWN:wet.a.01		malseka
 PWN:whale.n.02		baleno
+PWN:wheat.n.01		tritiko
 PWN:wheel.n.01		rado
 PWN:white.a.01		blanka
 PWN:wide.a.01		larĝa, vasta
@@ -538,6 +712,7 @@ PWN:woman.n.01		virino
 PWN:wool.n.02		lano
 PWN:world.n.02		mondo
 PWN:worm.n.01		vermo
+PWN:wrap.v.01		volvi, envolvi, vindi
 PWN:wrist.n.01		manartiko, manradiko
 PWN:year.n.01		jaro
 PWN:yellow.s.01		flava

@@ -1,21 +1,50 @@
 id	style	word
+PLX:about.pp		om
+PLX:above.pp		sobre
+PLX:after.pp		afte
 PLX:and.cnj		e
-PLX:because of.adp		por
+PLX:around.pp		sirkum
+PLX:at.pp		pa, she
+PLX:because of.pp		por
+PLX:before.pp		bifoo
+PLX:behind.pp		baken
 PLX:but.cnj		bat
+PLX:by means of.pp		bay
 PLX:can.v		mog
+PLX:during.pp		duran
+PLX:except for.pp		exepte
+PLX:for the purpose of.pp		fo
+PLX:how.pro		komo
 PLX:if.cnj		si
+PLX:in exchange for.pp		pur
+PLX:instead of.pp		inplas
+PLX:near.pp		bli
+PLX:on.pp		on
 PLX:or.cnj		o (oda)
+PLX:outside of.pp		ausen
+PLX:should.v		gai
 PLX:that.cnj		ke
 PLX:that.pro		ke
 PLX:that.pro		toy
 PLX:this.pro		sey
+PLX:through.pp		tra
+PLX:to.pp		a, versu
+PLX:under.pp		sub
+PLX:when.pro		wen
+PLX:where.pro		wo
+PLX:why.pro		way
 PWN:abdomen.n.01		duza
+PWN:accident.n.01		kasu, aksidenta (buhao)
+PWN:acid.s.03		suan
+PWN:act.n.02		akta
+PWN:advancement.n.03		progres
 PWN:afternoon.n.01		taim afte middey
 PWN:again.r.01		snova
 PWN:age.n.01		yash
 PWN:agree.v.01		konsenti
 PWN:airplane.n.01		avion
 PWN:alive.a.01		jiva-ney
+PWN:alkaline.a.01		alkali-ney
 PWN:already.r.01		yo
 PWN:always.r.01		sempre
 PWN:amusing.s.02		drole
@@ -24,9 +53,12 @@ PWN:animal.n.01		animal
 PWN:answer.v.01		jawabi
 PWN:ant.n.01		furmi
 PWN:anus.n.01		anus
+PWN:any.s.01		eni
+PWN:apple.n.01		yabla
 PWN:arm.n.01		braka
 PWN:arrive.v.01		lai, arivi
 PWN:ash.n.01		pepla
+PWN:atom.n.01		atom
 PWN:attack.v.01		ataki
 PWN:automatic.a.01		automatike
 PWN:baby.n.01		bebi
@@ -34,16 +66,21 @@ PWN:back.n.01		bey
 PWN:back.r.01		bak
 PWN:bad.a.01		bade
 PWN:bake.v.02		peki
+PWN:balance.n.01		balansa
+PWN:bamboo.n.01		bambu
+PWN:banana.n.02		banan
 PWN:bare.s.01		nude
 PWN:barroom.n.01		taverna, bar
 PWN:basket.n.01		basketa
 PWN:be.v.01		bi (bin, es, ve bi)
+PWN:bean.n.01		bona
 PWN:bear.n.01		ber
 PWN:beard.n.01		barba
 PWN:become.v.01		fa-
 PWN:bed.n.01		kama
 PWN:bee.n.01		mifen
 PWN:behavior.n.01		suluka
+PWN:believe.v.01		kredi
 PWN:belt.n.02		belta
 PWN:berry.n.01		beri
 PWN:besides.r.02		toshi
@@ -55,6 +92,7 @@ PWN:blame.v.01		blami
 PWN:blanket.n.01		manta
 PWN:bless.v.01		blesi
 PWN:blood.n.01		hema
+PWN:blow.n.01		darba
 PWN:blue.s.01		blu
 PWN:board.n.02		planka, tabula
 PWN:boat.n.01		bota
@@ -80,22 +118,30 @@ PWN:brother.n.01		brata
 PWN:brow.n.01		frenta
 PWN:brown.s.01		brun
 PWN:brush.n.02		brash
+PWN:brush.v.04		brumi
 PWN:bucket.n.01		dalwa
 PWN:bus.n.01		bus
+PWN:bustle.n.01		aktivitaa
 PWN:butterfly.n.01		parpar
 PWN:buttocks.n.01		popa
+PWN:cabbage.n.01		kol
 PWN:calculate.v.01		kalkuli
 PWN:calendar_month.n.01		mes
 PWN:call.v.05		voki
 PWN:camp.n.03		kampa
+PWN:capsicum.n.01		paprika
 PWN:car.n.01		auto
 PWN:carbon.n.01		karbon
+PWN:carrot.n.01		karota
 PWN:cat.n.01		kota
+PWN:catastrophe.n.02		disasta, katastrofa
 PWN:catch.v.04		kapti
 PWN:cattle.n.01		gova
 PWN:cause.n.01		reson
+PWN:cause.v.01		kausi
 PWN:caution.n.01		chaukitaa
 PWN:century.n.01		sekla
+PWN:certain.a.04		serte; sigure; zaruu-ney
 PWN:cheek.n.01		wanga
 PWN:chicken.n.02		koko, kokina, kokkin
 PWN:child.n.01		kinda
@@ -114,26 +160,36 @@ PWN:color.n.01		kolor
 PWN:commiseration.n.01		piti
 PWN:compete.v.01		kompeti, konkuri
 PWN:compromise.n.01		kompromis
+PWN:condition.n.01		stasa
+PWN:consequence.n.01		resulta, sekwitura
 PWN:construct.v.01		bildi
 PWN:contend.v.06		batali, luchi
 PWN:copper.n.01		kuprum
+PWN:cork.n.01		korka
+PWN:corn.n.01		mais
 PWN:corpulent.s.01		grose
+PWN:cotton.n.02		koton
 PWN:count.v.01		konti
 PWN:cover.v.01		kovra
+PWN:cucumber.n.02		gurka
 PWN:curse.v.03		damni
 PWN:cut.v.01		kati
 PWN:dance.v.02		dansi
+PWN:danger.n.01		danja
 PWN:dark.a.01		tume
 PWN:date.n.01		datum
 PWN:daughter.n.01		docha
 PWN:dead.a.01		morta-ney
 PWN:deer.n.01		hiran
+PWN:defect.n.03		defekta
 PWN:deity.n.01		boh
 PWN:deny.v.04		negi
 PWN:depend.v.01		dependi fon
 PWN:depository_financial_institution.n.01		banka
 PWN:deserve.v.01		meriti
 PWN:desire.v.01		yao
+PWN:destroy.v.01		destrukti
+PWN:detail.n.01		detal
 PWN:detect.v.01		merki, observi
 PWN:die.v.01		morti
 PWN:difficult.a.01		mushkile
@@ -147,26 +203,32 @@ PWN:dream.n.01		sonja (al nocha), drima (al dey)
 PWN:dress.n.01		roba
 PWN:drink.v.01		pi
 PWN:drive.v.01		pushi
+PWN:each.s.01		kada
 PWN:ear.n.01		aur
 PWN:early.r.03		rane, premature
 PWN:earthquake.n.01		sisma
 PWN:east.n.01		esta
+PWN:eclipse.n.01		eklipsa
 PWN:eight.s.01		ot
+PWN:electricity.n.01		elektritaa
 PWN:elementary.s.01		fasile
 PWN:embarrassment.n.01		mushkila
 PWN:empty.a.01		vakue
+PWN:energy.n.01		energia
 PWN:enough.r.01		basta, sufi-shem
 PWN:enter.v.01		zin
 PWN:enthusiasm.n.01		sagarmitaa
 PWN:estimate.v.01		gesi
 PWN:evening.n.01		aksham
 PWN:evil.a.01		bade
+PWN:exercise.n.03		tamrin
 PWN:exist.v.01		existi
 PWN:exit.v.01		departi
 PWN:exuberate.v.01		festi
 PWN:eye.n.01		oko
 PWN:fabric.n.01		kapra
 PWN:face.n.01		fas
+PWN:fail.v.01		fali, fai fiasko
 PWN:fall.n.01		oton
 PWN:family.n.02		familia
 PWN:farm.n.01		ferma
@@ -179,11 +241,14 @@ PWN:feel.v.09		senti
 PWN:female.s.03		femina-ney
 PWN:female_child.n.01		gela
 PWN:fever.n.01		febra
+PWN:fig.n.02		figa
 PWN:finger.n.01		finga
+PWN:fire.n.01		agni
 PWN:fireplace.n.01		kamin
 PWN:fish.n.01		fish
 PWN:fist.n.01		kulak
 PWN:five.s.01		pet
+PWN:flax.n.02		lin
 PWN:flesh.n.01		masu
 PWN:floor.n.01		poda
 PWN:flour.n.01		farina
@@ -194,6 +259,8 @@ PWN:fog.n.01		tuman
 PWN:following.s.02		sekwi-she, lai-she
 PWN:foolish.a.01		norasum-ney
 PWN:foot.n.01		peda
+PWN:footing.n.02		basa, fundamenta
+PWN:force.n.02		forsa
 PWN:forest.n.01		shulin
 PWN:forget.v.02		fogeti
 PWN:forgive.v.01		pardoni
@@ -202,24 +269,33 @@ PWN:fox.n.01		foxa
 PWN:frequently.r.01		oftem
 PWN:friend.n.01		amiga
 PWN:frog.n.01		bakak
+PWN:fruit.n.01		fruta
 PWN:full.a.01		fule
+PWN:garlic.n.01		saum
 PWN:gate.n.01		dwar
+PWN:gentle.s.01		mule
 PWN:get_down.v.07		begin, starti
 PWN:ghost.n.03		fantom
+PWN:ginger.n.01		jinja
+PWN:ginseng.n.01		rensheng
 PWN:glass.n.01		glas
 PWN:glove.n.02		ganta
 PWN:goat.n.01		bakra
 PWN:gold.n.03		golda
 PWN:good.a.01		hao
+PWN:gourd.n.03		nangwa
 PWN:grandfather.n.01		opa
 PWN:grandma.n.01		oma
+PWN:grape.n.01		vin
 PWN:grasshopper.n.01		saltijuk
 PWN:grateful.a.01		danki-she
+PWN:gravity.n.01		gravita
 PWN:green.s.01		grin
 PWN:grey.s.01		grey
 PWN:guard.v.01		gardi
 PWN:guilty.a.01		kulpaful
 PWN:habit.n.01		abyas, tradision
+PWN:hail.n.01		aispluva
 PWN:hand.n.01		handa
 PWN:happen.v.01		eventi
 PWN:happy.a.01		felise
@@ -252,23 +328,31 @@ PWN:hunt.v.01		shikari, goni
 PWN:husband.n.01		gamiman
 PWN:idea.n.01		idea
 PWN:indicate.v.02		diki
+PWN:injure.v.01		nuksani, damaji
 PWN:innocent.a.01		inosente
 PWN:insect.n.01		insekta
 PWN:intestine.n.01		antra, antratot
 PWN:iron.n.01		fer
 PWN:jade.n.01		 
+PWN:job.n.02		taska
 PWN:jump.v.01		salti
+PWN:kelp.n.01		alga
 PWN:kidney.n.01		nefra
 PWN:knee.n.01		genu
+PWN:knife.v.01		piki
+PWN:know.v.01		jan
 PWN:lake.n.01		lak
+PWN:land.n.04		arda
 PWN:last.a.02		laste
 PWN:late.r.01		tarde
 PWN:laugh.v.01		ridi
 PWN:lead.n.02		plumbum
 PWN:lead.v.01		gidi, dukti
+PWN:leaf.n.01		lif
 PWN:learn.v.01		lerni
 PWN:leather.n.01		piga
 PWN:leg.n.02		gamba
+PWN:lentil.n.01		 
 PWN:letter.n.01		leta
 PWN:lie.v.05		lugi
 PWN:lightning.n.01		bliza
@@ -281,17 +365,25 @@ PWN:long.r.01		longe, longtaim-ney
 PWN:love.v.03		luba
 PWN:lung.n.01		pulmon
 PWN:magic.n.01		magia
+PWN:magnet.n.01		magnet
+PWN:make.v.03		kreati
 PWN:male.s.03		maskul-ney
 PWN:male_child.n.01		boy
 PWN:man.n.01		man
+PWN:mandarin.n.01		mandarin
 PWN:many.a.01		mucho
+PWN:marijuana.n.01		kanapa
 PWN:marketplace.n.02		basar
 PWN:meat.n.01		masu
 PWN:meet.v.09		miti
 PWN:melt.v.01		fa-likwe
 PWN:merely.r.01		sol
+PWN:method.n.01		metoda
 PWN:milk.n.01		milka
 PWN:mind.n.01		menta
+PWN:mint.n.02		minta
+PWN:miracle.n.01		mirakla
+PWN:molecule.n.01		molekula
 PWN:monkey.n.01		maimun
 PWN:moon.n.01		luna
 PWN:more.a.02		pyu
@@ -302,10 +394,15 @@ PWN:motorcycle.n.01		motosikla (moto)
 PWN:mountain.n.01		monta
 PWN:mouse.n.01		maus
 PWN:mouth.n.01		muh
+PWN:mustard.n.01		mostarda
 PWN:nail.n.01		naka
+PWN:nature.n.03		natura
 PWN:navel.n.01		nabla
+PWN:necessary.a.01		nesese
 PWN:neck.n.01		galsa
+PWN:need.v.03		nidi
 PWN:needle.n.03		igla
+PWN:negative.s.08		negative
 PWN:neon.n.01		neon
 PWN:nest.n.01		nesta; lagilok
 PWN:never.r.01		neva
@@ -319,39 +416,65 @@ PWN:north.n.03		norda
 PWN:nose.n.01		nos
 PWN:not.r.01		bu
 PWN:now.r.04		nau
+PWN:oak.n.02		kwerka
 PWN:oar.n.01		rema
+PWN:oat.n.01		yanmay
 PWN:object.n.01		obyekta
 PWN:old.a.01		lao
+PWN:olive.n.01		oliva
 PWN:one.s.01		un
 PWN:onion.n.02		luk
+PWN:opportunity.n.01		shansa
+PWN:orange.n.03		oranja
 PWN:orange.s.01		oranje
 PWN:oven.n.01		forna
 PWN:oxygen.n.01		oxigen
 PWN:pain.n.03		tunga
 PWN:palm.n.01		pama
+PWN:pare.v.04		kati
 PWN:part.n.02		parta
 PWN:part.n.03		pes
+PWN:pea.n.01		pwa
+PWN:peanut.n.01		ardanuta
 PWN:penis.n.01		penis
+PWN:pepper.n.01		pepa
 PWN:person.n.01		jen
 PWN:pillow.n.01		kushen
 PWN:pine.n.01		pina
+PWN:plan.n.01		plan
+PWN:planet.n.01		planeta
 PWN:plant.n.02		planta
+PWN:plum.n.01		sliva
 PWN:pocket.n.01		posh
+PWN:polarity.n.02		polaritaa
 PWN:poor.a.02		povre
 PWN:populate.v.01		habiti
+PWN:positive.s.10		positive
+PWN:possible.a.01		posible
 PWN:potassium.n.01		kalium
+PWN:potato.n.01		patata
+PWN:power.n.02		mahta, potensia
+PWN:prevent.v.01		preventi
 PWN:price.n.02		prais
 PWN:priest.n.01		pop
+PWN:probable.a.01		probable
+PWN:procedure.n.01		proses
+PWN:program.n.08		programa
+PWN:project.n.02		proyekta
 PWN:pull.v.01		tiri
 PWN:purple.s.01		violete
 PWN:push.v.01		pushi
 PWN:rabbit.n.01		kunila
 PWN:rain.n.01		pluva
 PWN:rainbow.n.01		raduga
+PWN:ready.a.01		tayar
 PWN:red.s.01		rude
 PWN:religion.n.02		religion
 PWN:remember.v.01		remembi
+PWN:render.v.01		mah
+PWN:repair.v.01		repari
 PWN:repent.v.02		afsosi
+PWN:rice.n.01		ris
 PWN:rich.a.01		riche
 PWN:ride.v.01		raki
 PWN:rite.n.01		ritual
@@ -362,12 +485,16 @@ PWN:roof.n.01		ruf
 PWN:room.n.01		shamba
 PWN:root.n.01		riza
 PWN:rope.n.01		korda
+PWN:rose.n.01		rosa
 PWN:rug.n.01		tapis
 PWN:run.v.01		lopi
+PWN:rye.n.01		rogen
 PWN:sabbath.n.01		 
 PWN:sad.a.01		triste
+PWN:safety.n.01		anchuntaa
 PWN:sail.n.01		parus
 PWN:salt.n.02		solta
+PWN:salvage.v.01		salvi
 PWN:same.a.01		same
 PWN:sausage.n.01		sosis, sosiskin
 PWN:sea.n.01		mar, osean
@@ -384,12 +511,14 @@ PWN:shine.v.02		brili
 PWN:ship.n.01		ship
 PWN:shirt.n.01		kamisa
 PWN:shoe.n.01		shu
+PWN:shoot.v.05		shuti
 PWN:short.a.02		kurte
 PWN:shoulder.n.01		plecha
 PWN:shut.a.01		klosi-ney
 PWN:silk.n.01		silka
 PWN:silver.n.01		argenta
 PWN:sing.v.02		gani
+PWN:sink.v.01		sinki
 PWN:sister.n.01		sista
 PWN:six.s.01		sit
 PWN:skirt.n.02		jupa
@@ -407,33 +536,45 @@ PWN:sore.n.01		wunda
 PWN:soul.n.01		atma
 PWN:soup.n.01		sup
 PWN:south.n.03		suda
+PWN:soy.n.04		soya
 PWN:spider.n.01		spaida
+PWN:spill.v.01		misliti
+PWN:spinach.n.01		spinata
 PWN:spinal_column.n.01		spina
 PWN:spit.v.01		spuki
 PWN:spoon.n.01		chiza
+PWN:spread.v.10		extendi
 PWN:spring.n.01		vesna
+PWN:sprout.n.01		ankur
+PWN:squash.n.01		melon
 PWN:squirrel.n.01		belka
 PWN:stand.v.01		stan
 PWN:star.n.03		stara
 PWN:state.n.04		nasion, stata
 PWN:stay.v.04		resti
 PWN:still.r.01		haishi
+PWN:stir.v.01		muvi-mixi, sheiki
 PWN:stomach.n.01		stomak
 PWN:storm.n.01		storma
 PWN:string.n.01		syen
 PWN:study.v.05		studi
 PWN:stupid.a.01		stupide
+PWN:succeed.v.01		fai sukses
 PWN:sulfur.n.01		sulfa
 PWN:summer.n.01		saif
 PWN:sun.n.01		surya
+PWN:sunflower.n.01		suryaflor
 PWN:swallow.v.01		gloti
 PWN:swamp.n.01		sumpa
+PWN:system.n.01		sistema
 PWN:table.n.02		tabla
 PWN:tail.n.01		kauda
 PWN:talk.v.02		shwo
 PWN:tea.n.01		chay
 PWN:teach.v.01		talimi
 PWN:tear.n.01		larma
+PWN:tear.v.01		tori
+PWN:technology.n.01		teknologia
 PWN:telephone.n.01		telefon
 PWN:television_receiver.n.01		TV
 PWN:ten.s.01		shi
@@ -448,14 +589,18 @@ PWN:throat.n.01		gorla
 PWN:thumb.n.01		granfinga
 PWN:thunder.n.02		guruha
 PWN:tide.n.01		afluisa e defluisa
+PWN:tie.v.01		ligi
 PWN:tiger.n.02		tigra
 PWN:time.n.05		taim
 PWN:tin.n.01		tin
+PWN:tobacco.n.01		tabak
 PWN:today.r.02		sedey
 PWN:toe.n.01		pedafinga
+PWN:tomato.n.01		tomata
 PWN:tomorrow.r.01		manya
 PWN:tongue.n.01		lisan
 PWN:tooth.n.01		denta
+PWN:tornado.n.01		tornado
 PWN:touch.v.01		tachi
 PWN:towel.n.01		tualya
 PWN:tower.n.01		tawa
@@ -464,25 +609,33 @@ PWN:train.n.01		tren
 PWN:transport.v.02		porti
 PWN:trap.n.01		kapter
 PWN:travel.v.01		go
+PWN:trouble.n.01		mushkila, problema
 PWN:trouser.n.01		panta
 PWN:true.a.01		vere
+PWN:try.v.01		trai
 PWN:turn.v.04		turni
 PWN:turtle.n.02		tortuga
 PWN:two.s.01		dwa
 PWN:understand.v.01		samaji
+PWN:universe.n.01		universa, kosmo
+PWN:use.v.01		yusi,
 PWN:vagina.n.01		vagina
 PWN:valley.n.01		dol
 PWN:vein.n.01		vena
 PWN:vinegar.n.01		vinegra
+PWN:violent.a.01		 
 PWN:wagon.n.01		gari, vagon
 PWN:waist.n.01		talia
 PWN:wait.v.01		weiti
+PWN:wash.v.01		woshi
+PWN:waste.v.01		vanisi
 PWN:weather.n.01		meteo
 PWN:weave.v.02		texi
 PWN:week.n.01		wik
 PWN:west.n.02		westa
 PWN:wet.a.01		mokre
 PWN:whale.n.02		balena
+PWN:wheat.n.01		wit
 PWN:wheel.n.01		rada
 PWN:white.a.01		blan
 PWN:wide.a.01		chaure
@@ -496,6 +649,7 @@ PWN:woman.n.01		gina
 PWN:wool.n.02		mao
 PWN:world.n.02		munda
 PWN:worm.n.01		wurma
+PWN:wrap.v.01		kuti
 PWN:wrist.n.01		polsa
 PWN:year.n.01		yar
 PWN:yellow.s.01		hwan
