@@ -1,47 +1,118 @@
 # Panlexia
 
-## Contents
+## Introduction
 
-Panlexia is a collection of interlinked word lists.
+Panlexia is a **universal dictionary** for an unlimited number of languages
+and including minority languages and constructed languages.
+It links words from different languages together by using common concept definitions.
+
+In the founding phase it collects together word lists from various free and open sources
+(see the Acknowledgements chapter below).
+Everybody is free to contribute in growing the dictionary
+by adding new words, new concepts and even entire word lists in new languages to Panlexia.
+
+## Organization
+
+In practice, Panlexia is a collection of concept definition lists and word lists,
+whose entries are linked together with concept identifiers or `id`s.
+Each id identifies a unique concept, which is defined in a concept definition file.
+The repository also includes programs that can be used to combine the data together into bilingual dictionaries.
+
+Only some languages have a concept definition file.
+The concept definitions in English are stored in the file [eng-definition.tsv](concepts/E/eng-definition.tsv).
+All words in the word list files are based on the concepts.
+So each word is a **label for a common concept** and not a translation from a word in another language.
+This way the system avoids change and corruption of information that would happen
+if the words were translated from language to language in a chain.
+
+                    ┌──────────────────────────────────┐
+                    │ File: eng-definition.tsv         │
+                    ├──────────────────────────────────┤
+                    │ id               Definition      │
+                    │ ---------------  ------------    │
+                    │ PWN:father.n.01  A male parent   │
+                    │ PWN:mother.n.01  A female parent │
+                    └──────────────────────────────────┘
+                             ▲               ▲
+                             │               │
+                             │               │
+    ┌───────────────────────────────┐  ┌──────────────────────────────┐
+    │ File: eng.tsv                 │  │ File: fra.tsv                │
+    ├───────────────────────────────┤  ├──────────────────────────────┤
+    │ id              style  word   │  │ id              style  word  │
+    │ --------------- ------ ------ │  │ --------------- ------ ----  │
+    │ PWN:father.n.01        father │  │ PWN:father.n.01        père  │
+    │ PWN:father.n.01  inf.  dad    │  │ PWN:father.n.01  inf.  papa  │
+    │ PWN:mother.n.01        mother │  │ PWN:mother.n.01        mère  │
+    │ PWN:mother.n.01  inf.  mum    │  │ PWN:mother.n.01  inf.  maman │
+    └───────────────────────────────┘  └──────────────────────────────┘
+
+## Word lists
+
 Each language has its own word list file.
 The file names consist of a three-letter language code from the ISO 639-3 standard and `.tsv` suffix.
-For example, the name of the word list file for English is `eng.tsv` and the one for Mandarin Chinese is `cmn.tsv`.
+For example, the name of the word list file for English is [eng.tsv](dict/E/eng.tsv),
+and the one for French is [fra.tsv](dict/F/fra.tsv).
 
-There can be also other language specific files for storing additional information,
-for example phonetic transcription or grammatical information.
-The name of a transcription file consists of the three-letter language code, a dash (`-`), the name of the transcription system, and `.tsv` suffix.
-For example, the name of IPA pronunciation file for English is `eng-IPA.tsv`
-and the name of Pinyin Romanized file for Mandarin Chinese is `cmn-pinyin.tsv`.
+Each word list file contains a list of concept identifiers with associated words or "translations"
+and optionally additional information, like how the word is pronounced
 
-If for some reason there is two word lists for one language,
-the second and greater ones are suffixed with an underscrore and a number.
-For example, `eng_2.tsv` and `eng_2-IPA.tsv`.
+Each word list file consists in minimum of two columns separated by a tab: `id` and `word`.
+The `id` column includes concept identifiers, and the `word` column includes words, whose meaning match the definition of the concept.
+Below is a possible example of a word list file in French.
+(For the real file, see <[dict/F/fra.tsv](dict/F/fra.tsv).)
 
-Each word list file consists of lines that include an entry identifier, a tab (i.e. character tabulation) and a word or words in the given language.
-The entry identifier is a unique code that consists of the following parts:
+    id                      word
+    PLX:yes.ptcl            oui
+    PWN:domestic_ass.n.01   âne
+    PWN:drink.v.01          boire
 
-- the semantic field or theme in English
+## Concept ids
+
+The [concept identifier](doc/id.md) is a unique code that consists of the following parts:
+
+- the source of the concept, either `PWN` (Princeton Wordnet) or `PLX` (Panlexia)
 - a colon (`:`)
-- the term in a standardized (scientific, technological or other) terminology or in plain English
+- the term in English
 - a period (`.`)
-- a word class identifier, such as `N` for nouns, `ADJ` for adjectives and `V` for verbs
+- a word class identifier, such as `n` for *noun*, `a` for *adjective* and `v` for *verb*
+- (optional) another period (`.`)
+- (optional) a unique number for identifiers that are otherwise identical
 
-The word is the translation of the concept in the language in question.
-The entry identifiers link translations in different languages together.
+## Generating dictionaries from word lists
 
-``` 
-Animal:Felis catus.N cat
-Animal:Canis lupus.N  wolf
-Animal:Canis lupus familiaris.N dog
-Body:head.N head
-Body:face.N	face
-Body:face.A facial
-Food:Malus domestica.N  apple
-Plant:Malus domestica.N apple tree
-```
+The concept identifiers link words in different languages together.
+For example, the above word list in French could be combined with the below word list in English,
+because they include same concepts.
+(For the real file, see <[dict/E/eng.tsv](dict/E/eng.tsv).)
 
-The repository includes also some Python and shell scripts for generating dictionaries.
+    id                      word
+    PLX:yes.ptcl            yes
+    PWN:domestic_ass.n.01   ass
+    PWN:domestic_ass.n.01   donkey
+    PWN:drink.v.01          drink
 
+The combination can be done with [a Python program](src/generate_bilingual_dict.py) with the following command:  
+`python3 src/generate_bilingual_dict.py eng fra`
+It would produce the following result:
+
+> # Français - English
+>
+> ## A
+>
+> **âne** *n* ① ass ② donkey
+>
+> ## B
+>
+> **boire** *v* drink
+>
+> ## O
+>
+> **oui** *ptcl* yes
+
+In a Unix-like system you can generate dictionaries from one language (type `eng` for English) to all other languages with this shell script command:  
+`sh generate_bilingual_dictionaries.sh eng`  
+The generated dictionary files (in Markdown format) can be found inside the `generated` directory.
 
 ## License
 
@@ -75,21 +146,23 @@ The Panlexia project re-uses material from the following sources:
 
 ## Contact
 
-Panlexia is maintained by **Risto Kupsala**.
-You may contact him by sending email to risto@pandunia.info.
+Panlexia is maintained by **Risto Kupsala** from Oulu, Finland.
+You may contact him by sending email to <risto@pandunia.info>.
 
 ## Let's work together!
 
 Panlexia is a collaborative project.
 You can help in many ways!
 
-- Improve the documentation.
-   - Edit text so that it's easier to understand.
-     The documentation is aimed for common people with a basic education.
- 	 If you don't understand something, the problem is probably in the text, not in you!
-   - Correct mistakes when you spot them.
-- Translate the documentation to new languages.
-- Add more words and translations!
+-   Improve the documentation.
+    - Edit text so that it's easier to understand.
+      The documentation is aimed for common people with a basic education.
+      If you don't understand something, the problem is probably in the text, not in you!
+    - Correct mistakes when you spot them.
+-   Translate the documentation to new languages.
+-   Add more words in the language of your choice!
+-   Add new concepts.
+-   Add a word list for a new language.
 
 The documentation is in plain-text in Markdown formatting.
 Learn about Markdown [here](https://guides.github.com/features/mastering-markdown/).

@@ -51,21 +51,20 @@ They consist in minimum of the following three columns.
 2. `word`: The word or phrase in the current language that expresses the meaning of the concept.
    Fields in this column shall never be empty.
 
-Below is an excerpt of a minimal word list file for the Esperanto language in table format.
+Below is an excerpt of a minimal word list file for the English language.
 
-| id                 | word               |
-|--------------------|--------------------|
-| Family:father.N    | patro              |
-| Family:father.N    | paĉjo              |
-| Family:mother.N    | patrino            |
-| Family:mother.N    | panjo              |
-| People:man.N       | viro               |
-| People:woman.N     | virino             |
+    id                 word
+    PWN:father.n.01    father
+    PWN:father.n.01    dad
+    PWN:mother.n.01    mother
+    PWN:mother.n.01    mum
+    PWN:man.n.01       man
+    PWN:woman.n.01     woman
 
 Word list files may include also some or all of the following additional columns.
 
 - `style`: The sociolinguistic style of the word when it's other than neutral.
-   This field may contain markers like `D` (dialectal), `V` (vulgar) and `T` (technical).
+   This field may contain markers like `dial.` (dialectal), `fig.` (figurative), `inf.` (informal), and `spec.` (specialist or technical language).
 - `transcription`: Transcription of the contents of the `word` field in the standard Romanization system,
    such as Pinyin for Mandarin Chinese.
 - `pronunciation`: Pronunciation of the contents of the `word` field in the International Phonetic Alphabet (IPA).
@@ -79,6 +78,15 @@ Word list files may include also some or all of the following additional columns
 Any fields in the additional columns may be empty.
 For example, most fields in the `style` column would probably be empty
 because most words belong to the neutral style in every language.
+The English word list above would become more informative with the addition of the `style` information.
+
+    id                 style       word
+    PWN:father.n.01                father
+    PWN:father.n.01    inf.        dad
+    PWN:mother.n.01                mother
+    PWN:mother.n.01    inf.        mum
+    PWN:man.n.01                   man
+    PWN:woman.n.01                 woman
 
 ### Style
 
@@ -91,7 +99,7 @@ Style labels indicate the context in which the word is normally used.
 - *fig.* – Figurative language is used in a non-literal or metaphorical way.
 - *form.* – Formal expressions are usually only used in serious or official language and would not be appropriate in normal everyday conversation.
 - *hum.* - Humorous expressions are intended to be funny.
-- *inform.* – Informal expressions are used between friends or in a relaxed or unofficial situation. They are not appropriate for formal situations.
+- *inf.* – Informal expressions are used between friends or in a relaxed or unofficial situation. They are not appropriate for formal situations.
 - *lit.* – Literary language is used mainly in literature, like in poems and novels.
 - *off.* – Offensive expressions refer to people in a way that is very insulting, especially in connection with their race, religion, sex or disabilities.
 - *sl.* – Slang is language that is unique to people who share the same interests or belong to the same social group.
