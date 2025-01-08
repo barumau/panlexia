@@ -47,8 +47,8 @@ PLX:baby sling.n	0	3926				A piece of cloth used around the body to carry a chil
 PLX:baozi.n	0	511				A baozi or simply known as bao, bau, humbow, nunu, bausak, pow or pau is a type of steamed, filled bun or bread-like (i.e. made with yeast) item in various Chinese cuisines.
 PLX:because of.pp	0	2918		wegen::PRP	171	For the reason of.
 PLX:before.pp	0				140	earlier than the specified time
-PLX:behind.pp	0				131	at the far or back side of the specified location
 PLX:behind.pp	0	1686	12-011	hinter::PRP		At the back of.
+PLX:behind.pp	0				131	at the far or back side of the specified location
 PLX:beside.pp	0	2917		neben::PRP		To be positioned adjacent to.
 PLX:between.pp	0				161	in the space or interval between the specified things
 PLX:beyond.pp	0				162	farther than the specified thing
@@ -68,6 +68,7 @@ PLX:from.pp	0				101	moving out of or away from the specified location
 PLX:FUT.ptcl	0					The particle indicating the future tense.
 PLX:genkan.n	0				1533	entrance room or area of house where shoes are removed
 PLX:get sick.V	0	2327		krank werden::V		To catch a disease.
+PLX:head hair.n	0	2648	4-14		518	The hair on the head of humans (rather than the hair in general or the hair on the body).
 PLX:how many.pro	0	822		wieviel::FNUM		Which quantity?
 PLX:how.pro	0				260	in what manner
 PLX:how.pro	0	1239	17-61	wie::FADV		In what way?
@@ -124,6 +125,8 @@ PWN:about.r.03	00071165-r					in the area or vicinity
 PWN:above.r.02	00080169-r	1265	12-31	oben::ADV		Being in a position comparatively far above to the ground.
 PWN:absent.a.01	01847672-a				2815	not being in a specified place
 PWN:absorb.v.04	01539063-v				3701	take in or suck up into oneself
+PWN:accept.v.02	02236124-v	3898			1721	To take or get something that was offered by someone, to willingly receive
+PWN:accept.v.04	00719231-v					react favorably to; consider right and proper
 PWN:accident.n.01	07301336-n				3903	an unfortunate mishap; especially one causing damage or injury
 PWN:account.n.07	13354985-n				1775	a statement of recent transactions and the resulting balance of money
 PWN:accuse.v.01	00842989-v	1814	21-31			To lay a charge against; bring an accusation against.
@@ -131,6 +134,7 @@ PWN:acerate_leaf.n.01	13157595-n	286	8-993			A needle of coniferous tree.
 PWN:acid.s.03	00025470-a				3801	[in chemistry] having the characteristics of an acid
 PWN:acme.n.01	13940456-n					the highest level or degree attainable; the highest stage of development
 PWN:acorn.n.01	12267677-n	968	8-66			Fruit of the oak tree.
+PWN:acquire.v.05	02288295-v	3892				To come into possession of something, usually with an effort.
 PWN:acquit.v.01	00904046-v	988	21-34			To pronounce not guilty of criminal charges.
 PWN:acrimonious.s.01	00116744-s					marked by strong resentment or cynicism
 PWN:across.r.01	00272951-r					to the opposite side
@@ -148,8 +152,8 @@ PWN:address.n.03	07238694-n	1115	18-222	Rede::N		An address or form of oral comm
 PWN:address.n.06	06787150-n	591	23-385		2262	Direction or superscription of a letter, or the name, title, and place of residence of the person addressed.
 PWN:adhere.v.01	02718178-v					be compatible or in accordance with
 PWN:adhere.v.06	01356750-v				3703	hold tightly to, stick to something firmly
-PWN:admit.v.01	00817311-v	2022	18-33			To admit to be true.
 PWN:admit.v.01	00817311-v					declare to be true or admit the existence or reality or truth of
+PWN:admit.v.01	00817311-v	2022	18-33			To admit to be true.
 PWN:adobe.n.02	02681392-n	901	7-64			An unburnt brick dried in the sun made of clay and dried grasses.
 PWN:adornment.n.01	02681518-n	917	6-71			An element of decoration.
 PWN:adult.n.01	09605289-n	3635			312	A fully grown and mature person.
@@ -178,8 +182,8 @@ PWN:all.a.01	02269286-a	98	13-14	alles::PRN		The totality of.
 PWN:allege.v.01	01016002-v	1458	18-22	sagen::V		To utter specific words or notions.
 PWN:allergy.n.01	14532816-n	3868				A bodily reaction due to a hypersensitivity to an antigen or a pathological immunological reaction to substances, situations, or physical states.
 PWN:alligator.n.02	01698434-n	1857	3-97			Any large tropical reptile of the family Crocodylidae: order Crocodylia. They have a broad head, tapering snout, massive jaws, and a thick outer covering of bony plates. (Source: CED)
-PWN:alone.r.02	00157967-r				2952	without anybody else or anything else
 PWN:alone.r.02	00157967-r	1964	13-331	allein::ADV		Without any others being included or involved.
+PWN:alone.r.02	00157967-r				2952	without anybody else or anything else
 PWN:along.r.01	00068368-r					with a forward motion
 PWN:alphabet.n.01	06497459-n				2243	a character set that includes letters and is used to write a language
 PWN:already.r.01	00031798-r	2576		schon::ADV	3245	Prior to a specified point in time.
@@ -243,12 +247,12 @@ PWN:armadillo.n.01	02454379-n	1885	3-99906			(Family Dasypodidae) Burrowing chie
 PWN:armlet.n.01	02739427-n	3149				A band or bracelet worn round the upper part of a person's arm.
 PWN:armor.n.01	02739668-n	1061	20-31			Clothing that soldiers wear to protect themselves during combat. Historically made of leather or metal, today special materials like kevlar are used.
 PWN:armpit.n.01	05549576-n	1886	4-312			The hollow under the upper part of the arm at the shoulder.
-PWN:army.n.01	08191230-n				1631	a permanent organization of the military land forces of a nation or state
 PWN:army.n.01	08191230-n	1561	20-15			A large, military force concerned mainly with ground operations.
+PWN:army.n.01	08191230-n				1631	a permanent organization of the military land forces of a nation or state
 PWN:aroused.s.06	00085630-s	3972				Arousal or a feeling of enthusiasm about something.
 PWN:arrange.v.01	01463963-v	1568				To give structure to.
-PWN:arrive.v.01	02005948-v	1446	10-48	kommen::V	3002	To move toward or to reach either the speaker, the person spoken to, or the subject of the speaker's narrative.
 PWN:arrive.v.01	02005948-v	1387	10-55	ankommen::V		To come to a destination.
+PWN:arrive.v.01	02005948-v	1446	10-48	kommen::V	3002	To move toward or to reach either the speaker, the person spoken to, or the subject of the speaker's narrative.
 PWN:arrogant.s.01	01889819-a				2102	having or showing feelings of unwarranted importance out of overbearing pride
 PWN:arrow.n.01	06818121-n					a mark to indicate a direction or relation
 PWN:arrow.n.02	02742753-n				1212	a projectile with a straight thin shaft and an arrowhead on one end and stabilizing vanes on the other; intended to be shot from a bow
@@ -257,8 +261,8 @@ PWN:arsenic.n.02	14629149-n					Arsenic, the chemical element with atomic number
 PWN:arson.n.01	00378296-n	1889	21-46			The crime of setting fire to a building or a property on purpose.
 PWN:art.n.01	02743547-n					the products of human creativity; works of art collectively
 PWN:art.n.02	00933420-n				2310	the creation of beautiful or significant things
-PWN:artery.n.01	05333777-n	525	4-151			The blood vessels are the part of the circulatory system that transports blood throughout the human body or an animal body.
 PWN:artery.n.01	05333777-n	1925				A blood vessel transporting blood away from the heart.
+PWN:artery.n.01	05333777-n	525	4-151			The blood vessels are the part of the circulatory system that transports blood throughout the human body or an animal body.
 PWN:article.n.01	06268096-n				2244	nonfictional prose forming an independent part of a publication
 PWN:artificial_language.n.01	06894544-n				2203	a language that is deliberately created for a specific purpose
 PWN:artificial.a.01	01571363-a				3981	deliberately made by humans, contrived by art rather than nature
@@ -343,8 +347,8 @@ PWN:bathroom.n.01	02807731-n				1539	A room containing a shower or a bathtub, an
 PWN:bathtub.n.01	02808440-n				1361	A large container for holding water in which a person may take a bath.
 PWN:battery.n.02	02810471-n	662	23-175			A cell or several cells connected together, each cell containing the essentials for producing voltaic electricity.
 PWN:battle-ax.n.01	02811468-n	386	20-222			An ancient military weapon.
-PWN:battle.n.01	00953559-n	579	20-13			An instance of combat in warfare between two or more parties wherein each group will seek to defeat the others.
 PWN:battle.n.01	00953559-n	3880		Kampf::N		A hostile encounter, such as a battle or combat.
+PWN:battle.n.01	00953559-n	579	20-13			An instance of combat in warfare between two or more parties wherein each group will seek to defeat the others.
 PWN:bay.n.01	09215664-n				1160	an indentation of a shoreline larger than a cove but smaller than a gulf
 PWN:bay.n.01	09215664-n	663	1-34	Bucht::N		An open, curving indentation made by the sea or a lake into a coastline.
 PWN:be_born.v.01	00360932-v	1090	4-72	geboren werden::V		To start living.
@@ -439,6 +443,7 @@ PWN:board.n.02	15101854-n	1227	7-57	Brett::N	1593	A piece of wood or similar mat
 PWN:boast.v.01	00883226-v	101	18-45	prahlen::V		To show off.
 PWN:boat.n.01	02858304-n	1844	10-83	Boot::N	3106	A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind.
 PWN:bobbin.n.01	02860415-n				1296	a winder around which thread or tape or film or other flexible materials can be wound
+PWN:body_hair.n.01	05255578-n					short hair growing over a person's body
 PWN:body_hair.n.01	05255578-n	189	4-144		517	The terminal hair that develops on the human body during and after puberty.
 PWN:body_louse.n.01	02184720-n	311	3-8112			A parasitic insect that infests the body and clothes of humans and feeds on blood.
 PWN:body.n.01	05216365-n	1480	4-11	Körper::N	500	The physical structure of a human or animal.
@@ -448,8 +453,8 @@ PWN:boil.v.01	00375021-v	792	5-22	sieden::V	3709	To be at a temperature (as a li
 PWN:boil.v.03	00374668-v	2492		kochen::V		To bring some liquid into a state of boiling.
 PWN:boisterous.s.03	00304949-a	259	1-323			With large waves (of sea).
 PWN:bolt.n.03	02865931-n	1012	7-231			A fastening for a door that has a bar that fits into a notch or slot, and is lifted by a lever or string from either side.
-PWN:bomb.n.01	02866578-n				1214	an explosive device fused to explode under specific conditions
 PWN:bomb.n.01	02866578-n	1804	23-575			A device filled with explosives used for destroying things.
+PWN:bomb.n.01	02866578-n				1214	an explosive device fused to explode under specific conditions
 PWN:bone.n.01	05269901-n	1394	4-16	Knochen::N	560	Any of the components of an endoskeleton, consisting mainly of calcium phosphate, collagen and cells.
 PWN:book.n.01	06410904-n	963	18-61	Buch::N	2248	A collection of leaves of paper, parchment or other material, usually bound or fastened together within covers, containing writing of any type or blank pages for future inscription.
 PWN:bookcase.n.01	02870880-n				1345	a piece of furniture with shelves for storing books
@@ -523,7 +528,7 @@ PWN:burn.v.03	00377002-v	1428	1-852	brennen::V		To be consumed by fire.
 PWN:burn.v.07	00378042-v	141	1-851	verbrennen::V		To cause to undergo fire combustion.
 PWN:bury.v.02	02456493-v	1719	4-78			To put in the ground and cover with earth.
 PWN:bus.n.01	02924116-n	1070	23-15		3120	A large, long-bodied motor vehicle equipped with seating for passengers, usually operating as part of a scheduled service.
-PWN:business.n.01	08061042-n	2931		Geschäft::N		A business is an organizational entity involved in the provision of goods and services to consumers.
+PWN:business.n.01	08061042-n	2931		Geschäft::N	1708	A business is an organizational entity involved in the provision of goods and services to consumers.
 PWN:bustle.n.01	00555138-n				3921	a rapid active commotion
 PWN:butcher.v.01	01322854-v	1796				To kill animals for food.
 PWN:butter_knife.n.01	02928049-n	3210	5-38			A knife used while eating food.
@@ -562,6 +567,7 @@ PWN:cap.n.01	02954340-n	2130	6-55			Any element of clothing which is worn on one
 PWN:cape.n.01	09233715-n	1662	1-343			A piece of land extending into water.
 PWN:capital.n.01	13354420-n					assets available for use in the production of further assets
 PWN:capital.n.03	08518505-n				1615	a chief city, the seat of government
+PWN:capitulation.n.03	00067707-n				1637	the act of surrendering to the power or possession of another
 PWN:caprice.n.01	07490579-n				2035	A sudden or fanciful idea or desire.
 PWN:capsicum.n.01	12900462-n				1093	any of various tropical plants of the genus Capsicum bearing bell peppers
 PWN:car.n.01	02958343-n	1111	23-14		3118	A four-wheeled motor vehicle used for land transport, usually propelled by a gasoline or diesel internal combustion engine.
@@ -575,8 +581,8 @@ PWN:carrot.n.01	12937678-n	3085	8-9991		1082	Domesticated root vegetable usually
 PWN:cartoon.n.02	06616464-n				2352	a film made by a series of cartoon drawings to give the illusion of movement when projected in rapid sequence
 PWN:carve.v.01	01256157-v	228	9-81			To cut or to chip in order to form something.
 PWN:cassava.n.02	12927013-n	925	8-92			Shrub (Manihot esculenta) whose roots are rich in starch.
-PWN:cast.v.07	01662771-v	211	9-63			To pour [a hardenable liquid material, like metal, plaster, glass, concrete etc.] into a mold in order to produce a solid object of the shape of the mold.
 PWN:cast.v.07	01662771-v	289	9-72			To create something, usually for a specific function.
+PWN:cast.v.07	01662771-v	211	9-63			To pour [a hardenable liquid material, like metal, plaster, glass, concrete etc.] into a mold in order to produce a solid object of the shape of the mold.
 PWN:cat.n.01	02121620-n	1208	3-62	Katze::N	977	A common four-legged animal (Felis silvestris) that is often kept as a household pet.
 PWN:catastrophe.n.02	14476290-n				3905	a state of extreme (usually irremediable) ruin and misfortune
 PWN:catch.v.04	01439190-v	702	10-252	fangen::V	751	To take hold of, especially in the hands, so as to seize or restrain or stop the motion of.
@@ -625,8 +631,8 @@ PWN:chlorine.n.01	14634591-n					Chlorine, the chemical element with atomic numb
 PWN:choke.v.04	00077950-v	129	5-19			To squeeze the neck in order to compress the carotide and/or trachea, possibly leading to unconsciousness or death.
 PWN:cholesterol.n.01	15058544-n		4-99904			an animal sterol that is normally synthesized by the liver; the most abundant steroid in animal tissues
 PWN:choose.v.01	00674607-v	1750	16-622	wählen::V	1984	To make a choice from a number of alternatives.
-PWN:chop.v.01	01258091-v	155	9-222			To chop wood, or to chop meat, vegetables etc. into small pieces.
 PWN:chop.v.01	01258091-v	2149		hacken::V		To chop meat, vegetables etc. into small pieces.
+PWN:chop.v.01	01258091-v	155	9-222			To chop wood, or to chop meat, vegetables etc. into small pieces.
 PWN:christianity.n.01	06226057-n				1870	Christianity
 PWN:christmas.n.01	15196537-n	2405	22-99902			Christmas is an annual festival commemorating the birth of Jesus Christ, observed most commonly on December 25 as a religious and cultural celebration among billions of people around the world.
 PWN:chromium.n.01	14635092-n					Chromium, the chemical element with atomic number 24 and symbol Cr.
@@ -645,8 +651,8 @@ PWN:clay.n.01	14813182-n	1399	9-73	Lehm::N	3334	A loose, earthy, extremely fine-
 PWN:clean.a.01	00417413-a	704	15-87	sauber::A		Not dirty.
 PWN:clean.v.01	01532589-v	2235		reinigen::V		To cause something to be no longer dirty.
 PWN:clear.a.01	00428404-a	989	17-34			Free of ambiguity or doubt.
-PWN:cleave.v.01	01556572-v	1437	9-27			To divide fully or partly along a more or less straight line.
 PWN:cleave.v.01	01556572-v					separate or cut with a tool, such as a sharp instrument
+PWN:cleave.v.01	01556572-v	1437	9-27			To divide fully or partly along a more or less straight line.
 PWN:cliff.n.01	09246464-n				1163	a steep high face of rock
 PWN:climb.v.01	01921964-v	1102	10-472	klettern::V	704	To mount to a high or little accessible place using feet and hands, e.g. a tree, a mountain or a ladder.
 PWN:cloak.n.02	03045337-n	326	6-41			A long outer garment worn over the shoulders covering the back; a cape, often with a hood.
@@ -666,15 +672,15 @@ PWN:cockroach.n.01	02233338-n	1575	3-816		915	The most primitive of the living w
 PWN:coconut.n.02	07772935-n	970	8-82			The large hard-shelled oval nut with a fibrous husk of the cocos palm.
 PWN:coffee.n.01	07929519-n	1299	23-91		3478	A beverage made by infusing the beans of the coffee plant in hot water.
 PWN:coin.n.01	13388245-n	1867	11-44		1281	A piece of currency, usually metallic and in the shape of a disc, but sometimes polygonal, or with a hole in the middle.
-PWN:cold.a.01	01251128-a	1287	15-86	kalt::A	892	Having a low temperature.
 PWN:cold.a.01	01251128-a	2483		kühl::A		Having a low temperature (of the weather).
+PWN:cold.a.01	01251128-a	1287	15-86	kalt::A	892	Having a low temperature.
 PWN:cold.n.01	14145501-n	102	4-843			A contagious, viral infectious disease of the upper respiratory system; common symptoms include cough, sore throat, runny nose, nasal congestion and sneezing.
 PWN:coldness.n.03	05015117-n	2932		Kälte::N		Cold is the presence of low temperature, especially in the atmosphere.
 PWN:collaborate.v.01	02416278-v				2151	cooperate, collaborate
 PWN:collar.n.01	03068181-n	2012	6-45	Kragen::N	1480	The part of a garment that encircles the neck.
 PWN:collar.v.01	01215137-v				1657	take into custody
-PWN:color.n.01	04956594-n				830	color
 PWN:color.n.01	04956594-n	1613	15-61			An attribute of things that results from the light they reflect, transmit, or emit in so far as this light causes a visual sensation that depends on its wavelengths.
+PWN:color.n.01	04956594-n				830	color
 PWN:colorful.a.01	00402419-a	2997		bunt::A		Having many colors.
 PWN:colt.n.01	02376791-n	1647	3-45			A juvenile horse, especially one which is not yet weaned.
 PWN:comb.n.01	03074855-n	1475	6-91	Kamm::N	1245	A toothed implement for grooming the hair.
@@ -686,6 +692,7 @@ PWN:common_eel.n.01	02526818-n	1013	3-665			A snake-like edible fish, which live
 PWN:common_iguana.n.01	01677366-n	1578	3-99921			(Iguanidae) A lizard family.
 PWN:community.n.01	08223802-n				420	a group of people living in a particular local area or sharing a culture
 PWN:companion.n.01	09945905-n	3978		Kamerad::N		One who accompanies or associates with another, either habitually or casually.
+PWN:company.n.01	08058098-n				1709	an institution created to conduct business
 PWN:company.n.03	13929588-n	2983		Gesellschaft::N		An interpersonal relationship is a strong, deep, or close association or acquaintance between two or more people that may range in duration from brief to enduring.
 PWN:compete.v.01	01072262-v				2152	compete for something; engage in a contest; measure oneself against others
 PWN:complete.v.01	00484166-v	1766	14-27	beenden::V		To end something, to bring something to a conclusion.
@@ -703,6 +710,7 @@ PWN:conserve.v.02	02280132-v	1997	11-24	bewahren::V		To protect; to keep; to mai
 PWN:construct.v.01	01654628-v	1840	9-44	bauen::V	3715	To form by combining materials or parts.
 PWN:container.n.01	03094503-n				1300	any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)
 PWN:contend.v.06	01090335-v	1423	20-11		782	To be involved in a physical confrontation.
+PWN:control.v.01	02441022-v				1670	exercise authoritative control or power over
 PWN:conventicle.n.02	03099622-n	335	7-18			A building where people meet for a purpose.
 PWN:conversation.n.01	07133701-n	2933		Gespräch::N		Conversation is interactive, communication between two or more people.
 PWN:converse.v.01	00964694-v	2903	18-99908	sich unterhalten::V		To have a conversation with somebody.
@@ -728,6 +736,7 @@ PWN:count.n.01	13591761-n	2945		Anzahl::N		The total number of individual things
 PWN:count.v.01	00948071-v	1420	13-107	zählen::V	2602	To determine the amount of something or to enumerate the digits of one's numeral system.
 PWN:country.n.02	08544813-n	1300	19-11	Land::N		A political entity asserting authority over a geographical area, or the area itself. Can be same as or part of a state.
 PWN:courage.n.01	04857083-n	3049			2070	A state or quality of mind that enables to face danger and fear; bravery.
+PWN:court.n.01	08329453-n				1652	an assembly (including one or more judges) to conduct judicial business
 PWN:court.n.08	03649459-n	1068	21-15			An organ of the government, belonging to the judicial department, whose function is the application of the laws to controversies brought before it and the public administration of justice.
 PWN:court.n.10	03120198-n	736	7-15			A small, usually uncultivated area adjoining or within the precincts of a house or other building.
 PWN:cousin.n.01	09972010-n	1643	2-55			The child of the sibling of a parent of a person.
@@ -820,6 +829,7 @@ PWN:destiny.n.01	07330007-n	1688				The power or agency that, according to certa
 PWN:destroy.v.01	01619929-v				3951	do away with, cause the destruction or undoing of
 PWN:destroy.v.02	01564144-v	681	11-27	zerstören::V		To damage beyond use or repair.
 PWN:detail.n.01	05817845-n				3907	an isolated fact that is considered separately from the whole
+PWN:detainee.n.01	10009162-n	1073				A person held against his will.
 PWN:detect.v.01	02154508-v	2893		bemerken::V	2039	To become aware of something.
 PWN:devil.n.02	09542339-n	1973	22-35			Evil spirit or person that is wicked or cruel in their actions.
 PWN:dew.n.01	14834132-n	1977	1-64			Atmospheric moisture that condenses after a warm day and appears during the night on cool surfaces as small drops.
@@ -841,10 +851,12 @@ PWN:dirty.a.01	00419289-a	1230	15-88	schmutzig::A	3612	Covered with or containin
 PWN:dirty.v.01	01534147-v	1015				make soiled, filthy, or dirty
 PWN:disappear.v.01	00426958-v	485	10-491	verschwinden::V		To cease to appear, to not be visible anymore.
 PWN:disappointment.n.01	07540602-n	3845			2078	A feeling of sadness because something did not happen the way it was expected or did not happen at all.
+PWN:disapprove.v.02	00807178-v					react negatively to; consider wrong or inappropriate
 PWN:discontinue.v.01	02680814-v	2115			3239	To stop doing something, voluntarily or involuntarily.
 PWN:discontinue.v.01	02680814-v	3351		aufhören::V		To stop doing the action one was doing.
 PWN:disease.n.01	14070360-n	1986	4-844	Krankheit::N	633	A definite pathological process having a characteristic set of signs and symptoms which are detrimental to the well-being of the individual.
 PWN:dish.n.01	03206908-n	481	5-31	Geschirr::N	1309	Any kind of vessel for holding or serving meals.
+PWN:disobey.v.01	02543181-v				1674	refuse to go along with; refuse to follow; be disobedient
 PWN:disperse.v.02	02030424-v	3705				To throw or drop things in different directions so that they cover a large area.
 PWN:dissolve.v.09	00376106-v	2887		tauen::V		Go from a frozen to a liquid state.
 PWN:distance.n.01	05084201-n	2948		Abstand::N		A separation in space.
@@ -925,6 +937,7 @@ PWN:eighty.s.01	02194151-a	1722		achtzig::NUM		The natural number eighty (80).
 PWN:einsteinium.n.01	14636822-n					Einsteinium, the chemical element with atomic number 99 and symbol Es.
 PWN:elapse.v.01	02072849-v	1951		vergehen::V		Of time, to elapse, to be spent.
 PWN:elbow.n.01	05579944-n	981	4-32	Ellenbogen::N	532	The joint between arm and forearm.
+PWN:elect.v.01	02400760-v				1642	select by a vote for an office or membership
 PWN:election.n.01	00181781-n	240	23-38			A process by which members of a population vote to choose a person to hold public office.
 PWN:electricity.n.01	11449907-n				3830	a physical phenomenon associated with stationary or moving electrons and protons
 PWN:electricity.n.02	11450566-n	59	23-17			A general term used for all phenomena caused by electric charge whether static or in motion.
@@ -932,8 +945,8 @@ PWN:elementary.s.01	00750296-a	686	17-46		3932	Requiring little skill or effort;
 PWN:elephant.n.01	02503517-n	1290	3-77		952	A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw. Elephants are the largest land animals now existing.
 PWN:elevator.n.01	03281145-n				1517	lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building
 PWN:eleven.s.01	02187379-a	1706	13-101	elf::NUM		The natural number eleven (11).
-PWN:elf.n.01	09540739-n	1037				A mythical creature of Germanic mythology. In Norse mythology they were originally minor gods of nature and fertility. They are often pictured as youthful-seeming men and women of great beauty living in forests and other natural places, underground, or in wells and springs. They have been portrayed to be long-lived or immortal and they have magical powers attributed to them.
 PWN:elf.n.01	09540739-n	3206	22-44			A mythical being similar to but distinct from human, related to nature, and usually with supernatural or magic powers.
+PWN:elf.n.01	09540739-n	1037				A mythical creature of Germanic mythology. In Norse mythology they were originally minor gods of nature and fertility. They are often pictured as youthful-seeming men and women of great beauty living in forests and other natural places, underground, or in wells and springs. They have been portrayed to be long-lived or immortal and they have magical powers attributed to them.
 PWN:elk.n.01	02432983-n	1772	3-872	Elch::N		The largest member of the deer family (Alces alces), of which the male has very large, palmate antlers.
 PWN:elm.n.01	12405714-n	3317			1042	any of various trees of the genus Ulmus: important timber or shade trees
 PWN:elongate.v.01	00318816-v	214	9-32			To lengthen by pulling.
@@ -965,6 +978,7 @@ PWN:europium.n.01	14637176-n					Europium, the chemical element with atomic numb
 PWN:evening.n.01	15166462-n	1629	14-46	Abend::N	3288	That part of the day in which daylight decreases and the night falls.
 PWN:evil.a.01	01131043-a	45	16-99904	böse::A	1908	Intending to harm or being/acting ethically wrong.
 PWN:ewe.n.03	02411999-n	1345	3-28			A female sheep.
+PWN:exchange.v.01	02257370-v				1701	give to, and receive from, one another
 PWN:exclaim.v.01	00912048-v	715	18-13	schreien::V		To say something in a loud voice.
 PWN:exercise.n.01	00624738-n					the activity of exerting your muscles in various ways to keep fit
 PWN:exercise.n.03	00894552-n				3934	systematic training by multiple repetitions
@@ -973,6 +987,7 @@ PWN:exit.v.01	02015598-v	1752	10-49	weggehen::V	3003	To move away from a place, 
 PWN:exit.v.01	02015598-v	1107	10-474			To move out of or depart from.
 PWN:expensive.a.01	00933154-a	1426	11-88	teuer::A		Having a high price, cost.
 PWN:explain.v.01	00939277-v	1626	17-38			To inform about the reason for something, how something works, or how to do something.
+PWN:extend.v.04	02297948-v				1720	present for acceptance or rejection
 PWN:extinguish.v.04	00471711-v				3952	terminate, end, or take out
 PWN:extraneous.s.03	02117464-a	109		fremd::A		Not belonging to that in which it is contained; introduced from an outside source.
 PWN:exuberate.v.01	00857923-v				2117	to express great joy
@@ -995,8 +1010,8 @@ PWN:fall.v.01	01972298-v	1280	10-23	fallen::V		To descend in free fall due to th
 PWN:familiar.a.01	00965606-a	3005		bekannt::A		well known or easily recognized
 PWN:family.n.02	07970406-n	194	2-82	Familie::N	320	A group comprising parents, offsprings and others closely related or associated with them.
 PWN:famine.n.02	07315790-n	199	5-141			A severe shortage of food, as through crop failure or over population. It may be due to poor harvests following drought, floods, earthquake, war, social conflict, etc.
-PWN:fan.n.01	03320046-n	1971	9-79			A device for creating a current of air by movement of a surface or surfaces. (WN:360)
 PWN:fan.n.01	03320046-n				1282	a device for creating a current of air by movement of a surface or surfaces
+PWN:fan.n.01	03320046-n	1971	9-79			A device for creating a current of air by movement of a surface or surfaces. (WN:360)
 PWN:fan.v.03	01885580-v	360	9-791			To blow air on (something) by means of a fan (hand-held, mechanical or electrical) or otherwise.
 PWN:far.r.02	00101051-r	1406	12-44	fern::A		Having a large intervening distance with regard to something.
 PWN:farm.n.01	03322099-n	201			1595	Any tract of land or building used for agricultural purposes, such as for raising crops and livestock.
@@ -1004,8 +1019,8 @@ PWN:farmer.n.01	10078806-n	979	8-11			A person who works the land or who keeps l
 PWN:fart.v.01	00101629-v	1159	4-64			To emit digestive gases through the anus.
 PWN:fashion.n.04	03323593-n		6-9991			A style of clothing typical to a certain period of time.
 PWN:fast.r.01	00086000-r	1631	14-21			Occurring or happening within a short time.
-PWN:fast.v.01	01189604-v	303	22-26			To refrain from eating.
 PWN:fast.v.01	01189604-v	3331				To consume little or no food for a specific period of time, usually done for religious reasons.
+PWN:fast.v.01	01189604-v	303	22-26			To refrain from eating.
 PWN:fat.n.01	14864360-n	323	5-791	Fett::N		Esters of three fatty acid chains and the alcohol glycerol which form a semi-solid substance in room temperature and occur in animals and plants.
 PWN:fat.s.05	01081340-a				1007	marked by great fruitfulnes, able to support plant growth
 PWN:father.n.01	10080869-n	1217	2-35	Vater::N	322	A male parent.
@@ -1049,8 +1064,8 @@ PWN:finger.n.01	05566504-n	1303	4-34	Finger::N	535	One of the long extremities o
 PWN:fingernail.n.01	05584265-n	1258	4-344	Fingernagel::N		The hard, flat, translucent covering near the tip of a human finger, useful for scratching and fine manipulation.
 PWN:fir.n.02	11620673-n	1915	8-65	Tanne::N		An evergreen coniferous tree of the genus Abies.
 PWN:fire.n.01	07302836-n	2675			3821	The state of combustion in which inflammable material burns, producing heat, flames and often smoke.
-PWN:fire.n.03	13480848-n	221	1-81	Feuer::N		The state of combustion in which inflammable material burns, producing heat, flames and often smoke.
 PWN:fire.n.03	13480848-n	889	1-82			A bright yellow, red or bluish light which emerges during combustion processes.
+PWN:fire.n.03	13480848-n	221	1-81	Feuer::N		The state of combustion in which inflammable material burns, producing heat, flames and often smoke.
 PWN:fireplace.n.01	03346455-n	185	7-31		1520	An open recess in a wall at the base of a chimney where a fire may be built.
 PWN:firewood.n.01	15100644-n	10	1-88			Wood intended to be burned.
 PWN:firm.s.02	01151740-a	3003		fest::A		Firm to the touch.
@@ -1097,8 +1112,8 @@ PWN:foolish.a.01	02570282-a				2109	devoid of good sense or judgment
 PWN:foot.n.01	05563266-n	1301	4-37	Fuß::N	542	The part of a human’s body below the ankle that is used in order to stand and walk.
 PWN:footing.n.02	13790912-n				3923	a relation that provides the foundation for something
 PWN:footprint.n.01	06645039-n	318	4-374	Spur::N		The impression of the foot in a soft substance such as sand or snow.
-PWN:forbid.v.01	00795863-v	83	18-38		1672	To tell not to do something.
 PWN:forbid.v.01	00795863-v	2660				Ask or command somebody to not carry out an action.
+PWN:forbid.v.01	00795863-v	83	18-38		1672	To tell not to do something.
 PWN:force.n.01	05194578-n					a powerful effect or influence
 PWN:force.n.02	11458624-n		20-99903		3822	[in physics] the influence that produces a change in a physical quantity
 PWN:foreman.n.01	10104209-n	2930		Chef::N		A boss is a person in charge, or a supervisor.
@@ -1117,6 +1132,7 @@ PWN:fragrant.a.01	01052248-a	376	15-25			Sweet-smelling; having a pleasant (usua
 PWN:frame.n.01	03391301-n					the framework for a pair of eyeglasses
 PWN:framework.n.03	03391770-n				1330	a structure supporting or surrounding something
 PWN:francium.n.01	14637864-n					Francium, the chemical element with atomic number 87 and symbol Fr.
+PWN:free.a.01	01061489-a				1678	able to act at will; not hampered; not under compulsion or restraint
 PWN:freeman.n.01	10111023-n	384	19-44			A free man, one who is not a serf or slave.
 PWN:freeze.v.02	00374135-v	1431	1-775	gefrieren::V		To reach a chemically solid state, by the process of cooling.
 PWN:frequently.r.01	00035058-r	1852	14-32	oft::ADV	3225	Many times, with short intervals between occasions.
@@ -1130,10 +1146,11 @@ PWN:front_tooth.n.01	05306190-n	442				Aeveral teeth located above and below in 
 PWN:frost.n.01	14915622-n	2034		Frost::N		A deposit of interlocking ice crystals formed by direct sublimation on objects. (Source: MGH)
 PWN:frost.n.01	14915622-n	2942		Raureif::N		Refers to white ice crystals, deposited on the ground or loosely attached to exposed objects such as wires or leaves.
 PWN:fruit.n.01	13134947-n	1507	5-71		1023	A botanical fruit that can be eaten raw used as food.
-PWN:fry.v.02	00325328-v	991		braten::V		To cook in hot fat.
 PWN:fry.v.02	00325328-v	2146	5-23			Preparing food by exposing it to open fire or to hot fat.
+PWN:fry.v.02	00325328-v	991		braten::V		To cook in hot fat.
 PWN:full.a.01	01083157-a	1429	13-21	voll::A	2685	Containing the most or maximum amount possible in the given available space.
 PWN:fume.v.02	02767922-v	2859		rauchen::V		To emit smoke (such as something which burns).
+PWN:fundamental_law.n.01	06533648-n				1651	law determining the fundamental political principles of a government
 PWN:funeral.n.01	07451463-n	3336	22-99905		1891	The ceremonial act of bidding farewell to a deceased person or animal.
 PWN:fur.n.03	03404149-n	580	6-28	Fell::N		The body-hair of an animal (excluding humans) or a piece of clothing made thereof.
 PWN:furniture.n.01	03405725-n				1340	furnishings that make a room or other area ready for occupancy
@@ -1146,8 +1163,8 @@ PWN:garden.n.01	03417345-n				1010	a plot of ground where plants are cultivated
 PWN:garden.n.03	03417749-n	586	8-13			A piece of land next to a house where flowers and other plants are grown and which often has an area of grass.
 PWN:garlic.n.01	12434775-n	2368			1065	bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves
 PWN:garment.n.01	03419014-n				1435	An item of clothing.
-PWN:gate.n.01	03427296-n	1567	7-22	Tür::N	1515	An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.
 PWN:gate.n.01	03427296-n					a movable barrier in a fence or wall
+PWN:gate.n.01	03427296-n	1567	7-22	Tür::N	1515	An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.
 PWN:gateway.n.01	03428477-n	2940		Tor::N		A gate or gateway is a point of entry to a space which is enclosed by walls.
 PWN:gather.v.01	01380638-v	7	12-21	sammeln::V		To collect or gather (e.g. work, magazines, etc.).
 PWN:gay.s.02	01367651-s	1976		lustig::A		In good spirits.
@@ -1160,7 +1177,7 @@ PWN:germanium.n.01	14638517-n					Germanium, the chemical element with atomic nu
 PWN:gesticulate.v.01	00992041-v				747	show, express or direct through movement
 PWN:get_down.v.07	00345761-v	3447		beginnen::V	3235	To begin doing an activity, or (of an activity) to begin.
 PWN:get_up.v.02	00018158-v	3350		aufstehen::V		To leave one's place of sleeping.
-PWN:get.v.01	02210855-v	694	11-16	erhalten::V		To get or obtain an item; to come into the possession of something.
+PWN:get.v.01	02210855-v	694	11-16	erhalten::V	1736	To get or obtain an item; to come into the possession of something.
 PWN:ghost.n.03	09545976-n	1175	22-45		1831	The visible disembodied soul of a dead person.
 PWN:giant_panda.n.01	02510455-n	3951				Also *giant panda*, a white-and-black mammal of the *Ailuropoda* family, native to eastern Asia, commonly referred to as a type of bear.
 PWN:gibbon.n.01	10997742-n	2511				Apes in the family Hylobatidae.
@@ -1170,6 +1187,7 @@ PWN:ginger.n.01	12355760-n	2500			1066	perennial plants having thick branching a
 PWN:gingiva.n.01	05304932-n	139	4-271			The mucosal tissue that partly lies over the teeth in the mouth.
 PWN:ginseng.n.01	11800236-n				1070	aromatic root of ginseng plants
 PWN:girl.n.01	10129825-n	77	2-261			A female juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity.
+PWN:give.v.01	02316868-v				1734	cause to have, in the abstract sense or physical sense
 PWN:give.v.03	02199590-v	1447	11-21	geben::V		To transfer the possession or holding (of an object) to another person.
 PWN:give.v.08	02200686-v	196		schenken::V		To give [a gift or award] in a formal manner.
 PWN:glass.n.01	14881303-n	604	9-74	Glas::N	3350	A hard, amorphous, inorganic, usually transparent, brittle substance made by fusing silicates, sometimes borates and phosphates, with certain basic oxides and then rapidly cooling to prevent crystallization.
@@ -1220,8 +1238,8 @@ PWN:grow.v.03	00231557-v	479	12-53	wachsen::V		(For a living being) To become bi
 PWN:guard.n.01	10150071-n	1940	20-471			A person who protects or watches over something.
 PWN:guard.v.01	02456031-v				2122	to keep watch over
 PWN:guest.n.01	10150940-n	1782	19-56	Gast::N		A person that visits and stays at a house, usually for one or more nights.
-PWN:guilty.a.01	01320988-a				2111	responsible for or chargeable with a reprehensible act
 PWN:guilty.a.01	01320988-a	1682	21-35			Having committed an offense, crime, violation, or wrong, especially against moral or penal law.
+PWN:guilty.a.01	01320988-a				2111	responsible for or chargeable with a reprehensible act
 PWN:gull.n.02	02041246-n	950	3-582			A seabird of the genus Larus or of the family Laridae.
 PWN:gun.n.01	03467984-n	1566	20-28	Gewehr::N	1215	A bullet firing weapon to be held in the hands or arms.
 PWN:habit.n.01	05669034-n				2124	an established custom
@@ -1307,6 +1325,7 @@ PWN:holmium.n.01	14640222-n					Holmium, the chemical element with atomic number
 PWN:holy.a.01	02053818-a	1702	22-19		1850	Specially recognized as or declared sacred by religious use or authority.
 PWN:home.n.01	08559508-n	2406		Heim::N		The place where one lives.
 PWN:honey.n.01	07858978-n	942	5-84	Honig::N		A viscous, sweet substance produced from nectar or honeydew by bees.
+PWN:honor.v.01	02546075-v				1681	bestow honor or rewards upon
 PWN:hook.n.05	03532342-n	1071	12-75	Haken::N	1220	A rod bent into a curved shape, for catching, holding, or sustaining anything.
 PWN:hope.n.02	07541053-n					A wish for something to happen.
 PWN:hope.v.02	01811441-v	3212	16-63		2075	To want something to happen.
@@ -1317,6 +1336,7 @@ PWN:horsefly.n.02	02195526-n	3262				A fly of the family Tabanidae, known for bi
 PWN:hospital.n.01	03540595-n				1564	a health facility where patients receive treatment
 PWN:hospital.n.02	08054417-n	616	23-2			A place where people who are ill or injured are treated and taken care of by doctors and nurses.
 PWN:host.n.01	10187130-n	1545	19-57			Person at whose place guests stay.
+PWN:hostage.n.01	10187557-n				1662	a prisoner who is held by one party to insure that another party will meet specified terms
 PWN:hot.a.01	01247240-a	1286	15-85	heiß::A	895	Having a very high temperature.
 PWN:hotel.n.01	03542333-n				1565	a building where travelers can pay for lodging and meals and other services
 PWN:hour.n.01	15227846-n	1353	14-51		3291	A time period of sixty minutes; one twenty-fourth of a day.
@@ -1328,15 +1348,15 @@ PWN:hunger.n.01	14039534-n	1864		Hunger::N		A need of food.
 PWN:hungry.a.01	01269073-a	1533	5-14	hungrig::A		To be in need of food.
 PWN:hunt.v.01	01143838-v	1435	20-61	jagen::V	781	To chase down prey and (usually) kill it.
 PWN:hurt.v.06	02121511-v	1815		schmerzen::V		To be in continuous pain.
-PWN:husband.n.01	10193967-n	1200	2-31	Ehemann::N	361	The male partner in a marriage.
 PWN:husband.n.01	10193967-n	424	2-38			A married man.
+PWN:husband.n.01	10193967-n	1200	2-31	Ehemann::N	361	The male partner in a marriage.
 PWN:hydrochoerus.n.01	02365356-n	314	3-9991			The largest living rodent native to South America, living partly on land and partly in water.
 PWN:hydrogen.n.01	14640434-n				3374	Hydrogen, the chemical element with atomic number 1 and symbol H.
 PWN:hymn.n.01	07035870-n		22-99907			
 PWN:ice.n.01	14915184-n	617	1-77	Eis::N		The dense substance formed by the freezing of water to the solid state; it commonly occurs in the form of hexagonal crystals.
 PWN:idea.n.01	05833840-n	1609	17-19	Gedanke::N	2055	A plan or notion that is formed and exists in the mind as a result of mental activity.
-PWN:idol.n.01	03560161-n	1945	22-37	Figur::N		A representation of a deity, notably a statue or a statuette.
 PWN:idol.n.01	03560161-n	3205				A representation of a deity who is considered to be false.
+PWN:idol.n.01	03560161-n	1945	22-37	Figur::N		A representation of a deity, notably a statue or a statuette.
 PWN:igloo.n.01	03560430-n	2592				A snow hut built from snow and serving as a shelter.
 PWN:ignite.v.01	02759614-v	737	1-86	anzünden::V		To start a fire or light a flame.
 PWN:igniter.n.01	15101361-n	3092				Portable instrument for igniting something.
@@ -1350,6 +1370,7 @@ PWN:impede.v.01	02451370-v	554		behindern::V		To make difficult to accomplish; t
 PWN:improbable.a.01	01413871-a				3912	not likely to be true or to occur or to have occurred
 PWN:increase.v.01	00156601-v	1041		zunehmen::V		(Of a quantity) to become bigger.
 PWN:incrimination.n.01	07237758-n	381	16-78			Accusation for something negative or undesirable.
+PWN:independent.a.01	00727564-a				1679	free from external control and constraint
 PWN:indicate.v.02	00923793-v	1039	15-55	zeigen::V	815	To have somebody see something.
 PWN:indium.n.01	14641223-n					Indium, the chemical element with atomic number 49 and symbol In.
 PWN:individual.n.02	10203839-n				401	one considered separately from one's species or culture
@@ -1364,8 +1385,8 @@ PWN:instrument.n.02	00173761-n	1361	9-422			A mechanical device intended to make
 PWN:intention.n.03	00163233-n	1162	17-41			An anticipated outcome that is intended to obtain or that guides your planned actions.
 PWN:interest.n.01	05682950-n				2022	a sense of concern with and curiosity about someone or something
 PWN:international.a.01	01568375-a				1612	concerning or belonging to all or at least two or more nations
-PWN:internet.n.01	03580615-n				2299	Internet
 PWN:internet.n.01	03580615-n				1221	an open fabric of string or rope or wire woven together at regular intervals
+PWN:internet.n.01	03580615-n				2299	Internet
 PWN:interrupt.v.02	00520019-v	2883		stören::V		Interfere with somebody.
 PWN:intestine.n.01	05534333-n	1991	4-461		573	The alimentary canal of an animal or human through which food passes after having passed all stomachs.
 PWN:intoxicated.a.01	00797299-a	1463	4-98		652	Being in a temporary state in which one's physical and mental faculties are impaired due to excessive consumption of alcohol.
@@ -1395,27 +1416,31 @@ PWN:job.n.02	00719705-n				3927	a specific piece of work required to be done as 
 PWN:join.v.02	01295275-v	1743	12-22	vereinigen::V		To join or unite, as one thing to another, or as several particulars, so as to increase the number, augment the quantity, enlarge the magnitude, or so as to form into one aggregate; to sum up; to put together mentally, as, to add numbers; to add up a column.
 PWN:joy.n.01	07527352-n	2524		Freude::N		Mental happiness.
 PWN:judaism.n.01	08094013-n				1885	Judaism
-PWN:judge.n.01	10225219-n	861	21-18			A person who decides the fate of someone or something that has been called into question.
+PWN:judge.n.01	10225219-n	861	21-18		1660	A person who decides the fate of someone or something that has been called into question.
 PWN:judgment.n.03	01187810-n	1067	21-17			The official and authentic decision of a court of justice upon the respective rights and claims of the parties to an action or suit therein litigated and submitted to its determination, the final decision of the court resolving the dispute and determining the rights and obligations of the parties.
 PWN:july.n.01	15212167-n	2850		Juli::N	4007	The 7th month of the Gregorian calendar.
 PWN:jump.v.01	01963942-v	1829	10-43	springen::V	703	To propel oneself rapidly upward such that momentum causes the body to become airborne.
 PWN:june.n.01	15211806-n	2849		Juni::N	4006	The 6th month of the Gregorian calendar.
+PWN:jury.n.01	08414119-n				1653	a body of citizens sworn to give a true verdict according to the evidence presented in a court of law
 PWN:kangaroo.n.01	01877134-n	164	3-88			A marsupial from the family Macropodidae having powerful hind legs and large feet for leaping.
 PWN:keep.v.01	02681795-v					keep in a certain state, position, or activity
+PWN:keep.v.03	02202384-v				1731	retain possession of, go on having
 PWN:keep.v.03	02202384-v	1477	11-17	aufbewahren::V		To retain possession of something.
+PWN:keep.v.19	02203844-v					have as a supply
 PWN:kelp.n.01	01403457-n				1086	large brown seaweeds having fluted leathery fronds
 PWN:kettle.n.01	03612814-n	854	5-27	Kessel::N		A metal container used to boil any kind of liquid.
 PWN:key.n.01	03613294-n	1472	7-24		1286	An object designed to be able to open (and usually close) a lock.
 PWN:kick.v.01	01371756-v				754	drive or propel with the foot
 PWN:kick.v.03	01370561-v	1135	10-431	treten::V		To strike somebody or something with the foot.
 PWN:kid.n.05	02416820-n	1972	3-38			A young goat.
+PWN:kidnap.v.01	01471043-v				1663	take away to an undisclosed location against their will and usually in order to extract a ransom
 PWN:kidney.n.01	05332802-n	489	4-451		574	An organ in the body that produces urine.
 PWN:kill.v.01	01323958-v				627	cause to die; put to death, usually intentionally or knowingly
 PWN:kill.v.10	01325536-v	1417	4-76	töten::V		To put to death; to end a life.
 PWN:kin.n.02	07969695-n	302	19-23			Extended family.
 PWN:kind.n.01	05839024-n	844		Art::N		A category of things distinguished by a common characteristic or quality.
-PWN:king.n.01	10231515-n				390	a male sovereign; ruler of a kingdom
 PWN:king.n.01	10231515-n	1508	19-32	König::N		A male member of a Royal Family and supreme ruler of his nation.
+PWN:king.n.01	10231515-n				390	a male sovereign; ruler of a kingdom
 PWN:kingfisher.n.01	01827403-n	2444	3-99923			A group of small to medium-sized brightly colored birds in the order Coraciiformes.
 PWN:kitchen.n.01	03619890-n	1365			1535	A room equipped for preparing and cooking food.
 PWN:knead.v.01	01235355-v	274	5-54			To press a dough many times with one's hands.
@@ -1439,8 +1464,8 @@ PWN:lake.n.01	09328904-n	624	1-33	See::N	1169	An enclosed body of water, usually
 PWN:lamb.n.01	02412440-n	820	3-29			Young sheep.
 PWN:lamp.n.01	03636248-n				1257	an artificial source of visible illumination
 PWN:land.n.02	09335240-n	1228	1-212	Erde::N		The soft and loose material forming a great part of the Earth surface.
-PWN:land.n.04	09334396-n				1110	the solid part of the earth's surface, terra firma contrasted with sea and heaven
 PWN:land.n.04	09334396-n	626	1-21			A specified geographical tract of the Earth's surface including all its attributes, comprising its geology, superficial deposits, topography, hydrology, soils, flora and fauna, together with the results of past and present human activity, to the extent that these attributes exert a significant influence on the present and future land utilization. (Source: WHIT)
+PWN:land.n.04	09334396-n				1110	the solid part of the earth's surface, terra firma contrasted with sea and heaven
 PWN:land.n.04	09334396-n	2159		Boden::N		The top layer of the earth.
 PWN:land.v.06	01981436-v	1922	10-92			To descend to a surface, especially from the air.
 PWN:language.n.01	06282651-n	1307	18-24	Sprache::N		A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.
@@ -1456,7 +1481,7 @@ PWN:late.r.01	00100267-r	477	14-17		3252	Towards the end of a time period.
 PWN:laugh.n.01	07127006-n					the sound of laughing
 PWN:laugh.v.01	00031820-v	1355	16-25	lachen::V	743	To express pleasure, mirth or derision by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat.
 PWN:laughter.n.02	1072402-n	2958		Gelächter::N		Laughter is a physical reaction in humans and some other species of primate, consisting typically of rhythmical, often audible contractions of the diaphragm and other parts of the respiratory system.
-PWN:law.n.01	08441203-n	1062	21-11			A body of rules of action or conduct prescribed by a legislative authority, and having binding legal force.
+PWN:law.n.01	08441203-n	1062	21-11		1650	A body of rules of action or conduct prescribed by a legislative authority, and having binding legal force.
 PWN:lawrencium.n.01	14643323-n					Lawrencium, the chemical element with atomic number 103 and symbol Lr.
 PWN:lay.v.02	01544692-v	2071		legen::V		To place down in a position of rest, or in a horizontal position.
 PWN:lead.n.02	14643467-n	627	9-68		3327	A heavy toxic bluish-white metallic element with symbol Pb and atomic number 82 that is highly malleable; occurs principally as galena and is used in alloys, accumulators, cable sheaths, paints, and as a radiation shield.
@@ -1532,6 +1557,7 @@ PWN:loose.a.01	00503321-a	2506				Being not tight.
 PWN:loosen.v.01	00419375-v	1933				To make undone or untied ; to free from any fastening.
 PWN:loot.n.01	13262663-n	1022	20-48			Profits from burglary, looting and raids.
 PWN:lord.n.03	10271677-n	482	19-36			Someone of aristocratic blood.
+PWN:lose.v.01	02287789-v				1733	fail to keep or to maintain; cease to have, either physically or in an abstract sense
 PWN:lose.v.05	02287618-v	3072	11-33	verlieren::V		To place something in a place where one cannot find it again or in a wrong place; to lose something.
 PWN:loudly.r.01	00069901-r	377	15-45			(Of a sound) to have a high volume.
 PWN:louse.n.01	02183857-n	1392	3-99924	Laus::N		A small wingless parasitic insect of the order Phthiraptera that lives on humans, other mammals and birds.
@@ -1584,14 +1610,15 @@ PWN:massage.v.01	01232738-v	3119				To rub someone's body with the hands.
 PWN:mast.n.01	03726760-n	184	10-87			Post of wood or steel, long, round and straight, standing on a ship, intended to carry the sails, flags, floodlights, or communications equipment.
 PWN:master_of_science.n.01	06702139-n					a master's degree in science
 PWN:master.n.08	10298798-n					someone who holds a master's degree from academic institution
+PWN:mastermind.v.01	00710005-v					plan and direct (a complex undertaking)
 PWN:mat.n.01	03727837-n	195	9-77			A flat object laid on the floor to protect a person from the hard floor.
 PWN:match.n.01	03728437-n	1133	1-87		1292	A stick with inflammable substance on one end that can be set on fire by friction.
 PWN:mattress.n.01	03731164-n	105	23-53			A pad on which a person can recline and sleep.
 PWN:may.n.01	15211484-n	2848		Mai::N	4005	The 5th month of the Gregorian calendar.
 PWN:mayor.n.01	10303814-n				393	the head of a city government
 PWN:mead.n.03	07890750-n	941	5-91			Wine made of honey.
-PWN:meal.n.01	07573696-n	1526	5-41	Essen::N		The act of eating food, usually at a specific time.
 PWN:meal.n.01	07573696-n	3542				Food prepared to be eaten during a meal or as a snack.
+PWN:meal.n.01	07573696-n	1526	5-41	Essen::N		The act of eating food, usually at a specific time.
 PWN:meaning.n.01	06601327-n	2950		Sinn::N		The thing one intends to convey especially by language.
 PWN:measure.n.02	00033615-n					how much there is or how many there are of something that you can quantify
 PWN:measure.v.01	00647094-v	1506	12-54	messen::V		To ascertain the quantity of a unit of material via calculated comparison with respect to a standard.
@@ -1605,7 +1632,6 @@ PWN:member.n.01	10307234-n				371	one of the persons who compose a social group 
 PWN:memory.n.01	05935060-n					something that is remembered
 PWN:memory.n.03	05651399-n	1018		Gedächtnis::N		The ability of an organism to record information combined with the facility of recall.
 PWN:mendelevium.n.01	14645092-n					Mendelevium, the chemical element with atomic number 101 and symbol Md.
-PWN:merchandise.n.01	03748886-n					commodities offered for sale
 PWN:merchant.n.01	10309896-n	1082	11-84			A businessperson engaged in trade.
 PWN:mercury.n.01	14645346-n				3384	Mercury (Quicksilver), the chemical element with atomic number 80 and symbol Hg.
 PWN:merely.r.01	00004722-r				243	and nothing more
@@ -1619,8 +1645,8 @@ PWN:milky_way.n.01	09354984-n	2289			1138	The galaxy that contains our Solar Sys
 PWN:mill.n.04	03765561-n	636	5-57			A mill is a device that breaks solid materials into smaller pieces by grinding, crushing, or cutting.
 PWN:mill.n.04	03765561-n				1563	machinery that processes materials by grinding or crushing
 PWN:mince.v.03	01560583-v	3082				To cut something, especially food, into small pieces.
-PWN:mind.n.01	05611302-n			Verstand::N	2001	The totality of mental activities, including intellect, perception and emotions, the psyche.
 PWN:mind.n.01	05611302-n	1562	17-11			The ability for rational thought. The mind as the seat of intelligence as opposed to heart or soul as the seat of emotions.
+PWN:mind.n.01	05611302-n			Verstand::N	2001	The totality of mental activities, including intellect, perception and emotions, the psyche.
 PWN:minister.n.02	10320863-n	486	23-32			A person appointed to a high office in the government.
 PWN:mint.n.02	12855042-n				1067	any north temperate plant of the genus Mentha with aromatic leaves and small mauve flowers
 PWN:minute.n.01	15234764-n				3292	A time period of 60 seconds.
@@ -1628,8 +1654,9 @@ PWN:miracle.n.01	07289481-n	2541			3904	The happening of something impossible.
 PWN:mirror.n.01	03773035-n	1171	6-96	Spiegel::N	1259	A smooth surface, usually made of glass with reflective material painted on the underside, that reflects light so as to give an image of what is in front of it.
 PWN:misfortune.n.02	14475405-n	56	16-19	Unglück::N		An undesirable event such as an accident.
 PWN:miss.n.03	06341249-n				273	a form of address for an unmarried woman
-PWN:miss.v.06	02632353-v	3363				Not being in possession of something (both abstract and concrete).
+PWN:miss.v.06	02632353-v	3363			1732	Not being in possession of something (both abstract and concrete).
 PWN:miss.v.07	01237901-v	161	20-63			To fail to hit (a target, a bell, etc.).
+PWN:miss.v.08	02632838-v	2329				to be not there, to be absent or missing
 PWN:mistake.n.01	00070965-n	1293	16-77	Fehler::N		A mistake, an oversight, a slight; usually apologetic, referring to one's own failures.
 PWN:mister.n.01	06341340-n				271	a form of address for a man
 PWN:mix.v.04	00184117-v	2017	5-49			To mix together different elements.
@@ -1640,7 +1667,7 @@ PWN:molecule.n.01	14682133-n				3816	(physics and chemistry) the simplest struct
 PWN:molybdenum.n.01	14645661-n					Molybdenum, the chemical element with atomic number 42 and symbol Mo.
 PWN:moment.n.01	15244650-n				3241	a particular point in time
 PWN:monday.n.01	15163979-n	1697	14-63	Montag::N	4021	The first day of the week in Europe and in systems using the ISO 8601 norm; the second day of the week in the United States of America.
-PWN:money.n.01	13384557-n	1559	11-43	Geld::N		An unspecified amount in a currency.
+PWN:money.n.01	13384557-n	1559	11-43	Geld::N	1705	An unspecified amount in a currency.
 PWN:monkey.n.01	02484322-n	1350	3-76		966	A primate from the group *New World monkeys* or *Old World monkeys* (Simiiformes, excluding the superfamily Hominoidea or apes) that lives mainly in rainforests and is distinguished from an Ape by its smaller size and its tail.
 PWN:monster.n.01	09491966-n				1814	monster
 PWN:moon.n.01	09358358-n	1313	1-53	Mond::N	1126	A natural satellite of a planet.
@@ -1696,8 +1723,8 @@ PWN:nature.n.03	09366762-n	3897			1102	The physical world including all living t
 PWN:nature.n.04	04623113-n					the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions
 PWN:navel.n.01	05556595-n	1838	4-43	Nabel::N	553	A scar where the umbilical cord was attached.
 PWN:navy.n.01	08191701-n				1632	an organization of military vessels belonging to a country and available for sea warfare
-PWN:near.r.01	00409709-r	1942	12-43	nah::A		Not far distant in time or space or degree or circumstances.
 PWN:near.r.01	00409709-r					near in time or place or relationship
+PWN:near.r.01	00409709-r	1942	12-43	nah::A		Not far distant in time or space or degree or circumstances.
 PWN:necessary.a.01	01580050-a				3975	absolutely essential
 PWN:necessity.n.01	14450691-n	643	17-45			The fact or an instance of feeling the lack of something.
 PWN:neck.n.01	05546540-n	1333	4-28	Hals::N	502	The part of the body (found in some animals, including humans) that connects the head and the trunk.
@@ -1735,8 +1762,8 @@ PWN:nitrogen.n.01	14647235-n				3378	Nitrogen, the chemical element with atomic 
 PWN:no.a.01	02268485-a				225	quantifier; used with either mass nouns or plural count nouns for indicating a complete or almost complete lack or zero quantity of
 PWN:no.r.03	00024356-r	1269	17-56			A word used to show disagreement of something.
 PWN:nobelium.n.01	14647722-n					Nobelium, the chemical element with atomic number 102 and symbol No.
-PWN:noise.n.01	07387509-n	1182		Lärm::N	866	Sound which is unwanted, either because of its effects on humans, its effect on fatigue or malfunction of physical equipment, or its interference with the perception or detection of other sounds.
 PWN:noise.n.01	07387509-n	1811	15-44	Laut::N		Any audible noise which is not necessarily unwanted or unpleasant to the hearer and of short or long duration.
+PWN:noise.n.01	07387509-n	1182		Lärm::N	866	Sound which is unwanted, either because of its effects on humans, its effect on fatigue or malfunction of physical equipment, or its interference with the perception or detection of other sounds.
 PWN:nonfat.a.01	00992955-a	2219				Carry little fat.
 PWN:noon.n.01	15165490-n	2490			3286	12 o'clock in the daytime.
 PWN:noon.n.01	15165490-n	12	14-45	Mittag::N		Time of day when the sun is in its zenith.
@@ -1744,8 +1771,8 @@ PWN:noose.n.02	03829563-n	2604		Schlinge::N		A loop at the end of a rope.
 PWN:north.n.03	13831176-n	1598	12-47	Norden::N	2910	One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map.
 PWN:nose.n.01	05598147-n	1221	4-23	Nase::N	520	The organ of the face used to breath and smell.
 PWN:nostril.n.01	05600109-n	1178	4-231			Either of the two orifices located on the nose (or on the beak of a bird); used as a passage for air and other gases to travel the nasal passages.
-PWN:not.r.01	00024073-r		24-99907		242	negation of a word or group of words
 PWN:not.r.01	00024073-r	1240	24-06	nicht::ADV		Negates the meaning of the modified verb or adjective.
+PWN:not.r.01	00024073-r		24-99907		242	negation of a word or group of words
 PWN:november.n.01	15213406-n	2854		November::N	4011	The 11th month of the Gregorian calendar.
 PWN:now.r.04	00049220-r	1376	14-18	jetzt::ADV	3206	At present; at this time.
 PWN:number.n.02	13582013-n	1356	23-39			An abstract entity used to describe quantity.
@@ -1757,7 +1784,7 @@ PWN:oak.n.02	12268246-n	644	8-61			Any tree of the genus Quercus in the order Fa
 PWN:oar.n.01	03837422-n	3137	10-85	Ruder::N	3152	A pole with a blade at one end, and with the other end attached to the boat via an oarlock or thole, used to row or steer a boat.
 PWN:oat.n.01	12109827-n	60	8-46		1075	A species of grass (Avena sativa) grown for its seed.
 PWN:oath.n.03	07226841-n	1712	21-25			Promise or solemn declaration in front of an authority, another person or to oneself.
-PWN:obey.v.01	02542795-v	1635	19-46			To do as you are told.
+PWN:obey.v.01	02542795-v	1635	19-46		1673	To do as you are told.
 PWN:object.n.01	00002684-n				3500	Any object that can be grasped.
 PWN:obscure.s.01	00431004-a	1764	17-35			Known vaguely or incompletely, if at all.
 PWN:ocean.n.01	09376198-n	645	1-329			The mass of water occupying all of the Earth's surface not occupied by land, but excluding all lakes and inland seas.
@@ -1792,6 +1819,7 @@ PWN:order.v.01	00746718-v	1998	19-45			To order someone or several persons by a 
 PWN:oregano.n.01	12853287-n				1068	aromatic Eurasian perennial
 PWN:organ.n.01	05297523-n				570	a fully differentiated structural and functional unit in an animal that is specialized for some particular function
 PWN:organic.n.01	14859838-n					a fertilizer that is derived from animal or vegetable matter
+PWN:organize.v.02	02432530-v				1676	cause to be structured or ordered or operating according to some principle or idea
 PWN:orphan.n.01	10384392-n	1149	2-75			A person one or both of whose parents have died, especially a minor.
 PWN:osmium.n.01	14647907-n					Osmium, the chemical element with atomic number 76 and symbol Os.
 PWN:other.a.01	02069355-a	197	24-11	anderer::A		The rest of a group of.
@@ -1802,7 +1830,7 @@ PWN:overlord.n.01	10388440-n				372	a person who has general authority over othe
 PWN:overlord.n.01	10388440-n	383	19-41			Someone who has control over something or someone; the owner of an animal or slave or someone who employs others.
 PWN:owe.v.03	02253956-v	369	11-63			To be under an obligation to give something back to someone or to perform some action for someone; to have debt.
 PWN:owl.n.01	01621127-n	735	3-596	Eule::N		A solitary, mainly nocturnal bird of prey, belonging to the order Strigiformes; it has large forward-facing eyes and ears and a hawk-like beak, and it can turn its head 180 degrees around.
-PWN:own.v.01	02204692-v	684	11-12	besitzen::V		To have rightful possession of property, goods or capital.
+PWN:own.v.01	02204692-v	684	11-12	besitzen::V	1730	To have rightful possession of property, goods or capital.
 PWN:ox.n.01	02403003-n	1169	3-22			A castrated bull.
 PWN:oxygen.n.01	14648100-n				3372	Oxygen, the chemical element with atomic number 8 and symbol O.
 PWN:paca.n.01	02366301-n	316	3-9993			A large rodent, with dark brown or black fur, a white or yellowish underbelly and rows of white spots along its sides, native to Central America and South America.
@@ -1812,8 +1840,8 @@ PWN:paddy.n.02	08614229-n	140	8-121			A flooded field where rice is grown.
 PWN:padlock.n.01	03874599-n	336	7-232			A detachable lock that can be used to secure something by means of a sliding or hinged shackle.
 PWN:pain.n.03	05724694-n	1783	16-31	Schmerz::N	881	An unpleasant, usually localised physical sensation that is often the result of an injury, disease or other ailment.
 PWN:paint.n.01	03875218-n	647	9-88	Farbe::N		A mixture of pigment and a vehicle, such as oil or water, that together form a liquid or paste that can be applied to a surface to provide an adherent coating that imparts colour, protects the surface and/or gives the surface different features.
-PWN:paint.v.02	01362736-v	2001	9-89	malen::V		To make a painting or drawing.
 PWN:paint.v.02	01362736-v	3122				Spread coloured pigments on a surface.
+PWN:paint.v.02	01362736-v	2001	9-89	malen::V		To make a painting or drawing.
 PWN:paintbrush.n.01	03876231-n	3094				Brush used to spread pigments of colour on a surface.
 PWN:pair.n.01	07985223-n	1888	13-37			Two similar or identical things taken together.
 PWN:palette.n.01	05128370-n					the range of colour characteristic of a particular artist or painting or school of art
@@ -1826,11 +1854,13 @@ PWN:paper.n.01	14974264-n	648	18-56			Felted or matted sheets of cellulose fiber
 PWN:pare.v.04	01262564-v				3795	remove the edges from and cut down to the desired size
 PWN:parent.n.01	10399491-n	505	2-37	Eltern::N		Father and mother of a child.
 PWN:park.n.01	08615149-n				1596	a large area of land preserved in its natural state as public property
+PWN:parliament.n.01	08319198-n				1646	a legislative assembly in certain countries
 PWN:parrot.n.01	01816887-n	882	3-592			Any bird of the order Psittaciformes, many species of which are colourful and able to mimic human speech.
 PWN:part.n.02	03892891-n	779	13-23	Teil::N	2660	A separate unit of a larger whole. All parts are needed to complete the whole thing.
 PWN:part.n.03	09385911-n	594	13-231	Stück::N	2661	A part that is broken, cut or separated from something larger and is usable on its own.
 PWN:partake.v.02	02295208-v	884	11-91			To give part of what one has to somebody else to use or consume.
 PWN:parturition.n.01	13532886-n	2805				The process of giving birth to a child.
+PWN:party.n.01	08256968-n				1644	an organization to gain political power
 PWN:pass.n.05	06691083-n				1614	any authorization to pass or go somewhere
 PWN:passeridae.n.01	01539377-n	1854	3-99941		985	A small song bird, in the family Passeridae.
 PWN:pasture.n.01	08616050-n	649	3-16	Weide::N		Land covered with grass or herbage and grazed by or suitable for grazing by livestock.
@@ -1840,9 +1870,9 @@ PWN:paw.n.01	02439929-n	2965		Kralle::N		A paw is the soft foot of a mammal, gen
 PWN:pay.v.01	02251743-v	718	11-65	zahlen::V		To give money in exchange for goods or services.
 PWN:pea.n.01	07725376-n				1091	seed of a pea plant used for food
 PWN:pea.n.03	12560016-n	2025	8-99937			An annual plant originally from the Mediterranean basin and the Near East.
-PWN:peace.n.01	13970236-n	1338	20-14			A state free of war, in particular war between different countries.
-PWN:peak.n.04	08617963-n	1614		Gipfel::N		The highest point of a mountain.
+PWN:peace.n.01	13970236-n	1338	20-14		1636	A state free of war, in particular war between different countries.
 PWN:peak.n.04	08617963-n	1753	12-33			Highest and most elevated point.
+PWN:peak.n.04	08617963-n	1614		Gipfel::N		The highest point of a mountain.
 PWN:peanut.n.01	11748811-n	2364			1092	A species in the family Fabaceae (commonly known as the bean, pea or legume family).
 PWN:pearl.n.01	13372403-n	3325				A small hard shiny ball formed in mussels or oysters.
 PWN:pedal.n.02	03903424-n				1293	a lever that is operated with the foot
@@ -1858,7 +1888,7 @@ PWN:pepper.n.03	07815588-n	1385	5-82			A spice prepared from the fermented, drie
 PWN:perca.n.01	02557033-n	2966		Barsch::N		Perch is a common name for fish of the genus Perca, freshwater gamefish belonging to the family Percidae.
 PWN:periphery.n.01	13903576-n	2989		Rand::N		The border of an object.
 PWN:perjury.n.01	00772381-n	1792	21-47			The deliberate giving of false or misleading testimony under oath.
-PWN:permit.v.01	00802318-v	1003	19-47			To give permission to an action.
+PWN:permit.v.01	00802318-v	1003	19-47		1671	To give permission to an action.
 PWN:person.n.01	00007846-n	683	2-1	Mensch::N	301	A human being, any living member of Homo sapiens.
 PWN:perspiration.n.01	05405751-n	125			567	A fluid that is secreted by sweat glands in the skin in order to regulate body temperature.
 PWN:perturb.v.01	01764171-v	2869		belästigen::V		To annoy persistently.
@@ -1872,8 +1902,8 @@ PWN:photograph.v.01	01003249-v	2710				To make a photograph.
 PWN:photograph.v.01	01003249-v	3123				Use a light-sensitive device to take an image of something.
 PWN:pick_up.v.02	01207402-v	371	12-212	aufheben::V		To lift; to grasp and raise; to collect.
 PWN:pick.v.02	01382083-v	2148	8-99961	pflücken::V		To take off the fruits or other useful parts of a plant.
-PWN:picture.n.01	03931044-n	2401		Bild::N	823	a visual representation (of an object or scene or person or abstraction) produced on a surface, like a photograph or a painting.
 PWN:picture.n.01	03876519-n	3303				A painted image.
+PWN:picture.n.01	03931044-n	2401		Bild::N	823	a visual representation (of an object or scene or person or abstraction) produced on a surface, like a photograph or a painting.
 PWN:pike.n.02	07779375-n	2967		Hecht::N		The northern pike is a species of carnivorous fish of the genus Esox (the pikes).
 PWN:pile_up.v.02	01504298-v	1576	12-213			To gather together in a heap or unsorted stack.
 PWN:pile.n.01	07961480-n	2984		Haufen::N		A collection of things thrown one on another.
@@ -1917,13 +1947,17 @@ PWN:pointed.a.01	01809655-a	372	12-352	spitz::A		Ending in an acute point.
 PWN:poison.n.01	15032376-n	655	4-89			A substance which, when ingested, inhaled, or absorbed, or when applied to, injected into, or developed within the body, in relatively small amounts, may cause injury, harm, or destruction to organs, tissue, or life.
 PWN:polarity.n.02	13856574-n				3831	having an indicated pole (as the distinction between positive and negative electric charges)
 PWN:pole.n.01	03976657-n			Stange::N	1238	a long (usually round) rod of wood or metal or plastic
-PWN:police.n.01	08209687-n	656	23-33			Branch of the government which is charged with the preservation of public order, the promotion of public health and safety, and the prevention, detection, and punishment of crimes.
+PWN:police.n.01	08209687-n	656	23-33		1656	Branch of the government which is charged with the preservation of public order, the promotion of public health and safety, and the prevention, detection, and punishment of crimes.
+PWN:policeman.n.01	10448983-n		19-9993		1661	a member of a police force
+PWN:political_campaign.n.01	07472929-n				1641	a race between candidates for elective office
+PWN:politics.n.01	13840719-n					social relations involving intrigue to gain authority or power
+PWN:politics.n.05	01124508-n				1640	the activities and affairs involved in managing a state or a government
 PWN:polonium.n.01	14650556-n					Polonium, the chemical element with atomic number 84 and symbol Po.
 PWN:poncho.n.01	03980874-n	327	6-411			A simple garment, made from a rectangle of cloth, with a slit in the middle for the head.
 PWN:poor.a.02	02022953-a	1674	11-52	arm::A	1716	With little or no possessions or money.
 PWN:populace.n.01	08179689-n				435	people in general considered as a whole
-PWN:populate.v.01	02649830-v	363	7-11	wohnen::V	1556	To live or dwell at home.
 PWN:populate.v.01	02649830-v					inhabit or live in; be an inhabitant of
+PWN:populate.v.01	02649830-v	363	7-11	wohnen::V	1556	To live or dwell at home.
 PWN:porch.n.01	03984381-n	3269			1534	A structure attached to the exterior of a building, often acting as a roofed entrance; a balcony; a veranda.
 PWN:port.n.01	08633957-n	610	10-91			Area of water next to the coast, often surrounded by thick walls, where ships and boats can be sheltered.
 PWN:position.n.01	08621598-n	723	12-11	Ort::N		A position or area in a space.
@@ -1964,7 +1998,8 @@ PWN:priest.n.02	10471250-n	852	22-18			A minister of the Catholic church empower
 PWN:prime_minister.n.01	09907196-n				396	the person who holds the position of head of the government
 PWN:prime.n.01	13594005-n					a number that has no factor but itself and 1
 PWN:prison.n.01	04005630-n	1281	21-39		1569	A place in which individual persons have restricted personal freedom.
-PWN:prisoner.n.01	10476086-n	1072	20-47			A person confined in a prison, while on trial or serving a sentence.
+PWN:prisoner.n.01	10476086-n	1072	20-47		1659	A person confined in a prison, while on trial or serving a sentence.
+PWN:prize.n.01	13268146-n				1682	something given for victory or superiority in a contest or competition or for winning a lottery
 PWN:probable.a.01	01413247-a				3911	likely but not certain to be or become true or real
 PWN:procedure.n.01	01023820-n	3970			3928	A systematic and continuous course of actions and changes, which can be goal-directed or spontaneous.
 PWN:produce.v.02	01621555-v	734	9-111	machen::V		to create or manufacture a man-made product
@@ -1981,20 +2016,21 @@ PWN:pubic_hair.n.01	05263587-n	36	4-145			Dense, coarse hair that grows on the m
 PWN:pull.v.01	01448100-v	1455	9-33	ziehen::V	3765	To apply a force to (an object), in order that it moves towards the origin of the force that was applied.
 PWN:pulley.n.01	04020298-n				1294	a simple machine consisting of a wheel with a groove in which a rope can run to change the direction or point of application of a force applied to the rope
 PWN:pump.n.01	04021798-n				1270	a mechanical device that moves fluid or gas by pressure or suction
+PWN:punish.v.01	02499629-v				1680	impose a penalty on; inflict punishment on
 PWN:punishment.n.01	01160342-n	390	21-37			The act or process of punishing, imposing and/or applying a sanction; a penalty to punish wrongdoing, especially for crime.
 PWN:purple.s.01	00380312-s	2452			845	Having purple as its color.
 PWN:pursue.v.02	02000868-v	1047	10-53			Trying to achieve, to catch, or to reach something or someone.
 PWN:pus.n.02	05417472-n	1808	4-857			A whitish-yellow or yellow substance produced during inflammatory responses of the body that can be found in regions of pyogenic bacterial infections.
 PWN:push.v.01	01871979-v	1452	10-67	schieben::V	3767	To apply a force to (an object), in order that it moves away from the origin of the force that was applied.
-PWN:put.v.01	01494310-v	998	12-12	stellen::V		To set or place an object somewhere.
 PWN:put.v.01	01494310-v					put into a certain place or abstract location
+PWN:put.v.01	01494310-v	998	12-12	stellen::V		To set or place an object somewhere.
 PWN:pyramid.n.01	13914837-n	2600			3529	A structure whose outer surfaces are triangular and converge to a single point at the top.
 PWN:pyre.n.01	07963494-n	2832				Structure made from wood for burning a body as part of a rite.
 PWN:quail.n.02	01806567-n	1893	3-865			(Coturnix coturnix) Small (17 cm) rotund bird from the pheasant family (Phasianidae)
 PWN:quantity.n.03	05855125-n	2987		Menge::N		Quantity is a property that can exist as a magnitude or multitude.
 PWN:quarrel.n.01	07184149-n	1848	19-62			A loud or noisy verbal confrontation between two or more people.
-PWN:queen.n.02	10499355-n				391	a female sovereign ruler
 PWN:queen.n.02	10499355-n	1306	19-33			A female monarch.
+PWN:queen.n.02	10499355-n				391	a female sovereign ruler
 PWN:quiet.a.02	01918984-a	1314	15-46			With little or no sound; denoting absence of disturbing noise.
 PWN:rabbit.n.01	02324045-n	1136	3-614		967	One of several small mammals of the family Leporidae, with long ears, long hind legs and a short, fluffy tail.
 PWN:raccoon.n.02	02508021-n	828	3-866			(Procyon lotor) An omnivorous nocturnal mammal native to North America and Central America.
@@ -2017,6 +2053,7 @@ PWN:rake.n.03	04050066-n	338	8-27		1235	A garden tool with a row of pointed teet
 PWN:rake.v.01	02099669-v	3127				The act of moving a tool over a surface in order to level or clean it.
 PWN:ram.n.05	02412080-n	1344	3-26			A male sheep.
 PWN:rape.n.03	00773402-n	953	21-44			The act of forcing sexual intercourse or other sexual activity upon another person against their will.
+PWN:rape.v.01	02567519-v				1664	force (someone) to have sex against their will
 PWN:rat.n.01	02331046-n	2139	3-63			A large superfamily of rodents, including hamsters, gerbils, true mice and rats, and many other relatives.
 PWN:rattle.n.02	04056289-n	300	18-74			A wooden instrument that makes a loud knocking noise [used by people watching football games].
 PWN:raw.a.03	00619433-a	1959	5-122	roh::A		That has not been cooked (food).
@@ -2025,6 +2062,7 @@ PWN:read.v.01	00625119-v	724	18-52	lesen::V		To look at and interpret letters or
 PWN:ready.a.01	01930512-a	790	14-29		3935	Prepared for immediate action or use.
 PWN:reap.v.01	01320009-v				1012	gather, as of natural products
 PWN:rear.v.02	02539788-v	2134	8-99962	aufziehen::V		To take care of an infant or some other living creature, usually until it can live independently.
+PWN:receive.v.01	02210119-v		11-99907		1737	To get something given into one’s possession.
 PWN:recognize.v.04	00610374-v	2870		erkennen::V		Perceive to see something or someone previously known.
 PWN:recommend.v.01	00875141-v	2759				To suggest something or somebody.
 PWN:recuperate.v.04	00092690-v	1978		genesen::V		To return to health and strength after illness.
@@ -2032,6 +2070,8 @@ PWN:red.s.01	00381097-a	156	15-66	rot::A	835	Having red as its colour.
 PWN:reef.n.01	09406793-n	660	1-342			A line of rocks in the tidal zone of a coast, submerged at high water but partly uncovered at low water.
 PWN:refund.v.01	02284951-v	85	11-22			To transfer a good to the person or people it came from, or to their legal successors.
 PWN:refuse.v.01	00797430-v	49	18-37			To not do what is being asked.
+PWN:refuse.v.02	02237338-v				1722	refuse to accept something offered
+PWN:reject.v.01	00685683-v					refuse to accept or acknowledge
 PWN:relative.n.01	10235549-n	1644	2-81			A person that is considered to be of the same family due to shared ancestors, marriage or adoption.
 PWN:religion.n.02	08081668-n	661	22-11		1801	The expression of man's belief in and reverence for a superhuman power recognized as the creator and governor of the universe.
 PWN:religious_holiday.n.01	15183802-n		22-99906		3294	A religious feast day.
@@ -2093,13 +2133,14 @@ PWN:rub.v.03	02119874-v	1436	4-8541			To rub or scrape (a part of the body) with
 PWN:rubidium.n.01	14652954-n					Rubidium, the chemical element with atomic number 37 and symbol Rb.
 PWN:rudder.n.02	04117216-n	108	10-86			An underwater vane used to steer a vessel. The rudder is controlled by means of a wheel, tiller or other apparatus.
 PWN:rug.n.01	04118021-n	292	9-771		1487	A piece of thick cloth or wool that is smaller than a carpet and is put on the floor as decoration.
+PWN:rule.n.01	05846054-n				1675	a principle or condition that customarily governs behavior
 PWN:rule.n.12	04118776-n	3405				A long flat device that is designed to assist with drawing straight lines or measuring by means of distance markings.
 PWN:run.v.01	01926311-v	1519	10-46	rennen::V	702	To move quickly by alternately making a short jump off of either foot.
-PWN:run.v.06	02066939-v	2003	10-32	fließen::V		To move as a fluid from one position to another (e.g. of water or of people).
 PWN:run.v.06	02066939-v	2858		strömen::V		To flow in a continous manner (like the water in a river).
+PWN:run.v.06	02066939-v	2003	10-32	fließen::V		To move as a fluid from one position to another (e.g. of water or of people).
 PWN:rush.v.01	02058994-v	2863		sausen::V		To move quickly (of a vehicle).
-PWN:rush.v.04	00459498-v	754	14-23	sich beeilen::V		To move or do something at a fast pace.
 PWN:rush.v.04	00459498-v	2860		eilen::V		Move in great haste.
+PWN:rush.v.04	00459498-v	754	14-23	sich beeilen::V		To move or do something at a fast pace.
 PWN:rust.n.01	14889479-n	3064	9-99916		3549	a red or brown oxide coating on iron or steel caused by the action of oxygen and moisture
 PWN:rustle.v.01	02182662-v	2877		rauschen::V		A sound emitted by leaves moving in the trees.
 PWN:ruthenium.n.01	14653242-n					Ruthenium, the chemical element with atomic number 44 and symbol Ru.
@@ -2189,6 +2230,7 @@ PWN:shark.n.01	01482330-n	1110	3-661			A scaleless fish with a cartilaginous ske
 PWN:sharp.a.09	00800826-a	1396	15-78	scharf::A		Having the ability to cut easily.
 PWN:sharpen.v.01	01246601-v	251		schleifen::V		To make sharp or sharper.
 PWN:shatter.v.03	00333907-v	2558		zerbrechen::V		To divide something with force in two or more parts.
+PWN:shave.v.01	00037298-v	231			771	To cut the hair close to the skin with a razor.
 PWN:shears.n.01	04186848-n	356	9-24			A tool consisting of two blades with bevel edges, connected by a pivot, used for cutting cloth, or for removing the fleece from sheep etc.
 PWN:sheath.n.01	04187061-n	3424			1299	A protection cover for a sharp blade (of a sword or knife).
 PWN:sheep.n.01	02411705-n	1331	3-25	Schaf::N	956	A common, four-legged animal (Ovis) that is commonly kept by humans for its wool.
@@ -2204,8 +2246,8 @@ PWN:shoot.v.01	01137138-v	3307				To hit something that someone has aimed for.
 PWN:shoot.v.05	02096047-v				3775	send forth suddenly, intensely, swiftly
 PWN:shop.n.01	04202417-n	746		Laden::N	1580	A place, especially a small building, for the retail sale of goods and services.
 PWN:shop.n.01	04202417-n	752	11-86			An establishment, either physical or virtual, that sells goods or services to the public.
-PWN:shore.n.01	09433442-n	113	1-27			The margin or shore of a river, lake, or ocean.
 PWN:shore.n.01	09433442-n	3464		Ufer::N		The margin or shore of a lake.
+PWN:shore.n.01	09433442-n	113	1-27			The margin or shore of a river, lake, or ocean.
 PWN:short_pants.n.01	04205318-n				1463	Outer pants extending no lower than knees.
 PWN:short.a.01	01442186-a					primarily temporal sense; indicating or being or seeming to be limited in duration
 PWN:short.a.02	01436003-a	1645	12-59	kurz::A	2822	Small in length by comparison.
@@ -2249,8 +2291,8 @@ PWN:skunk.n.04	02445715-n	3888	3-99939			Mammals of the family Mephitidae, typic
 PWN:sky.n.01	09436708-n	1732	1-51	Himmel::N	1112	The part of the earth's atmosphere and space outside it that is visible from earth's surface. During the day it is perceived as blue, and at night as black.
 PWN:slab.n.01	04233405-n	2952		Platte::N		Thick plate or slice.
 PWN:slash.v.01	01322675-v	355	9-221			To bring down by cutting.
-PWN:slave.n.01	10609325-n				373	a person who is owned by someone
 PWN:slave.n.01	10609325-n	812	19-42			A person who is owned and forced to work, usually without pay, by another.
+PWN:slave.n.01	10609325-n				373	a person who is owned by someone
 PWN:sled.n.01	04235291-n	16	10-79	Schlitten::N		A general term used to refer to a vehicle for transportation on ice or snowy surfaces.
 PWN:sleep_together.v.01	01426397-v	549	4-67		762	To engage in sexual intercourse.
 PWN:sleep.n.01	14024882-n	2972		Schlaf::N		Sleep is a naturally recurring state of mind and body characterized by altered consciousness, relatively inhibited sensory activity, inhibition of nearly all voluntary muscles, and reduced interactions with surroundings.
@@ -2286,8 +2328,8 @@ PWN:sock.n.01	04254777-n	1522			1471	hosiery consisting of a cloth covering for 
 PWN:sodium.n.01	14655371-n				3386	Sodium, the chemical element with atomic number 11 and symbol Na.
 PWN:soft.a.01	01152746-a	1856	15-75	weich::A	863	A state of consistency allowing alterations of form with ease, no big force required, to bring things into something of this state (such as e.g. soaked loam or clay soil).
 PWN:soil.n.02	14844693-n				3330	the part of the earth's surface consisting of humus and disintegrated rock
-PWN:soldier.n.01	10622053-n				384	an enlisted man or woman who serves in an army
 PWN:soldier.n.01	10622053-n	1941	20-17			A person who is actively engaged in battle, conflict or warfare.
+PWN:soldier.n.01	10622053-n				384	an enlisted man or woman who serves in an army
 PWN:solution.n.01	14589223-n					a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution
 PWN:solution.n.03	05661668-n				3945	a method for solving a problem
 PWN:some.a.01	02267308-a	1241	13-181			An unspecified quantity or number of.
@@ -2375,6 +2417,8 @@ PWN:stocking.n.01	04323819-n	329	6-49			A soft garment worn on the foot and lowe
 PWN:stomach.n.01	05395690-n	819	4-46	Magen::N	581	An organ in the body, involved in digestion of food.
 PWN:stool.v.04	00074038-v	676	4-66			To excrete faeces from one's body through the anus.
 PWN:stop.v.01	01860795-v	2880		anhalten::V		To halt one’s movement.
+PWN:store.n.02	13367070-n				1707	a supply of something available for future use
+PWN:storehouse.n.01	04329190-n					a depository for goods
 PWN:storm.n.01	11462526-n	858	1-58		1132	An atmospheric disturbance involving perturbations of the prevailing pressure and wind fields on scales ranging from tornadoes to extratropical cyclones; also the associated weather and the like. (Source: MGH)
 PWN:stove.n.01	04330340-n	859	7-32	Ofen::N		A chamber within which a fuel-air mixture is burned to provide heat, the heat itself being radiated outward from the chamber; used for space heating, process-fluid heating, and steel blast furnaces.
 PWN:straight_pin.n.01	04331892-n	64	6-63			A small device, made (usually) of drawn-out steel wire with one end sharpened and the other flattened or rounded into a head, used for fastening.
@@ -2384,9 +2428,9 @@ PWN:strap.n.01	04333129-n	2973		Riemen::N	1251	A strap is an elongated flap or r
 PWN:stream.n.01	09448361-n	3311	1-36			A generic way to refer to a flowing body of water, for example used to refer to rivers, brooks, streams, creeks etc.
 PWN:street.n.01	04334599-n	1362	23-395			A paved part of road, usually in a village or a town.
 PWN:strength.n.01	05029706-n	202	4-99912	Stärke::N	3825	Muscular capacity to modify the speed of an external physical object, to deform it or to oppose another force.
-PWN:strike.v.01	01410223-v	353	9-21			To intentionally hit with a sharp blow or to impel, usually with a hand or weapon.
 PWN:strike.v.01	01410223-v	3308		schlagen::V		To intentionally hit someone with a sharp blow or to impel, usually with a hand or weapon.
 PWN:strike.v.01	01410223-v	3309		hauen::V		To intentionally hit something with a sharp blow or to impel, usually with a hand.
+PWN:strike.v.01	01410223-v	353	9-21			To intentionally hit with a sharp blow or to impel, usually with a hand or weapon.
 PWN:string.n.01	04337974-n	362	9-99923	Schnur::N	1416	A long, thin and flexible structure made from threads twisted together.
 PWN:stroke.n.01	00565302-n					(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand
 PWN:stroke.n.10	06799260-n	2993		Strich::N		A single movement with a pen in order to write or paint something.
@@ -2397,8 +2441,9 @@ PWN:study.v.05	00607114-v	1929	17-242		2043	To acquire knowledge or learning (at
 PWN:stump.n.01	13111504-n	241	8-72			A small remaining portion of the trunk of a tree with the roots still in the ground.
 PWN:stupid.a.01	00439588-a	1518	17-22	dumm::A	2006	Lacking in intelligence.
 PWN:submerge.v.02	01339294-v					cover completely or make imperceptible
-PWN:subsequently.r.01	00061203-r	2093		danach::ADV		Later or after something else has happened or happens.
+PWN:submission.n.01	07167578-n					something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted for the judgment of others (as in a competition)
 PWN:subsequently.r.01	00061203-r					happening at a time subsequent to a reference time
+PWN:subsequently.r.01	00061203-r	2093		danach::ADV		Later or after something else has happened or happens.
 PWN:succeed.v.01	02524171-v	1112		gelingen::V	3941	To attain a desired goal.
 PWN:suck.v.01	01169704-v	1421	5-16			To draw in a substance by creating a practical vacuum in the mouth, and as a result a difference in pressure.
 PWN:suddenly.r.01	00061677-r	2920		plötzlich::ADV		Happening unexpectedly.
@@ -2411,6 +2456,7 @@ PWN:sun.n.01	09450163-n	1343	1-52	Sonne::N	1133	The particular star at the centr
 PWN:sunday.n.01	15163797-n	1699	14-62	Sonntag::N	4027	The seventh day of the week in Europe and in systems using the ISO 8601 standard, or the first day of the week in the United States of America, the Sabbath for most Christians.
 PWN:sunflower.n.01	11978233-n	1956			1053	Annual plant with a large yellow flowering head of the genus Helianthus and the family of the Asteraceae.
 PWN:supper.n.01	07575984-n		5-45		3489	The last meal of the evening.
+PWN:supply.v.01	02327200-v				1735	give something useful or necessary to
 PWN:support.n.07	04360501-n	2994		Stütze::N		An object that keeps another object in its place.
 PWN:surrender.v.01	01115585-v	1696	20-46			To give up to the enemy.
 PWN:surviving.s.01	00928874-a	3000				Being alive.
@@ -2437,7 +2483,7 @@ PWN:table.n.02	04379243-n	1775	7-44	Tisch::N	1346	A piece of furniture that gene
 PWN:tail.n.01	02157557-n	1220	4-18	Schwanz::N	594	The appendage of an animal that is attached to its posterior and near the anus.
 PWN:tailor.n.01	10689564-n	881	6-13			Someone who professionally manufactures clothing.
 PWN:take_off.v.06	00050454-v	3538			1427	To take off a piece of clothing or similar.
-PWN:take.v.04	01214265-v	1749	11-13	nehmen::V		To grasp with the hands.
+PWN:take.v.04	01214265-v	1749	11-13	nehmen::V	1738	To grasp with the hands.
 PWN:talk.v.01	00962447-v	2708				To converse with one or more persons.
 PWN:talk.v.02	00941990-v			reden::V	2225	express in speech
 PWN:tall.a.01	02385102-a	711	12-58			Having a vertical extent greater than the average.
@@ -2476,6 +2522,7 @@ PWN:tendon.n.01	05296253-n	1137	4-465	Sehne::N		Tissue that connects muscle to b
 PWN:tent.n.01	04411264-n	1316	7-14			A portable lodging (usually made from waterproof plastic, animal hide or canvas streched by poles) that is used for sheltering people and objects from the weather when camping or at festivals.
 PWN:terbium.n.01	14657566-n					Terbium, the chemical element with atomic number 65 and symbol Tb.
 PWN:termite.n.01	02223266-n	883	3-834			A soft-bodied insect of the order Isoptera; individuals feed on cellulose and live in colonies with a caste system comprising three types of functional individuals: sterile workers and soldiers, and the reproductives.
+PWN:test.n.05	00791078-n					the act of testing something
 PWN:test.v.01	02531625-v	2571				To put something to trial, to test whether something works as expected.
 PWN:testis.n.01	05524615-n	797	4-49		556	The male sex gland that produces sperm and male hormones, found in some types of animals and humans.
 PWN:tether.v.01	01290009-v	2891		anbinden::V		To attach an animal to something to prevent that it leaves.
@@ -2515,8 +2562,8 @@ PWN:three.s.01	02186580-a	492	13-03	drei::NUM	2503	The natural number three (3).
 PWN:threshing_floor.n.01	04428382-n	223	8-35			Dry flat area where the grain is separated from the straw or husks by beating.
 PWN:thrice.r.01	00257784-r	417	13-44			Three times.
 PWN:throat.n.01	05547508-n	1346	4-29	Kehle::N	525	The front part of the neck.
-PWN:through.r.01	00478821-r	97	24-05	durch::PRP		From one side of an opening to the other.
 PWN:through.r.01	00478821-r					from beginning to end
+PWN:through.r.01	00478821-r	97	24-05	durch::PRP		From one side of an opening to the other.
 PWN:throw.v.01	01508368-v				753	propel through the air
 PWN:thrust.v.01	01899262-v	246		stoßen::V		To push forcefully.
 PWN:thulium.n.01	14658546-n					Thulium, the chemical element with atomic number 69 and symbol Tm.
@@ -2534,8 +2581,8 @@ PWN:tie.v.01	01285440-v	1917	9-16	binden::V	3793	To establish connection between
 PWN:tiger.n.02	02129604-n	846	3-99942		963	A large carnivorous animal (Panthera tigris) of the cat family indigenous to Asia.
 PWN:time_period.n.01	15113229-n	508	14-99905		3240	A length of time.
 PWN:time.n.05	00028270-n	892	14-11	Zeit::N	3200	The dimension of the physical universe which, at a given place, orders the sequence of events. The continuum of past-present-future.
-PWN:tin_plate.n.01	04439840-n	358				A thin sheet of steel coated with tin to prevent rusting; used to make cans etc.
 PWN:tin_plate.n.01	04439840-n	3217	9-69			A metallic element with symbol Sn or a thin sheet of steel coated with tin to prevent rusting.
+PWN:tin_plate.n.01	04439840-n	358				A thin sheet of steel coated with tin to prevent rusting; used to make cans etc.
 PWN:tin.n.01	14658855-n	893			3328	Tin, the chemical element with atomic number 50 and symbol Sn.
 PWN:tinkle.v.01	02186506-v	2888		klirren::V		Emit a sound suggestive of a tinkle.
 PWN:tip.n.01	08663156-n	2992		Spitze::N		The pointed end of something.
@@ -2556,6 +2603,7 @@ PWN:tongs.n.01	04450749-n	272	5-391		1231	A tool that consists of two movable ba
 PWN:tongue.n.01	05301072-n	1205	4-26	Zunge::N	523	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.
 PWN:tooth.n.01	05282746-n	1380	4-27	Zahn::N	524	A hard, calcareous structure present in the mouth of many vertebrate animals (including humans), generally used for eating.
 PWN:torch.n.01	04456115-n	2131	7-45			Any portable device that produces light.
+PWN:torment.v.01	01802689-v				1658	torment emotionally or mentally
 PWN:tornado.n.01	11519450-n	2532			1136	A violently rotating column of air that is in contact with both the surface of the earth and a cumulonimbus cloud or, in rare cases, the base of a cumulus cloud.
 PWN:tortilla.n.01	07880583-n	3991	5-99921			A thin, flat bread made from maize flour, eaten hot or cold, typically with a savoury filling.
 PWN:toucan.n.01	01843383-n	308	3-598			A bird with a large colorful beak, living in the tropics and belonging to the family Ramphastidae.
@@ -2573,6 +2621,7 @@ PWN:travel.v.01	01835496-v	2874		sich bewegen::V		To get oneself in motion in or
 PWN:traveler.n.01	09629752-n				388	a person who changes location
 PWN:tray.n.01	04476259-n				1316	an open receptacle for holding or displaying or serving articles or food
 PWN:tree.n.01	13104059-n	906	8-6	Baum::N	1001	Any large woody perennial plant with a distinct trunk giving rise to branches or leaves at some distance from the ground.
+PWN:trial.n.04	01195867-n				1655	the determination of a person's innocence or guilt by due process of law
 PWN:triangle.n.01	13879320-n				3526	A triangle is a polygon with three corners and three sides, one of the basic shapes in geometry
 PWN:tribe.n.01	08372411-n	1549			445	Group of people linked by the same linguistic and cultural traditions that usually live far from urban areas and practice their own legal rules and have their own political system.
 PWN:trouble.n.01	05687338-n		16-99906		3943	a source of difficulty
@@ -2607,6 +2656,7 @@ PWN:undertaking.n.01	00795720-n					any piece of work that is undertaken or atte
 PWN:undress.v.01	00049900-v	1755		ausziehen::V		To take off all of one's clothes, or to take off a piece of clothing or similar.
 PWN:unfold.v.04	01579813-v	38	9-34	streichen::V		To spread out or open from a closed or folded state.
 PWN:uniform.n.01	04509592-n				1436	Special garments worn by members of a group.
+PWN:unite.v.01	02469835-v				1677	act in concert or unite in a common purpose or belief
 PWN:universe.n.01	09466280-n				1100	everything that exists anywhere
 PWN:university.n.02	04511002-n				1571	establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching
 PWN:untie.v.01	01284461-v	352	9-161			To loosen, as something interlaced or knotted; to disengage the parts of. To unbind, to free from restraint.
@@ -2622,6 +2672,7 @@ PWN:urine.n.01	14855724-n	1142			569	Liquid excrement consisting of water, salts
 PWN:use.v.01	01158872-v	2072			3970	To employ an object, often to reach a certain goal; to put into service.
 PWN:uterus.n.01	05519085-n	804	4-47			The major female reproductive organ of most mammals, including humans. It is a large muscle enveloping the phoetus during pregnancy.
 PWN:uvula.n.01	05309245-n	2293				a small pendant fleshy lobe at the back of the soft palate
+PWN:vacate.v.01	02367032-v				1645	leave (a job, post, or position) voluntarily
 PWN:vacation.n.01	15137890-n					leisure time away from work devoted to rest or pleasure
 PWN:vagina.n.01	05521111-n	1836	4-493		554	The lower part of the female reproductive tract; a moist canal in female mammals (including humans) extending from the labia minora to the uterus.
 PWN:vainly.r.01	00167920-r	1765	16-99902	vergebens::ADV		Without success, without the desired effect.
@@ -2647,6 +2698,7 @@ PWN:visit.v.07	02619424-v	1377		besuchen::V		To go and see a person or place.
 PWN:voice.n.02	07110615-n	1363	18-11	Stimme::N		The sound and tones human beings are able to produce with the vocal cords.
 PWN:volcano.n.02	09472597-n				1174	a mountain formed by volcanic material
 PWN:vomit.v.01	00076400-v	1278	4-57		725	To regurgitate the contents of the stomach.
+PWN:vote.v.01	02461314-v				1643	express one's preference for a candidate or for a measure or resolution; cast a vote
 PWN:vulva.n.01	05521636-n	1837	4-494			The external parts of the female genitalia, in human beings this consists of the labia, clitoris, opening of the urethra (meatus), and the opening of the vagina.
 PWN:wages.n.01	07295629-n	1122	11-78			A fixed amount of money paid to a worker, usually measured on a monthly or annual basis.
 PWN:wagon.n.01	04543158-n	122	10-75		3114	A two-wheeled vehicle, commonly without springs, drawn by mules, oxen, or the like, used for the conveyance of heavy goods.
@@ -2659,7 +2711,7 @@ PWN:walk.v.10	01882170-v	2890		spazierengehen::V		To wander around.
 PWN:walking_stick.n.01	04546194-n	1296	19-25			An object, specifically for providing support when walking.
 PWN:wall.n.01	04546855-n	933	7-27		1513	The outer structure which encloses a building and supports the roof.
 PWN:wall.n.06	04547821-n	3830				A supporting structure for different types of constructions, e.g. houses and huts, or a construction to enclose and separate areas.
-PWN:war.n.01	00973077-n	935		Krieg::N		A conflict or a state of hostility between two or more parties, nations or states, in which armed forces or military operations are used.
+PWN:war.n.01	00973077-n	935		Krieg::N	1635	A conflict or a state of hostility between two or more parties, nations or states, in which armed forces or military operations are used.
 PWN:ware.n.01	04550840-n	2957		Ware::N		Manufactured articles.
 PWN:warm.a.01	02529264-a	1232	15-851	warm::A	894	Having a temperature slightly higher than usual, still pleasant.
 PWN:warm.v.02	00372958-v	2032				To make warm or warmer.
@@ -2703,10 +2755,10 @@ PWN:white.a.01	00393105-a	1335	15-64	weiß::A	833	Bright and colourless; reflect
 PWN:wide.a.01	02560548-a	1243	12-61	breit::A	2826	Having a long distance or area between two points, especially horizontally.
 PWN:widow.n.01	10780284-n	1756	2-76			A woman whose spouse has died.
 PWN:widower.n.01	10780506-n	1981	2-77			A man whose spouse has died.
-PWN:wife.n.01	10780632-n	1199	2-32	Ehefrau::N	362	The female partner in a marriage.
 PWN:wife.n.01	10780632-n	426	2-39			A married woman.
-PWN:wild_boar.n.01	02396427-n	1348	3-32			An adult male pig.
+PWN:wife.n.01	10780632-n	1199	2-32	Ehefrau::N	362	The female partner in a marriage.
 PWN:wild_boar.n.01	02396427-n	3154				Also known as wild pig, an undomestic four-legged animal (Sus scrofa) living in the wild.
+PWN:wild_boar.n.01	02396427-n	1348	3-32			An adult male pig.
 PWN:willow.n.01	12724942-n	818	8-99957	Weide[Baum]::N	1046	Any of various deciduous trees or shrubs in the genus Salix.
 PWN:win.v.01	01100145-v	866	20-99909	siegen::V	2366	To achieve a victory.
 PWN:wind.n.01	11525955-n	960	1-72	Wind::N	1137	The motion of air relative to the earth's surface; usually means horizontal air motion, as distinguished from vertical motion.
@@ -2760,8 +2812,7 @@ PWN:zero.s.01	02186132-a	1294	13		2500	The integer zero (0).
 PWN:zinc.n.01	14661977-n					Zinc, the chemical element with atomic number 30 and symbol Zn.
 PWN:zirconium.n.01	14662281-n					Zirconium, the chemical element with atomic number 40 and symbol Zr.
 Tool:tool.N	04451818-n				1200	an implement used in the practice of a vocation
-Body:head hair.N		2648	4-14		518	The hair on the head of humans (rather than the hair in general or the hair on the body).
-Grooming:shave.V		231			771	To cut the hair close to the skin with a razor.
+	01194418-v	2225				To receive and act as a host for guests.
 Perception:sense.N					801	sense (ability to perceive a given kind of stimuli)
 Perception:perceive.V					802	perceive (become aware of using the physical senses)
 Perception:examine.V					812	examine, inspect
@@ -2788,59 +2839,6 @@ Animal:Nephropidae.N		2397			941	Clawed lobsters comprise a family (Nephropidae,
 Animal:native.A					991	native (naturally belonging to a given realm)
 Animal:wild.A			16-99914		993	wild, feral, untamed
 Tool:screen.N					1222	screen, mesh
-Combat:war.N					1635	war
-Combat:peace.N					1636	peace (freedom from fighting or turmoil)
-Combat:submission.N					1637	submission, surrender
-Government:politics.N					1640	politics
-Government:campaign.N					1641	campaign (for political office)
-Government:elect.V					1642	elect (select by voting)
-Government:vote.V					1643	vote
-Government:party.N					1644	party (political faction)
-Government:resign.V					1645	resign
-Government:parliament.N					1646	parliament, congress (legislative body of elected officers)
-Government:law.N					1650	law (a rule enforced by a government)
-Government:constitution.N					1651	constitution (charter of an organization)
-Government:court.N					1652	court (of law)
-Government:jury.N					1653	jury
-Government:trial.N					1655	trial (in court)
-Government:police.N					1656	police (organization to enforce laws)
-Government:torture.V					1658	torture
-Government:prisoner.N					1659	prisoner
-Government:judge.N					1660	judge (presiding in a court of law)
-Government:police officer.N			19-9993		1661	police officer
-Government:hostage.N					1662	hostage
-Government:kidnap.V					1663	kidnap
-Government:rape.V					1664	rape
-Government:control.V					1670	control
-Government:permit.V					1671	permit, allow, let
-Government:obey.V					1673	obey
-Government:disobey.V					1674	disobey
-Government:rule.N					1675	rule, regulation
-Government:organize.V					1676	organize (bring X's together to perform a task)
-Government:unite.V					1677	unite
-Government:free.A					1678	free (at liberty)
-Government:independent.A					1679	independent
-Government:punish.V					1680	punish
-Government:reward.V					1681	reward
-Government:prize.N					1682	prize, award
-Business:exchange.V					1701	exchange, trade, swap
-Business:money.N					1705	money
-Business:merchandise.N					1706	merchandise, goods, wares
-Business:store.N					1707	store, cache, reserve (supply kept for future need)
-Business:business.N					1708	business, commerce
-Business:company.N					1709	company (a business organization), firm
-Communication:offer.V					1720	offer (present for acceptance or rejection)
-Communication:accept.V		3898			1721	To take or get something that was offered by someone, to willingly receive
-Business:reject.V					1722	reject, refuse (contra-accept)
-Business:own.V					1730	own (possess according to law or custom)
-Business:keep.V					1731	"keep, retain, go on having (e.g. ""you should keep this book"") "
-Possession:lack.V		2329			1732	To lack something or to describe the state when something is not there.
-Business:lose.V					1733	lose (cease having; contra-acquire)
-Business:give.V					1734	give
-Business:provide.V					1735	provide, supply, furnish
-Business:get.V					1736	get, acquire, gain, obtain
-Possession:receive.V			11-99907		1737	To get something given into one’s possession.
-Business:take.V					1738	"take (in the sense of E-o ""preni"", G ""nehmen"", Sp ""tomar"") "
 Business:steal.V					1739	steal (take in a criminal way)
 Business:buy.V					1750	buy, purchase
 Business:sell.V					1751	sell
@@ -3949,7 +3947,6 @@ Time:monsoon season.N		3323				A period of heavy rain particularly during summer
 Atmosphere:cold weather.N		3694				A period of time, characterized by low temperatures.
 Atmosphere:hot weather.N		3693				A period of unusually high temperatures.
 Relation:identity.N		3960				A persisting state of being the same for an entity or someone, from an objective or a subjective standpoint.
-Combat/Hunting:captive.N		1073				A person held against his will.
 Family:different-sex younger sibling.N		3040				A person of the different sex who is born after another person who has the same parents.
 Family:different-sex older sibling.N		3039				A person of the different sex who is born before another person who has the same parents.
 Family:same-sex younger sibling.N		3038				A person of the same sex who is born after another person who has the same parents.
@@ -4655,7 +4652,7 @@ Clothing:umbrella.N		3105				Portable folding canopy used for protection against
 Animal:dragonfly.N		2352				Predatory insect of the order Odonata.
 People:left handed.A		2825				Preference of using the left hand.
 Agriculture:till.V		3273				Prepare land for cultivation by work such as ploughing, harrowing, and manuring.
-Possession:merchandise.N		3406				Products offered to retail customers for money.
+		3406			1706	Products offered to retail customers for money.
 Perception:shiny.A		3977				Property of a surface that is bright from reflected light.
 Emotion:afraid.A		3033				Property of being scared of something or someone, having an uncontrollable emotion of anxiety.
 Society:dowry.N		3168				Property, gifts or money transfered from the parents of a daughter to her new family at marriage.
@@ -5210,7 +5207,6 @@ Body:blow nose.V		2679				To clean one's nose by exhaling through it.
 Cleaning:wash (clothes).V		3434				To clean pieces of clothing by using water and supplementary cleansing products as a part of hygiene routine.
 Body:close mouth.V		3547				To close one's mouth.
 Form:get broken.V		3020				To come apart or split into pieces (intransitive).
-Possession:acquire (something).V		3892				To come into possession of something, usually with an effort.
 Law:infringe.V		555				To commit a crime less serious than a felony.
 Communication:phone.V		3133				To communicate by means of a telephone.
 Food:chew betel.V		3161				To consume a mixture of areca nut and betel leaf.
@@ -5352,7 +5348,6 @@ Handiwork:dry in sun.V		3364				To put something in the sun in order to dry it.
 Possession:store up.V		3655				To put something somewhere and keep it there for future use.
 Motion:stamp.V		3618				To put your foot down on the ground heavily and noisily; to walk in this way.
 Possession:inherit.V		3664				To receive money, property or other possessions from somebody when they die.
-Society:receive visitors.V		2225				To receive visitors.
 Family:give birth.V		1195				To release an offspring from one's own body; to cause to be born.
 Body:belch.V		2245				To release gas from the digestive tract through the mouth.
 Body:burp.V		2789				To release gas from the digestive tract through the mouth.
