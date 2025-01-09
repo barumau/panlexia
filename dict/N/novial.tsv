@@ -3,11 +3,13 @@ PLX:1SG.pro		me
 PLX:2SG.pro		vu
 PLX:about.pp		pri
 PLX:above.pp		super
-PLX:across.pp		tra, trans
+PLX:across.pp		tra
+PLX:across.pp		trans
 PLX:after.pp		after
 PLX:and.cnj		e
 PLX:around.pp		sirk
-PLX:at.pp		an, che
+PLX:at.pp		an
+PLX:at.pp		che
 PLX:because of.pp		pro
 PLX:before.pp		ante
 PLX:behind.pp		hinter
@@ -19,13 +21,15 @@ PLX:can.v		pove
 PLX:during.pp		durant
 PLX:except for.pp		exept
 PLX:for the purpose of.pp		por
-PLX:from.pp		ek, fro
+PLX:from.pp		ek
+PLX:from.pp		fro
 PLX:if.cnj		si
 PLX:in exchange for.pp		po
 PLX:in front of.pp		devan
 PLX:in.pp		in
 PLX:instead of.pp		insted
-PLX:like.pp		simil ad, samiman kam
+PLX:like.pp		samiman kam
+PLX:like.pp		simil ad
 PLX:near.pp		proxim
 PLX:of.pp		de
 PLX:on.pp		sur
@@ -35,10 +39,17 @@ PLX:quantity of.pp		de
 PLX:should.v		deve
 PLX:than.pp		kam
 PLX:that.cnj		ke
-PLX:that.pro		ti, to, ta, te
-PLX:this.pro		disi, diso, -a, -e
+PLX:that.pro		ta
+PLX:that.pro		te
+PLX:that.pro		ti
+PLX:that.pro		to
+PLX:this.pro		-a
+PLX:this.pro		-e
+PLX:this.pro		disi
+PLX:this.pro		diso
 PLX:through.pp		tra
-PLX:to.pp		a, vers
+PLX:to.pp		a
+PLX:to.pp		vers
 PLX:under.pp		sub
 PLX:when.pro		quand
 PLX:where.pro		vor
@@ -52,12 +63,16 @@ PWN:absorb.v.04		absorba
 PWN:accept.v.02		alsepta
 PWN:accident.n.01		aksidente
 PWN:account.n.07		registre
+PWN:accurate.s.02		akurat(i)
+PWN:accurate.s.02		exakti
+PWN:accurate.s.02		presis(i)
 PWN:acid.s.03		asidi
 PWN:act.n.02		akto
 PWN:ad.n.01		anonse
 PWN:add.v.01		adi
 PWN:address.n.06		adrese
 PWN:adhere.v.06		adhese
+PWN:admire.v.01		admira
 PWN:advancement.n.03		progreso
 PWN:advice.n.01		avise
 PWN:again.r.01		altrifoy
@@ -70,15 +85,19 @@ PWN:airplane.n.01		avie
 PWN:alcohol.n.01		alkokole
 PWN:alive.a.01		vivant
 PWN:alkaline.a.01		alkali
-PWN:all.a.01		toti (the whole of), omni (every)
+PWN:all.a.01		omni (every)
+PWN:all.a.01		toti (the whole of)
 PWN:alphabet.n.01		alfabete
-PWN:already.r.01		ja, anteu
+PWN:already.r.01		anteu
+PWN:already.r.01		ja
 PWN:alternate.v.01		alterna
 PWN:always.r.01		sempre
 PWN:ambassador.n.01		ambasadere
 PWN:amusing.s.02		komiki
+PWN:analyze.v.01		examina
 PWN:angel.n.01		anjele
 PWN:angle.n.01		angule
+PWN:angry.a.01		irat (irant)
 PWN:animal.n.01		animal
 PWN:announce.v.01		anuntia
 PWN:answer.v.01		respondo
@@ -91,26 +110,32 @@ PWN:april.n.01		aprile
 PWN:arch.n.01		arke
 PWN:arm.n.01		brase
 PWN:army.n.01		armee
-PWN:arrive.v.01		veni, ariva
+PWN:arrive.v.01		ariva
+PWN:arrive.v.01		veni
 PWN:arrow.n.02		fleche
 PWN:art.n.02		arte
 PWN:article.n.01		artikle
 PWN:artificial.a.01		artifisial
 PWN:ask.v.01		questiona
+PWN:assume.v.01		suposi
 PWN:at_least.r.02		aminim
 PWN:at_most.r.01		amaxim
 PWN:atom.n.01		atome
 PWN:attack.v.01		ataka
 PWN:attention.n.01		atentione
+PWN:attentive.a.01		alerti
 PWN:attract.v.01		atrakte
 PWN:august.n.01		auguste
 PWN:authority.n.01		autoritate
 PWN:automatic.a.01		automati
 PWN:auxiliary.s.01		auxiliari
+PWN:avaricious.s.01		avidi
 PWN:avoid.v.01		evita
+PWN:awareness.n.01		savo
 PWN:away.r.01		frou
 PWN:ax.n.01		hache
-PWN:baby.n.01		infante (-o, -a)
+PWN:baby.n.01		-a)
+PWN:baby.n.01		infante (-o
 PWN:back.n.01		dorse
 PWN:back.r.01		retro
 PWN:bad.a.01		mal(i)
@@ -125,7 +150,8 @@ PWN:bare.s.01		nud(i)
 PWN:barrel.n.02		barele
 PWN:barrier.n.01		bare
 PWN:barroom.n.01		taverne
-PWN:base.n.14		base, statione
+PWN:base.n.14		base
+PWN:base.n.14		statione
 PWN:basement.n.01		kelere
 PWN:basket.n.01		korbe
 PWN:bay.n.01		baye
@@ -133,7 +159,8 @@ PWN:be.v.01		es
 PWN:be.v.11		viva
 PWN:beach.n.01		plaje
 PWN:bean.n.01		fabe
-PWN:bear.n.01		urse (-o, -a)
+PWN:bear.n.01		-a)
+PWN:bear.n.01		urse (-o
 PWN:beard.n.01		barbe
 PWN:beat.v.03		bata
 PWN:beautiful.a.01		bel(i)
@@ -144,6 +171,7 @@ PWN:beer.n.01		bire
 PWN:behavior.n.01		konduite
 PWN:believe.v.01		kreda
 PWN:bell.n.01		kloche
+PWN:beloved.s.01		kar(i)
 PWN:bended.s.01		curvi
 PWN:berry.n.01		bere
 PWN:besides.r.02		anke
@@ -164,16 +192,21 @@ PWN:board.n.02		planke
 PWN:boat.n.01		bote
 PWN:bobbin.n.01		spule
 PWN:body.n.01		korpore
-PWN:body_hair.n.01		pile (on body), hare (on head)
+PWN:body_hair.n.01		hare (on head)
+PWN:body_hair.n.01		pile (on body)
 PWN:boil.v.01		bolia
 PWN:bomb.n.01		bombe
 PWN:bone.n.01		ose
 PWN:book.n.01		libre
+PWN:boring.s.01		enoyant(i)
+PWN:boring.s.01		tedant(i)
+PWN:boring.s.01		tedivi
 PWN:borrow.v.01		prunta
 PWN:bottle.n.01		botle
 PWN:bottom.n.01		funde
 PWN:bowl.n.01		bole
-PWN:box.n.01		boxe, keste
+PWN:box.n.01		boxe
+PWN:box.n.01		keste
 PWN:brain.n.01		serebre
 PWN:brainsick.s.01		fol(i)
 PWN:brake.v.02		frene
@@ -193,18 +226,22 @@ PWN:bud.n.01		burjone
 PWN:building.n.01		edifise
 PWN:bus.n.01		omnibuse
 PWN:business.n.01		komerse
-PWN:bustle.n.01		activeso, aktivitate
+PWN:bustle.n.01		activeso
+PWN:bustle.n.01		aktivitate
 PWN:butterfly.n.01		papilione
 PWN:buttocks.n.01		kule
 PWN:button.n.01		butone
+PWN:buy.v.01		kompra
 PWN:cabbage.n.01		kaule
 PWN:cable.n.02		korde
 PWN:cage.n.01		kaje
 PWN:calculate.v.01		kalkula
-PWN:calendar_month.n.01		monate, mensu
+PWN:calendar_month.n.01		mensu
+PWN:calendar_month.n.01		monate
 PWN:call.v.05		voka
 PWN:camp.n.03		bivake
-PWN:candle.n.01		bujie, kandele
+PWN:candle.n.01		bujie
+PWN:candle.n.01		kandele
 PWN:cannon.n.01		kanone
 PWN:capitulation.n.03		submisione
 PWN:caprice.n.01		kaprise
@@ -212,8 +249,10 @@ PWN:car.n.01		automobile
 PWN:carbon.n.01		karbo
 PWN:card.n.04		karte
 PWN:carrot.n.01		karote
-PWN:cat.n.01		kate (-o, -a)
-PWN:catastrophe.n.02		disastre, katastrofe
+PWN:cat.n.01		-a)
+PWN:cat.n.01		kate (-o
+PWN:catastrophe.n.02		disastre
+PWN:catastrophe.n.02		katastrofe
 PWN:catch.v.04		kapta
 PWN:cattle.n.01		bove
 PWN:cause.n.01		resone
@@ -221,17 +260,28 @@ PWN:cause.v.01		fika
 PWN:caution.n.01		kautione
 PWN:cave.n.01		kaverne
 PWN:ceiling.n.01		plafone
-PWN:century.n.01		sekle, yarsente
+PWN:celebrated.s.01		famosi
+PWN:century.n.01		sekle
+PWN:century.n.01		yarsente
 PWN:certain.a.04		serti
 PWN:chain.n.03		katene
 PWN:chair.n.01		stule
+PWN:cheap.a.01		chipi
+PWN:check.n.01		cheke
 PWN:cheek.n.01		vange
 PWN:chicken.n.02		hane
+PWN:chief.s.01		chefi
+PWN:chief.s.01		prim(i)
+PWN:chief.s.01		primari
 PWN:chimney.n.01		kamine
 PWN:chin.n.01		mentone
 PWN:choose.v.01		selekte
-PWN:church.n.02		kirke, eklesie
+PWN:church.n.02		eklesie
+PWN:church.n.02		kirke
+PWN:class.n.01		kategorie
 PWN:clay.n.01		argile
+PWN:clear.a.01		klar(i)
+PWN:clemency.n.02		miserikordia
 PWN:cliff.n.01		klife
 PWN:climb.v.01		klima
 PWN:clock.n.01		horloje
@@ -244,32 +294,43 @@ PWN:cockroach.n.01		blate
 PWN:coffee.n.01		kafe
 PWN:coin.n.01		monete
 PWN:cold.a.01		koldi
-PWN:collaborate.v.01		koopera, ko-labora
+PWN:collaborate.v.01		ko-labora
+PWN:collaborate.v.01		koopera
 PWN:collar.n.01		kolare
 PWN:color.n.01		kolore
 PWN:comb.n.01		peine
+PWN:comfort.n.01		komforte
 PWN:commiseration.n.01		pitia
 PWN:committee.n.01		komite
 PWN:company.n.01		kompania
+PWN:compare.v.01		kompara
 PWN:compete.v.01		konkura
+PWN:complex.a.01		komplexi
 PWN:compromise.n.01		kompromise
 PWN:concede.v.01		konfese
+PWN:concern.n.02		konserna
 PWN:condition.n.01		stando
 PWN:conscious.a.02		konsiosi
 PWN:consequence.n.01		resulte
 PWN:construct.v.01		konstrukte
-PWN:contend.v.06		kombata, lukta
-PWN:control.v.01		domina, kontrola
+PWN:contend.v.06		kombata
+PWN:contend.v.06		lukta
+PWN:contract.n.01		kontrate
+PWN:control.v.01		domina
+PWN:control.v.01		kontrola
+PWN:cool.a.01		koldeti
 PWN:copper.n.01		kupre
 PWN:cork.n.01		korke
 PWN:corn.n.01		maise
 PWN:corpulent.s.01		korpulent(i)
+PWN:correct.a.01		korekti
 PWN:cotton.n.02		kotone
 PWN:count.v.01		konta
 PWN:courage.n.01		kuraje
 PWN:court.n.01		korte
 PWN:cover.v.01		kovre
 PWN:crawl.v.01		repta
+PWN:credit.n.05		kredite
 PWN:crime.n.01		krime
 PWN:cry.v.02		plora
 PWN:cucumber.n.02		kukumbre
@@ -285,10 +346,14 @@ PWN:date.n.01		datum
 PWN:date.n.08		datele
 PWN:daughter.n.01		filia
 PWN:dead.a.01		morit
+PWN:debt.n.01		debatu(m)
 PWN:december.n.01		desembre
-PWN:decoration.n.01		ornamente, ornilo
+PWN:decide.v.01		desise
+PWN:decoration.n.01		ornamente
+PWN:decoration.n.01		ornilo
 PWN:defect.n.03		defekte
-PWN:deity.n.01		dee (-o, -a)
+PWN:deity.n.01		-a)
+PWN:deity.n.01		dee (-o
 PWN:deny.v.04		deskonfirma
 PWN:depend.v.01		dependa
 PWN:depository_financial_institution.n.01		banke
@@ -298,7 +363,8 @@ PWN:desire.v.01		voli
 PWN:destroy.v.01		destrukte
 PWN:detail.n.01		detale
 PWN:detect.v.01		observa
-PWN:dictator.n.02		tirane (-o, -a)
+PWN:dictator.n.02		-a)
+PWN:dictator.n.02		tirane (-o
 PWN:die.v.01		mori
 PWN:difficult.a.01		desfasil(i)
 PWN:dirty.a.01		sordid(i)
@@ -306,6 +372,8 @@ PWN:disappointment.n.01		deseptione
 PWN:discontinue.v.01		sesa
 PWN:disease.n.01		maladeso
 PWN:dish.n.01		platone
+PWN:disregard.n.01		neglekto
+PWN:distinguish.v.01		distinkte
 PWN:dog.n.01		hunde
 PWN:dome.n.01		dome
 PWN:domestic_ass.n.01		asne
@@ -315,14 +383,18 @@ PWN:drain.n.03		drenere
 PWN:dream.n.01		sonje
 PWN:drink.v.01		drinka
 PWN:drive.v.01		pusha
-PWN:drown.v.03		drona, bli drona
+PWN:drown.v.03		bli drona
+PWN:drown.v.03		drona
+PWN:duty.n.01		responso
 PWN:each.s.01		chaki
 PWN:ear.n.01		orele
-PWN:early.r.03		frui, prematuri
+PWN:early.r.03		frui
+PWN:early.r.03		prematuri
 PWN:earthquake.n.01		tremblo de tere
 PWN:east.n.01		est
 PWN:eat.v.01		manja
 PWN:eclipse.n.01		eklipse
+PWN:economical.s.03		frugal(i)
 PWN:egg.n.01		ove
 PWN:eight.s.01		ot
 PWN:elect.v.01		elekta
@@ -339,33 +411,45 @@ PWN:enthusiasm.n.01		selo
 PWN:envelope.n.01		kuverte
 PWN:estimate.v.01		konjektura
 PWN:ethnic_group.n.01		popule
+PWN:evaluate.v.02		judika
 PWN:evening.n.01		vespre
 PWN:evil.a.01		mal(i)
+PWN:example.n.01		exemple
 PWN:exchange.v.01		kambia
 PWN:exercise.n.03		praktiso
 PWN:exist.v.01		exist
 PWN:exit.v.01		departa
+PWN:expect.v.01		expekta
+PWN:expensive.a.01		cheri
+PWN:experience.v.01		experientia
+PWN:experiment.n.01		experimente
 PWN:extend.v.04		ofra
 PWN:exuberate.v.01		festa
 PWN:eye.n.01		okule
 PWN:fabric.n.01		texatum
 PWN:face.n.01		fasie
 PWN:factory.n.01		fabrike
+PWN:fair.a.01		justi
 PWN:fairy.n.01		fea
 PWN:fall.n.01		autumne
+PWN:false.a.01		falsi
 PWN:family.n.02		familie
 PWN:fan.n.01		ventilatore
 PWN:farm.n.01		ferme
 PWN:fat.s.05		fertil(i)
 PWN:father.n.01		patro
 PWN:faulty.s.02		deskorekti
-PWN:fear.n.01		tima, pavora
+PWN:fear.n.01		pavora
+PWN:fear.n.01		tima
 PWN:feather.n.01		plume
 PWN:february.n.01		februare
 PWN:fecal_matter.n.01		feke
 PWN:feel.v.03		senti
 PWN:feel.v.09		senti
-PWN:female.s.03		femal, feminini
+PWN:feign.v.01		fikte
+PWN:feign.v.01		simula
+PWN:female.s.03		femal
+PWN:female.s.03		feminini
 PWN:female_child.n.01		puera
 PWN:fence.n.01		fense
 PWN:fetus.n.01		fete
@@ -374,7 +458,8 @@ PWN:field.n.01		agre
 PWN:fig.n.02		fige
 PWN:file.n.04		lime
 PWN:finger.n.01		fingre
-PWN:fire.n.01		faire, insendie
+PWN:fire.n.01		faire
+PWN:fire.n.01		insendie
 PWN:fireplace.n.01		kamine
 PWN:fish.n.01		fishe
 PWN:fist.n.01		pugne
@@ -400,35 +485,43 @@ PWN:forget.v.02		oblive
 PWN:forgive.v.01		pardona
 PWN:fork.n.01		forkete (forke = pitchfork)
 PWN:four.s.01		quar
-PWN:fox.n.01		foxe (-o, -a)
+PWN:fox.n.01		-a)
+PWN:fox.n.01		foxe (-o
 PWN:framework.n.03		frame
 PWN:free.a.01		liberi
 PWN:frequently.r.01		frequentim
 PWN:friday.n.01		venerdie
-PWN:friend.n.01		amike (-o, -a)
+PWN:friend.n.01		-a)
+PWN:friend.n.01		amike (-o
 PWN:frog.n.01		rane
 PWN:fruit.n.01		frukte
 PWN:full.a.01		plen(i)
+PWN:function.n.03		role
 PWN:fundamental_law.n.01		konstitutione
 PWN:furniture.n.01		moblaro
 PWN:garden.n.01		gardene
 PWN:garlic.n.01		alie
 PWN:garment.n.01		veste
 PWN:gate.n.01		porte
+PWN:generous.a.01		jenerosi
 PWN:gentle.s.01		klementi
 PWN:gesticulate.v.01		gesta
-PWN:get.v.01		resiva, obtena
-PWN:get_down.v.07		komensa, starta
+PWN:get.v.01		obtena
+PWN:get.v.01		resiva
+PWN:get_down.v.07		komensa
+PWN:get_down.v.07		starta
 PWN:ghost.n.03		spirite
 PWN:ginger.n.01		jinjere
 PWN:give.v.01		dona
 PWN:glass.n.01		vitre
 PWN:glove.n.02		gante
-PWN:goat.n.01		kapre (-o, -a)
+PWN:goat.n.01		-a)
+PWN:goat.n.01		kapre (-o
 PWN:gold.n.03		ore
 PWN:good.a.01		bon(i)
 PWN:gourd.n.03		gurde
-PWN:government.n.01		guvernantaro, governamente
+PWN:government.n.01		governamente
+PWN:government.n.01		guvernantaro
 PWN:grain.n.08		grane
 PWN:grass.n.01		gasone
 PWN:grasshopper.n.01		lokuste
@@ -447,9 +540,12 @@ PWN:hand.n.01		manu
 PWN:handle.n.01		anse
 PWN:happen.v.01		eventa
 PWN:happy.a.01		felisi
-PWN:hark_back.v.01		retrovada, retrosenda
+PWN:hark_back.v.01		retrosenda
+PWN:hark_back.v.01		retrovada
+PWN:harmony.n.03		harmonie
 PWN:harness.n.01		harnese
-PWN:hat.n.01		chapele, kaskete
+PWN:hat.n.01		chapele
+PWN:hat.n.01		kaskete
 PWN:hate.v.01		odia
 PWN:have.v.01		have
 PWN:head.n.01		kape
@@ -457,26 +553,31 @@ PWN:head_covering.n.01		vele
 PWN:healthy.a.01		san(i)
 PWN:hear.v.01		audi
 PWN:heart.n.02		kordie
-PWN:heat.n.01		kalore, varmeso
+PWN:heat.n.01		kalore
+PWN:heat.n.01		varmeso
 PWN:heaven.n.02		siele
 PWN:heel.n.02		talone
 PWN:helix.n.01		helise
 PWN:hell.n.04		inferne
 PWN:helmet.n.02		helme
 PWN:help.v.01		helpa
-PWN:here.r.01		hir, dislok
+PWN:here.r.01		dislok
+PWN:here.r.01		hir
 PWN:hide.n.02		pele
 PWN:hide.v.01		kasha
-PWN:hill.n.01		koline, montete
+PWN:hill.n.01		koline
+PWN:hill.n.01		montete
 PWN:hinge.n.01		charnire
 PWN:hip.n.01		hanche
-PWN:hog.n.03		porke (-o, -a)
+PWN:hog.n.03		-a)
+PWN:hog.n.03		porke (-o
 PWN:hold.v.02		tena
 PWN:holy.a.01		sakri
 PWN:honor.v.01		rekompensa
 PWN:hope.v.02		espera
 PWN:horn.n.02		korne
-PWN:horse.n.01		kavale (-o, -a)
+PWN:horse.n.01		-a)
+PWN:horse.n.01		kavale (-o
 PWN:hospital.n.01		hospitale
 PWN:hot.a.01		varmisi
 PWN:hotel.n.01		hotele
@@ -486,22 +587,31 @@ PWN:hundred.s.01		sent
 PWN:hunt.v.01		chasa
 PWN:husband.n.01		marito
 PWN:idea.n.01		idee
+PWN:imagine.v.01		imagina
+PWN:important.a.01		importanti
+PWN:inclination.n.01		tendentie
 PWN:independent.a.01		non-dependante
 PWN:indicate.v.02		montra
 PWN:individual.n.02		individu
 PWN:injure.v.01		damaja
 PWN:innocent.a.01		inosent(i)
 PWN:insect.n.01		insekte
+PWN:insurance.n.01		assuratione
+PWN:intelligent.a.01		inteligenti
+PWN:intend.v.01		intente
 PWN:interest.n.01		intereso
 PWN:international.a.01		international
 PWN:internet.n.01		rete
 PWN:intestine.n.01		intestines
+PWN:invent.v.01		invente
+PWN:invest.v.01		plasa
 PWN:iris.n.02		iris
 PWN:iron.n.01		fere
 PWN:island.n.01		isle
 PWN:jacket.n.01		jakete
 PWN:january.n.01		januare
 PWN:jar.n.01		kruche
+PWN:jealousy.n.01		envio
 PWN:job.n.02		taske
 PWN:july.n.01		julie
 PWN:jump.v.01		salta
@@ -511,44 +621,61 @@ PWN:keep.v.03		retena
 PWN:key.n.01		klefe
 PWN:kidney.n.01		rene
 PWN:kill.v.01		tua
+PWN:kind.n.01		sorte
+PWN:kind.n.01		tipe
+PWN:kind.n.01		varietate
 PWN:king.n.01		rego
 PWN:knee.n.01		genu
 PWN:knife.n.01		kultele
-PWN:know.v.01		konosa, sava
+PWN:know.v.01		konosa
+PWN:know.v.01		sava
 PWN:ladder.n.01		skale
 PWN:lake.n.01		lago
 PWN:lamp.n.01		lampe
 PWN:land.n.04		tere
 PWN:large.a.01		grandi
 PWN:last.a.02		lasti
-PWN:late.r.01		tardi, tardim
+PWN:late.r.01		tardi
+PWN:late.r.01		tardim
 PWN:laugh.v.01		rida
 PWN:law.n.01		lege
 PWN:lead.n.02		plumbe
-PWN:lead.v.01		gida, dukte
+PWN:lead.v.01		dukte
+PWN:lead.v.01		gida
 PWN:leader.n.01		chefe
 PWN:leaf.n.01		folie
 PWN:learn.v.01		lerna
 PWN:leather.n.01		ledre
 PWN:leg.n.02		gambe
+PWN:lend.v.02		presta
 PWN:lens.n.01		lense
 PWN:lentil.n.01		lense
 PWN:letter.n.01		letre
 PWN:lever.n.01		levere
-PWN:library.n.05		libraro, biblioteke
+PWN:library.n.05		biblioteke
+PWN:library.n.05		libraro
 PWN:lie.v.02		lia
 PWN:lie.v.05		mentia
 PWN:light.n.01		lume
 PWN:lightning.n.01		fulmine
-PWN:lion.n.01		leone (-o, -a)
+PWN:like.v.02		jua
+PWN:like.v.02		prisa
+PWN:lion.n.01		-a)
+PWN:lion.n.01		leone (-o
 PWN:lip.n.01		labie
-PWN:little.a.02		poki, pokum
+PWN:little.a.02		poki
+PWN:little.a.02		pokum
+PWN:lobster.n.02		homarde
 PWN:loft.n.02		mansarde
+PWN:logic.n.01		logike
+PWN:lonely.s.02		solitari
 PWN:long.a.02		longi
 PWN:long.r.01		longitem
 PWN:long_ago.r.01		longim anteu
 PWN:lose.v.01		perda
+PWN:loud.a.01		laut(i)
 PWN:love.v.03		ama
+PWN:loyal.a.01		loyal
 PWN:lung.n.01		lung
 PWN:machine.n.01		machine
 PWN:magic.n.01		magia
@@ -557,9 +684,11 @@ PWN:make.v.01		fa
 PWN:make.v.03		krea
 PWN:male.s.03		maskulin(i)
 PWN:male_child.n.01		puero
+PWN:mammal.n.01		mamifere
 PWN:man.n.01		homo
 PWN:mandarin.n.01		mandarine
-PWN:many.a.01		multi, multes
+PWN:many.a.01		multes
+PWN:many.a.01		multi
 PWN:march.n.01		marte
 PWN:marketplace.n.02		merkate
 PWN:marriage.n.01		mariteso
@@ -578,29 +707,36 @@ PWN:mind.n.01		mente
 PWN:minute.n.01		minute
 PWN:miracle.n.01		mirakle
 PWN:mirror.n.01		spegele
-PWN:miss.n.03		Damsela, Siniorina
+PWN:miss.n.03		Damsela
+PWN:miss.n.03		Siniorina
 PWN:miss.v.06		manka
 PWN:mister.n.01		Sinioro
 PWN:molecule.n.01		molekule
-PWN:moment.n.01		momente, instante
+PWN:moment.n.01		instante
+PWN:moment.n.01		momente
 PWN:monday.n.01		lundie
 PWN:money.n.01		moneye
-PWN:monkey.n.01		simie (-o, -a)
+PWN:monkey.n.01		-a)
+PWN:monkey.n.01		simie (-o
 PWN:moon.n.01		lune
 PWN:more.a.02		plu
 PWN:morning.n.01		matine
 PWN:mosquito.n.01		moskito
 PWN:mother.n.01		matra
 PWN:mountain.n.01		monte
-PWN:mouse.n.01		muse (-o, -a)
+PWN:mouse.n.01		-a)
+PWN:mouse.n.01		muse (-o
 PWN:mouth.n.01		boke
 PWN:mrs.n.01		Siniora
-PWN:much.a.01		multi, multum
+PWN:much.a.01		multi
+PWN:much.a.01		multum
 PWN:muscle.n.01		muskle
-PWN:mushroom.n.05		funge, champinione
+PWN:mushroom.n.05		champinione
+PWN:mushroom.n.05		funge
 PWN:mustard.n.01		mustarde
 PWN:nail.n.01		ungle
 PWN:nail.n.02		nagle
+PWN:native.a.01		indijen(i)
 PWN:nature.n.03		nature
 PWN:navel.n.01		nable
 PWN:necessary.a.01		nesesar(i)
@@ -611,10 +747,12 @@ PWN:needle.n.03		agulie
 PWN:negative.s.08		negativ(i)
 PWN:nerve.n.01		nerve
 PWN:nest.n.01		neste
+PWN:net_income.n.01		profite
 PWN:neuter.s.02		neutri
 PWN:never.r.01		nul(i)tem
 PWN:new.a.01		nov(i)
 PWN:newspaper.n.01		jurnale
+PWN:nice.a.01		afabli
 PWN:night.n.01		nokte
 PWN:nine.s.01		nin
 PWN:nitrogen.n.01		nitrogene
@@ -631,30 +769,47 @@ PWN:oar.n.01		reme
 PWN:oat.n.01		avene
 PWN:obey.v.01		obedia
 PWN:object.n.01		objekte
+PWN:obscure.s.04		obskur(i)
+PWN:occupation.n.01		employate
+PWN:occupation.n.01		taske
 PWN:october.n.01		oktobre
 PWN:official.a.01		ofisial
-PWN:old.a.01		old(i), ansieni
+PWN:old.a.01		ansieni
+PWN:old.a.01		old(i)
 PWN:olive.n.01		olive
-PWN:one.s.01		un, uni
+PWN:one.s.01		un
+PWN:one.s.01		uni
 PWN:onion.n.02		onione
+PWN:opinion.n.01		opinione
 PWN:opportunity.n.01		chanse
 PWN:orange.n.03		oranje
+PWN:ordinary.a.01		normal
+PWN:ordinary.a.01		ordinar(i)
+PWN:ordinary.a.01		tipal
+PWN:ordinary.a.01		tipari
+PWN:ordinary.a.01		tipi
 PWN:organ.n.01		organe
 PWN:organize.v.02		organisa
 PWN:oven.n.01		forne
 PWN:overlord.n.01		mastre
 PWN:own.v.01		posese
-PWN:oxygen.n.01		oxe, oxigene
+PWN:oxygen.n.01		oxe
+PWN:oxygen.n.01		oxigene
 PWN:package.n.01		pakete
 PWN:pain.n.03		dolore
 PWN:palm.n.01		palme
 PWN:pan.n.01		padele
 PWN:pare.v.04		talia
 PWN:park.n.01		parke
-PWN:parliament.n.01		parlamente, kongrese, legifante
+PWN:parliament.n.01		kongrese
+PWN:parliament.n.01		legifante
+PWN:parliament.n.01		parlamente
 PWN:part.n.02		parte
 PWN:part.n.03		piese
 PWN:party.n.01		partise
+PWN:patience.n.01		patienteso
+PWN:patience.n.01		patientia
+PWN:pay.v.01		paga
 PWN:pea.n.01		pise
 PWN:peace.n.01		pase
 PWN:peanut.n.01		arake
@@ -669,12 +824,14 @@ PWN:picture.n.01		imaje
 PWN:pillow.n.01		kusene
 PWN:pine.n.01		pine
 PWN:pipe.n.02		tube
+PWN:pitch.n.01		tone
 PWN:pitch.n.06		asfalte
 PWN:plan.n.01		plane
 PWN:planet.n.01		planete
 PWN:plant.n.02		plante
 PWN:plate.n.04		plate
 PWN:play.n.01		drama(te)
+PWN:pleasure.n.01		plesire
 PWN:plow.n.01		pluge
 PWN:plug.n.01		tampone
 PWN:plum.n.01		prune
@@ -688,23 +845,32 @@ PWN:populace.n.01		publikum
 PWN:populate.v.01		resida
 PWN:positive.s.10		positiv(i)
 PWN:possible.a.01		posiubli
-PWN:possibly.r.01		forsan, poves
+PWN:possibly.r.01		forsan
+PWN:possibly.r.01		poves
 PWN:pot.n.01		pote
 PWN:potassium.n.01		kali(um)
 PWN:potato.n.01		potate
 PWN:power.n.02		potenteso
 PWN:pray.v.01		prega
+PWN:prefer.v.01		prefera
 PWN:president.n.03		presidante
 PWN:prevent.v.01		prevente
 PWN:price.n.02		pretie
+PWN:pride.n.01		fiereso
+PWN:pride.n.01		fieritate
 PWN:priest.n.01		prestre
-PWN:prime_minister.n.01		primi ministre (-o, -a)
+PWN:prime_minister.n.01		-a)
+PWN:prime_minister.n.01		primi ministre (-o
 PWN:prison.n.01		prisone
+PWN:private.a.01		privat(i)
 PWN:prize.n.01		premie
 PWN:probable.a.01		probabli
 PWN:procedure.n.01		prosedo
 PWN:program.n.08		programe
 PWN:project.n.02		projete
+PWN:proof.n.01		pruvo
+PWN:public.a.01		publi
+PWN:public.a.01		publik(i)
 PWN:pull.v.01		tira
 PWN:pulley.n.01		pulie
 PWN:pump.n.01		pumpe
@@ -713,17 +879,23 @@ PWN:purple.s.01		purpri
 PWN:push.v.01		pusha
 PWN:pyramid.n.01		piramide
 PWN:queen.n.02		rega
-PWN:rabbit.n.01		lepore (-o, -a)
+PWN:rabbit.n.01		-a)
+PWN:rabbit.n.01		lepore (-o
 PWN:race.n.03		rase
 PWN:radio.n.01		radio
 PWN:railing.n.01		rele
 PWN:rain.n.01		pluve
 PWN:rainbow.n.01		pluve-arko
 PWN:rake.n.03		rastre
-PWN:razor.n.01		rasilo, rasomachine, rasokultele
+PWN:razor.n.01		rasilo
+PWN:razor.n.01		rasokultele
+PWN:razor.n.01		rasomachine
 PWN:ready.a.01		pronti
+PWN:real.a.01		real
 PWN:reap.v.01		rekolta
+PWN:reasoning.n.01		ratione
 PWN:receive.v.01		resiva
+PWN:recognize.v.04		rekogni
 PWN:red.s.01		red(i)
 PWN:refuse.v.02		refusa
 PWN:religion.n.02		religione
@@ -732,11 +904,17 @@ PWN:remember.v.01		memora
 PWN:render.v.01		fika
 PWN:repair.v.01		repara
 PWN:repent.v.02		regreta
+PWN:reptile.n.01		reptere
+PWN:respect.v.01		respekte
+PWN:retaliation.n.01		revanche
+PWN:revelation.n.03		revelatione
 PWN:rice.n.01		rise
 PWN:rich.a.01		richi
 PWN:ride.v.01		vehikla
 PWN:right.n.01		jure
-PWN:rite.n.01		ritu, seremonie
+PWN:riot.n.01		tumultu
+PWN:rite.n.01		ritu
+PWN:rite.n.01		seremonie
 PWN:river.n.01		fluvie
 PWN:road.n.01		vie
 PWN:roll.v.14		rula
@@ -757,30 +935,42 @@ PWN:sail.n.01		segle
 PWN:salad.n.01		salade
 PWN:salt.n.02		sale
 PWN:salvage.v.01		salva
-PWN:same.a.01		sam(i), identi
+PWN:same.a.01		identi
+PWN:same.a.01		sam(i)
+PWN:satisfaction.n.01		satisfaktione
 PWN:saturday.n.01		saturdie
 PWN:sausage.n.01		sosise
 PWN:saw.n.02		sege
 PWN:scale.n.07		ponderilo
 PWN:school.n.01		skole
 PWN:scissors.n.01		sisoe
+PWN:screen.n.05		mashe
+PWN:screen.n.05		shirme (screen = shelter)
 PWN:screw.n.04		skrue
-PWN:sea.n.01		mare, oseane
+PWN:sea.n.01		mare
+PWN:sea.n.01		oseane
+PWN:search.v.01		sercha
 PWN:season.n.02		sesone
 PWN:second.n.01		sekunde
 PWN:see.v.01		vida
 PWN:seed.n.02		seme
+PWN:sell.v.01		venda
 PWN:send.v.01		senda
+PWN:sense.n.03		sensu
 PWN:september.n.01		septembre
 PWN:sequence.n.01		ordine
+PWN:serious.a.01		seriosi
+PWN:serve.v.10		serva
 PWN:seven.s.01		set
 PWN:sew.v.01		suta
 PWN:sex.n.04		sexu
 PWN:shadow.n.01		ombre
 PWN:shake.v.01		trembla
+PWN:shame.n.01		shame
 PWN:share.n.01		portione
 PWN:shave.v.01		rasa
-PWN:sheep.n.01		mutone (-o, -a)
+PWN:sheep.n.01		-a)
+PWN:sheep.n.01		mutone (-o
 PWN:shell.n.10		shele
 PWN:shield.n.02		shilde
 PWN:shine.v.02		luma
@@ -795,8 +985,10 @@ PWN:shout.v.02		klama
 PWN:shovel.n.01		shovele
 PWN:shrub.n.01		arbuste
 PWN:shut.a.01		klosat(i)
+PWN:silent.s.01		silentiant(i)
 PWN:silk.n.01		silke
 PWN:silver.n.01		arjente
+PWN:simple.a.01		simpli
 PWN:sing.v.02		kanta
 PWN:sink.v.01		sinka
 PWN:sister.n.01		fratra
@@ -805,9 +997,12 @@ PWN:six.s.01		six
 PWN:skeletal_system.n.01		skelete
 PWN:skirt.n.02		jupe
 PWN:sky.n.01		siele
-PWN:slave.n.01		sklave (-o, -a)
+PWN:slave.n.01		-a)
+PWN:slave.n.01		sklave (-o
 PWN:sleep.v.01		dormi
 PWN:small.a.01		mikri
+PWN:smell.n.01		aromate
+PWN:smell.n.01		odoro
 PWN:smile.v.01		rideta
 PWN:snake.n.01		serpente
 PWN:sneeze.v.01		sternuta
@@ -819,12 +1014,16 @@ PWN:soft.a.01		quiet(i)
 PWN:soil.n.02		krase
 PWN:soldier.n.01		soldato
 PWN:son.n.01		filio
-PWN:soon.r.01		bald, proxitem
+PWN:soon.r.01		bald
+PWN:soon.r.01		proxitem
 PWN:sore.n.01		vunde
 PWN:soul.n.01		alme
+PWN:sound.n.01		suone
 PWN:soup.n.01		supe
+PWN:sour.s.01		asidi
 PWN:south.n.03		sud
 PWN:spear.n.01		lanse
+PWN:species.n.01		spesie
 PWN:spectacles.n.01		lunete
 PWN:spider.n.01		arane
 PWN:spinach.n.01		spinate
@@ -839,25 +1038,32 @@ PWN:squirrel.n.01		squirele
 PWN:stairs.n.01		eskalere
 PWN:stand.v.01		stea
 PWN:star.n.03		stele
-PWN:state.n.01		provinse, state
+PWN:state.n.01		provinse
+PWN:state.n.01		state
 PWN:state.n.04		natione
 PWN:stay.v.04		resta
+PWN:steal.v.01		furta
 PWN:still.r.01		ankore
 PWN:stir.v.01		agita
 PWN:stomach.n.01		stomake
-PWN:store.n.02		reserva, depo
+PWN:store.n.02		depo
+PWN:store.n.02		reserva
 PWN:storm.n.01		sturme
+PWN:strange.a.01		stranji
 PWN:strap.n.01		strape
 PWN:strength.n.01		forteso
+PWN:strike.n.01		strike
 PWN:string.n.01		kordete
 PWN:study.v.05		studia
 PWN:stupid.a.01		stupid(i)
 PWN:succeed.v.01		suksese
+PWN:suitable.s.01		apti
 PWN:sulfur.n.01		sulfre
 PWN:summer.n.01		somre
 PWN:sun.n.01		sune
 PWN:sunday.n.01		sundie
 PWN:supply.v.01		provise
+PWN:surprise.v.01		surprisa
 PWN:swallow.v.01		gluta
 PWN:swamp.n.01		marshe
 PWN:sweet.a.01		dolsi
@@ -869,21 +1075,28 @@ PWN:table.n.02		table
 PWN:tail.n.01		kaude
 PWN:take.v.04		prenda
 PWN:talk.v.02		parla
-PWN:tape.n.01		ribande, bende
+PWN:tape.n.01		bende
+PWN:tape.n.01		ribande
 PWN:taste.n.01		guste
 PWN:tax.n.01		taxo
 PWN:tea.n.01		tee
-PWN:teach.v.01		dose, instrukte
+PWN:teach.v.01		dose
+PWN:teach.v.01		instrukte
 PWN:tear.n.01		lakrime
 PWN:technology.n.01		teknologia
 PWN:telephone.n.01		telefone
 PWN:telescope.n.01		teleskope
+PWN:temperature.n.01		temperature
 PWN:ten.s.01		dek
+PWN:test.v.01		testa
 PWN:testis.n.01		testikle
 PWN:theater.n.01		teatre
-PWN:there.r.01		dar, tilok
+PWN:theory.n.01		teorie
+PWN:there.r.01		dar
+PWN:there.r.01		tilok
 PWN:think.v.03		opine
-PWN:thorax.n.02		pektore, bruste
+PWN:thorax.n.02		bruste
+PWN:thorax.n.02		pektore
 PWN:thousand.s.01		mil
 PWN:thread.n.01		file
 PWN:three.s.01		tri
@@ -892,22 +1105,31 @@ PWN:throw.v.01		jeta
 PWN:thumb.n.01		puse
 PWN:thunder.n.02		tondra
 PWN:thursday.n.01		jodie
+PWN:ticket.n.01		bilete
 PWN:tie.v.01		liga
-PWN:tiger.n.02		tigre (-o, -a)
+PWN:tiger.n.02		-a)
+PWN:tiger.n.02		tigre (-o
 PWN:time.n.05		tempe
-PWN:time_period.n.01		periode, ere, epoke
+PWN:time_period.n.01		epoke
+PWN:time_period.n.01		ere
+PWN:time_period.n.01		periode
 PWN:tin.n.01		stane
 PWN:tired.a.01		fatigat(i)
 PWN:tobacco.n.01		tabake
 PWN:today.r.02		disdi
 PWN:toe.n.01		pedefingre
-PWN:toilet.n.01		latrine, lavatorie
+PWN:toilet.n.01		latrine
+PWN:toilet.n.01		lavatorie
 PWN:tomato.n.01		tomate
 PWN:tomorrow.r.01		morge
 PWN:tongs.n.01		pinse
-PWN:tongue.n.01		lange, tunge
+PWN:tongue.n.01		lange
+PWN:tongue.n.01		tunge
+PWN:tool.n.01		instrumente
+PWN:tool.n.01		utensile
 PWN:tooth.n.01		dente
-PWN:torment.v.01		tortura, tormenta
+PWN:torment.v.01		tormenta
+PWN:torment.v.01		tortura
 PWN:touch.v.01		tucha
 PWN:tower.n.01		turme
 PWN:town.n.01		urbe
@@ -921,8 +1143,10 @@ PWN:tribe.n.01		tribu
 PWN:trouble.n.01		trublo
 PWN:trouser.n.01		pantalone
 PWN:true.a.01		veri
+PWN:trust.v.01		fida
 PWN:tuesday.n.01		mardie
-PWN:turkey.n.01		dinde (-o, -a)
+PWN:turkey.n.01		-a)
+PWN:turkey.n.01		dinde (-o
 PWN:turn.v.04		turna
 PWN:turtle.n.02		tortuge
 PWN:two.s.01		du
@@ -945,6 +1169,7 @@ PWN:vein.n.01		veine
 PWN:very.r.01		tre
 PWN:vinegar.n.01		vinegre
 PWN:violent.a.01		violent(i)
+PWN:virus.n.01		virus
 PWN:volcano.n.02		volkane
 PWN:vomit.v.01		vomi
 PWN:vote.v.01		vote
@@ -954,7 +1179,8 @@ PWN:wait.v.01		varta
 PWN:wake_up.v.02		veka
 PWN:walk.v.01		marcha
 PWN:wall.n.01		mure
-PWN:war.n.01		guere, milite
+PWN:war.n.01		guere
+PWN:war.n.01		milite
 PWN:warm.a.01		varm(i)
 PWN:wash.v.01		lava
 PWN:waste.v.01		misusa
@@ -970,16 +1196,20 @@ PWN:wheel.n.01		rote
 PWN:white.a.01		blanki
 PWN:wide.a.01		larji
 PWN:wife.n.01		marita
+PWN:wild.a.02		ferosi
 PWN:wind.n.01		vente
 PWN:window.n.01		fenestre
 PWN:wing.n.01		ale
 PWN:winter.n.01		vintre
 PWN:wire.n.01		drate
+PWN:wise.a.01		saji
 PWN:wolf.n.01		volf
-PWN:woman.n.01		homa, fema
+PWN:woman.n.01		fema
+PWN:woman.n.01		homa
 PWN:wool.n.02		lane
 PWN:world.n.02		monde
 PWN:worm.n.01		verme
+PWN:worry.v.01		tormente
 PWN:wrap.v.01		envelopa
 PWN:wrestle.v.01		lukta
 PWN:year.n.01		yare
@@ -987,4 +1217,3 @@ PWN:yellow.s.01		gelbi
 PWN:yesterday.r.01		yer
 PWN:young.a.01		yun(i)
 PWN:zero.s.01		sero
-Tool:tool.N		instrumente, utensile
