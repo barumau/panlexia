@@ -35,6 +35,7 @@ PLX:near.pp		proksime al
 PLX:of.pp		de
 PLX:on.pp		sur
 PLX:or.cnj		aŭ
+PLX:other.pro		alia
 PLX:outside of.pp		ekster
 PLX:quantity of.pp		da
 PLX:should.v		devus
@@ -44,6 +45,8 @@ PLX:that.pro		tiu
 PLX:this.pro		ĉi tiu
 PLX:through.pp		tra
 PLX:to.pp		al
+PLX:too little.adv		maltro
+PLX:too little.adv		nesufiĉe
 PLX:under.pp		sub
 PLX:what.pro		kio
 PLX:what.pro		kiu
@@ -55,6 +58,7 @@ PLX:why.pro		kial
 PLX:with.pp		kun
 PLX:without.pp		sen
 PWN:abdomen.n.01		abdomeno
+PWN:about.r.07		preskaŭ
 PWN:absent.a.01		forestanta
 PWN:absent.a.01		mankanta
 PWN:absorb.v.04		sorbi
@@ -106,6 +110,7 @@ PWN:always.r.01		ĉiam
 PWN:always.r.01		ĉiame
 PWN:ambassador.n.01		ambasadoro
 PWN:ambassador.n.01		ambasedestro
+PWN:american_football.n.01		usona piedpilkludo
 PWN:amusing.s.02		amuza
 PWN:amusing.s.02		komika
 PWN:analyze.v.01		ekzameni
@@ -177,6 +182,8 @@ PWN:ball.n.01		pilko
 PWN:balloon.n.01		balono
 PWN:bamboo.n.01		bambuo
 PWN:banana.n.02		banano
+PWN:bantam.s.01		eta
+PWN:bantam.s.01		malgrandega
 PWN:bar.n.03		stango
 PWN:bare.s.01		nuda
 PWN:bare.s.01		senkovra
@@ -217,6 +224,7 @@ PWN:besides.r.02		ankaŭ
 PWN:bespeak.v.01		indiki
 PWN:bicycle.n.01		biciklo
 PWN:bill.n.02		fakturo
+PWN:billiards.n.01		bilardo
 PWN:bird.n.01		birdo
 PWN:birth.n.02		naskiĝo
 PWN:birth.n.02		nasko
@@ -279,6 +287,8 @@ PWN:bucket.n.01		sitelo
 PWN:bud.n.01		burĝono
 PWN:building.n.01		konstruaĵo
 PWN:bullet.n.01		kuglo
+PWN:bundle.n.02		fasko
+PWN:bundle.n.02		pako
 PWN:bus.n.01		aŭtobuso
 PWN:bus.n.01		buso {colloquial}
 PWN:business.n.01		komerco
@@ -332,12 +342,17 @@ PWN:century.n.01		jarcento
 PWN:certain.a.04		certa
 PWN:chain.n.03		ĉeno
 PWN:chair.n.01		seĝo
+PWN:change.v.03		varii
+PWN:change.v.03		ŝanĝi
+PWN:change.v.03		ŝanĝiĝi
 PWN:chapter.n.01		ĉapitro
+PWN:chart.n.01		diagramo
 PWN:cheap.a.01		malkara
 PWN:cheap.a.01		malmultekosta
 PWN:check.n.01		ĉeko
 PWN:cheek.n.01		vango
 PWN:cherry.n.03		ĉerizo
+PWN:chess.n.02		ŝako
 PWN:chicken.n.02		koko
 PWN:chief.s.01		ĉefa
 PWN:child.n.01		infano
@@ -367,6 +382,8 @@ PWN:coal.n.01		terkarbo
 PWN:coat.n.01		mantelo
 PWN:coat.n.01		palto
 PWN:cockroach.n.01		blato
+PWN:code.n.02		kodo
+PWN:code.n.02		ĉifro
 PWN:coffee.n.01		kafo
 PWN:coin.n.01		monero
 PWN:cold.a.01		frida
@@ -380,6 +397,7 @@ PWN:command.n.01		komando
 PWN:command.n.01		ordono
 PWN:commiseration.n.01		kompati
 PWN:committee.n.01		komitato
+PWN:common.a.01		komuna
 PWN:communication.n.01		(inter)komunikado
 PWN:communication.n.01		komunikaĵo
 PWN:community.n.01		komunumo
@@ -398,6 +416,8 @@ PWN:condition.n.01		stato
 PWN:conscious.a.02		konscia
 PWN:consequence.n.01		rezulto
 PWN:consequence.n.01		sekvo
+PWN:consist.v.04		konsisti el
+PWN:consonant.n.01		konsonanto
 PWN:construct.v.01		konstrui
 PWN:container.n.01		entenilo
 PWN:container.n.01		ujo
@@ -410,6 +430,8 @@ PWN:contract.n.01		kontrakto
 PWN:control.v.01		regi
 PWN:cool.a.01		malvarmeta
 PWN:copper.n.01		kupro
+PWN:copy.n.02		ekzemplero
+PWN:copy.n.02		kopio
 PWN:cork.n.01		korko
 PWN:corn.n.01		maizo
 PWN:corpulent.s.01		grasa
@@ -444,11 +466,16 @@ PWN:december.n.01		decembro
 PWN:decide.v.01		decidi
 PWN:decoration.n.01		dekoraĵo
 PWN:decoration.n.01		ornamaĵo
+PWN:decrease.v.01		malplimultigi
 PWN:deer.n.01		cervo
 PWN:defect.n.03		difekto
 PWN:defect.n.03		malperfektaĵo
+PWN:degree.n.01		grado
+PWN:degree.n.01		kiomo
 PWN:deity.n.01		dio
 PWN:delightful.s.01		bongusta
+PWN:dense.s.03		densa
+PWN:density.n.01		denseco
 PWN:deny.v.04		nei
 PWN:depend.v.01		dependi de
 PWN:depository_financial_institution.n.01		banko
@@ -468,6 +495,8 @@ PWN:dictator.n.02		diktatoro
 PWN:dictator.n.02		tirano
 PWN:dictionary.n.01		vortaro
 PWN:die.v.01		morti
+PWN:different.a.01		malsama
+PWN:different.a.01		malsimila
 PWN:difficult.a.01		malfacila
 PWN:dirty.a.01		malpura
 PWN:disappointment.n.01		malkontentiĝo
@@ -480,9 +509,11 @@ PWN:dish.n.01		plado
 PWN:disregard.n.01		apatio
 PWN:disregard.n.01		neglekto
 PWN:distinguish.v.01		distingi (inter)
+PWN:divide.v.02		dividi
 PWN:doctor.n.01		kuracisto
 PWN:document.n.01		dokumento
 PWN:dog.n.01		hundo
+PWN:doll.n.01		pupo
 PWN:dome.n.01		kupolo
 PWN:domestic_ass.n.01		azeno
 PWN:doubt.v.02		dubi
@@ -494,6 +525,7 @@ PWN:drill.n.01		borilo
 PWN:drink.v.01		trinki
 PWN:drive.v.01		peli
 PWN:drown.v.03		droni
+PWN:drum.n.01		tamburo
 PWN:duck.n.01		anaso
 PWN:duty.n.01		respondeco
 PWN:each.s.01		ĉiu
@@ -525,6 +557,7 @@ PWN:enter.v.01		eniri
 PWN:enter.v.01		enveni
 PWN:enthusiasm.n.01		entuziasmo
 PWN:envelope.n.01		kuverto
+PWN:equal.a.01		egala
 PWN:estimate.v.01		diveni
 PWN:estimate.v.01		konjekti
 PWN:ethnic_group.n.01		etnaro
@@ -554,6 +587,7 @@ PWN:exuberate.v.01		festi
 PWN:eye.n.01		okulo
 PWN:fabric.n.01		tolo
 PWN:face.n.01		vizaĝo
+PWN:fact.n.01		fakto
 PWN:factory.n.01		fabriko
 PWN:fail.v.01		malsukcesi
 PWN:fair.a.01		justa
@@ -582,7 +616,11 @@ PWN:female_child.n.01		knabino
 PWN:fence.n.01		barilo
 PWN:fetus.n.01		feto
 PWN:fever.n.01		febro
+PWN:few.a.01		kelkaj
+PWN:few.a.01		malmultaj
+PWN:fiction.n.01		fikcio
 PWN:field.n.01		kampo
+PWN:field_hockey.n.01		hokeo
 PWN:fig.n.02		figo
 PWN:file.n.01		dosiero
 PWN:file.n.01		rikordaro
@@ -633,6 +671,9 @@ PWN:full.a.01		plena
 PWN:function.n.03		rolo
 PWN:fundamental_law.n.01		statuto
 PWN:furniture.n.01		mebloj
+PWN:game.n.01		ludo
+PWN:game.n.02		matĉo
+PWN:game.n.02		partio
 PWN:garden.n.01		ĝardeno
 PWN:garlic.n.01		ajlo
 PWN:garment.n.01		vestaĵo
@@ -660,6 +701,7 @@ PWN:gourd.n.03		kukurbo
 PWN:government.n.01		registaro
 PWN:grain.n.08		cerealo
 PWN:grain.n.08		greno
+PWN:grammar.n.01		gramatiko
 PWN:grandfather.n.01		avo
 PWN:grandma.n.01		avino
 PWN:grape.n.01		vinbero
@@ -676,7 +718,9 @@ PWN:grey.s.01		griza
 PWN:group.n.01		grupo
 PWN:guard.v.01		gardi
 PWN:guilty.a.01		kulpa
+PWN:guitar.n.01		gitaro
 PWN:gun.n.01		pafilo
+PWN:gymnastics.n.01		gimnastiko
 PWN:habit.n.01		kutimo
 PWN:hail.n.01		hajlo
 PWN:hammer.n.02		martelo
@@ -721,6 +765,8 @@ PWN:holy.a.01		sankta
 PWN:honor.v.01		rekompenci
 PWN:hook.n.05		hoko
 PWN:hope.v.02		esperi
+PWN:horn.n.01		korno
+PWN:horn.n.01		latuninstrumento
 PWN:horn.n.02		korno
 PWN:horse.n.01		ĉevalo
 PWN:hospital.n.01		hospitalo
@@ -730,6 +776,8 @@ PWN:hotel.n.01		gastejo
 PWN:hotel.n.01		hotelo
 PWN:hour.n.01		horo
 PWN:house.n.01		domo
+PWN:huge.s.01		enorma
+PWN:huge.s.01		grandega
 PWN:hundred.s.01		cent
 PWN:hunt.v.01		ĉasi
 PWN:husband.n.01		edzo
@@ -738,9 +786,11 @@ PWN:idea.n.01		koncepto
 PWN:ill.a.01		malsana
 PWN:imagine.v.01		bildigi (al si)
 PWN:imagine.v.01		imagi
+PWN:imitate.v.01		imiti
 PWN:important.a.01		grava
 PWN:inclination.n.01		emo
 PWN:inclination.n.01		tendenco
+PWN:increase.v.01		plimultigi
 PWN:independent.a.01		sendependa
 PWN:indicate.v.02		montri
 PWN:indicate.v.02		vidigi
@@ -801,6 +851,7 @@ PWN:knob.n.02		tubero
 PWN:knock.v.06		kritiki
 PWN:know.v.01		koni (be acquainted with)
 PWN:know.v.01		scii (be aware of)
+PWN:label.n.01		etikedo
 PWN:ladder.n.01		ŝtupetaro
 PWN:lake.n.01		lago
 PWN:lamp.n.01		lampo
@@ -821,12 +872,19 @@ PWN:leaf.n.01		folio
 PWN:learn.v.01		ekscii
 PWN:learn.v.01		informiĝi
 PWN:learn.v.01		lerni
+PWN:least.a.01		malplej (multe) (da)
+PWN:least.r.01		malplej
+PWN:least.r.01		malplejmulte
 PWN:leather.n.01		ledo
 PWN:leg.n.02		gambo
 PWN:leg.n.02		kruro
 PWN:lend.v.02		prunti
 PWN:lens.n.01		lenso
 PWN:lentil.n.01		lento
+PWN:less.a.01		malpli (multe) (da)
+PWN:less.a.01		malplimulto
+PWN:less.r.01		malpli
+PWN:less.r.01		malplimulte
 PWN:letter.n.01		letero
 PWN:lever.n.01		levstango
 PWN:library.n.05		biblioteko
@@ -841,6 +899,7 @@ PWN:lion.n.01		leono
 PWN:lip.n.01		lipo
 PWN:list.n.01		listo
 PWN:little.a.02		iomete (da)
+PWN:little.r.01		malmulte
 PWN:liver.n.01		hepato
 PWN:living_thing.n.01		vivaĵo
 PWN:lizard.n.01		lacerto
@@ -854,6 +913,7 @@ PWN:long.r.01		longa
 PWN:long.r.01		longdaŭra
 PWN:long_ago.r.01		antaŭlonge
 PWN:look.v.01		rigardi
+PWN:look.v.02		ŝajni
 PWN:loom.n.01		teksilo
 PWN:lose.v.01		perdi
 PWN:loud.a.01		laŭta
@@ -869,6 +929,9 @@ PWN:magic.n.01		magio
 PWN:magic.n.01		sorĉarto
 PWN:magnet.n.01		magneto
 PWN:mail.v.01		enpoŝtigi
+PWN:majority.n.01		majoritato
+PWN:majority.n.01		plimulto
+PWN:majority.n.01		pliparto
 PWN:make.v.01		fari
 PWN:make.v.03		estigi
 PWN:make.v.03		krei
@@ -879,6 +942,7 @@ PWN:man.n.01		viro
 PWN:mandarin.n.01		mandarino
 PWN:mantis.n.01		manto
 PWN:many.a.01		multaj
+PWN:map.n.01		mapo
 PWN:maple.n.02		acero
 PWN:march.n.01		marto
 PWN:marijuana.n.01		mariĥuano
@@ -889,6 +953,8 @@ PWN:match.n.09		egal(aĵ)o
 PWN:may.n.01		majo
 PWN:mayor.n.01		urbestro
 PWN:meaning.n.01		signifo
+PWN:measure.n.02		kvanto
+PWN:measure.v.01		mezuri
 PWN:meet.v.09		renkonti
 PWN:melt.v.01		fandi
 PWN:melt.v.01		fandiĝi
@@ -904,6 +970,9 @@ PWN:military.a.01		milita
 PWN:milk.n.01		lakto
 PWN:mill.n.04		muelejo
 PWN:mind.n.01		menso
+PWN:minority.n.02		malplimulto
+PWN:minority.n.02		malpliparto
+PWN:minority.n.02		minoritato
 PWN:mint.n.02		mento
 PWN:minute.n.01		minuto
 PWN:miracle.n.01		miraklo
@@ -918,25 +987,42 @@ PWN:monday.n.01		lundo
 PWN:money.n.01		mono
 PWN:monkey.n.01		simio
 PWN:moon.n.01		luno
+PWN:more.a.01		pli (multaj)
+PWN:more.a.01		pli (multe da)
 PWN:more.a.02		pli
 PWN:more.a.02		plimulte
 PWN:morning.n.01		antaŭtagmezo
 PWN:morning.n.01		mateno
 PWN:morning_glory.n.01		ipomeo
 PWN:mosquito.n.01		moskito
+PWN:most.a.01		la plejmulto
+PWN:most.a.01		la plejparto
+PWN:most.a.01		la plimulto
+PWN:most.a.01		la pliparto
+PWN:most.r.01		plej
+PWN:most.r.01		plejmulte
 PWN:mother.n.01		patrino
 PWN:motorcycle.n.01		motorciklo
 PWN:mountain.n.01		monto
 PWN:mouse.n.01		muso
 PWN:mouth.n.01		buŝo
+PWN:movie.n.01		kino
+PWN:movie.n.01		kinofilmo
 PWN:mrs.n.01		sinjorino
 PWN:much.a.01		multe (da)
 PWN:much.a.01		multo
+PWN:multiply.v.01		multipliki
+PWN:multiply.v.01		obligi
 PWN:muscle.n.01		muskolo
 PWN:mushroom.n.05		fungo
+PWN:music.n.01		muziko
 PWN:mustard.n.01		mustardo
+PWN:mystery.n.01		mistero
 PWN:nail.n.01		ungo
 PWN:nail.n.02		najlo
+PWN:name.n.01		nomo
+PWN:narrative.n.01		rakonto
+PWN:narrative.n.01		raporto
 PWN:native.a.01		denaska
 PWN:native.a.01		indiĝena
 PWN:nature.n.03		naturo
@@ -976,6 +1062,9 @@ PWN:note.n.01		piednoto
 PWN:november.n.01		novembro
 PWN:now.r.04		nun
 PWN:now.r.04		nuntempe
+PWN:number.n.02		cifero
+PWN:number.n.02		numeralo
+PWN:number.n.02		numero
 PWN:nut.n.01		nukso
 PWN:oak.n.02		kverko
 PWN:oar.n.01		padelo
@@ -1002,10 +1091,12 @@ PWN:ordinary.a.01		ordinara
 PWN:oregano.n.01		origano
 PWN:organ.n.01		organo
 PWN:organize.v.02		organizi
+PWN:original.s.04		originala
 PWN:oven.n.01		bakujo
 PWN:oven.n.01		forno
 PWN:overlord.n.01		lordo
 PWN:overlord.n.01		mastro
+PWN:overmuch.r.01		tro
 PWN:own.v.01		posedi
 PWN:oxygen.n.01		oksigeno
 PWN:package.n.01		pakaĵo
@@ -1052,12 +1143,15 @@ PWN:plant.n.02		vegetalo
 PWN:plant.v.01		planti
 PWN:plate.n.04		telero
 PWN:play.n.01		teatraĵo
+PWN:play.v.05		ludi
+PWN:plaything.n.01		ludilo
 PWN:pleasure.n.01		plezuro
 PWN:plow.n.01		plugilo
 PWN:plug.n.01		ŝtopilo
 PWN:plum.n.01		pruno
 PWN:pocket.n.01		poŝo
 PWN:pod.n.01		semujo
+PWN:poem.n.01		poemo
 PWN:polarity.n.02		poluseco
 PWN:pole.n.01		stango
 PWN:police.n.01		polico
@@ -1102,6 +1196,7 @@ PWN:propose.v.01		sugesti
 PWN:protect.v.01		defendi
 PWN:protect.v.01		protekti
 PWN:protest.n.01		protesto
+PWN:prototype.n.01		prototipo
 PWN:public.a.01		publika
 PWN:pull.v.01		altiri
 PWN:pull.v.01		tiri
@@ -1113,6 +1208,7 @@ PWN:push.v.01		puŝi
 PWN:pyramid.n.01		piramido
 PWN:queen.n.02		reĝino
 PWN:question.n.03		demando
+PWN:quote.v.01		citi
 PWN:rabbit.n.01		"kuniklo (hare = ""leporo"")"
 PWN:race.n.03		raso
 PWN:rack.n.01		krado
@@ -1121,6 +1217,9 @@ PWN:railing.n.01		relo
 PWN:rain.n.01		pluvo
 PWN:rainbow.n.01		ĉielarko
 PWN:rake.n.03		rastilo
+PWN:rare.s.04		maldensa
+PWN:ratio.n.01		proporcio
+PWN:ratio.n.01		racio
 PWN:razor.n.01		razilo
 PWN:read.v.01		legi
 PWN:ready.a.01		preparita
@@ -1130,18 +1229,26 @@ PWN:real.a.01		reala
 PWN:reap.v.01		rikolti
 PWN:reasoning.n.01		rezonado
 PWN:receive.v.01		ricevi
+PWN:reciprocal.a.01		reciproka
 PWN:recognize.v.04		rekoni
 PWN:record.n.01		registro
 PWN:red.s.01		ruĝa
 PWN:reek.v.02		fetori
+PWN:referee.n.01		arbitracianto
+PWN:referee.n.01		juĝanto
 PWN:refuse.v.02		rifuzi
+PWN:relation.n.06		rilato
 PWN:religion.n.02		religio
 PWN:religious_holiday.n.01		festotago
+PWN:remainder.n.01		cetero
+PWN:remainder.n.01		restaĵo
 PWN:remember.v.01		memori
 PWN:remember.v.01		rememori
 PWN:render.v.01		igi
 PWN:repair.v.01		ripari
 PWN:repent.v.02		bedaŭri
+PWN:represent.v.01		anstataŭi
+PWN:represent.v.01		reprezenti
 PWN:reptile.n.01		reptilio
 PWN:request.v.01		peti
 PWN:respect.v.01		estimi
@@ -1189,6 +1296,7 @@ PWN:saw.n.02		segilo
 PWN:scale.n.07		pesilo
 PWN:school.n.01		lernejo
 PWN:scissors.n.01		tondilo
+PWN:score.n.03		poentaro
 PWN:screen.n.05		ekrano
 PWN:screw.n.04		ŝraŭbo
 PWN:screwdriver.n.01		ŝraŭbilo
@@ -1197,17 +1305,22 @@ PWN:sea.n.01		oceano
 PWN:search.v.01		serĉi
 PWN:season.n.02		sezono
 PWN:second.n.01		sekundo
+PWN:secret.s.01		sekreta
+PWN:section.n.04		segmento
+PWN:section.n.04		sekcio
 PWN:see.v.01		vidi
 PWN:seed.n.02		semo
 PWN:sell.v.01		vendi
 PWN:send.v.01		sendi
 PWN:sense.n.03		senso
+PWN:sentence.n.01		frazo
 PWN:september.n.01		septembro
 PWN:sequence.n.01		ordo
 PWN:sequence.n.01		sinsekvo
 PWN:serious.a.01		serioza
 PWN:serve.v.10		servi
 PWN:sesame.n.01		sezamo
+PWN:set.n.01		aro
 PWN:seven.s.01		sep
 PWN:sew.v.01		kudri
 PWN:sex.n.04		sekso
@@ -1246,6 +1359,7 @@ PWN:sign.n.02		ŝildo
 PWN:silent.s.01		silenta
 PWN:silk.n.01		silko
 PWN:silver.n.01		arĝento
+PWN:similar.a.01		simila
 PWN:simple.a.01		malkompleksa
 PWN:simple.a.01		malkomplika
 PWN:simple.a.01		simpla
@@ -1256,8 +1370,11 @@ PWN:sink.v.01		subakviĝi
 PWN:sister.n.01		fratino
 PWN:sit.v.01		sidi
 PWN:six.s.01		ses
+PWN:size.n.01		grandeco
 PWN:skeletal_system.n.01		ostaro
 PWN:skeletal_system.n.01		skeleto
+PWN:ski.n.01		skiilo
+PWN:ski.n.01		skio
 PWN:skirt.n.02		jupo
 PWN:sky.n.01		ĉielo
 PWN:slave.n.01		sklavo
@@ -1274,6 +1391,7 @@ PWN:snake.n.01		serpento
 PWN:sneeze.v.01		terni
 PWN:snog.v.01		kisi
 PWN:snow.n.01		neĝo
+PWN:soccer.n.01		futbalo
 PWN:sock.n.01		ŝtrumpeto
 PWN:sodium.n.01		natrio
 PWN:soft.a.01		mallaŭta
@@ -1291,6 +1409,8 @@ PWN:south.n.03		sudo
 PWN:soy.n.04		sojo
 PWN:spear.n.01		lanco
 PWN:species.n.01		specio
+PWN:specific.a.01		aparta
+PWN:specific.a.01		specifa
 PWN:spectacles.n.01		okulvitroj
 PWN:spider.n.01		araneo
 PWN:spill.v.01		misverŝi
@@ -1339,11 +1459,17 @@ PWN:study.v.05		studi
 PWN:stupid.a.01		malinteligenta
 PWN:stupid.a.01		stulta
 PWN:stylus.n.02		grifelo
+PWN:substitute.n.01		anstataŭanto
+PWN:substitute.n.01		provizora anstataŭaĵo
+PWN:subtract.v.01		depreni
+PWN:subtract.v.01		subtrahi
 PWN:succeed.v.01		sukcesi
 PWN:suit.n.01		kompleto
 PWN:suitable.s.01		konvena
 PWN:suitable.s.01		taŭga
 PWN:sulfur.n.01		sulfuro
+PWN:sum.n.02		sumo
+PWN:sum.n.02		totalo
 PWN:summer.n.01		somero
 PWN:sun.n.01		suno
 PWN:sunday.n.01		dimanĉo
@@ -1353,11 +1479,14 @@ PWN:supply.v.01		provizi
 PWN:support.v.01		apogi
 PWN:support.v.01		subteni
 PWN:surprise.v.01		surprizi
+PWN:surrogate.n.01		anstataŭulo
+PWN:surrogate.n.01		porĉiama anstataŭaĵo
 PWN:swallow.v.01		gluti
 PWN:swamp.n.01		marĉo
 PWN:sweet.a.01		dolĉa
 PWN:swim.v.01		naĝi
 PWN:sword.n.01		glavo
+PWN:syllable.n.01		silabo
 PWN:symbol.n.01		simbolo
 PWN:syringe.n.01		injektilo
 PWN:system.n.01		sistemo
@@ -1384,6 +1513,7 @@ PWN:tempt.v.01		tenti
 PWN:ten.s.01		dek
 PWN:tendency.n.04		fasono
 PWN:tendency.n.04		modo
+PWN:tennis.n.01		teniso
 PWN:test.v.01		ekzameni
 PWN:test.v.01		kontroli
 PWN:test.v.01		testi
@@ -1489,10 +1619,13 @@ PWN:vinegar.n.01		vinagro
 PWN:violent.a.01		malafabla
 PWN:violent.a.01		perfort(em)a
 PWN:virus.n.01		viruso
+PWN:vocabulary.n.02		vortprovizo
+PWN:voice.n.02		voĉo
 PWN:volcano.n.02		vulkano
 PWN:vomit.v.01		vomi
 PWN:vote.v.01		baloti
 PWN:vote.v.01		voĉdoni
+PWN:vowel.n.01		vokalo
 PWN:wagon.n.01		vagono
 PWN:wagon.n.01		ĉaro
 PWN:waist.n.01		talio
@@ -1520,6 +1653,8 @@ PWN:whale.n.02		baleno
 PWN:wheat.n.01		tritiko
 PWN:wheel.n.01		rado
 PWN:white.a.01		blanka
+PWN:whole.a.01		entuta
+PWN:whole.a.01		tuta
 PWN:wide.a.01		larĝa
 PWN:wide.a.01		vasta
 PWN:wife.n.01		edzino
@@ -1534,6 +1669,7 @@ PWN:wise.a.01		saĝa
 PWN:wolf.n.01		lupo
 PWN:woman.n.01		virino
 PWN:wool.n.02		lano
+PWN:word.n.01		vorto
 PWN:world.n.02		mondo
 PWN:worm.n.01		vermo
 PWN:worry.v.01		maltrankviliĝo
