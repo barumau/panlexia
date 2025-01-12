@@ -7,10 +7,10 @@ PLX:3PL.pro		синь	sʲiɲ
 PLX:3SG M.pro		сон	son
 PLX:and.cnj		дъ	də
 PLX:and.cnj		и	ji
-PLX:because of.adp		сюнеда	sʲuɲeda
-PLX:behind.adp		мельге	mʲelʲɡe
-PLX:behind.adp		фтала	ftala
-PLX:beside.adp		ваксса	vakssa
+PLX:because of.pp		сюнеда	sʲuɲeda
+PLX:behind.pp		мельге	mʲelʲɡe
+PLX:behind.pp		фтала	ftala
+PLX:beside.pp		ваксса	vakssa
 PLX:can.v		маштомс	maʃtoms
 PLX:die (from accident).V		юма́мс	jumaˑms
 PLX:everywhere.pro		се́мбе ва́стова	sʲeˑmbʲe vaˑstova
@@ -18,13 +18,13 @@ PLX:from here.adv		тя́ста	tʲaˑsta
 PLX:get sick.V		сярядькстомс	sʲarʲadʲkstoms
 PLX:how many.pro		мзя́ра	mzʲaˑra
 PLX:how.pro		ко́да	koˑda
-PLX:in front of.adp		инголе	jinɡolʲe
+PLX:in front of.pp		инголе	jinɡolʲe
 PLX:or.cnj		али	alʲi
 PLX:or.cnj		или	jilʲi
 PLX:that.pro		ся	sʲa
 PLX:that.pro		тона	tona
 PLX:this.pro		тя	tʲa
-PLX:under.adp		ала	ala
+PLX:under.pp		ала	ala
 PLX:what.pro		мезе	mʲezʲe
 PLX:where.pro		коса	kosa
 PLX:where_to.pro		ков	kov
@@ -186,7 +186,6 @@ PWN:cavil.v.01		сюцемс	sʲut͡sʲems
 PWN:center.n.01		кучка́	kut͡ɕkaˑ
 PWN:chair.n.01		стул	stul
 PWN:change.v.01		полафтомс	polaftoms
-PWN:change.v.03		по́лафнемс	poˑlafɲems
 PWN:character.n.08		бу́ква	buˑkva
 PWN:cheap.a.01		аф пи́тни	af piˑtɲi
 PWN:cheap.a.01		у́цез	uˑt͡sʲez
@@ -272,6 +271,7 @@ PWN:decrease.v.01		киремс	kirʲems
 PWN:defend.v.03		а́раламс	aˑralams
 PWN:deft.s.01		маштозь тиф	maʃtozʲ tʲif
 PWN:deity.n.01		шкай	ʃkaj
+PWN:depart.v.03		шаштомс	ʃaʃtoms
 PWN:descend.v.01		валгомс	valɡoms
 PWN:desire.n.01		таколдома	takoldoma
 PWN:desire.v.01		-не-	-ɲe-
@@ -331,6 +331,7 @@ PWN:elbow.n.01		кенерьба́карь	keɲerʲbaˑkarʲ
 PWN:eleven.s.01		кефкие	kefkije
 PWN:elk.n.01		ся́рда	sʲaˑrda
 PWN:emerge.v.01		эвондамс	evondams
+PWN:employment.n.02		тев	tʲev
 PWN:empty.a.01		шава	ʃava
 PWN:end.n.03		пе	pe
 PWN:end.n.09		пе	pe
@@ -342,6 +343,7 @@ PWN:escape.v.01		во́рьгодемс	voˑrʲɡodʲems
 PWN:escape.v.01		ша́домс	ʃaˑdoms
 PWN:evening.n.01		иля́дь	jilʲaˑdʲ
 PWN:evil.a.01		кяжи	kaʒi
+PWN:exchange.v.01		по́лафнемс	poˑlafɲems
 PWN:exclaim.v.01		пешкодомс	peʃkodoms
 PWN:exit.v.01		тумс	tums
 PWN:expensive.a.01		пи́тни	piˑtɲi
@@ -359,8 +361,8 @@ PWN:fall_asleep.v.01		матодовомс	matodovoms
 PWN:familiar.a.01		содаф	sodaf
 PWN:family.n.02		семья	sʲemʲa
 PWN:family.n.02		тнал	tnal
-PWN:far.r.02		и́чкоздень	jiˑt͡ɕkozdʲeɲ
-PWN:far.r.02		куна́рдонь	kunaˑrdoɲ
+PWN:faraway.s.01		и́чкоздень	jiˑt͡ɕkozdʲeɲ
+PWN:faraway.s.01		куна́рдонь	kunaˑrdoɲ
 PWN:fat.n.01		куя́	kujaˑ
 PWN:father.n.01		аля	alʲa
 PWN:fault.n.06		муворши	muvorʃi
@@ -959,7 +961,7 @@ PWN:tail.n.01		пула	pula
 PWN:take.v.04		сявомс	sʲavoms
 PWN:talk.v.02		корхнемс	korxɲems
 PWN:taste.n.01		таньф	taɲf
-PWN:taste.v.01		варжамс	varʒams
+PWN:taste.v.02		варжамс	varʒams
 PWN:tasty.a.01		танцти	tant͡stʲi
 PWN:tea.n.01		чай	t͡ɕaj
 PWN:teach.v.01		тонафтомс	tonaftoms
@@ -1024,7 +1026,6 @@ PWN:trap.n.01		кунда́ма	kundaˑma
 PWN:trap.n.01		туфкс	tufks
 PWN:trap.v.02		кунда́мс	kundaˑms
 PWN:travel.v.01		молемс	molʲems
-PWN:travel.v.01		шаштомс	ʃaʃtoms
 PWN:tree.n.01		шуфта	ʃufta
 PWN:trouser.n.01		понкст	ponkst
 PWN:true.a.01		афкуксонь	afkuksoɲ
@@ -1101,7 +1102,6 @@ PWN:wood.n.01		вирь	vʲirʲ
 PWN:wood.n.01		шуфта	ʃufta
 PWN:wool.n.02		пона	pona
 PWN:word.n.01		вал	val
-PWN:work.n.01		тев	tʲev
 PWN:work.v.01		покодемс	pokodʲems
 PWN:worker.n.01		работник	rabotɲik
 PWN:worker.n.01		трудендай	trudʲendaj

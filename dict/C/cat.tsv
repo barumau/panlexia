@@ -7,9 +7,9 @@ PLX:3PL.pro		elles	ɛʎəs
 PLX:3PL.pro		ells	ɛʎʃ
 PLX:3SG M.pro		ell	ɛʎ
 PLX:and.cnj		i	i
-PLX:because of.adp		a causa de	ə kəwzə d̪ɛ
-PLX:behind.adp		darrera	d̪ərɛɾə
-PLX:beside.adp		al costāt de	əɫ kustat̪ d̪ɛ
+PLX:because of.pp		a causa de	ə kəwzə d̪ɛ
+PLX:behind.pp		darrera	d̪ərɛɾə
+PLX:beside.pp		al costāt de	əɫ kustat̪ d̪ɛ
 PLX:can.v		poder	puðɛ
 PLX:die (from accident).V		perir	pəɾi
 PLX:everywhere.pro		per tot arreu	pəɾ t̪ut̪ ərɛw
@@ -18,12 +18,12 @@ PLX:from here.adv		des d'aquí	d̪əs d̪ˈəki
 PLX:get sick.V		posar-se malalt	puzəɾzə məɫaɫ
 PLX:how many.pro		quant	kwan̪
 PLX:how.pro		com	kɔm
-PLX:in front of.adp		davānt	d̪əβan̪
-PLX:in front of.adp		enfront de	əɱfɾun̪t̪ d̪ɛ
+PLX:in front of.pp		davānt	d̪əβan̪
+PLX:in front of.pp		enfront de	əɱfɾun̪t̪ d̪ɛ
 PLX:or.cnj		o	ɔ
 PLX:that.pro		això	əʃɔ
 PLX:this.pro		aquest	əkɛs
-PLX:under.adp		sota	sɔt̪ə
+PLX:under.pp		sota	sɔt̪ə
 PLX:what.pro		què	kɛ
 PLX:where.pro		on	ɔn
 PLX:where_to.pro		cap a on	kəp ə ɔn
@@ -181,7 +181,6 @@ PWN:center.n.01		centre	sɛn̪t̪ɾə
 PWN:center.n.01		mig	mik
 PWN:chair.n.01		cadira	kəðiɾə
 PWN:change.v.01		canviar	kəmβia
-PWN:change.v.03		canviar	kəmβia
 PWN:character.n.08		lletra	ʎɛt̪ɾə
 PWN:cheap.a.01		barat	bəɾat̪
 PWN:cheek.n.01		galta	ɡaɫt̪ə
@@ -269,6 +268,7 @@ PWN:decrease.v.01		decréixer	d̪əkɾeʃə
 PWN:defend.v.03		defensar	d̪əfənza
 PWN:deft.s.01		hàbil	aβiɫ
 PWN:deity.n.01		déu	d̪ew
+PWN:depart.v.03		moure's	muwɾəˈs
 PWN:descend.v.01		baixar	bəʃa
 PWN:descend.v.01		descendir	d̪əzsənði
 PWN:desire.n.01		ganes	ɡanəs
@@ -326,6 +326,8 @@ PWN:elbow.n.01		colze	kɔɫzə
 PWN:eleven.s.01		onze	ɔnzə
 PWN:elk.n.01		ant	an̪
 PWN:emerge.v.01		aparèixer	əpəɾɛʃə
+PWN:employment.n.02		labor	ɫəβɔ
+PWN:employment.n.02		treball	t̪ɾəβaʎ
 PWN:empty.a.01		buit	bujt̪
 PWN:end.n.03		fi	fi
 PWN:end.n.03		final	finaɫ
@@ -338,6 +340,7 @@ PWN:erstwhile.s.01		antic	ən̪t̪ik
 PWN:escape.v.01		refugiar-se	rəfuʒiaɾzə
 PWN:evening.n.01		vespre	βɛspɾə
 PWN:evil.a.01		dolent	d̪uɫɛn̪
+PWN:exchange.v.01		canviar	kəmβia
 PWN:exclaim.v.01		cridar	kɾiða
 PWN:exit.v.01		anar-se'n	ənəɾzəˈn
 PWN:expensive.a.01		car	ka
@@ -354,8 +357,8 @@ PWN:fall.v.01		tombar	t̪umβa
 PWN:fall_asleep.v.01		adormir-se	əðuɾmiɾzə
 PWN:familiar.a.01		conegut	kunəɣut̪
 PWN:family.n.02		família	fəmiɫia
-PWN:far.r.02		distant	d̪istan̪
-PWN:far.r.02		llunyà	ʎuɲa
+PWN:faraway.s.01		distant	d̪istan̪
+PWN:faraway.s.01		llunyà	ʎuɲa
 PWN:fat.n.01		greix	ɡɾɛʃ
 PWN:father.n.01		pare	paɾə
 PWN:fault.n.06		culpa	kuɫpə
@@ -651,7 +654,7 @@ PWN:near.r.01		pròxim	pɾɔksim
 PWN:neck.n.01		coll	kɔʎ
 PWN:needle.n.03		agulla	əɣuʎə
 PWN:nest.n.01		niu	niw
-PWN:net_income.n.01		filat	fiɫat̪
+PWN:net.n.06		filat	fiɫat̪
 PWN:never.r.01		no ... mai	nu ... maj
 PWN:new.a.01		nou	nɔw
 PWN:news.n.01		novetat	nuβət̪at̪
@@ -940,7 +943,7 @@ PWN:take.v.04		prendre	pɾɛnðɾə
 PWN:talk.v.02		parlar	pəɾɫa
 PWN:taste.n.01		gust	ɡus
 PWN:taste.n.01		sabor	səβɔ
-PWN:taste.v.01		provar	pɾuβa
+PWN:taste.v.02		provar	pɾuβa
 PWN:tasty.a.01		deliciós	d̪əɫisios
 PWN:tea.n.01		te	t̪ɛ
 PWN:teach.v.01		ensenyar	ənzəɲa
@@ -1003,7 +1006,6 @@ PWN:transport.v.02		portar	puɾt̪a
 PWN:trap.n.01		trampa	t̪ɾampə
 PWN:trap.v.02		atrapar	ət̪ɾəpa
 PWN:travel.v.01		caminar	kəmina
-PWN:travel.v.01		moure's	muwɾəˈs
 PWN:tree.n.01		arbre	aɾβɾə
 PWN:trouser.n.01		pantalōns	pən̪t̪əɫɔns
 PWN:true.a.01		veritable	βəɾit̪abɫə
@@ -1077,8 +1079,6 @@ PWN:wood.n.01		fusta	fustə
 PWN:wool.n.02		llana	ʎanə
 PWN:word.n.01		mot	mɔt̪
 PWN:word.n.01		paraula	pəɾawɫə
-PWN:work.n.01		labor	ɫəβɔ
-PWN:work.n.01		treball	t̪ɾəβaʎ
 PWN:work.v.01		treballar	t̪ɾəβəʎa
 PWN:worker.n.01		obrer	uβɾɛ
 PWN:world.n.02		món	mon

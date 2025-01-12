@@ -6,9 +6,9 @@ PLX:2SG.pro		ty	tɨ
 PLX:3PL.pro		oni	ɔni
 PLX:3SG M.pro		on	ɔn
 PLX:and.cnj		i	i
-PLX:because of.adp		z powodu	z pɔvɔdu
-PLX:behind.adp		za	za
-PLX:beside.adp		obok	ɔbɔk
+PLX:because of.pp		z powodu	z pɔvɔdu
+PLX:behind.pp		za	za
+PLX:beside.pp		obok	ɔbɔk
 PLX:can.v		móc	mut͡s
 PLX:can.v		umieć	umiɛt͡ɕ
 PLX:die (from accident).V		zginąć	zɡinɔnt͡ɕ
@@ -17,12 +17,12 @@ PLX:from here.adv		stąd	stɔnt
 PLX:get sick.V		zachorować	zaxɔɾɔvat͡ɕ
 PLX:how many.pro		ile	ilɛ
 PLX:how.pro		jak	jak
-PLX:in front of.adp		przed	pʂɛt
+PLX:in front of.pp		przed	pʂɛt
 PLX:or.cnj		albo	albɔ
 PLX:or.cnj		lub	lup
 PLX:that.pro		to	tɔ
 PLX:this.pro		to	tɔ
-PLX:under.adp		pod	pɔt
+PLX:under.pp		pod	pɔt
 PLX:what.pro		co	t͡sɔ
 PLX:where.pro		gdzie	ɡd͡ʑɛ
 PLX:where_to.pro		dokąd	dɔkɔnt
@@ -178,7 +178,6 @@ PWN:cavil.v.01		kląć	klɔnt͡ɕ
 PWN:center.n.01		środek	ɕɾɔdɛk
 PWN:chair.n.01		krzesło	kʂɛswɔ
 PWN:change.v.01		zmienić	zmiɛnit͡ɕ
-PWN:change.v.03		zmienić się	zmiɛnit͡ɕ ɕɛ̃
 PWN:character.n.08		litera	litɛɾa
 PWN:cheap.a.01		tani	tani
 PWN:cheek.n.01		policzek	pɔliʈ͡ʂɛk
@@ -260,6 +259,7 @@ PWN:decrease.v.01		spadać	spadat͡ɕ
 PWN:defend.v.03		bronić	bɾɔnit͡ɕ
 PWN:deft.s.01		zręczny	zɾɛnʈ͡ʂnɨ
 PWN:deity.n.01		bóg	buk
+PWN:depart.v.03		poruszać się	pɔɾuʂat͡ɕ ɕɛ̃
 PWN:descend.v.01		spadać	spadat͡ɕ
 PWN:desire.n.01		chęć	xɛnt͡ɕ
 PWN:desire.n.01		ochota	ɔxɔta
@@ -317,6 +317,8 @@ PWN:elbow.n.01		łokieć	wɔkiɛt͡ɕ
 PWN:eleven.s.01		jedenaście	jɛdɛnaɕt͡ɕɛ
 PWN:elk.n.01		łóś	wuɕ
 PWN:emerge.v.01		zjawiać się	zjaviat͡ɕ ɕɛ̃
+PWN:employment.n.02		praca	pɾat͡sa
+PWN:employment.n.02		robota	ɾɔbɔta
 PWN:empty.a.01		próżny	pɾuʐnɨ
 PWN:empty.a.01		pusty	pustɨ
 PWN:end.n.03		koniec	kɔniɛt͡s
@@ -329,6 +331,7 @@ PWN:erstwhile.s.01		były	bɨwɨ
 PWN:escape.v.01		uciec	ut͡ɕɛt͡s
 PWN:evening.n.01		wieczór	viɛʈ͡ʂuɾ
 PWN:evil.a.01		zły	zwɨ
+PWN:exchange.v.01		zmienić się	zmiɛnit͡ɕ ɕɛ̃
 PWN:exclaim.v.01		krzyczeć	kʂɨʈ͡ʂɛt͡ɕ
 PWN:exit.v.01		odejść	ɔdɛjɕt͡ɕ
 PWN:expensive.a.01		drogi	dɾɔɡi
@@ -345,7 +348,7 @@ PWN:fall.v.01		padać	padat͡ɕ
 PWN:fall_asleep.v.01		zasnąć	zasnɔnt͡ɕ
 PWN:familiar.a.01		znany	znanɨ
 PWN:family.n.02		rodzina	ɾɔd͡ʑina
-PWN:far.r.02		daleki	dalɛki
+PWN:faraway.s.01		daleki	dalɛki
 PWN:fat.n.01		tłuszcz	twuʂʈ͡ʂ
 PWN:father.n.01		ojciec	ɔjt͡ɕɛt͡s
 PWN:fault.n.06		wina	vina
@@ -642,7 +645,7 @@ PWN:near.r.01		bliski	bliski
 PWN:neck.n.01		szyja	ʂɨja
 PWN:needle.n.03		igła	iɡwa
 PWN:nest.n.01		gniazdo	ɡniazdɔ
-PWN:net_income.n.01		sieć	ɕɛt͡ɕ
+PWN:net.n.06		sieć	ɕɛt͡ɕ
 PWN:never.r.01		nigdy	niɡdɨ
 PWN:new.a.01		nowy	nɔvɨ
 PWN:news.n.01		nowina	nɔvina
@@ -929,7 +932,7 @@ PWN:tail.n.01		ogon	ɔɡɔn
 PWN:take.v.04		wziąć	vʑɔnt͡ɕ
 PWN:talk.v.02		mówić	muvit͡ɕ
 PWN:taste.n.01		smak	smak
-PWN:taste.v.01		kosztować	kɔʂtɔvat͡ɕ
+PWN:taste.v.02		kosztować	kɔʂtɔvat͡ɕ
 PWN:tasty.a.01		smaczny	smaʈ͡ʂnɨ
 PWN:tea.n.01		herbata	xɛɾbata
 PWN:teach.v.01		uczyć	uʈ͡ʂɨt͡ɕ
@@ -991,7 +994,6 @@ PWN:transport.v.02		nieść	niɛɕt͡ɕ
 PWN:trap.n.01		pułapka	puwapka
 PWN:trap.v.02		złapać	zwapat͡ɕ
 PWN:travel.v.01		iść	iɕt͡ɕ
-PWN:travel.v.01		poruszać się	pɔɾuʂat͡ɕ ɕɛ̃
 PWN:tree.n.01		drzewo	dʐɛvɔ
 PWN:trouser.n.01		spodnie	spɔdniɛ
 PWN:true.a.01		prawdziwy	pɾavd͡ʑivɨ
@@ -1065,8 +1067,6 @@ PWN:woman.n.01		kobieta	kɔbiɛta
 PWN:wood.n.01		drzewo	dʐɛvɔ
 PWN:wool.n.02		wełna	vɛwna
 PWN:word.n.01		słowo	swɔvɔ
-PWN:work.n.01		praca	pɾat͡sa
-PWN:work.n.01		robota	ɾɔbɔta
 PWN:work.v.01		pracować	pɾat͡sɔvat͡ɕ
 PWN:worker.n.01		robotnik	ɾɔbɔtnik
 PWN:world.n.02		świat	ɕfiat

@@ -6,10 +6,10 @@ PLX:2SG.pro		тӹнь	tɯnʲ
 PLX:3PL.pro		нӹнӹ	nɯnɯ
 PLX:3SG M.pro		тӹдӹ	tɯðɯ
 PLX:and.cnj		дöн	ðøn
-PLX:because of.adp		мычыц	mət͡ʃət͡s
-PLX:behind.adp		шайылан	ʃɑjəlɑn
-PLX:behind.adp		шайылный	ʃɑjəlnəj
-PLX:beside.adp		сага	sɑɣɑ
+PLX:because of.pp		мычыц	mət͡ʃət͡s
+PLX:behind.pp		шайылан	ʃɑjəlɑn
+PLX:behind.pp		шайылный	ʃɑjəlnəj
+PLX:beside.pp		сага	sɑɣɑ
 PLX:can.v		кердӓш	kerðæʃ
 PLX:die (from accident).V		пӹтӓш	pɯtæʃ
 PLX:everywhere.pro		йӹлт	jɯlt
@@ -21,14 +21,14 @@ PLX:how many.pro		кынар	kənɑr
 PLX:how many.pro		кынаркы	kənɑrkə
 PLX:how many.pro		кынары	kənɑrə
 PLX:how.pro		кыце	kət͡se
-PLX:in front of.adp		анзыц	ɑnzət͡s
-PLX:in front of.adp		анзыцын	ɑnzət͡sən
+PLX:in front of.pp		анзыц	ɑnzət͡s
+PLX:in front of.pp		анзыцын	ɑnzət͡sən
 PLX:or.cnj		льывы	lʲəvə
 PLX:that.pro		ти	ti
 PLX:that.pro		тидӹ	tiðɯ
 PLX:this.pro		ти	ti
 PLX:this.pro		тидӹ	tiðɯ
-PLX:under.adp		лӹвӓкӹ	lɯvækɯ
+PLX:under.pp		лӹвӓкӹ	lɯvækɯ
 PLX:what.pro		ма	mɑ
 PLX:where.pro		кышан	kəʃɑn
 PLX:where.pro		кыштакен	kəʃtɑken
@@ -187,8 +187,6 @@ PWN:cavil.v.01		свырседӓлӓш	svərseðælæʃ
 PWN:center.n.01		ло	lo
 PWN:chair.n.01		пöкен	pøken
 PWN:change.v.01		вашталташ	vɑʃtɑltɑʃ
-PWN:change.v.03		весемӓлтӓш	vesemæltæʃ
-PWN:change.v.03		весемӓш	vesemæʃ
 PWN:character.n.08		буква́	βukvɑ́
 PWN:cheap.a.01		шулдаш	ʃulðɑʃ
 PWN:cheek.n.01		шӹргӹ	ʃɯrɣɯ
@@ -277,6 +275,7 @@ PWN:decrease.v.01		чӹдемӓш	t͡ʃɯðemæʃ
 PWN:defend.v.03		перегӓш	pereɣæʃ
 PWN:deft.s.01		мастар	mɑstɑr
 PWN:deity.n.01		йымы	jəmə
+PWN:depart.v.03		кашташ	kɑʃtɑʃ
 PWN:descend.v.01		пычаш	pət͡ʃɑʃ
 PWN:desire.n.01		охата	oxɑtɑ
 PWN:desire.n.01		шанымаш	ʃɑnəmɑʃ
@@ -338,6 +337,7 @@ PWN:eleven.s.01		луатик	luɑtik
 PWN:eleven.s.01		луатиктӹ	luɑtiktɯ
 PWN:elk.n.01		шарды	ʃɑrðə
 PWN:emerge.v.01		каяш	kɑjaʃ
+PWN:employment.n.02		пӓшӓ	pæʃæ
 PWN:empty.a.01		йӓрӓ	jæræ
 PWN:end.n.03		пӹтӓртӹш	pɯtærtɯʃ
 PWN:end.n.09		вуй	vuj
@@ -349,6 +349,8 @@ PWN:erstwhile.s.01		тошты	toʃtə
 PWN:escape.v.01		кыргыж шӹлӓш	kərɣəʒ ʃɯlæʃ
 PWN:evening.n.01		вады	vɑðə
 PWN:evil.a.01		шӹдӓн	ʃɯðæn
+PWN:exchange.v.01		весемӓлтӓш	vesemæltæʃ
+PWN:exchange.v.01		весемӓш	vesemæʃ
 PWN:exclaim.v.01		варгынзаш	vɑrɣənzɑʃ
 PWN:exclaim.v.01		саслаш	sɑslɑʃ
 PWN:exclaim.v.01		уташ	utɑʃ
@@ -369,7 +371,7 @@ PWN:fall_asleep.v.01		амален кеӓш	ɑmɑlen keæʃ
 PWN:familiar.a.01		палӹмӹ	pɑlɯmɯ
 PWN:family.n.02		йиш	jiʃ
 PWN:family.n.02		семня	semnja
-PWN:far.r.02		мӹндӹр	mɯndɯr
+PWN:faraway.s.01		мӹндӹр	mɯndɯr
 PWN:fat.n.01		кая	kɑja
 PWN:father.n.01		ӓтя	ætja
 PWN:fault.n.06		вуйнамат	vujnɑmɑt
@@ -668,7 +670,7 @@ PWN:near.r.01		лишӹл	liʃɯl
 PWN:neck.n.01		шӱ	ʃy
 PWN:needle.n.03		им	im
 PWN:nest.n.01		пӹжӓш	pɯʒæʃ
-PWN:net_income.n.01		вӓпш	væpʃ
+PWN:net.n.06		вӓпш	væpʃ
 PWN:never.r.01		нигынам	niɣənɑm
 PWN:never.r.01		нигынамат	niɣənɑmɑt
 PWN:never.r.01		нинам	ninɑm
@@ -954,8 +956,8 @@ PWN:tail.n.01		пач	pɑt͡ʃ
 PWN:take.v.04		налаш	nɑlɑʃ
 PWN:talk.v.02		шайышташ	ʃɑjəʃtɑʃ
 PWN:taste.n.01		тот	tot
-PWN:taste.v.01		подыл анжаш	poðəl ɑnʒɑʃ
-PWN:taste.v.01		тотештӓш	toteʃtæʃ
+PWN:taste.v.02		подыл анжаш	poðəl ɑnʒɑʃ
+PWN:taste.v.02		тотештӓш	toteʃtæʃ
 PWN:tasty.a.01		тотан	totɑn
 PWN:tea.n.01		чӓй	t͡ʃæj
 PWN:teach.v.01		тымдаш	təmdɑʃ
@@ -1022,7 +1024,6 @@ PWN:transport.v.02		намалаш	nɑmɑlɑʃ
 PWN:trap.n.01		лӱдӹ	lyðɯ
 PWN:trap.n.01		лӱдӹш	lyðɯʃ
 PWN:trap.v.02		кычаш	kət͡ʃɑʃ
-PWN:travel.v.01		кашташ	kɑʃtɑʃ
 PWN:travel.v.01		кеӓш	keæʃ
 PWN:tree.n.01		пушӓнгӹ	puʃæŋɡɯ
 PWN:trouser.n.01		ялаш	jalɑʃ
@@ -1106,7 +1107,6 @@ PWN:woman.n.01		ӹдӹрӓмӓш	ɯðɯræmæʃ
 PWN:wood.n.01		пушӓнгӹ	puʃæŋɡɯ
 PWN:wool.n.02		миж	miʒ
 PWN:word.n.01		шамак	ʃɑmɑk
-PWN:work.n.01		пӓшӓ	pæʃæ
 PWN:work.v.01		пӓшӓлӓш	pæʃælæʃ
 PWN:work.v.01		ровотаяш	rovotɑjaʃ
 PWN:worker.n.01		пӓшӓзӹ	pæʃæzɯ

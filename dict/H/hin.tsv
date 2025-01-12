@@ -6,11 +6,11 @@ PLX:2SG.pro		तू	tuː
 PLX:3PL.pro		ये	jeː
 PLX:3SG M.pro		यह	jəh
 PLX:and.cnj		और	ɔːr
-PLX:because of.adp		की वजह से	kiː wəd͡ʒəhə seː
-PLX:because of.adp		के कारण	keː kaːrəɳ
-PLX:behind.adp		के पीछे	keː piːt͡ʃʰeː
-PLX:beside.adp		की बग़ल में	kiː bəɣəl mẽː
-PLX:beside.adp		के पास	keː paːs
+PLX:because of.pp		की वजह से	kiː wəd͡ʒəhə seː
+PLX:because of.pp		के कारण	keː kaːrəɳ
+PLX:behind.pp		के पीछे	keː piːt͡ʃʰeː
+PLX:beside.pp		की बग़ल में	kiː bəɣəl mẽː
+PLX:beside.pp		के पास	keː paːs
 PLX:can.v		जानना	d͡ʒaːnːaː
 PLX:can.v		सकना	səknaː
 PLX:die (from accident).V		मरना	mərənaː
@@ -20,13 +20,13 @@ PLX:from here.adv		यहाँ से	jəhãː seː
 PLX:get sick.V		बीमार पड़ना	biːmaːr pəɽnaː
 PLX:how many.pro		कितना	kɪtnaː
 PLX:how.pro		कैसे	kɛːseː
-PLX:in front of.adp		के आगे	keː aːɡeː
-PLX:in front of.adp		के सामने	keː saːməneː
+PLX:in front of.pp		के आगे	keː aːɡeː
+PLX:in front of.pp		के सामने	keː saːməneː
 PLX:or.cnj		या	jaː
 PLX:that.pro		वह	vəh
 PLX:this.pro		यह	jəh
-PLX:under.adp		के तले	keː təleː
-PLX:under.adp		के नीचे	keː niːt͡ʃeː
+PLX:under.pp		के तले	keː təleː
+PLX:under.pp		के नीचे	keː niːt͡ʃeː
 PLX:what.pro		क्या	kjaː
 PLX:where.pro		किधर	kɪdʰər
 PLX:where_to.pro		किधर	kɪdʰər
@@ -224,7 +224,6 @@ PWN:center.n.01		मध्य	mədʰj
 PWN:chair.n.01		कुरसी	kʊrsiː
 PWN:change.v.01		परीवर्तन करना	pəriːwərtənə kərənaː
 PWN:change.v.01		बदलना	bədəlnaː
-PWN:change.v.03		बदलना	bədəlnaː
 PWN:character.n.08		अक्षर	əkʂər
 PWN:cheap.a.01		सस्ता	səstaː
 PWN:cheek.n.01		कपोल	kəpoːl
@@ -338,6 +337,8 @@ PWN:defend.v.03		रक्षा करना	rəkʂaː kərənaː
 PWN:deft.s.01		किशल	kɪɕəl
 PWN:deity.n.01		ईश्वर	iːɕwər
 PWN:deity.n.01		देव	deːv
+PWN:depart.v.03		चलना	t͡ʃəlnaː
+PWN:depart.v.03		हिलना	hɪlnaː
 PWN:descend.v.01		उतरना	ʊtərənaː
 PWN:descend.v.01		घटना	ɡʰəʈnaː
 PWN:desire.n.01		कामना	kaːmnaː
@@ -412,6 +413,7 @@ PWN:elbow.n.01		कुहनी	kʊhniː
 PWN:eleven.s.01		ग्यारह	ɡjaːrəh
 PWN:elk.n.01		एल्क	eːlk
 PWN:emerge.v.01		दिखाई देना	dɪkʰaːiː deːnaː
+PWN:employment.n.02		काम	kaːm
 PWN:empty.a.01		ख़ाली	xaːliː
 PWN:end.n.03		अंत	ənt
 PWN:end.n.03		समाप्ति	səmaːptɪ
@@ -429,6 +431,7 @@ PWN:evening.n.01		शाम	ɕaːm
 PWN:evening.n.01		संध्या	səndʰjaː
 PWN:evil.a.01		दुष्ट	dʊʂʈ
 PWN:evil.a.01		पापी	paːpiː
+PWN:exchange.v.01		बदलना	bədəlnaː
 PWN:exclaim.v.01		चिल्लाना	t͡ʃɪlːaːnaː
 PWN:exit.v.01		चला जाना	t͡ʃəlaː d͡ʒaːnaː
 PWN:exit.v.01		बाहर जाना	baːhər d͡ʒaːnaː
@@ -449,8 +452,8 @@ PWN:fall.v.01		गिरना	ɡɪrnaː
 PWN:fall_asleep.v.01		सो जाना	soː d͡ʒaːnaː
 PWN:familiar.a.01		मालूम	maːluːm
 PWN:family.n.02		परिवार	pərɪvaːr
-PWN:far.r.02		दूर	duːr
-PWN:far.r.02		दूरस्थ	duːrəstʰ
+PWN:faraway.s.01		दूर	duːr
+PWN:faraway.s.01		दूरस्थ	duːrəstʰ
 PWN:fat.n.01		चरबी	t͡ʃərbiː
 PWN:fat.n.01		वसा	vəsaː
 PWN:father.n.01		पिता	pɪtaː
@@ -854,7 +857,7 @@ PWN:neck.n.01		गला	ɡəlaː
 PWN:needle.n.03		सूई	suːiː
 PWN:nest.n.01		घोंसला	ɡʰõːslaː
 PWN:nest.n.01		नीड़	niːɽ
-PWN:net_income.n.01		जाल	d͡ʒaːl
+PWN:net.n.06		जाल	d͡ʒaːl
 PWN:never.r.01		कदापि नहीं	kədaːpɪ nəhĩː
 PWN:never.r.01		कभी नहीं	kəbʰiː nəhĩː
 PWN:new.a.01		नया	nəjaː
@@ -1231,7 +1234,7 @@ PWN:talk.v.02		बात करना	baːt kərnaː
 PWN:talk.v.02		बोलना	boːlnaː
 PWN:taste.n.01		ज़ायक़ा	zaːjqaː
 PWN:taste.n.01		स्वाद	svaːd
-PWN:taste.v.01		चखना	t͡ʃəkʰnaː
+PWN:taste.v.02		चखना	t͡ʃəkʰnaː
 PWN:tasty.a.01		मज़ेदार	məzeːdaːr
 PWN:tasty.a.01		स्वादिष्ट	swaːdɪʂʈ
 PWN:tea.n.01		चाय	t͡ʃaːj
@@ -1311,9 +1314,7 @@ PWN:transport.v.02		ढोना	ɖʰoːnaː
 PWN:trap.n.01		जाल	d͡ʒaːl
 PWN:trap.n.01		फँदा	pʰãdaː
 PWN:trap.v.02		पकड़ना	pəkəɽnaː
-PWN:travel.v.01		चलना	t͡ʃəlnaː
 PWN:travel.v.01		जाना	d͡ʒaːnaː
-PWN:travel.v.01		हिलना	hɪlnaː
 PWN:tree.n.01		पेड़	peːɽ
 PWN:tree.n.01		वृक्ष	wr̥kʂ
 PWN:trouser.n.01		पतलून	pətəluːn
@@ -1408,7 +1409,6 @@ PWN:wood.n.01		काष्ठ	kaːʂʈʰ
 PWN:wool.n.02		ऊन	uːn
 PWN:word.n.01		लफ़्ज़	ləfz
 PWN:word.n.01		शब्द	ɕəbd
-PWN:work.n.01		काम	kaːm
 PWN:work.v.01		काम करना	kaːm kərnaː
 PWN:worker.n.01		मज़दूर	məzduːr
 PWN:world.n.02		दुनिया	dʊnɪjaː

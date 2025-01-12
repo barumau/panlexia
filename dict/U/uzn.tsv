@@ -6,9 +6,9 @@ PLX:2SG.pro		sen	sɛn
 PLX:3PL.pro		ular	ular
 PLX:3SG M.pro		u	u
 PLX:and.cnj		va	wa
-PLX:because of.adp		sababli	sababli
-PLX:behind.adp		ketida	kɛtida
-PLX:beside.adp		yonida	jɒnida
+PLX:because of.pp		sababli	sababli
+PLX:behind.pp		ketida	kɛtida
+PLX:beside.pp		yonida	jɒnida
 PLX:can.v		-a olmoq	a ɒlmɒq
 PLX:can.v		-y olmoq	j ɒlmɒq
 PLX:die (from accident).V		halok bo'lmoq	halɒk bolmɒq
@@ -17,11 +17,11 @@ PLX:from here.adv		shu erdan	ʃu ɛrdan
 PLX:get sick.V		kasallanmoq	kasalːanmɒq
 PLX:how many.pro		qancha	qant͡ʃa
 PLX:how.pro		qanday	qandaj
-PLX:in front of.adp		burun	burun
+PLX:in front of.pp		burun	burun
 PLX:or.cnj		yo	jɒ
 PLX:that.pro		narigi	nariɡi
 PLX:this.pro		o'sha	oʃa
-PLX:under.adp		ostida	ɒstida
+PLX:under.pp		ostida	ɒstida
 PLX:what.pro		nima	nima
 PLX:where.pro		qaerda	qaɛrda
 PLX:where_to.pro		qayerga	qajɛrɡa
@@ -161,7 +161,6 @@ PWN:cavil.v.01		koyinmoq	kɒjinmɒq
 PWN:center.n.01		o'rta	orta
 PWN:chair.n.01		o'rindiq	orindiq
 PWN:change.v.01		o'zgartirmoq	ozɡartirmɒq
-PWN:change.v.03		o'zgarmoq	ozɡarmɒq
 PWN:character.n.08		harf	harf
 PWN:cheap.a.01		arzon	arzɒn
 PWN:cheek.n.01		bet	bɛt
@@ -239,6 +238,7 @@ PWN:decrease.v.01		kamaymoq	kamajmɒq
 PWN:defend.v.03		yoqlamoq	jɒqlamɒq
 PWN:deft.s.01		äpchil	æpt͡ʃil
 PWN:deity.n.01		olloh	ɒlːɒh
+PWN:depart.v.03		harakat qilmoq	harakat qilmɒq
 PWN:descend.v.01		pasaymoq	pasajmɒq
 PWN:desire.n.01		rag'bat	raɣbat
 PWN:desire.v.01		istamoq	istamɒq
@@ -291,6 +291,7 @@ PWN:elbow.n.01		tirsak	tirsak
 PWN:eleven.s.01		o'n bir	on bir
 PWN:elk.n.01		los	lɒs
 PWN:emerge.v.01		zuhur ätmoq	zuhur ætmɒq
+PWN:employment.n.02		ish	iʃ
 PWN:empty.a.01		puch	put͡ʃ
 PWN:end.n.03		tamom	tamɒm
 PWN:end.n.09		oxir	ɒχir
@@ -301,6 +302,7 @@ PWN:erstwhile.s.01		sobiq	sɒbiq
 PWN:escape.v.01		qochmoq	qɒt͡ʃmɒq
 PWN:evening.n.01		oqshom	ɒqʃɒm
 PWN:evil.a.01		yovuz	jɒwuz
+PWN:exchange.v.01		o'zgarmoq	ozɡarmɒq
 PWN:exclaim.v.01		qiyqirmoq	qijqirmɒq
 PWN:exit.v.01		ketoq	kɛtɒq
 PWN:expensive.a.01		qimmat	qimːat
@@ -316,7 +318,7 @@ PWN:fall.v.01		tushmoq	tuʃmɒq
 PWN:fall_asleep.v.01		uxlab qolmoq	uχlab qɒlmɒq
 PWN:familiar.a.01		ma'lum	maʔlum
 PWN:family.n.02		oila	ɒila
-PWN:far.r.02		uzoq	uzɒq
+PWN:faraway.s.01		uzoq	uzɒq
 PWN:fat.n.01		moy	mɒj
 PWN:father.n.01		ota	ɒta
 PWN:fault.n.06		ayb	ajb
@@ -589,7 +591,7 @@ PWN:near.r.01		yaqindagi	jaqindaɡi
 PWN:neck.n.01		bo'yin	bojin
 PWN:needle.n.03		igna	iɡna
 PWN:nest.n.01		oshyon	ɒʃjɒn
-PWN:net_income.n.01		to'r	tor
+PWN:net.n.06		to'r	tor
 PWN:never.r.01		hargiz	harɡiz
 PWN:new.a.01		yangi	jaŋi
 PWN:news.n.01		yangilik	jaŋilik
@@ -848,7 +850,7 @@ PWN:tail.n.01		quyruq	qujruq
 PWN:take.v.04		olmoq	ɒlmɒq
 PWN:talk.v.02		gapirmoq	ɡapirmɒq
 PWN:taste.n.01		tam	tam
-PWN:taste.v.01		tatib ko'rmoq	tatib kormɒq
+PWN:taste.v.02		tatib ko'rmoq	tatib kormɒq
 PWN:tasty.a.01		shirin	ʃirin
 PWN:tea.n.01		choy	t͡ʃɒj
 PWN:teach.v.01		o'rgatmoq	orɡatmɒq
@@ -905,7 +907,6 @@ PWN:transport.v.02		tashimoq	taʃimɒq
 PWN:trap.n.01		qopqon	qɒpqɒn
 PWN:trap.v.02		ilinmoq	ilinmɒq
 PWN:travel.v.01		bormoq	bɒrmɒq
-PWN:travel.v.01		harakat qilmoq	harakat qilmɒq
 PWN:tree.n.01		daraxt	daraχt
 PWN:trouser.n.01		shim	ʃim
 PWN:true.a.01		haqiqiy	haqiqij
@@ -975,7 +976,6 @@ PWN:woman.n.01		ayol	ajɒl
 PWN:wood.n.01		yog'och	jɒɣɒt͡ʃ
 PWN:wool.n.02		jun	d͡ʒun
 PWN:word.n.01		so'z	soz
-PWN:work.n.01		ish	iʃ
 PWN:work.v.01		ishlamoq	iʃlamɒq
 PWN:worker.n.01		ishchi	iʃt͡ʃi
 PWN:world.n.02		olam	ɒlam

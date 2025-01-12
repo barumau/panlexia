@@ -7,9 +7,9 @@ PLX:2SG.pro		eani	eani
 PLX:3PL.pro		to-an-guru-utara	toaŋɡuɾuutaɾa
 PLX:3SG M.pro		to-an-guru	toaŋɡuɾu
 PLX:and.cnj		newa	newa
-PLX:because of.adp		kusu	kusu
-PLX:behind.adp		oshmake	osmake
-PLX:beside.adp		sam	sam
+PLX:because of.pp		kusu	kusu
+PLX:behind.pp		oshmake	osmake
+PLX:beside.pp		sam	sam
 PLX:can.v		eashkai	easka͡ɪ
 PLX:die (from accident).V		rai	ɾa͡ɪ
 PLX:everywhere.pro		neita-ne-yakka	ne͡ɪtanejakːa
@@ -18,11 +18,11 @@ PLX:get sick.V		shiyeye	sijeje
 PLX:get sick.V		tashum	tasum
 PLX:how many.pro		hempak	hempak
 PLX:how.pro		nekon-a	nekona
-PLX:in front of.adp		kotcha	kot͡sːa
+PLX:in front of.pp		kotcha	kot͡sːa
 PLX:or.cnj		hene	hene
 PLX:that.pro		toambe	toambe
 PLX:this.pro		tambe	tambe
-PLX:under.adp		pokna	pokna
+PLX:under.pp		pokna	pokna
 PLX:what.pro		nep	nep
 PLX:where.pro		neita	ne͡ɪta
 PLX:where_to.pro		hunak-un	hunakun
@@ -158,7 +158,6 @@ PWN:cavil.v.01		oroman	oɾoman
 PWN:center.n.01		noshki	noski
 PWN:chair.n.01		kashi_aoosoruship	kasi aoːsoɾusip
 PWN:change.v.01		shinnai	sinːa͡ɪ
-PWN:change.v.03		shinnai-no-an	sinːa͡ɪ-noan
 PWN:cheap.a.01		ataye-hauge	atajehauɡe
 PWN:cheek.n.01		notakam	notakam
 PWN:cherished.s.01		pase	pase
@@ -230,6 +229,7 @@ PWN:decrease.v.01		nin	nin
 PWN:defend.v.03		kikituye	kikituje
 PWN:deft.s.01		ashkai	aska͡ɪ
 PWN:deity.n.01		kamui	kamui
+PWN:depart.v.03		tup	tup
 PWN:descend.v.01		nin	nin
 PWN:desire.v.01		rusui	ɾusui
 PWN:destroy.v.02		pere	peɾe
@@ -277,6 +277,7 @@ PWN:elapse.v.01		shiran	siɾan
 PWN:elbow.n.01		shittok	sitːok
 PWN:eleven.s.01		shine-ikashima-wanbe	sineikasimawambe
 PWN:emerge.v.01		anukan	anukan
+PWN:employment.n.02		mon	mon
 PWN:empty.a.01		oha	oha
 PWN:end.n.03		kes	kes
 PWN:end.n.09		kes	kes
@@ -286,6 +287,7 @@ PWN:entirely.r.02		patek	patek
 PWN:escape.v.01		kurinin	kuɾinin
 PWN:evening.n.01		onuman	onuman
 PWN:evil.a.01		wei	we͡ɪ
+PWN:exchange.v.01		shinnai-no-an	sinːa͡ɪ-noan
 PWN:exclaim.v.01		hotuye	hotuje
 PWN:exit.v.01		arapa-wa-isam	aɾapawaisam
 PWN:expensive.a.01		ataye-yupke	atajejupke
@@ -297,7 +299,7 @@ PWN:faineant.s.01		katu-toranne	katutoɾanːe
 PWN:fall.n.01		chuk	t͡suk
 PWN:fall.v.01		hachiri	hat͡siɾi
 PWN:family.n.02		tuyo	tujo
-PWN:far.r.02		tuima	tuima
+PWN:faraway.s.01		tuima	tuima
 PWN:fat.n.01		kiripu	kiɾipu
 PWN:father.n.01		michi	mit͡si
 PWN:fear.v.01		ishitoma	isitoma
@@ -547,7 +549,7 @@ PWN:near.r.01		hange	haŋɡe
 PWN:neck.n.01		rekuchi	ɾekut͡si
 PWN:needle.n.03		kem	kem
 PWN:nest.n.01		set	set
-PWN:net_income.n.01		ya	ja
+PWN:net.n.06		ya	ja
 PWN:never.r.01		ramma-shomo	ɾamːasomo
 PWN:new.a.01		ashiri	asiɾi
 PWN:news.n.01		shongo	soŋɡo
@@ -858,7 +860,6 @@ PWN:trap.n.01		akbe	akbe
 PWN:trap.v.02		kishma	kisma
 PWN:travel.v.01		arapa	aɾapa
 PWN:travel.v.01		oman	oman
-PWN:travel.v.01		tup	tup
 PWN:tree.n.01		ni	ni
 PWN:trouser.n.01		omunbe	omumbe
 PWN:true.a.01		son no an	son no an
@@ -921,7 +922,6 @@ PWN:woman.n.01		menoko	menoko
 PWN:wood.n.01		ni	ni
 PWN:wool.n.02		wata	wata
 PWN:word.n.01		itak-ambe	itakambe
-PWN:work.n.01		mon	mon
 PWN:work.v.01		monraige	monɾa͡ɪɡe
 PWN:world.n.02		moshiri	mosiɾi
 PWN:worm.n.01		kikiri	kikiɾi

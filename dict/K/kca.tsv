@@ -6,9 +6,9 @@ PLX:2SG.pro		наӈ	naŋ
 PLX:3PL.pro		ӆув	ɬuw
 PLX:3SG M.pro		ӆув	ɬuw
 PLX:and.cnj		па	pa
-PLX:because of.adp		ураӈан	uraŋan
-PLX:behind.adp		юпийн	jupijn
-PLX:beside.adp		лепна	ʎepna
+PLX:because of.pp		ураӈан	uraŋan
+PLX:behind.pp		юпийн	jupijn
+PLX:beside.pp		лепна	ʎepna
 PLX:can.v		верытты	wʲerɪttɪ
 PLX:die (from accident).V		сорма питты	sorma pittɪ
 PLX:everywhere.pro		иса	isa
@@ -16,10 +16,10 @@ PLX:from here.adv		таӆта	taɬta
 PLX:get sick.V		кашана йиты	kaʃana jitɪ
 PLX:how many.pro		камн	kamn
 PLX:how.pro		хоты	χotɪ
-PLX:in front of.adp		еӆпийн	jeɬpijn
+PLX:in front of.pp		еӆпийн	jeɬpijn
 PLX:that.pro		туми	tumi
 PLX:that.pro		щит	ɕt͡ɕit
-PLX:under.adp		иӆпийн	iɬpijn
+PLX:under.pp		иӆпийн	iɬpijn
 PLX:what.pro		муй	muj
 PLX:where.pro		хота	χota
 PLX:where_to.pro		хоӆта	χoɬta
@@ -163,7 +163,6 @@ PWN:cause.n.01		нар	nar
 PWN:cavil.v.01		ляватты	ʎawattɪ
 PWN:center.n.01		кутап	kutap
 PWN:chair.n.01		уӆас	uɬas
-PWN:change.v.03		пелтасьты	pelˈtasʲtɪ
 PWN:character.n.08		буква	bukwa
 PWN:cheap.a.01		тынӆы	tɪnɬɪ
 PWN:cheek.n.01		венш пуӈаӆ	wʲenʃ puŋaɬ
@@ -239,6 +238,7 @@ PWN:decorate.v.01		хоратты	χorattɪ
 PWN:defend.v.03		шавиты	ʃawitɪ
 PWN:deft.s.01		апраӈ	apraŋ
 PWN:deity.n.01		турам	turam
+PWN:depart.v.03		нёхатты	ɲoχattɪ
 PWN:desire.n.01		лаӈхапса	lˈaŋχapsa
 PWN:desire.v.01		ӆаӈхаты	ɬaŋχatɪ
 PWN:destroy.v.02		шукатты	ʃukattɪ
@@ -295,6 +295,8 @@ PWN:elbow.n.01		кунш олаӈ	kunʃ olˈaŋ
 PWN:eleven.s.01		ихосьяӈ	iχosʲaŋ
 PWN:elk.n.01		кураӈ вой	kuraŋ woj
 PWN:emerge.v.01		этты	əttɪ
+PWN:employment.n.02		вер	wʲer
+PWN:employment.n.02		рупата	rupata
 PWN:empty.a.01		таӆ	taɬ
 PWN:end.n.03		ёӆта оӆаӈ	joɬta oɬaŋ
 PWN:end.n.09		оӆаӈ	oɬaŋ
@@ -307,6 +309,7 @@ PWN:erstwhile.s.01		моӆха	moɬχa
 PWN:escape.v.01		хонтты	χonttɪ
 PWN:evening.n.01		ет	jet
 PWN:evil.a.01		ликаӈ	lˈikaŋ
+PWN:exchange.v.01		пелтасьты	pelˈtasʲtɪ
 PWN:exclaim.v.01		увты	uwtɪ
 PWN:exit.v.01		ким манты	kim mantɪ
 PWN:exit.v.01		манты	mantɪ
@@ -324,7 +327,7 @@ PWN:fall_asleep.v.01		иӆ воямтты	iɬ wojamttɪ
 PWN:familiar.a.01		уйтты	ujttɪ
 PWN:family.n.02		и рут	i rut
 PWN:family.n.02		семья	sʲemʲa
-PWN:far.r.02		хув	χuw
+PWN:faraway.s.01		хув	χuw
 PWN:fat.n.01		вой	woj
 PWN:father.n.01		аси	asi
 PWN:fear.v.01		паӆты	paɬtɪ
@@ -605,7 +608,7 @@ PWN:near.r.01		ван	wan
 PWN:neck.n.01		сапаӆ	sapaɬ
 PWN:needle.n.03		йинтап	jintap
 PWN:nest.n.01		тыхаӆ	tɪχaɬ
-PWN:net_income.n.01		хоӆап	χoɬap
+PWN:net.n.06		хоӆап	χoɬap
 PWN:never.r.01		нэмаӆты порана	nəmaɬtɪ porana
 PWN:new.a.01		йиӆап	jiɬap
 PWN:news.n.01		айкеӆ	ajkeɬ
@@ -869,7 +872,7 @@ PWN:tail.n.01		ӆый	ɬɪj
 PWN:take.v.04		вуты	wutɪ
 PWN:talk.v.02		потарты	potartɪ
 PWN:taste.n.01		эпаӆ	əpaɬ
-PWN:taste.v.01		артаӆаты	artaɬatɪ
+PWN:taste.v.02		артаӆаты	artaɬatɪ
 PWN:tasty.a.01		эпӆаӈ	əpɬaŋ
 PWN:tea.n.01		шай	ʃaj
 PWN:teach.v.01		утаӆтыты	utaɬtɪtɪ
@@ -926,7 +929,6 @@ PWN:transport.v.02		туты	tutɪ
 PWN:trap.n.01		веӆпас	wʲeɬpas
 PWN:trap.v.02		катаӆты	kataɬtɪ
 PWN:travel.v.01		манты	mantɪ
-PWN:travel.v.01		нёхатты	ɲoχattɪ
 PWN:tree.n.01		юх	juχ
 PWN:trouser.n.01		кась	kasʲ
 PWN:true.a.01		воӆаӈ	woɬaŋ
@@ -996,8 +998,6 @@ PWN:woman.n.01		нэ	nə
 PWN:wood.n.01		юх	juχ
 PWN:wool.n.02		пун	pun
 PWN:word.n.01		ясаӈ	jasaŋ
-PWN:work.n.01		вер	wʲer
-PWN:work.n.01		рупата	rupata
 PWN:work.v.01		рупитты	rupittɪ
 PWN:worker.n.01		рупитты хоят	rupittɪ χojat
 PWN:world.n.02		турам	turam

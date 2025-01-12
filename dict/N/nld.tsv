@@ -12,21 +12,82 @@ PLX:3SG M.pro		hij
 PLX:3SG.pro		het		
 PLX:3SG.pro		hij		
 PLX:3SG.pro		zij (1)		
+PLX:above.pp		boven		
+PLX:after.pp		na		
 PLX:and.cnj		en		
-PLX:behind.adp		achter		
+PLX:at.pp		in		
+PLX:at.pp		op		
+PLX:at.pp		te		
+PLX:be late.v		laat zijn		
+PLX:because.cnj		omdat		
+PLX:behind.pp		achter		
+PLX:beside.pp		naast		
+PLX:carry in hand.v		dragen		
+PLX:carry on head.v		dragen		
+PLX:carry on shoulder.v		dragen		
+PLX:carry under arm.v		dragen		
+PLX:child-in-law.n		schoonkind		
+PLX:daughter-in-law (of man).n		schoondochter		
+PLX:daughter-in-law (of woman).n		schoondochter		
+PLX:day after tomorrow.adv		overmorgen		
+PLX:day before yesterday.adv		eergisteren		
+PLX:digging stick.n		graafstok		
+PLX:fall silent.v		zwijgen		
+PLX:father's brother.n		oom		
+PLX:father's sister.n		tante		fra:tante
+PLX:father-in-law (of man).n		schoonvader		
+PLX:father-in-law (of woman).n		schoonvader		
+PLX:fermented alcohol.n		alcoholische drank		
+PLX:fish poison root.n		vissengif		
+PLX:fish trap.n		fuik		
+PLX:head hair.n		haar		
+PLX:how many pieces.pro		hoeveel		
+PLX:how much.pro		hoeveel		
 PLX:how.pro		hoe		
 PLX:if.cnj		als		
 PLX:if.cnj		indien		
-PLX:in front of.adp		voor		
+PLX:in front of.pp		voor		
+PLX:in.pp		in		
+PLX:initiation ceremony.n		initiatieplechtigheid		
+PLX:initiation ceremony.n		inwijdingsplechtigheid		
+PLX:inside.pp		binnen		
+PLX:inside.pp		in		
+PLX:manioc bread.n		maniokbrood		
+PLX:men's house.n		mannenhuis		
+PLX:mother's brother.n		oom		
+PLX:mother's sister.n		tante		fra:tante
+PLX:mother-in-law (of man).n		schoonmoeder		
+PLX:mother-in-law (of woman).n		schoonmoeder		
+PLX:netbag.n		nettas		
+PLX:nothing.pro		niets		
+PLX:older sibling.n		broer		
+PLX:older sibling.n		zus(ter)		
 PLX:or.cnj		of		
+PLX:outside.pp		buiten		
+PLX:parents-in-law.n		schoonouders		
+PLX:sibling's child.n		neef		
+PLX:sibling's child.n		nicht		
+PLX:sibling-in-law.n		schoonbroer		
+PLX:sibling-in-law.n		schoonzuster		
+PLX:sibling-in-law.n		zwager		
+PLX:son-in-law (of man).n		schoonzoon		
+PLX:son-in-law (of woman).n		schoonzoon		
+PLX:stab to death.v		steken		
 PLX:that.pro		die		
 PLX:this.pro		deze		
-PLX:under.adp		onder		
+PLX:tumpline.n		draagband		
+PLX:under.pp		onder		
 PLX:what.pro		wat		
+PLX:when.pro		wanneer		
 PLX:where.pro		waar (2)		
+PLX:which Q.pro		welke		
 PLX:who.pro		wie		
 PLX:why.pro		waarom		
+PLX:with.pp		met		
+PLX:without.pp		zonder		
 PLX:yes.ptcl		ja		
+PLX:younger sibling.n		broer		
+PLX:younger sibling.n		zus(ter)		
 PWN:abdomen.n.01		buik		
 PWN:above.r.02		hoog		
 PWN:accuse.v.01		beschuldigen		
@@ -200,6 +261,7 @@ PWN:braid.v.01		vlechten
 PWN:brain.n.01		hersenen		
 PWN:brainsick.s.01		gek		
 PWN:brake.v.02		remmen		
+PWN:branch.n.03		tak		
 PWN:brave.a.01		dapper		
 PWN:bread.n.01		brood		
 PWN:break.v.05		breken		
@@ -228,6 +290,7 @@ PWN:burn.v.07		verbranden
 PWN:bury.v.02		begraven		
 PWN:bus.n.01		bus		eng:bus
 PWN:butter.n.01		boter		:butyrum
+PWN:butter_knife.n.01		mes		
 PWN:butterfly.n.01		vlinder		
 PWN:buttocks.n.01		billen		
 PWN:button.n.01		knoop		
@@ -355,6 +418,7 @@ PWN:cousin.n.01		nicht
 PWN:cover.v.01		bedekken		
 PWN:cow.n.01		koe		
 PWN:coyote.n.01		coyote		spa:coyote
+PWN:crawl.v.01		kruipen		
 PWN:crime.n.01		misdaad		
 PWN:crippled.s.01		lam (2)		
 PWN:crisscross.n.01		kruis		:cruce
@@ -482,6 +546,8 @@ PWN:end.v.01		stoppen
 PWN:enough.r.01		genoeg		
 PWN:enter.v.01		binnenkomen		
 PWN:entirely.r.02		enige		
+PWN:envy.n.01		afgunst		
+PWN:envy.n.01		jaloezie		fra:jalousie
 PWN:estimate.v.01		gissen		
 PWN:estimate.v.01		raden		
 PWN:evening.n.01		avond		
@@ -503,6 +569,7 @@ PWN:faithful.a.01		trouw
 PWN:fall.n.01		herfst		
 PWN:fall.n.01		najaar		
 PWN:fall.v.01		vallen		
+PWN:fall.v.23		glijden		
 PWN:family.n.02		gezin		
 PWN:famine.n.02		hongersnood		
 PWN:fan.n.01		waaier		
@@ -583,6 +650,7 @@ PWN:forge.v.01		smeden
 PWN:forget.v.02		vergeten		
 PWN:forgive.v.01		vergeven		
 PWN:fork.n.01		vork		:furca
+PWN:fork.n.03		gevorkte tak		
 PWN:fortress.n.01		vesting		
 PWN:four.s.01		vier		
 PWN:fox.n.01		vos		
@@ -657,6 +725,7 @@ PWN:happy.a.01		gelukkig
 PWN:hard.a.03		hard		
 PWN:hare.n.01		haas		
 PWN:hark_back.v.01		terugkomen		
+PWN:harvest.n.04		oogst		:augustus
 PWN:hate.v.01		haten		
 PWN:have.v.01		hebben		
 PWN:hawk.n.01		havik		
@@ -740,8 +809,6 @@ PWN:island.n.01		eiland		:eiland
 PWN:itch.n.03		jeuk		
 PWN:jaguar.n.01		jaguar		eng:jaguar
 PWN:jaw.n.01		kaak		
-PWN:jealousy.n.01		afgunst		
-PWN:jealousy.n.01		jaloezie		fra:jalousie
 PWN:jewel.n.01		juweel		fra:joël
 PWN:join.v.02		samenvoegen		
 PWN:join.v.02		verbinden		
@@ -761,7 +828,6 @@ PWN:king.n.01		koning
 PWN:knead.v.01		kneden		
 PWN:knee.n.01		knie		
 PWN:kneel.v.01		knielen		
-PWN:knife.n.01		mes		
 PWN:knife.n.01		mes		
 PWN:knot.n.02		knoop		
 PWN:know.v.01		weten		
@@ -1019,14 +1085,13 @@ PWN:pocket.n.01		zak		:saccus
 PWN:poet.n.01		dichter		:dictator
 PWN:pointed.a.01		spits		deu:Spitze
 PWN:poison.n.01		gif		deu:Gift
-PWN:pole.n.01		paal		:pālus
-PWN:pole.n.01		post (1)		:postis
 PWN:police.n.01		politie		fra:police
 PWN:poncho.n.01		poncho		spa:poncho
 PWN:poor.a.02		arm (2)		
 PWN:populate.v.01		wonen		
-PWN:port.n.01		haven		
 PWN:position.n.01		plaats		fra:place
+PWN:post.n.04		paal		:pālus
+PWN:post.n.04		post (1)		:postis
 PWN:postage.n.02		postzegel		
 PWN:postcard.n.01		briefkaart		
 PWN:pot.n.01		pot		:*pottus
@@ -1150,6 +1215,7 @@ PWN:screwdriver.n.01		schroevendraaier
 PWN:sculptor.n.01		beeldhouwer		
 PWN:scythe.n.01		zeis		
 PWN:sea.n.01		zee		
+PWN:seaport.n.01		haven		
 PWN:search.v.01		zoeken		
 PWN:season.n.02		seizoen		fra:saison
 PWN:second.s.01		tweede		
@@ -1171,6 +1237,7 @@ PWN:shame.n.01		schaamte
 PWN:shark.n.01		haai		nhu:hár
 PWN:sharp.a.09		scherp		
 PWN:shears.n.01		schaar		
+PWN:shed.n.01		tuinhuis		
 PWN:sheep.n.01		schaap		
 PWN:shelf.n.01		plank		pcd:planke
 PWN:shell.n.10		schelp		
@@ -1201,7 +1268,6 @@ PWN:sink.v.01		zinken
 PWN:sister.n.01		zus(ter)		
 PWN:sit_down.v.01		zitten		
 PWN:six.s.01		zes		
-PWN:skid.v.04		glijden		
 PWN:skin.v.04		pellen		:pellis
 PWN:skin.v.04		schillen		
 PWN:skirt.n.02		rok		
@@ -1335,8 +1401,8 @@ PWN:tall.a.01		groot
 PWN:tall.a.01		hoog		
 PWN:tan.v.01		looien		
 PWN:tapir.n.01		tapir		por:tapir
-PWN:taste.v.01		proeven		fra:prover
-PWN:taste.v.01		smaken		
+PWN:taste.v.02		proeven		fra:prover
+PWN:taste.v.02		smaken		
 PWN:tattoo.n.02		tatoeëring		
 PWN:tax.n.01		belasting		
 PWN:tea.n.01		thee		nan:tê
@@ -1365,6 +1431,7 @@ PWN:thing.n.12		ding
 PWN:think.v.02		menen		
 PWN:think.v.03		denken		
 PWN:third.s.01		derde		
+PWN:thirst.v.01		dorst hebben		
 PWN:thorax.n.02		borst		
 PWN:thousand.s.01		duizend		
 PWN:thrash.v.06		dorsen		
@@ -1420,6 +1487,7 @@ PWN:twelve.s.01		twaalf
 PWN:twenty.s.01		twintig		
 PWN:twice.r.01		tweemaal		
 PWN:twin.n.01		tweeling		
+PWN:twist.v.04		draaien		
 PWN:two.s.01		twee		
 PWN:udder.n.01		uier		
 PWN:ugly.a.01		lelijk		
@@ -1449,6 +1517,7 @@ PWN:waist.n.01		middel
 PWN:wake_up.v.02		wekken		
 PWN:walk.v.01		lopen		
 PWN:walking_stick.n.01		wandelstok		
+PWN:wall.n.01		muur		:murus
 PWN:warm.a.01		warm		
 PWN:wash.v.03		wassen		
 PWN:wasp.n.02		wesp		

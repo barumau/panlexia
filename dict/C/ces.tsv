@@ -6,9 +6,9 @@ PLX:2SG.pro		ty	tɪ
 PLX:3PL.pro		oni	oɲɪ
 PLX:3SG M.pro		on	on
 PLX:and.cnj		a	a
-PLX:because of.adp		pro	pro
-PLX:behind.adp		za	za
-PLX:beside.adp		vedle	vɛdlɛ
+PLX:because of.pp		pro	pro
+PLX:behind.pp		za	za
+PLX:beside.pp		vedle	vɛdlɛ
 PLX:can.v		moct	mot͡st
 PLX:die (from accident).V		zahynout	zaɦɪnoʊ̯t
 PLX:everywhere.pro		všude	fʃudɛ
@@ -16,12 +16,12 @@ PLX:from here.adv		odtud	otːut
 PLX:get sick.V		onemocnět	onɛmot͡sɲɛt
 PLX:how many.pro		kolik	kolɪk
 PLX:how.pro		jak	jak
-PLX:in front of.adp		před	br̝ɛt
+PLX:in front of.pp		před	br̝ɛt
 PLX:or.cnj		nebo	nɛbo
 PLX:that.pro		to	to
 PLX:this.pro		tohle	toɦlɛ
 PLX:this.pro		toto	toto
-PLX:under.adp		pod	pot
+PLX:under.pp		pod	pot
 PLX:what.pro		co	t͡so
 PLX:where.pro		kde	ɡdɛ
 PLX:where_to.pro		kam	kam
@@ -177,7 +177,6 @@ PWN:center.n.01		prostředek	prozdr̝ɛdɛk
 PWN:center.n.01		střed	zdr̝ɛt
 PWN:chair.n.01		židle	ʒɪdlɛ
 PWN:change.v.01		změnit	zmɲɛɲɪt
-PWN:change.v.03		měnit se	mɲɛɲɪt sɛ
 PWN:character.n.08		písmeno	piːsmɛno
 PWN:cheap.a.01		laciný	lat͡sɪniː
 PWN:cheap.a.01		levný	lɛvniː
@@ -267,6 +266,7 @@ PWN:decrease.v.01		ubýt	ubiːt
 PWN:defend.v.03		obhájit	obɦaːjɪt
 PWN:deft.s.01		šikovný	ʃɪkovniː
 PWN:deity.n.01		bůh	buːx
+PWN:depart.v.03		pohnout se	poɦnoʊ̯t sɛ
 PWN:descend.v.01		klesat	klɛsat
 PWN:desire.n.01		chuť	xuc
 PWN:desire.v.01		chtít	xciːt
@@ -325,6 +325,7 @@ PWN:elbow.n.01		loket	lokɛt
 PWN:eleven.s.01		jedenáct	jɛdɛnaːt͡st
 PWN:elk.n.01		los	los
 PWN:emerge.v.01		objevit se	objɛvɪt sɛ
+PWN:employment.n.02		práce	praːt͡sɛ
 PWN:empty.a.01		prázdný	praːzdniː
 PWN:end.n.03		konec	konɛt͡s
 PWN:end.n.09		konec	konɛt͡s
@@ -337,6 +338,7 @@ PWN:erstwhile.s.01		bývalý	biːvaliː
 PWN:escape.v.01		prchnout	prxnoʊ̯t
 PWN:evening.n.01		večer	vɛt͡ʃɛr
 PWN:evil.a.01		zlý	zliː
+PWN:exchange.v.01		měnit se	mɲɛɲɪt sɛ
 PWN:exclaim.v.01		křičet	ɡr̝ɪt͡ʃɛt
 PWN:exit.v.01		odejít	odɛjiːt
 PWN:expensive.a.01		drahý	draɦiː
@@ -351,7 +353,7 @@ PWN:fall.v.01		padat	padat
 PWN:fall_asleep.v.01		usnout	usnoʊ̯t
 PWN:familiar.a.01		známý	znaːmiː
 PWN:family.n.02		rodina	rodɪna
-PWN:far.r.02		daleký	dalɛkiː
+PWN:faraway.s.01		daleký	dalɛkiː
 PWN:fat.n.01		omastek	omastɛk
 PWN:fat.n.01		tuk	tuk
 PWN:father.n.01		otec	otɛt͡s
@@ -647,7 +649,7 @@ PWN:near.r.01		blízký	bliːskiː
 PWN:neck.n.01		krk	krk
 PWN:needle.n.03		jehla	jɛɦla
 PWN:nest.n.01		hnízdo	ɦɲiːzdo
-PWN:net_income.n.01		síť	siːc
+PWN:net.n.06		síť	siːc
 PWN:never.r.01		nikdy	ɲɪɡdɪ
 PWN:new.a.01		nový	noviː
 PWN:news.n.01		novina	novɪna
@@ -936,7 +938,7 @@ PWN:tail.n.01		ocas	ot͡sas
 PWN:take.v.04		vzít	vziːt
 PWN:talk.v.02		hovořit	ɦovor̝ɪt
 PWN:taste.n.01		vkus	fkus
-PWN:taste.v.01		ochutnávat	oxutnaːvat
+PWN:taste.v.02		ochutnávat	oxutnaːvat
 PWN:tasty.a.01		chutný	xutniː
 PWN:tea.n.01		čaj	t͡ʃaj
 PWN:teach.v.01		učit	ut͡ʃɪt
@@ -1000,7 +1002,6 @@ PWN:trap.n.01		léčka	lɛːt͡ʃka
 PWN:trap.n.01		past	past
 PWN:trap.v.02		ulovit	ulovɪt
 PWN:travel.v.01		jít	jiːt
-PWN:travel.v.01		pohnout se	poɦnoʊ̯t sɛ
 PWN:tree.n.01		strom	strom
 PWN:trouser.n.01		kalhoty	kalɦotɪ
 PWN:true.a.01		pravdivý	pravdɪviː
@@ -1073,7 +1074,6 @@ PWN:woman.n.01		žena	ʒɛna
 PWN:wood.n.01		dřevo	dr̝ɛvo
 PWN:wool.n.02		vlna	vlna
 PWN:word.n.01		slovo	slovo
-PWN:work.n.01		práce	praːt͡sɛ
 PWN:work.v.01		pracovat	prat͡sovat
 PWN:worker.n.01		dělník	ɟɛlɲiːk
 PWN:worker.n.01		pracovník	prat͡sovɲiːk

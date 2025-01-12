@@ -5,9 +5,9 @@ PLX:2PL.pro		межи	meʒi
 PLX:2SG.pro		ми	mi
 PLX:3PL.pro		жеди	ʒedi
 PLX:3SG M.pro		жо	ʒo
-PLX:because of.adp		гӏоло	ʕolo
-PLX:because of.adp		лӏаьй	t͡ɬæj
-PLX:behind.adp		хизāз	χizaːz
+PLX:because of.pp		гӏоло	ʕolo
+PLX:because of.pp		лӏаьй	t͡ɬæj
+PLX:behind.pp		хизāз	χizaːz
 PLX:can.v		бажарзи бохъа	baʒarzi boq͡χa
 PLX:can.v		кӏези бохъа	kʼezi boq͡χa
 PLX:die (from accident).V		беха	beχa
@@ -17,14 +17,14 @@ PLX:from here.adv		тӏай	tʼaj
 PLX:get sick.V		унтизи охъа	untizi oq͡χa
 PLX:how many.pro		дице	dit͡sʼe
 PLX:how.pro		дидур	didur
-PLX:in front of.adp		адаьз	adæz
-PLX:in front of.adp		адаьза	adæza
+PLX:in front of.pp		адаьз	adæz
+PLX:in front of.pp		адаьза	adæza
 PLX:or.cnj		йа	ja
 PLX:that.pro		гьовжо	howʒo
 PLX:that.pro		инжо	inʒo
 PLX:this.pro		йеда	jeda
 PLX:this.pro		йоду	jodu
-PLX:under.adp		вахӏхӏо	waħħo
+PLX:under.pp		вахӏхӏо	waħħo
 PLX:what.pro		гӏов	ʕow
 PLX:where.pro		нā	naː
 PLX:where_to.pro		нāр	naːr
@@ -162,7 +162,6 @@ PWN:cavil.v.01		хихада	χiχada
 PWN:center.n.01		болӏо	bot͡ɬo
 PWN:chair.n.01		къуӏри	qʼˤuri
 PWN:change.v.01		хӏажа	ħaʒa
-PWN:change.v.03		хисси бохъа	χissi boq͡χa
 PWN:character.n.08		хӏарп	ħarp
 PWN:cheap.a.01		учузав	ut͡ʃuzaw
 PWN:cheek.n.01		босоно	bosono
@@ -235,6 +234,7 @@ PWN:decorate.v.01		чӏухӏарикӏа	t͡ʃʼuħarikʼa
 PWN:decrease.v.01		беӏгъулъа	bˤeʁuɬa
 PWN:deft.s.01		лебалав	lebalaw
 PWN:deity.n.01		бечед	bet͡ʃed
+PWN:depart.v.03		бикӏи-неха	bikʼi-neχa
 PWN:descend.v.01		паӏлӏа	pˤat͡ɬa
 PWN:desire.n.01		рокьи	rot͡ɬʼi
 PWN:desire.v.01		бета	beta
@@ -293,6 +293,7 @@ PWN:elbow.n.01		гьору	horu
 PWN:eleven.s.01		оцӏино сис	ot͡sʼino sis
 PWN:eleven.s.01		сийоцӏи	sijot͡sʼi
 PWN:emerge.v.01		биза	biza
+PWN:employment.n.02		хӏалтӏи	ħaltʼi
 PWN:empty.a.01		къоӏкъоӏру	qʼˤoqʼˤoru
 PWN:end.n.03		ахир	aχir
 PWN:end.n.09		рагӏал	raʕal
@@ -301,6 +302,7 @@ PWN:enter.v.01		бохъа	boq͡χa
 PWN:erstwhile.s.01		завруни	zawruni
 PWN:escape.v.01		боха	boχa
 PWN:evil.a.01		цимйоху	t͡sʼimjoχu
+PWN:exchange.v.01		хисси бохъа	χissi boq͡χa
 PWN:exclaim.v.01		лалада	lalada
 PWN:exit.v.01		бикӏа	bikʼa
 PWN:expensive.a.01		багьайав	bahajaw
@@ -321,7 +323,7 @@ PWN:fall_asleep.v.01		кеца	ket͡sʼa
 PWN:familiar.a.01		ихоси	iχosi
 PWN:family.n.02		бару-хехби	baru-χeχbi
 PWN:family.n.02		гьакъу	haqʼu
-PWN:far.r.02		маӏхъирси	mˤaq͡χirsi
+PWN:faraway.s.01		маӏхъирси	mˤaq͡χirsi
 PWN:fat.n.01		рилъ	riɬ
 PWN:father.n.01		бабийу	babiju
 PWN:father.n.01		бабйу	babju
@@ -600,7 +602,7 @@ PWN:near.r.01		игоси	iɡosi
 PWN:neck.n.01		мечӏ	met͡ʃʼ
 PWN:needle.n.03		мури	muri
 PWN:nest.n.01		мужи	muʒi
-PWN:net_income.n.01		сеткӏа	setkʼa
+PWN:net.n.06		сеткӏа	setkʼa
 PWN:never.r.01		нетикин	netikin
 PWN:never.r.01		нетинкин	netinkin
 PWN:new.a.01		эцӏну	et͡sʼnu
@@ -855,7 +857,7 @@ PWN:take.v.04		биса	bisa
 PWN:talk.v.02		хабарйада	χabarjada
 PWN:taste.n.01		гиму	ɡimu
 PWN:taste.n.01		тӏагӏам	tʼaʕam
-PWN:taste.v.01		бийра	bijra
+PWN:taste.v.02		бийра	bijra
 PWN:tasty.a.01		гимуйав	ɡimujaw
 PWN:tasty.a.01		тӏагӏамав	tʼaʕamaw
 PWN:tea.n.01		чай	t͡ʃaj
@@ -921,7 +923,6 @@ PWN:transport.v.02		бижа	biʒa
 PWN:trap.n.01		боцӏахъу	bot͡sʼaq͡χu
 PWN:trap.v.02		бихъа	biq͡χa
 PWN:travel.v.01		бикӏа	bikʼa
-PWN:travel.v.01		бикӏи-неха	bikʼi-neχa
 PWN:tree.n.01		гъун	ʁun
 PWN:trouser.n.01		гъеӏлӏу	ʁˤet͡ɬu
 PWN:true.a.01		хӏакъкъав	ħaqʼqʼaw
@@ -991,7 +992,6 @@ PWN:woman.n.01		бару	baru
 PWN:wood.n.01		гъун	ʁun
 PWN:wool.n.02		гъорони	ʁoroni
 PWN:word.n.01		рожи	roʒi
-PWN:work.n.01		хӏалтӏи	ħaltʼi
 PWN:work.v.01		къо бода	qʼo boda
 PWN:work.v.01		хӏалтӏи бода	ħaltʼi boda
 PWN:work.v.01		хӏалтӏизи бохъа	ħaltʼizi boq͡χa

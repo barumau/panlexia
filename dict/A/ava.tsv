@@ -8,9 +8,9 @@ PLX:3PL.pro		эл	el
 PLX:3SG M.pro		доб	dob
 PLX:and.cnj		-ги	-ɡi
 PLX:and.cnj		ва	wa
-PLX:because of.adp		гьелда	hjelda
-PLX:behind.adp		хадуса	χadusa
-PLX:beside.adp		аскӏо	askʼo
+PLX:because of.pp		гьелда	hjelda
+PLX:behind.pp		хадуса	χadusa
+PLX:beside.pp		аскӏо	askʼo
 PLX:can.v		кӏвезе	kʼwjezje
 PLX:can.v		лъазе	ɬazje
 PLX:die (from accident).V		гьалаглъизе	halaɡɬizje
@@ -19,13 +19,13 @@ PLX:from here.adv		гьаниса	hanisa
 PLX:get sick.V		унтизе	untizje
 PLX:how many.pro		кигӏан	kiʕan
 PLX:how.pro		кин	kin
-PLX:in front of.adp		цебе	t͡sjebje
+PLX:in front of.pp		цебе	t͡sjebje
 PLX:or.cnj		ялъуни	jaɬuni
 PLX:that.pro		доб	dob
 PLX:this.pro		гьаб	hab
 PLX:this.pro		гьеб	hjeb
-PLX:under.adp		ахакь	aχat͡ɬʼ
-PLX:under.adp		гъоркь	ʁort͡ɬʼ
+PLX:under.pp		ахакь	aχat͡ɬʼ
+PLX:under.pp		гъоркь	ʁort͡ɬʼ
 PLX:what.pro		щиб	ʃːib
 PLX:where.pro		киб	kib
 PLX:where.pro		кибехун	kibjeχun
@@ -173,8 +173,6 @@ PWN:cavil.v.01		гъанчдезе	ʁant͡ʃdjezje
 PWN:center.n.01		бакьулъбакӏ	bat͡ɬʼuɬbakʼ
 PWN:chair.n.01		бакӏу	bakʼu
 PWN:change.v.01		хисизабизе	χisizabizje
-PWN:change.v.03		хиса-басизе	χisa-basizje
-PWN:change.v.03		хисизе	χisizje
 PWN:character.n.08		хӏарп	ħarp
 PWN:cheap.a.01		учузаб	ut͡ʃuzab
 PWN:cheek.n.01		гӏоно	ʕono
@@ -260,6 +258,8 @@ PWN:defend.v.03		цӏунизе	t͡sʼunizje
 PWN:deft.s.01		махщел бугев	maχʃːjel buɡjew
 PWN:deity.n.01		аллагь	allah
 PWN:deity.n.01		бичас	bit͡ʃas
+PWN:depart.v.03		багъаргъизе	baʁarʁizje
+PWN:depart.v.03		багъаризе	baʁarizje
 PWN:descend.v.01		гӏодо́бе ккезе	ʕodóbje kːjezje
 PWN:desire.n.01		гъира	ʁira
 PWN:desire.v.01		бокьизе	bot͡ɬʼizje
@@ -321,6 +321,7 @@ PWN:elapse.v.01		ине	inje
 PWN:elbow.n.01		гӏункӏрукь	ʕunkʼrut͡ɬʼ
 PWN:eleven.s.01		анцӏила цо	ant͡sʼila t͡so
 PWN:emerge.v.01		баккизе	bakːizje
+PWN:employment.n.02		хӏалтӏи	ħaltʼi
 PWN:empty.a.01		чӏобогояб	t͡ʃʼoboɡojab
 PWN:end.n.03		ахир	aχir
 PWN:end.n.09		кӏал	kʼal
@@ -331,6 +332,8 @@ PWN:erstwhile.s.01		цебе́госеб	t͡sjebjéɡosjeb
 PWN:escape.v.01		лъутизе	ɬutizje
 PWN:evening.n.01		релъедамех	rjeɬjedamjeχ
 PWN:evil.a.01		ракӏквешаб	rakʼkwjeʃab
+PWN:exchange.v.01		хиса-басизе	χisa-basizje
+PWN:exchange.v.01		хисизе	χisizje
 PWN:exclaim.v.01		ахӏдезе	aħdjezje
 PWN:exclaim.v.01		ахӏизе	aħizje
 PWN:exit.v.01		ине	inje
@@ -347,7 +350,7 @@ PWN:fall_asleep.v.01		гъапуллъизе	ʁapulɬizje
 PWN:fall_asleep.v.01		кьижизе	t͡ɬʼiʒizje
 PWN:familiar.a.01		лъалеб	ɬaljeb
 PWN:family.n.02		хъизан	q͡χːizan
-PWN:far.r.02		рикӏкӏадаб	rikːʼadab
+PWN:faraway.s.01		рикӏкӏадаб	rikːʼadab
 PWN:fat.n.01		беэнлъи	bjeenɬi
 PWN:father.n.01		эмен	emjen
 PWN:fault.n.06		гӏайиб	ʕajib
@@ -640,7 +643,7 @@ PWN:near.r.01		гӏагарда бугеб	ʕaɡarda buɡjeb
 PWN:neck.n.01		габур	ɡabur
 PWN:needle.n.03		рокӏкӏен	rokːʼjen
 PWN:nest.n.01		бусен	busjen
-PWN:net_income.n.01		гьин	hin
+PWN:net.n.06		гьин	hin
 PWN:never.r.01		киданиги	kidaniɡi
 PWN:new.a.01		цӏияб	t͡sʼijab
 PWN:news.n.01		хабар-гӏазаб	χabar-ʕazab
@@ -927,8 +930,8 @@ PWN:tail.n.01		рачӏ	rat͡ʃʼ
 PWN:take.v.04		босизе	bosizje
 PWN:talk.v.02		гаргадизе	ɡarɡadizje
 PWN:taste.n.01		тату	tatu
-PWN:taste.v.01		кӏалдиб хъва́зе	kʼaldib q͡χːwázje
-PWN:taste.v.01		чӏамизе	t͡ʃʼamizje
+PWN:taste.v.02		кӏалдиб хъва́зе	kʼaldib q͡χːwázje
+PWN:taste.v.02		чӏамизе	t͡ʃʼamizje
 PWN:tasty.a.01		тӏагӏамаб	tʼaʕamab
 PWN:tea.n.01		чай	t͡ʃaj
 PWN:teach.v.01		малъизе	maɬizje
@@ -987,8 +990,6 @@ PWN:transport.v.02		баччизе	bat͡ʃːizje
 PWN:trap.n.01		къор	q͡χːʼor
 PWN:trap.n.01		къотен	q͡χːʼotjen
 PWN:trap.v.02		кквезе	kːwjezje
-PWN:travel.v.01		багъаргъизе	baʁarʁizje
-PWN:travel.v.01		багъаризе	baʁarizje
 PWN:travel.v.01		ине	inje
 PWN:tree.n.01		гъветӏ	ʁwjetʼ
 PWN:trouser.n.01		тӏажу	tʼaʒu
@@ -1064,7 +1065,6 @@ PWN:woman.n.01		гӏадан	ʕadan
 PWN:wood.n.01		цӏул	t͡sʼul
 PWN:wool.n.02		квас	kwas
 PWN:word.n.01		рагӏи	raʕi
-PWN:work.n.01		хӏалтӏи	ħaltʼi
 PWN:work.v.01		хӏалтӏизе	ħaltʼizje
 PWN:worker.n.01		хӏалтӏухъан	ħaltʼuq͡χːan
 PWN:world.n.02		дуниял	dunijal

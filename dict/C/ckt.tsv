@@ -11,20 +11,20 @@ PLX:3SG M.pro		ынан	ənan
 PLX:3SG M.pro		ытлён	ətɬon
 PLX:and.cnj		ынкъам	ənkʔam
 PLX:and.cnj		эвыт	eβət
-PLX:because of.adp		курэ	kuɹe
-PLX:behind.adp		рымагты	ɹəmaɣtə
-PLX:beside.adp		к’ача	qat͡ɕa
+PLX:because of.pp		курэ	kuɹe
+PLX:behind.pp		рымагты	ɹəmaɣtə
+PLX:beside.pp		к’ача	qat͡ɕa
 PLX:can.v		гайман’эн	ɣajmaŋen
 PLX:die (from accident).V		раквачак	ɹakβat͡ɕak
 PLX:everywhere.pro		лымынкы	ɬəmənkə
 PLX:from here.adv		н’отк’оры	ŋotqoɹə
 PLX:how many.pro		тъэр	tʔeɹ
 PLX:how.pro		минк’ыри	minqəɹi
-PLX:in front of.adp		ы’ттъооча	əʔtːʔoːt͡ɕa
+PLX:in front of.pp		ы’ттъооча	əʔtːʔoːt͡ɕa
 PLX:or.cnj		эвытлым	eβətɬəm
 PLX:that.pro		н’аанк’эн	ŋaːnqen
 PLX:this.pro		н’отк’эн	ŋotqen
-PLX:under.adp		эвыча	eβət͡ɕa
+PLX:under.pp		эвыча	eβət͡ɕa
 PLX:what.pro		ръэнут	ɹʔenut
 PLX:where.pro		мин’кы	miŋkə
 PLX:where_to.pro		мин’кыри	miŋkəɹi
@@ -172,7 +172,6 @@ PWN:cavil.v.01		э’к’эткук	eqetkuk
 PWN:center.n.01		гынун	ɣənun
 PWN:chair.n.01		вакъоск’ыёлгын	βakʔot͡ɕqəjoɬɣən
 PWN:change.v.01		алван’ рытчык	aɬβaŋ ɹətt͡ɕək
-PWN:change.v.03		алван’ нъэлык	aɬβaŋ nʔeɬək
 PWN:character.n.08		гиивк’эв	ɣiːβqeβ
 PWN:cheap.a.01		н’инвилльэн	ŋinβiɬɬʔen
 PWN:cheek.n.01		ылпылгын	əɬpəɬɣən
@@ -251,6 +250,7 @@ PWN:decrease.v.01		тъэттывик	tʔetːəβik
 PWN:defend.v.03		виритык	βiɹitək
 PWN:defend.v.03		йилюк	jiɬuk
 PWN:deft.s.01		ныгъюлк’ин	nəɣjuɬqin
+PWN:depart.v.03		тылек	təɬek
 PWN:descend.v.01		ивтылетык	iβtəɬetək
 PWN:desire.n.01		тагъян’гыргын	taɣjaŋɣəɹɣən
 PWN:desire.v.01		тэгъен’ык	teɣjeŋək
@@ -302,6 +302,7 @@ PWN:elbow.n.01		кирвэч	kiɹβet͡ɕ
 PWN:eleven.s.01		мынгыткэн ыннэн парол	mənɣətken ənːen paɹoɬ
 PWN:elk.n.01		вопк’ы	βopqə
 PWN:emerge.v.01		ининик	ininik
+PWN:employment.n.02		мигчир	miɣt͡ɕiɹ
 PWN:empty.a.01		амк’ачгып	amqat͡ɕɣəp
 PWN:empty.a.01		эйыръыкыльин	ejəɹʔəkəɬʔin
 PWN:end.n.03		чьомыткын	t͡ɕˀomətkən
@@ -313,6 +314,7 @@ PWN:entirely.r.02		лыгэн	ɬəɣen
 PWN:erstwhile.s.01		тэленъепкин	teɬenjepkin
 PWN:evening.n.01		вулк’ытвин	βuɬqətβin
 PWN:evil.a.01		анн’энальын	anŋenaɬʔən
+PWN:exchange.v.01		алван’ нъэлык	aɬβaŋ nʔeɬək
 PWN:exclaim.v.01		к’улильэтык	quɬiɬʔetək
 PWN:exclaim.v.01		к’ъочаткок	qʔot͡ɕatkok
 PWN:exit.v.01		алва тылек	aɬβa təɬek
@@ -328,7 +330,7 @@ PWN:fall.v.01		эрэтык	eɹetək
 PWN:fall_asleep.v.01		лымкэтык	ɬəmketək
 PWN:familiar.a.01		ыннъалек	ənːʔaɬek
 PWN:family.n.02		ройыръын	ɹojəɹʔən
-PWN:far.r.02		ыяакэн	əjaaken
+PWN:faraway.s.01		ыяакэн	əjaaken
 PWN:fat.n.01		мытк’ымыт	mətqəmət
 PWN:father.n.01		ытлыгын	ətɬəɣən
 PWN:fear.v.01		айылгатык	ajəɬɣatək
@@ -622,7 +624,7 @@ PWN:navel.n.01		килкил	kiɬkiɬ
 PWN:neck.n.01		и’тын	itən
 PWN:needle.n.03		титин’ы	titiŋə
 PWN:nest.n.01		кытчыгъёлгын	kətt͡ɕəɣjoɬɣən
-PWN:net_income.n.01		купрэн	kupɹen
+PWN:net.n.06		купрэн	kupɹen
 PWN:never.r.01		этлы титэ	etɬə tite
 PWN:new.a.01		турыльын	tuɹəɬʔən
 PWN:news.n.01		пын’ыл	pəŋəɬ
@@ -963,7 +965,6 @@ PWN:transport.v.02		рынрык	ɹənɹək
 PWN:trap.n.01		лыгып	ɬəɣəp
 PWN:trap.v.02		эймитык	ejmitək
 PWN:travel.v.01		тылек	təɬek
-PWN:travel.v.01		тылек	təɬek
 PWN:tree.n.01		уттуут	utːuːt
 PWN:trouser.n.01		к’онагтэ	qonaɣte
 PWN:true.a.01		нипк’ин	nipqin
@@ -1040,7 +1041,6 @@ PWN:wolf.n.01		и’ны	inə
 PWN:woman.n.01		н’эвыск’эт	ŋeβət͡ɕqet
 PWN:wood.n.01		уттуут	utːuːt
 PWN:word.n.01		вэтгав	βetɣaβ
-PWN:work.n.01		мигчир	miɣt͡ɕiɹ
 PWN:work.v.01		мигчирэтык	miɣt͡ɕiɹetək
 PWN:worker.n.01		мигчитльэн	miɣt͡ɕitɬʔen
 PWN:world.n.02		ымвальын	əmβaɬʔən

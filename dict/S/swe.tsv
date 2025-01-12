@@ -6,10 +6,10 @@ PLX:2SG.pro		du	dʉː
 PLX:3PL.pro		de	deː
 PLX:3SG M.pro		han	hanː
 PLX:and.cnj		och	ɔk
-PLX:because of.adp		på grund av	poː ɡrɵnd ɑːv
-PLX:behind.adp		bakom	bɑːkɔm
-PLX:beside.adp		bredvid	brɛdːvɪd
-PLX:beside.adp		vid sidan av	viːd ˈsiːdan ˌɑːv
+PLX:because of.pp		på grund av	poː ɡrɵnd ɑːv
+PLX:behind.pp		bakom	bɑːkɔm
+PLX:beside.pp		bredvid	brɛdːvɪd
+PLX:beside.pp		vid sidan av	viːd ˈsiːdan ˌɑːv
 PLX:can.v		kunna	kɵnːa
 PLX:die (from accident).V		omkomma	ɔmːkɔma
 PLX:everywhere.pro		överallt	øːvɛralt
@@ -17,11 +17,11 @@ PLX:from here.adv		härifrån	hæːrɪfrɔn
 PLX:get sick.V		insjukna	ɪnːɧɵkna
 PLX:how many.pro		hur mycket	hʉːr mʏkət
 PLX:how.pro		hur	hʉːr
-PLX:in front of.adp		utanför	ʉːtanfœr
+PLX:in front of.pp		utanför	ʉːtanfœr
 PLX:or.cnj		eller	ɛlːər
 PLX:that.pro		det	deːt
 PLX:this.pro		detta	dɛtːa
-PLX:under.adp		under	ɵnːdər
+PLX:under.pp		under	ɵnːdər
 PLX:what.pro		vad	vɑːd
 PLX:where.pro		var	vɑːr
 PLX:where_to.pro		vart	vɑːʈ
@@ -182,7 +182,6 @@ PWN:center.n.01		mitt	mɪtː
 PWN:chair.n.01		stol	stuːl
 PWN:change.v.01		förändra	fœːrɛndra
 PWN:change.v.01		ändra	ɛnːdra
-PWN:change.v.03		växla	vɛksːla
 PWN:character.n.08		bokstav	bɔkːstav
 PWN:cheap.a.01		billig	bɪlːɪɡ
 PWN:cheek.n.01		kind	ɕɪnːd
@@ -273,6 +272,7 @@ PWN:defend.v.03		försvara	fœrːsvara
 PWN:deft.s.01		händig	hɛnːdɪɡ
 PWN:deft.s.01		skicklig	ɧɪkːlɪɡ
 PWN:deity.n.01		gud	ɡʉːd
+PWN:depart.v.03		röra sig	rœːra siːɡ
 PWN:descend.v.01		sjunka	ɧɵnːka
 PWN:desire.n.01		lust	lɵsːt
 PWN:desire.v.01		vilja	vɪlːja
@@ -334,6 +334,7 @@ PWN:eleven.s.01		elva	ɛlːva
 PWN:elk.n.01		älg	ɛlːɡ
 PWN:emerge.v.01		synas	syːnas
 PWN:emerge.v.01		visa sig	viːsa siːɡ
+PWN:employment.n.02		arbete	arːbɛtə
 PWN:empty.a.01		tom	tɔmː
 PWN:end.n.03		slut	slʉːt
 PWN:end.n.09		ända	ɛnːda
@@ -347,6 +348,7 @@ PWN:escape.v.01		fly	flyː
 PWN:evening.n.01		kväll	kvɛlː
 PWN:evil.a.01		elak	eːlak
 PWN:evil.a.01		ond	ɔnːd
+PWN:exchange.v.01		växla	vɛksːla
 PWN:exclaim.v.01		skrika	skriːka
 PWN:exit.v.01		gå bort	ɡoː bɔʈ
 PWN:expensive.a.01		dyr	dyːr
@@ -363,7 +365,7 @@ PWN:fall.v.01		falla	falːa
 PWN:fall_asleep.v.01		somna	sɔmːna
 PWN:familiar.a.01		känd	ɕɛnːd
 PWN:family.n.02		familj	famːɪlj
-PWN:far.r.02		fjärran	fjærːan
+PWN:faraway.s.01		fjärran	fjærːan
 PWN:fat.n.01		fett	fɛtː
 PWN:father.n.01		far	fɑːr
 PWN:fault.n.06		skuld	skɵlːd
@@ -681,7 +683,7 @@ PWN:neck.n.01		hals	halːs
 PWN:needle.n.03		nål	noːl
 PWN:nest.n.01		näste	nɛsːtə
 PWN:nest.n.01		rede	reːdə
-PWN:net_income.n.01		nät	nɛːt
+PWN:net.n.06		nät	nɛːt
 PWN:never.r.01		aldrig	alːdrɪɡ
 PWN:new.a.01		ny	nyː
 PWN:news.n.01		nyhet	nyːhət
@@ -972,8 +974,8 @@ PWN:take.v.04		taga	tɑːɡa
 PWN:talk.v.02		prata	prɑːta
 PWN:talk.v.02		tala	tɑːla
 PWN:taste.n.01		smak	smɑːk
-PWN:taste.v.01		smaka	smɑːka
-PWN:taste.v.01		smaka på	smɑːka poː
+PWN:taste.v.02		smaka	smɑːka
+PWN:taste.v.02		smaka på	smɑːka poː
 PWN:tasty.a.01		läcker	lɛkːər
 PWN:tea.n.01		te	teː
 PWN:teach.v.01		lära	læːra
@@ -1036,7 +1038,6 @@ PWN:transport.v.02		bära	bæːra
 PWN:trap.n.01		fälla	fɛlːa
 PWN:trap.v.02		fånga	fɔŋːa
 PWN:travel.v.01		gå	ɡoː
-PWN:travel.v.01		röra sig	rœːra siːɡ
 PWN:tree.n.01		träd	trɛːd
 PWN:trouser.n.01		byxor	bʏksːɔr
 PWN:true.a.01		sann	sanː
@@ -1113,7 +1114,6 @@ PWN:wood.n.01		trä	trɛː
 PWN:wool.n.02		ull	ɵlː
 PWN:wool.n.02		ylle	ʏlːə
 PWN:word.n.01		ord	uːɖ
-PWN:work.n.01		arbete	arːbɛtə
 PWN:work.v.01		arbeta	arːbɛta
 PWN:worker.n.01		arbetare	arːbɛtarə
 PWN:world.n.02		värld	væɭːd

@@ -7,11 +7,11 @@ PLX:3PL.pro		ji	jɪ̂
 PLX:3PL.pro		jos	jǒːs
 PLX:3SG M.pro		jis	jɪ̂s
 PLX:and.cnj		ĩr	ɪr
-PLX:because of.adp		dėl	děːɫ
-PLX:because of.adp		dėlei	děːɫɛʲɪ̯ˑ
-PLX:behind.adp		už	ʊ̂ʒ
-PLX:beside.adp		prie	priə
-PLX:beside.adp		šalia	ʃɐlʲɛ̂
+PLX:because of.pp		dėl	děːɫ
+PLX:because of.pp		dėlei	děːɫɛʲɪ̯ˑ
+PLX:behind.pp		už	ʊ̂ʒ
+PLX:beside.pp		prie	priə
+PLX:beside.pp		šalia	ʃɐlʲɛ̂
 PLX:can.v		galėti	ɡɐɫêːtʲɪ
 PLX:can.v		pajėgti	pɐjêːɡtʲɪ
 PLX:die (from accident).V		žūti	ʒûːtʲɪ
@@ -20,13 +20,13 @@ PLX:from here.adv		iš čia	ɪʃ t͡ʃʲɛ̂
 PLX:get sick.V		susirgti	sʊsʲɪ̂rˑɡtʲɪ
 PLX:how many.pro		kiek	kîək
 PLX:how.pro		kaip	kɐʲɪ̯ˑp
-PLX:in front of.adp		prieš	priəʃ
+PLX:in front of.pp		prieš	priəʃ
 PLX:or.cnj		ar	ɐ̂rˑ
 PLX:or.cnj		arba	ɐrbɑ̂
 PLX:that.pro		tat	tɑ̂t
 PLX:this.pro		šis	ʃʲɪ̂s
 PLX:this.pro		šitas	ʃʲɪ̂tɐs
-PLX:under.adp		po	pǒː
+PLX:under.pp		po	pǒː
 PLX:what.pro		kas	kɑ̂s
 PLX:where.pro		kur	kʊ̂rˑ
 PLX:where_to.pro		kur	kʊ̂rˑ
@@ -196,8 +196,6 @@ PWN:center.n.01		vidurys	ʋʲɪdʊrǐːs
 PWN:chair.n.01		kėdė	keːděː
 PWN:change.v.01		keisti	kɛʲɪ̯ˑstʲɪ
 PWN:change.v.01		pakeisti	pɐkɛʲɪ̯ˑstʲɪ
-PWN:change.v.03		keistis	kɛʲɪ̯ˑstʲɪs
-PWN:change.v.03		pasikeisti	pɐsʲɪkɛʲɪ̯ˑstʲɪ
 PWN:character.n.08		raidė	rɐʲɪ̯ˑdeː
 PWN:cheap.a.01		pigus	pʲɪɡʊ̂s
 PWN:cheek.n.01		skruostas	skrûəstɐs
@@ -301,6 +299,8 @@ PWN:defend.v.03		apginti	ɐpɡʲɪ̂ntʲɪ
 PWN:defend.v.03		ginti	ɡʲɪ̂ntʲɪ
 PWN:deft.s.01		apsukrus	ɐpsʊkrʊ̂s
 PWN:deity.n.01		dievas	diəʋɐs
+PWN:depart.v.03		judėti	jʊdêːtʲɪ
+PWN:depart.v.03		pasijudinti	pɐsʲɪjʊ̂dʲɪntʲɪ
 PWN:descend.v.01		kristi	krʲɪ̂stʲɪ
 PWN:desire.n.01		geidulys	ɡɛʲɪ̯ˑdʊɫǐːs
 PWN:desire.n.01		noras	nôːrɐs
@@ -366,6 +366,8 @@ PWN:elbow.n.01		alkūnė	ɐɫkûːneː
 PWN:eleven.s.01		vienuolika	ʋiənûəlʲɪkɐ
 PWN:elk.n.01		briedis	brîədʲɪs
 PWN:emerge.v.01		pasirodyti	pɐsʲɪrôːdʲiːtʲɪ
+PWN:employment.n.02		darbas	dâˑrbɐs
+PWN:employment.n.02		triūsas	trʲɪǔːsɐs
 PWN:empty.a.01		tuščias	tʊ̂ʃt͡ʃʲɛs
 PWN:end.n.03		pabaiga	pɐbɐʲɪ̯ˑɡɑ̂
 PWN:end.n.09		galas	ɡǎɫɐs
@@ -377,6 +379,8 @@ PWN:erstwhile.s.01		buvęs	bʊ̂ʋæːs
 PWN:escape.v.01		pabėgti	pɐbêːɡtʲɪ
 PWN:evening.n.01		vakaras	ʋǎkɐrɐs
 PWN:evil.a.01		blogas	bɫǒːɡɐs
+PWN:exchange.v.01		keistis	kɛʲɪ̯ˑstʲɪs
+PWN:exchange.v.01		pasikeisti	pɐsʲɪkɛʲɪ̯ˑstʲɪ
 PWN:exclaim.v.01		šaukti	ʃɒʊ̯ˑktʲɪ
 PWN:exit.v.01		išeiti	ɪʃɛʲɪ̯ˑtʲɪ
 PWN:expensive.a.01		brangus	brɐnɡʊ̂s
@@ -393,7 +397,7 @@ PWN:fall_asleep.v.01		užmigti	ʊʒmʲɪ̂ɡtʲɪ
 PWN:familiar.a.01		pažįstamas	pɐʒʲiːstɐmɐs
 PWN:familiar.a.01		žinomas	ʒʲɪ̂nomɐs
 PWN:family.n.02		šeima	ʃɛʲɪ̯ˑmɑ̂
-PWN:far.r.02		tolimas	tôːlʲɪmɐs
+PWN:faraway.s.01		tolimas	tôːlʲɪmɐs
 PWN:fat.n.01		riebalai	riəbɐɫɐʲɪ̯ˑ
 PWN:fat.n.01		taukai	tɒʊ̯ˑkɐʲɪ̯ˑ
 PWN:father.n.01		tėvas	têːʋɐs
@@ -736,7 +740,7 @@ PWN:neck.n.01		kaklas	kǎkɫɐs
 PWN:needle.n.03		adata	ǎdɐtɐ
 PWN:nest.n.01		gūžta	ɡuːʒtɑ̂
 PWN:nest.n.01		lizdas	lʲɪ̂zdɐs
-PWN:net_income.n.01		tinklas	tʲɪ̂nˑkɫɐs
+PWN:net.n.06		tinklas	tʲɪ̂nˑkɫɐs
 PWN:never.r.01		niekada	niəkɐdɑ̂
 PWN:never.r.01		niekuomet	niəkuəmɛ̂t
 PWN:new.a.01		naujas	nɒʊ̯ˑjɐs
@@ -1067,8 +1071,8 @@ PWN:tail.n.01		uodega	uədɛɡɑ̂
 PWN:take.v.04		paimti	pɐʲɪ̯ˑmtʲɪ
 PWN:talk.v.02		šnekėti	ʃnɛkêːtʲɪ
 PWN:taste.n.01		skonis	skǒːnʲɪs
-PWN:taste.v.01		paragauti	pɐrɐɡâˑʊ̯tʲɪ
-PWN:taste.v.01		ragauti	rɐɡâˑʊ̯tʲɪ
+PWN:taste.v.02		paragauti	pɐrɐɡâˑʊ̯tʲɪ
+PWN:taste.v.02		ragauti	rɐɡâˑʊ̯tʲɪ
 PWN:tasty.a.01		gardus	ɡɐrdʊ̂s
 PWN:tea.n.01		arbata	ɐrbɐtɑ̂
 PWN:teach.v.01		išmokyti	ɪʃmôːkʲiːtʲɪ
@@ -1148,8 +1152,6 @@ PWN:trap.n.01		pinklės	pʲɪ̂nkɫeːs
 PWN:trap.n.01		žabangai	ʒɐbâˑnɡɐʲɪ̯ˑ
 PWN:trap.v.02		sučiupti	sʊt͡ʃʲɪʊ̂ptʲɪ
 PWN:travel.v.01		eiti	ɛʲɪ̯ˑtʲɪ
-PWN:travel.v.01		judėti	jʊdêːtʲɪ
-PWN:travel.v.01		pasijudinti	pɐsʲɪjʊ̂dʲɪntʲɪ
 PWN:tree.n.01		medis	mɛ̌dʲɪs
 PWN:trouser.n.01		kelnės	kêˑɫneːs
 PWN:true.a.01		tikras	tʲɪ̂krɐs
@@ -1242,8 +1244,6 @@ PWN:woman.n.01		moteris	môːtɛrʲɪs
 PWN:wood.n.01		mediena	mɛdîənɐ
 PWN:wool.n.02		vilna	ʋʲɪ̂ɫnɐ
 PWN:word.n.01		žodis	ʒǒːdʲɪs
-PWN:work.n.01		darbas	dâˑrbɐs
-PWN:work.n.01		triūsas	trʲɪǔːsɐs
 PWN:work.v.01		dirbti	dʲɪ̂rbtʲɪ
 PWN:work.v.01		triūsti	trʲɪǔːstʲɪ
 PWN:worker.n.01		darbininkas	dɐrbʲɪnʲɪ̂nˑkɐs

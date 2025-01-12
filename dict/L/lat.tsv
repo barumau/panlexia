@@ -9,9 +9,9 @@ PLX:3SG M.pro		ille	ɪlːɛ
 PLX:3SG M.pro		is	ɪs
 PLX:and.cnj		-que	-kʷɛ
 PLX:and.cnj		et	ɛt
-PLX:because of.adp		propter	prɔptɛr
-PLX:behind.adp		post	pɔst
-PLX:beside.adp		iuxta	ɪʊkstaː
+PLX:because of.pp		propter	prɔptɛr
+PLX:behind.pp		post	pɔst
+PLX:beside.pp		iuxta	ɪʊkstaː
 PLX:can.v		posse	pɔsːɛ
 PLX:die (from accident).V		perire	pɛriːrɛ
 PLX:everywhere.pro		ubique	ʊbiːkʷɛ
@@ -19,11 +19,11 @@ PLX:from here.adv		hinc	hɪŋk
 PLX:get sick.V		aegrescere	aɛ̯ɡreːskɛrɛ
 PLX:how many.pro		quantum	kʷantʊ̃
 PLX:how.pro		quomodo	kʷoːmɔdɔ
-PLX:in front of.adp		ante	antɛ
+PLX:in front of.pp		ante	antɛ
 PLX:or.cnj		vel	wɛɫ
 PLX:that.pro		id	ɪd
 PLX:this.pro		hoc	hɔk
-PLX:under.adp		sub	sʊb
+PLX:under.pp		sub	sʊb
 PLX:what.pro		quid	kʷɪd
 PLX:where.pro		ubi	ʊbɪ
 PLX:where_to.pro		quo	kʷoː
@@ -172,7 +172,6 @@ PWN:cavil.v.01		increpare	ɪŋkrɛpaːrɛ
 PWN:center.n.01		medium	mɛdɪʊ̃
 PWN:chair.n.01		sella	sɛlːa
 PWN:change.v.01		mutare	muːtaːrɛ
-PWN:change.v.03		mutari	muːtaːriː
 PWN:character.n.08		littera	ɫɪtːɛra
 PWN:cheap.a.01		vilis	wiːɫɪs
 PWN:cheek.n.01		gena	ɡɛna
@@ -256,6 +255,7 @@ PWN:decrease.v.01		deminui	deːmɪnʊjː
 PWN:defend.v.03		defendere	deːfɛndɛrɛ
 PWN:deft.s.01		sollers	sɔlːɛrs
 PWN:deity.n.01		deus	dɛʊs
+PWN:depart.v.03		se movere	seː mɔweːrɛ
 PWN:descend.v.01		labi	ɫaːbiː
 PWN:desire.n.01		libido	ɫɪbiːdoː
 PWN:desire.n.01		voluptas	wɔɫʊptaːs
@@ -312,6 +312,7 @@ PWN:elbow.n.01		cubitum	kʊbɪtʊ̃
 PWN:eleven.s.01		undecim	uːndɛkɪ̃
 PWN:elk.n.01		alces	aɫkeːs
 PWN:emerge.v.01		apparere	apːaːreːrɛ
+PWN:employment.n.02		labor	ɫabɔr
 PWN:empty.a.01		vacuus	wakʊʊs
 PWN:end.n.03		finis	fiːnɪs
 PWN:end.n.09		caput	kapʊt
@@ -324,6 +325,7 @@ PWN:erstwhile.s.01		pristinus	priːstɪnʊs
 PWN:escape.v.01		effugere	ɛfːʊɡɛrɛ
 PWN:evening.n.01		vesper	wɛspɛr
 PWN:evil.a.01		improbus	ɪmprɔbʊs
+PWN:exchange.v.01		mutari	muːtaːriː
 PWN:exclaim.v.01		clamare	kɫaːmaːrɛ
 PWN:exit.v.01		abire	abiːrɛ
 PWN:exit.v.01		discedere	dɪskeːdɛrɛ
@@ -339,7 +341,7 @@ PWN:fall.v.01		cadere	kadɛrɛ
 PWN:fall_asleep.v.01		obdormiscere	ɔbdɔrmiːskɛrɛ
 PWN:familiar.a.01		notus	noːtʊs
 PWN:family.n.02		familia	famɪɫɪa
-PWN:far.r.02		longinquus	ɫɔŋɡɪŋkʷʊs
+PWN:faraway.s.01		longinquus	ɫɔŋɡɪŋkʷʊs
 PWN:fat.n.01		pingue	pɪŋɡʷɛ
 PWN:father.n.01		pater	patɛr
 PWN:fault.n.06		culpa	kʊɫpa
@@ -631,7 +633,7 @@ PWN:near.r.01		propinquus	prɔpɪŋkʷʊs
 PWN:neck.n.01		collum	kɔlːʊ̃
 PWN:needle.n.03		acus	akʊs
 PWN:nest.n.01		nidus	niːdʊs
-PWN:net_income.n.01		rete	reːtɛ
+PWN:net.n.06		rete	reːtɛ
 PWN:never.r.01		numquam	nʊŋkʷã
 PWN:new.a.01		novus	nɔwʊs
 PWN:news.n.01		novitas	nɔwɪtaːs
@@ -906,7 +908,7 @@ PWN:take.v.04		sumere	suːmɛrɛ
 PWN:talk.v.02		loqui	ɫɔkʷiː
 PWN:taste.n.01		gustus	ɡʷstʊs
 PWN:taste.n.01		sapor	sapɔr
-PWN:taste.v.01		gustare	ɡʷstaːrɛ
+PWN:taste.v.02		gustare	ɡʷstaːrɛ
 PWN:tasty.a.01		delicatus	deːɫɪkaːtʊs
 PWN:tea.n.01		thea	thɛa
 PWN:teach.v.01		docere	dɔkeːrɛ
@@ -965,7 +967,6 @@ PWN:transport.v.02		portare	pɔrtaːrɛ
 PWN:trap.n.01		pedica	pɛdɪka
 PWN:trap.v.02		capere	kapɛrɛ
 PWN:travel.v.01		ire	iːrɛ
-PWN:travel.v.01		se movere	seː mɔweːrɛ
 PWN:travel.v.01		vadere	waːdɛrɛ
 PWN:tree.n.01		arbor	arbɔr
 PWN:trouser.n.01		bracae	braːkaɛ̯
@@ -1043,7 +1044,6 @@ PWN:wood.n.01		lignum	liːŋnʊ̃
 PWN:wool.n.02		lana	ɫaːna
 PWN:word.n.01		verbum	wɛrbʊ̃
 PWN:word.n.01		vocabulum	wɔkaːbʊɫʊ̃
-PWN:work.n.01		labor	ɫabɔr
 PWN:work.v.01		laborare	ɫaboːraːrɛ
 PWN:worker.n.01		operarius	ɔpɛraːrɪʊs
 PWN:world.n.02		mundus	mʊndʊs

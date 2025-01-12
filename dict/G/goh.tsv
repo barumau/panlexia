@@ -8,19 +8,53 @@ PLX:3SG F.pro		si
 PLX:3SG INAN.pro		iz, ez		
 PLX:3SG M.pro		ir, er		
 PLX:3SG.pro		er/siu/iz		
+PLX:above.pp		ubar		
+PLX:after.pp		nâh		
 PLX:and.cnj		anti, enti, inti, unti		
-PLX:behind.adp		hintaro		
+PLX:at.pp		an(a)		
+PLX:be late.v		spâten		
+PLX:because.cnj		wantâ		
+PLX:behind.pp		hintaro		
+PLX:beside.pp		neben		
+PLX:daughter-in-law (of man).n		snora		
+PLX:daughter-in-law (of woman).n		snora		
+PLX:day after tomorrow.adv		ubarmorgane		
+PLX:day before yesterday.adv		êrgesteren		
+PLX:fall silent.v		swîgên		
+PLX:father's brother.n		fetiro		
+PLX:father's sister.n		basa		
+PLX:father-in-law (of man).n		swehur		
+PLX:father-in-law (of woman).n		swehur		
+PLX:fish trap.n		rûsa		
+PLX:head hair.n		hâr		
+PLX:how many pieces.pro		wio manage		
+PLX:how much.pro		(h)weo, (h)wio, (h)wie		
 PLX:how.pro		(h)weo, (h)wio, (h)wie		
 PLX:if.cnj		ibu		
-PLX:in front of.adp		for(a)		
+PLX:in front of.pp		for(a)		
+PLX:in.pp		in		
+PLX:inside.pp		innarûnhalb		
+PLX:mother's brother.n		ôheim		
+PLX:mother's sister.n		muoma		
+PLX:mother-in-law (of man).n		swigar		
+PLX:mother-in-law (of woman).n		swigar		
+PLX:nothing.pro		niowiht		
 PLX:or.cnj		odo, oda		
+PLX:outside.pp		uzar(ûn)halb		
+PLX:son-in-law (of man).n		eidum		
+PLX:son-in-law (of woman).n		eidum		
+PLX:stab to death.v		stehhan		
 PLX:that.pro		der		
 PLX:this.pro		desêr		
-PLX:under.adp		untar		
+PLX:under.pp		untar		
 PLX:what.pro		(h)waz		
+PLX:when.pro		(h)wanne, (h)wenne		
 PLX:where.pro		dâr		
+PLX:which Q.pro		(h)wer		
 PLX:who.pro		(h)wer		
 PLX:why.pro		wârumbi		
+PLX:with.pp		mit		
+PLX:without.pp		ânu, âno, âna		
 PLX:yes.ptcl		ja		
 PWN:abdomen.n.01		bûh		
 PWN:above.r.02		hôh		
@@ -159,6 +193,7 @@ PWN:braid.n.01		zopf
 PWN:braid.v.01		flehtan		
 PWN:brain.n.01		hirni		
 PWN:brainsick.s.01		ursinnig		
+PWN:branch.n.03		ast		
 PWN:brave.a.01		kuoni		
 PWN:bread.n.01		brôt		
 PWN:break.v.05		brehhan		
@@ -179,6 +214,7 @@ PWN:burn.v.03		brinnan
 PWN:burn.v.07		brennen		
 PWN:bury.v.02		bigraban		
 PWN:butter.n.01		butira		ell:Unidentifiable
+PWN:butter_knife.n.01		mezzisahs		
 PWN:butterfly.n.01		fîfalt(a)ra		
 PWN:buttocks.n.01		arsbelli		
 PWN:button.n.01		knopf		
@@ -274,6 +310,7 @@ PWN:court.n.08		ding
 PWN:court.n.10		hof		
 PWN:cover.v.01		decken		
 PWN:cow.n.01		kuo		
+PWN:crawl.v.01		kriohhan		
 PWN:crime.n.01		firina		
 PWN:crippled.s.01		lam		
 PWN:crisscross.n.01		galgo		
@@ -374,6 +411,7 @@ PWN:end.v.01		entôn
 PWN:enough.r.01		ginuog		
 PWN:enter.v.01		ingangan		
 PWN:entirely.r.02		einen		
+PWN:envy.n.01		nîd		
 PWN:estimate.v.01		râtan		
 PWN:evening.n.01		âband		
 PWN:ewe.n.03		ou		
@@ -462,6 +500,7 @@ PWN:forest.n.01		wald
 PWN:forge.v.01		smidôn		
 PWN:forget.v.02		firgezzan		
 PWN:forgive.v.01		firgeban		
+PWN:fork.n.03		zwisila		
 PWN:fortress.n.01		werî		
 PWN:four.s.01		fior		
 PWN:fox.n.01		foha		
@@ -525,6 +564,7 @@ PWN:happy.a.01		sâlig
 PWN:hard.a.03		hart		
 PWN:hare.n.01		haso		
 PWN:hark_back.v.01		widarisinnan		
+PWN:harvest.n.04		arnôt		
 PWN:hate.v.01		hazzên		
 PWN:have.v.01		habên		
 PWN:hawk.n.01		habuh		
@@ -597,7 +637,6 @@ PWN:iron.n.01		îsa(r)n
 PWN:island.n.01		isila		:isola
 PWN:itch.n.03		jukkido		
 PWN:jaw.n.01		kinnibakko		
-PWN:jealousy.n.01		nîd		
 PWN:jewel.n.01		gimma		:gemma
 PWN:join.v.02		gifuogen		
 PWN:judge.n.01		rihtâri		
@@ -615,7 +654,6 @@ PWN:king.n.01		kuning
 PWN:knead.v.01		knetan		
 PWN:knee.n.01		kneo, knio		
 PWN:kneel.v.01		(gi)kniuwen		
-PWN:knife.n.01		mezzisahs		
 PWN:knife.n.01		mezzisahs		
 PWN:knot.n.02		knopf		
 PWN:know.v.01		wizzan		
@@ -819,11 +857,10 @@ PWN:plow.v.01		erien
 PWN:poet.n.01		skopf		
 PWN:pointed.a.01		spizzi		
 PWN:poison.n.01		lubbi		
-PWN:pole.n.01		sûl		
 PWN:poor.a.02		arm (2)		
 PWN:populate.v.01		lebên (1)		
-PWN:port.n.01		skifgart		
 PWN:position.n.01		stat		
+PWN:post.n.04		sûl		
 PWN:pot.n.01		tuphin		
 PWN:potter.n.01		hafanâri		
 PWN:pour.v.01		giozan		
@@ -922,6 +959,7 @@ PWN:scrape.v.01		krazzôn
 PWN:sculptor.n.01		rizzâri		
 PWN:scythe.n.01		segansa		
 PWN:sea.n.01		meri		
+PWN:seaport.n.01		skifgart		
 PWN:search.v.01		suohhen		
 PWN:second.s.01		ander		
 PWN:secret.s.01		tougan		
@@ -1073,7 +1111,7 @@ PWN:tailor.n.01		nâtâri
 PWN:take.v.04		neman		
 PWN:tall.a.01		hôh		
 PWN:tan.v.01		gilôwôn		
-PWN:taste.v.01		(gi)smecken		
+PWN:taste.v.02		(gi)smecken		
 PWN:tax.n.01		stiura		
 PWN:teach.v.01		lêren		
 PWN:teacher.n.01		lêrâri		
@@ -1094,6 +1132,7 @@ PWN:thin.a.01		dunni
 PWN:think.v.02		meinen		
 PWN:think.v.03		denken		
 PWN:third.s.01		dritto		
+PWN:thirst.v.01		durstên		
 PWN:thorax.n.02		brust		
 PWN:thousand.s.01		dûsunt		
 PWN:thrash.v.06		drescan		
@@ -1140,6 +1179,7 @@ PWN:twelve.s.01		zwelif
 PWN:twenty.s.01		zweinzug		
 PWN:twice.r.01		zwiro		
 PWN:twin.n.01		zwiniling		
+PWN:twist.v.04		biogan		
 PWN:two.s.01		zwêne (zwô, zwâ, zwei)		
 PWN:udder.n.01		ûtar		
 PWN:ugly.a.01		hazlîh		
@@ -1161,6 +1201,7 @@ PWN:wagon.n.01		wagan
 PWN:wake_up.v.02		irwahhên		
 PWN:walk.v.01		(h)loufan		
 PWN:walking_stick.n.01		stab		
+PWN:wall.n.01		want		
 PWN:warm.a.01		warm		
 PWN:wash.v.03		wascan		
 PWN:wasp.n.02		wefsa		

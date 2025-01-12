@@ -6,8 +6,8 @@ PLX:2SG.pro		сӣ	siː
 PLX:3PL.pro		нёанчи	nʲɔant͡ʃi
 PLX:3SG M.pro		нёани	nʲɔani
 PLX:and.cnj		-ди	-di
-PLX:behind.adp		хамила	xami̟la
-PLX:beside.adp		дякпадоани	dʲakpadɔani
+PLX:behind.pp		хамила	xami̟la
+PLX:beside.pp		дякпадоани	dʲakpadɔani
 PLX:can.v		отолиори	ɔtɔli͡ɔri
 PLX:everywhere.pro		хайду-да̄ хэм	xajdu-daː xəm
 PLX:from here.adv		эвэӈки	əwəŋki
@@ -17,11 +17,11 @@ PLX:get sick.V		иса̄динаори	izaːdi̟na͡ɔri
 PLX:how many.pro		хаду	xadu
 PLX:how many.pro		хо̄ня̄ эгди	xɔːnʲaː əɡdi
 PLX:how.pro		хо̄ни	xɔːni
-PLX:in front of.adp		дюлиэлени	dʲuli͡əlʲəni
+PLX:in front of.pp		дюлиэлени	dʲuli͡əlʲəni
 PLX:that.pro		тэй	təj
 PLX:that.pro		ча	t͡ʃa
 PLX:this.pro		эй	əj
-PLX:under.adp		пэгиэлэни	pəɡi͡ələni
+PLX:under.pp		пэгиэлэни	pəɡi͡ələni
 PLX:what.pro		хай	xaj
 PLX:where.pro		хайду	xajdu
 PLX:where_to.pro		хаоси	xa͡ɔzi
@@ -161,7 +161,6 @@ PWN:cavil.v.01		сориори	sɔri͡ɔri
 PWN:center.n.01		долин	dɔlĩ̟n
 PWN:chair.n.01		тэ̄ӈку	təːŋku
 PWN:change.v.01		калаори	kala͡ɔri
-PWN:change.v.03		дюэчиэлиури	dʲuət͡ʃi͡əli͡uri
 PWN:character.n.08		буква	bukwa
 PWN:cheap.a.01		дя̄	dʲaː
 PWN:cheek.n.01		дэрэл	dərəl
@@ -236,6 +235,8 @@ PWN:december.n.01		декабрь	dʲəkabrʲ
 PWN:decorate.v.01		сэукэури	səukəuri
 PWN:defend.v.03		ка̄ндё̄ри	kaːndʲɔːri
 PWN:deity.n.01		эндур	əndur
+PWN:depart.v.03		пулсиури	pulsi͡uri
+PWN:depart.v.03		энэури	ənəuri
 PWN:desire.v.01		гэлэури	ɡələuri
 PWN:destroy.v.02		хэпулиури	xəpuli͡uri
 PWN:detect.v.01		ицэури	it͡səuri
@@ -288,6 +289,7 @@ PWN:eighty.s.01		дякпойӈго	dʲakpɔjŋɡɔ
 PWN:elbow.n.01		хуйцюн	xujt͡sʲũn
 PWN:eleven.s.01		дёан эмун	dʲɔan əmũn
 PWN:elk.n.01		то̄	tɔː
+PWN:employment.n.02		дёбон	dʲɔbɔ̃n
 PWN:empty.a.01		гэун	ɡəũn
 PWN:end.n.09		модан	mɔdãn
 PWN:end.v.01		ходипчӣни	xɔdipt͡ʃi̟ːni
@@ -299,6 +301,7 @@ PWN:escape.v.01		чочаго̄ри	t͡ʃɔt͡ʃaɡɔːri
 PWN:escape.v.01		чочаори	t͡ʃɔt͡ʃa͡ɔri
 PWN:evening.n.01		сиксэ	siksə
 PWN:evil.a.01		аяктаку	ajaktaku
+PWN:exchange.v.01		дюэчиэлиури	dʲuət͡ʃi͡əli͡uri
 PWN:exclaim.v.01		мораори	mɔra͡ɔri
 PWN:exit.v.01		энӯри	ənuːri
 PWN:expensive.a.01		манга ходаку	manɡa xɔdaku
@@ -315,7 +318,7 @@ PWN:fall_asleep.v.01		онгасаори	ɔnɡaza͡ɔri
 PWN:familiar.a.01		та̄кори	taːkɔri
 PWN:family.n.02		дё̄ӈкан	dʲɔːŋkãn
 PWN:family.n.02		нуктэн	nuktə̃n
-PWN:far.r.02		горо	ɡɔrɔ
+PWN:faraway.s.01		горо	ɡɔrɔ
 PWN:fat.n.01		симуксэ	si̟muksə
 PWN:father.n.01		амин	amĩ̟n
 PWN:fault.n.06		байта	bajta
@@ -593,7 +596,7 @@ PWN:neck.n.01		моӈгон	mɔŋɡɔ̃n
 PWN:needle.n.03		кита̄н	kitãːn
 PWN:needle.n.03		хурмэ	xurmə
 PWN:nest.n.01		омо	ɔmɔ
-PWN:net_income.n.01		адоли	adɔli
+PWN:net.n.06		адоли	adɔli
 PWN:never.r.01		хали-да	xali-da
 PWN:new.a.01		сикӯн	sikũːn
 PWN:news.n.01		мэдэ̄	mədəː
@@ -851,7 +854,7 @@ PWN:take.v.04		дяпаори	dʲapa͡ɔri
 PWN:talk.v.02		гисурэ̄ндӯри	ɡɪzurəːnduːri
 PWN:talk.v.02		хисаӈго̄ри	xɪzaŋɡɔːri
 PWN:taste.n.01		амтан	amtãn
-PWN:taste.v.01		амталаори	amtala͡ɔri
+PWN:taste.v.02		амталаори	amtala͡ɔri
 PWN:tasty.a.01		амтасӣ	amtaziː
 PWN:tea.n.01		чаи	t͡ʃa͡i
 PWN:teach.v.01		тачиочиори	tat͡ʃi͡ɔt͡ʃi͡ɔri
@@ -910,8 +913,6 @@ PWN:transport.v.02		олбимбори	ɔlbi̟mbɔri
 PWN:trap.n.01		капали	kapali
 PWN:trap.v.02		дяпаори	dʲapa͡ɔri
 PWN:travel.v.01		пулсиури	pulsi͡uri
-PWN:travel.v.01		пулсиури	pulsi͡uri
-PWN:travel.v.01		энэури	ənəuri
 PWN:tree.n.01		мо̄	mɔː
 PWN:trouser.n.01		пэрӯ	pəruː
 PWN:trunk.n.01		мо̄ бэени	mɔː bəjəni
@@ -980,7 +981,6 @@ PWN:woman.n.01		эктэ	əktə
 PWN:wood.n.01		мо̄	mɔː
 PWN:wool.n.02		сингакта	si̟nɡakta
 PWN:word.n.01		хэсэ	xəzə
-PWN:work.n.01		дёбон	dʲɔbɔ̃n
 PWN:work.v.01		дёбо̄ри	dʲɔbɔːri
 PWN:worker.n.01		добой най	dɔbɔj naj
 PWN:worker.n.01		дёбо̄ри	dʲɔbɔːri

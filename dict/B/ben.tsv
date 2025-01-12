@@ -7,9 +7,9 @@ PLX:3PL.pro		তারা	t̪ara
 PLX:3SG M.pro		উনি	uni
 PLX:and.cnj		আর	ar
 PLX:and.cnj		এবং	ebɔŋ
-PLX:because of.adp		জন্য	d͡ʒɔnːo
-PLX:behind.adp		পশ্চাতে	pɔʃt͡ʃat̪e
-PLX:beside.adp		কাছে	kat͡ʃʰe
+PLX:because of.pp		জন্য	d͡ʒɔnːo
+PLX:behind.pp		পশ্চাতে	pɔʃt͡ʃat̪e
+PLX:beside.pp		কাছে	kat͡ʃʰe
 PLX:can.v		পারা	para
 PLX:die (from accident).V		মারা যাওয়া	mara d͡ʒaʊ̯wa
 PLX:everywhere.pro		সর্বত্র	ʃɔrbot̪ro
@@ -17,11 +17,11 @@ PLX:from here.adv		ত্রই স্তান হইতে	t̪rɔi̯ st̪an ɦ
 PLX:get sick.V		অসুস্থ হত্তয়া	ɔʃust̪ʰo ɦɔt̪ːowa
 PLX:how many.pro		কত	kɔt̪ɔ
 PLX:how.pro		কেমন	kemɔn
-PLX:in front of.adp		সম্মুখে	ʃɔmːukʰe
+PLX:in front of.pp		সম্মুখে	ʃɔmːukʰe
 PLX:or.cnj		বা	ba
 PLX:that.pro		ওটা	oʈa
 PLX:this.pro		এটা	eʈa
-PLX:under.adp		নীচে	nit͡ʃe
+PLX:under.pp		নীচে	nit͡ʃe
 PLX:what.pro		কি	ki
 PLX:where.pro		কোথায়	kot̪ʰae̯
 PLX:where_to.pro		কোথায়	kot̪ʰae̯ɔ
@@ -160,7 +160,6 @@ PWN:center.n.01		মধ্য	mɔd̪d̪ʰo
 PWN:chair.n.01		কেদারা	ked̪ara
 PWN:chair.n.01		চেয়ার	t͡ʃeːar
 PWN:change.v.01		পরিবর্তিত করা	pɔribɔrt̪it̪ kɔra
-PWN:change.v.03		রূপাস্তর করা	rupast̪ɔr kɔra
 PWN:character.n.08		অক্ষর	ɔkkʰɔr
 PWN:cheap.a.01		সস্তা	ʃɔst̪a
 PWN:cheek.n.01		গণ্ড	ɡɔnɖo
@@ -237,6 +236,7 @@ PWN:decrease.v.01		হ্রাস হওয়া	ɦraʃ ɦɔʊ̯wa
 PWN:defend.v.03		রক্ষা করা	rɔkkʰa kɔra
 PWN:deft.s.01		পটু	pɔʈu
 PWN:deity.n.01		দেবতা	d̪ebɔt̪a
+PWN:depart.v.03		চলা	t͡ʃøla
 PWN:descend.v.01		হ্রাস হওয়া	ɦraʃ ɦɔʊ̯wa
 PWN:desire.n.01		বাসনা	baʃɔna
 PWN:desire.v.01		ইচ্ছা করা	itt͡ʃʰa kɔra
@@ -290,6 +290,7 @@ PWN:elbow.n.01		কনুই	kɔnui̯
 PWN:eleven.s.01		এগারো	eɡaro
 PWN:elk.n.01		হরিণবিশেষ	ɦɔrinɔbiʃeʃ
 PWN:emerge.v.01		আসা	aʃa
+PWN:employment.n.02		চাকরি	t͡ʃakɔri
 PWN:empty.a.01		খালি	kʰali
 PWN:end.n.03		শেষ	ʃeʃ
 PWN:end.n.09		প্রান্ত	prant̪o
@@ -300,6 +301,7 @@ PWN:erstwhile.s.01		পূর্বকালীন	purbɔkalin
 PWN:escape.v.01		পালানো	palano
 PWN:evening.n.01		সন্ধ্যা	ʃɔnd̪d̪ʰæ
 PWN:evil.a.01		খারাপ	kʰarap
+PWN:exchange.v.01		রূপাস্তর করা	rupast̪ɔr kɔra
 PWN:exclaim.v.01		চিৎকার করা	t͡ʃit̪kar kɔra
 PWN:exit.v.01		প্রস্থান করা	prɔst̪ʰan kɔra
 PWN:expensive.a.01		আক্রা	akra
@@ -314,7 +316,7 @@ PWN:fall.v.01		পড়া	pɔɽa
 PWN:fall_asleep.v.01		নিদ্রামগ্ন হওয়া	nid̪ramɔɡno ɦɔʊ̯wa
 PWN:familiar.a.01		সুপরিচিত	ʃupɔrit͡ʃit̪
 PWN:family.n.02		পরিবার	poribar
-PWN:far.r.02		দুরবতী	d̪urɔbot̪i
+PWN:faraway.s.01		দুরবতী	d̪urɔbot̪i
 PWN:fat.n.01		মেদ	med̪
 PWN:father.n.01		পিতা	pit̪a
 PWN:fault.n.06		অপরাধ	ɔporad̪ʰ
@@ -584,7 +586,7 @@ PWN:near.r.01		নিকটবতী	nikɔʈobɔt̪i
 PWN:neck.n.01		গল	ɡɔl
 PWN:needle.n.03		সুচ	ʃut͡ʃɔ
 PWN:nest.n.01		কুলায়	kulae̯ɔ
-PWN:net_income.n.01		জাল	d͡ʒal
+PWN:net.n.06		জাল	d͡ʒal
 PWN:never.r.01		কখলও নহে	kɔkʰolɔʊ̯ nɔɦe
 PWN:new.a.01		নব	nɔb
 PWN:new.a.01		নূতন	nut̪ɔn
@@ -849,7 +851,7 @@ PWN:tail.n.01		লেজ	led͡ʒ
 PWN:take.v.04		নেওয়া	neowa
 PWN:talk.v.02		আলাপ করা	alap kɔra
 PWN:taste.n.01		স্বাদ	ʃbad̪
-PWN:taste.v.01		পরখ করা	pɔrokʰ kɔra
+PWN:taste.v.02		পরখ করা	pɔrokʰ kɔra
 PWN:tasty.a.01		সুস্বাদ	ʃuʃbad̪
 PWN:tea.n.01		চা	t͡ʃa
 PWN:teach.v.01		শেখানো	ʃekʰano
@@ -905,7 +907,6 @@ PWN:translate.v.01		ভাষাস্তরিত করা	bʰaʃast̪ɔrit̪ 
 PWN:transport.v.02		বহন করা	bɔɦon kɔra
 PWN:trap.n.01		ফাঁদ	p͡fãd̪ɔ
 PWN:trap.v.02		ধরা	d̪ʰɔra
-PWN:travel.v.01		চলা	t͡ʃøla
 PWN:travel.v.01		যাওয়া	d͡ʒaʊ̯wa
 PWN:tree.n.01		গাছ	ɡat͡ʃʰ
 PWN:trouser.n.01		ট্রাউজার	ʈrau̯d͡ʒar
@@ -977,7 +978,6 @@ PWN:woman.n.01		নারী	nari
 PWN:wood.n.01		কাঠ	kaʈʰ
 PWN:wool.n.02		পশম	pɔʃɔm
 PWN:word.n.01		শব্দ	ʃɔbd̪o
-PWN:work.n.01		চাকরি	t͡ʃakɔri
 PWN:work.v.01		কাজ করা	kad͡ʒ kɔra
 PWN:worker.n.01		শ্রমিক	srɔmik
 PWN:world.n.02		জগৎ	d͡ʒɔɡot̪

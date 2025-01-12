@@ -6,10 +6,10 @@ PLX:2SG.pro		sinä	sinæ
 PLX:3PL.pro		he	hɛ
 PLX:3SG M.pro		hän	hæn
 PLX:and.cnj		ja	jɑ
-PLX:because of.adp		takia	tɑkiɑ
-PLX:because of.adp		vuoksi	ʋuɔ̯ksi
-PLX:behind.adp		takana	tɑkɑnɑ
-PLX:beside.adp		vieressä	ʋiɛ̯rɛsːæ
+PLX:because of.pp		takia	tɑkiɑ
+PLX:because of.pp		vuoksi	ʋuɔ̯ksi
+PLX:behind.pp		takana	tɑkɑnɑ
+PLX:beside.pp		vieressä	ʋiɛ̯rɛsːæ
 PLX:can.v		osata	ɔsɑtɑ
 PLX:die (from accident).V		kuolla	kuɔ̯lːɑ
 PLX:die (from accident).V		saada surmansa	sɑːdɑ sʊrmɑnsɑ
@@ -21,11 +21,11 @@ PLX:how many.pro		kuinka paljon	kui̯ŋkɑ pɑljɔn
 PLX:how many.pro		paljonko	pɑljɔŋkɔ
 PLX:how.pro		kuinka	kui̯ŋkɑ
 PLX:how.pro		miten	mitɛn
-PLX:in front of.adp		edessä	ɛdɛsːæ
+PLX:in front of.pp		edessä	ɛdɛsːæ
 PLX:or.cnj		tai	tɑi̯
 PLX:that.pro		se	sɛ
 PLX:this.pro		tämä	tæmæ
-PLX:under.adp		alla	ɑlːɑ
+PLX:under.pp		alla	ɑlːɑ
 PLX:what.pro		mikä	mikæ
 PLX:where.pro		missä	misːæ
 PLX:where_to.pro		mihin	mihin
@@ -184,8 +184,6 @@ PWN:center.n.01		keskus	kɛskʊs
 PWN:center.n.01		puoliväli	puɔ̯liʋæli
 PWN:chair.n.01		tuoli	tuɔ̯li
 PWN:change.v.01		muuttaa	muːtːɑː
-PWN:change.v.03		vaihdella	ʋɑi̯xdɛlːɑ
-PWN:change.v.03		vaihtua	ʋɑi̯xtʊɑ
 PWN:character.n.08		kirjain	kirjɑi̯n
 PWN:cheap.a.01		halpa	hɑlpɑ
 PWN:cheap.a.01		huokea	huɔ̯kɛɑ
@@ -272,6 +270,7 @@ PWN:decrease.v.01		vähetä	ʋæhɛtæ
 PWN:defend.v.03		puolustaa	puɔ̯lʊstɑː
 PWN:deft.s.01		taitava	tɑi̯tɑʋɑ
 PWN:deity.n.01		jumala	jʊmɑlɑ
+PWN:depart.v.03		liikkua	liːkːʊɑ
 PWN:descend.v.01		vajota	ʋɑjɔtɑ
 PWN:desire.n.01		himo	himɔ
 PWN:desire.v.01		tahtoa	tɑxtɔɑ
@@ -330,6 +329,7 @@ PWN:elbow.n.01		kyynärpää	kyːnærpæː
 PWN:eleven.s.01		yksitoista	ʏksitɔi̯stɑ
 PWN:elk.n.01		hirvi	hirʋi
 PWN:emerge.v.01		ilmestyä	ilmɛstʏæ
+PWN:employment.n.02		työ	tyœ̯
 PWN:empty.a.01		tyhjä	tʏhjæ
 PWN:end.n.03		loppu	lɔpːʊ
 PWN:end.n.09		perä	pɛræ
@@ -345,6 +345,8 @@ PWN:escape.v.01		paeta	pɑɛtɑ
 PWN:evening.n.01		ilta	iltɑ
 PWN:evil.a.01		häijy	hæi̯jʏ
 PWN:evil.a.01		paha	pɑhɑ
+PWN:exchange.v.01		vaihdella	ʋɑi̯xdɛlːɑ
+PWN:exchange.v.01		vaihtua	ʋɑi̯xtʊɑ
 PWN:exclaim.v.01		kirkua	kirkʊɑ
 PWN:exit.v.01		lähteä	læxtɛæ
 PWN:exit.v.01		poistua	pɔi̯stʊɑ
@@ -363,7 +365,7 @@ PWN:fall_asleep.v.01		uinahtaa	ui̯nɑxtɑː
 PWN:familiar.a.01		tunnettu	tʊnːɛtːʊ
 PWN:familiar.a.01		tuttu	tʊtːʊ
 PWN:family.n.02		perhe	pɛrhɛ
-PWN:far.r.02		etäinen	ɛtæi̯nɛn
+PWN:faraway.s.01		etäinen	ɛtæi̯nɛn
 PWN:fat.n.01		rasva	rɑsʋɑ
 PWN:father.n.01		isä	isæ
 PWN:fault.n.06		syy	syː
@@ -686,7 +688,7 @@ PWN:near.r.01		läheinen	læhɛi̯nɛn
 PWN:neck.n.01		kaula	kɑwlɑ
 PWN:needle.n.03		neula	nɛʊlɑ
 PWN:nest.n.01		pesä	pɛsæ
-PWN:net_income.n.01		verkko	ʋɛrkːɔ
+PWN:net.n.06		verkko	ʋɛrkːɔ
 PWN:never.r.01		ei koskaan	ɛi̯ kɔskɑːn
 PWN:new.a.01		uusi	uːsi
 PWN:news.n.01		uutinen	uːtinɛn
@@ -985,7 +987,7 @@ PWN:tail.n.01		pyrstö	pʏrstœ
 PWN:take.v.04		ottaa	ɔtːɑː
 PWN:talk.v.02		keskustella	kɛskʊstɛlːɑ
 PWN:taste.n.01		maku	mɑkʊ
-PWN:taste.v.01		maistaa	mɑi̯stɑː
+PWN:taste.v.02		maistaa	mɑi̯stɑː
 PWN:tasty.a.01		herkullinen	hɛrkʊlːinɛn
 PWN:tea.n.01		tee	tɛː
 PWN:teach.v.01		opettaa	ɔpɛtːɑː
@@ -1053,7 +1055,6 @@ PWN:trap.n.01		loukku	lɔwkːʊ
 PWN:trap.v.02		pyydystää	pyːdʏstæː
 PWN:trap.v.02		saalistaa	sɑːlistɑː
 PWN:travel.v.01		käydä	kæɥdæ
-PWN:travel.v.01		liikkua	liːkːʊɑ
 PWN:tree.n.01		puu	puː
 PWN:trouser.n.01		housut	hɔwsʊt
 PWN:true.a.01		tosi	tɔsi
@@ -1129,7 +1130,6 @@ PWN:woman.n.01		nainen	nɑi̯nɛn
 PWN:wood.n.01		puu	puː
 PWN:wool.n.02		villa	ʋilːɑ
 PWN:word.n.01		sana	sɑnɑ
-PWN:work.n.01		työ	tyœ̯
 PWN:work.v.01		tehdä työtä	tɛxdæ tyœ̯tæ
 PWN:work.v.01		työskennellä	tyœ̯skɛnːɛlːæ
 PWN:worker.n.01		työläinen	tyœ̯læi̯nɛn

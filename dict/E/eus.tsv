@@ -6,11 +6,11 @@ PLX:2SG.pro		zu	su
 PLX:3PL.pro		berak	beɾak
 PLX:3SG M.pro		bera	beɾa
 PLX:and.cnj		eta	eta
-PLX:because of.adp		-gatik	ɡatik
-PLX:behind.adp		gibelean	ɡibelean
-PLX:behind.adp		ostean	oɕtean
-PLX:beside.adp		aldamenean	aldamenean
-PLX:beside.adp		ondoan	ondoan
+PLX:because of.pp		-gatik	ɡatik
+PLX:behind.pp		gibelean	ɡibelean
+PLX:behind.pp		ostean	oɕtean
+PLX:beside.pp		aldamenean	aldamenean
+PLX:beside.pp		ondoan	ondoan
 PLX:can.v		ahal izan	ahal isan
 PLX:die (from accident).V		istripuz hil	iɕtɾipus hil
 PLX:everywhere.pro		edonon	edonon
@@ -20,12 +20,12 @@ PLX:get sick.V		gaixotu	ɡɑjʃotu
 PLX:how many.pro		zenbat	senbat
 PLX:how.pro		nola	nola
 PLX:how.pro		zelan	selan
-PLX:in front of.adp		aurrean	ɑurean
+PLX:in front of.pp		aurrean	ɑurean
 PLX:or.cnj		edo	edo
 PLX:that.pro		hura	huɾa
 PLX:this.pro		hau	hɑu
-PLX:under.adp		azpian	aspiɑn
-PLX:under.adp		pean	pean
+PLX:under.pp		azpian	aspiɑn
+PLX:under.pp		pean	pean
 PLX:what.pro		zer	seɾ
 PLX:where.pro		non	non
 PLX:where_to.pro		nora	noɾa
@@ -203,7 +203,6 @@ PWN:cavil.v.01		erneguka ari izan	eɾneɡuka aɾi isan
 PWN:center.n.01		erdi	eɾdi
 PWN:chair.n.01		aulki	ɑulki
 PWN:change.v.01		mudatu	mudatu
-PWN:change.v.03		aldatu	aldatu
 PWN:character.n.08		hizki	hiski
 PWN:cheap.a.01		merke	meɾke
 PWN:cheek.n.01		masail	maɕɑjl
@@ -296,6 +295,7 @@ PWN:defend.v.03		aldeztu	aldestu
 PWN:deft.s.01		antzetsu	ant͡set͡ɕu
 PWN:deft.s.01		trebe	tɾebe
 PWN:deity.n.01		jainko	d͡ʒɑjnko
+PWN:depart.v.03		higitu	hiɡitu
 PWN:descend.v.01		beheititu	behɛjtitu
 PWN:desire.n.01		gogo	ɡoɡo
 PWN:desire.v.01		nahi izan	nahi isan
@@ -364,6 +364,7 @@ PWN:elbow.n.01		ukondo	ukondo
 PWN:eleven.s.01		hamaika	hamɑjka
 PWN:elk.n.01		altze	alt͡se
 PWN:emerge.v.01		agertu	aɡeɾtu
+PWN:employment.n.02		lan	lan
 PWN:empty.a.01		huts	hut͡ɕ
 PWN:end.n.03		bukaera	bukaeɾa
 PWN:end.n.09		buru	buɾu
@@ -376,6 +377,7 @@ PWN:escape.v.01		ihes egin	iheɕ eɡin
 PWN:evening.n.01		arrats	arat͡ɕ
 PWN:evil.a.01		gaizto	ɡɑjsto
 PWN:evil.a.01		tzar	t͡saɾ
+PWN:exchange.v.01		aldatu	aldatu
 PWN:exclaim.v.01		garrasi egin	ɡaraɕi eɡin
 PWN:exclaim.v.01		oihu egin	ɔjhu eɡin
 PWN:exit.v.01		alde egin	alde eɡin
@@ -394,7 +396,7 @@ PWN:fall_asleep.v.01		lokartu	lokaɾtu
 PWN:familiar.a.01		ezagun	esaɡun
 PWN:family.n.02		familia	familiɑ
 PWN:family.n.02		sendi	ɕendi
-PWN:far.r.02		urrun	urun
+PWN:faraway.s.01		urrun	urun
 PWN:fat.n.01		koipe	kɔjpe
 PWN:fat.n.01		urin	uɾin
 PWN:father.n.01		aita	ɑjta
@@ -743,7 +745,7 @@ PWN:neck.n.01		sama	ɕama
 PWN:needle.n.03		jostorratz	d͡ʒoɕtorat͡s
 PWN:needle.n.03		orratz	orat͡s
 PWN:nest.n.01		habia	habiɑ
-PWN:net_income.n.01		sare	ɕaɾe
+PWN:net.n.06		sare	ɕaɾe
 PWN:never.r.01		inoiz ez	inɔjs es
 PWN:never.r.01		sekula ez	ɕekula es
 PWN:new.a.01		berri	beri
@@ -1071,7 +1073,7 @@ PWN:tail.n.01		isats	iɕat͡ɕ
 PWN:take.v.04		hartu	haɾtu
 PWN:talk.v.02		hitz egin	hit͡s eɡin
 PWN:taste.n.01		dasta	daɕta
-PWN:taste.v.01		dastatu	daɕtatu
+PWN:taste.v.02		dastatu	daɕtatu
 PWN:tasty.a.01		goxo	ɡoʃo
 PWN:tea.n.01		te	te
 PWN:teach.v.01		irakatsi	iɾakat͡ɕi
@@ -1139,7 +1141,6 @@ PWN:transport.v.02		eraman	eɾaman
 PWN:transport.v.02		eroan	eɾoan
 PWN:trap.n.01		harrapagailu	harapaɡɑjlu
 PWN:trap.v.02		harrapatu	harapatu
-PWN:travel.v.01		higitu	hiɡitu
 PWN:travel.v.01		joan	d͡ʒoan
 PWN:tree.n.01		zuhaitz	suhɑjt͡s
 PWN:trouser.n.01		galtzak	ɡalt͡sak
@@ -1224,7 +1225,6 @@ PWN:woman.n.01		emakume	emakume
 PWN:wood.n.01		zur	suɾ
 PWN:wool.n.02		artile	aɾtile
 PWN:word.n.01		hitz	hit͡s
-PWN:work.n.01		lan	lan
 PWN:work.v.01		behar egin	behaɾ eɡin
 PWN:work.v.01		lan egin	lan eɡin
 PWN:worker.n.01		behargin	behaɾɡin

@@ -11,11 +11,11 @@ PLX:3PL.pro		ихди	iχdi
 PLX:3PL.pro		ишди	iʃdi
 PLX:3SG M.pro		ит	it
 PLX:and.cnj		ва	wa
-PLX:because of.adp		багьандан	bahandan
-PLX:because of.adp		сабабли	sababli
-PLX:behind.adp		гӏелаб	ʕelab
-PLX:behind.adp		гӏелабад	ʕelabad
-PLX:beside.adp		мякьлаб	mjaqʼlab
+PLX:because of.pp		багьандан	bahandan
+PLX:because of.pp		сабабли	sababli
+PLX:behind.pp		гӏелаб	ʕelab
+PLX:behind.pp		гӏелабад	ʕelabad
+PLX:beside.pp		мякьлаб	mjaqʼlab
 PLX:can.v		ахъри бикӏахъес	aqri bikʼaqes
 PLX:can.v		имкан	imkan
 PLX:die (from accident).V		вебкӏес	webkʼes
@@ -28,14 +28,14 @@ PLX:how many.pro		сецад	set͡sad
 PLX:how many.pro		чум	t͡ʃum
 PLX:how.pro		се тяхӏярли	se tjaħjarli
 PLX:how.pro		сен-сен	sen-sen
-PLX:in front of.adp		гьала	hala
-PLX:in front of.adp		гьалаб	halab
-PLX:in front of.adp		мякьлаб	mjaqʼlab
-PLX:under.adp		гьала	hala
-PLX:under.adp		гьалаб	halab
-PLX:under.adp		у	u
-PLX:under.adp		уди	udi
-PLX:under.adp		урга	urɡa
+PLX:in front of.pp		гьала	hala
+PLX:in front of.pp		гьалаб	halab
+PLX:in front of.pp		мякьлаб	mjaqʼlab
+PLX:under.pp		гьала	hala
+PLX:under.pp		гьалаб	halab
+PLX:under.pp		у	u
+PLX:under.pp		уди	udi
+PLX:under.pp		урга	urɡa
 PLX:what.pro		се	se
 PLX:where.pro		чинаб	t͡ʃinab
 PLX:where.pro		чинаба	t͡ʃinaba
@@ -269,6 +269,7 @@ PWN:defend.v.03		валтахъан виэс	waltaqan wies
 PWN:deft.s.01		ункъли барибси	unɢli baribsi
 PWN:deft.s.01		урибси уста	uribsi usta
 PWN:deity.n.01		аллагь	allah
+PWN:depart.v.03		башес	baʃes
 PWN:descend.v.01		камбикӏес	kambikʼes
 PWN:desire.n.01		иштяхӏ	iʃtjaħ
 PWN:desire.v.01		бигахъес	biɡaqes
@@ -333,6 +334,7 @@ PWN:elapse.v.01		шалгӏеббухъес	ʃalʕebbuqes
 PWN:elbow.n.01		газанякъ	ɡazanjaɢ
 PWN:eleven.s.01		вецIну цара	wet͡sinu t͡sara
 PWN:emerge.v.01		дакӏубухъес	dakʼubuqes
+PWN:employment.n.02		хӏянчи	ħjant͡ʃi
 PWN:empty.a.01		бацIси	bat͡sisi
 PWN:end.n.03		хъар	qar
 PWN:end.n.09		дуб	dub
@@ -364,7 +366,7 @@ PWN:fall_asleep.v.01		усаэс	usaes
 PWN:familiar.a.01		бахъли валуси	baqli walusi
 PWN:familiar.a.01		гапла	ɡapla
 PWN:family.n.02		хъалибарг	qalibarɡ
-PWN:far.r.02		гьарахъси	haraqsi
+PWN:faraway.s.01		гьарахъси	haraqsi
 PWN:fat.n.01		гӏявадеш	ʕjawadeʃ
 PWN:father.n.01		ада	ada
 PWN:father.n.01		дудеш	dudeʃ
@@ -662,8 +664,8 @@ PWN:near.r.01		гъамси	ʁamsi
 PWN:neck.n.01		хъяб	qjab
 PWN:needle.n.03		буреба	bureba
 PWN:nest.n.01		пукьа	puqʼa
-PWN:net_income.n.01		тур	tur
-PWN:net_income.n.01		тӏимкь	tʼimqʼ
+PWN:net.n.06		тур	tur
+PWN:net.n.06		тӏимкь	tʼimqʼ
 PWN:never.r.01		сезаманалра	sezamanalra
 PWN:new.a.01		сагаси	saɡasi
 PWN:news.n.01		хабар	χabar
@@ -1047,7 +1049,6 @@ PWN:trap.n.01		тӏимкь	tʼimqʼ
 PWN:trap.v.02		акес	akes
 PWN:trap.v.02		хъямики буцес	qjamiki but͡ses
 PWN:trap.v.02		чесес	t͡ʃeses
-PWN:travel.v.01		башес	baʃes
 PWN:travel.v.01		вашес	waʃes
 PWN:tree.n.01		галга	ɡalɡa
 PWN:trouser.n.01		шалбар	ʃalbar
@@ -1136,7 +1137,6 @@ PWN:wood.n.01		урцул	urt͡sul
 PWN:wool.n.02		бала	bala
 PWN:word.n.01		гъай	ʁaj
 PWN:word.n.01		дев	dew
-PWN:work.n.01		хӏянчи	ħjant͡ʃi
 PWN:work.v.01		узес	uzes
 PWN:world.n.02		дунъя	dunʔja
 PWN:worm.n.01		миликъ	miliɢ

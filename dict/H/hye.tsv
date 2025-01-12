@@ -6,10 +6,10 @@ PLX:2SG.pro		դու	du
 PLX:3PL.pro		նրանք	nəɾɑŋkʰ
 PLX:3SG M.pro		նա	na
 PLX:and.cnj		ու	u
-PLX:because of.adp		շնորհից	ʃənɔɾhit͡sʰ
-PLX:because of.adp		պատճառով	pɑtː͡ʃɑrɔv
-PLX:behind.adp		ետեւը	jɛtɛvə
-PLX:beside.adp		քովը	kʰɔvə
+PLX:because of.pp		շնորհից	ʃənɔɾhit͡sʰ
+PLX:because of.pp		պատճառով	pɑtː͡ʃɑrɔv
+PLX:behind.pp		ետեւը	jɛtɛvə
+PLX:beside.pp		քովը	kʰɔvə
 PLX:can.v		կարողանալ	kaɾoɣanal
 PLX:die (from accident).V		կործանվել	kɔɾt͡sɑnvɛl
 PLX:everywhere.pro		ամենուր	amɛnuɾ
@@ -17,13 +17,13 @@ PLX:from here.adv		այդտեղից	ɑjdtɛʁit͡sʰ
 PLX:get sick.V		հիւանդանալ	hivɑntʰɑnɑl
 PLX:how many.pro		որչափ	ʋɔɾt͡ʃʰɑpʰ
 PLX:how.pro		ինչպես	int͡ʃʰpɛs
-PLX:in front of.adp		դիմացը	dimɑt͡sʰə
+PLX:in front of.pp		դիմացը	dimɑt͡sʰə
 PLX:or.cnj		կամ	kɑm
 PLX:that.pro		այդ	ɑjd
 PLX:that.pro		դա	da
 PLX:this.pro		այս	ajs
 PLX:this.pro		սա	sɑ
-PLX:under.adp		տակ	tɑk
+PLX:under.pp		տակ	tɑk
 PLX:what.pro		ինչ	int͡ʃʰ
 PLX:where.pro		որտեղ	voɾtɛɣ
 PLX:where.pro		ուր	uɾ
@@ -173,7 +173,6 @@ PWN:cavil.v.01		քրթմնջել	kʰɾtʰmɲd͡ʒɛl
 PWN:center.n.01		մեջտեղ	mɛd͡ʒtɛʁ
 PWN:chair.n.01		աթոռ	ɑtʰɔr
 PWN:change.v.01		փոխել	pʰɔχɛl
-PWN:change.v.03		փոխվել	pʰɔχvɛl
 PWN:character.n.08		գիր	ɡiɾ
 PWN:character.n.08		տառ	tɑr
 PWN:cheap.a.01		էժան	ɛʒan
@@ -257,6 +256,7 @@ PWN:decrease.v.01		փոքրանալ	pʰɔkʰɾɑnɑl
 PWN:defend.v.03		պաշտպանել	pɑʃtpɑnɛl
 PWN:deft.s.01		ճարտար	t͡ʃɑɾtɑɾ
 PWN:deity.n.01		աստված	ɑstvɑt͡s
+PWN:depart.v.03		ընթանալ	əntʰɑnɑl
 PWN:descend.v.01		ընկնել	əŋknɛl
 PWN:desire.n.01		իղձ	iʁd͡z
 PWN:desire.n.01		փափագ	pʰɑpʰɑkʰ
@@ -314,6 +314,8 @@ PWN:eleven.s.01		տասնմեկ	tɑsnmɛk
 PWN:elk.n.01		հիւսիսային եղջերու	hivsisɑjin ɛʁd͡ʒɛɾu
 PWN:emerge.v.01		երեւալ	jɛɾɛvɑl
 PWN:emerge.v.01		հայտնվել	hɑjtnvɛl
+PWN:employment.n.02		աշխատանք	ɑʃχɑtɑŋkʰ
+PWN:employment.n.02		գործ	ɡoɾt͡s
 PWN:empty.a.01		դատարկ	dɑtɑɾk
 PWN:end.n.03		վախճան	vɑχt͡ʃɑn
 PWN:end.n.03		վերջ	vɛɾt͡ʃʰ
@@ -325,6 +327,7 @@ PWN:erstwhile.s.01		նախկին	nɑχkin
 PWN:escape.v.01		փախչել	pʰɑχt͡ʃʰɛl
 PWN:evening.n.01		երեկո	jɛɾɛko
 PWN:evil.a.01		չար	t͡ʃʰaɾ
+PWN:exchange.v.01		փոխվել	pʰɔχvɛl
 PWN:exclaim.v.01		գոռալ 	ɡɔrɑl 
 PWN:exit.v.01		հեռանալ	hɛrɑnɑl
 PWN:expensive.a.01		թանկ	tʰank
@@ -339,7 +342,7 @@ PWN:fall.v.01		ընկնել	ənknɛl
 PWN:fall_asleep.v.01		քուն մտնել	kʰun mtnɛl
 PWN:familiar.a.01		ծանոթ	t͡sanotʰ
 PWN:family.n.02		ընտանիք	əntɑnikʰ
-PWN:far.r.02		հեռավոր	hɛrɑvɔɾ
+PWN:faraway.s.01		հեռավոր	hɛrɑvɔɾ
 PWN:fat.n.01		ճարպ	t͡ʃɑɾp
 PWN:father.n.01		հայր	hɑjɾ
 PWN:fault.n.06		պակասություն	pɑkɑsutʰjun
@@ -626,7 +629,7 @@ PWN:neck.n.01		պարանոց	pɑɾɑnɔt͡sʰ
 PWN:neck.n.01		վիզ	viz
 PWN:needle.n.03		ասեղ	ɑsɛʁ
 PWN:nest.n.01		բույն	bujn
-PWN:net_income.n.01		ցանց	t͡sʰɑnt͡sʰ
+PWN:net.n.06		ցանց	t͡sʰɑnt͡sʰ
 PWN:never.r.01		երբեք	jɛɾbɛkʰ
 PWN:new.a.01		նոր	nɔɾ
 PWN:news.n.01		լուր	luɾ
@@ -919,7 +922,7 @@ PWN:take.v.04		վերցնել	vɛɾt͡sʰnɛl
 PWN:talk.v.02		զրուցել	zəɾut͡sʰɛl
 PWN:taste.n.01		բուրմունք	buɾmuŋkʰ
 PWN:taste.n.01		համ	ham
-PWN:taste.v.01		համը տեսել	hɑmə tɛsɛl
+PWN:taste.v.02		համը տեսել	hɑmə tɛsɛl
 PWN:tasty.a.01		համեղ	hamɛɣ
 PWN:tea.n.01		թեյ	tʰɛj
 PWN:teach.v.01		սովորեցնել	sɔvɔɾɛt͡sʰnɛl
@@ -982,7 +985,6 @@ PWN:transport.v.02		տանել	tɑnɛl
 PWN:trap.n.01		ծուղակ	t͡suʁɑk
 PWN:trap.v.02		բռնել	bərnɛl
 PWN:travel.v.01		գնալ	ɡənal
-PWN:travel.v.01		ընթանալ	əntʰɑnɑl
 PWN:tree.n.01		ծառ	t͡saɾ
 PWN:trouser.n.01		շալվար	ʃɑlvɑɾ
 PWN:true.a.01		իրական	iɾɑkɑn
@@ -1058,8 +1060,6 @@ PWN:woman.n.01		կին	kin
 PWN:wood.n.01		փայտ	pʰɑjt
 PWN:wool.n.02		բուրդ	buɾtʰ
 PWN:word.n.01		բառ	bɑr
-PWN:work.n.01		աշխատանք	ɑʃχɑtɑŋkʰ
-PWN:work.n.01		գործ	ɡoɾt͡s
 PWN:work.v.01		աշխատել	ɑʃχɑtɛl
 PWN:worker.n.01		աշխատող	ɑʃχɑtɔʁ
 PWN:worker.n.01		բանվոր	bɑnvɔɾ

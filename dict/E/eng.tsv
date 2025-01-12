@@ -7,19 +7,44 @@ PLX:3PL.pro		they		nhu:þeir
 PLX:3SG F.pro		she		
 PLX:3SG INAN.pro		it		
 PLX:3SG M.pro		he		
+PLX:above.pp		above		
+PLX:after.pp		after		
 PLX:and.cnj		and		
-PLX:behind.adp		behind		
+PLX:at.pp		at		
+PLX:be late.v		late		
+PLX:because.cnj		because		:causa, earlier caussa
+PLX:behind.pp		behind		
+PLX:beside.pp		beside		
+PLX:daughter-in-law (of man).n		daughter-in-law		
+PLX:fall silent.v		(be) silent		:silen-s, -tem
+PLX:father-in-law (of man).n		father-in-law		
+PLX:fermented alcohol.n		alcohol		arb:al-koħl
+PLX:head hair.n		hair		
+PLX:how many pieces.pro		how many?		
+PLX:how much.pro		how much?		
 PLX:how.pro		how?		
 PLX:if.cnj		if		
-PLX:in front of.adp		in front of		:frōns, frontis
+PLX:in front of.pp		in front of		:frōns, frontis
+PLX:in.pp		in		
+PLX:inside.pp		inside		
+PLX:mother-in-law (of man).n		mother-in-law		
+PLX:netbag.n		netbag		nhu:baggi
+PLX:nothing.pro		nothing		
 PLX:or.cnj		or		
+PLX:outside.pp		outside		
+PLX:son-in-law (of man).n		son-in-law		
+PLX:stab to death.v		stab		
 PLX:that.pro		that		
 PLX:this.pro		this		
-PLX:under.adp		under		
+PLX:under.pp		under		
 PLX:what.pro		what?		
+PLX:when.pro		when?		
 PLX:where.pro		where?		
+PLX:which Q.pro		which?		
 PLX:who.pro		who?		
 PLX:why.pro		why?		
+PLX:with.pp		with		
+PLX:without.pp		without		
 PLX:yes.ptcl		yes		
 PWN:abdomen.n.01		belly		
 PWN:above.r.02		high		
@@ -190,6 +215,7 @@ PWN:braid.v.01		weave
 PWN:brain.n.01		brain		
 PWN:brainsick.s.01		mad		
 PWN:brake.v.02		brake		
+PWN:branch.n.03		branch		:branca
 PWN:brave.a.01		brave		ita:bravo
 PWN:bread.n.01		bread		
 PWN:break.v.05		break		
@@ -217,6 +243,7 @@ PWN:burn.v.07		burn
 PWN:bury.v.02		bury		
 PWN:bus.n.01		bus		:omnibus
 PWN:butter.n.01		butter		ell:boútūron
+PWN:butter_knife.n.01		knife		
 PWN:butterfly.n.01		butterfly		
 PWN:buttocks.n.01		arse		
 PWN:buttocks.n.01		buttocks		
@@ -343,6 +370,7 @@ PWN:cousin.n.01		cousin		:consobrīnus
 PWN:cover.v.01		cover		fra:couvrir
 PWN:cow.n.01		cow		
 PWN:coyote.n.01		coyote		spa:coyote
+PWN:crawl.v.01		crawl		
 PWN:crime.n.01		crime		:crīmen
 PWN:crippled.s.01		lame		
 PWN:crisscross.n.01		cross		:crux
@@ -464,6 +492,8 @@ PWN:end.v.01		cease		:cessāre
 PWN:enough.r.01		enough		
 PWN:enter.v.01		enter		:intrāre
 PWN:entirely.r.02		only		
+PWN:envy.n.01		envy		fra:envie
+PWN:envy.n.01		jealous		ell:zēlos
 PWN:estimate.v.01		guess		
 PWN:evening.n.01		evening		
 PWN:ewe.n.03		ewe		
@@ -483,6 +513,8 @@ PWN:faineant.s.01		lazy		gml:lasich
 PWN:faithful.a.01		faithful		:fidēs
 PWN:fall.n.01		autumn		:autumnus
 PWN:fall.v.01		fall		
+PWN:fall.v.23		slide		
+PWN:fall.v.23		slip		nld:slippen
 PWN:family.n.02		family		:familia
 PWN:famine.n.02		famine		fra:faim
 PWN:fan.n.01		fan		:vannus
@@ -639,6 +671,7 @@ PWN:happy.a.01		happy		nhu:happ
 PWN:hard.a.03		hard		
 PWN:hare.n.01		hare		
 PWN:hark_back.v.01		come back		
+PWN:harvest.n.04		harvest		
 PWN:hate.v.01		hate		
 PWN:have.v.01		have		
 PWN:hawk.n.01		hawk		
@@ -718,8 +751,6 @@ PWN:island.n.01		island
 PWN:itch.n.03		itch		
 PWN:jaguar.n.01		jaguar		:jaguara
 PWN:jaw.n.01		jaw		:joe
-PWN:jealousy.n.01		envy		fra:envie
-PWN:jealousy.n.01		jealous		ell:zēlos
 PWN:jewel.n.01		jewel		:*gaudiellum
 PWN:join.v.02		join		:iungere
 PWN:judge.n.01		judge		:iūdex
@@ -738,7 +769,6 @@ PWN:king.n.01		king
 PWN:knead.v.01		knead		
 PWN:knee.n.01		knee		
 PWN:kneel.v.01		kneel		
-PWN:knife.n.01		knife		
 PWN:knife.n.01		knife		
 PWN:knot.n.02		knot		
 PWN:know.v.01		know		
@@ -986,13 +1016,12 @@ PWN:pocket.n.01		pocket		:pokete
 PWN:poet.n.01		poet		ell:poiētēs
 PWN:pointed.a.01		pointed		fra:point
 PWN:poison.n.01		poison		fra:poison
-PWN:pole.n.01		post		:posta
 PWN:police.n.01		police		ell:pólis
 PWN:poncho.n.01		poncho		spa:poncho
 PWN:poor.a.02		poor		:povre
 PWN:populate.v.01		live		
-PWN:port.n.01		port		:porta
 PWN:position.n.01		place		:platea
+PWN:post.n.04		post		:posta
 PWN:postage.n.02		stamp		
 PWN:postcard.n.01		postcard		ell:khártēs
 PWN:pot.n.01		pot		:*pottus
@@ -1120,6 +1149,7 @@ PWN:sculptor.n.01		sculptor		:sculptor
 PWN:scythe.n.01		scythe		
 PWN:scythe.n.01		sickle		:secula
 PWN:sea.n.01		sea		
+PWN:seaport.n.01		port		:porta
 PWN:search.v.01		look for		
 PWN:search.v.01		seek		
 PWN:season.n.02		season		:seson
@@ -1143,6 +1173,7 @@ PWN:shark.n.01		shark
 PWN:sharp.a.09		sharp		
 PWN:shears.n.01		scissors		:*cīsōria (Pl; unattested)
 PWN:shears.n.01		shears		
+PWN:shed.n.01		shed		
 PWN:sheep.n.01		sheep		
 PWN:shelf.n.01		shelf		gml:schelf
 PWN:shell.n.10		shell		
@@ -1175,8 +1206,6 @@ PWN:sink.v.01		sink
 PWN:sister.n.01		sister		nhu:systir
 PWN:sit_down.v.01		sit		
 PWN:six.s.01		six		
-PWN:skid.v.04		slide		
-PWN:skid.v.04		slip		nld:slippen
 PWN:skin.v.04		peel		:pilāre
 PWN:skirt.n.02		skirt		nhu:skyrta
 PWN:skull.n.01		skull		
@@ -1312,7 +1341,7 @@ PWN:take.v.04		take		nhu:taka
 PWN:tall.a.01		tall		
 PWN:tan.v.01		tan		:tannāre
 PWN:tapir.n.01		tapir		:tapyra
-PWN:taste.v.01		taste		:taster
+PWN:taste.v.02		taste		:taster
 PWN:tattoo.n.02		tattoo		tah:tātau
 PWN:tax.n.01		tax		:taxāre
 PWN:tea.n.01		tea		mnp:tiä
@@ -1341,6 +1370,7 @@ PWN:thing.n.12		thing
 PWN:think.v.02		think		
 PWN:think.v.03		think		
 PWN:third.s.01		third		
+PWN:thirst.v.01		thirsty		
 PWN:thorax.n.02		chest		ell:kistē
 PWN:thousand.s.01		thousand		
 PWN:thrash.v.06		thresh		
@@ -1395,6 +1425,7 @@ PWN:twelve.s.01		twelve
 PWN:twenty.s.01		twenty		
 PWN:twice.r.01		twice		
 PWN:twin.n.01		twins		
+PWN:twist.v.04		twist		
 PWN:two.s.01		two		
 PWN:udder.n.01		udder		
 PWN:ugly.a.01		ugly		nhu:uggligr
@@ -1421,6 +1452,7 @@ PWN:waist.n.01		waist
 PWN:wake_up.v.02		wake (up)		
 PWN:walk.v.01		walk		
 PWN:walking_stick.n.01		stick		
+PWN:wall.n.01		wall		:vallum
 PWN:warm.a.01		warm		
 PWN:wash.v.03		wash		
 PWN:wasp.n.02		wasp		

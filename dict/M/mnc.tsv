@@ -8,11 +8,11 @@ PLX:3PL.pro		ce	t͡ʃɤ
 PLX:3SG M.pro		i	i
 PLX:3SG M.pro		tere	tʰɤrɤ
 PLX:and.cnj		bime	pimɤ
-PLX:because of.adp		jakade	d͡ʒakʰatɤ
-PLX:behind.adp		amala	amala
-PLX:behind.adp		amrgi	amrki
-PLX:behind.adp		sitashūn	sitʰasxʊn
-PLX:beside.adp		tulgiyen	tʰulkijɤn
+PLX:because of.pp		jakade	d͡ʒakʰatɤ
+PLX:behind.pp		amala	amala
+PLX:behind.pp		amrgi	amrki
+PLX:behind.pp		sitashūn	sitʰasxʊn
+PLX:beside.pp		tulgiyen	tʰulkijɤn
 PLX:can.v		mutembi	mutʰɤmpi
 PLX:die (from accident).V		susambi	susampi
 PLX:everywhere.pro		akūname	akʰʊnamɤ
@@ -24,13 +24,13 @@ PLX:how many.pro		udu	utu
 PLX:how many.pro		ya gese	ja kɤsɤ
 PLX:how.pro		adarame	ataramɤ
 PLX:how.pro		ainame	ainamɤ
-PLX:in front of.adp		jakade	d͡ʒakʰatɤ
-PLX:in front of.adp		julergi	d͡ʒulɤrki
+PLX:in front of.pp		jakade	d͡ʒakʰatɤ
+PLX:in front of.pp		julergi	d͡ʒulɤrki
 PLX:or.cnj		eici	ɤit͡ʃi
 PLX:that.pro		tere	tʰɤrɤ
 PLX:this.pro		uba	upa
-PLX:under.adp		wala	wala
-PLX:under.adp		wargi	warki
+PLX:under.pp		wala	wala
+PLX:under.pp		wargi	warki
 PLX:what.pro		ai	ai
 PLX:where.pro		aiba	aipa
 PLX:where_to.pro		aibide	aipitɤ
@@ -250,9 +250,6 @@ PWN:chair.n.01		nikeku mulan	nikʰɤkʰu mulan
 PWN:change.v.01		forgošombi	fɔrkɔʃɔmpi
 PWN:change.v.01		gūwaliyambi	kʊwalijampi
 PWN:change.v.01		halambi	xalampi
-PWN:change.v.03		forgošombi	fɔrkɔʃɔmpi
-PWN:change.v.03		gūwaliyambi	kʊwalijampi
-PWN:change.v.03		halambi	xalampi
 PWN:character.n.08		hergen	xɤrkɤn
 PWN:cheap.a.01		ja	d͡ʒa
 PWN:cheek.n.01		šakšaha	ʃakʰʃaxa
@@ -363,6 +360,9 @@ PWN:deft.s.01		gabsihiyan	kapsixijan
 PWN:deft.s.01		nergi	nɤrki
 PWN:deity.n.01		di	ti
 PWN:deity.n.01		enduri	ɤnturi
+PWN:depart.v.03		arbušambi	arpuʃampi
+PWN:depart.v.03		aššambi	aʃʃampi
+PWN:depart.v.03		gurimbi	kurimpi
 PWN:descend.v.01		eyembi	ɤjɤmpi
 PWN:desire.n.01		buyecun	pujɤt͡ʃun
 PWN:desire.n.01		buyen	pujɤn
@@ -441,6 +441,9 @@ PWN:elbow.n.01		mayan	majan
 PWN:eleven.s.01		juwan emu	d͡ʒuwan ɤmu
 PWN:elk.n.01		anami	anami
 PWN:emerge.v.01		acabumbi	at͡ʃapumpi
+PWN:employment.n.02		baita	paitʰa
+PWN:employment.n.02		hūda	xʊta
+PWN:employment.n.02		hūda maiman	xʊta maiman
 PWN:empty.a.01		ebetuhun	ɤpɤtʰuxun
 PWN:empty.a.01		ebetuhun holo	ɤpɤtʰuxun xɔlɔ
 PWN:end.n.03		šala	ʃala
@@ -457,6 +460,9 @@ PWN:evening.n.01		yamji	jamd͡ʒi
 PWN:evil.a.01		aburi	apuri
 PWN:evil.a.01		ehe	ɤxɤ
 PWN:evil.a.01		miosihon	miɔsixɔn
+PWN:exchange.v.01		forgošombi	fɔrkɔʃɔmpi
+PWN:exchange.v.01		gūwaliyambi	kʊwalijampi
+PWN:exchange.v.01		halambi	xalampi
 PWN:exclaim.v.01		kaicambi	kʰait͡ʃampi
 PWN:exclaim.v.01		surembi	surɤmpi
 PWN:exit.v.01		milambi	milampi
@@ -477,7 +483,7 @@ PWN:familiar.a.01		gebungge	kɤpuŋkɤ
 PWN:family.n.02		boigon	pɔikɔn
 PWN:family.n.02		boigon anggala	pɔikɔn aŋkala
 PWN:family.n.02		hala	xala
-PWN:far.r.02		duyen	tujɤn
+PWN:faraway.s.01		duyen	tujɤn
 PWN:fat.n.01		nimenggi	nimɤŋki
 PWN:fat.n.01		tarhūn	tʰarxʊn
 PWN:father.n.01		ama	ama
@@ -882,7 +888,7 @@ PWN:neck.n.01		meifen	mɤifɤn
 PWN:neck.n.01		monggon	mɔŋkɔn
 PWN:needle.n.03		ulme	ulmɤ
 PWN:nest.n.01		feye	fɤjɤ
-PWN:net_income.n.01		helmehen i ašu	xɤlmɤxɤn i aʃu
+PWN:net.n.06		helmehen i ašu	xɤlmɤxɤn i aʃu
 PWN:new.a.01		arda	arta
 PWN:new.a.01		kišan	kʰiʃan
 PWN:new.a.01		soningga	sɔniŋka
@@ -1243,8 +1249,8 @@ PWN:take.v.04		gamambi	kamampi
 PWN:take.v.04		omimbi	ɔmimpi
 PWN:talk.v.02		gisurembi	kisurɤmpi
 PWN:taste.n.01		amtan simten	amtʰan simtʰɤn
-PWN:taste.v.01		amtalambi	amtʰalampi
-PWN:taste.v.01		fimembi	fimɤmpi
+PWN:taste.v.02		amtalambi	amtʰalampi
+PWN:taste.v.02		fimembi	fimɤmpi
 PWN:tasty.a.01		amtangga	amtʰaŋka
 PWN:tea.n.01		cai	t͡ʃai
 PWN:teach.v.01		tacibumbi	tʰat͡ʃipumpi
@@ -1319,9 +1325,6 @@ PWN:trap.n.01		eye	ɤjɤ
 PWN:trap.n.01		hūbin	xʊpin
 PWN:trap.v.02		gamambi	kamampi
 PWN:trap.v.02		omimbi	ɔmimpi
-PWN:travel.v.01		arbušambi	arpuʃampi
-PWN:travel.v.01		aššambi	aʃʃampi
-PWN:travel.v.01		gurimbi	kurimpi
 PWN:travel.v.01		yabumbi	japumpi
 PWN:tree.n.01		moo	mɔɔ
 PWN:trouser.n.01		fakūri	fakʰʊri
@@ -1425,9 +1428,6 @@ PWN:woman.n.01		sargan	sarkan
 PWN:wood.n.01		moo	mɔɔ
 PWN:wool.n.02		jafu	d͡ʒafu
 PWN:word.n.01		gisun	kisun
-PWN:work.n.01		baita	paitʰa
-PWN:work.n.01		hūda	xʊta
-PWN:work.n.01		hūda maiman	xʊta maiman
 PWN:work.v.01		dambi	tampi
 PWN:work.v.01		hūsun yabumbi	xʊsun japumpi
 PWN:work.v.01		weilembi	wɤilɤmpi

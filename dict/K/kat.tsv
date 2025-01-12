@@ -7,11 +7,11 @@ PLX:3PL.pro		ისინი	isini
 PLX:3SG M.pro		იგი	iɡi
 PLX:3SG M.pro		ის	is
 PLX:and.cnj		და	dɑ
-PLX:because of.adp		გამო	ɡɑmɔ
-PLX:because of.adp		შედეგად	ʃɛdɛɡɑd
-PLX:behind.adp		მიღმა	miɣmɑ
-PLX:behind.adp		უკან	ukˀɑn
-PLX:beside.adp		გვერდით	ɡvɛrditʰ
+PLX:because of.pp		გამო	ɡɑmɔ
+PLX:because of.pp		შედეგად	ʃɛdɛɡɑd
+PLX:behind.pp		მიღმა	miɣmɑ
+PLX:behind.pp		უკან	ukˀɑn
+PLX:beside.pp		გვერდით	ɡvɛrditʰ
 PLX:can.v		შეიძლება	ʃɛid͡zlɛbɑ
 PLX:die (from accident).V		დაიღუპება	dɑiɣupˀɛbɑ
 PLX:everywhere.pro		ყველგან	qˀvɛlɡɑn
@@ -19,12 +19,12 @@ PLX:from here.adv		აქედან	ɑkʰɛdɑn
 PLX:get sick.V		ავად გახდება	ɑvɑd ɡɑxdɛbɑ
 PLX:how many.pro		რამდენი	rɑmdɛni
 PLX:how.pro		როგორ	rɔɡɔr
-PLX:in front of.adp		წინ	t͡sˀin
+PLX:in front of.pp		წინ	t͡sˀin
 PLX:or.cnj		ან	ɑn
 PLX:that.pro		ეგ	ɛɡ
 PLX:this.pro		ეს	ɛs
-PLX:under.adp		ქვევით	kʰvɛvitʰ
-PLX:under.adp		ქვეშ	kʰvɛʃ
+PLX:under.pp		ქვევით	kʰvɛvitʰ
+PLX:under.pp		ქვეშ	kʰvɛʃ
 PLX:what.pro		რა	rɑ
 PLX:where.pro		სად	sɑd
 PLX:where_to.pro		საით	sɑitʰ
@@ -184,7 +184,6 @@ PWN:cavil.v.01		შეიგინება	ʃɛiɡinɛbɑ
 PWN:center.n.01		შუა	ʃuɑ
 PWN:chair.n.01		სკამი	skˀɑmi
 PWN:change.v.01		შეცვლის	ʃɛt͡sʰvlis
-PWN:change.v.03		იცვლება	it͡sʰvlɛbɑ
 PWN:character.n.08		ასო	ɑsɔ
 PWN:cheap.a.01		იაფი	iɑpʰi
 PWN:cheek.n.01		ლოყა	lɔqˀɑ
@@ -273,6 +272,8 @@ PWN:defend.v.03		დაიცავს	dɑit͡sʰɑvs
 PWN:deft.s.01		გაწაფული	ɡɑt͡sˀɑpʰuli
 PWN:deft.s.01		მარჯვე	mɑrd͡ʒvɛ
 PWN:deity.n.01		ღმერთი	ɣmɛrtʰi
+PWN:depart.v.03		იძვრის	id͡zvris
+PWN:depart.v.03		მოძრაობს	mɔd͡zrɑɔbs
 PWN:descend.v.01		დაიწევს	dɑit͡sˀɛvs
 PWN:desire.n.01		წადილი	t͡sˀɑdili
 PWN:desire.v.01		უნდა	undɑ
@@ -333,6 +334,7 @@ PWN:elbow.n.01		იდაყვი	idɑqˀvi
 PWN:eleven.s.01		თერთმეტი	tʰɛrtʰmɛtˀi
 PWN:elk.n.01		ცხენ-ირემი	t͡sʰxɛn-irɛmi
 PWN:emerge.v.01		გამოჩნდება	ɡɑmɔt͡ʃʰndɛbɑ
+PWN:employment.n.02		მუშაობა	muʃɑɔbɑ
 PWN:empty.a.01		ცარიელი	t͡sʰɑriɛli
 PWN:end.n.03		ბოლო	bɔlɔ
 PWN:end.n.03		დასასრული	dɑsɑsruli
@@ -345,6 +347,7 @@ PWN:escape.v.01		გაიქცევა	ɡɑikʰt͡sʰɛvɑ
 PWN:evening.n.01		საღამო	sɑɣɑmɔ
 PWN:evil.a.01		ავი	ɑvi
 PWN:evil.a.01		ბოროტი	bɔrɔtˀi
+PWN:exchange.v.01		იცვლება	it͡sʰvlɛbɑ
 PWN:exclaim.v.01		ყვირის	qˀviris
 PWN:exit.v.01		წამოდის	t͡sˀɑmɔdis
 PWN:expensive.a.01		ძვირი	d͡zviri
@@ -362,8 +365,8 @@ PWN:fall.v.01		დავარდება	dɑvɑrdɛbɑ
 PWN:fall_asleep.v.01		დაიძინებს	dɑid͡zinɛbs
 PWN:familiar.a.01		ცნობილი	t͡sʰnɔbili
 PWN:family.n.02		ოჯახი	ɔd͡ʒɑxi
-PWN:far.r.02		შორეული	ʃɔrɛuli
-PWN:far.r.02		შორი	ʃɔri
+PWN:faraway.s.01		შორეული	ʃɔrɛuli
+PWN:faraway.s.01		შორი	ʃɔri
 PWN:fat.n.01		ქონი	kʰɔni
 PWN:fat.n.01		ცხიმი	t͡sʰximi
 PWN:father.n.01		მამა	mɑmɑ
@@ -671,7 +674,7 @@ PWN:neck.n.01		კისერი	kˀisɛri
 PWN:neck.n.01		ყელი	qˀɛli
 PWN:needle.n.03		ნემსი	nɛmsi
 PWN:nest.n.01		ბუდე	budɛ
-PWN:net_income.n.01		ბადე	bɑdɛ
+PWN:net.n.06		ბადე	bɑdɛ
 PWN:never.r.01		არასდროს	ɑrɑsdrɔs
 PWN:new.a.01		ახალი	ɑxɑli
 PWN:news.n.01		სიახლე	siɑxlɛ
@@ -964,7 +967,7 @@ PWN:tail.n.01		კუდი	kˀudi
 PWN:take.v.04		აიღებს	ɑiɣɛbs
 PWN:talk.v.02		საუბრობს	sɑubrɔbs
 PWN:taste.n.01		გემო	ɡɛmɔ
-PWN:taste.v.01		გასინჯავს	ɡɑsind͡ʒɑvs
+PWN:taste.v.02		გასინჯავს	ɡɑsind͡ʒɑvs
 PWN:tasty.a.01		გემრიელი	ɡɛmriɛli
 PWN:tea.n.01		ჩაი	t͡ʃʰɑi
 PWN:teach.v.01		ასწავლის	ɑst͡sˀɑvlis
@@ -1024,9 +1027,7 @@ PWN:translate.v.01		გადათარგმნის	ɡɑdɑtʰɑrɡmnis
 PWN:transport.v.02		მიიტანს	miitˀɑns
 PWN:trap.n.01		ხაფანგი	xɑpʰɑnɡi
 PWN:trap.v.02		დააჭერს	dɑɑt͡ʃˀɛrs
-PWN:travel.v.01		იძვრის	id͡zvris
 PWN:travel.v.01		მიდის	midis
-PWN:travel.v.01		მოძრაობს	mɔd͡zrɑɔbs
 PWN:tree.n.01		ხე	xɛ
 PWN:trouser.n.01		შარვალი	ʃɑrvɑli
 PWN:true.a.01		სწორი	st͡sˀɔri
@@ -1104,7 +1105,6 @@ PWN:woman.n.01		ქალი	kʰɑli
 PWN:wood.n.01		ხე	xɛ
 PWN:wool.n.02		მატყლი	mɑtˀqˀli
 PWN:word.n.01		სიტყვა	sitˀqˀvɑ
-PWN:work.n.01		მუშაობა	muʃɑɔbɑ
 PWN:work.v.01		მუშაობს	muʃɑɔbs
 PWN:worker.n.01		მუშა	muʃɑ
 PWN:world.n.02		მსოფლიო	msɔpʰliɔ

@@ -8,10 +8,10 @@ PLX:3SG M.pro		тэр	tʰer
 PLX:3SG M.pro		тэр хүн	tʰer xŭŋ
 PLX:and.cnj		болон	pɔɮɔ̆ŋ
 PLX:and.cnj		ч	t͡ʃʰ
-PLX:because of.adp		дээрээс	teːres
-PLX:because of.adp		төлөө	tʰɵɮo
-PLX:behind.adp		ард	art
-PLX:beside.adp		хажууд	xat͡ʃʊt
+PLX:because of.pp		дээрээс	teːres
+PLX:because of.pp		төлөө	tʰɵɮo
+PLX:behind.pp		ард	art
+PLX:beside.pp		хажууд	xat͡ʃʊt
 PLX:can.v		болох	pɔɮɔ̆x
 PLX:die (from accident).V		үхэх	uxĕx
 PLX:everywhere.pro		хааяагүй	xaːjaɢui̯
@@ -22,11 +22,11 @@ PLX:how many.pro		хэд	xet
 PLX:how many.pro		хэдий	xetʲi
 PLX:how.pro		хэрхэн	xerxĕŋ
 PLX:how.pro		яаж	jaːt͡ʃ
-PLX:in front of.adp		өмнө	ɵmnɵ̆
+PLX:in front of.pp		өмнө	ɵmnɵ̆
 PLX:or.cnj		буюу	pʊjʊ
 PLX:that.pro		тэр	tʰer
 PLX:this.pro		энэ	enĕ
-PLX:under.adp		доор	tɔːr
+PLX:under.pp		доор	tɔːr
 PLX:what.pro		юу	jʊː
 PLX:where.pro		хаа	xaː
 PLX:where.pro		хаана	xaːnă
@@ -206,7 +206,6 @@ PWN:center.n.01		дунд	tʊnt
 PWN:center.n.01		төв	tʰɵw̜
 PWN:chair.n.01		сандал	santăɮ
 PWN:change.v.01		өөрчлөх	oːrt͡ʃʰɮɵ̆x
-PWN:change.v.03		хувирах	xʊw̜ʲirăx
 PWN:character.n.08		үсэг	usĕɡ
 PWN:cheap.a.01		хямд	xʲămt
 PWN:cheek.n.01		хацар	xat͡sʰăr
@@ -298,6 +297,7 @@ PWN:decrease.v.01		хорогдох	xɔrɔ̆ɢtɔ̆x
 PWN:defend.v.03		хамгаалах	xamɢaɮăx
 PWN:deft.s.01		дүйтэй	tuːi̯tʰĕj
 PWN:deity.n.01		бурхан	pʊrxăŋ
+PWN:depart.v.03		хөдлөх	xɵtɮɵ̆x
 PWN:descend.v.01		доошлох	tɔːʃɮɔ̆x
 PWN:descend.v.01		татрах	tʰatʰrăx
 PWN:desire.n.01		дур	tʊr
@@ -364,6 +364,8 @@ PWN:eleven.s.01		арван нэг	arw̜ăn nĕɡ
 PWN:elk.n.01		хандгай	xantɢai̯
 PWN:emerge.v.01		бултайх	pʊɮtʰai̯x
 PWN:emerge.v.01		гарах	ɢărăx
+PWN:employment.n.02		ажил	at͡ʃʲiɮ
+PWN:employment.n.02		хөдөлмөр	xɵtɵ̆ɮmɵ̆r
 PWN:empty.a.01		хоосон	xɔːsɔ̆ŋ
 PWN:end.n.03		төгсгөл	tʰɵɡsɡɵ̆ɮ
 PWN:end.n.03		эцэс	et͡sʰĕs
@@ -379,6 +381,7 @@ PWN:escape.v.01		оргох	ɔrɢɔ̆x
 PWN:evening.n.01		үдэш	utĕʃ
 PWN:evil.a.01		муу	mʊː
 PWN:evil.a.01		хортой	xɔrtʰɔi̯
+PWN:exchange.v.01		хувирах	xʊw̜ʲirăx
 PWN:exclaim.v.01		хашгирах	xaʃɡʲirăx
 PWN:exit.v.01		явах	jaw̜ăx
 PWN:expensive.a.01		үнэтэй	unĕtʰĕj
@@ -395,7 +398,7 @@ PWN:fall.v.01		унах	ʊnăx
 PWN:fall_asleep.v.01		унтчих	ʊntʰt͡ʃʰʲix
 PWN:familiar.a.01		танил	tʰanʲiɮ
 PWN:family.n.02		айл	aːi̯ɮ
-PWN:far.r.02		холын	xɔɮĭŋ
+PWN:faraway.s.01		холын	xɔɮĭŋ
 PWN:fat.n.01		өөх	oːx
 PWN:father.n.01		аав	aːw̜
 PWN:father.n.01		эцэг	et͡sʰĕɡ
@@ -736,8 +739,8 @@ PWN:near.r.01		ойрын	ɔːi̯rĭŋ
 PWN:neck.n.01		хүзүү	xut͡su
 PWN:needle.n.03		зүү	t͡suː
 PWN:nest.n.01		үүр	uːr
-PWN:net_income.n.01		тор	tʰɔr
-PWN:net_income.n.01		өөш	oːʃ
+PWN:net.n.06		тор	tʰɔr
+PWN:net.n.06		өөш	oːʃ
 PWN:never.r.01		хэдийд ч	xetʲit t͡ʃʰ
 PWN:never.r.01		хэзээ ч	xet͡se t͡ʃʰ
 PWN:new.a.01		шинэ	ʃʲinĕ
@@ -1064,7 +1067,7 @@ PWN:take.v.04		авах	aw̜ăx
 PWN:talk.v.02		хэлэх	xeɮĕx
 PWN:talk.v.02		хөөрөлдөх	xoːrɵ̆ɮtɵ̆x
 PWN:taste.n.01		амт	amtʰ
-PWN:taste.v.01		амсаж үзэх	amsăt͡ʃ ŭt͡sĕx
+PWN:taste.v.02		амсаж үзэх	amsăt͡ʃ ŭt͡sĕx
 PWN:tasty.a.01		амттай	amtʰtʰai̯
 PWN:tea.n.01		цай	t͡sʰaːi̯
 PWN:teach.v.01		заах	t͡saːx
@@ -1134,7 +1137,6 @@ PWN:transport.v.02		авчрах	aw̜t͡ʃʰrăx
 PWN:trap.n.01		занга	t͡sanɢă
 PWN:trap.n.01		хавх	xaw̜x
 PWN:trap.v.02		барих	parʲix
-PWN:travel.v.01		хөдлөх	xɵtɮɵ̆x
 PWN:travel.v.01		явах	jaw̜ăx
 PWN:tree.n.01		мод	mɔt
 PWN:trouser.n.01		өмд	ɵmt
@@ -1222,8 +1224,6 @@ PWN:wood.n.01		мод	mɔt
 PWN:wool.n.02		ноос	nɔːs
 PWN:wool.n.02		унгас	ʊnɢăs
 PWN:word.n.01		үг	uɡ
-PWN:work.n.01		ажил	at͡ʃʲiɮ
-PWN:work.n.01		хөдөлмөр	xɵtɵ̆ɮmɵ̆r
 PWN:work.v.01		ажиллах	at͡ʃʲiɮɮăx
 PWN:work.v.01		хөдөлмөрлөх	xɵtɵ̆ɮmɵ̆rɮɵ̆x
 PWN:worker.n.01		ажилчин	at͡ʃʲiɮt͡ʃʰʲiŋ

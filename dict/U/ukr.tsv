@@ -6,11 +6,11 @@ PLX:2SG.pro		ти	tɪ
 PLX:3PL.pro		вони	wɔnɪ
 PLX:3SG M.pro		він	vin
 PLX:and.cnj		і	ji
-PLX:because of.adp		з-за	zːɑ
-PLX:because of.adp		через	ʈ͡ʂɛrɛz
-PLX:behind.adp		ззаду	zːɑdu
-PLX:behind.adp		позаду	pɔzɑdu
-PLX:beside.adp		біля	bilʲɑ
+PLX:because of.pp		з-за	zːɑ
+PLX:because of.pp		через	ʈ͡ʂɛrɛz
+PLX:behind.pp		ззаду	zːɑdu
+PLX:behind.pp		позаду	pɔzɑdu
+PLX:beside.pp		біля	bilʲɑ
 PLX:can.v		могти	mɔɦtɪ
 PLX:die (from accident).V		згинути	zɦɪnutɪ
 PLX:everywhere.pro		скрізь	skrʲizʲ
@@ -18,11 +18,11 @@ PLX:from here.adv		звідси	zvidsɪ
 PLX:get sick.V		захворіти	zɑxwɔrʲitɪ
 PLX:how many.pro		скільки	skilʲkɪ
 PLX:how.pro		як	jɑk
-PLX:in front of.adp		перед	pɛrɛd
+PLX:in front of.pp		перед	pɛrɛd
 PLX:or.cnj		або	ɑbɔ
 PLX:that.pro		то	tɔ
 PLX:this.pro		це	t͡sɛ
-PLX:under.adp		під	pʲid
+PLX:under.pp		під	pʲid
 PLX:what.pro		що	ʂʈ͡ʂɔ
 PLX:where.pro		де	dɛ
 PLX:where_to.pro		куди	kudɪ
@@ -175,7 +175,6 @@ PWN:cavil.v.01		лаятися	lɑjɑtɪsʲɑ
 PWN:center.n.01		середина	sɛrɛdɪnɑ
 PWN:chair.n.01		стілець	stʲilɛt͡sʲ
 PWN:change.v.01		змінити	zminɪtɪ
-PWN:change.v.03		мінятися	minʲɑtɪsʲɑ
 PWN:character.n.08		буква	bukwɑ
 PWN:character.n.08		літера	lʲitɛrɑ
 PWN:cheap.a.01		дешевий	dɛʂɛwɪj
@@ -258,6 +257,7 @@ PWN:decrease.v.01		поменшитися	pɔmɛnʂɪtɪsʲɑ
 PWN:defend.v.03		захистити	zɑxɪstɪtɪ
 PWN:deft.s.01		умілий	umilɪj
 PWN:deity.n.01		бог	bɔɦ
+PWN:depart.v.03		рухатися	ruxɑtɪsʲɑ
 PWN:descend.v.01		спадати	spɑdɑtɪ
 PWN:desire.n.01		бажання	bɑʐɑnʲːɑ
 PWN:desire.v.01		хотіти	xɔtʲitɪ
@@ -312,6 +312,7 @@ PWN:elbow.n.01		лікоть	lʲikɔtʲ
 PWN:eleven.s.01		одинадцять	ɔdɪnɑdt͡sʲɑtʲ
 PWN:elk.n.01		лось	lɔsʲ
 PWN:emerge.v.01		з’явитися	zjɑwɪtɪsʲɑ
+PWN:employment.n.02		робота	rɔbɔtɑ
 PWN:empty.a.01		пустий	pustɪj
 PWN:end.n.03		кінець	kinɛt͡sʲ
 PWN:end.n.09		кінець	kinɛt͡sʲ
@@ -324,6 +325,7 @@ PWN:escape.v.01		утекти	utɛktɪ
 PWN:evening.n.01		вечір	wɛʈ͡ʂjir
 PWN:evil.a.01		злий	zlɪj
 PWN:evil.a.01		лихий	lɪxɪj
+PWN:exchange.v.01		мінятися	minʲɑtɪsʲɑ
 PWN:exclaim.v.01		кричати	krɪʈ͡ʂɑtɪ
 PWN:exit.v.01		піти	pʲitɪ
 PWN:expensive.a.01		дорогий	dɔrɔɦɪj
@@ -339,7 +341,7 @@ PWN:fall_asleep.v.01		заснути	zɑsnutɪ
 PWN:familiar.a.01		знайомий	znɑjɔmɪj
 PWN:family.n.02		родина	rɔdɪnɑ
 PWN:family.n.02		сім’я	sʲimjɑ
-PWN:far.r.02		далекий	dɑlɛkɪj
+PWN:faraway.s.01		далекий	dɑlɛkɪj
 PWN:fat.n.01		жир	ʐɪr
 PWN:father.n.01		батько	bɑtʲkɔ
 PWN:fault.n.06		провина	prɔwɪnɑ
@@ -624,7 +626,7 @@ PWN:near.r.01		близький	blɪzʲkɪj
 PWN:neck.n.01		шия	ʂɪjɑ
 PWN:needle.n.03		голка	ɦɔlkɑ
 PWN:nest.n.01		гніздо	ɦnʲizdɔ
-PWN:net_income.n.01		сіть	sʲitʲ
+PWN:net.n.06		сіть	sʲitʲ
 PWN:never.r.01		ніколи	nʲikɔlɪ
 PWN:new.a.01		новий	nɔwɪj
 PWN:news.n.01		новина	nɔwɪnɑ
@@ -897,7 +899,7 @@ PWN:tail.n.01		хвіст	xvist
 PWN:take.v.04		взяти	wzʲɑtɪ
 PWN:talk.v.02		розмовляти	rɔzmɔwlʲɑtɪ
 PWN:taste.n.01		смак	smɑk
-PWN:taste.v.01		покуштувати	pɔkuʂtuwɑtɪ
+PWN:taste.v.02		покуштувати	pɔkuʂtuwɑtɪ
 PWN:tasty.a.01		смачний	smɑʈ͡ʂnɪj
 PWN:tea.n.01		чай	ʈ͡ʂɑj
 PWN:teach.v.01		вчити	wʈ͡ʂɪtɪ
@@ -956,7 +958,6 @@ PWN:translate.v.01		перекласти	pɛrɛklɑstɪ
 PWN:transport.v.02		нести	nɛstɪ
 PWN:trap.n.01		пастка	pɑstkɑ
 PWN:trap.v.02		піймати	pʲijmɑtɪ
-PWN:travel.v.01		рухатися	ruxɑtɪsʲɑ
 PWN:travel.v.01		іти	jitɪ
 PWN:tree.n.01		дерево	dɛrɛwɔ
 PWN:trouser.n.01		брюки	brʲukɪ
@@ -1029,7 +1030,6 @@ PWN:woman.n.01		жінка	ʐjinkɑ
 PWN:wood.n.01		дрова	drɔwɑ
 PWN:wool.n.02		шерсть	ʂɛrstʲ
 PWN:word.n.01		слово	slɔwɔ
-PWN:work.n.01		робота	rɔbɔtɑ
 PWN:work.v.01		працювати	prɑt͡sʲuwɑtɪ
 PWN:worker.n.01		робітник	rɔbitnɪk
 PWN:world.n.02		світ	svit

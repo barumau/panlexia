@@ -6,9 +6,9 @@ PLX:2SG.pro		тат	tat
 PLX:3PL.pro		тэпын	tæpɨn
 PLX:3SG M.pro		тэп	tæp
 PLX:and.cnj		ай	aj
-PLX:because of.adp		чөты	t͡ɕøtɨ
-PLX:behind.adp		той пеляӄын	toj pʲeʎaqɨn
-PLX:beside.adp		ӄаныӄын	qanɨqɨn
+PLX:because of.pp		чөты	t͡ɕøtɨ
+PLX:behind.pp		той пеляӄын	toj pʲeʎaqɨn
+PLX:beside.pp		ӄаныӄын	qanɨqɨn
 PLX:can.v		тенымыӄа	tʲenɨmɨqa
 PLX:die (from accident).V		ӄуӄа	quqa
 PLX:everywhere.pro		истамы	jistamɨ
@@ -16,12 +16,12 @@ PLX:from here.adv		тамыннөны	tamɨnːønɨ
 PLX:get sick.V		ӄӱталеӄа	qytaʎeqa
 PLX:how many.pro		кущяй	kuɕaj
 PLX:how.pro		куттар	kutːar
-PLX:in front of.adp		укөӄын	ukøqɨn
+PLX:in front of.pp		укөӄын	ukøqɨn
 PLX:or.cnj		али	aʎi
 PLX:or.cnj		или	jiʎi
 PLX:that.pro		на	na
 PLX:this.pro		на	na
-PLX:under.adp		ылӄын	ɨlqɨn
+PLX:under.pp		ылӄын	ɨlqɨn
 PLX:what.pro		ӄай	qaj
 PLX:where.pro		кун	kun
 PLX:where_to.pro		кутче	kutt͡ɕe
@@ -243,6 +243,7 @@ PWN:decrease.v.01		ӄөна эсыӄа	qøna æsɨqa
 PWN:defend.v.03		өттыӄа	øtːɨqa
 PWN:deft.s.01		раӈкай	raŋkaj
 PWN:deity.n.01		ном	nom
+PWN:depart.v.03		лаӄалтеӄа	laqaltʲeqa
 PWN:desire.n.01		эсымпа	æsɨmpa
 PWN:desire.v.01		кыкыӄа	kɨkɨqa
 PWN:destroy.v.02		паналӄа	panalqa
@@ -297,6 +298,7 @@ PWN:elbow.n.01		сыӈтят	sɨŋtʲat
 PWN:eleven.s.01		уккыр кэй кён	ukːɨr kæj kʲon
 PWN:elk.n.01		пяӄӄы	pʲaqːɨ
 PWN:emerge.v.01		ӄонтышӄа	qontɨʃqa
+PWN:employment.n.02		учы	ut͡ɕɨ
 PWN:empty.a.01		щӱнчыпый	ɕynt͡ɕɨpɨj
 PWN:end.n.03		чипы	t͡ɕipɨ
 PWN:end.n.09		чипы	t͡ɕipɨ
@@ -322,7 +324,7 @@ PWN:fall.v.01		алчыӄа	alt͡ɕɨqa
 PWN:fall_asleep.v.01		ӄөнталеӄа	qøntaʎeqa
 PWN:familiar.a.01		тенымытый	tʲenɨmɨtɨj
 PWN:family.n.02		ийяй мөт	jijaj møt
-PWN:far.r.02		ӄунтаӄый	quntaqɨj
+PWN:faraway.s.01		ӄунтаӄый	quntaqɨj
 PWN:fat.n.01		ӱр	yr
 PWN:father.n.01		эсы	æsɨ
 PWN:fault.n.06		ӱры	yrɨ
@@ -596,7 +598,7 @@ PWN:near.r.01		тэтычай	tætɨt͡ɕaj
 PWN:neck.n.01		сой	soj
 PWN:needle.n.03		мыка	mɨka
 PWN:nest.n.01		питы	pʲitɨ
-PWN:net_income.n.01		поӄӄы	poqːɨ
+PWN:net.n.06		поӄӄы	poqːɨ
 PWN:never.r.01		кушан аща	kuʃan aɕa
 PWN:new.a.01		щенты	ɕentɨ
 PWN:news.n.01		щентый	ɕentɨj
@@ -869,7 +871,7 @@ PWN:tail.n.01		талчи	talt͡ɕi
 PWN:take.v.04		иӄа	jiqa
 PWN:talk.v.02		мулымпыӄа	mulɨmpɨqa
 PWN:taste.n.01		нюня	ɲuɲa
-PWN:taste.v.01		саӈаӄа	saŋaqa
+PWN:taste.v.02		саӈаӄа	saŋaqa
 PWN:tasty.a.01		нюнитый	ɲuɲitɨj
 PWN:tea.n.01		чой	t͡ɕoj
 PWN:teach.v.01		танталтыӄа	tantaltɨqa
@@ -929,7 +931,6 @@ PWN:transport.v.02		туӄылӄа	tuqɨlqa
 PWN:trap.n.01		чаӈкы	t͡ɕaŋkɨ
 PWN:trap.v.02		ораӄа	oraqa
 PWN:travel.v.01		куттарӄа	kutːarqa
-PWN:travel.v.01		лаӄалтеӄа	laqaltʲeqa
 PWN:tree.n.01		по	po
 PWN:trouser.n.01		пӱммы	pymːɨ
 PWN:true.a.01		ӱромынты	yromɨntɨ
@@ -1000,7 +1001,6 @@ PWN:woman.n.01		има	jima
 PWN:wood.n.01		по	po
 PWN:wool.n.02		тар	tar
 PWN:word.n.01		эты	ætɨ
-PWN:work.n.01		учы	ut͡ɕɨ
 PWN:work.v.01		учыӄа	ut͡ɕɨqa
 PWN:worker.n.01		учынтый ӄум	ut͡ɕɨntɨj qum
 PWN:world.n.02		мир	mʲir

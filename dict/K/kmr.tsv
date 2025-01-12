@@ -6,10 +6,10 @@ PLX:2SG.pro		tu	tʊ
 PLX:3PL.pro		we	wɛ
 PLX:3SG M.pro		wî	wi
 PLX:and.cnj		û	u
-PLX:because of.adp		ji ber	ʒə bɛr
-PLX:because of.adp		ji bo	ʒə bo
-PLX:behind.adp		li pişt	lə pəʃt
-PLX:beside.adp		li ba	lə ba
+PLX:because of.pp		ji ber	ʒə bɛr
+PLX:because of.pp		ji bo	ʒə bo
+PLX:behind.pp		li pişt	lə pəʃt
+PLX:beside.pp		li ba	lə ba
 PLX:can.v		karin	karən
 PLX:die (from accident).V		mirin	mərən
 PLX:everywhere.pro		li her derê	lə hɛr dɛre
@@ -17,12 +17,12 @@ PLX:from here.adv		ji vir	ʒə vər
 PLX:get sick.V		nexweş kêt	nɛχwɛʃ ket
 PLX:how many.pro		çend	t͡ʃɛnd
 PLX:how.pro		çawa	t͡ʃawa
-PLX:in front of.adp		li ber	lə bɛr
+PLX:in front of.pp		li ber	lə bɛr
 PLX:or.cnj		an	an
 PLX:or.cnj		yan	jan
 PLX:that.pro		ev	ɛv
 PLX:this.pro		ev	ɛv
-PLX:under.adp		li bin	lə bən
+PLX:under.pp		li bin	lə bən
 PLX:what.pro		çi	t͡ʃə
 PLX:where.pro		li ku dere	lə kʊ dɛrɛ
 PLX:where_to.pro		li ku dere	lə kʊ dɛrɛ
@@ -183,8 +183,6 @@ PWN:center.n.01		nabênê	nabene
 PWN:center.n.01		nav	nav
 PWN:chair.n.01		kursî	kʊrsi
 PWN:change.v.01		degiş kirin	dɛɡəʃ kərən
-PWN:change.v.03		dêgiş kirin	deɡəʃ kərən
-PWN:change.v.03		guherandin	ɡʊhɛrandən
 PWN:character.n.08		herf	hɛrf
 PWN:cheap.a.01		erzan	ɛrzan
 PWN:cheek.n.01		dêm	dem
@@ -267,6 +265,7 @@ PWN:defend.v.03		paraztin	paraztən
 PWN:deft.s.01		ziring	zərənɡ
 PWN:deft.s.01		zîrek	zirɛk
 PWN:deity.n.01		xwedê	χwɛde
+PWN:depart.v.03		leqîn	lɛqin
 PWN:descend.v.01		noq bûn	noq bun
 PWN:desire.n.01		şewq	ʃɛwq
 PWN:desire.v.01		xwestîn	χwɛstin
@@ -322,6 +321,7 @@ PWN:elbow.n.01		enîşk	ɛniʃk
 PWN:eleven.s.01		yazdeh	jazdɛh
 PWN:elk.n.01		pazkovî	pazkovi
 PWN:emerge.v.01		peyda bûn	pɛjda bun
+PWN:employment.n.02		xebat	χɛbat
 PWN:empty.a.01		vala	vala
 PWN:end.n.03		girtin	ɡərtən
 PWN:end.n.09		talî	tali
@@ -335,6 +335,8 @@ PWN:escape.v.01		revîn	rɛvin
 PWN:evening.n.01		êvar	evar
 PWN:evil.a.01		aciz	ad͡ʒəz
 PWN:evil.a.01		xerab	χɛrab
+PWN:exchange.v.01		dêgiş kirin	deɡəʃ kərən
+PWN:exchange.v.01		guherandin	ɡʊhɛrandən
 PWN:exclaim.v.01		qîrîn	qirin
 PWN:exit.v.01		çûn	t͡ʃun
 PWN:expensive.a.01		biha	bəha
@@ -349,7 +351,7 @@ PWN:fall.v.01		ketin	kɛtən
 PWN:fall_asleep.v.01		razan	razan
 PWN:familiar.a.01		naskirî	naskəri
 PWN:family.n.02		malbat	malbat
-PWN:far.r.02		dûr	dur
+PWN:faraway.s.01		dûr	dur
 PWN:fat.n.01		rûn	run
 PWN:father.n.01		bav	bav
 PWN:fault.n.06		suç	sʊt͡ʃ
@@ -640,7 +642,7 @@ PWN:neck.n.01		qirik	qərək
 PWN:neck.n.01		stû	stu
 PWN:needle.n.03		derzî	dɛrzi
 PWN:nest.n.01		hêlîn	helin
-PWN:net_income.n.01		tor	tor
+PWN:net.n.06		tor	tor
 PWN:never.r.01		tu çar	tʊ t͡ʃar
 PWN:new.a.01		nû	nu
 PWN:news.n.01		hewal	hɛwal
@@ -919,7 +921,7 @@ PWN:tail.n.01		dûv	duv
 PWN:take.v.04		girtin	ɡərtən
 PWN:talk.v.02		axaftin	aχaftən
 PWN:taste.n.01		tam	tam
-PWN:taste.v.01		tehm kirin	tɛhm kərən
+PWN:taste.v.02		tehm kirin	tɛhm kərən
 PWN:tasty.a.01		xweş	χwɛʃ
 PWN:tea.n.01		çay	t͡ʃaj
 PWN:teach.v.01		hîn kirin	hin kərən
@@ -980,7 +982,6 @@ PWN:transport.v.02		rajtin	raʒtən
 PWN:trap.n.01		dafik	dafək
 PWN:trap.v.02		pê girtin	pe ɡərtən
 PWN:trap.v.02		sêm kirin	sem kərən
-PWN:travel.v.01		leqîn	lɛqin
 PWN:travel.v.01		çûn	t͡ʃun
 PWN:tree.n.01		dar	dar
 PWN:trouser.n.01		şewel	ʃɛwɛl
@@ -1056,7 +1057,6 @@ PWN:woman.n.01		jin	ʒən
 PWN:wood.n.01		dep	dɛp
 PWN:wool.n.02		herî	hɛri
 PWN:word.n.01		gotin	ɡotən
-PWN:work.n.01		xebat	χɛbat
 PWN:work.v.01		kar kirin	kar kərən
 PWN:work.v.01		şêxulin	ʃeχʊlən
 PWN:worker.n.01		hîşçî	hiʃt͡ʃi

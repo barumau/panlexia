@@ -7,16 +7,16 @@ PLX:3PL.pro		tittəl	tittəl
 PLX:3SG M.pro		tude	tude
 PLX:and.cnj		tajlə	tɑjlə
 PLX:and.cnj		tāġilə	tɑːχilə
-PLX:behind.adp		jeklē	jekleː
-PLX:behind.adp		joloġu	joloχu
-PLX:beside.adp		ārqā	ɑːrqɑː
-PLX:beside.adp		āľ	ɑːʎ
+PLX:behind.pp		jeklē	jekleː
+PLX:behind.pp		joloġu	joloχu
+PLX:beside.pp		ārqā	ɑːrqɑː
+PLX:beside.pp		āľ	ɑːʎ
 PLX:everywhere.pro		bejďe	bejd͡ʒe
 PLX:how many.pro		qam-	qɑm
 PLX:how many.pro		qamlō-	qɑmloː
 PLX:how.pro		qodē	qodeː
-PLX:in front of.adp		iďē	id͡ʒeː
-PLX:in front of.adp		kējē	keːjeː
+PLX:in front of.pp		iďē	id͡ʒeː
+PLX:in front of.pp		kējē	keːjeː
 PLX:or.cnj		bētər	beːtər
 PLX:that.pro		a-dȫn	ɑdœːn
 PLX:that.pro		taŋ	tɑŋ
@@ -24,9 +24,9 @@ PLX:that.pro		tintaŋ	tintɑŋ
 PLX:this.pro		e-diŋ	ediŋ
 PLX:this.pro		ej-tiŋ	ejtiŋ
 PLX:this.pro		tiŋ	tiŋ
-PLX:under.adp		oŋidəgən	oŋidəɡən
-PLX:under.adp		oŋiľgən	oŋiʎɡən
-PLX:under.adp		āl	ɑːl
+PLX:under.pp		oŋidəgən	oŋidəɡən
+PLX:under.pp		oŋiľgən	oŋiʎɡən
+PLX:under.pp		āl	ɑːl
 PLX:what.pro		leme	leme
 PLX:where.pro		qadungə	qɑdunɡə
 PLX:where.pro		qo-	qo
@@ -155,7 +155,6 @@ PWN:cave.n.01		abut	ɑbut
 PWN:cave.n.01		jurgū	jurɡuː
 PWN:center.n.01		molġə	molχə
 PWN:center.n.01		örďə	œrd͡ʒə
-PWN:change.v.03		odumu	odumu
 PWN:cheek.n.01		pējə	peːjə
 PWN:child.n.01		ȫ	œː
 PWN:chin.n.01		ńumďə	ɲumd͡ʒə
@@ -218,6 +217,9 @@ PWN:defend.v.03		čaŋ-	t͡ʃɑŋ
 PWN:defend.v.03		čaŋužə-	t͡ʃɑŋuʒə
 PWN:deft.s.01		čekčō-	t͡ʃekt͡ʃoː
 PWN:deity.n.01		qojl	qojl
+PWN:depart.v.03		jarqəġə-	jɑrqəχə
+PWN:depart.v.03		ujī-	ujiː
+PWN:depart.v.03		čolġə-	t͡ʃolχə
 PWN:descend.v.01		löudə-	lœudə
 PWN:desire.v.01		erďē-	erd͡ʒeː
 PWN:detect.v.01		jomdiləš-	jomdiləʃ
@@ -266,6 +268,7 @@ PWN:elk.n.01		čomo-čūl	t͡ʃomot͡ʃuːl
 PWN:elk.n.01		ńanmə-egut-ejrəjbən	ɲɑnməeɡutejrəjbən
 PWN:emerge.v.01		jed-	jed
 PWN:emerge.v.01		jen-	jen
+PWN:employment.n.02		ujl	ujl
 PWN:empty.a.01		əl-mə-qodo-	əlməqodo
 PWN:empty.a.01		əl-ġodońə-	əlχodoɲə
 PWN:end.n.03		atiľ	ɑtiʎ
@@ -276,6 +279,7 @@ PWN:entirely.r.02		ere	ere
 PWN:entirely.r.02		moldə	moldə
 PWN:escape.v.01		palā-	pɑlɑː
 PWN:evening.n.01		joulə	joulə
+PWN:exchange.v.01		odumu	odumu
 PWN:exclaim.v.01		ör-	œr
 PWN:exit.v.01		kebej-	kebej
 PWN:expensive.a.01		īlū-	iːluː
@@ -517,7 +521,7 @@ PWN:near.r.01		mēkə	meːkə
 PWN:neck.n.01		jomil	jomil
 PWN:needle.n.03		mideďə	mided͡ʒə
 PWN:nest.n.01		abut	ɑbut
-PWN:net_income.n.01		paġul	pɑχul
+PWN:net.n.06		paġul	pɑχul
 PWN:new.a.01		iľľō-	iʎʎoː
 PWN:new.a.01		iľľə	iʎʎə
 PWN:news.n.01		möńďə	mœɲd͡ʒə
@@ -737,7 +741,7 @@ PWN:tail.n.01		laqil	lɑqil
 PWN:take.v.04		mejnu-	mejnu
 PWN:take.v.04		miď-	mid͡ʒ
 PWN:talk.v.02		ańńə-	ɑɲɲə
-PWN:taste.v.01		mödej-	mœdej
+PWN:taste.v.02		mödej-	mœdej
 PWN:tasty.a.01		čoŋū-	t͡ʃoŋuː
 PWN:teach.v.01		kič-	kit͡ʃ
 PWN:tear.v.01		šašaġədaj-	ʃɑʃɑχədɑj
@@ -798,10 +802,7 @@ PWN:trap.n.01		nonol	nonol
 PWN:trap.v.02		īdə-	iːdə
 PWN:travel.v.01		egužu-	eɡuʒu
 PWN:travel.v.01		ejrə-	ejrə
-PWN:travel.v.01		jarqəġə-	jɑrqəχə
 PWN:travel.v.01		qon-	qon
-PWN:travel.v.01		ujī-	ujiː
-PWN:travel.v.01		čolġə-	t͡ʃolχə
 PWN:tree.n.01		šāl	ʃɑːl
 PWN:trouser.n.01		örďə-ńēr	œrd͡ʒəɲeːr
 PWN:trouser.n.01		ō	oː
@@ -871,7 +872,6 @@ PWN:woman.n.01		paj	pɑj
 PWN:woman.n.01		pajpə	pɑjpə
 PWN:wood.n.01		šāl	ʃɑːl
 PWN:word.n.01		ažū	ɑʒuː
-PWN:work.n.01		ujl	ujl
 PWN:work.v.01		uj-	uj
 PWN:worker.n.01		pō	poː
 PWN:world.n.02		pońqə	poɲqə

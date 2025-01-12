@@ -10,24 +10,79 @@ PLX:3SG F.pro		ea
 PLX:3SG INAN.pro		o		
 PLX:3SG M.pro		el		
 PLX:3SG.pro		el/ea		
+PLX:above.pp		(de)asupra		
+PLX:above.pp		peste		
+PLX:after.pp		după		
 PLX:and.cnj		şi		
-PLX:behind.adp		în spate		
-PLX:behind.adp		în urmă		
-PLX:behind.adp		înapoi(a)		
-PLX:behind.adp		îndărăt		
+PLX:at.pp		la		
+PLX:be late.v		a întârzia		
+PLX:because.cnj		fiindcă		
+PLX:because.cnj		pentru că		
+PLX:behind.pp		în spate		
+PLX:behind.pp		în urmă		
+PLX:behind.pp		înapoi(a)		
+PLX:behind.pp		îndărăt		
+PLX:beside.pp		alături		
+PLX:beside.pp		lângă		
+PLX:carry in hand.v		a purta		
+PLX:carry on head.v		a purta pe cap		
+PLX:carry on shoulder.v		a purta pe umeri		
+PLX:carry under arm.v		a purta sub braţ		
+PLX:daughter-in-law (of man).n		noră		
+PLX:daughter-in-law (of woman).n		noră		
+PLX:day after tomorrow.adv		poimâine		
+PLX:day before yesterday.adv		alaltăieri		
+PLX:digging stick.n		baston de săpat		
+PLX:fall silent.v		a tăcea		
+PLX:father's brother.n		unchi		
+PLX:father's sister.n		mătuşă		
+PLX:father's sister.n		tanti		fra:tante
+PLX:father's sister.n		ţaţă		ell:tsatsa
+PLX:father-in-law (of man).n		socru		
+PLX:father-in-law (of woman).n		socru		
+PLX:fermented alcohol.n		bragă		rus:braga
+PLX:fish poison root.n		otravă pentru pescuit		
+PLX:fish trap.n		vârşă		srp:vrša
+PLX:head hair.n		păr		
+PLX:how many pieces.pro		câţi		
+PLX:how much.pro		cât		
 PLX:how.pro		cum		
 PLX:if.cnj		dacă		
-PLX:in front of.adp		în faţă		
+PLX:in front of.pp		în faţă		
+PLX:in.pp		în		
+PLX:initiation ceremony.n		rit de iniţiere		
+PLX:inside.pp		înăuntru		
+PLX:manioc bread.n		pâine de manioc		
+PLX:mother's brother.n		unchi		
+PLX:mother's sister.n		mătuşă		
+PLX:mother's sister.n		tanti		fra:tante
+PLX:mother's sister.n		ţaţă		ell:tsatsa
+PLX:mother-in-law (of man).n		soacră		
+PLX:mother-in-law (of woman).n		soacră		
+PLX:netbag.n		plasă		:plasa
+PLX:nothing.pro		nimic		
 PLX:or.cnj		sau		
+PLX:outside.pp		afară		
+PLX:parents-in-law.n		socri		
+PLX:sibling's child.n		nepot		
+PLX:son-in-law (of man).n		ginere		
+PLX:son-in-law (of woman).n		ginere		
+PLX:stab to death.v		a (stră/îm)punge		
+PLX:stab to death.v		a (în)junghia		
 PLX:that.pro		acel		
 PLX:this.pro		acest		
-PLX:under.adp		dedesubt		
-PLX:under.adp		sub		
-PLX:under.adp		în jos		
+PLX:tumpline.n		curea de purtat		
+PLX:under.pp		dedesubt		
+PLX:under.pp		sub		
+PLX:under.pp		în jos		
 PLX:what.pro		ce		
+PLX:when.pro		când		
 PLX:where.pro		unde		
+PLX:which Q.pro		care		
 PLX:who.pro		cine		
 PLX:why.pro		de ce		
+PLX:with.pp		cu		
+PLX:without.pp		fără		
 PLX:yes.ptcl		da		srp:da
 PWN:abdomen.n.01		abdomen		fra:abdomen
 PWN:abdomen.n.01		burtă		
@@ -282,6 +337,8 @@ PWN:brainsick.s.01		alienat
 PWN:brainsick.s.01		dement		fra:dément, dementis
 PWN:brainsick.s.01		nebun		
 PWN:brake.v.02		a frâna		fra:freiner
+PWN:branch.n.03		cracă		bul:krak
+PWN:branch.n.03		creangă		bul:granka
 PWN:brave.a.01		curajos		fra:courageux
 PWN:brave.a.01		dârz		:drúzú
 PWN:brave.a.01		temerar		:téméraire, temerarius
@@ -324,6 +381,7 @@ PWN:bury.v.02		a înmormânta
 PWN:bury.v.02		astruca		
 PWN:bus.n.01		autobuz		fra:autobus
 PWN:butter.n.01		unt		
+PWN:butter_knife.n.01		cuţit de masă		
 PWN:butterfly.n.01		fluture		
 PWN:buttocks.n.01		bucă		
 PWN:buttocks.n.01		dos		
@@ -510,6 +568,7 @@ PWN:cousin.n.01		văr
 PWN:cover.v.01		a acoperi		
 PWN:cow.n.01		vacă		
 PWN:coyote.n.01		coiot		fra:coyote
+PWN:crawl.v.01		a se târî		:treti
 PWN:crime.n.01		crimă		fra:crime
 PWN:crime.n.01		delict		:delictum
 PWN:crime.n.01		infracţiune		:infraction, infractionis
@@ -701,6 +760,12 @@ PWN:enough.r.01		suficient		:sufficientis
 PWN:enter.v.01		a intra, a întra		
 PWN:entirely.r.02		doar		
 PWN:entirely.r.02		numai		
+PWN:envy.n.01		gelozie		ita:gelosia
+PWN:envy.n.01		invidie		:invidia
+PWN:envy.n.01		jaluzie		fra:jalousie
+PWN:envy.n.01		temere		
+PWN:envy.n.01		temut		
+PWN:envy.n.01		zulie		ell:zília
 PWN:estimate.v.01		a ghici		:gadati
 PWN:evening.n.01		seară		
 PWN:ewe.n.03		oaie		
@@ -730,6 +795,8 @@ PWN:faithful.a.01		devotat
 PWN:faithful.a.01		fidel		fra:fidèle
 PWN:fall.n.01		toamnă		
 PWN:fall.v.01		a cădea		
+PWN:fall.v.23		a aluneca		
+PWN:fall.v.23		derapa		fra:déraper
 PWN:family.n.02		familie		:familia
 PWN:famine.n.02		foamete		
 PWN:fan.n.01		evantai		fra:éventail
@@ -850,6 +917,8 @@ PWN:forge.v.01		a făuri
 PWN:forget.v.02		a uita		
 PWN:forgive.v.01		a ierta		
 PWN:fork.n.01		furculiţă		
+PWN:fork.n.03		crăcană		
+PWN:fork.n.03		ramificare		:ramificare
 PWN:fortress.n.01		cetate		
 PWN:fortress.n.01		fortăreaţă		fra:forteresse
 PWN:four.s.01		patru		
@@ -958,6 +1027,9 @@ PWN:happy.a.01		fericit
 PWN:hard.a.03		tare		
 PWN:hare.n.01		iepure		
 PWN:hark_back.v.01		a se întoarce		
+PWN:harvest.n.04		cules		
+PWN:harvest.n.04		recoltă		fra:récolte
+PWN:harvest.n.04		seceriş		
 PWN:hate.v.01		a urî		
 PWN:have.v.01		a avea		
 PWN:hawk.n.01		erete		
@@ -1089,12 +1161,6 @@ PWN:jaguar.n.01		jaguar		:jagwar(a)
 PWN:jaw.n.01		falcă		
 PWN:jaw.n.01		mandibulă		:mandibula
 PWN:jaw.n.01		maxilar		:maxillaris
-PWN:jealousy.n.01		gelozie		ita:gelosia
-PWN:jealousy.n.01		invidie		:invidia
-PWN:jealousy.n.01		jaluzie		fra:jalousie
-PWN:jealousy.n.01		temere		
-PWN:jealousy.n.01		temut		
-PWN:jealousy.n.01		zulie		ell:zília
 PWN:jewel.n.01		bijuterie		fra:bijouterie
 PWN:jewel.n.01		giuvaier		tur:cevahir (sg.: cevher)
 PWN:jewel.n.01		nestemată		
@@ -1122,7 +1188,6 @@ PWN:knead.v.01		frământa
 PWN:knee.n.01		genunchi		
 PWN:kneel.v.01		a îngenunchea		
 PWN:knife.n.01		cuţit		
-PWN:knife.n.01		cuţit de masă		
 PWN:knot.n.02		nod		
 PWN:know.v.01		a cunoaşte		
 PWN:know.v.01		a şti		
@@ -1489,16 +1554,14 @@ PWN:poet.n.01		poet		fra:poète
 PWN:pointed.a.01		ascuţit		
 PWN:poison.n.01		otravă		:otrava
 PWN:poison.n.01		venin		
-PWN:pole.n.01		proptea		
-PWN:pole.n.01		stâlp		:stlŭpŭ
 PWN:police.n.01		poliţie		rus:politsija
 PWN:poncho.n.01		poncho		spa:poncho
 PWN:poor.a.02		sărac		srp:sirak
 PWN:poor.a.02		sărman		ell:χειρομάχος
 PWN:populate.v.01		a locui		hun:lakni
-PWN:port.n.01		liman		tur:liman
-PWN:port.n.01		port		:portus
 PWN:position.n.01		loc		
+PWN:post.n.04		proptea		
+PWN:post.n.04		stâlp		:stlŭpŭ
 PWN:postage.n.02		timbru		fra:timbre
 PWN:postcard.n.01		carte poştală		
 PWN:pot.n.01		oală		
@@ -1686,6 +1749,8 @@ PWN:sculptor.n.01		sculptor		:sculpteur/sculptor
 PWN:scythe.n.01		coasă		:kosa
 PWN:scythe.n.01		seceră		
 PWN:sea.n.01		mare (1)		
+PWN:seaport.n.01		liman		tur:liman
+PWN:seaport.n.01		port		:portus
 PWN:search.v.01		a căuta		
 PWN:season.n.02		anotimp		
 PWN:second.s.01		doilea		
@@ -1714,6 +1779,8 @@ PWN:shark.n.01		rechin		fra:requin
 PWN:sharp.a.09		ascuţit		
 PWN:sharp.a.09		tăios		
 PWN:shears.n.01		foarfece		
+PWN:shed.n.01		chioşc		tur:köşk
+PWN:shed.n.01		pavilion		fra:pavillon
 PWN:sheep.n.01		oaie		
 PWN:shelf.n.01		raft		bul:raft
 PWN:shell.n.10		cochilie		fra:coquille
@@ -1760,8 +1827,6 @@ PWN:sister.n.01		soră
 PWN:sit_down.v.01		a sta jos		
 PWN:sit_down.v.01		şedea		
 PWN:six.s.01		şase		
-PWN:skid.v.04		a aluneca		
-PWN:skid.v.04		derapa		fra:déraper
 PWN:skin.v.04		a coji		
 PWN:skirt.n.02		fustă		ell:fusta
 PWN:skirt.n.02		jupă		arb:djoubba
@@ -1953,7 +2018,7 @@ PWN:tall.a.01		înalt
 PWN:tan.v.01		a argăsi		ell:argasa
 PWN:tan.v.01		a tăbăci		
 PWN:tapir.n.01		tapir		:tapira
-PWN:taste.v.01		a gusta		
+PWN:taste.v.02		a gusta		
 PWN:tattoo.n.02		tatuaj		fra:tatouage
 PWN:tax.n.01		impozit		fra:impôt/impositum
 PWN:tea.n.01		ceai		cmn:chá
@@ -1989,6 +2054,7 @@ PWN:thing.n.12		obiect		:obiectum
 PWN:think.v.02		a socoti		
 PWN:think.v.03		a gândi		
 PWN:third.s.01		treilea		
+PWN:thirst.v.01		a-i fi sete		
 PWN:thorax.n.02		piept		
 PWN:thousand.s.01		mie		
 PWN:thrash.v.06		a treiera		
@@ -2061,6 +2127,8 @@ PWN:twelve.s.01		doisprezece
 PWN:twenty.s.01		douăzeci		
 PWN:twice.r.01		de două ori		
 PWN:twin.n.01		gemeni		
+PWN:twist.v.04		a (ră)suci		:sucon, sukati
+PWN:twist.v.04		a învârti		
 PWN:two.s.01		doi		
 PWN:udder.n.01		uger		
 PWN:ugly.a.01		hidos		fra:hideux
@@ -2111,6 +2179,8 @@ PWN:walk.v.01		a merge pe jos
 PWN:walk.v.01		a se duce		
 PWN:walk.v.01		a umbla		
 PWN:walking_stick.n.01		toiag		:tojagŭ, tojaga
+PWN:wall.n.01		perete		
+PWN:wall.n.01		zid		:zidŭ
 PWN:warm.a.01		cald		
 PWN:wash.v.03		a spăla		
 PWN:wasp.n.02		viespe		

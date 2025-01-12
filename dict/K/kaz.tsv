@@ -6,10 +6,10 @@ PLX:2SG.pro		сен	sen
 PLX:3PL.pro		олар	olɑɾ
 PLX:3SG M.pro		ол	ol
 PLX:and.cnj		та	tɑ
-PLX:because of.adp		үшін	ʊʃən
-PLX:behind.adp		артынан	ɑɾtənɑn
-PLX:beside.adp		жанында	ʒɑnəndɑ
-PLX:beside.adp		іргеде	əɾɡede
+PLX:because of.pp		үшін	ʊʃən
+PLX:behind.pp		артынан	ɑɾtənɑn
+PLX:beside.pp		жанында	ʒɑnəndɑ
+PLX:beside.pp		іргеде	əɾɡede
 PLX:can.v		білу	bəlu
 PLX:die (from accident).V		қаза табу	qɑzɑ tɑbu
 PLX:die (from accident).V		өлу	ølu
@@ -24,14 +24,14 @@ PLX:get sick.V		сырқаттанып қалу	səɾqɑtːɑnəp qɑlu
 PLX:how many.pro		неше	neʃe
 PLX:how many.pro		қанша	qɑnʃɑ
 PLX:how.pro		калай	kɑlɑj
-PLX:in front of.adp		алды	ɑldə
+PLX:in front of.pp		алды	ɑldə
 PLX:or.cnj		немесе	nemese
 PLX:or.cnj		әлде	ælde
 PLX:that.pro		сол	sol
 PLX:this.pro		бұ	bʉ
 PLX:this.pro		осы	osə
-PLX:under.adp		маңында	mɑŋəndɑ
-PLX:under.adp		түп	tʊp
+PLX:under.pp		маңында	mɑŋəndɑ
+PLX:under.pp		түп	tʊp
 PLX:what.pro		не	ne
 PLX:where.pro		кәні	kænə
 PLX:where.pro		қайда	qɑjdɑ
@@ -205,8 +205,6 @@ PWN:cavil.v.01		ақырып-бақыру	ɑqəɾəpbɑqəɾu
 PWN:center.n.01		ортасы	oɾtɑsə
 PWN:chair.n.01		орындық	oɾəndəq
 PWN:change.v.01		өзгерту	øzɡeɾtu
-PWN:change.v.03		құбылу	qʉbəlu
-PWN:change.v.03		өзгеру	øzɡeɾu
 PWN:character.n.08		қаріп	qɑɾəp
 PWN:character.n.08		әріп	æɾəp
 PWN:cheap.a.01		арзан	ɑɾzɑn
@@ -308,6 +306,7 @@ PWN:deity.n.01		жаратқан тәңірі	ʒɑɾɑtqɑn tæŋəɾə
 PWN:deity.n.01		пәруардігер	pæɾuɑɾdəɡeɾ
 PWN:deity.n.01		тәңірі	tæŋəɾə
 PWN:deity.n.01		құдай	qʉdɑj
+PWN:depart.v.03		жылжу	ʒəlʒu
 PWN:descend.v.01		төмендеу	tømendeu
 PWN:descend.v.01		ылдилау	əldɪjlɑu
 PWN:desire.n.01		тәбет	tæbet
@@ -378,6 +377,7 @@ PWN:eleven.s.01		он бір	on bəɾ
 PWN:elk.n.01		бұғы	bʉʁə
 PWN:emerge.v.01		көріну	køɾənu
 PWN:emerge.v.01		көрініп қалу	køɾənəp qɑlu
+PWN:employment.n.02		еңбек	eŋbek
 PWN:empty.a.01		бос	bos
 PWN:end.n.03		ада	ɑdɑ
 PWN:end.n.03		бітуі	bətuə
@@ -394,6 +394,8 @@ PWN:evening.n.01		кеш	keʃ
 PWN:evil.a.01		жауыз	ʒɑuəz
 PWN:evil.a.01		сұм	sʉm
 PWN:evil.a.01		өш	øʃ
+PWN:exchange.v.01		құбылу	qʉbəlu
+PWN:exchange.v.01		өзгеру	øzɡeɾu
 PWN:exclaim.v.01		айғайлау	ɑjʁɑjlɑu
 PWN:exclaim.v.01		бажалақтау	bɑʒɑlɑqtɑu
 PWN:exclaim.v.01		байбайлау	bɑjbɑjlɑu
@@ -417,8 +419,8 @@ PWN:fall_asleep.v.01		үйыктап калу	ʊjəktɑp kɑlu
 PWN:familiar.a.01		көзтаныс	køztɑnəs
 PWN:familiar.a.01		таныс	tɑnəs
 PWN:family.n.02		жанұя	ʒɑnʉjɑ
-PWN:far.r.02		алыс	ɑləs
-PWN:far.r.02		алыстағы	ɑləstɑʁə
+PWN:faraway.s.01		алыс	ɑləs
+PWN:faraway.s.01		алыстағы	ɑləstɑʁə
 PWN:fat.n.01		май	mɑj
 PWN:father.n.01		әке	æke
 PWN:fault.n.06		айыптылық	ɑjəptələq
@@ -771,7 +773,7 @@ PWN:near.r.01		жуық	ʒuəq
 PWN:neck.n.01		мойын	mojən
 PWN:needle.n.03		ине	ɪjne
 PWN:nest.n.01		ұя	ʉjɑ
-PWN:net_income.n.01		керегекөз	keɾeɡekøz
+PWN:net.n.06		керегекөз	keɾeɡekøz
 PWN:never.r.01		ешуақытта	eʃuɑqətːɑ
 PWN:new.a.01		жаңа	ʒɑŋɑ
 PWN:news.n.01		жаңалық	ʒɑŋɑləq
@@ -1085,8 +1087,8 @@ PWN:talk.v.02		тіл қатысу	təl qɑtəsu
 PWN:taste.n.01		дәм	dæm
 PWN:taste.n.01		талғам	tɑlʁɑm
 PWN:taste.n.01		татым	tɑtəm
-PWN:taste.v.01		дәм тату	dæm tɑtu
-PWN:taste.v.01		тату	tɑtu
+PWN:taste.v.02		дәм тату	dæm tɑtu
+PWN:taste.v.02		тату	tɑtu
 PWN:tasty.a.01		дәмді	dæmdə
 PWN:tea.n.01		шай	ʃɑj
 PWN:teach.v.01		оқыту	oqətu
@@ -1156,7 +1158,6 @@ PWN:trap.n.01		дұзақ	dʉzɑq
 PWN:trap.n.01		қақпан	qɑqpɑn
 PWN:trap.v.02		ұстау	ʉstɑu
 PWN:travel.v.01		бару	bɑɾu
-PWN:travel.v.01		жылжу	ʒəlʒu
 PWN:tree.n.01		ағаш	ɑʁɑʃ
 PWN:tree.n.01		дарақ	dɑɾɑq
 PWN:trouser.n.01		шалбар	ʃɑlbɑɾ
@@ -1241,7 +1242,6 @@ PWN:wood.n.01		ағаш	ɑʁɑʃ
 PWN:wood.n.01		сүрек	sʊɾek
 PWN:wool.n.02		жүн	ʒʊn
 PWN:word.n.01		сөз	søz
-PWN:work.n.01		еңбек	eŋbek
 PWN:work.v.01		еңбектену	eŋbektenu
 PWN:work.v.01		істеу	əsteu
 PWN:worker.n.01		жүмысшы	ʒʊməsʃə

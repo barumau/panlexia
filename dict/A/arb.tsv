@@ -8,11 +8,11 @@ PLX:3PL.pro		هم	hum
 PLX:3PL.pro		هن	hunːa
 PLX:3SG M.pro		هو	huwa
 PLX:and.cnj		و	wa
-PLX:because of.adp		بسبب	bisabab
-PLX:behind.adp		خلف	xalfa
-PLX:behind.adp		وراء	waraːʔa
-PLX:beside.adp		بجانب	bid͡ʒaːnib
-PLX:beside.adp		جنب	d͡ʒamba
+PLX:because of.pp		بسبب	bisabab
+PLX:behind.pp		خلف	xalfa
+PLX:behind.pp		وراء	waraːʔa
+PLX:beside.pp		بجانب	bid͡ʒaːnib
+PLX:beside.pp		جنب	d͡ʒamba
 PLX:can.v		استطاع	istatˤaːʕa
 PLX:can.v		قدر	qadira
 PLX:die (from accident).V		هلك	halaka
@@ -21,11 +21,11 @@ PLX:from here.adv		من هنا	min hunaː
 PLX:get sick.V		مرض	marɨdˤɑ
 PLX:how many.pro		كم	kam
 PLX:how.pro		كيف	kaifa
-PLX:in front of.adp		أمام	amaːma
+PLX:in front of.pp		أمام	amaːma
 PLX:or.cnj		أو	aw
 PLX:that.pro		ذلك	ðaːlika
 PLX:this.pro		هذا	haːðaː
-PLX:under.adp		تحت	taħta
+PLX:under.pp		تحت	taħta
 PLX:what.pro		ما	maː
 PLX:where.pro		أين	ajna
 PLX:where_to.pro		إلى أين	ilaː ʔaina
@@ -181,7 +181,6 @@ PWN:cavil.v.01		شتم	ʃatama
 PWN:center.n.01		وسط	wasɑtˤ
 PWN:chair.n.01		كرسي	kursiː
 PWN:change.v.01		غير	ɣajːara
-PWN:change.v.03		تغير	taɣajːara
 PWN:character.n.08		حرف	ħarf
 PWN:cheap.a.01		رخيص	raxɨːsˤ
 PWN:cheek.n.01		خد	xadː
@@ -269,6 +268,7 @@ PWN:decrease.v.01		نقص	naqɑsˤɑ
 PWN:defend.v.03		دافع	daːfaʕa
 PWN:deft.s.01		ماهر	maːhir
 PWN:deity.n.01		إله	ilah
+PWN:depart.v.03		تحرك	taħarːaka
 PWN:descend.v.01		هبط	habɑtˤɑ
 PWN:desire.n.01		شهوة	ʃahwa
 PWN:desire.v.01		أراد	araːda
@@ -328,6 +328,7 @@ PWN:eleven.s.01		أحد عشر	aħada ʕaʃar
 PWN:elk.n.01		موظ	muːdˤ
 PWN:emerge.v.01		ظهر	dˤɑhara
 PWN:emerge.v.01		لاح	laːħa
+PWN:employment.n.02		عمل	ʕamal
 PWN:empty.a.01		خال	xaːlin
 PWN:empty.a.01		فارغ	faːriɣ
 PWN:end.n.03		ختام	xitaːm
@@ -340,6 +341,7 @@ PWN:erstwhile.s.01		سابق	saːbiq
 PWN:escape.v.01		فر	farːa
 PWN:evening.n.01		مساء	masaːʔ
 PWN:evil.a.01		رديء	radiːʔ
+PWN:exchange.v.01		تغير	taɣajːara
 PWN:exclaim.v.01		صرخ	sˤɑraxa
 PWN:exit.v.01		انصرف	insˤarafa
 PWN:exit.v.01		ذهب	ðahaba
@@ -355,7 +357,7 @@ PWN:fall.v.01		سقط	saqɑtˤɑ
 PWN:fall_asleep.v.01		نام	naːma
 PWN:familiar.a.01		معلوم	maʕluːm
 PWN:family.n.02		عائلة	ʕaːʔila
-PWN:far.r.02		بعيد	baʕiːd
+PWN:faraway.s.01		بعيد	baʕiːd
 PWN:fat.n.01		سمن	samn
 PWN:father.n.01		أب	ab
 PWN:fault.n.06		ذنب	ðanb
@@ -657,7 +659,7 @@ PWN:neck.n.01		رقبة	raqaba
 PWN:neck.n.01		عنق	ʕunuq
 PWN:needle.n.03		إبرة	ibra
 PWN:nest.n.01		عش	ʕuʃː
-PWN:net_income.n.01		شبكة	ʃabka
+PWN:net.n.06		شبكة	ʃabka
 PWN:never.r.01		لا أبدا	laː ʔabadan
 PWN:new.a.01		جديد	d͡ʒadiːd
 PWN:news.n.01		خبر جديد	xabar d͡ʒadiːd
@@ -940,7 +942,7 @@ PWN:take.v.04		أخذ	axaða
 PWN:talk.v.02		تكلم	takalama
 PWN:taste.n.01		طعم	tˤɑʕm
 PWN:taste.n.01		مذاق	maðaːq
-PWN:taste.v.01		ذاق	ðaːqa
+PWN:taste.v.02		ذاق	ðaːqa
 PWN:tasty.a.01		لذيذ	laðiːð
 PWN:tea.n.01		شاي	ʃaːj
 PWN:teach.v.01		علم	ʕalːama
@@ -1004,7 +1006,6 @@ PWN:transport.v.02		حمل	ħamala
 PWN:trap.n.01		فخ	faxː
 PWN:trap.n.01		مصيدة	mɨsˤjada
 PWN:trap.v.02		قبض	qabadˤɑ
-PWN:travel.v.01		تحرك	taħarːaka
 PWN:travel.v.01		ذهب	ðahaba
 PWN:travel.v.01		سار	saːra
 PWN:tree.n.01		شجرة	ʃad͡ʒara
@@ -1082,7 +1083,6 @@ PWN:woman.n.01		امرأة	imraʔa
 PWN:wood.n.01		خشب	xaʃab
 PWN:wool.n.02		صوف	sˤuːf
 PWN:word.n.01		كلمة	kalima
-PWN:work.n.01		عمل	ʕamal
 PWN:work.v.01		اشتغل	iʃtaɣala
 PWN:work.v.01		عمل	ʕamila
 PWN:worker.n.01		عامل	ʕaːmil

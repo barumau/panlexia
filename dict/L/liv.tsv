@@ -6,10 +6,10 @@ PLX:2SG.pro		sinā	sinɑː
 PLX:3PL.pro		ne	nɛ
 PLX:3SG M.pro		tämā	tæmɑː
 PLX:and.cnj		un	un
-PLX:because of.adp		pierāst	piɛrɑːst
-PLX:behind.adp		tagān	tɑɡɑːn
-PLX:beside.adp		kilgsõ	kilɡsə
-PLX:beside.adp		kūoral	kuːorɑl
+PLX:because of.pp		pierāst	piɛrɑːst
+PLX:behind.pp		tagān	tɑɡɑːn
+PLX:beside.pp		kilgsõ	kilɡsə
+PLX:beside.pp		kūoral	kuːorɑl
 PLX:can.v		võidõ	vɨidə
 PLX:die (from accident).V		kūolõ	kuːolə
 PLX:everywhere.pro		a’mši	ɑˀmʃi
@@ -18,11 +18,11 @@ PLX:from here.adv		tästā	tæstɑː
 PLX:get sick.V		rujāks sǭdõ	rujɑːks sɔːdə
 PLX:how many.pro		mits	mits
 PLX:how.pro		kui	kui
-PLX:in front of.adp		je’dsõ	jɛˀdsə
+PLX:in front of.pp		je’dsõ	jɛˀdsə
 PLX:or.cnj		agā	ɑɡɑː
 PLX:that.pro		se	sɛ
 PLX:this.pro		ta	tɑ
-PLX:under.adp		allõ	ɑlːə
+PLX:under.pp		allõ	ɑlːə
 PLX:what.pro		mis	mis
 PLX:where.pro		kus	kus
 PLX:where_to.pro		kunā	kunɑː
@@ -183,7 +183,6 @@ PWN:center.n.01		sidāmkūož	sidɑːmkuːoʒ
 PWN:chair.n.01		ra’j	rɑˀj
 PWN:change.v.01		mūtõ	muːtə
 PWN:change.v.01		mȭitastõ	mɨːitɑstə
-PWN:change.v.03		va’ildõ	vɑˀildə
 PWN:character.n.08		kēratē’ḑ	kɛːrɑtɛːˀɟ
 PWN:character.n.08		tē’ḑ	tɛːˀɟ
 PWN:cheap.a.01		a’lmi	ɑˀlmi
@@ -278,6 +277,7 @@ PWN:decrease.v.01		veitõmtõ	vɛitɨmtə
 PWN:defend.v.03		kaitsõ	kɑitsə
 PWN:deft.s.01		mȯistli	mʊistli
 PWN:deity.n.01		jumāl	jumɑːl
+PWN:depart.v.03		likkõ	likːə
 PWN:descend.v.01		va’jjõ	vɑˀjːə
 PWN:desire.n.01		imū	imuː
 PWN:desire.n.01		kǭrõm	kɔːrɨm
@@ -336,6 +336,7 @@ PWN:elbow.n.01		kīndõrbū	kiːndɨrbuː
 PWN:eleven.s.01		ikštuoistõn	ikʃtuoistɨn
 PWN:elk.n.01		põ’ddõrz	pɨˀdːɨrz
 PWN:emerge.v.01		nä’gțõ	næˀɡcːə
+PWN:employment.n.02		tīe	tiːɛ
 PWN:empty.a.01		tijā	tijɑː
 PWN:end.n.03		lopāndõks	lopɑːndɨks
 PWN:end.n.09		īrgandõks	iːrɡɑndɨks
@@ -347,6 +348,7 @@ PWN:escape.v.01		urgõ	urɡə
 PWN:evening.n.01		ȭ’dõg	ɨːˀdɨɡ
 PWN:evil.a.01		ti’g	tiˀɡ
 PWN:evil.a.01		ä’bjõvā	æˀbjɨvɑː
+PWN:exchange.v.01		va’ildõ	vɑˀildə
 PWN:exclaim.v.01		ouŗõ	ourʲə
 PWN:exit.v.01		jarā lǟ’dõ	jɑrɑː læːˀdə
 PWN:expensive.a.01		tõurõz	tɨurɨz
@@ -362,7 +364,7 @@ PWN:fall.v.01		langõ	lɑŋɡə
 PWN:fall_asleep.v.01		i’nnõ	iˀnːə
 PWN:familiar.a.01		tundtõb	tundtɨb
 PWN:family.n.02		aimro’vz	ɑimroˀvz
-PWN:far.r.02		kougi	kouɡi
+PWN:faraway.s.01		kougi	kouɡi
 PWN:fat.n.01		razā	rɑzɑː
 PWN:father.n.01		izā	izɑː
 PWN:fault.n.06		sī	siː
@@ -675,7 +677,7 @@ PWN:near.r.01		le’žgõli	lɛˀʒɡɨli
 PWN:neck.n.01		ka’ggõl	kɑˀɡːɨl
 PWN:needle.n.03		nõ’ggõl	nɨˀɡːɨl
 PWN:nest.n.01		piezā	piɛzɑː
-PWN:net_income.n.01		võrgõ	vɨrɡə
+PWN:net.n.06		võrgõ	vɨrɡə
 PWN:never.r.01		mittõ kunāgid	mitːɨ kunɑːɡid
 PWN:new.a.01		ūž	uːʒ
 PWN:news.n.01		ūž rõk	uːʒ rɨk
@@ -980,8 +982,8 @@ PWN:tail.n.01		tabār	tɑbɑːr
 PWN:take.v.04		võttõ	vɨtːə
 PWN:talk.v.02		rõkāndõ	rɨkɑːndə
 PWN:taste.n.01		maits	mɑits
-PWN:taste.v.01		kǭ’ļõ	kɔːˀʎə
-PWN:taste.v.01		smekkõ	smɛkːə
+PWN:taste.v.02		kǭ’ļõ	kɔːˀʎə
+PWN:taste.v.02		smekkõ	smɛkːə
 PWN:tasty.a.01		ma’gḑi	mɑˀɡɟi
 PWN:tea.n.01		tēj	tɛːj
 PWN:teach.v.01		opātõ	opɑːtə
@@ -1049,7 +1051,6 @@ PWN:transport.v.02		kandõ	kɑndə
 PWN:trap.n.01		lamātõks	lɑmɑːtɨks
 PWN:trap.n.01		lõks	lɨks
 PWN:trap.v.02		akkõ	ɑkːə
-PWN:travel.v.01		likkõ	likːə
 PWN:travel.v.01		lǟ’dõ	læːˀdə
 PWN:tree.n.01		pū	puː
 PWN:trouser.n.01		bikšõd	bikʃɨd
@@ -1130,7 +1131,6 @@ PWN:wood.n.01		ažāpū	ɑʒɑːpuː
 PWN:wool.n.02		pūmpiļ	puːmpiʎ
 PWN:wool.n.02		vīla	viːlɑ
 PWN:word.n.01		sõnā	sɨnɑː
-PWN:work.n.01		tīe	tiːɛ
 PWN:work.v.01		strǭdõ	strɔːdə
 PWN:worker.n.01		tīeli	tiːɛli
 PWN:world.n.02		pasouļ	pɑsouʎ

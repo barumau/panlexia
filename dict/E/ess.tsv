@@ -5,14 +5,14 @@ PLX:2PL.pro		ылъпыси	ɨt͡ɬpɨsi
 PLX:2SG.pro		ылъпык	ɨt͡ɬpɨk
 PLX:3SG M.pro		ылъӈа	ɨt͡ɬŋɡ̥a
 PLX:and.cnj		ама	ama
-PLX:behind.adp		мулюӈани	muljuŋɡ̥ani
-PLX:beside.adp		сяӷу̌ани	sjaɣǔani
+PLX:behind.pp		мулюӈани	muljuŋɡ̥ani
+PLX:beside.pp		сяӷу̌ани	sjaɣǔani
 PLX:die (from accident).V		пылыӽӄаӄуӄ	pɨlɨχqaquq
 PLX:from here.adv		ху̌акын	xǔakɨn
 PLX:get sick.V		аӄниӷаӄуӄ	aqniɣaquq
 PLX:how many.pro		ӄафсина	qafsina
 PLX:how.pro		натын	natɨn
-PLX:in front of.adp		сивулим пиӈа	sivulim piŋɡ̥a
+PLX:in front of.pp		сивулим пиӈа	sivulim piŋɡ̥a
 PLX:this.pro		тана	tana
 PLX:this.pro		уна	una
 PLX:what.pro		сяӈу̌а	sjaŋɡ̥ǔa
@@ -141,9 +141,6 @@ PWN:center.n.01		ӄука	quka
 PWN:chair.n.01		аӄумутаӄ	aqumutaq
 PWN:change.v.01		алъяӈуӽтака	at͡ɬjaŋɡ̥uχtaka
 PWN:change.v.01		алъяӈуӽтаӄуӄ	at͡ɬjaŋɡ̥uχtaquq
-PWN:change.v.03		алъяӈуӽтаӄуӄ	at͡ɬjaŋɡ̥uχtaquq
-PWN:change.v.03		навгутаӄа	navɡutaqa
-PWN:change.v.03		навгутаӄаӄ	navɡutaqaq
 PWN:character.n.08		буква	bukva
 PWN:cheap.a.01		акиӈилӈуӄ	akiŋɡ̥ilŋɡ̥uq
 PWN:cheek.n.01		улъюӈаӄ	ut͡ɬjuŋɡ̥aq
@@ -217,6 +214,7 @@ PWN:deceive.v.01		у̌амтимӄуӄ	ǔamtimquq
 PWN:december.n.01		декабря	djɛkabrja
 PWN:decorate.v.01		пиниӽсяӷаӄа	piniχsjaɣaqa
 PWN:decrease.v.01		мыкылъиӄуӄ	mɨkɨt͡ɬiquq
+PWN:depart.v.03		сяниваӷаӄа	sjanivaɣaqa
 PWN:destroy.v.02		нафӄаӄа	nafqaqa
 PWN:destroy.v.02		нафӄаӄуӄ	nafqaquq
 PWN:detect.v.01		лигикаӄа	liɡikaqa
@@ -257,6 +255,7 @@ PWN:eight.s.01		пиӈаюныӈ иӈлюлык	piŋɡ̥ajunɨŋɡ̥ iŋɡ̥ljul
 PWN:elbow.n.01		икуйык	ikujɨk
 PWN:elk.n.01		туӈтувак	tuŋɡ̥tuvak
 PWN:emerge.v.01		алиӽлъыӄуӄ	aliχt͡ɬɨquq
+PWN:employment.n.02		ӄыпӽаӄ	qɨpχaq
 PWN:empty.a.01		имилӈуӄ	imilŋɡ̥uq
 PWN:end.n.09		наӈныӄ	naŋɡ̥nɨq
 PWN:end.v.01		таӄылъыӄуӄ	taqɨt͡ɬɨquq
@@ -265,6 +264,9 @@ PWN:entirely.r.02		тау̌аӈинаӄ	taǔaŋɡ̥inaq
 PWN:escape.v.01		ӄимаӽлъыӄуӄ	qimaχt͡ɬɨquq
 PWN:evening.n.01		иӷивгаӄ	iɣivɡaq
 PWN:evil.a.01		илюлъюк	iljut͡ɬjuk
+PWN:exchange.v.01		алъяӈуӽтаӄуӄ	at͡ɬjaŋɡ̥uχtaquq
+PWN:exchange.v.01		навгутаӄа	navɡutaqa
+PWN:exchange.v.01		навгутаӄаӄ	navɡutaqaq
 PWN:exclaim.v.01		араӷаӄуӄ	araɣaquq
 PWN:extraneous.s.03		алъям пиӈа	at͡ɬjam piŋɡ̥a
 PWN:eye.n.01		ия	ija
@@ -276,7 +278,7 @@ PWN:fall.v.01		ифкаӷаӄуӄ	ifkaɣaquq
 PWN:familiar.a.01		илялиткаӄ	iljalitkaq
 PWN:familiar.a.01		литыстыкаӄ	litɨstɨkaq
 PWN:family.n.02		иӈлыӷым има	iŋɡ̥lɨɣɨm ima
-PWN:far.r.02		уятуӄаӄ	ujatuqaq
+PWN:faraway.s.01		уятуӄаӄ	ujatuqaq
 PWN:fat.n.01		уӄуӄ	uquq
 PWN:father.n.01		ата	ata
 PWN:fear.v.01		алиӄаӄуӄ	aliqaquq
@@ -520,7 +522,7 @@ PWN:near.r.01		ӄантаӷанлыӈуӄ	qantaɣanlɨŋɡ̥uq
 PWN:neck.n.01		уяӄуӄ	ujaquq
 PWN:needle.n.03		сикуӄ	sikuq
 PWN:nest.n.01		уӈлю	uŋɡ̥lju
-PWN:net_income.n.01		аӽӄылъя	aχqɨt͡ɬja
+PWN:net.n.06		аӽӄылъя	aχqɨt͡ɬja
 PWN:new.a.01		нутаӷаӄ	nutaɣaq
 PWN:news.n.01		уӈипак	uŋɡ̥ipak
 PWN:night.n.01		унук	unuk
@@ -792,7 +794,6 @@ PWN:trap.v.02		напалъыӄа	napat͡ɬɨqa
 PWN:trap.v.02		унакылъыӄа	unakɨt͡ɬɨqa
 PWN:travel.v.01		агляӷаӄуӄ	aɡljaɣaquq
 PWN:travel.v.01		иглыӽтаӄуӄ	iɡlɨχtaquq
-PWN:travel.v.01		сяниваӷаӄа	sjanivaɣaqa
 PWN:tree.n.01		унаӽсиӽаӄ	unaχsiχaq
 PWN:tree.n.01		уӄфиӽаӄ	uqfiχaq
 PWN:trouser.n.01		ӄулъигык	qut͡ɬiɡɨk
@@ -850,7 +851,6 @@ PWN:wolf.n.01		ама	ama
 PWN:woman.n.01		аӷнаӄ	aɣnaq
 PWN:wood.n.01		унаӽсиӄ	unaχsiq
 PWN:wool.n.02		мылъӄуӄ	mɨt͡ɬquq
-PWN:work.n.01		ӄыпӽаӄ	qɨpχaq
 PWN:work.v.01		ӄыпӽаӷаӄуӄ	qɨpχaɣaquq
 PWN:worker.n.01		ӄыпӽаӽта	qɨpχaχta
 PWN:world.n.02		тамаӽаӄ_нунаӽлъяк	tamaχaq nunaχt͡ɬjak

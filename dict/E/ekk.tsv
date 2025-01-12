@@ -6,10 +6,10 @@ PLX:2SG.pro		sina	sʲinɑ
 PLX:3PL.pro		nad	nɑd̥
 PLX:3SG M.pro		tema	tʲemɑ
 PLX:and.cnj		ja	jɑ
-PLX:because of.adp		pärast	pærɑst
-PLX:because of.adp		tõttu	tɤtːu
-PLX:behind.adp		taha	tɑhɑ
-PLX:beside.adp		kõrval	kɤrvɑl
+PLX:because of.pp		pärast	pærɑst
+PLX:because of.pp		tõttu	tɤtːu
+PLX:behind.pp		taha	tɑhɑ
+PLX:beside.pp		kõrval	kɤrvɑl
 PLX:can.v		oskama	oskɑmɑ
 PLX:can.v		võima	vɤimɑ
 PLX:die (from accident).V		surma saama	surmɑ sɑːmɑ
@@ -20,11 +20,11 @@ PLX:get sick.V		haigestuma	hɑiɡ̥estumɑ
 PLX:how many.pro		kui palju	kui pɑlju
 PLX:how many.pro		mitu	mitu
 PLX:how.pro		kuidas	kuid̥ɑs
-PLX:in front of.adp		ees	eːs
+PLX:in front of.pp		ees	eːs
 PLX:or.cnj		või	vɤi
 PLX:that.pro		see	sʲeː
 PLX:this.pro		see	sʲeː
-PLX:under.adp		all	ɑlː
+PLX:under.pp		all	ɑlː
 PLX:what.pro		mis	mis
 PLX:where.pro		kus	kus
 PLX:where_to.pro		kuhu	kuhu
@@ -180,7 +180,6 @@ PWN:center.n.01		keskpaik	keskpɑik
 PWN:chair.n.01		tool	toːl
 PWN:change.v.01		muutma	muːtmɑ
 PWN:change.v.01		ümber tegema	ymb̥er tʲeɡ̥emɑ
-PWN:change.v.03		vahelduma	vɑheld̥umɑ
 PWN:character.n.08		täht	tæxt
 PWN:cheap.a.01		odav	od̥ɑv
 PWN:cheek.n.01		põsk	pɤsk
@@ -267,6 +266,7 @@ PWN:decrease.v.01		vähenema	væhenʲemɑ
 PWN:defend.v.03		kaitsma	kɑitsmɑ
 PWN:deft.s.01		osav	osɑv
 PWN:deity.n.01		jumal	jumɑl
+PWN:depart.v.03		liikuma	lʲiːkumɑ
 PWN:descend.v.01		langema	lɑŋk̥emɑ
 PWN:descend.v.01		vajuma	vɑjumɑ
 PWN:desire.n.01		himu	himu
@@ -326,6 +326,7 @@ PWN:elbow.n.01		küünarnukk	kyːnɑrnukː
 PWN:eleven.s.01		üksteist	ykstʲeist
 PWN:elk.n.01		põder	pɤd̥er
 PWN:emerge.v.01		ilmuma	ilmumɑ
+PWN:employment.n.02		töö	tœː
 PWN:empty.a.01		tühi	tyhi
 PWN:end.n.03		lõpp	lɤpː
 PWN:end.n.09		jupp	jupː
@@ -338,6 +339,7 @@ PWN:erstwhile.s.01		endine	end̥inʲe
 PWN:escape.v.01		põgenema	pɤɡ̥enʲemɑ
 PWN:evening.n.01		õhtu	ɤxtu
 PWN:evil.a.01		tige	tʲiɡ̥e
+PWN:exchange.v.01		vahelduma	vɑheld̥umɑ
 PWN:exclaim.v.01		karjuma	kɑrjumɑ
 PWN:exit.v.01		välja minema	væljɑ minʲemɑ
 PWN:exit.v.01		ära minema	ærɑ minʲemɑ
@@ -354,7 +356,7 @@ PWN:fall_asleep.v.01		uinuma	uinumɑ
 PWN:familiar.a.01		teada	tʲeɑd̥ɑ
 PWN:familiar.a.01		tuttav	tutːɑv
 PWN:family.n.02		perekond	perekond̥
-PWN:far.r.02		kauge	kɑuɡ̥e
+PWN:faraway.s.01		kauge	kɑuɡ̥e
 PWN:fat.n.01		rasv	rɑsv
 PWN:father.n.01		isa	isɑ
 PWN:fault.n.06		süü	syː
@@ -662,7 +664,7 @@ PWN:near.r.01		lähedane	læhed̥ɑnʲe
 PWN:neck.n.01		kael	kɑel
 PWN:needle.n.03		nõel	nɤel
 PWN:nest.n.01		pesa	pesɑ
-PWN:net_income.n.01		võrk	vɤrk
+PWN:net.n.06		võrk	vɤrk
 PWN:never.r.01		mitte kunagi	mitʲːe kunɑɡ̥i
 PWN:new.a.01		uus	uːs
 PWN:news.n.01		uudis	uːd̥is
@@ -948,7 +950,7 @@ PWN:tail.n.01		saba	sɑb̥ɑ
 PWN:take.v.04		võtma	vɤtmɑ
 PWN:talk.v.02		kõnelema	kɤnʲelʲemɑ
 PWN:taste.n.01		maitse	mɑitsʲe
-PWN:taste.v.01		proovima	proːvimɑ
+PWN:taste.v.02		proovima	proːvimɑ
 PWN:tasty.a.01		hõrk	hɤrk
 PWN:tasty.a.01		maitsev	mɑitsʲev
 PWN:tea.n.01		tee	tʲeː
@@ -1012,7 +1014,6 @@ PWN:trap.n.01		lõks	lɤks
 PWN:trap.n.01		püünis	pyːnʲis
 PWN:trap.v.02		püüdma	pyːd̥mɑ
 PWN:travel.v.01		käima	kæimɑ
-PWN:travel.v.01		liikuma	lʲiːkumɑ
 PWN:travel.v.01		minema	minʲemɑ
 PWN:tree.n.01		puu	puː
 PWN:trouser.n.01		püksid	pyksʲid̥
@@ -1094,7 +1095,6 @@ PWN:woman.n.01		naine	nɑinʲe
 PWN:wood.n.01		puu	puː
 PWN:wool.n.02		vill	vilː
 PWN:word.n.01		sõna	sɤnɑ
-PWN:work.n.01		töö	tœː
 PWN:work.v.01		töötama	tœːtɑmɑ
 PWN:worker.n.01		tööline	tœːlʲinʲe
 PWN:world.n.02		maailm	mɑːilm

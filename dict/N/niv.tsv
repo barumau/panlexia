@@ -9,9 +9,9 @@ PLX:3PL.pro		имӈ	imŋ
 PLX:3PL.pro		ин	in
 PLX:3SG M.pro		иф	if
 PLX:and.cnj		ӿара	hæræ
-PLX:behind.adp		алвер̌ӄ	ælvɪer̥q
-PLX:beside.adp		лаӻа	læʁæ
-PLX:beside.adp		леф	lɪef
+PLX:behind.pp		алвер̌ӄ	ælvɪer̥q
+PLX:beside.pp		лаӻа	læʁæ
+PLX:beside.pp		леф	lɪef
 PLX:can.v		йыймдь	ɪɨɪmɟ
 PLX:can.v		яймнд	jæɪmnd
 PLX:everywhere.pro		ӿузус	huzus
@@ -23,7 +23,7 @@ PLX:how many.pro		р̌аӈс	r̥æŋs
 PLX:how.pro		яӈгур̌	jæŋɡur̥
 PLX:how.pro		яӈгут	jæŋɡut
 PLX:this.pro		тыдь	tɨɟ
-PLX:under.adp		вый	vɨɪ
+PLX:under.pp		вый	vɨɪ
 PLX:what.pro		нуд	nud
 PLX:what.pro		сидь	siɟ
 PLX:where.pro		р̌ар̌	r̥ær̥
@@ -238,6 +238,8 @@ PWN:december.n.01		аньлоӈ	æɲloŋ
 PWN:defend.v.03		ӻонид	ʁonid
 PWN:deity.n.01		курӈ	kurŋ
 PWN:deity.n.01		тайӻаӈ	tæɪʁæŋ
+PWN:depart.v.03		вид	vid
+PWN:depart.v.03		видь	viɟ
 PWN:desire.v.01		яӻньдь	jæʁɲɟ
 PWN:die.v.01		мудь	muɟ
 PWN:dig.v.01		хызнд	xɨznd
@@ -279,6 +281,7 @@ PWN:elbow.n.01		тоӈӄ	toŋq
 PWN:elk.n.01		т’оӽӈа	tʰoχŋæ
 PWN:emerge.v.01		поид	poid
 PWN:emerge.v.01		пойдь	poɪɟ
+PWN:employment.n.02		орбот	orbot
 PWN:empty.a.01		ӿоньӻа	hoɲʁæ
 PWN:end.n.09		ых	ɨx
 PWN:enter.v.01		тывыдь	tɨvɨɟ
@@ -566,8 +569,8 @@ PWN:neck.n.01		ӄ’ос	qʰos
 PWN:needle.n.03		к’еотнух	kʰɪeotnux
 PWN:needle.n.03		нух	nux
 PWN:nest.n.01		ӈави	ŋævi
-PWN:net_income.n.01		к’е	kʰɪe
-PWN:net_income.n.01		ёвдь	jovɟ
+PWN:net.n.06		к’е	kʰɪe
+PWN:net.n.06		ёвдь	jovɟ
 PWN:new.a.01		чуз	cʰuz
 PWN:news.n.01		к’ер̌	kʰɪer̥
 PWN:news.n.01		к’ес	kʰɪes
@@ -802,7 +805,7 @@ PWN:talk.v.02		итт	itt
 PWN:talk.v.02		итть	itc
 PWN:taste.n.01		амра	æmræ
 PWN:taste.n.01		амраӈ	æmræŋ
-PWN:taste.v.01		амрадь	æmræɟ
+PWN:taste.v.02		амрадь	æmræɟ
 PWN:tea.n.01		чай	cʰæɪ
 PWN:teach.v.01		р̌атудь	r̥ætuɟ
 PWN:teacher.n.01		учитель	ucʰitɪelʲ
@@ -864,8 +867,6 @@ PWN:trap.v.02		к’ер̌ӄодь	kʰɪer̥qoɟ
 PWN:trap.v.02		ӈыӈдь	ŋɨŋɟ
 PWN:trap.v.02		ӿир̌кудь	hir̥kuɟ
 PWN:travel.v.01		вид	vid
-PWN:travel.v.01		вид	vid
-PWN:travel.v.01		видь	viɟ
 PWN:travel.v.01		видь	viɟ
 PWN:tree.n.01		чӽар̌	cʰχær̥
 PWN:trouser.n.01		вар̌	vær̥
@@ -935,7 +936,6 @@ PWN:woman.n.01		р̌аӈӷ	r̥æŋɢ
 PWN:woman.n.01		умгу	umɡu
 PWN:wood.n.01		чӽар̌	cʰχær̥
 PWN:word.n.01		слово	slovo
-PWN:work.n.01		орбот	orbot
 PWN:work.v.01		орботть	orbotc
 PWN:world.n.02		кур̌	kur̥
 PWN:world.n.02		курӈ	kurŋ

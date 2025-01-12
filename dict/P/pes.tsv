@@ -6,11 +6,11 @@ PLX:2SG.pro		تو	to
 PLX:3PL.pro		آنها	ɒːnhɒː
 PLX:3SG M.pro		او	u
 PLX:and.cnj		و	wæ
-PLX:because of.adp		بخاطر	bexɒːteɾe
-PLX:because of.adp		برای	bæɾɒːje
-PLX:behind.adp		پشت	poʃte
-PLX:beside.adp		پهلوی	pæhluje
-PLX:beside.adp		کنار	kenɒːɾe
+PLX:because of.pp		بخاطر	bexɒːteɾe
+PLX:because of.pp		برای	bæɾɒːje
+PLX:behind.pp		پشت	poʃte
+PLX:beside.pp		پهلوی	pæhluje
+PLX:beside.pp		کنار	kenɒːɾe
 PLX:can.v		توانستن	tæwɒːnestæn
 PLX:die (from accident).V		کشته شدن	koʃte ʃodæn
 PLX:everywhere.pro		همه‌جا	hæmed͡ʒɒː
@@ -20,11 +20,11 @@ PLX:how many.pro		چقدر	t͡ʃeɣædɾ
 PLX:how many.pro		چند	t͡ʃænd
 PLX:how.pro		چطور	t͡ʃetouɾ
 PLX:how.pro		چگونه	t͡ʃeɡune
-PLX:in front of.adp		در جلوی	dæɾ d͡ʒelouje
+PLX:in front of.pp		در جلوی	dæɾ d͡ʒelouje
 PLX:or.cnj		یا	jɒː
 PLX:that.pro		آن	ɒːn
 PLX:this.pro		این	in
-PLX:under.adp		تحت	tæhte
+PLX:under.pp		تحت	tæhte
 PLX:what.pro		چه	t͡ʃe
 PLX:where.pro		کجا	kod͡ʒɒː
 PLX:where_to.pro		بکجا	bekod͡ʒɒː
@@ -192,7 +192,6 @@ PWN:center.n.01		میان	mijɒːn
 PWN:center.n.01		وسط	wæsæt
 PWN:chair.n.01		صندلی	sændæli
 PWN:change.v.01		تغییر دادن	tæɣjiɾ dɒːdæn
-PWN:change.v.03		عوض شدن	æwæz ʃodæn
 PWN:character.n.08		حرف	hæɾf
 PWN:cheap.a.01		ارزان	æɾzɒːn
 PWN:cheek.n.01		لپ	lop
@@ -288,6 +287,7 @@ PWN:decrease.v.01		کم شدن	kæm ʃodæn
 PWN:defend.v.03		دفاع کردن	defɒːʔ kæɾdæn æz
 PWN:deft.s.01		ماهر	mɒːheɾ
 PWN:deity.n.01		خدا	xodɒː
+PWN:depart.v.03		حرکت کردن	hæɾækæt kæɾdæn
 PWN:descend.v.01		پایین آمدن	pɒːjin ɒːmædæn
 PWN:desire.n.01		هوس	hæwæs
 PWN:desire.v.01		خواستن	xɒːstæn
@@ -349,6 +349,7 @@ PWN:elbow.n.01		آرنج	ɒːɾænd͡ʒ
 PWN:eleven.s.01		یازده	jɒːzdæh
 PWN:elk.n.01		گوزن شمالی	ɡæwæzne ʃemɒːli
 PWN:emerge.v.01		ظاهر شدن	zɒːheɾ ʃodæn
+PWN:employment.n.02		کار	kɒːɾ
 PWN:empty.a.01		خالی	xɒːli
 PWN:end.n.03		انتها	entehɒː
 PWN:end.n.09		آخر	ɒːxeɾ
@@ -362,6 +363,7 @@ PWN:escape.v.01		فرار کردن	fæɾɒːɾ kæɾdæn
 PWN:evening.n.01		شب	ʃæb
 PWN:evening.n.01		عصر	æsɾ
 PWN:evil.a.01		بد	bæd
+PWN:exchange.v.01		عوض شدن	æwæz ʃodæn
 PWN:exclaim.v.01		فریاد زدن	fæɾjɒːd zædæn
 PWN:exit.v.01		رفتن	ɾæftæn
 PWN:expensive.a.01		گران	ɡeɾɒːn
@@ -383,7 +385,7 @@ PWN:familiar.a.01		آشنا	ɒːʃnɒː
 PWN:familiar.a.01		معلوم	mæʔlum
 PWN:family.n.02		خانواده	xɒːnewɒːde
 PWN:family.n.02		فامیل	fɒːmil
-PWN:far.r.02		دور	duɾ
+PWN:faraway.s.01		دور	duɾ
 PWN:fat.n.01		چربی	t͡ʃæɾbi
 PWN:father.n.01		پدر	pedæɾ
 PWN:fault.n.06		تقصیر	tæɣsiɾ
@@ -700,8 +702,8 @@ PWN:near.r.01		نزدیک	næzdik
 PWN:neck.n.01		گردن	ɡæɾdæn
 PWN:needle.n.03		سوزن	suzæn
 PWN:nest.n.01		لانه	lɒːne
-PWN:net_income.n.01		تور	tuɾ
-PWN:net_income.n.01		شبکه	ʃæbæke
+PWN:net.n.06		تور	tuɾ
+PWN:net.n.06		شبکه	ʃæbæke
 PWN:never.r.01		هرگز	hæɾɡez
 PWN:new.a.01		نو	nou
 PWN:news.n.01		خبر تازه	xæbæɾe tɒːze
@@ -1016,7 +1018,7 @@ PWN:take.v.04		گرفتن	ɡeɾeftæn
 PWN:talk.v.02		حرف زدن	hæɾf zædæn
 PWN:talk.v.02		صحبت کردن	sohbæt kæɾdæn
 PWN:taste.n.01		مزه	mæze
-PWN:taste.v.01		چشیدن	t͡ʃeʃidæn
+PWN:taste.v.02		چشیدن	t͡ʃeʃidæn
 PWN:tasty.a.01		خوشمزه	xoʃmæze
 PWN:tasty.a.01		لذیذ	læziz
 PWN:tea.n.01		چای	t͡ʃɒːj
@@ -1088,7 +1090,6 @@ PWN:transport.v.02		بردن	boɾdæn
 PWN:transport.v.02		حمل کردن	hæml kæɾdæn
 PWN:trap.n.01		دام	dɒːm
 PWN:trap.v.02		گرفتن	ɡeɾeftæn
-PWN:travel.v.01		حرکت کردن	hæɾækæt kæɾdæn
 PWN:travel.v.01		رفتن	ɾæftæn
 PWN:tree.n.01		درخت	deɾæxt
 PWN:trouser.n.01		شلوار	ʃælwɒːɾ
@@ -1170,7 +1171,6 @@ PWN:woman.n.01		زن	zæn
 PWN:wood.n.01		چوب	t͡ʃub
 PWN:wool.n.02		پشم	pæʃm
 PWN:word.n.01		کلمه	kæleme
-PWN:work.n.01		کار	kɒːɾ
 PWN:work.v.01		کار کردن	kɒːɾ kæɾdæn
 PWN:worker.n.01		کارگر	kɒːɾɡæɾ
 PWN:world.n.02		دنیا	donjɒː

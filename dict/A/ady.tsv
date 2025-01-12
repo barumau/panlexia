@@ -6,9 +6,9 @@ PLX:2SG.pro		о	wa
 PLX:3PL.pro		ахэр	aːxar
 PLX:3SG M.pro		ар	aːr
 PLX:and.cnj		ыкӏи	əkʼəj
-PLX:because of.adp		къы-	qə-
-PLX:behind.adp		кӏы́б	ˈt͡ʃʼəb
-PLX:beside.adp		дэжь	daʑ
+PLX:because of.pp		къы-	qə-
+PLX:behind.pp		кӏы́б	ˈt͡ʃʼəb
+PLX:beside.pp		дэжь	daʑ
 PLX:can.v		лъэкӏы́н	ɬaˈt͡ʃʼən
 PLX:die (from accident).V		хэкӏодэн	xakʼʷadan
 PLX:everywhere.pro		тыди́	tədəj́
@@ -17,12 +17,12 @@ PLX:get sick.V		сымаджэ́ хъун	səmaːˈd͡ʒa χʷən
 PLX:how many.pro		сыд фэди́з	səd fadəj́z
 PLX:how many.pro		тхьапш	tħaːpʃ
 PLX:how.pro		сыдэущтэ́у	sədawəɕˈtawə
-PLX:in front of.adp		пашъхьэ́	paːʂˈħa
+PLX:in front of.pp		пашъхьэ́	paːʂˈħa
 PLX:or.cnj		е	ja
 PLX:that.pro		а	aː
 PLX:that.pro		мо	mʷa
 PLX:this.pro		ар	aːr
-PLX:under.adp		чӏэ-	t͡ʃʼa-
+PLX:under.pp		чӏэ-	t͡ʃʼa-
 PLX:what.pro		сыд	səd
 PLX:where.pro		тыдэ́	təˈda
 PLX:where_to.pro		тыдэ́	təˈda
@@ -161,7 +161,6 @@ PWN:cavil.v.01		хъонэн	χʷanan
 PWN:center.n.01		гузэ́гу	ɡʷəˈzaɡʷə
 PWN:chair.n.01		пхъэнтӏэ́кӏу	pχanˈtʼakʷʼ
 PWN:change.v.01		зэблэхъу́н	zablaχʷ́n
-PWN:change.v.03		зэхъожьы́н	zaχʷaˈʑən
 PWN:character.n.08		хьары́ф	ħaːˈrəf
 PWN:cheap.a.01		пыут	pəwət
 PWN:cheek.n.01		нэкӏу́шъу	nakʷʼ́ʂʷə
@@ -242,6 +241,7 @@ PWN:defend.v.03		къэухъумэн	qawəχʷəman
 PWN:deft.s.01		шо́у шӏыгъэ́	ʃ̈wawə ʃʼəˈʁa
 PWN:deft.s.01		ӏэпэӏэсэ́	apaʔaˈsa
 PWN:deity.n.01		тхьэ	tħa
+PWN:depart.v.03		хъые́н	χəˈjan
 PWN:desire.n.01		шӏонгъоны́гъ	ʃʼʷanʁʷaˈnəʁ
 PWN:desire.v.01		фэе́н	faˈjan
 PWN:destroy.v.02		къутэ́н	qʷəˈtan
@@ -297,6 +297,7 @@ PWN:elbow.n.01		ӏэнтэ́гъу	anˈtaʁʷə
 PWN:eleven.s.01		пшӏыкӏузы́	pʃʼəkʷʼˈzə
 PWN:elk.n.01		лось	lʷasʲ
 PWN:emerge.v.01		къэлъэгъон	qaɬaʁʷan
+PWN:employment.n.02		ӏофшӏакӏэ́н	ʷafʃʼaːˈkʼan
 PWN:empty.a.01		нэкӏы́	naˈt͡ʃʼə
 PWN:end.n.03		кӏэ	kʼa
 PWN:end.n.09		кӏэ	kʼa
@@ -307,6 +308,7 @@ PWN:erstwhile.s.01		-гъэ	-ʁa
 PWN:erstwhile.s.01		-щтыгъэ	-ɕtəʁa
 PWN:evening.n.01		пчыхьэ́	pt͡ʃəˈħa
 PWN:evil.a.01		ябгэ	jaːbɣa
+PWN:exchange.v.01		зэхъожьы́н	zaχʷaˈʑən
 PWN:exclaim.v.01		куо́н	kʷ̈wan
 PWN:exclaim.v.01		кӏыи́н	t͡ʃʼəˈjən
 PWN:exit.v.01		ӏукӏын	ʷət͡ʃʼən
@@ -324,7 +326,7 @@ PWN:fall_asleep.v.01		хэчъыен	xat͡ɕəjan
 PWN:familiar.a.01		нэӏуа́с	naˈʔʷaːs
 PWN:family.n.02		быны́	bəˈnə
 PWN:family.n.02		уна́гъу	wəˈnaːʁʷə
-PWN:far.r.02		чыжьэ	t͡ʃəʑa
+PWN:faraway.s.01		чыжьэ	t͡ʃəʑa
 PWN:fat.n.01		дагъэ́	daːˈʁa
 PWN:father.n.01		ты	tə
 PWN:fault.n.06		мысагъэ́	məsaːˈʁa
@@ -607,7 +609,7 @@ PWN:near.r.01		благъэ́	blaːˈʁa
 PWN:neck.n.01		пшъэ	pʂa
 PWN:needle.n.03		бгъэ́хаӏу	bˈʁaxaːʔʷə
 PWN:nest.n.01		набгъо́	naːbˈʁʷa
-PWN:net_income.n.01		хъытыу	χətəwə
+PWN:net.n.06		хъытыу	χətəwə
 PWN:new.a.01		кӏэ	kʼa
 PWN:news.n.01		къэбарыкӏ	qabaːrəkʼ
 PWN:newspaper.n.01		газет	ɣaːzajt
@@ -869,7 +871,7 @@ PWN:tail.n.01		кӏэ	kʼa
 PWN:take.v.04		къытехы́н	qətajˈxən
 PWN:talk.v.02		гущыӏэ́н	ɡʷəɕəˈʔan
 PWN:taste.n.01		ӏэшӏугъа́кӏ	aʃʷʼˈʁaːkʼ
-PWN:taste.v.01		хэӏэн	xaʔan
+PWN:taste.v.02		хэӏэн	xaʔan
 PWN:tasty.a.01		го́хьы	ɣ̈waħə
 PWN:tea.n.01		щай	ɕaːj
 PWN:teach.v.01		егъэджэ́н	jaʁaˈd͡ʒan
@@ -929,7 +931,6 @@ PWN:transport.v.02		хьын	ħən
 PWN:trap.n.01		зэраубытырэ́ ӏэмэпсы́м	zaraːwəbətəˈra ʔamapˈsəm
 PWN:trap.v.02		къэубыты́н	qawəbəˈtən
 PWN:travel.v.01		кӏон	kʼʷan
-PWN:travel.v.01		хъые́н	χəˈjan
 PWN:tree.n.01		чъыгы́	t͡ɕəˈɣə
 PWN:trouser.n.01		гъончэ́дж	ʁʷanˈt͡ʃad͡ʒ
 PWN:true.a.01		шъыпкъэ́	ʂəpˈqa
@@ -1001,7 +1002,6 @@ PWN:woman.n.01		бӏылъфыгъэ́	bʔəɬfəˈʁa
 PWN:wood.n.01		чъыгы́	t͡ɕəˈɣə
 PWN:wool.n.02		цы	t͡sə
 PWN:word.n.01		гущыӏ	ɡʷəɕəʔ
-PWN:work.n.01		ӏофшӏакӏэ́н	ʷafʃʼaːˈkʼan
 PWN:work.v.01		лэжьэ́н	laˈʑan
 PWN:worker.n.01		рабоч	raːbʷat͡ʃ
 PWN:world.n.02		дуна́й	dəwˈnaːj

@@ -7,10 +7,10 @@ PLX:3PL.pro		те	tɛ
 PLX:3SG M.pro		той	tɔj
 PLX:and.cnj		а	a
 PLX:and.cnj		та	ta
-PLX:because of.adp		заради	zaradi
-PLX:behind.adp		зад	zat
-PLX:beside.adp		до	dɔ
-PLX:beside.adp		при	pri
+PLX:because of.pp		заради	zaradi
+PLX:behind.pp		зад	zat
+PLX:beside.pp		до	dɔ
+PLX:beside.pp		при	pri
 PLX:can.v		мога	mɔɡa
 PLX:die (from accident).V		загина	zaɡina
 PLX:everywhere.pro		навсякъде	navsʲakɤdɛ
@@ -19,12 +19,12 @@ PLX:from here.adv		оттука	ɔttuka
 PLX:get sick.V		заболея	zabɔlɛja
 PLX:how many.pro		колко	kɔɫkɔ
 PLX:how.pro		как	kak
-PLX:in front of.adp		пред	prɛt
+PLX:in front of.pp		пред	prɛt
 PLX:or.cnj		или	ili
 PLX:that.pro		това	tɔva
 PLX:that.pro		туй	tuj
 PLX:this.pro		този	tɔzi
-PLX:under.adp		под	pɔt
+PLX:under.pp		под	pɔt
 PLX:what.pro		какво	kakvɔ
 PLX:what.pro		що	ʃtɔ
 PLX:where.pro		къде	kɤdɛ
@@ -188,7 +188,6 @@ PWN:cavil.v.01		ругая	ruɡaja
 PWN:center.n.01		среда	srɛda
 PWN:chair.n.01		стол	stɔɫ
 PWN:change.v.01		променя	prɔmɛnʲa
-PWN:change.v.03		променям	prɔmɛnʲam
 PWN:character.n.08		буква	bukva
 PWN:cheap.a.01		евтин	ɛvtin
 PWN:cheek.n.01		буза	buza
@@ -272,6 +271,8 @@ PWN:defend.v.03		защитя	zaʃtitʲa
 PWN:deft.s.01		сръчен	srɤt͡ʃɛn
 PWN:deft.s.01		умел	umɛɫ
 PWN:deity.n.01		бог	bɔk
+PWN:depart.v.03		движа се	dviʒa sɛ
+PWN:depart.v.03		мърдам се	mɤrdam sɛ
 PWN:descend.v.01		падна	padna
 PWN:desire.n.01		желание	ʒɛɫaniɛ
 PWN:desire.v.01		искам	iskam
@@ -332,6 +333,8 @@ PWN:eleven.s.01		единадесет	ɛdinadɛsɛt
 PWN:eleven.s.01		единайсет	ɛdinajsɛt
 PWN:elk.n.01		лос	ɫɔs
 PWN:emerge.v.01		явя се	javʲa sɛ
+PWN:employment.n.02		работа	rabɔta
+PWN:employment.n.02		труд	trut
 PWN:empty.a.01		празен	prazɛn
 PWN:end.n.03		край	kraj
 PWN:end.n.09		край	kraj
@@ -343,6 +346,7 @@ PWN:escape.v.01		бягам	bʲaɡam
 PWN:escape.v.01		избягам	izbʲaɡam
 PWN:evening.n.01		вечер	vɛt͡ʃɛr
 PWN:evil.a.01		зъл	zɤɫ
+PWN:exchange.v.01		променям	prɔmɛnʲam
 PWN:exclaim.v.01		крещя	krɛʃtʲa
 PWN:exit.v.01		отида си	ɔtida si
 PWN:expensive.a.01		скъп	skɤp
@@ -362,7 +366,7 @@ PWN:familiar.a.01		известен	izvɛstɛn
 PWN:familiar.a.01		познат	pɔznat
 PWN:family.n.02		семейство	sɛmɛjstvɔ
 PWN:family.n.02		фамилия	familija
-PWN:far.r.02		далечен	dalɛt͡ʃɛn
+PWN:faraway.s.01		далечен	dalɛt͡ʃɛn
 PWN:fat.n.01		мазнина	maznina
 PWN:father.n.01		баща	baʃta
 PWN:fault.n.06		вина	vina
@@ -681,7 +685,7 @@ PWN:near.r.01		близък	blizɤk
 PWN:neck.n.01		врат	vrat
 PWN:needle.n.03		игла	iɡɫa
 PWN:nest.n.01		гнездо	ɡnɛzdɔ
-PWN:net_income.n.01		мрежа	mrɛʒa
+PWN:net.n.06		мрежа	mrɛʒa
 PWN:never.r.01		никога	nikɔɡa
 PWN:new.a.01		нов	nɔf
 PWN:news.n.01		новина	nɔvina
@@ -979,7 +983,7 @@ PWN:tail.n.01		опашка	ɔpaʃka
 PWN:take.v.04		взема	vzɛma
 PWN:talk.v.02		говоря	ɡɔvɔrʲa
 PWN:taste.n.01		вкус	vkus
-PWN:taste.v.01		опитам	ɔpitam
+PWN:taste.v.02		опитам	ɔpitam
 PWN:tasty.a.01		вкусен	vkusɛn
 PWN:tea.n.01		чай	t͡ʃaj
 PWN:teach.v.01		уча	ut͡ʃa
@@ -1045,9 +1049,7 @@ PWN:transport.v.02		нося	nɔsʲa
 PWN:trap.n.01		примка	primka
 PWN:trap.v.02		хвана	xvana
 PWN:travel.v.01		вървя	vɤrvʲa
-PWN:travel.v.01		движа се	dviʒa sɛ
 PWN:travel.v.01		ида	ida
-PWN:travel.v.01		мърдам се	mɤrdam sɛ
 PWN:tree.n.01		дърво	dɤrvɔ
 PWN:trouser.n.01		панталони	pantaɫɔni
 PWN:true.a.01		верен	vɛrɛn
@@ -1130,8 +1132,6 @@ PWN:woman.n.01		жена	ʒɛna
 PWN:wood.n.01		дърво	dɤrvɔ
 PWN:wool.n.02		вълна	vɤɫna
 PWN:word.n.01		дума	duma
-PWN:work.n.01		работа	rabɔta
-PWN:work.n.01		труд	trut
 PWN:work.v.01		работя	rabɔtʲa
 PWN:worker.n.01		работник	rabɔtnik
 PWN:world.n.02		свят	svʲat

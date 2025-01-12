@@ -7,11 +7,11 @@ PLX:2SG.pro		אתה	ata
 PLX:3PL.pro		הם	hɛm
 PLX:3SG M.pro		הוא	hu
 PLX:and.cnj		ו	və
-PLX:because of.adp		בגלל	biɡlal
-PLX:because of.adp		בשל	bəʃɛl
-PLX:behind.adp		מאחורי	mɛʔaχoʁɛj
-PLX:beside.adp		ליד	ləjad
-PLX:beside.adp		על-יד	aljad
+PLX:because of.pp		בגלל	biɡlal
+PLX:because of.pp		בשל	bəʃɛl
+PLX:behind.pp		מאחורי	mɛʔaχoʁɛj
+PLX:beside.pp		ליד	ləjad
+PLX:beside.pp		על-יד	aljad
 PLX:can.v		יכל	jaχol
 PLX:die (from accident).V		נספה	nispa
 PLX:everywhere.pro		בכל מקום	bəχolmakom
@@ -19,11 +19,11 @@ PLX:from here.adv		מפה	mipo
 PLX:get sick.V		חלה	χala
 PLX:how many.pro		כמה	kama
 PLX:how.pro		איך	ɛiχ
-PLX:in front of.adp		מול	mul
+PLX:in front of.pp		מול	mul
 PLX:or.cnj		או	o
 PLX:that.pro		זה	zɛ
 PLX:this.pro		זה	zɛ
-PLX:under.adp		מתחת	mitaχat
+PLX:under.pp		מתחת	mitaχat
 PLX:what.pro		מה	ma
 PLX:where.pro		איפה	ɛjfo
 PLX:where_to.pro		לאן	ləʔan
@@ -171,7 +171,6 @@ PWN:cavil.v.01		גער	ɡaʔaʁ
 PWN:center.n.01		אמצע	ɛmt͡sa
 PWN:chair.n.01		כסא	kisɛʔ
 PWN:change.v.01		שנה	ʃina
-PWN:change.v.03		השתנה	hiʃtana
 PWN:character.n.08		אות	ot
 PWN:cheap.a.01		זול	zol
 PWN:cheek.n.01		לחי	lɛχi
@@ -250,6 +249,7 @@ PWN:decrease.v.01		הפחית	hifχit
 PWN:defend.v.03		הגן	hɛɡɛn
 PWN:deft.s.01		מימן	məjuman
 PWN:deity.n.01		אל	ɛl
+PWN:depart.v.03		נע	naʔ
 PWN:descend.v.01		ירד	jaʁad
 PWN:desire.n.01		חשק	χɛʃɛk
 PWN:desire.n.01		תשוקה	tʃuka
@@ -307,6 +307,7 @@ PWN:eleven.s.01		אחת עשרה	aχatɛsʁe
 PWN:elk.n.01		דישון	diʃon
 PWN:emerge.v.01		הופיע	hofiʔa
 PWN:emerge.v.01		נגלה	niɡla
+PWN:employment.n.02		עבודה	avoda
 PWN:empty.a.01		ריק	ʁɛjk
 PWN:end.n.03		סיום	sijum
 PWN:end.n.09		סוף	sof
@@ -317,6 +318,7 @@ PWN:erstwhile.s.01		לשעבר	ləʃɛʔavaʁ
 PWN:escape.v.01		נמלט	nimlat
 PWN:evening.n.01		ערב	ɛʁɛv
 PWN:evil.a.01		רשע	ʁaʃaʔ
+PWN:exchange.v.01		השתנה	hiʃtana
 PWN:exclaim.v.01		צעק	t͡saʔak
 PWN:exit.v.01		עזב	azav
 PWN:expensive.a.01		יקר	jakaʁ
@@ -332,7 +334,7 @@ PWN:fall.v.01		נפל	nafal
 PWN:fall_asleep.v.01		נרדם	niʁdam
 PWN:familiar.a.01		ידוע	jaduʔa
 PWN:family.n.02		משפחה	miʃpaχa
-PWN:far.r.02		רחוק	ʁaχok
+PWN:faraway.s.01		רחוק	ʁaχok
 PWN:fat.n.01		שמן	ʃuman
 PWN:father.n.01		אב	av
 PWN:fault.n.06		אשמה	aʃma
@@ -619,7 +621,7 @@ PWN:near.r.01		קרוב	kaʁov
 PWN:neck.n.01		צואר	t͡savaʁ
 PWN:needle.n.03		מחט	maχat
 PWN:nest.n.01		קן	kɛn
-PWN:net_income.n.01		רשת	ʁɛʃɛt
+PWN:net.n.06		רשת	ʁɛʃɛt
 PWN:never.r.01		אף פעם	afpaʔam
 PWN:new.a.01		חדש	χadaʃ
 PWN:news.n.01		חדשה	χadaʃa
@@ -890,7 +892,7 @@ PWN:tail.n.01		זנב	zanav
 PWN:take.v.04		אחז	aχaz
 PWN:talk.v.02		דבר	dibɛʁ
 PWN:taste.n.01		טעם	taʔam
-PWN:taste.v.01		נסה	nisa
+PWN:taste.v.02		נסה	nisa
 PWN:tasty.a.01		טעים	taʔim
 PWN:tea.n.01		תה	tɛ
 PWN:teach.v.01		למד	limɛd
@@ -948,7 +950,6 @@ PWN:transport.v.02		נשא	nasa
 PWN:trap.n.01		מלכדת	malkodɛt
 PWN:trap.v.02		תפס	tafas
 PWN:travel.v.01		הלך	halaχ
-PWN:travel.v.01		נע	naʔ
 PWN:tree.n.01		עץ	ɛt͡s
 PWN:trouser.n.01		מכנסים	miχnasajim
 PWN:true.a.01		אמתי	amiti
@@ -1023,7 +1024,6 @@ PWN:woman.n.01		גברת	ɡvɛʁɛt
 PWN:wood.n.01		עץ	ɛt͡s
 PWN:wool.n.02		צמר	t͡sɛmɛʁ
 PWN:word.n.01		מלה	mila
-PWN:work.n.01		עבודה	avoda
 PWN:work.v.01		עבד	avad
 PWN:worker.n.01		פועל	poʔɛl
 PWN:world.n.02		עולם	olam

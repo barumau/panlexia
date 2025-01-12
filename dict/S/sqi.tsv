@@ -7,11 +7,11 @@ PLX:3PL.pro		ata	ata
 PLX:3SG M.pro		ai	ai
 PLX:and.cnj		dhe	ðɛ
 PLX:and.cnj		e	ɛ
-PLX:because of.adp		për	pəɾ
-PLX:behind.adp		mbrapa	mbɾapa
-PLX:behind.adp		prapa	pɾapa
-PLX:beside.adp		pranë	pɾanə
-PLX:beside.adp		përbri	pəɾbɾi
+PLX:because of.pp		për	pəɾ
+PLX:behind.pp		mbrapa	mbɾapa
+PLX:behind.pp		prapa	pɾapa
+PLX:beside.pp		pranë	pɾanə
+PLX:beside.pp		përbri	pəɾbɾi
 PLX:can.v		mund	mʊnd
 PLX:die (from accident).V		mbaroj	mbaɾɔj
 PLX:die (from accident).V		vdes	vdɛs
@@ -21,12 +21,12 @@ PLX:from here.adv		që këtej	cə kətɛj
 PLX:get sick.V		bie i sëmurë	biɛ i səmʊɾə
 PLX:how many.pro		sa	sa
 PLX:how.pro		si	si
-PLX:in front of.adp		para	paɾa
+PLX:in front of.pp		para	paɾa
 PLX:or.cnj		a	a
 PLX:or.cnj		apo	apɔ
 PLX:that.pro		ky	ky
 PLX:this.pro		ky	ky
-PLX:under.adp		nën	nən
+PLX:under.pp		nën	nən
 PLX:what.pro		ç'	t͡ʃ
 PLX:what.pro		çfarë	t͡ʃfaɾə
 PLX:where.pro		ku	kʊ
@@ -189,7 +189,6 @@ PWN:cavil.v.01		shaj	ʃaj
 PWN:center.n.01		mes	mɛs
 PWN:chair.n.01		karrige	kariɡɛ
 PWN:change.v.01		ndërroj	ndərɔj
-PWN:change.v.03		ndërroj	ndərɔj
 PWN:character.n.08		shkronjë	ʃkɾɔɲə
 PWN:cheap.a.01		lirë	liɾə
 PWN:cheek.n.01		faqe	facɛ
@@ -278,6 +277,7 @@ PWN:defend.v.03		mbroj	mbɾɔj
 PWN:deft.s.01		aftë	aftə
 PWN:deity.n.01		hy	hy
 PWN:deity.n.01		zot	zɔt
+PWN:depart.v.03		shkundem	ʃkʊndɛm
 PWN:descend.v.01		ulem	ʊlɛm
 PWN:desire.n.01		dashuri	daʃʊɾi
 PWN:desire.n.01		epsh	ɛpʃ
@@ -336,6 +336,7 @@ PWN:elbow.n.01		bërryl	bəryl
 PWN:eleven.s.01		njëmbëdhjetë	ɲəmbəðjɛtə
 PWN:elk.n.01		dre brilopatë	dɾɛ bɾilɔpatə
 PWN:emerge.v.01		dukem	dʊkɛm
+PWN:employment.n.02		punë	pʊnə
 PWN:empty.a.01		bosh	bɔʃ
 PWN:empty.a.01		zbrazët	zbɾazət
 PWN:end.n.03		fund	fʊnd
@@ -348,6 +349,7 @@ PWN:erstwhile.s.01		dikurshëm	dikʊɾʃəm
 PWN:escape.v.01		iki	iki
 PWN:evening.n.01		mbrëmje	mbɾɛmjɛ
 PWN:evil.a.01		keq	kɛc
+PWN:exchange.v.01		ndërroj	ndərɔj
 PWN:exclaim.v.01		bërtas	bəɾtas
 PWN:exit.v.01		vete	vɛtɛ
 PWN:expensive.a.01		shtrenjtë	ʃtɾɛɲtə
@@ -362,7 +364,7 @@ PWN:fall.v.01		bie	biɛ
 PWN:fall_asleep.v.01		bie të fle	biɛ tə flɛ
 PWN:familiar.a.01		njohur	ɲɔhʊɾ
 PWN:family.n.02		familje	familjɛ
-PWN:far.r.02		largët	laɾɡət
+PWN:faraway.s.01		largët	laɾɡət
 PWN:fat.n.01		lyrë	lyɾə
 PWN:fat.n.01		yndyrë	yndyɾə
 PWN:father.n.01		atë	atə
@@ -671,7 +673,7 @@ PWN:near.r.01		afërt	afɛɾt
 PWN:neck.n.01		qafë	cafə
 PWN:needle.n.03		gjilpërë	ɟilpɛɾə
 PWN:nest.n.01		fole	fɔlɛ
-PWN:net_income.n.01		rrjetë	rjɛtə
+PWN:net.n.06		rrjetë	rjɛtə
 PWN:never.r.01		asnjëherë	asɲəhɛɾə
 PWN:never.r.01		kurrë	kʊrə
 PWN:new.a.01		i ri	i ɾi
@@ -971,7 +973,7 @@ PWN:take.v.04		marr	mar
 PWN:talk.v.02		fjalos	fjalɔs
 PWN:talk.v.02		fjalëtoj	fjalətɔj
 PWN:taste.n.01		shije	ʃijɛ
-PWN:taste.v.01		provoj	pɾɔvɔj
+PWN:taste.v.02		provoj	pɾɔvɔj
 PWN:tasty.a.01		shijshëm	ʃijʃəm
 PWN:tea.n.01		çaj	t͡ʃaj
 PWN:teach.v.01		arsej	aɾsɛj
@@ -1042,7 +1044,6 @@ PWN:trap.n.01		kurth	kʊɾθ
 PWN:trap.v.02		zë	zə
 PWN:travel.v.01		eci	ɛt͡si
 PWN:travel.v.01		shkoj	ʃkɔj
-PWN:travel.v.01		shkundem	ʃkʊndɛm
 PWN:tree.n.01		pemë	pɛmə
 PWN:trouser.n.01		brekë	bɾɛkə
 PWN:true.a.01		vërtetë	vəɾtɛtə
@@ -1125,7 +1126,6 @@ PWN:woman.n.01		grua	ɡɾʊa
 PWN:wood.n.01		dru	dɾʊ
 PWN:wool.n.02		lesh	lɛʃ
 PWN:word.n.01		fjalë	fjalə
-PWN:work.n.01		punë	pʊnə
 PWN:work.v.01		punoj	pʊnɔj
 PWN:work.v.01		vardoj	vaɾdɔj
 PWN:worker.n.01		punëtor	pʊnətɔɾ

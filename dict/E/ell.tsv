@@ -7,10 +7,10 @@ PLX:2SG.pro		σύ	si
 PLX:3PL.pro		αυτοί	avti
 PLX:3SG M.pro		αυτός	avtos
 PLX:and.cnj		και	ce
-PLX:because of.adp		για	ʝa
-PLX:because of.adp		λόγω	loɣo
-PLX:behind.adp		πίσω από 	piso apo 
-PLX:beside.adp		δίπλα σε	ðipla se
+PLX:because of.pp		για	ʝa
+PLX:because of.pp		λόγω	loɣo
+PLX:behind.pp		πίσω από 	piso apo 
+PLX:beside.pp		δίπλα σε	ðipla se
 PLX:can.v		μπορώ	boro
 PLX:can.v		ξέρω	ksero
 PLX:die (from accident).V		πεθαίνω	peθeno
@@ -19,13 +19,13 @@ PLX:from here.adv		από δω	apo ðo
 PLX:get sick.V		αρρωσταίνω	arrosteno
 PLX:how many.pro		πόσος	posos
 PLX:how.pro		πώς	pos
-PLX:in front of.adp		μπροστά από	brosta apo
-PLX:in front of.adp		μπροστά σε	brosta se
+PLX:in front of.pp		μπροστά από	brosta apo
+PLX:in front of.pp		μπροστά σε	brosta se
 PLX:or.cnj		ή	i
 PLX:that.pro		το	to
 PLX:this.pro		αυτό	avto
-PLX:under.adp		κάτω από	kato apo
-PLX:under.adp		υπό	ipo
+PLX:under.pp		κάτω από	kato apo
+PLX:under.pp		υπό	ipo
 PLX:what.pro		τι	ti
 PLX:where.pro		πού	pu
 PLX:where_to.pro		για πού	ʝa pu
@@ -185,7 +185,6 @@ PWN:cavil.v.01		βρίζω	vrizo
 PWN:center.n.01		μέση	mesi
 PWN:chair.n.01		καρέκλα	karekla
 PWN:change.v.01		αλλάζω	alazo
-PWN:change.v.03		αλλάζω	alazo
 PWN:character.n.08		γράμμα	ɣrama
 PWN:cheap.a.01		φτηνός	ftinos
 PWN:cheek.n.01		μάγουλο	maɣulo
@@ -270,6 +269,7 @@ PWN:decrease.v.01		μειώνομαι 	mionome
 PWN:defend.v.03		υπερασπίζω	iperaspizo
 PWN:deft.s.01		επιδέξιος	epiðeksios
 PWN:deity.n.01		θεός	θeos
+PWN:depart.v.03		κουνιέμαι	kunieme
 PWN:descend.v.01		κατεβαίνω	kateveno
 PWN:desire.n.01		όρεξη	oreksi
 PWN:desire.v.01		θέλω	θelo
@@ -329,6 +329,7 @@ PWN:elbow.n.01		αγκώνας	aŋɡonas
 PWN:eleven.s.01		έντεκα	endeka
 PWN:elk.n.01		άλκη	alci
 PWN:emerge.v.01		εμφανίζομαι	emfanizome
+PWN:employment.n.02		εργασία	erɣasia
 PWN:empty.a.01		άδειος	aðios
 PWN:end.n.03		τέλος	telos
 PWN:end.n.09		άκρη	akri
@@ -339,6 +340,7 @@ PWN:erstwhile.s.01		παλιός	palios
 PWN:escape.v.01		δραπετεύω	ðrapetevo
 PWN:evening.n.01		βράδυ	vraði
 PWN:evil.a.01		κακός	kakos
+PWN:exchange.v.01		αλλάζω	alazo
 PWN:exclaim.v.01		κραυγάζω	kravɣazo
 PWN:exit.v.01		φεύγω	fevɣo
 PWN:expensive.a.01		ακριβός	akrivos
@@ -354,7 +356,7 @@ PWN:fall.v.01		πέφτω	pefto
 PWN:fall_asleep.v.01		αποκοιμιέμαι	apocimieme
 PWN:familiar.a.01		γνωστός	ɣnostos
 PWN:family.n.02		οικογένεια	ikoʝenia
-PWN:far.r.02		μακριά	makria
+PWN:faraway.s.01		μακριά	makria
 PWN:fat.n.01		πάχος	paxos
 PWN:father.n.01		πατέρας	pateras
 PWN:fault.n.06		ενοχή	enoçi
@@ -656,7 +658,7 @@ PWN:near.r.01		κοντινός	kondinos
 PWN:neck.n.01		λαιμός	lemos
 PWN:needle.n.03		βελόνα	velona
 PWN:nest.n.01		φωλιά	folia
-PWN:net_income.n.01		δίχτυ	ðixti
+PWN:net.n.06		δίχτυ	ðixti
 PWN:never.r.01		ποτέ	pote
 PWN:new.a.01		καινούργιος	cenurʝos
 PWN:new.a.01		νέος	neos
@@ -952,7 +954,7 @@ PWN:take.v.04		πιάνω	piano
 PWN:talk.v.02		κουβεντιάζω	kuvendiazo
 PWN:talk.v.02		μιλώ	milo
 PWN:taste.n.01		γεύση	ʝevsi
-PWN:taste.v.01		δοκιμάζω	ðocimazo
+PWN:taste.v.02		δοκιμάζω	ðocimazo
 PWN:tasty.a.01		νόστιμος	nostimos
 PWN:tea.n.01		τσάι	tsai
 PWN:teach.v.01		διδάσκω	ðiðasko
@@ -1017,7 +1019,6 @@ PWN:transport.v.02		φέρνω	ferno
 PWN:trap.n.01		παγίδα	paʝiða
 PWN:trap.v.02		πιάνω	piano
 PWN:travel.v.01		βαδίζω	vaðizo
-PWN:travel.v.01		κουνιέμαι	kunieme
 PWN:travel.v.01		πηγαίνω	piʝeno
 PWN:tree.n.01		δέντρο	ðendro
 PWN:trouser.n.01		πανταλόνι	pandaloni
@@ -1092,7 +1093,6 @@ PWN:woman.n.01		γυναίκα	ʝineka
 PWN:wood.n.01		ξύλο	ksilo
 PWN:wool.n.02		μαλλί	mali
 PWN:word.n.01		λέξη	leksi
-PWN:work.n.01		εργασία	erɣasia
 PWN:work.v.01		δουλεύω	ðulevo
 PWN:work.v.01		εργάζομαι	erɣazome
 PWN:worker.n.01		εργάτης	erɣatis

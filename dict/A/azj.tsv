@@ -6,10 +6,10 @@ PLX:2SG.pro		sən	sæn
 PLX:3PL.pro		onlar	ɔnlɑr
 PLX:3SG M.pro		o	ɔ
 PLX:and.cnj		və	væ
-PLX:because of.adp		ötəri	œtærɪ
-PLX:because of.adp		üçün	yt͡ʃyn
-PLX:behind.adp		arxasında	ɑrχɑsɯndɑ
-PLX:beside.adp		yanında	jɑnɯndɑ
+PLX:because of.pp		ötəri	œtærɪ
+PLX:because of.pp		üçün	yt͡ʃyn
+PLX:behind.pp		arxasında	ɑrχɑsɯndɑ
+PLX:beside.pp		yanında	jɑnɯndɑ
 PLX:can.v		bacarmaq	bɑd͡ʒɑrmɑɡ
 PLX:can.v		bilmək	bɪlmæk
 PLX:die (from accident).V		həlak olmaq	hælɑk ɔlmɑɡ
@@ -19,11 +19,11 @@ PLX:get sick.V		xəstə olmaq	χæstæ ɔlmɑɡ
 PLX:how many.pro		neçə	nɛt͡ʃæ
 PLX:how many.pro		nə qədər	næ ɡædær
 PLX:how.pro		necə	nɛd͡ʒæ
-PLX:in front of.adp		önündə	œnyndæ
+PLX:in front of.pp		önündə	œnyndæ
 PLX:or.cnj		ya	jɑ
 PLX:that.pro		o	ɔ
 PLX:this.pro		bu	bu
-PLX:under.adp		altında	ɑltɯndɑ
+PLX:under.pp		altında	ɑltɯndɑ
 PLX:what.pro		nə	næ
 PLX:where.pro		harada	hɑrɑdɑ
 PLX:where_to.pro		haraya	hɑrɑjɑ
@@ -175,7 +175,6 @@ PWN:cavil.v.01		küfr etmək	kyfr ɛtmæk
 PWN:center.n.01		orta	ɔrtɑ
 PWN:chair.n.01		stul	stul
 PWN:change.v.01		dəyişdirmək	dæjɪʃdɪrmæk
-PWN:change.v.03		dəyişmək	dæjɪʃmæk
 PWN:character.n.08		hərf	hærf
 PWN:cheap.a.01		ucuz	ud͡ʒuz
 PWN:cheek.n.01		yanaq	jɑnɑɡ
@@ -256,6 +255,7 @@ PWN:decrease.v.01		azalmaq	ɑzɑlmɑɡ
 PWN:defend.v.03		qorumaq	ɡɔrumɑɡ
 PWN:deft.s.01		bacarıqlı	bɑd͡ʒɑrɯɡlɯ
 PWN:deity.n.01		tanrı	tɑnrɯ
+PWN:depart.v.03		hərəkət etmək	hærækæt ɛtmæk
 PWN:descend.v.01		enmək	ɛnmæk
 PWN:desire.n.01		həvəs	hævæs
 PWN:desire.v.01		istəmək	ɪstæmæk
@@ -316,6 +316,8 @@ PWN:elbow.n.01		dirsək	dɪrsæk
 PWN:eleven.s.01		on bir	ɔn bɪr
 PWN:elk.n.01		sığın	sɯɣɯn
 PWN:emerge.v.01		görünmək	ɟœrynmæk
+PWN:employment.n.02		iş	ɪʃ
+PWN:employment.n.02		əmək	æmæk
 PWN:empty.a.01		boş	bɔʃ
 PWN:end.n.03		son	sɔn
 PWN:end.n.09		axır	ɑχɯr
@@ -327,6 +329,7 @@ PWN:erstwhile.s.01		əvvəlki	ævːælkɪ
 PWN:escape.v.01		qaçmaq	ɡɑt͡ʃmɑɡ
 PWN:evening.n.01		axşam	ɑχʃɑm
 PWN:evil.a.01		fəna	fænɑ
+PWN:exchange.v.01		dəyişmək	dæjɪʃmæk
 PWN:exclaim.v.01		bağırmaq	bɑɣɯrmɑɡ
 PWN:exclaim.v.01		qışqırmaq	ɡɯʃɡɯrmɑɡ
 PWN:exit.v.01		getmək	ɟɛtmæk
@@ -342,7 +345,7 @@ PWN:fall.v.01		düşmek	dyʃmɛk
 PWN:fall_asleep.v.01		yuxuya getmək	juχujɑ ɟɛtmæk
 PWN:familiar.a.01		tanış	tɑnɯʃ
 PWN:family.n.02		ailə	ɑɪlæ
-PWN:far.r.02		uzaq	uzɑɡ
+PWN:faraway.s.01		uzaq	uzɑɡ
 PWN:fat.n.01		yağ	jɑɣ
 PWN:father.n.01		ata	ɑtɑ
 PWN:fault.n.06		təqsir	tæɡsɪr
@@ -639,7 +642,7 @@ PWN:near.r.01		yaxın	jɑχɯn
 PWN:neck.n.01		boyun	bɔjun
 PWN:needle.n.03		iynə	ɪjnæ
 PWN:nest.n.01		yuva	juvɑ
-PWN:net_income.n.01		tor	tɔr
+PWN:net.n.06		tor	tɔr
 PWN:never.r.01		heç bir zaman	hɛt͡ʃ bɪr zɑmɑn
 PWN:never.r.01		əsla	æslɑ
 PWN:new.a.01		yeni	jɛnɪ
@@ -921,7 +924,7 @@ PWN:take.v.04		almaq	ɑlmɑɡ
 PWN:talk.v.02		danışmaq	dɑnɯʃmɑɡ
 PWN:taste.n.01		ləzzət	læzːæt
 PWN:taste.n.01		tam	tɑm
-PWN:taste.v.01		dadına baxmaq	dɑdɯnɑ bɑχmɑɡ
+PWN:taste.v.02		dadına baxmaq	dɑdɯnɑ bɑχmɑɡ
 PWN:tasty.a.01		dadlı	dɑdlɯ
 PWN:tasty.a.01		ləzzətli	læzːætlɪ
 PWN:tea.n.01		çay	t͡ʃɑj
@@ -983,7 +986,6 @@ PWN:trap.n.01		duzaq	duzɑɡ
 PWN:trap.n.01		tələ	tælæ
 PWN:trap.v.02		tutmaq	tutmɑɡ
 PWN:travel.v.01		getmək	ɟɛtmæk
-PWN:travel.v.01		hərəkət etmək	hærækæt ɛtmæk
 PWN:tree.n.01		ağac	ɑɣɑd͡ʒ
 PWN:trouser.n.01		şalvar	ʃɑlvɑr
 PWN:true.a.01		gərçək	ɟært͡ʃæk
@@ -1064,8 +1066,6 @@ PWN:wood.n.01		taxta	tɑχtɑ
 PWN:wool.n.02		yun	jun
 PWN:word.n.01		kəlmə	kælmæ
 PWN:word.n.01		söz	sœz
-PWN:work.n.01		iş	ɪʃ
-PWN:work.n.01		əmək	æmæk
 PWN:work.v.01		işləmək	ɪʃlæmæk
 PWN:work.v.01		çalışmaq	t͡ʃɑlɯʃmɑɡ
 PWN:worker.n.01		işçi	ɪʃt͡ʃɪ

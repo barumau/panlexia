@@ -6,10 +6,10 @@ PLX:2SG.pro		һин	hin
 PLX:3PL.pro		улар	ular
 PLX:3SG M.pro		ул	ul
 PLX:and.cnj		да	da
-PLX:because of.adp		сәбәпле	sæbæple
-PLX:because of.adp		өсөн	øsøn
-PLX:behind.adp		артында	artɯnda
-PLX:beside.adp		эргәһендә	erɡæhendæ
+PLX:because of.pp		сәбәпле	sæbæple
+PLX:because of.pp		өсөн	øsøn
+PLX:behind.pp		артында	artɯnda
+PLX:beside.pp		эргәһендә	erɡæhendæ
 PLX:can.v		алыу	alɯu
 PLX:can.v		мөмкин булыу	mømkin bulɯu
 PLX:die (from accident).V		һәләк булыу	hælæk bulɯu
@@ -19,12 +19,12 @@ PLX:from here.adv		ошонан	oʃonan
 PLX:get sick.V		сирләү	sirlæy
 PLX:how many.pro		күпме	kypme
 PLX:how.pro		инидәй	inidæj
-PLX:in front of.adp		алдында	aldɯnda
+PLX:in front of.pp		алдында	aldɯnda
 PLX:or.cnj		йәки	jæki
 PLX:that.pro		ул	ul
 PLX:this.pro		был	bɯl
 PLX:this.pro		ошо	oʃo
-PLX:under.adp		аҫтында	aθtɯnda
+PLX:under.pp		аҫтында	aθtɯnda
 PLX:what.pro		ни	ni
 PLX:what.pro		нәмә	næmæ
 PLX:what.pro		ә	æ
@@ -175,7 +175,6 @@ PWN:cavil.v.01		һүгенеү	hyɡeney
 PWN:center.n.01		урталыҡ	urtalɯq
 PWN:chair.n.01		ултырғыс	ultɯrɣɯs
 PWN:change.v.01		үҙгәртеү	yðɡærtey
-PWN:change.v.03		үҙгәреү	yðɡærey
 PWN:character.n.08		хәреф	xæref
 PWN:cheap.a.01		арзан	arzan
 PWN:cheek.n.01		яцаҡтар	jat͡saqtar
@@ -260,6 +259,7 @@ PWN:defend.v.03		яҡлау	jaqlau
 PWN:deft.s.01		оҫта	oθta
 PWN:deity.n.01		алла	alla
 PWN:deity.n.01		хоҙай	xoðaj
+PWN:depart.v.03		хәрәкәт итеү	xærækæt itey
 PWN:descend.v.01		түбәнәйеү	tybænæjey
 PWN:desire.n.01		әүәҫлек	æyæθlek
 PWN:desire.v.01		теләү	telæy
@@ -314,6 +314,7 @@ PWN:elbow.n.01		терһәк	terhæk
 PWN:eleven.s.01		ун бер	un ber
 PWN:elk.n.01		мышы	mɯʃɯ
 PWN:emerge.v.01		килеп сығыу	kilep sɯɣɯu
+PWN:employment.n.02		эш	eʃ
 PWN:empty.a.01		буш	buʃ
 PWN:end.n.03		аҙаҡ	aðaq
 PWN:end.n.03		һуң	huŋ
@@ -326,6 +327,7 @@ PWN:erstwhile.s.01		элекке	elekke
 PWN:escape.v.01		ҡасыу	qasɯu
 PWN:evening.n.01		кис	kis
 PWN:evil.a.01		асыулы	asɯulɯ
+PWN:exchange.v.01		үҙгәреү	yðɡærey
 PWN:exclaim.v.01		ҡысҡырыу	qɯsqɯrɯu
 PWN:exit.v.01		китеү	kitey
 PWN:expensive.a.01		ҡыйбатлы	qɯjbatlɯ
@@ -341,8 +343,8 @@ PWN:fall.v.01		йығылыу	jɯɣɯlɯu
 PWN:fall_asleep.v.01		йоҡлап китеү	joqlap kitey
 PWN:familiar.a.01		таныш	tanɯʃ
 PWN:family.n.02		ғаилә	ɣailæ
-PWN:far.r.02		алыҫ	alɯθ
-PWN:far.r.02		йыраҡ	jɯraq
+PWN:faraway.s.01		алыҫ	alɯθ
+PWN:faraway.s.01		йыраҡ	jɯraq
 PWN:fat.n.01		май	maj
 PWN:father.n.01		атай	ataj
 PWN:fault.n.06		ғәйеп	ɣæjep
@@ -632,7 +634,7 @@ PWN:near.r.01		яҡын	jaqɯn
 PWN:neck.n.01		муйын	mujɯn
 PWN:needle.n.03		энә	enæ
 PWN:nest.n.01		оя	oja
-PWN:net_income.n.01		ау	au
+PWN:net.n.06		ау	au
 PWN:never.r.01		бер ваҡытта ла	ber waqɯtta la
 PWN:never.r.01		бер ҡасан да	ber qasan da
 PWN:new.a.01		яңы	jaŋɯ
@@ -918,7 +920,7 @@ PWN:tail.n.01		ҡойроҡ	qojroq
 PWN:take.v.04		алыу	alɯu
 PWN:talk.v.02		һөйләшеү	højlæʃey
 PWN:taste.n.01		тәм	tæm
-PWN:taste.v.01		татыу	tatɯu
+PWN:taste.v.02		татыу	tatɯu
 PWN:tasty.a.01		тәмле	tæmle
 PWN:tea.n.01		сәй	sæj
 PWN:teach.v.01		уҡытыу	uqɯtɯu
@@ -986,7 +988,6 @@ PWN:trap.n.01		тоҙак	toðak
 PWN:trap.n.01		ҡапҡан	qapqan
 PWN:trap.v.02		тотоу	totou
 PWN:travel.v.01		барыу	barɯu
-PWN:travel.v.01		хәрәкәт итеү	xærækæt itey
 PWN:tree.n.01		ағас	aɣas
 PWN:trouser.n.01		салбар	salbar
 PWN:true.a.01		дөрөҫ	dørøθ
@@ -1059,7 +1060,6 @@ PWN:woman.n.01		ҡатын	qatɯn
 PWN:wood.n.01		үағас	yaɣas
 PWN:wool.n.02		йөн	jøn
 PWN:word.n.01		һүҙ	hyð
-PWN:work.n.01		эш	eʃ
 PWN:work.v.01		эшләү	eʃlæy
 PWN:worker.n.01		эшсе	eʃse
 PWN:world.n.02		донъя	donja

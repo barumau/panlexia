@@ -7,9 +7,9 @@ PLX:3PL.pro		loro	loro
 PLX:3SG M.pro		egli	eʎːi
 PLX:3SG M.pro		lui	lui
 PLX:and.cnj		e	e
-PLX:because of.adp		a causa di	a kauza di
-PLX:behind.adp		dietro	dietro
-PLX:beside.adp		a accanto a	a akːanto a
+PLX:because of.pp		a causa di	a kauza di
+PLX:behind.pp		dietro	dietro
+PLX:beside.pp		a accanto a	a akːanto a
 PLX:can.v		sapere	sapere
 PLX:die (from accident).V		perire	perire
 PLX:everywhere.pro		dappertutto	dapːertutːo
@@ -18,13 +18,13 @@ PLX:from here.adv		ne	ne
 PLX:get sick.V		ammalarsi	amːalarzi
 PLX:how many.pro		quanto	kwanto
 PLX:how.pro		come	kome
-PLX:in front of.adp		davanti a	davanti a
+PLX:in front of.pp		davanti a	davanti a
 PLX:or.cnj		o	o
 PLX:that.pro		ciò	t͡ʃɔ
 PLX:that.pro		quello	kwelːo
 PLX:this.pro		ciò	t͡ʃɔ
 PLX:this.pro		questo	kwesto
-PLX:under.adp		sotto	sotːo
+PLX:under.pp		sotto	sotːo
 PLX:what.pro		che	ke
 PLX:what.pro		che cosa	ke koza
 PLX:where.pro		dove	dove
@@ -197,8 +197,6 @@ PWN:center.n.01		mezzo	mett͡so
 PWN:chair.n.01		sedia	sedia
 PWN:change.v.01		cambiare	kambiare
 PWN:change.v.01		mutare	mutare
-PWN:change.v.03		cambiare	kambiare
-PWN:change.v.03		variare	variare
 PWN:character.n.08		lèttera	lɛtːera
 PWN:cheap.a.01		a buon mercato	a buon merkato
 PWN:cheap.a.01		a buon prezzo	a buon prett͡so
@@ -291,6 +289,7 @@ PWN:decrease.v.01		diminuire	diminuire
 PWN:defend.v.03		difèndere	difɛndere
 PWN:deft.s.01		àbile	abile
 PWN:deity.n.01		dio	dio
+PWN:depart.v.03		agitarsi	ad͡ʒitarzi
 PWN:descend.v.01		calare	kalare
 PWN:descend.v.01		scendere	ʃendere
 PWN:desire.n.01		voglia	voʎːa
@@ -357,6 +356,7 @@ PWN:eleven.s.01		ùndici	undit͡ʃi
 PWN:elk.n.01		alce	alt͡ʃe
 PWN:emerge.v.01		apparire	apːarire
 PWN:emerge.v.01		comparire	komparire
+PWN:employment.n.02		lavoro	lavoro
 PWN:empty.a.01		vuoto	vuoto
 PWN:end.n.03		fine	fine
 PWN:end.n.09		capo	kapo
@@ -372,6 +372,8 @@ PWN:escape.v.01		sfuggire	sfudd͡ʒire
 PWN:evening.n.01		sera	sera
 PWN:evening.n.01		serata	serata
 PWN:evil.a.01		cattivo	katːivo
+PWN:exchange.v.01		cambiare	kambiare
+PWN:exchange.v.01		variare	variare
 PWN:exclaim.v.01		gridare	ɡridare
 PWN:exit.v.01		andare via	andare via
 PWN:exit.v.01		andàrsene	andarzene
@@ -392,7 +394,7 @@ PWN:fall_asleep.v.01		addormentarsi	adːormentarzi
 PWN:familiar.a.01		conosciuto	konoʃːuto
 PWN:familiar.a.01		noto	noto
 PWN:family.n.02		famiglia	famiʎːa
-PWN:far.r.02		lontano	lontano
+PWN:faraway.s.01		lontano	lontano
 PWN:fat.n.01		grasso	ɡrasːo
 PWN:father.n.01		padre	padre
 PWN:fault.n.06		colpa	kolpa
@@ -727,7 +729,7 @@ PWN:near.r.01		vicino	vit͡ʃino
 PWN:neck.n.01		collo	kolːo
 PWN:needle.n.03		ago	aɡo
 PWN:nest.n.01		nido	nido
-PWN:net_income.n.01		rete	rete
+PWN:net.n.06		rete	rete
 PWN:never.r.01		non mai	non mai
 PWN:new.a.01		nuovo	nuovo
 PWN:news.n.01		notizia	notit͡sia
@@ -1046,8 +1048,8 @@ PWN:take.v.04		prèndere	prɛndere
 PWN:talk.v.02		parlare	parlare
 PWN:taste.n.01		gusto	ɡusto
 PWN:taste.n.01		sapore	sapore
-PWN:taste.v.01		assaggiare	asːadd͡ʒare
-PWN:taste.v.01		degustare	deɡustare
+PWN:taste.v.02		assaggiare	asːadd͡ʒare
+PWN:taste.v.02		degustare	deɡustare
 PWN:tasty.a.01		ghiotto	ɡjotːo
 PWN:tasty.a.01		squisito	skwizito
 PWN:tea.n.01		tè	tɛ
@@ -1114,7 +1116,6 @@ PWN:transport.v.02		portare	portare
 PWN:trap.n.01		tràppola	trapːola
 PWN:trap.v.02		acchiappare	akːjapːare
 PWN:trap.v.02		catturare	katːurare
-PWN:travel.v.01		agitarsi	ad͡ʒitarzi
 PWN:travel.v.01		andare	andare
 PWN:tree.n.01		àlbero	albero
 PWN:trouser.n.01		calzoni	kalt͡soni
@@ -1195,7 +1196,6 @@ PWN:woman.n.01		donna	donːa
 PWN:wood.n.01		legno	leɲːo
 PWN:wool.n.02		lana	lana
 PWN:word.n.01		parola	parola
-PWN:work.n.01		lavoro	lavoro
 PWN:work.v.01		lavorare	lavorare
 PWN:worker.n.01		lavoratore	lavoratore
 PWN:worker.n.01		operaio	operaio

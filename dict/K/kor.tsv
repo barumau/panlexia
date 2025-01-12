@@ -6,19 +6,19 @@ PLX:2SG.pro		너	nʌ
 PLX:3PL.pro		그들	kɯdɯl
 PLX:3SG M.pro		그	kɯ
 PLX:and.cnj		와	wa
-PLX:because of.adp		때문에	tt͈͈ɛmune
-PLX:behind.adp		뒤에	twie
-PLX:beside.adp		와나란히	wanaɾanɦi
+PLX:because of.pp		때문에	tt͈͈ɛmune
+PLX:behind.pp		뒤에	twie
+PLX:beside.pp		와나란히	wanaɾanɦi
 PLX:can.v		할주릴다	hald͡ʑuɾilda
 PLX:die (from accident).V		못쓰게되다	mos͈sʰɯɡedweda
 PLX:everywhere.pro		도처에	tocʌe
 PLX:how many.pro		얼마만큰	ʌlmamanɡʰɯn
 PLX:how.pro		어떻게	ʌtt͈͈ʌkʰːe
-PLX:in front of.adp		앞에	apʰe
+PLX:in front of.pp		앞에	apʰe
 PLX:or.cnj		아니면	animjʌn
 PLX:that.pro		저	t͡ɕʌ
 PLX:this.pro		이	i
-PLX:under.adp		잍에	itʰe
+PLX:under.pp		잍에	itʰe
 PLX:what.pro		뭣	mwʌt̚
 PLX:where.pro		어디	ʌdi
 PLX:where_to.pro		어디로	ʌdiɾo
@@ -159,7 +159,6 @@ PWN:cavil.v.01		꾸짖다	kk͈͈ud͡ʑit͡ɕta
 PWN:center.n.01		궁간	kuŋɡan
 PWN:chair.n.01		의자	jid͡ʑa
 PWN:change.v.01		바꾸다	pakk͈͈uda
-PWN:change.v.03		병경하다	pjʌŋɡjʌŋɦada
 PWN:character.n.08		문자	mund͡ʑa
 PWN:cheap.a.01		싼	s͈an
 PWN:cheek.n.01		뺨	pp͈͈jam
@@ -237,6 +236,7 @@ PWN:decrease.v.01		떼어내다	tt͈͈eʌnɛda
 PWN:defend.v.03		막다	makt͈͈a
 PWN:deft.s.01		교묘한	kjomjoɦan
 PWN:deity.n.01		하느님	hanɯnim
+PWN:depart.v.03		움직이다	umd͡ʑiɡida
 PWN:descend.v.01		가라앉다	kaɾaand͡ʑta
 PWN:desire.v.01		바라다	paɾada
 PWN:destroy.v.02		파괴하다	pʰaɡweɦada
@@ -288,6 +288,8 @@ PWN:elbow.n.01		팔쿰치	pʰalɡʰumci
 PWN:eleven.s.01		열하나	jʌlɦana
 PWN:elk.n.01		고라니	koɾani
 PWN:emerge.v.01		나타나다	natʰanada
+PWN:employment.n.02		근로	kɯlːo
+PWN:employment.n.02		너무	nʌmu
 PWN:empty.a.01		빈	pin
 PWN:end.n.03		마감	maɡam
 PWN:end.n.09		말당	maldaŋ
@@ -298,6 +300,7 @@ PWN:erstwhile.s.01		전의	t͡ɕʌnji
 PWN:escape.v.01		도주하다	tod͡ʑuɦada
 PWN:evening.n.01		저녁	t͡ɕʌnjʌk̚
 PWN:evil.a.01		나쁜	napp͈͈ɯn
+PWN:exchange.v.01		병경하다	pjʌŋɡjʌŋɦada
 PWN:exclaim.v.01		절규하다	t͡ɕʌlɡjuɦada
 PWN:exit.v.01		팔리다	pʰalɾida
 PWN:expensive.a.01		값비산	kaps pʰːisʰan
@@ -312,7 +315,7 @@ PWN:fall.v.01		떨어지다	tt͈͈ʌlʌd͡ʑida
 PWN:fall_asleep.v.01		잠들다	t͡ɕamdɯlda
 PWN:familiar.a.01		저명한	t͡ɕʌmjʌŋɦan
 PWN:family.n.02		가족	kad͡ʑok̚
-PWN:far.r.02		먼	mʌn
+PWN:faraway.s.01		먼	mʌn
 PWN:fat.n.01		기름	kiɾɯm
 PWN:father.n.01		아버지	abʌd͡ʑi
 PWN:fault.n.06		부채	pucɛ
@@ -586,7 +589,7 @@ PWN:near.r.01		가까운	kakk͈͈aun
 PWN:neck.n.01		목	mok̚
 PWN:needle.n.03		바늘	panɯl
 PWN:nest.n.01		보금자리	poɡɯmd͡ʑaɾi
-PWN:net_income.n.01		그물	kɯmul
+PWN:net.n.06		그물	kɯmul
 PWN:never.r.01		결코...(하지)않다	kjʌlɡʰo...had͡ʑianɦta
 PWN:new.a.01		새	sʰɛ
 PWN:news.n.01		뉴스	njusʰɯ
@@ -849,7 +852,7 @@ PWN:tail.n.01		꼬리	kk͈͈oɾi
 PWN:take.v.04		잡다	t͡ɕapt͈͈a
 PWN:talk.v.02		이야기하다	ijaɡiɦada
 PWN:taste.n.01		기호	kiβo
-PWN:taste.v.01		시식하다	ɕʰiɕʰikhada
+PWN:taste.v.02		시식하다	ɕʰiɕʰikhada
 PWN:tasty.a.01		맛있는	maɕʰis͈nɯn
 PWN:tea.n.01		차	ca
 PWN:teach.v.01		가르치다	kaɾɯcida
@@ -907,7 +910,6 @@ PWN:transport.v.02		지우다	t͡ɕiuda
 PWN:trap.n.01		함정	hamd͡ʑʌŋ
 PWN:trap.v.02		움켜쥐다	umɡʰjʌd͡ʑwida
 PWN:travel.v.01		가다	kada
-PWN:travel.v.01		움직이다	umd͡ʑiɡida
 PWN:tree.n.01		나무	namu
 PWN:trouser.n.01		바지	pad͡ʑi
 PWN:true.a.01		참된	camdwen
@@ -979,8 +981,6 @@ PWN:woman.n.01		여자	jʌd͡ʑa
 PWN:wood.n.01		목재	mokt͡ɕ͈͈ɛ
 PWN:wool.n.02		양털	jaŋdʰʌl
 PWN:word.n.01		낱말	nat̻ːal
-PWN:work.n.01		근로	kɯlːo
-PWN:work.n.01		너무	nʌmu
 PWN:work.v.01		일하다	ilɦada
 PWN:worker.n.01		일하는사람	ilɦanɯnsʰaɾam
 PWN:world.n.02		세상	sʰesʰaŋ

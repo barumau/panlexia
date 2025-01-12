@@ -7,9 +7,9 @@ PLX:2SG.pro		நீ	n̪iː
 PLX:3PL.pro		அவர்கள்	ʌʋʌɾkʌɭ
 PLX:3SG M.pro		அவன்	ʌʋʌn
 PLX:and.cnj		மற்றும்	mʌtːum
-PLX:because of.adp		ஏனெனில்	eːnenil
-PLX:behind.adp		பின்பக்கம்	pinbʌkːʌm
-PLX:beside.adp		அடுத்து	ʌɖut̪ːu
+PLX:because of.pp		ஏனெனில்	eːnenil
+PLX:behind.pp		பின்பக்கம்	pinbʌkːʌm
+PLX:beside.pp		அடுத்து	ʌɖut̪ːu
 PLX:can.v		இயல்வது	ijʌlʋʌðu
 PLX:die (from accident).V		நசி	n̪ʌsi
 PLX:everywhere.pro		எல்லா இடத்திலும்	elːɑː iɖʌt̪ːilum
@@ -17,11 +17,11 @@ PLX:from here.adv		இனி	ini
 PLX:get sick.V		விழுதல்	ʋiɻuðʌl
 PLX:how many.pro		எவ்வளவு	eʋːʌɭʌʋu
 PLX:how.pro		எப்படி	epːʌɖi
-PLX:in front of.adp		முன்	mun
+PLX:in front of.pp		முன்	mun
 PLX:or.cnj		அல்லது	ʌlːʌðu
 PLX:that.pro		அது	ʌðu
 PLX:this.pro		இது	iðu
-PLX:under.adp		கீழே	kiːɻeː
+PLX:under.pp		கீழே	kiːɻeː
 PLX:what.pro		என்ன	enːʌ
 PLX:where.pro		எங்கே	eŋɡeː
 PLX:where_to.pro		எதற்கு	eðʌrku
@@ -160,7 +160,6 @@ PWN:cavil.v.01		சாபமிடு	t͡ɕɑːpʌmiɖu
 PWN:center.n.01		இடைப்பகுதி	iɖʌipːʌhut̪i
 PWN:chair.n.01		நாற்காலி	n̪ɑːrkɑːli
 PWN:change.v.01		மாற்றி அமை	mɑːtːi ʌmʌi
-PWN:change.v.03		மாற்று	mɑːtːu
 PWN:character.n.08		எழத்து	eɻʌt̪ːu
 PWN:cheap.a.01		மலிவான	mʌliʋɑːnʌ
 PWN:cheek.n.01		கன்னம்	kʌnːʌm
@@ -237,6 +236,7 @@ PWN:decrease.v.01		குறை	kurʌi
 PWN:defend.v.03		எதிர்த்து நில்	eðiɾt̪ːu n̪il
 PWN:deft.s.01		திறமையள்ள	t̪irʌmʌijʌɭːʌ
 PWN:deity.n.01		கடவுள்	kʌɖʌʋuɭ
+PWN:depart.v.03		நகர்த்து	n̪ʌhʌɾt̪ːu
 PWN:descend.v.01		பதைவுறு	pʌðʌiʋuru
 PWN:desire.n.01		விருப்பம்	ʋiɾupːʌm
 PWN:desire.v.01		விரும்பு	ʋiɾumbu
@@ -289,6 +289,7 @@ PWN:elbow.n.01		முழங்கை	muɻʌŋɡʌi
 PWN:eleven.s.01		பதினொன்று	pʌðinonru
 PWN:elk.n.01		கடம்பை	kʌɖʌmbʌi
 PWN:emerge.v.01		தோன்றச்	t̪oːnrʌt͡ɕ
+PWN:employment.n.02		வேலை	ʋeːlʌi
 PWN:empty.a.01		காலியான	kɑːlijɑːnʌ
 PWN:end.n.03		முடிவு	muɖiʋu
 PWN:end.n.09		முடிவு	muɖiʋu
@@ -299,6 +300,7 @@ PWN:erstwhile.s.01		முன்நாள்	munː̪ɑːɭ
 PWN:escape.v.01		தப்பிவிடு	t̪ʌpːiʋiɖu
 PWN:evening.n.01		மாலைப் பொழுது	mɑːlʌip poɻuðu
 PWN:evil.a.01		கேடு விளைவிக்கும்	keːɖu ʋiɭʌiʋikːum
+PWN:exchange.v.01		மாற்று	mɑːtːu
 PWN:exclaim.v.01		கூச்சலிடு	kuːt͡ɕːʌliɖu
 PWN:exit.v.01		விலகிச் செல்	ʋilʌhit͡ɕ t͡ɕel
 PWN:expensive.a.01		விலை அதிகமான	ʋilʌi ʌðikʌmɑːnʌ
@@ -313,7 +315,7 @@ PWN:fall.v.01		விழு	ʋiɻu
 PWN:fall_asleep.v.01		தூங்க	t̪uːŋɡʌ
 PWN:familiar.a.01		பழக்கப்பட்ட	pʌɻʌkːʌpːʌʈːʌ
 PWN:family.n.02		குடும்பம்	kuɖumbʌm
-PWN:far.r.02		தொலை தூரத்தில்	t̪olʌi t̪uːɾʌt̪ːil
+PWN:faraway.s.01		தொலை தூரத்தில்	t̪olʌi t̪uːɾʌt̪ːil
 PWN:fat.n.01		கொழுப்பு	koɻupːu
 PWN:father.n.01		தந்தை	t̪ʌn̪t̪ʌi
 PWN:fault.n.06		குற்றம்	kutːʌm
@@ -584,7 +586,7 @@ PWN:near.r.01		பக்கத்தில் உள்ள	pʌkːʌt̪ːil uɭː
 PWN:neck.n.01		கழுத்து	kʌɻut̪ːu
 PWN:needle.n.03		ஊசி	uːsi
 PWN:nest.n.01		கூடு	kuːɖu
-PWN:net_income.n.01		வலை	ʋʌlʌi
+PWN:net.n.06		வலை	ʋʌlʌi
 PWN:never.r.01		ஒருபோதும் இல்லை	oɾuβoːt̪um ilːʌi
 PWN:new.a.01		புதிய	puðijʌ
 PWN:news.n.01		செய்தி	t͡ɕejt̪i
@@ -841,7 +843,7 @@ PWN:tail.n.01		வால்	ʋɑːl
 PWN:take.v.04		எடு	eɖu
 PWN:talk.v.02		பெசு	pesu
 PWN:taste.n.01		நறுமணம்	n̪ʌrumʌɳʌm
-PWN:taste.v.01		ருசி	ɾusi
+PWN:taste.v.02		ருசி	ɾusi
 PWN:tasty.a.01		சுவைமிக்க	t͡ɕuʋʌimikːʌ
 PWN:tea.n.01		தெனீர்	t̪eniːɾ
 PWN:teach.v.01		சொல்லிக் கொடு	t͡ɕolːik koɖu
@@ -897,7 +899,6 @@ PWN:translate.v.01		மொழிபெயர்ப்பு செய்	moɻiβ
 PWN:transport.v.02		எடுத்துச் செல்	eɖut̪ːut͡ɕ t͡ɕel
 PWN:trap.n.01		பொறி	pori
 PWN:trap.v.02		பிடி	piɖi
-PWN:travel.v.01		நகர்த்து	n̪ʌhʌɾt̪ːu
 PWN:travel.v.01		போ	poː
 PWN:tree.n.01		மரம்	mʌɾʌm
 PWN:trouser.n.01		கால்சட்டை	kɑːlt͡ɕʌʈːʌi
@@ -968,7 +969,6 @@ PWN:woman.n.01		பெண்	peɳ
 PWN:wood.n.01		மரக்கட்டை	mʌɾʌkːʌʈːʌi
 PWN:wool.n.02		கம்பளி	kʌmbʌɭi
 PWN:word.n.01		வார்த்தை	ʋɑːɾt̪ːʌi
-PWN:work.n.01		வேலை	ʋeːlʌi
 PWN:work.v.01		வேலை செய்	ʋeːlʌi t͡ɕej
 PWN:worker.n.01		தொழிலாளி	t̪oɻilɑːɭi
 PWN:world.n.02		உலகம்	ulʌhʌm

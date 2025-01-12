@@ -7,9 +7,9 @@ PLX:3PL.pro		hö	hœ
 PLX:3SG M.pro		hän	hæn
 PLX:and.cnj		da	dɑ
 PLX:and.cnj		i	i
-PLX:because of.adp		tagut	tɑɡʊt
-PLX:behind.adp		taga	tɑɡɑ
-PLX:beside.adp		rindal	rindɑl
+PLX:because of.pp		tagut	tɑɡʊt
+PLX:behind.pp		taga	tɑɡɑ
+PLX:beside.pp		rindal	rindɑl
 PLX:can.v		mahtta	mɑxttɑ
 PLX:can.v		voida	vɔidɑ
 PLX:die (from accident).V		kolda	kɔldɑ
@@ -21,11 +21,11 @@ PLX:how many.pro		kuverz'	kʊvɛrzʲ
 PLX:how many.pro		äjak	æjɑk
 PLX:how.pro		kut	kʊt
 PLX:how.pro		mit'	mitʲ
-PLX:in front of.adp		edes	ɛdɛs
+PLX:in front of.pp		edes	ɛdɛs
 PLX:or.cnj		vai	vɑi
 PLX:that.pro		se	sɛ
 PLX:this.pro		nece	nɛt͡sɛ
-PLX:under.adp		al	ɑl
+PLX:under.pp		al	ɑl
 PLX:what.pro		mi	mi
 PLX:where.pro		kus	kʊs
 PLX:where_to.pro		kuna	kʊnɑ
@@ -181,7 +181,6 @@ PWN:cavil.v.01		pačatada	pɑt͡ʃɑtɑdɑ
 PWN:center.n.01		kesk	kɛsk
 PWN:chair.n.01		ištim	iʃtim
 PWN:change.v.01		vajehtada	vɑjɛxtɑdɑ
-PWN:change.v.03		vajehtadas	vɑjɛxtɑdɑs
 PWN:character.n.08		kirjam	kirjɑm
 PWN:cheap.a.01		odav	ɔdɑv
 PWN:cheek.n.01		modpolišk	mɔdpɔliʃk
@@ -265,6 +264,7 @@ PWN:decrease.v.01		peneta	pɛnɛtɑ
 PWN:defend.v.03		kaita	kɑitɑ
 PWN:deft.s.01		mahtokaz	mɑxtɔkɑz
 PWN:deity.n.01		jumal	jʊmɑl
+PWN:depart.v.03		likkuda	likːʊdɑ
 PWN:descend.v.01		lasktas	lɑsktɑs
 PWN:descend.v.01		väheta	væhɛtɑ
 PWN:desire.n.01		himo	himɔ
@@ -324,6 +324,8 @@ PWN:elbow.n.01		künambruz	kʏnɑmbrʊz
 PWN:eleven.s.01		üks'toštkümne	ʏksʲtɔʃtkʏmnɛ
 PWN:elk.n.01		hirb'	hirbʲ
 PWN:emerge.v.01		ozutadas	ɔzʊtɑdɑs
+PWN:employment.n.02		rad	rɑd
+PWN:employment.n.02		tö	tœ
 PWN:empty.a.01		joudai	jɔʊdɑi
 PWN:end.n.03		lop	lɔp
 PWN:end.n.09		agj	ɑɡj
@@ -337,6 +339,7 @@ PWN:escape.v.01		pageta	pɑɡɛtɑ
 PWN:evening.n.01		eht	ɛxt
 PWN:evil.a.01		käred	kærɛd
 PWN:evil.a.01		äred	ærɛd
+PWN:exchange.v.01		vajehtadas	vɑjɛxtɑdɑs
 PWN:exclaim.v.01		kidastada	kidɑstɑdɑ
 PWN:exclaim.v.01		kirkta	kirktɑ
 PWN:exit.v.01		lähtta	læxttɑ
@@ -354,7 +357,7 @@ PWN:fall_asleep.v.01		uinota	ʊinɔtɑ
 PWN:familiar.a.01		tutab	tʊtɑb
 PWN:family.n.02		kanz	kɑnz
 PWN:family.n.02		pereh	pɛrɛh
-PWN:far.r.02		edahaine	ɛdɑhɑinɛ
+PWN:faraway.s.01		edahaine	ɛdɑhɑinɛ
 PWN:fat.n.01		razv	rɑzv
 PWN:father.n.01		tat	tɑt
 PWN:fault.n.06		värhuz'	værhʊzʲ
@@ -648,7 +651,7 @@ PWN:near.r.01		läheline	læhɛlinɛ
 PWN:neck.n.01		kagl	kɑɡl
 PWN:needle.n.03		negl	nɛɡl
 PWN:nest.n.01		peza	pɛzɑ
-PWN:net_income.n.01		verk	vɛrk
+PWN:net.n.06		verk	vɛrk
 PWN:never.r.01		ei nikonz	ɛi nikɔnz
 PWN:new.a.01		uz'	ʊzʲ
 PWN:news.n.01		uzištuz	ʊziʃtʊz
@@ -932,7 +935,7 @@ PWN:tail.n.01		händ	hænd
 PWN:take.v.04		otta	ɔtːɑ
 PWN:talk.v.02		pagišta	pɑɡiʃtɑ
 PWN:taste.n.01		magu	mɑɡʊ
-PWN:taste.v.01		mujada	mʊjɑdɑ
+PWN:taste.v.02		mujada	mʊjɑdɑ
 PWN:tasty.a.01		magukaz	mɑɡʊkɑz
 PWN:tea.n.01		čai	t͡ʃɑi
 PWN:teach.v.01		opeta	ɔpɛtɑ
@@ -1000,7 +1003,6 @@ PWN:transport.v.02		kantta	kɑntːɑ
 PWN:trap.n.01		rida	ridɑ
 PWN:trap.v.02		tabata	tɑbɑtɑ
 PWN:travel.v.01		kävuda	kævʊdɑ
-PWN:travel.v.01		likkuda	likːʊdɑ
 PWN:travel.v.01		mända	mændɑ
 PWN:tree.n.01		pu	pʊ
 PWN:trouser.n.01		štanad	ʃtɑnɑd
@@ -1083,8 +1085,6 @@ PWN:woman.n.01		naine	nɑinɛ
 PWN:wood.n.01		pu	pʊ
 PWN:wool.n.02		vill	vilː
 PWN:word.n.01		sana	sɑnɑ
-PWN:work.n.01		rad	rɑd
-PWN:work.n.01		tö	tœ
 PWN:work.v.01		rata	rɑtɑ
 PWN:worker.n.01		radnik	rɑdnik
 PWN:world.n.02		mail'm	mɑilʲm

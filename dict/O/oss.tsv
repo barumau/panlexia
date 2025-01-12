@@ -6,9 +6,9 @@ PLX:2SG.pro		ды	dɨ
 PLX:3PL.pro		уыдон	wɨdon
 PLX:3SG M.pro		уый	wɨj
 PLX:and.cnj		ӕмӕ	əmə
-PLX:because of.adp		тыххай	tɨχχaj
-PLX:behind.adp		фӕстӕ	fəstə
-PLX:beside.adp		цур	t͡sur
+PLX:because of.pp		тыххай	tɨχχaj
+PLX:behind.pp		фӕстӕ	fəstə
+PLX:beside.pp		цур	t͡sur
 PLX:can.v		фӕразын	fərazɨn
 PLX:die (from accident).V		бабын уын	babɨn uɨn
 PLX:die (from accident).V		байсæфын	bajsæfɨn
@@ -21,11 +21,11 @@ PLX:from here.adv		ардыгæй	ardɨɡæj
 PLX:get sick.V		фӕрынчын уын	fərɨnt͡ʃɨn uɨn
 PLX:how many.pro		цал	t͡sal
 PLX:how.pro		куыд	kʷɨd
-PLX:in front of.adp		разы	razɨ
+PLX:in front of.pp		разы	razɨ
 PLX:or.cnj		кӕнӕ	kənə
 PLX:that.pro		уый	wɨj
 PLX:this.pro		ай	aj
-PLX:under.adp		бын	bɨn
+PLX:under.pp		бын	bɨn
 PLX:what.pro		цы	t͡sɨ
 PLX:where.pro		кӕм	kəm
 PLX:where_to.pro		кӕдӕм	kədəm
@@ -180,7 +180,6 @@ PWN:cavil.v.01		æлгъитын	ælʁitɨn
 PWN:center.n.01		астӕу	astəu
 PWN:chair.n.01		бандон	bandon
 PWN:change.v.01		аивын	aivɨn
-PWN:change.v.03		ивын	ivɨn
 PWN:character.n.08		дамгъӕ	damʁə
 PWN:cheap.a.01		аслам	aslam
 PWN:cheek.n.01		рус	rus
@@ -273,6 +272,8 @@ PWN:decrease.v.01		фæцух уын	fæt͡suχ uɨn
 PWN:defend.v.03		бахизын	baχizɨn
 PWN:deft.s.01		хӕрзарӕхст	χərzarəχst
 PWN:deity.n.01		хуыцау	χʷɨt͡sau
+PWN:depart.v.03		тæлфын	tælfɨn
+PWN:depart.v.03		цæуын	t͡sæuɨn
 PWN:descend.v.01		дæлæмæ æрхауын	dælæmæ ærχawɨn
 PWN:desire.n.01		монц	mont͡s
 PWN:desire.v.01		фӕндын	fəndɨn
@@ -339,6 +340,7 @@ PWN:elbow.n.01		рæмбын	ræmbɨn
 PWN:eleven.s.01		иуæндæс	iuændæs
 PWN:elk.n.01		цæгатаг саг	t͡sæɡataɡ saɡ
 PWN:emerge.v.01		разынын	razɨnɨn
+PWN:employment.n.02		фӕллой	fəlloj
 PWN:empty.a.01		афтид	aftid
 PWN:end.n.03		кæрон	kæron
 PWN:end.n.09		кӕрон	kəron
@@ -350,6 +352,7 @@ PWN:erstwhile.s.01		раздӕры	razdərɨ
 PWN:escape.v.01		алидзын	alid͡zɨn
 PWN:evening.n.01		изӕр	izər
 PWN:evil.a.01		фыдзӕрдӕ	fɨd͡zərdə
+PWN:exchange.v.01		ивын	ivɨn
 PWN:exclaim.v.01		хъӕр кӕнын	qər kənɨn
 PWN:exit.v.01		ацӕуын	at͡səwɨn
 PWN:expensive.a.01		зынаргъ	zɨnarʁ
@@ -365,8 +368,8 @@ PWN:fall.v.01		хауын	χawɨn
 PWN:fall_asleep.v.01		бафынæй уын	bafɨnæj uɨn
 PWN:familiar.a.01		зонгӕ	zonɡə
 PWN:family.n.02		бинонтæ	binontæ
-PWN:far.r.02		дард	dard
-PWN:far.r.02		дӕрддаг	dərddaɡ
+PWN:faraway.s.01		дард	dard
+PWN:faraway.s.01		дӕрддаг	dərddaɡ
 PWN:fat.n.01		сой	soj
 PWN:father.n.01		фыд	fɨd
 PWN:fault.n.06		азым	azɨm
@@ -705,7 +708,7 @@ PWN:near.r.01		хӕстӕг	χəstəɡ
 PWN:neck.n.01		къубал	kʼubal
 PWN:needle.n.03		судзин	sud͡zin
 PWN:nest.n.01		ахстон	aχston
-PWN:net_income.n.01		хыз	χɨz
+PWN:net.n.06		хыз	χɨz
 PWN:never.r.01		никæд	nikæd
 PWN:never.r.01		никуы	nikʷɨ
 PWN:new.a.01		ног	noɡ
@@ -1027,8 +1030,8 @@ PWN:tail.n.01		къӕдзил	kʼəd͡zil
 PWN:take.v.04		райсын	rajsɨn
 PWN:talk.v.02		ныхас кӕнын	nɨχas kənɨn
 PWN:taste.n.01		ад	ad
-PWN:taste.v.01		аходын	aχodɨn
-PWN:taste.v.01		уынын	wɨnɨn
+PWN:taste.v.02		аходын	aχodɨn
+PWN:taste.v.02		уынын	wɨnɨn
 PWN:tasty.a.01		хӕрзад	χərzad
 PWN:tea.n.01		цай	t͡saj
 PWN:teach.v.01		ахуыр кæнын	aχʷɨr kænɨn
@@ -1098,8 +1101,6 @@ PWN:transport.v.02		хӕссын	χəssɨn
 PWN:trap.n.01		къӕппӕг	kʼəppəɡ
 PWN:trap.n.01		цъысым	t͡sʼɨsɨm
 PWN:trap.v.02		ӕрцахсын	ərt͡saχsɨn
-PWN:travel.v.01		тæлфын	tælfɨn
-PWN:travel.v.01		цæуын	t͡sæuɨn
 PWN:travel.v.01		цӕуын	t͡səwɨn
 PWN:tree.n.01		бӕлас	bəlas
 PWN:trouser.n.01		æддаг хæлаф	æddaɡ χælaf
@@ -1188,7 +1189,6 @@ PWN:woman.n.01		сылгоймаг	sɨlɡojmaɡ
 PWN:wood.n.01		хъӕдӕрмӕг	qədərməɡ
 PWN:wool.n.02		фӕсмын	fəsmɨn
 PWN:word.n.01		дзырд	d͡zɨrd
-PWN:work.n.01		фӕллой	fəlloj
 PWN:work.v.01		кусын	kusɨn
 PWN:worker.n.01		кусæг	kusæɡ
 PWN:world.n.02		дуне	dune

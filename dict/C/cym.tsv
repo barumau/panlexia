@@ -6,10 +6,10 @@ PLX:2SG.pro		ti	tɪ
 PLX:3PL.pro		hwy	hʊ͡ɪ
 PLX:3SG M.pro		fe	vɛ
 PLX:and.cnj		a	a
-PLX:because of.adp		o achos	ɔ aχɔs
-PLX:because of.adp		oherwydd	ɔhɛrʊ͡ɪð
-PLX:behind.adp		ar ôl	ar oːl
-PLX:beside.adp		ar bwys	ar bʊ͡ɪs
+PLX:because of.pp		o achos	ɔ aχɔs
+PLX:because of.pp		oherwydd	ɔhɛrʊ͡ɪð
+PLX:behind.pp		ar ôl	ar oːl
+PLX:beside.pp		ar bwys	ar bʊ͡ɪs
 PLX:can.v		gallu	ɡaɬɪ
 PLX:die (from accident).V		trengi	trɛŋɪ
 PLX:everywhere.pro		ym mhobman	əm m̥ɔbman
@@ -18,11 +18,11 @@ PLX:get sick.V		mynd yn sâl	mənd ən sɑːl
 PLX:get sick.V		mynd yn wael	mənd ən ʊa͡ɪl
 PLX:how many.pro		faint	va͡ɪnt
 PLX:how.pro		sut	sɪt
-PLX:in front of.adp		o flaen	ɔ vla͡ɪn
+PLX:in front of.pp		o flaen	ɔ vla͡ɪn
 PLX:or.cnj		neu	nɛ͡ɪ
 PLX:that.pro		hynny	hənnɪ
 PLX:this.pro		hyn	hɪn
-PLX:under.adp		islaw	ɪsla͡ʊ
+PLX:under.pp		islaw	ɪsla͡ʊ
 PLX:what.pro		pa beth	pa bɛθ
 PLX:where.pro		ble	blɛ
 PLX:where.pro		ym mha le	əm m̥a lɛ
@@ -188,7 +188,6 @@ PWN:cavil.v.01		grwgnach	ɡrʊɡnaχ
 PWN:center.n.01		canol	kanɔl
 PWN:chair.n.01		cadair	kada͡ɪr
 PWN:change.v.01		altro	altrɔ
-PWN:change.v.03		newid	nɛ͡ʊɪd
 PWN:character.n.08		llythyren	ɬəθərɛn
 PWN:cheap.a.01		rhad	r̥ad
 PWN:cheek.n.01		boch	bɔχ
@@ -275,6 +274,7 @@ PWN:defend.v.03		amddiffyn	amðɪfɪn
 PWN:deft.s.01		deheuig	dɛhɛ͡ɪɪɡ
 PWN:deft.s.01		medrus	mɛdrɪs
 PWN:deity.n.01		duw	dɪ͡ʊ
+PWN:depart.v.03		symud	səmɪd
 PWN:descend.v.01		syrthio	sərθɪɔ
 PWN:desire.n.01		chwant	χwant
 PWN:desire.v.01		bod mewn angen	bɔd mɛ͡ʊn aŋɛn
@@ -340,6 +340,7 @@ PWN:elbow.n.01		penelin	pɛnɛlɪn
 PWN:eleven.s.01		un ar ddeg	ɪn ar ðɛɡ
 PWN:elk.n.01		elc	ɛlk
 PWN:emerge.v.01		ymddangos	əmðaŋɔs
+PWN:employment.n.02		gwaith	ɡwa͡ɪθ
 PWN:empty.a.01		gwag	ɡwaɡ
 PWN:end.n.03		diwedd	dɪ͡ʊɛð
 PWN:end.n.09		pen	pɛn
@@ -350,6 +351,7 @@ PWN:erstwhile.s.01		blaenorol	bla͡ɪnɔrɔl
 PWN:escape.v.01		dianc	dɪank
 PWN:evening.n.01		noswaith	nɔswa͡ɪθ
 PWN:evil.a.01		drwg	drʊɡ
+PWN:exchange.v.01		newid	nɛ͡ʊɪd
 PWN:exclaim.v.01		bloeddio	blɔ͡ɪðɪɔ
 PWN:exclaim.v.01		gweiddi	ɡwɛ͡ɪðɪ
 PWN:exit.v.01		mynd	mɪnd
@@ -370,7 +372,7 @@ PWN:familiar.a.01		cyfarwydd	kəvarʊ͡ɪð
 PWN:familiar.a.01		cynefin	kənɛvɪn
 PWN:family.n.02		teulu	tɛ͡ɪlɪ
 PWN:family.n.02		tylwyth	təlʊ͡ɪθ
-PWN:far.r.02		pell	pɛɬ
+PWN:faraway.s.01		pell	pɛɬ
 PWN:fat.n.01		braster	brastɛr
 PWN:fat.n.01		saim	sa͡ɪm
 PWN:father.n.01		tad	tad
@@ -669,8 +671,8 @@ PWN:near.r.01		agos	aɡɔs
 PWN:neck.n.01		gwddf	ɡʊðv
 PWN:needle.n.03		nodwydd	nɔdʊ͡ɪð
 PWN:nest.n.01		nyth	nɪθ
-PWN:net_income.n.01		gwe	ɡwɛ
-PWN:net_income.n.01		rhwyd	r̥ʊ͡ɪd
+PWN:net.n.06		gwe	ɡwɛ
+PWN:net.n.06		rhwyd	r̥ʊ͡ɪd
 PWN:never.r.01		ni ... byth	nɪ ... bɪθ
 PWN:never.r.01		ni ... erioed	nɪ ... ɛrɪɔ͡ɪd
 PWN:new.a.01		newydd	nɛ͡ʊɪð
@@ -974,7 +976,7 @@ PWN:tail.n.01		cynffon	kənfɔn
 PWN:take.v.04		cymryd	kəmrɪd
 PWN:talk.v.02		siarad	ʃarad
 PWN:taste.n.01		cyflas	kəvlas
-PWN:taste.v.01		profi	prɔvɪ
+PWN:taste.v.02		profi	prɔvɪ
 PWN:tasty.a.01		blasus	blasɪs
 PWN:tasty.a.01		danteithiol	dantɛ͡ɪθɪɔl
 PWN:tea.n.01		te	tɛ
@@ -1039,7 +1041,6 @@ PWN:transport.v.02		cludo	klɪdɔ
 PWN:trap.n.01		magl	maɡl
 PWN:trap.v.02		dal	dal
 PWN:travel.v.01		mynd	mɪnd
-PWN:travel.v.01		symud	səmɪd
 PWN:tree.n.01		coeden	kɔ͡ɪdɛn
 PWN:trouser.n.01		trowsus	trɔ͡ʊsɪs
 PWN:true.a.01		gwir	ɡwɪr
@@ -1117,7 +1118,6 @@ PWN:woman.n.01		merch	mɛrχ
 PWN:wood.n.01		pren	prɛn
 PWN:wool.n.02		gwlân	ɡʊlɑːn
 PWN:word.n.01		gair	ɡa͡ɪr
-PWN:work.n.01		gwaith	ɡwa͡ɪθ
 PWN:work.v.01		gweithio	ɡwɛ͡ɪθɪɔ
 PWN:worker.n.01		gweithiwr	ɡwɛ͡ɪθɪ͡ʊr
 PWN:world.n.02		byd	bɪd

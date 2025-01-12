@@ -7,11 +7,11 @@ PLX:2SG.pro		tu	tu
 PLX:3PL.pro		eles	ˈeləʃ
 PLX:3SG M.pro		ele	ˈelə
 PLX:and.cnj		e	i
-PLX:because of.adp		por	pur
-PLX:because of.adp		por causa de	pur ˈkawzɐ də
-PLX:behind.adp		atrás de	ɐˈtraʃ də
-PLX:beside.adp		ao lado de	ɐw ˈlaðu də
-PLX:beside.adp		junto de	ʒũtoðe
+PLX:because of.pp		por	pur
+PLX:because of.pp		por causa de	pur ˈkawzɐ də
+PLX:behind.pp		atrás de	ɐˈtraʃ də
+PLX:beside.pp		ao lado de	ɐw ˈlaðu də
+PLX:beside.pp		junto de	ʒũtoðe
 PLX:can.v		saber	sɐˈβer
 PLX:die (from accident).V		perecer	pereser
 PLX:everywhere.pro		em toda parte	ẽ ˈtoðɐ ˈpartə
@@ -20,13 +20,13 @@ PLX:get sick.V		adoecer	ɐðwəˈser
 PLX:get sick.V		ficar doente	fikarðwənte
 PLX:how many.pro		quanto	ˈkwɐ̃tu
 PLX:how.pro		como	ˈkomu
-PLX:in front of.adp		diante de	djanteðe
+PLX:in front of.pp		diante de	djanteðe
 PLX:or.cnj		ou	o
 PLX:that.pro		aquilo	ɐˈkilu
 PLX:that.pro		isso	ˈisu
 PLX:this.pro		isto	ˈiʃtu
-PLX:under.adp		debaixo de	dəˈβajʃu də
-PLX:under.adp		sob	sob
+PLX:under.pp		debaixo de	dəˈβajʃu də
+PLX:under.pp		sob	sob
 PLX:what.pro		quê	kə
 PLX:where.pro		onde	ˈõdə
 PLX:where_to.pro		aonde	awnde
@@ -194,8 +194,6 @@ PWN:center.n.01		meio	ˈmeju
 PWN:chair.n.01		cadeira	kɐˈðejrɐ
 PWN:change.v.01		alterar	aɫterar
 PWN:change.v.01		mudar	muˈðar
-PWN:change.v.03		alternar	aɫternar
-PWN:change.v.03		variar	varjar
 PWN:character.n.08		letra	ˈlɛtrɐ
 PWN:cheap.a.01		barato	bɐˈratu
 PWN:cheek.n.01		face	ˈfasə
@@ -292,6 +290,7 @@ PWN:decrease.v.01		diminuir	dəmiˈnwir
 PWN:defend.v.03		defender	dəfẽˈder
 PWN:deft.s.01		hábil	aβiɫ
 PWN:deity.n.01		deus	dewʃ
+PWN:depart.v.03		mover-se	muˈversə
 PWN:descend.v.01		descer	dəʃˈser
 PWN:desire.n.01		vontade	võˈtaðə
 PWN:desire.v.01		querer	kəˈrer
@@ -356,6 +355,7 @@ PWN:elbow.n.01		cotovelo	kutuˈvelu
 PWN:eleven.s.01		onze	ˈõzə
 PWN:elk.n.01		alce	aɫse
 PWN:emerge.v.01		aparecer	ɐpɐrəˈser
+PWN:employment.n.02		trabalho	trɐˈβaʎu
 PWN:empty.a.01		vazio	vɐˈziw
 PWN:end.n.03		fim	fĩ
 PWN:end.n.09		cabo	ˈkaβu
@@ -371,6 +371,8 @@ PWN:escape.v.01		refugiar-se	refuʒjarʃe
 PWN:evening.n.01		noite	ˈnojtə
 PWN:evening.n.01		tardinha	tɐrˈdiɲɐ
 PWN:evil.a.01		mau	maw
+PWN:exchange.v.01		alternar	aɫternar
+PWN:exchange.v.01		variar	varjar
 PWN:exclaim.v.01		gritar	ɡriˈtar
 PWN:exit.v.01		ir-se embora	ˈirsə ẽˈβɔrɐ
 PWN:exit.v.01		partir	pɐrˈtir
@@ -389,8 +391,8 @@ PWN:fall.v.01		cair	kɐˈir
 PWN:fall_asleep.v.01		adormecer	ɐðurməˈser
 PWN:familiar.a.01		conhecido	kuɲəˈsiðu
 PWN:family.n.02		família	fɐˈmiljɐ
-PWN:far.r.02		distante	diʃtãte
-PWN:far.r.02		remoto	remotu
+PWN:faraway.s.01		distante	diʃtãte
+PWN:faraway.s.01		remoto	remotu
 PWN:fat.n.01		banha	ˈbɐɲɐ
 PWN:fat.n.01		gordura	ɣorðura
 PWN:father.n.01		pai	paj
@@ -725,7 +727,7 @@ PWN:neck.n.01		colo	kolu
 PWN:neck.n.01		pescoço	pəʃˈkosu
 PWN:needle.n.03		agulha	ɐˈɣuʎɐ
 PWN:nest.n.01		ninho	ˈniɲu
-PWN:net_income.n.01		rede	ˈʀeðə
+PWN:net.n.06		rede	ˈʀeðə
 PWN:never.r.01		nunca	ˈnũkɐ
 PWN:new.a.01		novo	ˈnovu
 PWN:news.n.01		notícia	nuˈtisjə
@@ -1040,8 +1042,8 @@ PWN:tail.n.01		rabo	ˈʀaβu
 PWN:take.v.04		tomar	tuˈmar
 PWN:talk.v.02		falar	fɐˈlar
 PWN:taste.n.01		gosto	ˈɡoʃtu
-PWN:taste.v.01		provar	pruˈvar
-PWN:taste.v.01		saborear	ʃaβorjar
+PWN:taste.v.02		provar	pruˈvar
+PWN:taste.v.02		saborear	ʃaβorjar
 PWN:tasty.a.01		delicioso	dəliˈsjozu
 PWN:tea.n.01		chá	ʃa
 PWN:teach.v.01		ensinar	ẽsiˈnar
@@ -1105,7 +1107,6 @@ PWN:trap.n.01		armadilha	armaðiʎa
 PWN:trap.v.02		apanhar	ɐpɐˈɲar
 PWN:travel.v.01		andar	ɐ̃ˈdar
 PWN:travel.v.01		ir	ir
-PWN:travel.v.01		mover-se	muˈversə
 PWN:tree.n.01		árvore	ˈarvurə
 PWN:trouser.n.01		calça	ˈkaɫsɐ
 PWN:true.a.01		verdadeiro	vərðɐˈðejru
@@ -1184,7 +1185,6 @@ PWN:woman.n.01		mulher	muˈʎer
 PWN:wood.n.01		madeira	mɐˈðejrɐ
 PWN:wool.n.02		lã	lɐ̃
 PWN:word.n.01		palavra	pɐˈlavrɐ
-PWN:work.n.01		trabalho	trɐˈβaʎu
 PWN:work.v.01		trabalhar	trɐβɐˈʎar
 PWN:worker.n.01		operário	opəˈrarju
 PWN:worker.n.01		trabalhador	trɐβɐʎɐˈðor

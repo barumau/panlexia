@@ -6,9 +6,9 @@ PLX:2SG.pro		ته	t̪ə
 PLX:3PL.pro		هغوی	haˈɣoj
 PLX:3SG M.pro		دی	d̪ai
 PLX:and.cnj		او	au
-PLX:because of.adp		د ... له لاسه	d̪ə ... lə ˈlɑsa
-PLX:behind.adp		شاته	ˈʃɑt̪a
-PLX:beside.adp		نژدې	nəʒˈd̪e
+PLX:because of.pp		د ... له لاسه	d̪ə ... lə ˈlɑsa
+PLX:behind.pp		شاته	ˈʃɑt̪a
+PLX:beside.pp		نژدې	nəʒˈd̪e
 PLX:can.v		د لاسه کېدل	d̪ə ˈlɑsa keˈd̪əl
 PLX:can.v		کولای شول	kawəˈlɑj ʃwəl
 PLX:die (from accident).V		تلفېدل	t̪alafeˈd̪əl
@@ -18,11 +18,11 @@ PLX:get sick.V		رنځورېدل	rand͡zuriˈd̪əl
 PLX:how many.pro		څو	t͡so
 PLX:how many.pro		څومره	ˈt͡somra
 PLX:how.pro		څنګه	ˈt͡senɡa
-PLX:in front of.adp		دمخه	d̪əˈməxa
+PLX:in front of.pp		دمخه	d̪əˈməxa
 PLX:or.cnj		ېا	ja
 PLX:that.pro		دا	d̪ɑ
 PLX:this.pro		دا	d̪ɑ
-PLX:under.adp		لاندي	ˈlɑnd̪i
+PLX:under.pp		لاندي	ˈlɑnd̪i
 PLX:what.pro		څهٔ	t͡sə
 PLX:where.pro		چيری	ˈt͡ʃiri
 PLX:where.pro		چېرته	ˈt͡ʃert̪a
@@ -184,7 +184,6 @@ PWN:center.n.01		مینځ	mjand͡z
 PWN:center.n.01		وسط	waˈsat̪
 PWN:chair.n.01		چوکۍ	t͡ʃawˈkəj
 PWN:change.v.01		تغیر ورکول	t̪aɣaiˈjur warkaˈwəl
-PWN:change.v.03		تغییر موندل	t̪aɣˈjir munˈd̪əl
 PWN:character.n.08		توری	ˈt̪orai
 PWN:character.n.08		حرف	harf
 PWN:cheap.a.01		ارزان	arˈzɑn
@@ -278,6 +277,8 @@ PWN:decrease.v.01		کمېدل	kameˈd̪əl
 PWN:defend.v.03		دفاع کول	d̪iˈfɑ kaˈwəl
 PWN:deft.s.01		ماهر	mɑˈhir
 PWN:deity.n.01		خدای	xuˈd̪ɑj
+PWN:depart.v.03		حرکت کول	haraˈkat̪ kaˈwəl
+PWN:depart.v.03		چلېدل	t͡ʃaleˈd̪əl
 PWN:descend.v.01		ښکته کېدل	ʂˈkat̪a keˈd̪əl
 PWN:desire.n.01		شوق	ʃauq
 PWN:desire.n.01		مینه	ˈmina
@@ -339,6 +340,7 @@ PWN:elbow.n.01		څنګل	t͡sanˈɡəl
 PWN:eleven.s.01		یوولس	jawoˈlas
 PWN:elk.n.01		ګوزن	ɡaˈwazn
 PWN:emerge.v.01		ښکارېدل	ʂkɑreˈd̪əl
+PWN:employment.n.02		کار	kɑr
 PWN:empty.a.01		خالی	xɑˈli
 PWN:end.n.03		اخر	ɑˈxir
 PWN:end.n.09		څوکه	ˈt͡suka
@@ -352,6 +354,7 @@ PWN:escape.v.01		تښتېدل	t̪əʂt̪eˈd̪əl
 PWN:evening.n.01		ماښام	mɑˈʂɑm
 PWN:evil.a.01		شریر	ʃaˈrir
 PWN:evil.a.01		قهرناک	qahrˈnɑk
+PWN:exchange.v.01		تغییر موندل	t̪aɣˈjir munˈd̪əl
 PWN:exclaim.v.01		ناره کول	nɑˈra kaˈwəl
 PWN:exit.v.01		بهر وتل	baˈhar waˈt̪əl
 PWN:expensive.a.01		ګران	ɡrɑn
@@ -369,7 +372,7 @@ PWN:fall.v.01		ولېدل	wleˈd̪əl
 PWN:fall_asleep.v.01		ویده کېدل	wiˈd̪a keˈd̪əl
 PWN:familiar.a.01		اشنا	ɑʃˈnɑ
 PWN:family.n.02		کورنۍ	koraˈnəj
-PWN:far.r.02		لیری	ˈliri
+PWN:faraway.s.01		لیری	ˈliri
 PWN:fat.n.01		غوړي	ɣˈwari
 PWN:father.n.01		پلار	plɑr
 PWN:fault.n.06		ګناه	ɡuˈnɑh
@@ -686,7 +689,7 @@ PWN:near.r.01		نژدې	niʒˈd̪e
 PWN:neck.n.01		غاړه	ˈɣɑɺa
 PWN:needle.n.03		ستن	st̪ən
 PWN:nest.n.01		جاله	d͡ʒɑˈla
-PWN:net_income.n.01		جال	d͡ʒɑl
+PWN:net.n.06		جال	d͡ʒɑl
 PWN:never.r.01		هیڅکله نه	
 PWN:new.a.01		نوی	ˈnawai
 PWN:news.n.01		نوی خبر	ˈnawai xaˈbar
@@ -979,8 +982,8 @@ PWN:talk.v.02		خبرې کول	xaˈbəri kaˈwəl
 PWN:talk.v.02		ګړېدل	ɡəɹeˈd̪əl
 PWN:taste.n.01		خوند	xwand̪
 PWN:taste.n.01		مزه	maˈza
-PWN:taste.v.01		څکه کول	ˈt͡saka kaˈwəl
-PWN:taste.v.01		چاشنی کول	t͡ʃɑʃˈni kaˈwəl
+PWN:taste.v.02		څکه کول	ˈt͡saka kaˈwəl
+PWN:taste.v.02		چاشنی کول	t͡ʃɑʃˈni kaˈwəl
 PWN:tasty.a.01		خوندور	xwand̪awar
 PWN:tasty.a.01		مزه دار	mazaˈd̪ɑr
 PWN:tea.n.01		چای	t͡ʃɑj
@@ -1051,8 +1054,6 @@ PWN:trap.n.01		لومه	ˈluma
 PWN:trap.v.02		نیول	niˈwəl
 PWN:trap.v.02		ګیرول	ɡiraˈwəl
 PWN:travel.v.01		تلل	t̪ləl
-PWN:travel.v.01		حرکت کول	haraˈkat̪ kaˈwəl
-PWN:travel.v.01		چلېدل	t͡ʃaleˈd̪əl
 PWN:tree.n.01		ونه	ˈwəna
 PWN:trouser.n.01		پطلون	pat̪ˈlun
 PWN:true.a.01		واقعي	wɑqiˈʔi
@@ -1131,7 +1132,6 @@ PWN:wood.n.01		لرګی	larˈɡaj
 PWN:wool.n.02		پشم	paʃm
 PWN:word.n.01		لغت	luˈɣat̪
 PWN:word.n.01		کلمه	kaliˈma
-PWN:work.n.01		کار	kɑr
 PWN:work.v.01		کار کول	kɑr kaˈwəl
 PWN:worker.n.01		کاریګر	kɑriˈɡar
 PWN:world.n.02		دنیا	d̪unˈjɑ

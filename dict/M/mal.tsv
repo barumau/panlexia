@@ -10,9 +10,9 @@ PLX:3SG M.pro		അവൻ	aʋan̪
 PLX:3SG M.pro		അവർ	aʋaɾʲ
 PLX:3SG M.pro		അവൾ	aʋaɭ
 PLX:and.cnj		ഉം	um
-PLX:because of.adp		നിമിത്തം	n̪imit̪ːam
-PLX:behind.adp		പുറകിൽ	puraɡil
-PLX:beside.adp		അടുത്ത്	aɖut̪ːɨ̆
+PLX:because of.pp		നിമിത്തം	n̪imit̪ːam
+PLX:behind.pp		പുറകിൽ	puraɡil
+PLX:beside.pp		അടുത്ത്	aɖut̪ːɨ̆
 PLX:can.v		കഴിയുക	kaɻijuɡa
 PLX:die (from accident).V		മരിക്കുക	maɾʲikːʲuɡa
 PLX:everywhere.pro		എല്ലായിടത്തും	elːaːjiɖat̪ːum
@@ -20,11 +20,11 @@ PLX:from here.adv		ഇവിടെനിന്ന്	iʋiɖen̪in̪ːɨ̆
 PLX:get sick.V		ദീനംപിടിക്കുക	d̪iːn̪ambiɖikːuɡa
 PLX:how many.pro		എത്ര	et̪ɾʲa
 PLX:how.pro		എങ്ങനെ	eŋːan̪e
-PLX:in front of.adp		മുമ്പിൽ	mumbil
+PLX:in front of.pp		മുമ്പിൽ	mumbil
 PLX:or.cnj		അഥവാ	at̪ɦaʋaː
 PLX:that.pro		അത്	adʰɨ̆
 PLX:this.pro		ഇത്	idʰɨ̆
-PLX:under.adp		കീഴിൽ	kiːɻil
+PLX:under.pp		കീഴിൽ	kiːɻil
 PLX:what.pro		എന്ത്	en̪dʰɨ̆
 PLX:where.pro		എവിടെ	eʋiɖe
 PLX:where_to.pro		എവിടേക്ക്	eʋiɖeːkːɨ̆
@@ -164,7 +164,6 @@ PWN:cavil.v.01		പിറുപിറുക്കുക	pirubirukːuɡa
 PWN:center.n.01		മധ്യസ്ഥാനം	mad̪ɦjast̪ɦaːn̪am
 PWN:chair.n.01		കസേര	kaseːɾʲa
 PWN:change.v.01		മാറ്റംവരുത്തുക	maːtːamʋaɾʲut̪ːuɡa
-PWN:change.v.03		മാറ്റുക	maːtːuɡa
 PWN:character.n.08		അക്ഷരം	akʂaɾʲam
 PWN:cheap.a.01		വിലകുറഞ്ഞ	ʋilaɡuraɲːa
 PWN:cheek.n.01		കവിൾത്തടം	kaʋiɭt̪ːaɖam
@@ -241,6 +240,7 @@ PWN:decrease.v.01		കുറിയുക	kurijuɡa
 PWN:defend.v.03		പ്രതിരോധിക്കുക	pɾʲadʰiɾʲoːd̪ɦikːʲuɡa
 PWN:deft.s.01		പ്രതിഭാശാലി	pɾʲadʰibʰaːɕaːli
 PWN:deity.n.01		ദൈവം	d̪aiʋam
+PWN:depart.v.03		സ്ഥലം_മാറുക	st̪ɦalam maːruɡa
 PWN:descend.v.01		താഴുക	t̪aːɻuɡa
 PWN:desire.n.01		ആഗ്രഹം	aːɡɾʲaɦam
 PWN:desire.v.01		വേണുക	ʋeːɳuɡa
@@ -293,6 +293,7 @@ PWN:elbow.n.01		കൈമുട്ട്	kaimuʈːɨ̆
 PWN:eleven.s.01		പതിനൊന്ന്	padʰin̪on̪ːɨ̆
 PWN:elk.n.01		കടമാന്	kaɖamaːn̪ɨ̆
 PWN:emerge.v.01		പ്രത്യക്ഷപ്പെടുക	pɾʲadʰjakʂapːeɖuɡa
+PWN:employment.n.02		ജോലി	d͡ʒoːli
 PWN:empty.a.01		ഒഴിഞ്ഞ	oɻiɲːa
 PWN:end.n.03		നിഗമനം	n̪iɡaman̪am
 PWN:end.n.09		അവസാനം	aʋasaːn̪am
@@ -303,6 +304,7 @@ PWN:erstwhile.s.01		മുൻ	mun̪
 PWN:escape.v.01		രക്ഷപ്പെടുക	ɾʲakʂapːeɖuɡa
 PWN:evening.n.01		സായാഹ്നം	saːjaːɦn̪am
 PWN:evil.a.01		പാപിയായ	paːbijaːja
+PWN:exchange.v.01		മാറ്റുക	maːtːuɡa
 PWN:exclaim.v.01		ആക്രോശിക്കുക	aːkɾʲoːɕikːʲuɡa
 PWN:exit.v.01		വിടുക	ʋiɖuɡa
 PWN:expensive.a.01		ചെലവേറിയ	t͡ʃelaʋeːrija
@@ -317,7 +319,7 @@ PWN:fall.v.01		വീഴുക	ʋiːɻuɡa
 PWN:fall_asleep.v.01		നിദ്രിക്കുക	n̪id̪ɾʲikːʲuɡa
 PWN:familiar.a.01		പരിചിതമായ	paɾʲit͡ʃidʰamaːja
 PWN:family.n.02		കുടുംബം	kuɖumbam
-PWN:far.r.02		അകലെയുള്ള	aɡalejuɭːa
+PWN:faraway.s.01		അകലെയുള്ള	aɡalejuɭːa
 PWN:fat.n.01		കൊഴുപ്പ്	koɻupːɨ̆
 PWN:father.n.01		അച്ഛൻ	at͡ʃːɦan̪
 PWN:fault.n.06		തെറ്റ്	t̪etːɨ̆
@@ -595,7 +597,7 @@ PWN:near.r.01		അരികത്തുള്ള	aɾʲiɡat̪ːuɭːa
 PWN:neck.n.01		കഴുത്ത്	kaɻut̪ːɨ̆
 PWN:needle.n.03		സൂചി	suːt͡ʃi
 PWN:nest.n.01		കൂട്	kuːɖɨ̆
-PWN:net_income.n.01		വല	ʋala
+PWN:net.n.06		വല	ʋala
 PWN:never.r.01		ഒരിക്കലും	oɾʲikːʲalum
 PWN:new.a.01		പുതിയ	pudʰija
 PWN:news.n.01		വാർത്ത	ʋaːɾʲt̪ːa
@@ -855,7 +857,7 @@ PWN:tail.n.01		വാൽ	ʋaːl
 PWN:take.v.04		എടുക്കുക	eɖukːuɡa
 PWN:talk.v.02		സംസാരിക്കുക	samsaːɾʲikːʲuɡa
 PWN:taste.n.01		രുചി	ɾʲut͡ʃi
-PWN:taste.v.01		രുചിയുള്ളതായി_തോന്നുക	ɾʲut͡ʃijuɭːadʰaːji t̪oːn̪ːuɡa
+PWN:taste.v.02		രുചിയുള്ളതായി_തോന്നുക	ɾʲut͡ʃijuɭːadʰaːji t̪oːn̪ːuɡa
 PWN:tasty.a.01		രുചികരമായ	ɾʲut͡ʃiɡaɾʲamaːja
 PWN:tea.n.01		ചായ	t͡ʃaːja
 PWN:teach.v.01		പഠിപ്പിക്കുക	paʈɦipːikːʲuɡa
@@ -912,7 +914,6 @@ PWN:transport.v.02		വഹിക്കുക	ʋaɦikːʲuɡa
 PWN:trap.n.01		കെണി	keɳi
 PWN:trap.v.02		പിടിക്കുക	piɖikːʲuɡa
 PWN:travel.v.01		പോകുക	poːɡuɡa
-PWN:travel.v.01		സ്ഥലം_മാറുക	st̪ɦalam maːruɡa
 PWN:tree.n.01		മരം	maɾʲam
 PWN:trouser.n.01		ട്രൌസർ	ʈɾʲausaɾʲ
 PWN:true.a.01		ശരിയായ	ɕaɾʲijaːja
@@ -982,7 +983,6 @@ PWN:woman.n.01		സ്ത്രീ	st̪ɾʲiː
 PWN:wood.n.01		തടി	t̪aɖi
 PWN:wool.n.02		കമ്പിളി	kambiɭi
 PWN:word.n.01		വാക്ക്	ʋaːkːɨ̆
-PWN:work.n.01		ജോലി	d͡ʒoːli
 PWN:work.v.01		ജോലിചെയ്യുക	d͡ʒoːlit͡ʃejːuɡa
 PWN:worker.n.01		ജോലിക്കാരൻ	d͡ʒoːlikːʲaːɾʲan̪
 PWN:world.n.02		ലോകം	loːɡam

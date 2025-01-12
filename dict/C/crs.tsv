@@ -10,27 +10,86 @@ PLX:3SG F.pro		i
 PLX:3SG INAN.pro		i		
 PLX:3SG M.pro		i		
 PLX:3SG.pro		i		
+PLX:above.pp		anler		
+PLX:above.pp		lao		
+PLX:above.pp		par desi		
+PLX:after.pp		apre		
 PLX:and.cnj		avek, ek		
 PLX:and.cnj		e		
-PLX:behind.adp		aryer		
-PLX:behind.adp		deryer		
+PLX:at.pp		avek, ek		
+PLX:at.pp		kot (1)		
+PLX:at.pp		lo		
+PLX:be late.v		tarde, retarde		
+PLX:because.cnj		akoz		
+PLX:because.cnj		parske		
+PLX:behind.pp		aryer		
+PLX:behind.pp		deryer		
+PLX:beside.pp		akote		
+PLX:child-in-law.n		belfiy		
+PLX:child-in-law.n		bofis		
+PLX:child-in-law.n		zann		
+PLX:daughter-in-law (of man).n		belfiy		
+PLX:daughter-in-law (of woman).n		belfiy		
+PLX:day after tomorrow.adv		apredemen		
+PLX:day before yesterday.adv		avan yer		
+PLX:fall silent.v		silansye		
+PLX:fall silent.v		zin		plt:jìny
+PLX:father-in-law (of man).n		boper		
+PLX:father-in-law (of woman).n		boper		
+PLX:fermented alcohol.n		baka		hin:bakhal
+PLX:fermented alcohol.n		larak		arb:ʕaraq
+PLX:fermented alcohol.n		senga		yao:senga
+PLX:fermented alcohol.n		tembo		swh:tembo
+PLX:fish poison root.n		pwason		
+PLX:fish trap.n		kazye		
+PLX:fish trap.n		vouv		plt:vóvo
+PLX:head hair.n		seve, sive		
+PLX:how many pieces.pro		konbyen		
+PLX:how much.pro		konbyen		
 PLX:how.pro		konman		
 PLX:if.cnj		si		
-PLX:in front of.adp		devan		
+PLX:in front of.pp		devan		
+PLX:in.pp		dan		
+PLX:inside.pp		anndan		
+PLX:inside.pp		dan		
+PLX:manioc bread.n		penpen		
+PLX:men's house.n		kan kok maron		
+PLX:mother-in-law (of man).n		belmer		
+PLX:mother-in-law (of woman).n		belmer		
+PLX:netbag.n		lasenn		
+PLX:nothing.pro		naryen, riyen		
+PLX:older sibling.n		gran frer		
+PLX:older sibling.n		gran ser		
 PLX:or.cnj		ou, oubyen		
+PLX:outside.pp		deor		
+PLX:parents-in-law.n		boparan		
+PLX:sibling's child.n		neve		
+PLX:sibling's child.n		nyes		
+PLX:sibling-in-law.n		belser		
+PLX:sibling-in-law.n		bofrer		
+PLX:son-in-law (of man).n		bofis		
+PLX:son-in-law (of man).n		zann		
+PLX:son-in-law (of woman).n		bofis		
+PLX:son-in-law (of woman).n		zann		
+PLX:stab to death.v		pike (1)		
 PLX:that.pro		sa		
 PLX:this.pro		sennla		
-PLX:under.adp		anba		
+PLX:under.pp		anba		
 PLX:what.pro		kisisa		
 PLX:what.pro		kwa		
+PLX:when.pro		kan (2)		
 PLX:where.pro		kote (2)		
 PLX:where.pro		oli		
+PLX:which Q.pro		lekel ki		
 PLX:who.pro		ki sennla ki		
 PLX:who.pro		lekel ki		
 PLX:why.pro		akfer		
 PLX:why.pro		akoz		
 PLX:why.pro		ferkwa		
+PLX:with.pp		avek, ek		
+PLX:without.pp		san (3)		
 PLX:yes.ptcl		wi		
+PLX:younger sibling.n		pti frer		
 PWN:abdomen.n.01		toumero		swh:tumbo ?
 PWN:abdomen.n.01		vant		
 PWN:above.r.02		o		
@@ -260,6 +319,7 @@ PWN:brainsick.s.01		kouyas
 PWN:brainsick.s.01		san konpran		
 PWN:brainsick.s.01		zonzon		
 PWN:brake.v.02		frenn-en		
+PWN:branch.n.03		brans, labrans		
 PWN:brave.a.01		brav		
 PWN:brave.a.01		enerzik		
 PWN:brave.a.01		vayan		
@@ -299,6 +359,7 @@ PWN:bury.v.02		antere
 PWN:bus.n.01		bis		fra:bus
 PWN:butter.n.01		diber		
 PWN:butter.n.01		manteg		por:manteiga
+PWN:butter_knife.n.01		kouto		
 PWN:butterfly.n.01		papiyon		
 PWN:buttocks.n.01		deryer		
 PWN:buttocks.n.01		fes		
@@ -457,6 +518,8 @@ PWN:court.n.10		lari
 PWN:cousin.n.01		kouzen, kouzin		
 PWN:cover.v.01		kouver		
 PWN:cow.n.01		vas		
+PWN:crawl.v.01		mars ek vant		
+PWN:crawl.v.01		ranpe		
 PWN:crime.n.01		feloni		eng:felony
 PWN:crime.n.01		krim		
 PWN:crippled.s.01		bwete		
@@ -624,6 +687,7 @@ PWN:end.v.01		sese
 PWN:enough.r.01		asez		
 PWN:enter.v.01		antre		
 PWN:entirely.r.02		selman		
+PWN:envy.n.01		zalousi		
 PWN:estimate.v.01		devinen		
 PWN:evening.n.01		aswar		
 PWN:evening.n.01		diswar		
@@ -650,6 +714,7 @@ PWN:faineant.s.01		pares
 PWN:faithful.a.01		fidel		
 PWN:fall.n.01		lotonn		
 PWN:fall.v.01		tonm		
+PWN:fall.v.23		glise		
 PWN:family.n.02		fanmiy		
 PWN:famine.n.02		lafanmin		
 PWN:fan.n.01		levantay		
@@ -758,6 +823,7 @@ PWN:forge.v.01		forze
 PWN:forget.v.02		bliye		
 PWN:forgive.v.01		pardonnen		
 PWN:fork.n.01		fourset		
+PWN:fork.n.03		fourka		
 PWN:fortress.n.01		fort		eng:fort
 PWN:four.s.01		kat		
 PWN:fox.n.01		renar		
@@ -871,6 +937,7 @@ PWN:hard.a.03		dir (1)
 PWN:hard.a.03		dyanm		eng:jammed ?
 PWN:hare.n.01		lyev		
 PWN:hark_back.v.01		revini		
+PWN:harvest.n.04		rekolt		
 PWN:hate.v.01		ay		
 PWN:hate.v.01		laenn		
 PWN:have.v.01		annan		
@@ -980,7 +1047,6 @@ PWN:itch.n.03		demanzezon
 PWN:itch.n.03		lagratel		
 PWN:jaguar.n.01		dyagwar		eng:jaguar
 PWN:jaw.n.01		lanmaswar		
-PWN:jealousy.n.01		zalousi		
 PWN:jewel.n.01		bizou		
 PWN:join.v.02		ini		
 PWN:judge.n.01		ziz		
@@ -1002,7 +1068,6 @@ PWN:knead.v.01		bat lapat
 PWN:knead.v.01		petri		
 PWN:knee.n.01		zenou		
 PWN:kneel.v.01		azenou		
-PWN:knife.n.01		kouto		
 PWN:knife.n.01		kouto		
 PWN:knot.n.02		lanmaraz		
 PWN:knot.n.02		nen		
@@ -1351,18 +1416,17 @@ PWN:pocket.n.01		pos
 PWN:poet.n.01		poet		
 PWN:pointed.a.01		pwenti		
 PWN:poison.n.01		pwazon		
-PWN:pole.n.01		pike (2)		
-PWN:pole.n.01		poto		
 PWN:police.n.01		lapolis		
+PWN:policeman.n.01		konstab		eng:constable
 PWN:poncho.n.01		poncho		spa:poncho
 PWN:poor.a.02		malere		
 PWN:poor.a.02		pov		
 PWN:populate.v.01		abite		
 PWN:populate.v.01		reste		
-PWN:port.n.01		mouyaz		
-PWN:port.n.01		por, opor		
 PWN:position.n.01		landrwa		
 PWN:position.n.01		plas		
+PWN:post.n.04		pike (2)		
+PWN:post.n.04		poto		
 PWN:postage.n.02		tenm		
 PWN:postcard.n.01		kart postal		
 PWN:pot.n.01		kalay		hin:karahi
@@ -1536,6 +1600,8 @@ PWN:screwdriver.n.01		tournavis
 PWN:sculptor.n.01		skilpter		
 PWN:scythe.n.01		fosiy		
 PWN:sea.n.01		lanmer		
+PWN:seaport.n.01		mouyaz		
+PWN:seaport.n.01		por, opor		
 PWN:search.v.01		rode		
 PWN:search.v.01		sase, serse		
 PWN:season.n.02		lasezon		
@@ -1568,6 +1634,7 @@ PWN:shame.n.01		vergonny
 PWN:shark.n.01		reken		
 PWN:sharp.a.09		fite		
 PWN:shears.n.01		sizo		
+PWN:shed.n.01		kabann		
 PWN:sheep.n.01		mouton		
 PWN:shelf.n.01		letazer		
 PWN:shelf.n.01		shelf		eng:shelf
@@ -1607,7 +1674,6 @@ PWN:sink.v.01		koule (1)
 PWN:sister.n.01		ser (1)		
 PWN:sit_down.v.01		asize		
 PWN:six.s.01		sis		
-PWN:skid.v.04		glise		
 PWN:skin.v.04		plise		
 PWN:skirt.n.02		zip		
 PWN:skull.n.01		kosis		
@@ -1788,7 +1854,7 @@ PWN:tailor.n.01		tayer
 PWN:take.v.04		pran		
 PWN:tall.a.01		gran		
 PWN:tan.v.01		tenn		
-PWN:taste.v.01		goute		
+PWN:taste.v.02		goute		
 PWN:tattoo.n.02		tatou		eng:tatoo
 PWN:tattoo.n.02		tatwaz		
 PWN:tax.n.01		taks		
@@ -1835,6 +1901,7 @@ PWN:think.v.03		gete (1)
 PWN:think.v.03		mazinen		
 PWN:think.v.03		panse		
 PWN:third.s.01		trwazyenm		
+PWN:thirst.v.01		laswaf, swaf		
 PWN:thorax.n.02		lapwatrin		
 PWN:thorax.n.02		lestoma		
 PWN:thousand.s.01		mil		
@@ -1907,6 +1974,7 @@ PWN:twenty.s.01		ven
 PWN:twice.r.01		de fwa		
 PWN:twin.n.01		ne ansanm		
 PWN:twin.n.01		piti ansanm		
+PWN:twist.v.04		devire		
 PWN:two.s.01		de		
 PWN:udder.n.01		tete		
 PWN:ugly.a.01		belenga		bmy:belenga
@@ -1941,6 +2009,8 @@ PWN:wake_up.v.02		leve
 PWN:wake_up.v.02		reveye		
 PWN:walk.v.01		marse		
 PWN:walking_stick.n.01		baton		
+PWN:wall.n.01		borde		
+PWN:wall.n.01		miray		
 PWN:warm.a.01		tyed		
 PWN:wash.v.03		bennyen		
 PWN:wash.v.03		lave		

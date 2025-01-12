@@ -9,20 +9,70 @@ PLX:3PL.pro		eux, elles
 PLX:3SG F.pro		elle
 PLX:3SG M.pro		il
 PLX:3SG.pro		il/elle
+PLX:above.pp		au dessus
+PLX:after.pp		après
 PLX:and.cnj		et
-PLX:behind.adp		derrière
+PLX:at.pp		à
+PLX:be late.v		s’attarder, retarder
+PLX:because.cnj		parce que
+PLX:behind.pp		derrière
+PLX:beside.pp		à côté de
+PLX:carry in hand.v		porter (dans la main)
+PLX:carry on head.v		porter (sur la tête)
+PLX:carry on shoulder.v		porter (sur l'épaule)
+PLX:carry under arm.v		porter (sous le bras)
+PLX:child-in-law.n		belle-fils, gendre / belle-fille, bru
+PLX:daughter-in-law (of man).n		bru, belle-fille (d'un homme)
+PLX:daughter-in-law (of woman).n		bru, belle-fille (d'une femme)
+PLX:day after tomorrow.adv		après-demain
+PLX:day before yesterday.adv		avant-hier
+PLX:fall silent.v		se taire
+PLX:father's brother.n		frère du père
+PLX:father's sister.n		soeur du père
+PLX:father-in-law (of man).n		beau-père (d'un homme)
+PLX:father-in-law (of woman).n		beau-père (d'une femme)
+PLX:fermented alcohol.n		boisson fermentée
+PLX:fish poison root.n		poison a poisson
+PLX:fish trap.n		nasse, casier
+PLX:head hair.n		cheveu
+PLX:how many pieces.pro		combien?
+PLX:how much.pro		combien?
 PLX:how.pro		comment?
 PLX:if.cnj		si
-PLX:in front of.adp		devant
+PLX:in front of.pp		devant
+PLX:in.pp		dans
+PLX:initiation ceremony.n		cérémonie d’initiation
+PLX:inside.pp		dans, dedans
+PLX:manioc bread.n		pain de manioc
+PLX:men's house.n		maison réservée aux hommes
+PLX:mother's brother.n		frère de la mère
+PLX:mother's sister.n		soeur de la mère
+PLX:mother-in-law (of man).n		belle-mère (d'un homme)
+PLX:mother-in-law (of woman).n		belle-mère (d'une femme)
+PLX:netbag.n		filet
+PLX:nothing.pro		rien
+PLX:older sibling.n		frêre/sœur aîné(e)
 PLX:or.cnj		ou
+PLX:outside.pp		dehors
+PLX:parents-in-law.n		beaux-parents
+PLX:sibling's child.n		neveu, nièce
+PLX:sibling-in-law.n		beau-frère / belle-sœur
+PLX:son-in-law (of man).n		gendre (d'un homme)
+PLX:son-in-law (of woman).n		gendre (d'une femme)
+PLX:stab to death.v		poignarder
 PLX:that.pro		сe
 PLX:this.pro		celui-ci
-PLX:under.adp		dessous, sous
+PLX:under.pp		dessous, sous
 PLX:what.pro		quoi?
+PLX:when.pro		quand?
 PLX:where.pro		où?
+PLX:which Q.pro		quel? lequel?
 PLX:who.pro		qui?
 PLX:why.pro		pourquoi?
+PLX:with.pp		avec
+PLX:without.pp		sans
 PLX:yes.ptcl		oui
+PLX:younger sibling.n		frêre/sœur cadet(te)
 PWN:abdomen.n.01		ventre
 PWN:above.r.02		haut
 PWN:accuse.v.01		accuser
@@ -183,6 +233,7 @@ PWN:braid.v.01		tresser
 PWN:brain.n.01		cerveau
 PWN:brainsick.s.01		fou, bête, idiot
 PWN:brake.v.02		freiner
+PWN:branch.n.03		branche,rameau
 PWN:brave.a.01		courageux
 PWN:bread.n.01		pain
 PWN:break.v.05		casser,briser
@@ -208,6 +259,7 @@ PWN:burn.v.07		brûler
 PWN:bury.v.02		enterrer
 PWN:bus.n.01		bus, autobus
 PWN:butter.n.01		beurre
+PWN:butter_knife.n.01		couteau (de table)
 PWN:butterfly.n.01		papillon
 PWN:buttocks.n.01		fesses, derrière
 PWN:button.n.01		bouton
@@ -232,6 +284,7 @@ PWN:carcase.n.01		carcasse
 PWN:caribou.n.01		renne
 PWN:carpenter.n.01		charpentier
 PWN:carve.v.01		sculpter,graver
+PWN:case.n.05		cantine
 PWN:cassava.n.02		manioc
 PWN:cast.v.07		modéler, mouler
 PWN:cast.v.07		mouler
@@ -323,6 +376,7 @@ PWN:cousin.n.01		cousin, cousine
 PWN:cover.v.01		couvrir
 PWN:cow.n.01		vache
 PWN:coyote.n.01		coyote
+PWN:crawl.v.01		ramper
 PWN:crime.n.01		crime, délit
 PWN:crippled.s.01		boiteux
 PWN:crisscross.n.01		croix
@@ -437,6 +491,7 @@ PWN:end.v.01		cesser, s'arrêter
 PWN:enough.r.01		assez
 PWN:enter.v.01		entrer
 PWN:entirely.r.02		seul
+PWN:envy.n.01		envie, jalousie
 PWN:estimate.v.01		deviner
 PWN:evening.n.01		soir
 PWN:ewe.n.03		brebis
@@ -456,6 +511,7 @@ PWN:faineant.s.01		paresseux
 PWN:faithful.a.01		fidèle
 PWN:fall.n.01		automne
 PWN:fall.v.01		tomber
+PWN:fall.v.23		glisser
 PWN:family.n.02		famille
 PWN:famine.n.02		famine, disette
 PWN:fan.n.01		éventail
@@ -533,6 +589,7 @@ PWN:forge.v.01		forger
 PWN:forget.v.02		oublier
 PWN:forgive.v.01		pardonner
 PWN:fork.n.01		fourchette
+PWN:fork.n.03		branche fourchue, fourche
 PWN:fortress.n.01		forteresse
 PWN:four.s.01		quatre
 PWN:fox.n.01		renard
@@ -604,6 +661,7 @@ PWN:happy.a.01		joyeux, heureux
 PWN:hard.a.03		dur
 PWN:hare.n.01		lièvre
 PWN:hark_back.v.01		revenir
+PWN:harvest.n.04		récolte
 PWN:hate.v.01		haïr, détester
 PWN:have.v.01		avoir
 PWN:hawk.n.01		faucon
@@ -679,7 +737,6 @@ PWN:island.n.01		île
 PWN:itch.n.03		démangeaison
 PWN:jaguar.n.01		jaguar
 PWN:jaw.n.01		machoire
-PWN:jealousy.n.01		envie, jalousie
 PWN:jewel.n.01		bijou, joyau
 PWN:join.v.02		unir
 PWN:judge.n.01		juge
@@ -699,7 +756,6 @@ PWN:knead.v.01		pétrir
 PWN:knee.n.01		genou
 PWN:kneel.v.01		s'agenouiller
 PWN:knife.n.01		couteau
-PWN:knife.n.01		couteau (de table)
 PWN:knot.n.02		nœud
 PWN:know.v.01		savoir
 PWN:ladder.n.01		échelle
@@ -941,13 +997,12 @@ PWN:pocket.n.01		poche
 PWN:poet.n.01		poète
 PWN:pointed.a.01		pointu
 PWN:poison.n.01		poison
-PWN:pole.n.01		poteau, poutre
 PWN:police.n.01		police
 PWN:poncho.n.01		poncho
 PWN:poor.a.02		pauvre
 PWN:populate.v.01		habiter, demeurer
-PWN:port.n.01		port
 PWN:position.n.01		endroit,place, lieu
+PWN:post.n.04		poteau, poutre
 PWN:postage.n.02		timbre
 PWN:postcard.n.01		carte postale
 PWN:pot.n.01		casserole, marmite
@@ -1063,6 +1118,7 @@ PWN:screwdriver.n.01		tournevis
 PWN:sculptor.n.01		sculpteur
 PWN:scythe.n.01		faux,faucille
 PWN:sea.n.01		mer
+PWN:seaport.n.01		port
 PWN:search.v.01		chercher
 PWN:season.n.02		saison
 PWN:second.s.01		deuxième
@@ -1083,6 +1139,7 @@ PWN:shame.n.01		honte
 PWN:shark.n.01		requin
 PWN:sharp.a.09		tranchant, aiguisé
 PWN:shears.n.01		ciseaux
+PWN:shed.n.01		cabane de jardin
 PWN:sheep.n.01		mouton
 PWN:shelf.n.01		étagère
 PWN:shell.n.10		coquille, coquillage
@@ -1111,7 +1168,6 @@ PWN:sink.v.01		couler
 PWN:sister.n.01		soeur
 PWN:sit_down.v.01		être assis, asseoir
 PWN:six.s.01		six
-PWN:skid.v.04		glisser
 PWN:skin.v.04		peler,éplucher
 PWN:skirt.n.02		jupe
 PWN:skull.n.01		crâne
@@ -1207,6 +1263,7 @@ PWN:stump.n.01		souche d'arbre
 PWN:stupid.a.01		bête, stupide
 PWN:suck.v.01		sucer, téter
 PWN:sugar.n.01		sucre
+PWN:sugar_beet.n.02		betterave
 PWN:sugarcane.n.01		canne à sucre
 PWN:summer.n.01		été
 PWN:sun.n.01		soleil
@@ -1233,7 +1290,7 @@ PWN:take.v.04		prendre
 PWN:tall.a.01		grand
 PWN:tan.v.01		tanner
 PWN:tapir.n.01		tapir
-PWN:taste.v.01		goûter, avoir un goût...
+PWN:taste.v.02		goûter, avoir un goût...
 PWN:tattoo.n.02		tatouage
 PWN:tax.n.01		taxe,impôt
 PWN:tea.n.01		thé
@@ -1261,6 +1318,7 @@ PWN:thing.n.12		chose
 PWN:think.v.02		croire, penser
 PWN:think.v.03		penser
 PWN:third.s.01		troisième
+PWN:thirst.v.01		soif
 PWN:thorax.n.02		poitrine
 PWN:thousand.s.01		mille
 PWN:thrash.v.06		battre le ble
@@ -1313,6 +1371,7 @@ PWN:twelve.s.01		douze
 PWN:twenty.s.01		vingt
 PWN:twice.r.01		deux fois
 PWN:twin.n.01		jumeaux
+PWN:twist.v.04		tordre
 PWN:two.s.01		deux
 PWN:udder.n.01		pis
 PWN:ugly.a.01		laid
@@ -1337,11 +1396,13 @@ PWN:waist.n.01		taille
 PWN:wake_up.v.02		se réveiller, s'eveiller
 PWN:walk.v.01		marcher
 PWN:walking_stick.n.01		canne
+PWN:wall.n.01		mur
 PWN:warm.a.01		chaud
 PWN:wash.v.03		laver
 PWN:wasp.n.02		guêpe
 PWN:water.n.06		eau
 PWN:waterfall.n.01		chûte d'eau, cascade
+PWN:waterskin.n.01		outre
 PWN:wave.n.01		vague
 PWN:weak.a.01		faible
 PWN:weapon.n.01		armes

@@ -7,10 +7,10 @@ PLX:3PL.pro		нуӈартын	nuŋartin
 PLX:3SG M.pro		нуӈан	nuŋan
 PLX:and.cnj		-да̄	daː
 PLX:and.cnj		-дэ	də
-PLX:because of.adp		дярин	d͡ʒarin
-PLX:behind.adp		амарду	amardu
-PLX:behind.adp		амарилӣ	amariliː
-PLX:beside.adp		дага	daɣa
+PLX:because of.pp		дярин	d͡ʒarin
+PLX:behind.pp		амарду	amardu
+PLX:behind.pp		амарилӣ	amariliː
+PLX:beside.pp		дага	daɣa
 PLX:can.v		-дяӈа	d͡ʒaŋa
 PLX:die (from accident).V		бу-мӣ	bumiː
 PLX:everywhere.pro		ӣдӯ-дэ̄	iːduːdəː
@@ -19,13 +19,13 @@ PLX:get sick.V		энунӣл-ми	ənuɲiːlmi
 PLX:get sick.V		энӯн-мӣ	ənuːnmiː
 PLX:how many.pro		о̄кӣ	oːkiː
 PLX:how.pro		о̄н	oːn
-PLX:in front of.adp		дюлэ̄дӯ	d͡ʒuləːduː
+PLX:in front of.pp		дюлэ̄дӯ	d͡ʒuləːduː
 PLX:or.cnj		-гӯ	ɡuː
 PLX:or.cnj		ӈӯ	ŋuː
 PLX:that.pro		тар	tar
 PLX:this.pro		тар	tar
 PLX:this.pro		эр	ər
-PLX:under.adp		хэргидэ̄дӯ	xərɣidəːduː
+PLX:under.pp		хэргидэ̄дӯ	xərɣidəːduː
 PLX:what.pro		э̄кун	əːkun
 PLX:where.pro		ӣдӯ	iːduː
 PLX:where_to.pro		иртыкӣ	irtikiː
@@ -191,7 +191,6 @@ PWN:center.n.01		дулин	dulin
 PWN:center.n.01		уӈурэ̄	uŋurəː
 PWN:chair.n.01		тэгэмкин	təɣəmkin
 PWN:change.v.01		хуӈтуӈ-мӣ	xuŋtuŋmiː
-PWN:change.v.03		дюгэ̄лды̄в-мӣ	d͡ʒuɣəːldiːβmiː
 PWN:character.n.08		буква	bukβa
 PWN:character.n.08		са̄мэлки	saːməlki
 PWN:cheap.a.01		энӣмкӯн	əɲiːmkuːn
@@ -284,6 +283,7 @@ PWN:defend.v.03		элбэт-м	əlbətm
 PWN:deft.s.01		са̄вка	saːβka
 PWN:deity.n.01		сэвэкӣ	səwəkiː
 PWN:deity.n.01		эксэрӣ	əksəriː
+PWN:depart.v.03		ӈэнэ-мӣ	ŋənəmiː
 PWN:descend.v.01		арбадя-мӣ	arbad͡ʒamiː
 PWN:desire.n.01		гэлэ̄н	ɡələːn
 PWN:desire.v.01		гэлэ̄де-мӣ	ɡələːd͡ʒəmiː
@@ -347,6 +347,7 @@ PWN:eleven.s.01		умӯкэ̄ндялэкэ	umuːkəːnd͡ʒaləkə
 PWN:elk.n.01		мо̄ты	moːti
 PWN:elk.n.01		то̄кӣ	toːkiː
 PWN:emerge.v.01		ичэвул-мӣ	it͡ʃəwulmiː
+PWN:employment.n.02		хава̄	xawaː
 PWN:empty.a.01		ко̄ӈӣлма	koːŋiːlma
 PWN:end.n.03		этэн	ətən
 PWN:end.n.09		таму	tamu
@@ -358,6 +359,7 @@ PWN:escape.v.01		туксан-мӣ	tuksanmiː
 PWN:evening.n.01		долболтононӣ	dolboltonoɲiː
 PWN:evening.n.01		сиксэнӣ	siksəɲiː
 PWN:evil.a.01		ме̄вучӣ	mjeːβut͡ʃiː
+PWN:exchange.v.01		дюгэ̄лды̄в-мӣ	d͡ʒuɣəːldiːβmiː
 PWN:exclaim.v.01		е̄кэдэ-мӣ	jeːkədəmiː
 PWN:exclaim.v.01		тэпкэде-мӣ	təpkəd͡ʒəmiː
 PWN:exit.v.01		суру-мӣ	surumiː
@@ -376,7 +378,7 @@ PWN:fall_asleep.v.01		а̄син-мӣ	aːsinmiː
 PWN:fall_asleep.v.01		бурбэ-ми	burbəmi
 PWN:familiar.a.01		са̄ри	saːri
 PWN:family.n.02		дю̄ган	d͡ʒuːɣan
-PWN:far.r.02		горо	ɡoro
+PWN:faraway.s.01		горо	ɡoro
 PWN:fat.n.01		имӯксэ	imuːksə
 PWN:father.n.01		амӣн	amiːn
 PWN:fault.n.06		буруй	buruj
@@ -694,7 +696,7 @@ PWN:near.r.01		дагама	daɣama
 PWN:neck.n.01		никимна	ɲikimna
 PWN:needle.n.03		инмэ	inmə
 PWN:nest.n.01		умук	umuk
-PWN:net_income.n.01		адыл	adil
+PWN:net.n.06		адыл	adil
 PWN:never.r.01		о̄кин-да̄	oːkindaː
 PWN:never.r.01		э̄ласа-да̄	əːlasadaː
 PWN:new.a.01		о̄макта	oːmakta
@@ -1011,9 +1013,9 @@ PWN:tail.n.01		ирги	irɣi
 PWN:take.v.04		га-ми	ɡami
 PWN:talk.v.02		турэ̄тчэ-мӣ	turəːtt͡ʃəmiː
 PWN:taste.n.01		амта	amta
-PWN:taste.v.01		амта-мӣ	amtamiː
-PWN:taste.v.01		амтаксӣдя-мӣ	amtaksiːd͡ʒamiː
-PWN:taste.v.01		депимкэде-мӣ	d͡ʒəpimkəd͡ʒəmiː
+PWN:taste.v.02		амта-мӣ	amtamiː
+PWN:taste.v.02		амтаксӣдя-мӣ	amtaksiːd͡ʒamiː
+PWN:taste.v.02		депимкэде-мӣ	d͡ʒəpimkəd͡ʒəmiː
 PWN:tasty.a.01		алапчу	alapt͡ʃu
 PWN:tasty.a.01		амтачӣ	amtat͡ʃiː
 PWN:tea.n.01		чай	t͡ʃaj
@@ -1082,7 +1084,6 @@ PWN:translate.v.01		толмат-мӣ	tolmatmiː
 PWN:transport.v.02		ӈэнэвде-мӣ	ŋənəβd͡ʒəmiː
 PWN:trap.n.01		ла̄ӈ	laːŋ
 PWN:trap.v.02		дява-мӣ	d͡ʒawamiː
-PWN:travel.v.01		ӈэнэ-мӣ	ŋənəmiː
 PWN:travel.v.01		ӈэнэде-мӣ	ŋənəd͡ʒəmiː
 PWN:tree.n.01		ирэ̄ктэ	irəːktə
 PWN:trouser.n.01		брюки	brjuki
@@ -1163,7 +1164,6 @@ PWN:wood.n.01		дэллэ	dəllə
 PWN:wood.n.01		мо̄	moː
 PWN:word.n.01		турэ̄н	turəːn
 PWN:word.n.01		хэӈкэ	xəŋkə
-PWN:work.n.01		хава̄	xawaː
 PWN:work.v.01		хава̄лдя-мӣ	xawaːld͡ʒamiː
 PWN:worker.n.01		хава̄мнӣ	xawaːmniː
 PWN:world.n.02		буга	buɣa

@@ -7,11 +7,11 @@ PLX:3PL.pro		тэдэ	tɛdɛ
 PLX:3PL.pro		тэдэнэр	tɛdɛnɛr
 PLX:3SG M.pro		өөһэн	œːhɛŋ
 PLX:and.cnj		ба	ba
-PLX:because of.adp		ушарһаа	uʃarhaː
-PLX:behind.adp		хойгуур	xɔjɡuːr
-PLX:behind.adp		хойно	xɔjnɔ
-PLX:beside.adp		хажууда	xaʒuːda
-PLX:beside.adp		шадар	ʃadar
+PLX:because of.pp		ушарһаа	uʃarhaː
+PLX:behind.pp		хойгуур	xɔjɡuːr
+PLX:behind.pp		хойно	xɔjnɔ
+PLX:beside.pp		хажууда	xaʒuːda
+PLX:beside.pp		шадар	ʃadar
 PLX:can.v		шадаха	ʃadaxa
 PLX:die (from accident).V		үхэхэ	yxɛxɛ
 PLX:everywhere.pro		хаа-яана	xaː-jaːna
@@ -19,12 +19,12 @@ PLX:from here.adv		наанаhаа	naːnahaː
 PLX:get sick.V		үбдэхэ	ybdɛxɛ
 PLX:how many.pro		хэды	xɛdʉ
 PLX:how.pro		барагтай	baraktaj
-PLX:in front of.adp		урда	urda
+PLX:in front of.pp		урда	urda
 PLX:or.cnj		али	ali
 PLX:that.pro		тэрэ	tɛrɛ
 PLX:this.pro		энэ	ɛnɛ
-PLX:under.adp		доогуур	dɔːɡuːr
-PLX:under.adp		дорохоно	dɔrɔxɔnɔ
+PLX:under.pp		доогуур	dɔːɡuːr
+PLX:under.pp		дорохоно	dɔrɔxɔnɔ
 PLX:what.pro		юу	juu
 PLX:what.pro		юун	juuŋ
 PLX:where.pro		хаана	xaːna
@@ -196,7 +196,6 @@ PWN:center.n.01		тэг дундахинь	tɛɡ dundaxinʲ
 PWN:center.n.01		тэн	tɛŋ
 PWN:chair.n.01		стул	stul
 PWN:change.v.01		хубилгаха	xubilɡaxa
-PWN:change.v.03		ондоо болохо	ɔndɔː bɔlɔxɔ
 PWN:character.n.08		үзэг	yzɛk
 PWN:cheap.a.01		хямдаар	xjamdaːr
 PWN:cheap.a.01		үнэгүйрөөр	ynɛɡyjrœːr
@@ -294,6 +293,7 @@ PWN:decrease.v.01		хорохо	xɔrɔxɔ
 PWN:defend.v.03		хамгаалха	xamɡaːlxa
 PWN:deft.s.01		шадамар	ʃadamar
 PWN:deity.n.01		дарагша	darakʃa
+PWN:depart.v.03		хүдэлхэ	xydɛlxɛ
 PWN:descend.v.01		бага болохо	baɡa bɔlɔxɔ
 PWN:descend.v.01		уруугаа орохо	uruːɡaː ɔrɔxɔ
 PWN:desire.n.01		хүсэл	xysɛl
@@ -363,6 +363,7 @@ PWN:elk.n.01		хандагай	xandaɡaj
 PWN:emerge.v.01		бии болохо	bii bɔlɔxɔ
 PWN:emerge.v.01		узэгдэхэ	uzɛɡdɛxɛ
 PWN:emerge.v.01		харагдаха	xaraɡdaxa
+PWN:employment.n.02		хүдэлмэри	xydɛlmɛri
 PWN:empty.a.01		хии газар	xii ɡazar
 PWN:empty.a.01		хооһон	xɔːhɔŋ
 PWN:empty.a.01		һула газар	hula ɡazar
@@ -376,6 +377,7 @@ PWN:escape.v.01		гүйжэ ошохо	ɡyjʒɛ ɔʃɔxɔ
 PWN:evening.n.01		үдэшэ	ydɛʃɛ
 PWN:evil.a.01		ууртай	uːrtaj
 PWN:evil.a.01		харатай	xarataj
+PWN:exchange.v.01		ондоо болохо	ɔndɔː bɔlɔxɔ
 PWN:exclaim.v.01		хашхарха	xaʃxarxa
 PWN:exit.v.01		ошохо	ɔʃɔxɔ
 PWN:expensive.a.01		замдаа	zamdaː
@@ -392,7 +394,7 @@ PWN:fall_asleep.v.01		унтаха	untaxa
 PWN:familiar.a.01		танил	tanil
 PWN:family.n.02		айлайхи	ajlajxi
 PWN:family.n.02		гэр бүлэ	ɡɛr bylɛ
-PWN:far.r.02		холын	xɔlʉŋ
+PWN:faraway.s.01		холын	xɔlʉŋ
 PWN:fat.n.01		өөхэн	œːxɛŋ
 PWN:fat.n.01		өөхэнэй тоһон	œːxɛnɛj tɔhɔŋ
 PWN:father.n.01		эсэгэ	ɛsɛɡɛ
@@ -745,7 +747,7 @@ PWN:needle.n.03		зүүн	zyːŋ
 PWN:needle.n.03		тэбэнэ	tɛbɛnɛ
 PWN:nest.n.01		уургай	uːrɡaj
 PWN:nest.n.01		үүр	yːr
-PWN:net_income.n.01		гүльмэ	ɡyʎmɛ
+PWN:net.n.06		гүльмэ	ɡyʎmɛ
 PWN:never.r.01		хэзээшье	xɛzɛːʃʲʲɛ
 PWN:new.a.01		шэнэ	ʃɛnɛ
 PWN:news.n.01		һураг	hurak
@@ -1084,8 +1086,8 @@ PWN:talk.v.02		дуугаралсаха	duːɡaralsaxa
 PWN:talk.v.02		хөөрэлдэхэ	xœːrɛldɛxɛ
 PWN:taste.n.01		амталалга	amtalalɡa
 PWN:taste.n.01		амтан	amtaŋ
-PWN:taste.v.01		амталха	amtalxa
-PWN:taste.v.01		туршаха	turʃaxa
+PWN:taste.v.02		амталха	amtalxa
+PWN:taste.v.02		туршаха	turʃaxa
 PWN:tasty.a.01		амтатай	amtataj
 PWN:tea.n.01		сай	saj
 PWN:teach.v.01		һургаха	hurɡaxa
@@ -1159,7 +1161,6 @@ PWN:translate.v.01		оршуулха	ɔrʃuːlxa
 PWN:transport.v.02		үргэлжэ ябаха	yrɡɛlʒɛ jabaxa
 PWN:trap.n.01		занга	zaŋɡa
 PWN:trap.v.02		бариха	barixa
-PWN:travel.v.01		хүдэлхэ	xydɛlxɛ
 PWN:travel.v.01		ябаха	jabaxa
 PWN:tree.n.01		модон	mɔdɔŋ
 PWN:trouser.n.01		үмдэн	ymdɛŋ
@@ -1250,7 +1251,6 @@ PWN:woman.n.01		эхэнэр	ɛxɛnɛr
 PWN:wood.n.01		модон	mɔdɔŋ
 PWN:wool.n.02		нооһон	nɔːhɔŋ
 PWN:word.n.01		үгэ	yɡɛ
-PWN:work.n.01		хүдэлмэри	xydɛlmɛri
 PWN:work.v.01		хүдэлмэрилхэ	xydɛlmɛrilxɛ
 PWN:worker.n.01		хүдэлмэришэ	xydɛlmɛriʃɛ
 PWN:world.n.02		дэлхэй	dɛlxɛj

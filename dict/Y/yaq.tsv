@@ -9,21 +9,80 @@ PLX:3PL.pro		bempo
 PLX:3SG F.pro		aapo		
 PLX:3SG M.pro		aapo		
 PLX:3SG.pro		aapo		
+PLX:above.pp		bepa		
+PLX:after.pp		chukula		
 PLX:and.cnj		into		
-PLX:behind.adp		amapo		
+PLX:at.pp		-chi		
+PLX:at.pp		-po		
+PLX:be late.v		binwatu		
+PLX:because.cnj		bwe’ituk		
+PLX:behind.pp		amapo		
+PLX:beside.pp		chaka’aku		
+PLX:carry in hand.v		machu’ute		
+PLX:carry on head.v		mobe’ete		
+PLX:carry on shoulder.v		pu’akte		
+PLX:carry under arm.v		sekawaasime		
+PLX:child-in-law.n		mo’one		
+PLX:daughter-in-law (of man).n		jaborai		
+PLX:daughter-in-law (of woman).n		jaborai		
+PLX:day after tomorrow.adv		matchuko		
+PLX:day before yesterday.adv		battuuka		
+PLX:fall silent.v		kopalai		
+PLX:father's brother.n		jabai		
+PLX:father's sister.n		jaaka		
+PLX:father-in-law (of man).n		ase’ebwa		
+PLX:father-in-law (of woman).n		aseka		
+PLX:fermented alcohol.n		ba’ajipo’okoim		
+PLX:fish poison root.n		joyo		
+PLX:fish poison root.n		pajti		
+PLX:fish trap.n		taampa		spa:trampa
+PLX:head hair.n		choonim		
+PLX:how many pieces.pro		jaikim		
+PLX:how much.pro		jaiki		
 PLX:how.pro		jachinia		
 PLX:if.cnj		-ko		
-PLX:in front of.adp		bichapo		
+PLX:in front of.pp		bichapo		
+PLX:in.pp		-po		
+PLX:inside.pp		wajiwa		
+PLX:mother's brother.n		jaabi		
+PLX:mother's sister.n		chi’ila		
+PLX:mother's sister.n		ne’esa		
+PLX:netbag.n		maayam boosa		spa:bolsa de maya
+PLX:nothing.pro		kaita		
+PLX:older sibling.n		abachi		
+PLX:older sibling.n		ako		
+PLX:older sibling.n		jaka yo’owe		
+PLX:older sibling.n		sai		
 PLX:or.cnj		o		spa:o
+PLX:outside.pp		pa’aku		
+PLX:parents-in-law.n		aseka		
+PLX:parents-in-law.n		ase’ebwa		
+PLX:sibling's child.n		asowaara ~ asowaala		
+PLX:sibling's child.n		jabire		
+PLX:sibling's child.n		jakara		
+PLX:sibling's child.n		samali		
+PLX:sibling-in-law.n		jaborai		
+PLX:son-in-law (of man).n		mo’one		
+PLX:son-in-law (of woman).n		mo’one		
+PLX:stab to death.v		kuchi’isoa		spa:cuchillo
+PLX:stab to death.v		soa		
 PLX:that.pro		inimi’i		
 PLX:this.pro		junu’u		
-PLX:under.adp		betuku		
+PLX:under.pp		betuku		
 PLX:what.pro		jita		
+PLX:when.pro		jakko		
 PLX:where.pro		jaksa		
+PLX:which Q.pro		jita		
 PLX:who.pro		jabesa		
 PLX:why.pro		jaisakai		
+PLX:with.pp		naabujtia		
+PLX:without.pp		kaa a weiya		
 PLX:yes.ptcl		jeewi ~ eewi		
 PLX:yes.ptcl		na’aka		
+PLX:younger sibling.n		beme ja’aka		
+PLX:younger sibling.n		pale		
+PLX:younger sibling.n		saila		
+PLX:younger sibling.n		wai		
 PWN:abdomen.n.01		to’ona		
 PWN:above.r.02		mekjikachi		
 PWN:accuse.v.01		jiku’ubwa		
@@ -193,6 +252,7 @@ PWN:braid.v.01		ji’ika
 PWN:brain.n.01		o’oream		
 PWN:brainsick.s.01		kaa suak		
 PWN:brake.v.02		manitua		spa:manear
+PWN:branch.n.03		buja		
 PWN:brave.a.01		emo ouleme		
 PWN:bread.n.01		paanim		spa:pan
 PWN:break.v.05		jamta		
@@ -222,6 +282,7 @@ PWN:burn.v.07		taya
 PWN:bury.v.02		maa’a		
 PWN:bus.n.01		kamion		spa:camión
 PWN:butter.n.01		mantekia		spa:mantequilla
+PWN:butter_knife.n.01		kuchi’im		spa:cuchillo
 PWN:butterfly.n.01		baise’eboli		
 PWN:buttocks.n.01		chobe		
 PWN:button.n.01		booton		spa:botón
@@ -349,6 +410,7 @@ PWN:cover.v.01		jinte
 PWN:cover.v.01		patta		
 PWN:cow.n.01		waakas		spa:vacas
 PWN:coyote.n.01		wo’i		
+PWN:crawl.v.01		waka’ate		
 PWN:crime.n.01		leriito		spa:delito
 PWN:crippled.s.01		ko’okoe		
 PWN:crisscross.n.01		kuus ~ kurus		spa:cruz
@@ -475,6 +537,7 @@ PWN:end.v.01		kikte (2)
 PWN:enough.r.01		bu’u		
 PWN:enter.v.01		kibake		
 PWN:entirely.r.02		jiba		
+PWN:envy.n.01		selaaroa		spa:celar
 PWN:estimate.v.01		ju’une’ea		
 PWN:evening.n.01		bijpaam		spa:víspera
 PWN:ewe.n.03		bwara		
@@ -495,6 +558,7 @@ PWN:faineant.s.01		obe’a
 PWN:faithful.a.01		kaa anoki’ichi		
 PWN:fall.n.01		sawawet meecha		
 PWN:fall.v.01		kom weche		
+PWN:fall.v.23		suulu		
 PWN:family.n.02		yoemia		
 PWN:famine.n.02		tebaure		
 PWN:fan.n.01		abaniiko		spa:abanico
@@ -579,6 +643,8 @@ PWN:forget.v.02		kopta
 PWN:forget.v.02		kopte		
 PWN:forgive.v.01		jiokoe		
 PWN:fork.n.01		teneror		spa:tenedor
+PWN:fork.n.03		nassa’akaria		
+PWN:fork.n.03		taka’aria		
 PWN:four.s.01		kuatro		spa:cuatro
 PWN:four.s.01		naiki		
 PWN:fox.n.01		kawis		
@@ -665,6 +731,7 @@ PWN:happy.a.01		allea
 PWN:hard.a.03		namaka		
 PWN:hare.n.01		paaros		
 PWN:hark_back.v.01		notte		
+PWN:harvest.n.04		jipesuma’i		
 PWN:hate.v.01		omta		
 PWN:have.v.01		jippue		
 PWN:hawk.n.01		taawe		
@@ -685,6 +752,7 @@ PWN:hell.n.04		inpierno		spa:infierno
 PWN:hell.n.04		yoojoara		
 PWN:help.v.01		ania (2)		
 PWN:hen.n.01		totoi jamut		
+PWN:herd.n.01		manara		spa:manada
 PWN:herder.n.02		kapyeo		spa:cabrero
 PWN:here.r.01		junumu’u		
 PWN:heron.n.02		baawo’i		
@@ -746,7 +814,6 @@ PWN:island.n.01		chopo’oria
 PWN:itch.n.03		elesikia		
 PWN:jaguar.n.01		ousei		
 PWN:jaw.n.01		tabawasa’im		
-PWN:jealousy.n.01		selaaroa		spa:celar
 PWN:jewel.n.01		jooyam		spa:joya
 PWN:join.v.02		nautoja		
 PWN:judge.n.01		joes		spa:juez
@@ -769,7 +836,6 @@ PWN:knead.v.01		kitta
 PWN:knee.n.01		tonom		
 PWN:kneel.v.01		tonommea japte		
 PWN:kneel.v.01		tonommea kikte		
-PWN:knife.n.01		kuchi’im		spa:cuchillo
 PWN:knife.n.01		kuchi’im		spa:cuchillo
 PWN:knot.n.02		tenko’i		
 PWN:know.v.01		ju’unea		
@@ -1037,13 +1103,12 @@ PWN:poet.n.01		tu’uli nokame
 PWN:pointed.a.01		bwawisibulai		
 PWN:poison.n.01		joyo		
 PWN:poison.n.01		pajti		
-PWN:pole.n.01		pojte (2)		spa:poste
 PWN:police.n.01		polisiia		spa:policía
 PWN:poncho.n.01		joronwom		spa:jorongo
 PWN:poor.a.02		poloobe		spa:pobre
 PWN:populate.v.01		jo’ak		
-PWN:port.n.01		pueto		spa:puerto
 PWN:position.n.01		jakria		
+PWN:post.n.04		pojte (2)		spa:poste
 PWN:postage.n.02		ejtampia		spa:estampilla
 PWN:postcard.n.01		taajeta		spa:tarjeta
 PWN:pot.n.01		soto’i		
@@ -1126,6 +1191,7 @@ PWN:ring.n.08		aniilio		spa:anillo
 PWN:ripe.a.01		momoi		
 PWN:rise.v.16		ja’amu		
 PWN:road.n.01		kareteera		spa:carretera
+PWN:roadrunner.n.01		taruk		
 PWN:rock.n.01		teta		
 PWN:roll.v.14		biakta		
 PWN:roof.n.01		bepa’aria		
@@ -1168,6 +1234,7 @@ PWN:screwdriver.n.01		resarmaroorim		spa:desarmador
 PWN:sculptor.n.01		ejkultoor		spa:escultor
 PWN:scythe.n.01		oosam		spa:hoz
 PWN:sea.n.01		baawe		
+PWN:seaport.n.01		pueto		spa:puerto
 PWN:search.v.01		jariwa		
 PWN:season.n.02		metkuaktia		
 PWN:second.s.01		woiria		
@@ -1188,6 +1255,7 @@ PWN:shame.n.01		tiiwe
 PWN:shark.n.01		tamekame		
 PWN:sharp.a.09		bwaawi		
 PWN:shears.n.01		chaptiam		
+PWN:shed.n.01		raanja		spa:granja
 PWN:sheep.n.01		bwara		
 PWN:shelf.n.01		repiisa		spa:repisa
 PWN:shine.v.02		beojtachichi’ite		
@@ -1217,7 +1285,6 @@ PWN:sit_down.v.01		joote
 PWN:sit_down.v.01		yejte		
 PWN:six.s.01		busani		
 PWN:six.s.01		seis		spa:seis
-PWN:skid.v.04		suulu		
 PWN:skin.v.04		besuma		
 PWN:skirt.n.02		ko’arim		
 PWN:skull.n.01		koba ota		
@@ -1354,10 +1421,11 @@ PWN:tail.n.01		bwasia
 PWN:tailor.n.01		tajo’ota jojoame		
 PWN:take.v.04		nu’e		
 PWN:tall.a.01		teebe		
+PWN:tamale.n.02		nojim		
 PWN:tan.v.01		emo taya		
 PWN:tan.v.01		taya		
-PWN:taste.v.01		kiale		
-PWN:taste.v.01		tu’ure		
+PWN:taste.v.02		kiale		
+PWN:taste.v.02		tu’ure		
 PWN:tax.n.01		impuejtom		spa:impuesto
 PWN:tea.n.01		te		spa:té
 PWN:teach.v.01		majta		
@@ -1387,6 +1455,7 @@ PWN:thing.n.12		jita
 PWN:think.v.02		jumaktule		
 PWN:think.v.03		ea		
 PWN:third.s.01		bajiria		
+PWN:thirst.v.01		ba’a muuke		
 PWN:thorax.n.02		tawi		
 PWN:thousand.s.01		miil		spa:mil
 PWN:thrash.v.06		jichiwe		
@@ -1444,6 +1513,7 @@ PWN:twenty.s.01		beinte		spa:veinte
 PWN:twenty.s.01		senu takaa		
 PWN:twice.r.01		woisia		
 PWN:twin.n.01		wo’orim		
+PWN:twist.v.04		totta		
 PWN:two.s.01		los ~ dos		spa:dos
 PWN:two.s.01		woi		
 PWN:udder.n.01		pipim		
@@ -1475,6 +1545,7 @@ PWN:wake_up.v.02		busa
 PWN:walk.v.01		kaate (2)		
 PWN:walk.v.01		weye		
 PWN:walking_stick.n.01		baara		spa:vara
+PWN:wall.n.01		sapti		
 PWN:warm.a.01		suka		
 PWN:wash.v.03		baksia		
 PWN:wasp.n.02		bitaachi		

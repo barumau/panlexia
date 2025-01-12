@@ -7,24 +7,66 @@ PLX:2PL.pro		ustedes
 PLX:2SG.pro		tú, usted
 PLX:3PL.pro		ellos, ellas
 PLX:3SG.pro		él/ella/ello
+PLX:Solanum oblongifolium.n		pigala
+PLX:Vaccinium mortinia.n		mortiño
+PLX:after.pp		después de
 PLX:and.cnj		y
-PLX:behind.adp		atrás, detrás de
+PLX:at.pp		a, en
+PLX:be late.v		demorar
+PLX:because.cnj		porque
+PLX:behind.pp		atrás, detrás de
+PLX:beside.pp		al lado de
+PLX:carry in hand.v		llevar en la mano
+PLX:carry on head.v		llevar sobre la cabeza
+PLX:carry on shoulder.v		llevar a la espalda/ en el hombro
+PLX:carry under arm.v		llevar bajo el brazo
+PLX:daughter-in-law (of man).n		nuera (de hombre)
+PLX:daughter-in-law (of woman).n		nuera (de mujer)
+PLX:day after tomorrow.adv		pasado mañana
+PLX:day before yesterday.adv		anteayer
+PLX:fall silent.v		callarse
+PLX:father's brother.n		hermano (del padre)
+PLX:father's sister.n		hermana (del padre)
+PLX:father-in-law (of man).n		suegro (de hombre)
+PLX:father-in-law (of woman).n		suegro (de mujer)
+PLX:fermented alcohol.n		bebida fermentada
+PLX:fish poison root.n		veneno (raíz), barbasco
+PLX:fish trap.n		nasa
+PLX:head hair.n		cabello, pelo
+PLX:how many pieces.pro		¿cuántos?
+PLX:how much.pro		¿cuánto?
 PLX:how.pro		¿cómo?
 PLX:if.cnj		si
-PLX:in front of.adp		delantero, delante de
+PLX:in front of.pp		delantero, delante de
+PLX:in.pp		en
+PLX:inside.pp		adentro
+PLX:men's house.n		casa de hombres
+PLX:mother's brother.n		hermano (de la madre)
+PLX:mother's sister.n		hermana (de la madre)
+PLX:mother-in-law (of man).n		suegra (de hombre)
+PLX:mother-in-law (of woman).n		suegra (de mujer)
+PLX:netbag.n		bolsa de malla
 PLX:or.cnj		o
-PLX:under.adp		debajo
+PLX:outside.pp		afuera, exterior
+PLX:son-in-law (of man).n		yerno(de hombre)
+PLX:son-in-law (of woman).n		yerno (de mujer)
+PLX:stab to death.v		apuñalar
+PLX:under.pp		debajo
 PLX:what.pro		¿qué?
+PLX:when.pro		¿cuándo?
 PLX:where.pro		¿dónde?
+PLX:which Q.pro		¿cuál?
 PLX:who.pro		¿quién?
 PLX:why.pro		¿por qué?
 PLX:yes.ptcl		sí
 PWN:abdomen.n.01		barriga
 PWN:above.r.02		alto
+PWN:accompany.v.02		acompañar
 PWN:accuse.v.01		acusar, denunciar
 PWN:acorn.n.01		bellota
 PWN:acquit.v.01		absolver,exculpar
 PWN:act.v.02		hacer
+PWN:addle.v.01		embrollar
 PWN:address.n.03		pronunciar un discurso
 PWN:admit.v.01		admitir, confesar,reconocer
 PWN:adobe.n.02		adobe
@@ -119,6 +161,7 @@ PWN:beggar.n.01		mendigo
 PWN:begin.v.03		empezar
 PWN:believe.v.01		creer
 PWN:belt.n.02		cinturón,faja
+PWN:bench.n.01		banco
 PWN:beverage.n.01		bebida
 PWN:big_brother.n.02		hermano mayor
 PWN:big_sister.n.01		hermana mayor
@@ -165,6 +208,7 @@ PWN:braid.n.01		trenzar
 PWN:braid.v.01		tejer, trenzar
 PWN:brain.n.01		cerebro, sesos
 PWN:brainsick.s.01		loco
+PWN:branch.n.03		rama
 PWN:brave.a.01		valiente
 PWN:bread.n.01		pan
 PWN:break.v.05		quebrar
@@ -189,6 +233,7 @@ PWN:burn.v.03		arder
 PWN:burn.v.07		quemar
 PWN:bury.v.02		sepultar
 PWN:butter.n.01		manteca, mantequilla
+PWN:butter_knife.n.01		cuchillo (para cortar comida)
 PWN:butterfly.n.01		mariposa
 PWN:buttocks.n.01		nalgas,trasero
 PWN:button.n.01		botón
@@ -292,6 +337,7 @@ PWN:cousin.n.01		primo/prima
 PWN:cover.v.01		cubrir
 PWN:cow.n.01		vaca
 PWN:coyote.n.01		coyote
+PWN:crawl.v.01		gatear
 PWN:crippled.s.01		lisiado
 PWN:crisscross.n.01		cruz
 PWN:crooked.a.01		torcido
@@ -394,6 +440,7 @@ PWN:end.v.01		terminar, detenerse
 PWN:enough.r.01		bastante, suficiente
 PWN:enter.v.01		entrar
 PWN:entirely.r.02		solo, solamente
+PWN:envy.n.01		envidia, celos
 PWN:estimate.v.01		adivinar,acertar
 PWN:evening.n.01		vísperas, noche
 PWN:ewe.n.03		oveja
@@ -413,6 +460,7 @@ PWN:faineant.s.01		perezoso
 PWN:faithful.a.01		fiel
 PWN:fall.n.01		otoño
 PWN:fall.v.01		caer
+PWN:fall.v.23		resbalar
 PWN:family.n.02		familia
 PWN:famine.n.02		hambre
 PWN:fan.n.01		abanico
@@ -488,6 +536,7 @@ PWN:forge.v.01		fraguar
 PWN:forget.v.02		olvidar
 PWN:forgive.v.01		perdonar
 PWN:fork.n.01		tenedor
+PWN:fork.n.03		rama bifurcada
 PWN:fortress.n.01		fortaleza
 PWN:four.s.01		cuatro
 PWN:fox.n.01		zorro
@@ -554,6 +603,7 @@ PWN:happy.a.01		alegre
 PWN:hard.a.03		duro
 PWN:hare.n.01		liebre
 PWN:hark_back.v.01		volver
+PWN:harvest.n.04		cosecha
 PWN:hate.v.01		odiar
 PWN:have.v.01		tener
 PWN:hawk.n.01		gavilán, halcón
@@ -599,6 +649,7 @@ PWN:hour.n.01		hora
 PWN:house.n.01		casa
 PWN:hovel.n.01		cabaña,choza
 PWN:howl.v.02		aullar
+PWN:hummingbird.n.01		picaflor
 PWN:hundred.s.01		ciento,cien
 PWN:hungry.a.01		hambre
 PWN:hunt.v.01		cazar
@@ -624,7 +675,6 @@ PWN:iron.n.01		hierro
 PWN:island.n.01		isla
 PWN:itch.n.03		comezón
 PWN:jaw.n.01		mandíbula
-PWN:jealousy.n.01		envidia, celos
 PWN:jewel.n.01		joya
 PWN:join.v.02		juntar
 PWN:judge.n.01		juez
@@ -643,7 +693,6 @@ PWN:knead.v.01		amasar
 PWN:knee.n.01		rodilla
 PWN:kneel.v.01		arrodillarse
 PWN:knife.n.01		cuchillo (herramienta)
-PWN:knife.n.01		cuchillo (para cortar comida)
 PWN:knot.n.02		nudo
 PWN:know.v.01		saber
 PWN:ladder.n.01		escalera
@@ -660,6 +709,7 @@ PWN:last.v.01		durar
 PWN:late.r.01		tarde
 PWN:laugh.v.01		reír
 PWN:law.n.01		ley
+PWN:lawyer.n.01		abogado
 PWN:lead.n.02		plomo
 PWN:lead.v.01		guiar
 PWN:leaf.n.01		hoja
@@ -703,6 +753,7 @@ PWN:low_tide.n.01		bajamar
 PWN:luminosity.n.01		luz
 PWN:lunch.n.01		almuerzo
 PWN:lung.n.01		pulmón
+PWN:lupine.n.01		chocho
 PWN:magic.n.01		brujería, hechicería
 PWN:mainland.n.01		continente
 PWN:make.v.49		orinar
@@ -835,6 +886,7 @@ PWN:pay.v.01		pagar
 PWN:peace.n.01		paz
 PWN:peak.n.04		cima
 PWN:pen.n.01		pluma
+PWN:pencil.n.01		lápiz
 PWN:penis.n.01		pene
 PWN:pepper.n.03		pimienta
 PWN:perjury.n.01		perjurio
@@ -847,6 +899,7 @@ PWN:pillow.n.01		almohada
 PWN:pinch.v.01		pellizcar
 PWN:pine.n.01		pino
 PWN:pipe.n.01		pipa
+PWN:pitch.n.06		brea
 PWN:pitcher.n.02		cántaro, jarro
 PWN:pitchfork.n.01		horqueta
 PWN:plain.n.01		pampa, llano
@@ -861,12 +914,11 @@ PWN:pocket.n.01		bolsillo
 PWN:poet.n.01		poeta
 PWN:pointed.a.01		puntiagudo
 PWN:poison.n.01		veneno
-PWN:pole.n.01		poste
 PWN:poncho.n.01		poncho,ruana
 PWN:poor.a.02		pobre
 PWN:populate.v.01		habitar
-PWN:port.n.01		puerto
 PWN:position.n.01		lugar
+PWN:post.n.04		poste
 PWN:pot.n.01		olla
 PWN:potato.n.01		papa
 PWN:potter.n.01		alfarero
@@ -914,6 +966,7 @@ PWN:raw.a.03		crudo
 PWN:razor.n.01		navaja de afeitar
 PWN:read.v.01		leer
 PWN:ready.a.01		listo
+PWN:receive.v.01		recibir
 PWN:red.s.01		rojo
 PWN:reef.n.01		arrecife
 PWN:refund.v.01		devolver
@@ -924,6 +977,7 @@ PWN:remainder.n.01		sobras
 PWN:remember.v.01		recordar,acordarse
 PWN:repent.v.02		lamentar
 PWN:rescue.v.01		salvar
+PWN:respect.v.01		respetar
 PWN:rest.v.05		descansar
 PWN:rib.n.02		costilla
 PWN:rice.n.02		arroz
@@ -935,6 +989,7 @@ PWN:ring.n.08		anillo, sortija
 PWN:ripe.a.01		maduro
 PWN:rise.v.16		ascender
 PWN:road.n.01		carretera
+PWN:roadrunner.n.01		correcaminos
 PWN:rock.n.01		piedra, roca
 PWN:roll.v.14		rodar, arrollar, enrollar
 PWN:roof.n.01		techo
@@ -973,6 +1028,7 @@ PWN:scrape.v.01		raspar
 PWN:sculptor.n.01		escultor
 PWN:scythe.n.01		hoz, guadaña
 PWN:sea.n.01		mar
+PWN:seaport.n.01		puerto
 PWN:search.v.01		buscar
 PWN:season.n.02		estación
 PWN:second.s.01		segundo
@@ -993,6 +1049,7 @@ PWN:shame.n.01		vergüenza
 PWN:shark.n.01		tiburón
 PWN:sharp.a.09		afilado, aguzado, filoso
 PWN:shears.n.01		tijeras
+PWN:shed.n.01		casa de huerta, granja
 PWN:sheep.n.01		oveja
 PWN:shelf.n.01		repisa
 PWN:shell.n.10		valva
@@ -1020,7 +1077,6 @@ PWN:sink.v.01		hundir
 PWN:sister.n.01		hermana
 PWN:sit_down.v.01		sentar
 PWN:six.s.01		seis
-PWN:skid.v.04		resbalar
 PWN:skin.v.04		pelar
 PWN:skirt.n.02		falda
 PWN:skull.n.01		cráneo, calavera
@@ -1074,6 +1130,7 @@ PWN:spleen.n.01		bazo
 PWN:spoon.n.01		cuchara
 PWN:spring.n.01		primavera
 PWN:sprinkle.v.02		salpicar
+PWN:spur.n.04		espuela
 PWN:square.n.04		cuadrado
 PWN:squash.n.02		zapallo, calabaza,calabazo
 PWN:squat.v.01		agacharse, ponerse en cuclillas
@@ -1132,7 +1189,7 @@ PWN:tail.n.01		cola
 PWN:tailor.n.01		sastre
 PWN:take.v.04		tomar
 PWN:tall.a.01		alto
-PWN:taste.v.01		gustar, saborear
+PWN:taste.v.02		gustar, saborear
 PWN:tattoo.n.02		tatuaje
 PWN:tax.n.01		impuesto, tributo
 PWN:teach.v.01		enseñar
@@ -1153,6 +1210,7 @@ PWN:thing.n.12		cosa
 PWN:think.v.02		creer,suponer
 PWN:think.v.03		pensar
 PWN:third.s.01		tercero
+PWN:thirst.v.01		sed
 PWN:thorax.n.02		pecho
 PWN:thousand.s.01		mil
 PWN:thrash.v.06		desgranar
@@ -1201,6 +1259,7 @@ PWN:twelve.s.01		doce
 PWN:twenty.s.01		veinte
 PWN:twice.r.01		dos veces
 PWN:twin.n.01		gemelos
+PWN:twist.v.04		torcer
 PWN:two.s.01		dos
 PWN:udder.n.01		ubre
 PWN:ugly.a.01		feo
@@ -1212,6 +1271,7 @@ PWN:up.r.01		arriba
 PWN:uterus.n.01		matriz,vientre
 PWN:valley.n.01		valle
 PWN:vegetable.n.01		legumbres
+PWN:vetch.n.01		vicia
 PWN:victory.n.01		victoria
 PWN:village.n.02		pueblo
 PWN:vine.n.01		enredadera,bejuco, liana
@@ -1223,6 +1283,7 @@ PWN:waist.n.01		cintura
 PWN:wake_up.v.02		despertarse
 PWN:walk.v.01		caminar
 PWN:walking_stick.n.01		bastón, bordón
+PWN:wall.n.01		pared, muro
 PWN:warm.a.01		caliente
 PWN:wash.v.03		lavar
 PWN:wasp.n.02		avispa

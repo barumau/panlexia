@@ -7,9 +7,9 @@ PLX:3PL.pro		viņas	viɲɑs
 PLX:3PL.pro		viņi	viɲi
 PLX:3SG M.pro		viņš	viɲʃ
 PLX:and.cnj		un	un
-PLX:because of.adp		pēc	peːt͡s
-PLX:behind.adp		aiz	ai̯z
-PLX:beside.adp		līdzās	liːd͡zɑːs
+PLX:because of.pp		pēc	peːt͡s
+PLX:behind.pp		aiz	ai̯z
+PLX:beside.pp		līdzās	liːd͡zɑːs
 PLX:can.v		prast	brɑst
 PLX:die (from accident).V		aiziet bojā	ai̯ziɛ̯t buɔ̯jɑː
 PLX:die (from accident).V		apsprāgt	ɑpsbrɑːkt
@@ -18,11 +18,11 @@ PLX:from here.adv		no šejienes	nuɔ̯ ʃɛjiɛ̯nɛs
 PLX:get sick.V		sasirgt	sɑsːirkt
 PLX:how many.pro		cik	t͡sik
 PLX:how.pro		kā	kɑː
-PLX:in front of.adp		priekš	briɛ̯kʃ
+PLX:in front of.pp		priekš	briɛ̯kʃ
 PLX:or.cnj		jeb	jɛb
 PLX:that.pro		tas	tɑs
 PLX:this.pro		šis	ʃis
-PLX:under.adp		zem	zɛm
+PLX:under.pp		zem	zɛm
 PLX:what.pro		kas	kɑs
 PLX:where.pro		kur	kur
 PLX:where_to.pro		kurp	kurp
@@ -186,7 +186,6 @@ PWN:cavil.v.01		rāties	rɑːtiɛ̯s
 PWN:center.n.01		vidus	vidus
 PWN:chair.n.01		krēsls	ɡræːzls
 PWN:change.v.01		mainīt	mai̯niːt
-PWN:change.v.03		mainīties	mai̯niːtiɛ̯s
 PWN:character.n.08		burts	burts
 PWN:cheap.a.01		lēts	læːts
 PWN:cheek.n.01		vaigs	vai̯ks
@@ -294,6 +293,7 @@ PWN:decrease.v.01		noplakt	nuɔ̯blɑkt
 PWN:defend.v.03		aizstāvēt	ai̯sːtɑːveːt
 PWN:deft.s.01		manīgs	mɑniːks
 PWN:deity.n.01		dievs	diɛ̯fs
+PWN:depart.v.03		virzīties	virziːtiɛ̯s
 PWN:descend.v.01		kristies	ɡristiɛ̯s
 PWN:desire.n.01		kāre	kɑːrɛ
 PWN:desire.v.01		gribēt	ɡribeːt
@@ -356,6 +356,7 @@ PWN:elbow.n.01		elkonis	ælkuɔ̯nis
 PWN:eleven.s.01		vienpadsmit	viɛ̯npɑtsmit
 PWN:elk.n.01		alnis	ɑlnis
 PWN:emerge.v.01		parādīties	pɑrɑːdiːtiɛ̯s
+PWN:employment.n.02		darbs	dɑrps
 PWN:empty.a.01		tukšs	tukʃː
 PWN:end.n.03		beigas	bɛi̯ɡɑs
 PWN:end.n.09		gals	ɡɑls
@@ -369,6 +370,7 @@ PWN:escape.v.01		aizbēgt	ai̯zbeːkt
 PWN:evening.n.01		vakars	vɑkːɑrs
 PWN:evil.a.01		negants	nɛɡɑnts
 PWN:evil.a.01		ļauns	ʎau̯ns
+PWN:exchange.v.01		mainīties	mai̯niːtiɛ̯s
 PWN:exclaim.v.01		brēkt	breːkt
 PWN:exclaim.v.01		kliegt	ɡliɛ̯kt
 PWN:exit.v.01		aiziet	ai̯ziɛ̯t
@@ -388,7 +390,7 @@ PWN:fall_asleep.v.01		iemigt	iɛ̯mikt
 PWN:familiar.a.01		pazīstams	pɑziːstɑms
 PWN:familiar.a.01		zināms	zinɑːms
 PWN:family.n.02		ģimene	ɟimɛnɛ
-PWN:far.r.02		tāls	tɑːls
+PWN:faraway.s.01		tāls	tɑːls
 PWN:fat.n.01		tauki	tau̯ki
 PWN:father.n.01		tēvs	tæːfs
 PWN:fault.n.06		vaina	vai̯nɑ
@@ -729,7 +731,7 @@ PWN:near.r.01		tuvs	tufs
 PWN:neck.n.01		kakls	kɑɡls
 PWN:needle.n.03		adata	ɑdɑtːɑ
 PWN:nest.n.01		ligzda	liɡzdɑ
-PWN:net_income.n.01		tīkls	tiːɡls
+PWN:net.n.06		tīkls	tiːɡls
 PWN:never.r.01		nemūžam	nɛmuːʒɑm
 PWN:new.a.01		jauns	jau̯ns
 PWN:news.n.01		jaunums	jau̯nums
@@ -1047,7 +1049,7 @@ PWN:take.v.04		paņemt	pɑɲɛmt
 PWN:take.v.04		ņemt	ɲɛmt
 PWN:talk.v.02		norunāt	nuɔ̯runɑːt
 PWN:taste.n.01		garša	ɡɑrʃɑ
-PWN:taste.v.01		nogaršot	nuɔ̯ɡɑrʃuɔ̯t
+PWN:taste.v.02		nogaršot	nuɔ̯ɡɑrʃuɔ̯t
 PWN:tasty.a.01		gards	ɡɑrts
 PWN:tasty.a.01		garšīgs	ɡɑrʃiːks
 PWN:tea.n.01		tēja	teːjɑ
@@ -1119,7 +1121,6 @@ PWN:trap.n.01		lamatas	lɑmɑtːɑs
 PWN:trap.n.01		slazds	zlɑzts
 PWN:trap.v.02		saķert	sɑcːɛrt
 PWN:travel.v.01		iet	iɛ̯t
-PWN:travel.v.01		virzīties	virziːtiɛ̯s
 PWN:tree.n.01		koks	kuɔ̯ks
 PWN:trouser.n.01		bikses	biksɛs
 PWN:true.a.01		patiess	pɑtiɛ̯sː
@@ -1205,7 +1206,6 @@ PWN:wood.n.01		koks	kuɔ̯ks
 PWN:wood.n.01		koksne	kuɔ̯kznɛ
 PWN:wool.n.02		vilna	vilnɑ
 PWN:word.n.01		vārds	vɑːrts
-PWN:work.n.01		darbs	dɑrps
 PWN:work.v.01		darboties	dɑrbuɔ̯tiɛ̯s
 PWN:work.v.01		strādāt	sdrɑːdɑːt
 PWN:worker.n.01		strādnieks	sdrɑːdniɛ̯ks

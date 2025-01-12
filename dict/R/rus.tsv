@@ -7,13 +7,49 @@ PLX:2PL.pro		вы
 PLX:2SG.pro		ты, вы
 PLX:3PL.pro		они
 PLX:3SG.pro		он/она/оно
+PLX:above.pp		над
 PLX:and.cnj		и, а
+PLX:be late.v		замедлять, задерживать
+PLX:because.cnj		потому что
+PLX:beside.pp		рядом, у
+PLX:carry in hand.v		нести на руках
+PLX:carry on head.v		нести на голове
+PLX:carry on shoulder.v		нести на плечах
+PLX:carry under arm.v		нести под мышкой
+PLX:daughter-in-law (of man).n		сноха
+PLX:daughter-in-law (of woman).n		невестка
+PLX:day after tomorrow.adv		послезавтра
+PLX:day before yesterday.adv		позавчера
+PLX:fall silent.v		молчать
+PLX:father's brother.n		брат отца
+PLX:father's sister.n		тетя, сестра отца
+PLX:father-in-law (of man).n		свекор
+PLX:father-in-law (of woman).n		тесть
+PLX:fermented alcohol.n		брага
+PLX:fish poison root.n		рыбий яд (корень)
+PLX:fish trap.n		верша
+PLX:head hair.n		волос (на голове)
+PLX:how many pieces.pro		сколько?
+PLX:how much.pro		сколько?
 PLX:how.pro		как?
 PLX:if.cnj		если
+PLX:inside.pp		в, внутри
+PLX:men's house.n		дом для мужчин
+PLX:mother's brother.n		дядя, брат матери
+PLX:mother's sister.n		тетя, сестра матери
+PLX:mother-in-law (of man).n		свекровь
+PLX:mother-in-law (of woman).n		теща
+PLX:netbag.n		сетчатая сумка
 PLX:or.cnj		или
-PLX:under.adp		под
+PLX:outside.pp		снаружи
+PLX:son-in-law (of man).n		зять
+PLX:son-in-law (of woman).n		зять
+PLX:stab to death.v		заколоть
+PLX:under.pp		под
 PLX:what.pro		что?
+PLX:when.pro		когда?
 PLX:where.pro		где? откуда?
+PLX:which Q.pro		какой?
 PLX:who.pro		кто?
 PLX:why.pro		почему?
 PLX:yes.ptcl		да
@@ -161,6 +197,7 @@ PWN:braid.n.01		коса
 PWN:braid.v.01		ткать
 PWN:brain.n.01		мозг(и)
 PWN:brainsick.s.01		безумный
+PWN:branch.n.03		ветвь,  ветка
 PWN:brave.a.01		смелый, храбрый
 PWN:bread.n.01		хлеб
 PWN:break.v.05		разбить, сломать
@@ -185,6 +222,7 @@ PWN:burn.v.03		гореть
 PWN:burn.v.07		жечь
 PWN:bury.v.02		хоронить
 PWN:butter.n.01		сливочное масло
+PWN:butter_knife.n.01		нож
 PWN:butterfly.n.01		бабочка
 PWN:buttocks.n.01		ягодицы
 PWN:button.n.01		пуговица
@@ -288,6 +326,7 @@ PWN:court.n.10		двор
 PWN:cousin.n.01		двоюродный (-ая) брат (сестра), кузен/кузина
 PWN:cover.v.01		покрывать
 PWN:cow.n.01		корова
+PWN:crawl.v.01		ползти
 PWN:crippled.s.01		хромать
 PWN:crisscross.n.01		крест
 PWN:crooked.a.01		кривой
@@ -391,6 +430,7 @@ PWN:end.v.01		прекращать
 PWN:enough.r.01		достаточно
 PWN:enter.v.01		входить
 PWN:entirely.r.02		один, единственный, только
+PWN:envy.n.01		зависть, ревность
 PWN:estimate.v.01		догадываться
 PWN:evening.n.01		вечер
 PWN:ewe.n.03		овца
@@ -410,6 +450,7 @@ PWN:faineant.s.01		ленивый
 PWN:faithful.a.01		преданный, верный
 PWN:fall.n.01		осень
 PWN:fall.v.01		падать
+PWN:fall.v.23		скользить
 PWN:family.n.02		семья
 PWN:famine.n.02		голод, голодание
 PWN:fan.n.01		веер, вентилятор
@@ -484,6 +525,7 @@ PWN:forge.v.01		ковать
 PWN:forget.v.02		забывать
 PWN:forgive.v.01		прощать
 PWN:fork.n.01		вилка
+PWN:fork.n.03		ветка с развилкой
 PWN:fortress.n.01		крепость
 PWN:four.s.01		четыре
 PWN:fox.n.01		лиса, лисица
@@ -548,6 +590,7 @@ PWN:hang.v.02		повесить
 PWN:happy.a.01		счастливый, радостный
 PWN:hard.a.03		жесткий
 PWN:hark_back.v.01		возвращаться
+PWN:harvest.n.04		урожай
 PWN:hate.v.01		ненавидеть
 PWN:have.v.01		иметь
 PWN:hawk.n.01		ястреб, сокол
@@ -592,6 +635,7 @@ PWN:hot.a.01		горячий, жаркий
 PWN:hour.n.01		час
 PWN:house.n.01		дом
 PWN:hovel.n.01		хижина
+PWN:howl.v.01		реветь
 PWN:howl.v.02		выть
 PWN:hundred.s.01		сто
 PWN:hungry.a.01		голод
@@ -620,7 +664,6 @@ PWN:iron.n.01		железо
 PWN:island.n.01		остров
 PWN:itch.n.03		зуд
 PWN:jaw.n.01		челюсть
-PWN:jealousy.n.01		зависть, ревность
 PWN:jewel.n.01		драгоценный камень, ювелирное изделие
 PWN:join.v.02		соединять, объединять
 PWN:judge.n.01		судья
@@ -638,7 +681,6 @@ PWN:king.n.01		король, правитель
 PWN:knead.v.01		месить (тесто)
 PWN:knee.n.01		колено
 PWN:kneel.v.01		становиться на колени
-PWN:knife.n.01		нож
 PWN:knife.n.01		нож
 PWN:knot.n.02		узел
 PWN:know.v.01		знать
@@ -841,6 +883,7 @@ PWN:pillow.n.01		подушка
 PWN:pinch.v.01		щипать, жать
 PWN:pine.n.01		сосна
 PWN:pipe.n.01		трубка
+PWN:piranha.n.02		пиранья
 PWN:pitcher.n.02		кувшин
 PWN:pitchfork.n.01		вилка, вилы
 PWN:plain.n.01		равнина, поле
@@ -855,12 +898,11 @@ PWN:pocket.n.01		карман
 PWN:poet.n.01		поэт
 PWN:pointed.a.01		остроконечный
 PWN:poison.n.01		яд
-PWN:pole.n.01		столб
 PWN:poncho.n.01		пончо
 PWN:poor.a.02		бедный
 PWN:populate.v.01		проживать, жить
-PWN:port.n.01		гавань, пристань, порт
 PWN:position.n.01		место
+PWN:post.n.04		столб
 PWN:pot.n.01		котелок, кастрюля
 PWN:potato.n.01		картофель
 PWN:potter.n.01		гончар
@@ -964,6 +1006,7 @@ PWN:scrape.v.01		тереть
 PWN:sculptor.n.01		скульптор
 PWN:scythe.n.01		серп, коса
 PWN:sea.n.01		море
+PWN:seaport.n.01		гавань, пристань, порт
 PWN:search.v.01		искать
 PWN:season.n.02		время года
 PWN:second.s.01		второй
@@ -984,6 +1027,7 @@ PWN:shame.n.01		стыд
 PWN:shark.n.01		акула
 PWN:sharp.a.09		острый
 PWN:shears.n.01		ножницы
+PWN:shed.n.01		дачный домик
 PWN:sheep.n.01		овца, баран
 PWN:shelf.n.01		полка
 PWN:shell.n.10		ракушка
@@ -1011,7 +1055,6 @@ PWN:sink.v.01		погружаться в воду, тонуть
 PWN:sister.n.01		сестра
 PWN:sit_down.v.01		садиться, сидеть
 PWN:six.s.01		шесть
-PWN:skid.v.04		скользить
 PWN:skin.v.04		чистить, отчищать (овощи, фрукты)
 PWN:skirt.n.02		юбка
 PWN:skull.n.01		череп
@@ -1122,7 +1165,7 @@ PWN:tail.n.01		хвост
 PWN:tailor.n.01		портной
 PWN:take.v.04		брать
 PWN:tall.a.01		высокий
-PWN:taste.v.01		различать вкус, попробовать
+PWN:taste.v.02		различать вкус, попробовать
 PWN:tattoo.n.02		татуировка
 PWN:tax.n.01		налог
 PWN:teach.v.01		учить, преподавать
@@ -1144,6 +1187,7 @@ PWN:thing.n.12		вещь
 PWN:think.v.02		думать, считать
 PWN:think.v.03		думать, размышлять
 PWN:third.s.01		третий
+PWN:thirst.v.01		жажда
 PWN:thorax.n.02		грудная клетка
 PWN:thousand.s.01		тысяча
 PWN:thrash.v.06		молотить
@@ -1191,6 +1235,7 @@ PWN:twelve.s.01		двенадцать
 PWN:twenty.s.01		двадцать
 PWN:twice.r.01		два раза
 PWN:twin.n.01		близнецы
+PWN:twist.v.04		скручивать
 PWN:two.s.01		два
 PWN:udder.n.01		вымя
 PWN:ugly.a.01		уродливый
@@ -1213,6 +1258,7 @@ PWN:waist.n.01		талия
 PWN:wake_up.v.02		просыпаться
 PWN:walk.v.01		ходить
 PWN:walking_stick.n.01		посох
+PWN:wall.n.01		стена
 PWN:warm.a.01		теплый
 PWN:wash.v.03		мыть
 PWN:wasp.n.02		оса

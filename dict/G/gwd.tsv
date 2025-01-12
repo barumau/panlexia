@@ -7,19 +7,58 @@ PLX:3PL.pro		ʔusunɗe
 PLX:3SG F.pro		ʔise		
 PLX:3SG M.pro		ʔiso		
 PLX:3SG.pro		ʔiso (M)/ ʔise (F)		
+PLX:above.pp		saappe		
+PLX:after.pp		tuupe=tta		
 PLX:and.cnj		=pa		
-PLX:behind.adp		kala		
+PLX:at.pp		=ma		
+PLX:be late.v		keet		
+PLX:because.cnj		mekinnate		amh:məknəyat
+PLX:behind.pp		kala		
+PLX:beside.pp		kapa		
+PLX:carry on shoulder.v		kaakuy		
+PLX:child-in-law.n		ʔinanko		
+PLX:daughter-in-law (of man).n		ʔašinte		
+PLX:daughter-in-law (of woman).n		ʔašinte		
+PLX:day after tomorrow.adv		qamma		
+PLX:day before yesterday.adv		ʔinɗeera		
+PLX:digging stick.n		makkatte		
+PLX:fall silent.v		k’ám pay		
+PLX:father's brother.n		ʔappa ɗamma		
+PLX:father's sister.n		maamma		
+PLX:father-in-law (of man).n		taatte		
+PLX:father-in-law (of woman).n		taatte		
+PLX:fermented alcohol.n		warše		
+PLX:head hair.n		kat’o		
+PLX:how many pieces.pro		meʔ		
+PLX:how much.pro		meʔ		
 PLX:how.pro		mala		
 PLX:if.cnj		payni		
-PLX:in front of.adp		miinatte		
+PLX:in front of.pp		miinatte		
+PLX:in.pp		=ma		
+PLX:inside.pp		kittatte		
+PLX:mother's brother.n		ʔapiya		
+PLX:mother's sister.n		yaaye ɗammay		
+PLX:mother-in-law (of man).n		taattite		
+PLX:mother-in-law (of woman).n		taattite		
+PLX:nothing.pro		ʔolo		
 PLX:or.cnj		=(i)m		
+PLX:outside.pp		ɠintatte		
+PLX:parents-in-law.n		taatte=pa taattite		
+PLX:sibling's child.n		ʔašinko		
+PLX:sibling-in-law.n		seerko		
+PLX:son-in-law (of man).n		ʔašinko		
+PLX:stab to death.v		ɗot		
 PLX:that.pro		=sa		
 PLX:this.pro		=si		
-PLX:under.adp		kala		
+PLX:under.pp		kala		
 PLX:what.pro		moʔo		
+PLX:when.pro		para		
 PLX:where.pro		ʔaxa		
+PLX:which Q.pro		hunka		
 PLX:who.pro		yaha		
 PLX:why.pro		moʔo=nu		
+PLX:with.pp		=tta		
+PLX:without.pp		male		
 PLX:yes.ptcl		ʔee		
 PWN:abdomen.n.01		karʕitto		
 PWN:above.r.02		sikaapa		
@@ -143,6 +182,7 @@ PWN:braid.v.01		koforees
 PWN:brain.n.01		nono		
 PWN:brainsick.s.01		saarakko		
 PWN:brake.v.02		šikkaaraš		
+PWN:branch.n.03		t’aamme		
 PWN:brave.a.01		karmitto		
 PWN:bread.n.01		ɗilanko		
 PWN:break.v.05		konɗi		
@@ -247,6 +287,7 @@ PWN:country.n.02		piye
 PWN:court.n.10		ɠinte		
 PWN:cover.v.01		ʔurkuy		
 PWN:cow.n.01		loʔo		
+PWN:crawl.v.01		sitam		
 PWN:crippled.s.01		toonnakko		
 PWN:crisscross.n.01		palante		
 PWN:crooked.a.01		toonakko		
@@ -357,6 +398,7 @@ PWN:fail.v.03		kaat		amh:kadä
 PWN:faineant.s.01		sakitte		
 PWN:fall.n.01		pusullo		
 PWN:fall.v.01		puʕ		
+PWN:fall.v.23		šotaɗ		
 PWN:family.n.02		ʔahke		
 PWN:famine.n.02		puffaʕe		
 PWN:fan.v.03		xapul		
@@ -417,6 +459,7 @@ PWN:footprint.n.01		hopanto
 PWN:forbid.v.01		ɗawri		
 PWN:forest.n.01		horro		
 PWN:forget.v.02		taymooɗ		
+PWN:fork.n.03		t’aqo		
 PWN:four.s.01		salah		
 PWN:fragrant.a.01		ʔošoʕa		
 PWN:frequently.r.01		kuyaʕko kaʕasay		
@@ -468,6 +511,7 @@ PWN:happy.a.01		xasooɗ
 PWN:hard.a.03		xaha		
 PWN:hare.n.01		kupale		
 PWN:hark_back.v.01		hol		
+PWN:harvest.n.04		ʔawšašo		
 PWN:hate.v.01		šikki		
 PWN:have.v.01		šeek		
 PWN:hawk.n.01		sooripakko		
@@ -738,11 +782,11 @@ PWN:plow.v.01		koɗ
 PWN:pocket.n.01		kiise		amh:kis
 PWN:pointed.a.01		ħo t’ulluho		
 PWN:poison.n.01		laahko		
-PWN:pole.n.01		tukko		
 PWN:police.n.01		polisitto		eng:police
 PWN:poor.a.02		teekolakko		
 PWN:populate.v.01		ʕak		
 PWN:position.n.01		hayto		
+PWN:post.n.04		tukko		
 PWN:pot.n.01		sikte		
 PWN:potato.n.01		tinniša		amh:dənnəčč
 PWN:potter.n.01		hawɗatto sikkete		
@@ -871,7 +915,6 @@ PWN:sing.v.02		qaallaɗ
 PWN:sink.v.01		loqaɗ		
 PWN:sit_down.v.01		ʕakkaɗ		
 PWN:six.s.01		tappi		
-PWN:skid.v.04		šotaɗ		
 PWN:skin.v.04		feet’		
 PWN:skirt.n.02		parante		
 PWN:skull.n.01		pukkaʕte		
@@ -976,7 +1019,7 @@ PWN:tailor.n.01		hawɗatto
 PWN:take.v.04		ʔakki		
 PWN:tall.a.01		sikaapa		
 PWN:tan.v.01		šukkaɗ		
-PWN:taste.v.01		peerri		
+PWN:taste.v.02		peerri		
 PWN:tattoo.n.02		hak’e		
 PWN:tax.n.01		k’arat’t’o		amh:qäräṭ
 PWN:tea.n.01		haaše		
@@ -1002,6 +1045,7 @@ PWN:thing.n.12		ʔolokko
 PWN:think.v.02		ʔasaap		amh:assäbä
 PWN:think.v.03		ʔasaap		amh:assäbä
 PWN:third.s.01		ʔishay		
+PWN:thirst.v.01		teepooɗ		
 PWN:thorax.n.02		ʔeero		
 PWN:thousand.s.01		kuma		
 PWN:thrash.v.06		yooqa		
@@ -1046,6 +1090,7 @@ PWN:twelve.s.01		huɗɗa=pa lakki
 PWN:twenty.s.01		huɗanko lakke		
 PWN:twice.r.01		lakke lakke		
 PWN:twin.n.01		sallahme		
+PWN:twist.v.04		piir		
 PWN:two.s.01		lakki		
 PWN:udder.n.01		kante		
 PWN:udder.n.01		ʕaɗunko		
@@ -1068,6 +1113,7 @@ PWN:waist.n.01		kuuɗe
 PWN:wake_up.v.02		haʕ		
 PWN:walk.v.01		ʔašša		
 PWN:walking_stick.n.01		tollakko		
+PWN:wall.n.01		ɠaɗo		
 PWN:wash.v.03		šoh		
 PWN:wasp.n.02		ʔamure		
 PWN:water.n.06		ʕanɗe		

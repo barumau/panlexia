@@ -7,13 +7,13 @@ PLX:3PL.pro		oni	ɔ̌ni
 PLX:3SG M.pro		on	ɔ̂ːn
 PLX:and.cnj		i	i
 PLX:and.cnj		te	tɛ̂
-PLX:because of.adp		radi	râːdi
-PLX:because of.adp		zbog	zbɔ̂ɡ
-PLX:behind.adp		iza	ǐza
-PLX:behind.adp		za	za
-PLX:beside.adp		kraj	kraj
-PLX:beside.adp		pokraj	pɔ̂kraj
-PLX:beside.adp		pored	pɔrɛd
+PLX:because of.pp		radi	râːdi
+PLX:because of.pp		zbog	zbɔ̂ɡ
+PLX:behind.pp		iza	ǐza
+PLX:behind.pp		za	za
+PLX:beside.pp		kraj	kraj
+PLX:beside.pp		pokraj	pɔ̂kraj
+PLX:beside.pp		pored	pɔrɛd
 PLX:can.v		moći	mɔ̌t͡ɕi
 PLX:die (from accident).V		skapati	skâpati
 PLX:everywhere.pro		svagdje	sʋâɡdjɛ
@@ -23,14 +23,14 @@ PLX:get sick.V		oboljeti se	ɔbɔ̌ʎɛti sɛ
 PLX:get sick.V		razboljeti se	razbɔ̌ʎɛti sɛ
 PLX:how many.pro		koliko	kɔ̂likɔ
 PLX:how.pro		kako	kâkɔ
-PLX:in front of.adp		ispred	isprɛd
-PLX:in front of.adp		pred	prɛd
+PLX:in front of.pp		ispred	isprɛd
+PLX:in front of.pp		pred	prɛd
 PLX:or.cnj		ili	îli
 PLX:that.pro		ono	ɔ̌nɔː
 PLX:that.pro		to	tɔ̂ː
 PLX:this.pro		ovo	ɔ̌ʋɔː
-PLX:under.adp		ispod	ispɔd
-PLX:under.adp		pod	pɔd
+PLX:under.pp		ispod	ispɔd
+PLX:under.pp		pod	pɔd
 PLX:what.pro		što	ʃtɔ̂
 PLX:where.pro		gdje	ɡdjɛ̂
 PLX:where_to.pro		kamo	kâmɔ
@@ -208,7 +208,6 @@ PWN:center.n.01		sredina	srɛdǐna
 PWN:chair.n.01		stolac	stɔ̌lat͡s
 PWN:chair.n.01		stolica	stɔ̌lit͡sa
 PWN:change.v.01		promijeniti	prɔmijɛ̌niti
-PWN:change.v.03		mijenjati se	mijɛ̌ɲati sɛ
 PWN:character.n.08		slovo	slɔ̂ʋɔ
 PWN:cheap.a.01		jeftin	jɛ̂ftin
 PWN:cheek.n.01		obraz	ɔ̌braz
@@ -306,6 +305,8 @@ PWN:decrease.v.01		opasti	ɔ̌pasti
 PWN:defend.v.03		obraniti	ɔbrǎːniti
 PWN:deft.s.01		vješt	ʋjɛ̂ʃt
 PWN:deity.n.01		bog	bɔ̂ːɡ
+PWN:depart.v.03		gibati se	ɡǐːbati sɛ
+PWN:depart.v.03		kretati se	krɛ̌ːtati sɛ
 PWN:descend.v.01		spustiti se	spǔstiti sɛ
 PWN:descend.v.01		trgnuti	tr̩̂ɡnuti
 PWN:desire.n.01		volja	ʋɔ̂ʎa
@@ -377,6 +378,8 @@ PWN:elbow.n.01		lakat	lâːkat
 PWN:eleven.s.01		jedanaest	jɛdǎnaɛst
 PWN:elk.n.01		los	lɔ̂s
 PWN:emerge.v.01		pojaviti se	pɔjǎːʋiti sɛ
+PWN:employment.n.02		posao	pɔ̌saɔ
+PWN:employment.n.02		rad	râːd
 PWN:empty.a.01		prazan	prǎːzan
 PWN:end.n.03		konac	kɔ̌nat͡s
 PWN:end.n.03		kraj	krâːj
@@ -391,6 +394,7 @@ PWN:evening.n.01		veče	ʋɛ̂t͡ʃɛː
 PWN:evening.n.01		večer	ʋɛ̂t͡ʃɛːr
 PWN:evil.a.01		opak	ɔ̂paːk
 PWN:evil.a.01		zao	zâɔ
+PWN:exchange.v.01		mijenjati se	mijɛ̌ɲati sɛ
 PWN:exclaim.v.01		kričati	krǐːt͡ʃati
 PWN:exclaim.v.01		vikati	ʋǐːkati
 PWN:exit.v.01		otići	ɔtǐːt͡ɕi
@@ -410,8 +414,8 @@ PWN:fall_asleep.v.01		zaspati	zǎspati
 PWN:familiar.a.01		poznat	pɔ̂znat
 PWN:family.n.02		obitelj	ɔbǐːtɛʎ
 PWN:family.n.02		porodica	pɔ̌rɔdit͡sa
-PWN:far.r.02		dalek	dǎlɛk
-PWN:far.r.02		daljnji	dâːʎɲiː
+PWN:faraway.s.01		dalek	dǎlɛk
+PWN:faraway.s.01		daljnji	dâːʎɲiː
 PWN:fat.n.01		mast	mâːst
 PWN:fat.n.01		salo	sâlɔ
 PWN:father.n.01		otac	ɔ̌tat͡s
@@ -734,7 +738,7 @@ PWN:near.r.01		blizak	blîzak
 PWN:neck.n.01		vrat	ʋrâːt
 PWN:needle.n.03		igla	ǐɡla
 PWN:nest.n.01		gnijezdo	ɡnijɛ̌zdɔ
-PWN:net_income.n.01		mreža	mrɛ̂ʒa
+PWN:net.n.06		mreža	mrɛ̂ʒa
 PWN:never.r.01		nikad	nîkad
 PWN:never.r.01		nikada	nîkadaː
 PWN:new.a.01		nov	nɔ̂ʋ
@@ -1062,7 +1066,7 @@ PWN:take.v.04		uzeti	ǔzɛːti
 PWN:talk.v.02		besjediti	bɛ̌sjɛditi
 PWN:talk.v.02		govoriti	ɡɔʋɔ̌riti
 PWN:taste.n.01		ukus	ûkuːs
-PWN:taste.v.01		probati	prɔ̌ːbati
+PWN:taste.v.02		probati	prɔ̌ːbati
 PWN:tasty.a.01		tečan	tɛ̂t͡ʃan
 PWN:tasty.a.01		ukusan	ûkusan
 PWN:tea.n.01		čaj	t͡ʃâj
@@ -1132,9 +1136,7 @@ PWN:transport.v.02		nositi	nɔ̌siti
 PWN:trap.n.01		klopka	klɔ̂pka
 PWN:trap.n.01		zamka	zâːmka
 PWN:trap.v.02		uloviti	ulɔ̌ʋiti
-PWN:travel.v.01		gibati se	ɡǐːbati sɛ
 PWN:travel.v.01		ići	ǐt͡ɕi
-PWN:travel.v.01		kretati se	krɛ̌ːtati sɛ
 PWN:tree.n.01		drvo	dr̩̂ʋɔ
 PWN:tree.n.01		stablo	stǎːblɔ
 PWN:trouser.n.01		hlače	xlât͡ʃɛ
@@ -1219,8 +1221,6 @@ PWN:woman.n.01		žena	ʒɛ̌na
 PWN:wood.n.01		drvo	dr̩̂ʋɔ
 PWN:wool.n.02		vuna	ʋûna
 PWN:word.n.01		riječ	rîjɛt͡ʃ
-PWN:work.n.01		posao	pɔ̌saɔ
-PWN:work.n.01		rad	râːd
 PWN:work.v.01		raditi	rǎːditi
 PWN:worker.n.01		radnik	râːdniːk
 PWN:world.n.02		svijet	sʋîjɛt

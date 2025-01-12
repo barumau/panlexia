@@ -7,11 +7,11 @@ PLX:3PL.pro		þeir	θɛir̥
 PLX:3PL.pro		þær	θaɪr̥
 PLX:3SG M.pro		hann	hɑnː
 PLX:and.cnj		og	ɔɣ
-PLX:because of.adp		vegna	vɛknɑ
-PLX:behind.adp		aftur fyrir	ɑvtʏr vɪrɪr̥
-PLX:behind.adp		bak við	pɑk vɪθ
-PLX:beside.adp		hjá	çɑu
-PLX:beside.adp		við hliðina á	vɪð l̥ɪðɪnɑ ɑu
+PLX:because of.pp		vegna	vɛknɑ
+PLX:behind.pp		aftur fyrir	ɑvtʏr vɪrɪr̥
+PLX:behind.pp		bak við	pɑk vɪθ
+PLX:beside.pp		hjá	çɑu
+PLX:beside.pp		við hliðina á	vɪð l̥ɪðɪnɑ ɑu
 PLX:can.v		geta	cɛtɑ
 PLX:die (from accident).V		farast	fɑrɑstʰ
 PLX:everywhere.pro		alls staðar	ɑdls stɑðɑr̥
@@ -20,11 +20,11 @@ PLX:get sick.V		veikjast	vɛikjɑstʰ
 PLX:get sick.V		verða veikur	vɛrðɑ vɛikʏr̥
 PLX:how many.pro		hve mikill	kʰvɛ mɪcɪtl̥
 PLX:how.pro		hvernig	kʰvɛrdnɪɣ
-PLX:in front of.adp		fyrir	fɪrɪr̥
+PLX:in front of.pp		fyrir	fɪrɪr̥
 PLX:or.cnj		eða	ɛðɑ
 PLX:that.pro		það	θɑθ
 PLX:this.pro		þetta	θɛhtɑ
-PLX:under.adp		undir	ʏntɪr̥
+PLX:under.pp		undir	ʏntɪr̥
 PLX:what.pro		hvað	kʰvɑθ
 PLX:where.pro		hvar	kʰvɑr̥
 PLX:where_to.pro		hvert	kʰvɛr̥t
@@ -182,7 +182,6 @@ PWN:cavil.v.01		skammast	skɑmmɑstʰ
 PWN:center.n.01		miðja	mɪðjɑ
 PWN:chair.n.01		stóll	stoutl̥
 PWN:change.v.01		breyta	prɛitɑ
-PWN:change.v.03		skipta	scɪftɑ
 PWN:character.n.08		bókstafur	pouxstɑvʏr̥
 PWN:cheap.a.01		ódýr	outir̥
 PWN:cheek.n.01		kinn	cʰɪnː
@@ -276,6 +275,7 @@ PWN:defend.v.03		verja	vɛrjɑ
 PWN:deft.s.01		fimur	fɪmʏr̥
 PWN:deft.s.01		laginn	lɑiːjɪnː
 PWN:deity.n.01		guð	kʏθ
+PWN:depart.v.03		bifast	pɪvɑstʰ
 PWN:descend.v.01		síga	siɣɑ
 PWN:desire.n.01		fýsn	fisn̥
 PWN:desire.n.01		löngun	lœyŋkʏn
@@ -334,6 +334,7 @@ PWN:elbow.n.01		olnbogi	ɔlnpɔjɪ
 PWN:eleven.s.01		ellefu	ɛdlɛvʏ
 PWN:elk.n.01		elgur	ɛlɡʏr̥
 PWN:emerge.v.01		birtast	pɪr̥tɑstʰ
+PWN:employment.n.02		vinna	vɪnːɑ
 PWN:empty.a.01		tómur	tʰoumʏr̥
 PWN:end.n.03		endir	ɛntɪr̥
 PWN:end.n.03		lok	lɔk
@@ -348,6 +349,7 @@ PWN:escape.v.01		strjúka	strjukɑ
 PWN:evening.n.01		kvöld	kvœlt
 PWN:evil.a.01		illur	ɪdlʏr̥
 PWN:evil.a.01		vondur	vɔntʏr̥
+PWN:exchange.v.01		skipta	scɪftɑ
 PWN:exclaim.v.01		æpa	aɪpʰɑ
 PWN:exit.v.01		fara burt	fɑrɑ pʏr̥t
 PWN:exit.v.01		ganga burt	kɑuŋkɑ pʏr̥t
@@ -364,8 +366,8 @@ PWN:fall.v.01		falla	fɑdlɑ
 PWN:fall_asleep.v.01		sofna	sɔpnɑ
 PWN:familiar.a.01		kunnugur	kʰʏnːʏɣʏr̥
 PWN:family.n.02		fjölskylda	fjœlscɪltɑ
-PWN:far.r.02		fjarlægur	fjɑrdlaɪɣʏr̥
-PWN:far.r.02		fjarri	fjɑrːɪ
+PWN:faraway.s.01		fjarlægur	fjɑrdlaɪɣʏr̥
+PWN:faraway.s.01		fjarri	fjɑrːɪ
 PWN:fat.n.01		fita	fɪtɑ
 PWN:father.n.01		faðir	fɑðɪr̥
 PWN:fault.n.06		sök	sœk
@@ -663,7 +665,7 @@ PWN:near.r.01		nálægur	nɑulaɪɣʏr̥
 PWN:neck.n.01		háls	hɑuls
 PWN:needle.n.03		nál	nɑul
 PWN:nest.n.01		hreiður	r̥ɛiðʏr̥
-PWN:net_income.n.01		net	nɛtʰ
+PWN:net.n.06		net	nɛtʰ
 PWN:never.r.01		aldrei	ɑltrɛi
 PWN:new.a.01		nýr	nir̥
 PWN:news.n.01		frétt	frjɛht
@@ -961,7 +963,7 @@ PWN:tail.n.01		skott	skɔht
 PWN:take.v.04		taka	tʰɑkɑ
 PWN:talk.v.02		ræða	raɪðɑ
 PWN:taste.n.01		smekkur	smɛhkʏr̥
-PWN:taste.v.01		smakka	smɑhkɑ
+PWN:taste.v.02		smakka	smɑhkɑ
 PWN:tasty.a.01		ljúffengur	ljuvveiŋkʏr̥
 PWN:tea.n.01		te	tʰɛ
 PWN:teach.v.01		kenna	cʰɛnːɑ
@@ -1028,7 +1030,6 @@ PWN:translate.v.01		þýða	θiðɑ
 PWN:transport.v.02		bera	pɛrɑ
 PWN:trap.n.01		gildra	cɪltrɑ
 PWN:trap.v.02		veiða	vɛiðɑ
-PWN:travel.v.01		bifast	pɪvɑstʰ
 PWN:travel.v.01		fara	fɑrɑ
 PWN:travel.v.01		ganga	kɑuŋkɑ
 PWN:tree.n.01		tré	tʰrjɛ
@@ -1108,7 +1109,6 @@ PWN:woman.n.01		kona	kʰɔnɑ
 PWN:wood.n.01		viður	vɪðʏr̥
 PWN:wool.n.02		ull	ʏtl̥
 PWN:word.n.01		orð	ɔrθ
-PWN:work.n.01		vinna	vɪnːɑ
 PWN:work.v.01		vinna	vɪnːɑ
 PWN:worker.n.01		verkamaður	vɛr̥kɑmɑðʏr̥
 PWN:world.n.02		veröld	vɛrœlt

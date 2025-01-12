@@ -5,9 +5,9 @@ PLX:2PL.pro		зу	zu
 PLX:2SG.pro		ина	ina
 PLX:3SG M.pro		му	mu
 PLX:and.cnj		-гу	-ɡu
-PLX:because of.adp		цӏаний	t͡sʼanij
-PLX:behind.adp		махъ	maq͡χ
-PLX:beside.adp		чӏарав	t͡ʃʼaraw
+PLX:because of.pp		цӏаний	t͡sʼanij
+PLX:behind.pp		махъ	maq͡χ
+PLX:beside.pp		чӏарав	t͡ʃʼaraw
 PLX:can.v		хьун	xun
 PLX:die (from accident).V		ажал биян	aʒal bijan
 PLX:die (from accident).V		ахир жан хъанан	aχir ʒan q͡χanan
@@ -23,14 +23,14 @@ PLX:from here.adv		шичча	ʃit͡ʃːa
 PLX:get sick.V		къашай хьун	qʰːaʃaj xun
 PLX:how many.pro		циксса	t͡siksːa
 PLX:how.pro		цукун	t͡sukun
-PLX:in front of.adp		хьхьичӏ	xːit͡ʃʼ
+PLX:in front of.pp		хьхьичӏ	xːit͡ʃʼ
 PLX:or.cnj		я	ja
 PLX:or.cnj		ягу	jaɡu
 PLX:that.pro		га	ɡa
 PLX:that.pro		кӏа	kʼa
 PLX:that.pro		та	ta
 PLX:this.pro		ва	wa
-PLX:under.adp		лув	luw
+PLX:under.pp		лув	luw
 PLX:what.pro		ци	t͡si
 PLX:where.pro		чув	t͡ʃuw
 PLX:where_to.pro		чун	t͡ʃun
@@ -181,8 +181,6 @@ PWN:cavil.v.01		ссугайи агьан	sːuɡaji ahan
 PWN:center.n.01		дя	dja
 PWN:chair.n.01		кӏану	kʼanu
 PWN:change.v.01		баххана бан	baχːana ban
-PWN:change.v.03		даххана дуллан	daχːana dullan
-PWN:change.v.03		даххана хьун	daχːana xun
 PWN:character.n.08		хӏарп	ħarp
 PWN:cheap.a.01		кьювкьусса	qʼjuwqʼusːa
 PWN:cheek.n.01		чӏав	t͡ʃʼaw
@@ -276,6 +274,7 @@ PWN:decrease.v.01		чан хьун	t͡ʃan xun
 PWN:defend.v.03		буруччин	burut͡ʃːin
 PWN:deft.s.01		паргалсса	parɡalsːa
 PWN:deity.n.01		зал	zal
+PWN:depart.v.03		сукку хьун	sukːu xun
 PWN:descend.v.01		чахь учин	t͡ʃax ut͡ʃin
 PWN:desire.n.01		гьавас	hawas
 PWN:desire.n.01		ччаву	t͡ʃːawu
@@ -336,6 +335,7 @@ PWN:eleven.s.01		ацӏния цава	at͡sʼnija t͡sawa
 PWN:elk.n.01		ниц-бюрин	nit͡s-bjurin
 PWN:emerge.v.01		буккан	bukːan
 PWN:emerge.v.01		загьир хьун	zahir xun
+PWN:employment.n.02		заву	zawu
 PWN:empty.a.01		бачӏвасса	bat͡ʃʼwasːa
 PWN:end.n.03		ахир	aχir
 PWN:end.n.09		зума	zuma
@@ -346,6 +346,8 @@ PWN:erstwhile.s.01		хъхъичӏвасса	q͡χq͡χit͡ʃʼwasːa
 PWN:escape.v.01		лихъан	liq͡χan
 PWN:evening.n.01		маркӏачӏан	markʼat͡ʃʼan
 PWN:evil.a.01		оьсса	oˤsːa
+PWN:exchange.v.01		даххана дуллан	daχːana dullan
+PWN:exchange.v.01		даххана хьун	daχːana xun
 PWN:exclaim.v.01		чӏу бан	t͡ʃʼu ban
 PWN:exit.v.01		ялагьан	jalahan
 PWN:expensive.a.01		ххирасса	χːirasːa
@@ -361,7 +363,7 @@ PWN:fall.v.01		багьлан	bahlan
 PWN:fall_asleep.v.01		шанан икӏан	ʃanan ikʼan
 PWN:familiar.a.01		дусъсса	dusʔsːa
 PWN:family.n.02		кулпат	kulpat
-PWN:far.r.02		архсса	arχsːa
+PWN:faraway.s.01		архсса	arχsːa
 PWN:fat.n.01		аьгъушиву	aˤʁuʃiwu
 PWN:father.n.01		ппу	pːu
 PWN:fault.n.06		тахсир	taχsir
@@ -665,7 +667,7 @@ PWN:near.r.01		гъансса	ʁansːa
 PWN:neck.n.01		ссурссу	sːursːu
 PWN:needle.n.03		ххалаххи	χːalaχːi
 PWN:nest.n.01		кюру	kjuru
-PWN:net_income.n.01		къери	qʰːeri
+PWN:net.n.06		къери	qʰːeri
 PWN:never.r.01		тачӏав	tat͡ʃʼaw
 PWN:new.a.01		цӏусса	t͡sʼusːa
 PWN:news.n.01		хавар	χawar
@@ -950,7 +952,7 @@ PWN:take.v.04		ласун	lasun
 PWN:talk.v.02		гъалгъа тӏун	ʁalʁa tʼun
 PWN:taste.n.01		тӏааьн	tʼaaˤn
 PWN:taste.n.01		тӏин	tʼin
-PWN:taste.v.01		тӏин ххал буллан	tʼin χːal bullan
+PWN:taste.v.02		тӏин ххал буллан	tʼin χːal bullan
 PWN:tasty.a.01		нахӏусса	naħusːa
 PWN:tasty.a.01		тӏааьнсса	tʼaaˤnsːa
 PWN:tea.n.01		чяй	t͡ʃjaj
@@ -1013,7 +1015,6 @@ PWN:transport.v.02		ларсун занан	larsun zanan
 PWN:trap.n.01		къатӏа	qʰːatʼa
 PWN:trap.v.02		бугьан	buhan
 PWN:travel.v.01		нан	nan
-PWN:travel.v.01		сукку хьун	sukːu xun
 PWN:tree.n.01		мурхь	murx
 PWN:trouser.n.01		хӏажак	ħaʒak
 PWN:true.a.01		хӏакьсса	ħaqʼsːa
@@ -1100,7 +1101,6 @@ PWN:woman.n.01		щарсса	ɕːarsːa
 PWN:wood.n.01		тӏама	tʼama
 PWN:wool.n.02		ппал	pːal
 PWN:word.n.01		махъ	maq͡χ
-PWN:work.n.01		заву	zawu
 PWN:work.v.01		зун	zun
 PWN:worker.n.01		зузала	zuzala
 PWN:world.n.02		дуниял	dunijal

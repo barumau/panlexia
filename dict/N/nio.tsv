@@ -5,10 +5,10 @@ PLX:2PL.pro		тыӈ	tɨŋ
 PLX:2SG.pro		тәнә	tənə
 PLX:3PL.pro		сытыӈ	sɨtɨŋ
 PLX:3SG M.pro		сыты	sɨtɨ
-PLX:because of.adp		нииз̌ә	ɲiːðə
-PLX:behind.adp		такәну	tɐkənu
-PLX:behind.adp		хуо	xʷo
-PLX:beside.adp		кадяну	kɐdʲɐnu
+PLX:because of.pp		нииз̌ә	ɲiːðə
+PLX:behind.pp		такәну	tɐkənu
+PLX:behind.pp		хуо	xʷo
+PLX:beside.pp		кадяну	kɐdʲɐnu
 PLX:can.v		деньдиˮси	dʲeɲdʲiʔsʲi
 PLX:can.v		тукәтәса	tukətəsɐ
 PLX:die (from accident).V		куоˮкәса	kʷoʔkəsɐ
@@ -19,12 +19,12 @@ PLX:from here.adv		әмкәтә	əmkətə
 PLX:get sick.V		кочез̌укәди	koc͡çeðukədʲi
 PLX:how many.pro		куо хирә	kʷo xirə
 PLX:how.pro		куниˮиа	kuɲiʔiɐ
-PLX:in front of.adp		нирині	ɲirʲini
+PLX:in front of.pp		нирині	ɲirʲini
 PLX:or.cnj		или	jiʎi
 PLX:that.pro		тәә	təː
 PLX:this.pro		тәтірә	tətirə
 PLX:this.pro		әмты	əmtɨ
-PLX:under.adp		ӈилену	ŋiʎenu
+PLX:under.pp		ӈилену	ŋiʎenu
 PLX:what.pro		маа	mɐː
 PLX:where.pro		кунині	kuɲini
 PLX:where_to.pro		куниˮиа	kuɲiʔiɐ
@@ -188,8 +188,6 @@ PWN:cavil.v.01		дөмтуаса	dʷamtʷɐsɐ
 PWN:center.n.01		дерде	dʲerdʲe
 PWN:chair.n.01		ӈомтүся	ŋomtysʲɐ
 PWN:change.v.01		хунсәимтысы	xunsəimtɨsɨ
-PWN:change.v.03		хунсәимніарсы	xunsəimniɐrsɨ
-PWN:change.v.03		хунсәимси	xunsəimsʲi
 PWN:cheap.a.01		денси тануа	dʲensʲi tɐnʷɐ
 PWN:cheek.n.01		хотуа	xotʷɐ
 PWN:cherished.s.01		денсилиа	dʲensʲiʎiɐ
@@ -279,6 +277,8 @@ PWN:decrease.v.01		тануамса	tɐnʷɐmsɐ
 PWN:defend.v.03		нясюся	ɲɐsʲusʲɐ
 PWN:deft.s.01		кәсәгәә	kəsəɡəː
 PWN:deity.n.01		ӈуо	ŋʷo
+PWN:depart.v.03		мәнсәрырсы	mənsərɨrsɨ
+PWN:depart.v.03		ӈусиирси	ŋusʲiːrsʲi
 PWN:desire.n.01		кәрбубса	kərbubsɐ
 PWN:desire.n.01		кәрбуләму	kərbuləmu
 PWN:desire.v.01		кәрбудя	kərbudʲɐ
@@ -342,6 +342,8 @@ PWN:elbow.n.01		сәлӈыз̌әә	səlŋɨðəː
 PWN:eleven.s.01		бииˮ ӈуоиˮ	bʲiːʔ ŋʷoʲiʔ
 PWN:elk.n.01		кәукиа	kəukiɐ
 PWN:emerge.v.01		ӈәтумсы	ŋətumsɨ
+PWN:employment.n.02		ӈудибся	ŋudʲibsʲɐ
+PWN:employment.n.02		ӈәйбәуз̌а	ŋəjbəuðɐ
 PWN:empty.a.01		хуньдятыә	xuɲdʲɐtɨə
 PWN:empty.a.01		черәгиай ичуо	c͡çerəɡʲiɐj jic͡çʷo
 PWN:end.n.03		сюдями	sʲudʲɐmʲi
@@ -358,6 +360,8 @@ PWN:evening.n.01		кундутуньде	kundutuɲdʲe
 PWN:evening.n.01		кунтудему	kuntudʲemu
 PWN:evening.n.01		химтәкә	ximtəkə
 PWN:evil.a.01		нәӈхуо	nəŋxʷo
+PWN:exchange.v.01		хунсәимніарсы	xunsəimniɐrsɨ
+PWN:exchange.v.01		хунсәимси	xunsəimsʲi
 PWN:exclaim.v.01		киратуса	kirɐtusɐ
 PWN:exclaim.v.01		лаӈүрся	lɐŋyrsʲɐ
 PWN:exit.v.01		бүүдя	byːdʲɐ
@@ -376,8 +380,8 @@ PWN:fall.v.01		сохуаˮтәса	soxʷɐʔtəsɐ
 PWN:fall_asleep.v.01		кунтудя	kuntudʲɐ
 PWN:familiar.a.01		ченынтыә	c͡çenɨntɨə
 PWN:family.n.02		маз̌ә черәˮ	mɐðə c͡çerəʔ
-PWN:far.r.02		кунтәгаˮа	kuntəɡɐʔɐ
-PWN:far.r.02		кунтәгуо	kuntəɡʷo
+PWN:faraway.s.01		кунтәгаˮа	kuntəɡɐʔɐ
+PWN:faraway.s.01		кунтәгуо	kuntəɡʷo
 PWN:fat.n.01		чуˮ	c͡çuʔ
 PWN:father.n.01		десы	dʲesɨ
 PWN:father.n.01		идяˮа	jidʲɐʔɐ
@@ -704,7 +708,7 @@ PWN:near.r.01		нокуотуо	nokʷotʷo
 PWN:neck.n.01		бакәз̌әә	bɐkəðəː
 PWN:needle.n.03		неймы	ɲejmɨ
 PWN:nest.n.01		хыты	xɨtɨ
-PWN:net_income.n.01		быгур	bɨɡur
+PWN:net.n.06		быгур	bɨɡur
 PWN:never.r.01		каӈгәгәличи	kɐŋɡəɡəʎic͡çi
 PWN:new.a.01		меньдяде	mʲeɲdʲɐdʲe
 PWN:news.n.01		дюрымы	dʲurɨmɨ
@@ -991,7 +995,7 @@ PWN:tail.n.01		тәйбу	təjbu
 PWN:take.v.04		някәләсы	ɲɐkələsɨ
 PWN:talk.v.02		буодя	bʷodʲɐ
 PWN:taste.n.01		ӈәмсуогә	ŋəmsʷoɡə
-PWN:taste.v.01		мәлтырсы	məltɨrsɨ
+PWN:taste.v.02		мәлтырсы	məltɨrsɨ
 PWN:tasty.a.01		нелуагә	ɲelʷɐɡə
 PWN:tasty.a.01		ӈәмнәгәә	ŋəmnəɡəː
 PWN:tea.n.01		чаи	c͡çɐi
@@ -1053,9 +1057,7 @@ PWN:transport.v.02		мындысы	mɨndɨsɨ
 PWN:trap.n.01		деӈгуй	dʲeŋɡuj
 PWN:trap.v.02		кәмәдя	kəmədʲɐ
 PWN:travel.v.01		мынсы	mɨnsɨ
-PWN:travel.v.01		мәнсәрырсы	mənsərɨrsɨ
 PWN:travel.v.01		хез̌ытысы	xeðɨtɨsɨ
-PWN:travel.v.01		ӈусиирси	ŋusʲiːrsʲi
 PWN:tree.n.01		муӈку	muŋku
 PWN:trouser.n.01		хоніˮә	xoniʔə
 PWN:true.a.01		ӈануо	ŋɐnʷo
@@ -1136,8 +1138,6 @@ PWN:woman.n.01		ны	nɨ
 PWN:wood.n.01		хуаа	xʷɐɐ
 PWN:wool.n.02		нербы	ɲerbɨ
 PWN:word.n.01		буоз̌у	bʷoðu
-PWN:work.n.01		ӈудибся	ŋudʲibsʲɐ
-PWN:work.n.01		ӈәйбәуз̌а	ŋəjbəuðɐ
 PWN:work.v.01		ӈусыди	ŋusɨdʲi
 PWN:work.v.01		ӈәйбәудя	ŋəjbəudʲɐ
 PWN:worker.n.01		ӈәйбәутуо	ŋəjbəutʷo

@@ -6,17 +6,17 @@ PLX:2SG.pro		кәзза	kəzza
 PLX:3PL.pro		итҳ	itχ
 PLX:3SG M.pro		әнна	ənna
 PLX:and.cnj		и	i
-PLX:behind.adp		салк	salk
-PLX:beside.adp		олла	olla
+PLX:behind.pp		салк	salk
+PLX:beside.pp		олла	olla
 PLX:can.v		хиӄ эӆэс	xiq eɬes
 PLX:everywhere.pro		вэздэ’	βezdeʔ
 PLX:from here.adv		тх’ал	txʔal
 PLX:get sick.V		әӈӄсхкас	əŋqsxkas
 PLX:how many.pro		ла’лӄ	laʔlq
 PLX:how.pro		ласт	last
-PLX:in front of.adp		кӆфәњчк	kɬɸəɲt͡ʃk
-PLX:under.adp		тну˘мк	tnŭmk
-PLX:under.adp		тну˘мкэ	tnŭmke
+PLX:in front of.pp		кӆфәњчк	kɬɸəɲt͡ʃk
+PLX:under.pp		тну˘мк	tnŭmk
+PLX:under.pp		тну˘мкэ	tnŭmke
 PLX:what.pro		а˘ӈӄа	ăŋqa
 PLX:where.pro		ма’	maʔ
 PLX:where_to.pro		манкэ	manke
@@ -124,7 +124,6 @@ PWN:catch.v.04		әнккас	ənkkas
 PWN:center.n.01		ка˘ннэн	kănnen
 PWN:chair.n.01		стул	stul
 PWN:chair.n.01		ӆаном	ɬanom
-PWN:change.v.03		мэња’ӆкас	meɲaʔɬkas
 PWN:character.n.08		буква’	bukβaʔ
 PWN:cheap.a.01		дешовой	dʲeʃoβoj
 PWN:cheek.n.01		п’әлҳа˘ӈ	pʔəlχăŋ
@@ -170,6 +169,7 @@ PWN:deaf.a.01		ӄа’м илфскәнкин	qaʔm ilɸskənkin
 PWN:death.n.01		эсхном	esxnom
 PWN:december.n.01		декабр	dʲekabr
 PWN:deft.s.01		нмитӄэн	nmitqen
+PWN:depart.v.03		сч’элкас	st͡ʃʔelkas
 PWN:destroy.v.02		әнк’олэс	ənkʔoles
 PWN:different.a.01		разной	raznoj
 PWN:dig.v.01		сатокас	satokas
@@ -200,12 +200,14 @@ PWN:east.n.01		восток	βostok
 PWN:egg.n.02		лвилх	lβilx
 PWN:eight.s.01		чо’октунук	t͡ʃoʔoktunuk
 PWN:elbow.n.01		лот’ил	lotʔil
+PWN:employment.n.02		вэтвэт	βetβet
 PWN:empty.a.01		пустой	pustoj
 PWN:end.n.03		пињӆфном	piɲɬɸnom
 PWN:end.n.09		пињӆфном	piɲɬɸnom
 PWN:entirely.r.02		эм	em
 PWN:erstwhile.s.01		ит’энан	itʔenan
 PWN:evil.a.01		ҳэӄэлаҳ	χeqelaχ
+PWN:exchange.v.01		мэња’ӆкас	meɲaʔɬkas
 PWN:exclaim.v.01		кэлкас	kelkas
 PWN:exit.v.01		эӆкас	eɬkas
 PWN:extraneous.s.03		пӆҳ’ин	pɬχʔin
@@ -403,7 +405,7 @@ PWN:narrow.a.01		ӄуњљаҳ	quɲʎaχ
 PWN:neck.n.01		хэйтэн	xejten
 PWN:needle.n.03		сыс	sis
 PWN:nest.n.01		˚а’асх	ʷaʔasx
-PWN:net_income.n.01		хилыӈ	xiliŋ
+PWN:net.n.06		хилыӈ	xiliŋ
 PWN:never.r.01		ӄа’м ит’э	qaʔm itʔe
 PWN:new.a.01		новой	noβoj
 PWN:newspaper.n.01		газета’	ɡazʲetaʔ
@@ -608,7 +610,6 @@ PWN:towel.n.01		ањӆханом	aɲɬxanom
 PWN:town.n.01		город	ɡorod
 PWN:transport.v.02		әнтхлакас	əntxlakas
 PWN:trap.v.02		әнккас	ənkkas
-PWN:travel.v.01		сч’элкас	st͡ʃʔelkas
 PWN:travel.v.01		эӆкас	eɬkas
 PWN:tree.n.01		у’	uʔ
 PWN:trouser.n.01		ӄува	quβa
@@ -652,7 +653,6 @@ PWN:wolf.n.01		хывнэ	xiβne
 PWN:woman.n.01		мимсх	mimsx
 PWN:wood.n.01		у’	uʔ
 PWN:word.n.01		слово	sloβo
-PWN:work.n.01		вэтвэт	βetβet
 PWN:work.v.01		вэтаткас	βetatkas
 PWN:worker.n.01		вэтаткиӆҳ	βetatkiɬχ
 PWN:write.v.02		кэлэс	keles

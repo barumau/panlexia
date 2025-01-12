@@ -6,10 +6,10 @@ PLX:2SG.pro		datne	tatnɛ
 PLX:3PL.pro		dah	tah
 PLX:3SG M.pro		dïhte	tɨhtɛ
 PLX:and.cnj		jïh	jɨh
-PLX:because of.adp		dïete	tɨɛtɛ
-PLX:because of.adp		gaevhtieh	kæːβhtiɛh
-PLX:behind.adp		duekesne	tʉɛkɛsnɛ
-PLX:beside.adp		baaltese	pɑːltɛsɛ
+PLX:because of.pp		dïete	tɨɛtɛ
+PLX:because of.pp		gaevhtieh	kæːβhtiɛh
+PLX:behind.pp		duekesne	tʉɛkɛsnɛ
+PLX:beside.pp		baaltese	pɑːltɛsɛ
 PLX:can.v		maehtedh	mæːhtɛdh
 PLX:can.v		ååjmedidh	oːjmɛdidh
 PLX:die (from accident).V		hïevenidh	hɨɛβɛnidh
@@ -19,11 +19,11 @@ PLX:get sick.V		skïemtjijidh	skɨɛmt͡ʃijidh
 PLX:how many.pro		man jeenje	man jeːɲɛ
 PLX:how.pro		guktie	kʉktiɛ
 PLX:how.pro		gumhtie	kʉmhtiɛ
-PLX:in front of.adp		åvteste	ɔβtɛstɛ
+PLX:in front of.pp		åvteste	ɔβtɛstɛ
 PLX:or.cnj		jallh	jalːh
 PLX:that.pro		dohte	tuhtɛ
 PLX:this.pro		dihte	tihtɛ
-PLX:under.adp		nuelesne	nʉɛlɛsnɛ
+PLX:under.pp		nuelesne	nʉɛlɛsnɛ
 PLX:what.pro		mij	mij
 PLX:where.pro		gusnie	kʉsniɛ
 PLX:where_to.pro		gogka	kukːa
@@ -184,7 +184,6 @@ PWN:center.n.01		gaske	kaskɛ
 PWN:center.n.01		jarnge	jarŋɛ
 PWN:chair.n.01		stovle	stuβlɛ
 PWN:change.v.01		jeatjahtehtedh	jeæt͡ʃahtɛhtɛdh
-PWN:change.v.03		målsodh	mɔlsudh
 PWN:character.n.08		baakoe	pɑːkuʌ
 PWN:cheap.a.01		aelpies	æːlpiɛs
 PWN:cheap.a.01		liehties	liɛhtiɛs
@@ -272,6 +271,7 @@ PWN:decrease.v.01		nåhkedidh	nɔhkɛdidh
 PWN:defend.v.03		vaarjelidh	βɑːrjɛlidh
 PWN:deft.s.01		tjiehpies	t͡ʃiɛhpiɛs
 PWN:deity.n.01		jupmele	jʉpmɛlɛ
+PWN:depart.v.03		juhtedh	jʉhtɛdh
 PWN:descend.v.01		våajodh	βoɒjudh
 PWN:desire.n.01		luste	lʉstɛ
 PWN:desire.v.01		sïjhtedh	sɨjhtɛdh
@@ -331,6 +331,7 @@ PWN:elbow.n.01		gernjere	kɛrɲɛrɛ
 PWN:eleven.s.01		luhkieakte	lʉhkiɛaktɛ
 PWN:elk.n.01		ïelje	ɨɛljɛ
 PWN:emerge.v.01		vååjnedh	βoːjnɛdh
+PWN:employment.n.02		barkoe	parkuʌ
 PWN:empty.a.01		gåaroes	koɒruʌs
 PWN:empty.a.01		tovme	tʰuβmɛ
 PWN:end.n.03		nåhkeme	nɔhkɛmɛ
@@ -344,6 +345,7 @@ PWN:erstwhile.s.01		evtebe	ɛβtɛbɛ
 PWN:escape.v.01		tsåvvalidh	t͡sɔβːalidh
 PWN:evening.n.01		iehkede	iɛhkɛdɛ
 PWN:evil.a.01		vesties	βɛstiɛs
+PWN:exchange.v.01		målsodh	mɔlsudh
 PWN:exclaim.v.01		geevledh	keːβlɛdh
 PWN:exit.v.01		vuelkedh	βʉɛlkɛdh
 PWN:expensive.a.01		dovres	tuβrɛs
@@ -359,7 +361,7 @@ PWN:fall_asleep.v.01		nahkesalledh	nahkɛsalːɛdh
 PWN:fall_asleep.v.01		nahkestidh	nahkɛstidh
 PWN:familiar.a.01		åehpies	oæhpiɛs
 PWN:family.n.02		fuelhkie	fʉɛlhkiɛ
-PWN:far.r.02		gahkese	kahkɛsɛ
+PWN:faraway.s.01		gahkese	kahkɛsɛ
 PWN:fat.n.01		buejtie	pʉɛjtiɛ
 PWN:father.n.01		aehtjie	æːht͡ʃiɛ
 PWN:fault.n.06		skåltoe	skɔltuʌ
@@ -668,7 +670,7 @@ PWN:near.r.01		gietskies	kiɛt͡skiɛs
 PWN:neck.n.01		tjeapohke	t͡ʃeæpuhkɛ
 PWN:needle.n.03		naaloe	nɑːluʌ
 PWN:nest.n.01		biesie	piɛsiɛ
-PWN:net_income.n.01		viermie	βiɛrmiɛ
+PWN:net.n.06		viermie	βiɛrmiɛ
 PWN:never.r.01		ij gåessie	ij ɡoæsːiɛ
 PWN:new.a.01		orre	urːɛ
 PWN:news.n.01		saernie	sæːrniɛ
@@ -959,8 +961,8 @@ PWN:tail.n.01		siejpie	siɛjpiɛ
 PWN:take.v.04		vaeltedh	βæːltɛdh
 PWN:talk.v.02		håaledh	hoɒlɛdh
 PWN:taste.n.01		aelmie	æːlmiɛ
-PWN:taste.v.01		damtedh	tamtɛdh
-PWN:taste.v.01		smååhkedh	smoːhkɛdh
+PWN:taste.v.02		damtedh	tamtɛdh
+PWN:taste.v.02		smååhkedh	smoːhkɛdh
 PWN:tasty.a.01		hearskoes	heærskuʌs
 PWN:tea.n.01		löövje	løːβjɛ
 PWN:teach.v.01		ööhpehtidh	øːhpɛhtidh
@@ -1028,7 +1030,6 @@ PWN:transport.v.02		guedtedh	kʉɛtːɛdh
 PWN:trap.n.01		barta	parta
 PWN:trap.n.01		ruevtie	rʉɛβtiɛ
 PWN:trap.v.02		bivtedh	piβtɛdh
-PWN:travel.v.01		juhtedh	jʉhtɛdh
 PWN:travel.v.01		juhtedh	jʉhtɛdh
 PWN:tree.n.01		moere	muʌrɛ
 PWN:trouser.n.01		måvhka	mɔβhka
@@ -1108,7 +1109,6 @@ PWN:woman.n.01		nyjsene	nyjsɛnɛ
 PWN:wood.n.01		moere	muʌrɛ
 PWN:wool.n.02		ålloe	ɔlːuʌ
 PWN:word.n.01		baakoe	pɑːkuʌ
-PWN:work.n.01		barkoe	parkuʌ
 PWN:work.v.01		barkedh	parkɛdh
 PWN:worker.n.01		barkije	parkijɛ
 PWN:world.n.02		veartene	βeærtɛnɛ

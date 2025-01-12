@@ -7,10 +7,10 @@ PLX:3PL.pro		ők	øːk
 PLX:3SG M.pro		ő	øː
 PLX:and.cnj		meg	mɛɡ
 PLX:and.cnj		és	eːʃ
-PLX:because of.adp		miatt	miɒtː
-PLX:because of.adp		végett	veːɡɛtː
-PLX:behind.adp		mögött	møɡøtː
-PLX:beside.adp		mellett	mɛlːɛtː
+PLX:because of.pp		miatt	miɒtː
+PLX:because of.pp		végett	veːɡɛtː
+PLX:behind.pp		mögött	møɡøtː
+PLX:beside.pp		mellett	mɛlːɛtː
 PLX:can.v		tud	tud
 PLX:die (from accident).V		elpusztul	ɛlpustul
 PLX:everywhere.pro		mindenütt	mindɛnytː
@@ -21,11 +21,11 @@ PLX:how many.pro		hány	haːɲ
 PLX:how many.pro		mennyi	mɛɲːi
 PLX:how.pro		hogy	hoɟ
 PLX:how.pro		hogyan	hoɟɒn
-PLX:in front of.adp		előtt	ɛløːtː
+PLX:in front of.pp		előtt	ɛløːtː
 PLX:or.cnj		vagy	vɒɟ
 PLX:that.pro		az	ɒz
 PLX:this.pro		ez	ɛz
-PLX:under.adp		alatt	ɒlɒtː
+PLX:under.pp		alatt	ɒlɒtː
 PLX:what.pro		mi	mi
 PLX:where.pro		hol	hol
 PLX:where_to.pro		hova	hovɒ
@@ -191,7 +191,6 @@ PWN:center.n.01		közép	køzeːp
 PWN:chair.n.01		szék	seːk
 PWN:change.v.01		megváltoztat	mɛɡvaːltoztɒt
 PWN:change.v.01		változtat	vaːltoztɒt
-PWN:change.v.03		változik	vaːltozik
 PWN:character.n.08		betű	bɛtyː
 PWN:cheap.a.01		olcsó	olt͡ʃoː
 PWN:cheek.n.01		orca	ort͡sɒ
@@ -281,6 +280,7 @@ PWN:decrease.v.01		csökken	t͡ʃøkːɛn
 PWN:defend.v.03		véd	veːd
 PWN:deft.s.01		ügyes	yɟɛʃ
 PWN:deity.n.01		isten	iʃtɛn
+PWN:depart.v.03		mozog	mozoɡ
 PWN:descend.v.01		süllyed	ʃyjːɛd
 PWN:desire.n.01		kedv	kɛdv
 PWN:desire.v.01		akar	ɒkɒr
@@ -344,6 +344,7 @@ PWN:eleven.s.01		tizenegy	tizɛnɛɟ
 PWN:elk.n.01		jávorszarvas	jaːvorsɒrvɒʃ
 PWN:emerge.v.01		feltűnik	fɛltyːnik
 PWN:emerge.v.01		megjelenik	mɛɡjɛlɛnik
+PWN:employment.n.02		dolog	doloɡ
 PWN:empty.a.01		üres	yrɛʃ
 PWN:end.n.03		befejezés	bɛfɛjɛzeːʃ
 PWN:end.n.03		vég	veːɡ
@@ -359,6 +360,7 @@ PWN:escape.v.01		elmenekül	ɛlmɛnɛkyl
 PWN:evening.n.01		este	ɛʃtɛ
 PWN:evil.a.01		gonosz	ɡonos
 PWN:evil.a.01		rossz	rosː
+PWN:exchange.v.01		változik	vaːltozik
 PWN:exclaim.v.01		kiabál	kiɒbaːl
 PWN:exclaim.v.01		kiált	kiaːlt
 PWN:exit.v.01		elmegy	ɛlmɛɟ
@@ -375,7 +377,7 @@ PWN:fall_asleep.v.01		elalszik	ɛlɒlsik
 PWN:familiar.a.01		ismeretes	iʃmɛrɛtɛʃ
 PWN:familiar.a.01		ismert	iʃmɛrt
 PWN:family.n.02		család	t͡ʃɒlaːd
-PWN:far.r.02		távoli	taːvoli
+PWN:faraway.s.01		távoli	taːvoli
 PWN:fat.n.01		háj	haːj
 PWN:fat.n.01		zsír	ʒiːr
 PWN:father.n.01		apa	ɒpɒ
@@ -706,7 +708,7 @@ PWN:near.r.01		közeli	køzɛli
 PWN:neck.n.01		nyak	ɲɒk
 PWN:needle.n.03		tű	tyː
 PWN:nest.n.01		fészek	feːsɛk
-PWN:net_income.n.01		háló	haːloː
+PWN:net.n.06		háló	haːloː
 PWN:never.r.01		sohasem	ʃohɒʃɛm
 PWN:new.a.01		új	uːj
 PWN:news.n.01		újság	uːjʃaːɡ
@@ -1023,8 +1025,8 @@ PWN:tail.n.01		farok	fɒrok
 PWN:take.v.04		vesz	vɛs
 PWN:talk.v.02		beszél	bɛseːl
 PWN:taste.n.01		íz	iːz
-PWN:taste.v.01		kóstol	koːʃtol
-PWN:taste.v.01		megkóstol	mɛɡkoːʃtol
+PWN:taste.v.02		kóstol	koːʃtol
+PWN:taste.v.02		megkóstol	mɛɡkoːʃtol
 PWN:tasty.a.01		finom	finom
 PWN:tea.n.01		tea	tɛɒ
 PWN:teach.v.01		tanít	tɒniːt
@@ -1091,7 +1093,6 @@ PWN:transport.v.02		hord	hord
 PWN:trap.n.01		csapda	t͡ʃɒpdɒ
 PWN:trap.v.02		fog	foɡ
 PWN:travel.v.01		megy	mɛɟ
-PWN:travel.v.01		mozog	mozoɡ
 PWN:tree.n.01		fa	fɒ
 PWN:trouser.n.01		gatya	ɡɒcɒ
 PWN:trouser.n.01		nadrág	nɒdraːɡ
@@ -1177,7 +1178,6 @@ PWN:woman.n.01		nő	nøː
 PWN:wood.n.01		fa	fɒ
 PWN:wool.n.02		gyapjú	ɟɒpjuː
 PWN:word.n.01		szó	soː
-PWN:work.n.01		dolog	doloɡ
 PWN:work.v.01		dolgozik	dolɡozik
 PWN:worker.n.01		munkás	munkaːʃ
 PWN:world.n.02		világ	vilaːɡ
