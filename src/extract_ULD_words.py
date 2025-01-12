@@ -22,10 +22,14 @@ def write_dictionary_for_one_language(lang_code, ULD_to_Panlexia):
     dictionary = []
     uld = helpers.tsv_reader(ULD_file)
     for row in uld.dict:
-        id = ULD_to_Panlexia[row["number"]]
-        word = row[lang_code]
-        if id != "" and word != "":
-            dictionary.append([id, word])
+        id = ""
+        if row["number"] in ULD_to_Panlexia:
+            id = ULD_to_Panlexia[row["number"]]
+        entry = row[lang_code]
+        if id != "" and entry != "":
+            words = entry.split(',')
+            for word in words:
+                dictionary.append([id, word.strip()])
     sort_and_write_to_dictionary_file(lang_code, dictionary)
 
 def create_dictionaries_from_ULD(ULD_to_Panlexia):
