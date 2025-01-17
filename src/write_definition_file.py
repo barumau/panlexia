@@ -24,7 +24,7 @@ def create_english_definition_file_from_master():
     definition_writer = helpers.tsv_writer('concepts/E/eng-definition.tsv', 'w')
     definition_writer.dict.writerow(["id", "Definition"])
 
-    combined = helpers.tsv_reader('data/master.tsv')
+    combined = helpers.tsv_reader('data/worksheet.tsv')
     for row in combined.dict:
         if row["id"] != "":
             definition_writer.dict.writerow([row["id"], row["Definition"]])
@@ -52,6 +52,7 @@ def create_other_definitions_from_OMW():
     create_definitions_for('ita')
     create_definitions_for('ind')
     create_definitions_for('jpn')
+    create_definitions_for('ell')
 
 # Execution begins
 create_english_definition_file_from_master()

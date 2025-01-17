@@ -3,6 +3,51 @@
 CC-BY 2024 Panlexia (https://github.com/barumau/panlexia)
 """
 
+# Maps language codes from ISO 639-1 to ISO 639-3.
+language_code_from_2_to_3_letters = {
+    "af" : "afr",
+    "ar" : "arb",
+    "az" : "azj",
+    "ca" : "cat",
+    "cy" : "cym",
+    "da" : "dan",
+    "de" : "deu",
+    "el" : "ell",
+    "en" : "eng",
+    "es" : "spa",
+    "et" : "est",
+    "fa" : "fas",
+    "fi" : "fin",
+    "fr" : "fra",
+    "ga" : "gle",
+    "ha" : "hau",
+    "he" : "heb",
+    "hu" : "hun",
+    "is" : "isl",
+    "it" : "ita",
+    "ja" : "jpn",
+    "ka" : "kat",
+    "la" : "lat",
+    "lb" : "ltz",
+    "lt" : "lit",
+    "mr" : "mar",
+    "mt" : "mlt",
+    "nl" : "nld",
+    "no" : "nor",
+    "pl" : "pol",
+    "pt" : "por",
+    "ru" : "rus",
+    "sk" : "slk",
+    "sr" : "srp",
+    "sv" : "swe",
+    "tr" : "tur",
+    "uk" : "ukr",
+    "vi" : "vie",
+    "wo" : "wol",
+    "xh" : "xho",
+    "zh" : "cmn"
+}
+
 # From https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
 # https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes
 code_to_endonym_map = {
