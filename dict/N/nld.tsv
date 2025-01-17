@@ -1,9 +1,11 @@
-id	style	word	transcription	etymology
+id	style	word	pronunciation
 PLX:1PL EXCL.pro		wij		
 PLX:1PL INCL.pro		wij		
 PLX:1PL.pro		wij		
+PLX:1SG POSS.pro		mijn	
 PLX:1SG.pro		ik		
 PLX:2PL.pro		jullie		
+PLX:2SG POSS.pro		jouw	
 PLX:2SG.pro		jij		
 PLX:3PL.pro		zij (2)		
 PLX:3SG F.pro		zij (1)		
@@ -22,6 +24,8 @@ PLX:be late.v		laat zijn
 PLX:because.cnj		omdat		
 PLX:behind.pp		achter		
 PLX:beside.pp		naast		
+PLX:but.cnj		maar	
+PLX:can.v		kunnen	
 PLX:carry in hand.v		dragen		
 PLX:carry on head.v		dragen		
 PLX:carry on shoulder.v		dragen		
@@ -113,14 +117,17 @@ PWN:all.a.01		alle
 PWN:allege.v.01		zeggen		
 PWN:alligator.n.02		alligator		eng:alligator
 PWN:alligator.n.02		krokodil		fra:crocodile
+PWN:almond.n.02		amandel	
 PWN:alone.r.02		alleen		
 PWN:altar.n.02		altaar		:altāre
 PWN:always.r.01		altijd		
 PWN:amazed.s.01		verbaasd		
 PWN:ambush.n.01		hinderlaag		deu:Hinterhalt
+PWN:ananas.n.01		ananas	
 PWN:ancestor.n.01		voorouders		
 PWN:anchor.n.01		anker		:ancora
 PWN:anger.n.02		woede		
+PWN:angry.a.01		boos	
 PWN:animal.n.01		beest		fra:beste
 PWN:animal.n.01		dier		
 PWN:animation.n.01		leven (2)		
@@ -133,6 +140,7 @@ PWN:anvil.n.01		aambeeld
 PWN:anxiety.n.02		zorg		
 PWN:apparel.n.01		kleding		
 PWN:apparel.n.01		kleren		
+PWN:apple.n.01		appel	
 PWN:approach.v.01		naderen		
 PWN:apt.s.03		slim		
 PWN:arch.n.04		boog (1)		
@@ -152,9 +160,11 @@ PWN:ask.v.02		verzoeken
 PWN:ask.v.02		vragen		
 PWN:ask.v.05		vragen		
 PWN:attack.n.05		aanval		
+PWN:attentive.a.01		aandachtig	
 PWN:aunt.n.01		tante		fra:tante
 PWN:aurora_borealis.n.01		noorderlicht		
 PWN:avaricious.s.01		gulzig		fra:golos
+PWN:awake.a.01		wakker	
 PWN:awl.n.01		els		
 PWN:awl.n.01		priem		
 PWN:ax.n.01		bijl		
@@ -162,6 +172,7 @@ PWN:axle.n.01		as (2)
 PWN:baby.n.01		baby		eng:baby
 PWN:back.n.01		rug		
 PWN:bad.a.01		slecht		
+PWN:bag.n.01		tas	
 PWN:bait.n.02		aas		
 PWN:bake.v.02		bakken		
 PWN:bald.s.02		kaal		
@@ -172,7 +183,9 @@ PWN:banana.n.02		banaan		por:banana
 PWN:banyan.n.01		banyan		eng:banyan
 PWN:bare.s.01		naakt		
 PWN:bark.n.01		bast		
+PWN:bark.v.04		blaffen	
 PWN:barley.n.02		gerst		
+PWN:barrel.n.02		ton	
 PWN:barter.v.01		handelen		
 PWN:barter.v.01		ruilen		
 PWN:basket.n.01		mand		
@@ -195,6 +208,7 @@ PWN:bear.n.01		beer
 PWN:beard.n.01		baard		
 PWN:beautiful.a.01		mooi		
 PWN:beaver.n.07		bever		
+PWN:beckon.v.01		zwaaien	
 PWN:become.v.01		worden		
 PWN:bed.n.01		bed		
 PWN:bee.n.01		bij		
@@ -207,6 +221,7 @@ PWN:beggar.n.01		bedelaar
 PWN:begin.v.03		beginnen		
 PWN:beginning.n.01		begin		
 PWN:believe.v.01		geloven		
+PWN:beloved.s.01		dierbaar	
 PWN:belt.n.02		ceintuur		fra:ceinture
 PWN:belt.n.02		gordel		
 PWN:beverage.n.01		drank		
@@ -229,7 +244,9 @@ PWN:blind.a.01		blind
 PWN:blink.v.01		knipperen		
 PWN:blister.n.03		blaar		
 PWN:blood.n.01		bloed		
+PWN:blow.v.01		blazen	
 PWN:blow.v.02		blazen		
+PWN:blowy.s.01		winderig	
 PWN:blue.s.01		blauw		
 PWN:blunt.s.02		bot (2)		
 PWN:board.n.02		plank		pcd:planke
@@ -248,6 +265,7 @@ PWN:book.n.01		boek
 PWN:boomerang.n.01		boemerang		eng:boomerang
 PWN:boot.n.01		laars		
 PWN:bore.v.02		boren		
+PWN:boring.s.01		saai	
 PWN:borrow.v.01		lenen		
 PWN:bottle.n.01		fles		
 PWN:bottom.n.02		bodem		
@@ -262,7 +280,9 @@ PWN:brain.n.01		hersenen
 PWN:brainsick.s.01		gek		
 PWN:brake.v.02		remmen		
 PWN:branch.n.03		tak		
+PWN:branchlet.n.01		takjes	
 PWN:brave.a.01		dapper		
+PWN:brawl.v.01		vechten	
 PWN:bread.n.01		brood		
 PWN:break.v.05		breken		
 PWN:breakfast.n.01		ontbijt		
@@ -274,13 +294,16 @@ PWN:bright.a.01		hel (1)
 PWN:bright.a.01		helder		
 PWN:bring.v.01		brengen		
 PWN:bring_around.v.02		genezen		
+PWN:broccoli.n.01		broccoli	
 PWN:broken.s.11		kapot		deu:kaputt
 PWN:broken.s.11		stuk (2)		
 PWN:broom.n.01		bezem		
 PWN:brother.n.01		broer		
 PWN:brow.n.01		voorhoofd		
+PWN:brown.s.01		bruin	
 PWN:bruise.n.01		kneuzing		
 PWN:brush.n.02		borstel		
+PWN:bucket.n.01		emmer	
 PWN:bull.n.01		stier		
 PWN:bumble.v.03		stamelen		
 PWN:bumble.v.03		stotteren		deu:stottern
@@ -295,6 +318,7 @@ PWN:butterfly.n.01		vlinder
 PWN:buttocks.n.01		billen		
 PWN:button.n.01		knoop		
 PWN:buy.v.01		kopen		:caupō
+PWN:cabbage.n.01		kool	
 PWN:cadaver.n.01		lijk		
 PWN:calendar.n.03		kalender		deu:Kalender
 PWN:calendar_month.n.01		maand		
@@ -314,10 +338,13 @@ PWN:cap.n.01		muts		:almucia
 PWN:cape.n.01		kaap		fra:cap
 PWN:car.n.01		auto		eng:auto(mobile)
 PWN:carcase.n.01		kadaver		fra:cadavre
+PWN:card.n.04		kaart	
 PWN:caribou.n.01		kariboe		fra:caribou
 PWN:caribou.n.01		rendier		deu:Rentier
 PWN:carpenter.n.01		timmerman		
+PWN:carrot.n.01		wortel	
 PWN:carve.v.01		kerven		
+PWN:cashew.n.01		cashew	
 PWN:cassava.n.02		cassave		fra:cassave
 PWN:cassava.n.02		maniok		fra:manioc
 PWN:cast.v.07		boetseren		pcd:bocer
@@ -325,6 +352,7 @@ PWN:cast.v.07		gieten
 PWN:cat.n.01		kat		:catta
 PWN:catch.v.04		vangen		
 PWN:cattle.n.01		rund		
+PWN:cauliflower.n.01		bloemkool	
 PWN:cause.n.01		oorzaak		deu:Ursache
 PWN:cause.n.01		reden		
 PWN:cave.n.01		grot		fra:grotte
@@ -340,6 +368,8 @@ PWN:charcoal.n.01		houtskool
 PWN:cheap.a.01		goedkoop		
 PWN:cheek.n.01		wang		
 PWN:cheese.n.01		kaas		:cāseus
+PWN:cherished.s.01		kostelijk	
+PWN:cherry.n.03		kers	
 PWN:chew.v.01		kauwen		
 PWN:chicken.n.02		kuiken		
 PWN:child.n.01		kind		
@@ -362,7 +392,9 @@ PWN:clavicle.n.01		sleutelbeen
 PWN:claw.n.01		klauw		
 PWN:clay.n.01		klei		
 PWN:clean.a.01		schoon		
+PWN:clean.v.01		lappen	
 PWN:clear.a.01		duidelijk		
+PWN:clear.s.03		duidelijk	
 PWN:cleave.v.01		splijten		
 PWN:climb.v.01		klimmen		
 PWN:cloak.n.02		jas		
@@ -370,6 +402,7 @@ PWN:cloak.n.02		mantel		:mantellum
 PWN:clock.n.01		klok		:cloc
 PWN:close.v.01		sluiten		
 PWN:cloud.n.02		wolk		
+PWN:cloudy.s.03		troebel	
 PWN:club.n.03		knuppel		
 PWN:coat.n.01		jas		
 PWN:cobbler.n.01		schoenmaker		
@@ -382,8 +415,10 @@ PWN:cold.a.01		koud
 PWN:cold.n.01		verkoudheid		
 PWN:collar.n.01		kraag		
 PWN:color.n.01		kleur		fra:couleur
+PWN:colorful.a.01		bont	
 PWN:colt.n.01		veulen		
 PWN:comb.n.01		kam		
+PWN:comb.v.01		kammen	
 PWN:commiseration.n.01		medelijden		deu:Mitleid
 PWN:common_eel.n.01		paling		
 PWN:complete.v.01		afmaken		
@@ -405,6 +440,7 @@ PWN:corn.n.01		maïs		spa:maiz
 PWN:corner.n.03		hoek		
 PWN:cornet.n.01		hoorn (2)		
 PWN:cornet.n.01		trompet		fra:trompette
+PWN:corpulent.s.01		dik (persoon)	
 PWN:correctly.r.01		juist		fra:juste
 PWN:cotton.n.02		katoen		fra:coton
 PWN:cough.v.01		hoesten		
@@ -417,7 +453,9 @@ PWN:cousin.n.01		neef
 PWN:cousin.n.01		nicht		
 PWN:cover.v.01		bedekken		
 PWN:cow.n.01		koe		
+PWN:cowardly.a.01		laf	
 PWN:coyote.n.01		coyote		spa:coyote
+PWN:cradle.n.01		wieg	
 PWN:crawl.v.01		kruipen		
 PWN:crime.n.01		misdaad		
 PWN:crippled.s.01		lam (2)		
@@ -427,12 +465,14 @@ PWN:crow.n.01		kraai
 PWN:crowd.n.01		menigte		
 PWN:cry.v.02		huilen		
 PWN:cry.v.02		wenen		
+PWN:cucumber.n.02		komkommer	
 PWN:cultivate.v.02		ontginnen		
 PWN:cup.n.01		kop		
 PWN:curse.v.03		vervloeken		
 PWN:custom.n.01		gewoonte		
 PWN:cut.v.01		doorsnijden		
 PWN:damage.v.01		beschadigen		
+PWN:damp.s.01		vochtig	
 PWN:dance.v.02		dansen		fra:danser
 PWN:dandruff.n.02		roos		fra:rose
 PWN:danger.n.01		gevaar		deu:Gefahr
@@ -446,7 +486,9 @@ PWN:day.n.01		dag
 PWN:day.n.05		dag		
 PWN:dead.a.01		dood		
 PWN:deaf.a.01		doof		
+PWN:deaf.n.01		doof (van een persoon)	
 PWN:debt.n.02		schuld		
+PWN:deceive.v.01		bedriegen	
 PWN:deception.n.02		bedrog		
 PWN:decide.v.02		rechtspreken		
 PWN:deep.a.03		diep		
@@ -455,6 +497,7 @@ PWN:defeat.n.01		nederlaag		deu:Niederlage
 PWN:defend.v.03		verdedigen		
 PWN:defendant.n.01		gedaagde		
 PWN:defendant.n.01		verdachte		
+PWN:deft.s.01		handig	
 PWN:deity.n.01		god		
 PWN:deny.v.04		ontkennen		
 PWN:depository_financial_institution.n.01		bank		ita:banco
@@ -467,7 +510,9 @@ PWN:destroy.v.02		vernietigen
 PWN:devil.n.02		demon		:daemōn
 PWN:dew.n.01		dauw		
 PWN:die.v.01		sterven		
+PWN:different.a.01		verschillend	
 PWN:difficult.a.01		moeilijk		
+PWN:diffident.a.02		schuw	
 PWN:dig.v.01		graven		
 PWN:dinner.n.01		avondeten		
 PWN:dinner.n.01		diner		fra:dîner
@@ -483,6 +528,7 @@ PWN:divorce.n.01		scheiding
 PWN:doctor.n.01		arts		deu:Artz
 PWN:doctor.n.01		dokter		:doctor
 PWN:dog.n.01		hond		
+PWN:doll.n.01		pop	
 PWN:dolphin.n.02		dolfijn		fra:dalfin, dauphin
 PWN:domestic_ass.n.01		ezel		:asinus
 PWN:domestic_fowl.n.01		kip		
@@ -493,19 +539,23 @@ PWN:dough.n.01		deeg
 PWN:dove.n.01		duif		
 PWN:down.r.01		naar beneden		
 PWN:down.r.01		omlaag		
+PWN:drag.v.01		slepen	
 PWN:draw.v.07		water putten		
 PWN:dream.v.02		dromen		
 PWN:dress.n.01		jurk		fra:journée
+PWN:drill.n.01		boor	
 PWN:drink.v.01		drinken		
 PWN:drip.v.01		druppelen		
 PWN:drive.v.01		autorijden		
 PWN:drivel.v.01		kwijlen		
 PWN:driver's_license.n.01		rijbewijs		
+PWN:drop.n.01		drop	
 PWN:drop.v.01		laten vallen		
 PWN:drown.v.03		verdrinken		
 PWN:drum.n.01		trom		deu:trum(m)e
 PWN:drum.n.01		trommel		deu:Trommel
 PWN:dry.a.01		droog		
+PWN:dry.v.01		föhnen	
 PWN:duck.n.01		eend		
 PWN:dumb.s.04		stom		
 PWN:dust.n.01		stof (1)		
@@ -524,6 +574,7 @@ PWN:edge.n.06		rand
 PWN:egg.n.02		ei		
 PWN:egg_yolk.n.01		dooier		
 PWN:eight.s.01		acht		
+PWN:eighty.s.01		tachtig	
 PWN:elbow.n.01		elleboog		
 PWN:election.n.01		verkiezing		
 PWN:electricity.n.02		elektriciteit		fra:electricity
@@ -548,9 +599,12 @@ PWN:enter.v.01		binnenkomen
 PWN:entirely.r.02		enige		
 PWN:envy.n.01		afgunst		
 PWN:envy.n.01		jaloezie		fra:jalousie
+PWN:equal.a.01		gelijk	
+PWN:erstwhile.s.01		voormalig	
 PWN:estimate.v.01		gissen		
 PWN:estimate.v.01		raden		
 PWN:evening.n.01		avond		
+PWN:evil.a.01		kwaad	
 PWN:ewe.n.03		ooi		
 PWN:exclaim.v.01		schreeuwen		
 PWN:exit.v.01		weggaan		
@@ -570,11 +624,13 @@ PWN:fall.n.01		herfst
 PWN:fall.n.01		najaar		
 PWN:fall.v.01		vallen		
 PWN:fall.v.23		glijden		
+PWN:familiar.a.01		vertrouwd	
 PWN:family.n.02		gezin		
 PWN:famine.n.02		hongersnood		
 PWN:fan.n.01		waaier		
 PWN:fan.v.03		koelte toewaaien		
 PWN:far.r.02		ver		
+PWN:faraway.s.01		ver	
 PWN:farmer.n.01		boer		
 PWN:fart.v.01		een scheet laten		
 PWN:fast.r.01		snel		
@@ -587,7 +643,9 @@ PWN:faucet.n.01		kraan
 PWN:fault.n.06		schuld		
 PWN:faulty.s.02		verkeerd		
 PWN:fear.n.01		angst		
+PWN:fear.v.01		bang	
 PWN:feather.n.01		veer		
+PWN:feed.v.01		voeren	
 PWN:feel.v.09		voelen		
 PWN:felt.n.01		vilt		
 PWN:female.a.01		vrouwtjes-		
@@ -600,9 +658,12 @@ PWN:few.a.01		weinig
 PWN:field.n.01		akker		
 PWN:field.n.01		veld		
 PWN:fifteen.s.01		vijftien		
+PWN:fifty.s.01		vijftig	
 PWN:fig.n.04		vijg		fra:figes
 PWN:fin.n.06		vin		
 PWN:find.v.03		vinden		
+PWN:fine-looking.s.01		fraai	
+PWN:fine.a.05		ijl	
 PWN:fine.n.01		boete		
 PWN:finger.n.01		vinger		
 PWN:fingernail.n.01		nagel (2)		
@@ -613,11 +674,13 @@ PWN:fireplace.n.01		haard
 PWN:firewood.n.01		brandhout		
 PWN:first.a.01		eerste		
 PWN:fish.n.01		vis		
+PWN:fish.v.02		vissen	
 PWN:fisherman.n.01		visser		
 PWN:fishhook.n.01		vishaak		
 PWN:fishing_line.n.01		vislijn		
 PWN:fishnet.n.01		visnet		
 PWN:five.s.01		vijf		
+PWN:flag.n.01		vlag	
 PWN:flat.s.01		plat		fra:plat
 PWN:flat.s.01		vlak		
 PWN:flay.v.01		villen		
@@ -652,12 +715,15 @@ PWN:forgive.v.01		vergeven
 PWN:fork.n.01		vork		:furca
 PWN:fork.n.03		gevorkte tak		
 PWN:fortress.n.01		vesting		
+PWN:forty.s.01		veertig	
 PWN:four.s.01		vier		
 PWN:fox.n.01		vos		
 PWN:fragrant.a.01		welriekend		
+PWN:free.a.01		vrij	
 PWN:freeman.n.01		vrije		
 PWN:freeze.v.02		bevriezen		
 PWN:frequently.r.01		vaak		
+PWN:fresh.a.01		vers	
 PWN:friday.n.01		vrijdag		
 PWN:friend.n.01		vriend		
 PWN:frog.n.01		kikker		
@@ -666,14 +732,22 @@ PWN:fry.v.02		braden
 PWN:full.a.01		vol		
 PWN:fur.n.03		bont		:punctus
 PWN:furrow.n.01		vore		
+PWN:future.n.01		toekomst	
 PWN:gain.v.08		verdienen		
 PWN:garden.n.03		tuin		
+PWN:garlic.n.01		knoflook	
 PWN:gate.n.01		deur		
 PWN:gate.n.01		poort		:porta
+PWN:gateway.n.01		hek	
 PWN:gather.v.01		verzamelen		deu:versammeln
+PWN:gentle.s.01		teder	
 PWN:get.v.01		krijgen		
+PWN:get_up.v.02		opstaan	
 PWN:ghost.n.03		spook		
+PWN:giant_panda.n.01		panda	
+PWN:gift.n.01		cadeau	
 PWN:gill.n.04		kieuw		
+PWN:ginger.n.01		gember	
 PWN:gingiva.n.01		tandvlees		
 PWN:girl.n.01		meisje		
 PWN:give.v.03		geven		
@@ -707,6 +781,7 @@ PWN:grasshopper.n.01		sprinkhaan
 PWN:grave.n.02		graf		
 PWN:green.a.03		onrijp		
 PWN:green.s.01		groen		
+PWN:grey.s.01		grijs	
 PWN:grief.n.02		verdriet		
 PWN:grind.v.05		fijnmalen		
 PWN:grind.v.05		malen		
@@ -715,20 +790,27 @@ PWN:grow.v.03		groeien
 PWN:guard.n.01		bewaker		
 PWN:guest.n.01		gast		
 PWN:guilty.a.01		schuldig		
+PWN:guitar.n.01		gitaar	
 PWN:gull.n.02		meeuw		
 PWN:gun.n.01		geweer		
+PWN:hail.n.01		hagel	
+PWN:hair.n.01		haar	
 PWN:hammer.n.02		hamer		
 PWN:hammock.n.02		hangmat		spa:hamaca
+PWN:hamster.n.01		hamster	
 PWN:hand.n.01		hand		
 PWN:hang.v.02		ophangen		
 PWN:happy.a.01		gelukkig		
 PWN:hard.a.03		hard		
+PWN:hardworking.s.01		ijverig	
 PWN:hare.n.01		haas		
 PWN:hark_back.v.01		terugkomen		
 PWN:harvest.n.04		oogst		:augustus
+PWN:hat.n.01		muts	
 PWN:hate.v.01		haten		
 PWN:have.v.01		hebben		
 PWN:hawk.n.01		havik		
+PWN:hawthorn.n.01		meidoorn	
 PWN:hay.n.01		hooi		
 PWN:head.n.01		hoofd		
 PWN:head_covering.n.01		sluier		deu:Schleier
@@ -757,6 +839,7 @@ PWN:high_tide.n.01		vloed
 PWN:hill.n.01		berg		
 PWN:hill.n.01		heuvel		
 PWN:hip.n.01		heup		
+PWN:hippopotamus.n.01		nijlpaard	
 PWN:hire.v.01		aanstellen		
 PWN:hire.v.01		in dienst nemen		
 PWN:hoe.n.01		schoffel		
@@ -777,7 +860,9 @@ PWN:hour.n.01		uur		fra:(h)ore
 PWN:house.n.01		huis		
 PWN:hovel.n.01		hut		deu:Hütte
 PWN:howl.v.02		huilen		
+PWN:humid.s.01		klam	
 PWN:hundred.s.01		honderd		
+PWN:hunger.n.01		honger	
 PWN:hungry.a.01		honger hebben		
 PWN:hunt.v.01		jagen		
 PWN:husband.n.01		echtgenoot		
@@ -787,11 +872,13 @@ PWN:ice.n.01		ijs
 PWN:idea.n.01		idee		fra:idée
 PWN:idol.n.01		afgod		
 PWN:ignite.v.01		aansteken		
+PWN:igniter.n.01		aansteker	
 PWN:ill.a.01		ziek		
 PWN:imitate.v.01		imiteren		fra:imiter
 PWN:imitate.v.01		nadoen		
 PWN:immediately.r.01		direct		fra:direct
 PWN:immediately.r.01		onmiddellijk		
+PWN:important.a.01		belangrijk	
 PWN:incrimination.n.01		schuld		
 PWN:indicate.v.02		tonen		
 PWN:injection.n.03		injectie		fra:injection
@@ -829,10 +916,13 @@ PWN:knead.v.01		kneden
 PWN:knee.n.01		knie		
 PWN:kneel.v.01		knielen		
 PWN:knife.n.01		mes		
+PWN:knit.v.01		breien	
+PWN:knock.v.02		kloppen	
 PWN:knot.n.02		knoop		
 PWN:know.v.01		weten		
 PWN:ladder.n.01		ladder		
 PWN:lagoon.n.01		lagune		fra:lagune
+PWN:lair.n.01		den	
 PWN:lake.n.01		meer (1)		
 PWN:lamb.n.01		lam (1)		
 PWN:land.n.02		bodem		
@@ -846,6 +936,7 @@ PWN:last.a.02		laatste
 PWN:last.v.01		duren		fra:durer
 PWN:late.r.01		laat		
 PWN:laugh.v.01		lachen		
+PWN:laughter.n.02		gelach	
 PWN:law.n.01		wet		
 PWN:lead.n.02		lood		:*loudiom
 PWN:lead.v.01		leiden		
@@ -855,33 +946,39 @@ PWN:leather.n.01		leer
 PWN:left.r.01		links		
 PWN:leg.n.02		been		
 PWN:lend.v.02		lenen		
+PWN:lentil.n.01		linze	
 PWN:let_go_of.v.01		loslaten		
 PWN:letter.n.01		brief		:brevis
 PWN:liberate.v.03		bevrijden		
 PWN:license_plate.n.01		nummerplaat		
 PWN:lick.v.02		likken		
+PWN:lie.v.02		liegen	
 PWN:lie.v.05		liegen		
 PWN:lie_down.v.01		gaan liggen		
 PWN:light.a.01		licht (3)		
 PWN:light.a.06		licht (2)		
 PWN:lightning.n.01		bliksem		
+PWN:like.v.03		lijken	
 PWN:limp.v.01		hinken		
 PWN:line.n.04		lijn		
 PWN:linen.n.01		linnen		
 PWN:lion.n.01		leeuw		:leō
 PWN:lip.n.01		lip		
 PWN:listen.v.01		luisteren		
+PWN:little.r.01		gering	
 PWN:little_brother.n.01		broer		
 PWN:little_sister.n.01		zus(ter)		
 PWN:liver.n.01		lever		
 PWN:livestock.n.01		vee		
 PWN:lizard.n.01		hagedis		
+PWN:lobster.n.02		kreeft	
 PWN:lock.n.01		slot		
 PWN:long.a.02		lang		
 PWN:long.r.01		lang		
 PWN:look.v.01		kijken		
 PWN:look.v.02		lijken		
 PWN:loom.n.01		weefgetouw		
+PWN:loose.a.01		los	
 PWN:loot.n.01		buit		
 PWN:lord.n.03		edele		
 PWN:lose.v.05		verliezen		
@@ -896,6 +993,8 @@ PWN:lung.n.01		long
 PWN:machine.n.01		machine		fra:machine
 PWN:magic.n.01		toverij		
 PWN:mail.n.02		post (2)		fra:poste
+PWN:mail.v.01		posten	
+PWN:mailman.n.01		postbode	
 PWN:mainland.n.01		vasteland		
 PWN:make.v.49		pissen		fra:pissier
 PWN:make.v.49		plassen		
@@ -904,6 +1003,7 @@ PWN:male.s.03		mannelijk
 PWN:male_child.n.01		jongen		
 PWN:man.n.01		man (1)		
 PWN:manger.n.01		trog		
+PWN:mango.n.02		mango	
 PWN:manner.n.01		manier		fra:manière
 PWN:manner.n.01		wijs (2)		
 PWN:many.a.01		veel		
@@ -912,6 +1012,7 @@ PWN:marketplace.n.02		markt		:mercātus
 PWN:marriage.n.03		bruiloft		
 PWN:marry.v.01		trouwen		
 PWN:mason.n.04		metselaar		:macio
+PWN:massage.v.01		masseren	
 PWN:mast.n.01		mast		
 PWN:mat.n.01		mat		:matta
 PWN:match.n.01		lucifer		eng:lucifer
@@ -922,6 +1023,7 @@ PWN:measure.v.01		meten
 PWN:meat.n.01		vlees		
 PWN:medicine.n.02		medicijn		:medicīna
 PWN:meet.v.09		ontmoeten		
+PWN:melt.v.01		smelten	
 PWN:merchant.n.01		handelaar		
 PWN:milk.n.01		melk		
 PWN:milk.v.01		melken		
@@ -933,9 +1035,12 @@ PWN:mirror.n.01		spiegel		:speglum
 PWN:misfortune.n.02		ongeluk		
 PWN:misfortune.n.02		pech		deu:Pech
 PWN:miss.v.07		missen		
+PWN:miss.v.08		barsten	
 PWN:mistake.n.01		fout		fra:faute
 PWN:mix.v.04		roeren		
 PWN:molar.n.01		kies		
+PWN:mold.n.05		schimmel	
+PWN:mole.n.06		mol	
 PWN:monday.n.01		maandag		
 PWN:money.n.01		geld		
 PWN:monkey.n.01		aap		
@@ -950,6 +1055,8 @@ PWN:mosquito.n.01		muskiet		spa:mosquito
 PWN:mother.n.01		moeder		
 PWN:motor.n.01		motor		:motor
 PWN:motorcycle.n.01		motorfiets		
+PWN:mountain.n.01		berg	
+PWN:mouse.n.01		muis	
 PWN:mouth.n.01		mond		
 PWN:move.v.02		bewegen		
 PWN:movie.n.01		film		eng:film
@@ -961,6 +1068,7 @@ PWN:mumble.v.01		mompelen
 PWN:murder.n.01		moord		
 PWN:mushroom.n.02		paddenstoel		
 PWN:music.n.04		muziek		fra:musique
+PWN:mustard.n.02		mosterd	
 PWN:nail.n.02		nagel (1)		
 PWN:nail.n.02		spijker		
 PWN:name.n.01		naam		
@@ -972,6 +1080,7 @@ PWN:near.r.01		dichtbij
 PWN:necessity.n.01		noodzaak		
 PWN:neck.n.01		hals		
 PWN:necklace.n.01		ketting		
+PWN:necktie.n.01		stropdas	
 PWN:needle.n.03		naald		
 PWN:neighbor.n.01		buur		
 PWN:nephew.n.01		neef		
@@ -983,6 +1092,7 @@ PWN:newspaper.n.01		krant		fra:courant
 PWN:niece.n.01		nicht		
 PWN:night.n.01		nacht		
 PWN:nine.s.01		negen		
+PWN:ninety.s.01		negentig	
 PWN:nipple.n.01		tepel		
 PWN:nit.n.02		neet		
 PWN:no.r.03		nee		
@@ -1006,6 +1116,7 @@ PWN:ocean.n.01		oceaan		fra:océan
 PWN:oil.n.01		olie		:olium
 PWN:ointment.n.01		zalf		
 PWN:old.a.01		oud		
+PWN:old.a.02		tweedehands	
 PWN:old_man.n.01		man (1)		
 PWN:old_woman.n.01		vrouw (1)		
 PWN:old_world_buffalo.n.01		buffel		fra:buffle
@@ -1014,8 +1125,11 @@ PWN:olive.n.01		olijf		:olīva
 PWN:omen.n.01		voorteken		
 PWN:one-half.n.01		helft		
 PWN:one.s.01		een		
+PWN:onion.n.02		ui	
+PWN:open.a.01		open	
 PWN:open.v.01		openen		
 PWN:opossum.n.02		opossum		eng:opossum
+PWN:orange.s.01		oranje	
 PWN:order.v.01		bevelen		
 PWN:order.v.01		opdragen		
 PWN:orphan.n.01		wees		
@@ -1035,6 +1149,7 @@ PWN:pain.n.03		pijn		:pena, poena
 PWN:paint.n.01		verf		
 PWN:paint.v.02		schilderen		
 PWN:paint.v.02		verven		
+PWN:paintbrush.n.01		kwast	
 PWN:pair.n.01		paar		:par
 PWN:palm.n.01		palm (1)		fra:palme, palma
 PWN:palm.n.03		palm (2)		:palma
@@ -1045,14 +1160,19 @@ PWN:parrot.n.01		papegaai		fra:papegai
 PWN:part.n.02		deel		
 PWN:part.n.03		stuk (1)		
 PWN:partake.v.02		delen		
+PWN:parturition.n.01		geboren	
+PWN:passeridae.n.01		mus	
 PWN:pasture.n.01		weide		
 PWN:path.n.02		pad		
 PWN:pay.v.01		betalen		
 PWN:peace.n.01		vrede		
 PWN:peak.n.04		top		
+PWN:pear.n.01		peer	
 PWN:peg.n.01		haring		
 PWN:peg.n.01		pin		
 PWN:pen.n.01		pen		:penna
+PWN:pencil.n.01		potlood	
+PWN:penguin.n.01		pinguïn	
 PWN:penis.n.01		penis		:pēnis
 PWN:pepper.n.03		peper		:piper
 PWN:perjury.n.01		meineed		
@@ -1061,6 +1181,8 @@ PWN:person.n.01		mens
 PWN:person.n.01		persoon		:persona
 PWN:pestle.n.03		stamper		
 PWN:petroleum.n.01		aardolie		
+PWN:photograph.v.01		fotograferen	
+PWN:pick.v.02		plukken	
 PWN:pick_up.v.02		optillen		
 PWN:pile_up.v.02		opstapelen		
 PWN:pill.n.02		pil		:pillula
@@ -1068,7 +1190,9 @@ PWN:pillow.n.01		kussen (1)		fra:cussin
 PWN:pinch.v.01		knijpen		
 PWN:pine.n.01		den		
 PWN:pine.n.01		pijnboom		
+PWN:pink.s.01		roze	
 PWN:pipe.n.01		pijp		:*pipa
+PWN:piquant.s.01		kruidig	
 PWN:pitcher.n.02		kruik		
 PWN:pitchfork.n.01		mestvork		
 PWN:pitchfork.n.01		vork		:furca
@@ -1078,6 +1202,8 @@ PWN:plant.n.02		plant		:planta
 PWN:plant.v.01		planten		:plantare
 PWN:plastic.n.01		plastic		eng:plastic
 PWN:plate.n.04		bord		
+PWN:play.v.01		golfen	
+PWN:play.v.03		spelen	
 PWN:play.v.05		spelen		
 PWN:plot.n.01		samenzwering		
 PWN:plow.v.01		ploegen		
@@ -1120,13 +1246,16 @@ PWN:proud.a.01		trots		deu:trotz
 PWN:pubic_hair.n.01		schaamhaar		
 PWN:pull.v.01		trekken		
 PWN:punishment.n.01		straf		deu:Strafe
+PWN:purple.s.01		paars	
 PWN:pursue.v.02		achtervolgen		
 PWN:pus.n.02		etter		
 PWN:pus.n.02		pus		:pūs
 PWN:push.v.01		duwen		
 PWN:put.v.01		leggen		
+PWN:pyramid.n.01		pyramide	
 PWN:quail.n.02		kwartel		
 PWN:quarrel.n.01		ruzie		
+PWN:quarrel.v.01		ruzie maken	
 PWN:queen.n.02		koningin		
 PWN:quiet.a.02		stil		
 PWN:rabbit.n.01		konijn		fra:conin
@@ -1136,20 +1265,24 @@ PWN:raft.n.01		vlot
 PWN:rafter.n.01		dakspar		
 PWN:rag.n.01		zakdoek		
 PWN:rain.n.01		regen		
+PWN:rain.v.01		regen	
 PWN:rainbow.n.01		regenboog		
 PWN:raise.v.02		optillen		
 PWN:rake.n.03		hark		
+PWN:rake.v.01		harken	
 PWN:ram.n.05		ram		
 PWN:rape.n.03		aanranding		
 PWN:rat.n.01		muis		
 PWN:rat.n.01		rat		
 PWN:rattle.n.02		ratel		
+PWN:rattlesnake.n.01		ratelslang	
 PWN:raw.a.03		rauw		
 PWN:razor.n.01		scheermes		
 PWN:read.v.01		lezen		
 PWN:ready.a.01		gereed		
 PWN:ready.a.01		klaar		:clārus
 PWN:red.s.01		rood		
+PWN:reed.n.01		riet	
 PWN:reef.n.01		rif		nhu:rif
 PWN:refund.v.01		teruggeven		
 PWN:refuse.v.01		weigeren		
@@ -1163,14 +1296,17 @@ PWN:repent.v.02		spijt hebben
 PWN:rescue.v.01		redden		
 PWN:rest.v.05		rusten		
 PWN:rib.n.02		rib		
+PWN:ribbon.n.04		lint	
 PWN:rice.n.02		rijst		fra:ris
 PWN:rich.a.01		rijk		:*riks
 PWN:ride.v.01		rijden		
 PWN:ridge.n.06		nok		
 PWN:right.r.04		rechts		
 PWN:ring.n.08		ring		
+PWN:ring.v.01		aanbellen	
 PWN:ripe.a.01		rijp		
 PWN:rise.v.16		opkomen		
+PWN:river.n.01		rivier	
 PWN:road.n.01		weg		
 PWN:rock.n.01		rots		pcd:roch
 PWN:rock.n.01		steen		
@@ -1187,17 +1323,21 @@ PWN:rub.v.01		wrijven
 PWN:rub.v.03		krabben		
 PWN:rudder.n.02		roer		
 PWN:rug.n.01		tapijt		fra:tapit
+PWN:rule.n.12		liniaal	
 PWN:run.v.01		rennen		
 PWN:run.v.06		stromen		
 PWN:rush.v.04		zich haasten		fra:se haster
 PWN:rye.n.02		rogge		:rŭžĭ
 PWN:sacrifice.n.04		offer		:offerre
+PWN:sad.a.01		droevig	
 PWN:sail.n.01		zeil		
 PWN:sail.v.03		zeilen		
+PWN:salmon.n.01		zalm	
 PWN:salt.n.02		zout (1)		
 PWN:salty.s.03		zout (2)		
 PWN:same.a.01		dezelfde		
 PWN:sand.n.01		zand		
+PWN:santa_claus.n.01		kerstman	
 PWN:sap.n.01		sap		
 PWN:saturday.n.01		zaterdag		:dies Saturni
 PWN:saucer.n.02		schotel		:scutella
@@ -1229,6 +1369,7 @@ PWN:sentence.v.01		veroordelen
 PWN:separate.v.02		scheiden		
 PWN:servant.n.01		bediende		deu:Bediente(r)
 PWN:seven.s.01		zeven (2)		
+PWN:seventy.s.01		zeventig	
 PWN:sew.v.01		naaien		
 PWN:shadow.n.01		schaduw		
 PWN:shake.v.01		schudden		
@@ -1236,6 +1377,8 @@ PWN:shallow.a.01		ondiep
 PWN:shame.n.01		schaamte		
 PWN:shark.n.01		haai		nhu:hár
 PWN:sharp.a.09		scherp		
+PWN:sharpen.v.01		slijpen	
+PWN:shave.v.01		scheren	
 PWN:shears.n.01		schaar		
 PWN:shed.n.01		tuinhuis		
 PWN:sheep.n.01		schaap		
@@ -1254,6 +1397,7 @@ PWN:shovel.n.01		schop
 PWN:shriek.v.01		krijsen		
 PWN:shriek.v.01		schreeuwen		
 PWN:shudder.v.02		rillen		
+PWN:shut.a.01		gesloten	
 PWN:sibling.n.01		broer		
 PWN:sibling.n.01		zus(ter)		
 PWN:side.n.01		kant		:cantus
@@ -1268,6 +1412,10 @@ PWN:sink.v.01		zinken
 PWN:sister.n.01		zus(ter)		
 PWN:sit_down.v.01		zitten		
 PWN:six.s.01		zes		
+PWN:sixty.s.01		zestig	
+PWN:skate.v.01		rolschaatsen	
+PWN:skeletal_system.n.01		geraamte	
+PWN:ski.n.01		skiën	
 PWN:skin.v.04		pellen		:pellis
 PWN:skin.v.04		schillen		
 PWN:skirt.n.02		rok		
@@ -1296,9 +1444,12 @@ PWN:snog.v.01		kussen (2)
 PWN:snore.v.01		snurken		
 PWN:snot.n.02		snot		
 PWN:snow.n.01		sneeuw		
+PWN:snowman.n.01		sneeuwman	
 PWN:snowshoe.n.01		sneeuwschoen		
 PWN:snuff_out.v.02		doven		
 PWN:soap.n.01		zeep		
+PWN:sock.n.01		sok	
+PWN:sofa.n.01		bank	
 PWN:soft.a.01		zacht		
 PWN:soldier.n.01		soldaat		fra:soldat
 PWN:some.a.01		enkele		
@@ -1317,13 +1468,16 @@ PWN:sour.a.02		zuur
 PWN:south.n.03		zuiden		
 PWN:sow.n.01		zeug		
 PWN:sow.v.01		zaaien		
+PWN:soy_sauce.n.01		sojasaus	
 PWN:spade.n.02		spade		
 PWN:speak.v.03		spreken		
 PWN:spear.n.01		speer		
 PWN:spectacles.n.01		bril		:beryllus
 PWN:spider.n.01		spin		
 PWN:spider_web.n.02		web		
+PWN:spill.v.01		morsen	
 PWN:spin.v.06		spinnen		
+PWN:spinach.n.01		spinazie	
 PWN:spinal_column.n.01		ruggengraat		
 PWN:spindle.n.04		spindel		deu:Spindel
 PWN:spit.v.01		spugen		
@@ -1337,6 +1491,7 @@ PWN:squash.n.02		pompoen		fra:pompon
 PWN:squat.v.01		hurken		
 PWN:squeeze.v.02		uitpersen		
 PWN:squirrel.n.01		eekhoorn		
+PWN:stairs.n.01		trap	
 PWN:stall.n.01		stal		
 PWN:stallion.n.01		hengst		
 PWN:stand.v.01		staan		
@@ -1349,17 +1504,22 @@ PWN:stepdaughter.n.01		stiefdochter
 PWN:stepfather.n.01		stiefvader		
 PWN:stepmother.n.01		stiefmoeder		
 PWN:stepson.n.01		stiefzoon		
+PWN:stick.n.01		stok	
+PWN:sting.v.02		steken	
 PWN:stingray.n.01		rog		
 PWN:stingy.a.01		gierig		
+PWN:stir.v.01		roeren	
 PWN:stocking.n.01		kous		pcd:cauce
 PWN:stocking.n.01		sok		deu:Socke
 PWN:stomach.n.01		maag		
+PWN:stone.n.02		steen	
 PWN:stool.v.04		poepen		
 PWN:stool.v.04		schijten		
 PWN:storm.n.01		storm		
 PWN:stove.n.01		kachel		deu:Kachelofen
 PWN:straight.a.02		recht		
 PWN:straight_pin.n.01		speld		:spinula
+PWN:strange.a.01		eigenaardig	
 PWN:stranger.n.02		vreemde		
 PWN:stranger.n.02		vreemdeling		deu:Fremdling
 PWN:stream.n.01		rivier		fra:riviere
@@ -1382,6 +1542,7 @@ PWN:surrender.v.01		zich overgeven
 PWN:suspect.v.01		vermoeden		
 PWN:swallow.v.01		doorslikken		
 PWN:swamp.n.01		moeras		pcd:marasc
+PWN:swan.n.01		zwaan	
 PWN:swear.v.03		zweren		
 PWN:sweat.v.01		zweten		
 PWN:sweep.v.06		vegen		
@@ -1391,6 +1552,7 @@ PWN:sweet_potato.n.02		bataat		spa:batata
 PWN:sweet_potato.n.02		zoete aardappel		
 PWN:swelling.n.01		zwelling		
 PWN:swim.v.01		zwemmen		
+PWN:swing.v.01		schommelen	
 PWN:swing_around.v.01		zich omdraaien		
 PWN:sword.n.01		zwaard		
 PWN:table.n.02		tafel		:tabula
@@ -1400,10 +1562,13 @@ PWN:take.v.04		nemen
 PWN:tall.a.01		groot		
 PWN:tall.a.01		hoog		
 PWN:tan.v.01		looien		
+PWN:tank.n.01		tank	
 PWN:tapir.n.01		tapir		por:tapir
 PWN:taste.v.02		proeven		fra:prover
 PWN:taste.v.02		smaken		
+PWN:tasty.a.01		smakelijk	
 PWN:tattoo.n.02		tatoeëring		
+PWN:taut.s.01		spannend	
 PWN:tax.n.01		belasting		
 PWN:tea.n.01		thee		nan:tê
 PWN:teach.v.01		onderwijzen		
@@ -1423,15 +1588,18 @@ PWN:testis.n.01		ballen
 PWN:testis.n.01		testikels		:testiculus
 PWN:thatch.n.02		strodak		
 PWN:there.r.01		daar		
+PWN:thermometer.n.01		thermometer	
 PWN:thick.a.01		dik		
 PWN:thief.n.01		dief		
 PWN:thigh.n.01		dij		
 PWN:thin.a.01		dun		
+PWN:thin.a.02		dun/mager	
 PWN:thing.n.12		ding		
 PWN:think.v.02		menen		
 PWN:think.v.03		denken		
 PWN:third.s.01		derde		
 PWN:thirst.v.01		dorst hebben		
+PWN:thirty.s.01		dertig	
 PWN:thorax.n.02		borst		
 PWN:thousand.s.01		duizend		
 PWN:thrash.v.06		dorsen		
@@ -1450,6 +1618,7 @@ PWN:thursday.n.01		donderdag
 PWN:tick.n.02		teek		
 PWN:tide.n.01		getij(de)		
 PWN:tie.v.01		binden		
+PWN:tiger.n.02		tijger	
 PWN:time.n.05		tijd		
 PWN:tin_plate.n.01		tin		
 PWN:tired.a.01		moe		
@@ -1458,6 +1627,8 @@ PWN:today.r.02		vandaag
 PWN:toe.n.01		teen		
 PWN:toilet.n.01		toilet		fra:toilette
 PWN:toilet.n.01		wc		eng:WC
+PWN:token.n.02		gebaren	
+PWN:tomato.n.01		tomaat	
 PWN:tomorrow.r.01		morgen		
 PWN:tongs.n.01		tang		
 PWN:tongue.n.01		tong		
@@ -1491,6 +1662,7 @@ PWN:twist.v.04		draaien
 PWN:two.s.01		twee		
 PWN:udder.n.01		uier		
 PWN:ugly.a.01		lelijk		
+PWN:umbrella.n.01		paraplu	
 PWN:uncle.n.01		oom		
 PWN:understand.v.01		begrijpen		deu:begreifen
 PWN:unfold.v.04		uitspreiden		
@@ -1502,9 +1674,13 @@ PWN:vagina.n.01		vagina		:vagina
 PWN:valley.n.01		dal		
 PWN:valley.n.01		vallei		fra:vallée
 PWN:vegetable.n.01		groente		
+PWN:very.r.01		zeer	
 PWN:victory.n.01		overwinning		
 PWN:village.n.02		dorp		
 PWN:vine.n.01		wingerd		
+PWN:vinegar.n.01		azijn	
+PWN:visible.a.01		zichtbaar	
+PWN:visit.v.07		bezoeken	
 PWN:voice.n.02		stem		
 PWN:vomit.v.01		braken		
 PWN:vulva.n.01		schaamspleet		
@@ -1521,8 +1697,11 @@ PWN:wall.n.01		muur		:murus
 PWN:warm.a.01		warm		
 PWN:wash.v.03		wassen		
 PWN:wasp.n.02		wesp		
+PWN:watch.v.01		horloge	
 PWN:water.n.06		water		
+PWN:water.v.01		begieten	
 PWN:waterfall.n.01		waterval		
+PWN:watermelon.n.02		watermeloen	
 PWN:wave.n.01		golf		
 PWN:weak.a.01		zwak		
 PWN:weapon.n.01		wapens		
@@ -1539,10 +1718,12 @@ PWN:whale.n.02		walvis
 PWN:wheat.n.01		tarwe		
 PWN:wheel.n.01		wiel		
 PWN:whetstone.n.01		slijpsteen		
+PWN:whip.n.01		zweep	
 PWN:whirlpool.n.01		draaikolk		
 PWN:whisper.v.01		fluisteren		
 PWN:whistle.v.03		fluiten		
 PWN:white.a.01		wit		
+PWN:whole.a.01		gans	
 PWN:wide.a.01		breed		
 PWN:wide.a.01		wijd		
 PWN:widow.n.01		weduwe		
@@ -1559,6 +1740,7 @@ PWN:wine.n.01		wijn		:vīnum
 PWN:wing.n.01		vleugel		
 PWN:winter.n.01		winter		
 PWN:wipe.v.01		afvegen		
+PWN:wipe_up.v.01		dweilen	
 PWN:wise.a.01		verstandig		
 PWN:wise.a.01		wijs (1)		
 PWN:withdraw.v.01		zich terugtrekken		
@@ -1566,6 +1748,7 @@ PWN:witness.n.01		getuige
 PWN:wolf.n.01		wolf		
 PWN:woman.n.01		vrouw (1)		
 PWN:wood.n.01		hout		
+PWN:woodpecker.n.01		specht	
 PWN:wool.n.02		wol		
 PWN:word.n.01		woord		
 PWN:work.n.01		werk		
@@ -1586,4 +1769,5 @@ PWN:yesterday.r.01		gisteren
 PWN:yoke.n.05		juk		
 PWN:young.a.01		jong		
 PWN:young_buck.n.01		jongeman		
+PWN:zebra.n.01		zebra	
 PWN:zero.s.01		nul		ita:nulla
