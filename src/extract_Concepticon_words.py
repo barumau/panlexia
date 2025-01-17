@@ -10,14 +10,14 @@ lang_code_map = {
     "ar" : "arb",
     "az" : "aze",
     "ca" : "cat",
-    "cy" : "cym", #wel?
+    "cy" : "cym",
     "da" : "dan",
     "de" : "deu",
     "el" : "ell",
     "en" : "eng",
     "es" : "spa",
     "et" : "est",
-    "fa" : "fas", #per?
+    "fa" : "fas",
     "fi" : "fin",
     "fr" : "fra",
     "ga" : "gle",
@@ -38,7 +38,7 @@ lang_code_map = {
     "pl" : "pol",
     "pt" : "por",
     "ru" : "rus",
-    "sk" : "slk", #slo?
+    "sk" : "slk",
     "sr" : "srp",
     "sv" : "swe",
     "tr" : "tur",
@@ -46,7 +46,7 @@ lang_code_map = {
     "vi" : "vie",
     "wo" : "wol",
     "xh" : "xho",
-    "zh" : "cmn" #zho?
+    "zh" : "cmn"
 }
 
 def sort_and_write_to_dictionary_file(lang_name, data):
@@ -80,7 +80,7 @@ def write_dictionary_for_one_language(lang_code, id_to_Panlexia):
 
 def create_dictionaries_from_Concepticon(id_to_Panlexia):
     #langs = ["af", "ar", "az", "ca", "cy", "da", "de", "el", "en", "es", "et", "fa", "fi", "fr", "ga", "ha", "he", "hu", "is", "it", "ja", "ka", "la", "lb", "lt", "mr", "mt", "nl", "no", "pl", "pt", "ru", "sk", "sr", "sv", "tr", "uk", "vi", "wo", "xh", "zh"]
-    langs = ["af", "et", "fa",  "lb", "mr", "mt", "sr", "wo", "xh"]
+    langs = ["af", "et", "lb", "mr", "mt", "sr", "wo", "xh"]
     for lang in langs:
         write_dictionary_for_one_language(lang, id_to_Panlexia)
 

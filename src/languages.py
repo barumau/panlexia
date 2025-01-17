@@ -156,11 +156,13 @@ code_to_endonym_map = {
     "vep" : "Vepsä",
     "vie" : "Tiếng Việt",
     "vol" : "Volapük",
+    "wol" : "Wollof",
     "xal" : "Хальмг",
     "yaq" : "Yoem Noki",
     "ykg" : "Вадул аруу",
     "yrk" : "ненэцяʼ вада",
-    "yux" : "Одун ажуу"
+    "yux" : "Одун ажуу",
+    "xho" : "isiXhosa"
 }
 
 code_to_english_map = {
@@ -312,11 +314,13 @@ code_to_english_map = {
     "vep" : "Veps", #?
     "vie" : "Vietnamese",
     "vol" : "Volapuk",
+    "wol" : "Wolof",
     "xal" : "Mongolian Khalkha",
     "yaq" : "Yoem", #?
     "ykg" : "Vodul", #?
     "yrk" : "Nenets",
-    "yux" : "Vodul" #?
+    "yux" : "Vodul", #?
+    "xho" : "Xhosa"
 }
 
 code_to_pandunia_map = {
@@ -468,11 +472,13 @@ code_to_pandunia_map = {
     "vep" : "Vepsa",
     "vie" : "Viet",
     "vol" : "Volapuk",
+    "wol" : "Volof",
     "xal" : "Mongol",
     "yaq" : "Yoem",
     "ykg" : "Vodul",
     "yrk" : "Nenece",
-    "yux" : "Vodul"
+    "yux" : "Vodul",
+    "xho" : "Hosa"
 }
 
 def code_to_endonym(code):
