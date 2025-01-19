@@ -15,6 +15,10 @@ def get_PoS(id):
     else:
         return pos
 
+def get_dictionary_filename(lang_code):
+    filename = "dict/" + lang_code[0].upper() + "/" + lang_code.lower() + ".tsv"
+    return filename
+
 class csv_reader:
     """Helper for opening and closing a CSV or TSV file for reading."""
     def __init__(self, file_name, delimiter):

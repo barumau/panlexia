@@ -29,15 +29,11 @@ Concept_ID = 2
 Word_Form = 3
 IPA = 4
 
-def get_dictionary_filename(lang_code):
-    filename = "dict/" + lang_code[0].upper() + "/" + lang_code.lower() + ".tsv"
-    return filename
-
 def sort_and_write_to_dictionary_file(lang_name, data):
     """Sort the id map by Panlexia id and write TSV file with a header row."""
     sorted_map = sorted(data)
 
-    filename = get_dictionary_filename(lang_name)
+    filename = helpers.get_dictionary_filename(lang_name)
     outfile = helpers.tsv_writer(filename, 'w')
 
     column_num = len(data[0])
@@ -62,7 +58,7 @@ def sort_and_write_to_dictionary_file(lang_name, data):
             outfile.dict.writerow([row[0], row[1], row[2], row[3], row[4]])
 
 def get_original_word_list(lang_code):
-    original_file = get_dictionary_filename(lang_code)
+    original_file = helpers.get_dictionary_filename(lang_code)
 
     with open(original_file) as f:
         reader = csv.reader(f, delimiter='\t')

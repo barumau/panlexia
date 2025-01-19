@@ -147,10 +147,6 @@ def format_and_write(source_lang, target_lang, dict):
     file.write("\n\"[Panlexia](https://github.com/barumau/panlexia)\" by Risto Kupsala et al. is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)")
     print(f"Created {filename} with {len(sorted_dict)} entry terms.")
 
-def get_dictionary_filename(lang_code):
-    filename = "dict/" + lang_code[0].upper() + "/" + lang_code + ".tsv"
-    return filename
-
 source_lang = sys.argv[1]
 target_lang = sys.argv[2]
 
@@ -158,8 +154,8 @@ if source_lang == target_lang:
     print("The source and target languages are the same:", source_lang)
     sys.exit
 
-source_language_dict = get_dictionary_filename(source_lang)
-target_language_dict = get_dictionary_filename(target_lang)
+source_language_dict = helpers.get_dictionary_filename(source_lang)
+target_language_dict = helpers.get_dictionary_filename(target_lang)
 
 print(f"Making bilingual {source_lang}-{target_lang} dictionary...")
 
