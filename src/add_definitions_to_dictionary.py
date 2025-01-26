@@ -10,11 +10,21 @@ The program will
 3. insert ids and definitions for concepts that haven't been translated yet
 4. write the modified file with the same name (f.ex. dict/F/fra.tsv).
 
+The header row of the dictionary will change, for example, as below:
+    Before: id	style	word
+    After:  id	style	word	definition
+
 CC-BY 2025 Panlexia (https://github.com/barumau/panlexia)
 """
 import csv
 import helpers
 import sys
+
+
+def get_header_row(filename):
+    """Get the header row of a dictionary as a list."""
+    reader = helpers.tsv_reader(filename)
+    return reader.dict.fieldnames
 
 def get_dictionary_to_list(original_file):
     """Read dictionary to a list without the header row."""
@@ -25,36 +35,20 @@ def get_dictionary_to_list(original_file):
     # Remove the header row, sort the list and return it.
     return sorted(word_list[1:])
 
-def sort_and_write_to_dictionary_file(lang_name, data):
+def sort_and_write_to_dictionary_file(lang_name, header_row, data):
     """Sort the id map by Panlexia id and write a TSV file with a header row."""
     sorted_map = sorted(data)
 
     filename = helpers.get_dictionary_filename(lang_name)
     outfile = helpers.tsv_writer(filename, 'w')
 
-    column_num = len(data[0])
-    if column_num == 6:
-        outfile.dict.writerow(["id", "style", "word", "pronunciation", "etymology", "definition"])
-    elif column_num == 5:
-        outfile.dict.writerow(["id", "style", "word", "pronunciation", "definition"])
-    else:
-        outfile.dict.writerow(["id", "style", "word", "definition"])
+    header_row.append("definition")
+    outfile.dict.writerow(header_row)
 
     for row in sorted_map:
-        if len(row) == 3:
-            # Write id, word, definition.
-            outfile.dict.writerow([row[0], row[1], row[2]])
-        elif len(row) == 4:
-            # Write id, style, word, definition.
-            outfile.dict.writerow([row[0], row[1], row[2], row[3]])
-        elif len(row) == 5:
-            # Write id, style, word, pronunciation, definition.
-            outfile.dict.writerow([row[0], row[1], row[2], row[3], row[4]])
-        elif len(row) == 5:
-            # Write id, style, word, pronunciation, etymology, definition.
-            outfile.dict.writerow([row[0], row[1], row[2], row[3], row[4], row[5]])
+        outfile.dict.writerow(row)
 
-def write_dictionary_with_definitions(lang_code, word_list, definition_list):
+def write_dictionary_with_definitions(lang_code, header_row, word_list, definition_list):
     """Writes dictionary for one language ordered by Panlexia id."""
     word_index = 0
     definition_index = 0
@@ -101,14 +95,15 @@ def write_dictionary_with_definitions(lang_code, word_list, definition_list):
         word_index = word_index + 1
 
     #print(dictionary)
-    sort_and_write_to_dictionary_file(lang_code, dictionary)
+    sort_and_write_to_dictionary_file(lang_code, header_row, dictionary)
 
 
 lang_code = sys.argv[1]
 original_filename = helpers.get_dictionary_filename(lang_code)
+header_row = get_header_row(original_filename)
 original_dict = get_dictionary_to_list(original_filename)
 
 definition_filename = 'concepts/E/eng-definition.tsv'
 definition_dict = get_dictionary_to_list(definition_filename)
 
-write_dictionary_with_definitions(lang_code, original_dict, definition_dict)
+write_dictionary_with_definitions(lang_code, header_row, original_dict, definition_dict)
