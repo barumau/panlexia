@@ -483,6 +483,7 @@ PWN:bus.n.01	多くの乗客を乗せる乗り物
 PWN:business.n.01	商工業の会社とその構成員
 PWN:bustard.n.01	強力な迅速な飛行ができる大きいずっしりとした体の主として陸生の狩猟鳥
 PWN:bustle.n.01	急激で活発な動揺
+PWN:busy.s.04	多くの活動で込み合っている、またはそれにとくちょうづけられる
 PWN:butcher.v.01	通常食糧消費のために殺す（動物）
 PWN:butter_knife.n.01	切れ味が悪い小型ナイフ
 PWN:butter.n.01	牛乳またはクリームをかき回して作る、食用の脂肪球の乳状液
@@ -631,6 +632,8 @@ PWN:chrysanthemum.n.01	キクの花
 PWN:church.n.01	キリスト教徒のグループで、彼ら自身の信仰を持ち、礼拝を形成した
 PWN:church.n.02	市民（特にキリスト教徒の）崇拝の場所
 PWN:cigarette.n.01	紙に包んだ細かく挽いたタバコ
+PWN:cinema.n.02	映画が上映される劇場
+PWN:cinematic.a.01	映画館の、映画館に関する、または、映画館に特徴的な
 PWN:circle.n.01	2本の軸が等しい長さである楕円
 PWN:circle.n.03	円の形に近いもの
 PWN:circumcision.n.03	割礼を施す行為
@@ -695,6 +698,7 @@ PWN:comedy.n.01	ハッピーエンドの軽くユーモラスなドラマ
 PWN:comfort.n.01	くつろいでいるか痛みを感じていない状態
 PWN:command.n.01	何かをする正式の指示か命令
 PWN:commend.v.01	認可を表明する
+PWN:commercial_enterprise.n.02	財政、商業、産業の面を含む、財貨とサービスを供給する活動
 PWN:commiseration.n.01	人の不幸に対する同情と悲しみの気持ち
 PWN:committee.n.01	ある問題について検討することを委ねられた特別のグループ
 PWN:common_eel.n.01	成体として淡水にすむが、産卵するために海に戻るウナギ類
@@ -1075,6 +1079,7 @@ PWN:enemy.n.02	武装した相手（特に対立する軍事力の一員）
 PWN:energy.n.01	動作する物理的システムの容量と同等の熱力学量
 PWN:enough.r.01	必要なだけ
 PWN:enter.v.01	来るまたは中に入る
+PWN:entertainment_industry.n.01	娯楽の提供に携わる人々：ラジオやテレビ、映画、演劇
 PWN:enthuse.v.01	熱意を感じる原因
 PWN:enthusiasm.n.01	興奮した気持ち
 PWN:entirely.r.02	含まれるまたは関係する他のものなしで
@@ -1102,9 +1107,11 @@ PWN:example.n.01	ある階級または集団の典型とされる情報の物
 PWN:excessively.r.01	通常であるか適当な限度を上回っている
 PWN:exchange.v.01	互いに与える、また受け取る
 PWN:exclaim.v.01	大声で発声する
+PWN:exempt.a.01	（人々について）他者や他の物は対象となる義務や法的責任（税金など）から解放される、または訴追されない
 PWN:exercise.n.01	健康を維持するための様々な方法での筋肉の鍛錬
 PWN:exercise.n.03	何度も繰り返すことによる体系的な訓練
 PWN:exist.v.01	存在を持つ、存在する
+PWN:exit.n.01	脱出または放出させる穴
 PWN:exit.v.01	出て行く、または立ち去る
 PWN:exit.v.01	出て行く、または立ち去る
 PWN:expand.v.01	1つまたはそれ以上の方向に伸ばす
@@ -1143,6 +1150,7 @@ PWN:family.n.02	主要な社会グループ
 PWN:famine.n.02	激しい飢えと飢餓と死をもたらす（収穫不作を通した）厳しい食糧難
 PWN:fan.n.01	1つ以上の面を動かすことで空気の流れを作る装置
 PWN:fan.n.01	1つ以上の面を動かすことで空気の流れを作る装置
+PWN:fan.n.03	熱烈な追随者および賛美者
 PWN:fan.v.03	空気を扇動する
 PWN:fanciful.s.02	事実に基づいていないさま
 PWN:far.a.01	時間、スペース、程度において非常に距離がある
@@ -1196,6 +1204,7 @@ PWN:file.n.01	ともに保管される関連した（書かれたものまたは
 PWN:file.n.04	鋼鉄製の手道具でいくつかまたは全部の面に鋭い歯が付いている
 PWN:fill.v.01	比喩的な感覚においても、いっぱいにする
 PWN:film.n.04	薄い被膜または層
+PWN:filming.n.01	映画を製作する行為
 PWN:fin.n.06	魚や他の水生動物の移動やバランス用の器官
 PWN:finally.r.01	不特定の期間か特に長い遅れの後に
 PWN:find.v.03	探した後で次に来る
@@ -1293,6 +1302,7 @@ PWN:frame.n.01	眼鏡にための枠組み
 PWN:framework.n.03	何かを支える、あるいは保持する構造物
 PWN:francium.n.01	アクチニンの分解物として存在するアルカリ金属類の放射性元素
 PWN:free.a.01	意のままに行動することができる
+PWN:freedom.n.01	自由である状態
 PWN:freeman.n.01	農奴や奴隷でない人
 PWN:freeze.v.01	動くのを止める、または静止する
 PWN:freeze.v.02	氷への変化
@@ -1395,6 +1405,7 @@ PWN:gourd.n.03	堅い皮の果実を実らせるウリ科のつる植物の総�
 PWN:govern.v.03	権限を振るう
 PWN:government.n.01	政治体の行政部門である組織
 PWN:gradual.a.01	小さな場面で進む
+PWN:grain.n.01	物質の比較的小さな顆粒状粒子
 PWN:grain.n.08	穀物草
 PWN:grammar.n.01	言語学の部門で、構文論や形態論をテーマにする（時には、意味論もテーマにする）
 PWN:grandchild.n.01	息子または娘の子供
@@ -1403,6 +1414,7 @@ PWN:grandfather.n.01	父あるいは母の父親
 PWN:grandma.n.01	父あるいは母の母親
 PWN:grandparent.n.01	父あるいは母の親
 PWN:grandson.n.01	男の孫
+PWN:granule.n.01	小さい穀物
 PWN:grape.n.01	緑または紫の表皮を持つブドウ属の様々な果汁のある果物のどれか
 PWN:grasp.v.01	しっかりと持つ
 PWN:grass_skirt.n.01	長い草の葉で作ったスカート
@@ -1718,6 +1730,7 @@ PWN:know.v.01	事実または特別の情報を認識するまたは気づく
 PWN:know.v.02	何かをするか、実行する方法を知っている
 PWN:know.v.04	ある人や物に馴染み深く、知っている
 PWN:kohlrabi.n.02	カブラの形をしたコールラビの多肉質の茎
+PWN:korea.n.01	黄海と日本海を分けるアジアの半島（満州沖）
 PWN:krypton.n.01	6つの不活性気体の1つである無色の元素
 PWN:label.n.01	区別するための短い描写
 PWN:ladder.n.01	横桟で繋がった2本の部材
@@ -1759,6 +1772,7 @@ PWN:leash.n.01	動物を拘束するのに用いるロープ（または軽い�
 PWN:least.a.01	質量名詞と共に使用でき、通常、『the』によって先行されている『little』の最上級
 PWN:least.r.01	最上を作るのに用いられる
 PWN:leather.n.01	毛を取り除き、なめして、滑らかで柔らかくした動物の皮
+PWN:leave.v.01	場所から遠ざかる
 PWN:lecture.v.01	講義をするまたは話す
 PWN:left.r.01	左の方へ、または、の上の
 PWN:leg.n.02	人間の脚に似ており、移動に使われる動物の構造
@@ -1870,6 +1884,7 @@ PWN:lutetium.n.01	希土酸化物グループの三価染色体の金属元素
 PWN:machine.n.01	エネルギーを伝送あるいは変形して、人間の仕事をさせたり助けさせたりする機械的あるいは電気的装置一般
 PWN:madagascar.n.01	マダガスカルの島の共和国
 PWN:maestro.n.01	究極の芸術家
+PWN:mafia.n.01	米国の犯罪組織
 PWN:magazine.n.01	購入、または定期購読する人にとって興味深い写真、小説、および記事を掲載する定期刊行物
 PWN:magic.n.01	人知を超えた力を呼び出す技
 PWN:magnesium.n.01	軽くて銀灰色の延性に富んだ二価の金属元素
@@ -2003,6 +2018,7 @@ PWN:molybdenum.n.01	クロミウムおよびタングステンと性質が似た
 PWN:moment.n.01	特定の時点
 PWN:monday.n.01	週の2番目の日
 PWN:money.n.01	最も普通に使われている交換手段
+PWN:monism.n.01	現実は1つの基本物質、あるいは要素でできているという説
 PWN:monkey.n.01	（原猿類を除く）様々な長い尾を持つ霊長類
 PWN:monster.n.01	想像上の生き物で、普通は人間や動物の様々な部位からできている
 PWN:moon.n.01	地球の天然衛星
@@ -2065,6 +2081,7 @@ PWN:narrow.a.01	広くない
 PWN:native.a.01	地理的起源によって存在するまたは特徴てきな
 PWN:native.a.02	生来それに属した
 PWN:natural_elevation.n.01	高い、または高くした地形
+PWN:natural.s.04	普通に機能すること、または、発生するさま
 PWN:nature.n.01	それによって何かが認められる必須の特性または特徴
 PWN:nature.n.03	動植物、風景などを含む自然な物質的世界
 PWN:nature.n.04	その人特有の行動や反応を決定する感情的、知的特質の複合体
@@ -2183,6 +2200,7 @@ PWN:order.v.01	権威を持って誰かに何かをさせるための指示を�
 PWN:ordinary.a.01	特に質、能力、大きさまたは度合において例外的ではない
 PWN:oregano.n.01	芳香性のユーラシアの多年草
 PWN:organ.n.01	特定の機能に分化した動物の完全に差別化された構造上、機能上の単位
+PWN:organ.n.05	音は下から空気を供給できるように配置された一揃いのパイプによって生み出され、大きくて複雑な鍵盤でコントロールされる
 PWN:organic.n.01	動物または植物質からもたらされる肥料
 PWN:organize.v.02	何らかの主義または考えを基に構成され、命令されまたは機能するようになされる
 PWN:original.s.01	時間において他のすべてに先んじるまたは最初に作られた、または行われた
@@ -2268,6 +2286,7 @@ PWN:penis.n.01	男性の交接器官
 PWN:people.n.01	（複数形）集合的に人間（男や女、または子供たち）のグループ
 PWN:pepper.n.01	はん縁性植物、完熟すると濃赤色になる実（コショーの実）をつける
 PWN:pepper.n.03	東インド産の一般的なコショウの実からとった辛い調味料
+PWN:pepper.n.04	トウガラシ属の植物の甘く辛い様々な果実
 PWN:perca.n.01	パーチ科の標準属
 PWN:perceive.v.01	感覚を通じて気が付くようになる
 PWN:periphery.n.01	境界線の外側、もしくはものの表面
@@ -2415,6 +2434,7 @@ PWN:priest.n.02	非キリスト教の宗教で宗教的義務と式典を行う�
 PWN:prime_minister.n.01	英国の首相の地位にある人
 PWN:prime.n.01	因数がその数自身と1のみの数
 PWN:print.v.04	印刷による再生
+PWN:printer.n.02	データ処理の結果を印刷する出力装置
 PWN:prison.n.01	裁判中にまたは罰として監禁される矯正施設
 PWN:prisoner.n.01	閉じこめられた人
 PWN:private.a.01	特定の人、グループに制限された、あるいはプライバシーを提供するさま
@@ -3324,6 +3344,7 @@ PWN:virtuous.a.01	道徳的に素晴らしい
 PWN:virus.n.01	生きている宿主の細胞内のみでそれ自身を複製する極微の感染性の病原菌
 PWN:visible.a.01	見ることができる
 PWN:visit.v.07	客として滞在する
+PWN:vizier.n.01	イスラム教国（特に、オスマン帝国）の政府の高位の役人
 PWN:vocabulary.n.01	ある仕事で使われる単語のリスト
 PWN:vocabulary.n.02	単語に関する言語ユーザーの知識
 PWN:voice.n.02	声道で調節される声帯の振動によって生じる音
