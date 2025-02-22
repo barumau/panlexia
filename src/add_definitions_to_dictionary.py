@@ -66,19 +66,10 @@ def write_dictionary_with_definitions(lang_code, header_row, word_list, definiti
             #print(i, id_index, word_list[i][0], definition_list[id_index][0])
             if definition_list[definition_index][0] == word_list[word_index][0]:
                 last_match = definition_list[definition_index][0]
-                if num_of_columns == 3:
-                    dictionary.append([word_list[word_index][0], word_list[word_index][1],
-                                       word_list[word_index][2],
-                                        definition_list[definition_index][1]])
-                elif num_of_columns == 4:
-                    dictionary.append([word_list[word_index][0], word_list[word_index][1],
-                                       word_list[word_index][2], word_list[word_index][3],
-                                        definition_list[definition_index][1]])
-                elif num_of_columns == 5:
-                    dictionary.append([word_list[word_index][0], word_list[word_index][1],
-                                       word_list[word_index][2], word_list[word_index][3], word_list[word_index][4],
-                                       definition_list[definition_index][1]])
-                #print(definition_list[id_index])
+
+                row = word_list[word_index]
+                row.append(definition_list[definition_index][1])
+                dictionary.append(row)
                 break
             else:
                 if definition_list[definition_index][0] != last_match:
