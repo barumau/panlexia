@@ -10,6 +10,8 @@ CC-BY 2025 Panlexia (https://github.com/barumau/panlexia)
 import helpers
 import languages
 import csv
+import re
+from nltk.corpus import wordnet as wn
 
 id_map_file = 'data/id_map.tsv'
 NorthEuraLex = 'data/NorthEuraLex/northeuralex-0.9-forms.tsv'
@@ -72,6 +74,12 @@ def does_concept_exist_already(dictionary, id):
         if row[0] == id:
             return True
     return False
+
+def is_word_entry_new(dictionary, id, entry):
+    for row in dictionary:
+        if row[0] == id and row[2] == entry:
+            return False
+    return True
 
 def write_dictionary_for_one_language(lang_code, id_to_Panlexia):
     """Writes dictionary for one language ordered by Panlexia id."""
@@ -277,16 +285,61 @@ def create_4_dictionaries_from_WOLD(WOLD_to_Panlexia):
         forms = helpers.tsv_reader(WOLD_forms_2)
         write_minimal_dictionary_for_one_language(lang, WOLD_to_Panlexia, forms.dict)
 
+def get_valid_entry(lemma):
+    # Discard chemical element acronyms (like H and He), and numbers.
+    if re.match(r"^([A-Z]|[A-Z][a-z]|[0-9])$", lemma):
+        return None
+    if "atomic_number" in lemma:
+        return None
+    # Delete species names, like 'Canis familiaris'.
+    if re.match(r"^[A-Z][a-z]*_[a-z]*", lemma):
+        return None
+    return lemma.replace('_', ' ')
+
+def write_dictionary_for_one_language_in_Wordnet(lang_code):
+    """Writes dictionary for one language ordered by Panlexia id."""
+    dictionary = get_original_word_list(lang_code)
+    new_entries = []
+    id_map = helpers.tsv_reader(id_map_file)
+    for row in id_map.dict:
+        id = row['id']
+        PWN_id = row['PWN_id']
+        if PWN_id != "":
+            offset = PWN_id.split('-')[0]
+            pos = PWN_id.split('-')[1]
+            synset = wn.synset_from_pos_and_offset(pos, int(offset))
+
+            for lemma in synset.lemma_names(lang_code):
+                word = get_valid_entry(lemma)
+                if word is not None:
+                    if is_word_entry_new(dictionary, id, word):
+                        new_entries.append([id, "", word])
+                        print(id, word)
+
+    sort_and_write_to_dictionary_file(lang_code, dictionary + new_entries)
+
+def create_dictionaries_from_Wordnet():
+    """Writes dictionaries for languages in NLTK/Wordnet."""
+    #langs = ['ell', 'eng', 'fin', 'ind', 'ita', 'jpn']
+    #langs = ['arb', 'cmn', 'fra', 'pol', 'spa']
+    #langs = ['por', 'ron', 'swe', 'tha']
+    langs = ['nld']
+    for lang in langs:
+        write_dictionary_for_one_language_in_Wordnet(lang)
+
 # Execution begins:
-NELex_to_Panlexia = create_NELex_id_to_Panlexia_id_map()
-create_dictionaries_from_NELex(NELex_to_Panlexia)
+if False:
+    NELex_to_Panlexia = create_NELex_id_to_Panlexia_id_map()
+    create_dictionaries_from_NELex(NELex_to_Panlexia)
 
-WOLD_to_Panlexia = helpers.get_other_id_to_Panlexia_id_map("WOLD_id")
-create_4_dictionaries_from_WOLD(WOLD_to_Panlexia)
-create_41_dictionaries_from_WOLD(WOLD_to_Panlexia)
+    #WOLD_to_Panlexia = helpers.get_other_id_to_Panlexia_id_map("WOLD_id")
+    create_4_dictionaries_from_WOLD(WOLD_to_Panlexia)
+    create_41_dictionaries_from_WOLD(WOLD_to_Panlexia)
 
-Concepticon_to_Panlexia = helpers.get_other_id_to_Panlexia_id_map("Concepticon_id")
-create_dictionaries_from_Concepticon(Concepticon_to_Panlexia)
+    Concepticon_to_Panlexia = helpers.get_other_id_to_Panlexia_id_map("Concepticon_id")
+    create_dictionaries_from_Concepticon(Concepticon_to_Panlexia)
 
-ULD_to_Panlexia = helpers.get_other_id_to_Panlexia_id_map("ULD_id")
-create_dictionaries_from_ULD(ULD_to_Panlexia)
+    ULD_to_Panlexia = helpers.get_other_id_to_Panlexia_id_map("ULD_id")
+    create_dictionaries_from_ULD(ULD_to_Panlexia)
+
+create_dictionaries_from_Wordnet()
