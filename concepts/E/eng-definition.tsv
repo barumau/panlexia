@@ -60,6 +60,7 @@ PLX:behind.pp	at the far or back side of the specified location
 PLX:beside.pp	To be positioned at the side of a given object.
 PLX:between.pp	in the space or interval between the specified things
 PLX:beyond.pp	farther than the specified thing
+PLX:bon voyage.int	a phrase used to wish someone a pleasant journey
 PLX:but.cnj	A coordinating expression that signals a contrast to what was previously said, e.g. disagreement or a further point to consider.
 PLX:by agent.pp	Marker of the agent in a passive sentence.
 PLX:by means of.pp	using the specified thing as an instrument
@@ -100,10 +101,14 @@ PLX:for the purpose of.pp	in service of the specified thing
 PLX:from here.adv	Directed from here towards another direction.
 PLX:from.pp	moving out of or away from the specified location
 PLX:FUT.ptcl	The particle indicating the future tense.
+PLX:genderology.n	an academic discipline which analyses constructions of gender and sexuality in society
 PLX:genkan.n	entrance room or area of house where shoes are removed
 PLX:get sick.V	To catch a disease.
+PLX:goodbye.int	an expression that is uttered as a general farewell, regardless of the time of day
 PLX:goodbye.v	To say goodbye.
+PLX:haha.int	an expression of amusement or laughter
 PLX:head hair.n	The hair on the head of humans (rather than the hair in general or the hair on the body).
+PLX:hello.int 	an expression that is uttered as a general greeting
 PLX:hey.int	Particle for getting attention of people.
 PLX:how many pieces.pro	Which quantity? (for countable nouns)
 PLX:how many.pro	Which quantity?
@@ -119,6 +124,7 @@ PLX:initiation ceremony.n	A formal entry into an organization or position or off
 PLX:inside.pp	Contained or encased by something or inside a building as opposed to outside in the open air.
 PLX:instead of.pp	in place of or as the substitute for the specified thing
 PLX:instead.pp	As a replacement for.
+PLX:kendo.n	an East Asian martial art using swords
 PLX:leg band.n	a band of cloth or leather or metal links wrapped around the leg
 PLX:let.ptcl	The optative particle.
 PLX:like.pp	being similar or behaving similarly to the specified thing
@@ -183,6 +189,7 @@ PLX:too little.adv	less than necessary
 PLX:tumpline.n	A strap slung over the forehead or chest used (especially by native Americans) for carrying packs or loads.
 PLX:under.pp	in a place that is lower than the specified location
 PLX:Vaccinium mortinia.n	Vaccinium mortinia, a dark red berry.
+PLX:welcome.int 	a phrase used to greet someone which communicates the fact that they are gladly received
 PLX:what.pro	Which thing.
 PLX:when.pro	At what time?
 PLX:where_to.pro	Directed to what location?
@@ -758,6 +765,7 @@ PWN:battle-ax.n.01	An ancient military weapon.
 PWN:battle.n.01	A hostile encounter, such as a battle or combat.
 PWN:battle.n.01	An instance of combat in warfare between two or more parties wherein each group will seek to defeat the others.
 PWN:battle.v.01	battle or contend against in or as if in a battle
+PWN:battlefield.n.01	a region where a battle is being (or has been) fought
 PWN:battlefront.n.01	the line along which opposing armies face each other
 PWN:bay.n.01	an indentation of a shoreline larger than a cove but smaller than a gulf
 PWN:bay.n.01	An open, curving indentation made by the sea or a lake into a coastline.
@@ -885,6 +893,7 @@ PWN:bird.n.01	Any of the bipedal, warm-blooded vertebrates that lay eggs having 
 PWN:birth_certificate.n.01	Official document certifying the details of a person's birth. Name, date, and parents' names are always included; details such as parents' occupation and religion may be included.
 PWN:birth.n.01	the time when something begins (especially life)
 PWN:birth.n.02	the event of being born
+PWN:birthday.n.02	the date on which a person was born
 PWN:birthplace.n.01	the place where someone was born
 PWN:bishop.n.01	a senior member of the Christian clergy having spiritual and administrative authority; appointed in Christian churches to oversee priests or ministers; considered in some churches to be successors of the twelve Apostles of Christ
 PWN:bishop.n.03	a chesspiece that can be moved diagonally over unoccupied squares of the same color
@@ -1015,6 +1024,7 @@ PWN:braid.n.01	A hair style formed by interweaving three or more strands of hair
 PWN:braid.v.01	To braid together hair, threads, strings, twigs etc. in order to create a larger string-like object or to weave a basket or use similar techniques for creating other objects.
 PWN:brain.n.01	The organ of the central nervous system of an animal or human located in the skull that controls the actions and thoughts of the animal or human.
 PWN:brain.n.02	mental ability
+PWN:brainless.s.01	not using intelligence
 PWN:brainsick.s.01	Mentally ill.
 PWN:brake.v.02	Decelerate using a mechanical device.
 PWN:branch.n.01	a division of some larger or more complex organization
@@ -1027,6 +1037,7 @@ PWN:brass.n.01	The copper-zinc alloy. A yellow-colored metal made of the mixture
 PWN:brave.a.01	Having or characterized by courage.
 PWN:brawl.v.01	To be involved in a normally unarmed and ruleless scuffle.
 PWN:brazilian.n.01	a native or inhabitant of Brazil
+PWN:bread_knife.n.01	a knife used to cut bread
 PWN:bread.n.01	A common food made mainly from flour, water and yeast and produced by kneading and baking a dough.
 PWN:break_up.v.16	break or cause to break into pieces
 PWN:break.v.02	become separated into pieces or fragments
@@ -1149,6 +1160,7 @@ PWN:cabbage.n.01	An edible plant, Brassica oleracea, with many varieties.
 PWN:cable.n.02	a conductor for transmitting electrical or optical signals or electric power
 PWN:cadaver.n.01	A dead body.
 PWN:cadmium.n.01	Cadmium, the chemical element with atomic number 48 and symbol Cd.
+PWN:caftan.n.02	a (cotton or silk) cloak with full sleeves and sash reaching down to the ankles; worn by men in the Levant
 PWN:cage.n.01	an enclosure made or wire or metal bars in which birds or animals can be kept
 PWN:cake.n.03	baked goods made from or based on a mixture of flour, sugar, eggs, and fat
 PWN:calabash.n.01	(Not to confuse with gourd) a plant from the family Bignoniaceae, native to tropical America. It has a form of a small tree, producing fruit of the globular shape. It is also known under the name of Crescentia cujete and its fruits are mostly used to make utensils, containers, and musical instruments.
@@ -1245,6 +1257,7 @@ PWN:cash.n.01	money in the form of bills or coins
 PWN:cashew.n.01	A tropical evergreen tree that produces the cashew seed and the cashew apple.
 PWN:cassava.n.01	a starch made by leaching and drying the root of the cassava plant; the source of tapioca; a staple food in the tropics
 PWN:cassava.n.02	Shrub (Manihot esculenta) whose roots are rich in starch.
+PWN:cassava.n.03	any of several plants of the genus Manihot having fleshy roots yielding a nutritious starch
 PWN:cast.v.07	To create something, usually for a specific function.
 PWN:cast.v.07	To pour [a hardenable liquid material, like metal, plaster, glass, concrete etc.] into a mold in order to produce a solid object of the shape of the mold.
 PWN:castle.n.03	(chess) the piece that can move any number of unoccupied squares in a direction parallel to the sides of the chessboard
@@ -1292,6 +1305,7 @@ PWN:center.n.03	a building dedicated to a particular activity
 PWN:center.n.04	a point equidistant from the ends of a line or the extremities of a figure
 PWN:central.n.01	a workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication
 PWN:century.n.01	a period of 100 years
+PWN:cerebral.a.02	of or relating to the cerebrum or brain
 PWN:ceremony.n.01	a formal event performed on a special occasion
 PWN:ceremony.n.03	the proper or conventional behavior on some solemn occasion
 PWN:cerium.n.01	Cerium, the chemical element with atomic number 58 and symbol Ce.
@@ -1528,6 +1542,7 @@ PWN:collar.v.01	take into custody
 PWN:collection.n.01	several things grouped together or considered as a whole
 PWN:collection.n.02	a publication containing a variety of works
 PWN:collection.n.04	the act of gathering something together
+PWN:collective.a.02	forming a whole or aggregate
 PWN:college.n.03	a complex of buildings in which an institution of higher education is housed
 PWN:collision.n.01	(physics) a brief event in which two or more bodies come together
 PWN:collocate_with.v.01	go or occur together
@@ -1763,6 +1778,7 @@ PWN:corner.n.09	a projecting part where two sides or edges meet
 PWN:corner.n.11	(architecture) solid exterior angle of a building; especially one formed by a cornerstone
 PWN:cornet.n.01	Any musical instrument that is a member of the brass family of musical instruments, usually a horn or a trumpet.
 PWN:corporate_executive.n.01	an executive in a business corporation
+PWN:corporate.s.03	done by or characteristic of individuals acting together
 PWN:corporeal.a.01	having material or physical form or substance;  - Benjamin Jowett
 PWN:corpulent.s.01	Carrying a larger-than-normal amount of fat or weight.
 PWN:correct.a.01	free from error; especially conforming to fact or truth
@@ -2787,6 +2803,7 @@ PWN:fig.n.02	Mediterranean tree widely cultivated for its edible fruit ❲Ficus 
 PWN:fig.n.04	The fruit of the fig tree, pear-shaped and containing many small seeds.
 PWN:fight.n.02	the act of fighting; any contest or struggle
 PWN:fight.n.05	a boxing or wrestling match
+PWN:fight.v.03	make a strenuous or labored effort
 PWN:figure.n.04	a model of a bodily form (especially of a person)
 PWN:figure.n.06	a combination of points and lines and planes that form a visible palpable shape
 PWN:file.n.01	a set of related records (either written or electronic) kept together
@@ -3083,15 +3100,18 @@ PWN:gay.s.02	In good spirits.
 PWN:gaze.v.01	look at with fixed eyes
 PWN:gear.n.01	a toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion
 PWN:gear.n.04	equipment consisting of miscellaneous articles needed for a particular operation or sport etc.
+PWN:gel.n.01	a colloid in a more solid form than a sol
 PWN:gelatin.n.02	an edible jelly (sweet or pungent) made with gelatin and used as a dessert or salad base or a coating for foods
 PWN:gender.n.01	a grammatical category in inflected languages governing the agreement between nouns and pronouns and adjectives
 PWN:gene.n.01	(genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity
 PWN:genealogy.n.01	successive generations of kin
+PWN:generic.s.03	applicable to an entire class or group
 PWN:generous.a.01	willing to give and share unstintingly
 PWN:genitor.n.01	a natural father or mother
 PWN:gentle.s.01	soft and mild; not harsh or stern or severe
 PWN:gentle.s.01	Tender and amiable; of a considerate or kindly disposition.
 PWN:gentleman.n.01	a man of refinement
+PWN:genus.n.02	(biology) taxonomic group containing one or more species
 PWN:geographic_point.n.01	a point on the surface of the Earth
 PWN:geographical_area.n.01	a demarcated area of the Earth
 PWN:geological_formation.n.01	(geology) the geological features of the earth
@@ -3124,6 +3144,7 @@ PWN:give.v.03	To transfer the possession or holding (of an object) to another pe
 PWN:give.v.08	To give [a gift or award] in a formal manner.
 PWN:give.v.18	give entirely to a specific person, activity, or cause
 PWN:give.v.27	estimate the duration or outcome of something
+PWN:give.v.33	be flexible under stress of physical force
 PWN:giving.n.01	the act of giving
 PWN:glance.v.01	throw a glance at; take a brief look at
 PWN:glass.n.01	A hard, amorphous, inorganic, usually transparent, brittle substance made by fusing silicates, sometimes borates and phosphates, with certain basic oxides and then rapidly cooling to prevent crystallization.
@@ -3332,6 +3353,7 @@ PWN:headdress.n.01	An cloth or strip of cloth worn on or around the head.
 PWN:heading.n.01	a line of text serving to indicate what the passage below it is about
 PWN:headman.n.02	The leader/ruler of a tribe/clan.
 PWN:health_professional.n.01	a person who helps in identifying or preventing or treating illness or disability
+PWN:health.n.01	a healthy state of wellbeing free from disease
 PWN:healthy.a.01	In good physical and mental condition; free from disease.
 PWN:hear.v.01	To perceive sound with the ear, without necessarily paying attention to it.
 PWN:hearing.n.02	an opportunity to state your case and be heard
@@ -3360,6 +3382,7 @@ PWN:helplessness.n.01	powerlessness revealed by an inability to act
 PWN:hemisphere.n.01	half of the terrestrial globe
 PWN:hen.n.01	A female chicken.
 PWN:hen.n.04	female of certain aquatic animals e.g. octopus or lobster
+PWN:hepatitis.n.01	inflammation of the liver caused by a virus or a toxin
 PWN:herb.n.01	A flowering plant that is valued for its medical properties.
 PWN:herb.n.02	aromatic potherb used in cookery for its savory qualities
 PWN:herbivore.n.01	any animal that feeds chiefly on grass and other plants
@@ -3369,7 +3392,10 @@ PWN:herder.n.02	A man who looks after a herd of animals.
 PWN:here.r.01	At this place.
 PWN:here.r.03	Directed towards this place here.
 PWN:hermit.n.02	one who lives in solitude
+PWN:hero.n.01	a man distinguished by exceptional courage and nobility and strength
+PWN:heroic.s.03	having or displaying qualities appropriate for heroes
 PWN:heron.n.02	A long-legged, long-necked wading bird of the family Ardeidae.
+PWN:hertz.n.01	the unit of frequency; one hertz has a periodic interval of one second
 PWN:hesitate.v.02	Suspend action temporarily.
 PWN:hevea.n.01	small genus of South American trees yielding latex ❲Hevea❳
 PWN:hiccup.n.01	A spasm of the diaphragm, or the resulting sound.
@@ -3521,6 +3547,7 @@ PWN:imaginary_being.n.01	a creature of the imagination; a person that exists onl
 PWN:imaginary_place.n.01	a place that exists only in imagination; a place said to exist in fictional or religious writings
 PWN:imagination.n.01	the formation of a mental image of something that is not perceived as real and is not present to the senses
 PWN:imagine.v.01	To form a mental image of (something not present).
+PWN:imaging.n.02	(medicine) obtaining pictures of the interior of the body
 PWN:imitate.v.01	To follow as a model or a pattern.
 PWN:imitate.v.02	appear like, as in behavior or appearance
 PWN:immaturity.n.01	not having reached maturity
@@ -3732,6 +3759,9 @@ PWN:jesus.n.01	a teacher and prophet born in Bethlehem and active in Nazareth; h
 PWN:jew.n.01	a person belonging to the worldwide group claiming descent from Jacob (or converted to it) and connected by cultural or religious ties
 PWN:jewel.n.01	A precious stone such as a diamond, a sapphire or an agate.
 PWN:jewelry.n.01	an adornment (as a bracelet or ring or necklace) made of precious metals and set with gems (or imitation gems)
+PWN:jihad.n.01	a holy war waged by Muslims against infidels
+PWN:jihad.n.02	a holy struggle or striving by a Muslim for a moral or spiritual or political goal
+PWN:jihadist.n.01	a Muslim who is involved in a jihad
 PWN:job.n.02	a specific piece of work required to be done as a duty or for a specific fee
 PWN:join.v.01	become part of; become a member of a group or organization
 PWN:join.v.02	To join or unite, as one thing to another, or as several particulars, so as to increase the number, augment the quantity, enlarge the magnitude, or so as to form into one aggregate; to sum up; to put together mentally, as, to add numbers; to add up a column.
@@ -3750,7 +3780,9 @@ PWN:judgment.n.01	an opinion formed by judging something
 PWN:judgment.n.02	the act of judging or assessing a person or situation or event
 PWN:judgment.n.03	The official and authentic decision of a court of justice upon the respective rights and claims of the parties to an action or suit therein litigated and submitted to its determination, the final decision of the court resolving the dispute and determining the rights and obligations of the parties.
 PWN:judgment.n.06	the capacity to assess situations or circumstances shrewdly and to draw sound conclusions
+PWN:judo.n.01	a sport adapted from jujitsu (using principles of not resisting) and similar to wrestling; developed in Japan
 PWN:juice.n.01	the liquid part that can be extracted from plant or animal tissue by squeezing or cooking
+PWN:jujutsu.n.01	a method of self-defense without weapons that was developed in China and Japan; holds and blows are supplemented by clever use of the attacker's own weight and strength
 PWN:july.n.01	The 7th month of the Gregorian calendar.
 PWN:jump.n.05	descent with a parachute
 PWN:jump.n.06	the act of jumping; propelling yourself off the ground
@@ -3929,6 +3961,7 @@ PWN:less.r.01	To a smaller degree.
 PWN:let_go_of.v.01	To give freedom; to stop holding; to release from confinement or restraint.
 PWN:let.v.01	To allow or cause somebody to do something.
 PWN:let.v.02	actively cause something to happen
+PWN:letter_opener.n.01	dull knife used to cut open the envelopes in which letters are mailed or to slit uncut pages of books
 PWN:letter.n.01	A text that is written to and for a specific person or set of people (and is most commonly sent to them by post).
 PWN:letter.n.02	the conventional characters of the alphabet used to represent speech
 PWN:lettuce.n.02	A often green plant, Lactuca sativa, which is mainly used in salads.
@@ -4012,6 +4045,7 @@ PWN:liquid.n.01	a substance that is liquid at room temperature and pressure
 PWN:liquid.n.03	fluid matter having no fixed shape but a fixed volume
 PWN:liquidate.v.02	eliminate by paying off (debts)
 PWN:liquor.n.01	Alcoholic beverage containing more than 20 percent alcohol.
+PWN:lissome.s.01	moving and bending with ease
 PWN:list.n.01	a database containing an ordered array of items (names or topics)
 PWN:listen.v.01	To perceive with the ear (paying attention to what is heard).
 PWN:listen.v.02	To perceive sound with the ear, with or without paying attention to it.
@@ -4241,6 +4275,7 @@ PWN:matter.n.04	a problem
 PWN:matter.n.06	written works (especially in books or magazines)
 PWN:mattress.n.01	A pad on which a person can recline and sleep.
 PWN:mature.v.01	develop and reach maturity; undergo maturation
+PWN:maximally.r.01	to a maximal degree
 PWN:may.n.01	The 5th month of the Gregorian calendar.
 PWN:mayor.n.01	the head of a city government
 PWN:mead.n.03	Wine made of honey.
@@ -4303,6 +4338,7 @@ PWN:mental_illness.n.01	any disease of the mind; the psychological state of some
 PWN:mentality.n.01	a habitual or characteristic mental attitude that determines how you will interpret and respond to situations
 PWN:menu.n.01	a list of dishes available at a restaurant
 PWN:mercantile_establishment.n.01	a place of business for retailing goods
+PWN:mercenary.n.01	a person hired to fight for another country than their own
 PWN:merchandise.n.01	Products offered to retail customers for money.
 PWN:merchant.n.01	A businessperson engaged in trade.
 PWN:mercifulness.n.01	the feeling that motivates compassion
@@ -4326,6 +4362,7 @@ PWN:microbe.n.01	a minute life form, like a disease-causing bacterium
 PWN:microorganism.n.01	any organism of microscopic size
 PWN:microscope.n.01	magnifier of the image of small objects
 PWN:middle_class.n.01	the social class between the lower and upper classes
+PWN:middle.n.02	an intermediate part or section; - Aristotle
 PWN:midnight.n.01	12 o'clock at night; the middle of the night
 PWN:might.n.01	physical strength
 PWN:migration.n.01	the movement of persons from one country or locality to another
@@ -4637,6 +4674,8 @@ PWN:novel.n.01	an extended fictional work in prose; usually in the form of a sto
 PWN:november.n.01	The 11th month of the Gregorian calendar.
 PWN:now.r.04	At present; at this time.
 PWN:nuclear_reaction.n.01	(physics) a process that alters the energy or structure or composition of atomic nuclei
+PWN:nudism.n.01	going without clothes as a social practice
+PWN:nudist.n.01	a person who practices nudity for reasons of health or religion
 PWN:nullification.n.02	the act of nullifying; making null and void; counteracting or overriding the effect or force of something
 PWN:number.n.01	the property possessed by a sum or total or indefinite quantity of units or individuals
 PWN:number.n.02	An abstract entity used to describe quantity.
@@ -4969,6 +5008,7 @@ PWN:petroleum.n.01	A comparatively volatile liquid bitumen composed principally 
 PWN:petroleum.n.01	a dark fossil oil consisting mainly of hydrocarbons
 PWN:phase.n.01	any distinct time period in a sequence of events
 PWN:phenomenon.n.01	any state or process known through the senses rather than by intuition or reasoning
+PWN:phenotype.n.01	what an organism looks like as a consequence of the interaction of its genotype and the environment
 PWN:phobia.n.01	An irrational, abnormal, or obsessive fear of something.
 PWN:phone_number.n.01	the number is used in calling a particular telephone
 PWN:phone.n.02	an individual sound unit of speech without concern as to whether or not it is a phoneme of some language
@@ -4991,6 +5031,7 @@ PWN:pictorial_representation.n.01	visual representation as by photography or pai
 PWN:picture.n.01	A painted image.
 PWN:picture.n.01	a visual representation (of an object or scene or person or abstraction) produced on a surface, like a photograph or a painting.
 PWN:picture.n.04	a situation treated as an observable object
+PWN:pidgin.n.01	an artificial language used for trade between speakers of different languages
 PWN:piece_of_cloth.n.01	a separate part consisting of fabric
 PWN:piece.n.01	a separate part of a whole
 PWN:piece.n.08	a serving that has been cut from a larger portion
@@ -5013,6 +5054,7 @@ PWN:pipe.n.01	A device consisting of a mouthpiece, a long pipe stem and a pipe b
 PWN:pipe.n.02	a long tube made of metal or plastic that is used to carry water or oil or gas etc
 PWN:piquant.s.01	Of, pertaining to, or containing spice; or spicy flavour: Provoking a burning sensation due to the presence of chillies or similar hot spices.
 PWN:piranha.n.02	Any of the carnivorous freshwater fish living in South American rivers and belonging to the subfamily Serrasalminae.
+PWN:piston.n.02	mechanical device that has a plunging or thrusting motion
 PWN:pit.n.01	A naturally formed or excavated hole in the ground.
 PWN:pitch.n.01	the property of sound that varies with variation in the frequency of vibration
 PWN:pitch.n.06	A viscous material composed of complex, high-molecular-weight, compounds derived from the distillation of petroleum or the destructive distillation of wood or coal.
@@ -5088,6 +5130,7 @@ PWN:plum.n.01	any of several trees producing edible oval fruit having a smooth s
 PWN:plumb_line.n.01	a cord from which a metal weight is suspended pointing directly to the earth's center of gravity; used to determine the vertical from a given point
 PWN:plutonium.n.01	Plutonium, the chemical element with atomic number 94 and symbol Pu.
 PWN:pocket.n.01	A kind of pouch, which is accessible by an opening in an article of clothing and serves for storage; usually large enough in order to accommodate at least one hand.
+PWN:pocketknife.n.01	a knife with a blade that folds into the handle; suitable for carrying in the pocket
 PWN:pod.n.01	the vessel that contains the seeds of a plant (not the seeds themselves)
 PWN:poem.n.01	a composition written in metrical feet forming rhythmical lines
 PWN:poet.n.01	A person who writes poems.
@@ -5129,6 +5172,7 @@ PWN:poncho.n.01	A simple garment, made from a rectangle of cloth, with a slit in
 PWN:pool.n.01	an excavation that is (usually) filled with water
 PWN:pool.n.06	a small body of standing water (rainwater) or other liquid
 PWN:poor.a.02	With little or no possessions or money.
+PWN:pop_music.n.01	music of general appeal to teenagers; a bland watered-down version of rock'n'roll with more rhythm and harmony and an emphasis on romantic love
 PWN:populace.n.01	people in general considered as a whole
 PWN:popularity.n.01	the quality of being widely admired or accepted or sought after
 PWN:populate.v.01	inhabit or live in; be an inhabitant of
@@ -5714,6 +5758,7 @@ PWN:room.n.04	the people who are present in a room
 PWN:root.n.01	The absorbing and anchoring organ of a vascular plant; it bears neither leaves nor flowers and is usually subterranean.
 PWN:rope.n.01	Thick, strong string made of several strands that have been twisted together.
 PWN:rosary.n.01	a string of beads used in counting prayers (especially by Catholics)
+PWN:rose_apple.n.02	fragrant oval yellowish tropical fruit used in jellies and confections
 PWN:rose.n.01	A showy flower of any of a genus (Rosa of the family Rosaceae, the rose family).
 PWN:rotation.n.01	the act of rotating as if on an axis
 PWN:rotten.s.03	Having changed its colour, smell or composition (partially or completely), due to being attacked and decomposed by microorganisms (relating to organic matter).
@@ -5770,6 +5815,7 @@ PWN:sadness.n.02	the state of being sad
 PWN:safety.n.01	the state of being certain that adverse effects will not be caused by some agent under defined conditions
 PWN:safety.n.02	a safe place
 PWN:safflower.n.01	thistlelike Eurasian plant widely grown for its red or orange flower heads and seeds that yield a valuable oil
+PWN:saga.n.01	a narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families that settled Iceland and their descendants but now any prose narrative that resembles such an account
 PWN:sail.n.01	A large piece of fabric (as canvas) by means of which wind is used to propel a sailing vessel.
 PWN:sail.v.03	To traverse or travel by ship on a body of water.
 PWN:saint.n.01	a person who has died and has been declared a saint by canonization
@@ -5830,6 +5876,7 @@ PWN:school.n.02	An institution or building at which children and young people re
 PWN:schoolchild.n.01	a young person attending school (up through senior high school)
 PWN:science.n.01	a particular branch of scientific knowledge
 PWN:scientific_knowledge.n.01	knowledge accumulated by systematic study and organized by general principles
+PWN:scientific.a.01	of or relating to the practice of science
 PWN:scientist.n.01	a person with advanced knowledge of one or more sciences
 PWN:scissors.n.01	A tool used for cutting thin material, consisting of two crossing blades attached at a pivot point in such a way that the blades slide across each other when the handles are closed.
 PWN:score.n.03	the tally of accomplishments in a game or competition
@@ -5901,6 +5948,7 @@ PWN:sell.n.01	the activity of persuading someone to buy
 PWN:sell.v.01	To provide goods or services in exchange for money.
 PWN:sell.v.02	be sold at a certain price or in a certain way
 PWN:selling.n.01	the exchange of goods for an agreed sum of money
+PWN:semaphore.n.01	an apparatus for visual signaling with lights or mechanically moving arms
 PWN:seminar.n.02	a course offered for a small group of advanced students
 PWN:send.v.01	To make something (an object, a message) go from one place to another.
 PWN:send.v.02	to cause or order to be taken, directed, or transmitted to another place
@@ -6048,8 +6096,10 @@ PWN:sift.v.02	To separate solids from each other by passing through a sieve or o
 PWN:sign.n.01	a perceptible indication of something not immediately apparent (as a visible clue that something has happened)
 PWN:sign.n.02	a board with public notice written on it
 PWN:sign.n.09	a gesture that is part of a sign language
+PWN:sign.v.01	mark with one's signature; write one's name (on)
 PWN:sign.v.06	place signs, as along a road
 PWN:signal.n.01	any nonverbal action or gesture that encodes a message
+PWN:signature.n.01	your name written in your own handwriting
 PWN:significance.n.01	the quality of being significant
 PWN:silence.n.01	Absence of sound, especially of noise.
 PWN:silent.s.01	marked by absence of sound
@@ -6177,6 +6227,8 @@ PWN:soft.a.01	A state of consistency allowing alterations of form with ease, no 
 PWN:software.n.01	(computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory
 PWN:soil.n.02	the part of the earth's surface consisting of humus and disintegrated rock
 PWN:soiling.n.01	the act of soiling something
+PWN:solar_energy.n.01	energy from the sun that is converted into thermal or electrical energy
+PWN:solar_system.n.01	the sun with the celestial bodies that revolve around it in its gravitational field
 PWN:soldier.n.01	A person who is actively engaged in battle, conflict or warfare.
 PWN:soldier.n.01	an enlisted man or woman who serves in an army
 PWN:soldier.n.02	a wingless sterile ant or termite having a large head and powerful jaws adapted for defending the colony
@@ -6295,7 +6347,9 @@ PWN:squat.v.01	To lower one's body close to the ground by bending one's knees co
 PWN:squeak.n.01	a short high-pitched noise
 PWN:squeeze.v.02	To apply pressure to something from two or more sides at once.
 PWN:squirrel.n.01	A small or medium-sized rodent of the family Sciuridae.
+PWN:stabilize.v.01	make stable and keep from fluctuating or put into an equilibrium
 PWN:stabilize.v.03	become stable or more stable
+PWN:stable.s.04	maintaining equilibrium
 PWN:stack.n.01	an orderly pile
 PWN:stadium.n.01	a large structure for open-air sports or entertainments
 PWN:staff.n.01	personnel who assist their superior in carrying out an assigned task
@@ -6564,6 +6618,7 @@ PWN:system.n.01	A set of connected elements that form a whole by virtue of their
 PWN:system.n.02	a group of independent but interrelated elements comprising a unified whole
 PWN:system.n.04	a complex of methods or rules governing behavior
 PWN:system.n.06	a group of physiologically or anatomically related organs or parts
+PWN:table_knife.n.01	a knife used for eating at dining table
 PWN:table.n.01	a set of data arranged in rows and columns
 PWN:table.n.02	A piece of furniture that generally consists of a hard, flat, horizontal surface, which is elevated and stabilised by 3 or more legs (usually 4).
 PWN:table.n.03	a piece of furniture with tableware for a meal laid out on it
@@ -6647,11 +6702,13 @@ PWN:tennis.n.01	a game played with rackets by two or four players who hit a ball
 PWN:tense.n.01	a grammatical category of verbs used to express distinctions of time
 PWN:tense.v.04	cause to be tense and uneasy or nervous or anxious
 PWN:tent.n.01	A portable lodging (usually made from waterproof plastic, animal hide or canvas streched by poles) that is used for sheltering people and objects from the weather when camping or at festivals.
+PWN:tepee.n.01	a Native American tent; usually of conical shape
 PWN:terbium.n.01	Terbium, the chemical element with atomic number 65 and symbol Tb.
 PWN:term.n.02	a limited period of time
 PWN:termination.n.05	the act of ending something
 PWN:termite.n.01	A soft-bodied insect of the order Isoptera; individuals feed on cellulose and live in colonies with a caste system comprising three types of functional individuals: sterile workers and soldiers, and the reproductives.
 PWN:territory.n.02	an area of knowledge or interest
+PWN:tesla.n.01	a unit of magnetic flux density equal to one weber per square meter
 PWN:test.n.05	the act of testing something
 PWN:test.v.01	To put something to trial, to test whether something works as expected.
 PWN:testify.v.02	provide evidence for
@@ -6778,10 +6835,12 @@ PWN:toiletry.n.01	artifacts used in making your toilet (washing and taking care 
 PWN:token.n.01	an individual instance of a type of symbol
 PWN:token.n.02	Feature element which permits to refer to anything or any person.
 PWN:tomato.n.01	The savoury fruit of the Solanum lycopersicum, red when ripe.
+PWN:tomograph.n.01	X-ray machine in which a computer builds a detailed image of a particular plane through an object from multiple X-ray measurements
 PWN:tomorrow.r.01	The day after the present day.
 PWN:tone.n.07	Traditionally in Western music, a musical tone is a steady periodic sound.
 PWN:tongs.n.01	A tool that consists of two movable bars joined at one end, used to pick up an object.
 PWN:tongue.n.01	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.
+PWN:tonicity.n.01	the elastic tension of living muscles, arteries, etc. that facilitate response to stimuli
 PWN:tool.n.01	an implement used in the practice of a vocation
 PWN:tooth.n.01	A hard, calcareous structure present in the mouth of many vertebrate animals (including humans), generally used for eating.
 PWN:tooth.n.03	toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell
