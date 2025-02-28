@@ -997,6 +997,7 @@ PWN:campfire.n.01	（キャンプなどで）暖を取ったり調理したり�
 PWN:can.n.01	真空密閉された金属容器で食物・飲み物・塗料などを入れる
 PWN:can.v.01	缶または缶詰で保存する
 PWN:canal.n.03	ボート、あるいはかんがい用に作られた、細長い水路
+PWN:cancel.v.03	無効であると宣言する
 PWN:cancellation.n.01	取り消す行為
 PWN:candle.n.01	中央に芯のある棒状の臘
 PWN:candy.n.01	香りをつけた砂糖で作った甘さたっぷりの菓子で、たいていは果実やナッツを入れる
@@ -1496,7 +1497,9 @@ PWN:consequence.n.02	特に個人に対する出来事の結果
 PWN:conserve.v.02	安全に保ち、損害または腐敗、損失、破壊を防ぐ
 PWN:consider.v.05	慎重に思い遣る
 PWN:consign.v.02	手入れや保管のために別の人に任せる
+PWN:consist.v.03	形式、傾向、特性に一貫性のある
 PWN:consist.v.04	構成された
+PWN:consistent.a.01	一致しているか、首尾一貫しているか、信頼できる
 PWN:consolation.n.02	慰める行為
 PWN:consonant.n.01	母音でない音声
 PWN:consortium.n.01	一定の目的のための企業の連盟
@@ -2245,6 +2248,7 @@ PWN:elect.v.01	投票で官職または会員を選択する
 PWN:elect.v.02	選ぶ
 PWN:election.n.01	政治的職務を得る人を選ぶ投票
 PWN:election.n.02	だれかか何かを選ぶ行為
+PWN:electric_resistance.n.01	電流の流れへの材料の対立
 PWN:electrical_device.n.01	電気を作り出すあるいは電気で動かされる装置
 PWN:electrical_discharge.n.01	電気の放出
 PWN:electrical_phenomenon.n.01	電気に関する物理現象
@@ -2417,6 +2421,9 @@ PWN:exhaust.v.05	（物質を）取り除く
 PWN:exhibition.n.02	公共に披露するための物（商品や芸術作品など）のコレクション
 PWN:exist.v.01	存在を持つ、存在する
 PWN:exist.v.02	自活する
+PWN:existent.a.01	存在、実在または現実性を持つさま
+PWN:existential.a.03	存在（特に人間の存在で）に関するものであるか、対処するさま
+PWN:existentialism.n.01	主にヨーロッパでの20世紀の哲学の運動
 PWN:exit.n.01	脱出または放出させる穴
 PWN:exit.n.03	外へ出る行為
 PWN:exit.v.01	出て行く、または立ち去る
@@ -3597,6 +3604,7 @@ PWN:justice.n.01	公正または公平である性質
 PWN:justification.n.01	行動が妥当、または必要であるということを示すもの（事実や状況など）
 PWN:juvenile.n.01	若い人
 PWN:kangaroo.n.01	大きくて強力な後脚と長くて太い尾を持つオーストラリア・ニューギニア産の草食性で跳躍性の有袋動物類各種
+PWN:karate.n.01	日本の伝統的な、武器を持たない戦闘のやり方
 PWN:keep.v.01	特定の状態、位置または活動を維持する
 PWN:keep.v.03	保有を続ける
 PWN:keep.v.03	保有を続ける
@@ -3656,6 +3664,7 @@ PWN:knowledge_domain.n.01	知識の特定の分野の内容
 PWN:kohlrabi.n.02	カブラの形をしたコールラビの多肉質の茎
 PWN:korea.n.01	黄海と日本海を分けるアジアの半島（満州沖）
 PWN:krypton.n.01	6つの不活性気体の1つである無色の元素
+PWN:kung_fu.n.01	中国の武術
 PWN:label.n.01	区別するための短い描写
 PWN:label.v.01	ラベルを割り当てる
 PWN:labor.n.02	生産的な仕事（特に賃金を得るためにする肉体的な仕事）
@@ -4797,6 +4806,7 @@ PWN:permit.v.01	同意し、許可する
 PWN:perpetrate.v.01	通常否定的な意味合いで、行為を行う
 PWN:persecution.n.01	（特に人種や宗教に基づいて）虐げる行為
 PWN:persevere.v.01	粘り強く、止まることを拒む
+PWN:persistent.a.03	保持する
 PWN:person.n.01	一人の人間
 PWN:person.n.03	話し手、話される人または第三者を示すかによって代名詞、所有限定詞と動詞の分類に使用される文法上のカテゴリー
 PWN:personality.n.01	独特の個人についてを描写する行動的、気質的、感情的、精神的なすべての属性の複合体
@@ -5074,6 +5084,7 @@ PWN:press.n.02	新聞または雑誌の形体でニュースを集め出版す�
 PWN:press.v.01	圧迫を加える、強制する、あるいは力を加える
 PWN:pressing.s.01	緊急行動を余儀なくさせる
 PWN:pressure.n.01	表面の単位面積に働く力
+PWN:prevail.v.03	存続する
 PWN:prevent.v.01	起きてしまうことまたは発生することを防ぐ
 PWN:prevent.v.02	（誰かがまたは何かが）何かすることをまたはある状態を止めさせる
 PWN:previous.s.01	時間または順序で何かに先んじる
@@ -5446,6 +5457,7 @@ PWN:residue.n.01	何かが取り除かれた後に残っているもの
 PWN:resist.v.02	誰かまたは何かに対して立ち上がりまたは抵抗する
 PWN:resistance.n.01	不賛成だったり同意しないものに抵抗する行為
 PWN:resistance.n.11	権力者に反対する集団行動
+PWN:resistor.n.01	電流の流れを阻止する電気装置
 PWN:resoluteness.n.01	意志の堅い特性
 PWN:resonate.v.01	共鳴して聞こえる
 PWN:resort_area.n.01	多くの人が娯楽のために行く場所
@@ -6166,6 +6178,8 @@ PWN:stamp.v.02	印をつける、残す、または印または何かを残す
 PWN:stamp.v.03	ある一定の特徴を持つことをはっきりと明らかにする
 PWN:stand.v.01	立っている
 PWN:stand.v.02	ある特定の状態である
+PWN:stand.v.03	場所や位置をとる、比喩的にも使われる
+PWN:stand.v.04	しっかり大地に足をすえる
 PWN:stand.v.10	直立位置に置く
 PWN:standing.n.01	社会的、経済的、職業的地位、もしくは評判
 PWN:staple.n.04	ケーブルを固定するための短いU字型のワイヤー

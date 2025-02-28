@@ -1202,6 +1202,7 @@ PWN:campfire.n.01	A campfire is a fire at a campsite that provides light and war
 PWN:can.n.01	A small, round-shaped metal container, used for different purposes like storing food or liquids, or collecting money.
 PWN:can.v.01	preserve in a can or tin
 PWN:canal.n.03	long and narrow strip of water made for boats or for irrigation
+PWN:cancel.v.03	declare null and void; make ineffective
 PWN:cancellation.n.01	the act of cancelling; calling off some arrangement
 PWN:candle.n.01	A light source consisting of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin.
 PWN:candy.n.01	a rich sweet made of flavored sugar and often combined with fruit or nuts
@@ -1701,7 +1702,9 @@ PWN:consequence.n.02	the outcome of an event especially as relative to an indivi
 PWN:conserve.v.02	To protect; to keep; to maintain the condition of.
 PWN:consider.v.05	To think about on all sides or in all its aspects.
 PWN:consign.v.02	give over to another for care or safekeeping
+PWN:consist.v.03	be consistent in form, tenor, or character; be congruous
 PWN:consist.v.04	be made or composed of
+PWN:consistent.a.01	in agreement or holding one’s ground in harmony
 PWN:consolation.n.02	the act of consoling; giving relief in affliction
 PWN:consonant.n.01	a speech sound that is not a vowel
 PWN:consortium.n.01	an association of companies for some definite purpose
@@ -2450,6 +2453,7 @@ PWN:elect.v.01	select by a vote for an office or membership
 PWN:elect.v.02	choose
 PWN:election.n.01	A process by which members of a population vote to choose a person to hold public office.
 PWN:election.n.02	the act of selecting someone or something; the exercise of deliberate choice
+PWN:electric_resistance.n.01	a material's opposition to the flow of electric current; measured in ohms
 PWN:electrical_device.n.01	a device that produces or is powered by electricity
 PWN:electrical_discharge.n.01	a discharge of electricity
 PWN:electrical_phenomenon.n.01	a physical phenomenon involving electricity
@@ -2622,6 +2626,9 @@ PWN:exhaust.v.05	eliminate (a substance)
 PWN:exhibition.n.02	a collection of things (goods or works of art etc.) for public display
 PWN:exist.v.01	have an existence, be extant
 PWN:exist.v.02	support oneself
+PWN:existent.a.01	having existence or being or actuality
+PWN:existential.a.03	relating to or dealing with existence (especially with human existence)
+PWN:existentialism.n.01	(philosophy) a 20th-century philosophical movement chiefly in Europe; assumes that people are entirely free and thus responsible for what they make of themselves
 PWN:exit.n.01	an opening that permits escape or release
 PWN:exit.n.03	the act of going out
 PWN:exit.v.01	To move away from a place, a situation or a talk.
@@ -3802,6 +3809,7 @@ PWN:justice.n.01	the quality of being just or fair
 PWN:justification.n.01	something (such as a fact or circumstance) that shows an action to be reasonable or necessary
 PWN:juvenile.n.01	a young person, not fully developed
 PWN:kangaroo.n.01	A marsupial from the family Macropodidae having powerful hind legs and large feet for leaping.
+PWN:karate.n.01	a traditional Japanese system of unarmed combat; sharp blows and kicks are given to pressure-sensitive points on the body of the opponent
 PWN:keep.v.01	keep in a certain state, position, or activity
 PWN:keep.v.03	retain possession of, go on having
 PWN:keep.v.03	To retain possession of something.
@@ -3861,6 +3869,7 @@ PWN:knowledge_domain.n.01	the content of a particular field of knowledge
 PWN:kohlrabi.n.02	A variety of the cabbage, having a turnip-shaped edible stem.
 PWN:korea.n.01	an Asian peninsula (off Manchuria) separating the Yellow Sea and the Sea of Japan; the Korean name is Dae-Han-Min-Gook or Han-Gook
 PWN:krypton.n.01	Krypton, the chemical element with atomic number 36 and symbol Kr.
+PWN:kung_fu.n.01	a Chinese martial art
 PWN:label.n.01	a brief description given for purposes of identification
 PWN:label.v.01	assign a label to; designate with a label
 PWN:labor.n.02	productive work (especially physical work done for wages)
@@ -5002,6 +5011,7 @@ PWN:permit.v.01	To give permission to an action.
 PWN:perpetrate.v.01	perform an act, usually with a negative connotation
 PWN:persecution.n.01	the act of persecuting (especially on the basis of race or religion)
 PWN:persevere.v.01	be persistent, refuse to stop
+PWN:persistent.a.03	retained; not shed
 PWN:person.n.01	A human being, any living member of Homo sapiens.
 PWN:person.n.03	a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party
 PWN:personality.n.01	the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual
@@ -5279,6 +5289,7 @@ PWN:press.n.02	the print media responsible for gathering and publishing news in 
 PWN:press.v.01	To apply pressure to an item.
 PWN:pressing.s.01	Worthy of immediate attention.
 PWN:pressure.n.01	the force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit)
+PWN:prevail.v.03	continue to exist
 PWN:prevent.v.01	keep from happening or arising; make impossible
 PWN:prevent.v.02	To inhibit the occurrence of an event; to stop from doing something or being in a certain state.
 PWN:previous.s.01	just preceding something else in time or order
@@ -5651,6 +5662,7 @@ PWN:residue.n.01	matter that remains after something has been removed
 PWN:resist.v.02	stand up or offer resistance to somebody or something
 PWN:resistance.n.01	the action of opposing something that you disapprove or disagree with
 PWN:resistance.n.11	group action in opposition to those in power
+PWN:resistor.n.01	an electrical device that resists the flow of electrical current
 PWN:resoluteness.n.01	the trait of being resolute
 PWN:resonate.v.01	sound with resonance
 PWN:resort_area.n.01	an area where many people go for recreation
@@ -6371,6 +6383,8 @@ PWN:stamp.v.02	to mark, or produce an imprint in or on something
 PWN:stamp.v.03	reveal clearly as having a certain character
 PWN:stand.v.01	To be upright in an erect position, supported by the feet.
 PWN:stand.v.02	be in some specified state or condition
+PWN:stand.v.03	occupy a place or location, also metaphorically
+PWN:stand.v.04	hold one's ground; maintain a position; be steadfast or upright
 PWN:stand.v.10	put into an upright position
 PWN:standing.n.01	social or financial or professional status or reputation
 PWN:staple.n.04	a U-shaped or angled wire or metal that is driven into a surface to hold or secure something in place
