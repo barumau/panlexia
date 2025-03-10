@@ -246,6 +246,7 @@ PWN:ancestor.n.01	自分が系統を引く（通常、祖父母よりも遠い�
 PWN:anchor.n.01	船が動くのを防ぐ機械装置
 PWN:anchorite.n.01	宗教的理由のために社会から退いた人
 PWN:ancient.s.02	非常に古い
+PWN:android.n.01	人間に似た自動機械
 PWN:anecdote.n.01	事件の短い報告（特に伝記における）
 PWN:angel.n.01	神に付き添う霊的な存在
 PWN:anger.n.01	強い感情
@@ -1870,6 +1871,7 @@ PWN:demand.n.02	商品とサービスを購入する能力と願望
 PWN:demand.v.01	緊急に、そして、力強く要請する
 PWN:demeanor.n.01	行動に関する相当語句
 PWN:democracy.n.02	彼らを代表するための人を選ぶことができる市民集団に最高の力がある政治制度
+PWN:democratic.s.03	全般的に人々の利益に見合うために、目立ち、示すさま
 PWN:demonic.s.01	極端に悪いまたは残酷な
 PWN:demonstration.n.05	物事の仕組みを視覚的に見せること
 PWN:demoralization.n.01	ある主義や政策のための精神的基盤を壊すこと
@@ -1992,6 +1994,7 @@ PWN:disappear.v.01	道に迷う、警告あるいは説明なしで
 PWN:disappointment.n.01	期待が実現されないときに生じる不満感
 PWN:disapprove.v.02	間違っているか不適当であると考える
 PWN:disavowal.n.01	その関係、認識を否定すること
+PWN:disbelieve.v.01	間違っているとして拒絶する
 PWN:disburse.v.01	基金などから、費やす
 PWN:discard.v.01	投げ捨てる
 PWN:discharge.n.01	突然エネルギーを放出すること
@@ -3265,9 +3268,14 @@ PWN:hold.v.14	特定の方法で支持するか、支える
 PWN:hole.n.01	何かの中へ、あるいは通り抜ける始まり
 PWN:hole.n.02	故意に作られた、または何かに通じた穴
 PWN:holiday.n.02	法律や慣習で労働が中止される日
+PWN:holism.n.01	どんな全体の部品も存在できないで、全体との彼らの関係以外に、理解できないという理論
+PWN:holistic.a.01	部分と全体の有機的または機能的な関係を強調する
 PWN:hollow.a.01	固体でない
 PWN:hollow.v.02	内部を取り除く
 PWN:holmium.n.01	希土類の3価の金属元素
+PWN:holocaust.n.01	大量破壊と人命損失の行為（特に戦争や火災による）
+PWN:hologram.n.01	ホログラフィーによって三次元画像を複製するための情報を含む中間の写真（または写真記録）
+PWN:holography.n.01	3次元像を作り出すことができるホログラム作製のために、レーザーからのコヒーレント光の使用に関する光学の分野
 PWN:holy.a.01	神通力に属している、から派生した、またはに関連している
 PWN:home.n.01	特定の時に住んでいるところ
 PWN:home.n.03	あなたが住んでいる、国、州または都市
@@ -3324,6 +3332,9 @@ PWN:howl.v.02	動物のように大声で泣く
 PWN:huge.s.01	通常、サイズ、量、度数、特に程度または範囲において大きな
 PWN:hum.v.01	閉じられたくちびるで歌う
 PWN:hum.v.02	活動のため騒々しくなる
+PWN:humane.s.03	道徳的および知的な進歩の証拠を示すさま
+PWN:humanism.n.02	理性を通して自己実現の能力を強調している教義
+PWN:humanist.a.02	理性と科学的方法を通した人間の尊厳と人間の実現能力を主張ししばしば宗教を排除排除する哲学の、または、理性と科学的方法を通した人間の尊厳と人間の実現能力を主張ししばしば宗教を排除排除する哲学に関する
 PWN:humid.s.01	多量の水蒸気を含んでいる、または、によって特徴づけられる
 PWN:humiliate.v.01	恥を感じるようになる
 PWN:hummingbird.n.01	輝かしい虹色の羽毛と長く細長いくちばしがある小さいアメリカの鳥
@@ -3381,6 +3392,7 @@ PWN:impartiality.n.01	どちらの見解や意見も公平に重視する傾向
 PWN:impatient.a.01	落ちつかない、遅れに対して気が短い、あるいは敵対している
 PWN:impede.v.01	障害または障害である
 PWN:impend.v.01	差し迫っているか、起ころうとしている
+PWN:imperfect.a.01	完全でない
 PWN:imperfection.n.01	不十分である状態や場合
 PWN:impermanent.a.01	永久的でない
 PWN:impersonate.v.01	何かの人物をなりすます、または演じる
@@ -3419,6 +3431,7 @@ PWN:increase.n.04	何かがその分増える量
 PWN:increase.n.05	何かを増やす行為
 PWN:increase.v.01	量がより大きくなる
 PWN:increase.v.02	より大きいかより多くする
+PWN:incredible.a.01	信念または理解を越えて
 PWN:incredulity.n.01	何かの真実に関する疑い
 PWN:incrimination.n.01	ある過失や不正犯罪に責任があることに対しての告発
 PWN:indefinite_quantity.n.01	推定数量
@@ -3458,6 +3471,7 @@ PWN:ingredient.n.03	料理で混合物の素材である食物
 PWN:inhabitant.n.01	特定の場所に居住する人
 PWN:inhere_in.v.01	離れている
 PWN:inheritance.n.01	称号、任務または資産の遺伝継承
+PWN:inhumane.a.01	哀れみまたは同情が欠如し、欠如していることを反映している
 PWN:iniquity.n.01	道徳的、もしくは精神的な価値のないこと
 PWN:initiate.v.02	リードまたはイニシアティブを取る
 PWN:injection.n.03	注射器を用いて体の中に液体を入れる行為
@@ -4820,6 +4834,7 @@ PWN:perca.n.01	パーチ科の標準属
 PWN:perceive.v.01	感覚を通じて気が付くようになる
 PWN:perception.n.03	知覚の過程
 PWN:percussion_instrument.n.01	物体を別の物体で打って音が出る楽器
+PWN:perfect.a.01	その種で完全な、または欠陥または傷のない
 PWN:perfect.v.01	完璧であるか完全にする
 PWN:perfection.n.01	不具合や欠陥がない状態
 PWN:perform.v.01	動作を実行する、または遂行する
@@ -6888,7 +6903,9 @@ PWN:universe.n.03	ある議論で言及されたこと、あるいは取り上�
 PWN:university.n.02	研究と教育のための施設だけでなく管理局、住居区を含む高等教育の中枢が収容されている施設
 PWN:unoriginality.n.02	独創性に欠けている品質
 PWN:unpack.v.01	梱包から取り出す
+PWN:unpopular.a.01	不人気または一般的な肯定なしでみなされる
 PWN:unscrew.v.01	ねじを外すことにより何かを緩める
+PWN:unserviceable.s.02	使用できない
 PWN:unskilled_person.n.01	専門的な訓練を受けていない人
 PWN:unsoundness.n.01	損害か腐敗の状態
 PWN:unsusceptibility.n.01	影響されやすくない状態
@@ -6911,6 +6928,7 @@ PWN:use.n.01	使う行為
 PWN:use.v.01	業務に入れられる
 PWN:use.v.02	取る、または消費する（定期的に、または習慣的に）
 PWN:use.v.03	使い切る、または完全に消費する
+PWN:useable.s.02	使用できる
 PWN:utensil.n.01	実際的な用途の道具（特に家事の）
 PWN:uterus.n.01	女性の骨盤の筋肉でできた中空器官
 PWN:utility.n.06	ある建造物に接続された、または建造物の一部である、1つ以上の装置からなる設備で、熱や電気、水、下水処理などのサービスを提供するために設計された設備

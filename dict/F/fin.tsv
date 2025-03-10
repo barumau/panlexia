@@ -771,6 +771,9 @@ PWN:ancestor.n.01		kantaisä
 PWN:anchor.n.01		ankkuri	
 PWN:anchorite.n.01		erakko	
 PWN:ancient.s.02		ikivanha	
+PWN:android.n.01		androidi	
+PWN:android.n.01		humanoidi	
+PWN:android.n.01		mekaaninen ihminen	
 PWN:anecdote.n.01		anekdootti	
 PWN:angel.n.01		enkeli	
 PWN:anger.n.01		kiukku	
@@ -4483,6 +4486,8 @@ PWN:demeanor.n.01		toiminta
 PWN:democracy.n.02		demokratia	
 PWN:democracy.n.02		tasavalta	
 PWN:democracy.n.02		yhteisö	
+PWN:democratic.s.03		kansan-	
+PWN:democratic.s.03		populaari-	
 PWN:demonic.s.01		helvetillinen	
 PWN:demonic.s.01		jumalaton	
 PWN:demonic.s.01		paholaismainen	
@@ -4731,6 +4736,8 @@ PWN:disapprove.v.02		paheksua
 PWN:disavowal.n.01		hylkääminen	
 PWN:disavowal.n.01		irtautuminen	
 PWN:disavowal.n.01		kiistäminen	
+PWN:disbelieve.v.01		epäillä	
+PWN:disbelieve.v.01		olla uskomatta	
 PWN:disburse.v.01		maksaa	
 PWN:disburse.v.01		suorittaa	
 PWN:discard.v.01		heittää menemään	
@@ -7322,12 +7329,20 @@ PWN:hole.n.01		kolo	kɔlɔ
 PWN:hole.n.01		reikä	rɛi̯kæ
 PWN:hole.n.02		aukko	
 PWN:holiday.n.02		lomapäivä	
+PWN:holism.n.01		holismi	
+PWN:holism.n.01		holistinen teoria	
+PWN:holistic.a.01		holistinen	
 PWN:hollow.a.01		ontto	
 PWN:hollow.v.02		kaivaa tyhjäksi	
 PWN:hollow.v.02		kovertaa	
 PWN:hollow.v.02		poistaa	
 PWN:holmium.n.01		holmium	
 PWN:holmium.n.01		järjestysluku 67	
+PWN:holocaust.n.01		joukkomurha	
+PWN:holocaust.n.01		joukkotuho	
+PWN:hologram.n.01		holografi	
+PWN:hologram.n.01		hologrammi	
+PWN:holography.n.01		holografia	
 PWN:holy.a.01		pyhä	
 PWN:home.n.01		koti	kɔti
 PWN:home.n.01		paikka	
@@ -7430,6 +7445,10 @@ PWN:hum.v.01		hyräillä
 PWN:hum.v.02		kihistä	
 PWN:hum.v.02		kuhista	
 PWN:hum.v.02		vilistä	
+PWN:humane.s.03		ihmismäinen	
+PWN:humanism.n.02		humanismi	
+PWN:humanism.n.02		sekulaari humanismi	
+PWN:humanist.a.02		humanistinen	
 PWN:humid.s.01		kostea	
 PWN:humiliate.v.01		alentaa	
 PWN:humiliate.v.01		loukata	
@@ -7587,6 +7606,7 @@ PWN:impatient.a.01		kärsimätön
 PWN:impede.v.01		ehkäistä	
 PWN:impede.v.01		estää	ɛstæː
 PWN:impend.v.01		olla tapahtumaisillaan	
+PWN:imperfect.a.01		epätäydellinen	
 PWN:imperfection.n.01		epätäydellisyys	
 PWN:imperfection.n.01		puutteellisuus	
 PWN:impermanent.a.01		kestämätön	
@@ -7669,6 +7689,7 @@ PWN:increase.v.02		kasvattaa
 PWN:increase.v.02		korottaa	
 PWN:increase.v.02		laajentaa	
 PWN:increase.v.02		lisätä	
+PWN:incredible.a.01		uskomaton	
 PWN:incredulity.n.01		epäilys	
 PWN:incredulity.n.01		epäusko	
 PWN:incrimination.n.01		rikossyyte	
@@ -7744,6 +7765,8 @@ PWN:inhere_in.v.01		kuulua
 PWN:inhere_in.v.01		olla osa	
 PWN:inheritance.n.01		jäämistö	
 PWN:inheritance.n.01		perintö	
+PWN:inhumane.a.01		epäinhimillinen	
+PWN:inhumane.a.01		julma	
 PWN:iniquity.n.01		pahuus	
 PWN:iniquity.n.01		pimeys	
 PWN:iniquity.n.01		vääryys	
@@ -10281,6 +10304,7 @@ PWN:perceive.v.01		huomata
 PWN:perceive.v.01		käsittää	
 PWN:perception.n.03		havaintokyky	
 PWN:percussion_instrument.n.01		lyömäsoitin	
+PWN:perfect.a.01		täydellinen	
 PWN:perfect.v.01		hioa	
 PWN:perfect.v.01		kehittää	
 PWN:perfect.v.01		täydellistää	
@@ -14341,7 +14365,11 @@ PWN:unoriginality.n.02		arkisuus
 PWN:unoriginality.n.02		tavanomaisuus	
 PWN:unpack.v.01		ottaa pakkauksesta	
 PWN:unpack.v.01		purkaa	
+PWN:unpopular.a.01		epäsuosittu	
 PWN:unscrew.v.01		irrottaa	
+PWN:unserviceable.s.02		epäkuntoinen	
+PWN:unserviceable.s.02		käyttökelvoton	
+PWN:unserviceable.s.02		toimimaton	
 PWN:unskilled_person.n.01		ammattitaidoton henkilö	
 PWN:unsoundness.n.01		pilaantunut	
 PWN:unsoundness.n.01		turmeltuneisuus	
@@ -14410,6 +14438,7 @@ PWN:use.v.01		soveltaa
 PWN:use.v.02		käyttää	
 PWN:use.v.03		kuluttaa	
 PWN:use.v.03		tuhlata loppuun	
+PWN:useable.s.02		käyttökelpoinen	
 PWN:utensil.n.01		tarve-esine	
 PWN:utensil.n.01		työkalu	
 PWN:uterus.n.01		kohtu	

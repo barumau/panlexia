@@ -729,6 +729,9 @@ PWN:anchor.n.01		ground tackle
 PWN:anchorite.n.01		anchorite	
 PWN:anchorite.n.01		hermit	
 PWN:ancient.s.02		ancient	
+PWN:android.n.01		android	
+PWN:android.n.01		humanoid	
+PWN:android.n.01		mechanical man	
 PWN:anecdote.n.01		anecdote	
 PWN:angel.n.01		angel	
 PWN:anger.n.01		anger	
@@ -4764,6 +4767,8 @@ PWN:demeanor.n.01		deportment
 PWN:democracy.n.02		commonwealth	
 PWN:democracy.n.02		democracy	
 PWN:democracy.n.02		republic	
+PWN:democratic.s.03		democratic	
+PWN:democratic.s.03		popular	
 PWN:demonic.s.01		demonic	
 PWN:demonic.s.01		diabolic	
 PWN:demonic.s.01		diabolical	
@@ -5074,6 +5079,8 @@ PWN:disapprove.v.02		disapprove
 PWN:disapprove.v.02		reject	
 PWN:disavowal.n.01		disavowal	
 PWN:disavowal.n.01		disclaimer	
+PWN:disbelieve.v.01		disbelieve	
+PWN:disbelieve.v.01		discredit	
 PWN:disburse.v.01		disburse	
 PWN:disburse.v.01		pay out	
 PWN:discard.v.01		cast aside	
@@ -8110,11 +8117,18 @@ PWN:hold.v.14		hold
 PWN:hole.n.01		hole		
 PWN:hole.n.02		hole	
 PWN:holiday.n.02		holiday	
+PWN:holism.n.01		holism	
+PWN:holism.n.01		holistic theory	
+PWN:holistic.a.01		holistic	
 PWN:hollow.a.01		hollow	
 PWN:hollow.v.02		core out	
 PWN:hollow.v.02		hollow		
 PWN:hollow.v.02		hollow out	
 PWN:holmium.n.01		holmium	
+PWN:holocaust.n.01		holocaust	
+PWN:hologram.n.01		hologram	
+PWN:hologram.n.01		holograph	
+PWN:holography.n.01		holography	
 PWN:holy.a.01		holy		
 PWN:home.n.01		home	
 PWN:home.n.01		place	
@@ -8230,6 +8244,11 @@ PWN:hum.v.01		hum
 PWN:hum.v.02		buzz	
 PWN:hum.v.02		hum	
 PWN:hum.v.02		seethe	
+PWN:humane.s.03		humane	
+PWN:humanism.n.02		humanism	
+PWN:humanism.n.02		secular humanism	
+PWN:humanist.a.02		humanist	
+PWN:humanist.a.02		humanistic	
 PWN:humid.s.01		humid	
 PWN:humiliate.v.01		abase	
 PWN:humiliate.v.01		chagrin	
@@ -8387,6 +8406,7 @@ PWN:impatient.a.01		impatient
 PWN:impede.v.01		hinder	
 PWN:impede.v.01		impede	
 PWN:impend.v.01		impend	
+PWN:imperfect.a.01		imperfect	
 PWN:imperfection.n.01		imperfection	
 PWN:imperfection.n.01		imperfectness	
 PWN:impermanent.a.01		impermanent	
@@ -8464,6 +8484,8 @@ PWN:increase.n.05		increase
 PWN:increase.n.05		step-up	
 PWN:increase.v.01		increase	
 PWN:increase.v.02		increase	
+PWN:incredible.a.01		incredible	
+PWN:incredible.a.01		unbelievable	
 PWN:incredulity.n.01		disbelief	
 PWN:incredulity.n.01		incredulity	
 PWN:incredulity.n.01		mental rejection	
@@ -8541,6 +8563,7 @@ PWN:inhere_in.v.01		attach to
 PWN:inhere_in.v.01		inhere in	
 PWN:inheritance.n.01		heritage	
 PWN:inheritance.n.01		inheritance	
+PWN:inhumane.a.01		inhumane	
 PWN:iniquity.n.01		dark	
 PWN:iniquity.n.01		darkness	
 PWN:iniquity.n.01		iniquity	
@@ -11441,6 +11464,7 @@ PWN:perceive.v.01		perceive
 PWN:perception.n.03		perception	
 PWN:percussion_instrument.n.01		percussion instrument	
 PWN:percussion_instrument.n.01		percussive instrument	
+PWN:perfect.a.01		perfect	
 PWN:perfect.v.01		hone	
 PWN:perfect.v.01		perfect	
 PWN:perfection.n.01		flawlessness	
@@ -16089,7 +16113,11 @@ PWN:university.n.02		university
 PWN:unoriginality.n.02		unoriginality	
 PWN:unpack.v.01		take out	
 PWN:unpack.v.01		unpack	
+PWN:unpopular.a.01		unpopular	
 PWN:unscrew.v.01		unscrew	
+PWN:unserviceable.s.02		unserviceable	
+PWN:unserviceable.s.02		unusable	
+PWN:unserviceable.s.02		unuseable	
 PWN:unskilled_person.n.01		unskilled person	
 PWN:unsoundness.n.01		unsoundness	
 PWN:unsusceptibility.n.01		immunity	
@@ -16162,6 +16190,8 @@ PWN:use.v.02		habituate
 PWN:use.v.02		use	
 PWN:use.v.03		expend	
 PWN:use.v.03		use	
+PWN:useable.s.02		usable	
+PWN:useable.s.02		useable	
 PWN:utensil.n.01		utensil	
 PWN:uterus.n.01		uterus	
 PWN:uterus.n.01		womb		
