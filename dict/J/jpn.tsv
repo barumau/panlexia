@@ -2,12 +2,17 @@ id	style	word	pronunciation	etymology
 PLX:1PL.pro		俺達	oretachi	
 PLX:1PL.pro		僕等	bokura	
 PLX:1PL.pro		我々	wareware	
+PLX:1PL.pro		私たち	
 PLX:1PL.pro		私達	watashitachi	
+PLX:1SG POSS.pro		私の	
 PLX:1SG.pro		俺	ore	
 PLX:1SG.pro		僕	boku	cmn:pú
 PLX:1SG.pro		私	watashi	
+PLX:2PL.pro		あなたたち	
 PLX:2PL.pro		君達	kimitachi	
 PLX:2PL.pro		貴方々	anatagata	
+PLX:2SG POSS.pro		あなたの	
+PLX:2SG.pro		あなた	
 PLX:2SG.pro		君	kimi (1)	
 PLX:2SG.pro		御前	omae	
 PLX:2SG.pro		貴方	anata	
@@ -17,11 +22,13 @@ PLX:3SG INAN.pro		それ	sore
 PLX:3SG M.pro		彼	kare	
 PLX:3SG.pro		彼	kare	
 PLX:3SG.pro		彼女	kanojo	
+PLX:Asian dragon.n		竜	
 PLX:above.pp		上	ue	
 PLX:after.pp		後	ato	
 PLX:and.cnj		そして	soshite	
 PLX:and.cnj		と	to	
 PLX:and.cnj		や	ya (2)	
+PLX:antifascism.n		反ファシズム	
 PLX:at.pp		で	de	
 PLX:at.pp		に	ni (2)	
 PLX:be late.v		遅れる	okureru	
@@ -47,11 +54,16 @@ PLX:father-in-law (of man).n		舅	shūto
 PLX:father-in-law (of woman).n		舅	shūto	
 PLX:fermented alcohol.n		発酵飲料	hakkōinryō	cmn:fāxiàoĭnliào 發酵飲料
 PLX:fish trap.n		梁/簗	yana	
+PLX:from.pp		-から	
+PLX:genderology.n		ジェンダー研究	
+PLX:haha.int		わはは	
 PLX:head hair.n		毛	ke	
 PLX:head hair.n		髪	kami (1)	
+PLX:hey.int		おい	
 PLX:how many pieces.pro		幾つ	ikutsu	
 PLX:how much.pro		幾ら	ikura	
 PLX:how.pro		どう	dō (2)	
+PLX:how.pro		どのように	
 PLX:if.cnj		もし	moshi	
 PLX:in front of.pp		前	mae	
 PLX:in front of.pp		正面	shōmen	cmn:zhèngmiàn
@@ -59,6 +71,8 @@ PLX:in.pp		中	naka
 PLX:initiation ceremony.n		イニシエーション	inishiēshon	:initiatio
 PLX:initiation ceremony.n		通過儀礼	tsūkagirei	cmn:tōngguòyílì
 PLX:inside.pp		中	naka	
+PLX:kendo.n		剣道	
+PLX:kyudo.n		弓道	
 PLX:manioc bread.n		キャッサバ	kyassaba	tnq:casavi
 PLX:mother's brother.n		伯父　(parent’s elder brother)、叔父(parent’s younger brother)	oji	
 PLX:mother's sister.n		伯母　(parent’s elder brother)、叔母(parent’s younger brother)	oba	
@@ -66,16 +80,23 @@ PLX:mother-in-law (of man).n		姑	shūtome
 PLX:mother-in-law (of woman).n		姑	shūtome	
 PLX:netbag.n		ネットバッグ	nettobaggu	eng:netbag
 PLX:nothing.pro		何も	nanimo	
+PLX:oganesson.n		オガネソン	
 PLX:older sibling.n		兄姉	keishi	cmn:xiōngzĭ 兄姊
 PLX:older sibling.n		年上の兄弟	toshiue no kyōdai	
 PLX:or.cnj		か	ka (2)	
 PLX:or.cnj		又	mata	
 PLX:outside.pp		外	soto	
 PLX:parents-in-law.n		義父母	gifubo	cmn:yìfùmŭ
+PLX:ramen.n		ラーメン	
 PLX:sibling-in-law.n		義兄弟	gikyōdai	
 PLX:son-in-law (of man).n		婿	muko	
 PLX:son-in-law (of woman).n		婿	muko	
 PLX:stab to death.v		刺す	sasu	
+PLX:tennessine.n		テネシン	
+PLX:than.pp		に比べ	
+PLX:than.pp		より	
+PLX:thanks.int		ありがとう	
+PLX:thanks.int		どうも	
 PLX:that.pro		あの	ano	
 PLX:that.pro		あれ	are	
 PLX:that.pro		その	sono	
@@ -85,6 +106,7 @@ PLX:this.pro		これ	kore
 PLX:tumpline.n		タンプライン	tanpurain	eng:tumpline
 PLX:under.pp		下	shita (2)	
 PLX:what.pro		何	nani	
+PLX:what.pro		何事	
 PLX:when.pro		いつ	itsu	
 PLX:when.pro		何時	nanji	
 PLX:where.pro		どこ	doko	
@@ -95,6 +117,7 @@ PLX:why.pro		どうして	dōshite
 PLX:why.pro		何故	naze	
 PLX:with.pp		で	de	
 PLX:with.pp		と	to	
+PLX:with.pp		共	
 PLX:without.pp		無し	nashi	
 PLX:yes.ptcl		ええ	ē	
 PLX:yes.ptcl		はい	hai (2)	
@@ -588,6 +611,7 @@ PWN:ace.n.03		花形
 PWN:ace.n.03		達人	
 PWN:ace.n.03		達者	
 PWN:acerate_leaf.n.01		針葉	shin’yō (1)	cmn:zhēnyè
+PWN:acetylene.n.01		アルキン	
 PWN:achieve.v.01		克ち取る	
 PWN:achieve.v.01		勝ち得る	
 PWN:achieve.v.01		勝取る	
@@ -853,6 +877,7 @@ PWN:address.n.02		所
 PWN:address.n.02		所在地	
 PWN:address.n.03		スピーチ	supiichi	eng:speech
 PWN:address.n.03		メッセージ	
+PWN:address.n.03		住所	
 PWN:address.n.03		奨励	
 PWN:address.n.03		式辞	
 PWN:address.n.03		演説	enzetsu	cmn:yuănshuō
@@ -1527,6 +1552,8 @@ PWN:agreement.n.06		規約
 PWN:agreement.n.06		調和	
 PWN:agreement.n.06		議定	
 PWN:agreement.n.06		賛成	
+PWN:agronomist.n.01		農学者	
+PWN:agronomy.n.01		農学	
 PWN:ahead.r.03		お先に	
 PWN:ahead.r.03		前に	
 PWN:ahead.r.03		前方へ	
@@ -1644,6 +1671,7 @@ PWN:alga.n.01		藻
 PWN:alga.n.01		藻類	
 PWN:alive.a.01		生きている	
 PWN:alkaline.a.01		アルカリ性の	
+PWN:alkene.n.01		アルケン	
 PWN:all.a.01		全て	subete	
 PWN:all.a.01		全部	zenbu	cmn:quánbù
 PWN:all.a.01		皆	minna	
@@ -1725,6 +1753,8 @@ PWN:allow.v.06		見込む
 PWN:allow.v.06		鑑みる	
 PWN:alloy.n.01		アロイ	
 PWN:alloy.n.01		合金	
+PWN:almond.n.01		アーモンド	
+PWN:almond.n.01		扁桃	
 PWN:almond.n.02		アーモンド	
 PWN:alone.r.02		つくねんと	
 PWN:alone.r.02		つくねんと	
@@ -1875,6 +1905,8 @@ PWN:american_football.n.01		アメリカンラグビー
 PWN:american_football.n.01		鎧球	
 PWN:americium.n.01		アメリシウム	
 PWN:americium.n.01		Ａｍ	
+PWN:amide.n.01		アミド	
+PWN:amine.n.01		アミン	
 PWN:ammunition.n.01		弾	
 PWN:ammunition.n.01		弾丸	
 PWN:ammunition.n.01		弾薬	
@@ -2024,6 +2056,7 @@ PWN:animation.n.01		生命	seimei	cmn:shēngmìng
 PWN:animation.n.01		生活	seikatsu	cmn:shēnghuó
 PWN:anion.n.01		アニオン	
 PWN:anion.n.01		陰イオン	
+PWN:anion.n.01 		陰イオン	
 PWN:ankle.n.01		足関節	
 PWN:ankle.n.01		足頚	
 PWN:ankle.n.01		足首	ashikubi	
@@ -2066,8 +2099,11 @@ PWN:announce.v.04		予言+する
 PWN:announce.v.04		前触れ+する	
 PWN:anode.n.01		アノード	
 PWN:anode.n.01		陽極	
+PWN:anode.n.01 		陽極	
 PWN:anomaly.n.02		番外	
 PWN:anomaly.n.02		異常	
+PWN:anonymous.a.01		名無し	
+PWN:anonymous.a.01		無名の	
 PWN:anorexia.n.01		アノレクシア	
 PWN:anorexia.n.01		拒食症	
 PWN:anorexia.n.01		食欲不振	
@@ -2109,8 +2145,10 @@ PWN:answer.v.01		受け答え+する
 PWN:answer.v.01		受答+する	
 PWN:answer.v.01		受答え+する	
 PWN:answer.v.01		回申+する	
+PWN:answer.v.01		回答	
 PWN:answer.v.01		回答+する	
 PWN:answer.v.01		応答+する	
+PWN:answer.v.01		答え	
 PWN:answer.v.01		答える	kotaeru	
 PWN:answer.v.01		答弁+する	
 PWN:answer.v.01		答申+する	
@@ -2145,6 +2183,7 @@ PWN:anticipation.n.01		所期
 PWN:anticipation.n.01		期待	
 PWN:anticipation.n.01		楽しみ	
 PWN:antimony.n.01		アンチモニー	
+PWN:antimony.n.01		アンチモン	
 PWN:antithesis.n.01		対極	
 PWN:antithesis.n.01		正反対	
 PWN:antithetic.s.01		対照的	
@@ -2423,6 +2462,7 @@ PWN:approximately.r.01		粗粗
 PWN:approximately.r.01		約	
 PWN:approximately.r.01		近くに	
 PWN:april.n.01		四月	
+PWN:april.n.01		４月	
 PWN:apron.n.01		エプロン	
 PWN:apron.n.01		前垂	
 PWN:apron.n.01		前垂れ	
@@ -2445,6 +2485,8 @@ PWN:arch.n.01		アーチ
 PWN:arch.n.01		アーチ形	
 PWN:arch.n.01		反り	
 PWN:arch.n.01		反り様	
+PWN:arch.n.01		弓	
+PWN:arch.n.01		弓なり	
 PWN:arch.n.01		弓張	
 PWN:arch.n.01		弓張り	
 PWN:arch.n.01		弓形	
@@ -2454,6 +2496,7 @@ PWN:arch.n.04		アーチ	āchi	:arcus
 PWN:arch.n.04		迫持	serimochi	
 PWN:archer.n.01		アーチャー	
 PWN:archer.n.01		射手	
+PWN:archer.n.01		弓兵	
 PWN:archer.n.01		弓取	
 PWN:archer.n.01		弓取り	
 PWN:archer.n.01		弓矢取	
@@ -3257,6 +3300,7 @@ PWN:audience.n.01		講衆
 PWN:audience.n.02		ファン	
 PWN:auditory_communication.n.01		聴覚コミュニケーション	
 PWN:august.n.01		八月	
+PWN:august.n.01		８月	
 PWN:aunt.n.01		伯母	
 PWN:aunt.n.01		伯母　(parent’s elder brother)、叔母(parent’s younger brother)	oba	
 PWN:aunt.n.01		伯母さま	
@@ -3349,6 +3393,7 @@ PWN:avaricious.s.01		欲深
 PWN:avaricious.s.01		欲深い	
 PWN:avaricious.s.01		欲深い	
 PWN:avaricious.s.01		貪欲	don’yoku	cmn:tānyù 貪慾
+PWN:avocado.n.01		アボカド	
 PWN:avoid.v.01		免れる	
 PWN:avoid.v.01		回避+する	
 PWN:avoid.v.01		忌避+する	
@@ -3450,6 +3495,7 @@ PWN:bacon.n.01		ベーコン
 PWN:bad.a.01		まずい	
 PWN:bad.a.01		悪い	warui	
 PWN:bad.a.01		良からぬ	
+PWN:bad.a.01		難しい	
 PWN:bag.n.01		カバン	
 PWN:bag.n.01		バッグ	
 PWN:bag.n.01		嚢	
@@ -3506,6 +3552,8 @@ PWN:ball.n.01		ボール
 PWN:ball.n.01		玉	
 PWN:ball.n.01		球	
 PWN:ball.n.01		鞠	
+PWN:ball.n.01 		玉	
+PWN:ball.n.01 		球	
 PWN:ball.n.03		ボール	bōru (2)	eng:ball
 PWN:ball.n.03		円球	
 PWN:ball.n.03		玉	
@@ -4335,6 +4383,7 @@ PWN:believe.v.01		信じる	shinjiru	cmn:xìn
 PWN:believe.v.01		信ずる	
 PWN:believe.v.01		信用	shin’yō (2)	cmn:xìnyòng
 PWN:believe.v.01		信用+する	
+PWN:believe.v.01		信頼する	
 PWN:believe.v.03		信じる	
 PWN:believe.v.03		信ずる	
 PWN:believe.v.03		思う	
@@ -4642,6 +4691,8 @@ PWN:bishop.n.03		ビショップ
 PWN:bishop.n.03		ビショップ	
 PWN:bismuth.n.01		bi	
 PWN:bismuth.n.01		ビスマス	
+PWN:bison.n.01		バイソン	
+PWN:bison.n.01		野牛	
 PWN:bite.v.01		かみつく	
 PWN:bite.v.01		かみ付く	
 PWN:bite.v.01		刺す	sasu	
@@ -4916,6 +4967,7 @@ PWN:blue.s.01		碧い
 PWN:blue.s.01		蒼い	
 PWN:blue.s.01		青い	aoi	
 PWN:blue.s.01		青っぽい	
+PWN:bluish_green.s.01		シアン	
 PWN:blunder.n.01		へま	
 PWN:blunder.n.01		不覚	
 PWN:blunder.n.01		不間	
@@ -5051,6 +5103,7 @@ PWN:body_louse.n.01		衣虱	koromojirami
 PWN:body_of_water.n.01		水体	
 PWN:body_part.n.01		身体部位	
 PWN:bohrium.n.01		bh	
+PWN:bohrium.n.01		ボーリウム	
 PWN:boil.n.01		おでき	
 PWN:boil.n.01		出来物	dekimono	
 PWN:boil.n.01		吹き出物	
@@ -5125,6 +5178,7 @@ PWN:bolshevik.n.02		ボリシェヴィキ
 PWN:bolshevik.n.02		ボリシェヴィク	
 PWN:bolshevik.n.02		ボルシェビキ	
 PWN:bolshevik.n.02		ボルシェヴィキ	
+PWN:bolshevik.n.02 		ボリシェヴィキ	
 PWN:bolt.n.03		デッドボルト	
 PWN:bolt.n.03		掛け金	kakegane	
 PWN:bolt.n.03		桟	
@@ -5363,6 +5417,7 @@ PWN:bowl.n.01		丼	donburi
 PWN:bowl.n.01		丼鉢	
 PWN:bowl.n.01		椀	
 PWN:bowl.n.01		汁椀	
+PWN:bowl.n.01		皿	
 PWN:bowl.n.01		碗	
 PWN:bowl.n.01		茶碗	chawan	cmn:cháwăn
 PWN:bowl.n.01		鉢	hachi (2)	san:pātra
@@ -5376,6 +5431,7 @@ PWN:box.n.01		筥
 PWN:box.n.01		箱	
 PWN:box.n.07		ボックス	
 PWN:boxing.n.01		ボクシング	
+PWN:boxing.n.01		拳闘	
 PWN:bracelet.n.02		ブレスレット	
 PWN:bracelet.n.02		腕輪	udewa	
 PWN:brackish.s.02		塩気	shioke	
@@ -5660,6 +5716,7 @@ PWN:bribe.v.01		握ませる
 PWN:bribe.v.01		涜職+する	
 PWN:bribe.v.01		買収+する	
 PWN:bribe.v.01		贈賄+する	
+PWN:brick.n.01		レンガ	
 PWN:brick.n.01		煉瓦	renga	
 PWN:brick.n.01		甎	
 PWN:brick.n.01		磚	
@@ -5806,6 +5863,7 @@ PWN:brow.n.01		前額
 PWN:brow.n.01		前額部	
 PWN:brow.n.01		御凸	
 PWN:brow.n.01		額	hitai	
+PWN:brown.s.01		茶色	
 PWN:brown.s.01		茶色い	
 PWN:bruise.n.01		あざ	
 PWN:bruise.n.01		打ち傷	uchikizu	
@@ -5973,6 +6031,7 @@ PWN:bundle.n.02		風呂敷包み
 PWN:burden.n.04		主題	
 PWN:burden.v.01		加重+する	
 PWN:burden.v.01		重い荷を負わせる	
+PWN:bureaucracy.n.02 		官僚制	
 PWN:burn.v.01		モエル	
 PWN:burn.v.01		全焼+する	
 PWN:burn.v.01		焼きはらう	
@@ -6062,6 +6121,7 @@ PWN:busy.s.04		忙しい
 PWN:busy.v.01		専念させる	
 PWN:busy.v.01		忙しく+する	
 PWN:busy.v.01		掛かり切りに+する	
+PWN:butane.n.01		ブタン	
 PWN:butcher.v.01		屠る	
 PWN:butcher.v.01		屠殺+する	
 PWN:butcher.v.01		潰す	
@@ -6182,6 +6242,7 @@ PWN:calculate.v.01		算定+する
 PWN:calculate.v.01		算用+する	
 PWN:calculate.v.01		算計+する	
 PWN:calculate.v.01		計算+する	
+PWN:calculate.v.01		計算する	
 PWN:calculate.v.01		運算+する	
 PWN:calculation.n.01		勘定	
 PWN:calculation.n.01		演算	
@@ -6200,6 +6261,7 @@ PWN:calendar_day.n.01		暦日
 PWN:calendar_month.n.01		暦月	
 PWN:calendar_month.n.01		月	gatsu	cmn:yuè
 PWN:calendar_month.n.01		月	tsuki	
+PWN:calendar_month.n.01		月間	
 PWN:calendar_year.n.01		暦年	
 PWN:calf.n.01		カーフ	
 PWN:calf.n.01		仔牛	
@@ -6792,11 +6854,14 @@ PWN:caterpillar.n.01		芋虫
 PWN:caterpillar.n.01		青虫	
 PWN:cathode.n.01		カソード	
 PWN:cathode.n.01		陰極	
+PWN:cathode.n.01 		陰極	
 PWN:cation.n.01		陽イオン	
+PWN:cation.n.01 		陽イオン	
 PWN:cattle.n.01		ウシ	
 PWN:cattle.n.01		牛	ushi	
 PWN:cattle.n.01		黒牡丹	
 PWN:cauliflower.n.01		カリフラワー	
+PWN:cauliflower.n.01		花甘藍	
 PWN:causal_agent.n.01		原因物	
 PWN:cause.n.01		もと	
 PWN:cause.n.01		元	moto	
@@ -6965,6 +7030,8 @@ PWN:cemetery.n.01		徒野
 PWN:cemetery.n.01		蘭塔場	
 PWN:cemetery.n.01		霊園	
 PWN:cemetery.n.01		青山	
+PWN:cemetery.n.01 		墓	
+PWN:cemetery.n.01 		墓地	
 PWN:center.n.01		まん中	
 PWN:center.n.01		センタ	
 PWN:center.n.01		センター	
@@ -7079,6 +7146,7 @@ PWN:certificate.n.01		鑑札
 PWN:cerumen.n.01		耳垢	mimiaka	
 PWN:cesium.n.01		セシウム	
 PWN:chain.n.01		一連	
+PWN:chain.n.01		鎖	
 PWN:chain.n.02		連鎖	
 PWN:chain.n.03		チェイン	
 PWN:chain.n.03		チェーン	
@@ -7507,6 +7575,7 @@ PWN:cheap.a.01		廉い
 PWN:cheap.a.01		廉価	
 PWN:cheap.a.01		格安	
 PWN:cheat.v.01		騙す	
+PWN:check.n.01		チェック	
 PWN:check.n.01		小切手	
 PWN:check.n.01		預金小切手	
 PWN:check.n.06		インスペクション	
@@ -7533,9 +7602,11 @@ PWN:cheer.v.03		慰める
 PWN:cheese.n.01		チーズ	chiizu	:cāseus
 PWN:cheese.n.01		フロマージュ	
 PWN:cheese.n.01		乾酪	
+PWN:cheetah.n.01		チーター	
 PWN:chemical.n.01		化学品	
 PWN:chemical.n.01		化学物質	
 PWN:chemical.n.01		化学薬品	
+PWN:chemical.n.01		物質	
 PWN:chemical_element.n.01		エレメント	
 PWN:chemical_element.n.01		元素	
 PWN:chemical_element.n.01		化学元素	
@@ -7567,6 +7638,7 @@ PWN:chest_of_drawers.n.01		箪笥
 PWN:chest_of_drawers.n.01		衣装櫃	
 PWN:chest_of_drawers.n.01		鏡台	
 PWN:chestnut.n.02		クリ	
+PWN:chestnut.n.02		栗	
 PWN:chew.n.02		咀嚼	
 PWN:chew.v.01		かみ潰す	
 PWN:chew.v.01		かみ砕く	
@@ -7665,6 +7737,7 @@ PWN:child.n.01		洟垂れ
 PWN:child.n.01		童	
 PWN:child.n.01		童子	
 PWN:child.n.01		豎子	
+PWN:child.n.01		赤ちゃん	
 PWN:child.n.02		お子さん	
 PWN:child.n.02		お子様	
 PWN:child.n.02		子	
@@ -8021,6 +8094,8 @@ PWN:clean.a.01		純潔
 PWN:clean.a.01		純粋	
 PWN:clean.a.01		純麗	
 PWN:clean.a.01		綺麗	kirei	cmn:qĭlì
+PWN:clean.v.01		拭く	
+PWN:clean.v.01		掃く	
 PWN:clean.v.01		掃除+する	
 PWN:clean.v.01		洒掃+する	
 PWN:clean.v.01		洗う	
@@ -8033,6 +8108,7 @@ PWN:clean.v.01		清める
 PWN:clean.v.01		清掃+する	
 PWN:clean.v.01		渫う	
 PWN:clean.v.01		灑掃+する	
+PWN:clean.v.01		精げる	
 PWN:clean.v.02		きれいに+する	
 PWN:clean.v.10		掃除+する	
 PWN:cleaning.n.01		クリーニング	
@@ -8662,6 +8738,7 @@ PWN:commercial_enterprise.n.02		商賈
 PWN:commercial_enterprise.n.02		営利	
 PWN:commercial_enterprise.n.02		営業	
 PWN:commercial_enterprise.n.02		実業	
+PWN:commercial_enterprise.n.02		業務	
 PWN:commercial_enterprise.n.02		稼業	
 PWN:commiseration.n.01		お情	
 PWN:commiseration.n.01		お情け	
@@ -9347,6 +9424,7 @@ PWN:conductor.n.02		伝導体
 PWN:conductor.n.02		導体	
 PWN:conductor.n.02		導電体	
 PWN:cone.n.01		コーン	
+PWN:cone.n.01		錐	
 PWN:cone.n.02		円錐小体	
 PWN:cone.n.02		山形	
 PWN:cone.n.03		松毬・松傘・松笠	matsukasa	
@@ -9533,6 +9611,8 @@ PWN:consequence.n.01		作用
 PWN:consequence.n.01		効果	
 PWN:consequence.n.01		始末	
 PWN:consequence.n.01		影響	
+PWN:consequence.n.01		後	
+PWN:consequence.n.01		後ろ	
 PWN:consequence.n.01		成り行き	
 PWN:consequence.n.01		成果	
 PWN:consequence.n.01		成行き	
@@ -9667,6 +9747,8 @@ PWN:construction.n.01		築造
 PWN:construction.n.01		設営	
 PWN:construction.n.01		造り	
 PWN:construction.n.01		造営	
+PWN:construction.n.01 		建物	
+PWN:construction.n.01 		建築物	
 PWN:consult.v.01		合議+する	
 PWN:consult.v.01		咨詢+する	
 PWN:consult.v.01		商議+する	
@@ -9755,8 +9837,10 @@ PWN:contend.v.06		合戦+する
 PWN:contend.v.06		喧嘩+する	
 PWN:contend.v.06		戦う	
 PWN:contend.v.06		戦う・闘う	tatakau	
+PWN:contend.v.06		戦闘	
 PWN:contend.v.06		戦闘+する	
 PWN:contend.v.06		抗争+する	
+PWN:contend.v.06		格闘	
 PWN:contend.v.06		繋争+する	
 PWN:contend.v.06		遣り合う	
 PWN:contend.v.06		闘う	
@@ -9810,6 +9894,7 @@ PWN:continue.v.01		し続ける
 PWN:continue.v.01		ぶっ続ける	
 PWN:continue.v.01		キープ+する	
 PWN:continue.v.01		保つ	
+PWN:continue.v.01		再開する	
 PWN:continue.v.01		打っ続ける	
 PWN:continue.v.01		持続+する	
 PWN:continue.v.01		継続+する	
@@ -10187,6 +10272,7 @@ PWN:cotton.n.03		コットン
 PWN:cotton.n.03		ワタ	
 PWN:cotton.n.03		木綿	
 PWN:cotton.n.03		綿	
+PWN:cotton.n.03		綿糸	
 PWN:cough.v.01		咳く	
 PWN:cough.v.01		咳をする	seki	
 PWN:cough.v.01		謦咳+する	
@@ -10635,6 +10721,8 @@ PWN:cross.v.04		交わらす
 PWN:cross.v.04		差し交わす	
 PWN:cross.v.04		差交す	
 PWN:cross.v.04		組む	
+PWN:crossbow.n.01		クロスボウ	
+PWN:crossbow.n.01		石弓	
 PWN:crossbreed.v.01		交える	
 PWN:crossbreed.v.01		交配+する	
 PWN:crossbreed.v.01		横切る	
@@ -10791,6 +10879,7 @@ PWN:cube.n.05		キューブ
 PWN:cube.n.05		正六面体	
 PWN:cube.n.05		立方体	
 PWN:cuckoo.n.02		カッコウ	
+PWN:cuckoo.n.02		郭公	
 PWN:cucumber.n.01		キュウリ	
 PWN:cucumber.n.02		キュウリ	
 PWN:cucumber.n.02		キュウリ	
@@ -11171,6 +11260,7 @@ PWN:data.n.01		資料
 PWN:data_processing.n.01		データプロセシング	
 PWN:data_processing.n.01		データ処理	
 PWN:database.n.01		データベース	
+PWN:date.n.01		年月日	
 PWN:date.n.01		日	
 PWN:date.n.01		日づけ	
 PWN:date.n.01		日にち	
@@ -11673,6 +11763,7 @@ PWN:deep.a.03		深い	fukai
 PWN:deer.n.01		シカ	
 PWN:deer.n.01		牡鹿	
 PWN:deer.n.01		鹿	shika	
+PWN:deface.v.01		醜くする	
 PWN:defeat.n.01		取こぼし	
 PWN:defeat.n.01		取りこぼし	
 PWN:defeat.n.01		取り零し	
@@ -11983,6 +12074,7 @@ PWN:demeanor.n.01		身性
 PWN:demeanor.n.01		身持	
 PWN:demeanor.n.01		身持ち	
 PWN:demeanor.n.01		身状	
+PWN:democracy.n.01		民主主義	
 PWN:democracy.n.02		リパブリック	
 PWN:democracy.n.02		レパブリック	
 PWN:democracy.n.02		共和国	
@@ -12838,6 +12930,7 @@ PWN:dinner.n.01		粗飯
 PWN:dinner.n.01		粗餐	
 PWN:dinner.n.01		食事	
 PWN:dinner.n.01		食饌	
+PWN:dinosaur.n.01		恐竜	
 PWN:diocese.n.01		司教区	
 PWN:diplopoda.n.01		倍脚類	
 PWN:diplopoda.n.01		百足	mukade	
@@ -12865,9 +12958,11 @@ PWN:direct.v.04		管する
 PWN:direct.v.04		総締+する	
 PWN:direct.v.04		総締め+する	
 PWN:direct_action.n.01		直接行動	
+PWN:direction.n.01		ターゲット; 狙う	
 PWN:direction.n.01		方	
 PWN:direction.n.01		方向	
 PWN:direction.n.01		方角	
+PWN:direction.n.01		標的	
 PWN:direction.n.01		道のり	
 PWN:direction.n.01		道筋	
 PWN:direction.n.01		道順	
@@ -12995,6 +13090,7 @@ PWN:discipline.n.01		教科
 PWN:discipline.n.01		研究分野	
 PWN:discipline.n.01		科	
 PWN:discipline.n.01		科目	
+PWN:discipline.n.01		학	
 PWN:discipline.n.03		規律正しさ	
 PWN:disclosure.n.01		ディスクロージャー	
 PWN:disclosure.n.01		他言	
@@ -13216,6 +13312,7 @@ PWN:disk.n.01		円盤
 PWN:disk.n.01		平円盤	
 PWN:disk.n.01		皿	
 PWN:disk_drive.n.01		ディスクドライブ	
+PWN:diskette.n.01		ディスケット	
 PWN:dislike.n.02		不好き	
 PWN:dislike.n.02		厭さ	
 PWN:dislike.n.02		厭悪	
@@ -13541,6 +13638,7 @@ PWN:disturb.v.01		揺振る
 PWN:disturb.v.01		騒がす	
 PWN:disturb.v.01		騒がせる	
 PWN:ditch.n.01		みぞ	
+PWN:ditch.n.01		側溝	
 PWN:ditch.n.01		堀	hori	
 PWN:ditch.n.01		堀り割り	
 PWN:ditch.n.01		堀割	
@@ -13779,6 +13877,7 @@ PWN:dog.n.01		イヌ
 PWN:dog.n.01		ドッグ	
 PWN:dog.n.01		洋犬	
 PWN:dog.n.01		犬	inu	
+PWN:dog.n.01		狗	
 PWN:dog.n.01		飼い犬	
 PWN:dog.n.01		飼犬	
 PWN:doll.n.01		お人形さん	
@@ -14169,6 +14268,7 @@ PWN:dunk.v.01		浸ける
 PWN:dunk.v.01		浸す	
 PWN:dunk.v.01		濡らす	
 PWN:durable.s.01		丈夫	
+PWN:durable.s.01		持続的	
 PWN:durable.s.01		永続的	
 PWN:durable.s.02		長持ちする	
 PWN:durables.n.01		耐久消費財	
@@ -14185,6 +14285,7 @@ PWN:dust.n.01		風塵
 PWN:duty.n.01		オブリゲイション	
 PWN:duty.n.01		オブリゲーション	
 PWN:duty.n.01		デューティ	
+PWN:duty.n.01		宗教	
 PWN:duty.n.01		義務	
 PWN:duty.n.01		責	
 PWN:duty.n.01		責め	
@@ -14261,6 +14362,7 @@ PWN:dye.v.01		染色+する
 PWN:dye.v.01		色染+する	
 PWN:dye.v.01		色染め+する	
 PWN:dysprosium.n.01		ジスプロシウム	
+PWN:each.s.01		毎	
 PWN:eagle.n.01		イーグル	
 PWN:eagle.n.01		ワシ	
 PWN:eagle.n.01		鷲	washi	
@@ -14337,6 +14439,7 @@ PWN:earring.n.01		イヤリング	iyaringu	eng:earring
 PWN:earring.n.01		耳輪	mimiwa	
 PWN:earth.n.01		グローブ	
 PWN:earth.n.01		世界	
+PWN:earth.n.01		地	
 PWN:earth.n.01		地球	
 PWN:earth.n.02		土	
 PWN:earth.n.02		土壌	
@@ -14531,6 +14634,7 @@ PWN:egoism.n.02		我欲
 PWN:egypt.n.01		アラブ連合共和国	
 PWN:egypt.n.01		エジプト	
 PWN:egypt.n.01		エジプト・アラブ共和国	
+PWN:eight.s.01		8	
 PWN:eight.s.01		八	hachi (3)	cmn:bā
 PWN:eight.s.01		八つ	yattsu	
 PWN:einsteinium.n.01		アインスタイニウム	
@@ -15508,12 +15612,16 @@ PWN:estimate.v.01		積る
 PWN:estimate.v.01		見積もる	
 PWN:estimate.v.01		見積る	
 PWN:estimate.v.01		見立てる	
+PWN:ethane.n.01		エタン	
 PWN:ethical_motive.n.01		モラル	
 PWN:ethical_motive.n.01		人倫	
 PWN:ethical_motive.n.01		倫理	
 PWN:ethical_motive.n.01		倫理的動機	
 PWN:ethical_motive.n.01		道徳	
 PWN:ethical_motive.n.01		道義	
+PWN:ethyl_alcohol.n.01		エタノール	
+PWN:euphoria.n.01		ユーフォリア	
+PWN:euphoria.n.01		多幸感	
 PWN:european.n.01		ヨーロッパ人	
 PWN:europium.n.01		ユウロピウム	
 PWN:evaluate.v.02		ジャッジ+する	
@@ -16700,6 +16808,7 @@ PWN:father.n.01		お父っさん
 PWN:father.n.01		お父っつぁん	
 PWN:father.n.01		お父様	
 PWN:father.n.01		てて親	
+PWN:father.n.01		パパ	
 PWN:father.n.01		ファーザー	
 PWN:father.n.01		乃父	
 PWN:father.n.01		厳親	
@@ -16850,8 +16959,11 @@ PWN:feature.n.02		目鼻立ち
 PWN:feature.n.02		面相	
 PWN:feature.n.02		顔立ち	
 PWN:february.n.01		二月	
+PWN:february.n.01		２月	
 PWN:fecal_matter.n.01		大便	
+PWN:fecal_matter.n.01		屎	
 PWN:fecal_matter.n.01		排泄物	
+PWN:fecal_matter.n.01		糞	
 PWN:fecal_matter.n.01		糞便	
 PWN:feed.n.01		飼料	
 PWN:feed.n.01		餌	
@@ -16928,8 +17040,10 @@ PWN:fell.v.01		薙倒す
 PWN:felony.n.01		重犯	
 PWN:felony.n.01		重罪	
 PWN:felt.n.01		フェルト	feruto	eng:felt
+PWN:female.a.01		女	
 PWN:female.a.01		雌	mesu	
 PWN:female.n.01		メス	
+PWN:female.n.01		女	
 PWN:female.n.01		牝	
 PWN:female.n.01		雌	
 PWN:female.n.02		女	
@@ -17074,6 +17188,7 @@ PWN:fiction.n.01		フィクション
 PWN:fidget.v.01		そわそわ+する	
 PWN:field.n.01		土地	
 PWN:field.n.01		小野	
+PWN:field.n.01		広場	
 PWN:field.n.01		畑	hatake	
 PWN:field_hockey.n.01		フィールドホッケー	
 PWN:field_hockey.n.01		ホッケー	
@@ -17370,6 +17485,7 @@ PWN:fit.v.02		填る
 PWN:fit.v.02		嵌まる	
 PWN:fit.v.07		フィット+する	
 PWN:fit.v.07		合う	
+PWN:five.s.01		5	
 PWN:five.s.01		五	go (1)	cmn:wŭ
 PWN:five.s.01		五つ	itsutsu	
 PWN:five.s.01		５	
@@ -17468,6 +17584,7 @@ PWN:flavorer.n.01		塩味
 PWN:flavorer.n.01		塩梅	
 PWN:flavorer.n.01		調味料	
 PWN:flavorer.n.01		香辛料	
+PWN:flax.n.02		亜麻	
 PWN:flay.v.01		剥がす	
 PWN:flay.v.01		剥す	
 PWN:flay.v.01		皮を剥く	kawa o muku	
@@ -18010,6 +18127,7 @@ PWN:foreman.n.01		職長
 PWN:foreman.n.01		親方	
 PWN:foreman.n.01		頭領	
 PWN:foreman.n.01		頭首	
+PWN:forest.n.01		ジャングル	
 PWN:forest.n.01		林	hayashi	
 PWN:forest.n.01		林地	
 PWN:forest.n.01		森	mori	
@@ -18240,6 +18358,7 @@ PWN:foundation.n.03		根積み
 PWN:foundation.n.03		礎	
 PWN:foundation.n.03		礎石	
 PWN:foundation.n.03		足許	
+PWN:four.s.01		4	
 PWN:four.s.01		四	shi	cmn:sì
 PWN:four.s.01		四	yon	
 PWN:four.s.01		四つ	yottsu	
@@ -18803,6 +18922,7 @@ PWN:garden.n.03		庭前
 PWN:garden_plant.n.01		園芸植物	
 PWN:gardening.n.01		園芸	
 PWN:garlic.n.01		ニンニク	
+PWN:garlic.n.01		大蒜	
 PWN:garment.n.01		お召し物	
 PWN:garment.n.01		御召し物	
 PWN:gas.n.01		ガス	
@@ -19123,6 +19243,7 @@ PWN:gingiva.n.01		歯茎	haguki
 PWN:gingiva.n.01		歯齦	shigin	cmn:chĭyín 齒齦
 PWN:ginseng.n.01		チョウセンニンジン	
 PWN:ginseng.n.01		人参	
+PWN:ginseng.n.01		人蔘	
 PWN:girl.n.01		うしろ帯	
 PWN:girl.n.01		おなご	
 PWN:girl.n.01		お女中	
@@ -19163,6 +19284,8 @@ PWN:girl.n.01		生女房
 PWN:girl.n.01		若い女	
 PWN:girl.n.01		若女	
 PWN:girl.n.01		青女	seijo	cmn:qīngnǚ
+PWN:give.v.01		あげる	
+PWN:give.v.01		くれる	
 PWN:give.v.03		あげる	ageru	
 PWN:give.v.03		あてがう	
 PWN:give.v.03		くれる	kureru	
@@ -19391,12 +19514,14 @@ PWN:go_out.v.04		消える
 PWN:go_out.v.04		立ち消える	
 PWN:go_steady.v.01		つき合う	
 PWN:go_steady.v.01		交際+する	
+PWN:goal.n.01		ゴール	
 PWN:goal.n.01		目処	
 PWN:goal.n.01		目当て	
 PWN:goal.n.01		目標	
 PWN:goal.n.01		目的	
 PWN:goal.n.01		目的地	
 PWN:goal.n.01		目途	
+PWN:goal.n.01		行き先	
 PWN:goalkeeper.n.01		GK	
 PWN:goalkeeper.n.01		キーパー	
 PWN:goalkeeper.n.01		ゴールキーパー	
@@ -19430,7 +19555,9 @@ PWN:good.a.01		よろしい
 PWN:good.a.01		グッド	
 PWN:good.a.01		グー	
 PWN:good.a.01		ハラショー	
+PWN:good.a.01		上手	
 PWN:good.a.01		上手い	
+PWN:good.a.01		元気	
 PWN:good.a.01		善い	
 PWN:good.a.01		好い	
 PWN:good.a.01		好ましい	
@@ -19468,8 +19595,10 @@ PWN:good_fortune.n.01		福運
 PWN:good_fortune.n.01		高運	
 PWN:goose.n.01		ガチョウ	
 PWN:goose.n.01		ガン	
+PWN:goose.n.01		雁	
 PWN:goose.n.01		鵝鳥	
 PWN:goose.n.01		鵞鳥	gachō	cmn:éniăo
+PWN:gospel.n.01		福音書	
 PWN:gossip.n.02		ゴシップ	
 PWN:gourd.n.01		ヒョウタン	
 PWN:gourd.n.01		フクベ	
@@ -19631,6 +19760,7 @@ PWN:grasshopper.n.01		螽斯/蟋蟀	kirigirisu
 PWN:grasshopper.n.01		飛蝗	batta	
 PWN:grassland.n.01		牧草地	
 PWN:grassland.n.01		草原	
+PWN:grassland.n.01		草地	
 PWN:grateful.a.01		ありがたい	
 PWN:grateful.a.01		幸甚	
 PWN:grateful.a.01		忝い	
@@ -19646,6 +19776,7 @@ PWN:gratitude.n.01		謝恩
 PWN:gratitude.n.01		謝意	
 PWN:grave.n.02		埋け墓	
 PWN:grave.n.02		埋墓	
+PWN:grave.n.02		埋葬	
 PWN:grave.n.02		塚穴	
 PWN:grave.n.02		墓	haka	cmn:mâg 墓
 PWN:grave.n.02		墓穴	
@@ -19654,6 +19785,7 @@ PWN:grave.n.02		奥つ城
 PWN:grave.n.02		奥津城	
 PWN:grave.n.02		御霊屋	
 PWN:grave.n.02		納骨堂	
+PWN:grave.n.02		葬る	
 PWN:grave.n.02		霊屋	
 PWN:grave.n.02		青山	
 PWN:gravity.n.01		万有引力	
@@ -19673,10 +19805,12 @@ PWN:green.a.03		青い	aoi
 PWN:green.a.03		青っぽい	
 PWN:green.s.01		碧い	
 PWN:green.s.01		緑	midori	
+PWN:green.s.01		緑色	
 PWN:green.s.01		蒼い	
 PWN:green.s.01		青い	
 PWN:greenhouse.n.01		植木室	
 PWN:greenhouse.n.01		温室	
+PWN:greens.n.01		菜	
 PWN:greens.n.01		葉物	
 PWN:greens.n.01		青物	
 PWN:greet.v.01		御挨拶+する	
@@ -19694,6 +19828,7 @@ PWN:greeting.n.01		敬礼
 PWN:greeting.n.01		目礼	
 PWN:greeting.n.01		辞儀	
 PWN:greeting.n.01		頭語	
+PWN:grey.s.01		灰色	
 PWN:griddle.n.01		グリドル	
 PWN:grief.n.01		傷心	
 PWN:grief.n.01		哀傷	
@@ -19892,6 +20027,7 @@ PWN:gruff.s.02		ハスキー
 PWN:gruff.s.02		嗄々	
 PWN:gruff.s.02		嗄れ嗄れ	
 PWN:gruff.s.02		嗄嗄	
+PWN:guarantee.n.01		保証	
 PWN:guarantee.n.01		保証書	
 PWN:guard.n.01		ガードマン	gādoman	
 PWN:guard.n.01		哨務	
@@ -19998,6 +20134,8 @@ PWN:gun.n.01		火器
 PWN:gun.n.01		鉄砲	teppō	
 PWN:gun.n.01		銃	jū (1)	cmn:chòng
 PWN:gunnysack.n.01		南京袋	
+PWN:guru.n.03		グル	
+PWN:guru.n.03		先生	
 PWN:guru.n.03		尊師	
 PWN:gymnastic_apparatus.n.01		修行者	
 PWN:gymnastics.n.01		ジムナスチックス	
@@ -20015,6 +20153,7 @@ PWN:habit.n.01		決り
 PWN:habit.n.01		習い	
 PWN:habit.n.01		習わし	
 PWN:habit.n.01		習慣	
+PWN:habit.n.01		風俗	
 PWN:habit.n.01		風習	
 PWN:habit.n.02		癖	
 PWN:habit.n.02		習わし	
@@ -20253,6 +20392,7 @@ PWN:happy.a.01		大喜び
 PWN:happy.a.01		嬉々たる	
 PWN:happy.a.01		嬉しい	ureshii	
 PWN:happy.a.01		幸せ	
+PWN:happy.a.01		幸せな	
 PWN:happy.a.01		幸福	
 PWN:happy.a.01		御機嫌	
 PWN:happy.a.01		心うれしい	
@@ -20771,6 +20911,7 @@ PWN:hermit.n.02		隠士
 PWN:hermit.n.02		隠者	
 PWN:hero.n.01		ヒーロ	
 PWN:hero.n.01		ヒーロー	
+PWN:hero.n.01		勇者	
 PWN:hero.n.01		英雄	
 PWN:heron.n.02		アオサギ	
 PWN:heron.n.02		鷺	sagi	
@@ -20782,6 +20923,7 @@ PWN:hesitate.v.02		切る
 PWN:hesitate.v.02		跡切れる	
 PWN:hevea.n.01		ゴムの木	
 PWN:hiccup.n.01		しゃっくり	
+PWN:hiccup.n.01		ヒック	
 PWN:hiccup.n.01		吃逆	
 PWN:hiccup.v.01		しゃくる	
 PWN:hiccup.v.01		吃逆+する	
@@ -20982,6 +21124,8 @@ PWN:hinge.n.01		丁番
 PWN:hinge.n.01		蝶つがい	
 PWN:hinge.n.01		蝶番	
 PWN:hinge.n.01		蝶番い	
+PWN:hint.n.01		ヒント	
+PWN:hint.n.01		暗示	
 PWN:hip.n.01		ヒップ	
 PWN:hip.n.01		尻	shiri	
 PWN:hip.n.01		腰	
@@ -21237,6 +21381,7 @@ PWN:holocaust.n.01		ホロコースト
 PWN:holocaust.n.01		全滅	
 PWN:hologram.n.01		ホログラム	
 PWN:holography.n.01		ホログラフィー	
+PWN:holography.n.01		홀로그래피	
 PWN:holy.a.01		神的	
 PWN:holy.a.01		神聖	shinsei	cmn:shénshèng
 PWN:holy.a.01		聖	
@@ -21324,6 +21469,7 @@ PWN:hope.v.02		祷る
 PWN:hope.v.02		見こむ	
 PWN:hope.v.02		請い願う	
 PWN:hope.v.02		願う	
+PWN:hopeless.a.01		絶望した	
 PWN:horizontal.a.01		水平	
 PWN:horizontal.a.01		水平	
 PWN:horizontal_surface.n.01		レブル	
@@ -21410,7 +21556,9 @@ PWN:hotel.n.01		旅館
 PWN:hotel.n.01		泊まり	
 PWN:hotel.n.01		逆旅	
 PWN:hour.n.01		h	
+PWN:hour.n.01		時	
 PWN:hour.n.01		時間	jikan	cmn:shíjiān
+PWN:hour.n.01		１時間	
 PWN:hour.n.01		ｈｒ	
 PWN:hour.n.02		刻限	
 PWN:hour.n.02		時刻	
@@ -21514,6 +21662,7 @@ PWN:humane.s.03		人間的
 PWN:humanism.n.02		ヒューマニズム	
 PWN:humanism.n.02		ユマニスム	
 PWN:humanism.n.02		世俗的人本主義	
+PWN:humanism.n.02		人文主義	
 PWN:humanism.n.02		人本主義	
 PWN:humid.s.01		しめっぽい	
 PWN:humid.s.01		多湿	
@@ -21524,6 +21673,7 @@ PWN:humiliate.v.01		凹ます
 PWN:humiliate.v.01		凹ませる	
 PWN:humiliate.v.01		卑しめる	
 PWN:hundred.s.01		百	hyaku	cmn:băi
+PWN:hundred.s.01		１００	
 PWN:hungarian.n.01		マジャール	
 PWN:hunger.n.01		すきっ腹	
 PWN:hunger.n.01		すき腹	
@@ -22890,6 +23040,7 @@ PWN:irregular.a.01		変則
 PWN:irregular.a.01		変則的	
 PWN:irritate.v.02		刺戟+する	
 PWN:irritate.v.02		刺激+する	
+PWN:islam.n.01		イスラム教	
 PWN:island.n.01		アイランド	
 PWN:island.n.01		島	shima	
 PWN:island.n.02		島	
@@ -22955,10 +23106,15 @@ PWN:jade.n.01		翡翆
 PWN:jade.n.01		翡翠	
 PWN:jaguar.n.01		ジャガー	jagā	gug:jaguara
 PWN:january.n.01		一月	
+PWN:january.n.01		１月	
+PWN:japanese.a.01		日本の	
+PWN:japanese.a.01		日本人	
+PWN:japanese.a.01		日本語	
 PWN:jar.n.01		広口瓶	
 PWN:jar.n.01		瓶	
 PWN:jar.n.01		甕	
 PWN:jasmine.n.01		ジャスミン	
+PWN:jasmine.n.01		茉莉	
 PWN:jaw.n.01		牙	kiba	
 PWN:jaw.n.01		頤	
 PWN:jaw.n.01		顎	
@@ -23006,6 +23162,7 @@ PWN:jesus.n.01		キリスト
 PWN:jesus.n.01		救い主	
 PWN:jesus.n.01		救世主	
 PWN:jew.n.01		ヘブライ人	
+PWN:jew.n.01		ユダヤ	
 PWN:jew.n.01		ユダヤ人	
 PWN:jewel.n.01		宝玉	
 PWN:jewel.n.01		宝珠	
@@ -23198,6 +23355,7 @@ PWN:juice.n.01		液
 PWN:juice.n.01		液汁	
 PWN:jujutsu.n.01		柔術	
 PWN:july.n.01		七月	
+PWN:july.n.01		７月	
 PWN:jump.n.06		ジャンプ	
 PWN:jump.n.06		上騰	
 PWN:jump.n.06		跳躍	
@@ -23218,6 +23376,7 @@ PWN:jump.v.01		飛上がる
 PWN:jump.v.01		飛躍+する	
 PWN:juncture.n.01		大きな出来事	
 PWN:june.n.01		六月	
+PWN:june.n.01		６月	
 PWN:jurisdiction.n.02		所轄	
 PWN:jurisdiction.n.02		権限	
 PWN:jurisdiction.n.02		管区	
@@ -23269,6 +23428,7 @@ PWN:keep.v.03		温存+する
 PWN:keep.v.03		預かる	azukaru	
 PWN:keep.v.19		保存+する	
 PWN:keep.v.19		存する	
+PWN:kelp.n.01		コンブ	
 PWN:kernel.n.03		エキス	
 PWN:kernel.n.03		エッセンス	
 PWN:kernel.n.03		ポイント	
@@ -23614,6 +23774,7 @@ PWN:know.v.01		存じる
 PWN:know.v.01		存ずる	
 PWN:know.v.01		存知+する	
 PWN:know.v.01		知る	shiru (1)	
+PWN:know.v.01 		知る	
 PWN:know.v.04		分かる	
 PWN:know.v.04		存じる	
 PWN:know.v.04		心得る	
@@ -24276,6 +24437,7 @@ PWN:letter.n.02		文字
 PWN:letter.n.02		英字	
 PWN:lettuce.n.02		カラシナ	
 PWN:lettuce.n.02		マスタード	
+PWN:lettuce.n.02		レタス	
 PWN:lettuce.n.02		洋芥子	
 PWN:lettuce.n.02		芥子	
 PWN:lettuce.n.02		辛子	
@@ -24294,6 +24456,7 @@ PWN:liberate.v.03		解放+する
 PWN:library.n.01		ライブラリ	
 PWN:library.n.01		ライブラリー	
 PWN:library.n.01		図書室	
+PWN:library.n.01		図書館	
 PWN:library.n.01		書屋	
 PWN:library.n.01		書房	
 PWN:library.n.04		ライブラリ	
@@ -24589,8 +24752,10 @@ PWN:linen.n.01		リンネル	rinneru	fra:linière
 PWN:linguistics.n.01		博言学	
 PWN:linguistics.n.01		言語学	
 PWN:linguistics.n.01		語学	
+PWN:link.n.02		リンク	
 PWN:link.n.02		枕木	
 PWN:link.n.02		絆	
+PWN:link.n.02		繋がり	
 PWN:link.n.02		鎖	
 PWN:link.n.02		鎹	
 PWN:link.n.02		鐶	
@@ -24703,6 +24868,7 @@ PWN:little.a.02		軽少
 PWN:little.a.02		鮮少	
 PWN:little.r.01		僅か	
 PWN:little.r.01		僅か	
+PWN:little.r.01		少ない	
 PWN:little.s.03		ちさい	
 PWN:little.s.03		ちっこい	
 PWN:little.s.03		ちっちゃい	
@@ -25287,6 +25453,7 @@ PWN:luck.n.02		巡り合わせ
 PWN:luck.n.02		巡合	
 PWN:luck.n.02		巡合せ	
 PWN:luck.n.02		巡合わせ	
+PWN:luck.n.02		運	
 PWN:luck.n.03		ツキ	
 PWN:luck.n.03		ラッキー	
 PWN:luck.n.03		ラック	
@@ -25331,6 +25498,7 @@ PWN:lung.n.01		胸
 PWN:lung.n.01		胸部	
 PWN:lupine.n.01		上り藤	
 PWN:lutetium.n.01		ルテチウム	
+PWN:lutetium.n.01		ルテニウム	
 PWN:lutheranism.n.01		ルーテル派	
 PWN:luxury.n.03		侈	
 PWN:luxury.n.03		奢侈	
@@ -25505,6 +25673,7 @@ PWN:make.v.03		産出す
 PWN:make.v.03		造りだす	
 PWN:make.v.03		造り出す	
 PWN:make.v.03		造出す	
+PWN:make.v.16		する	
 PWN:make.v.19		作る	
 PWN:make.v.27		かたづける	
 PWN:make.v.49		おしっこ	oshikko	
@@ -25731,6 +25900,7 @@ PWN:manufacturer.n.02		作人
 PWN:manufacturer.n.02		生産者	
 PWN:manufacturer.n.02		製作者	
 PWN:manufacturer.n.02		製造業者	
+PWN:many.a.01		たくさん	
 PWN:many.a.01		多い	ōi	
 PWN:many.a.01		多くの	
 PWN:many.a.01		数多い	
@@ -25751,6 +25921,7 @@ PWN:mapmaking.n.01		製図
 PWN:mar.v.01		損う	
 PWN:mar.v.01		損なう	
 PWN:march.n.01		三月	
+PWN:march.n.01		３月	
 PWN:march.n.04		行進	
 PWN:march.v.01		ねり歩く	
 PWN:march.v.01		列をなして歩く	
@@ -25825,6 +25996,7 @@ PWN:market.n.01		マーケット
 PWN:market.n.01		市場	
 PWN:market.n.02		マーケット	
 PWN:market.n.02		市場	
+PWN:marketplace.n.02		バザー	
 PWN:marketplace.n.02		マーケット	
 PWN:marketplace.n.02		マート	
 PWN:marketplace.n.02		市	ichi (1)	
@@ -25900,6 +26072,8 @@ PWN:marsh.n.01		湿地
 PWN:marsh.n.01		湿地草原	
 PWN:martial_art.n.01		捕り手	
 PWN:martial_art.n.01		捕り手	
+PWN:martial_art.n.01		武術	
+PWN:martial_art.n.01		武道	
 PWN:mask.n.01		マスク	
 PWN:mask.n.01		仮面	
 PWN:mask.n.01		覆面	
@@ -26070,6 +26244,7 @@ PWN:matter.n.03		物質
 PWN:matter.n.04		問題	
 PWN:mattress.n.01		マットレス	
 PWN:mattress.n.01		マットレス、　敷布団	mattoresu	arb:maţraħ
+PWN:mattress.n.01		布団 (マットレス	
 PWN:mattress.n.01		布団、originally 蒲団	futon	cmn:pútuán 蒲團
 PWN:mature.v.01		しとなる	
 PWN:mature.v.01		なる	
@@ -26121,6 +26296,7 @@ PWN:mature.v.01		長じる
 PWN:mature.v.01		長ずる	
 PWN:maximally.r.01		最大限	
 PWN:may.n.01		五月	
+PWN:may.n.01		５月	
 PWN:mayor.n.01		市長	
 PWN:mayor.n.01		町長	
 PWN:mead.n.03		ミード	miido	eng:mead
@@ -26195,6 +26371,7 @@ PWN:measure.n.02		量
 PWN:measure.n.02		量目	
 PWN:measure.v.01		実測+する	
 PWN:measure.v.01		測る	
+PWN:measure.v.01		測定	
 PWN:measure.v.01		測定+する	
 PWN:measure.v.01		測算+する	
 PWN:measure.v.01		測量+する	
@@ -26533,6 +26710,7 @@ PWN:merit.n.01		美点
 PWN:merit.n.01		長所	
 PWN:message.n.01		メッセイジ	
 PWN:message.n.01		メッセージ	
+PWN:message.n.01		伝言	
 PWN:message.n.02		メッセイジ	
 PWN:message.n.02		メッセージ	
 PWN:message.n.02		中味	
@@ -26694,6 +26872,8 @@ PWN:mill.n.04		粉砕機
 PWN:mill.n.04		粉砕機	
 PWN:mill.n.04		製粉機	
 PWN:mill.n.04		製粉機	
+PWN:million.s.01		メガ	
+PWN:million.s.01		１００万	
 PWN:minaret.n.01		ミナレット	
 PWN:mince.v.03		刻む	
 PWN:mind.n.01		おつむ	
@@ -26763,6 +26943,7 @@ PWN:minority.n.02		少数派
 PWN:minority.n.02		少数者	
 PWN:mint.n.02		ハッカ	
 PWN:mint.n.02		薄荷	
+PWN:mint.n.02		薄荷 (ハッカ	
 PWN:minute.n.01		min	
 PWN:minute.n.01		分	
 PWN:miracle.n.01		ミラクル	
@@ -27168,6 +27349,8 @@ PWN:monkey.n.01		猿猴
 PWN:monogamy.n.01		一夫一婦	
 PWN:monogamy.n.01		単婚	
 PWN:monologue.n.03		モノローグ	
+PWN:monologue.n.03		独白	
+PWN:monologue.n.03		独話	
 PWN:monster.n.01		お化	
 PWN:monster.n.01		お化け	
 PWN:monster.n.01		モンスター	
@@ -27288,6 +27471,7 @@ PWN:mother.n.01		お母様
 PWN:mother.n.01		お袋	
 PWN:mother.n.01		かあ様	
 PWN:mother.n.01		マザー	
+PWN:mother.n.01		ママ	
 PWN:mother.n.01		ムッター	
 PWN:mother.n.01		垂乳女	
 PWN:mother.n.01		垂乳根	
@@ -27324,11 +27508,13 @@ PWN:motion.n.06		転移
 PWN:motivation.n.01		動因	
 PWN:motivation.n.01		動機	
 PWN:motley.s.02		多彩	
+PWN:motley.s.02		色取り取りの	
 PWN:motor.n.01		エンジン	enjin	:ingenium
 PWN:motor.n.01		モータ	
 PWN:motor.n.01		モーター	
 PWN:motor.n.01		モートル	
 PWN:motor.n.01		原動機	
+PWN:motor.n.01		機関	
 PWN:motor_scooter.n.01		スクータ	
 PWN:motor_scooter.n.01		スクーター	
 PWN:motor_vehicle.n.01		モータービークル	
@@ -27671,6 +27857,7 @@ PWN:name.v.01		銘うつ
 PWN:naming.n.01		命名	
 PWN:nape.n.01		襟首	erikubi	
 PWN:nape.n.01		項	unaji	
+PWN:narcosis.n.01		症	
 PWN:narcosis.n.01		麻酔	
 PWN:narcotic.n.01		麻薬	
 PWN:narrative.n.01		ストーリー	
@@ -27892,6 +28079,7 @@ PWN:negative.a.01		ネガティブ
 PWN:negative.a.01		ネガティヴ	
 PWN:negative.a.01		否定的	
 PWN:negative.a.01		消極的	
+PWN:negative.s.08		陰	
 PWN:negative.s.08		陰電性の	
 PWN:negative.s.08		陰電気を帯びた	
 PWN:negligence.n.01		ネグレクト	
@@ -28070,6 +28258,7 @@ PWN:night.n.07		夜間
 PWN:night.n.07		晩	
 PWN:night_shift.n.01		夜勤	
 PWN:night_shift.n.01		夜業	
+PWN:nine.s.01		9	
 PWN:nine.s.01		9の	
 PWN:nine.s.01		9人の	
 PWN:nine.s.01		9個の	
@@ -28150,6 +28339,7 @@ PWN:normal.a.01		ノーマル
 PWN:normal.a.01		一方	
 PWN:normal.a.01		並大抵	
 PWN:normal.a.01		尋常	
+PWN:normal.a.01		普段	
 PWN:normal.a.01		正常	
 PWN:north.n.03		ノース	
 PWN:north.n.03		北	kita	
@@ -28211,6 +28401,7 @@ PWN:novel.n.01		物語り
 PWN:novel.n.01		稗官	
 PWN:novel.n.01		虚構	
 PWN:november.n.01		十一月	
+PWN:november.n.01		１１月	
 PWN:now.r.04		さしあたって	
 PWN:now.r.04		さしあたり	
 PWN:now.r.04		さし向き	
@@ -28235,6 +28426,7 @@ PWN:number.n.01		数
 PWN:number.n.01		数字	
 PWN:number.n.02		基数	
 PWN:number.n.02		数	kazu	
+PWN:number.n.02		数える	
 PWN:number.n.02		数字	sūji	cmn:shùzì
 PWN:number.n.08		識別番号	
 PWN:numeral.n.01		ナンバー	
@@ -28268,6 +28460,7 @@ PWN:oak.n.01		オーク材
 PWN:oak.n.02		オーク	ōku	eng:oak
 PWN:oak.n.02		クヌギ	
 PWN:oak.n.02		クヌギ	
+PWN:oak.n.02		ナラ	
 PWN:oak.n.02		柏	kashiwa	
 PWN:oak.n.02		楢	nara	
 PWN:oak.n.02		樫	kashi (2)	
@@ -28412,6 +28605,7 @@ PWN:ocean.n.01		綿津見
 PWN:ocean.n.01		遠洋	
 PWN:ocean.n.01		遠海	
 PWN:october.n.01		十月	
+PWN:october.n.01		１０月	
 PWN:odd-toed_ungulate.n.01		ウマ目	
 PWN:offense.n.05		オフェンス	
 PWN:offense.n.05		攻	
@@ -28619,11 +28813,13 @@ PWN:one-half.n.01		半分	hanbun	cmn:bànfēn
 PWN:one-half.n.01		半数	
 PWN:one-half.n.01		半面	
 PWN:one-half.n.01		半額	
+PWN:one.s.01		1	
 PWN:one.s.01		一	ichi (2)	cmn:yi
 PWN:one.s.01		一つ	hitotsu	
 PWN:oneness.n.01		ユニティー	
 PWN:oneness.n.01		兼併	
 PWN:oneness.n.01		合一	
+PWN:oneness.n.01		団結	
 PWN:oneness.n.01		統一	
 PWN:oneness.n.01		統制	
 PWN:oneness.n.01		纏まり	
@@ -28982,6 +29178,7 @@ PWN:orthodoxy.n.01		正統性
 PWN:osmium.n.01		オスミウム	
 PWN:other.a.01		他	hoka	
 PWN:other.a.01		他し	
+PWN:other.a.01		他の	
 PWN:other.a.01		別	betsu	cmn:bié
 PWN:outbreak.n.01		勃発	
 PWN:outdoor_game.n.01		アウトドアゲーム	
@@ -29215,6 +29412,7 @@ PWN:pain.n.03		苦痛	kutsū	cmn:kŭtòng
 PWN:pain.v.02		傷つける	
 PWN:pain.v.02		苦します	
 PWN:pain.v.02		苦しめる	
+PWN:painful.a.01		痛い	
 PWN:paint.n.01		えの具	
 PWN:paint.n.01		ピグメント	
 PWN:paint.n.01		ペイント	
@@ -30278,6 +30476,8 @@ PWN:petroleum.n.01		重油
 PWN:phase.n.01		フェイズ	
 PWN:phase.n.01		フェーズ	
 PWN:phase.n.01		段階	
+PWN:phenol.n.01		フェノール	
+PWN:phenol.n.01		石炭酸	
 PWN:phenomenon.n.01		フェノメノン	
 PWN:phenomenon.n.01		事象	
 PWN:phenomenon.n.01		現象	
@@ -30476,6 +30676,7 @@ PWN:pincushion.n.01		針山
 PWN:pine.n.01		マツ	
 PWN:pine.n.01		マツ科	
 PWN:pine.n.01		松	matsu	
+PWN:pineapple.n.01		パイナップル	
 PWN:pink.v.02		ノッキング+する	
 PWN:pipe.n.01		パイプ	paipu	eng:pipe
 PWN:pipe.n.02		ダクト	
@@ -30487,6 +30688,7 @@ PWN:piquant.s.01		辛い
 PWN:piranha.n.02		ピラニア	
 PWN:piston.n.02		ピストン	
 PWN:piston.n.02		プランジャー	
+PWN:piston.n.02		活塞	
 PWN:pit.n.01		くぼみ	
 PWN:pit.n.01		たて穴	
 PWN:pit.n.01		ピット	
@@ -30568,6 +30770,7 @@ PWN:plain.n.01		平原
 PWN:plain.n.01		平地	heichi	cmn:píngdì
 PWN:plain.n.01		平野	
 PWN:plain.n.01		広野	
+PWN:plain.n.01		草原	
 PWN:plain.n.01		野原	nohara	
 PWN:plaintiff.n.01		原告	genkoku	cmn:yuángào
 PWN:plaintiff.n.01		告訴人	
@@ -30831,6 +31034,9 @@ PWN:plow.v.01		鋤く	suku
 PWN:plow.v.01		鋤起こす	
 PWN:plow.v.01		鋤返す	
 PWN:plug.n.01		栓	
+PWN:plum.n.01		アンズ	
+PWN:plum.n.01		プラム	
+PWN:plum.n.01		モモ	
 PWN:plum.n.01		梅	
 PWN:plumb_line.n.01		下げ振り糸	
 PWN:plumb_line.n.01		垂球糸	
@@ -30840,6 +31046,7 @@ PWN:pocket.n.01		ぽっぽ
 PWN:pocket.n.01		ポケット	poketto	eng:pocket
 PWN:pocket.n.01		ポッケ	
 PWN:pocket.n.01		懐	futokoro	
+PWN:pocket.n.01		懐中	
 PWN:pocket.n.01		衣嚢	
 PWN:pocket.n.01		隠し	
 PWN:pocketknife.n.01		ポケットナイフ	
@@ -30913,6 +31120,7 @@ PWN:pole.n.01		ポール
 PWN:pole.n.01		柱	
 PWN:pole.n.01		棒	
 PWN:pole.n.01		棹	
+PWN:pole.n.01		極	
 PWN:pole.n.01		竿	
 PWN:police.n.01		お回り	
 PWN:police.n.01		お巡り	
@@ -31023,6 +31231,7 @@ PWN:poor.a.02		貧困
 PWN:pop_music.n.01		ポップ	
 PWN:pop_music.n.01		ポップス	
 PWN:pop_music.n.01		ポップミュージック	
+PWN:pop_music.n.01		ポップ・ミュージック	
 PWN:populace.n.01		世人	
 PWN:populace.n.01		世俗	
 PWN:populace.n.01		世間	
@@ -31068,7 +31277,9 @@ PWN:population.n.02		個体群
 PWN:population.n.03		ユニバース	
 PWN:population.n.03		ユニヴァース	
 PWN:population.n.03		母集団	
+PWN:populism.n.01		ポピュリズム	
 PWN:populism.n.01		人民主義	
+PWN:porcelain.n.01		磁器	
 PWN:porch.n.01		ポーチ	
 PWN:porch.n.01		屋根付きの玄関	
 PWN:porch.n.01		車寄	
@@ -31126,6 +31337,7 @@ PWN:positive.a.01		ポジティブ
 PWN:positive.a.01		ポジティヴ	
 PWN:positive.a.01		積極的	
 PWN:positive.s.10		正電荷をもつ	
+PWN:positive.s.10		陽	
 PWN:positive.s.10		陽性の	
 PWN:positive.s.10		陽電性の	
 PWN:possess.v.01		享有+する	
@@ -31265,9 +31477,11 @@ PWN:pot.n.03		１鍋の量
 PWN:potassium.n.01		カリ	
 PWN:potassium.n.01		カリウム	
 PWN:potassium.n.01		加里	
+PWN:potato.n.01		じゃがいも	
 PWN:potato.n.01		じゃが芋	
 PWN:potato.n.01		ジャガイモ	
 PWN:potato.n.01		ジャガイモ・じゃが芋	jagaimo	
+PWN:potato.n.01		ポテト	
 PWN:potato.n.01		芋	imo	
 PWN:potency.n.02		効力	
 PWN:potency.n.02		効能	
@@ -31438,6 +31652,7 @@ PWN:praise.v.01		賛える
 PWN:praise.v.01		賛する	
 PWN:praise.v.01		賛称+する	
 PWN:praise.v.01		賛美+する	
+PWN:praise.v.01		賛辞	
 PWN:praise.v.01		賞する	
 PWN:praise.v.01		賞揚+する	
 PWN:praise.v.01		賞美+する	
@@ -31459,6 +31674,7 @@ PWN:pray.v.01		祈祷+する
 PWN:pray.v.01		祈願+する	
 PWN:pray.v.01		称名+する	
 PWN:pray.v.01		立願+する	
+PWN:prayer.n.01		祈祷	
 PWN:prayer.n.02		心願	
 PWN:prayer.n.02		祈とう	
 PWN:prayer.n.02		祈り	
@@ -31899,6 +32115,7 @@ PWN:produce.v.02		作出す
 PWN:produce.v.02		作成+する	
 PWN:produce.v.02		作製+する	
 PWN:produce.v.02		工作+する	
+PWN:produce.v.02		建てる	
 PWN:produce.v.02		拵える	
 PWN:produce.v.02		生産+する	
 PWN:produce.v.02		製する	
@@ -32324,6 +32541,7 @@ PWN:protoctist.n.01		原生生物
 PWN:protoplasm.n.01		原形質	
 PWN:prototype.n.01		プロトタイプ	
 PWN:prototype.n.01		典型	
+PWN:prototype.n.01		原型	
 PWN:prototype.n.01		基本形	
 PWN:protozoan.n.01		原生動物	
 PWN:protozoan.n.01		原虫	
@@ -32494,6 +32712,10 @@ PWN:pure.a.01		純粋
 PWN:pure.s.07		奇麗	
 PWN:pure.s.07		純潔	
 PWN:pure.s.07		綺麗	
+PWN:purple.s.01		パープル	
+PWN:purple.s.01		マゼンタ	
+PWN:purple.s.01		紫	
+PWN:purple.s.01		紫色	
 PWN:pursue.v.02		追う	ou	
 PWN:pursue.v.02		追尋+する	
 PWN:pursue.v.02		追尾+する	
@@ -32625,6 +32847,7 @@ PWN:quarter.n.06		四半期
 PWN:quarter.n.06		４半期	
 PWN:quartz_glass.n.01		シリカ硝子	
 PWN:quartz_glass.n.01		水晶硝子	
+PWN:quartz_glass.n.01		石英	
 PWN:quartz_glass.n.01		石英ガラス	
 PWN:quartz_glass.n.01		石英硝子	
 PWN:queen.n.01		クィーン	
@@ -32663,6 +32886,8 @@ PWN:question.n.03		問掛
 PWN:question.n.03		問掛け	
 PWN:question.n.03		疑問文	
 PWN:question.n.03		質問	
+PWN:question.n.03 		問題	
+PWN:question.n.03 		質問	
 PWN:questioning.n.01		借問	
 PWN:questioning.n.01		問い	
 PWN:questioning.n.01		問い合わせ	
@@ -32737,6 +32962,7 @@ PWN:quote.v.01		引例+する
 PWN:quote.v.01		引用+する	
 PWN:quote.v.01		援引+する	
 PWN:quote.v.01		援用+する	
+PWN:rabbit.n.01		うさぎ	
 PWN:rabbit.n.01		アナウサギ	
 PWN:rabbit.n.01		ウサギ	
 PWN:rabbit.n.01		コニー	
@@ -32749,6 +32975,7 @@ PWN:rabble.n.02		有象無象
 PWN:rabble.n.02		烏合の衆	
 PWN:raccoon.n.02		アライグマ	
 PWN:raccoon.n.02		アライグマ・洗熊・浣熊	araiguma	
+PWN:raccoon.n.02		人種	
 PWN:race.n.01		レイス	
 PWN:race.n.01		レース	
 PWN:race.n.01		比	
@@ -32763,7 +32990,10 @@ PWN:race.n.02		レース
 PWN:race.n.02		競走	
 PWN:race.n.02		駆けっこ	
 PWN:race.n.02		駈けっくら	
+PWN:race.n.03		ラクーン	
 PWN:race.n.03		人種	
+PWN:race.n.03		洗い熊	
+PWN:race.n.03		狸	
 PWN:rack.n.01		ラック	
 PWN:radiate.v.05		放射+する	
 PWN:radiation.n.01		放射	
@@ -32874,6 +33104,7 @@ PWN:rank.n.02		位置付
 PWN:rank.n.02		位置付け	
 PWN:rank.n.02		地位	
 PWN:rank.n.02		序列	
+PWN:rank.n.02		段	
 PWN:rank.n.02		等	
 PWN:rank.n.02		等位	
 PWN:rank.n.02		等級	
@@ -32931,6 +33162,8 @@ PWN:rapid.s.02		速め
 PWN:rapid.s.02		速やか	
 PWN:rapid.s.02		速目	
 PWN:rare.s.04		希薄	
+PWN:rare.s.04		疎ら	
+PWN:rare.s.04		稀	
 PWN:rarely.r.01		たまさか	
 PWN:rarely.r.01		たまたま	
 PWN:rarely.r.01		たまに	
@@ -32977,6 +33210,8 @@ PWN:rattlesnake.n.01		がらがら蛇
 PWN:rattlesnake.n.01		ガラガラヘビ	
 PWN:raven.n.01		ワタリガラス	
 PWN:ravioli.n.01		ラビオリ	
+PWN:ravioli.n.01		餃子	
+PWN:ravioli.n.01		饅頭	
 PWN:raw.a.03		生	nama	
 PWN:raw_material.n.01		元種	
 PWN:raw_material.n.01		原料	
@@ -33195,6 +33430,7 @@ PWN:reason.n.03		知
 PWN:reason.n.03		知力	
 PWN:reason.n.03		知性	
 PWN:reason.v.03		推論+する	
+PWN:reasoning.n.01		推論	
 PWN:reasoning.n.01		理論的思考	
 PWN:rebellion.n.02		ご謀叛	
 PWN:rebellion.n.02		乱逆	
@@ -34036,6 +34272,7 @@ PWN:repair.v.01		とり繕う
 PWN:repair.v.01		リニューアル+する	
 PWN:repair.v.01		修復+する	
 PWN:repair.v.01		修理+する	
+PWN:repair.v.01		修理する	
 PWN:repair.v.01		修築+する	
 PWN:repair.v.01		修繕+する	
 PWN:repair.v.01		修補+する	
@@ -34283,11 +34520,13 @@ PWN:request.n.02		請求
 PWN:request.n.02		頼み	
 PWN:request.n.02		願い	
 PWN:request.v.01		リクエスト+する	
+PWN:request.v.01		ーて下さい	
 PWN:request.v.01		所望+する	
 PWN:request.v.01		求む	
 PWN:request.v.01		求める	
 PWN:request.v.01		要望+する	
 PWN:request.v.01		要求+する	
+PWN:request.v.01		請う	
 PWN:request.v.01		頼む	
 PWN:request.v.01		願う	
 PWN:rescue.n.01		助け	
@@ -34707,6 +34946,7 @@ PWN:ridicule.v.01		嘲笑う
 PWN:ridicule.v.01		嘲謔+する	
 PWN:ridicule.v.01		揶揄+する	
 PWN:ridicule.v.01		揶揄う	
+PWN:right.a.01		右	
 PWN:right.n.01		権	
 PWN:right.n.01		権利	
 PWN:right.n.01		権能	
@@ -34728,6 +34968,7 @@ PWN:ring.n.06		リンリンという音
 PWN:ring.n.08		リング	
 PWN:ring.n.08		指環	
 PWN:ring.n.08		指輪	yubiwa	
+PWN:ring.n.08		輪	
 PWN:ring.v.01		なる	
 PWN:ring.v.01		響き渡る	
 PWN:ring.v.01		響く	
@@ -34961,6 +35202,7 @@ PWN:rodent.n.01		げっ歯類
 PWN:rodent.n.01		齧歯動物	
 PWN:rodent.n.01		齧歯類	
 PWN:roentgenium.n.01		rg	
+PWN:roentgenium.n.01		レントゲニウム	
 PWN:roll.n.02		人名簿	
 PWN:roll.n.02		名簿	
 PWN:roll.n.02		名鑑	
@@ -35064,6 +35306,7 @@ PWN:rosary.n.01		数珠
 PWN:rose.n.01		バラ	
 PWN:rose.n.01		ローズ	
 PWN:rose.n.01		薔薇	
+PWN:rose_apple.n.02		フトモモ	
 PWN:rotation.n.01		ターン	
 PWN:rotation.n.01		円転	
 PWN:rotation.n.01		回り	
@@ -35162,6 +35405,7 @@ PWN:rub.v.03		磨る
 PWN:rubber.n.01		ゴム	
 PWN:rubber.n.01		ラバー	
 PWN:rubber.n.01		天然ゴム	
+PWN:rubber.n.01		消しゴム	
 PWN:rubber.n.01		生ゴム	
 PWN:rubbish.n.01		がらくた	
 PWN:rubbish.n.01		くず	
@@ -35300,6 +35544,7 @@ PWN:run.n.07		走り
 PWN:run.n.07		走リ	
 PWN:run.n.07		駆け足	
 PWN:run.n.13		伝線	
+PWN:run.v.01		疾走する	
 PWN:run.v.01		走る	hashiru	
 PWN:run.v.01		駆けはしる	
 PWN:run.v.01		駆ける	
@@ -35347,6 +35592,7 @@ PWN:rye.n.02		ハダカムギ
 PWN:rye.n.02		ライムギ	
 PWN:rye.n.02		ライ麦	raimugi	
 PWN:rye.n.02		麦	mugi	cmn:mwók 麥
+PWN:sabbath.n.01		土曜日	
 PWN:sabbath.n.01		安息日	
 PWN:sack.n.01		レジ袋	
 PWN:sack.n.01		買物袋	
@@ -35410,6 +35656,7 @@ PWN:safety.n.02		駆込み寺
 PWN:safflower.n.01		ベニバナ	
 PWN:safflower.n.01		紅花	
 PWN:saga.n.01		サガ	
+PWN:sago.n.01		サゴ澱粉	
 PWN:sail.n.01		帆	ho	
 PWN:sail.v.03		帆走	hansō	
 PWN:sail.v.03		帆走+する	
@@ -35447,6 +35694,7 @@ PWN:salmon.n.01		サケ
 PWN:salmon.n.01		サモン	
 PWN:salmon.n.01		サーモン	
 PWN:salmon.n.01		シャケ	
+PWN:salmon.n.01		塩	
 PWN:salmon.n.01		年魚	
 PWN:salmon.n.01		秋味	
 PWN:salmon.n.01		鮭	
@@ -35463,6 +35711,7 @@ PWN:salt.n.02		波の花
 PWN:salt.n.02		波乃花	
 PWN:salt.n.02		食卓塩	
 PWN:salt.n.02		食塩	
+PWN:salt.n.02		鮭鱒	
 PWN:salty.s.03		辛い	shoppai	
 PWN:salvage.v.01		セーブ+する	
 PWN:salvage.v.01		セーヴ+する	
@@ -35516,6 +35765,7 @@ PWN:satan.n.01		サタン
 PWN:satan.n.01		デビル	
 PWN:satan.n.01		デヴィル	
 PWN:satan.n.01		ベルゼブル	
+PWN:satan.n.01		悪魔	
 PWN:satan.n.01		魔王	
 PWN:satan.n.01		魔神	
 PWN:satisfaction.n.01		会心	
@@ -35743,6 +35993,7 @@ PWN:score.n.03		得点
 PWN:score.n.03		点	
 PWN:score.n.03		点数	
 PWN:scorpion.n.03		サソリ	
+PWN:scorpion.n.03		天蝎宮	
 PWN:scorpion.n.03		蠍	sasori	
 PWN:scrape.v.01		引っ掻く	
 PWN:scrape.v.01		掻く	
@@ -36234,6 +36485,7 @@ PWN:separation.n.09		隔絶
 PWN:separation.n.09		離別	
 PWN:separation.n.09		離隔	
 PWN:september.n.01		九月	
+PWN:september.n.01		９月	
 PWN:sequence.n.01		シークェンス	
 PWN:sequence.n.01		シークエンス	
 PWN:sequence.n.01		シーケンス	
@@ -36244,6 +36496,7 @@ PWN:sequence.n.01		順番
 PWN:series.n.01		一続き	
 PWN:series.n.01		一連	
 PWN:series.n.01		列なり	
+PWN:series.n.01		系列	
 PWN:series.n.01		連なり	
 PWN:series.n.01		連続	
 PWN:serious.a.01		まじめ	
@@ -36369,6 +36622,7 @@ PWN:serviceman.n.01		武人
 PWN:serviceman.n.01		軍人	
 PWN:serviceman.n.01		軍卒	
 PWN:sesame.n.01		ゴマ	
+PWN:sesame.n.01		胡麻	
 PWN:session.n.03		会合	
 PWN:session.n.03		集い	
 PWN:session.n.03		集まり	
@@ -36764,6 +37018,7 @@ PWN:shine.v.02		耀く
 PWN:shine.v.02		輝く	kagayaku	
 PWN:shine.v.02		閃く	
 PWN:ship.n.01		シップ	
+PWN:ship.n.01		ボート	
 PWN:ship.n.01		舟	
 PWN:ship.n.01		舟・船	
 PWN:ship.n.01		舟船	
@@ -36784,6 +37039,7 @@ PWN:shock.n.06		震動
 PWN:shock.n.06		驚がく	
 PWN:shock.n.06		驚愕	
 PWN:shoe.n.01		靴	kutsu	
+PWN:shoe.n.01		鞋	
 PWN:shoot.v.01		射る	
 PWN:shoot.v.01		射当てる	
 PWN:shoot.v.01		当てる	
@@ -36995,6 +37251,7 @@ PWN:shrub.n.01		ブッシュ
 PWN:shrub.n.01		低木	
 PWN:shrub.n.01		潅木	
 PWN:shrub.n.01		灌木	
+PWN:shrub.n.01		藪	
 PWN:shudder.v.02		ぞくぞく	
 PWN:shudder.v.02		ぶるぶる+する	
 PWN:shudder.v.02		わなわな+する	
@@ -37104,9 +37361,11 @@ PWN:sign.n.02		相図
 PWN:sign.n.09		サイン	
 PWN:sign.n.09		身ぶり	
 PWN:sign.n.09		身振り	
+PWN:sign.v.01		サイン	
 PWN:sign.v.01		サイン+する	
 PWN:sign.v.01		手署+する	
 PWN:sign.v.01		署する	
+PWN:sign.v.01		署名する	
 PWN:sign.v.01		自署+する	
 PWN:signal.n.01		サイン	
 PWN:signal.n.01		シグナル	
@@ -37160,6 +37419,7 @@ PWN:silent.s.01		静か
 PWN:silent.s.01		静寂	
 PWN:silent.s.01		静粛	
 PWN:silicon.n.01		シリコン	
+PWN:silicon.n.01		ヶィ素	
 PWN:silk.n.01		シルク	shiruku	eng:silk
 PWN:silk.n.01		地絹	
 PWN:silk.n.01		帛	
@@ -37239,6 +37499,7 @@ PWN:sink.v.04		沈没+する
 PWN:sink.v.04		沈降+する	
 PWN:sip.v.01		吸う	
 PWN:sip.v.01		啜る	
+PWN:sister.n.01		shimai	
 PWN:sister.n.01		女兄弟	onnakyōdai	
 PWN:sister.n.01		姉妹	shimai	cmn:zĭmèi 姊妹
 PWN:sit.v.01		えんこ+する	
@@ -37321,6 +37582,7 @@ PWN:situation.n.02		境遇
 PWN:situation.n.02		立場	
 PWN:situation.n.02		身の上	
 PWN:situation.n.02		身分	
+PWN:six.s.01		6	
 PWN:six.s.01		六	roku	cmn:liù
 PWN:six.s.01		六つ	muttsu	
 PWN:six.s.01		視覚的エディタ	
@@ -37368,6 +37630,7 @@ PWN:skill.n.01		技術
 PWN:skill.n.01		技量	
 PWN:skill.n.01		腕	
 PWN:skill.n.01		腕前	
+PWN:skill.n.01		術	
 PWN:skilled.a.01		堪能	
 PWN:skilled.a.01		熟練した	
 PWN:skilled.a.01		老巧	
@@ -37465,9 +37728,11 @@ PWN:sleep.v.01		寝る	neru
 PWN:sleep.v.01		就眠+する	
 PWN:sleep.v.01		眠る	nemuru	
 PWN:sleep.v.01		睡る	
+PWN:sleep_together.v.01		エッチする	
 PWN:sleep_together.v.01		セックス	sekkusu	:sexus
 PWN:sleep_together.v.01		セックス+する	
 PWN:sleep_together.v.01		ファック+する	
+PWN:sleep_together.v.01		ファックする	
 PWN:sleep_together.v.01		一発やる	
 PWN:sleep_together.v.01		交わる	
 PWN:sleep_together.v.01		交接+する	
@@ -38316,6 +38581,7 @@ PWN:sphere.n.06		円球
 PWN:sphere.n.06		球	
 PWN:sphere.n.06		球体	
 PWN:sphere.n.06		球形	
+PWN:spider.n.01		オレンジ	
 PWN:spider.n.01		クモ	
 PWN:spider.n.01		スパイダー	
 PWN:spider.n.01		細蟹	
@@ -38327,6 +38593,7 @@ PWN:spill.v.01		溢す
 PWN:spill.v.01		零す	
 PWN:spin.v.06		紡ぐ	tsumugu	
 PWN:spinach.n.01		ホウレンソウ	
+PWN:spinach.n.01		菠薐草	
 PWN:spinal_column.n.01		バックボーン	
 PWN:spinal_column.n.01		背骨	sebone	
 PWN:spinal_column.n.01		脊柱	sekichū	cmn:jĭzhuī
@@ -39026,6 +39293,7 @@ PWN:stiffen.v.02		固化させる
 PWN:stiffen.v.02		硬化させる	
 PWN:stiffen.v.02		硬変させる	
 PWN:stiffen.v.02		硬直させる	
+PWN:still.n.01		コマ	
 PWN:still.n.01		スチル	
 PWN:still.n.01		スチール	
 PWN:still.n.01		スチール写真	
@@ -39219,6 +39487,7 @@ PWN:storehouse.n.01		店鋪
 PWN:storehouse.n.01		百貨店	
 PWN:storehouse.n.01		舗	
 PWN:storehouse.n.01		蔵	
+PWN:storm.n.01		まっすぐな	
 PWN:storm.n.01		ストウム	
 PWN:storm.n.01		ストオム	
 PWN:storm.n.01		ストーム	
@@ -39881,6 +40150,7 @@ PWN:suitable.s.01		相応しい
 PWN:suitable.s.01		適切	
 PWN:suitable.s.01		適宜	
 PWN:suitable.s.01		適当	
+PWN:sulfide.n.01		sulfido	
 PWN:sulfide.n.01		硫化物	
 PWN:sulfur.n.01		イオウ	
 PWN:sulfur.n.01		サルファ	
@@ -40684,6 +40954,7 @@ PWN:team.n.01		ティーム
 PWN:team.n.01		分隊	
 PWN:team.n.01		班	
 PWN:team.n.01		組	
+PWN:teapot.n.01		急須	
 PWN:tear.n.01		泪	
 PWN:tear.n.01		涕	
 PWN:tear.n.01		涙	namida	
@@ -40695,6 +40966,7 @@ PWN:tear.v.01		破る	yaburu
 PWN:tear.v.01		裂く	
 PWN:tear.v.01		裂ける	
 PWN:technetium.n.01		テクネチウム	
+PWN:technology.n.01		テクネチウム	
 PWN:technology.n.01		テクノロジ	
 PWN:technology.n.01		テクノロジー	
 PWN:technology.n.01		工学	
@@ -40724,6 +40996,7 @@ PWN:telephone.n.01		フォン
 PWN:telephone.n.01		ホン	
 PWN:telephone.n.01		電話	denwa	cmn:diànhuà
 PWN:telephone.n.01		電話機	
+PWN:telescope.n.01		テレスコープ	
 PWN:telescope.n.01		望遠鏡	
 PWN:television.n.01		テレビ	
 PWN:television.n.01		テレビジョン	
@@ -40766,6 +41039,7 @@ PWN:temple.n.01		僧寺
 PWN:temple.n.01		僧舎	
 PWN:temple.n.01		僧院	
 PWN:temple.n.01		叢林	
+PWN:temple.n.01		宮	
 PWN:temple.n.01		寺	tera	kor:jeol
 PWN:temple.n.01		寺門	
 PWN:temple.n.01		寺院	ji’in	cmn:sìyuàn
@@ -40778,6 +41052,7 @@ PWN:temple.n.01		御房
 PWN:temple.n.01		梵刹	
 PWN:temple.n.01		檀林	
 PWN:temple.n.01		神殿	shinden	cmn:shéndiàn
+PWN:temple.n.01		神社	
 PWN:temple.n.01		精舎	
 PWN:temple.n.01		院	
 PWN:temple.n.02		蟀谷	komekami	
@@ -40807,6 +41082,7 @@ PWN:tempt.v.03		誘引+する
 PWN:tempt.v.03		誘惑+する	
 PWN:ten.s.01		十	jū (2)	cmn:shí
 PWN:ten.s.01		十	tō (1)	
+PWN:ten.s.01		１０	
 PWN:tendency.n.04		トレンド	
 PWN:tendency.n.04		動向	
 PWN:tendency.n.04		大局	
@@ -40977,6 +41253,7 @@ PWN:thesis.n.01		テーゼ
 PWN:thesis.n.01		命題	
 PWN:thesis.n.01		定立	
 PWN:thesis.n.01		提題	
+PWN:thesis.n.01		論題	
 PWN:thick.a.01		ぶっとい	
 PWN:thick.a.01		分厚	
 PWN:thick.a.01		分厚い	
@@ -41102,6 +41379,7 @@ PWN:thing.n.09		こと
 PWN:thing.n.09		事	
 PWN:thing.n.09		事柄	
 PWN:thing.n.09		事項	
+PWN:thing.n.09		物	
 PWN:thing.n.12		物	mono	
 PWN:things.n.01		所持品	
 PWN:think.v.01		勘える	
@@ -41267,6 +41545,7 @@ PWN:thorax.n.02		胸間
 PWN:thorium.n.01		トリウム	
 PWN:thousand.s.01		一千	
 PWN:thousand.s.01		千	sen (1)	cmn:qiān
+PWN:thousand.s.01		１０００	
 PWN:thrash.v.06		扱く	koku	
 PWN:thrash.v.06		脱穀	dakkoku	
 PWN:thread.n.01		ヤーン	
@@ -41289,11 +41568,13 @@ PWN:threaten.v.02		脅やかす
 PWN:threaten.v.02		脅嚇+する	
 PWN:threaten.v.02		脅迫	kyōhaku	cmn:xiépò
 PWN:threaten.v.02		脅迫+する	
+PWN:three.s.01		3	
 PWN:three.s.01		三	san	cmn:sān
 PWN:three.s.01		三つ	mittsu	
 PWN:threshing_floor.n.01		脱穀場	dakkokujō	
 PWN:thrice.r.01		三回	sankai	cmn:sānhuí
 PWN:thrice.r.01		三度	sando	cmn:sān-dù
+PWN:throat.n.01		のど	
 PWN:throat.n.01		咽	
 PWN:throat.n.01		咽喉	
 PWN:throat.n.01		咽頭	
@@ -41514,6 +41795,7 @@ PWN:time.n.01		回
 PWN:time.n.01		度	
 PWN:time.n.01		折	
 PWN:time.n.01		時	
+PWN:time.n.01		次	
 PWN:time.n.02		ひと時	
 PWN:time.n.02		一時	
 PWN:time.n.02		時	
@@ -41602,6 +41884,7 @@ PWN:tired.a.01		疲れる	tsukareru
 PWN:tired.a.01		眠い	nemui	
 PWN:tissue.n.01		組織	
 PWN:titanium.n.01		チタニウム	
+PWN:titanium.n.01		チタン	
 PWN:title.n.06		かた書き	
 PWN:title.n.06		タイトル	
 PWN:title.n.06		名目	
@@ -41839,6 +42122,7 @@ PWN:town.n.01		街・町	machi
 PWN:town.n.01		都市	toshi (2)	cmn:dūshì
 PWN:town.n.02		町民	
 PWN:township.n.01		ポリス	
+PWN:toxin.n.01		毒素	
 PWN:trace.n.05		引き革	
 PWN:trace.v.02		引く	
 PWN:trace.v.02		描く	
@@ -42053,6 +42337,7 @@ PWN:transition.n.03		推移
 PWN:transition.n.03		移り変わり	
 PWN:transition.n.03		遷移	
 PWN:translate.v.01		翻訳+する	
+PWN:translate.v.01		翻訳する	
 PWN:translate.v.01		訳す	
 PWN:translate.v.01		訳する	
 PWN:translate.v.01		訳出+する	
@@ -42283,6 +42568,7 @@ PWN:trick.n.01		巧詐
 PWN:trick.n.01		悪だくみ	
 PWN:trick.n.01		悪巧	
 PWN:trick.n.01		悪巧み	
+PWN:trick.n.01		悪戯	
 PWN:trick.n.01		悪計	
 PWN:trick.n.01		策略	
 PWN:trick.n.01		策謀	
@@ -42291,6 +42577,7 @@ PWN:trick.n.01		術策
 PWN:trick.n.01		計略	
 PWN:trick.n.01		計策	
 PWN:trick.n.01		計謀	
+PWN:trick.n.01		詐欺	
 PWN:trick.n.01		詭計	
 PWN:trick.n.01		詭謀	
 PWN:trick.n.01		誑し	
@@ -42337,6 +42624,7 @@ PWN:trust.v.01		信憑+する
 PWN:trust.v.01		信用+する	
 PWN:trust.v.01		信託+する	
 PWN:trust.v.01		信頼+する	
+PWN:trust.v.01		信頼する	
 PWN:trust.v.01		委任+する	
 PWN:trust.v.01		委託+する	
 PWN:trust.v.01		見こむ	
@@ -42453,6 +42741,7 @@ PWN:twist.v.04		捻る
 PWN:twist.v.04		捻る・捩る	nejiru	
 PWN:twist.v.04		撚る	
 PWN:twist.v.04		縒る	yoru (1)	
+PWN:two.s.01		2	
 PWN:two.s.01		二	ni (1)	cmn:èr
 PWN:two.s.01		二つ	futatsu	
 PWN:type.n.01		タイプ	
@@ -42799,10 +43088,15 @@ PWN:unsusceptibility.n.01		免疫性
 PWN:untie.v.01		解く	hodoku	
 PWN:untie.v.01		解く	toku	
 PWN:ununbium.n.01		ウンウンビウム	
+PWN:ununbium.n.01		コペルニシウム	
 PWN:ununhexium.n.01		ウンウンヘキシウム	
+PWN:ununhexium.n.01		リバモリウム	
 PWN:ununpentium.n.01		ウンウンペンチウム	
+PWN:ununpentium.n.01		モスコビウム	
 PWN:ununquadium.n.01		ウンウンクアジウム	
+PWN:ununquadium.n.01		フレロビウム	
 PWN:ununtrium.n.01		ウンウントリウム	
+PWN:ununtrium.n.01		ニホニウム	
 PWN:unwrap.v.02		あばき出す	
 PWN:unwrap.v.02		ばらす	
 PWN:unwrap.v.02		公開+する	
@@ -42890,6 +43184,7 @@ PWN:use.v.01		行使+する
 PWN:use.v.01		運用+する	
 PWN:use.v.03		使い果たす	
 PWN:use.v.03		消費+する	
+PWN:useable.s.02		使用可能	
 PWN:utensil.n.01		什	
 PWN:utensil.n.01		什器	
 PWN:utensil.n.01		什物	
@@ -43388,6 +43683,7 @@ PWN:visualize.v.01		想像+する
 PWN:visualize.v.01		想描く	
 PWN:visualize.v.01		想見+する	
 PWN:vital_organ.n.01		急所	
+PWN:vizier.n.01		生体解剖	
 PWN:vocabulary.n.01		ボキャブラリー	
 PWN:vocabulary.n.01		ヴォキャブラリー	
 PWN:vocabulary.n.01		語彙	
@@ -44275,6 +44571,7 @@ PWN:wine.n.01		ワイン	wain	:vīnum
 PWN:wine.n.01		葡萄酒	budōshu	cmn:pútáojiŭ
 PWN:wine.n.01		酒	sake	
 PWN:winery.n.01		ワイナリー	
+PWN:winery.n.01		酒造場	
 PWN:wing.n.01		ウィング	
 PWN:wing.n.01		ウイング	
 PWN:wing.n.01		羽	
@@ -44314,6 +44611,7 @@ PWN:wire.n.02		ワイヤー
 PWN:wire.n.02		導線	
 PWN:wire.n.02		配線	
 PWN:wisdom.n.01		智識	
+PWN:wisdom.n.01		知恵	
 PWN:wisdom.n.01		知識	
 PWN:wisdom.n.02		俐発	
 PWN:wisdom.n.02		分かち	
@@ -44557,8 +44855,10 @@ PWN:workshop.n.01		制作室
 PWN:workshop.n.01		工場	
 PWN:workshop.n.01		工場, note that this is written the same as kōjō which is a bigger factory.	kōba	
 PWN:workshop.n.01		工房	
+PWN:workshop.n.01		店	
 PWN:workshop.n.01		細工場	
 PWN:workshop.n.01		細工所	
+PWN:workshop.n.01		館	
 PWN:workweek.n.01		週労働日数	
 PWN:workweek.n.01		週労働時間	
 PWN:world.n.02		世	yo	
@@ -44866,6 +45166,7 @@ PWN:yield.v.01		与える
 PWN:yield.v.01		生じる	
 PWN:yield.v.01		生む	
 PWN:yin.n.01		陰	
+PWN:yin.n.01 		ヨーグルト	
 PWN:yogurt.n.01		ヨーグルト	
 PWN:yogurt.n.01		発酵乳	
 PWN:yoke.n.05		軛・頸木・衡	kubiki	
@@ -44897,12 +45198,15 @@ PWN:youth.n.05		早期
 PWN:ytterbium.n.01		イッテルビウム	
 PWN:yttrium.n.01		イットリウム	
 PWN:yurt.n.01		ユルト	
+PWN:yurt.n.01 		ゲル	
+PWN:yurt.n.01 		包	
 PWN:zebra.n.01		シマウマ	
 PWN:zebra.n.01		縞馬	
 PWN:zero.s.01		ゼロ	zero	arb:ṣifr
 PWN:zero.s.01		ゼロの	
 PWN:zero.s.01		零	rei	cmn:líng
 PWN:zero.s.01		零の	
+PWN:zero.s.01		０	
 PWN:zinc.n.01		ジンク	
 PWN:zinc.n.01		亜鉛	
 PWN:zirconium.n.01		ジルコニウム	

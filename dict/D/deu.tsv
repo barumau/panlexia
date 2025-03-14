@@ -2,22 +2,27 @@ id	style	word
 PLX:1PL EXCL.pro		wir (exklusiv)
 PLX:1PL INCL.pro		wir (inklusiv)
 PLX:1PL.pro		wir
+PLX:1SG.pro		Ich
 PLX:1SG.pro		ich
+PLX:1SG.pro		mich
 PLX:2PL.pro		ihr
 PLX:2SG.pro		du
 PLX:3PL.pro		sie
 PLX:3SG F.pro		sie
 PLX:3SG INAN.pro		es
 PLX:3SG M.pro		er
+PLX:3SG.pro		er oder sie oder es
 PLX:3SG.pro		er/sie/es
 PLX:above.pp		über
 PLX:after.pp		nach
 PLX:and.cnj		und
+PLX:antifascism.n		Antifaschismus
 PLX:at.pp		an
 PLX:be late.v		sich verspäten
 PLX:because.cnj		weil
 PLX:behind.pp		hinter
 PLX:beside.pp		neben
+PLX:can.v		können
 PLX:carry in hand.v		etw. in der Hand tragen
 PLX:carry on head.v		etw. auf dem Kopf tragen
 PLX:carry on shoulder.v		etw. auf der Schulter tragen
@@ -36,11 +41,13 @@ PLX:father-in-law (of woman).n		Schwiegervater (einer Frau)
 PLX:fermented alcohol.n		vergorenes Getränk
 PLX:fish poison root.n		Fischgift
 PLX:fish trap.n		Reuse
+PLX:genderology.n		Geschlechterforschung
 PLX:head hair.n		Haar
 PLX:how many pieces.pro		Wieviele?
 PLX:how much.pro		Wieviel?
 PLX:how.pro		Wie?
 PLX:if.cnj		falls, wenn
+PLX:if.cnj		wenn
 PLX:in front of.pp		vor
 PLX:in.pp		in
 PLX:initiation ceremony.n		Initiationsritus
@@ -54,19 +61,25 @@ PLX:mother-in-law (of woman).n		Schwiegermutter (einer Frau)
 PLX:netbag.n		Netztasche
 PLX:nothing.pro		nichts
 PLX:older sibling.n		älterer Bruder oder Schwester
+PLX:one.pro		man
 PLX:or.cnj		oder
 PLX:outside.pp		außen, draußen
 PLX:parents-in-law.n		Schwiegereltern
+PLX:ramen.n		Ramen
 PLX:sibling's child.n		Nichte oder Neffe
 PLX:sibling-in-law.n		Schwager oder Schwägerin
 PLX:son-in-law (of man).n		Schwiegersohn (eines Mannes)
 PLX:son-in-law (of woman).n		Schwiegersohn (einer Frau)
 PLX:stab to death.v		stechen
+PLX:than.pp		als
+PLX:than.pp		denn
+PLX:thanks.int		Danke
 PLX:that.pro		der
 PLX:this.pro		dieser
 PLX:tumpline.n		?
 PLX:under.pp		unter
 PLX:what.pro		Was?
+PLX:what.pro		was
 PLX:when.pro		Wann?
 PLX:where.pro		Wo?
 PLX:which Q.pro		Welche(r,s)?
@@ -80,9 +93,11 @@ PWN:abdomen.n.01		Bauch
 PWN:above.r.02		hoch
 PWN:accuse.v.01		anklagen, beschuldigen
 PWN:acerate_leaf.n.01		Nadel
+PWN:acetylene.n.01		Alkin
 PWN:acorn.n.01		Eichel
 PWN:acquit.v.01		freisprechen
 PWN:act.v.02		tun
+PWN:address.n.03		Adresse
 PWN:address.n.03		Rede (halten)
 PWN:address.n.06		Adresse
 PWN:admit.v.01		zugeben, gestehen, bekennen
@@ -93,31 +108,49 @@ PWN:adz.n.01		Dechsel, Breitbeil
 PWN:afternoon.n.01		Nachmittag
 PWN:again.r.01		wieder, nochmal
 PWN:age.n.01		Alter
+PWN:agronomist.n.01		agronome
+PWN:aid.n.02		Hilfe
 PWN:air.n.01		Luft
 PWN:airplane.n.01		Flugzeug
+PWN:alcoholic.n.01		Alkoholiker
+PWN:alkene.n.01		Alken
+PWN:alkyl.n.01		Alkyl
 PWN:all.a.01		alle
 PWN:allege.v.01		sagen
+PWN:allergy.n.01		Allergie
 PWN:alligator.n.02		Krokodil
 PWN:alone.r.02		allein
 PWN:altar.n.02		Altar
+PWN:altruism.n.01		Altruismus
 PWN:always.r.01		immer, stets
 PWN:amazed.s.01		überrascht, erstaunt
 PWN:ambush.n.01		Hinterhalt
+PWN:american_football.n.01		American Football
+PWN:amide.n.01		Amid
+PWN:amine.n.01		Amin
+PWN:analgesia.n.01		Analgesie
 PWN:ancestor.n.01		Ahnen oder Vorfahren
 PWN:anchor.n.01		Anker
 PWN:anger.n.02		Zorn
 PWN:animal.n.01		Tier
 PWN:animation.n.01		Leben
+PWN:anion.n.01 		Anion
 PWN:ankle.n.01		Fußgelenk, Fußknöchel
 PWN:announce.v.01		ankündigen, verkündigen
+PWN:anode.n.01 		Anode
+PWN:anode.n.01 		Pluspol
+PWN:anoint.v.02		schmieren
+PWN:anoint.v.02		ölen
 PWN:answer.v.01		antworten
 PWN:ant.n.01		Ameise
 PWN:anteater.n.02		Ameisenbär
 PWN:anvil.n.01		Amboss
 PWN:anxiety.n.02		Sorge
 PWN:apparel.n.01		Kleider, Kleidung
+PWN:apple.n.01		Apfel
 PWN:approach.v.01		sich nähern, nahen
 PWN:apt.s.03		klug, schlau
+PWN:arachnophobia.n.01		Arachnophobie (Spinnenangst
 PWN:arch.n.04		Bogen, Gewölbe
 PWN:arm.n.01		Arm
 PWN:armor.n.01		Rüstung, Harnisch
@@ -127,6 +160,7 @@ PWN:arrive.v.01		ankommen, erreichen
 PWN:arrive.v.01		kommen
 PWN:arrow.n.02		Pfeil
 PWN:arson.n.01		Brandstiftung
+PWN:art.n.02		Kunst
 PWN:artery.n.01		Ader, Vene, Arterie
 PWN:ascend.v.01		hinaufgehen
 PWN:ash.n.01		Asche
@@ -135,7 +169,9 @@ PWN:ask.v.05		fragen
 PWN:attack.n.05		Angriff
 PWN:aunt.n.01		Tante
 PWN:aurora_borealis.n.01		Nordlicht
+PWN:automatic.a.01		automatisch
 PWN:avaricious.s.01		gierig, gefräßig
+PWN:avocado.n.01		Avocado
 PWN:awl.n.01		Ahle
 PWN:ax.n.01		Beil, Axt
 PWN:axle.n.01		Achse
@@ -145,21 +181,28 @@ PWN:bad.a.01		schlecht, schlimm, böse, übel
 PWN:bait.n.02		Köder
 PWN:bake.v.02		backen
 PWN:bald.s.02		kahl, glatzköpfig
+PWN:ball.n.01 		Ball
+PWN:ball.n.01 		Kugel
 PWN:ball.n.03		Kugel
+PWN:ball.n.09 		Ball
 PWN:bamboo.n.01		Bambus
 PWN:banana.n.02		Banane
 PWN:banyan.n.01		Banyanbaum
 PWN:bare.s.01		nackt
 PWN:bark.n.01		Rinde, Borke
 PWN:barley.n.02		Gerste
+PWN:barroom.n.01		Bar
+PWN:barroom.n.01		Kneipe
 PWN:barter.v.01		handeln oder tauschen
 PWN:basket.n.01		Korb
+PWN:basketball.n.01		Basketball
 PWN:bat.n.01		Fledermaus
 PWN:bathe.v.01		baden
 PWN:battery.n.02		Batterie
 PWN:battle-ax.n.01		Streitaxt
 PWN:battle.n.01		Krieg; Schlacht, Kampf, Gefecht
 PWN:bay.n.01		Bucht
+PWN:be.v.01		sein
 PWN:be.v.03		sein
 PWN:be.v.11		aam Leben, lebendig sein
 PWN:be_born.v.01		geboren werden
@@ -184,10 +227,14 @@ PWN:begin.v.03		beginnen, anfangen
 PWN:beginning.n.01		Anfang, Beginn
 PWN:believe.v.01		glauben
 PWN:belt.n.02		Gürtel
+PWN:bench.n.01		Bank
+PWN:bench.n.01		Sitzbank
+PWN:berry.n.01		Beere
 PWN:beverage.n.01		Getränk
 PWN:bicycle.n.01		Fahrrad
 PWN:big_brother.n.02		älterer Bruder
 PWN:big_sister.n.01		ältere Schwester
+PWN:bilingual.s.01		zweisprachig (bilingual
 PWN:bill.n.02		Rechnung
 PWN:billy.n.02		Ziegenbock
 PWN:birch.n.02		Birke
@@ -206,6 +253,9 @@ PWN:blister.n.03		Blase
 PWN:blood.n.01		Blut
 PWN:blow.v.02		blasen, wehen
 PWN:blue.s.01		blau
+PWN:bluish_green.s.01		blagrün
+PWN:bluish_green.s.01		türkis
+PWN:bluish_green.s.01		zyan
 PWN:blunt.s.02		stumpf
 PWN:board.n.02		Brett
 PWN:boast.v.01		prahlen, sich rühmen
@@ -216,7 +266,10 @@ PWN:body_louse.n.01		Körperlaus
 PWN:boil.n.01		Eiterbeule, Furunkel, Schwäre
 PWN:boil.v.01		kochen
 PWN:boisterous.s.03		rau
+PWN:bolshevik.n.02 		Bolschewist
+PWN:bolshevism.n.01		Bolschewismus
 PWN:bolt.n.03		Riegel
+PWN:bomb.n.01		Bombe
 PWN:bomb.n.01		Bombe; Sprengstoff
 PWN:bone.n.01		Knochen
 PWN:book.n.01		Buch
@@ -243,31 +296,40 @@ PWN:break.v.05		zerbrechen
 PWN:breakfast.n.01		Frühstück
 PWN:breast.n.02		Brust
 PWN:breathe.v.01		Atem
+PWN:brick.n.01		Ziegel
 PWN:brick.n.01		Ziegel, Ziegelstein, Backstein
 PWN:bridge.n.01		Brücke
 PWN:bright.a.01		hell, glänzend
 PWN:bring.v.01		bringen, holen
 PWN:bring_around.v.02		heilen
+PWN:broccoli.n.01		Brokkoli
 PWN:broken.s.11		kaputt
 PWN:broom.n.01		Besen
 PWN:brother.n.01		Bruder
 PWN:brow.n.01		Stirn
+PWN:brown.s.01		braun
 PWN:bruise.n.01		blauer Fleck, Bluterguss
 PWN:brush.n.02		Bürste
 PWN:bull.n.01		Stier oder Bulle
 PWN:bumble.v.03		stottern, stammeln
 PWN:bunch.n.01		Bund
+PWN:bundle.n.02		Bündel
 PWN:burn.v.03		brennen
 PWN:burn.v.07		verbrennen
 PWN:bury.v.02		beerdigen, begraben, bestatten
 PWN:bus.n.01		Bus
+PWN:butane.n.01		Butan
 PWN:butter.n.01		Butter
 PWN:butter_knife.n.01		Messer
 PWN:butterfly.n.01		Schmetterling
 PWN:buttocks.n.01		Hintern, Gesäß
 PWN:button.n.01		Knopf
+PWN:butyl.n.01		Butyl
 PWN:buy.v.01		kaufen
+PWN:cabbage.n.01		Kohl
 PWN:cadaver.n.01		Leiche, Leichnam
+PWN:caftan.n.02		Kaftan
+PWN:caftan.n.02		Robe
 PWN:calendar.n.03		Kalender
 PWN:calendar_month.n.01		Monat
 PWN:calf.n.01		Kalb
@@ -284,28 +346,44 @@ PWN:cap.n.01		Hut; Mütze
 PWN:cape.n.01		Kap
 PWN:car.n.01		Auto
 PWN:carcase.n.01		Kadaver
+PWN:cardboard.n.01		Karton
+PWN:cardboard.n.01		Pappe
 PWN:caribou.n.01		Rentier, Karibu
 PWN:carpenter.n.01		Zimmermann
+PWN:carrot.n.01		Möhre
 PWN:carve.v.01		aushauen, ausmeißeln
+PWN:cashew.n.01		Kaschu
 PWN:cassava.n.02		Maniok
 PWN:cast.v.07		formen, bilden
 PWN:cast.v.07		gießen
 PWN:cat.n.01		Katze
+PWN:catastrophe.n.02		Desaster
 PWN:catch.v.04		fangen
+PWN:cathode.n.01 		Kathode
+PWN:cathode.n.01 		Minuspol
+PWN:cation.n.01 		Kation
 PWN:cattle.n.01		Rind
+PWN:cauliflower.n.01		Blumenkohl
 PWN:cause.n.01		Ursache, Grund
 PWN:cave.n.01		Höhle
+PWN:cemetery.n.01		Nekropole
+PWN:cemetery.n.01		Totenstadt
 PWN:center.n.01		Mitte, Zentrum
+PWN:certain.a.02		gewiss
+PWN:certain.a.02		sicher
 PWN:certain.a.03		sicher, gewiss
 PWN:cerumen.n.01		Ohrenschmalz
+PWN:chain.n.01		Kette
 PWN:chain.n.03		Kette
 PWN:chair.n.01		Stuhl
 PWN:chameleon.n.03		Chamäleon
 PWN:change.v.01		verändern, wechseln, vertauschen
 PWN:charcoal.n.01		Holzkohle
 PWN:cheap.a.01		billig
+PWN:check.n.01		Scheck
 PWN:cheek.n.01		Wange
 PWN:cheese.n.01		Käse
+PWN:chestnut.n.02		Kastanie
 PWN:chew.v.01		kauen
 PWN:chicken.n.02		Huhn
 PWN:child.n.01		Kind
@@ -317,6 +395,8 @@ PWN:chisel.n.01		Meißel
 PWN:choke.v.04		zum Ersticken bringen
 PWN:choose.v.01		wählen, auswählen
 PWN:chop.v.01		hacken
+PWN:chronology.n.01		Chronologie
+PWN:chronology.n.01		Zeitordnung
 PWN:church.n.02		Kirche
 PWN:cigarette.n.01		Zigarette
 PWN:circle.n.03		Kreis
@@ -324,9 +404,12 @@ PWN:circumcision.n.03		Beschneidung
 PWN:citizen.n.01		Bürger; Untertan
 PWN:citizenry.n.01		Bevölkerung, Volk
 PWN:citrus.n.01		Zitrusfrucht
+PWN:city.n.01		Metropole
 PWN:clavicle.n.01		Schlüsselbein
 PWN:claw.n.01		Klaue, Kralle
 PWN:clay.n.01		Ton, Lehm
+PWN:clean.a.01		rein
+PWN:clean.a.01		sauber
 PWN:clean.a.01		sauber, rein
 PWN:clear.a.01		klar, deutlich
 PWN:cleave.v.01		spalten
@@ -335,6 +418,7 @@ PWN:cloak.n.02		Mantel, Umhang
 PWN:clock.n.01		Uhr
 PWN:close.v.01		schließen, zumachen
 PWN:cloud.n.02		Wolke
+PWN:club.n.02		Klub
 PWN:club.n.03		Keule
 PWN:coat.n.01		(Geh)Rock, Jacke, Mantel
 PWN:cobbler.n.01		Schuhmacher, Schuster
@@ -350,12 +434,16 @@ PWN:color.n.01		Farbe
 PWN:colt.n.01		Fohlen
 PWN:comb.n.01		Kamm
 PWN:commiseration.n.01		Erbarmen, Mitleid
+PWN:committee.n.01		comité
+PWN:committee.n.01		commission
 PWN:common_eel.n.01		Flussaal
 PWN:complete.v.01		beenden, vollenden
+PWN:complex.a.01		kompliziert
 PWN:conceive.v.03		schwanger werden
 PWN:cone.n.03		Zapfen
 PWN:conserve.v.02		bewahren, erhalten
 PWN:construct.v.01		bauen
+PWN:contend.v.06		Krieg
 PWN:contend.v.06		kämpfen
 PWN:conventicle.n.02		Versammlungshaus
 PWN:convict.v.01		überführen
@@ -363,15 +451,20 @@ PWN:cook.v.02		kochen
 PWN:cooked.a.01		gekocht
 PWN:cookhouse.n.02		Küche, Küchengebäude
 PWN:copper.n.01		Kupfer
+PWN:coriander.n.01		Koriander
 PWN:cormorant.n.01		Kormoran
 PWN:corn.n.01		Mais
 PWN:corner.n.03		Ecke, Winkel
 PWN:cornet.n.01		Horn, Trompete
+PWN:correct.a.01		korrekt
+PWN:correct.a.01		richtig
 PWN:correctly.r.01		richtig
 PWN:cotton.n.02		Baumwolle
+PWN:cotton.n.03		Baumwolle
 PWN:cough.v.01		husten
 PWN:count.v.01		zählen
 PWN:country.n.02		Land
+PWN:couple.n.04		Duo
 PWN:court.n.08		Gericht
 PWN:court.n.10		Hof
 PWN:cousin.n.01		Cousin oder Cousine
@@ -381,18 +474,23 @@ PWN:coyote.n.01		Koyote
 PWN:crawl.v.01		kriechen, schleichen
 PWN:crime.n.01		Verbrechen
 PWN:crippled.s.01		lahm
+PWN:crisis.n.01		Krise
 PWN:crisscross.n.01		Kreuz
 PWN:crooked.a.01		krumm
 PWN:crow.n.01		Krähe
 PWN:crowd.n.01		Menge
 PWN:cry.v.02		weinen
+PWN:cuckoo.n.02		Kuckuck
 PWN:cultivate.v.02		bebauen, beackern, kultivieren
 PWN:cup.n.01		Tasse, Becher
+PWN:currency.n.01		Währung
 PWN:curse.v.03		verfluchen, verwünschen
+PWN:curtain.n.01		Vorhang
 PWN:custom.n.01		Sitte, Brauch
 PWN:cut.v.01		durchschneiden
 PWN:damage.v.01		beschädigen
 PWN:dance.v.02		tanzen
+PWN:dancing.n.01 		Tanz
 PWN:dandruff.n.02		Schuppen
 PWN:danger.n.01		Gefahr
 PWN:dare.v.02		wagen
@@ -412,14 +510,21 @@ PWN:deer.n.01		Hirsch
 PWN:defeat.n.01		Niederlage
 PWN:defend.v.03		verteidigen
 PWN:defendant.n.01		Beklagter, Angeklagter
+PWN:defunct.s.01		erloschen
 PWN:deity.n.01		Gott
+PWN:democracy.n.01		Demokratie
+PWN:democratic.s.03		Volks-
+PWN:democratic.s.03		populär
 PWN:deny.v.04		abstreiten, leugnen
+PWN:depopulate.v.01		entvölkern
 PWN:depository_financial_institution.n.01		Bank
 PWN:descend.v.01		hinuntergehen
 PWN:descendants.n.01		Nachkommen, Abkömmlinge, Nachfahren
 PWN:desire.v.01		wünschen, begehren, verlangen
 PWN:destroy.v.02		zerstören
+PWN:devil.n.02		Dämon
 PWN:devil.n.02		Dämon, Unhold
+PWN:devil.n.02		Teufel
 PWN:dew.n.01		Tau
 PWN:die.v.01		sterben
 PWN:difficult.a.01		schwierig, schwer
@@ -430,12 +535,14 @@ PWN:dirty.a.01		schmutzig
 PWN:disappear.v.01		verschwinden
 PWN:disease.n.01		Krankheit
 PWN:dish.n.01		Schüssel
+PWN:diskette.n.01		Diskette
 PWN:ditch.n.01		Graben
 PWN:dive.v.03		tauchen
 PWN:divide.v.01		teilen
 PWN:divorce.n.01		(Ehe)Scheidung
 PWN:doctor.n.01		Arzt
 PWN:dog.n.01		Hund
+PWN:doll.n.01		Puppe
 PWN:dolphin.n.02		Delphin oder Schweinswal
 PWN:domestic_ass.n.01		Esel
 PWN:domestic_fowl.n.01		Geflügel
@@ -458,6 +565,7 @@ PWN:drum.n.01		Trommel
 PWN:dry.a.01		trocken
 PWN:duck.n.01		Ente
 PWN:dumb.s.04		stumm
+PWN:durian.n.01		Durian
 PWN:dust.n.01		Staub
 PWN:dye.v.01		färben
 PWN:eagle.n.01		Adler
@@ -469,10 +577,13 @@ PWN:earring.n.01		Ohrring
 PWN:earthquake.n.01		Erdbeben
 PWN:east.n.01		Osten
 PWN:eat.v.01		essen
+PWN:eat.v.01		essen oder trinken
 PWN:edge.n.06		Kante, Rand
 PWN:egg.n.02		Ei
 PWN:egg_yolk.n.01		Eigelb, Dotter
 PWN:eight.s.01		acht
+PWN:elastic.a.01		dehnbar
+PWN:elastic.a.01		elastisch
 PWN:elbow.n.01		Ellbogen
 PWN:election.n.01		Wahl
 PWN:electricity.n.02		Strom
@@ -486,17 +597,27 @@ PWN:ember.n.01		Glut
 PWN:embrace.v.02		umarmen
 PWN:empty.a.01		leer
 PWN:enchantress.n.02		Zauberer, Zauberin; Hexe
+PWN:end.n.03		Ende
 PWN:end.n.03		Ende, Schluss
+PWN:end.n.03		Schluss
 PWN:end.n.09		Ende
 PWN:end.v.01		aufhören
+PWN:engineer.n.01		Ingenieur
 PWN:enough.r.01		genug
 PWN:enter.v.01		hineingehen, eintreten
 PWN:entirely.r.02		einzig
 PWN:envy.n.01		Neid, Missgunst, Eifersucht
+PWN:erotic.s.01		erotish
 PWN:estimate.v.01		raten
+PWN:ethane.n.01		Ethan
+PWN:ethyl.n.01		Ethyl
+PWN:ethyl_alcohol.n.01		Ethanol
+PWN:euphoria.n.01		Euphorie
 PWN:evening.n.01		Abend
 PWN:ewe.n.03		Mutterschaf
+PWN:exchange.v.01		umtauschen
 PWN:exclaim.v.01		schreien, rufen
+PWN:exempt.a.01		frei
 PWN:exit.v.01		hinausgehen
 PWN:exit.v.01		weggehen
 PWN:expensive.a.01		teuer
@@ -531,6 +652,7 @@ PWN:fault.n.06		Schuld
 PWN:faulty.s.02		falsch
 PWN:fear.n.01		Angst, Furcht
 PWN:feather.n.01		Feder
+PWN:fecal_matter.n.01		Kacke
 PWN:feel.v.09		fühlen, tasten
 PWN:felt.n.01		Filz
 PWN:female.a.01		weiblich
@@ -561,7 +683,11 @@ PWN:fishhook.n.01		Angelhaken
 PWN:fishing_line.n.01		Angelschnur
 PWN:fishnet.n.01		Fischernetz
 PWN:five.s.01		fünf
+PWN:flag.n.01		Fahn
+PWN:flag.n.01		Flagg
 PWN:flat.s.01		flach, platt
+PWN:flax.n.02		Flachs
+PWN:flax.n.02		Lein
 PWN:flay.v.01		häuten, schinden
 PWN:flea.n.01		Floh
 PWN:flee.v.01		fliehen
@@ -571,6 +697,7 @@ PWN:flip.v.06		werfen
 PWN:float.v.02		schwimmen, treiben
 PWN:floor.n.01		Fußboden, Boden
 PWN:flour.n.01		Mehl
+PWN:flow.n.01		Fluss
 PWN:flower.n.02		Blume
 PWN:flute.n.01		Flöte
 PWN:fly.n.01		Fliege
@@ -579,12 +706,14 @@ PWN:foam.n.01		Schaum
 PWN:foe.n.02		Feind
 PWN:fog.n.01		Nebel
 PWN:fold.v.01		falten
+PWN:folk.n.01		Volk
 PWN:follow.v.01		folgen
 PWN:following.s.02		nächster
 PWN:food.n.02		Essen
 PWN:foot.n.01		Fuß
 PWN:footprint.n.01		Fußabdruck
 PWN:forbid.v.01		verbieten, untersagen
+PWN:foreigner.n.01		Alien
 PWN:forest.n.01		Wald
 PWN:forge.v.01		schmieden
 PWN:forget.v.02		vergessen
@@ -592,6 +721,7 @@ PWN:forgive.v.01		verzeihen, vergeben
 PWN:fork.n.01		Gabel
 PWN:fork.n.03		Astgabel
 PWN:fortress.n.01		Festung
+PWN:four.s.01		4
 PWN:four.s.01		vier
 PWN:fox.n.01		Fuchs
 PWN:fragrant.a.01		wohlriechend
@@ -604,16 +734,23 @@ PWN:frog.n.01		Frosch
 PWN:fruit.n.01		Obst
 PWN:fry.v.02		braten
 PWN:full.a.01		voll
+PWN:function.n.01		Funktion
 PWN:fur.n.03		Pelz
 PWN:furrow.n.01		Furche
 PWN:gain.v.08		verdienen
+PWN:garden.n.01		Garten
 PWN:garden.n.03		Garten
+PWN:gate.n.01		Tür
 PWN:gate.n.01		Tür, Tor, Pforte
 PWN:gather.v.01		sammeln, lesen
+PWN:gesticulate.v.01		gestikulieren
 PWN:get.v.01		bekommen
 PWN:ghost.n.03		Gespenst
+PWN:gild.v.01		vergolden
 PWN:gill.n.04		Kieme
+PWN:ginger.n.01		Ingwer
 PWN:gingiva.n.01		Zahnfleisch
+PWN:girl.n.01		Mädchen
 PWN:girl.n.01		junges Mädchen oder junge Frau
 PWN:give.v.03		geben
 PWN:glass.n.01		Glas
@@ -627,10 +764,12 @@ PWN:gold.n.03		Gold
 PWN:good.a.01		gut
 PWN:good_fortune.n.01		Glück
 PWN:goose.n.01		Gans
+PWN:gospel.n.01		Evangelium
 PWN:gourd.n.03		Kalebasse
 PWN:govern.v.03		herrschen, regieren
 PWN:government.n.01		Regierung
 PWN:grain.n.08		Getreide
+PWN:gram.n.01		Gramm
 PWN:grandchild.n.01		Enkelkind
 PWN:granddaughter.n.01		Enkeltochter
 PWN:grandfather.n.01		Großvater
@@ -645,18 +784,26 @@ PWN:grasshopper.n.01		Heuschrecke, Grashüpfer
 PWN:grave.n.02		Grab
 PWN:green.a.03		unreif
 PWN:green.s.01		grün
+PWN:grey.s.01		grau
 PWN:grief.n.02		Trauer
 PWN:grind.v.05		mahlen, zermahlen
 PWN:groan.v.01		stöhnen, ächzen
+PWN:group.n.01		Gruppe
 PWN:grow.v.03		wachsen
+PWN:guarantee.n.01		Garantie
 PWN:guard.n.01		Wache, Wächter
+PWN:guard.n.01		bewachen
 PWN:guest.n.01		Gast
 PWN:guilty.a.01		schuldig
 PWN:gull.n.02		Möwe
 PWN:gun.n.01		Gewehr, Flinte; Kanone, Geschütz
+PWN:gunnysack.n.01 		Sack
+PWN:hair.n.01		Haar
 PWN:hammer.n.02		Hammer
 PWN:hammock.n.02		Hängematte
 PWN:hand.n.01		Hand
+PWN:handle.n.01		Griff
+PWN:handle.n.01		Henkel
 PWN:hang.v.02		aufhängen
 PWN:happy.a.01		froh, glücklich
 PWN:hard.a.03		hart
@@ -684,12 +831,17 @@ PWN:help.v.01		helfen
 PWN:hen.n.01		Henne
 PWN:herder.n.02		Hirte
 PWN:here.r.01		hier
+PWN:heroic.s.03		heroisch
 PWN:heron.n.02		Reiher
+PWN:hiccup.n.01		Schluckauf
 PWN:hiccup.v.01		Schluckauf haben
 PWN:hide.n.02		Haut oder Fell
 PWN:hide.v.01		verbergen, verstecken
 PWN:high_tide.n.01		Flut
 PWN:hill.n.01		Berg oder Hügel
+PWN:hint.n.01		Hinweis
+PWN:hint.n.01		Tipp
+PWN:hint.n.01		Wink
 PWN:hip.n.01		Hüfte
 PWN:hire.v.01		anstellen, einstellen
 PWN:hoe.n.01		Hacke
@@ -697,6 +849,8 @@ PWN:hog.n.03		Schwein
 PWN:hold.v.02		halten
 PWN:hole.n.01		Loch
 PWN:hollow.v.02		aushöhlen
+PWN:holocaust.n.01		Holocaust
+PWN:holography.n.01		Holografie
 PWN:holy.a.01		heilig
 PWN:honey.n.01		Honig
 PWN:hook.n.05		Haken
@@ -717,7 +871,10 @@ PWN:husband.n.01		(Ehe)Mann, (Ehe)Gatte
 PWN:husband.n.01		verheirateter Mann
 PWN:ice.n.01		Eis
 PWN:idea.n.01		Idee, Begriff, Vorstellung
+PWN:identical.s.01		identisch
 PWN:idol.n.01		Götze
+PWN:igloo.n.01		Iglu
+PWN:igloo.n.01		Schneehaus
 PWN:ignite.v.01		anzünden
 PWN:ill.a.01		krank
 PWN:imitate.v.01		imitieren, nachahmen
@@ -731,17 +888,23 @@ PWN:insect.n.01		Insekt
 PWN:instrument.n.02		Werkzeug
 PWN:intention.n.03		Absicht, Zweck
 PWN:intestine.n.01		Eingeweide
+PWN:intolerable.a.01		unerträglich
 PWN:intoxicated.a.01		betrunken
 PWN:invite.v.02		einladen
 PWN:iron.n.01		Eisen
+PWN:island.n.01		Eiland
 PWN:island.n.01		Insel
 PWN:itch.n.03		Jucken, Juckreiz
 PWN:jaguar.n.01		Jaguar
 PWN:jaw.n.01		Kiefer, Kinnbacken
+PWN:jersey.n.03		T-Shirt
+PWN:jew.n.01		Jude
 PWN:jewel.n.01		Juwel
 PWN:join.v.02		verbinden, zusammenfügen, vereinigen
 PWN:judge.n.01		Richter
 PWN:judgment.n.03		Urteil
+PWN:judo.n.01		Judo
+PWN:jujutsu.n.01		Jiu-Jitsu
 PWN:jump.v.01		springen
 PWN:kangaroo.n.01		Känguru
 PWN:keep.v.03		behalten
@@ -759,11 +922,18 @@ PWN:kneel.v.01		knien
 PWN:knife.n.01		Messer
 PWN:knot.n.02		Knoten
 PWN:know.v.01		wissen, kennen
+PWN:know.v.01 		wissen
+PWN:know.v.02		können
+PWN:know.v.04		kennen
 PWN:ladder.n.01		Leiter
 PWN:lagoon.n.01		Lagune
 PWN:lake.n.01		See
 PWN:lamb.n.01		Lamm
+PWN:lamp.n.01		Lampe
 PWN:land.n.02		Boden
+PWN:land.n.04		Boden
+PWN:land.n.04		Erde
+PWN:land.n.04		Grund
 PWN:land.n.04		Land
 PWN:land.v.06		landen
 PWN:language.n.01		Sprache
@@ -783,6 +953,7 @@ PWN:leather.n.01		Leder
 PWN:left.r.01		links
 PWN:leg.n.02		Bein
 PWN:lend.v.02		jemandem etwas leihen, borgen
+PWN:lens.n.01		Linse
 PWN:let_go_of.v.01		loslassen
 PWN:letter.n.01		Brief
 PWN:liberate.v.03		befreien
@@ -793,11 +964,13 @@ PWN:lie_down.v.01		sich hinlegen
 PWN:light.a.01		leicht
 PWN:light.a.06		hell
 PWN:lightning.n.01		Blitz
+PWN:limit.n.01		Grenze
 PWN:limp.v.01		hinken
 PWN:line.n.04		Reihe, Linie
 PWN:linen.n.01		Leinen
 PWN:lion.n.01		Löwe
 PWN:lip.n.01		Lippe
+PWN:list.n.01		Liste
 PWN:listen.v.01		zuhören, horchen, lauschen
 PWN:little_brother.n.01		jüngerer Bruder
 PWN:little_sister.n.01		jüngere Schwester
@@ -815,13 +988,16 @@ PWN:lord.n.03		Adlige(r), Edelmann
 PWN:lose.v.05		verlieren
 PWN:loudly.r.01		laut
 PWN:love.v.03		lieben
+PWN:lover.n.01		Liebhaber
 PWN:low.r.01		niedrig
 PWN:low_tide.n.01		Ebbe
 PWN:luminosity.n.01		Licht
 PWN:lunch.n.01		Mittagessen
 PWN:lung.n.01		Lunge
 PWN:machine.n.01		Maschine
+PWN:mafia.n.01		Mafia
 PWN:magic.n.01		Zauberei, Zauber, Hexerei
+PWN:magnet.n.01		Magnet
 PWN:mail.n.02		Post
 PWN:mainland.n.01		Festland
 PWN:make.v.49		pinkeln, pissen
@@ -845,14 +1021,18 @@ PWN:mead.n.03		Met
 PWN:meal.n.01		Mahlzeit
 PWN:measure.v.01		messen
 PWN:meat.n.01		Fleisch
+PWN:medicine.n.01		Heilkunde
+PWN:medicine.n.01		Medizin
 PWN:medicine.n.02		Arznei, Heilmittel, Medizin
 PWN:meet.v.09		begegnen, treffen
 PWN:merchant.n.01		Händler, Kaufmann
+PWN:metallic_element.n.01		Metall
 PWN:milk.n.01		Milch
 PWN:milk.v.01		melken
 PWN:mill.n.04		Mühle
 PWN:mind.n.01		Geist, Sinn
 PWN:minister.n.02		Minister
+PWN:mint.n.02		Minze
 PWN:mirror.n.01		Spiegel
 PWN:misfortune.n.02		Unglück
 PWN:miss.v.07		verfehlen
@@ -870,6 +1050,7 @@ PWN:mortar.n.03		Mörser
 PWN:mosque.n.01		Moschee
 PWN:mosquito.n.01		Mücke
 PWN:mother.n.01		Mutter
+PWN:motley.s.02		bunt
 PWN:motor.n.01		Motor, Triebwerk
 PWN:motorcycle.n.01		Motorrad
 PWN:mouth.n.01		Mund
@@ -880,21 +1061,29 @@ PWN:mud.n.01		Schlamm
 PWN:mule.n.01		Maultier
 PWN:mumble.v.01		murmeln, nuscheln
 PWN:murder.n.01		Mord
+PWN:muscle.n.01		Muskel
 PWN:mushroom.n.02		Pilz
 PWN:music.n.04		Musik
+PWN:mythology.n.02		Mythologie
+PWN:nail.n.01		Nagel
 PWN:nail.n.02		Nagel
 PWN:name.n.01		Name
 PWN:name.v.01		nennen, heißen
 PWN:nape.n.01		Nacken, Genick
 PWN:narrow.a.01		eng
+PWN:native.a.02 		gebürtig
+PWN:nature.n.01		Art
+PWN:nature.n.01		Natur
 PWN:navel.n.01		Nabel
 PWN:near.r.01		nah(e)
 PWN:necessity.n.01		Bedürfnis, Notwendigkeit
 PWN:neck.n.01		Hals
 PWN:necklace.n.01		Halsband, Halskette
 PWN:needle.n.03		Nadel
+PWN:negative.a.01		negativ
 PWN:neighbor.n.01		Nachbar
 PWN:nephew.n.01		Neffe
+PWN:nerve.n.01		Nerv
 PWN:nest.n.01		Nest
 PWN:nettle.n.01		Nessel
 PWN:never.r.01		nie, niemals
@@ -908,6 +1097,7 @@ PWN:nit.n.02		Nisse
 PWN:no.r.03		nein
 PWN:noise.n.01		Laut, Geräusch
 PWN:noon.n.01		Mittag
+PWN:north.n.03		Nord
 PWN:north.n.03		Norden
 PWN:nose.n.01		Nase
 PWN:nostril.n.01		Nasenloch, Nüster (horse)
@@ -936,6 +1126,7 @@ PWN:one-half.n.01		Hälfte
 PWN:one.s.01		eins
 PWN:open.v.01		öffnen, aufmachen
 PWN:opossum.n.02		Opossum (Beutelratte)
+PWN:order.v.01		Orgel
 PWN:order.v.01		befehlen
 PWN:orphan.n.01		Waisenkind
 PWN:other.a.01		andere
@@ -946,6 +1137,7 @@ PWN:owe.v.03		schulden
 PWN:owl.n.01		Eule
 PWN:own.v.01		besitzen
 PWN:ox.n.01		Ochse
+PWN:oxide.n.01		Oxid
 PWN:paddle.n.04		Paddel
 PWN:paddy.n.02		Reisfeld
 PWN:padlock.n.01		Vorhängeschloss
@@ -957,6 +1149,7 @@ PWN:palm.n.01		Handteller, Handfläche
 PWN:palm.n.03		Palme
 PWN:pan.n.01		Pfanne
 PWN:paper.n.01		Papier
+PWN:parent.n.01		Elter
 PWN:parent.n.01		Eltern
 PWN:parrot.n.01		Papagei
 PWN:part.n.02		Teil
@@ -967,42 +1160,67 @@ PWN:path.n.02		Pfad, Steig
 PWN:pay.v.01		(be)zahlen
 PWN:peace.n.01		Frieden
 PWN:peak.n.04		Spitze, Gipfel
+PWN:pear.n.01		Birne
 PWN:peg.n.01		Pflock
 PWN:pen.n.01		Feder
 PWN:penis.n.01		Penis
 PWN:pepper.n.03		Pfeffer
 PWN:perjury.n.01		Meineid
 PWN:permit.v.01		zulassen, erlauben, gestatten
+PWN:person.n.01		Mensch
 PWN:person.n.01		Mensch oder Person
 PWN:pestle.n.03		Stößel
 PWN:petroleum.n.01		Öl, Erdöl
+PWN:phenol.n.01		Phenol
+PWN:photograph.n.01		Foto
+PWN:photograph.n.01		Lichtbild
+PWN:phycology.n.01		Algenkunde
+PWN:phycology.n.01		Algologie
+PWN:phycology.n.01		Phykologie
+PWN:physics.n.01		Physik
 PWN:pick_up.v.02		aufsammeln
 PWN:pile_up.v.02		aufhäufen, aufschichten
 PWN:pill.n.02		Pille, Tablette
 PWN:pillow.n.01		Kissen
 PWN:pinch.v.01		kneifen
 PWN:pine.n.01		Kiefer
+PWN:pineapple.n.01		Ananas
 PWN:pipe.n.01		Pfeife
 PWN:piranha.n.02		Piranha
+PWN:piston.n.02		Kolben
 PWN:pitcher.n.02		Krug
 PWN:pitchfork.n.01		(Grabe)Gabel, Forke
+PWN:pizza.n.01		Pizza
 PWN:plain.n.01		Ebene
 PWN:plaintiff.n.01		(An)kläger
+PWN:plan.n.01		Plan
+PWN:plane.n.02		Platte
+PWN:planet.n.01		Planet
 PWN:plant.n.02		Pflanze
 PWN:plant.v.01		pflanzen
+PWN:plastic.n.01		Kunststoff
 PWN:plastic.n.01		Kunststoff, Plaste, Plastik
+PWN:plastic.n.01		Plast
 PWN:plate.n.04		Teller
+PWN:play.n.01		Drama
 PWN:play.v.05		spielen
+PWN:plot.n.01		Intrige
+PWN:plot.n.01		Kabale
+PWN:plot.n.01		Komplott
 PWN:plot.n.01		Verschwörung
 PWN:plow.v.01		pflügen
 PWN:pocket.n.01		Tasche, Hosentasche
 PWN:poet.n.01		Dichter, Poet
 PWN:pointed.a.01		spitz
 PWN:poison.n.01		Gift
+PWN:pole.n.01		Pol
 PWN:police.n.01		Polizei
+PWN:politician.n.01		Politiker
 PWN:poncho.n.01		Poncho
 PWN:poor.a.02		arm
+PWN:pop_music.n.01		Popmusik
 PWN:populate.v.01		wohnen
+PWN:populism.n.01		Populismus
 PWN:position.n.01		Stelle, Ort, Platz
 PWN:post.n.04		Pfahl
 PWN:postage.n.02		Briefmarke
@@ -1011,6 +1229,8 @@ PWN:pot.n.01		Topf
 PWN:potato.n.01		Kartoffel
 PWN:potter.n.01		Töpfer
 PWN:pour.v.01		gießen, schütten
+PWN:powder.n.01		Puder
+PWN:powder.n.01		Pulver
 PWN:praise.n.01		Lob, Preis
 PWN:prawn.n.01		Garnele
 PWN:pray.v.01		beten
@@ -1027,10 +1247,14 @@ PWN:prisoner.n.01		Gefangene(r), Häftling
 PWN:produce.v.02		tun
 PWN:promise.v.01		versprechen
 PWN:prostitute.n.01		Hure, Nutte, Prostituierte
+PWN:prototype.n.01		Prototyp
 PWN:proud.a.01		stolz
 PWN:pubic_hair.n.01		Schamhaar
 PWN:pull.v.01		ziehen
+PWN:pump.n.01		Pumpe
 PWN:punishment.n.01		Strafe
+PWN:purple.s.01		lila
+PWN:purple.s.01		violet
 PWN:pursue.v.02		verfolgen
 PWN:pus.n.02		Eiter
 PWN:push.v.01		stoßen, schieben
@@ -1041,6 +1265,7 @@ PWN:queen.n.02		Königin
 PWN:quiet.a.02		still, Stille, (ruhig, Ruhe)
 PWN:rabbit.n.01		Kaninchen
 PWN:raccoon.n.02		Waschbär
+PWN:radio.n.01		Radio
 PWN:radio_receiver.n.01		Radio
 PWN:raft.n.01		Floß
 PWN:rafter.n.01		Sparren
@@ -1066,6 +1291,7 @@ PWN:religion.n.02		Religion
 PWN:remainder.n.01		Reste
 PWN:remember.v.01		sich erinnern
 PWN:repent.v.02		bedauern, bereuen
+PWN:representative.n.01		Repräsentant (Vertreter
 PWN:rescue.v.01		retten
 PWN:rest.v.05		(sich) ausruhen
 PWN:rib.n.02		Rippe
@@ -1092,6 +1318,7 @@ PWN:rub.v.01		reiben
 PWN:rub.v.03		kratzen
 PWN:rudder.n.02		Steuerruder
 PWN:rug.n.01		Teppich
+PWN:run.v.01		rennen
 PWN:run.v.01		rennen, laufen
 PWN:run.v.06		fließen, rinnen
 PWN:rush.v.04		sich beeilen
@@ -1112,6 +1339,7 @@ PWN:saw.n.02		Säge
 PWN:scale.n.10		Schuppe
 PWN:scapula.n.01		Schulterblatt
 PWN:scar.n.01		Narbe
+PWN:scarf.n.01		Schal
 PWN:school.n.02		Schule
 PWN:scorpion.n.03		Skorpion
 PWN:scrape.v.01		kratzen, schaben, schürfen
@@ -1132,8 +1360,11 @@ PWN:send.v.01		schicken, senden
 PWN:sentence.v.01		verurteilen
 PWN:separate.v.02		trennen, (scheiden)
 PWN:servant.n.01		Diener
+PWN:sesame.n.01		Sesam
+PWN:set.n.05		Band
 PWN:seven.s.01		sieben
 PWN:sew.v.01		nähen
+PWN:shadow.n.01		Schatte
 PWN:shadow.n.01		Schatten
 PWN:shake.v.01		schütteln
 PWN:shallow.a.01		seicht, flach
@@ -1156,7 +1387,10 @@ PWN:short.a.02		kurz
 PWN:shoulder.n.01		Schulter
 PWN:shovel.n.01		Schaufel
 PWN:shriek.v.01		kreischen, schreien
+PWN:shrub.n.01		Busch
+PWN:shrub.n.01		Strauch
 PWN:shudder.v.02		zittern
+PWN:sibling.n.01		Geschwisterchen
 PWN:sibling.n.01		Geschwisterkind
 PWN:side.n.01		Seite
 PWN:sift.v.02		(durch)sieben, passieren
@@ -1170,6 +1404,7 @@ PWN:sink.v.01		sinken
 PWN:sister.n.01		Schwester
 PWN:sit_down.v.01		sitzen
 PWN:six.s.01		sechs
+PWN:ski.n.01		Ski
 PWN:skin.v.04		schälen, pellen
 PWN:skirt.n.02		Rock
 PWN:skull.n.01		Schädel
@@ -1177,14 +1412,19 @@ PWN:sky.n.01		Himmel
 PWN:slash.v.01		fällen
 PWN:slave.n.01		Sklave
 PWN:sled.n.01		Schlitten
+PWN:sleep.n.01		Schlaf
 PWN:sleep.v.01		schlafen
+PWN:sleep_together.v.01		bumsen
+PWN:sleep_together.v.01		ficken
 PWN:sleep_together.v.01		schlafen (mit)
 PWN:sling.n.04		Schleuder
+PWN:slipper.n.01		Pantoffel
 PWN:slowly.r.01		langsam
 PWN:small.a.01		klein
 PWN:smell.v.01		riechen
 PWN:smell.v.02		riechen
 PWN:smile.v.01		lächeln
+PWN:smoke.n.01		Rauch
 PWN:smoke.n.02		Rauch
 PWN:smoke.v.01		rauchen
 PWN:smooth.a.01		glatt
@@ -1199,7 +1439,11 @@ PWN:snow.n.01		Schnee
 PWN:snowshoe.n.01		Schneeschuh
 PWN:snuff_out.v.02		löschen
 PWN:soap.n.01		Seife
+PWN:social.a.01		sozial
+PWN:sofa.n.01		Sofa
 PWN:soft.a.01		weich
+PWN:solar_energy.n.01		Sonnenenergie
+PWN:solar_system.n.01		Sonnensystem
 PWN:soldier.n.01		Soldat
 PWN:some.a.01		einige
 PWN:sometimes.r.01		manchmal, bisweilen
@@ -1221,6 +1465,7 @@ PWN:spectacles.n.01		Brille
 PWN:spider.n.01		Spinne
 PWN:spider_web.n.02		Spinnennetz, Spinnwebe
 PWN:spin.v.06		spinnen
+PWN:spinach.n.01		Spinat
 PWN:spinal_column.n.01		Wirbelsäule, Rückgrat
 PWN:spindle.n.04		Spindel
 PWN:spit.v.01		spucken
@@ -1233,6 +1478,9 @@ PWN:squash.n.02		Kürbis
 PWN:squat.v.01		hocken
 PWN:squeeze.v.02		quetschen, wringen
 PWN:squirrel.n.01		Eichhörnchen
+PWN:stabilize.v.01		stabilisieren
+PWN:stable.s.04		stabil
+PWN:stairs.n.01		Treppe
 PWN:stall.n.01		Stall
 PWN:stallion.n.01		Hengst
 PWN:stand.v.01		stehen
@@ -1250,6 +1498,8 @@ PWN:stingy.a.01		geizig, knauserig
 PWN:stocking.n.01		(Knie)Strumpf, Socke
 PWN:stomach.n.01		Magen
 PWN:stool.v.04		scheißen
+PWN:stop.v.01		halten
+PWN:stop.v.01		stoppen
 PWN:storm.n.01		Sturm
 PWN:stove.n.01		Ofen
 PWN:straight.a.02		gerade
@@ -1262,10 +1512,13 @@ PWN:strong.a.01		stark, mächtig, kräftig
 PWN:student.n.01		Schüler
 PWN:study.v.05		studieren
 PWN:stump.n.01		Baumstumpf, Stubben
+PWN:stupid.a.01		Thema
 PWN:stupid.a.01		dumm, blöd, töricht, närrisch, albern
 PWN:suck.v.01		saugen
 PWN:sugar.n.01		Zucker
 PWN:sugarcane.n.01		Zuckerrohr
+PWN:sulfide.n.01		Sulfid
+PWN:sum.n.02		Summe
 PWN:summer.n.01		Sommer
 PWN:sun.n.01		Sonne
 PWN:sunday.n.01		Sonntag
@@ -1279,17 +1532,22 @@ PWN:sweat.v.01		schwitzen
 PWN:sweep.v.06		fegen, kehren
 PWN:sweet.a.01		süß
 PWN:sweet.n.03		Süßigkeiten
+PWN:sweet_potato.n.02		Batate
 PWN:sweet_potato.n.02		Süßkartoffel
 PWN:swelling.n.01		Beule, Schwellung
 PWN:swim.v.01		schwimmen
 PWN:swing_around.v.01		drehen
 PWN:sword.n.01		Schwert
+PWN:sympathy.n.02		Empathie
+PWN:sympathy.n.02		Mitgefühl
 PWN:table.n.02		Tisch
 PWN:tail.n.01		Schwanz
 PWN:tailor.n.01		Schneider
 PWN:take.v.04		nehmen
 PWN:tall.a.01		groß, hoch
+PWN:tampon.n.01		Tampon
 PWN:tan.v.01		gerben
+PWN:tank.n.01		Panzer
 PWN:tapir.n.01		Tapir
 PWN:taste.v.02		schmecken
 PWN:tattoo.n.02		Tätowierung
@@ -1297,6 +1555,7 @@ PWN:tax.n.01		Steuer
 PWN:tea.n.01		Tee
 PWN:teach.v.01		lehren, unterrichten, beibringen
 PWN:teacher.n.01		Lehrer
+PWN:team.n.01		Team
 PWN:tear.n.01		Träne
 PWN:tear.v.01		reißen, zerreißen
 PWN:telephone.n.01		Telefon
@@ -1307,14 +1566,20 @@ PWN:temple.n.02		Schläfen
 PWN:ten.s.01		zehn
 PWN:tendon.n.01		Sehne
 PWN:tent.n.01		Zelt
+PWN:tepee.n.01		Tipi
 PWN:termite.n.01		Termiten
 PWN:testis.n.01		Hoden
+PWN:thank.v.01		danken
 PWN:thatch.n.02		Strohdach
+PWN:theory.n.01		Theorie
 PWN:there.r.01		dort
+PWN:thesis.n.01		These
 PWN:thick.a.01		dick
 PWN:thief.n.01		Dieb
 PWN:thigh.n.01		Oberschenkel
 PWN:thin.a.01		dünn
+PWN:thing.n.09		Ding
+PWN:thing.n.09		Sache
 PWN:thing.n.12		Ding
 PWN:think.v.02		meinen, denken, glauben
 PWN:think.v.03		(nach)denken
@@ -1338,6 +1603,9 @@ PWN:thursday.n.01		Donnerstag
 PWN:tick.n.02		Zecke
 PWN:tide.n.01		Gezeiten
 PWN:tie.v.01		binden
+PWN:tile.n.01		Dachziegel
+PWN:tile.n.01		Kachel
+PWN:time.n.01		Mal
 PWN:time.n.05		Zeit
 PWN:tin_plate.n.01		Zinn, Blech
 PWN:tired.a.01		müde
@@ -1348,6 +1616,7 @@ PWN:toilet.n.01		Toilette
 PWN:tomorrow.r.01		morgen
 PWN:tongs.n.01		Zange
 PWN:tongue.n.01		Zunge
+PWN:tonicity.n.01		Tonus
 PWN:tooth.n.01		Zahn
 PWN:torch.n.01		Lampe
 PWN:toucan.n.01		Tukan
@@ -1355,6 +1624,7 @@ PWN:touch.v.01		berühren
 PWN:towel.n.01		Handtuch
 PWN:tower.n.01		Turm
 PWN:town.n.01		Stadt
+PWN:train.n.01		Zug
 PWN:train.n.01		Zug, Eisenbahn
 PWN:transport.v.02		tragen
 PWN:trap.n.01		Falle
@@ -1364,9 +1634,11 @@ PWN:tree.n.01		Baum
 PWN:trouser.n.01		Hose
 PWN:true.a.01		wahr
 PWN:trunk.n.01		Baumstamm
+PWN:truth.n.01		Wahrheit
 PWN:try.v.01		versuchen
 PWN:tuesday.n.01		Dienstag
 PWN:turn.v.04		wenden, umdrehen
+PWN:turnip.n.01		Speiserübe
 PWN:turtle.n.02		Schildkröte
 PWN:twelve.s.01		zwölf
 PWN:twenty.s.01		zwanzig
@@ -1379,8 +1651,13 @@ PWN:ugly.a.01		hässlich
 PWN:uncle.n.01		Onkel
 PWN:understand.v.01		verstehen, begreifen
 PWN:unfold.v.04		ausbreiten, streuen
+PWN:union.n.04		Union
+PWN:union.n.04		Verein
 PWN:untie.v.01		losbinden
 PWN:up.r.01		hinauf, herauf
+PWN:urban.a.01		städtisch
+PWN:urban.a.01		urban
+PWN:urine.n.01		Pisse
 PWN:uterus.n.01		Mutterleib, Gebärmutter
 PWN:vagina.n.01		Scheide
 PWN:valley.n.01		Tal
@@ -1390,6 +1667,8 @@ PWN:village.n.02		Dorf
 PWN:vine.n.01		Weinstock, Rebe
 PWN:voice.n.02		Stimme
 PWN:vomit.v.01		brechen, sich erbrechen
+PWN:vote.n.01		Stimme
+PWN:vote.n.01		Votum
 PWN:vulva.n.01		Muschi
 PWN:wages.n.01		Lohn, Gehalt, Bezahlung
 PWN:wagon.n.01		Wagen, Karre(n)
@@ -1403,6 +1682,7 @@ PWN:wash.v.03		waschen
 PWN:wasp.n.02		Wespe
 PWN:water.n.06		Wasser
 PWN:waterfall.n.01		Wasserfall
+PWN:watermelon.n.01		Wassermelone
 PWN:wave.n.01		Welle
 PWN:weak.a.01		schwach
 PWN:weapon.n.01		Waffen
@@ -1414,6 +1694,7 @@ PWN:week.n.01		Woche
 PWN:weigh.v.01		wiegen
 PWN:well.n.01		Quelle oder Brunnen
 PWN:west.n.02		Westen
+PWN:wet.a.01		feucht
 PWN:wet.a.01		nass
 PWN:whale.n.02		Wal
 PWN:wheat.n.01		Weizen
@@ -1460,4 +1741,6 @@ PWN:yesterday.r.01		gestern
 PWN:yoke.n.05		Joch
 PWN:young.a.01		jung
 PWN:young_buck.n.01		junger Mann
+PWN:yurt.n.01 		Jurte
+PWN:zebra.n.01		Zebra
 PWN:zero.s.01		Null

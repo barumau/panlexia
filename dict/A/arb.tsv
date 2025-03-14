@@ -1,6 +1,8 @@
 id	style	word	pronunciation
 PLX:1PL.pro		نحن	naħnu
+PLX:1PL.pro		نَحْنُ	
 PLX:1SG.pro		أنا	anaː
+PLX:1SG.pro		أَنَا‎	
 PLX:2PL.pro		أنتم	antum
 PLX:2PL.pro		أنتن	antuna
 PLX:2SG.pro		أنت	anti
@@ -15,16 +17,22 @@ PLX:behind.pp		وراء	waraːʔa
 PLX:beside.pp		بجانب	bid͡ʒaːnib
 PLX:beside.pp		جنب	d͡ʒamba
 PLX:can.v		استطاع	istatˤaːʕa
+PLX:can.v		عَرَفَ‎	
 PLX:can.v		قدر	qadira
 PLX:die (from accident).V		هلك	halaka
 PLX:everywhere.pro		في كل مكان	fiː kulː makaːn
 PLX:fermented alcohol.n		كحول	
 PLX:from here.adv		من هنا	min hunaː
+PLX:from.pp		مِن	
 PLX:get sick.V		مرض	marɨdˤɑ
+PLX:hello.int  		سَلَام	
 PLX:how many.pro		كم	kam
 PLX:how.pro		كيف	kaifa
+PLX:if.cnj		إن	
 PLX:in front of.pp		أمام	amaːma
 PLX:or.cnj		أو	aw
+PLX:tennessine.n		ٲنون سيبتيوم	
+PLX:thanks.int		شُكْرًا	
 PLX:that.pro		ذلك	ðaːlika
 PLX:this.pro		هذا	haːðaː
 PLX:under.pp		تحت	taħta
@@ -33,6 +41,7 @@ PLX:where.pro		أين	ajna
 PLX:where_to.pro		إلى أين	ilaː ʔaina
 PLX:who.pro		من	man
 PLX:why.pro		لماذا	limaːðaː
+PLX:yes.ptcl		نَعَم‎	
 PWN:abandon.v.01		أقلع عن	
 PWN:abandon.v.01		تخلى	
 PWN:abandon.v.01		تخلّى عن	
@@ -103,6 +112,7 @@ PWN:about-face.n.02		تغْيِيْر عكْسِي
 PWN:about-face.n.02		تغْيِيْر كامِل	
 PWN:about-face.n.02		عكْس	
 PWN:about-face.n.02		عُدُول عن	
+PWN:about.r.07		تَقْرِيبًا	
 PWN:above.r.02		أعْلى	
 PWN:above.r.02		فوق	fauq
 PWN:above.r.02		فوْق	
@@ -324,6 +334,8 @@ PWN:access.n.03		مدْخِل
 PWN:access.v.01		حصل على	
 PWN:access.v.01		وَصَلَ إِلَى	
 PWN:accident.n.01		حادِث	
+PWN:accident.n.01		شِقْوَة	
+PWN:accident.n.01		مُصِيبَة‎	
 PWN:accident.n.02		حدث مُفاجِئ	
 PWN:accident.n.02		صُدْفة	
 PWN:accident.n.02		مُصادفة	
@@ -511,6 +523,7 @@ PWN:act_involuntarily.v.01		تصرّف لاإِرادِيّا
 PWN:act_of_god.n.01		قضاء وقدر	
 PWN:act_of_god.n.01		قُوّة قاهِرة	
 PWN:acting.n.01		تمْثِيْل	
+PWN:actinium.n.01		اكتنيوم	
 PWN:action.n.01		أداء	
 PWN:action.n.01		إِجْراء	
 PWN:action.n.01		عمل	
@@ -557,6 +570,7 @@ PWN:address.n.02		عُنْوان
 PWN:address.n.03		حدِيث	
 PWN:address.n.03		خطبة	xutˤba
 PWN:address.n.03		خِطَاب	
+PWN:address.n.03		عِنْوَان‎	
 PWN:address.n.03		كلِمة	
 PWN:address.n.06		الإسْم والعُنْوان	
 PWN:address.n.06		عُنْوان	
@@ -1033,12 +1047,14 @@ PWN:agreement.n.03		اِئْتِلاف
 PWN:agreement.n.03		اِتِّفاق	
 PWN:agreement.n.03		توافُق	
 PWN:agreement.n.03		وِفَاق	
+PWN:agronomy.n.01		عِلْم الزِرَاعَة‎	
 PWN:ahead.r.03		إلى الأمام	ilaː lʔamaːm
 PWN:aid.n.02		عون	ʕaun
 PWN:aid.n.02		عوْن	
 PWN:aid.n.02		مساعدة	musaːʕada
 PWN:aid.n.02		معُوُنة	
 PWN:aid.n.02		مُساعدة	
+PWN:aid.n.02		مُسَاعَدَة‎	
 PWN:aid.n.02		مُعاونة	
 PWN:aid.n.03		عوْن مالِيّ	
 PWN:aid.n.03		معُونة	
@@ -1075,6 +1091,7 @@ PWN:aim.v.06		قصد
 PWN:aim.v.06		هدف	
 PWN:aim.v.06		وجه	
 PWN:air.n.01		هواء	hawaːʔ
+PWN:air.n.01		هوا‎	
 PWN:air.n.06		هواء	
 PWN:air_plant.n.01		نبات هوائِي	
 PWN:air_unit.n.01		وَحْدَة جَوِّيَّة	
@@ -1108,6 +1125,7 @@ PWN:allege.v.01		تذرع
 PWN:allege.v.01		زعم	
 PWN:allege.v.01		زَعَمَ	
 PWN:allege.v.01		قال	qaːla
+PWN:allergy.n.01		حَسَّاسِيَّة‎	
 PWN:alliance.n.01		اِتِّحاد	
 PWN:alliance.n.01		اِتِّحاد كُنْفِدْرالِيّ	
 PWN:alliance.n.01		تحالُف	
@@ -1151,6 +1169,7 @@ PWN:allow.v.06		منح
 PWN:alloy.n.01		أُشابة	
 PWN:alloy.n.01		خَلِيْطَة	
 PWN:alloy.n.01		سبِيْكة	
+PWN:almond.n.01		لَوْز	
 PWN:alone.r.02		وحده	waħdahu
 PWN:already.r.01		قد	qad
 PWN:alteration.n.02		تعْدِيل	
@@ -1158,6 +1177,7 @@ PWN:alteration.n.02		تغْيِير
 PWN:alteration.n.02		تكْيِيف	
 PWN:aluminum.n.01		ألومِنْيُوم	
 PWN:aluminum.n.01		العنصر الثالث عشر	
+PWN:aluminum.n.01		الومينيوم	
 PWN:always.r.01		دائما	daːʔiman
 PWN:ambition.n.01		حُلُم	
 PWN:ambition.n.01		طُمُوح	
@@ -1166,6 +1186,8 @@ PWN:ambition.n.02		طُمُوح
 PWN:ambulance.n.01		سيّارة إِسْعاف	
 PWN:ambush.n.01		فخّ	
 PWN:ambush.n.01		كمِين	
+PWN:american_football.n.01		كُرَة الْقَدَم الْأَمْرِيكِيَّة‎	
+PWN:americium.n.01		أمريكيوم	
 PWN:ammunition.n.01		ذخِيرة	
 PWN:ammunition.n.01		عتاد حرْبِي	
 PWN:amorphous_shape.n.01		شكْل عشْوائِي	
@@ -1294,6 +1316,7 @@ PWN:answer.n.01		جواب
 PWN:answer.n.01		ردّ	
 PWN:answer.v.01		أجاب	
 PWN:answer.v.01		استجاب	
+PWN:answer.v.01		جَوَاب‎	
 PWN:answer.v.01		رد	
 PWN:answer.v.01		رد على نار العدو	
 PWN:answer.v.01		ردّ	
@@ -1312,6 +1335,7 @@ PWN:antic.n.01		خِدْعَة
 PWN:antic.n.01		مزْحة	
 PWN:anticipation.n.01		توقُّع	
 PWN:anticipation.n.01		حدْس	
+PWN:antimony.n.01		انتيمون	
 PWN:anvil.n.01		سِنْدان	
 PWN:anxiety.n.02		توتُّر	
 PWN:anxiety.n.02		قلق	
@@ -1349,6 +1373,7 @@ PWN:appendage.n.03		اِضافة
 PWN:appendage.n.03		لاحِقة	
 PWN:appendage.n.03		مُلْحق	
 PWN:apple.n.01		تفاح	tufaːħ
+PWN:apple.n.01		تُفَّاح‎	
 PWN:apple.n.01		تُفّاح	
 PWN:application.n.01		تطْبِيق	
 PWN:application.n.01		تطْبِيق عملِي	
@@ -1427,6 +1452,7 @@ PWN:area.n.06		مستوى
 PWN:area.n.06		مِساحة	
 PWN:area.n.06		مِنْطقة	
 PWN:area_unit.n.01		وَحْدَة مَسَاحَة	
+PWN:argon.n.01		أرجون	
 PWN:argument.n.01		إِفادة	
 PWN:argument.n.01		بُرْهان	
 PWN:argument.n.01		حُجّة	
@@ -1592,6 +1618,7 @@ PWN:arrow.n.02		نبْل
 PWN:arrow.n.02		نبْل	
 PWN:arrow.n.02		نُشّابة	
 PWN:arrow.n.02		نُشّابة	
+PWN:arsenic.n.02		زرنيخ	
 PWN:arsenic.n.02		زَرْنيخ	
 PWN:art.n.01		فنّ	
 PWN:art.n.01		فُنُون جمِيلة	
@@ -1647,6 +1674,7 @@ PWN:ask.v.01		اِسْتخْبر
 PWN:ask.v.01		اِسْتعْلم	
 PWN:ask.v.01		اِسْتفْسر	
 PWN:ask.v.01		سأل	
+PWN:ask.v.01		سأل‎	
 PWN:ask.v.02		رجا	rad͡ʒaː
 PWN:ask.v.02		سأل	
 PWN:ask.v.02		طلب	
@@ -1739,10 +1767,12 @@ PWN:assume.v.01		قدر
 PWN:assumption.n.02		اِفْتِراض	
 PWN:assurance.n.01		ثِقَة	
 PWN:assurance.n.01		ثِقَة بالنَفْس	
+PWN:astatine.n.01		استاتين	
 PWN:astonishment.n.01		دهْشة	
 PWN:astronomer.n.01		العالِم الفلكِي	
 PWN:astronomer.n.01		العالِم الفَلَكِي	
 PWN:astronomer.n.01		فلكِيّ	
+PWN:astronomy.n.01		عِلْم اَلْفَلَك‎	
 PWN:asymmetry.n.01		لاتماثُل	
 PWN:asymmetry.n.01		لاتناسُق	
 PWN:asymmetry.n.01		لاتناظُر	
@@ -1879,6 +1909,7 @@ PWN:authorize.v.01		واثق
 PWN:authorize.v.01		وثب	
 PWN:autonomy.n.01		حُرِّيّة	
 PWN:autonomy.n.01		حُكْم ذاتِيّ	
+PWN:avocado.n.01		أَفُوكَادُو‎	
 PWN:avoid.v.01		أبطل	
 PWN:avoid.v.01		ألغى	
 PWN:avoid.v.01		اِبْتعد عن	
@@ -1917,6 +1948,7 @@ PWN:awareness.n.01		معْرِفة
 PWN:awareness.n.01		وَعْي	
 PWN:ax.n.01		فأْس	
 PWN:baby.n.01		رضِيع	
+PWN:baby.n.01		رَضِيع	
 PWN:baby.n.01		طفل	
 PWN:baby.n.01		طِفْل	
 PWN:baby.n.01		طِفْل رضِيع	
@@ -1936,6 +1968,7 @@ PWN:backing.n.01		مُساندة
 PWN:bad.a.01		سيء	sajːiʔ
 PWN:bag.n.01		حقِيْبة	
 PWN:bag.n.01		شنطة	ʃantˤɑ
+PWN:bag.n.01		كيس	
 PWN:bag.n.01		كِيْس	
 PWN:bag.n.01		محفظة	maħfɑdˤɑ
 PWN:bake.v.02		خبز	xabaza
@@ -1959,12 +1992,14 @@ PWN:balance.v.02		رصد الحِساب
 PWN:balcony.n.02		بلكُون	
 PWN:balcony.n.02		شُرْفة	
 PWN:ball.n.01		كُرة	
+PWN:ball.n.01 		كورة	
 PWN:ball.n.03		جسم كروي	
 PWN:ball.n.03		كُرة	
 PWN:ball.n.06		كُرة	
 PWN:ball.n.08		كتْلة	
 PWN:ball.n.08		كُرة	
 PWN:ball.n.10		كُرة	
+PWN:bamboo.n.01		خَيْزَرَان	
 PWN:banana.n.02		موْز	
 PWN:band.n.02		فِرْقَة	
 PWN:band.n.07		حِزام	
@@ -1994,6 +2029,7 @@ PWN:bare.s.01		عار	ʕaːrin
 PWN:barge.n.01		برْج	
 PWN:barge.n.01		سفِيْنة مُسطّحة	
 PWN:barium.n.01		البارْيوم	
+PWN:barium.n.01		باريوم	
 PWN:bark.n.01		قشرة	qiʃra
 PWN:bark.v.01		أعلن بصوت عال	
 PWN:bark.v.01		سعل	
@@ -2011,6 +2047,7 @@ PWN:barrier.n.01		حاجِز
 PWN:barrier.n.01		سدّ	
 PWN:barroom.n.01		بار	
 PWN:barroom.n.01		حانة	
+PWN:barroom.n.01		خَانَة‎	
 PWN:barroom.n.01		خَمَّارَة	
 PWN:base.n.01		قاعِدة	
 PWN:base.n.08		قاعِدة	
@@ -2043,6 +2080,7 @@ PWN:bathroom.n.01		حمّام
 PWN:bathtub.n.01		حوْض	
 PWN:bathtub.n.01		حوْض اِسْتِحْمام	
 PWN:battery.n.02		بطّاريّة (بطّتريّة)	
+PWN:battery.n.02		بَطَّارِيَّة	
 PWN:battle-ax.n.01		فأْس حرْب	
 PWN:battle.n.01		اِشْتِباك	
 PWN:battle.n.01		اِشْتِباك	
@@ -2104,6 +2142,7 @@ PWN:beacon.n.03		منارة
 PWN:bean.n.01		فصوليا (فاصوليا)	
 PWN:bear.n.01		دب	dubː
 PWN:bear.n.01		دُب	
+PWN:bear.n.01		دُبَّة‎	
 PWN:bear.v.04		أطاق	
 PWN:bear.v.04		أعطى	
 PWN:bear.v.04		أنتج	
@@ -2235,6 +2274,7 @@ PWN:beat.v.15		خَفَقَ
 PWN:beat.v.15		رفْرف	
 PWN:beautiful.a.01		جميل	d͡ʒamiːl
 PWN:beautiful.a.01		جمِيل	
+PWN:beautiful.a.01		جَمِيل	
 PWN:beauty.n.01		جمال	
 PWN:beauty.n.01		حُسْن	
 PWN:beauty.n.01		روْنق	
@@ -2257,6 +2297,7 @@ PWN:bed.n.01		سرِير
 PWN:bedroom.n.01		غرفة نوم	
 PWN:bee.n.01		نحلة	
 PWN:bee.n.01		نحْلة	
+PWN:beer.n.01		بيرة	
 PWN:beer.n.01		بِيرة	
 PWN:beer.n.01		جعة	
 PWN:beer.n.01		جِعة	
@@ -2445,7 +2486,10 @@ PWN:bequeath.v.01		هجر
 PWN:bequeath.v.01		ورث	
 PWN:bequeath.v.01		وصى بوصية	
 PWN:bequeath.v.01		وَصَّى	
+PWN:berkelium.n.01		بركليوم	
+PWN:berry.n.01		توت	
 PWN:berry.n.01		حبة	ħabːa
+PWN:beryllium.n.01		بيريليوم	
 PWN:besiege.v.01		حاصر	
 PWN:besiege.v.01		ضرب الحِصار	
 PWN:besiege.v.01		طوق	
@@ -2551,16 +2595,20 @@ PWN:biology.n.01		عِلْم الأحْياء
 PWN:biota.n.01		أَحْياء بِيئَة	
 PWN:biota.n.01		بَيُوتا	
 PWN:biota.n.01		كائِنات مَنْطِقَة	
+PWN:birch.n.02		بَتُولَا‎	
 PWN:birch.n.02		قضبان	qudˤbaːn
 PWN:bird.n.01		طائِر	
 PWN:bird.n.01		طير	tˤɑir
 PWN:bird.n.01		طيْر	
+PWN:bird.n.01		طَائِر‎	
 PWN:birth.n.01		وِلادَة	
 PWN:birth.n.02		موْلِد	
 PWN:birth.n.02		وِلادَة	
 PWN:birthplace.n.01		محلّ المِيلاد	
 PWN:birthplace.n.01		مسْقط الرأس	
 PWN:birthplace.n.01		مكان المِيلاد	
+PWN:bismuth.n.01		بزموث	
+PWN:bison.n.01		بِيسُون‎	
 PWN:bite.v.01		عض	ʕɑdˤːɑ
 PWN:bite.v.01		عضّ	
 PWN:bitter.s.06		مر	murː
@@ -2643,6 +2691,7 @@ PWN:blow.v.09		أسْرف
 PWN:blow.v.09		بذّر	
 PWN:blow_out.v.01		اِحْترق	
 PWN:blue.s.01		أزرق	azraqu
+PWN:blue.s.01		أَزْرَق	
 PWN:blunder.n.01		خَطَأ فَاضح	
 PWN:blunder.n.01		غلْطة شنِيْعة	
 PWN:blunt.s.02		ثالم	θaːlim
@@ -2684,6 +2733,7 @@ PWN:body_part.n.01		طرف
 PWN:body_part.n.01		عُضْو	
 PWN:body_part.n.01		عُضْو مِن جِسْم	
 PWN:body_substance.n.01		مادّة الجِسْم	
+PWN:bohrium.n.01		بوريوم	
 PWN:boil.v.01		غلى	ɣalaː
 PWN:boil.v.03		اهتاج	
 PWN:boil.v.03		سلق	
@@ -2736,6 +2786,7 @@ PWN:boom.v.05		تقدّم
 PWN:boom.v.05		نجح	
 PWN:boom.v.05		نما	
 PWN:boomerang.n.01		بمرنغ	
+PWN:boomerang.n.01		بُومَرَانْغ	
 PWN:boot.n.01		جزمة	d͡ʒazma
 PWN:boot.n.01		حذاء طويل	ħiðaːʔ tˤɑwiːl
 PWN:boot.n.01		حِذاء طوِيل	
@@ -2746,6 +2797,7 @@ PWN:boring.s.01		ممل
 PWN:boron.n.01		البور	
 PWN:boron.n.01		البُورُون	
 PWN:boron.n.01		العُنْصُرُ الخامِس	
+PWN:boron.n.01		بورون	
 PWN:borrow.v.01		إِسْتعار	
 PWN:borrow.v.01		إِسْتعار	
 PWN:borrow.v.01		اِسْتلف	
@@ -2762,6 +2814,7 @@ PWN:botch.v.01		عمل بطريقة خرقاء
 PWN:botch.v.01		فسد	
 PWN:botch.v.01		يخطيء	
 PWN:bottle.n.01		زُجَاجَة	
+PWN:bottle.n.01		زُجَاجَة‎	
 PWN:bottle.n.01		قارُوْرة	
 PWN:bottle.n.01		قنينة	
 PWN:bottle.n.01		قِنِّيْنة	
@@ -2797,6 +2850,7 @@ PWN:bow.n.05		قوْس
 PWN:bow.v.01		اِنْحنى	
 PWN:bow.v.01		ركع	
 PWN:bowl.n.01		زبديّة	
+PWN:bowl.n.01		طَاس	
 PWN:bowl.n.08		بِيْبة	
 PWN:bowl.n.08		تجْوِيف	
 PWN:bowl.n.08		تجْوِيف الْبِيْبة	
@@ -2811,6 +2865,7 @@ PWN:box.n.07		مقْصُورة
 PWN:boxing.n.01		مُلاكمة	
 PWN:bracket.n.01		صنْف	
 PWN:brain.n.01		دماغ	dimaːɣ
+PWN:brain.n.01		دِمَاغ‎	
 PWN:brain.n.02		دِماغ	
 PWN:brain.n.02		ذكاء	
 PWN:brain.n.02		قُدْرة ذِهْنِيّة	
@@ -3024,6 +3079,7 @@ PWN:breeding.n.04		ترْبِية
 PWN:brew.n.01		شراب مُخمّر	
 PWN:bribe.v.01		رشا	
 PWN:brick.n.01		طابوق	
+PWN:brick.n.01		طُوبَة‎	
 PWN:bridge.n.01		جسر	d͡ʒisr
 PWN:bridge.n.01		جِسْر	
 PWN:bridge.n.01		قنْطرة	
@@ -3116,8 +3172,10 @@ PWN:broach.v.01		فتح الحدِيْث عن
 PWN:broach.v.01		فتح الموضوع	
 PWN:broadcast.n.02		برْنامج	
 PWN:broadcast.n.02		برْنامج إذاعِي	
+PWN:broccoli.n.01		بْرُوكُلِي‎	
 PWN:bromine.n.01		البروم	
 PWN:bromine.n.01		العُنْصُرُ الخامِسُ والثلاثُون	
+PWN:bromine.n.01		بروم	
 PWN:bromine.n.01		برُوم	
 PWN:brook.n.01		مجرى	mad͡ʒran
 PWN:broom.n.01		مكنسة	miknasa
@@ -3138,7 +3196,9 @@ PWN:brow.n.01		جبِين
 PWN:brow.n.01		جبْهة	
 PWN:brow.n.01		حاجِب	
 PWN:brown.s.01		بني	
+PWN:brown.s.01		بُنِّيّ	
 PWN:brush.n.02		فُرْشاة	
+PWN:brush.n.02		فُرْشَاة‎	
 PWN:brush.n.06		اِخْتِصام	
 PWN:brush.n.06		اِشْتِباك	
 PWN:brush.n.06		مُصادمة	
@@ -3299,6 +3359,7 @@ PWN:butcher.v.01		سفك الدم ظلما
 PWN:butcher.v.01		نحر	
 PWN:butter.n.01		زبدة	zubda
 PWN:butter.n.01		زُبْدَة	
+PWN:butter.n.01		زُبْدَة‎	
 PWN:butterfly.n.01		فراشة	faraːʃa
 PWN:buttock.n.01		رِدْف	
 PWN:buttock.n.01		عُجْز	
@@ -3324,11 +3385,16 @@ PWN:cab.n.02		عربة يجُرُّها حِصان
 PWN:cab.n.02		كابريوليت	
 PWN:cab.n.03		تاكْسِي	
 PWN:cab.n.03		سيّارة أُجْرة	
+PWN:cabbage.n.01		كُرُنْب‎	
+PWN:cadaver.n.01		جُثَّة	
 PWN:cadaver.n.01		جُثّة	
 PWN:cadaver.n.01		جُثْمان	
 PWN:cadaver.n.01		رُفاة	
+PWN:cadmium.n.01		كادميوم	
+PWN:caftan.n.02		جُبَّة	
 PWN:cake.n.03		كعك	
 PWN:calcium.n.01		كالْسيُوم	
+PWN:calcium.n.01		كلسيوم	
 PWN:calculate.v.01		أحصى	
 PWN:calculate.v.01		أضاف	
 PWN:calculate.v.01		اتكل	
@@ -3341,6 +3407,7 @@ PWN:calculate.v.01		تعمد
 PWN:calculate.v.01		جرد حسابا	
 PWN:calculate.v.01		حسب	ħasaba
 PWN:calculate.v.01		حكم	
+PWN:calculate.v.01		حَسَبَ‎	
 PWN:calculate.v.01		زين	
 PWN:calculate.v.01		صفى حسابا	
 PWN:calculate.v.01		ظن	
@@ -3362,12 +3429,14 @@ PWN:calendar_month.n.01		شهر	ʃahr
 PWN:calendar_month.n.01		شهْر	
 PWN:calendar_month.n.01		شهْر شمْسِيّ	
 PWN:calendar_month.n.01		شهْر مِيلادِيّ	
+PWN:calendar_month.n.01		شَهْر‎	
 PWN:calendar_year.n.01		سنة شمْسِيّة	
 PWN:calendar_year.n.01		سنة مدنِيّة	
 PWN:calf.n.01		عجل	
 PWN:calf.n.01		عِجْل	
 PWN:calibration.n.01		ضبْط عِيار	
 PWN:calibration.n.01		مُعايرة	
+PWN:californium.n.01		كاليفورنيوم	
 PWN:call.n.09		طَلَب	
 PWN:call.v.03		اِتّصل	
 PWN:call.v.03		بعث رسالة بالتليفون	
@@ -3392,6 +3461,7 @@ PWN:calm.v.03		أهدأ
 PWN:calm.v.03		اسْتقرّ	
 PWN:calm.v.03		سكن	
 PWN:calm.v.03		هدأ	
+PWN:camel.n.01		جَمَل‎	
 PWN:camouflage.n.03		اداء تمْوِيه	
 PWN:camp.n.02		مُخيّم	
 PWN:camp.n.02		مُعسْكر	
@@ -3457,6 +3527,7 @@ PWN:car.n.02		عربة قِطار
 PWN:carbon.n.01		العُنْصُر السادِس	
 PWN:carbon.n.01		الكرْبُون	
 PWN:carbon.n.01		ك	
+PWN:carbon.n.01		كربون	
 PWN:carbon.n.01		كرْبُون	
 PWN:card.n.01		وَرَقَة الشَدَّة	
 PWN:card.n.01		وَرَقَة اللَّعِب	
@@ -3465,6 +3536,7 @@ PWN:card.n.08		بِطاقة
 PWN:card.n.08		بِطاقة تسْجِيل الأهْداف	
 PWN:card_game.n.01		لُعْبة الورق	
 PWN:card_game.n.01		وَرَق	
+PWN:cardboard.n.01		كَرْتُون	
 PWN:cardinal_compass_point.n.01		نُقْطة البوْصلة الرئِيسِيّة	
 PWN:care.n.01		اِهْتِمام	
 PWN:care.n.01		رِعاية	
@@ -3491,6 +3563,7 @@ PWN:cargo.n.01		شحْنة
 PWN:carnivore.n.01		آكِل اللَّحْم	
 PWN:carnivore.n.01		لاحِم	
 PWN:carriage.n.02		عربة	
+PWN:carrot.n.01		جزر‎	
 PWN:carry.v.02		أخذ	
 PWN:carry.v.02		استولى	
 PWN:carry.v.02		حمل	
@@ -3527,6 +3600,7 @@ PWN:case.n.11		حَالَة
 PWN:cash.n.01		عُمْلة صعْبة	
 PWN:cash.n.01		نقْد	
 PWN:cash.n.01		نُقُود معْدنِيّة	
+PWN:cashew.n.01		كَاجُو‎	
 PWN:cast.v.07		أطلق	
 PWN:cast.v.07		أطلق	
 PWN:cast.v.07		ألقى	
@@ -3765,6 +3839,7 @@ PWN:celestial_point.n.01		النُقْطة السماوِيّة
 PWN:celestial_sphere.n.01		القُبَّة الزَّرْقاء	
 PWN:celestial_sphere.n.01		سَمَاء	
 PWN:cell.n.02		خَلِيََّة	
+PWN:cemetery.n.01 		مقبرة‎	
 PWN:center.n.01		مرْكز	
 PWN:center.n.01		وسط	wasɑtˤ
 PWN:center.n.03		مرْكز	
@@ -3782,6 +3857,8 @@ PWN:ceremony.n.01		حفْلة
 PWN:ceremony.n.01		مراسِم	
 PWN:ceremony.n.03		مراسِم	
 PWN:cerium.n.01		السِّيريُوم	
+PWN:cerium.n.01		سيريوم	
+PWN:certain.a.02		أَمِين	
 PWN:certainty.n.01		ثبات	
 PWN:certainty.n.01		يَقِين	
 PWN:certainty.n.02		أمْر لا ريْب فِيه	
@@ -3789,6 +3866,8 @@ PWN:certainty.n.02		ثبات
 PWN:certainty.n.02		حقِيقة	
 PWN:certainty.n.02		شيْء مُؤكّد	
 PWN:certainty.n.02		يَقِين	
+PWN:cesium.n.01		سيزيوم	
+PWN:chain.n.01		سِلْسِلَة‎	
 PWN:chair.n.01		كرسي	kursiː
 PWN:chair.n.01		كُرْسِي	
 PWN:challenge.v.02		أوقف	
@@ -3953,6 +4032,7 @@ PWN:change_state.v.01		قلب
 PWN:change_state.v.01		لوى	
 PWN:change_surface.v.01		غيّر السطْح	
 PWN:channel.n.01		قَناة	
+PWN:chapter.n.01		(بَاب‎ فَصْل‎	
 PWN:chapter.n.01		فَصْل	
 PWN:character.n.03		شخْصِيّة	
 PWN:character.n.04		دَوْر	
@@ -4075,6 +4155,7 @@ PWN:cheat.v.01		غش
 PWN:cheat.v.01		غشّ	
 PWN:cheat.v.01		نحت	
 PWN:cheat.v.01		نقش	
+PWN:check.n.01		شِيك‎	
 PWN:check.n.06		تحقُّق	
 PWN:check.n.06		تدْقِيْق	
 PWN:check.n.06		فحْص	
@@ -4115,6 +4196,7 @@ PWN:cheer.v.04		إبْتهج
 PWN:cheer.v.04		فرِح	
 PWN:cheese.n.01		جبنة	
 PWN:cheese.n.01		جُبْن	
+PWN:cheetah.n.01		فَهْد‎	
 PWN:chemical.n.01		مادّة كِيماوِيّة	
 PWN:chemical.n.01		مادّة كِيْميائِيّة	
 PWN:chemical.n.01		مادّة كِيْمياوِيّة	
@@ -4131,6 +4213,7 @@ PWN:chess.n.02		لُعْبة الشّطْرنْج
 PWN:chess.n.02		لُعْبة الشِّطْرنْج	
 PWN:chest_of_drawers.n.01		خَزَانَة	
 PWN:chest_of_drawers.n.01		خَزَانَة أَدْرَاج	
+PWN:chestnut.n.02		كَسْتَنَاء‎	
 PWN:chew.v.01		عجن	
 PWN:chew.v.01		علك	
 PWN:chew.v.01		فكر مليا في	
@@ -4177,6 +4260,7 @@ PWN:chew_the_fat.v.01		نم
 PWN:chew_the_fat.v.01		هذر	
 PWN:chicken.n.02		دجاج	
 PWN:chicken.n.02		دجاجة	dad͡ʒaːd͡ʒa
+PWN:chicken.n.02		دَجَاجَة‎	
 PWN:child.n.01		حدث	
 PWN:child.n.01		رضِيع	
 PWN:child.n.01		صبِيّ	
@@ -4193,6 +4277,7 @@ PWN:chin.n.01		ذقْن
 PWN:china.n.01		الصّين الشُّيُوعِيّة	
 PWN:china.n.01		الصَّين الشُّيُوعِيَّة	
 PWN:china.n.01		الصِّين	
+PWN:china.n.01		اَلصِّين‎	
 PWN:china.n.01		جُمْهُورِيّة الصِّين الشّعْبِيّة	
 PWN:chip.v.01		تثلّم	
 PWN:chip.v.01		تدخل	
@@ -4209,6 +4294,7 @@ PWN:chip.v.05		شظّى
 PWN:chirp.n.01		شقْشقة	
 PWN:chlorine.n.01		العنصر السابع عشر	
 PWN:chlorine.n.01		الكلور	
+PWN:chlorine.n.01		كلور	
 PWN:chlorine.n.01		كلُور	
 PWN:chocolate.n.02		شُوكُولاتة	
 PWN:choice.n.01		اِخْتِيار	
@@ -4263,6 +4349,7 @@ PWN:christianity.n.01		دِيانَة نَصْرانِيَّة
 PWN:christianity.n.01		مَسِيحِيَّة	
 PWN:christianity.n.01		نَصْرانِيَّة	
 PWN:chromium.n.01		الكروم	
+PWN:chromium.n.01		كروم	
 PWN:church.n.01		كَنِيسَة	
 PWN:church.n.01		كَنِيسَة مَسِيحِيَّة	
 PWN:church.n.02		كنيسة	kaniːsa
@@ -4371,6 +4458,7 @@ PWN:clay.n.01		وَحْل
 PWN:clean.a.01		طاهِر	
 PWN:clean.a.01		نظيف	nɑdˤɨːf
 PWN:clean.a.01		نظِيف	
+PWN:clean.a.01		نَظِيف‎	
 PWN:clean.v.01		استنفد	
 PWN:clean.v.01		استهلك	
 PWN:clean.v.01		رتب	
@@ -4538,6 +4626,7 @@ PWN:coating.n.01		سِتْر
 PWN:coating.n.01		طبقة	
 PWN:coating.n.01		طِلاء	
 PWN:coating.n.01		غِطاء	
+PWN:cobalt.n.01		كوبلت	
 PWN:cock.n.04		ديك	diːk
 PWN:code.v.02		حظيرة	
 PWN:code.v.02		رمّز	
@@ -4573,6 +4662,7 @@ PWN:coerce.v.01		كره
 PWN:coevals.n.01		عصْر	
 PWN:coffee.n.01		قهوة	
 PWN:coffee.n.01		قهْوة	
+PWN:coffee.n.01		قَهْوَة	
 PWN:cognition.n.01		إِدْراك	
 PWN:cognition.n.01		معْرِفة	
 PWN:cognitive_factor.n.01		عامِل معْرِفِي	
@@ -4618,6 +4708,7 @@ PWN:collection.n.01		تَجْمِيع
 PWN:collection.n.01		تَخْزِين	
 PWN:collection.n.01		تَرَاكُم	
 PWN:collection.n.01		تَكْدِيس	
+PWN:collection.n.01		جَمَعَ‎	
 PWN:collection.n.01		جَمْع	
 PWN:collection.n.01		مَجْمُوعَة	
 PWN:collection.n.02		تَشْكِيلَة	
@@ -4642,6 +4733,7 @@ PWN:colony.n.01		مُسْتوْطنة
 PWN:color.a.01		مُلوّن	
 PWN:color.n.01		لوْن	
 PWN:color.n.01		لوْن	
+PWN:color.n.01		لَوْن	
 PWN:color.n.04		لَوْن	
 PWN:color.n.04		مُلَوَّنُون	
 PWN:color.v.04		خَضَّبَ	
@@ -4786,6 +4878,7 @@ PWN:commit.v.03		وَضَعَ
 PWN:commitment.n.04		اِلْتِزام	
 PWN:commitment.n.04		تعهُّد	
 PWN:committee.n.01		لجْنة	
+PWN:committee.n.01		কমিশন	
 PWN:committee.n.02		لجْنة	
 PWN:commodity.n.01		بِضاعة	
 PWN:commodity.n.01		سِلْعة	
@@ -4852,6 +4945,7 @@ PWN:companion.n.01		رفِيْق
 PWN:companion.n.01		زميل	zamiːl
 PWN:companion.n.01		زَمِيل	
 PWN:companion.n.01		صاْحِب	
+PWN:companion.n.01		صَاحِب	
 PWN:companion.n.01		صِنْو	
 PWN:companion.n.01		عشِيْر	
 PWN:companion.n.01		قرِيْن	
@@ -5365,6 +5459,7 @@ PWN:construct.v.01		هيأ
 PWN:construct.v.01		وصل	
 PWN:construction.n.01		اِنْشاء	
 PWN:construction.n.01		بِناء	
+PWN:construction.n.01 		بِنَاء‎	
 PWN:consult.v.01		استشار	
 PWN:consult.v.01		اسْتشار	
 PWN:consult.v.01		تبادل الرأي	
@@ -5697,6 +5792,7 @@ PWN:copper.n.01		الرقم الذرِّي 29
 PWN:copper.n.01		العنصر التاسع والعشرون	
 PWN:copper.n.01		النُّحاس	
 PWN:copper.n.01		نح	
+PWN:copper.n.01		نحاس	
 PWN:copper.n.01		نُحاس	
 PWN:copulate.v.01		أمات الشاه	
 PWN:copulate.v.01		إجتمع أزواجا	
@@ -5730,6 +5826,7 @@ PWN:copy.v.04		نقل
 PWN:copy.v.04		نقل أثناء الامتحان	
 PWN:cord.n.01		حبْل	
 PWN:cord.n.04		خَيْط	
+PWN:coriander.n.01		كُزْبَرَة‎	
 PWN:corn.n.01		حبوب الذرة	
 PWN:corner.n.03		ركن	rukn
 PWN:corner.n.03		رُكْن	
@@ -5794,6 +5891,7 @@ PWN:cotton.n.02		قطن
 PWN:cotton.n.02		قُماش قُطْنِي	
 PWN:cotton.n.02		قُمَاش قُطْنِي	
 PWN:cotton.n.02		نسِيج قُطْنِي	
+PWN:cotton.n.03		قُطُن‎	
 PWN:cotton.n.03		قُطْن	
 PWN:cotton.n.03		نبات القُطْن	
 PWN:cough.v.01		سعل	saʕala
@@ -6104,6 +6202,7 @@ PWN:crime.n.01		جريمة
 PWN:crime.n.01		جرِيمة	
 PWN:crime.n.01		جِناية	
 PWN:crisis.n.01		أزْمة	
+PWN:crisis.n.01		بُحْرَان	
 PWN:crisis.n.01		تأزُّم	
 PWN:crisis.n.02		أزْمة	
 PWN:crispen.v.01		تحمس	
@@ -6188,6 +6287,7 @@ PWN:cry.v.02		نز
 PWN:cry.v.02		نعب	
 PWN:crystal.n.01		بِلّوْر	
 PWN:crystallized.a.01		مُبلْور	
+PWN:cube.n.01		كَعْبَة	
 PWN:cube.n.05		كُثْلة مُربّعة	
 PWN:cube.n.05		مُكعّب	
 PWN:cuckoo.n.02		وقواق	waqwaːq
@@ -6210,6 +6310,7 @@ PWN:cup.n.01		كُوب
 PWN:curiosity.n.01		اشتياق	
 PWN:curiosity.n.01		حُبّ اِستِطْلاع	
 PWN:curiosity.n.01		فُضُول	
+PWN:curium.n.01		كوريوم	
 PWN:curl.v.04		جعّد	
 PWN:curl.v.04		لفّ	
 PWN:curl.v.04		موج	
@@ -6233,6 +6334,7 @@ PWN:curtain.n.01		حِجاب
 PWN:curtain.n.01		ستارة	
 PWN:curtain.n.01		سِتار	
 PWN:curtain.n.01		سِتارة	
+PWN:curtain.n.01		سِتَارَة‎	
 PWN:curtain.n.01		سِتْر	
 PWN:curtain.n.01		غِطاء	
 PWN:curvature.n.03		أود	
@@ -6278,6 +6380,7 @@ PWN:cut.v.01		قطعة
 PWN:cut.v.01		قلص	
 PWN:cut.v.01		قلم	
 PWN:cut.v.01		قناة	
+PWN:cut.v.01		مَضَغَ‎	
 PWN:cut.v.01		نقص	
 PWN:cut_off.v.03		بتر	
 PWN:cut_off.v.03		قطع	
@@ -6329,6 +6432,7 @@ PWN:dance_step.n.01		خُطْوَة
 PWN:dance_step.n.01		خُطْوَة رَاقِصَة	
 PWN:dancing.n.01		رقْص	
 PWN:danger.n.01		خطر	
+PWN:danger.n.01		خطر‎	
 PWN:danger.n.01		خَطَر	
 PWN:danger.n.01		خُطُورَة	
 PWN:danger.n.03		خَطَر	
@@ -6351,6 +6455,7 @@ PWN:darken.v.01		أظْلم
 PWN:darken.v.01		دكِن	
 PWN:darken.v.01		عتّم	
 PWN:darken.v.01		قتم	
+PWN:darmstadtium.n.01		دارمشتاتيوم	
 PWN:dart.v.02		أخذ صورة	
 PWN:dart.v.02		أصاب	
 PWN:dart.v.02		أطلق	
@@ -6416,8 +6521,10 @@ PWN:date.v.01		وَاعَدَ
 PWN:datum.n.01		حقِيقة	
 PWN:datum.n.01		معْلُومة	
 PWN:daub.v.03		نشر	
+PWN:daughter.n.01		bint	
 PWN:daughter.n.01		إبنة	ibna
 PWN:daughter.n.01		بنت	bint
+PWN:daughter.n.01		بِنْت‎	
 PWN:dawn.n.01		فجر	
 PWN:dawn.n.02		صُبْح	
 PWN:dawn.n.02		فجْر	
@@ -6435,6 +6542,7 @@ PWN:day.n.03		يَوْم
 PWN:day.n.05		أرْبعٌ و عِشْرُون ساعة	
 PWN:day.n.05		يَوْم	
 PWN:day.n.05		يَوْم شَمْسِيّ	
+PWN:day.n.05		يَوْم‎	
 PWN:day.n.06		أيّام	
 PWN:day.n.06		عصْر	
 PWN:day.n.06		يَوْم	
@@ -6722,6 +6830,7 @@ PWN:degree.n.02		مُسْتوى
 PWN:degree.n.02		نُقْطة	
 PWN:degree.n.06		درجة	
 PWN:deity.n.01		إله	ilah
+PWN:deity.n.01		إِلٰه	
 PWN:deity.n.01		الخالِق	
 PWN:deity.n.01		الرَّبّ	
 PWN:deity.n.01		الله	
@@ -6789,9 +6898,11 @@ PWN:demand.v.01		مطلوب
 PWN:demeanor.n.01		تصرُّف	
 PWN:demeanor.n.01		سُلُوك	
 PWN:demeanor.n.01		سِيْرة	
+PWN:democracy.n.01		ديمقراطية	
 PWN:democracy.n.02		جُمْهُورِيّة	
 PWN:democracy.n.02		نِظام دِيمُوقْراطِي	
 PWN:democracy.n.02		نِظام مُسْتقِلّ	
+PWN:democratic.s.03		محبوب‎	
 PWN:demonstration.n.05		إيضاح	
 PWN:demonstration.n.05		اِسْتِعْراض	
 PWN:demonstration.n.05		عرْض	
@@ -6928,6 +7039,7 @@ PWN:desire.n.01		رغْبة
 PWN:desire.n.01		شهوة	ʃahwa
 PWN:desire.v.01		أراد	araːda
 PWN:desire.v.01		أصبح فريسة الفاقة	
+PWN:desire.v.01		أَرَادَ	
 PWN:desire.v.01		احتاج	
 PWN:desire.v.01		اشتهى	
 PWN:desire.v.01		تاق	
@@ -7049,6 +7161,7 @@ PWN:deviation.n.01		تشعُّب
 PWN:device.n.01		جِهاز	
 PWN:device.n.02		صُورة	
 PWN:device.n.05		شِعار	
+PWN:devil.n.02		إِبْلِيس⁩	
 PWN:devil.n.02		شيطان	
 PWN:devolve.v.03		إنهار	
 PWN:devolve.v.03		انحدر	
@@ -7071,6 +7184,7 @@ PWN:devolve.v.03		نزل
 PWN:devolve.v.03		هبط النهر	
 PWN:devolve.v.03		وقع	
 PWN:dictate.v.02		أمْلى على	
+PWN:die.n.01		زَهْر اَلطَّاوِلَة	
 PWN:die.n.01		نرْد	
 PWN:die.v.01		أخمد	
 PWN:die.v.01		أدى	
@@ -7252,6 +7366,7 @@ PWN:dimension.n.01		بُعْد
 PWN:dimension.n.01		قِياس	
 PWN:dimensionality.n.01		بُعْد	
 PWN:dinner.n.01		عشاء	
+PWN:dinosaur.n.01		دِينَاصَوْر‎	
 PWN:diocese.n.01		أَبْرَشِيَّة	
 PWN:diocese.n.01		أُسْقُفِيَّة	
 PWN:diocese.n.01		مُطْرانِيَّة	
@@ -7275,6 +7390,7 @@ PWN:director.n.01		مُدِير
 PWN:director.n.01		مُدِير إِدارِي	
 PWN:dirt.n.02		وسخ	wasax
 PWN:dirty.a.01		قذر	qaðir
+PWN:dirty.a.01		قَذِر‎	
 PWN:dirty.v.01		أنْجس	
 PWN:dirty.v.01		اتسخ	
 PWN:dirty.v.01		تلوث	
@@ -7353,6 +7469,7 @@ PWN:disciple.n.01		حواْرِيّ
 PWN:disciple.n.01		مُرِيد	
 PWN:disciple.n.01		مُوالِي	
 PWN:disciple.n.01		نصِير	
+PWN:discipline.n.01		عِلْم	
 PWN:discipline.n.01		فرْع	
 PWN:discipline.n.01		موْضُوع	
 PWN:discipline.n.01		موْضُوع البحْث	
@@ -7741,6 +7858,7 @@ PWN:disturb.v.01		قلب
 PWN:disturb.v.01		كدر	
 PWN:disturb.v.01		كدّر	
 PWN:ditch.n.01		خَنْدَق	
+PWN:ditch.n.01		خَنْدَق‎	
 PWN:dive.v.03		غطس	ɣɑtˤɑsa
 PWN:diversion.n.01		إِسْتِجْمام	
 PWN:diversion.n.01		تسْلِية	
@@ -7830,6 +7948,7 @@ PWN:document.n.03		مُسْتند
 PWN:document.n.03		وَثِيقَة	
 PWN:dog.n.01		كلب	kalb
 PWN:dog.n.01		كلْب	
+PWN:dog.n.01		كَلْب‎	
 PWN:doll.n.01		دمية	dumja
 PWN:doll.n.01		دُمْية	
 PWN:dollar.n.01		دُوْلار	
@@ -7864,6 +7983,7 @@ PWN:double.v.04		قام بِدوْريْن
 PWN:double.v.04		قام بِعمليْن	
 PWN:double.v.04		قام بِوظِيفتيْن	
 PWN:double.v.04		كسر	
+PWN:doubt.n.01		: شَكَّ	
 PWN:doubt.n.01		إرْتِياب	
 PWN:doubt.n.01		ريْب	
 PWN:doubt.n.01		رِيبة	
@@ -8195,18 +8315,23 @@ PWN:drygoods.n.01		أقْمِشة
 PWN:drygoods.n.01		منْسُوجات	
 PWN:dryness.n.01		جفاف	
 PWN:dryness.n.01		قحْط	
+PWN:dubnium.n.01		دبنيوم	
 PWN:duck.n.01		بطة	batˤa
 PWN:duck.n.01		بطّ	
 PWN:duck.n.01		بطّة	
+PWN:duck.n.01		بَطَّة‎	
 PWN:due_process.n.01		طُرُق قانُونِيّة	
 PWN:due_process.n.01		قواعِد الإِجْراءات القانُونِيّة	
 PWN:durables.n.01		سِلَع مُعَمَّرَة	
 PWN:duration.n.01		أمد	
 PWN:duration.n.01		مُدّة	
+PWN:durian.n.01		دُرْيَان	
+PWN:dust.n.01		تُرَاب	
 PWN:dust.n.01		غبار	ɣubaːr
 PWN:dust.n.01		غبرة	
 PWN:dust.n.01		غُبار	
 PWN:duty.n.01		إِلْتِزام	
+PWN:duty.n.01		دين‎	
 PWN:duty.n.01		مسْئُولِيّة	
 PWN:duty.n.01		وَاجِب	
 PWN:duty.n.02		مُهِمّة	
@@ -8221,6 +8346,7 @@ PWN:dye.n.01		صِبْغ
 PWN:dye.n.01		صِبْغة	
 PWN:dye.v.01		صبغ	sˤɑbaɣa
 PWN:dye.v.01		لون	lawːana
+PWN:dysprosium.n.01		ديسبروسيوم	
 PWN:eagle.n.01		نسر	nisr
 PWN:ear.n.01		أذن	uðun
 PWN:ear.n.01		أذُن	
@@ -8229,6 +8355,7 @@ PWN:earlier.r.01		قبل ذلك	qabla ðaːlika
 PWN:earlier.r.01		من قبل	min qablu
 PWN:earn.v.02		جنى	
 PWN:earn.v.02		كسب	
+PWN:earth.n.01		الأرض	
 PWN:earth.n.01		الأرْض	
 PWN:earth.n.01		العالم	
 PWN:earth.n.01		الكوْن	
@@ -8332,6 +8459,7 @@ PWN:egypt.n.01		جُمْهُورِيّة مِصْر العربِيّة
 PWN:egypt.n.01		مِصْر	
 PWN:eight.s.01		ثمانية	θamaːniːa
 PWN:eighty.s.01		ثمانون	θamaːnuwn
+PWN:einsteinium.n.01		انيشتنيوم	
 PWN:eject.v.01		أبعد	
 PWN:eject.v.01		أبْعد	
 PWN:eject.v.01		أخرج	
@@ -8465,6 +8593,7 @@ PWN:elementary.s.01		سهل (غير حصين)
 PWN:elephant.n.01		فيل	
 PWN:elevation.n.03		اِرْتِفاع	
 PWN:eleven.s.01		أحد عشر	aħada ʕaʃar
+PWN:elf.n.01		آلْف	
 PWN:eliminate.v.03		أباد	
 PWN:eliminate.v.03		أزال	
 PWN:eliminate.v.03		أنْهى	
@@ -8516,6 +8645,7 @@ PWN:employment.n.02		شُغْل
 PWN:employment.n.02		عمل	ʕamal
 PWN:employment.n.02		وَظِيفَة	
 PWN:empty.a.01		خال	xaːlin
+PWN:empty.a.01		خَالٍ	
 PWN:empty.a.01		خَاوٍ	
 PWN:empty.a.01		فارغ	faːriɣ
 PWN:empty.a.01		فارِغ	
@@ -8672,6 +8802,7 @@ PWN:engine.n.01		مُحرِّك
 PWN:engineer.n.01		تِكْنُلُولُوجِي	
 PWN:engineer.n.01		عالِم تطْبِيقِي	
 PWN:engineer.n.01		مُهنْدِس	
+PWN:engineer.n.01		مُهَنْدِس‎	
 PWN:engineering.n.02		هنْدسة	
 PWN:enjoy.v.02		اِسْتفاد	
 PWN:enjoy.v.02		تمتّع	
@@ -8839,6 +8970,7 @@ PWN:era.n.01		عهْد
 PWN:erase.v.03		حذف	
 PWN:erase.v.03		محا	
 PWN:erase.v.03		مسح	
+PWN:erbium.n.01		إربيوم	
 PWN:erosion.n.01		تأكُل	
 PWN:erosion.n.01		تحات	
 PWN:erosion.n.01		تعْرِية	
@@ -8950,6 +9082,7 @@ PWN:ethical_motive.n.01		مبادِىء أخْلاقِيّة
 PWN:ethnic_group.n.01		مَجْمُوعَة اِثْنِيَّة	
 PWN:ethnic_group.n.01		مَجْمُوعَة عِرْقِيَّة	
 PWN:european.n.01		أورُبِّي	
+PWN:europium.n.01		يروبيوم	
 PWN:evaluate.v.02		حاكم	
 PWN:evaluate.v.02		حكم	
 PWN:evaluate.v.02		حكم على	
@@ -9413,6 +9546,7 @@ PWN:exuberate.v.01		مرح
 PWN:exuberate.v.01		ملك	
 PWN:exuberate.v.01		نجح	
 PWN:eye.n.01		عين	ʕain
+PWN:eye.n.01		عَيْن	
 PWN:eye.n.05		عيْن	
 PWN:eyebrow.n.01		حاجب	
 PWN:eyepatch.n.01		رُقْعة العيْن	
@@ -9620,8 +9754,10 @@ PWN:fastener.n.02		وَثَاق
 PWN:fat.n.01		دُهْن	
 PWN:fat.n.01		سمن	samn
 PWN:fat.n.01		شحْم	
+PWN:fat.n.01		شَحْم‎	
 PWN:father.n.01		أب	ab
 PWN:father.n.01		أبّ	
+PWN:father.n.01		أَب‎	
 PWN:father.n.01		مُنْجِب	
 PWN:father.n.01		وَالِد	
 PWN:fatten.v.01		أخصب	
@@ -9749,6 +9885,7 @@ PWN:fence.n.01		سياج	sijaːd͡ʒ
 PWN:fence.n.01		سِياج	
 PWN:fender.n.01		رفْرف	
 PWN:fender.n.01		رفْرف العجلة	
+PWN:fermium.n.01		فرميوم	
 PWN:ferry.n.01		عبّارة	
 PWN:ferry.n.01		مرْكب	
 PWN:ferry.n.01		مُعدِيّة	
@@ -9768,6 +9905,7 @@ PWN:fidget.v.01		تململ
 PWN:fidget.v.01		تملْمل	
 PWN:field.n.01		حقل	
 PWN:field.n.01		حقْل	
+PWN:field.n.01		مَيْدَان‎	
 PWN:field_game.n.01		لُعْبة ميْدانِيّة	
 PWN:fifty.s.01		خمسون	xamsuːn
 PWN:fight.n.02		شِجار	
@@ -9903,6 +10041,7 @@ PWN:fingernail.n.01		ظفر	dˤɨfr
 PWN:fir.n.02		تبوب	tabuwb
 PWN:fir.n.02		شوح	ʃuːħ
 PWN:fire.n.01		حرِيق	
+PWN:fire.n.01		نَار	
 PWN:fire.n.02		إِطْلاق	
 PWN:fire.n.02		إِطْلاق النّار	
 PWN:fire.n.02		نار	
@@ -10034,6 +10173,7 @@ PWN:flavorer.n.01		تَوْبَل
 PWN:flavorer.n.01		طَعْم	
 PWN:flavorer.n.01		مَادَّة مُنَكِّهَة	
 PWN:flavorer.n.01		نَكْهَة	
+PWN:flax.n.02		كَتَّان‎	
 PWN:flee.v.01		تلاشى	
 PWN:flee.v.01		شرد	
 PWN:flee.v.01		فر	
@@ -10041,6 +10181,7 @@ PWN:flee.v.01		فرّ
 PWN:flee.v.01		لاذ بالفِرار	
 PWN:flee.v.01		هرب	haraba
 PWN:fleet.n.04		أُسْطُول	
+PWN:fleeting.s.01		سَاعَة‎	
 PWN:flesh.n.01		لحم جسد	
 PWN:flex.v.05		أحنى	aħnaː
 PWN:flex.v.05		ثنى	θanaː
@@ -10173,6 +10314,7 @@ PWN:flower_gardening.n.01		بسْتنة
 PWN:flower_gardening.n.01		زِرَاعَة الزهُور	
 PWN:fluid.n.01		سائِل	
 PWN:fluid.n.02		سائِل	
+PWN:fluorine.n.01		فلور	
 PWN:fluorine.n.01		فُلُور	
 PWN:flush.v.04		سطّح	
 PWN:flush.v.04		سهّل	
@@ -10317,6 +10459,7 @@ PWN:forge.v.02		زَيَّفَ
 PWN:forge.v.02		قلّد	
 PWN:forget.v.02		نسي	nasija
 PWN:forget.v.02		نسِي	
+PWN:forget.v.02		نَسِيَ	
 PWN:forget.v.04		نسِي	
 PWN:forgive.v.01		سامح	
 PWN:forgive.v.01		صفح	
@@ -10343,6 +10486,7 @@ PWN:formation.n.01		تَشْكِيل
 PWN:formation.n.01		تَشْكِيلَة	
 PWN:formulation.n.01		صِيغة	
 PWN:formulation.n.01		صِيغة كِيميائِيّة	
+PWN:fortress.n.01		(بُرْج‎ قَلْعَة‎	
 PWN:fortress.n.01		حِصْن	
 PWN:fortress.n.01		قصر	
 PWN:fortress.n.01		قَلْعَة	
@@ -10361,9 +10505,11 @@ PWN:foundation.n.03		بُنْية تحْتِيّة
 PWN:foundation.n.03		قاعِدة	
 PWN:four.s.01		أربعة	arbaʕa
 PWN:fox.n.01		ثعلب	θaʕlab
+PWN:fox.n.01		ثَعْلَب	
 PWN:fracture.n.01		كسْر	
 PWN:framework.n.03		إِطار	
 PWN:framework.n.03		هيْكل	
+PWN:francium.n.01		فرنسيوم	
 PWN:free.a.01		حر	
 PWN:free.a.01		حُرّ	
 PWN:free_rein.n.01		إِطْلاق العِنان	
@@ -10417,6 +10563,7 @@ PWN:friend.n.01		رفِيق
 PWN:friend.n.01		صاحِب	
 PWN:friend.n.01		صديق	sˤɑdiːq
 PWN:friend.n.01		صدِيق	
+PWN:friend.n.01		صَاحِب‎	
 PWN:friendliness.n.01		أُلْفة	
 PWN:friendliness.n.01		وُدّ	
 PWN:friendship.n.01		أُلْفة	
@@ -10517,6 +10664,7 @@ PWN:fury.n.01		غضب
 PWN:fury.n.01		غيْظ	
 PWN:future.a.01		مُسْتقْبل	
 PWN:future.n.01		مُسْتقْبل	
+PWN:gadolinium.n.01		جدولينيوم	
 PWN:gain.n.04		رِبْح	
 PWN:gain.n.04		كسْب	
 PWN:gain.v.08		استأهل	
@@ -10537,6 +10685,7 @@ PWN:gain.v.09		اِكْتسب
 PWN:gain.v.09		زَادَ	
 PWN:gain.v.09		سمِن	
 PWN:galaxy.n.03		مجرّة	
+PWN:gallium.n.01		جاليوم	
 PWN:gamble.v.01		تأخذ فرصة	
 PWN:gamble.v.01		جازف	
 PWN:gamble.v.01		خاطر	
@@ -10632,6 +10781,7 @@ PWN:genealogy.n.01		شَجَرَة العائِلَة
 PWN:genealogy.n.01		عِلْم الأَنْسَاب	
 PWN:genealogy.n.01		نَسَب	
 PWN:genealogy.n.01		نَسَب العائِلَة	
+PWN:generous.a.01		كَرِيم‎	
 PWN:genitor.n.01		مُنْجِب	
 PWN:gentle.s.01		حليم	ħaliːm
 PWN:gentleman.n.01		رجُل نبِيل	
@@ -10644,6 +10794,7 @@ PWN:geographic_point.n.01		نُقْطَة جُغْرافِيَّة
 PWN:geographical_area.n.01		منْطِقة جُغْرافِيّة	
 PWN:geological_process.n.01		عملِيّة جِيُولُوجِيّة	
 PWN:geological_time.n.01		زَمَن جيولوجي	
+PWN:germanium.n.01		جرمانيوم	
 PWN:gestate.v.01		تخيّل	
 PWN:gestate.v.01		تصور	
 PWN:gestate.v.01		تصوّر	
@@ -10763,6 +10914,7 @@ PWN:ghost.n.03		شبح
 PWN:gift.n.01		هدية	hadiːja
 PWN:gift.n.01		هدِيّة	
 PWN:gift.n.01		هِبة	
+PWN:ginger.n.01		زَنْجَبِيل‎	
 PWN:girl.n.01		آنِسَة	
 PWN:girl.n.01		بِنْت	
 PWN:girl.n.01		شابّة	
@@ -10921,10 +11073,12 @@ PWN:golf_club.n.02		مضْرِب الْكُرة
 PWN:golf_club.n.02		هِراوة	
 PWN:golf_equipment.n.01		تجْهِزات الغُولف	
 PWN:good.a.01		جيد	d͡ʒajːid
+PWN:good.a.01		حَسَن	
 PWN:good_fortune.n.01		حظ	
 PWN:good_fortune.n.01		سعْد	
 PWN:good_fortune.n.01		يُمْن	
 PWN:goose.n.01		وزة	wazːa
+PWN:gospel.n.01		إنجيل	
 PWN:gossip.n.02		أِغتِياب	
 PWN:gossip.n.02		قِيل وقال	
 PWN:gossip.n.02		نمِيمة	
@@ -11032,6 +11186,7 @@ PWN:greeting.n.01		تحِيّة
 PWN:greeting.n.01		ترْحِيب	
 PWN:greeting.n.01		سلام	
 PWN:grey.s.01		رمادي	ramaːdiː
+PWN:grey.s.01		رَمَادِيّ	
 PWN:grief.n.01		حسْرة	
 PWN:grief.n.01		حُزْن	
 PWN:grief.n.01		غمّ	
@@ -11131,6 +11286,7 @@ PWN:grumble.n.02		تذمُّر
 PWN:grumble.n.02		تمْتمة	
 PWN:guarantee.n.01		ضمان	
 PWN:guarantee.n.01		ضمانة	
+PWN:guarantee.n.01		ضَمَان‎	
 PWN:guarantee.n.01		كفالة	
 PWN:guard.n.01		حارِس	
 PWN:guard.n.01		ناطُور	
@@ -11173,6 +11329,7 @@ PWN:gymnastic_apparatus.n.01		مُعَدَّات قَاعَة رِيَاضِيّ
 PWN:gymnastics.n.01		جُمْباز	
 PWN:gymnastics.n.01		رِياضة بدنِيّة	
 PWN:gymnastics.n.01		رِيَاضَة بَدَنِيَّة	
+PWN:habit.n.01		عادة	
 PWN:habit.n.02		تعوُّد	
 PWN:habit.n.02		طبْع	
 PWN:habit.n.02		عادة	
@@ -11183,6 +11340,7 @@ PWN:habituate.v.02		عود
 PWN:habituate.v.02		عوض على	
 PWN:habituate.v.02		عوّد	
 PWN:habituate.v.02		كافأ	
+PWN:hafnium.n.01		هفنيوم	
 PWN:hail.n.01		برد	
 PWN:hair.n.01		شعر	ʃaʕr
 PWN:hair.n.01		شعْر	
@@ -11193,6 +11351,7 @@ PWN:hall.n.03		صالة
 PWN:hall.n.13		صالة	
 PWN:hall.n.13		قاعة	
 PWN:hammer.n.02		مطرقة	
+PWN:hand.n.01		إيد	
 PWN:hand.n.01		كفّ	
 PWN:hand.n.01		يد	jad
 PWN:hand.n.01		يَد	
@@ -11420,6 +11579,7 @@ PWN:hash_out.v.01		تشاور
 PWN:hash_out.v.01		تناقش	
 PWN:hash_out.v.01		حاور	
 PWN:hash_out.v.01		ناقش	
+PWN:hassium.n.01		هاسيوم	
 PWN:haste.n.02		عجلة	
 PWN:hat.n.01		غِطاء الرّأْس	
 PWN:hat.n.01		قبّعة	
@@ -11503,12 +11663,14 @@ PWN:hay.n.01		دريس	dariːs
 PWN:hay.n.01		علف مُجفّف	
 PWN:head.n.01		رأس	raʔs
 PWN:head.n.01		رأْس	
+PWN:head.n.01		رَأْس	
 PWN:head.n.04		رئِيْس	
 PWN:head.n.04		زَعِيْم	
 PWN:head.n.04		شيْخ	
 PWN:head.n.04		عرِيْف	
 PWN:head.v.02		ترأّس	
 PWN:head.v.02		قاد	
+PWN:head_covering.n.01		حِجَاب	
 PWN:head_of_state.n.01		رئِيس الدّوْلة	
 PWN:headdress.n.01		غِطاء لِلْرأْس	
 PWN:headdress.n.01		غِطَاء لِلْرَأْس	
@@ -11570,6 +11732,7 @@ PWN:height.n.01		علو	ʕuluːw
 PWN:helicopter.n.01		حوّامة	
 PWN:helium.n.01		العُنصُر الثُاني	
 PWN:helium.n.01		هـ	
+PWN:helium.n.01		هيليوم	
 PWN:helium.n.01		هِلْيُوم	
 PWN:helium.n.01		هِيليُوم	
 PWN:hell.n.03		أسْفل سافِلِين	
@@ -11639,6 +11802,7 @@ PWN:hindrance.n.02		عَقَبَة
 PWN:hindrance.n.02		قَيْد	
 PWN:hinduism.n.01		هِنْدُوسِيّة	
 PWN:hip.n.01		ورك	
+PWN:hippopotamus.n.01		فَرَس نَهْر‎	
 PWN:hire.v.01		استأجر	
 PWN:hire.v.01		استخدم	
 PWN:hire.v.01		استعمل	
@@ -11874,6 +12038,7 @@ PWN:hole.n.02		ثُقْب
 PWN:hole.n.02		حُفْرة	
 PWN:holiday.n.02		عُطْلة	
 PWN:holiday.n.02		يَوْم عُطْلَة	
+PWN:holmium.n.01		هلميوم	
 PWN:holy.a.01		مقدّس	
 PWN:home.n.01		بيت	bajt
 PWN:home.n.01		بيْت	
@@ -11926,6 +12091,7 @@ PWN:horn.n.02		قرن	qarn
 PWN:horn.n.02		قرْن	
 PWN:horse.n.01		جواد	
 PWN:horse.n.01		حِصان	
+PWN:horse.n.01		حِصَان‎	
 PWN:horse.n.01		خيل	xail
 PWN:horse.n.01		فرس	
 PWN:horse_race.n.01		سِباقُ الخَيْل	
@@ -11954,6 +12120,7 @@ PWN:hot.a.01		ساخِن
 PWN:hotel.n.01		فُنْدُق	
 PWN:hotel.n.01		نُزْل	
 PWN:hour.n.01		ساعة	
+PWN:hour.n.01		سَاعَة	
 PWN:hour.n.02		توْقِيت	
 PWN:hour.n.02		وَقْت	
 PWN:hour.n.03		ساعة	
@@ -11984,6 +12151,7 @@ PWN:hum.v.01		همْهم
 PWN:hum.v.02		أزّ	
 PWN:hum.v.02		ضجّ	
 PWN:hum.v.02		طنّ	
+PWN:humanism.n.02		إِنْسَانِيَّة	
 PWN:humiliate.v.01		أخزى	
 PWN:humiliate.v.01		أذلّ	
 PWN:humiliate.v.01		أمات الجسد	
@@ -11998,6 +12166,7 @@ PWN:humiliate.v.01		غم
 PWN:humiliate.v.01		كبح الشهوة	
 PWN:humiliate.v.01		هزم على نحو حاسم	
 PWN:hundred.s.01		مئة	miʔa
+PWN:hundred.s.01		مِئَة	
 PWN:hunger.n.01		جوع	d͡ʒuːʕ
 PWN:hunger.n.01		جُوْع	
 PWN:hunger.n.01		طوى	
@@ -12082,6 +12251,7 @@ PWN:husband.n.01		زوج	zaud͡ʒ
 PWN:hydrocarbon.n.01		هيدْرُوكرْبُون	
 PWN:hydrogen.n.01		إِيدْرُوجِين	
 PWN:hydrogen.n.01		العنصر الاول	
+PWN:hydrogen.n.01		هيدروجين	
 PWN:hydrogen.n.01		هيدْرُوجِين	
 PWN:hymenopterous_insect.n.01		غِشائِيّةُ الأجْنِحة	
 PWN:hypothesis.n.02		إِفْتِراض	
@@ -12402,6 +12572,7 @@ PWN:indication.n.01		دلِيل
 PWN:indication.n.01		علامة	
 PWN:indifference.n.01		لامُبالاة	
 PWN:indispose.v.03		وَعَكَ	
+PWN:indium.n.01		انديوم	
 PWN:individual.n.02		شخْص	
 PWN:individual.n.02		فرْد	
 PWN:induce.v.02		أثار	
@@ -12886,7 +13057,9 @@ PWN:involve.v.02		شارك
 PWN:involve.v.02		شمل	
 PWN:involve.v.02		ورط	
 PWN:iodine.n.01		الرّقم الذّرِّي 53	
+PWN:iodine.n.01		يود	
 PWN:iodine.n.01		يُود	
+PWN:iridium.n.01		إريديوم	
 PWN:iron.n.01		العُنْصُر السّادِس والعشرون	
 PWN:iron.n.01		ح	
 PWN:iron.n.01		حديد	ħadiːd
@@ -12905,8 +13078,10 @@ PWN:irritate.v.02		أغاظ
 PWN:irritate.v.02		أنرفز	
 PWN:irritate.v.02		غضب	
 PWN:irritate.v.02		غيظ	
+PWN:islam.n.01		الْإِسْلَام	
 PWN:island.n.01		جزيرة	d͡ʒaziːra
 PWN:island.n.01		جزِيرة	
+PWN:island.n.01		جَزِيرَة‎	
 PWN:island.n.02		جزِيرة	
 PWN:issue.n.01		شأن	
 PWN:issue.n.01		قضِيّة	
@@ -12932,9 +13107,12 @@ PWN:january.n.01		كانُون الثّانِي
 PWN:january.n.01		يناير	janaːjir
 PWN:january.n.01		يَنَايِر	
 PWN:jar.n.01		جرّة	
+PWN:jar.n.01		جَرَّة‎	
+PWN:jar.n.01		زِير‎	
 PWN:jaw.n.01		فك	fakː
 PWN:jeep.n.01		سيْارة جِيب	
 PWN:jeep.n.01		طاوِية	
+PWN:jersey.n.03		تِي شِيرْت	
 PWN:jest.n.02		فُكاهة	
 PWN:jest.n.02		مُزاح	
 PWN:jest.n.02		نُكْتة	
@@ -12942,6 +13120,7 @@ PWN:jest.n.02		هزْل
 PWN:jew.n.01		إسْرائِيلِي	
 PWN:jew.n.01		عِبْرِيّ	
 PWN:jew.n.01		يَهُودِي	
+PWN:jew.n.01		يَهُودِيّ	
 PWN:jewelry.n.01		جَوَاهِر	
 PWN:jewelry.n.01		حُلِيّ	
 PWN:jewelry.n.01		مَصَاغ	
@@ -13023,7 +13202,9 @@ PWN:judgment.n.03		حُكْم قضائِي
 PWN:judgment.n.03		قرار	
 PWN:judgment.n.06		حُكْم	
 PWN:judgment.n.06		رأي صائِب	
+PWN:judo.n.01		جُودُو‎	
 PWN:juice.n.01		عصِير	
+PWN:juice.n.01		عَصِير‎	
 PWN:july.n.01		تموز	tamuwz
 PWN:july.n.01		حُزيْران	
 PWN:july.n.01		يوليو	juːlijuː
@@ -13082,6 +13263,7 @@ PWN:jungle.n.01		أدْغال
 PWN:jungle.n.01		حِرْش	
 PWN:jungle.n.01		دغْل	
 PWN:jungle.n.01		غابة	
+PWN:just.a.01		عدل	
 PWN:justice.n.01		عدْل	
 PWN:justification.n.01		تبْرِير	
 PWN:justification.n.01		مُبرِّر	
@@ -13182,9 +13364,11 @@ PWN:kerosene.n.01		زَيْت البَرافِين
 PWN:kerosene.n.01		كاز	
 PWN:kerosene.n.01		كِيرُوسِين	
 PWN:kettle.n.01		غلاية	ɣalːaːja
+PWN:kettle.n.01		غَلَّايَة	
 PWN:kettle.n.01		قدر	qidr
 PWN:key.n.01		مفتاح	
 PWN:key.n.01		مِفْتاح	
+PWN:key.n.01		مِفْتَاح‎	
 PWN:key.n.05		كغ	
 PWN:key.n.05		كِيلُو	
 PWN:kick.n.01		رفس	
@@ -13288,13 +13472,16 @@ PWN:know.v.01		علم	ʕalima
 PWN:know.v.01		علِم	
 PWN:know.v.01		فهم	
 PWN:know.v.01		ميز	
+PWN:know.v.01 		عَرَفَ‎	
 PWN:know.v.02		عرف	
+PWN:know.v.02		عَرَفَ‎	
 PWN:know.v.04		عرف	
 PWN:knowing.n.01		دِراية	
 PWN:knowing.n.01		فهْم	
 PWN:knowing.n.01		معْرِفة	
 PWN:knowledge_domain.n.01		حقْل معْرِفة	
 PWN:knowledge_domain.n.01		مجال معْرِفة	
+PWN:krypton.n.01		كربتون	
 PWN:label.v.01		صنف	
 PWN:label.v.01		لصق بطاقة	
 PWN:label.v.01		لصق رقعة	
@@ -13319,6 +13506,7 @@ PWN:lake.n.01		بُحيْرة
 PWN:lamb.n.01		حمل	
 PWN:lamb.n.01		خَرُوف	
 PWN:lamp.n.01		سِراْج	
+PWN:lamp.n.01		لمبة‎	
 PWN:lamp.n.01		مِصْباح	
 PWN:lamp.n.02		سِراج	
 PWN:lamp.n.02		لمْبة	
@@ -13351,6 +13539,7 @@ PWN:language.n.05		كلام
 PWN:language.n.05		لُغة	
 PWN:language_unit.n.01		وَحْدَة لُغَوِيَّة	
 PWN:language_unit.n.01		وَحْدَة لِسانِيَّة	
+PWN:lanthanum.n.01		لنثانوم	
 PWN:lap.n.01		حِجْر	
 PWN:larboard.n.01		ميْسرة	
 PWN:larboard.n.01		يَسَار السَفِينَة	
@@ -13395,6 +13584,7 @@ PWN:law.n.01		قانُون
 PWN:law.n.02		قانُون	
 PWN:law.n.04		قانُون	
 PWN:law.n.04		قانُون الطبِيعة	
+PWN:lawrencium.n.01		لورنسيوم	
 PWN:lawyer.n.01		مُحام	
 PWN:lawyer.n.01		مُحامِي	
 PWN:lawyer.n.01		وَكِيل	
@@ -13705,6 +13895,7 @@ PWN:lengthen.v.01		طول
 PWN:lengthen.v.01		طوّل	
 PWN:lengthen.v.01		مد	
 PWN:lengthen.v.01		مدّد	
+PWN:lens.n.01		عَدَسَة‎	
 PWN:lens.n.04		عدسة	
 PWN:let.v.01		أجاز	
 PWN:let.v.01		حدا	ħadaː
@@ -13737,7 +13928,9 @@ PWN:liability.n.03		مغْرم
 PWN:liaison.n.02		اِتِّصال	
 PWN:liaison.n.02		اِرْتِباط	
 PWN:liaison.n.02		ربْط	
+PWN:library.n.01		كتابخانة	
 PWN:library.n.01		مكْتبة	
+PWN:library.n.01		مَكْتَبَة‎	
 PWN:library.n.02		مكْتبة	
 PWN:library.n.04		مكْتبة	
 PWN:library.n.04		مكْتبة برامج	
@@ -13803,6 +13996,7 @@ PWN:lift.n.12		تعْلٍية
 PWN:lift.n.12		رفْع	
 PWN:lift.v.03		رفع	rafaʕa
 PWN:light.n.01		ضوْء	
+PWN:light.n.01		نور‎	
 PWN:light.v.01		أضاء	
 PWN:light.v.01		أنار	
 PWN:light.v.01		وضح	
@@ -13834,6 +14028,7 @@ PWN:liking.n.01		ميْل
 PWN:limb.n.01		طرف	
 PWN:limb.n.01		عُضْو	
 PWN:limit.n.01		حدّ	
+PWN:limit.n.01		حَدّ‎	
 PWN:limit.n.01		حُدُود	
 PWN:limit.n.01		قيْد	
 PWN:limit.n.01		نِطاق	
@@ -13917,10 +14112,12 @@ PWN:listening.n.01		إِنْصات
 PWN:listening.n.01		سمْع	
 PWN:liter.n.01		ديْسِيمِتر مُكعّب	
 PWN:liter.n.01		ل	
+PWN:liter.n.01		لتر‎	
 PWN:liter.n.01		لِتْر	
 PWN:literary_composition.n.01		عمل أدبِي	
 PWN:literary_composition.n.01		مُؤلف أدبِي	
 PWN:lithium.n.01		الليثْيُوم	
+PWN:lithium.n.01		ليثيوم	
 PWN:little.r.01		قليلا	qaliːlan
 PWN:liturgy.n.02		شعِيرة	
 PWN:liturgy.n.02		طقْس دِينِيّ	
@@ -13940,6 +14137,7 @@ PWN:living_quarters.n.01		مقرّ سكن
 PWN:living_quarters.n.01		مَكان	
 PWN:living_thing.n.01		كائِن حيّ	
 PWN:lizard.n.01		سحليّة	
+PWN:lizard.n.01		سِحْلِيَّة‎	
 PWN:lizard.n.01		سِحْلِيَّة	
 PWN:lizard.n.01		ضَبّ	
 PWN:load.n.01		حمل	ħiml
@@ -14121,6 +14319,7 @@ PWN:love.v.03		أحبّ
 PWN:love_affair.n.01		علاقة حُبّ	
 PWN:lover.n.01		حبِيب	
 PWN:lover.n.01		عشِيق	
+PWN:lover.n.01		عَاشِق‎	
 PWN:lover.n.01		محْبُوب	
 PWN:lover.n.01		معْشُوق	
 PWN:lover.n.01		مُحِبّ	
@@ -14153,6 +14352,7 @@ PWN:lunar_month.n.01		شهْر قمرِيّ
 PWN:lunch.n.01		غداء	
 PWN:lung.n.01		رئة	
 PWN:lung.n.01		رِئة	
+PWN:lutetium.n.01		لوتيتيوم	
 PWN:luxury.n.03		بذْخ	
 PWN:luxury.n.03		ترف	
 PWN:luxury.n.03		ثراء	
@@ -14160,17 +14360,21 @@ PWN:luxury.n.03		رفاهِيّة
 PWN:luxury.n.03		فخامة	
 PWN:machine.n.01		آلَة	
 PWN:machine.n.01		الة	
+PWN:machine.n.01		مَاكِينَة‎	
 PWN:machine.n.04		آلات بَسِيطَة	
 PWN:machinery.n.01		آلِيَّات	
 PWN:machinery.n.01		آلِيَّة	
 PWN:madagascar.n.01		مدغشقر	
+PWN:mafia.n.01		مَافِيَا‎	
 PWN:magazine.n.01		مَجَلَّة	
 PWN:magazine.n.02		مجلّة	
 PWN:magnesium.n.01		العُنْصُرُ الثّانِي عشر	
 PWN:magnesium.n.01		المغْنيزيُوم	
 PWN:magnesium.n.01		المغْنِسْيُوْم	
 PWN:magnesium.n.01		المَغْنيزيُوم	
+PWN:magnesium.n.01		مغنيسيوم	
 PWN:magnet.n.01		مغْنطِيس	
+PWN:magnet.n.01		مَغْنَاطِيس‎	
 PWN:magnificence.n.02		أُبّهة	
 PWN:magnificence.n.02		جلال	
 PWN:magnificence.n.02		ذكاء	
@@ -14307,6 +14511,7 @@ PWN:make.v.03		لفق
 PWN:make.v.03		نجح	
 PWN:make.v.03		هيأ	
 PWN:make.v.03		وصل	
+PWN:make.v.16		فَعَلَ	
 PWN:make.v.19		أنْشأ	
 PWN:make.v.19		كوّن	
 PWN:make.v.27		رتّب	
@@ -14399,6 +14604,7 @@ PWN:maneuver.n.01		مُناورة
 PWN:maneuver.n.03		مُناورة	
 PWN:maneuver.n.04		مُناورة	
 PWN:manganese.n.01		المَنْغَنيز	
+PWN:manganese.n.01		منجنيز	
 PWN:manipulate.v.02		أثر في	
 PWN:manipulate.v.02		تلاعب	
 PWN:manipulate.v.02		حرّك	
@@ -14424,6 +14630,7 @@ PWN:many.a.01		عدِيد
 PWN:many.a.01		كثِير	
 PWN:many.a.01		مُتعدِّد	
 PWN:map.n.01		خَرِيطَة	
+PWN:map.n.01		خَرِيطَة‎	
 PWN:maple.n.02		القَيْقَب	
 PWN:maple.n.02		قيقب	
 PWN:mar.v.01		آذى	
@@ -14606,6 +14813,7 @@ PWN:matter.n.01		أمْر
 PWN:matter.n.01		شأن	
 PWN:matter.n.01		شيء	
 PWN:matter.n.01		مسْألة	
+PWN:matter.n.03		مادة	
 PWN:matter.n.03		مادّة	
 PWN:matter.n.04		مسْألة	
 PWN:matter.n.06		مادّة	
@@ -14834,6 +15042,7 @@ PWN:meeting.n.04		لِقاء
 PWN:meeting.n.04		مُقابلة	
 PWN:megalomania.n.01		جُنُون العظمة	
 PWN:megalomania.n.01		هوس العظمة	
+PWN:meitnerium.n.01		مايتنريوم	
 PWN:melt.v.01		أدار	
 PWN:melt.v.01		أذاب	
 PWN:melt.v.01		أنسل	
@@ -14888,6 +15097,7 @@ PWN:membrane.n.02		غِشاء
 PWN:membrane.n.02		غِشاء نسِيجِي	
 PWN:memorial.n.03		نُصْب تذْكارِيّ	
 PWN:memory.n.01		ذاكِرة	
+PWN:memory.n.01		ذَاكِرَة	
 PWN:memory.n.02		تذكُّر	
 PWN:memory.n.02		ذاكِرة	
 PWN:memory.n.03		تذكُّر	
@@ -14905,6 +15115,7 @@ PWN:mend.v.02		شفى
 PWN:mend.v.02		شُفِي	
 PWN:mend.v.02		عالج	
 PWN:mend.v.02		ندِب	
+PWN:mendelevium.n.01		مندلفيوم	
 PWN:mental_health.n.01		صِحّة عقْلِيّة	
 PWN:mental_illness.n.01		مرض عقْلِي	
 PWN:mentality.n.01		عقْلِيّة	
@@ -14916,6 +15127,7 @@ PWN:merchant.n.01		تاجِر
 PWN:mercifulness.n.01		تَساهُل	
 PWN:mercifulness.n.01		رَحْمَة	
 PWN:mercifulness.n.01		شَفَقَة	
+PWN:mercury.n.01		زئبق	
 PWN:mercury.n.01		زِئْبَق	
 PWN:mercy.n.05		رأْفة	
 PWN:mercy.n.05		رحْمة	
@@ -14928,6 +15140,7 @@ PWN:mess.v.02		أفْسد
 PWN:mess.v.02		وَسَّخَ	
 PWN:message.n.01		خبر	xabar
 PWN:message.n.01		رِسالة	
+PWN:message.n.01		رِسالة‎	
 PWN:message.n.02		رِسالة	
 PWN:message.n.02		مادّة	
 PWN:message.n.02		مضْمُون	
@@ -14937,6 +15150,7 @@ PWN:message.n.02		مُحْتوى
 PWN:metallic_element.n.01		عُنْصُر معْدِنِي	
 PWN:metallic_element.n.01		معْدِن	
 PWN:meter.n.01		م	
+PWN:meter.n.01		متر‎	
 PWN:meter.n.01		مِتْر	
 PWN:methane_series.n.01		البارافِين	
 PWN:methane_series.n.01		سِلْسِلة المِيثان	
@@ -14948,9 +15162,12 @@ PWN:microorganism.n.01		بكْتِيرْيا
 PWN:microorganism.n.01		كائِن حي مِجْهرِي	
 PWN:microorganism.n.01		مُتعضِّي مِجْهرِي	
 PWN:microorganism.n.01		مِكْرُوب	
+PWN:microorganism.n.01		مِيكْرُوب‎	
 PWN:microscope.n.01		مِجْهر	
+PWN:microscope.n.01		مِجْهَر‎	
 PWN:middle_class.n.01		البُرْجوازِيَّة	
 PWN:middle_class.n.01		الطَّبَقَة المُتَوَسِّطَة	
+PWN:midnight.n.01		مُنْتَصَف اَللَّيْل‎	
 PWN:might.n.01		جبرُوت	
 PWN:might.n.01		عظمة	
 PWN:might.n.01		قُدْرة	
@@ -15012,10 +15229,12 @@ PWN:minister.n.02		قس
 PWN:minister.n.02		وَزِير	
 PWN:ministry.n.02		وَزَارَة	
 PWN:ministry.n.02		وِزَارَة	
+PWN:mint.n.02		نَعْنَاع‎	
 PWN:minute.n.01		دقِيقة	
 PWN:miracle.n.01		مُعْجِزة	
 PWN:mirror.n.01		مرآة	mirʔaːt
 PWN:mirror.n.01		مرْأة	
+PWN:mirror.n.01		مِرْآة‎	
 PWN:misbehavior.n.01		خَطَأ	
 PWN:misbehavior.n.01		سُوء الأداء	
 PWN:misbehavior.n.01		سُوء التّصرُّف	
@@ -15177,7 +15396,9 @@ PWN:molecule.n.01		جُزيْء
 PWN:molecule.n.01		جُزيْئة	
 PWN:mollusk.n.01		حَيَوان رَخْوِيّ	
 PWN:mollusk.n.01		رَخْوِيّ	
+PWN:molybdenum.n.01		مولبيدنيوم	
 PWN:moment.n.01		بُرهة	
+PWN:moment.n.01		سَاعَة‎	
 PWN:moment.n.01		فيْنة	
 PWN:moment.n.01		لحْظة	
 PWN:moment.n.01		هُنيْهة	
@@ -15189,6 +15410,7 @@ PWN:monetary_value.n.01		ثمن
 PWN:monetary_value.n.01		سِعْر	
 PWN:monetary_value.n.01		قِيمة مالِيّة	
 PWN:money.n.01		عُمْلة	
+PWN:money.n.01		فُلُوس‎	
 PWN:money.n.01		نقود	nuquːd
 PWN:money.n.01		نقْد	
 PWN:money.n.01		نُقُود	
@@ -15221,6 +15443,7 @@ PWN:mosque.n.01		مسْجِد
 PWN:mosquito.n.01		ناموسة	naːmuːsa
 PWN:mother.n.01		أم	um
 PWN:mother.n.01		أُمّ	
+PWN:mother.n.01		أُمّ‎	
 PWN:mother.n.01		وَالِدَة	
 PWN:mother.v.01		اِهْتمّ كثِيراً بِـ	
 PWN:mother.v.01		دلّل	
@@ -15239,6 +15462,7 @@ PWN:motivation.n.01		باعِث
 PWN:motivation.n.01		حافِز	
 PWN:motivation.n.01		داعٍ	
 PWN:motivation.n.01		دافِع	
+PWN:motley.s.02		ملوب	
 PWN:motor.n.01		محرّك كهربائي (محرك)	
 PWN:motor.n.01		مُحرِّك	
 PWN:motor_scooter.n.01		درّاجة نارِيّة صغِيرة	
@@ -15258,6 +15482,7 @@ PWN:mourn.v.01		بكِى
 PWN:mourn.v.01		ندب	
 PWN:mouse.n.01		فأر	
 PWN:mouse.n.01		فأرة	faʔra
+PWN:mouse.n.01		فَأْر‎	
 PWN:mouth.n.01		تجْوِيف فموِي	
 PWN:mouth.n.01		فم	fam
 PWN:mouth.n.02		فم	
@@ -15387,6 +15612,7 @@ PWN:nakedness.n.01		خَلْع
 PWN:nakedness.n.01		عُرِيّ	
 PWN:name.n.01		اسم	ism
 PWN:name.n.01		اِسْم	
+PWN:name.n.01		اِسْم‎	
 PWN:name.v.01		إجتذب الطريدة	
 PWN:name.v.01		اختار	
 PWN:name.v.01		استدعى	
@@ -15418,6 +15644,7 @@ PWN:narrative.n.01		حِكايَة
 PWN:narrative.n.01		رِوايَة	
 PWN:narrative.n.01		سَرْد	
 PWN:narrative.n.01		قصة	qɨsˤːɑ
+PWN:narrative.n.01		قِصَّة	
 PWN:narrative.n.01		قِصَّة	
 PWN:narrow.a.01		ضيق	dˤɑjːiq
 PWN:nation.n.02		أُمّة	
@@ -15441,6 +15668,7 @@ PWN:naturalism.n.02		المدْهب الطبِيعِي
 PWN:naturalism.n.02		الواقِعِيّة	
 PWN:nature.n.01		طبِيعة	
 PWN:nature.n.01		طبْع	
+PWN:nature.n.01		طَبِيعَة	
 PWN:nature.n.04		طبِيعة	
 PWN:nature.n.04		طبْع	
 PWN:nausea.n.02		تَقَزُّز	
@@ -15502,8 +15730,12 @@ PWN:neighborhood.n.02		جِوَاْر
 PWN:neighborhood.n.02		جِيْرَة	
 PWN:neighborhood.n.02		حارَة	
 PWN:neighborhood.n.02		حَيّ	
+PWN:neodymium.n.01		نيودميوم	
+PWN:neon.n.01		نيون	
 PWN:nephew.n.01		ابن أخ	
+PWN:neptunium.n.01		نبتونيوم	
 PWN:nerve.n.01		عصب	
+PWN:nerve.n.01		عَصَب‎	
 PWN:nerve_impulse.n.01		نبْض	
 PWN:nerve_impulse.n.01		نبْض عصبِي	
 PWN:nervous_system.n.01		جِهاز عصبِي	
@@ -15535,9 +15767,11 @@ PWN:neutralize.v.04		قضى على
 PWN:never.r.01		لا أبدا	laː ʔabadan
 PWN:new.a.01		جديد	d͡ʒadiːd
 PWN:new.a.01		جدِيد	
+PWN:new.a.01		جَدِيد	
 PWN:news.n.01		أخْبار	
 PWN:news.n.01		خبر جديد	xabar d͡ʒadiːd
 PWN:news.n.01		خَبَر	
+PWN:news.n.01		خَبَر‎	
 PWN:news.n.01		نبأ	
 PWN:news.n.02		خَبَر	
 PWN:news_article.n.01		مقال	
@@ -15561,9 +15795,13 @@ PWN:night.n.03		ليْلة
 PWN:night.n.04		ليْل	
 PWN:night.n.07		ليْل	
 PWN:night.n.07		ليْلة	
+PWN:nightingale.n.01		بلبل‎	
 PWN:nine.s.01		تسعة	tisʕa
 PWN:ninety.s.01		تسعون	tisʕuwn
+PWN:niobium.n.01		نيوبيوم	
 PWN:nitrogen.n.01		النِتْرُوجين	
+PWN:nitrogen.n.01		نيتروجين	
+PWN:nobelium.n.01		نوبليوم	
 PWN:nobility.n.03		شرف	
 PWN:nobility.n.03		عظمة	
 PWN:nobility.n.03		نبالة	
@@ -15678,6 +15916,7 @@ PWN:nutriment.n.01		مَعَاش
 PWN:nutriment.n.01		مَعِيشَة	
 PWN:nutriment.n.01		مُوْنَة	
 PWN:oak.n.02		بلوط	
+PWN:oak.n.02		بَلُّوط	
 PWN:oak.n.02		بَلُّوط	
 PWN:oak.n.02		بَلُّوط	
 PWN:oak.n.02		شَجَرَة بَلُّوط	
@@ -15766,6 +16005,7 @@ PWN:offspring.n.01		نسْل
 PWN:oil.n.01		زيت	zait
 PWN:oil.n.01		زَيْت	
 PWN:oil.n.01		زَيْت	
+PWN:okra.n.01		بَامْيَة‎	
 PWN:old.a.01		قديم	qadiːm
 PWN:old.a.01		مسن	musinː
 PWN:old_age.n.01		تقدُّم العُمْر	
@@ -15784,6 +16024,7 @@ PWN:oldster.n.01		عجُوز
 PWN:olfactory_property.n.01		حاسّة الشم	
 PWN:olfactory_property.n.01		خَاصّيَّة الشَمّ	
 PWN:olfactory_property.n.01		رائحة	raːʔiħa
+PWN:olive.n.01		زَيْتُون‎	
 PWN:once.r.01		مرة	marːatan
 PWN:once.r.03		قديما	qadiːmaːan
 PWN:one-half.n.01		نصف	nɨsˤf
@@ -15834,6 +16075,7 @@ PWN:operator.n.02		مُشَغِّل
 PWN:operator.n.02		مُعَالِج	
 PWN:opinion.n.01		رأي	
 PWN:opium.n.01		أفْيُون	
+PWN:opossum.n.02		أُوبُسُوم‎	
 PWN:opportunity.n.01		فُرْصة	
 PWN:oppose.v.01		إصتدم ب	
 PWN:oppose.v.01		اعترض	
@@ -15905,6 +16147,7 @@ PWN:order.v.01		أخْبر
 PWN:order.v.01		أخْبر	
 PWN:order.v.01		أمر	
 PWN:order.v.01		أمر	
+PWN:order.v.01		أُرْغُن	
 PWN:order.v.05		رتّب	
 PWN:order.v.05		نظّم	
 PWN:ordering.n.01		ترْتِيب	
@@ -15955,9 +16198,11 @@ PWN:original.a.03		أصِيْل
 PWN:original.a.03		أصْلِي	
 PWN:original.a.03		جدِيد	
 PWN:original.a.03		مُبْتكر	
+PWN:original.s.01		يَتِيم‎	
 PWN:originate_in.v.01		نشأ	
 PWN:ornamentation.n.03		زَخْرَفَة	
 PWN:orthodoxy.n.01		أُرْثُوذُكْسِيّة	
+PWN:osmium.n.01		ازميوم	
 PWN:other.a.01		آخر	aːxaru
 PWN:outbreak.n.01		اِنْدِلاع	
 PWN:outbreak.n.01		نُشُوب	
@@ -16033,6 +16278,7 @@ PWN:ox.n.01		ثور
 PWN:ox.n.01		ثَوْر	
 PWN:oxide.n.01		أُكْسِيْد	
 PWN:oxygen.n.01		أ	
+PWN:oxygen.n.01		أكسجين	
 PWN:oxygen.n.01		الأكْسِجِين	
 PWN:oxygen.n.01		العُنْصُر الثامِن	
 PWN:pack.n.02		رُزْمَة	
@@ -16125,6 +16371,7 @@ PWN:paint.v.02		طلى
 PWN:paint.v.02		طلى	
 PWN:paint.v.03		رسم	
 PWN:paint.v.03		صوّر	
+PWN:paintbrush.n.01		فُرْشَاة‎ الطِلَاء‎	
 PWN:painting.n.04		تدْهِيْن	
 PWN:painting.n.04		تدْهِيْن البُيُوت	
 PWN:painting.n.04		طلْي	
@@ -16141,6 +16388,7 @@ PWN:pale.v.01		اِصْفرّ
 PWN:pale.v.01		شحب	
 PWN:pale.v.01		شحِب	
 PWN:pale.v.01		صفر لون وجهه	
+PWN:palladium.n.01		بلاديوم	
 PWN:palm.n.01		كف	kafː
 PWN:palm.n.03		نخِيل	
 PWN:palm.n.03		نخْل	
@@ -16223,6 +16471,7 @@ PWN:parody.n.02		تقْلِيْد ساخِر
 PWN:parody.n.02		سُخْرِيّة	
 PWN:parody.n.02		مهْزلة	
 PWN:parody.n.02		مُحاكاة ساخِرة	
+PWN:parrot.n.01		بَبَغَاء‎	
 PWN:part.n.02		جُزْء	
 PWN:part.n.02		شطْر	
 PWN:part.n.02		قسم	qism
@@ -16420,6 +16669,7 @@ PWN:peal.n.01		جَلْجَلَة
 PWN:peal.n.01		دَوِيّ	
 PWN:peal.n.01		رَنِين	
 PWN:peal.n.01		قَصْف	
+PWN:pear.n.01		كُمَّثْرَى‎	
 PWN:pearl.n.01		لؤلؤة	
 PWN:peat.n.01		خُثّ	
 PWN:pedal.n.02		دوّاسة	
@@ -16564,6 +16814,7 @@ PWN:persevere.v.01		وَاظَبَ
 PWN:person.n.01		أحد ما	
 PWN:person.n.01		إنسان	insaːn
 PWN:person.n.01		إِنْسان	
+PWN:person.n.01		إِنْسَان	
 PWN:person.n.01		رُوح	
 PWN:person.n.01		شخْص	
 PWN:person.n.01		شخْص ما	
@@ -16591,6 +16842,7 @@ PWN:phone_number.n.01		رقم الهاتِف
 PWN:phosphorus.n.01		العُنْصُر الخامِس عشر	
 PWN:phosphorus.n.01		الفُوسْفُور	
 PWN:phosphorus.n.01		فو	
+PWN:phosphorus.n.01		فوسفور	
 PWN:phosphorus.n.01		فُوسْفُور	
 PWN:photograph.n.01		أيْقُونة	
 PWN:photograph.n.01		تصْوِيْرة	
@@ -16702,6 +16954,7 @@ PWN:physical_property.n.01		خَاصِيَّة فِيزْيَائِيَّة
 PWN:physics.n.01		الفَلْسَفَة  الطَبِيعِيَّة	
 PWN:physics.n.01		الفِيْزياء	
 PWN:physics.n.01		عِلْم الطَّبِيعَة	
+PWN:physics.n.01		فِيزِيَاء‎	
 PWN:physiological_property.n.01		خَاصِّيَّة فِسْيُولُوجِيَّة	
 PWN:physiological_property.n.01		خَاصِّيَّة وَظَائِفِيَّة	
 PWN:piano.n.01		بِيانُو	
@@ -16804,15 +17057,18 @@ PWN:pincushion.n.01		وِسَادَة دَبَابِيس
 PWN:pine.n.01		شَجَرَة صَنَوْبَر	
 PWN:pine.n.01		صنوبرة	sˤɑnuːbara
 PWN:pine.n.01		صَنَوْبَر	
+PWN:pineapple.n.01		أَنَانَاس‎	
 PWN:pink.s.01		زهري	
 PWN:pink.v.02		أزّ	
 PWN:pink.v.02		طنّ	
 PWN:pipe.n.01		غليون تدخين	
 PWN:pipe.n.02		أُنْبُوب	
 PWN:piquant.s.01		حار	
+PWN:piquant.s.01		حَار	
 PWN:pit.n.01		نقرة	nuqra
 PWN:pitch.n.01		طبقة	
 PWN:pixel.n.01		نُقْطة ضوْئِيّة	
+PWN:pizza.n.01		بِيتْزَا‎	
 PWN:place.n.02		مكان	
 PWN:place.n.03		مكانة	
 PWN:place.n.04		مكان	
@@ -16870,6 +17126,7 @@ PWN:plant.n.02		غرْسة
 PWN:plant.n.02		نبات	
 PWN:plant.n.02		نبتة	
 PWN:plant.n.02		نبْتة	
+PWN:plant.n.02		نَبَات‎	
 PWN:plant.n.03		مُمَثِّل وَسَط الجُمْهُور	
 PWN:plant.n.04		فَخّ	
 PWN:plant.n.04		مَصْيَدَة	
@@ -16934,6 +17191,7 @@ PWN:plate.n.09		صفِيحة
 PWN:plate.n.11		صفِيحة	
 PWN:plate.n.11		صفِيحة ضوْئِيّة	
 PWN:plate.n.11		صفِيحة فُوتُوغرافِيّة	
+PWN:platinum.n.01		بلاتين	
 PWN:play.n.01		مسْرحِيّة	
 PWN:play.n.03		خُطَّة لَعِب	
 PWN:play.n.05		حالة لعِب	
@@ -16981,8 +17239,10 @@ PWN:plumb_line.n.01		شاقُول
 PWN:plutonium.n.01		البلُوتِينيُوم	
 PWN:plutonium.n.01		العُنْصُر الرّابع والتِسْعُون	
 PWN:plutonium.n.01		بل	
+PWN:plutonium.n.01		بلوتونيوم	
 PWN:plutonium.n.01		بلوتِنيُوم	
 PWN:pocket.n.01		جيْب	
+PWN:pocket.n.01		جَيْب‎	
 PWN:poem.n.01		شِعْر	
 PWN:poem.n.01		قَصِيَدة	
 PWN:poet.n.01		شاعر	
@@ -17007,6 +17267,7 @@ PWN:polarity.n.02		قُطْبِيّة
 PWN:polarization.n.01		اِسْتِقْطاب	
 PWN:pole.n.01		عمُود	
 PWN:pole.n.01		عود	ʕuːd
+PWN:pole.n.01		قُطْب	
 PWN:police.n.01		الأمْن	
 PWN:police.n.01		بُولِيس	
 PWN:police.n.01		رِجال الشُّرْطة	
@@ -17082,6 +17343,7 @@ PWN:politics.n.01		سِياسة
 PWN:politics.n.01		علاقة سِياسِيّة	
 PWN:politics.n.03		سِياسة	
 PWN:polity.n.02		حُكُومة	
+PWN:polonium.n.01		بولونيوم	
 PWN:polygon.n.01		شكْل مُضلّع	
 PWN:polygon.n.01		مُضلّع	
 PWN:polyhedron.n.01		مُتعدِّد السُّطُوح	
@@ -17146,6 +17408,7 @@ PWN:population.n.02		سُكّان
 PWN:population.n.02		كثافة سُكّانِيّة	
 PWN:population.n.03		البشر	
 PWN:population.n.03		الكوْن	
+PWN:porcelain.n.01		خَزَف‎	
 PWN:porch.n.01		رُواق	
 PWN:porch.n.01		رِواق	
 PWN:port.n.01		مِيناء	
@@ -17219,13 +17482,16 @@ PWN:pot.n.01		طنجرة	tˤɑnd͡ʒara
 PWN:pot.n.01		قدر	qidr
 PWN:pot.n.03		مِلْء قِدْر	
 PWN:potassium.n.01		البُوتاسْيُوم	
+PWN:potassium.n.01		بوتاسيوم	
 PWN:potato.n.01		بطاطس	
+PWN:potato.n.01		بَطَاطِس	
 PWN:potency.n.02		فعّالِيّة	
 PWN:potency.n.02		قُوّة	
 PWN:potential.n.01		أرْجحِيّة	
 PWN:potential.n.01		إِمْكانِيّة	
 PWN:potential.n.01		اِحْتِماليّة	
 PWN:potential.n.01		جواز	
+PWN:potter.n.01		خَزَّاف‎	
 PWN:pouch.n.01		حقِيبة	
 PWN:pouch.n.01		كيس	kiːs
 PWN:pound.n.13		زَرِيبَة الكِلاب الضَّالة	
@@ -17284,6 +17550,7 @@ PWN:poverty.n.01		عوز
 PWN:poverty.n.01		فقْر	
 PWN:powder.n.01		بُودْرة	
 PWN:powder.n.01		مسْحُوق	
+PWN:powder.n.01		مَسْحُوق‎	
 PWN:power.n.01		سلطة	sultˤɑ
 PWN:power.n.01		قُوّة	
 PWN:power.n.02		قُوّة	
@@ -17318,6 +17585,7 @@ PWN:praise.v.01		سبح حمد
 PWN:praise.v.01		سبّح	
 PWN:praise.v.01		شيد	
 PWN:praise.v.01		هلل	
+PWN:praseodymium.n.01		براسوديميوم	
 PWN:pray.v.01		إستقبل بترحاب	
 PWN:pray.v.01		استضاف	
 PWN:pray.v.01		استمتع	
@@ -17723,6 +17991,7 @@ PWN:produce.v.02		اعتبر
 PWN:produce.v.02		اندفع	
 PWN:produce.v.02		بدأ عملا	
 PWN:produce.v.02		بنى	
+PWN:produce.v.02		بَنَى‎	
 PWN:produce.v.02		تألف	
 PWN:produce.v.02		تجبر	
 PWN:produce.v.02		تصرف	
@@ -17820,6 +18089,8 @@ PWN:proliferate.v.01		تكاثر
 PWN:prolong.v.01		أطال	
 PWN:prolong.v.01		مد	
 PWN:prolong.v.01		مدّد	
+PWN:promethium.n.01		بروميثيوم	
+PWN:promise.n.01		وعد	
 PWN:promise.n.01		وَعْد	
 PWN:promise.v.01		تعهد	
 PWN:promise.v.01		تعهّد	
@@ -17960,6 +18231,7 @@ PWN:propulsion.n.02		تسْيِير
 PWN:propulsion.n.02		دسْر	
 PWN:propulsion.n.02		دفْع	
 PWN:prose.n.01		نَثْر	
+PWN:protactinium.n.01		بروتكتنيوم	
 PWN:protect.v.01		حفظ	
 PWN:protect.v.01		حفِظ	
 PWN:protect.v.01		حمى	ħamaː
@@ -18133,6 +18405,7 @@ PWN:pulsate.v.01		خَفَقَ
 PWN:pulsate.v.01		نبض	
 PWN:pulsation.n.01		نبْض	
 PWN:pulsation.n.01		نبْضة	
+PWN:pump.n.01		مِضَخَّة‎	
 PWN:punch.v.03		ثقب	
 PWN:punch.v.03		خرم	
 PWN:punctuate.v.01		رقّم	
@@ -18403,6 +18676,7 @@ PWN:question.n.01		اِسْتِعْلام
 PWN:question.n.01		تحْقِيق	
 PWN:question.n.01		تساؤُل	
 PWN:question.n.01		سُؤال	
+PWN:question.n.03 		سؤال	
 PWN:questioning.n.01		اِسْتنْطاق	
 PWN:questioning.n.01		اِسْتِجْواب	
 PWN:questioning.n.01		تحْقِيق	
@@ -18420,6 +18694,7 @@ PWN:rabble.n.02		عوام
 PWN:race.n.01		سِباق	
 PWN:race.n.02		سِباق	
 PWN:race.n.03		جِنْس	
+PWN:race.n.03		رَاكُون‎	
 PWN:race.n.03		عِرْق	
 PWN:radiate.v.05		أشرق	
 PWN:radiate.v.05		أشع	
@@ -18431,6 +18706,8 @@ PWN:radiate.v.05		تشعب
 PWN:radiate.v.05		تشعشع	
 PWN:radiate.v.05		سطع	
 PWN:radiate.v.05		لمع	
+PWN:radium.n.01		راديوم	
+PWN:radon.n.01		رادون	
 PWN:raft.n.01		طوْف	
 PWN:raft.n.01		عوّامة	
 PWN:railway.n.01		خَطّ سِكَّة حَدِيد	
@@ -18528,6 +18805,8 @@ PWN:rant.v.01		فخم كلامه
 PWN:rant.v.01		لوم بقسوة	
 PWN:rant.v.01		نشد	
 PWN:rant.v.01		هذرم	
+PWN:rapid.s.02		سُرْعَة	
+PWN:rare.s.04		نَادِر‎	
 PWN:rat.n.01		جُرذ	
 PWN:rate.v.01		أعْطى درجة	
 PWN:rate.v.01		أعْطى رُتْبة	
@@ -19226,6 +19505,7 @@ PWN:religious_person.n.01		ناسِك
 PWN:remainder.n.01		الباقِي	
 PWN:remainder.n.01		باقٍ	
 PWN:remainder.n.01		بقِيّة	
+PWN:remainder.n.01		بَاقِيَّة	
 PWN:remainder.n.01		مُتبقِّي	
 PWN:remainder.n.01		مُخلّف	
 PWN:remains.n.01		بقايا	
@@ -19334,6 +19614,7 @@ PWN:repair.v.01		رمم
 PWN:repair.v.01		زيف	
 PWN:repair.v.01		شفى	
 PWN:repair.v.01		صلح	sˤalaħa
+PWN:repair.v.01		صَلَّحَ‎	
 PWN:repair.v.01		عالج	
 PWN:repair.v.01		عدل	
 PWN:repair.v.01		عوض	
@@ -19443,6 +19724,7 @@ PWN:representation.n.10		تصْوِير
 PWN:representation.n.10		تمْثِيل	
 PWN:representative.n.01		منْدُوب	
 PWN:representative.n.01		مُمثِّل	
+PWN:representative.n.01		وَكِيلَة‎	
 PWN:reproduce.v.01		أنتج	
 PWN:reproduce.v.01		أنتج ثانية	
 PWN:reproduce.v.01		إستنسخ ثانية	
@@ -19798,8 +20080,10 @@ PWN:revolve.v.01		دار
 PWN:revolve.v.01		راوح	
 PWN:revolve.v.01		زرع على نحو متناوب	
 PWN:revolve.v.01		لفّ	
+PWN:rhenium.n.01		رنيوم	
 PWN:rhetorical_device.n.01		صُورة بلاغِيّة	
 PWN:rhetorical_device.n.01		صُورة بيانِيّة	
+PWN:rhodium.n.01		روديوم	
 PWN:rib.n.05		ضِلْع	
 PWN:ribbon.n.04		شريط	ʃariːtˤ
 PWN:rice.n.02		أرز	
@@ -20067,6 +20351,7 @@ PWN:rival.n.01		نظِير
 PWN:rival.n.01		نِدّ	
 PWN:river.n.01		نهر	nahr
 PWN:river.n.01		نهْر	
+PWN:river.n.01		نَهْر	
 PWN:road.n.01		سكة	sikːa
 PWN:road.n.01		طريق	tˤɑriːq
 PWN:roar.v.01		جعْجع	
@@ -20099,6 +20384,7 @@ PWN:rod.n.01		عُود
 PWN:rod.n.01		قضِيب	
 PWN:rodent.n.01		حيوان قارِض	
 PWN:rodent.n.01		قارِض	
+PWN:roentgenium.n.01		رونتجينيوم	
 PWN:roll.n.02		جَدْوَل	
 PWN:roll.n.02		قَائِمَة	
 PWN:roll.n.02		لائِحَة	
@@ -20227,6 +20513,7 @@ PWN:roller.n.04		دُحْرُوجة
 PWN:roof.n.01		سطح	sɑtˤħ
 PWN:roof.n.01		سطْح	
 PWN:roof.n.01		سقْف	
+PWN:roof.n.01		سَطْح‎	
 PWN:room.n.01		حُجْرة	
 PWN:room.n.01		غرفة (غرفة  )	
 PWN:room.n.01		غُرْفة	
@@ -20284,6 +20571,7 @@ PWN:rub.v.02		غضب
 PWN:rub.v.03		حك	
 PWN:rub.v.03		حكّ	
 PWN:rub.v.03		فرك	
+PWN:rubidium.n.01		روبيديوم	
 PWN:rug.n.01		سجادة	
 PWN:ruin.n.04		تَخْريب	
 PWN:ruin.n.04		تَدْمِير	
@@ -20519,6 +20807,9 @@ PWN:rush.v.05		هاجم
 PWN:rust.n.01		صدأ	
 PWN:rustle.v.01		حف	ħafːa
 PWN:rustle.v.01		خَشْخَشَ	
+PWN:ruthenium.n.01		روتينيوم	
+PWN:rutherfordium.n.01		رذرفورديوم	
+PWN:sabbath.n.01		يَوم السبت	
 PWN:sack.n.01		زكيبة	zakiːba
 PWN:sacrament.n.01		سِرّ	
 PWN:sad.a.01		حزين	ħaziːn
@@ -20576,7 +20867,9 @@ PWN:salvage.v.01		نجد
 PWN:salvage.v.01		نقذ	
 PWN:salvage.v.01		هدأ	
 PWN:salvage.v.01		وفر	
+PWN:samarium.n.01		ساماريوم	
 PWN:same.a.01		ذاته	
+PWN:same.a.01		سَوَاء	
 PWN:same.a.01		عيْنه	
 PWN:same.a.01		نفْسه	
 PWN:sameness.n.01		تشابُه	
@@ -20609,7 +20902,9 @@ PWN:sanctification.n.01		تخْصِيص
 PWN:sanctification.n.01		تكْرِيس	
 PWN:sanctification.n.01		وَقْف	
 PWN:sand.n.01		رمل	raml
+PWN:sand.n.01		رمل‎	
 PWN:sand.n.01		رمْل	
+PWN:sandwich.n.01		سَانْدَوِيتْش	
 PWN:sanitary_condition.n.01		نظافة	
 PWN:sanitary_condition.n.01		وَضْع النَظَافَة	
 PWN:sanity.n.01		الصِحّة العقْلِيّة	
@@ -20634,6 +20929,7 @@ PWN:saturday.n.01		يوم السبت	jaum assabt
 PWN:saturday.n.01		يَوْم السََّبْت	
 PWN:sauce.n.01		صَلْصَة	
 PWN:sauce.n.01		مَرَقَة	
+PWN:sausage.n.01		سُجُق	
 PWN:sausage.n.01		نقانِق	
 PWN:save.v.02		أنجى	
 PWN:save.v.02		إحتفظ بشئ للإ ستعمال	
@@ -20655,6 +20951,7 @@ PWN:save.v.02		قطع الكرة
 PWN:save.v.02		نقذ	
 PWN:save.v.02		وفر	
 PWN:save.v.02		وقى	
+PWN:saw.n.02		مِنْشَار	
 PWN:saw.v.01		نشر	
 PWN:saw.v.01		نشر بمنشار	
 PWN:say_farewell.v.01		وَدَّعَ	
@@ -20665,6 +20962,8 @@ PWN:scale.n.02		قدْر
 PWN:scale.n.02		مِقْدار	
 PWN:scale.n.10		حرْشف	
 PWN:scale.n.10		قِشْرة	
+PWN:scandium.n.01		سكانديوم	
+PWN:scarf.n.01		شَال‎	
 PWN:scarf.n.01		منديل	mandiːl
 PWN:scat.v.01		أدار	
 PWN:scat.v.01		أذاب	
@@ -20763,9 +21062,12 @@ PWN:schoolchild.n.01		تِلْمِيذ
 PWN:science.n.01		عِلْم	
 PWN:science.n.01		فرْع عِلْمِيّ	
 PWN:scientific.a.01		عِلْمي	
+PWN:scientific.a.01		عِلْمِيّ‎	
 PWN:scientific_knowledge.n.01		معْرِفة عِلْمِيّة	
 PWN:scientist.n.01		عالِم	
+PWN:scissors.n.01		مَقَص‎	
 PWN:score.n.03		مجْمُوع النِقاط	
+PWN:scorpion.n.03		عَقْرَب‎	
 PWN:scrape.v.01		حكّ	
 PWN:scrape.v.01		خدش	xadaʃa
 PWN:scrape.v.01		فرك	
@@ -20788,6 +21090,7 @@ PWN:scurry.v.01		هرْول
 PWN:sea.n.01		بحر	baħr
 PWN:sea.n.01		بحْر	
 PWN:sea_urchin.n.01		قُنْفُد البحْر	
+PWN:seaborgium.n.01		سيبورجيوم	
 PWN:seaport.n.01		مَرْسَى	
 PWN:seaport.n.01		مَرْفَأ	
 PWN:seaport.n.01		مَرْفَأ بَحْرِيّ	
@@ -20850,7 +21153,9 @@ PWN:seashore.n.01		شطّ
 PWN:season.n.01		فتْرة	
 PWN:season.n.01		موْسِم	
 PWN:season.n.02		فصل	
+PWN:season.n.02		فصل‎	
 PWN:season.n.02		فصْل	
+PWN:season.n.02		موسم‎	
 PWN:season.n.03		فصْل	
 PWN:season.n.03		موْسِم	
 PWN:seat.n.01		مقْعد	
@@ -21007,6 +21312,7 @@ PWN:seize.v.01		فهم فهما تاما
 PWN:seize.v.01		مسك	
 PWN:seize.v.01		وضع يده على	
 PWN:seize.v.02		وَضَعَ اليَد عَلَى	
+PWN:selenium.n.01		سيلينيوم	
 PWN:sell.n.01		تسْوِيق	
 PWN:sell.v.01		باع	baːʕa
 PWN:sell.v.01		باع بسعر محدد	
@@ -21310,6 +21616,7 @@ PWN:service.v.01		نفع
 PWN:serviceman.n.01		جُنْدِي	
 PWN:serviceman.n.01		عامِل فِي الْجيْش	
 PWN:serviceman.n.01		عسْكرِي	
+PWN:sesame.n.01		سمسم	
 PWN:session.n.03		جلْسة	
 PWN:set.n.01		مَجْمُوعَة	
 PWN:set.n.02		مَجْمُوعَة	
@@ -21409,7 +21716,9 @@ PWN:settle.v.14		تخلّص من
 PWN:settle.v.14		سوّى	
 PWN:settle.v.14		صفّى	
 PWN:settle.v.14		وَفَّى	
+PWN:seven.s.01		7	
 PWN:seven.s.01		سبعة	sabʕa
+PWN:seven.s.01		七	
 PWN:seventy.s.01		سبعون	sabʕuːn
 PWN:severe.s.01		خبيث	xabiːθ
 PWN:sew.v.01		خاط	xɑːtˤɑ
@@ -21679,9 +21988,11 @@ PWN:shine.v.02		أضاء	adˤaːʔ
 PWN:shine.v.04		تألّق	
 PWN:shine.v.04		لمع	
 PWN:ship.n.01		سفِيْنة	
+PWN:ship.n.01		مركب	
 PWN:ship.n.01		مرْكب	
 PWN:shirt.n.01		قميص	qamɨːsˤ
 PWN:shirt.n.01		قمِيص	
+PWN:shirt.n.01		قَمِيص‎	
 PWN:shiver.v.02		ارتجف	
 PWN:shiver.v.02		ارتعد	
 PWN:shiver.v.02		ارتعش	
@@ -21698,6 +22009,7 @@ PWN:shock.n.06		مُصِيبَة
 PWN:shock.n.06		هَزَّة	
 PWN:shoe.n.01		حذاء	ħiðaːʔ
 PWN:shoe.n.01		حِذاء	
+PWN:shoe.n.01		حِذَاء	
 PWN:shoot.v.01		أصاب	
 PWN:shoot.v.01		أطْلق	
 PWN:shoot.v.01		سدد	
@@ -21811,6 +22123,7 @@ PWN:show.v.04		عرض
 PWN:show.v.04		قاد	
 PWN:show.v.04		قدم	
 PWN:show.v.04		مثل	
+PWN:shower.n.01		دوش	
 PWN:showman.n.02		مُتعهِّد	
 PWN:showman.n.02		مُدِير عرْض	
 PWN:showman.n.02		مُروِّج	
@@ -21913,6 +22226,7 @@ PWN:sibling.n.01		أخ
 PWN:sibling.n.01		أُخْت	
 PWN:sibling.n.01		شقِيق	
 PWN:sibling.n.01		شقِيقة	
+PWN:sibling.n.01		شَقِيق‎	
 PWN:sicken.v.02		اشمأز	
 PWN:sicken.v.02		سئم	
 PWN:sicken.v.02		سقم	
@@ -21942,6 +22256,7 @@ PWN:significance.n.01		أهمِّيّة
 PWN:significance.n.01		شأن	
 PWN:silence.n.01		هدوء	huduːʔ
 PWN:silicon.n.01		السِّلِيْكُوْن	
+PWN:silicon.n.01		سيلكون	
 PWN:silicon.n.01		سِلِيكُون	
 PWN:silk.n.01		حرِير	
 PWN:silver.n.01		فضة	fɨdˤːɑ
@@ -22086,8 +22401,10 @@ PWN:sink.v.05		همد
 PWN:sink.v.05		وظف مالا	
 PWN:sip.v.01		اِؤْتشف	
 PWN:sip.v.01		رشف	
+PWN:sister.n.01		ʾuxt	
 PWN:sister.n.01		أخت	uxt
 PWN:sister.n.01		أخْت	
+PWN:sister.n.01		أُخْت‎	
 PWN:sister.n.01		شقِيقة	
 PWN:sister.n.03		عُضْوة	
 PWN:sit.v.01		إتخذ وضعا أمام الرسام	
@@ -22170,7 +22487,9 @@ PWN:skin.n.01		بشْرة
 PWN:skin.n.01		جِلْد	
 PWN:skirt.n.02		تنّورة	
 PWN:skirt.n.02		تنُّورة	
+PWN:skull.n.01		جُمْجُمَة	
 PWN:sky.n.01		سماء	samaːʔ
+PWN:sky.n.01		سَمَاء	
 PWN:slab.n.01		بلاطة	
 PWN:slab.n.01		صفيحة	sˤɑfiːħa
 PWN:slab.n.01		لوْح	
@@ -22199,6 +22518,7 @@ PWN:sled.n.01		مزلقة	mizlaqa
 PWN:sleep.n.01		منام	manaːm
 PWN:sleep.n.01		نوم	naum
 PWN:sleep.n.01		نوْم	
+PWN:sleep.n.01		نَوْم‎	
 PWN:sleep.n.03		غفْوة	
 PWN:sleep.n.03		نوْم	
 PWN:sleep.v.01		إتسع لعدد معين	
@@ -22206,6 +22526,7 @@ PWN:sleep.v.01		ضاجع
 PWN:sleep.v.01		غفو	
 PWN:sleep.v.01		قضى الوقت بالنوم	
 PWN:sleep.v.01		نام	naːma
+PWN:sleep.v.01		نام‎	
 PWN:sleep.v.01		هجع	
 PWN:sleep_together.v.01		أصلح بالمفك	
 PWN:sleep_together.v.01		أضاع الوقت	
@@ -22318,6 +22639,7 @@ PWN:smile.v.01		ابتسم
 PWN:smile.v.01		اِبْتسم	
 PWN:smile.v.01		سخر	
 PWN:smile.v.01		عبر بالإبتسام	
+PWN:smoke.n.01		دُخَان‎	
 PWN:smoke.n.01		دُخّان	
 PWN:smoke.n.02		دخان	duxaːn
 PWN:smoke.v.01		إنبعث الدخان	
@@ -22384,6 +22706,7 @@ PWN:social_station.n.01		مرْكز اِجْتِماعِي
 PWN:social_station.n.01		مكانة	
 PWN:social_station.n.01		مكانة اِجْتِماعِيّة	
 PWN:society.n.01		مُجْتمع	
+PWN:sodium.n.01		صوديوم	
 PWN:sofa.n.01		أريكة	
 PWN:soft.a.01		رخْو	
 PWN:soft.a.01		لين	lajːin
@@ -22497,6 +22820,7 @@ PWN:sound_property.n.01		خَاصّيَّة الصوت
 PWN:soup.n.01		حساء	ħasaːʔ
 PWN:soup.n.01		حِساء	
 PWN:soup.n.01		شربة	ʃurba
+PWN:soup.n.01		شُرْبَة‎	
 PWN:sour.a.02		حامض	ħaːmɨdˤ
 PWN:sour.v.01		أثار	
 PWN:sour.v.01		تخمر	
@@ -22789,6 +23113,7 @@ PWN:standing.n.01		مكانة
 PWN:star.n.01		نجْم	
 PWN:star.n.03		كوكب	kaukab
 PWN:star.n.03		نجم	nad͡ʒm
+PWN:starship.n.01		سَفِينَة فَضَائِيَّة‎	
 PWN:start.n.01		بدْء	
 PWN:start.n.01		بِداية	
 PWN:start.v.06		أدار المحرك	
@@ -23283,6 +23608,7 @@ PWN:stroll.v.01		جال
 PWN:stroll.v.01		مشى الهوينى	
 PWN:strong.a.01		قوي	qawiː
 PWN:strong.a.01		قويّ	
+PWN:strontium.n.01		سترانشيوم	
 PWN:structure.n.01		بُنْية	
 PWN:structure.n.01		ترْكِيبة	
 PWN:structure.n.02		ترْكِيب	
@@ -23470,6 +23796,7 @@ PWN:suit.v.02		وَافَقَ
 PWN:sulfide.n.01		سُلْفِيد	
 PWN:sulfide.n.01		كِبْرِيْتِيْد	
 PWN:sulfur.n.01		الرّقم الذّرِّي 16	
+PWN:sulfur.n.01		كبريت	
 PWN:sulfur.n.01		كِبْريت	
 PWN:sum.n.01		مبْلغ	
 PWN:sum.n.01		مبْلغ مالِي	
@@ -23488,6 +23815,7 @@ PWN:summons.n.02		اِسْتِدْعاء
 PWN:summons.n.02		طَلَب حُضُور	
 PWN:sun.n.01		شمس	ʃams
 PWN:sun.n.01		شمْس	
+PWN:sun.n.01		شَمْس	
 PWN:sunday.n.01		الأحد	
 PWN:sunday.n.01		يوم الأحد	jaum alʔaxad
 PWN:sunday.n.01		يَوْم الأحَد	
@@ -23719,6 +24047,8 @@ PWN:sweet.n.03		حلاوة
 PWN:sweet.n.03		حلويات	
 PWN:sweet.n.03		حلوِيّات	
 PWN:sweet.n.03		حلْوى	
+PWN:sweet.n.03		حَلْوَى	
+PWN:sweet_potato.n.02		بطاطة‎	
 PWN:sweetening.n.01		مُحلِّي	
 PWN:swell.v.03		اِنْتفخ	
 PWN:swim.v.01		أصاب بدوار	
@@ -23772,6 +24102,7 @@ PWN:system_of_measurement.n.01		نِظام قِياس
 PWN:system_of_measurement.n.01		نِظام مِتْرِي	
 PWN:table.n.01		جدْول	
 PWN:table.n.02		طاوِلة	
+PWN:table.n.02		طَاوِلَة	
 PWN:table.n.02		مائدة	maːʔida
 PWN:table.n.02		مِنْضدة	
 PWN:table.n.03		طاوِلة	
@@ -23873,6 +24204,7 @@ PWN:tall.a.01		عالِي
 PWN:tall.a.01		عالِي	
 PWN:tank.n.01		خزّان	
 PWN:tank.n.01		دبّابة	
+PWN:tantalum.n.01		تنتالم	
 PWN:tap.v.07		دقّ	
 PWN:tap.v.07		ربت	
 PWN:tap.v.07		طرق	
@@ -23927,6 +24259,7 @@ PWN:teaching_aid.n.01		مُعِدّات مُساعِدة لِلْتعْلِيم
 PWN:teaching_aid.n.01		مُعِدَّات مُسَاعِدَة لِلْتَعْلِيم	
 PWN:team.n.01		فرِيق	
 PWN:team.n.01		فِرْقة	
+PWN:teapot.n.01		إِبْرِيق الشَّاي‎	
 PWN:tear.n.01		دمعة	damʕa
 PWN:tear.v.01		أصاب بالفتق	
 PWN:tear.v.01		إندفع بسرعة	
@@ -23978,6 +24311,7 @@ PWN:tear.v.05		مزق حزنا
 PWN:tear.v.05		نهش	
 PWN:tear.v.05		هدم	
 PWN:technology.n.01		تقْنِية	
+PWN:technology.n.01		تكنيتيوم	
 PWN:teddy.n.01		دُمْية دُبّ	
 PWN:teddy.n.01		دُمْية على شكْل دُبّ	
 PWN:teem.v.01		اِكْتظّ	
@@ -23986,6 +24320,7 @@ PWN:telecommunicate.v.01		اِتّصل
 PWN:telegram.n.01		بَرْقِيَّة	
 PWN:telegram.n.01		تِلِغْرَاف	
 PWN:telephone.n.01		تلِفون	
+PWN:telephone.n.01		تِلِفُون	
 PWN:telephone.n.01		جِهاز التلِفون	
 PWN:telephone.n.01		جِهاز الهاتِف	
 PWN:telephone.n.01		هاتف	
@@ -23996,9 +24331,11 @@ PWN:tell.v.02		أخْبر
 PWN:tell.v.03		أخْبر	
 PWN:tell.v.03		حكي	ħakaː
 PWN:tell.v.03		روى	
+PWN:tellurium.n.01		تيلوريوم	
 PWN:temper.n.02		مِزاج	
 PWN:temperature.n.01		درجة الحرارة	
 PWN:temperature_unit.n.01		وَحْدَة حَرَارِيَّة	
+PWN:temple.n.01		مَعْبَد‎	
 PWN:temple.n.02		صُدْغ	
 PWN:temple.n.03		معْبد	
 PWN:temple.n.03		هيْكل	
@@ -24043,6 +24380,8 @@ PWN:tense.v.04		عصى
 PWN:tense.v.04		لوى ساقه	
 PWN:tense.v.04		وتر	
 PWN:tent.n.01		خَيْمَة	
+PWN:tent.n.01		خَيْمَة‎	
+PWN:terbium.n.01		تربيوم	
 PWN:term.n.02		فتْرة	
 PWN:term.n.02		مُدّة	
 PWN:term.n.02		مُدّة مُحدّدًة	
@@ -24090,6 +24429,7 @@ PWN:testify.v.02		قدم
 PWN:testify.v.02		مثل	
 PWN:tether.v.01		ربط	rabatˤɑ
 PWN:text.n.01		نصّ	
+PWN:thallium.n.01		ثاليوم	
 PWN:thank.v.01		تشكّر	
 PWN:thank.v.01		حمد	
 PWN:thank.v.01		حمد اللة	
@@ -24107,6 +24447,7 @@ PWN:then.r.01		وَ مِن ثَمَّ
 PWN:then.r.03		حينئذ	ħiːnaʔiðin
 PWN:theory.n.01		نظرية (نطرية)	
 PWN:theory.n.01		نظرِيّة	
+PWN:theory.n.01		نَظَرِيَّة‎	
 PWN:there.r.01		هناك	hunaːka
 PWN:there.r.03		إلى هناك	ilaː hunaːka
 PWN:thermometer.n.01		تِرْمُومِيتر	
@@ -24235,6 +24576,7 @@ PWN:thirty.s.01		ثلاثون	θalaːθuwna
 PWN:thorax.n.02		صدر	sˤɑdr
 PWN:thorax.n.02		صدْر	
 PWN:thorium.n.01		الثُّوريوم	
+PWN:thorium.n.01		ثوريوم	
 PWN:thousand.s.01		ألف	alf
 PWN:thread.n.01		خيط	xaitˤ
 PWN:thread.n.01		خَيْط	
@@ -24279,6 +24621,7 @@ PWN:thrust.v.01		غرز
 PWN:thrust.v.01		فرض عليه أمرا	
 PWN:thrust.v.01		نشب	
 PWN:thrust.v.01		نشر	
+PWN:thulium.n.01		ثليوم	
 PWN:thumb.n.01		ابهام	
 PWN:thunder.n.02		رعد	raʕd
 PWN:thunder.v.03		رعد	raʕada
@@ -24343,6 +24686,8 @@ PWN:tighten.v.02		ضاق
 PWN:tighten.v.02		ضيق	
 PWN:tighten.v.02		قسى	
 PWN:tighten.v.02		قوى	
+PWN:tile.n.01		قِرْمِيدَة‎	
+PWN:time.n.01		مرة	
 PWN:time.n.01		مرّة	
 PWN:time.n.02		توْقِيت	
 PWN:time.n.02		وَقْت	
@@ -24417,6 +24762,7 @@ PWN:tire.v.02		نهك
 PWN:tire.v.02		نهك قوة	
 PWN:tired.a.01		تعب	
 PWN:tissue.n.01		نسِيج	
+PWN:titanium.n.01		تيتانيوم	
 PWN:title.n.06		لَقَب	
 PWN:title.n.06		لَقَب الإِحْتِرام	
 PWN:title.n.09		لَقَب	
@@ -24507,6 +24853,7 @@ PWN:total.v.01		وصل
 PWN:total.v.01		وفق	
 PWN:total.v.01		وقع	
 PWN:total.v.01		وقع ضمن	
+PWN:toucan.n.01		طُوقَان	
 PWN:touch.n.05		لمْس	
 PWN:touch.n.05		لمْسة	
 PWN:touch.n.05		مُلامسة	
@@ -24594,6 +24941,7 @@ PWN:tract.n.01		رُقْعة
 PWN:tract.n.01		رُقْعَة	
 PWN:tract.n.01		قِطْعة أرْض	
 PWN:tractor.n.01		تراكْتُور	
+PWN:tractor.n.01		تَرَاكْتُور‎	
 PWN:tractor.n.01		جرّار	
 PWN:trade.n.02		صنْعة	
 PWN:trade.n.02		صِناْعة	
@@ -24918,6 +25266,7 @@ PWN:treatment.n.02		تدْبِير
 PWN:treatment.n.02		مُعالجة	
 PWN:treatment.n.02		مُعاملة	
 PWN:tree.n.01		شجرة	ʃad͡ʒara
+PWN:tree.n.01		شجر‎	
 PWN:tremble.v.01		إرْتعش	
 PWN:tremble.v.01		إٍرْتعد	
 PWN:tremble.v.01		إِرْتجف	
@@ -24966,6 +25315,7 @@ PWN:true.a.01		حقِيقِي
 PWN:true.a.01		صحِيح	
 PWN:trunk.n.01		جذع	d͡ʒiðʕ
 PWN:trust.n.01		وَدِيعَة	
+PWN:trust.v.01		آمَنَ‎	
 PWN:trust.v.01		أتمن	
 PWN:trust.v.01		أقسم	
 PWN:trust.v.01		أقْسم	
@@ -25071,6 +25421,7 @@ PWN:tumble.v.01		وقع بعنف
 PWN:tumble.v.01		وَقَعَ	
 PWN:tumor.n.01		تورُّم	
 PWN:tumor.n.01		وَرَم	
+PWN:tungsten.n.01		تنجستين	
 PWN:turkey.n.01		ديك رومي	
 PWN:turn.n.03		دوْر	
 PWN:turn.n.03		لعِب	
@@ -25151,6 +25502,7 @@ PWN:twitch.v.05		شد بقوة
 PWN:twitch.v.05		فرفر	
 PWN:twitch.v.05		نشل	
 PWN:two.s.01		اثنين	iθnajn
+PWN:two.s.01		اِثْنَانِ	
 PWN:type.n.01		نوْع	
 PWN:type.n.03		نوْع	
 PWN:type.n.06		حرْف طِباعي	
@@ -25159,6 +25511,7 @@ PWN:ugliness.n.01		قباحة
 PWN:ugliness.n.01		قُبْح	
 PWN:ugly.a.01		قبيح	
 PWN:ugly.a.01		قبِيح	
+PWN:ugly.a.01		قَبِيح	
 PWN:umbrella.n.01		مظلّة (مظلة)	
 PWN:unbutton.v.01		حلّ الأزْرار	
 PWN:unbutton.v.01		فك الزرار	
@@ -25402,6 +25755,11 @@ PWN:unsusceptibility.n.01		مناعة
 PWN:untie.v.01		حلّ	
 PWN:untie.v.01		فك الرباط	
 PWN:untie.v.01		فكّ	
+PWN:ununbium.n.01		ٲنون بيوم	
+PWN:ununhexium.n.01		ليفرموريوم	
+PWN:ununpentium.n.01		ٲنون بينتيوم	
+PWN:ununquadium.n.01		ٲنون كواديوم	
+PWN:ununtrium.n.01		ٲنون يريوم	
 PWN:unwrap.v.02		أباح	
 PWN:unwrap.v.02		أبدى للعيان	
 PWN:unwrap.v.02		أبْلغ	
@@ -25481,6 +25839,7 @@ PWN:upset.v.02		شوّش
 PWN:upset.v.02		غلظ	
 PWN:upset.v.02		قلب	
 PWN:uranium.n.01		العنصر الثاني والتسعون	
+PWN:uranium.n.01		يورانيوم	
 PWN:uranium.n.01		يُورانيُوم	
 PWN:urban_area.n.01		مِنْطقة حضرِيّة	
 PWN:urban_area.n.01		مِنْطقة مأهُولة بالسُكّان	
@@ -25602,6 +25961,7 @@ PWN:value.n.02		قِيمة
 PWN:value.n.03		قِيمة	
 PWN:value.n.03		قِيمة اِقْتِصادِيّة	
 PWN:values.n.01		قِيم	
+PWN:vanadium.n.01		فناديوم	
 PWN:vapor.n.01		بُخار	
 PWN:vapor.n.01		ضباب	
 PWN:variation.n.01		اِخْتِلاف	
@@ -26109,7 +26469,9 @@ PWN:wet.v.01		بلّل
 PWN:wet.v.01		بول	
 PWN:wet.v.01		تندى	
 PWN:wet.v.01		خضل	
+PWN:whale.n.02		حُوت‎	
 PWN:wheat.n.01		قمح	
+PWN:wheat.n.01		قمح‎	
 PWN:wheat.n.01		قمْح	
 PWN:wheel.n.01		دُولاب	
 PWN:wheel.n.01		عجلة	
@@ -26223,6 +26585,7 @@ PWN:wine.n.01		خَمْر
 PWN:wine.n.01		خَمْرَة	
 PWN:wine.n.01		نبيذ	
 PWN:wine.n.01		نَبِيذ	
+PWN:wine.n.01		نَبِيذ‎	
 PWN:wing.n.01		جناح	d͡ʒanaːħ
 PWN:winter.n.01		شتاء	ʃitaːʔ
 PWN:winter.n.01		شِتاء	
@@ -26232,6 +26595,7 @@ PWN:wipe.v.01		مسح	masaħa
 PWN:wipe.v.01		نشف	
 PWN:wire.n.01		سِلْك	
 PWN:wisdom.n.01		حِكْمَة	
+PWN:wisdom.n.01		حِكْمَة‎	
 PWN:wisdom.n.02		حِكْمة	
 PWN:wish.n.01		رغْبة	
 PWN:wish.n.01		مرام	
@@ -26504,6 +26868,7 @@ PWN:wrongdoing.n.02		سُوء التّصرُّف
 PWN:wrongdoing.n.02		سُوء السُّلُوك	
 PWN:wrongdoing.n.02		عمل سيِّء	
 PWN:wrongdoing.n.02		عمل شِرِّيْر	
+PWN:xenon.n.01		إكسينون	
 PWN:yacht.n.01		يَخْت	
 PWN:yard.n.07		ساحة	
 PWN:yard.n.09		زَرِيْبَة	
@@ -26533,6 +26898,7 @@ PWN:yield.v.01		قدّم
 PWN:yield.v.01		كشف نفسه	
 PWN:yield.v.01		منح	
 PWN:yield.v.01		وهب	
+PWN:yin.n.01 		لَبَن	
 PWN:yogurt.n.01		زَبادِي	
 PWN:young.a.01		حدث	
 PWN:young.a.01		شاب	ʃaːb
@@ -26549,7 +26915,12 @@ PWN:young_mammal.n.01		حيوانٌ ثدْيِيّ غيْر بالِغ
 PWN:youth.n.05		ريعان الشباب	
 PWN:youth.n.05		شباب	
 PWN:youth.n.05		صِبا	
+PWN:ytterbium.n.01		يتربيوم	
+PWN:yttrium.n.01		يتريوم	
 PWN:zero.s.01		صفر	
+PWN:zero.s.01		صِفْر‎	
+PWN:zinc.n.01		خارصين	
+PWN:zirconium.n.01		زيركونيوم	
 PWN:zone.n.01		إِقْلِيْم	
 PWN:zone.n.01		منْطِقة	
 PWN:zone.n.02		مَنْطِقَة	

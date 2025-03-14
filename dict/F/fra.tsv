@@ -1,22 +1,36 @@
 id	style	word	pronunciation
 PLX:1PL EXCL.pro		nous	
 PLX:1PL INCL.pro		nous	
+PLX:1PL POSS.pro		notre	
 PLX:1PL.pro		nous	
+PLX:1SG.pro		je	
 PLX:1SG.pro		je, moi	
+PLX:1SG.pro		me	
+PLX:2PL POSS.pro		votre	
 PLX:2PL.pro		vous	
 PLX:2SG.pro		tu	
+PLX:3PL POSS.pro		leur	
 PLX:3PL.pro		eux, elles	
+PLX:3PL.pro		ils ou elles	
 PLX:3SG F.pro		elle	
 PLX:3SG M.pro		il	
+PLX:3SG.pro		il ou elle	
 PLX:3SG.pro		il/elle	
 PLX:above.pp		au dessus	
 PLX:after.pp		après	
 PLX:and.cnj		et	
+PLX:antifascism.n		antifascisme	
+PLX:at.pp		a	
+PLX:at.pp		chez	
+PLX:at.pp		dans	
+PLX:at.pp		en	
 PLX:at.pp		à	
 PLX:be late.v		s’attarder, retarder	
 PLX:because.cnj		parce que	
+PLX:before.pp		avant	
 PLX:behind.pp		derrière	
 PLX:beside.pp		à côté de	
+PLX:can.v		savoir faire	
 PLX:carry in hand.v		porter (dans la main)	
 PLX:carry on head.v		porter (sur la tête)	
 PLX:carry on shoulder.v		porter (sur l'épaule)	
@@ -26,6 +40,7 @@ PLX:daughter-in-law (of man).n		bru, belle-fille (d'un homme)
 PLX:daughter-in-law (of woman).n		bru, belle-fille (d'une femme)	
 PLX:day after tomorrow.adv		après-demain	
 PLX:day before yesterday.adv		avant-hier	
+PLX:during.pp		durant	
 PLX:fall silent.v		se taire	
 PLX:father's brother.n		frère du père	
 PLX:father's sister.n		soeur du père	
@@ -34,15 +49,23 @@ PLX:father-in-law (of woman).n		beau-père (d'une femme)
 PLX:fermented alcohol.n		boisson fermentée	
 PLX:fish poison root.n		poison a poisson	
 PLX:fish trap.n		nasse, casier	
+PLX:from.pp		de	
+PLX:genderology.n		études de genre	
+PLX:haha.int		haha	
 PLX:head hair.n		cheveu	
+PLX:hello.int		allô	
+PLX:hello.int  		salut	
+PLX:hey.int		hé	
 PLX:how many pieces.pro		combien?	
 PLX:how much.pro		combien?	
+PLX:how.pro		comment	
 PLX:how.pro		comment?	
 PLX:if.cnj		si	
 PLX:in front of.pp		devant	
 PLX:in.pp		dans	
 PLX:initiation ceremony.n		cérémonie d’initiation	
 PLX:inside.pp		dans, dedans	
+PLX:kendo.n		kendo	
 PLX:manioc bread.n		pain de manioc	
 PLX:men's house.n		maison réservée aux hommes	
 PLX:mother's brother.n		frère de la mère	
@@ -51,8 +74,11 @@ PLX:mother-in-law (of man).n		belle-mère (d'un homme)
 PLX:mother-in-law (of woman).n		belle-mère (d'une femme)	
 PLX:netbag.n		filet	
 PLX:nothing.pro		rien	
+PLX:oganesson.n		oganesson	
 PLX:older sibling.n		frêre/sœur aîné(e)	
+PLX:one.pro		on	
 PLX:or.cnj		ou	
+PLX:other.pro		autre	
 PLX:outside.pp		dehors	
 PLX:parents-in-law.n		beaux-parents	
 PLX:sibling's child.n		neveu, nièce	
@@ -60,16 +86,27 @@ PLX:sibling-in-law.n		beau-frère / belle-sœur
 PLX:son-in-law (of man).n		gendre (d'un homme)	
 PLX:son-in-law (of woman).n		gendre (d'une femme)	
 PLX:stab to death.v		poignarder	
+PLX:tennessine.n		tennessine	
+PLX:than.pp		comme	
+PLX:than.pp		que	
+PLX:thanks.int		merci	
 PLX:that.pro		сe	
+PLX:this.pro		ce...ci	
 PLX:this.pro		celui-ci	
 PLX:under.pp		dessous, sous	
+PLX:what.pro		que	
+PLX:what.pro		quoi	
 PLX:what.pro		quoi?	
+PLX:when.pro		quand	
 PLX:when.pro		quand?	
+PLX:where.pro		où	
 PLX:where.pro		où?	
 PLX:which Q.pro		quel? lequel?	
+PLX:who.pro		qui	
 PLX:who.pro		qui?	
 PLX:why.pro		pourquoi?	
 PLX:with.pp		avec	
+PLX:with.pp		commun	
 PLX:without.pp		sans	
 PLX:yes.ptcl		oui	
 PLX:younger sibling.n		frêre/sœur cadet(te)	
@@ -125,6 +162,7 @@ PWN:absorb.v.04		absorber
 PWN:absorb.v.04		dessiner	
 PWN:absorb.v.04		sucer	
 PWN:absorb.v.04		tirer	
+PWN:absorb.v.04		éponger	
 PWN:absorb.v.09		absorber	
 PWN:absorb.v.09		accaparer	
 PWN:absorb.v.09		captiver	
@@ -205,6 +243,9 @@ PWN:accuse.v.01		accuser
 PWN:accuse.v.01		plaindre	
 PWN:accustomed.s.02		habituel	
 PWN:accustomed.s.02		usuel	
+PWN:accustomed.s.02 		habituel	
+PWN:accustomed.s.02 		normal	
+PWN:accustomed.s.02 		ordinaire	
 PWN:ace.n.03		as	
 PWN:ace.n.03		expert	
 PWN:ace.n.03		génie	
@@ -212,6 +253,7 @@ PWN:ace.n.03		sensation
 PWN:acerate_leaf.n.01		aiguille	
 PWN:acerate_leaf.n.01		spicule	
 PWN:acerate_leaf.n.01		épingle	
+PWN:acetylene.n.01		alcyne	
 PWN:ache.v.02		languir	
 PWN:ache.v.02		mourir	
 PWN:ache.v.02		pin	
@@ -444,6 +486,7 @@ PWN:advocate.n.01		partisan
 PWN:adz.n.01		aissette	
 PWN:adz.n.01		herminette	
 PWN:aerobic.a.01		aérobie	
+PWN:aerobic.a.01		aérobique	
 PWN:affair.n.02		amant	
 PWN:affair.n.02		intimité	
 PWN:affair.n.02		liaison	
@@ -524,6 +567,9 @@ PWN:agreement.n.04		rapport
 PWN:agreement.n.06		accord	
 PWN:agreement.n.06		contrat	
 PWN:agreement.n.06		pacte	
+PWN:agrobiology.n.01		agrobiologie	
+PWN:agronomist.n.01		Agronome	
+PWN:agronomy.n.01		agronomie	
 PWN:ahead.r.03		en avant	
 PWN:aid.n.02		aide	
 PWN:aid.n.02		assistance	
@@ -544,6 +590,7 @@ PWN:aim.v.01		former
 PWN:aim.v.01		prendre	
 PWN:aim.v.01		rechercher	
 PWN:aim.v.01		train	
+PWN:aim.v.01		viser	
 PWN:aim.v.06		viser	
 PWN:air.n.01		air	
 PWN:air.n.06		eau	
@@ -564,6 +611,7 @@ PWN:alarm.v.02		alerter
 PWN:alarm.v.02		avertir	
 PWN:alcohol.n.01		alcool	
 PWN:alcohol.n.01		boisson alcoolisée	
+PWN:alcoholic.a.01		alcoolique	
 PWN:alcoholic.n.01		alcoolique	
 PWN:alcoholic.n.01		alcoolisé	
 PWN:alcoholic.n.01		boisson	
@@ -571,8 +619,12 @@ PWN:alga.n.01		Algue
 PWN:alga.n.01		algue	
 PWN:alga.n.01		algues	
 PWN:alga.n.01		cil	
+PWN:algometry.n.01		algométrie	
 PWN:alive.a.01		vivant	
 PWN:alkaline.a.01		alcalin	
+PWN:alkaline.a.01		basique	
+PWN:alkene.n.01		alcène	
+PWN:alkyl.n.01		alkyle	
 PWN:all.a.01		tous	
 PWN:all.a.01		tout	
 PWN:all.a.01		tout	
@@ -599,6 +651,7 @@ PWN:allocate.v.01		distribuer
 PWN:allocate.v.01		découper	
 PWN:allocate.v.01		répartir	
 PWN:allocate.v.01		ventiler	
+PWN:allophone.n.01		allophone	
 PWN:allotment.n.02		allocation	
 PWN:allotment.n.02		découpage	
 PWN:allotment.n.02		répartition	
@@ -618,6 +671,7 @@ PWN:allow.v.06		tenir compte
 PWN:allow.v.06		tenir en compte	
 PWN:alloy.n.01		alliage	
 PWN:alloy.n.01		métal	
+PWN:almond.n.01		amande	
 PWN:almond.n.02		amande	
 PWN:almond.n.02		amandier	
 PWN:alone.r.02		rien	
@@ -639,6 +693,7 @@ PWN:alteration.n.02		modification
 PWN:alternate.v.01		alterner	
 PWN:alternate.v.01		sauter	
 PWN:alternatively.r.01		au lieu de	
+PWN:altruism.n.01		altruisme	
 PWN:aluminum.n.01		alu	
 PWN:aluminum.n.01		aluminium	
 PWN:always.r.01		toujours	
@@ -659,6 +714,8 @@ PWN:ambush.n.01		piège
 PWN:american_football.n.01		football américain	
 PWN:americium.n.01		am	
 PWN:americium.n.01		américium	
+PWN:amide.n.01		amide	
+PWN:amine.n.01		amine	
 PWN:ammunition.n.01		balle	
 PWN:amortize.v.01		amortir	
 PWN:amphibian.n.03		amphibie	
@@ -675,7 +732,9 @@ PWN:amusing.s.02		comique
 PWN:amusing.s.02		drôle	
 PWN:amusing.s.02		ridicule	
 PWN:anaerobic.a.01		anaérobie	
+PWN:anaerobic.a.01		anaérobique	
 PWN:anal.a.01		anal	
+PWN:analgesia.n.01		analgésie	
 PWN:analgesic.n.01		analgésique	
 PWN:analgesic.n.01		antalgique	
 PWN:analyze.v.01		analyser	
@@ -714,6 +773,7 @@ PWN:animal.n.01		faune
 PWN:animal.n.01		être	
 PWN:animation.n.01		vie	
 PWN:anion.n.01		anion	
+PWN:anion.n.01 		anion	
 PWN:ankle.n.01		cheville	
 PWN:ankle.n.01		enkel	
 PWN:annex.n.01		aile	
@@ -729,6 +789,7 @@ PWN:announce.v.02		déclarer
 PWN:announce.v.04		annoncer	
 PWN:announce.v.04		prédire	
 PWN:anode.n.01		anode	
+PWN:anode.n.01 		anode	
 PWN:anoint.v.02		enduire	
 PWN:anoint.v.02		huile	
 PWN:anoint.v.02		oindre	
@@ -736,6 +797,7 @@ PWN:anoint.v.02		pétrole
 PWN:anoint.v.02		étaler	
 PWN:anoint.v.02		étendre	
 PWN:anonymous.a.01		anonyme	
+PWN:anonymous.a.01		innomé	
 PWN:anorexia.n.01		anorexie	
 PWN:another.s.01		autre	
 PWN:answer.n.01		conséquence	
@@ -862,6 +924,7 @@ PWN:aptitude.n.01		intelligence
 PWN:aquatic_plant.n.01		plante aquatique	
 PWN:arachnid.n.01		arachnida	
 PWN:arachnid.n.01		arachnide	
+PWN:arachnophobia.n.01		arachnophobie	
 PWN:arch.n.01		arc	
 PWN:arch.n.04		arc	
 PWN:arch.n.04		arche	
@@ -987,7 +1050,9 @@ PWN:asian.a.01		Asiatique
 PWN:asian.a.01		asiatique	
 PWN:asian.n.01		Asiate	
 PWN:asian.n.01		Asiatique	
+PWN:asian.n.01		asiatique	
 PWN:ask.v.01		demander	
+PWN:ask.v.01		poser un question; est-ce que	
 PWN:ask.v.02		demander	
 PWN:ask.v.02		prier	
 PWN:ask.v.04		attendre	
@@ -1092,8 +1157,11 @@ PWN:attack.n.01		assaut
 PWN:attack.n.01		attaque	
 PWN:attack.n.05		attaque	
 PWN:attack.n.05		attentat	
+PWN:attack.v.01		agression	
 PWN:attack.v.01		assaillir	
+PWN:attack.v.01		attaque; agresser	
 PWN:attack.v.01		attaquer	
+PWN:attacker.n.01		agresseur	
 PWN:attainment.n.01		réalisation	
 PWN:attempt.n.01		essai	
 PWN:attention.n.01		attention	
@@ -1145,8 +1213,10 @@ PWN:avaricious.s.01		avide
 PWN:avaricious.s.01		cupide	
 PWN:avaricious.s.01		cupide	
 PWN:avaricious.s.01		gourmand	
+PWN:avocado.n.01		avocat	
 PWN:avoid.v.01		éviter	
 PWN:awake.a.01		réveillé	
+PWN:awake.a.01		éveillé	
 PWN:awaken.v.01		décevoir	
 PWN:awaken.v.01		hérisser	
 PWN:awaken.v.01		réveiller	
@@ -1192,6 +1262,7 @@ PWN:bacon.n.01		lardon
 PWN:bad.a.01		mal	
 PWN:bad.a.01		mauvais	
 PWN:bag.n.01		sac	
+PWN:baggage.n.01		bagage	
 PWN:bait.n.02		appât	
 PWN:bake.v.02		cuire au four	
 PWN:balance.n.01		équilibre	
@@ -1206,6 +1277,9 @@ PWN:ball.n.01		bal
 PWN:ball.n.01		balle	
 PWN:ball.n.01		ballon	
 PWN:ball.n.01		couille	
+PWN:ball.n.01 		balle	
+PWN:ball.n.01 		boule	
+PWN:ball.n.01 		sphère	
 PWN:ball.n.03		Terre	
 PWN:ball.n.03		bal	
 PWN:ball.n.03		globe	
@@ -1218,6 +1292,7 @@ PWN:ball.n.08		boule
 PWN:ball.n.09		bal	
 PWN:ball.n.09		balle	
 PWN:ball.n.09		boule	
+PWN:ball.n.09 		bal	
 PWN:balloon.n.01		ballon	
 PWN:bamboo.n.01		bambou	
 PWN:banana.n.01		banane	
@@ -1225,6 +1300,7 @@ PWN:banana.n.01		bananier
 PWN:banana.n.02		banane	
 PWN:banana.n.02		bananier	
 PWN:band.n.02		groupe	
+PWN:bandage.n.01		bandage	
 PWN:bandicoot.n.01		Peramelidae	
 PWN:bandicoot.n.01		bandicoots	
 PWN:bandicoot.n.01		peramelidae	
@@ -1275,6 +1351,8 @@ PWN:barrel.n.02		tonneau
 PWN:barrier.n.01		barrière	
 PWN:barrier.n.01		entrave	
 PWN:barroom.n.01		bar	
+PWN:barroom.n.01		pub	
+PWN:barroom.n.01		taverne	
 PWN:barrow.n.03		brouette	
 PWN:barter.v.01		troc	
 PWN:barter.v.01		troquer	
@@ -1464,12 +1542,14 @@ PWN:behavior.n.01		conduite
 PWN:behavior.n.02		comportement	
 PWN:behavior.n.04		comportement	
 PWN:behind.r.01		derrière	
+PWN:being.n.01		essence	
 PWN:being.n.01		existence	
 PWN:being.n.01		être	
 PWN:belief.n.01		conviction	
 PWN:belief.n.01		croyance	
 PWN:belief.n.01		foi	
 PWN:believe.v.01		croire	
+PWN:believe.v.01		fier	
 PWN:believe.v.03		avoir foi	
 PWN:believe.v.03		confiance	
 PWN:believe.v.03		croire	
@@ -1568,6 +1648,7 @@ PWN:big_brother.n.02		frêre aîné
 PWN:big_brother.n.02		grand frère	
 PWN:big_brother.n.02		loft story	
 PWN:big_sister.n.01		soeur aînée	
+PWN:bilingual.s.01		bilingue	
 PWN:bill.n.02		compte	
 PWN:bill.n.02		facture	
 PWN:bill.n.02		facturer	
@@ -1593,6 +1674,7 @@ PWN:birth.n.02		naissance
 PWN:birth_certificate.n.01		acte de naissance	
 PWN:birthday.n.02		anniversaire	
 PWN:birthday.n.02		fête	
+PWN:birthplace.n.01		lieu de naissance	
 PWN:bishop.n.01		fou	
 PWN:bishop.n.01		évêque	
 PWN:bishop.n.03		fou	
@@ -1603,6 +1685,7 @@ PWN:bishop.n.03		évêque
 PWN:bishop.n.03		évêque	
 PWN:bismuth.n.01		BI	
 PWN:bismuth.n.01		bismuth	
+PWN:bison.n.01		bison	
 PWN:bite.v.01		mordre	
 PWN:bitter.s.06		amer	
 PWN:bizarre.s.01		aberrant	
@@ -1628,7 +1711,9 @@ PWN:blend.v.01		mélanger
 PWN:blend.v.03		combiner	
 PWN:blend.v.03		mélanger	
 PWN:blend.v.03		mêler	
+PWN:bless.v.01		benir	
 PWN:bless.v.01		bénir	
+PWN:bless.v.01		féliciter	
 PWN:blind.a.01		aveugle	
 PWN:blind.n.01		aveugle	
 PWN:blind.n.03		store	
@@ -1671,6 +1756,8 @@ PWN:blue.s.01		bleu
 PWN:blue.s.01		bleue	
 PWN:blue.s.01		bleuté	
 PWN:blue.s.01		bleuâtre	
+PWN:bluish_green.s.01		cyan	
+PWN:bluish_green.s.01		turquois	
 PWN:blunder.n.01		Bêtisier	
 PWN:blunder.n.01		blooper	
 PWN:blunder.n.01		bobo	
@@ -1719,6 +1806,8 @@ PWN:body_louse.n.01		microbes
 PWN:body_louse.n.01		pou	
 PWN:body_of_water.n.01		eau	
 PWN:body_of_water.n.01		étendue d'eau	
+PWN:bogeyman.n.01		croque-mitaine	
+PWN:bohrium.n.01		bohrium	
 PWN:bohrium.n.01		unnilhexium	
 PWN:boil.n.01		bouillir	
 PWN:boil.n.01		furoncle	
@@ -1732,6 +1821,8 @@ PWN:boil_down.v.02		concentrer
 PWN:boil_down.v.02		souder	
 PWN:boisterous.s.03		agité	
 PWN:bolshevik.n.02		bolchevique	
+PWN:bolshevik.n.02 		bolchevik	
+PWN:bolshevism.n.01		bolchevisme	
 PWN:bolt.n.03		serrure	
 PWN:bolt.n.03		verrou	
 PWN:bomb.n.01		bombardement	
@@ -1765,6 +1856,7 @@ PWN:boring.s.01		ennuyeuse
 PWN:boring.s.01		ennuyeux	
 PWN:boring.s.01		fastidieux	
 PWN:boron.n.01		bore	
+PWN:boron.n.01		boron	
 PWN:borrow.v.01		emprunter	
 PWN:bosom.n.02		poitrine	
 PWN:bosom.n.02		sein	
@@ -1805,6 +1897,7 @@ PWN:bouquet.n.02		bouquet
 PWN:bouquet.n.02		douceur	
 PWN:bouquet.n.02		fragrance	
 PWN:bow.n.04		arc	
+PWN:bow.n.04		arc à flèches	
 PWN:bow.n.04		proue	
 PWN:bow.n.05		arc	
 PWN:bow.n.05		proue	
@@ -2034,6 +2127,7 @@ PWN:bundle.n.02		nœud
 PWN:burden.n.04		charge	
 PWN:burden.n.04		fardeau	
 PWN:burden.v.01		lester	
+PWN:bureaucracy.n.02 		bureaucratie	
 PWN:burn.v.01		brûler	
 PWN:burn.v.01		incendier	
 PWN:burn.v.03		brûler	
@@ -2071,6 +2165,7 @@ PWN:bustle.n.01		remue-ménage
 PWN:busy.s.04		occupé	
 PWN:busy.v.01		occuper	
 PWN:busy.v.01		occupé	
+PWN:butane.n.01		butane	
 PWN:butcher.v.01		abattre	
 PWN:butter.n.01		beurre	
 PWN:butter_knife.n.01		couteau (de table)	
@@ -2101,11 +2196,13 @@ PWN:cabbage.n.01		chou
 PWN:cable.n.02		câble	
 PWN:cable.n.02		ligne de transmission	
 PWN:cadaver.n.01		cadavre	
+PWN:cadaver.n.01		corps	
 PWN:cadaver.n.01		dépouille	
 PWN:cadmium.n.01		cadmium	
 PWN:cadmium.n.01		cd-rom	
 PWN:caftan.n.02		cafetan	
 PWN:caftan.n.02		caftan	
+PWN:caftan.n.02		robe	
 PWN:cage.n.01		cage	
 PWN:cage.n.01		poulailler	
 PWN:cake.n.03		gâteau	
@@ -2333,7 +2430,9 @@ PWN:catcher.n.01		receveur
 PWN:category.n.02		catégorie	
 PWN:caterpillar.n.01		chenille	
 PWN:cathode.n.01		cathode	
+PWN:cathode.n.01 		cathode	
 PWN:cation.n.01		cation	
+PWN:cation.n.01 		cation	
 PWN:cattle.n.01		bos primigenius f. taurus	
 PWN:cattle.n.01		bos primigenius taurus	
 PWN:cattle.n.01		bos taurus	
@@ -2397,6 +2496,7 @@ PWN:cellular_telephone.n.01		téléphone portable
 PWN:cemetery.n.01		Cimetière	
 PWN:cemetery.n.01		cimetière	
 PWN:cemetery.n.01		nécropole	
+PWN:cemetery.n.01 		cimetière	
 PWN:center.n.01		centre	
 PWN:center.n.01		coeur	
 PWN:center.n.01		milieu	
@@ -2464,6 +2564,7 @@ PWN:change.n.01		modification
 PWN:change.n.01		variation	
 PWN:change.n.03		changement	
 PWN:change.n.03		modification	
+PWN:change.v.01		altérer	
 PWN:change.v.01		changer	
 PWN:change.v.01		modifier	
 PWN:change.v.01		transformer	
@@ -2551,6 +2652,7 @@ PWN:checkmate.n.02		échec et mat
 PWN:cheek.n.01		joue	
 PWN:cheek.n.01		visage	
 PWN:cheese.n.01		fromage	
+PWN:cheetah.n.01		guépard	
 PWN:chemical.n.01		chimie	
 PWN:chemical.n.01		chimique	
 PWN:chemical.n.01		substance	
@@ -2574,6 +2676,7 @@ PWN:chest_of_drawers.n.01		secrétaire
 PWN:chest_of_drawers.n.01		sein	
 PWN:chestnut.n.02		châtaigne	
 PWN:chestnut.n.02		châtaignier	
+PWN:chestnut.n.02		marron	
 PWN:chestnut.n.02		marronnier	
 PWN:chew.n.02		mastication	
 PWN:chew.n.02		mâcher	
@@ -2645,6 +2748,7 @@ PWN:christianity.n.01		christianisme
 PWN:christmas.n.01		Noël	
 PWN:christmas.n.01		Yule	
 PWN:chromium.n.01		chrome	
+PWN:chronology.n.01		chronologie	
 PWN:chrysanthemum.n.01		chrysanthème	
 PWN:church.n.01		Église	
 PWN:church.n.01		église	
@@ -2718,6 +2822,7 @@ PWN:claw.n.01		griffe
 PWN:claw.n.01		pince	
 PWN:clay.n.01		argile	
 PWN:clay.n.01		argile,glaise	
+PWN:clean.a.01		net	
 PWN:clean.a.01		propre	
 PWN:clean.v.01		nettoyer	
 PWN:clean.v.02		nettoyer	
@@ -2864,6 +2969,7 @@ PWN:coherence.n.01		cohérence
 PWN:coherence.n.01		cohésion	
 PWN:coil.n.01		hélice	
 PWN:coil.n.01		spirale	
+PWN:coin.n.01		monnaie	
 PWN:coin.n.01		pièce	
 PWN:coin.n.01		pièce de monnaie	
 PWN:coinage.n.01		monnaie	
@@ -2969,6 +3075,7 @@ PWN:commission.n.03		commission
 PWN:commit.v.03		institutionnaliser	
 PWN:commit.v.03		interner	
 PWN:commitment.n.04		engagement	
+PWN:committee.n.01		comisión	
 PWN:committee.n.01		comité	
 PWN:committee.n.01		commission	
 PWN:committee.n.02		comité	
@@ -3177,9 +3284,11 @@ PWN:connection.n.03		connecteur
 PWN:connection.n.03		connexion	
 PWN:connection.n.04		connexion	
 PWN:connection.n.04		relation	
+PWN:connection.n.06		chaînon	
 PWN:connection.n.06		connexion	
 PWN:connection.n.06		liaison	
 PWN:connection.n.06		lien	
+PWN:connection.n.06		maillon	
 PWN:connection.n.07		connexion	
 PWN:connection.n.07		correspondance	
 PWN:connection.n.07		liaison	
@@ -3237,6 +3346,7 @@ PWN:construct.v.01		construire
 PWN:construction.n.01		bâtiment	
 PWN:construction.n.01		construction	
 PWN:construction.n.01		immeuble	
+PWN:construction.n.01 		bâtiment	
 PWN:consult.v.01		consulter	
 PWN:consume.v.02		consommer	
 PWN:consume.v.02		prendre	
@@ -3270,6 +3380,7 @@ PWN:contamination.n.03		contamination
 PWN:contamination.n.03		pollution	
 PWN:contend.v.06		batailler	
 PWN:contend.v.06		combattre	
+PWN:contend.v.06		guerre	
 PWN:contend.v.06		lutter	
 PWN:contend.v.06		se battre	
 PWN:content.n.05		contenu	
@@ -3279,6 +3390,7 @@ PWN:context.n.02		cadre
 PWN:context.n.02		circonstance	
 PWN:context.n.02		contexte	
 PWN:continue.v.01		continuer	
+PWN:continue.v.01		reprendre	
 PWN:continue.v.03		confirmer	
 PWN:continue.v.03		continuer	
 PWN:continue.v.03		de	
@@ -3366,6 +3478,7 @@ PWN:copy.v.01		copier
 PWN:copy.v.04		compiler	
 PWN:copy.v.04		copier	
 PWN:cord.n.01		corde	
+PWN:coriander.n.01		coriandre	
 PWN:cork.n.01		bouchon	
 PWN:cork.n.01		liège	
 PWN:cormorant.n.01		cormoran	
@@ -3443,6 +3556,7 @@ PWN:countryside.n.01		pays
 PWN:countryside.n.01		paysage	
 PWN:county.n.01		comté	
 PWN:county.n.01		département	
+PWN:couple.n.04		duo	
 PWN:courage.n.01		abattage	
 PWN:courage.n.01		bravoure	
 PWN:courage.n.01		cour	
@@ -3669,6 +3783,7 @@ PWN:dance.v.02		danse
 PWN:dance.v.02		danser	
 PWN:dance_step.n.01		pas	
 PWN:dancing.n.01		danse	
+PWN:dancing.n.01 		dance	
 PWN:dandruff.n.02		pellicule	
 PWN:dandruff.n.02		pellicules	
 PWN:danger.n.01		danger	
@@ -3685,11 +3800,13 @@ PWN:dark.a.01		noir
 PWN:dark.a.01		obscur	
 PWN:dark.a.01		sombre	
 PWN:dark.n.01		obscurité	
+PWN:darmstadtium.n.01		darmstadtium	
 PWN:dart.v.02		flash	
 PWN:dart.v.02		tirer	
 PWN:dart.v.02		trait	
 PWN:data.n.01		data	
 PWN:data.n.01		donnée	
+PWN:data.n.01		données	
 PWN:data.n.01		information	
 PWN:data.n.01		renseignement	
 PWN:data_processing.n.01		traitement de données	
@@ -3822,6 +3939,7 @@ PWN:deer.n.01		cervidae
 PWN:deer.n.01		cervidés	
 PWN:deer.n.01		chevreuil	
 PWN:deer.n.01		daim, cerf, chevreuil	
+PWN:deface.v.01		défigurer	
 PWN:defeat.n.01		défaite	
 PWN:defect.n.03		défaut	
 PWN:defect.n.03		dégât	
@@ -3849,6 +3967,7 @@ PWN:deflect.v.02		détourner
 PWN:deflect.v.02		dévier	
 PWN:defray.v.01		défrayer	
 PWN:deft.s.01		adroit	
+PWN:defunct.s.01		défunt	
 PWN:defy.v.01		résister	
 PWN:defy.v.01		soutenir	
 PWN:defy.v.01		tenir	
@@ -3891,6 +4010,7 @@ PWN:demand.v.01		réclamer
 PWN:demeanor.n.01		agissement	
 PWN:demeanor.n.01		comportement	
 PWN:demeanor.n.01		conduite	
+PWN:democracy.n.01		démocratie	
 PWN:democracy.n.02		communauté	
 PWN:democracy.n.02		démocratie	
 PWN:democracy.n.02		république	
@@ -3917,6 +4037,7 @@ PWN:dent.n.03		tache
 PWN:dentist.n.01		dentiste	
 PWN:denude.v.01		nu	
 PWN:deny.v.04		abjurer	
+PWN:deny.v.04		dénier	
 PWN:deny.v.04		nier	
 PWN:deny.v.04		refuser	
 PWN:deny.v.04		rejeter	
@@ -3935,6 +4056,7 @@ PWN:department.n.01		section
 PWN:department.n.01		service	
 PWN:departure.n.01		départ	
 PWN:depend.v.01		dépendre	
+PWN:depopulate.v.01		dépeupler	
 PWN:deposit.n.09		dépôt	
 PWN:deposit.v.02		banque	
 PWN:deposit.v.02		déposer	
@@ -3978,6 +4100,7 @@ PWN:desire.v.01		souhaiter
 PWN:desire.v.01		vouloir	
 PWN:desire.v.01		vouloir,désirer	
 PWN:desk.n.01		bureau	
+PWN:despair.v.01		désespérer	
 PWN:dessert.n.01		dessert	
 PWN:destiny.n.01		destin	
 PWN:destiny.n.01		destinée	
@@ -4055,6 +4178,7 @@ PWN:diarrhea.n.01		Diarrhée
 PWN:diarrhea.n.01		diarrhée	
 PWN:diary.n.01		journal	
 PWN:diary.n.01		journal intime	
+PWN:dichotomy.n.01		dichotomie	
 PWN:dictate.v.02		dicter	
 PWN:dictator.n.01		dictateur	
 PWN:dictator.n.02		dictateur	
@@ -4117,6 +4241,7 @@ PWN:dining.n.01		restauration
 PWN:dining_room.n.01		salle à manger	
 PWN:dinner.n.01		déjeuner	
 PWN:dinner.n.01		dîner	
+PWN:dinosaur.n.01		dinosaure	
 PWN:diocese.n.01		diocèse	
 PWN:diocese.n.01		éparchie	
 PWN:diocese.n.01		épiscopat	
@@ -4129,6 +4254,8 @@ PWN:direct.a.01		direct
 PWN:direct.a.01		droit	
 PWN:direct_action.n.01		action directe	
 PWN:direction.n.01		chemin	
+PWN:direction.n.01		cible; objectif	
+PWN:direction.n.01		direction	
 PWN:direction.n.01		trajet	
 PWN:direction.n.02		direction	
 PWN:direction.n.02		sens	
@@ -4152,6 +4279,7 @@ PWN:disagreement.n.03		désaccord
 PWN:disappear.v.01		disparaître	
 PWN:disappointment.n.01		Déception	
 PWN:disappointment.n.01		déception	
+PWN:disapprove.v.02		désapprouver	
 PWN:disapprove.v.02		rejeter	
 PWN:disapprove.v.02		repousser	
 PWN:disavowal.n.01		abjuration	
@@ -4220,6 +4348,7 @@ PWN:disintegrate.v.01		désintégrer
 PWN:disk.n.01		disque	
 PWN:disk.n.01		soucoupe	
 PWN:disk_drive.n.01		disque dur	
+PWN:diskette.n.01		disquette	
 PWN:dislike.n.02		antipathie	
 PWN:dislocate.v.01		disloquer	
 PWN:dislocate.v.01		démettre	
@@ -4299,7 +4428,9 @@ PWN:district.n.01		zone
 PWN:disturb.v.01		déranger	
 PWN:disturb.v.01		gêner	
 PWN:disturb.v.01		préoccuper	
+PWN:ditch.n.01		canal	
 PWN:ditch.n.01		fossé	
+PWN:ditch.n.01		tranchée	
 PWN:dive.v.03		plonger	
 PWN:diversion.n.01		amusement	
 PWN:diversion.n.01		loisir	
@@ -4499,6 +4630,7 @@ PWN:dry.v.02		sécher
 PWN:dry_season.n.01		saison sèche	
 PWN:dryness.n.01		sec	
 PWN:dryness.n.01		sècheresse	
+PWN:dubnium.n.01		dubnium	
 PWN:dubnium.n.01		unnilhexium	
 PWN:duck.n.01		canard	
 PWN:duck.n.01		cane	
@@ -4516,9 +4648,11 @@ PWN:durable.s.01		durable
 PWN:durable.s.02		durable	
 PWN:durables.n.01		bien durable	
 PWN:duration.n.01		durée	
+PWN:durian.n.01		durian	
 PWN:dust.n.01		poussière	
 PWN:duty.n.01		devoir	
 PWN:duty.n.01		obligation	
+PWN:duty.n.01		religion	
 PWN:duty.n.01		responsabilité	
 PWN:duty.n.02		devoir	
 PWN:duty.n.02		obligation	
@@ -4565,6 +4699,7 @@ PWN:earnest.s.01		sincère
 PWN:earnest.s.01		solennel	
 PWN:earnest.s.01		sérieux	
 PWN:earring.n.01		boucle d'oreille	
+PWN:earth.n.01		Terre	
 PWN:earth.n.01		terre	
 PWN:earth.n.02		sol	
 PWN:earth.n.02		terre	
@@ -4574,10 +4709,13 @@ PWN:earth.n.05		terre
 PWN:earthquake.n.01		séisme	
 PWN:earthquake.n.01		tremblement de terre	
 PWN:earthquake.n.01		tremblement de terre, séisme	
+PWN:east.n.01		east	
 PWN:east.n.01		est	
 PWN:east.n.01		est,orient	
+PWN:east.n.01		orient	
 PWN:easter.n.01		Pâques	
 PWN:eat.v.01		manger	
+PWN:eat.v.01		manger ou boire	
 PWN:eat.v.02		alimenter	
 PWN:eat.v.02		déjeuner	
 PWN:eat.v.02		manger	
@@ -4634,6 +4772,7 @@ PWN:efficiency.n.01		efficacité
 PWN:efficiency.n.01		rendement	
 PWN:effort.n.02		effort	
 PWN:effort.n.02		peine	
+PWN:egg.n.01		oeuf	
 PWN:egg.n.01		œuf	
 PWN:egg.n.02		oeuf	
 PWN:egg.n.02		œuf	
@@ -4649,6 +4788,7 @@ PWN:egypt.n.01		République arabe unie
 PWN:egypt.n.01		Thèbes	
 PWN:egypt.n.01		Égypte	
 PWN:eight.s.01		10	
+PWN:eight.s.01		8	
 PWN:eight.s.01		huit	
 PWN:eighty.s.01		huitante	
 PWN:eighty.s.01		quatre-vingts	
@@ -4662,6 +4802,7 @@ PWN:elapse.v.01		passer
 PWN:elapse.v.01		se passer	
 PWN:elapse.v.01		écouler	
 PWN:elastic.a.01		souple	
+PWN:elastic.a.01		élastique	
 PWN:elate.v.01		exalter	
 PWN:elbow.n.01		coude	
 PWN:elder.s.01		sureau	
@@ -4742,6 +4883,7 @@ PWN:embrace.v.02		étreinte
 PWN:emerge.v.01		donner	
 PWN:emerge.v.01		émerger	
 PWN:emigration.n.01		émigration	
+PWN:emirate.n.01		émirat	
 PWN:emit.v.02		respirer	
 PWN:emit.v.02		émettre	
 PWN:emotion.n.01		émotion	
@@ -4798,6 +4940,7 @@ PWN:endowment.n.01		cadeau
 PWN:endowment.n.01		don	
 PWN:endowment.n.01		dotation	
 PWN:endowment.n.01		talent	
+PWN:enemy.n.01		ennemi	
 PWN:enemy.n.02		adversaire	
 PWN:enemy.n.02		ennemi	
 PWN:enemy.n.02		opposition	
@@ -4897,6 +5040,7 @@ PWN:erase.v.03		effacer
 PWN:erase.v.03		supprimer	
 PWN:erbium.n.01		erbium	
 PWN:erosion.n.01		érosion	
+PWN:erotic.s.01		érotique	
 PWN:err.v.01		faire erreur	
 PWN:err.v.01		fauter	
 PWN:err.v.01		se tromper	
@@ -4933,6 +5077,7 @@ PWN:estimate.v.01		estimer
 PWN:estimate.v.01		juger	
 PWN:estimate.v.01		supposer	
 PWN:estimate.v.01		évaluer	
+PWN:ethane.n.01		éthane	
 PWN:ethical_motive.n.01		morale	
 PWN:ethical_motive.n.01		moralité	
 PWN:ethical_motive.n.01		éthique	
@@ -4940,6 +5085,9 @@ PWN:ethnic_group.n.01		ethnicité
 PWN:ethnic_group.n.01		ethnie	
 PWN:ethnic_group.n.01		groupe ethnique	
 PWN:ethnic_group.n.01		nationalité	
+PWN:ethyl.n.01		éthyle	
+PWN:ethyl_alcohol.n.01		éthanol	
+PWN:euphoria.n.01		euphorie	
 PWN:european.n.01		Européen	
 PWN:european.n.01		Européenne	
 PWN:europium.n.01		europium	
@@ -5006,6 +5154,8 @@ PWN:exchange.v.01		échanger
 PWN:exclaim.v.01		cri	
 PWN:exclaim.v.01		crier	
 PWN:exclaim.v.01		pleurer	
+PWN:exclude.v.01		exclure	
+PWN:exclusive.s.01		exclusif	
 PWN:execute.v.01		effectuer	
 PWN:execute.v.01		exécuter	
 PWN:executive.n.01		cadre	
@@ -5049,6 +5199,7 @@ PWN:expect.v.01		prévoir
 PWN:expect.v.03		attendre	
 PWN:expectation.n.03		anticipation	
 PWN:expectation.n.03		attente	
+PWN:expel.v.01		expulser	
 PWN:expensive.a.01		cher	
 PWN:expensive.a.01		chère	
 PWN:expensive.a.01		coûteuse	
@@ -5287,6 +5438,8 @@ PWN:fat.s.05		fécond
 PWN:fat.s.05		productif	
 PWN:fat.s.05		riche	
 PWN:father-in-law.n.01		beau-père	
+PWN:father.n.01		papa	
+PWN:father.n.01		pere	
 PWN:father.n.01		père	
 PWN:fatherland.n.01		patrie	
 PWN:fatherland.n.01		pays	
@@ -5322,8 +5475,10 @@ PWN:feature.n.02		trait
 PWN:february.n.01		février	
 PWN:fecal_matter.n.01		BM	
 PWN:fecal_matter.n.01		abattement	
+PWN:fecal_matter.n.01		caca	
 PWN:fecal_matter.n.01		fèces	
 PWN:fecal_matter.n.01		matière fécale	
+PWN:fecal_matter.n.01		merde	
 PWN:fecal_matter.n.01		tabouret	
 PWN:feed.n.01		aliment	
 PWN:feed.n.01		alimentation	
@@ -5354,6 +5509,7 @@ PWN:female.a.01		femelle
 PWN:female.a.01		femelle, feminin	
 PWN:female.a.01		féminin	
 PWN:female.n.01		femelle	
+PWN:female.n.01		femme	
 PWN:female.n.02		femelle	
 PWN:female.n.02		femme	
 PWN:female.s.03		femelle	
@@ -5396,6 +5552,7 @@ PWN:fiction.n.01		fiction
 PWN:fiction.n.01		science-fiction	
 PWN:fidget.v.01		gigoter	
 PWN:field.n.01		champ	
+PWN:field.n.01		place	
 PWN:field_hockey.n.01		hockey	
 PWN:field_hockey.n.01		hockey sur gazon	
 PWN:field_hockey.n.01		hockey sur glace	
@@ -5464,6 +5621,7 @@ PWN:fire.n.03		incendie
 PWN:fire.n.03		incendie	
 PWN:fire.n.03		propagateur	
 PWN:fire.n.03		propagateur	
+PWN:fire.n.03 		flamme	
 PWN:fire.n.05		eau	
 PWN:fire.n.05		eau minérale	
 PWN:fire.n.05		nappe	
@@ -5493,11 +5651,13 @@ PWN:fishnet.n.01		filet de pêche
 PWN:fist.n.01		poing	
 PWN:fit.v.02		aller	
 PWN:five.s.01		10	
+PWN:five.s.01		5	
 PWN:five.s.01		cinq	
 PWN:fix.v.12		fixer	
 PWN:fix.v.12		préparer	
 PWN:fixed.s.01		fixe	
 PWN:fixed.s.01		fixe	
+PWN:flag.n.01		drapeau	
 PWN:flag.n.01		pavillon	
 PWN:flag.n.01		étendard	
 PWN:flag.n.04		bannière	
@@ -5532,6 +5692,7 @@ PWN:flea.n.01		aphaniptères
 PWN:flea.n.01		puce	
 PWN:flea.n.01		siphonaptera	
 PWN:flea.n.01		siphonaptères	
+PWN:fleawort.n.01		ispaghul	
 PWN:flee.v.01		fuir	
 PWN:flee.v.01		mouche	
 PWN:flee.v.01		s'enfuir	
@@ -5540,6 +5701,7 @@ PWN:flee.v.01		échapper
 PWN:flee.v.01		évacuer	
 PWN:fleet.n.04		convoi	
 PWN:fleet.n.04		flotte	
+PWN:fleeting.s.01		momentané	
 PWN:flesh.n.01		chair	
 PWN:flesh.n.01		via	
 PWN:flex.v.05		déformer	
@@ -5587,6 +5749,7 @@ PWN:floor.n.06		plancher
 PWN:floor.n.06		étage	
 PWN:flour.n.01		farine	
 PWN:flow.n.01		flux	
+PWN:flow.n.01		écoulement	
 PWN:flow.n.03		courant	
 PWN:flow.n.03		flux	
 PWN:flow.n.04		flux	
@@ -5688,6 +5851,7 @@ PWN:force.n.03		pouvoir
 PWN:force.n.03		puissance	
 PWN:force.n.03		vigueur	
 PWN:force.n.04		force	
+PWN:foreigner.n.01		alien	
 PWN:foreigner.n.01		étranger	
 PWN:foreigner.n.01		étrangère	
 PWN:foreman.n.01		chef	
@@ -5696,6 +5860,7 @@ PWN:foreman.n.01		directeur
 PWN:forest.n.01		bois	
 PWN:forest.n.01		bois, forêt	
 PWN:forest.n.01		forêt	
+PWN:forest.n.01		jungle	
 PWN:forest.n.02		bois	
 PWN:forest.n.02		forêt	
 PWN:forest.n.02		timberland	
@@ -5727,6 +5892,7 @@ PWN:formation.n.01		formation
 PWN:formulation.n.01		formulation	
 PWN:formulation.n.01		préparation	
 PWN:fortress.n.01		bastille	
+PWN:fortress.n.01		fort	
 PWN:fortress.n.01		forteresse	
 PWN:fortune.n.04		chance	
 PWN:fortune.n.04		destin	
@@ -5741,6 +5907,7 @@ PWN:foundation.n.03		base
 PWN:foundation.n.03		fondation	
 PWN:foundation.n.03		pied	
 PWN:four.s.01		10	
+PWN:four.s.01		4	
 PWN:four.s.01		quatre	
 PWN:fox.n.01		renard	
 PWN:fracture.n.01		casser	
@@ -5975,6 +6142,7 @@ PWN:gestate.v.01		conceptualiser
 PWN:gestate.v.01		concevoir	
 PWN:gestate.v.01		convertir	
 PWN:gestate.v.01		imaginer	
+PWN:gesticulate.v.01		gesticuler	
 PWN:gesture.n.01		geste	
 PWN:gesture.n.02		geste	
 PWN:gesture.n.02		gesticulation	
@@ -6076,6 +6244,7 @@ PWN:go_out.v.04		donner
 PWN:go_out.v.04		sortir	
 PWN:go_steady.v.01		voir	
 PWN:goal.n.01		but	
+PWN:goal.n.01		destination	
 PWN:goal.n.01		fin	
 PWN:goal.n.01		objectif	
 PWN:goalkeeper.n.01		gardien de but	
@@ -6094,6 +6263,7 @@ PWN:golf_equipment.n.01		matériel de golf
 PWN:good.a.01		bon	
 PWN:good_fortune.n.01		bonne chance, bonheur	
 PWN:goose.n.01		oie	
+PWN:gospel.n.01		évangile	
 PWN:gossip.n.02		cancan	
 PWN:gossip.n.02		commentaire	
 PWN:gossip.n.02		commérage	
@@ -6122,6 +6292,7 @@ PWN:gram.n.01		gramme
 PWN:gram_molecule.n.01		mol	
 PWN:gram_molecule.n.01		mole	
 PWN:gram_molecule.n.01		taupe	
+PWN:gram_molecule.n.01		unité	
 PWN:gramineous_plant.n.01		herbe	
 PWN:gramineous_plant.n.01		plante graminée	
 PWN:grammar.n.01		grammaire	
@@ -6157,6 +6328,7 @@ PWN:grape.n.01		grappe
 PWN:grape.n.01		raisin	
 PWN:grape.n.01		raisins	
 PWN:grasp.v.01		saisir, attraper	
+PWN:grass.n.01		gazon	
 PWN:grass.n.01		herbe	
 PWN:grass_skirt.n.01		jupe en rafia	
 PWN:grasshopper.n.01		criquet	
@@ -6236,6 +6408,7 @@ PWN:grow.v.02		augmenter
 PWN:grow.v.02		développer	
 PWN:grow.v.02		grandir	
 PWN:grow.v.02		pousser	
+PWN:grow.v.03		croître	
 PWN:grow.v.03		développer	
 PWN:grow.v.03		grandir	
 PWN:grow.v.03		grandir, croitre, pousser	
@@ -6275,6 +6448,7 @@ PWN:gull.n.02		mouette
 PWN:gun.n.01		fusil	
 PWN:gun.n.01		fusil, canon	
 PWN:gun.n.01		pistolet	
+PWN:gunnysack.n.01 		sac	
 PWN:guru.n.03		gourou	
 PWN:gymnastics.n.01		gymnastique	
 PWN:habit.n.01		coutume	
@@ -6322,6 +6496,7 @@ PWN:handle.n.01		manche
 PWN:handle.n.01		poignée	
 PWN:handle.n.01		prise	
 PWN:handle.v.04		manipuler	
+PWN:hang.v.01		pendre	
 PWN:hang.v.01		suspendre	
 PWN:hang.v.02		accrocher	
 PWN:hang.v.02		suspendre	
@@ -6387,6 +6562,7 @@ PWN:hash_out.v.01		discuter
 PWN:hash_out.v.01		débattre	
 PWN:hash_out.v.01		délibérer	
 PWN:hash_out.v.01		s'entretenir sur	
+PWN:hassium.n.01		hassium	
 PWN:haste.n.02		hâte	
 PWN:haste.n.02		se dépêcher	
 PWN:haste.n.02		se hâter	
@@ -6578,6 +6754,7 @@ PWN:hindrance.n.03		ingérence
 PWN:hinduism.n.01		hindouisme	
 PWN:hinge.n.01		charnière	
 PWN:hinge.n.01		gond	
+PWN:hint.n.01		indice	
 PWN:hip.n.01		hanche	
 PWN:hippopotamus.n.01		hippopotame	
 PWN:hippopotamus.n.01		hippopotamus	
@@ -6596,6 +6773,7 @@ PWN:history.n.02		récit
 PWN:history.n.04		histoire	
 PWN:history.n.04		historique	
 PWN:hit.n.01		coup	
+PWN:hit.v.02		battre	
 PWN:hit.v.02		heurter	
 PWN:hit.v.05		frappe	
 PWN:hit.v.05		frapper	
@@ -6648,6 +6826,7 @@ PWN:hollow.v.02		creuser
 PWN:holmium.n.01		HO	
 PWN:holmium.n.01		holmium	
 PWN:holocaust.n.01		holocauste	
+PWN:hologram.n.01		hologramme	
 PWN:holography.n.01		holographie	
 PWN:holography.n.01		holographie ; stéréoscopie	
 PWN:holy.a.01		sacré	
@@ -6682,6 +6861,7 @@ PWN:hope.n.02		espérer
 PWN:hope.n.04		espoir	
 PWN:hope.v.02		espoir	
 PWN:hope.v.02		espérer	
+PWN:hopeless.a.01		désespéré	
 PWN:horizontal.a.01		horizontal	
 PWN:horizontal.a.01		horizontal	
 PWN:horizontal_surface.n.01		niveau	
@@ -6724,6 +6904,8 @@ PWN:hotel.n.01		hôtel
 PWN:hour.n.01		heure	
 PWN:hour.n.02		heure	
 PWN:hour.n.03		heure	
+PWN:house.n.01		domicile	
+PWN:house.n.01		foyer	
 PWN:house.n.01		maison	
 PWN:house.n.03		bâtiment	
 PWN:house.n.03		maison	
@@ -6756,6 +6938,7 @@ PWN:huge.s.01		vaste
 PWN:huge.s.01		énorme	
 PWN:huge.s.01		étendu	
 PWN:hum.v.02		bourdonner	
+PWN:humane.s.03		humain	
 PWN:humanism.n.02		humanisme	
 PWN:humid.s.01		humide	
 PWN:humid.s.01		mouillé	
@@ -7136,6 +7319,7 @@ PWN:interruption.n.02		interruption
 PWN:intersection.n.03		intersection	
 PWN:intestine.n.01		intestin	
 PWN:intestine.n.01		intestins, boyaux	
+PWN:intolerable.a.01		intolérable	
 PWN:intolerance.n.02		intolérance	
 PWN:intoxicated.a.01		bourré	
 PWN:intoxicated.a.01		empégué	
@@ -7197,6 +7381,7 @@ PWN:iron.n.03		fer à repasser
 PWN:iron_out.v.01		régler	
 PWN:ironing_board.n.01		planche à repasser	
 PWN:irregular.a.01		irrégulier	
+PWN:islam.n.01		Islam	
 PWN:islam.n.01		Islamisme	
 PWN:islam.n.01		islam	
 PWN:island.n.01		île	
@@ -7218,6 +7403,7 @@ PWN:jacket.n.01		veston
 PWN:jacket.n.02		blouson	
 PWN:jacket.n.02		couverture	
 PWN:jacket.n.02		veston	
+PWN:jade.n.01		jade	
 PWN:jaguar.n.01		jaguar	
 PWN:jaguar.n.01		panthera onca	
 PWN:jaguar.n.01		panthère	
@@ -7229,6 +7415,9 @@ PWN:japanese.a.01		Japonaise
 PWN:japanese.a.01		japonais	
 PWN:japanese.a.01		nippon	
 PWN:jar.n.01		bouteille	
+PWN:jar.n.01		carafe	
+PWN:jar.n.01		cruche	
+PWN:jar.n.01		jarre	
 PWN:jar.n.01		pot	
 PWN:jasmine.n.01		jasmin	
 PWN:jaw.n.01		machoire	
@@ -7286,6 +7475,7 @@ PWN:joy.n.01		allégresse
 PWN:joy.n.01		joie	
 PWN:judaism.n.01		judaïsme	
 PWN:judge.n.01		juge	
+PWN:judge.n.01		juje	
 PWN:judge.n.01		juriste	
 PWN:judge.n.01		justice	
 PWN:judge.n.01		magistrat	
@@ -7309,6 +7499,7 @@ PWN:juice.n.01		jus
 PWN:juice.n.01		sève	
 PWN:jujutsu.n.01		jiu-jitsu	
 PWN:jujutsu.n.01		ju-jitsu	
+PWN:jujutsu.n.01		jujitsu	
 PWN:jujutsu.n.01		jūjutsu	
 PWN:july.n.01		juillet	
 PWN:jump.n.05		parachutage	
@@ -7324,6 +7515,7 @@ PWN:jungle.n.01		forêt vierge
 PWN:jungle.n.01		jungle	
 PWN:jurisdiction.n.02		juridiction	
 PWN:jury.n.01		jury	
+PWN:just.a.01		juste	
 PWN:justice.n.01		justice	
 PWN:justification.n.01		défense	
 PWN:justification.n.01		justification	
@@ -7439,8 +7631,11 @@ PWN:knot.v.02		nouer
 PWN:know-how.n.01		savoir-faire	
 PWN:know.v.01		connaître	
 PWN:know.v.01		savoir	
+PWN:know.v.01 		connaître	
+PWN:know.v.01 		savoir	
 PWN:know.v.02		connaître	
 PWN:know.v.02		savoir	
+PWN:know.v.02		savoir faire	
 PWN:know.v.04		connaître	
 PWN:know.v.04		savoir	
 PWN:knowledge_domain.n.01		base de connaissance	
@@ -7666,6 +7861,7 @@ PWN:letter.n.01		lettre
 PWN:letter.n.01		missive	
 PWN:letter.n.02		lettre	
 PWN:letter_opener.n.01		coupe-papier	
+PWN:lettuce.n.02		laitue	
 PWN:lettuce.n.02		moutarde	
 PWN:lettuce.n.02		sénevé	
 PWN:lever.n.01		levier	
@@ -7792,6 +7988,7 @@ PWN:link.n.09		lien
 PWN:lion.n.01		lion	
 PWN:lion.n.01		panthera leo	
 PWN:lion.n.01		roi des animaux	
+PWN:lip.n.01		lièvre	
 PWN:lip.n.01		lèvre	
 PWN:lip.n.01		lèvres	
 PWN:lipid.n.01		lipide	
@@ -7817,6 +8014,7 @@ PWN:little.r.01		guère
 PWN:little.r.01		guère	
 PWN:little.r.01		petit	
 PWN:little.r.01		petit	
+PWN:little.r.01		peu	
 PWN:little.s.05		faible	
 PWN:little.s.05		jeune	
 PWN:little.s.05		petit	
@@ -7874,6 +8072,7 @@ PWN:log_in.v.01		identifier
 PWN:logic.n.01		logique	
 PWN:loin.n.02		Lombes	
 PWN:long.a.01		long	
+PWN:long.a.01		prolongé	
 PWN:long.a.02		long	
 PWN:long.r.01		long	
 PWN:long.r.01		longtemps	
@@ -8016,6 +8215,8 @@ PWN:magnificence.n.02		splendeur
 PWN:magnitude.n.01		importance	
 PWN:magnitude.n.01		magnitude	
 PWN:magpie.n.01		pie	
+PWN:maid.n.01		bonne	
+PWN:maid.n.01		domestique	
 PWN:mail.n.01		courrier	
 PWN:mail.n.02		courrier, poste	
 PWN:mail.n.02		poste	
@@ -8039,6 +8240,7 @@ PWN:make.v.01		rendre
 PWN:make.v.02		rendre	
 PWN:make.v.03		créer	
 PWN:make.v.03		faire	
+PWN:make.v.16		faire	
 PWN:make.v.27		faire	
 PWN:make.v.49		faire pipi	
 PWN:make.v.49		pisser	
@@ -8154,6 +8356,7 @@ PWN:marker.n.02		marquage
 PWN:marker.n.02		marque	
 PWN:market.n.01		marché	
 PWN:market.n.02		marché	
+PWN:marketplace.n.02		bazar	
 PWN:marketplace.n.02		marché	
 PWN:marmot.n.01		marmot	
 PWN:marmot.n.01		marmotte	
@@ -8242,6 +8445,7 @@ PWN:mean.v.01		avoir l'intention
 PWN:mean.v.01		signifier	
 PWN:mean.v.01		vouloir dire	
 PWN:mean.v.03		signifier	
+PWN:mean.v.03		voiloir dire	
 PWN:mean.v.03		vouloir dire	
 PWN:meaning.n.01		importance	
 PWN:meaning.n.01		importation	
@@ -8328,7 +8532,9 @@ PWN:meeting.n.04		assemblée
 PWN:meeting.n.04		rencontre	
 PWN:meeting.n.04		réunion	
 PWN:megalomania.n.01		mégalomanie	
+PWN:meitnerium.n.01		meitnérium	
 PWN:melt.v.01		fondre	
+PWN:melt.v.01		melt	
 PWN:member.n.01		membre	
 PWN:member.n.02		membre	
 PWN:membership.n.01		rang	
@@ -8396,6 +8602,7 @@ PWN:microbe.n.01		germe
 PWN:microbe.n.01		insecte	
 PWN:microbe.n.01		microbe	
 PWN:microorganism.n.01		micro-organisme	
+PWN:microorganism.n.01		microbe	
 PWN:microscope.n.01		microscope	
 PWN:middle.n.02		milieu	
 PWN:middle_class.n.01		bourgeoisie	
@@ -8449,6 +8656,7 @@ PWN:minority.n.02		minorité
 PWN:mint.n.02		menthe	
 PWN:minute.n.01		min	
 PWN:minute.n.01		minute	
+PWN:miracle.n.01		merveille	
 PWN:miracle.n.01		miracle	
 PWN:mirror.n.01		glace	
 PWN:mirror.n.01		miroir	
@@ -8634,7 +8842,9 @@ PWN:move.v.02		mouvoir,bouger
 PWN:move.v.02		transférer	
 PWN:move.v.03		déplacer	
 PWN:move.v.04		circuler	
+PWN:move.v.04		déménager	
 PWN:move.v.04		déplacer	
+PWN:move.v.04		s'installer	
 PWN:movement.n.03		déplacement	
 PWN:movement.n.03		mouvement	
 PWN:movement.n.04		mouvement social	
@@ -8725,6 +8935,7 @@ PWN:name.v.01		nommer
 PWN:nape.n.01		cou	
 PWN:nape.n.01		nuque	
 PWN:narcosis.n.01		narcose	
+PWN:narcotic.n.01		dope	
 PWN:narcotic.n.01		drogue	
 PWN:narcotic.n.01		narcotique	
 PWN:narrative.n.01		histoire	
@@ -8736,6 +8947,7 @@ PWN:nation.n.02		pays
 PWN:nation.n.02		peuple	
 PWN:national.n.01		sujet	
 PWN:native.a.01		aborigène	
+PWN:native.a.02 		maternel	
 PWN:native.n.01		autochtone	
 PWN:native.n.01		natif	
 PWN:natural.s.04		naturel	
@@ -8855,7 +9067,9 @@ PWN:night.n.03		nuit
 PWN:night.n.04		nuit	
 PWN:night.n.04		soirée	
 PWN:night.n.07		nuit	
+PWN:nightingale.n.01		rossignol	
 PWN:nine.s.01		10	
+PWN:nine.s.01		9	
 PWN:nine.s.01		neuf	
 PWN:ninety.s.01		nonante	
 PWN:ninety.s.01		quatre-vingt-dix	
@@ -8872,6 +9086,7 @@ PWN:nit.n.02		lente
 PWN:nitrogen.n.01		azote	
 PWN:nitrogen.n.01		nitrogène	
 PWN:no.a.01		non	
+PWN:no.r.03		ne...pas	
 PWN:no.r.03		non	
 PWN:nobelium.n.01		nobélium	
 PWN:nobelium.n.01		non	
@@ -8937,6 +9152,7 @@ PWN:nudist.n.01		nudiste
 PWN:number.n.01		nombre	
 PWN:number.n.02		nombre	
 PWN:number.n.02		nombre, numéro	
+PWN:number.n.02		numéro	
 PWN:number.n.08		numéro	
 PWN:numeral.n.01		chiffre	
 PWN:nurse.n.01		infirmier	
@@ -9005,6 +9221,7 @@ PWN:offer.n.02		offre
 PWN:offer.v.02		offrir	
 PWN:offer.v.02		proposer	
 PWN:office.n.01		bureau	
+PWN:office.n.01		office	
 PWN:office.n.05		bureau	
 PWN:official.a.01		officiel	
 PWN:official.n.01		cadre	
@@ -9052,12 +9269,14 @@ PWN:omen.n.01		augure
 PWN:omen.n.01		pronostic	
 PWN:omen.n.01		présage	
 PWN:omen.n.01		présage, augure	
+PWN:once.r.01		une fois	
 PWN:once.r.03		anciennement	
 PWN:once.r.03		auparavant	
 PWN:once.r.03		autrefois	
 PWN:one-half.n.01		demi	
 PWN:one-half.n.01		moitié	
 PWN:one-half.n.01		semestre	
+PWN:one.s.01		1	
 PWN:one.s.01		10	
 PWN:one.s.01		un	
 PWN:oneness.n.01		union	
@@ -9119,8 +9338,10 @@ PWN:option.n.02		faculté
 PWN:option.n.02		option	
 PWN:option.n.02		possibilité	
 PWN:oral.n.01		oral	
+PWN:orange.n.03		fruit	
 PWN:orange.n.03		orange	
 PWN:orange.n.03		oranger	
+PWN:orange.s.01		couleur	
 PWN:orange.s.01		orange	
 PWN:orchestra.n.01		orchestre	
 PWN:orchestra.n.02		fauteuils d'orchestre	
@@ -9135,6 +9356,7 @@ PWN:order.v.01		enjoindre
 PWN:order.v.01		enjoindre	
 PWN:order.v.01		ordre	
 PWN:order.v.01		ordre	
+PWN:order.v.01		orgue	
 PWN:order.v.05		ordre	
 PWN:ordering.n.01		ordre	
 PWN:orderliness.n.02		ordre	
@@ -9175,6 +9397,7 @@ PWN:original.a.03		initial
 PWN:original.a.03		original	
 PWN:original.s.01		original	
 PWN:ornamentation.n.03		embellissement	
+PWN:orphan.n.01		originel	
 PWN:orphan.n.01		orphelin	
 PWN:orphan.n.01		orphelin, orpheline	
 PWN:orthodoxy.n.01		orthodoxie	
@@ -9308,6 +9531,7 @@ PWN:parcel.n.02		part
 PWN:parcel.n.02		portion	
 PWN:pare.v.04		rogner	
 PWN:pare.v.04		tailler	
+PWN:parent.n.01		géniteur	
 PWN:parent.n.01		parent	
 PWN:parent.n.01		parents	
 PWN:parentage.n.02		ascendance	
@@ -9330,6 +9554,7 @@ PWN:parliament.n.01		parlement
 PWN:parody.n.02		décollage	
 PWN:parody.n.02		parodie	
 PWN:parrot.n.01		perroquet	
+PWN:part.n.02		fragment	
 PWN:part.n.02		morceau, partie	
 PWN:part.n.02		part	
 PWN:part.n.02		partie	
@@ -9493,6 +9718,7 @@ PWN:penis.n.01		verge
 PWN:people.n.01		gens	
 PWN:people.n.03		peuple	
 PWN:people.n.03		tribu	
+PWN:pepper.n.01		piment	
 PWN:pepper.n.01		piper nigrum	
 PWN:pepper.n.01		poivre	
 PWN:pepper.n.01		poivrier	
@@ -9581,6 +9807,7 @@ PWN:phase.n.01		phase
 PWN:phase.n.01		période	
 PWN:phase.n.01		stade	
 PWN:phase.n.01		étape	
+PWN:phenol.n.01		phénol	
 PWN:phenomenon.n.01		phénomène	
 PWN:phenotype.n.01		phénotype	
 PWN:phobia.n.01		peur	
@@ -9637,6 +9864,7 @@ PWN:pillow.n.01		oreiller
 PWN:pinch.v.01		pincer	
 PWN:pinch.v.01		presser	
 PWN:pine.n.01		pin	
+PWN:pineapple.n.01		ananas	
 PWN:pink.s.01		rose	
 PWN:pink.s.01		rosâtre	
 PWN:pipe.n.01		pipe	
@@ -9647,6 +9875,7 @@ PWN:pipe.n.02		tuyau
 PWN:pipe.n.02		tuyautage	
 PWN:piquant.s.01		piquant	
 PWN:piquant.s.01		sarriette	
+PWN:piquant.s.01		épicé	
 PWN:piranha.n.02		piranha	
 PWN:piston.n.02		kolben	
 PWN:piston.n.02		piston	
@@ -9703,6 +9932,7 @@ PWN:plan.v.02		programmer
 PWN:plane.n.02		plan	
 PWN:plane.n.03		plan	
 PWN:planet.n.01		planète	
+PWN:planet.n.01		planéte	
 PWN:planning.n.03		planification	
 PWN:planning.n.03		préparation	
 PWN:plant.n.01		fabrique	
@@ -9729,6 +9959,7 @@ PWN:platinum.n.01		platine
 PWN:play.n.01		drame	
 PWN:play.n.01		jeu	
 PWN:play.n.01		jouer	
+PWN:play.n.01		pièce de théâtre (drame	
 PWN:play.n.03		jeu	
 PWN:play.n.05		jeu	
 PWN:play.n.06		jeu	
@@ -9758,7 +9989,9 @@ PWN:plaza.n.01		esplanade
 PWN:plaza.n.01		place	
 PWN:plaza.n.01		rond-point	
 PWN:pleasure.n.01		plaisir	
+PWN:plot.n.01		combine	
 PWN:plot.n.01		conspiration,complot	
+PWN:plot.n.01		intrigue	
 PWN:plot.n.01		jeu	
 PWN:plot.n.01		partie	
 PWN:plot.n.02		parcelle	
@@ -9771,6 +10004,7 @@ PWN:plow.v.01		labourer
 PWN:plow.v.01		tourner	
 PWN:plug.n.01		bouchon	
 PWN:plug.n.01		capsule	
+PWN:plum.n.01		abricot	
 PWN:plum.n.01		prune	
 PWN:plum.n.01		prunier	
 PWN:plumb_line.n.01		fil à plomb	
@@ -9805,6 +10039,7 @@ PWN:polarity.n.02		signe
 PWN:polarization.n.01		polarisation	
 PWN:pole.n.01		barre	
 PWN:pole.n.01		perche	
+PWN:pole.n.01		pôle	
 PWN:pole.n.01		timon	
 PWN:police.n.01		droit	
 PWN:police.n.01		loi	
@@ -9828,8 +10063,10 @@ PWN:political_orientation.n.01		idéologie
 PWN:political_system.n.01		Régime politique	
 PWN:political_system.n.01		régime politique	
 PWN:political_system.n.01		système politique	
+PWN:politician.n.01		administrateur	
 PWN:politician.n.01		homme politique	
 PWN:politician.n.01		politicien	
+PWN:politician.n.01		politique	
 PWN:politics.n.01		politique	
 PWN:politics.n.03		politique	
 PWN:pollute.v.01		contaminer	
@@ -9844,6 +10081,7 @@ PWN:polyhedron.n.01		polyèdre
 PWN:polysemous.s.01		polysémique	
 PWN:polystyrene.n.01		Polystyrène	
 PWN:polystyrene.n.01		polystyrène	
+PWN:polystyrene.n.01		polystyréne	
 PWN:poncho.n.01		poncho	
 PWN:pool.n.01		pool	
 PWN:pool.n.01		rassembler	
@@ -9873,8 +10111,10 @@ PWN:population.n.02		population
 PWN:population.n.03		population	
 PWN:population.n.03		univers	
 PWN:populism.n.01		populisme	
+PWN:porcelain.n.01		porcelaine	
 PWN:porch.n.01		porche	
 PWN:port.n.01		port	
+PWN:port.n.01		porte	
 PWN:port.n.03		Embrasure	
 PWN:port.n.03		embrasure	
 PWN:port.n.03		hublot	
@@ -9938,6 +10178,7 @@ PWN:postpone.v.01		repousser
 PWN:postpone.v.01		retarder	
 PWN:pot.n.01		casserole, marmite	
 PWN:pot.n.01		pot	
+PWN:pot.n.01		vase	
 PWN:pot.n.03		pot	
 PWN:potassium.n.01		k	
 PWN:potassium.n.01		potassium	
@@ -9994,6 +10235,7 @@ PWN:praise.n.01		louange, éloge
 PWN:praise.n.01		prestige	
 PWN:praise.n.01		réputation	
 PWN:praise.v.01		louer	
+PWN:praise.v.01		éloge	
 PWN:praseodymium.n.01		praséodyme	
 PWN:prawn.n.01		crevette	
 PWN:pray.v.01		prier	
@@ -10097,6 +10339,7 @@ PWN:print.v.04		imprimer
 PWN:print.v.04		rétorquer	
 PWN:printer.n.02		imprimante	
 PWN:printer.n.02		imprimeur	
+PWN:printer.n.02		presser	
 PWN:prison.n.01		prison	
 PWN:prison.n.02		prison	
 PWN:prisoner.n.01		détenu	
@@ -10139,6 +10382,7 @@ PWN:processing.n.01		maturation moléculaire
 PWN:processing.n.01		procédure	
 PWN:processing.n.01		traitement	
 PWN:processing.n.01		transformation	
+PWN:produce.v.02		construire	
 PWN:produce.v.02		créer	
 PWN:produce.v.02		effectuer	
 PWN:produce.v.02		fabriquer	
@@ -10184,6 +10428,7 @@ PWN:prolong.v.01		tirer en longueur
 PWN:promethium.n.01		prométhium	
 PWN:promethium.n.01		prométhéum	
 PWN:promise.n.01		promesse	
+PWN:promise.n.01		vœu	
 PWN:promise.v.01		assurer	
 PWN:promise.v.01		garantir	
 PWN:promise.v.01		promesse	
@@ -10312,6 +10557,9 @@ PWN:puissance.n.01		force
 PWN:puissance.n.01		puissance	
 PWN:pull.v.01		tirer	
 PWN:pulley.n.01		poulie	
+PWN:pulp.n.01		foufou	
+PWN:pulp.n.01		pulpe	
+PWN:pulp.n.01		pâte	
 PWN:pulsate.v.01		battre	
 PWN:pulsation.n.01		impulsion	
 PWN:pulsation.n.01		pouls	
@@ -10333,6 +10581,9 @@ PWN:pure.s.07		propre
 PWN:pure.s.07		pur	
 PWN:pure.s.07		vertueux	
 PWN:pure.s.07		vierge	
+PWN:purple.s.01		indigo	
+PWN:purple.s.01		lilas	
+PWN:purple.s.01		magenta	
 PWN:purple.s.01		pourpre	
 PWN:purple.s.01		violet	
 PWN:purple.s.01		violette	
@@ -10405,6 +10656,7 @@ PWN:question.n.01		question
 PWN:question.n.03		interrogatif	
 PWN:question.n.03		interrogatoire	
 PWN:question.n.03		question	
+PWN:question.n.03 		question	
 PWN:quickly.r.01		diligemment	
 PWN:quickly.r.01		rapidement	
 PWN:quickly.r.01		vite	
@@ -10414,12 +10666,15 @@ PWN:quiet.a.02		tranquille, silencieux, calme
 PWN:quota.n.01		quota	
 PWN:quote.v.01		citer	
 PWN:rabbit.n.01		lapin	
+PWN:rabbit.n.01		lièvre	
 PWN:rabbit.n.03		hase	
 PWN:rabbit.n.03		lapin	
 PWN:rabbit.n.03		lièvre	
+PWN:raccoon.n.02		race	
 PWN:raccoon.n.02		raton laveur	
 PWN:race.n.01		course	
 PWN:race.n.03		race	
+PWN:race.n.03		raton laveur	
 PWN:radiate.v.05		rayonner	
 PWN:radiation.n.01		radiation	
 PWN:radiation.n.01		rayonnement	
@@ -10475,6 +10730,7 @@ PWN:ram.n.05		bélier
 PWN:range.n.04		chaine de montagnes	
 PWN:range.n.04		cordillère	
 PWN:rank.n.02		grade	
+PWN:rank.n.02		rang	
 PWN:rape.n.03		attentat	
 PWN:rape.n.03		viol	
 PWN:rape.n.03		violation	
@@ -10483,6 +10739,7 @@ PWN:rape.v.01		déshonorer
 PWN:rape.v.01		ravir	
 PWN:rape.v.01		violer	
 PWN:rapid.s.02		rapide	
+PWN:rapid.s.02		vite	
 PWN:rare.s.04		rare	
 PWN:rarely.r.01		rarement	
 PWN:rat.n.01		rat	
@@ -10500,6 +10757,7 @@ PWN:rattlesnake.n.01		serpent à sonnettes
 PWN:raven.n.01		corbeau	
 PWN:raven.n.01		corvus corax	
 PWN:raven.n.01		grand corbeau	
+PWN:ravioli.n.01		quenelle	
 PWN:ravioli.n.01		ravioli	
 PWN:raw.a.03		cru	
 PWN:raw_material.n.01		matière première	
@@ -10692,6 +10950,7 @@ PWN:relationship.n.03		relation
 PWN:relative.n.01		parent	
 PWN:relative.n.01		parenté	
 PWN:relax.v.01		décompresser	
+PWN:relax.v.01		relâcher	
 PWN:relay.n.04		course de relais	
 PWN:relay.n.04		relais	
 PWN:release.n.09		issue	
@@ -10789,6 +11048,7 @@ PWN:representation.n.04		agence
 PWN:representation.n.10		représentation	
 PWN:representative.n.01		mandataire	
 PWN:representative.n.01		représentant	
+PWN:representative.n.01		représentant (délégué	
 PWN:reproduce.v.01		reproduire	
 PWN:reproduce.v.02		procréer	
 PWN:reproductive_cell.n.01		cellule germinale	
@@ -11005,6 +11265,7 @@ PWN:rocket.n.01		fusée
 PWN:rocket.n.01		roquette	
 PWN:rodent.n.01		rodentia	
 PWN:rodent.n.01		rongeur	
+PWN:roentgenium.n.01		roentgenium	
 PWN:roll.n.02		liste	
 PWN:roll.v.11		dépasser	
 PWN:roll.v.11		onde	
@@ -11036,6 +11297,7 @@ PWN:rope.n.01		corde
 PWN:rosary.n.01		chapelet	
 PWN:rosary.n.01		rosaire	
 PWN:rose.n.01		rosier	
+PWN:rose_apple.n.02		prune de Java	
 PWN:rotation.n.01		rotation	
 PWN:rotten.s.03		pourri	
 PWN:rough.a.01		rugueux	
@@ -11108,6 +11370,7 @@ PWN:sabbath.n.01		chabbat
 PWN:sabbath.n.01		dimanche	
 PWN:sabbath.n.01		esba	
 PWN:sabbath.n.01		sabbat	
+PWN:sabbath.n.01		samedi	
 PWN:sabbath.n.01		shabbat	
 PWN:sabbath.n.01		vendredi	
 PWN:sack.n.01		sac	
@@ -11142,10 +11405,12 @@ PWN:saliva.n.01		postillon
 PWN:saliva.n.01		salive	
 PWN:salmon.n.01		salmoniculture	
 PWN:salmon.n.01		saumon	
+PWN:salmon.n.01		sel	
 PWN:salt.n.01		sel	
 PWN:salt.n.02		saler	
 PWN:salt.n.02		sel	
 PWN:salt.n.02		sel de table	
+PWN:salt.n.02		truite	
 PWN:salty.s.03		saler	
 PWN:salty.s.03		salé	
 PWN:salty.s.03		sel	
@@ -11156,6 +11421,7 @@ PWN:salvage.v.01		économiser
 PWN:salvage.v.01		épargner	
 PWN:samarium.n.01		samarium	
 PWN:same.a.01		même	
+PWN:same.a.01		égal	
 PWN:sample.n.01		exemple	
 PWN:sample.n.01		prise	
 PWN:sample.n.01		échantillon	
@@ -11221,6 +11487,7 @@ PWN:scapula.n.01		omoplate
 PWN:scapula.n.01		scapula	
 PWN:scar.n.01		balafre	
 PWN:scar.n.01		cicatrice	
+PWN:scarf.n.01		châle	
 PWN:scarf.n.01		écharpe	
 PWN:scat.v.01		fuir en courant	
 PWN:scat.v.01		prendre ses jambes à son coup	
@@ -11273,6 +11540,7 @@ PWN:sea.n.01		mer
 PWN:sea_urchin.n.01		echinoidea	
 PWN:sea_urchin.n.01		hérisson de mer	
 PWN:sea_urchin.n.01		oursin	
+PWN:seaborgium.n.01		seaborgium	
 PWN:seaborgium.n.01		unnilhexium	
 PWN:seaport.n.01		abriter	
 PWN:seaport.n.01		havre	
@@ -11409,6 +11677,8 @@ PWN:sermon.n.01		sermon
 PWN:servant.n.01		domestique	
 PWN:servant.n.01		domestique, serviteur	
 PWN:servant.n.01		servant	
+PWN:servant.n.01		servante	
+PWN:servant.n.01		serviteur	
 PWN:serve.v.01		conserver	
 PWN:serve.v.01		correspondre	
 PWN:serve.v.01		dépendre	
@@ -11432,8 +11702,10 @@ PWN:session.n.03		session
 PWN:set.n.01		ensemble	
 PWN:set.n.01		série	
 PWN:set.n.02		ensemble	
+PWN:set.n.05		bande	
 PWN:set.n.05		cercle	
 PWN:set.n.05		groupe	
+PWN:set.n.05		ruban	
 PWN:set.n.08		jeu	
 PWN:set.n.08		set	
 PWN:set.v.10		comme	
@@ -11449,6 +11721,7 @@ PWN:settle.v.07		s'installer
 PWN:settle.v.13		liquider	
 PWN:settle.v.14		décider	
 PWN:seven.s.01		10	
+PWN:seven.s.01		7	
 PWN:seven.s.01		sept	
 PWN:seventy.s.01		septante	
 PWN:seventy.s.01		soixante-dix	
@@ -11592,6 +11865,7 @@ PWN:shriek.v.01		crier, hurler
 PWN:shriek.v.01		pipe	
 PWN:shrink.v.03		croître	
 PWN:shrink.v.03		diminuer	
+PWN:shrink.v.03		décroître	
 PWN:shrink.v.03		réduire	
 PWN:shrink.v.04		diminuer	
 PWN:shrink.v.04		rétrécir	
@@ -11606,8 +11880,10 @@ PWN:shudder.v.02		trembler, frissonner
 PWN:shut.a.01		clos	
 PWN:shut.a.01		fermer	
 PWN:shut.a.01		fermé	
+PWN:sibling.n.01		adelphe	
 PWN:sibling.n.01		fratrie	
 PWN:sibling.n.01		frère	
+PWN:sibling.n.01		frère et sœur	
 PWN:sibling.n.01		frère/soeur	
 PWN:sibling.n.01		germain	
 PWN:sibling.n.01		sœur	
@@ -11704,6 +11980,7 @@ PWN:situation.n.01		situation
 PWN:situation.n.02		position	
 PWN:situation.n.02		situation	
 PWN:six.s.01		10	
+PWN:six.s.01		6	
 PWN:six.s.01		demi-douzaine	
 PWN:six.s.01		six	
 PWN:sixty.s.01		soixante	
@@ -11721,6 +11998,7 @@ PWN:skid.v.04		déraper
 PWN:skid.v.04		glisser	
 PWN:skill.n.01		accomplissement	
 PWN:skill.n.01		aptitude	
+PWN:skill.n.01		art	
 PWN:skill.n.01		connaissance	
 PWN:skill.n.01		habileté	
 PWN:skill.n.01		qualification	
@@ -11778,6 +12056,7 @@ PWN:slice.n.05		tranche
 PWN:slide.v.03		glisser	
 PWN:sling.n.04		bricole	
 PWN:sling.n.04		fronde	
+PWN:slipper.n.01		babouche	
 PWN:slipper.n.01		chausson	
 PWN:slipper.n.01		pantoufle	
 PWN:slipper.n.01		paramécie	
@@ -11908,6 +12187,8 @@ PWN:song.n.01		chanson
 PWN:songbird.n.01		Passeri	
 PWN:songbird.n.01		chanteur	
 PWN:songbird.n.01		passeri	
+PWN:sonic.s.02		sonique	
+PWN:sonic.s.02		sonore	
 PWN:soon.r.01		bientôt	
 PWN:soon.r.01		incessamment	
 PWN:soon.r.01		prochainement	
@@ -11965,6 +12246,7 @@ PWN:soy_sauce.n.01		sauce de soja
 PWN:soy_sauce.n.01		sauce soja	
 PWN:soy_sauce.n.01		shoyu	
 PWN:soy_sauce.n.01		soja	
+PWN:space.n.01		cosmos	
 PWN:space.n.01		espace	
 PWN:space.n.01		local	
 PWN:space.n.02		espace	
@@ -12028,6 +12310,7 @@ PWN:spike.n.09		épingle
 PWN:spill.v.01		répandre	
 PWN:spin.v.06		filer	
 PWN:spinach.n.01		épinard	
+PWN:spinach.n.01		épinards	
 PWN:spinal_column.n.01		colonne vertébrale	
 PWN:spinal_column.n.01		dos	
 PWN:spinal_column.n.01		rachis	
@@ -12169,6 +12452,7 @@ PWN:steal.v.01		voler, dérober
 PWN:steal.v.02		glisser	
 PWN:steam.n.01		buée	
 PWN:steam.n.01		vapeur	
+PWN:steam.n.01		vapeur d’eau	
 PWN:steamer.n.03		bateau à vapeur	
 PWN:steamer.n.03		vapeur	
 PWN:steel.n.01		acier	
@@ -12254,8 +12538,10 @@ PWN:store.n.02		stock
 PWN:storehouse.n.01		dépôt	
 PWN:storehouse.n.01		entrepôt	
 PWN:storehouse.n.01		réserve	
+PWN:storm.n.01		droit	
 PWN:storm.n.01		orage	
 PWN:storm.n.01		orage, tempête	
+PWN:storm.n.01		rectiligne	
 PWN:storm.n.01		tempête	
 PWN:storm.v.05		orage	
 PWN:storm.v.05		surprendre	
@@ -12345,6 +12631,8 @@ PWN:stupid.a.01		bêta
 PWN:stupid.a.01		bête, stupide	
 PWN:stupid.a.01		idiot	
 PWN:stupid.a.01		stupide	
+PWN:stupid.a.01		sujet	
+PWN:stupid.a.01		thème	
 PWN:sty.n.02		bordel	
 PWN:sty.n.02		porcherie	
 PWN:style.n.03		style	
@@ -12352,6 +12640,7 @@ PWN:stylus.n.01		style
 PWN:stylus.n.02		style	
 PWN:styrofoam.n.01		Styrofoam	
 PWN:styrofoam.n.01		polystyrène expansé	
+PWN:styrofoam.n.01		styromousse	
 PWN:subculture.n.01		sous-culture	
 PWN:subject.n.01		matière	
 PWN:subject.n.01		matière	
@@ -12615,6 +12904,7 @@ PWN:symmetry.n.01		correspondance
 PWN:symmetry.n.01		symétrie	
 PWN:symmetry.n.01		équilibre	
 PWN:sympathy.n.02		compassion	
+PWN:sympathy.n.02		sympathie	
 PWN:symptom.n.01		symptôme	
 PWN:synthesis.n.02		synthèse	
 PWN:synthetic.a.02		synthétique	
@@ -12717,6 +13007,7 @@ PWN:teacher.n.01		maître
 PWN:teacher.n.01		professeur	
 PWN:team.n.01		équipe	
 PWN:team.n.02		attelage	
+PWN:teapot.n.01		théière	
 PWN:tear.n.01		déchirer	
 PWN:tear.n.01		larme	
 PWN:tear.n.01		pleur	
@@ -12724,10 +13015,12 @@ PWN:tear.v.01		déchirer
 PWN:tear.v.05		déchirer	
 PWN:tear.v.05		larme	
 PWN:tear.v.05		pleur	
+PWN:technetium.n.01		technologie	
 PWN:technetium.n.01		technétium	
 PWN:technology.n.01		ingénierie	
 PWN:technology.n.01		technique	
 PWN:technology.n.01		technologie	
+PWN:technology.n.01		technétium	
 PWN:teddy.n.01		nounours	
 PWN:teddy.n.01		ours	
 PWN:teddy.n.01		ours en peluche	
@@ -12770,6 +13063,7 @@ PWN:temple.n.03		temple
 PWN:tempt.v.01		tenter	
 PWN:tempt.v.03		inviter	
 PWN:tempt.v.03		tenter	
+PWN:ten.s.01		10	
 PWN:ten.s.01		dix	
 PWN:tendency.n.04		tendance	
 PWN:tendency.n.04		évolution	
@@ -12838,14 +13132,17 @@ PWN:then.r.01		puis
 PWN:then.r.03		alors	
 PWN:theoretical.a.02		théorique	
 PWN:theory.n.01		théorie	
+PWN:theosophy.n.01		théosophie	
 PWN:there.r.01		là	
 PWN:there.r.01		là, là-bas	
 PWN:there.r.01		là-bas	
 PWN:there.r.01		par-là	
 PWN:there.r.01		voici	
+PWN:there.r.01		y	
 PWN:there.r.03		là	
 PWN:there.r.03		là-bas	
 PWN:thermometer.n.01		thermomètre	
+PWN:thesis.n.01		argument	
 PWN:thesis.n.01		thèse	
 PWN:thick.a.01		gros	
 PWN:thick.a.01		épais	
@@ -12932,6 +13229,7 @@ PWN:thrash.v.06		rosser
 PWN:thread.n.01		fil	
 PWN:threaten.v.02		menacer	
 PWN:three.s.01		10	
+PWN:three.s.01		3	
 PWN:three.s.01		trois	
 PWN:threshing_floor.n.01		aire de battage	
 PWN:thrice.r.01		ter	
@@ -13089,6 +13387,7 @@ PWN:township.n.01		commune
 PWN:township.n.01		hameau	
 PWN:township.n.01		municipalité	
 PWN:township.n.01		ville	
+PWN:toxin.n.01		toxine	
 PWN:trace.n.05		traçabilité	
 PWN:trace.n.05		traçage	
 PWN:trace.v.02		dessiner	
@@ -13108,6 +13407,7 @@ PWN:trade.v.04		échanger
 PWN:trade_name.n.01		marque	
 PWN:trade_name.n.01		marque commerciale	
 PWN:traffic.n.01		trafic	
+PWN:tragic.s.01		grave	
 PWN:tragic.s.01		tragique	
 PWN:trail.n.01		empreinte	
 PWN:trail.n.01		trace	
@@ -13146,6 +13446,7 @@ PWN:transition.n.03		transition
 PWN:translate.v.01		interpréter	
 PWN:translate.v.01		présenter	
 PWN:translate.v.01		rendre	
+PWN:translate.v.01		traduction	
 PWN:translate.v.01		traduire	
 PWN:translate.v.02		changer	
 PWN:translate.v.02		traduire	
@@ -13198,9 +13499,11 @@ PWN:tremble.v.01		trembler
 PWN:trial.n.04		jugement	
 PWN:trial.n.04		procès	
 PWN:triangle.n.01		triangle	
+PWN:triangle.n.01		vrai	
 PWN:tribe.n.01		nation	
 PWN:tribe.n.01		peuple	
 PWN:tribe.n.01		tribu	
+PWN:trick.n.01		ruse	
 PWN:trickle.v.01		filtre	
 PWN:trouble.n.01		difficulté	
 PWN:trouble.n.01		emmerde	
@@ -13219,7 +13522,10 @@ PWN:trunk.n.01		tronc
 PWN:trunk.n.01		tronc d'arbre	
 PWN:trust.n.01		propriété fiduciaire	
 PWN:trust.v.01		avoir foi	
+PWN:trust.v.01		avoir la foi	
 PWN:trust.v.01		compter sur	
+PWN:trust.v.01		croire qqn./qqch.	
+PWN:trust.v.01		espérer	
 PWN:trust.v.01		faire confiance	
 PWN:trust.v.02		confiance	
 PWN:truth.n.01		réalité	
@@ -13270,6 +13576,7 @@ PWN:twist.v.04		tordre
 PWN:twist.v.05		tordre	
 PWN:twist.v.05		torsader	
 PWN:twitch.v.05		tirer d'un coup sec	
+PWN:two.s.01		2	
 PWN:two.s.01		deux	
 PWN:type.n.01		genre	
 PWN:type.n.01		type	
@@ -13281,6 +13588,7 @@ PWN:udder.n.01		pis
 PWN:ugliness.n.01		laideur	
 PWN:ugly.a.01		laid	
 PWN:ugly.a.01		moche	
+PWN:ugly.a.01		vilain	
 PWN:ultimate.a.01		dernier	
 PWN:ultimate.a.01		ultime	
 PWN:umbilical_cord.n.01		cordon ombilical	
@@ -13364,6 +13672,11 @@ PWN:unsusceptibility.n.01		immunité
 PWN:unsusceptibility.n.01		insensible	
 PWN:untie.v.01		détacher	
 PWN:untie.v.01		détacher, délier	
+PWN:ununbium.n.01		copernicium	
+PWN:ununhexium.n.01		livermorium	
+PWN:ununpentium.n.01		moscovium	
+PWN:ununquadium.n.01		flérovium	
+PWN:ununtrium.n.01		nihonium	
 PWN:unwrap.v.02		dire	
 PWN:unwrap.v.02		divulguer	
 PWN:unwrap.v.02		exposer	
@@ -13385,6 +13698,7 @@ PWN:urge.v.01		presser
 PWN:urge.v.01		prier	
 PWN:urine.n.01		eau	
 PWN:urine.n.01		pipi	
+PWN:urine.n.01		pisse	
 PWN:urine.n.01		urine	
 PWN:use.n.01		coutume	
 PWN:use.n.01		emploi	
@@ -13520,6 +13834,7 @@ PWN:visualize.v.01		prévoir
 PWN:visualize.v.01		visualiser	
 PWN:visualize.v.01		voir	
 PWN:vital_organ.n.01		organe vital	
+PWN:vizier.n.01		vivisection	
 PWN:vizier.n.01		vizir	
 PWN:vocabulary.n.01		dictionnaire	
 PWN:vocabulary.n.01		vocabulaire	
@@ -13592,6 +13907,7 @@ PWN:wait.v.02		attendre
 PWN:wake_up.v.02		se réveiller	
 PWN:wake_up.v.02		se réveiller, s'eveiller	
 PWN:walk.n.01		marche	
+PWN:walk.v.01		marche	
 PWN:walk.v.01		marcher	
 PWN:walk.v.10		faire	
 PWN:walk.v.10		marcher	
@@ -13673,6 +13989,7 @@ PWN:waterfall.n.01		chute d’eau
 PWN:waterfall.n.01		chûte d'eau, cascade	
 PWN:waterfall.n.01		saut	
 PWN:watering_place.n.01		spa	
+PWN:watermelon.n.01		pastèque	
 PWN:watermelon.n.02		melon d'eau	
 PWN:watermelon.n.02		melon d’eau	
 PWN:watermelon.n.02		pastèque	
@@ -13991,12 +14308,15 @@ PWN:yield.n.03		rendement
 PWN:yield.v.01		causer	
 PWN:yield.v.01		donner	
 PWN:yin.n.01		yin	
+PWN:yin.n.01 		yaourt	
+PWN:yin.n.01 		yogourt	
 PWN:yogurt.n.01		yaourt	
 PWN:yogurt.n.01		yoghourt	
 PWN:yogurt.n.01		yogourt	
 PWN:yoke.n.05		joug	
 PWN:young.a.01		immature	
 PWN:young.a.01		jeune	
+PWN:young.a.01		junior	
 PWN:young.a.01		petit	
 PWN:young.n.01		jeune	
 PWN:young.n.01		petit	
@@ -14008,6 +14328,7 @@ PWN:youth.n.05		jeunesse
 PWN:ytterbium.n.01		ytterbium	
 PWN:yttrium.n.01		yttrium	
 PWN:yurt.n.01		yourte	
+PWN:yurt.n.01 		yourte	
 PWN:zebra.n.01		zèbre	
 PWN:zero.s.01		zéro	
 PWN:zinc.n.01		zinc	

@@ -1,11 +1,14 @@
 id	style	word	pronunciation	etymology
 PLX:1PL EXCL.pro		kami		
 PLX:1PL INCL.pro		kita		
+PLX:1PL.pro		kami	
+PLX:1PL.pro		kita	
 PLX:1SG.pro		aku		
 PLX:1SG.pro		saya		san:sahaya
 PLX:2PL.pro		kalian		min:kalian
 PLX:2SG.pro		kamu		
 PLX:2SG.pro		kau, engkau		
+PLX:3PL.pro		mereka	
 PLX:3PL.pro		meréka		:marika
 PLX:3SG.pro		beliau		
 PLX:3SG.pro		dia		
@@ -25,6 +28,7 @@ PLX:because.cnj		karena		san:kāraṇa
 PLX:because.cnj		sebab		arb:sabab
 PLX:behind.pp		(di) belakang		
 PLX:beside.pp		di samping		
+PLX:can.v		sabi	
 PLX:carry in hand.v		menggenggam		
 PLX:carry in hand.v		menjinjing		
 PLX:carry in hand.v		menénténg		ban:téngténg
@@ -40,7 +44,10 @@ PLX:fall silent.v		diam (1)
 PLX:fermented alcohol.n		tuak		
 PLX:fish poison root.n		tuba		
 PLX:fish trap.n		bubu		
+PLX:from.pp		dari	
+PLX:from.pp		daripada	
 PLX:head hair.n		rambut		
+PLX:hello.int  		selamat	
 PLX:how many pieces.pro		berapa		
 PLX:how much.pro		berapa		
 PLX:how.pro		bagaimana		
@@ -52,10 +59,13 @@ PLX:in front of.pp		di muka
 PLX:in.pp		dalam		
 PLX:in.pp		di		
 PLX:inside.pp		(di) dalam		
+PLX:kendo.n		kendo	
 PLX:netbag.n		nokén		:Unidentifiable
 PLX:nothing.pro		nihil		:nihil
 PLX:nothing.pro		tidak apa-apa		
+PLX:oganesson.n		oganesson	
 PLX:older sibling.n		kakak		
+PLX:one.pro		seseorang	
 PLX:or.cnj		atau		san:athavā
 PLX:outside.pp		di luar		
 PLX:parents-in-law.n		mertua		sun:mertua
@@ -64,6 +74,9 @@ PLX:sibling's child.n		keponakan		jav:keponakan
 PLX:sibling-in-law.n		ipar		
 PLX:stab to death.v		menikam		
 PLX:stab to death.v		menusuk		
+PLX:tennessine.n		tennessine	
+PLX:than.pp		daripada	
+PLX:thanks.int		terima kasih	
 PLX:that.pro		itu		
 PLX:this.pro		ini		
 PLX:under.pp		(di) bawah		
@@ -71,6 +84,7 @@ PLX:what.pro		apa
 PLX:when.pro		bila		san:velā
 PLX:when.pro		kapan		jav:kapan
 PLX:where.pro		(di) mana		
+PLX:where.pro		mana	
 PLX:which Q.pro		(yang) mana		
 PLX:who.pro		siapa		
 PLX:why.pro		kenapa		
@@ -79,6 +93,7 @@ PLX:with.pp		bersama
 PLX:with.pp		dengan		
 PLX:with.pp		serta		san:sārtha
 PLX:without.pp		tanpa		sun:tanpa
+PLX:yes.ptcl		ya	
 PLX:yes.ptcl		ya, iya		
 PLX:younger sibling.n		adik		
 PWN:a_bit.r.01		kecil	
@@ -377,6 +392,7 @@ PWN:accustomed.s.02		kebiasaan
 PWN:accustomed.s.02		kelaziman	
 PWN:accustomed.s.02		lazim	
 PWN:accustomed.s.02		selalu	
+PWN:accustomed.s.02 		beradat	
 PWN:ace.n.03		bintang	
 PWN:ace.n.03		genius	
 PWN:ace.n.03		juara	
@@ -525,6 +541,7 @@ PWN:act.v.03		menunjukkan
 PWN:act.v.03		mewakili	
 PWN:acting.n.01		permainan	
 PWN:actinium.n.01		aktinium	
+PWN:action.n.01		aksi	
 PWN:action.n.01		kelakuan	
 PWN:action.n.01		perbuatan	
 PWN:action.n.01		tindak	
@@ -601,6 +618,8 @@ PWN:addle.v.01		kusut
 PWN:addle.v.01		membingungkan	
 PWN:addle.v.01		mengelirukan	
 PWN:address.n.02		alamat	
+PWN:address.n.03		alamat	
+PWN:address.n.03		cerah	
 PWN:address.n.03		pidato		min:pidato
 PWN:address.n.03		syarahan	
 PWN:address.n.03		ucapan	
@@ -1065,6 +1084,7 @@ PWN:alcohol.n.01		minuman keras
 PWN:alcoholic.n.01		pemabuk	
 PWN:alga.n.01		alga	
 PWN:alga.n.01		ganggang	
+PWN:alga.n.01		lumut	
 PWN:alignment.n.04		baris	
 PWN:alignment.n.04		penjajaran	
 PWN:alive.a.01		berjiwa	
@@ -1139,6 +1159,7 @@ PWN:allow.v.06		merelakan
 PWN:alloy.n.01		aloi	
 PWN:alloy.n.01		lakur	
 PWN:alloy.n.01		pancalogam	
+PWN:almond.n.01		badam	
 PWN:almond.n.02		badam	
 PWN:alone.r.02		sendiri		
 PWN:alone.r.02		sendiri-sendiri	
@@ -1216,6 +1237,7 @@ PWN:ambulance.n.01		ambulans
 PWN:ambush.n.01		jerat	
 PWN:ambush.n.01		peradangan		
 PWN:ambush.n.01		perangkap	
+PWN:american_football.n.01		bola sepak Amerika	
 PWN:americium.n.01		amerisium	
 PWN:ammunition.n.01		amunisi	
 PWN:ammunition.n.01		mesiu	
@@ -1412,6 +1434,7 @@ PWN:anticipation.n.01		mengharapkan
 PWN:anticipation.n.01		penuh harapan	
 PWN:antimony.n.01		antimon	
 PWN:antithesis.n.01		kebalikan	
+PWN:antonym.n.01		antonim	
 PWN:antonym.n.01		berlawanan	
 PWN:antonym.n.01		bertentangan	
 PWN:antonym.n.01		sebaliknya	
@@ -1466,6 +1489,7 @@ PWN:append.v.01		mencukupi
 PWN:append.v.01		menurunkan	
 PWN:append.v.01		tambah	
 PWN:apple.n.01		apel	
+PWN:apple.n.01		epal	
 PWN:application.n.01		aplikasi	
 PWN:application.n.01		penerapan	
 PWN:application.n.01		penggunaan	
@@ -1771,6 +1795,7 @@ PWN:arrogant.s.01		ujud
 PWN:arrow.n.01		anak panah	
 PWN:arrow.n.01		penunjuk	
 PWN:arrow.n.02		anak panah		
+PWN:arsenic.n.02		arsen	
 PWN:arsenic.n.02		arsenik	
 PWN:art.n.01		cara	
 PWN:art.n.01		seni	
@@ -1994,6 +2019,7 @@ PWN:astonishment.n.01		ketakjuban
 PWN:astrology.n.01		astrologi	
 PWN:astronomer.n.01		astronom	
 PWN:astronomy.n.01		astronomi	
+PWN:astronomy.n.01		ilmu falak	
 PWN:asymmetry.n.01		kepincangan	
 PWN:at_least.r.02		sedikit-dikitnya	
 PWN:atheism.n.01		ateisme	
@@ -2066,6 +2092,7 @@ PWN:attack.n.07		terpaan
 PWN:attack.v.01		melajang	
 PWN:attack.v.01		melanggar	
 PWN:attack.v.01		melejang	
+PWN:attack.v.01		menarik	
 PWN:attack.v.01		menceroboh	
 PWN:attack.v.01		menempur	
 PWN:attack.v.01		menerjang	
@@ -2093,6 +2120,8 @@ PWN:attempt.n.01		ikhtiar
 PWN:attempt.n.01		percobaan	
 PWN:attempt.n.01		upaya	
 PWN:attempt.n.01		usaha	
+PWN:attention.n.01		awas	
+PWN:attention.n.01		berhati-hati	
 PWN:attention.n.01		ingatan	
 PWN:attention.n.01		perhatian	
 PWN:attentiveness.n.01		hirau	
@@ -2169,6 +2198,8 @@ PWN:avaricious.s.01		loba		san:lobha
 PWN:avaricious.s.01		rakus		
 PWN:avaricious.s.01		serakah		arb:saraqah
 PWN:avaricious.s.01		tamak		arb:ṭama‘
+PWN:avocado.n.01		alpukat	
+PWN:avocado.n.01		avokado	
 PWN:avoid.v.01		elak	
 PWN:avoid.v.01		memantang	
 PWN:avoid.v.01		menangkal	
@@ -2260,6 +2291,7 @@ PWN:backing.n.01		sokongan
 PWN:backing.n.01		tajaan	
 PWN:bad.a.01		buruk		
 PWN:bad.a.01		jelék		nld:slecht
+PWN:bag.n.01		beg	
 PWN:bag.n.01		bungkus	
 PWN:bag.n.01		buntil	
 PWN:bag.n.01		kampit	
@@ -2268,6 +2300,7 @@ PWN:bag.n.01		kantung
 PWN:bag.n.01		karung	
 PWN:bag.n.01		sumpit	
 PWN:bag.n.01		tas	
+PWN:baggage.n.01		bagaj	
 PWN:bait.n.02		godaan	
 PWN:bait.n.02		umpan		
 PWN:bake.v.02		dibakar	
@@ -2321,6 +2354,7 @@ PWN:balloon.n.01		balon
 PWN:balloon.n.01		belon	
 PWN:balloon.n.01		gelembung	
 PWN:bamboo.n.01		bambu		
+PWN:bamboo.n.01		buluh	
 PWN:banana.n.01		pisang	
 PWN:banana.n.02		pisang		
 PWN:band.n.02		orkes	
@@ -2527,6 +2561,7 @@ PWN:bathroom.n.01		kamar mandi
 PWN:bathtub.n.01		pemandian	
 PWN:battery.n.02		aki	
 PWN:battery.n.02		baterai		fra:batterie
+PWN:battery.n.02		bateri	
 PWN:battle-ax.n.01		jipang		:Unidentifiable
 PWN:battle.n.01		konflik	
 PWN:battle.n.01		konflik	
@@ -2565,6 +2600,7 @@ PWN:bay.n.01		suak
 PWN:bay.n.01		teluk		
 PWN:be.v.01		adalah	
 PWN:be.v.01		berukuran	
+PWN:be.v.01		ialah	
 PWN:be.v.01		insan	
 PWN:be.v.01		kelihatan	
 PWN:be.v.01		makhluk	
@@ -3219,10 +3255,12 @@ PWN:biography.n.01		riwayat hidup
 PWN:biology.n.01		biologi	
 PWN:biology.n.01		biologis	
 PWN:biology.n.01		hayati	
+PWN:biology.n.01		ilmu hayat	
 PWN:biota.n.01		biologi	
 PWN:biota.n.01		biota	
 PWN:biota.n.01		ilmu hayat	
 PWN:bird.n.01		burung		
+PWN:bird.n.01		manuk	
 PWN:bird.n.01		unggas	
 PWN:birth.n.01		kelahiran	
 PWN:birth.n.02		kelahiran	
@@ -3241,6 +3279,7 @@ PWN:bishop.n.03		menteri
 PWN:bishop.n.03		uskup	
 PWN:bishop.n.03		uskup	
 PWN:bismuth.n.01		bismut	
+PWN:bison.n.01		bison	
 PWN:bite.v.01		gigit	
 PWN:bite.v.01		menggigit		
 PWN:bite.v.01		menokak	
@@ -3409,6 +3448,7 @@ PWN:blow_out.v.01		menyia-nyiakan
 PWN:blow_out.v.01		terbakar	
 PWN:blowy.s.01		berangin	
 PWN:blowy.s.01		semilir	
+PWN:blue.s.01		belau	
 PWN:blue.s.01		biru		
 PWN:blue.s.01		kebiru-biruan	
 PWN:blunder.n.01		kecanggungan	
@@ -3495,6 +3535,7 @@ PWN:body_hair.n.01		bulu
 PWN:body_louse.n.01		kutu		
 PWN:body_of_water.n.01		air	
 PWN:body_of_water.n.01		perairan	
+PWN:bohrium.n.01		bohrium	
 PWN:boil.n.01		bisul		
 PWN:boil.v.01		membisul	
 PWN:boil.v.01		mendidih		
@@ -3687,9 +3728,11 @@ PWN:bowed_stringed_instrument.n.01		tali
 PWN:bowl.n.01		bekas	
 PWN:bowl.n.01		mangkuk	
 PWN:bowl.n.01		mangkuk, mangkok		
+PWN:bowl.n.01		tasa	
 PWN:box.n.01		kotak	
 PWN:box.n.01		peti	
 PWN:box.n.07		kotak	
+PWN:boxing.n.01		boksing	
 PWN:boxing.n.01		tinju	
 PWN:bracelet.n.02		gelang		
 PWN:bracelet.n.02		gelang rantai	
@@ -3702,6 +3745,7 @@ PWN:braid.v.01		menganyam
 PWN:braid.v.01		mengépang		nan:ké-páng
 PWN:braid.v.01		menjalin	
 PWN:braid.v.01		meramin		
+PWN:brain.n.01		benak	
 PWN:brain.n.01		otak		
 PWN:brain.n.02		akal	
 PWN:brain.n.02		kebijakan	
@@ -3972,6 +4016,7 @@ PWN:broccoli.n.01		brokoli
 PWN:broken.s.11		pecah	
 PWN:broken.s.11		rusak		
 PWN:bromeliaceae.n.01		Bromeliaceae	
+PWN:bromine.n.01		brom	
 PWN:bromine.n.01		bromin	
 PWN:brook.n.01		anak air	
 PWN:brook.n.01		got	
@@ -3994,6 +4039,7 @@ PWN:brotherhood.n.03		persaudaraan
 PWN:brow.n.01		alis	
 PWN:brow.n.01		dahi		
 PWN:brow.n.01		kening	
+PWN:brown.s.01		cokelat	
 PWN:brown.s.01		perang	
 PWN:bruise.n.01		biru lebam	
 PWN:bruise.n.01		calar	
@@ -4031,6 +4077,7 @@ PWN:brush.v.05		menggosok
 PWN:brush.v.05		mengibas	
 PWN:brush.v.05		menyapu	
 PWN:brush.v.05		menyikat	
+PWN:bucket.n.01		baldi	
 PWN:bucket.n.01		timba	
 PWN:bud.n.01		kudup	
 PWN:bud.n.01		kuncup	
@@ -4217,6 +4264,7 @@ PWN:bustle.n.01		kerumunan
 PWN:bustle.n.01		kesibukan	
 PWN:bustle.n.01		kesulitan	
 PWN:bustle.n.01		randu	
+PWN:busy.s.04		ramai	
 PWN:busy.s.04		sibuk	
 PWN:busy.v.01		memenuhi	
 PWN:busy.v.01		mengisi	
@@ -4265,6 +4313,7 @@ PWN:by.r.01		dengan
 PWN:by.r.01		oleh	
 PWN:cab.n.02		kabriolet	
 PWN:cab.n.03		taksi	
+PWN:cabbage.n.01		kol	
 PWN:cabbage.n.01		kubis	
 PWN:cable.n.02		barisan	
 PWN:cable.n.02		deretan	
@@ -4277,6 +4326,7 @@ PWN:cadaver.n.01		jenazah		arb:jināzah, janāzah
 PWN:cadaver.n.01		kunarpa	
 PWN:cadaver.n.01		mayat		arb:mayyit
 PWN:cadmium.n.01		kadmium	
+PWN:caftan.n.02		jubah	
 PWN:cage.n.01		kandang	
 PWN:cage.n.01		keranjang	
 PWN:cage.n.01		kurungan	
@@ -4570,6 +4620,7 @@ PWN:carpenter.n.01		tukang kayu
 PWN:carriage.n.02		bendi	
 PWN:carriage.n.02		kereta kuda	
 PWN:carriage.n.02		pedati	
+PWN:carrot.n.01		karot	
 PWN:carrot.n.01		lobak	
 PWN:carrot.n.01		wortel	
 PWN:carry.v.02		ada	
@@ -4681,6 +4732,7 @@ PWN:cashew.n.01		kacang mede
 PWN:cassava.n.01		ubi kayu	
 PWN:cassava.n.02		singkong		jav:singkong
 PWN:cassava.n.02		ubi kayu		
+PWN:cassava.n.03		kasava	
 PWN:cassava.n.03		singkong	
 PWN:cassava.n.03		ubi kayu	
 PWN:cast.v.07		membentuk		
@@ -4751,6 +4803,8 @@ PWN:cathode.n.01		katode
 PWN:cation.n.01		kation	
 PWN:cattle.n.01		lembu		
 PWN:cattle.n.01		sapi		jav:sapi
+PWN:cauliflower.n.01		blumkol	
+PWN:cauliflower.n.01		kubis bunga	
 PWN:causal_agent.n.01		mendatangkan	
 PWN:causal_agent.n.01		menetaskan	
 PWN:causal_agent.n.01		mengakibatkan	
@@ -4827,6 +4881,7 @@ PWN:cemetery.n.01		pemakaman
 PWN:cemetery.n.01		penguburan	
 PWN:cemetery.n.01		permakaman	
 PWN:cemetery.n.01		pusara	
+PWN:cemetery.n.01 		pekuburan	
 PWN:center.n.01		jantung	
 PWN:center.n.01		pusat	
 PWN:center.n.01		tengah		
@@ -5161,6 +5216,8 @@ PWN:cheer.v.04		menyemarakkan
 PWN:cheer.v.04		meramaikan	
 PWN:cheese.n.01		keju	
 PWN:cheese.n.01		kéju		por:queijo
+PWN:cheese.n.01		panir	
+PWN:cheetah.n.01		citah	
 PWN:chemical.n.01		kimia	
 PWN:chemical.n.01		zat kimia	
 PWN:chemical_element.n.01		unsur	
@@ -5249,6 +5306,7 @@ PWN:chin.n.01		dagu
 PWN:china.n.01		Cathay	
 PWN:china.n.01		China	
 PWN:china.n.01		Cina	
+PWN:china.n.01		Tiongkok	
 PWN:china.n.01		cina	
 PWN:chip.v.01		membelanjakan	
 PWN:chip.v.01		memegat	
@@ -5275,6 +5333,7 @@ PWN:chisel.n.01		pahat
 PWN:chlorine.n.01		klor	
 PWN:chlorine.n.01		klorin	
 PWN:chocolate.n.02		cokelat	
+PWN:chocolate.n.02		coklat	
 PWN:choice.n.01		pemilihan	
 PWN:choice.n.01		petik	
 PWN:choice.n.01		pilihan	
@@ -5325,11 +5384,13 @@ PWN:christianity.n.01		Kristiani
 PWN:christianity.n.01		Kristianisme	
 PWN:christianity.n.01		Nasrani	
 PWN:christmas.n.01		Yule	
+PWN:chromium.n.01		krom	
 PWN:chromium.n.01		kromium	
 PWN:church.n.02		gereja	
 PWN:church.n.02		geréja		por:igreja
 PWN:church_service.n.01		sembahyang	
 PWN:cigarette.n.01		rokok		nld:roken
+PWN:cigarette.n.01		sigaret	
 PWN:cinema.n.02		bioskop	
 PWN:circle.n.01		bulatan	
 PWN:circle.n.01		lilitan	
@@ -5713,6 +5774,7 @@ PWN:coil.n.01		gelung
 PWN:coil.n.01		lingkaran	
 PWN:coil.n.01		pusaran	
 PWN:coin.n.01		duit	
+PWN:coin.n.01		keping	
 PWN:coin.n.01		koin		eng:coin
 PWN:coin.n.01		uang logam		
 PWN:coke.n.01		kok	
@@ -5899,6 +5961,8 @@ PWN:commit.v.03		menyetrum
 PWN:commitment.n.04		janji	
 PWN:commitment.n.04		komitmen	
 PWN:commitment.n.04		persetujuan	
+PWN:committee.n.01		komisi	
+PWN:committee.n.01		komite	
 PWN:committee.n.01		panitia	
 PWN:commodity.n.01		barang	
 PWN:commodity.n.01		barang dagangan	
@@ -6283,6 +6347,7 @@ PWN:conduct.v.01		mengendalikan
 PWN:conduct.v.01		menjalankan	
 PWN:conductor.n.02		konduktor	
 PWN:cone.n.01		kerucut	
+PWN:cone.n.01		kon	
 PWN:cone.n.02		kerucut	
 PWN:confederation.n.02		gabungan	
 PWN:confederation.n.02		konfederasi	
@@ -6325,6 +6390,7 @@ PWN:confuse.v.03		menangguhkan
 PWN:confuse.v.03		mencampuradukkan	
 PWN:confuse.v.03		mengonarkan	
 PWN:confuse.v.03		meresahkan	
+PWN:connect.v.01		berangkai	
 PWN:connect.v.01		membandut	
 PWN:connect.v.01		membondot	
 PWN:connect.v.01		mempertalikan	
@@ -6505,6 +6571,7 @@ PWN:construction.n.01		konstruksi
 PWN:construction.n.01		membina	
 PWN:construction.n.01		pembangunan	
 PWN:construction.n.01		pembinaan	
+PWN:construction.n.01 		bangunan	
 PWN:consult.v.01		beria berbukan	
 PWN:consult.v.01		berkonsultasi	
 PWN:consult.v.01		menyelidik	
@@ -6600,6 +6667,7 @@ PWN:contend.v.06		bertengkar
 PWN:contend.v.06		bertikai		min:batikai
 PWN:contend.v.06		brantem, berantem		sun:hantem
 PWN:contend.v.06		gaduh	
+PWN:contend.v.06		juang	
 PWN:contend.v.06		lawan	
 PWN:contend.v.06		melawan	
 PWN:contend.v.06		memberantas	
@@ -6833,8 +6901,10 @@ PWN:copulate.v.01		bersanggama
 PWN:copulate.v.01		bersetubuh	
 PWN:copulate.v.01		mat	
 PWN:copulate.v.01		mengawan	
+PWN:copy.n.02		kopi	
 PWN:copy.n.02		salinan	
 PWN:copy.n.02		tiruan	
+PWN:copy.n.02		turunan	
 PWN:copy.n.03		salinan	
 PWN:copy.v.01		mencatat	
 PWN:copy.v.01		mencontoh	
@@ -6854,6 +6924,7 @@ PWN:copy.v.04		tiru-tiruan
 PWN:cord.n.01		tali	
 PWN:cord.n.01		tali pintal	
 PWN:cord.n.04		korduroi	
+PWN:coriander.n.01		ketumbir	
 PWN:cork.n.01		gabus	
 PWN:cork.n.01		penyumbat	
 PWN:cork.n.01		sumbat	
@@ -6931,6 +7002,8 @@ PWN:cotton.n.02		benang
 PWN:cotton.n.02		kapas		san:karpāsa
 PWN:cotton.n.02		katun		fra:coton
 PWN:cotton.n.03		kapas	
+PWN:cotton.n.03		kapuk	
+PWN:cotton.n.03		katun	
 PWN:cough.v.01		batuk		
 PWN:cough.v.01		batuk kecil	
 PWN:cough.v.01		terbatuk-batuk	
@@ -7510,6 +7583,7 @@ PWN:curse.v.03		sumpah
 PWN:curtain.n.01		langsir	
 PWN:curtain.n.01		lurub	
 PWN:curtain.n.01		tabir	
+PWN:curtain.n.01		tirai	
 PWN:curvature.n.03		kelengkungan	
 PWN:curvature.n.03		keluk	
 PWN:curvature.n.03		kurva	
@@ -7649,6 +7723,7 @@ PWN:dancing.n.01		menari
 PWN:dancing.n.01		seni tari	
 PWN:dancing.n.01		tari	
 PWN:dancing.n.01		tarian	
+PWN:dancing.n.01 		tari	
 PWN:dandruff.n.02		kelemumur	
 PWN:dandruff.n.02		ketombe	
 PWN:dandruff.n.02		ketombé		jav:ketombé
@@ -7673,6 +7748,7 @@ PWN:darken.v.01		mengelamkan
 PWN:darken.v.01		menggelapkan	
 PWN:darken.v.01		menghitamkan	
 PWN:darken.v.01		menuakan	
+PWN:darmstadtium.n.01		darmstadtium	
 PWN:dart.v.02		berarak	
 PWN:dart.v.02		berkedip	
 PWN:dart.v.02		lari	
@@ -7699,6 +7775,7 @@ PWN:data.n.01		data
 PWN:data.n.01		dokumen	
 PWN:data.n.01		informasi	
 PWN:data.n.01		maklumat	
+PWN:database.n.01		basis data	
 PWN:database.n.01		pangkalan data	
 PWN:date.n.01		datum	
 PWN:date.n.01		hari	
@@ -7724,6 +7801,8 @@ PWN:daughter.n.01		amoi
 PWN:daughter.n.01		anak	
 PWN:daughter.n.01		anak dara	
 PWN:daughter.n.01		anak gadis	
+PWN:daughter.n.01		anak perempuan	
+PWN:daughter.n.01		putri	
 PWN:daughter.n.01		putri, puteri		san:putrī
 PWN:dawn.n.01		fajar		arb:fajr
 PWN:dawn.n.01		fajar menyingsing	
@@ -8209,8 +8288,10 @@ PWN:demeanor.n.01		pekerti
 PWN:demeanor.n.01		perangai	
 PWN:demeanor.n.01		perlakuan	
 PWN:demeanor.n.01		tingkah laku	
+PWN:democracy.n.01		demokrasi	
 PWN:democracy.n.02		demokrasi	
 PWN:democracy.n.02		republik	
+PWN:democratic.s.03		populer	
 PWN:demonic.s.01		Iblis	
 PWN:demonic.s.01		iblis	
 PWN:demonic.s.01		jahat	
@@ -8414,6 +8495,7 @@ PWN:desire.v.01		hasrat
 PWN:desire.v.01		hendak	
 PWN:desire.v.01		ingin		
 PWN:desire.v.01		kasdu	
+PWN:desire.v.01		mahu	
 PWN:desire.v.01		mau		
 PWN:desire.v.01		mencita-citakan	
 PWN:desire.v.01		menggandrungkan	
@@ -8813,6 +8895,7 @@ PWN:dimension.n.01		dimensi
 PWN:dimension.n.01		matra	
 PWN:dimension.n.01		ukuran	
 PWN:dinner.n.01		makan malam	
+PWN:dinosaur.n.01		dinosaurus	
 PWN:diocese.n.01		episkopat	
 PWN:diocese.n.01		keuskupan	
 PWN:diplopoda.n.01		Myriapoda	
@@ -9094,6 +9177,7 @@ PWN:disintegrate.v.01		berkecai
 PWN:disintegrate.v.01		berpecah	
 PWN:disintegrate.v.01		hancur	
 PWN:disintegrate.v.01		menghancurkan	
+PWN:disk.n.01		cakram	
 PWN:disk.n.01		lepek	
 PWN:disk.n.01		piring	
 PWN:dislike.n.02		kebencian	
@@ -9508,6 +9592,7 @@ PWN:document.n.01		dokumentasi
 PWN:document.n.02		dokumen	
 PWN:document.n.03		dokumen	
 PWN:dog.n.01		anjing		
+PWN:dog.n.01		asu	
 PWN:doll.n.01		anak-anak	
 PWN:doll.n.01		boneka	
 PWN:doll.n.01		patung	
@@ -9554,6 +9639,8 @@ PWN:doorjamb.n.01		tiang pintu
 PWN:doubt.n.01		kebimbangan	
 PWN:doubt.n.01		keraguan		
 PWN:doubt.n.01		kesangsian		
+PWN:doubt.n.01		sangka	
+PWN:doubt.n.01		syak	
 PWN:doubt.v.02		mencurigai	
 PWN:doubt.v.02		menyangsikan	
 PWN:doubt.v.02		ragu	
@@ -9783,6 +9870,7 @@ PWN:dry.v.02		mengeringkan
 PWN:dry_season.n.01		kemarau	
 PWN:dry_season.n.01		musim kering	
 PWN:dryness.n.01		kekeringan	
+PWN:dubnium.n.01		dubnium	
 PWN:duck.n.01		bebek	
 PWN:duck.n.01		bébék		ban:bébék
 PWN:duck.n.01		itik		
@@ -9815,11 +9903,14 @@ PWN:durable.s.01		tahan lama
 PWN:durable.s.02		tahan lasak	
 PWN:duration.n.01		selama	
 PWN:duration.n.01		tempoh	
+PWN:durian.n.01		durian	
 PWN:dust.n.01		debu		
 PWN:dust.n.01		duli		san:dhūli
 PWN:dust.n.01		habuk	
 PWN:dust.n.01		serdak		
+PWN:duty.n.01		agama	
 PWN:duty.n.01		darma	
+PWN:duty.n.01		din	
 PWN:duty.n.01		kewajiban	
 PWN:duty.n.01		obligasi	
 PWN:duty.n.01		tugas	
@@ -10165,6 +10256,7 @@ PWN:emigration.n.01		emigrasi
 PWN:emigration.n.01		penghijrahan	
 PWN:emigration.n.01		perantauan	
 PWN:emigration.n.01		perpindahan	
+PWN:emit.v.02		emisi	
 PWN:emit.v.02		memancarkan	
 PWN:emit.v.02		membagi	
 PWN:emit.v.02		mengedarkan	
@@ -10362,6 +10454,7 @@ PWN:engender.v.01		mewujudkan
 PWN:engine.n.01		enjin	
 PWN:engine.n.01		mesin	
 PWN:engineer.n.01		insinyur	
+PWN:engineer.n.01		jurutera	
 PWN:engineering.n.02		ilmu terapan	
 PWN:engineering.n.02		teknologi	
 PWN:enjoy.v.02		memperoleh	
@@ -10545,6 +10638,7 @@ PWN:erase.v.03		menghapus
 PWN:erase.v.03		padam	
 PWN:erbium.n.01		erbium	
 PWN:erosion.n.01		pelapukan	
+PWN:erotic.s.01		erotis	
 PWN:err.v.01		bersalah	
 PWN:err.v.01		menggelecik	
 PWN:err.v.01		menyelipkan	
@@ -11476,6 +11570,7 @@ PWN:father.n.01		ayah
 PWN:father.n.01		ayahanda	
 PWN:father.n.01		bapa	
 PWN:father.n.01		bapa, bapak		:bāpa
+PWN:father.n.01		bapak	
 PWN:father.n.01		papa	
 PWN:father.n.01		papa, papi		nld:papi
 PWN:fatherland.n.01		bicana	
@@ -11939,6 +12034,7 @@ PWN:flatter.v.01		menyanjung
 PWN:flatter.v.01		merayu	
 PWN:flatter.v.01		puji	
 PWN:flavorer.n.01		perasa	
+PWN:flax.n.02		flaks	
 PWN:flay.v.01		menguliti		
 PWN:flea.n.01		caplak		jav:caplak
 PWN:flea.n.01		hama	
@@ -12330,6 +12426,7 @@ PWN:foreman.n.01		tauke
 PWN:foreman.n.01		tuan besar	
 PWN:forest.n.01		belantara	
 PWN:forest.n.01		hutan		
+PWN:forest.n.01		jenggela	
 PWN:forest.n.01		kayu	
 PWN:forest.n.01		rimba		
 PWN:forest.n.01		wana		san:vana
@@ -12945,6 +13042,7 @@ PWN:gild.v.01		menyadur
 PWN:gild.v.01		menyepuh	
 PWN:gill.n.04		insang		
 PWN:ginger.n.01		halia	
+PWN:ginger.n.01		jahe	
 PWN:gingiva.n.01		gusi		
 PWN:girl.n.01		anak dara	
 PWN:girl.n.01		cewek	
@@ -13185,6 +13283,7 @@ PWN:good_fortune.n.01		nasib
 PWN:good_fortune.n.01		nasib baik	
 PWN:good_fortune.n.01		tuah	
 PWN:goose.n.01		angsa		san:haṉsa
+PWN:gospel.n.01		injil	
 PWN:gossip.n.02		desas-desus	
 PWN:gossip.n.02		fitnah	
 PWN:gossip.n.02		gosip	
@@ -13330,6 +13429,7 @@ PWN:greet.v.02		tegur sapa
 PWN:greeting.n.01		salam	
 PWN:greeting.n.01		sapaan	
 PWN:greeting.n.01		ucapan	
+PWN:grey.s.01		abu-abu	
 PWN:grey.s.01		kelabu	
 PWN:grief.n.01		dukacita	
 PWN:grief.n.01		kedukaan	
@@ -13547,6 +13647,7 @@ PWN:gun.n.01		senjata api
 PWN:gymnastics.n.01		gimnastik	
 PWN:gymnastics.n.01		riadah	
 PWN:gymnastics.n.01		senam	
+PWN:habit.n.01		adat	
 PWN:habit.n.01		kebiasaan	
 PWN:habit.n.01		resmi	
 PWN:habit.n.01		tabiat	
@@ -13573,6 +13674,7 @@ PWN:hammer.n.02		penukul
 PWN:hammer.n.02		tukul	
 PWN:hammock.n.02		katil	
 PWN:hand.n.01		tangan		
+PWN:hand.n.01		yad	
 PWN:hand.n.04		kemampuan	
 PWN:hand.n.04		tangan	
 PWN:hand.n.06		ikut serta	
@@ -13841,6 +13943,7 @@ PWN:hash_out.v.01		menggodok
 PWN:hash_out.v.01		mengomongkan	
 PWN:hash_out.v.01		merembukkan	
 PWN:hash_out.v.01		merundingkan	
+PWN:hassium.n.01		hassium	
 PWN:haste.n.02		cepat	
 PWN:haste.n.02		kejaran	
 PWN:haste.n.02		kesibukan	
@@ -14118,6 +14221,7 @@ PWN:hip.n.01		panggul
 PWN:hip.n.01		pinggul		
 PWN:hippopotamus.n.01		badak	
 PWN:hippopotamus.n.01		badak air	
+PWN:hippopotamus.n.01		kuda nil	
 PWN:hire.v.01		mempekerjakan		
 PWN:hire.v.01		mengambil	
 PWN:hire.v.01		menggaji		nld:gage
@@ -14363,6 +14467,7 @@ PWN:homo.n.02		insan
 PWN:homo.n.02		manusia	
 PWN:homo.n.02		nara	
 PWN:homo.n.02		orang	
+PWN:honey.n.01		air lebah	
 PWN:honey.n.01		madu		san:madhu
 PWN:honey.n.01		manisan	
 PWN:honey.n.01		manisan lebah	
@@ -14397,6 +14502,7 @@ PWN:hope.v.02		berangan-angan
 PWN:hope.v.02		berharap		
 PWN:hope.v.02		harapan	
 PWN:hope.v.02		mengasakan	
+PWN:hopeless.a.01		putus asa	
 PWN:horizontal.a.01		datar	
 PWN:horizontal.a.01		datar	
 PWN:horizontal.a.01		horizontal	
@@ -14497,6 +14603,7 @@ PWN:hum.v.02		menggelegak
 PWN:hum.v.02		menggelogok	
 PWN:hum.v.02		menggelora	
 PWN:hum.v.02		sibuk	
+PWN:humanism.n.02		humanisme	
 PWN:humid.s.01		basah	
 PWN:humid.s.01		berair	
 PWN:humid.s.01		lembab	
@@ -14580,11 +14687,13 @@ PWN:idea.n.01		gagasan		jav:gagasan
 PWN:idea.n.01		ide	
 PWN:idea.n.01		idé		fra:idée
 PWN:idea.n.01		pendapat	
+PWN:idea.n.01		pikir	
 PWN:ideal.n.01		cita-cita	
 PWN:ideal.n.01		idaman	
 PWN:ideal.n.01		impian	
 PWN:ideal.n.01		sejati	
 PWN:ideal.n.01		suci	
+PWN:identical.s.01		identik	
 PWN:identical.s.01		sama	
 PWN:identical.s.01		seiras	
 PWN:identical.s.01		serupa	
@@ -14624,6 +14733,7 @@ PWN:idol.n.01		patung
 PWN:idol.n.01		tokong	
 PWN:idol.n.01		tokong	
 PWN:igloo.n.01		iglo	
+PWN:igloo.n.01		iglu	
 PWN:ignite.v.01		api	
 PWN:ignite.v.01		bernyala	
 PWN:ignite.v.01		memantik	
@@ -15535,12 +15645,14 @@ PWN:iodine.n.01		yodium
 PWN:iridium.n.01		iridium	
 PWN:iris.n.02		iris	
 PWN:iron.n.01		besi		
+PWN:iron.n.01		ferum	
 PWN:iron_out.v.01		meluruskan	
 PWN:iron_out.v.01		mendekatkan	
 PWN:iron_out.v.01		menjernihkan	
 PWN:irritate.v.02		memengkalkan	
 PWN:irritate.v.02		menjengkelkan	
 PWN:islam.n.01		Islam	
+PWN:islam.n.01		agama Islam	
 PWN:islam.n.01		islam	
 PWN:islam.n.01		muslimin	
 PWN:island.n.01		nusa		
@@ -15586,6 +15698,7 @@ PWN:jacket.n.01		jaket
 PWN:jacket.n.02		jaket	
 PWN:jacket.n.02		jaket buku	
 PWN:jacket.n.02		pembungkus	
+PWN:jade.n.01		giok	
 PWN:jade.n.01		zamrud	
 PWN:jaguar.n.01		harimau kumbang	
 PWN:jaguar.n.01		harimau peturun	
@@ -15607,6 +15720,7 @@ PWN:jelly.n.03		agar-agar
 PWN:jersey.n.03		kaos	
 PWN:jersey.n.03		kaus	
 PWN:jersey.n.03		kaus oblong	
+PWN:jersey.n.03		kemeja-T	
 PWN:jest.n.02		bergurau	
 PWN:jest.n.02		gurauan	
 PWN:jest.n.02		jenaka	
@@ -15615,6 +15729,7 @@ PWN:jest.n.02		lawak
 PWN:jesus.n.01		Christ	
 PWN:jesus.n.01		Deliverer	
 PWN:jesus.n.01		Jesus	
+PWN:jesus.n.01		Kristus	
 PWN:jesus.n.01		Redeemer	
 PWN:jesus.n.01		Savior	
 PWN:jesus.n.01		Saviour	
@@ -15773,6 +15888,7 @@ PWN:jungle.n.01		hutan
 PWN:jungle.n.01		rimba	
 PWN:jurisdiction.n.02		daerah	
 PWN:jury.n.01		juri	
+PWN:just.a.01		adil	
 PWN:justice.n.01		berasas	
 PWN:justice.n.01		keadilan	
 PWN:justice.n.01		layak	
@@ -15780,6 +15896,7 @@ PWN:justification.n.01		justifikasi
 PWN:justification.n.01		kewajaran	
 PWN:juvenile.n.01		anak muda	
 PWN:juvenile.n.01		juvenil	
+PWN:kangaroo.n.01		kanggaru	
 PWN:kangaroo.n.01		kangguru		kky:gaŋurru
 PWN:kangaroo.n.01		kanguru	
 PWN:karate.n.01		karate	
@@ -15821,6 +15938,7 @@ PWN:keep.v.03		menjaga
 PWN:keep.v.03		menjaga	
 PWN:keep.v.03		menyimpan		
 PWN:keep.v.19		jaga	
+PWN:kelp.n.01		kelp	
 PWN:kernel.n.03		bahan	
 PWN:kernel.n.03		benda	
 PWN:kernel.n.03		dasar	
@@ -15844,6 +15962,7 @@ PWN:kettle.n.01		cérét		jav:cèrèt
 PWN:kettle.n.01		dandang	
 PWN:kettle.n.01		katel	
 PWN:kettle.n.01		kendi	
+PWN:kettle.n.01		ketel	
 PWN:kettle.n.01		téko		nan:tê-kó
 PWN:key.n.01		(anak) kunci		
 PWN:key.n.01		kunci	
@@ -16006,9 +16125,11 @@ PWN:know.v.01		mengenal
 PWN:know.v.01		mengenali	
 PWN:know.v.01		mengetahui	
 PWN:know.v.01		tahu		
+PWN:know.v.01 		tahu	
 PWN:know.v.02		memaklumi	
 PWN:know.v.02		mengenal	
 PWN:know.v.02		mengetahui	
+PWN:know.v.02		sabi	
 PWN:know.v.02		tahu	
 PWN:know.v.04		kenal	
 PWN:know.v.04		mengenal	
@@ -16088,6 +16209,7 @@ PWN:language.n.01		bahasa		san:bhāṣā
 PWN:language.n.05		bahasa	
 PWN:language.n.05		pertuturan	
 PWN:language_unit.n.01		unit	
+PWN:lanthanum.n.01		lantanium	
 PWN:lanthanum.n.01		lantanum	
 PWN:lap.n.01		paha	
 PWN:lap.n.01		pangkuan	
@@ -16162,6 +16284,7 @@ PWN:laugh.v.01		gelak manis
 PWN:laugh.v.01		kakah	
 PWN:laugh.v.01		ketawa		
 PWN:laugh.v.01		menggelakkan	
+PWN:laugh.v.01		tawa	
 PWN:laugh.v.01		tertawa		
 PWN:laughter.n.02		gelak	
 PWN:laughter.n.02		ketawa	
@@ -16630,6 +16753,7 @@ PWN:light.n.01		bayangan
 PWN:light.n.01		cahaya	
 PWN:light.n.01		gambaran	
 PWN:light.n.01		lampu	
+PWN:light.n.01		nur	
 PWN:light.n.01		sinar	
 PWN:light.v.01		bercahaya	
 PWN:light.v.01		memarakkan	
@@ -17164,7 +17288,10 @@ PWN:magnificence.n.02		kemuliaan
 PWN:magnificence.n.02		kilauan	
 PWN:magpie.n.01		burung murai	
 PWN:magpie.n.01		murai	
+PWN:maid.n.01		babu	
+PWN:maid.n.01		pembantu	
 PWN:mail.n.01		mel	
+PWN:mail.n.01		pos	
 PWN:mail.n.01		surat	
 PWN:mail.n.02		mel	
 PWN:mail.n.02		pos		fra:poste
@@ -17224,6 +17351,7 @@ PWN:make.v.03		menimbulkan
 PWN:make.v.03		menjadikan	
 PWN:make.v.03		menjelmakan	
 PWN:make.v.03		mewujudkan	
+PWN:make.v.16		buat	
 PWN:make.v.19		membuat	
 PWN:make.v.19		mencipta	
 PWN:make.v.19		mendapatkan	
@@ -17303,6 +17431,7 @@ PWN:management.n.01		pengurusan
 PWN:mandarin.n.01		mandarin	
 PWN:maneuver.n.04		manuver	
 PWN:manganese.n.01		mangan	
+PWN:manganese.n.01		manggan	
 PWN:manger.n.01		lawak-lawak	
 PWN:manger.n.01		palung		
 PWN:mango.n.01		mangga	
@@ -17354,6 +17483,7 @@ PWN:manufacturer.n.02		produser
 PWN:many.a.01		banyak		
 PWN:many.a.01		berulang-ulang	
 PWN:many.a.01		ramai	
+PWN:map.n.01		map	
 PWN:map.n.01		peta	
 PWN:mapmaking.n.01		kartografi	
 PWN:mapmaking.n.01		pemetaan	
@@ -17460,6 +17590,7 @@ PWN:massage.v.01		meremas
 PWN:mast.n.01		tiang		
 PWN:master.n.04		kepala	
 PWN:master.n.04		ketua	
+PWN:master.n.04		sinse	
 PWN:master.n.04		tuan	
 PWN:master.n.06		asal	
 PWN:master.n.08		kepala	
@@ -17740,6 +17871,7 @@ PWN:meeting.n.04		perjumpaan
 PWN:meeting.n.04		persidangan	
 PWN:meeting.n.04		pertemuan	
 PWN:megalomania.n.01		megalomania	
+PWN:meitnerium.n.01		meitnerium	
 PWN:melt.v.01		buyar	
 PWN:melt.v.01		cair	
 PWN:melt.v.01		hidup	
@@ -17835,6 +17967,7 @@ PWN:merit.n.01		kebaikan
 PWN:mess.v.02		memberantakkan	
 PWN:mess.v.02		mengotori	
 PWN:message.n.01		berita	
+PWN:message.n.01		mesej	
 PWN:message.n.01		perutusan	
 PWN:message.n.01		pesan	
 PWN:message.n.01		pesanan	
@@ -17942,6 +18075,7 @@ PWN:minor.s.10		kecil
 PWN:minor.s.10		rendah	
 PWN:minor.s.10		sederhana	
 PWN:minority.n.01		minoritas	
+PWN:mint.n.02		pudina	
 PWN:minute.n.01		menit	
 PWN:miracle.n.01		keajaiban	
 PWN:mirror.n.01		cermin		
@@ -18106,12 +18240,14 @@ PWN:mold.n.05		jamur
 PWN:mold.n.05		kulat	
 PWN:mole.n.06		mol	
 PWN:mole.n.06		mole	
+PWN:mole.n.06		tikus mondok	
 PWN:mole.n.06		tikus tanah	
 PWN:molecule.n.01		molekul	
 PWN:mollusk.n.01		kerang	
 PWN:mollusk.n.01		kerang-kerangan	
 PWN:mollusk.n.01		moluska	
 PWN:mollusk.n.01		siput	
+PWN:molybdenum.n.01		molibden	
 PWN:molybdenum.n.01		molibdenum	
 PWN:moment.n.01		apabila	
 PWN:moment.n.01		detik	
@@ -18560,6 +18696,7 @@ PWN:neighbor.n.01		tetangga
 PWN:neighborhood.n.02		daerah	
 PWN:neighborhood.n.02		tetangga	
 PWN:neodymium.n.01		neodimium	
+PWN:neodymium.n.01		neodinium	
 PWN:neon.n.01		neon	
 PWN:nephew.n.01		anak buah	
 PWN:neptunium.n.01		neptunium	
@@ -18591,6 +18728,7 @@ PWN:new.a.01		baharu
 PWN:new.a.01		baru		
 PWN:new_year.n.01		tahun baru	
 PWN:news.n.01		berita	
+PWN:news.n.01		kabar	
 PWN:news.n.01		laporan	
 PWN:news.n.01		maklumat	
 PWN:news.n.02		berita	
@@ -18638,6 +18776,7 @@ PWN:night.n.03		malam
 PWN:night.n.04		lailah	
 PWN:night.n.04		malam	
 PWN:night.n.07		malam	
+PWN:nightingale.n.01		bulbul	
 PWN:nine.s.01		sembilan		
 PWN:niobium.n.01		niobium	
 PWN:nipple.n.01		puting		
@@ -18740,6 +18879,7 @@ PWN:number.n.01		bilangan
 PWN:number.n.01		jumlah	
 PWN:number.n.02		angka		san:aṅka
 PWN:number.n.02		bilangan	
+PWN:number.n.02		nombor	
 PWN:number.n.02		nomor		nld:nummer
 PWN:number.n.08		angka	
 PWN:number.n.08		bilangan	
@@ -18754,6 +18894,7 @@ PWN:nut.n.01		kacang
 PWN:nutriment.n.01		khasiat	
 PWN:nutriment.n.01		makanan	
 PWN:nutriment.n.01		nutrisi	
+PWN:oak.n.02		ek	
 PWN:oar.n.01		dayung		
 PWN:oar.n.01		pengayuh	
 PWN:oat.n.01		havermut		nld:havermout
@@ -18870,6 +19011,7 @@ PWN:oil.n.01		minyak
 PWN:ointment.n.01		balsem	
 PWN:ointment.n.01		salap	
 PWN:ointment.n.01		salep		nld:zalf
+PWN:okra.n.01		bendi	
 PWN:okra.n.02		bendi	
 PWN:old.a.01		berumur	
 PWN:old.a.01		berumur	
@@ -18910,6 +19052,7 @@ PWN:olfactory_property.n.01		aroma
 PWN:olfactory_property.n.01		bau	
 PWN:olive.n.01		(buah) zaitun		arb:zaitūn
 PWN:olive.n.01		olive		eng:olive
+PWN:olive.n.01		zaitun	
 PWN:omen.n.01		alamat	
 PWN:omen.n.01		alamat buruk		
 PWN:omen.n.01		ramalan	
@@ -18930,6 +19073,7 @@ PWN:one-half.n.01		seperdua
 PWN:one-half.n.01		setengah		
 PWN:one.s.01		salah	
 PWN:one.s.01		satu		
+PWN:oneness.n.01		kesatuan	
 PWN:oneness.n.01		perpaduan	
 PWN:onion.n.02		bawang	
 PWN:onion.n.02		bawang bombai	
@@ -19091,6 +19235,7 @@ PWN:option.n.02		pilihan
 PWN:oral.n.01		lisan	
 PWN:oral.n.01		oral	
 PWN:oral.n.01		ujian lisan	
+PWN:orange.n.03		jeruk	
 PWN:orange.n.03		oren	
 PWN:orange.s.01		jingga	
 PWN:orange.s.01		oren	
@@ -19169,6 +19314,7 @@ PWN:order.v.01		menyuruh
 PWN:order.v.01		menyuruh	
 PWN:order.v.01		meriwayatkan	
 PWN:order.v.01		meriwayatkan	
+PWN:order.v.01		organ	
 PWN:order.v.01		pesan	
 PWN:order.v.01		pesan	
 PWN:order.v.01		sebut	
@@ -19249,11 +19395,13 @@ PWN:original.s.01		asal
 PWN:original.s.01		asli	
 PWN:original.s.04		asli	
 PWN:orphan.n.01		anak yatim	
+PWN:orphan.n.01		asli	
 PWN:orphan.n.01		yatim	
 PWN:orphan.n.01		yatim-piatu		
 PWN:osmium.n.01		getas	
 PWN:osmium.n.01		osmium	
 PWN:other.a.01		lain		
+PWN:other.a.01		lainnya	
 PWN:other.a.01		selain	
 PWN:other.s.04		lain	
 PWN:outbreak.n.01		cetus	
@@ -19528,6 +19676,7 @@ PWN:party.n.04		perhelatan
 PWN:party.n.04		pesta	
 PWN:party.n.04		sambutan	
 PWN:party.n.05		pihak	
+PWN:party.v.01		pesta	
 PWN:pass.n.04		genting	
 PWN:pass.n.04		kaki gunung	
 PWN:pass.n.05		pas	
@@ -19708,6 +19857,7 @@ PWN:pen.n.01		péna		por:pena
 PWN:pen.n.02		kandang	
 PWN:pen.n.02		kurungan	
 PWN:pen.n.02		petak	
+PWN:pencil.n.01		pensil	
 PWN:penetrate.v.01		berpenetrasi	
 PWN:penetrate.v.01		masuk	
 PWN:penetrate.v.01		melantas	
@@ -19741,12 +19891,16 @@ PWN:people.n.01		manusia
 PWN:people.n.01		orang	
 PWN:people.n.01		umat	
 PWN:pepper.n.01		cabai	
+PWN:pepper.n.01		lada	
 PWN:pepper.n.01		lada hitam	
 PWN:pepper.n.01		merica	
+PWN:pepper.n.01		paprika	
 PWN:pepper.n.03		lada		
 PWN:pepper.n.03		merica		san:marica
 PWN:pepper.n.04		cabai	
 PWN:pepper.n.04		cili	
+PWN:pepper.n.04		lada hitam	
+PWN:pepper.n.04		merica	
 PWN:pepper.n.04		paprika	
 PWN:perceive.v.01		mafhum	
 PWN:perceive.v.01		melihat	
@@ -19921,6 +20075,7 @@ PWN:perturb.v.01		risau
 PWN:perturb.v.01		terganggu	
 PWN:perturb.v.01		walang hati	
 PWN:pestle.n.03		alu		
+PWN:pestle.n.03		antan	
 PWN:pet.n.01		binatang piaraan	
 PWN:petroleum.n.01		minyak bumi	
 PWN:petroleum.n.01		minyak bumi	
@@ -20073,6 +20228,7 @@ PWN:pinch.v.01		picit
 PWN:pinch.v.01		tersepit	
 PWN:pine.n.01		pinus		:pīnus
 PWN:pine.n.01		ru	
+PWN:pineapple.n.01		nanas	
 PWN:pink.s.01		dadu	
 PWN:pink.s.01		merah jambu	
 PWN:pink.s.01		merah muda	
@@ -20083,6 +20239,8 @@ PWN:pipe.n.01		pipa		spa:pipa
 PWN:pipe.n.02		pembuluh	
 PWN:pipe.n.02		pipa	
 PWN:pipe.n.02		saluran	
+PWN:piquant.s.01		cili	
+PWN:piston.n.02		piston	
 PWN:pit.n.01		lubang	
 PWN:pit.n.01		rongga	
 PWN:pitch.n.01		intonasi	
@@ -20200,6 +20358,7 @@ PWN:platinum.n.01		platina
 PWN:platinum.n.01		platinum	
 PWN:play.n.01		drama	
 PWN:play.n.01		pementasan	
+PWN:play.n.01		pentas	
 PWN:play.n.01		sandiwara	
 PWN:play.n.03		pemerintahan	
 PWN:play.n.03		rancangan	
@@ -20320,6 +20479,7 @@ PWN:poker.n.02		poker
 PWN:polarization.n.01		polarisasi	
 PWN:pole.n.01		batang kayu	
 PWN:pole.n.01		galah	
+PWN:pole.n.01		kutub	
 PWN:pole.n.01		pilon	
 PWN:pole.n.01		tiang	
 PWN:pole.n.01		tonggak	
@@ -20380,6 +20540,8 @@ PWN:polish.v.03		mengupam
 PWN:political_campaign.n.01		kampanye	
 PWN:political_orientation.n.01		ideologi	
 PWN:political_orientation.n.01		kepercayaan	
+PWN:politician.n.01		ahli politik	
+PWN:politician.n.01		politikus	
 PWN:politics.n.01		politik	
 PWN:politics.n.03		politik	
 PWN:pollute.v.01		infeksi	
@@ -20436,8 +20598,10 @@ PWN:populate.v.01		menumpang
 PWN:populate.v.01		tinggal		
 PWN:population.n.01		penduduk	
 PWN:population.n.02		penduduk	
+PWN:porcelain.n.01		porselen	
 PWN:porch.n.01		anjung	
 PWN:porch.n.01		beranda	
+PWN:port.n.01		bandar	
 PWN:port.n.01		pelabuhan	
 PWN:port.n.03		pintu	
 PWN:portray.v.02		bercerita	
@@ -20654,6 +20818,7 @@ PWN:praise.v.01		memuji
 PWN:praise.v.01		menyanjung	
 PWN:praise.v.01		puji	
 PWN:praseodymium.n.01		praseodimium	
+PWN:praseodymium.n.01		praseodinium	
 PWN:prawn.n.01		udang		
 PWN:pray.v.01		berdoa		arb:du‘ā’
 PWN:pray.v.01		bersembahyang	
@@ -20950,7 +21115,9 @@ PWN:processing.n.01		kiraan
 PWN:processing.n.01		memproses	
 PWN:produce.n.01		hasil	
 PWN:produce.n.01		hasil bumi	
+PWN:produce.v.02		bangun	
 PWN:produce.v.02		berkreasi	
+PWN:produce.v.02		bina	
 PWN:produce.v.02		cipta	
 PWN:produce.v.02		melakukan	
 PWN:produce.v.02		membentuk	
@@ -21426,6 +21593,8 @@ PWN:pulsation.n.01		impuls
 PWN:pulsation.n.01		keinginan	
 PWN:pulsation.n.01		pulsa	
 PWN:pulsation.n.01		rangsangan	
+PWN:pump.n.01		pam	
+PWN:pump.n.01		pompa	
 PWN:punch.v.03		melirik	
 PWN:punch.v.03		melubangi	
 PWN:punch.v.03		mencoblos	
@@ -21573,6 +21742,7 @@ PWN:put_up.v.08		melambuk
 PWN:put_up.v.08		memberikan	
 PWN:put_up.v.08		menyumbangkan	
 PWN:pyramid.n.01		limas	
+PWN:pyramid.n.01		piramida	
 PWN:python.n.01		ular sawa	
 PWN:quail.n.02		(burung) puyuh		
 PWN:quail.n.02		puyuh	
@@ -21660,6 +21830,8 @@ PWN:question.n.01		pertanyaan
 PWN:question.n.03		interogasi	
 PWN:question.n.03		mempersoalkan	
 PWN:question.n.03		pisitan	
+PWN:question.n.03 		pertanyaan	
+PWN:question.n.03 		soal	
 PWN:questioning.n.01		pertanyaan	
 PWN:quickly.r.01		segera	
 PWN:quickly.r.01		sekejap mata	
@@ -21707,6 +21879,8 @@ PWN:rabble.n.02		penjahat
 PWN:rabble.n.02		perusuh	
 PWN:rabble.n.02		rakyat jelata	
 PWN:rabble.n.02		sampah masyarakat	
+PWN:raccoon.n.02		bangsa	
+PWN:raccoon.n.02		ras	
 PWN:race.n.01		persaingan	
 PWN:race.n.02		balap	
 PWN:race.n.02		lomba	
@@ -21714,6 +21888,7 @@ PWN:race.n.02		pacuan
 PWN:race.n.03		bangsa	
 PWN:race.n.03		kaum	
 PWN:race.n.03		keturunan	
+PWN:race.n.03		rakun	
 PWN:rack.n.01		para-para	
 PWN:rack.n.01		rak	
 PWN:radiate.v.05		memancarkan	
@@ -23060,6 +23235,7 @@ PWN:ring.n.06		keleneng
 PWN:ring.n.06		kelenteng	
 PWN:ring.n.08		cincin		
 PWN:ring.n.08		cincin belah rotan	
+PWN:ring.n.08		ring	
 PWN:ring.v.01		berbunyi	
 PWN:ring.v.01		berdering	
 PWN:ring.v.01		berdering-dering	
@@ -23274,6 +23450,7 @@ PWN:rock.v.01		terhinggut-hinggut
 PWN:rocket.n.01		roket	
 PWN:rod.n.01		batang	
 PWN:rodent.n.01		mengunggis	
+PWN:roentgenium.n.01		roentgenium	
 PWN:roll.n.02		daftar	
 PWN:roll.n.02		senarai	
 PWN:roll.n.15		guling	
@@ -23670,10 +23847,12 @@ PWN:rustle.v.01		merisik
 PWN:ruthenium.n.01		ru	
 PWN:ruthenium.n.01		rutenium	
 PWN:rutherfordium.n.01		ruterfordium	
+PWN:rutherfordium.n.01		rutherfordium	
 PWN:rye.n.01		rai	
 PWN:rye.n.02		rai	
 PWN:sabbath.n.01		Sabat	
 PWN:sabbath.n.01		kegemparan	
+PWN:sabbath.n.01		sabtu	
 PWN:sack.n.01		kantung	
 PWN:sack.n.01		karung	
 PWN:sack.n.01		menggeledah	
@@ -23729,6 +23908,7 @@ PWN:safety.n.01		kesentosaan
 PWN:safety.n.02		pengungsian	
 PWN:safflower.n.01		kesumba	
 PWN:saga.n.01		saga	
+PWN:sago.n.01		sagu	
 PWN:sail.n.01		layar		
 PWN:sail.n.01		terpal	
 PWN:sail.v.03		berlayar		
@@ -23746,10 +23926,13 @@ PWN:saliva.n.01		air liur
 PWN:saliva.n.01		air ludah	
 PWN:saliva.n.01		liur	
 PWN:saliva.n.01		ludah	
+PWN:salmon.n.01		garam	
 PWN:salmon.n.01		ikan salmon	
 PWN:salmon.n.01		salmon	
 PWN:salt.n.01		garam	
 PWN:salt.n.02		garam		
+PWN:salt.n.02		ikan salmon	
+PWN:salt.n.02		ikan trout	
 PWN:salty.s.03		asin, masin		
 PWN:salty.s.03		masin	
 PWN:salvage.v.01		melapangkan	
@@ -23798,6 +23981,8 @@ PWN:sandal.n.01		selipar
 PWN:sandal.n.01		sendal	
 PWN:sandal.n.01		terompah	
 PWN:sandglass.n.01		jam pasir	
+PWN:sandwich.n.01		roti lapis	
+PWN:sandwich.n.01		sandwic.	
 PWN:sanity.n.01		kesehatan jiwa	
 PWN:sanity.n.01		kewarasan	
 PWN:santa_claus.n.01		Santa	
@@ -23830,6 +24015,7 @@ PWN:sauce.n.01		saus
 PWN:saucer.n.02		alas cangkir		
 PWN:saucer.n.02		lepek	
 PWN:saucer.n.02		piring	
+PWN:sausage.n.01		sosej	
 PWN:sausage.n.01		sosis		nld:saucijs
 PWN:savanna.n.01		sabana		spa:sabana
 PWN:savanna.n.01		savana	
@@ -23866,6 +24052,7 @@ PWN:scapula.n.01		tulang belikat
 PWN:scar.n.01		bekas luka	
 PWN:scar.n.01		parut		
 PWN:scarf.n.01		selendang	
+PWN:scarf.n.01		syal	
 PWN:scat.v.01		beredar	
 PWN:scat.v.01		berlari	
 PWN:scat.v.01		bolos	
@@ -23978,6 +24165,8 @@ PWN:score.n.03		markah
 PWN:score.n.03		mata	
 PWN:score.n.03		nilai	
 PWN:score.n.03		skor	
+PWN:scorpion.n.03		Akrab	
+PWN:scorpion.n.03		kala jengking	
 PWN:scorpion.n.03		kalajengking		
 PWN:scrape.v.01		bergaruk-garuk	
 PWN:scrape.v.01		bergesek	
@@ -24049,8 +24238,10 @@ PWN:scythe.n.01		arit		sun:arit
 PWN:scythe.n.01		celurit, clurit		mad:clurit
 PWN:scythe.n.01		sabit		
 PWN:sea.n.01		laut		
+PWN:sea.n.01		samudera	
 PWN:sea.n.01		samudra		san:samudra
 PWN:sea_urchin.n.01		bulu babi	
+PWN:seaborgium.n.01		seaborgium	
 PWN:seaport.n.01		bandar		pes:bandar
 PWN:seaport.n.01		pangkalan	
 PWN:seaport.n.01		pelabuhan		
@@ -24494,6 +24685,7 @@ PWN:serviceman.n.01		lelaki
 PWN:serviceman.n.01		manusia	
 PWN:serviceman.n.01		prajurit	
 PWN:sesame.n.01		bijan	
+PWN:sesame.n.01		sesam	
 PWN:sesame.n.01		wijen	
 PWN:session.n.03		perbincangan	
 PWN:session.n.03		sesi	
@@ -24509,6 +24701,7 @@ PWN:set.n.05		gerombolan
 PWN:set.n.05		golongan	
 PWN:set.n.05		kelompok	
 PWN:set.n.05		kumpulan	
+PWN:set.n.05		pita	
 PWN:set.n.08		himpunan	
 PWN:set.n.08		set	
 PWN:set.v.10		jatuh	
@@ -24648,7 +24841,9 @@ PWN:shallow.a.01		dangkal		:*dangkal
 PWN:shallow.a.01		dengkik	
 PWN:shallow.a.01		jangkat	
 PWN:shallow.a.01		tohor	
+PWN:shaman.n.01		dukun	
 PWN:shaman.n.01		pawang	
+PWN:shaman.n.01		shaman	
 PWN:shame.n.01		aib		arb:‘aib
 PWN:shame.n.01		malu	
 PWN:shame.n.01		memalukan	
@@ -24809,6 +25004,7 @@ PWN:shine.v.04		merelap
 PWN:shine.v.04		merelap-relap	
 PWN:ship.n.01		bahtera		san:vahitra
 PWN:ship.n.01		kapal		tam:kappal
+PWN:ship.n.01		perahu	
 PWN:shirt.n.01		baju		
 PWN:shirt.n.01		baju kemeja	
 PWN:shirt.n.01		blus		nld:bloes
@@ -25003,6 +25199,7 @@ PWN:show.v.04		menandakan
 PWN:show.v.04		mengilat-ngilatkan	
 PWN:show.v.04		menonjolkan	
 PWN:show.v.04		menunjukkan	
+PWN:shower.n.01		dus	
 PWN:shower.n.01		pancuran	
 PWN:showman.n.02		penganjur	
 PWN:shrewdness.n.01		kepintaran	
@@ -25046,6 +25243,7 @@ PWN:shrivel.v.01		mengkeret
 PWN:shrivel.v.01		menyusut	
 PWN:shrivel.v.01		menyusutkan	
 PWN:shrivel.v.01		meranggas	
+PWN:shrub.n.01		alas gandar	
 PWN:shrub.n.01		perdu	
 PWN:shrub.n.01		semak	
 PWN:shrub.n.01		semak-semak	
@@ -25074,6 +25272,7 @@ PWN:shut.a.01		tertutup
 PWN:shut.a.01		tutup	
 PWN:sibling.n.01		adik	
 PWN:sibling.n.01		adik-beradik	
+PWN:sibling.n.01		saudara	
 PWN:sibling.n.01		saudara (kandung)		
 PWN:sibling.n.01		saudara kandung	
 PWN:sicken.v.02		terbongkar	
@@ -25217,6 +25416,7 @@ PWN:sip.v.01		serot
 PWN:sister.n.01		dik	
 PWN:sister.n.01		kak	
 PWN:sister.n.01		kakak	
+PWN:sister.n.01		saudari	
 PWN:sister.n.03		kawan	
 PWN:sister.n.03		saudara	
 PWN:sit.v.01		duduk	
@@ -25319,6 +25519,7 @@ PWN:skin.v.04		merelas
 PWN:skin.v.04		terkelopak	
 PWN:skin.v.04		terkupas	
 PWN:skirt.n.02		rok		nld:rok
+PWN:skull.n.01		batok kepala	
 PWN:skull.n.01		tengkorak		
 PWN:skunk.n.04		sigung	
 PWN:sky.n.01		angkasa		san:ākāśa
@@ -25604,6 +25805,7 @@ PWN:social_station.n.01		peringkat
 PWN:social_station.n.01		taraf	
 PWN:socialism.n.01		sosialisme	
 PWN:socialist.n.01		sosialis	
+PWN:society.n.01		masyarakat	
 PWN:society.n.01		persatuan	
 PWN:society.n.01		pertubuhan	
 PWN:sock.n.01		kaus kaki	
@@ -25627,6 +25829,7 @@ PWN:soil.n.02		bumi
 PWN:soil.n.02		tanah	
 PWN:soiling.n.01		pengotoran	
 PWN:solar_energy.n.01		energi matahari	
+PWN:solar_system.n.01		sistem suria	
 PWN:solar_system.n.01		tata surya	
 PWN:soldier.n.01		askar	
 PWN:soldier.n.01		askar	
@@ -25761,6 +25964,7 @@ PWN:sow.v.01		menyemaikan
 PWN:sow.v.01		semai	
 PWN:soy.n.04		kedelai	
 PWN:soy_sauce.n.01		kecap	
+PWN:space.n.01		alam semesta	
 PWN:space.n.01		angkasa	
 PWN:space.n.01		ruang	
 PWN:space.n.01		tempat	
@@ -25948,6 +26152,7 @@ PWN:spoil.v.02		reput
 PWN:sponge.n.01		busa	
 PWN:sponge.n.01		span	
 PWN:spoon.n.01		camca	
+PWN:spoon.n.01		sendok	
 PWN:spoon.n.01		sudu	
 PWN:spoon.n.01		séndok		jav:séndok
 PWN:sport.n.01		atletik	
@@ -26196,6 +26401,7 @@ PWN:stabilize.v.01		memantapkan
 PWN:stabilize.v.01		mengukuhkan	
 PWN:stabilize.v.01		menstabilkan	
 PWN:stabilize.v.03		stabil	
+PWN:stable.s.04		stabil	
 PWN:stadium.n.01		arena	
 PWN:stadium.n.01		gelanggang	
 PWN:stadium.n.01		medan	
@@ -26247,6 +26453,7 @@ PWN:staple.n.04		kokot jantan
 PWN:star.n.01		bintang	
 PWN:star.n.03		bintang		
 PWN:star.n.03		kartika		san:kṛttikā
+PWN:starship.n.01		pesawat luar angkasa	
 PWN:start.n.01		permulaan	
 PWN:start.v.06		berangkat	
 PWN:start.v.06		berawal	
@@ -26387,7 +26594,9 @@ PWN:steal.v.02		tergelicik
 PWN:steal.v.02		tergelincir	
 PWN:steal.v.02		terpeleset	
 PWN:steal.v.02		terselulur	
+PWN:steam.n.01		kukus	
 PWN:steam.n.01		uap		
+PWN:steam.n.01		wap	
 PWN:steamer.n.03		kapal api	
 PWN:steel.n.01		baja	
 PWN:steel.n.01		besi	
@@ -27597,6 +27806,7 @@ PWN:tan.v.01		menyamak
 PWN:tank.n.01		tangki	
 PWN:tank.n.01		tank	
 PWN:tantalum.n.01		ta	
+PWN:tantalum.n.01		tantalum	
 PWN:taoism.n.01		Taoisme	
 PWN:tap.v.07		mengetuk	
 PWN:tap.v.07		menggoleng	
@@ -27677,6 +27887,8 @@ PWN:team.n.01		tim
 PWN:team.n.02		kelompok	
 PWN:team.n.02		regu	
 PWN:team.n.02		tim	
+PWN:teapot.n.01		poci teh	
+PWN:teapot.n.01		teko	
 PWN:tear.n.01		air mata		
 PWN:tear.v.01		berpecah	
 PWN:tear.v.01		membelungsing	
@@ -27707,6 +27919,7 @@ PWN:tear.v.05		mencarik
 PWN:tear.v.05		mengoyak	
 PWN:tear.v.05		menyobek	
 PWN:tear.v.05		merobek	
+PWN:technology.n.01		teknetium	
 PWN:technology.n.01		teknologi	
 PWN:teem.v.01		banyak	
 PWN:teem.v.01		berkerubung	
@@ -27737,6 +27950,7 @@ PWN:tell.v.03		menunjukkan
 PWN:tell.v.03		menuturkan	
 PWN:tell.v.03		merawikan	
 PWN:tell.v.03		meriwayatkan	
+PWN:tellurium.n.01		telurium	
 PWN:temper.n.02		angin	
 PWN:temper.n.02		keadaan	
 PWN:temper.n.02		perangai	
@@ -27784,6 +27998,7 @@ PWN:tense.v.04		meregangkan
 PWN:tense.v.04		regang	
 PWN:tense.v.04		tegang	
 PWN:tent.n.01		kemah	
+PWN:tent.n.01		khemah	
 PWN:tent.n.01		kémah		arb:xaimah
 PWN:tent.n.01		tenda	
 PWN:tent.n.01		ténda		por:tenda
@@ -27849,6 +28064,8 @@ PWN:tether.v.01		merantai
 PWN:text.n.01		naskah	
 PWN:text.n.01		teks	
 PWN:thallium.n.01		talium	
+PWN:thallium.n.01		tallium	
+PWN:thank.v.01		bersyukur kepada	
 PWN:thank.v.01		berterima kasih	
 PWN:thank.v.01		terima kasih	
 PWN:thanks.n.01		berterima kasih	
@@ -27881,6 +28098,7 @@ PWN:there.r.01		sana
 PWN:there.r.01		situ	
 PWN:there.r.01		situ (1)		
 PWN:thermometer.n.01		termometer	
+PWN:thesis.n.01		tesis	
 PWN:thick.a.01		kandel	
 PWN:thick.a.01		medok	
 PWN:thick.a.01		rimbun	
@@ -28050,6 +28268,7 @@ PWN:throat.n.01		faring
 PWN:throat.n.01		kerongkongan		jav:krongkongan
 PWN:throat.n.01		rangkungan	
 PWN:throat.n.01		tekak	
+PWN:throat.n.01		tenggorok	
 PWN:throat.n.01		tenggorokan		
 PWN:through.r.01		léwat		
 PWN:through.r.01		melalui		
@@ -28382,6 +28601,7 @@ PWN:total.v.01		menomori
 PWN:total.v.01		naik	
 PWN:total.v.01		tiba	
 PWN:toucan.n.01		(burung) tukan		:tucana
+PWN:toucan.n.01		tukan	
 PWN:touch.n.05		sentuh	
 PWN:touch.n.05		sentuhan	
 PWN:touch.v.01		bersentuhan	
@@ -29117,6 +29337,7 @@ PWN:ugliness.n.01		kekejian
 PWN:ugly.a.01		bangpak	
 PWN:ugly.a.01		buruk	
 PWN:ugly.a.01		cerabah	
+PWN:ugly.a.01		hodoh	
 PWN:ugly.a.01		jelek	
 PWN:ugly.a.01		jelék		nld:slecht
 PWN:ugly.a.01		lata	
@@ -29314,6 +29535,7 @@ PWN:union.n.04		perikatan
 PWN:union.n.04		persatuan	
 PWN:union.n.04		persekutuan	
 PWN:union.n.04		perserikatan	
+PWN:union.n.04		serikat	
 PWN:union.n.04		unifikasi	
 PWN:union.n.07		gabungan	
 PWN:union.n.07		perikatan	
@@ -29376,6 +29598,11 @@ PWN:untie.v.01		mencopotkan
 PWN:untie.v.01		mengungkah	
 PWN:untie.v.01		mengungkai	
 PWN:untie.v.01		menguraikan		
+PWN:ununbium.n.01		copernicium	
+PWN:ununhexium.n.01		livermorium	
+PWN:ununpentium.n.01		moskovium	
+PWN:ununquadium.n.01		flerovium	
+PWN:ununtrium.n.01		nihonium	
 PWN:unwrap.v.02		memaklumkan	
 PWN:unwrap.v.02		membeberkan	
 PWN:unwrap.v.02		memberikan	
@@ -29521,6 +29748,7 @@ PWN:value.n.02		nilai
 PWN:value.n.02		sah	
 PWN:value.n.03		nilai	
 PWN:valve.n.01		katup	
+PWN:valve.n.01		keran	
 PWN:vanadium.n.01		vanadium	
 PWN:vapor.n.01		asap	
 PWN:vapor.n.01		kabus	
@@ -29913,6 +30141,7 @@ PWN:waterfall.n.01		air terjun
 PWN:waterfall.n.01		jeram	
 PWN:waterfall.n.01		lata	
 PWN:waterfall.n.01		riam	
+PWN:watermelon.n.01		semangka	
 PWN:watermelon.n.02		semangka	
 PWN:wave.n.01		alun		
 PWN:wave.n.01		gelombang		
@@ -30233,6 +30462,7 @@ PWN:window.n.02		jenela
 PWN:window.n.02		tingkap	
 PWN:wine.n.01		anggur		pes:angūr
 PWN:wine.n.01		arak	
+PWN:wine.n.01		wain	
 PWN:wine.n.01		wine		eng:wine
 PWN:wing.n.01		kapak	
 PWN:wing.n.01		kepak	
@@ -30551,6 +30781,7 @@ PWN:write.v.02		mengarang
 PWN:write.v.02		menulis		
 PWN:write.v.02		menyurati	
 PWN:write.v.02		tulis	
+PWN:write.v.02		tulisan	
 PWN:write.v.07		menandakan	
 PWN:write.v.07		menulis	
 PWN:write.v.07		tulis	
@@ -30632,6 +30863,7 @@ PWN:yield.v.01		menghasilkan
 PWN:yield.v.01		menyampaikan	
 PWN:yield.v.01		menyingkir	
 PWN:yield.v.01		takluk	
+PWN:yin.n.01 		yogurt	
 PWN:yogurt.n.01		dadih	
 PWN:yogurt.n.01		susu asam	
 PWN:yogurt.n.01		yoghurt	
@@ -30657,6 +30889,7 @@ PWN:yttrium.n.01		itrium
 PWN:zebra.n.01		zebra	
 PWN:zero.s.01		kosong		
 PWN:zero.s.01		nol		ita:nulla
+PWN:zero.s.01		sifar	
 PWN:zinc.n.01		seng	
 PWN:zinc.n.01		timah sari	
 PWN:zinc.n.01		zink	
