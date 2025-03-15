@@ -5,7 +5,7 @@ This program takes two arguments:
     2. Language code for the target language
 
 Example command for running this program:
-    python3 src/write_bilingual_dict.py eng fra
+    python3 src/generate_bilingual_dict.py eng fra
 It will create a bilingual English to French dictionary by the name eng-fra.md
 in the Markdown format into the generated/ directory.
 
@@ -14,6 +14,16 @@ CC-BY 2024 Panlexia (https://github.com/barumau/panlexia)
 import helpers
 import languages
 import sys
+
+def write_entry(bilingual_dictionary, has_transcription, has_pronunciation, source_row, target_row):
+    word_class = helpers.get_PoS(source_row["id"])
+    if has_transcription:
+        bilingual_dictionary.append([source_row["word"], word_class, target_row["word"], target_row["transcription"]])
+    elif has_pronunciation:
+        bilingual_dictionary.append([source_row["word"], word_class, target_row["word"], target_row["pronunciation"]])
+    else:
+        bilingual_dictionary.append([source_row["word"], word_class, target_row["word"]])
+
 
 def make_bilingual_dictionary_table(source_language_dict, target_language_dict):
     """Iterate through both dictionaries and combine rows with the same id."""
@@ -35,6 +45,8 @@ def make_bilingual_dictionary_table(source_language_dict, target_language_dict):
     # Start both dictionaries from the first row.
     source_row = next(source_dict, None)
     target_row = next(target_dict, None)
+    next_source_row = next(source_dict, None)
+    not_yet_written = True
 
     bilingual_dictionary = []
 
@@ -43,22 +55,28 @@ def make_bilingual_dictionary_table(source_language_dict, target_language_dict):
             # Break the loop when one or the other dictionary has been read to the end.
             break
         if source_row["id"] == target_row["id"]:
-            word_class = helpers.get_PoS(source_row["id"])
-            if has_transcription:
-                bilingual_dictionary.append([source_row["word"], word_class, target_row["word"], target_row["transcription"]])
-            elif has_pronunciation:
-                bilingual_dictionary.append([source_row["word"], word_class, target_row["word"], target_row["pronunciation"]])
+            if not_yet_written:
+                write_entry(bilingual_dictionary, has_transcription, has_pronunciation, source_row, target_row)
+
+            # Check is there synonym in source language.
+            if (next_source_row != None) and (next_source_row["id"] == target_row["id"]):
+                write_entry(bilingual_dictionary, has_transcription, has_pronunciation, next_source_row, target_row)
+                not_yet_written = False
+                source_row = next_source_row
+                next_source_row = next(source_dict, None)
             else:
-                bilingual_dictionary.append([source_row["word"], word_class, target_row["word"]])
-            # TODO: Handle synonyms better.
-            # Advance only target row in case of synonyms.
-            target_row = next(target_dict, None)
+                # Advance target row in case of synonyms.
+                target_row = next(target_dict, None)
+                not_yet_written = True
         elif source_row["id"] < target_row["id"]:
             # The source dictionary is behind the target dictionary.
-            source_row = next(source_dict, None)
+            source_row = next_source_row
+            next_source_row = next(source_dict, None)
+            not_yet_written = True
         else:
             # The source dictionary is ahead of the target dictionary.
             target_row = next(target_dict, None)
+            not_yet_written = True
 
     return bilingual_dictionary
 
@@ -94,7 +112,7 @@ def build_translation(row):
         translation = translation + " /" + row[3] + "/"
     return translation
 
-def format_and_write(source_lang, target_lang, dict):
+def format_and_write_markdown_file(source_lang, target_lang, dict):
     """Sorts the dictionary alphabetically and writes it to file in Markdown format."""
     # Sort the words in case-insensitive way.
     sorted_dict = sorted(dict, key=lambda s: s[0].casefold())
@@ -128,13 +146,13 @@ def format_and_write(source_lang, target_lang, dict):
             next_row = sorted_dict[i + j]
             if is_synonym(row, next_row):
                 j = j + 1
-                translation = translation + circled_number(j) + build_translation(next_row)
+                translation = translation + ', ' + build_translation(next_row)
             else:
                 break
 
-        if j > 1:
+        #if j > 1:
             # Add number also before the first translation.
-            translation = circled_number(1) + translation
+            #translation = circled_number(1) + translation
 
         # Make bilingual entry in simple Markdown format.
         # The format is: **source_word** *PoS* target_word /pronunciation/
@@ -146,6 +164,36 @@ def format_and_write(source_lang, target_lang, dict):
 
     file.write("\n\"[Panlexia](https://github.com/barumau/panlexia)\" by Risto Kupsala et al. is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)")
     print(f"Created {filename} with {len(sorted_dict)} entry terms.")
+
+def sort_and_write_CSV_file(source_lang, target_lang, dict):
+    """Sorts the dictionary alphabetically and writes it to file in CSV (comma-separated values) format."""
+    # Sort the words in case-insensitive way.
+    sorted_dict = sorted(dict, key=lambda s: s[0].casefold())
+
+    filename = "generated/" + source_lang + "-" + target_lang + ".csv"
+    file = helpers.simple_file_writer(filename)
+
+    source_lang_full_name = languages.source_lang_code_to_name(source_lang)
+    target_lang_full_name = languages.target_lang_code_to_name(source_lang, target_lang)
+    file.write(source_lang_full_name + " , " + target_lang_full_name + "\n")
+
+    i = 0
+    while i < len(sorted_dict):
+        row = sorted_dict[i]
+        file.write(row[0] + ',' + row[2] + '\n')
+
+        j = 1
+        while i + j < len(sorted_dict):
+            next_row = sorted_dict[i + j]
+            if is_synonym(row, next_row):
+                j = j + 1
+                file.write(row[0] + ',' + next_row[2] + '\n')
+            else:
+                break
+        i = i + j
+
+    print(f"Created {filename} with {len(sorted_dict)} entry terms.")
+
 
 source_lang = sys.argv[1]
 target_lang = sys.argv[2]
@@ -160,4 +208,5 @@ target_language_dict = helpers.get_dictionary_filename(target_lang)
 print(f"Making bilingual {source_lang}-{target_lang} dictionary...")
 
 bilingual_dictionary = make_bilingual_dictionary_table(source_language_dict, target_language_dict)
-format_and_write(source_lang, target_lang, bilingual_dictionary)
+format_and_write_markdown_file(source_lang, target_lang, bilingual_dictionary)
+sort_and_write_CSV_file(source_lang, target_lang, bilingual_dictionary)
