@@ -17,3 +17,5 @@ Each row in each file has a unique concept id and a word, a definition or other 
 The identifier links definitions and words in various languages together.
 The identifier also links each word in one language to its equivalents in other languages.
 This way the database can serve as a source for translation dictionaries.
+
+Read [how you can contribute](contributing.md) to the development of Panlexia.

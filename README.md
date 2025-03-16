@@ -149,7 +149,7 @@ The Panlexia project re-uses material from the following sources:
 Panlexia is maintained by **Risto Kupsala** from Oulu, Finland.
 You may contact him by sending email to <risto@pandunia.info>.
 
-## Let's work together!
+## Contributing
 
 Panlexia is a collaborative project.
 You can help in many ways!
@@ -171,7 +171,9 @@ You may contribute via GitHub.
 Create an account for yourself and follow instructions about [cloning a repository](https://guides.github.com/activities/forking/) and [basic use](https://guides.github.com/activities/hello-world/).
 If you contribute changes yourself, you will be added to our list of contributors automatically.
 
-Our contributors are listed [here](https://github.com/barumau/panlexia/graphs/contributors)
+[Here](doc/contributing.md) are the instructions on how to contribute.
+
+Our contributors are listed [here](https://github.com/barumau/panlexia/graphs/contributors).
 
 If you have any questions, please contact us at our
 [PhpBB discussion forum](https://pandunia.info/forum/viewforum.php?f=9&sid=73cace4ded824e36c4a05246a67273c6).
