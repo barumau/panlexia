@@ -15521,11 +15521,12 @@ PWN:storehouse.n.01		entrepot
 PWN:storehouse.n.01		storage		
 PWN:storehouse.n.01		store		
 PWN:storehouse.n.01		storehouse		
-PWN:storm.n.01		direct		
-PWN:storm.n.01		right		
-PWN:storm.n.01		storm		
-PWN:storm.n.01		straight		
-PWN:storm.n.01		violent storm		
+PWN:storm.n.01		cyclone	
+PWN:storm.n.01		hurricane	
+PWN:storm.n.01		storm	
+PWN:storm.n.01		tempest	
+PWN:storm.n.01		typhoon	
+PWN:storm.n.01		violent storm	
 PWN:storm.v.05		storm		
 PWN:storm.v.05		surprise		
 PWN:stove.n.01		cooking stove		
@@ -15533,12 +15534,9 @@ PWN:stove.n.01		kitchen range
 PWN:stove.n.01		kitchen stove		
 PWN:stove.n.01		range		
 PWN:stove.n.01		stove		
-PWN:straight.a.02		cyclone		
-PWN:straight.a.02		hurricane		
-PWN:straight.a.02		storm		
-PWN:straight.a.02		straight		
-PWN:straight.a.02		tempest		
-PWN:straight.a.02		typhoon		
+PWN:straight.a.02		direct	
+PWN:straight.a.02		right	
+PWN:straight.a.02		straight	
 PWN:straight.a.08		straight		
 PWN:straight_line.n.01		straight line		
 PWN:straight_pin.n.01		pin		:pinna
