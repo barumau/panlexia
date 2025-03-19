@@ -36,6 +36,7 @@ PLX:genderology.n		jenerolojia	jen·er·o·loj·ia
 PLX:haha.int		haha	haha	eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)
 PLX:hello.int		halo	halo	eng:hello,  zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo
 PLX:hello.int  		sal	sal	ara:fas: سلام‎ (salâm), hin:सलाम (salām), ben: সালাম (salam), may:selamat, swa:salamu, ful:salaam, hau:salam, tur:selam + eng:salute, fra:salut, spa:salude, por:saúde + kor:잘 (jal)
+PLX:heuristics.n		heuristia	heur·istia	
 PLX:hey.int		hei	hei	eng:hey, fra:hé, spa:hey, por:ei, rus:эй (ey), zho:喂 (wèi), vie:ê; ơi, fas: هی‎ (hey), ful:héé
 PLX:how many.pro		hau poli	hau poli	
 PLX:how.pro		hau	hau	
@@ -272,6 +273,7 @@ PWN:bucket.n.01		balde	bald'e	spa:por:tgl:balde, hin:बाल्टी (bālṭ
 PWN:buddha.n.01		buda	bud'a	
 PWN:buddhism.n.01		budisme	bud·ism'e	
 PWN:buddhist.n.01		budiste	bud·ist'e	
+PWN:buddy.n.01 		doste	dost’e	hin:दोस्त (dost), ben:দোস্ত (dośt), zho:朵斯提 (duǒsītí), fas: دوست (dost), tur:dost 
 PWN:bulge.n.01		guba	guba	pa:giba, ita:goppa, rus:горб (gorb), hin;कूबड़ (kūbaṛ);कुब्बा (kubbā), tur:kambur, jpn:瘤 (kobu), kor:곱사 (gopsa), tgl:kuba
 PWN:bundle.n.02		bandul	band·ul	
 PWN:bundle.n.02		fash	fash	ita:fascio, eng:fasces, fra:faisceau, por:faixa, spa:faja + rus:фашизм (fašizm), ara: فَاشِيَّة‎ (fāšiyya), zho:法西斯主义 (fǎxīsīzhǔyì), jpn:ファシズム (fashizumu), kor:파시즘 (pasijeum), vie:chủ nghĩa phát xít, hin:फ़ासीवाद (fāsīvād), may:fasisme ben:ফ্যাসিবাদ (phaśibad)
@@ -696,6 +698,7 @@ PWN:here.r.01		hir	hir
 PWN:hero.n.01		hero	hero	eng:hero, fra:héros, spa:héroe, por:héroi, rus:герой (geroy), hin:हीरो (hīro), jpn:ヒーロー (hīrō), kor:히로 (hiro)
 PWN:heroic.s.03		herotik	hero·tik	
 PWN:hertz.n.01		herze	herz'e	
+PWN:heuristic.a.01		heuristik	heur·ist·ik	
 PWN:hiccup.n.01		hik	hik	eng:hiccup, rus:икота (ikota), hin:हीक (hīk), jpn:ヒック (hikku)
 PWN:hiccup.v.01		hik	hik	
 PWN:high.a.02		hai	hai	eng:high
@@ -746,6 +749,8 @@ PWN:inhumane.a.01	fig.	inhomanik	in.hom·an·ik
 PWN:injury.n.01		trauma	trauma	eng:fra:may:trauma, deu:Trauma, spa:por:traumatismo, rus:травма (travma), tur:travma
 PWN:intend.v.01		plan	plan	
 PWN:intolerable.a.01		intolerabil	in.tolera·bil	
+PWN:invent.v.01		heure	heur’e	
+PWN:inventor.n.01		heuriste	heur·ist’e	
 PWN:invite.v.02		plis kom	plis kom	
 PWN:iodine.n.01		iode	iod'e	eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:йод, jpn:ヨウ素, kor:요오드, vie:iot, hin:आयोडिन, ben:আয়োডিন, may:yodium, swa:iodini, ara: يود
 PWN:iridium.n.01		iridium	irid·ium	eng:iridium, fra:iridium, spa:iridio, por:irídio, rus:иридий, jpn:イリジウム, kor:이리듐, vie:iriđi, hin:इरिडियम, ben:ইরিডিয়াম, may:iridium, swa:iridi, ara: إريديوم
@@ -1064,6 +1069,7 @@ PWN:plastic.n.01		plastik	plast·ik
 PWN:plate.n.04		plate tasa	plate tasa	
 PWN:platinum.n.01		platin	platin	eng:platinum, fra:platine, spa:platino, por:platina, rus:платина, zho:铂 (bó), vie:platin, hin:प्लाटिनम, ben:প্লাটিনাম, may:platina, swa:platini, ara: بلاتين
 PWN:play.n.01		drama	drama	eng:spa:por:may:swa:drama, fra:drame, rus:драма (drama), ara:دْرَامَا‎ (drāmā), hin:ड्रामा (ḍrāmā), jpn:ドラマ (dorama)
+PWN:please.r.01		ples	ples	
 PWN:plot.n.01		plot	plot	eng:plot, deu:Komplott, fra:spa:complot, por:complô, tur:komplo, may:komplot
 PWN:plug.n.01		tap	tap	
 PWN:plug.v.05		tap	tap	
@@ -1151,8 +1157,8 @@ PWN:repel.v.01		repel	re.pel
 PWN:repent.v.02		sori	sori	
 PWN:represent.v.01		vakil	vakil	ara: وكيل‎ (wakīl), fas: وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil), tam:வக்கீல் (vakkīl), may:wakil, tur:vekil, swa:hau:wakili, amh:ወኪል (wäkil)
 PWN:representative.n.01		vakiler	vakil·er	
-PWN:request.n.02		plis	plis	
-PWN:request.v.01		plis	plis	eng:please
+PWN:request.n.02		ching	ching	
+PWN:request.v.01		ching	ching	zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong
 PWN:resist.v.02		resiste	re.sist'e	
 PWN:resistance.n.01		resistion	re.sist·ion	
 PWN:resistor.n.01		resistor	re.sist'or	
@@ -1405,7 +1411,7 @@ PWN:tragic.s.01		tragik	trag·ik	eng:tragic, fra:tragique, spa:por:trágico, rus
 PWN:train.n.01		tren	tren	eng:fra:train, spa:tur:tren, por:trem, fas: ترن‎ (tran), hin:ट्रेन (ṭren), ben:ট্রেন (ṭren), swa:treni
 PWN:translate.v.01		trabash	tra.bash	
 PWN:transport.v.02		porta	porta	fra:porter, spa:por:portar, eng:(trans)port, deu:-portieren, rus:-портация (-portaciya) + hin:रिपोर्ट (riporṭ), hau:rahoto, swa:ripoti, tur:rapor, jpn:レポート (repōto)
-PWN:transport.v.02		traporta	tra.porta	fra:porter, spa:por:portar, eng:(trans)port, deu:-portieren, rus:-портация (-portaciya) + hin:रिपोर्ट (riporṭ), hau:rahoto, swa:ripoti, tur:rapor, jpn:レポート (repōto)
+PWN:transport.v.02		traporta	tra.porta	
 PWN:traumatic.a.01		traumatik	trauma·tik	
 PWN:travel.v.01		go	go	eng:go + hin:जाना (jānā), ben:যাওয়া (jaoya) + kor:가다 (gada)
 PWN:traveler.n.01		safarer	safar·er	
@@ -1467,6 +1473,7 @@ PWN:wine.n.01		vain	vain	fra:vin, spa:vino, por:vinho, rus:вино (vino), eng:
 PWN:winery.n.01		vaineria	vain·er·ia	
 PWN:wisdom.n.01		sofia	sof·ia	ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)
 PWN:wise.a.01		sofik	sof-ik	
+PWN:wish.v.05		ples	ples	eng:please, fra:plaîre, spa:placer, hin:प्लीज़ (plīz), ben:প্লীজ (plij)
 PWN:wood.n.01		mok	mok	zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka
 PWN:word.n.01		lexe	lex'e	deu:eng:fra:spa:por:lex-, rus:лекс- (leks-), may:leks-
 PWN:worker.n.01		oper	op·er	
