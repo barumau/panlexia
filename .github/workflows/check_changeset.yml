@@ -20,4 +20,4 @@ jobs:
         run: python src/download_nltk.py
 
       - name: Find and rename temporary concept ids
-        run: python check_new_concept_ids.py
+        run: python src/check_new_concept_ids.py
