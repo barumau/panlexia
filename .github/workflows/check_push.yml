@@ -2,7 +2,7 @@ name: "Checks for changeset"
 on: push
 jobs:
   check-changes:
-    runs-on: ubuntu2204-xs
+    runs-on: ubuntu-latest
     steps:
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
