@@ -2,7 +2,7 @@
 # that exist in the dict/ directory. Generated dictionaries go to the generated/ directory.
 #
 # Execute this script with one language code or name as the only parameter.
-#     sh generate_bilingual_dictionaries.sh <language>
+#     sh tools/generate_bilingual_dictionaries.sh <language>
 #
 # CC-BY 2024, Panlexia (https://github.com/barumau/panlexia)
 

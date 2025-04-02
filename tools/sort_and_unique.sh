@@ -2,7 +2,7 @@
 # in monolingual dictionary files that exist in the dict/ directory.
 #
 # Execute this script with the following command.
-#     sh sort_and_unique.sh
+#     sh tools/sort_and_unique.sh
 #
 # CC-BY 2025, Panlexia (https://github.com/barumau/panlexia)
 
