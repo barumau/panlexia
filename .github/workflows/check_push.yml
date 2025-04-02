@@ -17,4 +17,4 @@ jobs:
           pip install -r requirements.txt --progress-bar off
 
       - name: Download NLTK dependencies
-        run: python src/download-nltk.py
+        run: python src/download_nltk.py
