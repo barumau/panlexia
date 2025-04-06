@@ -28,6 +28,7 @@ PLX:about.pp 		on the topic of
 PLX:above.pp		above		
 PLX:after.pp		after		
 PLX:after.pp		later in time or space		
+PLX:algorithm.n.01		algorithm		
 PLX:and.cnj		and		
 PLX:antifascism.n		antifascism		
 PLX:anyone.pro		anybody		
@@ -50,6 +51,8 @@ PLX:between.pp		between
 PLX:bon voyage.int		farewell		
 PLX:can.v		can		
 PLX:can.v		know how		
+PLX:conlang.n.01		conlang		
+PLX:conlang.n.01		constructed language		
 PLX:daughter-in-law (of man).n		daughter-in-law		
 PLX:during.pp		during		
 PLX:during.pp		for the duration of		
@@ -71,8 +74,8 @@ PLX:hello.int		hello
 PLX:hello.int		hi		
 PLX:hello.int  		hello		
 PLX:hello.int  		hi		
-PLX:heuristics.n		art of invention	
-PLX:heuristics.n		heuristics	
+PLX:heuristics.n		art of invention		
+PLX:heuristics.n		heuristics		
 PLX:hey.int		exclamation to get attention		
 PLX:hey.int		hey		
 PLX:how many pieces.pro		how many?		
@@ -94,7 +97,7 @@ PLX:mother-in-law (of man).n		mother-in-law
 PLX:netbag.n		netbag		nhu:baggi
 PLX:nothing.pro		nothing		
 PLX:oganesson.n		oganesson		
-PLX:older sibling.n		elder sibling	
+PLX:older sibling.n		elder sibling		
 PLX:one.pro		impersonal pronoun		
 PLX:one.pro		one		
 PLX:one.pro		you		
@@ -143,7 +146,7 @@ PLX:with.pp		together; common
 PLX:with.pp		with		
 PLX:without.pp		without		
 PLX:yes.ptcl		yes		
-PLX:younger sibling.n		younger sibling	
+PLX:younger sibling.n		younger sibling		
 PWN:a_bit.r.01		a bit		
 PWN:a_bit.r.01		a little		
 PWN:a_bit.r.01		a trifle		
@@ -787,14 +790,16 @@ PWN:always.r.01		all the time
 PWN:always.r.01		always		
 PWN:always.r.01		e'er		
 PWN:always.r.01		ever		
+PWN:amateur.n.01		amateur		
+PWN:amateur.n.01		enthusiast		
 PWN:amazed.s.01		amazed		
 PWN:amazed.s.01		astonied		
 PWN:amazed.s.01		astonished		:*ex-tonāre
 PWN:amazed.s.01		astounded		
 PWN:amazed.s.01		stunned		
 PWN:amazed.s.01		surprised		:super prēndere
-PWN:amazon.n.03		Amazon	
-PWN:amazon.n.03		Amazon river	
+PWN:amazon.n.03		Amazon		
+PWN:amazon.n.03		Amazon river		
 PWN:ambassador.n.01		ambassador		
 PWN:ambassador.n.01		embassador		
 PWN:ambition.n.01		ambition		
@@ -807,7 +812,7 @@ PWN:ambush.n.01		ambuscade
 PWN:ambush.n.01		ambush		:*imboscāre
 PWN:ambush.n.01		lying in wait		
 PWN:ambush.n.01		trap		
-PWN:american.n.03		American	
+PWN:american.n.03		American		
 PWN:american_football.n.01		American football		
 PWN:american_football.n.01		football		
 PWN:americium.n.01		americium		
@@ -1064,8 +1069,8 @@ PWN:arch.n.01		arc
 PWN:arch.n.01		arch		
 PWN:arch.n.01		bow		
 PWN:arch.n.04		arch		:arcum
-PWN:archeology.n.01		archaeology	
-PWN:archeology.n.01		archeology	
+PWN:archeology.n.01		archaeology		
+PWN:archeology.n.01		archeology		
 PWN:archer.n.01		archer		
 PWN:archer.n.01		bowman		
 PWN:archery.n.01		archery		
@@ -1213,6 +1218,8 @@ PWN:ask.v.01		inquire
 PWN:ask.v.01		question		
 PWN:ask.v.02		ask		
 PWN:ask.v.02		ask (2)		
+PWN:ask.v.02		beg		
+PWN:ask.v.02		request		
 PWN:ask.v.04		ask		
 PWN:ask.v.04		expect		
 PWN:ask.v.04		require		
@@ -1225,8 +1232,8 @@ PWN:aslant.s.01		slanted
 PWN:aslant.s.01		slanting		
 PWN:aslant.s.01		sloped		
 PWN:aslant.s.01		sloping		
-PWN:asparagus.n.01		asparagus	
-PWN:asparagus.n.01		edible asparagus	
+PWN:asparagus.n.01		asparagus		
+PWN:asparagus.n.01		edible asparagus		
 PWN:aspect.n.01		aspect		
 PWN:aspect.n.01		facet		
 PWN:aspect.n.04		aspect		
@@ -1470,8 +1477,8 @@ PWN:away.r.01		off
 PWN:awl.n.01		awl		
 PWN:ax.n.01		ax		
 PWN:ax.n.01		axe		
-PWN:axis.n.06		axis	
-PWN:axis.n.06		axis of rotation	
+PWN:axis.n.06		axis		
+PWN:axis.n.06		axis of rotation		
 PWN:axle.n.01		axle		
 PWN:baby.n.01		babe		
 PWN:baby.n.01		baby		
@@ -1700,7 +1707,7 @@ PWN:batch.n.02		wad
 PWN:batch.n.03		batch		
 PWN:batch.n.03		clutch		
 PWN:bathe.v.01		bathe		
-PWN:bathrobe.n.01		bathrobe	
+PWN:bathrobe.n.01		bathrobe		
 PWN:bathroom.n.01		bath		
 PWN:bathroom.n.01		bathroom		
 PWN:bathtub.n.01		bath		
@@ -1926,6 +1933,7 @@ PWN:berkelium.n.01		berkelium
 PWN:berry.n.01		berry		
 PWN:beryllium.n.01		beryllium		
 PWN:beryllium.n.01		glucinium		
+PWN:besides.r.02		additionally		
 PWN:besides.r.02		also		
 PWN:besides.r.02		as well		
 PWN:besides.r.02		besides		
@@ -1990,9 +1998,9 @@ PWN:big.s.11		big
 PWN:big.s.11		large		
 PWN:big.s.11		magnanimous		
 PWN:big_brother.n.02		big brother		
-PWN:big_brother.n.02		elder brother	
+PWN:big_brother.n.02		elder brother		
 PWN:big_sister.n.01		big sister		
-PWN:big_sister.n.01		elder sister	
+PWN:big_sister.n.01		elder sister		
 PWN:bilingual.s.01		bilingual		
 PWN:bill.n.02		account		
 PWN:bill.n.02		bill		:bulla
@@ -2302,6 +2310,7 @@ PWN:botch.v.01		muck up
 PWN:botch.v.01		muff		
 PWN:botch.v.01		screw up		
 PWN:botch.v.01		spoil		
+PWN:both.s.01		both		
 PWN:bottle.n.01		bottle		:buttis
 PWN:bottle.n.02		bottle		
 PWN:bottle.n.02		bottleful		
@@ -2564,7 +2573,7 @@ PWN:buddy.n.01		chum
 PWN:buddy.n.01		crony		
 PWN:buddy.n.01		pal		
 PWN:buddy.n.01		sidekick		
-PWN:buddy.n.01 		buddy	
+PWN:buddy.n.01 		buddy		
 PWN:builder.n.03		builder		
 PWN:builder.n.03		constructor		
 PWN:building.n.01		building		
@@ -2875,7 +2884,7 @@ PWN:canvas.n.03		canvas
 PWN:canvas.n.03		canvass		
 PWN:cap.n.01		cap		:cappa
 PWN:cap.n.01		hat		
-PWN:cap.n.02		bottle cap	
+PWN:cap.n.02		bottle cap		
 PWN:cap.n.02		cap		
 PWN:cap.n.04		cap		
 PWN:cap.n.05		cap		
@@ -3887,6 +3896,8 @@ PWN:commodity.n.01		commodity
 PWN:commodity.n.01		good		
 PWN:commodity.n.01		trade good		
 PWN:common.a.01		common		
+PWN:common.a.01		public		
+PWN:common.a.01		shared		
 PWN:common_eel.n.01		common eel		
 PWN:common_eel.n.01		eel		
 PWN:common_eel.n.01		freshwater eel		
@@ -4155,6 +4166,9 @@ PWN:conserve.v.02		conserve
 PWN:conserve.v.02		keep up		
 PWN:conserve.v.02		maintain		
 PWN:conserve.v.02		preserve		fra:préserver
+PWN:consider.v.04		account for		
+PWN:consider.v.04		consider		
+PWN:consider.v.04		weigh		
 PWN:consider.v.05		consider		
 PWN:consider.v.05		debate		
 PWN:consider.v.05		deliberate		
@@ -4351,6 +4365,8 @@ PWN:copy.n.03		written matter
 PWN:copy.v.01		copy		
 PWN:copy.v.04		copy		
 PWN:copy.v.04		re-create		
+PWN:copyright.n.01		copyright		
+PWN:copyright.n.01		right of first publication		
 PWN:cord.n.01		cord		
 PWN:cord.n.04		cord		
 PWN:cord.n.04		corduroy		
@@ -4549,7 +4565,9 @@ PWN:creating_by_mental_acts.n.01		creating by mental acts
 PWN:creating_from_raw_materials.n.01		creating from raw materials		
 PWN:creation.n.01		creation		
 PWN:creation.n.01		creative activity		
+PWN:creation.n.02		artifact		
 PWN:creation.n.02		creation		
+PWN:creation.n.02		product		
 PWN:creation.n.03		conception		
 PWN:creation.n.03		creation		
 PWN:creativity.n.01		creative thinking		
@@ -5239,6 +5257,10 @@ PWN:devil.n.02		daimon
 PWN:devil.n.02		demon		ell:daímōn
 PWN:devil.n.02		devil		ell:diábolos
 PWN:devil.n.02		fiend		
+PWN:devising.n.01		creation		
+PWN:devising.n.01		devising		
+PWN:devising.n.01		fashioning		
+PWN:devising.n.01		making		
 PWN:devolve.v.03		degenerate		
 PWN:devolve.v.03		deteriorate		
 PWN:devolve.v.03		devolve		
@@ -5252,7 +5274,7 @@ PWN:diarrhea.n.01		looseness
 PWN:diarrhea.n.01		looseness of the bowels		
 PWN:diary.n.01		diary		
 PWN:diary.n.01		journal		
-PWN:diaspora.n.03		diaspora	
+PWN:diaspora.n.03		diaspora		
 PWN:dichotomy.n.01		dichotomy		
 PWN:dictate.v.02		dictate		
 PWN:dictator.n.01		dictator		
@@ -5379,10 +5401,10 @@ PWN:disavowal.n.01		disclaimer
 PWN:disbelieve.v.01		disbelieve		
 PWN:disbelieve.v.01		discredit		
 PWN:disbelieve.v.01		distrust		
-PWN:disbeliever.n.01		disbeliever	
-PWN:disbeliever.n.01		infidel	
-PWN:disbeliever.n.01		nonbeliever	
-PWN:disbeliever.n.01		unbeliever	
+PWN:disbeliever.n.01		disbeliever		
+PWN:disbeliever.n.01		infidel		
+PWN:disbeliever.n.01		nonbeliever		
+PWN:disbeliever.n.01		unbeliever		
 PWN:disburse.v.01		disburse		
 PWN:disburse.v.01		pay out		
 PWN:discard.v.01		cast aside		
@@ -5520,7 +5542,7 @@ PWN:disperse.v.02		dispel
 PWN:disperse.v.02		disperse		
 PWN:disperse.v.02		dissipate		
 PWN:disperse.v.02		scatter		
-PWN:disperse.v.02		spread out	
+PWN:disperse.v.02		spread out		
 PWN:disperse.v.04		disperse		
 PWN:disperse.v.04		dissipate		
 PWN:disperse.v.04		scatter		
@@ -5597,6 +5619,12 @@ PWN:distribute.v.01		lot
 PWN:distribute.v.01		mete out		
 PWN:distribute.v.01		parcel out		
 PWN:distribute.v.01		shell out		
+PWN:distribute.v.04		dispense		
+PWN:distribute.v.04		distribute		
+PWN:distribute.v.04		give out		
+PWN:distribute.v.04		hand out		
+PWN:distribute.v.04		issue		
+PWN:distribute.v.04		pass out		
 PWN:distribution.n.03		distribution		
 PWN:district.n.01		district		
 PWN:district.n.01		dominion		
@@ -5991,6 +6019,9 @@ PWN:edge.n.03		edge
 PWN:edge.n.06		edge		
 PWN:edge_tool.n.01		edge tool		
 PWN:edible_fruit.n.01		edible fruit		
+PWN:edit.v.01		edit		
+PWN:edit.v.01		modify		
+PWN:edit.v.01		revise		
 PWN:educate.v.03		civilise		
 PWN:educate.v.03		civilize		
 PWN:educate.v.03		cultivate		
@@ -6022,10 +6053,10 @@ PWN:egg.n.02		egg		nhu:egg
 PWN:egg.n.02		eggs		
 PWN:egg_yolk.n.01		egg yolk		
 PWN:egg_yolk.n.01		yolk		
-PWN:eggplant.n.01		aubergine	
-PWN:eggplant.n.01		brinjal	
-PWN:eggplant.n.01		eggplant	
-PWN:eggplant.n.01		mad apple	
+PWN:eggplant.n.01		aubergine		
+PWN:eggplant.n.01		brinjal		
+PWN:eggplant.n.01		eggplant		
+PWN:eggplant.n.01		mad apple		
 PWN:egoism.n.02		egocentrism		
 PWN:egoism.n.02		egoism		
 PWN:egoism.n.02		self-centeredness		
@@ -6456,6 +6487,9 @@ PWN:even-toed_ungulate.n.01		artiodactyl
 PWN:even-toed_ungulate.n.01		artiodactyl mammal		
 PWN:even-toed_ungulate.n.01		even-toed ungulate		
 PWN:even.a.03		even		
+PWN:even.r.01		also		
+PWN:even.r.01		even		
+PWN:even.r.01		including		
 PWN:evening.n.01		eve		
 PWN:evening.n.01		even		
 PWN:evening.n.01		evening		
@@ -6694,11 +6728,11 @@ PWN:fabricate.v.02		fabricate
 PWN:fabricate.v.02		invent		
 PWN:fabricate.v.02		make up		
 PWN:fabricate.v.02		manufacture		
-PWN:fabrication.n.01		fable	
-PWN:fabrication.n.01		fabrication	
-PWN:fabrication.n.01		fiction	
-PWN:fabrication.n.01		myth	
-PWN:fabrication.n.01		tale	
+PWN:fabrication.n.01		fable		
+PWN:fabrication.n.01		fabrication		
+PWN:fabrication.n.01		fiction		
+PWN:fabrication.n.01		myth		
+PWN:fabrication.n.01		tale		
 PWN:fabrication.n.04		assembly		
 PWN:fabrication.n.04		fabrication		
 PWN:face.n.01		face		:faciēs
@@ -7709,11 +7743,11 @@ PWN:gene.n.01		factor
 PWN:gene.n.01		gene		
 PWN:genealogy.n.01		family tree		
 PWN:genealogy.n.01		genealogy		
-PWN:generator.n.03		auteur	
-PWN:generator.n.03		author	
-PWN:generator.n.03		generator	
-PWN:generator.n.03		independent actor	
-PWN:generator.n.03		source	
+PWN:generator.n.03		auteur		
+PWN:generator.n.03		author		
+PWN:generator.n.03		generator		
+PWN:generator.n.03		independent actor		
+PWN:generator.n.03		source		
 PWN:generic.s.03		generic		
 PWN:generous.a.01		generous		
 PWN:generous.a.01		open-handed		
@@ -8130,8 +8164,8 @@ PWN:gunnysack.n.01		gunny sack
 PWN:gunnysack.n.01		gunnysack		
 PWN:gunnysack.n.01 		bag		
 PWN:gunnysack.n.01 		sack		
-PWN:gunpowder.n.01		gunpowder	
-PWN:gunpowder.n.01		powder	
+PWN:gunpowder.n.01		gunpowder		
+PWN:gunpowder.n.01		powder		
 PWN:guru.n.03		guru		
 PWN:guru.n.03		sage		
 PWN:guru.n.03		teacher		
@@ -8444,8 +8478,8 @@ PWN:hertz.n.01		cycles/second
 PWN:hertz.n.01		hertz		
 PWN:hesitate.v.02		hesitate		
 PWN:hesitate.v.02		pause		
-PWN:heuristic.a.01		fit for invention	
-PWN:heuristic.a.01		heuristic	
+PWN:heuristic.a.01		fit for invention		
+PWN:heuristic.a.01		heuristic		
 PWN:hevea.n.01		Hevea		
 PWN:hevea.n.01		genus Hevea		
 PWN:hevea.n.01		rubber tree		
@@ -8553,7 +8587,7 @@ PWN:hold.v.11		bear
 PWN:hold.v.11		carry		
 PWN:hold.v.11		contain		
 PWN:hold.v.11		hold		
-PWN:hold.v.11		hold together	
+PWN:hold.v.11		hold together		
 PWN:hold.v.14		bear		
 PWN:hold.v.14		carry		
 PWN:hold.v.14		hold		
@@ -8678,6 +8712,16 @@ PWN:hovel.n.01		hut		:*hudjā
 PWN:hovel.n.01		hutch		
 PWN:hovel.n.01		shack		
 PWN:hovel.n.01		shanty		
+PWN:however.r.01		all the same		
+PWN:however.r.01		but		
+PWN:however.r.01		even so		
+PWN:however.r.01		however		
+PWN:however.r.01		in spite of		
+PWN:however.r.01		nevertheless		
+PWN:however.r.01		nonetheless		
+PWN:however.r.01		notwithstanding		
+PWN:however.r.01		still		
+PWN:however.r.01		yet		
 PWN:howl.v.01		howl		
 PWN:howl.v.01		roar		
 PWN:howl.v.01		ululate		
@@ -8752,8 +8796,8 @@ PWN:hypothesis.n.02		theory
 PWN:ibis.n.01		ibis		
 PWN:ice.n.01		ice		
 PWN:ice.n.01		water ice		
-PWN:ice_cream.n.01		ice cream	
-PWN:ice_cream.n.01		icecream	
+PWN:ice_cream.n.01		ice cream		
+PWN:ice_cream.n.01		icecream		
 PWN:ice_hockey.n.01		hockey		
 PWN:ice_hockey.n.01		hockey game		
 PWN:ice_hockey.n.01		ice hockey		
@@ -9165,9 +9209,9 @@ PWN:invention.n.01		excogitation
 PWN:invention.n.01		innovation		
 PWN:invention.n.01		invention		
 PWN:invention.n.03		invention		
-PWN:inventor.n.01		artificer	
-PWN:inventor.n.01		discoverer	
-PWN:inventor.n.01		inventor	
+PWN:inventor.n.01		artificer		
+PWN:inventor.n.01		discoverer		
+PWN:inventor.n.01		inventor		
 PWN:inverse.n.01		inverse		
 PWN:inverse.n.01		opposite		
 PWN:invertebrate.n.01		invertebrate		
@@ -9790,10 +9834,10 @@ PWN:license_plate.n.01		numberplate
 PWN:lichen.n.02		lichen		
 PWN:lick.v.02		lap		
 PWN:lick.v.02		lick		
-PWN:licorice.n.01		licorice	
-PWN:licorice.n.01		liquorice	
-PWN:licorice.n.02		licorice	
-PWN:licorice.n.02		liquorice	
+PWN:licorice.n.01		licorice		
+PWN:licorice.n.01		liquorice		
+PWN:licorice.n.02		licorice		
+PWN:licorice.n.02		liquorice		
 PWN:lid.n.02		lid		
 PWN:lie.n.01		lie		
 PWN:lie.n.01		prevarication		
@@ -9972,7 +10016,7 @@ PWN:little.s.05		little
 PWN:little.s.05		small		
 PWN:little_brother.n.01		little brother		
 PWN:little_sister.n.01		little sister		
-PWN:little_sister.n.01		younger sister	
+PWN:little_sister.n.01		younger sister		
 PWN:liturgy.n.02		liturgy		
 PWN:live.v.02		live		
 PWN:liveliness.n.01		animation		
@@ -10271,9 +10315,9 @@ PWN:malus.n.01		Malus
 PWN:malus.n.01		genus Malus		
 PWN:mammal.n.01		mammal		
 PWN:mammal.n.01		mammalian		
-PWN:mammalia.n.01		Mammalia	
-PWN:mammalia.n.01		class Mammalia	
-PWN:mammalia.n.01		mammals	
+PWN:mammalia.n.01		Mammalia		
+PWN:mammalia.n.01		class Mammalia		
+PWN:mammalia.n.01		mammals		
 PWN:man.n.01		adult male		
 PWN:man.n.01		man		
 PWN:man.n.03		man		
@@ -10441,7 +10485,7 @@ PWN:mat.n.01		mat		:maţţa
 PWN:match.n.01		friction match		
 PWN:match.n.01		lucifer		
 PWN:match.n.01		match		fra:mèche
-PWN:match.n.02		contest	
+PWN:match.n.02		contest		
 PWN:match.n.02		match		
 PWN:match.n.09		match		
 PWN:match.v.01		agree		
@@ -11492,8 +11536,8 @@ PWN:okra.n.02		gumbo
 PWN:okra.n.02		lady's-finger		
 PWN:okra.n.02		okra		
 PWN:okra.n.02		okra plant		
-PWN:old.a.01		aged	
-PWN:old.a.01		elderly	
+PWN:old.a.01		aged		
+PWN:old.a.01		elderly		
 PWN:old.a.01		old		
 PWN:old.a.02		old		
 PWN:old_age.n.01		age		
@@ -11667,10 +11711,10 @@ PWN:origin.n.03		origin
 PWN:origin.n.03		origination		
 PWN:origin.n.04		origin		
 PWN:original.a.03		original		
-PWN:original.n.02		archetype	
-PWN:original.n.02		original	
-PWN:original.n.02		original model	
-PWN:original.n.02		pilot	
+PWN:original.n.02		archetype		
+PWN:original.n.02		original		
+PWN:original.n.02		original model		
+PWN:original.n.02		pilot		
 PWN:original.s.01		original		
 PWN:original.s.01		orphan		
 PWN:original.s.04		original		
@@ -11965,8 +12009,8 @@ PWN:patience.n.01		longanimity
 PWN:patience.n.01		patience		
 PWN:patio.n.01		patio		
 PWN:patio.n.01		terrace		
-PWN:patronymic.n.01		patronym	
-PWN:patronymic.n.01		patronymic	
+PWN:patronymic.n.01		patronym		
+PWN:patronymic.n.01		patronymic		
 PWN:pause.n.01		break		
 PWN:pause.n.01		intermission		
 PWN:pause.n.01		interruption		
@@ -12129,8 +12173,8 @@ PWN:phenomenon.n.01		phenomenon
 PWN:phenotype.n.01		phenotype		
 PWN:philosopher.n.01		philosopher		
 PWN:philosophic.a.01		philosophic		
-PWN:philosophic.a.01		philosophical	
-PWN:philosophy.n.02		philosophy	
+PWN:philosophic.a.01		philosophical		
+PWN:philosophy.n.02		philosophy		
 PWN:phobia.n.01		phobia		
 PWN:phobia.n.01		phobic disorder		
 PWN:phobia.n.01		phobic neurosis		
@@ -12162,7 +12206,7 @@ PWN:physicist.n.01		physicist
 PWN:physics.n.01		natural philosophy		
 PWN:physics.n.01		physics		
 PWN:physiological_property.n.01		physiological property		
-PWN:physiology.n.01		physiology	
+PWN:physiology.n.01		physiology		
 PWN:piano.n.01		forte-piano		
 PWN:piano.n.01		piano		
 PWN:piano.n.01		pianoforte		
@@ -12381,7 +12425,7 @@ PWN:plaything.n.01		toy
 PWN:plaza.n.01		piazza		
 PWN:plaza.n.01		place		
 PWN:plaza.n.01		plaza		
-PWN:please.r.01		please	
+PWN:please.r.01		please		
 PWN:pleasure.n.01		pleasance		
 PWN:pleasure.n.01		pleasure		
 PWN:plot.n.01		game		
@@ -12550,7 +12594,7 @@ PWN:position.n.01		position
 PWN:position.n.03		perspective		
 PWN:position.n.03		position		
 PWN:position.n.03		view		
-PWN:position.n.04		asana	
+PWN:position.n.04		asana		
 PWN:position.n.04		attitude		
 PWN:position.n.04		position		
 PWN:position.n.04		posture		
@@ -14043,7 +14087,7 @@ PWN:roller.n.02		roller
 PWN:roller.n.02		rolling wave		
 PWN:roller.n.04		roller		
 PWN:roof.n.01		roof		
-PWN:room.n.01		chamber	
+PWN:room.n.01		chamber		
 PWN:room.n.01		room		
 PWN:room.n.02		elbow room		
 PWN:room.n.02		room		
@@ -15310,7 +15354,7 @@ PWN:spoil.v.02		go bad
 PWN:spoil.v.02		spoil		
 PWN:sponge.n.01		sponge		
 PWN:spoon.n.01		spoon		
-PWN:sporadic.a.01		sporadic	
+PWN:sporadic.a.01		sporadic		
 PWN:sport.n.01		athletics		
 PWN:sport.n.01		sport		
 PWN:sports_equipment.n.01		sports equipment		
@@ -15966,9 +16010,9 @@ PWN:sympathy.n.02		feeling the same
 PWN:sympathy.n.02		fellow feeling		
 PWN:sympathy.n.02		sympathy		
 PWN:symptom.n.01		symptom		
-PWN:synonym.n.01		equivalent word	
-PWN:synonym.n.01		synonym	
-PWN:synonymous.a.01		synonymous	
+PWN:synonym.n.01		equivalent word		
+PWN:synonym.n.01		synonym		
+PWN:synonymous.a.01		synonymous		
 PWN:synthesis.n.02		synthesis		
 PWN:synthesis.n.02		synthetic thinking		
 PWN:synthetic.a.02		synthetic		
@@ -16050,8 +16094,8 @@ PWN:taoism.n.01		Daoism
 PWN:taoism.n.01		Taoism		
 PWN:taoist.n.01		Tao		
 PWN:taoist.n.01		Taoist		
-PWN:tap.n.06		spigot	
-PWN:tap.n.06		tap	
+PWN:tap.n.06		spigot		
+PWN:tap.n.06		tap		
 PWN:tap.v.07		knock		
 PWN:tap.v.07		pink		
 PWN:tap.v.07		rap		
@@ -17157,7 +17201,7 @@ PWN:vital_principle.n.01		vital principle
 PWN:vivisection.n.01		vivisection		
 PWN:vivisection.n.01 		vivisection		
 PWN:vizier.n.01		vizier		
-PWN:vocabulary.n.01		lexicon	
+PWN:vocabulary.n.01		lexicon		
 PWN:vocabulary.n.01		vocabulary		
 PWN:vocabulary.n.02		lexicon		
 PWN:vocabulary.n.02		mental lexicon		
@@ -17283,9 +17327,9 @@ PWN:wash.v.02		lave
 PWN:wash.v.02		wash		
 PWN:wash.v.03		launder		
 PWN:wash.v.03		wash		
-PWN:washup.n.01		bath	
-PWN:washup.n.01		bathing	
-PWN:washup.n.01		washup	
+PWN:washup.n.01		bath		
+PWN:washup.n.01		bathing		
+PWN:washup.n.01		washup		
 PWN:wasp.n.02		wasp		
 PWN:waste.n.01		waste		
 PWN:waste.n.01		waste material		
@@ -17511,8 +17555,8 @@ PWN:wish.v.02		wish
 PWN:wish.v.03		wish		
 PWN:wish.v.04		wish		
 PWN:wish.v.04		wish well		
-PWN:wish.v.05		desire	
-PWN:wish.v.05		wish	
+PWN:wish.v.05		desire		
+PWN:wish.v.05		wish		
 PWN:withdraw.v.01		draw back		
 PWN:withdraw.v.01		move back		
 PWN:withdraw.v.01		pull away		
@@ -17728,8 +17772,8 @@ PWN:young_buck.n.01		young buck
 PWN:young_buck.n.01		young man		
 PWN:young_mammal.n.01		young mammal		
 PWN:youth.n.05		early days		
-PWN:youth.n.05		years in life following childhood	
-PWN:youth.n.05		young age	
+PWN:youth.n.05		years in life following childhood		
+PWN:youth.n.05		young age		
 PWN:youth.n.05		youth		
 PWN:ytterbium.n.01		ytterbium		
 PWN:yttrium.n.01		yttrium		
@@ -17744,66 +17788,5 @@ PWN:zirconium.n.01		zirconium
 PWN:zone.n.01		zone		
 PWN:zone.n.02		geographical zone		
 PWN:zone.n.02		zone		
-PWN:zygote.n.01		fertilized ovum	
-PWN:zygote.n.01		zygote	
-PLX:algorithm.n.01		algorithm
-TMP:00047534.r		also
-TMP:00047534.r		too
-TMP:00047534.r		as well
-TMP:00047534.r		likewise
-TMP:00047534.r		besides
-TMP:00047534.r		additionally
-TMP:09786585.n		amateur
-TMP:09786585.n		enthusiast
-TMP:00033615.n		amount
-TMP:00033615.n		quantity
-TMP:00033615.n		measure
-TMP:00752493.v		ask
-TMP:00752493.v		beg
-TMP:00752493.v		request
-TMP:02268133.a		both
-TMP:00027384.r		but
-TMP:00027384.r		however
-TMP:00027384.r		nevertheless
-TMP:00027384.r		still
-TMP:00027384.r		even so
-TMP:00027384.r		nonetheless
-TMP:00027384.r		all the same
-TMP:00027384.r		notwithstanding
-TMP:00027384.r		yet
-TMP:00027384.r		in spite of
-TMP:01849221.v		come
-TMP:00492677.a		common
-TMP:00492677.a		public
-TMP:00492677.a		shared
-TMP:00950431.v		consider
-TMP:00950431.v		account for
-TMP:00950431.v		weigh
-PLX:conlang.n.01		constructed language
-PLX:conlang.n.01		conlang
-TMP:06473168.n		copyright
-TMP:06473168.n		right of first publication
-TMP:00923995.n		creation
-TMP:00923995.n		making
-TMP:00923995.n		devising
-TMP:00923995.n		fashioning
-TMP:03129123.n		creation
-TMP:03129123.n		product
-TMP:03129123.n		artifact
-TMP:02315002.a		curved
-TMP:02315002.a		curving
-TMP:13809920.n		detail
-TMP:13809920.n		item
-TMP:13809920.n		particular
-TMP:02201644.v		distribute
-TMP:02201644.v		dispense
-TMP:02201644.v		issue
-TMP:02201644.v		hand out
-TMP:02201644.v		give out
-TMP:02201644.v		pass out
-TMP:00200397.v		edit
-TMP:00200397.v		revise
-TMP:00200397.v		modify
-TMP:00017445.r		even
-TMP:00017445.r		including
-TMP:00017445.r		also
+PWN:zygote.n.01		fertilized ovum		
+PWN:zygote.n.01		zygote		

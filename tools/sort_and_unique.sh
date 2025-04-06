@@ -6,7 +6,14 @@
 #
 # CC-BY 2025, Panlexia (https://github.com/barumau/panlexia)
 
-sort_and_unique() {
+sort_and_uniq_one_file() {
+    filename=$1
+    # Keep row 1 unchanged, start from row 2, sort and leave only unique lines.
+    (head -n 1 $filename && tail -n +2 $filename | LC_COLLATE=C.UTF-8 sort | uniq) > temp.txt
+    cp temp.txt $filename
+}
+
+sort_and_uniq() {
     # The 1st parameter is the directory name.
     dir=$1
     echo $dir
@@ -20,9 +27,8 @@ sort_and_unique() {
         firstchar=$(echo $firstchar | tr 'a-z' 'A-Z')
         # Filename form is 'dict/L/lang.tsv'
         filename="$dir/$firstchar/$line.tsv"
-        # Keep row 1 unchanged, start from row 2, sort and leave only unique lines.
-        (head -n 1 $filename && tail -n +2 $filename | LC_COLLATE=C sort | uniq) > temp.txt
-        cp temp.txt $filename
+
+        sort_and_uniq_one_file $filename
     done
 
     # Delete temporary files.
@@ -30,5 +36,6 @@ sort_and_unique() {
     rm file_list.txt
 }
 
-sort_and_unique dict
-sort_and_unique concepts
+sort_and_uniq dict
+sort_and_uniq concepts
+sort_and_uniq_one_file data/id_map.tsv
