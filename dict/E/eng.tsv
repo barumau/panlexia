@@ -22,6 +22,7 @@ PLX:3SG M.pro		he
 PLX:3SG POSS.pro		his or her		
 PLX:3SG.pro		he or she or it		
 PLX:Asian dragon.n		Asian dragon		
+PLX:COND.v		would	
 PLX:about.pp 		about		
 PLX:about.pp 		concerning		
 PLX:about.pp 		on the topic of		
@@ -1316,6 +1317,9 @@ PWN:astonishment.n.01		amazement
 PWN:astonishment.n.01		astonishment		
 PWN:astrology.n.01		astrology		
 PWN:astrology.n.01		star divination		
+PWN:astronaut.n.01		astronaut	
+PWN:astronaut.n.01		cosmonaut	
+PWN:astronaut.n.01		spaceman	
 PWN:astronomer.n.01		astronomer		
 PWN:astronomer.n.01		stargazer		
 PWN:astronomer.n.01		uranologist		
@@ -2230,6 +2234,7 @@ PWN:bolshevism.n.01		Bolshevism
 PWN:bolt.n.03		bolt		
 PWN:bolt.n.03		deadbolt		
 PWN:bolt.n.03		latch		:*lacium
+PWN:bolt.n.06		bolt	
 PWN:bomb.n.01		bomb		ell:bómbos
 PWN:bombing.n.01		bombardment		
 PWN:bombing.n.01		bombing		
@@ -4168,6 +4173,7 @@ PWN:conserve.v.02		maintain
 PWN:conserve.v.02		preserve		fra:préserver
 PWN:consider.v.04		account for		
 PWN:consider.v.04		consider		
+PWN:consider.v.04		count	
 PWN:consider.v.04		weigh		
 PWN:consider.v.05		consider		
 PWN:consider.v.05		debate		
@@ -4422,6 +4428,9 @@ PWN:corrupt.v.01		subvert
 PWN:corrupt.v.01		vitiate		
 PWN:cosmetic.n.01		cosmetic		
 PWN:cosmic_time.n.01		cosmic time		
+PWN:cosmology.n.02		cosmogeny	
+PWN:cosmology.n.02		cosmogony	
+PWN:cosmology.n.02		cosmology	
 PWN:cost.n.01		cost		
 PWN:cost.v.01		be		
 PWN:cost.v.01		cost		
@@ -4689,6 +4698,8 @@ PWN:culture.n.01		civilization
 PWN:culture.n.01		culture		
 PWN:culture.n.04		culture		
 PWN:culture.n.06		culture		
+PWN:cumin.n.01		cumin	
+PWN:cumin.n.01		jeera	
 PWN:cup.n.01		cup		:cuppa (Vulgar), cūpa (Classical)
 PWN:cupboard.n.01		cabinet		
 PWN:cupboard.n.01		closet		
@@ -6021,6 +6032,7 @@ PWN:edge_tool.n.01		edge tool
 PWN:edible_fruit.n.01		edible fruit		
 PWN:edit.v.01		edit		
 PWN:edit.v.01		modify		
+PWN:edit.v.01		redact	
 PWN:edit.v.01		revise		
 PWN:educate.v.03		civilise		
 PWN:educate.v.03		civilize		
@@ -6602,6 +6614,9 @@ PWN:exit.v.01		exit
 PWN:exit.v.01		get out		
 PWN:exit.v.01		go out		
 PWN:exit.v.01		leave		
+PWN:exobiology.n.01		astrobiology	
+PWN:exobiology.n.01		exobiology	
+PWN:exobiology.n.01		space biology	
 PWN:expand.v.01		expand		
 PWN:expand.v.01		spread out		
 PWN:expand.v.02		expand		
@@ -7821,6 +7836,8 @@ PWN:gingiva.n.01		gingiva
 PWN:gingiva.n.01		gum		
 PWN:gingiva.n.01		gums		
 PWN:ginseng.n.01		ginseng		
+PWN:giraffe.n.01		camelopard	
+PWN:giraffe.n.01		giraffe	
 PWN:girl.n.01		fille		
 PWN:girl.n.01		girl		
 PWN:girl.n.01		miss		
@@ -8721,6 +8738,7 @@ PWN:however.r.01		nevertheless
 PWN:however.r.01		nonetheless		
 PWN:however.r.01		notwithstanding		
 PWN:however.r.01		still		
+PWN:however.r.01		withal	
 PWN:however.r.01		yet		
 PWN:howl.v.01		howl		
 PWN:howl.v.01		roar		
@@ -9416,6 +9434,11 @@ PWN:justice.n.01		justness
 PWN:justification.n.01		justification		
 PWN:juvenile.n.01		juvenile		
 PWN:juvenile.n.01		juvenile person		
+PWN:kale.n.02		borecole	
+PWN:kale.n.02		cole	
+PWN:kale.n.02		colewort	
+PWN:kale.n.02		kail	
+PWN:kale.n.02		kale	
 PWN:kangaroo.n.01		kangaroo		kky:gaŋurru
 PWN:karate.n.01		karate		
 PWN:keep.v.01		hold		
@@ -10591,9 +10614,16 @@ PWN:medical_care.n.01		medical care
 PWN:medical_institution.n.01		medical institution		
 PWN:medical_practitioner.n.01		medical man		
 PWN:medical_practitioner.n.01		medical practitioner		
+PWN:medicate.v.02		cure	
+PWN:medicate.v.02		heal	
+PWN:medicate.v.02		medicate	
+PWN:medicate.v.02		medicine	
+PWN:medicate.v.02		remedy	
+PWN:medicate.v.02		treat	
 PWN:medicine.n.01		field of study		
 PWN:medicine.n.01		medical specialty		
 PWN:medicine.n.01		medicine		
+PWN:medicine.n.01		study of medicine	
 PWN:medicine.n.02		medicament		
 PWN:medicine.n.02		medication		
 PWN:medicine.n.02		medicinal drug		
@@ -10728,6 +10758,7 @@ PWN:metric_weight_unit.n.01		weight unit
 PWN:microbe.n.01		bug		
 PWN:microbe.n.01		germ		
 PWN:microbe.n.01		microbe		
+PWN:microbiology.n.01		microbiology	
 PWN:microorganism.n.01		micro-organism		
 PWN:microorganism.n.01		microbe		
 PWN:microorganism.n.01		microorganism		
@@ -11194,6 +11225,10 @@ PWN:nature.n.01 		nature
 PWN:nature.n.03		nature		
 PWN:nature.n.04		nature		
 PWN:nausea.n.02		nausea		
+PWN:nautical.a.01		marine	
+PWN:nautical.a.01		maritime	
+PWN:nautical.a.01		nautical	
+PWN:nautical.a.01		naval	
 PWN:naval_unit.n.01		naval unit		
 PWN:navel.n.01		belly button		
 PWN:navel.n.01		bellybutton		
@@ -11724,6 +11759,8 @@ PWN:ornamentation.n.03		ornamentation
 PWN:orphan.n.01		authentic		
 PWN:orphan.n.01		original		
 PWN:orphan.n.01		orphan		:orphanus
+PWN:orphanage.n.02		orphanage	
+PWN:orphanage.n.02		orphans' asylum	
 PWN:orthodoxy.n.01		orthodoxy		
 PWN:osmium.n.01		osmium		
 PWN:other.a.01		other		
@@ -12035,6 +12072,9 @@ PWN:pea.n.01		pea
 PWN:pea.n.03		pea		
 PWN:pea.n.03		pea plant		
 PWN:peace.n.01		peace		:pax, -cem
+PWN:peafowl.n.01		bird of Juno	
+PWN:peafowl.n.01		peacock	
+PWN:peafowl.n.01		peafowl	
 PWN:peak.n.04		crest		
 PWN:peak.n.04		crown		
 PWN:peak.n.04		peak		
@@ -13306,6 +13346,7 @@ PWN:rake.n.03		rake
 PWN:rake.v.01		rake		
 PWN:ram.n.05		ram		
 PWN:ram.n.05		tup		
+PWN:random.a.01		random	
 PWN:range.n.04		chain		
 PWN:range.n.04		chain of mountains		
 PWN:range.n.04		mountain chain		
@@ -14386,6 +14427,7 @@ PWN:screen.n.04		cover
 PWN:screen.n.04		covert		
 PWN:screen.n.04		screen		
 PWN:screen.n.05		screen		
+PWN:screw.n.04		bolt	
 PWN:screw.n.04		screw		:escroue
 PWN:screwdriver.n.01		screwdriver		
 PWN:scripture.n.02		sacred scripture		
@@ -15025,6 +15067,10 @@ PWN:sleeve.n.01		arm
 PWN:sleeve.n.01		sleeve		
 PWN:slice.n.05		slice		
 PWN:slide.v.03		slide		
+PWN:slide_fastener.n.01		slide fastener	
+PWN:slide_fastener.n.01		zip	
+PWN:slide_fastener.n.01		zip fastener	
+PWN:slide_fastener.n.01		zipper	
 PWN:sling.n.04		sling		gml:slinge
 PWN:slip.v.04		drop away		
 PWN:slip.v.04		drop off		
@@ -17198,6 +17244,7 @@ PWN:vital_organ.n.01		vital organ
 PWN:vital_organ.n.01		vitals		
 PWN:vital_principle.n.01		life principle		
 PWN:vital_principle.n.01		vital principle		
+PWN:vitamin.n.01		vitamin	
 PWN:vivisection.n.01		vivisection		
 PWN:vivisection.n.01 		vivisection		
 PWN:vizier.n.01		vizier		
@@ -17221,6 +17268,8 @@ PWN:voice.n.02		vox
 PWN:volcano.n.02		volcano		
 PWN:volition.n.01		volition		
 PWN:volition.n.01		will		
+PWN:volt.n.01		V	
+PWN:volt.n.01		volt	
 PWN:volunteer.v.02		offer		
 PWN:volunteer.v.02		volunteer		
 PWN:vomit.v.01		barf		
@@ -17242,6 +17291,10 @@ PWN:vomit.v.01		throw up
 PWN:vomit.v.01		upchuck		
 PWN:vomit.v.01		vomit		:vomitus
 PWN:vomit.v.01		vomit up		
+PWN:voodoo.n.03		hoodooism	
+PWN:voodoo.n.03		vodoun	
+PWN:voodoo.n.03		voodoo	
+PWN:voodoo.n.03		voodooism	
 PWN:vote.n.01		ballot		
 PWN:vote.n.01		balloting		
 PWN:vote.n.01		vote		
@@ -17466,6 +17519,8 @@ PWN:whip.n.01		whip
 PWN:whirlpool.n.01		maelstrom		
 PWN:whirlpool.n.01		vortex		
 PWN:whirlpool.n.01		whirlpool		nhu:hvirfla
+PWN:whiskey.n.01		whiskey	
+PWN:whiskey.n.01		whisky	
 PWN:whisper.v.01		whisper		
 PWN:whistle.v.03		whistle		
 PWN:whistle.v.05		sing		
@@ -17587,6 +17642,8 @@ PWN:wonder.v.02		question
 PWN:wonder.v.02		wonder		
 PWN:wood.n.01		timber		
 PWN:wood.n.01		wood		
+PWN:wood_sugar.n.01		wood sugar	
+PWN:wood_sugar.n.01		xylose	
 PWN:woodpecker.n.01		pecker		
 PWN:woodpecker.n.01		peckerwood		
 PWN:woodpecker.n.01		woodpecker		
@@ -17734,6 +17791,7 @@ PWN:wrongdoing.n.02		wrongful conduct
 PWN:xenon.n.01		xenon		
 PWN:yacht.n.01		racing yacht		
 PWN:yacht.n.01		yacht		
+PWN:yak.n.02		yak	
 PWN:yam.n.04		yam		por:inhame
 PWN:yang.n.01		yang		
 PWN:yard.n.07		railway yard		
@@ -17759,6 +17817,7 @@ PWN:yield.v.01		afford
 PWN:yield.v.01		give		
 PWN:yield.v.01		yield		
 PWN:yin.n.01		yin		
+PWN:yoga.n.02		yoga	
 PWN:yogurt.n.01		yoghourt		
 PWN:yogurt.n.01		yoghurt		
 PWN:yogurt.n.01		yogurt		
@@ -17784,6 +17843,9 @@ PWN:zebra.n.01		zebra
 PWN:zero.s.01		none		
 PWN:zero.s.01		zero		spa:cero
 PWN:zinc.n.01		zinc		
+PWN:zip_up.v.01		zip	
+PWN:zip_up.v.01		zip up	
+PWN:zip_up.v.01		zipper	
 PWN:zirconium.n.01		zirconium		
 PWN:zone.n.01		zone		
 PWN:zone.n.02		geographical zone		

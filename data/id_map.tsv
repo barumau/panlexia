@@ -34,6 +34,7 @@ PLX:3SG POSS.pro		2092
 PLX:3SG.pro		262	2-93		
 PLX:Aglaia odorata.n			8-99912		
 PLX:Asian dragon.n					
+PLX:COND.v 					
 PLX:Ceiba pentandra.n			8-99915		
 PLX:Chinese New Year.n			14-99901		
 PLX:FUT.ptcl					
@@ -428,7 +429,7 @@ PWN:alternate.v.01	00121506-v				3229
 PWN:alternatively.r.01	00063172-r				
 PWN:aluminum.n.01	14627820-n	3385			3329
 PWN:always.r.01	00019339-r	1676	14-31	immer::ADV	3242
-PWN:amateur.n.01	09786585-n
+PWN:amateur.n.01	09786585-n				
 PWN:amazed.s.01	02357810-a	1572	16-15		
 PWN:amazon.n.03	09195372-n				
 PWN:ambassador.n.01	09787534-n				398
@@ -605,7 +606,6 @@ PWN:asian.a.01	02968525-a
 PWN:asian.n.01	09641757-n				
 PWN:ask.v.01	00784342-v				2212
 PWN:ask.v.02	00752493-v	1828	18-35	bitten::V	
-PWN:ask.v.02	00752493-v
 PWN:ask.v.04	00755745-v				
 PWN:ask.v.05	00897746-v	1309	18-31	fragen::V	
 PWN:aslant.s.01	01234747-s				2848
@@ -635,6 +635,7 @@ PWN:assurance.n.01	05697363-n
 PWN:astatine.n.01	14629561-n				
 PWN:astonishment.n.01	07509572-n				
 PWN:astrology.n.01	05778131-n				
+PWN:astronaut.n.01	09818022-n				
 PWN:astronomer.n.01	09818343-n				
 PWN:astronomy.n.01	06095022-n				
 PWN:asymmetry.n.01	05065717-n				
@@ -880,8 +881,8 @@ PWN:bequeath.v.01	02229055-v
 PWN:berkelium.n.01	14631134-n				
 PWN:berry.n.01	07742704-n	904		Beere::N	1020
 PWN:beryllium.n.01	14631295-n				
+PWN:besides.r.02	00047534-r				
 PWN:besides.r.02	00047534-r				240
-PWN:besides.r.02	00047534-r
 PWN:besiege.v.01	01127411-v				
 PWN:bespeak.v.01	00921300-v				2219
 PWN:bet.v.02	01155687-v				
@@ -1001,8 +1002,8 @@ PWN:boil_down.v.02	00237259-v
 PWN:boisterous.s.03	00304949-a	259	1-323		
 PWN:bolshevik.n.02	09863936-n				
 PWN:bolt.n.03	02865931-n	1012	7-231		
-PWN:bomb.n.01	02866578-n				1214
-PWN:bomb.n.01	02866578-n	1804	23-575		
+PWN:bolt.n.06	02865665-n				
+PWN:bomb.n.01	02866578-n	1804	23-575		1214
 PWN:bombing.n.01	00978413-n				
 PWN:bone.n.01	05269901-n	1394	4-16	Knochen::N	560
 PWN:boodle.n.01	13385216-n				
@@ -1022,7 +1023,7 @@ PWN:borrow.v.01	02324026-v	1823	11-62
 PWN:bosom.n.02	05553486-n				
 PWN:bosom.n.03	02876084-n				
 PWN:botch.v.01	02527651-v	92		verderben::V	
-PWN:both.s.01	02268133-a
+PWN:both.s.01	02268133-a				
 PWN:bottle.n.01	02876657-n	1321	23-56		1303
 PWN:bottle.n.02	13765396-n				
 PWN:bottom.n.01	08511241-n				2865
@@ -1598,7 +1599,6 @@ PWN:combination.n.06	00870453-n
 PWN:combination.n.07	00378985-n				
 PWN:combine.v.05	02377938-v				
 PWN:come.v.01	01849221-v				
-PWN:come.v.01	01849221-v
 PWN:come_on.v.01	00423702-v				
 PWN:comedy.n.01	07015510-n				2349
 PWN:comestible.n.01	07556637-n				
@@ -1621,7 +1621,6 @@ PWN:committee.n.01	08324514-n				455
 PWN:committee.n.02	08325686-n				
 PWN:commodity.n.01	03076708-n				
 PWN:common.a.01	00492677-a				2428
-PWN:common.a.01	00492677-a
 PWN:common_eel.n.01	02526818-n	1013	3-665		
 PWN:common_iguana.n.01	01677366-n	1578	3-99921		
 PWN:common_sense.n.01	05614657-n				
@@ -1730,7 +1729,7 @@ PWN:consecration.n.02	01040646-n
 PWN:consequence.n.01	11410625-n	3968			3922
 PWN:consequence.n.02	07294019-n				
 PWN:conserve.v.02	02280132-v	1997	11-24	bewahren::V	
-PWN:consider.v.04	00950431-v
+PWN:consider.v.04	00950431-v				
 PWN:consider.v.05	00813044-v				2027
 PWN:consign.v.02	02347637-v				
 PWN:consist.v.03	02658050-v				
@@ -1804,7 +1803,7 @@ PWN:copy.n.02	03104594-n				2420
 PWN:copy.n.03	06390512-n				
 PWN:copy.v.01	01747374-v				
 PWN:copy.v.04	01693881-v				
-PWN:copyright.n.01	06473168-n
+PWN:copyright.n.01	06473168-n				
 PWN:cord.n.01	03106110-n				
 PWN:cord.n.04	03106722-n				
 PWN:cork.n.01	14823227-n				1041
@@ -1828,6 +1827,7 @@ PWN:corrugated_iron.n.01	03112431-n		9-99906
 PWN:corrupt.v.01	02579447-v				
 PWN:cosmetic.n.01	03113152-n				
 PWN:cosmic_time.n.01	15116724-n				
+PWN:cosmology.n.02	06098195-n				
 PWN:cost.n.01	13275847-n				
 PWN:cost.v.01	02702508-v				
 PWN:cost.v.02	02628961-v				
@@ -1891,7 +1891,6 @@ PWN:creating_by_mental_acts.n.01	00927261-n
 PWN:creating_from_raw_materials.n.01	00908909-n				
 PWN:creation.n.01	00908492-n				
 PWN:creation.n.02	03129123-n				
-PWN:creation.n.02	03129123-n
 PWN:creation.n.03	07328942-n				
 PWN:creativity.n.01	05624700-n				
 PWN:creator.n.02	09614315-n				
@@ -1947,6 +1946,7 @@ PWN:cultivation.n.02	00915722-n
 PWN:culture.n.01	08287844-n				
 PWN:culture.n.04	00920510-n				
 PWN:culture.n.06	06194409-n				425
+PWN:cumin.n.01	12936826-n				
 PWN:cup.n.01	03147509-n	476	5-35	Tasse::N	1308
 PWN:cupboard.n.01	03148324-n				1540
 PWN:curassow.n.01	01799679-n		3-99918		
@@ -1961,8 +1961,8 @@ PWN:curtain.n.01	03151077-n	2621			1486
 PWN:curvature.n.03	05072663-n				
 PWN:curve.n.01	13867641-n				3514
 PWN:curve.n.02	07000941-n				
+PWN:curved.a.01	02315002-a				
 PWN:curved.a.01	02315002-a	1698			
-PWN:curved.a.01	02315002-a
 PWN:cushion.n.03	03151500-n				
 PWN:custom.n.01	00413239-n	1747	19-61		
 PWN:cut.n.01	13289159-n				
@@ -2155,7 +2155,6 @@ PWN:destruction.n.02	07334490-n
 PWN:detach.v.03	01299758-v				
 PWN:detail.n.01	05817845-n				3907
 PWN:detail.n.02	13809920-n				
-PWN:detail.n.02	13809920-n
 PWN:detainee.n.01	10009162-n	1073			
 PWN:detect.v.01	02154508-v	2893		bemerken::V	2039
 PWN:detention.n.01	13999663-n				
@@ -2173,7 +2172,7 @@ PWN:device.n.01	03183080-n
 PWN:device.n.02	07068844-n				
 PWN:device.n.05	03185562-n				
 PWN:devil.n.02	09542339-n	1973	22-35		
-PWN:devising.n.01	00923995-n
+PWN:devising.n.01	00923995-n				
 PWN:devolve.v.03	00092293-v				
 PWN:dew.n.01	14834132-n	1977	1-64		
 PWN:diagonal.s.01	01719870-s				2847
@@ -2300,7 +2299,7 @@ PWN:distinguish.v.03	00651991-v
 PWN:distinguished.s.01	01278080-s				
 PWN:distorted_shape.n.01	13867276-n				
 PWN:distribute.v.01	02294436-v				
-PWN:distribute.v.04	02201644-v
+PWN:distribute.v.04	02201644-v				
 PWN:distribution.n.03	01083077-n				
 PWN:district.n.01	08552138-n				
 PWN:disturb.v.01	01770501-v				
@@ -2468,7 +2467,7 @@ PWN:edge.n.03	03264136-n
 PWN:edge.n.06	03264542-n	863	12-353	Kante::N	
 PWN:edge_tool.n.01	03265032-n				
 PWN:edible_fruit.n.01	07705931-n				
-PWN:edit.v.01	00200397-v
+PWN:edit.v.01	00200397-v				
 PWN:educate.v.03	02388403-v				
 PWN:education.n.02	05984287-n				
 PWN:education.n.04	00611433-n				
@@ -2638,7 +2637,7 @@ PWN:evanesce.v.01	00421691-v
 PWN:evaporate.v.01	00366858-v				3733
 PWN:even-toed_ungulate.n.01	02394477-n				
 PWN:even.a.03	00909545-a				3602
-PWN:even.r.01	00017445-r
+PWN:even.r.01	00017445-r				
 PWN:evening.n.01	15166462-n	1629	14-46	Abend::N	3288
 PWN:event.n.01	00029378-n				
 PWN:event.n.02	13943400-n				
@@ -2680,6 +2679,7 @@ PWN:exit.n.01	03303965-n
 PWN:exit.n.03	00058519-n				
 PWN:exit.v.01	02015598-v	1107	10-474		
 PWN:exit.v.01	02015598-v	1752	10-49	weggehen::V	3003
+PWN:exobiology.n.01	06071722-n				
 PWN:expand.v.01	02077148-v				2807
 PWN:expand.v.02	00257269-v				
 PWN:expanse.n.03	09277538-n				
@@ -3199,6 +3199,7 @@ PWN:gill.n.04	02510769-n	1916	3-654
 PWN:ginger.n.01	12355760-n	2500			1066
 PWN:gingiva.n.01	05304932-n	139	4-271		
 PWN:ginseng.n.01	11800236-n				1070
+PWN:giraffe.n.01	02439033-n				
 PWN:girl.n.01	10129825-n	77	2-261		
 PWN:give.v.01	02316868-v				1734
 PWN:give.v.03	02199590-v	1447	11-21	geben::V	
@@ -3567,7 +3568,7 @@ PWN:housewife.n.01	10189776-n
 PWN:housing.n.01	03546340-n				
 PWN:housing.n.02	03546766-n				
 PWN:hovel.n.01	03547054-n	1678	7-13		
-PWN:however.r.01	00027384-r
+PWN:however.r.01	00027384-r				
 PWN:howl.v.01	01046932-v		18-99912		
 PWN:howl.v.02	01047381-v	526	18-19	heulen::V	
 PWN:huge.s.01	01387319-s				2802
@@ -3877,6 +3878,7 @@ PWN:jury.n.01	08414119-n				1653
 PWN:justice.n.01	04850117-n				
 PWN:justification.n.01	05823054-n				
 PWN:juvenile.n.01	09622049-n				
+PWN:kale.n.02	11876976-n				
 PWN:kangaroo.n.01	01877134-n	164	3-88		
 PWN:karate.n.01	00826397-n				
 PWN:keep.v.01	02681795-v				
@@ -4384,8 +4386,8 @@ PWN:meaning.n.01	06601327-n	2950		Sinn::N	2204
 PWN:meaning.n.02	05919866-n				
 PWN:means.n.01	00172710-n				
 PWN:means.n.02	03733547-n				
+PWN:measure.n.02	00033615-n				
 PWN:measure.n.02	00033615-n				2600
-PWN:measure.n.02	00033615-n
 PWN:measure.v.01	00647094-v	1506	12-54	messen::V	2610
 PWN:measure.v.03	02704349-v				
 PWN:measure.v.04	00681429-v				
@@ -4401,9 +4403,9 @@ PWN:mediator.n.01	09624559-n
 PWN:medical_care.n.01	00657604-n				
 PWN:medical_institution.n.01	08053905-n				
 PWN:medical_practitioner.n.01	10305802-n				
+PWN:medicate.v.02	00084230-v				
 PWN:medicine.n.01	06043075-n				
-PWN:medicine.n.02	03740161-n				3356
-PWN:medicine.n.02	03740161-n	1372	4-88	Arznei::N	
+PWN:medicine.n.02	03740161-n	1372	4-88	Arznei::N	3356
 PWN:medium.n.01	06254669-n				
 PWN:medium_of_exchange.n.01	13372961-n				
 PWN:meet.v.02	02486932-v				
@@ -4456,6 +4458,7 @@ PWN:method.n.01	05660268-n	3971			3931
 PWN:metric_unit.n.01	13604275-n				
 PWN:metric_weight_unit.n.01	13717155-n				
 PWN:microbe.n.01	01384491-n				902
+PWN:microbiology.n.01	06077648-n				
 PWN:microorganism.n.01	01326291-n				
 PWN:microscope.n.01	03760671-n				1263
 PWN:middle.n.02	05868272-n				
@@ -4671,6 +4674,7 @@ PWN:nature.n.01	04726724-n
 PWN:nature.n.03	09366762-n	3897			1102
 PWN:nature.n.04	04623113-n				
 PWN:nausea.n.02	07504111-n				
+PWN:nautical.a.01	02889746-a				
 PWN:naval_unit.n.01	08191532-n				
 PWN:navel.n.01	05556595-n	1838	4-43	Nabel::N	553
 PWN:navy.n.01	08191701-n				1632
@@ -4912,6 +4916,7 @@ PWN:original.s.04	00699207-a				2416
 PWN:originate_in.v.01	02627666-v				
 PWN:ornamentation.n.03	00262743-n				
 PWN:orphan.n.01	10384392-n	1149	2-75		
+PWN:orphanage.n.02	03856012-n				
 PWN:orthodoxy.n.01	04801313-n				
 PWN:osmium.n.01	14647907-n				
 PWN:other.a.01	02069355-a	197	24-11	anderer::A	
@@ -5056,6 +5061,7 @@ PWN:payment.n.02	01120448-n
 PWN:pea.n.01	07725376-n				1091
 PWN:pea.n.03	12560016-n	2025	8-99937		
 PWN:peace.n.01	13970236-n	1338	20-14		1636
+PWN:peafowl.n.01	01805801-n				
 PWN:peak.n.04	08617963-n	1614		Gipfel::N	
 PWN:peak.n.04	08617963-n	1753	12-33		
 PWN:peal.n.01	07389330-n				
@@ -5584,6 +5590,7 @@ PWN:raise.v.19	01025246-v
 PWN:rake.n.03	04050066-n	338	8-27		1235
 PWN:rake.v.01	02099669-v	3127			
 PWN:ram.n.05	02412080-n	1344	3-26		
+PWN:random.a.01	01924316-a				
 PWN:range.n.04	09403734-n				
 PWN:range.n.05	04053218-n				
 PWN:rank.n.02	14429985-n				
@@ -6286,6 +6293,7 @@ PWN:sleep_together.v.01	01426397-v	549	4-67		762
 PWN:sleeve.n.01	04236377-n	2953	6-99908	Ärmel::N	
 PWN:slice.n.05	09437241-n	2954		Scheibe::N	
 PWN:slide.v.03	02090990-v				
+PWN:slide_fastener.n.01	04238321-n				
 PWN:sling.n.04	04239639-n	387	20-23		
 PWN:slip.v.04	00204391-v				
 PWN:slipper.n.01	04241394-n				1472
@@ -7252,6 +7260,7 @@ PWN:visual_property.n.01	04950126-n
 PWN:visualize.v.01	01635432-v				
 PWN:vital_organ.n.01	05298313-n				
 PWN:vital_principle.n.01	10757918-n				
+PWN:vitamin.n.01	15089258-n				
 PWN:vizier.n.01	10758445-n				
 PWN:vocabulary.n.01	06420678-n				
 PWN:vocabulary.n.02	05651242-n				2291
@@ -7260,8 +7269,10 @@ PWN:voice.n.01	04981941-n
 PWN:voice.n.02	07110615-n	1363	18-11	Stimme::N	2285
 PWN:volcano.n.02	09472597-n				1174
 PWN:volition.n.01	05652593-n				
+PWN:volt.n.01	13643276-n				
 PWN:volunteer.v.02	02425112-v				
 PWN:vomit.v.01	00076400-v	1278	4-57		725
+PWN:voodoo.n.03	06245816-n				
 PWN:vote.n.01	00183505-n				
 PWN:vote.n.02	00182213-n				
 PWN:vote.n.04	08480662-n				
@@ -7365,6 +7376,7 @@ PWN:whetstone.n.01	04577426-n	295	9-93
 PWN:whine.v.03	02171664-v				
 PWN:whip.n.01	04577769-n	2630	8-99955		
 PWN:whirlpool.n.01	07433145-n	1982	1-362		
+PWN:whiskey.n.01	07906284-n				
 PWN:whisper.v.01	00915830-v	55	18-15		
 PWN:whistle.v.03	01043441-v	1025	18-17	pfeifen::V	
 PWN:whistle.v.05	01043887-v				
@@ -7423,6 +7435,7 @@ PWN:woman.n.01	10787470-n	962	2-22	Frau::N	316
 PWN:womanhood.n.02	08477634-n				
 PWN:wonder.v.02	00925110-v				
 PWN:wood.n.01	15098161-n	1803	1-43	Holz::N	3345
+PWN:wood_sugar.n.01	15103780-n				
 PWN:woodpecker.n.01	01838598-n	2447			
 PWN:woody_plant.n.01	13103136-n				
 PWN:wool.n.02	15104217-n	964	6-22	Wolle::N	1403
@@ -7479,6 +7492,7 @@ PWN:wrong.v.01	02513989-v
 PWN:wrongdoing.n.02	00732746-n				
 PWN:xenon.n.01	14661274-n				
 PWN:yacht.n.01	04610013-n				
+PWN:yak.n.02	02405302-n				
 PWN:yam.n.04	07711907-n	410	8-912		
 PWN:yang.n.01	05915356-n				
 PWN:yard.n.07	04611154-n				
@@ -7493,6 +7507,7 @@ PWN:yesterday.r.01	00507716-r	1174	14-49	gestern::ADV	3265
 PWN:yield.n.03	04612722-n				
 PWN:yield.v.01	02339171-v				
 PWN:yin.n.01	05915584-n				
+PWN:yoga.n.02	00630960-n				
 PWN:yogurt.n.01	07849336-n				3443
 PWN:yoke.n.05	04613350-n	14	10-78		
 PWN:yoke.n.05	04613350-n	3159			
@@ -7507,7 +7522,8 @@ PWN:yurt.n.01	04613696-n
 PWN:zebra.n.01	02391049-n	3675			
 PWN:zero.s.01	02186132-a	1294	13		2500
 PWN:zinc.n.01	14661977-n				
+PWN:zip_up.v.01	01353670-v				
 PWN:zirconium.n.01	14662281-n				
 PWN:zone.n.01	08688247-n				
 PWN:zone.n.02	08541841-n				
-PWN:zygote.n.01	05431926-n
+PWN:zygote.n.01	05431926-n				
