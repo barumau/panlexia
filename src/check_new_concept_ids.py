@@ -15,7 +15,7 @@ def create_and_print_new_id(temporary_id, separator):
     synset = wn.synset_from_pos_and_offset(pos, offset)
     if synset is not None:
         new_id = "PWN:" + synset.name()
-        print(f"TMP:{temporary_id}, {new_id}, {synset.definition()}")
+        print(f"TMP:{temporary_id},{new_id},{synset.definition()}")
     else:
         print("No Wordnet synset found for TMP:", temporary_id)
 
