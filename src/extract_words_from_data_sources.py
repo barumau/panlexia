@@ -21,6 +21,7 @@ WOLD_forms_2 = 'data/WOLD/forms_fra_spa_deu_rus.tsv'
 WOLD_languages = 'data/WOLD/languages.csv'
 WOLD_etymology = 'data/WOLD/borrowings.csv'
 ULD_file = 'data/ULD/ULD.tsv'
+Pandunia_master = 'pandunia_source.tsv'
 
 # The column headers in NELex_concepts file are:
 #Language_ID	Glottocode	Concept_ID	Word_Form	rawIPA	IPA	ASJP	List	Dolgo	Next_Step
@@ -127,6 +128,32 @@ def create_dictionaries_from_ULD(ULD_to_Panlexia):
     langs = ["epo", "Novial", "Lidepla", "Sambahsa"]
     for lang in langs:
         write_dictionary_for_one_language_in_ULD(lang, ULD_to_Panlexia)
+
+def write_dictionary_for_one_language_in_PD(lang_code):
+    """Writes dictionary for one language ordered by Panlexia id."""
+    dictionary = get_original_word_list(lang_code)
+    pd = helpers.tsv_reader(Pandunia_master)
+    i = 0
+    for row in pd.dict:
+        id = row["id"]
+        entry = row[lang_code]
+        if id != "" and entry != "":
+            words = entry.split(',')
+            for word in words:
+                word = word.strip()
+                if is_word_entry_new(dictionary, id, word):
+                    dictionary.append([id, "", word])
+                    i = i + 1
+    sort_and_write_to_dictionary_file(lang_code, dictionary)
+    print("Wrote", i, "entries for", lang_code, "from old Pandunia master file.")
+
+def create_dictionaries_from_PD_master():
+    langs = ["eng", "deu", "fra", "spa", "por", "rus",
+        "fas", "hin", "ben", "tam", "ind", "arb", "tur", "swh", "hau", "ful",
+        "cmn", "yue", "jpn", "kor", "vie", "epo", "fin", "pol"]
+    for lang in langs:
+        write_dictionary_for_one_language_in_PD(lang)
+
 
 def create_NELex_id_to_Panlexia_id_map():
     """Creates a map of NELex to Panlexia ids in the standard NELex order."""
@@ -320,10 +347,7 @@ def write_dictionary_for_one_language_in_Wordnet(lang_code):
 
 def create_dictionaries_from_Wordnet():
     """Writes dictionaries for languages in NLTK/Wordnet."""
-    #langs = ['ell', 'eng', 'fin', 'ind', 'ita', 'jpn']
-    #langs = ['arb', 'cmn', 'fra', 'pol', 'spa']
-    #langs = ['por', 'ron', 'swe', 'tha']
-    langs = ['nld']
+    langs = ['ell', 'eng', 'fin', 'ind', 'ita', 'jpn', 'arb', 'cmn', 'fra', 'pol', 'spa', 'por', 'ron', 'swe', 'tha', 'nld']
     for lang in langs:
         write_dictionary_for_one_language_in_Wordnet(lang)
 
@@ -343,3 +367,6 @@ if False:
     create_dictionaries_from_ULD(ULD_to_Panlexia)
 
 create_dictionaries_from_Wordnet()
+
+#Used only by Barumau.
+#create_dictionaries_from_PD_master()

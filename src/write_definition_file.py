@@ -10,6 +10,8 @@ Output: <lang code>-definition.tsv files:
 CC-BY 2024 Panlexia (https://github.com/barumau/panlexia)
 """
 import helpers
+import csv
+import pandas as pd
 import nltk
 from nltk.corpus import wordnet as wn
 
@@ -18,42 +20,51 @@ def get_concept_definition_file_path(lang):
     path = 'concepts/' + lang[0].upper() + '/' + lang + '-definition.tsv'
     return path
 
-def create_english_definition_file_from_master():
-    """Writes ready (non-empty) ids and their definitions to a file."""
+def get_existing_ids(definition_filename):
+    dataframe = pd.read_csv(definition_filename, delimiter='\t')
+    ids = dataframe['id'].to_list()
+    return ids
 
-    definition_writer = helpers.tsv_writer('concepts/E/eng-definition.tsv', 'w')
-    definition_writer.dict.writerow(["id", "Definition"])
+def get_original_concept_list(definition_filename):
+    with open(definition_filename) as f:
+        reader = csv.reader(f, delimiter='\t')
+        concept_list = list(reader)
 
-    combined = helpers.tsv_reader('data/worksheet.tsv')
-    for row in combined.dict:
-        if row["id"] != "":
-            definition_writer.dict.writerow([row["id"], row["Definition"]])
+    concept_list = concept_list[1:]
+    return concept_list
 
 def create_definitions_for(language_code):
     definition_filename = get_concept_definition_file_path(language_code)
-    definition_writer = helpers.tsv_writer(definition_filename, 'w')
-    definition_writer.dict.writerow(["id", "Definition"])
+
+    existing_ids = get_existing_ids(definition_filename)
+    definitions = get_original_concept_list(definition_filename)
 
     id_map = helpers.tsv_reader('data/id_map.tsv')
     for row in id_map.dict:
         id = row["id"]
-        if id.split(':')[0] == 'PWN':
-            synset_id = id.split(':')[1]
-            synset = wn.synset(synset_id)
-            print(synset.lemma_names(language_code))
-            definition = synset.definition(lang=language_code)
-            if definition is not None:
-                definition_writer.dict.writerow([id, definition[0]])
+        if id not in existing_ids:
+            if id.split(':')[0] == 'PWN':
+                synset_id = id.split(':')[1]
+                synset = wn.synset(synset_id)
+                definition = synset.definition(lang=language_code)
+                if definition is not None:
+                    print(synset.lemma_names(language_code), definition)
+                    definitions.append([id, definition])
 
-def create_other_definitions_from_OMW():
+    definition_writer = helpers.tsv_writer(definition_filename, 'w')
+    definition_writer.dict.writerow(["id", "Definition"])
+    for definition in definitions:
+        definition_writer.dict.writerow(definition)
+
+def create_definitions_from_OMW():
     """Creates concept definition file from OMW data for the languages, whose codes are listed below."""
     #Download Open Multilingual Wordnet data only in the first run.
     #nltk.download('omw-1.4')
+    create_definitions_for('eng')
     create_definitions_for('ita')
     create_definitions_for('ind')
     create_definitions_for('jpn')
     create_definitions_for('ell')
 
 # Execution begins
-create_english_definition_file_from_master()
-create_other_definitions_from_OMW()
+create_definitions_from_OMW()
