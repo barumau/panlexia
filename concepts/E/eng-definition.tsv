@@ -158,6 +158,7 @@ PLX:nor.cnj	The second word in neither... nor.
 PLX:nothing.pro	Not anything.
 PLX:of.pp	belonging to the specified person or thing
 PLX:oganesson.n	Oganesson, the chemical element with atomic number 118 and symbol Og.
+PLX:okay.n.01	an endorsement
 PLX:older sibling.n	A person who is born before another person who has the same parents.
 PLX:on.pp	touching the top or other surface of the specified thing
 PLX:one.pro	A pronoun that refers to people in general but no-one in specific.
@@ -292,9 +293,13 @@ PWN:actinic_radiation.n.01	electromagnetic radiation that can produce photochemi
 PWN:actinium.n.01	Actinium, the chemical element with atomic number 89 and symbol Ac.
 PWN:action.n.01	something done (usually as opposed to something said)
 PWN:action.n.02	the state of being active
+PWN:activate.v.02	make active or more active
+PWN:active.a.06	exerting influence or producing a change or effect
+PWN:active.a.07	full of activity or engaged in continuous activity
 PWN:activeness.n.02	the trait of being active; moving or acting rapidly and energetically
 PWN:activity.n.01	any specific behavior
 PWN:actor.n.01	a theatrical performer
+PWN:actor.n.02	a person who acts and gets things done
 PWN:actuality.n.01	the state of actually existing objectively
 PWN:acute.s.02	extremely sharp or intense
 PWN:acute.s.03	having or demonstrating mental ability to recognize or draw fine distinctions
@@ -371,6 +376,7 @@ PWN:age.n.03	a time of life (usually defined in years) at which some particular 
 PWN:age_group.n.01	a group of people having approximately the same age
 PWN:agency.n.01	an administrative unit of government
 PWN:agency.n.02	a business that serves other businesses
+PWN:agency.n.03	the state of being in action or exerting power
 PWN:agent.n.02	a representative who acts on behalf of other persons or organizations
 PWN:agent.n.04	a businessman who buys or sells for another in exchange for a commission
 PWN:agent.n.05	any agent or representative of a federal agency or bureau
@@ -1490,6 +1496,7 @@ PWN:class.n.01	a collection of things sharing a common attribute
 PWN:class.n.02	a body of students who are taught together
 PWN:class.n.03	people having the same social, economic, or educational status
 PWN:class.n.06	a body of students who graduate together
+PWN:classical.a.01	of or relating to the most highly developed stage of an earlier civilisation and its culture
 PWN:classification.n.03	the basic cognitive process of arranging into classes or categories
 PWN:classify.v.01	arrange or order by classes or categories
 PWN:clavicle.n.01	Bone linking the scapula and sternum.
@@ -2660,6 +2667,7 @@ PWN:examine.v.02	observe, check out, and look over carefully or inspect
 PWN:example.n.01	an item of information that is typical of a class or group
 PWN:excavate.v.04	remove the inner part or the core of
 PWN:excavation.n.03	a hole in the ground made by excavating
+PWN:excellent.s.01	very good;of the highest quality
 PWN:exception.n.02	an instance that does not conform to a rule or generalization
 PWN:excessively.r.01	to a degree exceeding normal or proper limits
 PWN:exchange.n.03	the act of changing one thing for another thing
@@ -3660,6 +3668,8 @@ PWN:improvement.n.03	a condition superior to an earlier condition
 PWN:improvise.v.01	perform without preparation
 PWN:impute.v.01	attribute or credit to
 PWN:inability.n.01	lack of ability (especially mental ability) to do something
+PWN:inactivate.v.02	make inactive
+PWN:inactive.a.04	not exerting influence or change
 PWN:inactive.s.10	not in physical motion
 PWN:inactivity.n.03	being inactive; being less active
 PWN:inanition.n.01	weakness characterized by a lack of vitality or energy
@@ -6990,7 +7000,9 @@ PWN:tonicity.n.01	the elastic tension of living muscles, arteries, etc. that fac
 PWN:tool.n.01	an implement used in the practice of a vocation
 PWN:tooth.n.01	A hard, calcareous structure present in the mouth of many vertebrate animals (including humans), generally used for eating.
 PWN:tooth.n.03	toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell
+PWN:top.a.01	situated at the top or highest position
 PWN:top.n.01	the upper part of anything
+PWN:top.n.02	the highest or uppermost side of anything
 PWN:top.n.08	a conical child's plaything tapering to a steel point on which it can be made to spin
 PWN:top.n.09	covering for a hole (especially a hole in the top of a container)
 PWN:topic.n.02	some situation or event that is thought about
@@ -7452,6 +7464,7 @@ PWN:work.n.01	Thing that has to be done to accomplish something and that require
 PWN:work.n.02	a product produced or accomplished through the effort or activity or agency of a person or thing
 PWN:work.v.01	To do a specific task by employing physical or mental powers.
 PWN:work.v.02	be employed
+PWN:work.v.03	have an effect or outcome; often the one desired or expected
 PWN:work.v.05	shape, form, or improve a material
 PWN:work_animal.n.01	an animal trained for and used for heavy labor
 PWN:work_force.n.01	the force of workers available
