@@ -407,6 +407,7 @@ PWN:alcohol.n.01	07884567-n	2050			3358
 PWN:alcoholic.n.01	09782167-n	3867			
 PWN:alga.n.01	01397114-n				
 PWN:alignment.n.04	01000068-n				
+PWN:alike.a.01	01410606-a				
 PWN:alive.a.01	00094448-a			lebendig::A	620
 PWN:alkaline.a.01	00025728-a				3802
 PWN:all.a.01	02269286-a	98	13-14	alles::PRN	2641
@@ -706,6 +707,9 @@ PWN:axis.n.06	02764614-n
 PWN:axle.n.01	02764779-n	1769	10-77		
 PWN:baby.n.01	09827683-n	1289	2-28		303
 PWN:baby.n.07	00796767-n				
+PWN:babylon.n.01	08916832-n				
+PWN:babylonia.n.01	08917503-n				
+PWN:bachelor's_degree.n.01	06698252-n				
 PWN:back.n.01	05558717-n	1291	4-19	Rücken::N	503
 PWN:back.n.03	08625846-n				
 PWN:back.r.01	00075161-r	2910	12-99902	zurück::ADV	2921
@@ -715,9 +719,12 @@ PWN:backing.n.01	01213886-n
 PWN:bacon.n.01	07670433-n		5-99905		
 PWN:bad.a.01	01125429-a	1292	16-72	schlecht::A	1906
 PWN:bag.n.01	02773037-n	2468	6-99901	Tasche::N	
+PWN:bahaism.n.01	06244552-n				
 PWN:bait.n.02	02776205-n	2013	20-56		
 PWN:bake.v.02	01663749-v	183	5-24	backen::V	3493
 PWN:baked_goods.n.01	07622061-n				
+PWN:baker.n.01	09833651-n				
+PWN:bakery.n.01	02776631-n				
 PWN:balance.n.01	14002279-n				3842
 PWN:balance.n.04	13897996-n				
 PWN:balance.v.01	02673134-v				
@@ -731,6 +738,8 @@ PWN:ball.n.06	02779435-n
 PWN:ball.n.08	07961016-n				3568
 PWN:ball.n.09	07448885-n				
 PWN:ball.n.10	05576194-n				
+PWN:ballerina.n.01	09834592-n				
+PWN:ballet.n.01	00528667-n				
 PWN:balloon.n.01	02782093-n				1280
 PWN:bamboo.n.01	12147539-n	1927	8-94		1040
 PWN:banana.n.01	12352287-n	1795			
@@ -740,7 +749,10 @@ PWN:band.n.07	02784218-n
 PWN:bandicoot.n.01	01876326-n	3012	3-99907		
 PWN:bang.n.02	07376257-n				
 PWN:bang_up.v.01	01566705-v				
+PWN:bangui.n.01	08718801-n				
+PWN:bank.n.05	13368318-n				
 PWN:bank_account.n.01	13359690-n				
+PWN:banker.n.01	09837824-n				
 PWN:bankruptcy.n.02	14478433-n				
 PWN:bantam.s.01	01392249-s				2805
 PWN:banyan.n.01	12402348-n	346	8-85		
@@ -1415,6 +1427,7 @@ PWN:checkerboard.n.01	03011521-n
 PWN:checkers.n.01	00502952-n				
 PWN:checkmate.n.02	00167764-n				2397
 PWN:cheek.n.01	05602835-n	1730	4-208	Wange::N	512
+PWN:cheer.v.02	00858568-v				
 PWN:cheer.v.03	00859325-v				
 PWN:cheer.v.04	00859153-v				
 PWN:cheese.n.01	07850329-n	1569	5-88		3442
@@ -2542,6 +2555,7 @@ PWN:emit.v.02	02767308-v				3016
 PWN:emotion.n.01	07480068-n				
 PWN:emotional_state.n.01	13985818-n				
 PWN:empathy.n.01	07554856-n				
+PWN:empire.n.02	08052413-n				
 PWN:emplacement.n.01	03284120-n				
 PWN:employee.n.01	10053808-n				
 PWN:employer.n.01	10054657-n				
@@ -3597,6 +3611,7 @@ PWN:hunger.n.01	14039534-n	1864		Hunger::N
 PWN:hunger_strike.n.01	01242962-n				
 PWN:hungry.a.01	01269073-a	1533	5-14	hungrig::A	
 PWN:hunt.v.01	01143838-v	1435	20-61	jagen::V	781
+PWN:hurrah.n.01	06692973-n				
 PWN:hurt.v.02	00064643-v				
 PWN:hurt.v.05	01793177-v				
 PWN:hurt.v.06	02121511-v	1815		schmerzen::V	
@@ -3614,10 +3629,12 @@ PWN:ice_cream.n.01	07614500-n
 PWN:ice_hockey.n.01	00463543-n				
 PWN:idea.n.01	05833840-n	1609	17-19	Gedanke::N	2055
 PWN:ideal.n.01	05923696-n				
+PWN:identical.s.01	02064127-a				
 PWN:identical.s.01	02064127-s	2276	17-99903		
 PWN:identification.n.02	06885083-n				
 PWN:identify.v.01	00618878-v				
 PWN:identify.v.05	00652346-v				
+PWN:identify.v.06	00618451-v				
 PWN:identity.n.01	04618070-n				
 PWN:identity.n.04	04743024-n				
 PWN:idiom.n.04	07154330-n				
@@ -3642,12 +3659,16 @@ PWN:imitate.v.02	02674879-v
 PWN:immaturity.n.01	14425974-n				
 PWN:immediately.r.01	00048739-r	1963	14-19	auf einmal::ADV	
 PWN:immediately.r.01	00048739-r	2916		sofort::ADV	
+PWN:immigrant.n.01	10199489-n				
+PWN:immigrate.v.01	00415967-v				
+PWN:immigrate.v.03	00413432-v				
 PWN:impartiality.n.01	06202686-n				
 PWN:impatient.a.01	01737241-a	3885			
 PWN:impede.v.01	02451370-v	554		behindern::V	
 PWN:impend.v.01	02726884-v				
 PWN:imperfect.a.01	01752167-a				
 PWN:imperfection.n.01	14462666-n				
+PWN:imperialism.n.01	06661396-n				
 PWN:impermanent.a.01	01755627-a				3218
 PWN:impersonate.v.01	01723690-v				
 PWN:impersonation.n.03	00549284-n				
@@ -3828,6 +3849,7 @@ PWN:ironing_board.n.01	03586090-n
 PWN:irregular.a.01	01960656-a				3220
 PWN:irritate.v.02	00063291-v				
 PWN:islam.n.01	08095647-n				1880
+PWN:islamophobia.n.01	06203603-n				
 PWN:island.n.01	09316454-n	622	1-25	Insel::N	1168
 PWN:island.n.02	03587318-n				
 PWN:issue.n.01	05814650-n				
@@ -4467,6 +4489,7 @@ PWN:metallic_element.n.01	14625458-n				3320
 PWN:metamorphosis.n.01	13514880-n				
 PWN:meteoroid.n.01	09353109-n				
 PWN:meter.n.01	13659162-n				2613
+PWN:meter.n.02	03753077-n				
 PWN:methane_series.n.01	14951377-n				
 PWN:method.n.01	05660268-n	3971			3931
 PWN:metric_unit.n.01	13604275-n				
@@ -6244,6 +6267,7 @@ PWN:sign.n.02	06793231-n				2256
 PWN:sign.n.09	06876144-n				
 PWN:sign.v.01	00996485-v				
 PWN:sign.v.06	01498319-v				
+PWN:sign_language.n.01	06875697-n				
 PWN:signal.n.01	06791372-n				
 PWN:signature.n.01	06404582-n				
 PWN:significance.n.01	05169813-n				
