@@ -6,15 +6,25 @@ PLX:1PL.pro		ni
 PLX:1SG POSS.pro		mia
 PLX:1SG.pro		mi
 PLX:2PL POSS.pro		via
-PLX:2PL.pro		vi ĉiu
+PLX:2PL.pro		vi
+PLX:2PL.pro		vi ĉiuj
 PLX:2SG POSS.pro		cia
 PLX:2SG POSS.pro		via
 PLX:2SG.pro		ci
 PLX:2SG.pro		vi
 PLX:3PL POSS.pro		ilia
 PLX:3PL.pro		ili
-PLX:3SG POSS.pro		lia aŭ ŝia aŭ ĝia
-PLX:3SG.pro		li aŭ ŝi aŭ ĝi
+PLX:3SG F POSS.pro		ŝia
+PLX:3SG F.pro		ŝi
+PLX:3SG INAN.pro		ĝi
+PLX:3SG M POSS.pro		lia
+PLX:3SG M.pro		li
+PLX:3SG POSS.pro		lia
+PLX:3SG POSS.pro		ĝia
+PLX:3SG POSS.pro		ŝia
+PLX:3SG.pro		li
+PLX:3SG.pro		ĝi
+PLX:3SG.pro		ŝi
 PLX:about.pp		pri
 PLX:about.pp 		pri
 PLX:above.pp		super
@@ -1213,6 +1223,7 @@ PWN:happen.v.01		okazi
 PWN:happy.a.01		feliĉa
 PWN:hard.a.03		dura
 PWN:hard.a.03		malmola
+PWN:hare.n.01		leporo
 PWN:hark_back.v.01		reiri
 PWN:hark_back.v.01		reveni
 PWN:hark_back.v.01		revenigi
@@ -1416,11 +1427,9 @@ PWN:knife.v.01		piki
 PWN:knob.n.02		tubero
 PWN:knock.v.06		kritiki
 PWN:knot.n.02		nodo
-PWN:know.v.01		koni (be acquainted with)
 PWN:know.v.01		scii
-PWN:know.v.01		scii (be aware of)
-PWN:know.v.01 		scii
 PWN:know.v.02		scii kiel
+PWN:know.v.02		scipovi
 PWN:know.v.04		koni
 PWN:krypton.n.01		kriptono
 PWN:label.n.01		etikedo
@@ -1979,7 +1988,7 @@ PWN:question.n.03 		demando
 PWN:quickly.r.01		rapide
 PWN:quiet.a.02		mallaŭta
 PWN:quote.v.01		citi
-PWN:rabbit.n.01		"kuniklo (hare = ""leporo"")"
+PWN:rabbit.n.01		kuniklo
 PWN:raccoon.n.02		raco
 PWN:race.n.03		lavurso
 PWN:race.n.03		prociono
@@ -2041,7 +2050,7 @@ PWN:remember.v.01		rememori
 PWN:render.v.01		igi
 PWN:repair.v.01		ripari
 PWN:repel.v.01		forpuŝi
-PWN:repel.v.01		repeli (drive back)
+PWN:repel.v.01		repeli
 PWN:repent.v.02		bedaŭri
 PWN:represent.v.01		anstataŭi
 PWN:represent.v.01		reprezenti
