@@ -86,6 +86,7 @@ PLX:checkmate.int
 PLX:child-in-law.n		1060	2-6411		
 PLX:co-father-in-law.n			2-99903		
 PLX:co-mother-in-law.n			2-99904		
+PLX:conlanger.n					
 PLX:daughter-in-law (of man).n		2265	2-64		
 PLX:daughter-in-law (of woman).n		2264	2-641		
 PLX:day after tomorrow.adv		1179	14-481		
@@ -141,6 +142,7 @@ PLX:like.pp					177
 PLX:manioc bread.n		407	5-983		
 PLX:manioc flour.n		324	5-99909		
 PLX:manioc juice.n			5-99913		
+PLX:may.v					
 PLX:men's house.n		408	7-16		
 PLX:mochi.n			5-99914		
 PLX:mother's brother.n		2692	2-511		
@@ -181,6 +183,7 @@ PLX:son-in-law (of woman).n		2266	2-631
 PLX:stab to death.v		3189	9-223		
 PLX:step-.a			2-99902		
 PLX:swollen.a			4-99902		
+PLX:tectonic plate.n					
 PLX:tennessine.n					
 PLX:than.pp					180
 PLX:thanks.int			16-99903		
@@ -1850,6 +1853,7 @@ PWN:cosmetic.n.01	03113152-n
 PWN:cosmic_time.n.01	15116724-n				
 PWN:cosmology.n.01	06163223-n				
 PWN:cosmology.n.02	06098195-n				
+PWN:cosmopolitan.s.03	00527188-a				
 PWN:cost.n.01	13275847-n				
 PWN:cost.v.01	02702508-v				
 PWN:cost.v.02	02628961-v				
@@ -2346,6 +2350,7 @@ PWN:do.v.03	02561995-v
 PWN:do.v.11	02523221-v				
 PWN:doctor.n.01	10020890-n	597	4-87	Arzt::N	380
 PWN:doctrine.n.01	05943300-n				
+PWN:document.n.01	06470073-n				
 PWN:document.n.01	06470073-n				2254
 PWN:document.n.02	03217458-n				
 PWN:document.n.03	13403331-n				
@@ -2678,6 +2683,7 @@ PWN:exact.a.01	00914421-a
 PWN:examination.n.01	00635850-n				
 PWN:examination.n.02	07197021-n				
 PWN:examine.v.02	02131279-v				
+PWN:example.n.01	05820620-n				
 PWN:example.n.01	05820620-n				1972
 PWN:excavate.v.04	01310660-v				
 PWN:excavation.n.03	03302121-n				
@@ -2812,6 +2818,7 @@ PWN:fan.v.03	01885580-v	360	9-791
 PWN:fanaticism.n.01	06206334-n				
 PWN:fanciful.s.02	01936528-a				1953
 PWN:fancify.v.01	00293141-v				
+PWN:fantasy.n.02	06368425-n				
 PWN:far.a.01	00442361-a				
 PWN:far.r.02	00101051-r		12-44		2811
 PWN:faraway.s.01	00443274-a	1406		fern::A	
@@ -3764,6 +3771,7 @@ PWN:inner.s.01	00951831-s				2867
 PWN:inning.n.01	15255804-n				
 PWN:innocent.a.01	01319874-a				2110
 PWN:innocent.a.01	01319874-a	90	21-36		
+PWN:input.n.04	03573154-n				
 PWN:inscription.n.01	06405699-n				
 PWN:insect.n.01	02159955-n	620	3-81		905
 PWN:inseminate.v.02	00052548-v				
@@ -3796,6 +3804,7 @@ PWN:intention.n.03	00163233-n	1162	17-41
 PWN:intentionally.r.01	00062330-r	1031	17-99901		
 PWN:interact.v.01	02376958-v				
 PWN:interaction.n.01	00039021-n				
+PWN:interactional.s.01	01946439-a				
 PWN:interest.n.01	05682950-n				2022
 PWN:interest.n.03	05192451-n				
 PWN:interest.n.06	07968702-n				
@@ -4163,6 +4172,7 @@ PWN:lineage.n.01	08101937-n
 PWN:linear_unit.n.01	13603305-n				
 PWN:linen.n.01	03672521-n	916	6-23		
 PWN:linguist.n.02	10264219-n				
+PWN:linguistic.a.01	02842445-a				
 PWN:linguistic_relation.n.01	13797142-n				
 PWN:linguistics.n.01	06172789-n				
 PWN:link.n.02	03673971-n				
@@ -4365,6 +4375,7 @@ PWN:mare.n.01	02377480-n	938	3-44
 PWN:marijuana.n.01	12397210-n				1071
 PWN:marital_status.n.01	13963757-n				
 PWN:mark.n.01	05737153-n				
+PWN:mark.n.04	06798750-n				
 PWN:mark.n.06	06794666-n				
 PWN:mark.n.10	06817782-n				
 PWN:mark.v.05	00508032-v				
@@ -4531,6 +4542,8 @@ PWN:mind.n.07	05618849-n
 PWN:mind.v.06	00609506-v				
 PWN:mine.n.01	03768346-n				
 PWN:mine.v.01	01163620-v				
+PWN:miner.n.01	10319796-n				
+PWN:mineral.n.01	14662574-n				
 PWN:mineral.n.01	14662574-n				3335
 PWN:minibike.n.01	03769722-n				
 PWN:minimize.v.01	00427802-v				
@@ -4654,6 +4667,7 @@ PWN:multilingual.a.01	01545571-a
 PWN:multiply.v.01	00641672-v				2624
 PWN:multitude.n.03	08180190-n				
 PWN:mumble.v.01	01044533-v	128	18-16		
+PWN:mundane.s.02	02578035-a				
 PWN:municipality.n.01	08626283-n				
 PWN:municipality.n.02	08225581-n				
 PWN:muntjac.n.01	02434954-n	3152			
@@ -5035,6 +5049,7 @@ PWN:parabola.n.01	13886371-n
 PWN:parade.n.01	08428485-n				
 PWN:paradiddle.n.01	07388816-n				
 PWN:parallel.a.01	01718158-a				2960
+PWN:parameter.n.01	05859071-n				
 PWN:parasite.n.01	01384687-n				
 PWN:parcel.n.02	01085098-n				
 PWN:parch.v.01	00218330-v				
@@ -5147,6 +5162,7 @@ PWN:periodical.n.01	06593296-n
 PWN:periphery.n.01	13903576-n	2989		Rand::N	
 PWN:perjury.n.01	00772381-n	1792	21-47		
 PWN:permanent.a.01	01754421-a				3216
+PWN:permission.n.01	06689297-n				
 PWN:permit.v.01	00802318-v	1003	19-47		1671
 PWN:perpetrate.v.01	02582615-v				
 PWN:persecution.n.01	00420477-n				
@@ -6862,6 +6878,7 @@ PWN:tear.v.01	01573515-v	1735	9-28	zerreißen::V	3791
 PWN:tear.v.05	00066977-v				
 PWN:technetium.n.01	14657047-n				
 PWN:technology.n.01	00949619-n				3983
+PWN:tectonics.n.02	06118370-n				
 PWN:teddy.n.01	04399382-n				
 PWN:teem.v.01	02714974-v				
 PWN:telecommunicate.v.01	00790703-v				
