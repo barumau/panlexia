@@ -58,6 +58,7 @@ PLX:can.v		can
 PLX:can.v		know how		
 PLX:conlang.n.01		conlang		
 PLX:conlang.n.01		constructed language		
+PLX:conlanger.n		conlanger		
 PLX:daughter-in-law (of man).n		daughter-in-law		
 PLX:during.pp		during		
 PLX:during.pp		for the duration of		
@@ -98,6 +99,8 @@ PLX:instead of.pp		instead of
 PLX:kendo.n		kendo		
 PLX:kyudo.n		Oriental form of archery		
 PLX:kyudo.n		kyudo		
+PLX:may.v		be allowed to		
+PLX:may.v		may		
 PLX:mother-in-law (of man).n		mother-in-law		
 PLX:netbag.n		netbag		nhu:baggi
 PLX:nothing.pro		nothing		
@@ -124,8 +127,11 @@ PLX:someone.pro		somebody
 PLX:someone.pro		someone		
 PLX:son-in-law (of man).n		son-in-law		
 PLX:stab to death.v		stab		
+PLX:tectonic plate.n		tectonic plate		
 PLX:tennessine.n		tennessine		
+PLX:than.pp		as		
 PLX:than.pp		compared to		
+PLX:than.pp		like		
 PLX:than.pp		relative to		
 PLX:than.pp		than		
 PLX:thanks.int		thanks		
@@ -4335,8 +4341,6 @@ PWN:contend.v.06		war
 PWN:content.n.05		cognitive content		
 PWN:content.n.05		content		
 PWN:content.n.05		mental object		
-PWN:contest.n.01		competition		
-PWN:contest.n.01		contest		
 PWN:contestant.n.01		contestant		
 PWN:context.n.02		circumstance		
 PWN:context.n.02		context		
@@ -4504,6 +4508,10 @@ PWN:cosmology.n.01		cosmology
 PWN:cosmology.n.02		cosmogeny	
 PWN:cosmology.n.02		cosmogony	
 PWN:cosmology.n.02		cosmology	
+PWN:cosmopolitan.s.03		general		
+PWN:cosmopolitan.s.03		global		
+PWN:cosmopolitan.s.03		universal		
+PWN:cosmopolitan.s.03		worldwide		
 PWN:cost.n.01		cost		
 PWN:cost.v.01		be		
 PWN:cost.v.01		cost		
@@ -6952,6 +6960,8 @@ PWN:fancify.v.01		beautify
 PWN:fancify.v.01		embellish		
 PWN:fancify.v.01		fancify		
 PWN:fancify.v.01		prettify		
+PWN:fantasy.n.02		fantastical fiction		
+PWN:fantasy.n.02		fantasy		
 PWN:far.a.01		far		
 PWN:far.r.02		far		
 PWN:faraway.s.01		far-off		
@@ -8372,6 +8382,7 @@ PWN:happening.n.01		occurrent
 PWN:happiness.n.01		felicity		
 PWN:happiness.n.01		happiness		
 PWN:happiness.n.02		happiness		
+PWN:happiness.n.02		joy		
 PWN:happy.a.01		delighted		
 PWN:happy.a.01		glad		
 PWN:happy.a.01		happy		nhu:happ
@@ -9203,6 +9214,7 @@ PWN:inning.n.01		inning
 PWN:innocent.a.01		clean-handed		
 PWN:innocent.a.01		guiltless		
 PWN:innocent.a.01		innocent		:innocen-s, -tem
+PWN:input.n.04		input		
 PWN:inscription.n.01		inscription		
 PWN:inscription.n.01		lettering		
 PWN:insect.n.01		insect		:insectum
@@ -9274,6 +9286,7 @@ PWN:intentionally.r.01		on purpose
 PWN:intentionally.r.01		purposely		
 PWN:interact.v.01		interact		
 PWN:interaction.n.01		interaction		
+PWN:interactional.s.01		interactive		
 PWN:interest.n.01		interest		
 PWN:interest.n.01		involvement		
 PWN:interest.n.03		interest		
@@ -10080,6 +10093,7 @@ PWN:linear_unit.n.01		linear unit
 PWN:linen.n.01		linen		
 PWN:linguist.n.02		linguist		
 PWN:linguist.n.02		polyglot		
+PWN:linguistic.a.01		linguistic		
 PWN:linguistic_relation.n.01		linguistic relation		
 PWN:linguistics.n.01		linguistics		
 PWN:link.n.02		association		
@@ -10186,6 +10200,9 @@ PWN:load.v.02		load
 PWN:loan.n.01		loan		
 PWN:lobster.n.02		lobster		
 PWN:location.n.01		location		
+PWN:location.n.01		place		
+PWN:location.n.01		position		
+PWN:location.n.01		site		
 PWN:lock.n.01		lock		
 PWN:lock.n.04		lock		
 PWN:lock.n.04		lock chamber		
@@ -10543,6 +10560,7 @@ PWN:marital_status.n.01		marital status
 PWN:mark.n.01		grade		
 PWN:mark.n.01		mark		
 PWN:mark.n.01		score		
+PWN:mark.n.04		mark		
 PWN:mark.n.06		brand		
 PWN:mark.n.06		mark		
 PWN:mark.n.06		stain		
@@ -10622,6 +10640,7 @@ PWN:mat.n.01		mat		:maţţa
 PWN:match.n.01		friction match		
 PWN:match.n.01		lucifer		
 PWN:match.n.01		match		fra:mèche
+PWN:match.n.02		competition		
 PWN:match.n.02		contest		
 PWN:match.n.02		match		
 PWN:match.n.09		match		
@@ -10930,6 +10949,7 @@ PWN:mind.v.06		bear in mind
 PWN:mind.v.06		mind		
 PWN:mine.n.01		mine		
 PWN:mine.v.01		mine		
+PWN:miner.n.01		miner		
 PWN:mineral.n.01		mineral		
 PWN:minibike.n.01		minibike		
 PWN:minibike.n.01		motorbike		
@@ -11206,6 +11226,8 @@ PWN:mumble.v.01		maunder
 PWN:mumble.v.01		mumble		
 PWN:mumble.v.01		mussitate		
 PWN:mumble.v.01		mutter		
+PWN:mundane.s.02		mundane		
+PWN:mundane.s.02		worldly		
 PWN:municipality.n.01		municipality		
 PWN:municipality.n.02		municipality		
 PWN:muntjac.n.01		barking deer		
@@ -12041,6 +12063,7 @@ PWN:paradiddle.n.01		drum roll
 PWN:paradiddle.n.01		paradiddle		
 PWN:paradiddle.n.01		roll		
 PWN:parallel.a.01		parallel		
+PWN:parameter.n.01		parameter		
 PWN:parasite.n.01		parasite		
 PWN:parcel.n.02		parcel		
 PWN:parcel.n.02		portion		
@@ -12288,6 +12311,9 @@ PWN:perjury.n.01		lying under oath
 PWN:perjury.n.01		perjury		:periūrium
 PWN:permanent.a.01		lasting		
 PWN:permanent.a.01		permanent		
+PWN:permission.n.01		licence		
+PWN:permission.n.01		license		
+PWN:permission.n.01		permission		
 PWN:permit.v.01		allow		:alouer
 PWN:permit.v.01		countenance		
 PWN:permit.v.01		let		
@@ -16350,6 +16376,7 @@ PWN:technetium.n.01		technology
 PWN:technology.n.01		engineering		
 PWN:technology.n.01		technetium		
 PWN:technology.n.01		technology		
+PWN:tectonics.n.02		plate tectonics		
 PWN:teddy.n.01		teddy		
 PWN:teddy.n.01		teddy bear		
 PWN:teem.v.01		pullulate		
