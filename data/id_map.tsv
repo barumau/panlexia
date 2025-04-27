@@ -181,6 +181,7 @@ PLX:short dry season.n			1-99909
 PLX:should.v					209
 PLX:sibling's child.n		173	2-541		
 PLX:sibling-in-law.n		1832	2-6412		
+PLX:some.a					
 PLX:someone.pro		2422	24-9991		
 PLX:son-in-law (of man).n		2267	2-63		
 PLX:son-in-law (of woman).n		2266	2-631		
@@ -199,6 +200,7 @@ PLX:to.pp					102
 PLX:too little.adv					2733
 PLX:tumpline.n		294	9-92		
 PLX:under.pp		1485	12-07	unter::PRP	121
+PLX:via.pp					
 PLX:welcome.int 					
 PLX:what.pro		1236	17-64	was::FPRN	224
 PLX:when.pro		1238	17-65		261
@@ -211,6 +213,7 @@ PLX:why.pro		1270	17-69	warum::FADV	262
 PLX:with.pp		1340	24-04		150
 PLX:without.pp		1478	24-03		151
 PLX:woman’s rattle.n			22-99914		
+PLX:worldbuilding.n					
 PLX:yes.ptcl		1268	17-55		
 PLX:younger sibling.n		427	2-4562		
 PWN:a_bit.r.01	00033663-r				
@@ -1802,6 +1805,7 @@ PWN:control.n.05	00803617-n
 PWN:control.v.01	02441022-v				1670
 PWN:control.v.02	02510337-v				
 PWN:conventicle.n.02	03099622-n	335	7-18		
+PWN:conventionalized.s.01	01572604-a				
 PWN:convergence.n.01	07414740-n				
 PWN:conversation.n.01	07133701-n	2933		Gespräch::N	
 PWN:converse.v.01	00964694-v	2903	18-99908	sich unterhalten::V	
@@ -4734,6 +4738,7 @@ PWN:natural_process.n.01	13518963-n
 PWN:natural_science.n.01	06000400-n				
 PWN:natural_shape.n.01	13862282-n				
 PWN:naturalism.n.02	08469457-n				
+PWN:naturalistic.s.01	01979985-a				
 PWN:nature.n.01	04726724-n				
 PWN:nature.n.03	09366762-n	3897			1102
 PWN:nature.n.04	04623113-n				
@@ -5704,6 +5709,7 @@ PWN:reading.n.03	05816790-n
 PWN:ready.a.01	01930512-a	790	14-29		3935
 PWN:real.a.01	01932973-a				1951
 PWN:real_property.n.01	13246475-n				
+PWN:reality.n.03	13956097-n				
 PWN:realization.n.02	00931847-n				
 PWN:realize.v.03	01644746-v				
 PWN:reap.v.01	01320009-v				1012
@@ -6475,6 +6481,7 @@ PWN:sour.a.02	02368787-a	1906	15-38	sauer::A
 PWN:sour.s.01	01054922-s				873
 PWN:sour.v.01	00458471-v				
 PWN:source.n.04	04263614-n				
+PWN:source_code.n.01	06358513-n				
 PWN:source_of_illumination.n.01	04263760-n				
 PWN:souse.v.03	01190277-v	3980			
 PWN:south.n.03	13833375-n	1595	12-48	Süden::N	2912
@@ -6710,6 +6717,7 @@ PWN:stupefaction.n.01	07510495-n
 PWN:stupid.a.01	00439588-a	1518	17-22	dumm::A	2006
 PWN:sty.n.02	04346428-n	3369			
 PWN:style.n.03	05844105-n				
+PWN:stylish.a.01	00975171-a 				
 PWN:stylus.n.01	04346679-n				
 PWN:stylus.n.02	04346511-n				2267
 PWN:styrofoam.n.01	14595933-n				
@@ -6949,6 +6957,7 @@ PWN:theoretical.a.02	00862327-a
 PWN:theory.n.01	05989479-n	2433			2050
 PWN:there.r.01	00109151-r	1937	24-1	dort::ADV	251
 PWN:there.r.03	00109328-r	2923		dorthin::ADV	
+PWN:therefore.r.01	00043003-r				
 PWN:thermometer.n.01	04421872-n	3104			
 PWN:thesis.n.01	06755454-n				
 PWN:thick.a.01	02410393-a	1244	12-63	dick[Gegenstand]::A	2831
@@ -7033,6 +7042,7 @@ PWN:time_off.n.01	15118453-n
 PWN:time_period.n.01	15113229-n	508	14-99905		3240
 PWN:time_slot.n.01	15270245-n				
 PWN:time_unit.n.01	15154774-n				
+PWN:timeline.n.01	06504965-n				
 PWN:timely.s.01	01900771-s				3251
 PWN:timepiece.n.01	04437953-n				
 PWN:tin.n.01	14658855-n	893			3328

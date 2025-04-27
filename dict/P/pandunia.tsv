@@ -66,6 +66,7 @@ PLX:prepend.v		prepozi	pre.pozi
 PLX:pseudorandom.a		falsozarik	fals·o·zar·ik	
 PLX:ramen.n		supa men	supa men	
 PLX:should.v		shud	shud	eng:should
+PLX:some.a		som	som	eng:some
 PLX:someone.pro		som von	som von	
 PLX:tectonic plate.n		geo plate	geo plat'e	
 PLX:tennessine.n		tenesium	tenes·ium	eng:fra:por:may:tennessine, spa:teneso, rus:теннессин, jpn:テネシン, kor:우눈셉튬
@@ -74,6 +75,7 @@ PLX:thanks.int		danke	dank'e
 PLX:this.pro		da hir	da hir	
 PLX:through.pp		tra	tra	
 PLX:to.pp		do	do	
+PLX:via.pp		via	via	eng:fra:por:deu:via, spa:vía
 PLX:welcome.int		vel kom	vel kom	
 PLX:what.pro		vat	vat	eng:what, deu:was, ned:wat, sve:vad
 PLX:what.pro		vat ting	vat ting	
@@ -81,6 +83,8 @@ PLX:when.pro		vat tem	vat tem
 PLX:where.pro		vat plas	vat plas	
 PLX:who.pro		hu	hu	
 PLX:with.pp		kon	kon	eng:con-; common, fra:con-; commun, spa:con-; común, por:con-; comum, rus:кон- (kon-) + zho:共 (gòng), yue:共 (gung), kor:공 (gong), vie:cộng
+PLX:without.pp		no kon	no kon	
+PLX:worldbuilding.n		duniabination	dun·ia·bina·tion	
 PLX:yes.ptcl		ye	ye	eng:yes; yeah, deu:ja, kor:예 (ye), may:ya
 PLX:yes.ptcl		yes	yes	
 PLX:younger sibling.n		jun sib	jun sib	
@@ -459,6 +463,7 @@ PWN:construction.n.01 		bina	bina
 PWN:container.n.01		kontener	kon.ten·er	
 PWN:contend.v.06		jang	jang	fas: جنگ (jang), hin:जंग (jang), ben:জঙ্গ (jôṅg), tur:cenk + zho:仗 (zhàng); 爭 (zhēng), yue:争 (zang1), kor:전쟁 (jeonjaeng), vie:(chiến) tranh + may:juang
 PWN:continue.v.01		redura	re.dura	
+PWN:conventionalized.s.01		stilizat	stil·iza·t	
 PWN:copper.n.01		kupre	kupr'e	eng:copper, fra:cuivre, spa:cobre, por:cobre, swa:kupri
 PWN:copy.n.02		kopi	kopi	eng:copy, fra:copie, spa:por:copia, rus:копия (kopiya), hin:कापी (kāpī), tur:kopya, may:kopi, zho:拷貝 (kǎobèi), jpn:コピー (kopī)
 PWN:copyright.n.01		kopihak	kopi·hak	
@@ -667,6 +672,7 @@ PWN:explicit.a.01		explik	ex.pl·ik
 PWN:explosion.n.01		bum	bum	eng:boom, deu:Bumm, fra:boum, spa:por:bum, hin:बूम (būm), zho:砰 (pēng), kor:펑 (peong), vie:bùm
 PWN:expose.v.01		expozi	ex.pozi	
 PWN:expose.v.03		expozi	ex.pozi	
+PWN:expressive_style.n.01		stil	stil	eng:style, por:style, spa:estilo, rus:сти́ле, tur:stil, may:stail, jpn:スタイル
 PWN:extent.n.01		extendia	ex.tend·ia	
 PWN:extreme.s.01		tai	tai	zho:太 (tài), yue:太 (taai3), vie:thái, jpn:太 (tai), kor:태 (tae)
 PWN:eye.n.01		ain	ain	eng:eye + ara: عين (ʕayn), may:ain + zho:眼 (yǎn)
@@ -988,6 +994,7 @@ PWN:life.n.11		bio	bio	eng:deu:fra:spa:por:pol:may:swa:tur:bio-, rus:био- (bi
 PWN:light.n.01		fot	fot	ell:φωτο- (foto-), eng:fra:deu:photo-, spa:por:foto-, rus:фото- + hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf, hau:hoto
 PWN:like.v.02		hao	hao	zho:好 (hǎo), yue:好 (hou2), vie:hảo; hiếu, jpn:好 (kō), kor:호 (ho)
 PWN:limit.n.01		had	had	ara: حَدّ‎ (ḥadd), fas: حد‎ (hadd), hin:हद (had), ben:হদ্দ (hôddô), tel:హద్దు (haddu), swa:hadi, hau:haddi, tur:hat
+PWN:line.n.04		line	lin'e	eng:line, fra:ligne, port:linha, spa:línea, deu:Linie, rus:ли́ния (línija)
 PWN:linguist.n.02		polibashiste	poli·bash·ist’e	
 PWN:linguistic.a.01		bashik	bash·ik	
 PWN:linguistics.n.01		basholojia	bash·o·loj·ia	
@@ -1133,6 +1140,7 @@ PWN:narrative.n.01		log	log
 PWN:nation.n.02		nasia	nas·ia	
 PWN:native.a.02 		natal	nat·al	
 PWN:natural.s.04		tabik	tab.ik	
+PWN:naturalistic.s.01		hakikik	hak·ik·ik	
 PWN:nature.n.01		natur	nat·ur	
 PWN:nature.n.01 		tabia	tab.ia	
 PWN:nautical.a.01		nautik	nau·tik	
@@ -1352,6 +1360,7 @@ PWN:rare.s.04		nadir	nadir	ara: نَادِر‎ (nādir), fas: نادر (nâder)
 PWN:ravioli.n.01		giau	giau	zho:饺 (jiǎo), yue:餃 (gaau2), jpn:餃子 (gyōza), tha:เกี๊ยว (gíao)
 PWN:razor.n.01		razer	raz·er	
 PWN:real.a.01		hakik	hak·ik	
+PWN:reality.n.03		hakikia	hak·ik·ia	
 PWN:reasoning.n.01		ration	rat·ion	
 PWN:red.s.01		rod	rod	eng:red, deu:rot, fra:rouge, spa:rojo, ita:rosso
 PWN:reflector.n.01		reflexer	re.flex·er	
@@ -1441,6 +1450,7 @@ PWN:sexual_activity.n.01		sexe	sex'e	eng:sex, fra:sexe, spa:por:sexo, rus:сек
 PWN:shadow.n.01		saya	saya	fas: سایه‎ (sāye), hin:साया (sāyā); छाया (chāyā), ben:ছায়া (chaya), tur:saye, tha:ฉายา (chāyā), mya:ဆာယာ (sʰaya)
 PWN:shaman.n.01		shaman	shaman	eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)
 PWN:shard.n.01		fragmen	frag·men	
+PWN:share.v.02		konhave	kon.hav'e	
 PWN:sharp.a.09		kativ	kat·iv	
 PWN:sharp.s.12		tez	tez	fas: تیز (tiz), hin:तेज़ (tez), urd:(tez), tur:tez
 PWN:shave.v.01		raze	raz'e	eng:raze, fra:raser, deu:rasieren + hau:reza, jpn:レザー (rezā)
@@ -1492,10 +1502,12 @@ PWN:sofa.n.01		sofa	sofa	eng:deu:fra:sofa, spa:por:sofá, rus:софа (sofa), z
 PWN:soil.n.02		darte	dart'e	eng:dirt, hin:धरती (dhartī), urd: دھرتی‎ (dhartī), may:darat, vie:đất
 PWN:solar_energy.n.01		sor energia	sor energ·ia	
 PWN:solar_system.n.01		sor sistem	sor sistem	
+PWN:some.a.01		som monta	som monta	
 PWN:song.n.01		gante	gant'e	
 PWN:sonic.s.02		sonik	son·ik	
 PWN:sound.n.01		son	son	zho:声 (shēng), yue:聲 (seng1), wuu:声 (sən), jpn:声 (sei), kor:성 (seong) + fra:son, spa:son; sonido, por:som
 PWN:soup.n.01		supa	supa	eng:soup, fra: soupe, spa:por:sopa, deu: Suppe, rus:суп (sup), jpn:スープ (sūpu), kor:수프 (supeu), hin:सूप (sūp), may:sup, swa:supu
+PWN:source_code.n.01		asle kod	asl'e kod	
 PWN:south.n.03		sud	sud	deu:Süden, fra:sud, spa:sur, por:sul, eng:south, rus:зюйд (zyuyd)
 PWN:space.n.01		kosme	kosm'e	eng:fra:spa:cosmos, deu:Kosmos, por:cosmo, rus:космос (kosmos), tur:kozmo-
 PWN:spain.n.01		Espania	Espan·ia	
@@ -1538,6 +1550,7 @@ PWN:study.n.02		stude	stud'e
 PWN:study.v.05		loje	loj'e	eng:-logy, fra:deu:-ologie, spa:-ología, por:-logia, rus:ология (-ologiya), fas: ـلوژی‎ (-loži), ara: ـلُوجِيَا‎ (-lūjiyā), tur:-loji, may:-logi, jpn:-ロジー (-rojī), zho:逻辑 (luóji)
 PWN:study.v.05		stude	stud'e	eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)
 PWN:stupid.a.01		idiotik	idiot·ik	
+PWN:stylish.a.01		stilik	stil·ik	
 PWN:styrofoam.n.01		polistiren pena	poli·stir·en pena	
 PWN:subject.n.01		tema	tema	fra: thème, spa: tema, rus: тема (tema), deu:Thema + zho:题目 (tímù)
 PWN:submit.v.02		propozi	pro.pozi	
@@ -1607,6 +1620,7 @@ PWN:theoretical.a.02		teorik	teor·ik
 PWN:theory.n.01		teoria	teor·ia	eng:theory, deu:Theorie, fra:théorie, spa:teoría, por:teoria, rus:теория (teoriya), fas:تئوری‎ (teori), tur:may:teori
 PWN:theosophy.n.01		deosofia	de·o·sof·ia	
 PWN:there.r.01		der	der	
+PWN:therefore.r.01		a sabab da	a sabab da	
 PWN:thermometer.n.01		termometrer	term·o·metr·er	
 PWN:thesis.n.01		tes	tes	eng:thesis, deu:These, fra:thèse, spa:tesis, por:tese, rus:тезис (tezis), fas: تز‎ (tez), tur:tez, jpn:テーゼ (tēze), kor:테제 (teje)
 PWN:thing.n.09		ting	ting	eng:thing, deu:Ding
@@ -1622,6 +1636,7 @@ PWN:tiger.n.02		bagre	bagr'e	hin:बाघ (bāgh), ben:বাঘ (bagh); ব্
 PWN:tile.n.01		tegul	teg·ul	
 PWN:time.n.01		tem	tem	
 PWN:time.n.01		tempo	temp’o	eng:time, fra:temps, spa:tiempo, por:tempo
+PWN:timeline.n.01		temline	tem·lin'e	
 PWN:tin.n.01		stanium	stan·ium	spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin, swa:stani
 PWN:titanium.n.01		titanium	titan·ium	eng:titanium, fra:titane, spa:titanio, por:titânio, rus:титан, zho:钛 (tài), jpn:チタン, kor:타이타늄, vie:titan, hin:टाइटानियम, ben:টাইটেনিয়াম, may:titanium, swa:titani, ara: تيتانيوم
 PWN:tobacco.n.01		tabak	tabak	deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, ara:تَبْغ‎ (tabḡ), fas:تنباکو‎ (tanbâku), tur:tömbeki, hin:तंबाकू (tambākū), ben:তামাকু (tāmāku), may:tembakau, swa:mtubaku, hau:taba
