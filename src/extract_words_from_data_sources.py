@@ -50,10 +50,10 @@ def sort_and_write_to_dictionary_file(lang_name, data):
     for row in sorted_map:
         if len(row) == 2:
             # Write id, style (blank) and word.
-            outfile.dict.writerow([row[0], "", row[1], ""])
+            outfile.dict.writerow([row[0], "", row[1]])
         if len(row) == 3:
             # Write id, style and word.
-            outfile.dict.writerow([row[0], row[1], row[2], ""])
+            outfile.dict.writerow([row[0], row[1], row[2]])
         elif len(row) == 4:
             # Write id, style, word, transcription and etymology.
             outfile.dict.writerow([row[0], row[1], row[2], row[3]])
@@ -339,7 +339,7 @@ def write_dictionary_for_one_language_in_Wordnet(lang_code):
             for lemma in synset.lemma_names(lang_code):
                 word = get_valid_entry(lemma)
                 if word is not None:
-                    if is_word_entry_new(dictionary, id, word):
+                    if not does_concept_exist_already(dictionary, id):
                         new_entries.append([id, "", word])
                         print(id, word)
 
