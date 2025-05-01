@@ -7,21 +7,22 @@ PLX:1SG.pro		я
 PLX:2PL POSS.pro		ваш
 PLX:2PL.pro		вы
 PLX:2SG.pro		ты
-PLX:2SG.pro		ты, вы
 PLX:3PL POSS.pro		их
 PLX:3PL.pro		они
 PLX:3SG.pro		он или она
 PLX:3SG.pro		он/она/оно
 PLX:Asian dragon.n		змей
 PLX:above.pp		над
-PLX:and.cnj		и, а
+PLX:and.cnj		а
+PLX:and.cnj		и
 PLX:antifascism.n		антифашизм
 PLX:at.pp		в
 PLX:at.pp		на
-PLX:be late.v		замедлять, задерживать
+PLX:be late.v		задерживать
+PLX:be late.v		замедлять
 PLX:because.cnj		потому что
 PLX:before.pp		раньше
-PLX:beside.pp		рядом, у
+PLX:beside.pp		рядом
 PLX:carry in hand.v		нести на руках
 PLX:carry on head.v		нести на голове
 PLX:carry on shoulder.v		нести на плечах
@@ -32,7 +33,8 @@ PLX:day after tomorrow.adv		послезавтра
 PLX:day before yesterday.adv		позавчера
 PLX:fall silent.v		молчать
 PLX:father's brother.n		брат отца
-PLX:father's sister.n		тетя, сестра отца
+PLX:father's sister.n		сестра отца
+PLX:father's sister.n		тетя
 PLX:father-in-law (of man).n		свекор
 PLX:father-in-law (of woman).n		тесть
 PLX:fermented alcohol.n		брага
@@ -53,11 +55,14 @@ PLX:how much.pro		сколько?
 PLX:how.pro		как
 PLX:how.pro		как?
 PLX:if.cnj		если
-PLX:inside.pp		в, внутри
+PLX:inside.pp		в
+PLX:inside.pp		внутри
 PLX:kendo.n		кэндо
 PLX:men's house.n		дом для мужчин
-PLX:mother's brother.n		дядя, брат матери
-PLX:mother's sister.n		тетя, сестра матери
+PLX:mother's brother.n		брат матери
+PLX:mother's brother.n		дядя
+PLX:mother's sister.n		сестра матери
+PLX:mother's sister.n		тетя
 PLX:mother-in-law (of man).n		свекровь
 PLX:mother-in-law (of woman).n		теща
 PLX:netbag.n		сетчатая сумка
@@ -97,14 +102,16 @@ PWN:address.n.03		адрес
 PWN:address.n.03		произносить речь
 PWN:admit.v.01		признавать(ся)
 PWN:adobe.n.02		глинобитная постройка
-PWN:adornment.n.01		орнамент, украшение
+PWN:adornment.n.01		орнамент
+PWN:adornment.n.01		украшение
 PWN:adultery.n.01		прелюбодеяние
 PWN:adz.n.01		тесло
 PWN:aerobic.a.01		аэробный
 PWN:afternoon.n.01		после полудня
-PWN:again.r.01		опять, снова
+PWN:again.r.01		опять
+PWN:again.r.01		снова
+PWN:age.n.01		век
 PWN:age.n.01		возраст
-PWN:age.n.01		возраст, век, эпоха
 PWN:agrobiology.n.01		агробиология
 PWN:agronomist.n.01		агроном
 PWN:agronomy.n.01		агрономия
@@ -117,7 +124,7 @@ PWN:alcohol.n.01		алкоголь
 PWN:alga.n.01		водоросли
 PWN:alkene.n.01		алкен
 PWN:alkyl.n.01		алкил
-PWN:all.a.01		все, каждый
+PWN:all.a.01		все
 PWN:allege.v.01		сказать
 PWN:allergy.n.01		аллергия
 PWN:alligator.n.02		крокодил
@@ -134,7 +141,8 @@ PWN:amusing.s.02		комический
 PWN:amusing.s.02		смешной
 PWN:ancestor.n.01		предки
 PWN:anchor.n.01		якорь
-PWN:anger.n.02		гнев, злость
+PWN:anger.n.02		гнев
+PWN:anger.n.02		злость
 PWN:animal.n.01		животное
 PWN:animation.n.01		жизнь
 PWN:anion.n.01 		анион
@@ -355,6 +363,8 @@ PWN:broom.n.01		метла, веник
 PWN:brother.n.01		брат
 PWN:brow.n.01		лоб
 PWN:brown.s.01		коричневый
+PWN:browse.v.03		исследовать
+PWN:browser.n.01		браузер
 PWN:bruise.n.01		ушиб
 PWN:brush.n.02		щетка
 PWN:brush.n.02		щётка
@@ -381,6 +391,8 @@ PWN:cabbage.n.01		капуста
 PWN:cadaver.n.01		мёртвое тело
 PWN:cadaver.n.01		труп
 PWN:cadmium.n.01		кадмий
+PWN:cafe.n.01		кафе
+PWN:cafe.n.01		кофейня
 PWN:caftan.n.02		жупан
 PWN:caftan.n.02		халат
 PWN:calcium.n.01		кальций
@@ -647,6 +659,7 @@ PWN:dough.n.01		тесто
 PWN:dove.n.01		голубь, голубка
 PWN:down.r.01		вниз/внизу
 PWN:drag.v.01		волочить
+PWN:draw.n.04		жребий
 PWN:dream.v.02		видеть сон, мечтать
 PWN:dress.n.01		женское платье
 PWN:drink.v.01		пить
@@ -716,6 +729,7 @@ PWN:estimate.v.01		догадываться
 PWN:ethane.n.01		этан
 PWN:ethyl.n.01		этил
 PWN:ethyl_alcohol.n.01		этанол
+PWN:etymology.n.02		этимология
 PWN:euphoria.n.01		эйфория
 PWN:europium.n.01		европий
 PWN:evening.n.01		вечер
@@ -1038,6 +1052,7 @@ PWN:imaging.n.02		томография
 PWN:imitate.v.01		имитировать, подражать
 PWN:immediately.r.01		немедленно
 PWN:important.a.01		важный (значимый
+PWN:incitement.n.03		провокация
 PWN:incrimination.n.01		порицание, осуждение, вина
 PWN:indicate.v.02		показывать
 PWN:indium.n.01		индий
@@ -1097,6 +1112,7 @@ PWN:know.v.01 		ведать
 PWN:know.v.01 		знать
 PWN:know.v.04		знать
 PWN:krypton.n.01		криптон
+PWN:lacquer.n.02		лак
 PWN:ladder.n.01		лестница (приставная)
 PWN:lagoon.n.01		лагуна
 PWN:lake.n.01		озеро
@@ -1107,6 +1123,7 @@ PWN:land.n.04		земля, страна
 PWN:land.v.06		причаливать, приземляться
 PWN:language.n.01		язык
 PWN:lanthanum.n.01		лантан
+PWN:lapis_lazuli.n.01		лазурит
 PWN:large.a.01		большой
 PWN:last.a.02		последний
 PWN:last.v.01		длиться
@@ -1125,6 +1142,7 @@ PWN:leather.n.01		кожа
 PWN:left.r.01		левая (сторна)
 PWN:left.r.01		левый
 PWN:leg.n.02		нога
+PWN:lemon.n.01		лимон
 PWN:lend.v.02		дать взаймы, одолжать
 PWN:lens.n.01		линза
 PWN:less.r.01		меньше
@@ -1147,6 +1165,7 @@ PWN:link.n.02		связь
 PWN:link.n.02		ссылка
 PWN:lion.n.01		лев
 PWN:lip.n.01		губа
+PWN:lipid.n.01		липид
 PWN:list.n.01		список
 PWN:listen.v.01		слушать
 PWN:liter.n.01		литр
@@ -1168,12 +1187,14 @@ PWN:loom.n.01		ткацкий станок
 PWN:loot.n.01		наргабленное добро
 PWN:lord.n.03		дворянский, дворянин
 PWN:lose.v.05		терять
+PWN:lottery.n.02		лотерея
 PWN:loudly.r.01		громкий
 PWN:love.v.03		жаждать
 PWN:love.v.03		любить
 PWN:lover.n.01		любовник
 PWN:low.r.01		низко
 PWN:low_tide.n.01		отлив
+PWN:lumen.n.01		لُومِن‎
 PWN:luminosity.n.01		свет
 PWN:lunch.n.01		обед
 PWN:lung.n.01		легкое
@@ -1457,6 +1478,7 @@ PWN:plot.n.01		заговор
 PWN:plow.v.01		пахать
 PWN:plum.n.01		абрикос
 PWN:plum.n.01		слива
+PWN:plunderer.n.01		грабитель
 PWN:plutonium.n.01		плутоний
 PWN:pocket.n.01		карман
 PWN:poet.n.01		поэт
@@ -1465,6 +1487,7 @@ PWN:poison.n.01		яд
 PWN:pole.n.01		полюс
 PWN:politician.n.01		политик
 PWN:politician.n.01		управляющий
+PWN:politics.n.02		политология
 PWN:polonium.n.01		полоний
 PWN:polystyrene.n.01		полистирол
 PWN:poncho.n.01		пончо
@@ -1862,6 +1885,8 @@ PWN:swim.v.01		плавать
 PWN:swing_around.v.01		переворачивать(ся), обернуться
 PWN:sword.n.01		меч
 PWN:symmetry.n.01		симметрия
+PWN:synchronize.v.04		синхронизировать
+PWN:synchronous.a.01		синхронный
 PWN:table.n.02		стол
 PWN:tail.n.01		хвост
 PWN:tailor.n.01		портной
@@ -1881,6 +1906,8 @@ PWN:team.n.01		команда
 PWN:teapot.n.01		чайник
 PWN:tear.n.01		слеза
 PWN:tear.v.01		рвать
+PWN:teashop.n.01		чайная
+PWN:teashop.n.01		чайхана
 PWN:technetium.n.01		технология
 PWN:technology.n.01		технеций
 PWN:telephone.n.01		телефон
@@ -1940,6 +1967,7 @@ PWN:tiger.n.02		тигр
 PWN:tile.n.01		черепи́ца
 PWN:time.n.01		раз
 PWN:time.n.05		время
+PWN:timetable.n.01		расписание
 PWN:tin.n.01		олово
 PWN:tin_plate.n.01		(белая) жесть
 PWN:tired.a.01		усталый, утомленный
@@ -2105,7 +2133,7 @@ PWN:yttrium.n.01		иттрий
 PWN:yurt.n.01 		юрта
 PWN:zebra.n.01		зебра
 PWN:zero.s.01		зеро
-PWN:zero.s.01		ноль, ничего
+PWN:zero.s.01		ноль
 PWN:zero.s.01		нуль
 PWN:zinc.n.01		цинк
 PWN:zirconium.n.01		цирконий

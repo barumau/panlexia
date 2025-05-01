@@ -94,14 +94,17 @@ Style labels indicate the context in which the word is normally used.
 
 - *appr.* – Approving expressions show that you feel approval or admiration.
 - *arch.* – Archaic or antiquated words that are no longer in ordinary use.
+- *corr.* – Corrupted form.
 - *dial.* – Dialectal expressions are mainly used in particular regions.
+- *euph.* - Euphemism.
 - *disappr.* – Disapproving expressions show that you feel disapproval or contempt.
 - *fig.* – Figurative language is used in a non-literal or metaphorical way.
 - *form.* – Formal expressions are usually only used in serious or official language and would not be appropriate in normal everyday conversation.
-- *hum.* - Humorous expressions are intended to be funny.
+- *hum.* - Humorous or jocular expressions are intended to be funny.
 - *inf.* – Informal expressions are used between friends or in a relaxed or unofficial situation. They are not appropriate for formal situations.
 - *lit.* – Literary language is used mainly in literature, like in poems and novels.
 - *off.* – Offensive expressions refer to people in a way that is very insulting, especially in connection with their race, religion, sex or disabilities.
+- *pej.* – Pejorative.
 - *sl.* – Slang is language that is unique to people who share the same interests or belong to the same social group.
 - *spec.* – Specialist language is used by people who specialize in particular subject areas.
 - *taboo* – Taboo expressions are likely to be thought by many people to be shocking and not to be used.
