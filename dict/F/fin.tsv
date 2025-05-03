@@ -3281,6 +3281,7 @@ PWN:charcoal.n.01		puuhiili
 PWN:charge.n.03		maksu	
 PWN:charge.n.08		maksu	
 PWN:charge.n.08		rasitus	
+PWN:charge.v.02		syyttää
 PWN:charge.v.03		laskuttaa	
 PWN:charge.v.03		veloittaa	
 PWN:charge.v.08		ahtaa täyteen	
@@ -3480,6 +3481,7 @@ PWN:church.n.01		kirkko
 PWN:church.n.01		kristillinen kirkko	
 PWN:church.n.02		kirkko	kirkːɔ
 PWN:church.n.02		kirkkorakennus	
+PWN:church.n.04		seurakunta
 PWN:church_service.n.01		jumalanpalvelus	
 PWN:church_service.n.01		kirkonmenot	
 PWN:cigarette.n.01		kessu	
@@ -4213,6 +4215,7 @@ PWN:control.v.02		tasoittaa
 PWN:control.v.02		tyynnyttää	
 PWN:conventicle.n.02		kokoushuone	
 PWN:conventicle.n.02		rukoushuone	
+PWN:conventionalized.s.01		tyylitelty
 PWN:convergence.n.01		läheneminen	
 PWN:conversation.n.01		keskustelu	kɛskʊstɛlʊ
 PWN:conversation.n.01		puhelu	pʊhɛlʊ
@@ -5620,6 +5623,8 @@ PWN:eccentric.n.01		eriskummallinen henkilö
 PWN:eccentric.n.01		kumma tyyppi	
 PWN:eccentric.n.01		nörtti	
 PWN:eccentric.n.01		omalaatuinen tyyppi	
+PWN:ecclesiastical.a.01		hengellinen
+PWN:ecclesiastical.a.01		kirkollinen
 PWN:echinoderm.n.01		piikkinahkainen	
 PWN:eclipse.n.01		okkultaatio	
 PWN:eclipse.n.01		pimennys	
@@ -6083,6 +6088,8 @@ PWN:exclusive.s.01		eksklusiivinen
 PWN:exclusive.s.01		poissulkeva	
 PWN:excursion.n.01		ekskursio	
 PWN:excursion.n.01		retki	
+PWN:excuse.v.02		sallia poistuminen
+PWN:excuse.v.02		vapauttaa
 PWN:execute.v.01		teloittaa	
 PWN:executive.n.01		johtaja	
 PWN:executive.n.01		toimitusjohtaja	
@@ -8137,6 +8144,7 @@ PWN:idea.n.01		ajatus	ɑjɑtʊs
 PWN:idea.n.01		idea	
 PWN:idea.n.01		miete	
 PWN:ideal.n.01		ihanne	
+PWN:idealism.n.01		idealismi
 PWN:identical.s.01		identtinen	
 PWN:identical.s.01		samanlainen	
 PWN:identification.n.02		henkilöllisyystodistus	
@@ -10314,6 +10322,8 @@ PWN:natural_science.n.01		luonnontiede
 PWN:natural_shape.n.01		luonnollinen muoto	
 PWN:naturalism.n.02		naturalismi	
 PWN:naturalism.n.02		realismi	
+PWN:naturalistic.s.01		realistinen
+PWN:naturalistic.s.01		todenmukainen
 PWN:nature.n.01		luonne	
 PWN:nature.n.01		olemus	
 PWN:nature.n.03		luonto	
@@ -12264,6 +12274,8 @@ PWN:real.a.01		todellinen
 PWN:real.a.01		tosi-	
 PWN:real_property.n.01		kiinteistö	
 PWN:real_property.n.01		kiinteä omaisuus	
+PWN:reality.n.03		realiteetti
+PWN:reality.n.03		tosiasia
 PWN:realization.n.02		oivallus	
 PWN:realization.n.02		oivaltaminen	
 PWN:realization.n.02		tajuaminen	
@@ -13932,6 +13944,7 @@ PWN:sour.v.01		hapantua
 PWN:sour.v.01		käydä	
 PWN:sour.v.01		pilaantua	
 PWN:source.n.04		lähde	
+PWN:source_code.n.01		lähdekoodi
 PWN:source_of_illumination.n.01		valaistuslähde	
 PWN:souse.v.03		juopotella	
 PWN:souse.v.03		kännätä	
@@ -14402,6 +14415,8 @@ PWN:stupid.a.01		tyhmä	tʏxmæ
 PWN:stupid.a.01		typerä	tʏpɛræ
 PWN:sty.n.02		lätti	
 PWN:style.n.03		tyyli	
+PWN:stylish.a.01		muodikas
+PWN:stylish.a.01		tyylikäs
 PWN:stylus.n.01		neula	
 PWN:stylus.n.02		piirrin	
 PWN:stylus.n.02		stylus	
@@ -14922,6 +14937,12 @@ PWN:there.r.01		siinä	siːnæ
 PWN:there.r.01		tuolla	
 PWN:there.r.03		sinne	sinːɛ
 PWN:there.r.03		tuonne	tuɔ̯nːɛ
+PWN:therefore.r.01		niin muodoin
+PWN:therefore.r.01		siitä
+PWN:therefore.r.01		siksi
+PWN:therefore.r.01		siten
+PWN:therefore.r.01		sitten
+PWN:therefore.r.01		täten
 PWN:thermometer.n.01		lämpömittari	
 PWN:thesis.n.01		teesi	
 PWN:thesis.n.01		väite	
@@ -15066,6 +15087,7 @@ PWN:time_period.n.01		ajanjakso
 PWN:time_period.n.01		kausi	
 PWN:time_slot.n.01		määräaika	
 PWN:time_unit.n.01		aikayksikkö	
+PWN:timeline.n.01		aikajana
 PWN:timely.s.01		ennenaikainen	
 PWN:timepiece.n.01		ajastin	
 PWN:timepiece.n.01		kello	
