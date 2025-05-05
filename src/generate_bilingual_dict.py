@@ -58,7 +58,7 @@ def make_bilingual_dictionary_table(source_language_dict, target_language_dict):
             if not_yet_written:
                 write_entry(bilingual_dictionary, has_transcription, has_pronunciation, source_row, target_row)
 
-            # Check is there synonym in source language.
+            # Check is there a synonym in the source language.
             if (next_source_row != None) and (next_source_row["id"] == target_row["id"]):
                 write_entry(bilingual_dictionary, has_transcription, has_pronunciation, next_source_row, target_row)
                 not_yet_written = False
@@ -134,6 +134,11 @@ def format_and_write_markdown_file(source_lang, target_lang, dict):
     i = 0
     while i < len(sorted_dict):
         row = sorted_dict[i]
+        if row[0] == '' or row[2] == '':
+            print(f"Bad data in {source_lang}-{target_lang}: {row}")
+            i = i + 1
+            continue
+
         initial = row[0][0].upper()
         if previous_initial != initial:
             # Write alphabetic section header, like "## A"
