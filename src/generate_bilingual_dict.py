@@ -105,9 +105,12 @@ def is_synonym(row_A, row_B):
 
 def build_translation(row):
     """Builds translation term with its optional pronunciation."""
+    if row[2] == '':
+        return ''
+
     translation = row[2]
     # Include transcription or pronunciation if the field for it is available and not empty.
-    if len(row) == 4 and row[3] != "":
+    if len(row) == 4 and row[3] != '' and row[3] != None:
         # The format is: target_word /pronunciation/
         translation = translation + " /" + row[3] + "/"
     return translation
