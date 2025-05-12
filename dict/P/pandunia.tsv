@@ -23,6 +23,7 @@ PLX:Pan-Asian.a		panasian	pan.as·ia·n
 PLX:Pan-European.a		paneuropan	pan.europa·n	
 PLX:about.pp		teman	tema·n	
 PLX:after.pp		pos	pos	eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-) + fas: پس (pas)
+PLX:aha.int		aha	aha	eng:aha; uh-huh, deu:fra:aha, spa:ajá, por:ahá, rus:ага (aha), hin:अहां (ahā~), kor: 아하 (aha), zho:啊哈 (ahā), ara: آه (ʾāh)
 PLX:algorithm.n.01		gorizme	gorizm'e	ara:خَوَارِزْمِيَّة, eng: algorithm, spa:algoritmo, rus:алгори́тм, fas:الگوریتم, hin:अल्गोरिद्म, may:algoritma, jpn:アルゴリズム
 PLX:and.cnj		e	e	eng:and, fra:et, por:e, spa:y; e, zho:和 (hé), ful:e
 PLX:antifascism.n		antifashisme	anti.fash·ism'e	
@@ -385,8 +386,8 @@ PWN:cation.n.01		yang ion	yang ion
 PWN:cauliflower.n.01		hua kol	hua kol	
 PWN:cave.n.01		gua	gua	ben:গুহা (guha), hin:गुफ़ा (gufā), tam:குகை (kuhai), tel:గుహ (guha), may:gua, tha:คูหา (gūhā)
 PWN:celestial_body.n.01		astre	astr'e	fra:astre, por:astro, eng:spa:tur:astro-, rus:астро- (astro-)
-PWN:cemetery.n.01		nekropol	nekr·o·pol	
 PWN:cemetery.n.01		gabristan	gabr·istan	
+PWN:cemetery.n.01		nekropol	nekr·o·pol	
 PWN:cerebral.a.02		nautik	nau·tik	
 PWN:cerium.n.01		cerium	cer·ium	eng:cerium, fra:cérium, spa:cerio, por:cério, rus:церий, zho:铈 (shì), jpn:セリウム, kor:세륨, vie:xeri, hin:सेरियम, ben:সেরিয়াম, may:serium, swa:seri, ara: سيريوم
 PWN:certain.a.02		amen	amen	heb: אָמֵן‎, (ʾāmēn), ara: أَمِين (ʔamīn), tur:emin, swa:amini, ful:amiini, hau:amince, ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, rus:аминь (amin'), zho:阿门 (āmén), yue:阿門 (aa3mun4), kor:아멘 (amen), jpn:アーメン (āmen), vie:a men
@@ -449,6 +450,7 @@ PWN:commercial_enterprise.n.02	inf.	biz	biz
 PWN:committee.n.01		komisia	ko.mis·ia	
 PWN:common.a.01		konhave	kon·hav'e	
 PWN:companion.n.01		sahib	sahib	ara: صَاحِب (ṣāḥib), fas: صاحب (sāhib), hin:साहिब (sāhib), ben:সাহেব (śaheb), may:sahabat, swa:sahibu
+PWN:compare.v.03		kompar	kom.par	
 PWN:compassion.n.01		kompatia	kom.pat·ia	
 PWN:complex.a.01		komple	kom.pl’e	
 PWN:computer.n.01		komputer	kom.put·er	
@@ -618,7 +620,7 @@ PWN:egg.n.01		ov	ov
 PWN:eggplant.n.01		bedingan	bedingan	hin:बैंगन (bEngān), ben:বেগুন (begun), fas: بادنگان‎ (bâdengân); بادنجان‎ (bâdenjân), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:bilingani
 PWN:egypt.n.01		Misre	Misr'e	ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr), hau:Masar
 PWN:eight.s.01		eit	eit	eng:eight, deu:acth, hin:आठ (āṭh), ben:আট (aṭ), tam:எட்டு (eṭṭu)
-PWN:einsteinium.n.01		einsteinium	einstein·ium	eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم
+PWN:einsteinium.n.01		ainshtainium	ainshtain·ium	eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم
 PWN:eject.v.01		ejete	e.jet'e	
 PWN:elastic.a.01		elastik	elast·ik	eng:elastic, deu:elastisch, fra:élastique, spa:por:elástico, rus:эластичный (elastíčnyj), fas: الاستیک (elâstik), tur:may:elastik, jpn:エラスティック (erasutikku)
 PWN:electric.a.01		elektrik	elektr·ik	
@@ -647,6 +649,8 @@ PWN:enter.v.01		entra	en.tra
 PWN:entertainment_industry.n.01		shou biz	shou biz	
 PWN:environment.n.01		eko	eko	eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-, swa:iko-
 PWN:environmental.a.01		ekotik	eko·tik	
+PWN:equal.a.01		par	par	eng:peer, fra:pair, spa:por:par, ita:pari, rus:пара (para) + fas: برابر‎ (barâbar), hin:बराबर (barābar), ben:বরাবর (bôrabôr), tur:beraber, swa:barabara
+PWN:equality.n.01		parita	par·ita	
 PWN:erbium.n.01		erbium	erb·ium	eng:erbium, fra:erbium, spa:erbio, por:érbio, rus:эрбий, zho:铒 (ěr), jpn:エルビウム, kor:에르븀, vie:eribi, hin:अर्बियम, ben:ইরবিয়াম, may:erbium, swa:erbi, ara: إربيوم
 PWN:erotic.s.01		erotik	ero·tik	eng:erotic, deu:erotisch, fra:érotique, spa:por:erótico, rus:эротический (erotičeskiy), tur:erotik, may:erotis, jpn:エロチック (erochikku), kor:에로 (ero)
 PWN:esperanto.n.01		esperante	esperant'e	
@@ -914,6 +918,8 @@ PWN:incredible.a.01		inkredebil	in.kred·e·bil
 PWN:india.n.01		bartia	bart·ia	
 PWN:indium.n.01		hindium	hind·ium	eng:indium, fra:indium, spa:indium, por:índio, rus:индий, zho:铟 (yīn), jpn:インジウム, kor:인듐, vie:indi, hin:इण्डियम, ben:ইন্ডিয়াম, may:indium, swa:indi, ara: انديوم
 PWN:indivisible.a.01		intomebil	in.tom·e·bil	
+PWN:inequality.n.01		imparita	im.par·ita	
+PWN:infinite.a.01		infinik	in.fin·ik	
 PWN:inhumane.a.01	fig.	inhomanik	in.hom·an·ik	
 PWN:injury.n.01		trauma	trauma	eng:fra:may:trauma, deu:Trauma, spa:por:traumatismo, rus:травма (travma), tur:travma
 PWN:input.n.04		entrat	en·tra·t	
@@ -1258,6 +1264,7 @@ PWN:pear.n.01		pera	pera	eng:pear, fra:poire, spa:por:pera, may:pir, swa:pea, yu
 PWN:pearl.n.01		lulu	lulu	ara: لؤلؤ (luʔluʔ), fas: لؤلؤ (lo'lo'), hau:lu'ulu'u, swa:lulu, amh:ሉል (lul)
 PWN:peat.n.01		turfa	turfa	eng:turf, fra:tourbe, spa:tur:turba, por:turfa, rus:торф (torf)
 PWN:pedal.n.02		pedal	pedal	
+PWN:peer.n.01		par	par	
 PWN:pencil.n.01		karbe kalam	karb·e kalam	
 PWN:penguin.n.01		pinguin	pinguin	eng:may:penguin, spa:pingüino, por:pinguim, rus:пингвин (pingvin), tur:penguen, hin:पेंगुइन (peṅguin), ben:পেঙ্গুইন (peṅguin), jpn:ペンギン (pingin)
 PWN:penis.n.01		penis	penis	eng:tur:may:penis, spa:pene, por:fra:pénis, rus:пенис (penis)
@@ -1522,6 +1529,7 @@ PWN:sleep_together.v.01		fok	fok	eng:fuck + rus:фак (fak), zho:法克 (fǎkè
 PWN:slide_fastener.n.01		ziper	zip·er	
 PWN:slipper.n.01		babush	babush	fas: پاپوش‎ (pâ-puš), ara: بَابُوج‎ (bābūj), tur:pabuç, spa:babucha, fra:babouche, eng:babouche
 PWN:small.a.01		lit	lit	eng:little; -let, fra:deu:-ette, spa:por:-ito, vie:ít, tgl:liit
+PWN:smallness.n.01		litita	lit·ita	
 PWN:smoke.n.01		dum	dum	rus:дым (dym), hin:धूआँ (dhuã), ben:ধোঁয়া (dhõẇa), tur:duman + fra:fumée, spa:humo, por:fumo
 PWN:snake.n.01		serpe	serp'e	hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé
 PWN:sneeze.v.01		achi	achi	
@@ -1557,7 +1565,6 @@ PWN:spouse.n.01		zuge	zug’e	heb: זוּג (zúg), ara: زَوْج‎ (zawj), f
 PWN:stabilize.v.01		stabiliza	sta·bil·iza	
 PWN:stable.s.04		stabil	sta·bil	
 PWN:stairs.n.01		trape	trap'e	deu:Treppe, ned:trap, rus:трап (trap), may:terap, jpn:タラップ (tarappu) + spa:por:trepar
-PWN:stamp.v.02		chap	chap	hin:छाप (chāp), ben:ছাপ (chap), tam:சாப்பா (cāppā), may:cap, eng:chop
 PWN:stamp.v.02		chap	chap	hin:छाप (chāp), ben:ছাপ (chap), tam:சாப்பா (cāppā), may:cap, eng:chop
 PWN:stand.v.03		siste	sist'e	
 PWN:stand.v.04		siste	sist'e	eng:(re)sist, fra:(ré)sister, spa:por:(re)sistir
@@ -1724,6 +1731,8 @@ PWN:two.s.01		due	du'e	fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben
 PWN:type.n.01		tip	tip	eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)
 PWN:ugly.a.01		dusfenik	dus.fen·ik	
 PWN:undergo.v.01		ben	ben	
+PWN:understand.v.02		aha	aha	
+PWN:unequal.a.01		impar	im.par	
 PWN:union.n.04		unia	un·ia	
 PWN:unit.n.02		unaje	un·aj'e	
 PWN:unpack.v.01		depake	de.pak'e	

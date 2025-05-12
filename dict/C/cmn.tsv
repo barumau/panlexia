@@ -25,6 +25,7 @@ PLX:PASS.v		被
 PLX:above.pp		在…上面	zai4 ... shang4mian4	
 PLX:after.pp		.......之后	X... zhihou4	
 PLX:after.pp		以后	yi3hou4	
+PLX:aha.int		啊哈
 PLX:and.cnj		与, 與	yu3 (2)	
 PLX:and.cnj		和	he2	
 PLX:antifascism.n		反法西斯主義	
@@ -754,7 +755,6 @@ PWN:animation.n.01		sheng1huo2
 PWN:animation.n.01		生命	
 PWN:animation.n.01		生活	
 PWN:anion.n.01		阴离子	
-PWN:anion.n.01		阴离子	
 PWN:ankle.n.01		脚腕子	jiao3wan4zi	
 PWN:ankle.n.01		脚踝	
 PWN:ankle.n.01		腿腕子	
@@ -773,7 +773,6 @@ PWN:announce.v.02		宣布
 PWN:announce.v.04		预告	
 PWN:announce.v.04		预示	
 PWN:anode.n.01		正极	
-PWN:anode.n.01		阳极	
 PWN:anode.n.01		阳极	
 PWN:anoint.v.02		塗油於	
 PWN:anomaly.n.02		异常的人	
@@ -1321,7 +1320,6 @@ PWN:bald.s.02		光秃秃+的
 PWN:bald.s.02		秃	tu1/3	
 PWN:bald.s.02		秃头+的	
 PWN:bald.s.02		秃顶+的	
-PWN:ball.n.01		球	
 PWN:ball.n.01		球	
 PWN:ball.n.03		球	qiu2	
 PWN:ball.n.03		球体	qiu2ti3	
@@ -2326,7 +2324,6 @@ PWN:category.n.02		范畴
 PWN:caterpillar.n.01		毛毛虫	
 PWN:caterpillar.n.01		毛虫	
 PWN:cathode.n.01		阴极	
-PWN:cathode.n.01		阴极	
 PWN:cation.n.01		阳离子	
 PWN:cattle.n.01		牛	niu2	
 PWN:cauliflower.n.01		花椰菜	
@@ -2364,8 +2361,6 @@ PWN:cellular_telephone.n.01		手提电话
 PWN:cellular_telephone.n.01		手机	
 PWN:cellular_telephone.n.01		移动电话	
 PWN:cellular_telephone.n.01		蜂窝式移动电话	
-PWN:cemetery.n.01		公墓	
-PWN:cemetery.n.01		墓地	
 PWN:cemetery.n.01		公墓	
 PWN:cemetery.n.01		墓地	
 PWN:center.n.01		中央	
@@ -6555,6 +6550,8 @@ PWN:indwell.v.01		存在于
 PWN:infection.n.01		传染	
 PWN:infection.n.01		侵染	
 PWN:infection.n.01		感染	
+PWN:infinite.a.01		无穷+的
+PWN:infinite.a.01		无限+的
 PWN:inflammation.n.01		发炎	
 PWN:inflammation.n.01		炎症	
 PWN:inflate.v.02		充气	
@@ -6939,11 +6936,11 @@ PWN:knock.v.02		敲
 PWN:knock.v.02		用指关节敲打	
 PWN:knot.n.02		结	jie2	
 PWN:knot.n.02		节	
-PWN:know.v.01		知道	zhi1dao	
-PWN:know.v.01		认识	ren4shi	
 PWN:know.v.01		晓得	
 PWN:know.v.01		知道	
+PWN:know.v.01		知道	zhi1dao	
 PWN:know.v.01		认识	
+PWN:know.v.01		认识	ren4shi	
 PWN:know.v.02		会	
 PWN:know.v.02		知道	
 PWN:know.v.04		知道	
@@ -8736,6 +8733,10 @@ PWN:peat.n.01		泥炭
 PWN:peat.n.01		泥煤	
 PWN:peel.n.02		果皮	
 PWN:peel.n.02		皮	
+PWN:peer.n.01		同行
+PWN:peer.n.01		同辈
+PWN:peer.n.01		同龄人
+PWN:peer.n.01		地位相等的人
 PWN:peg.n.01		桩, 樁	zhuang1	
 PWN:pen.n.01		笔, 筆	bi3	
 PWN:pen.n.01		羽毛	yu3mao2	

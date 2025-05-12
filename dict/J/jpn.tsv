@@ -2055,7 +2055,6 @@ PWN:animation.n.01		生命	seimei	cmn:shēngmìng
 PWN:animation.n.01		生活	seikatsu	cmn:shēnghuó
 PWN:anion.n.01		アニオン	
 PWN:anion.n.01		陰イオン	
-PWN:anion.n.01		陰イオン	
 PWN:ankle.n.01		足関節	
 PWN:ankle.n.01		足頚	
 PWN:ankle.n.01		足首	ashikubi	
@@ -2085,7 +2084,6 @@ PWN:announce.v.04		予告+する
 PWN:announce.v.04		予言+する	
 PWN:announce.v.04		前触れ+する	
 PWN:anode.n.01		アノード	
-PWN:anode.n.01		陽極	
 PWN:anode.n.01		陽極	
 PWN:anomaly.n.02		番外	
 PWN:anomaly.n.02		異常	
@@ -3510,8 +3508,6 @@ PWN:ball.n.01		ボール
 PWN:ball.n.01		玉	
 PWN:ball.n.01		球	
 PWN:ball.n.01		鞠	
-PWN:ball.n.01		玉	
-PWN:ball.n.01		球	
 PWN:ball.n.03		ボール	bōru (2)	eng:ball
 PWN:ball.n.03		円球	
 PWN:ball.n.03		玉	
@@ -5110,7 +5106,6 @@ PWN:bolshevik.n.02		ボリシェヴィキ
 PWN:bolshevik.n.02		ボリシェヴィク	
 PWN:bolshevik.n.02		ボルシェビキ	
 PWN:bolshevik.n.02		ボルシェヴィキ	
-PWN:bolshevik.n.02		ボリシェヴィキ	
 PWN:bolt.n.03		デッドボルト	
 PWN:bolt.n.03		掛け金	kakegane	
 PWN:bolt.n.03		桟	
@@ -6760,8 +6755,6 @@ PWN:caterpillar.n.01		芋虫
 PWN:caterpillar.n.01		青虫	
 PWN:cathode.n.01		カソード	
 PWN:cathode.n.01		陰極	
-PWN:cathode.n.01		陰極	
-PWN:cation.n.01		陽イオン	
 PWN:cation.n.01		陽イオン	
 PWN:cattle.n.01		ウシ	
 PWN:cattle.n.01		牛	ushi	
@@ -6923,6 +6916,7 @@ PWN:cemetery.n.01		共同墓地
 PWN:cemetery.n.01		化野	
 PWN:cemetery.n.01		埋葬地	
 PWN:cemetery.n.01		塚	
+PWN:cemetery.n.01		墓	
 PWN:cemetery.n.01		墓地	
 PWN:cemetery.n.01		墓場	
 PWN:cemetery.n.01		墓所	
@@ -6936,8 +6930,6 @@ PWN:cemetery.n.01		徒野
 PWN:cemetery.n.01		蘭塔場	
 PWN:cemetery.n.01		霊園	
 PWN:cemetery.n.01		青山	
-PWN:cemetery.n.01		墓	
-PWN:cemetery.n.01		墓地	
 PWN:center.n.01		まん中	
 PWN:center.n.01		センタ	
 PWN:center.n.01		センター	
@@ -9640,8 +9632,10 @@ PWN:construct.v.01		組立てる
 PWN:construction.n.01		作り	
 PWN:construction.n.01		営造	
 PWN:construction.n.01		工作	
+PWN:construction.n.01		建物	
 PWN:construction.n.01		建立	
 PWN:construction.n.01		建築	
+PWN:construction.n.01		建築物	
 PWN:construction.n.01		建設	
 PWN:construction.n.01		建造	
 PWN:construction.n.01		新築	
@@ -9651,8 +9645,6 @@ PWN:construction.n.01		築造
 PWN:construction.n.01		設営	
 PWN:construction.n.01		造り	
 PWN:construction.n.01		造営	
-PWN:construction.n.01		建物	
-PWN:construction.n.01		建築物	
 PWN:consult.v.01		合議+する	
 PWN:consult.v.01		咨詢+する	
 PWN:consult.v.01		商議+する	
@@ -15334,6 +15326,16 @@ PWN:equal.v.01		同じである
 PWN:equal.v.03		匹敵+する	
 PWN:equal.v.03		対抗+する	
 PWN:equal.v.03		平均+する	
+PWN:equality.n.01		一律
+PWN:equality.n.01		互角
+PWN:equality.n.01		同一
+PWN:equality.n.01		同格
+PWN:equality.n.01		同等
+PWN:equality.n.01		均一
+PWN:equality.n.01		均等
+PWN:equality.n.01		平手
+PWN:equality.n.01		平等
+PWN:equality.n.01		斉一
 PWN:equator.n.01		赤道	
 PWN:equine.n.01		ウマ	
 PWN:equip.v.01		しつらえる	
@@ -22171,8 +22173,22 @@ PWN:industry.n.02		実業
 PWN:industry.n.02		工業	
 PWN:industry.n.02		産業	
 PWN:indwell.v.01		留置+する	
+PWN:inequality.n.01		不均等
+PWN:inequality.n.01		不均衡
+PWN:inequality.n.01		不平等
+PWN:inequality.n.01		不等
+PWN:inequality.n.01		凸凹
 PWN:infection.n.01		伝染	
 PWN:infection.n.01		感染	
+PWN:infinite.a.01		宏大無辺
+PWN:infinite.a.01		広大無辺
+PWN:infinite.a.01		渺渺たる
+PWN:infinite.a.01		無数
+PWN:infinite.a.01		無極
+PWN:infinite.a.01		無窮
+PWN:infinite.a.01		無辺際
+PWN:infinite.a.01		無限
+PWN:infinite.a.01		無限大
 PWN:inflammation.n.01		炎症	
 PWN:inflammation.n.01		発赤	
 PWN:inflate.v.02		脹める	
@@ -23566,8 +23582,8 @@ PWN:know.v.01		分かる
 PWN:know.v.01		存じる	
 PWN:know.v.01		存ずる	
 PWN:know.v.01		存知+する	
-PWN:know.v.01		知る	shiru (1)	
 PWN:know.v.01		知る	
+PWN:know.v.01		知る	shiru (1)	
 PWN:know.v.04		分かる	
 PWN:know.v.04		存じる	
 PWN:know.v.04		心得る	
@@ -29796,6 +29812,10 @@ PWN:peat.n.01		泥炭
 PWN:pedal.n.02		ペダル	
 PWN:peel.n.02		果皮	
 PWN:peel.n.02		皮	
+PWN:peer.n.01		仲間
+PWN:peer.n.01		同僚
+PWN:peer.n.01		同等の人
+PWN:peer.n.01		同輩
 PWN:peg.n.01		杭/杙/株	kui	
 PWN:peg.n.01		栓	sen (3)	cmn:shuān
 PWN:peg.n.01		釘	kugi	
@@ -32590,9 +32610,8 @@ PWN:question.n.03		問いかけ
 PWN:question.n.03		問い掛け	
 PWN:question.n.03		問掛	
 PWN:question.n.03		問掛け	
-PWN:question.n.03		疑問文	
-PWN:question.n.03		質問	
 PWN:question.n.03		問題	
+PWN:question.n.03		疑問文	
 PWN:question.n.03		質問	
 PWN:questioning.n.01		借問	
 PWN:questioning.n.01		問い	
@@ -37584,6 +37603,11 @@ PWN:small.a.01		細やか
 PWN:small.a.01		褊狭	
 PWN:small.a.01		零細	
 PWN:small_indefinite_quantity.n.01		一片	
+PWN:smallness.n.01		ちっちゃさ
+PWN:smallness.n.01		小
+PWN:smallness.n.01		小ささ
+PWN:smallness.n.01		小ぶり
+PWN:smallness.n.01		小形
 PWN:smell.n.01		におい	
 PWN:smell.n.01		匂	
 PWN:smell.n.01		匂い	
@@ -44805,8 +44829,8 @@ PWN:youth.n.05		早期
 PWN:youth.n.05		青春時代	
 PWN:ytterbium.n.01		イッテルビウム	
 PWN:yttrium.n.01		イットリウム	
-PWN:yurt.n.01		ユルト	
 PWN:yurt.n.01		ゲル	
+PWN:yurt.n.01		ユルト	
 PWN:yurt.n.01		包	
 PWN:zebra.n.01		シマウマ	
 PWN:zebra.n.01		縞馬	

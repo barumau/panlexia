@@ -26,6 +26,7 @@ PLX:Pan-European.a		paneurooppalainen
 PLX:about.pp		-sta	
 PLX:about.pp		aiheesta	
 PLX:after.pp		jälkeen	
+PLX:aha.int		ahaa
 PLX:and.cnj		ja	jɑ
 PLX:and.cnj		sekä	
 PLX:antifascism.n		antifasismi	
@@ -68,7 +69,6 @@ PLX:genderology.n		sukupuolitutkimus
 PLX:get sick.V		sairastua	sɑi̯rɑstʊɑ
 PLX:haha.int		hahaa	
 PLX:hello.int		haloo	
-PLX:hello.int		hei	
 PLX:hello.int		hei	
 PLX:hello.int		terve	
 PLX:heuristics.n		heuristiikka	
@@ -298,7 +298,6 @@ PWN:accustomed.s.02		tavallinen
 PWN:accustomed.s.02		tavanomainen	
 PWN:accustomed.s.02		totunnainen	
 PWN:accustomed.s.02		totuttu	
-PWN:accustomed.s.02		tavallinen	
 PWN:ace.n.03		huippu	
 PWN:ace.n.03		huippu-	
 PWN:ace.n.03		mestari	
@@ -972,7 +971,6 @@ PWN:animation.n.01		elämä	ɛlæmæ
 PWN:animation.n.01		elävyys	
 PWN:anion.n.01		anioni	
 PWN:anion.n.01		negatiivinen ioni	
-PWN:anion.n.01		anioni	
 PWN:ankle.n.01		articulatio talocruralis	
 PWN:ankle.n.01		nilkka	
 PWN:ankle.n.01		ylempi nilkkanivel	
@@ -991,7 +989,6 @@ PWN:announce.v.04		ennustaa
 PWN:announce.v.04		enteillä	
 PWN:announce.v.04		olla enteenä	
 PWN:announce.v.04		olla merkkinä	
-PWN:anode.n.01		anodi	
 PWN:anode.n.01		anodi	
 PWN:anoint.v.02		antaa viimeinen voitelu	
 PWN:anoint.v.02		sivellä lääkkeellä	
@@ -1617,7 +1614,6 @@ PWN:bald.s.02		karvaton
 PWN:baldhead.n.01		kalju	
 PWN:baldhead.n.01		kaljupää	
 PWN:baldhead.n.01		pulipää	
-PWN:ball.n.01		pallo	
 PWN:ball.n.01		kuula	
 PWN:ball.n.01		pallo	
 PWN:ball.n.03		kerä	
@@ -1630,8 +1626,8 @@ PWN:ball.n.08		möykky
 PWN:ball.n.08		paakku	
 PWN:ball.n.08		pallukka	
 PWN:ball.n.08		savikokkare	
-PWN:ball.n.09		tanssiaiset	
 PWN:ball.n.09		tanssi	
+PWN:ball.n.09		tanssiaiset	
 PWN:ball.n.10		päkiä	
 PWN:ballerina.n.01		balettitanssija	
 PWN:ballerina.n.01		ballerina	
@@ -2491,9 +2487,9 @@ PWN:bowl.n.08		piipun pesä
 PWN:box.n.01		arkku	ɑrkːʊ
 PWN:box.n.01		aski	
 PWN:box.n.01		kirstu	kirstʊ
+PWN:box.n.01		laatikko	
 PWN:box.n.01		laatikko	lɑːtikːɔ
 PWN:box.n.01		rasia	
-PWN:box.n.01		laatikko	
 PWN:box.n.07		syöttöalue	
 PWN:boxing.n.01		boksaus	
 PWN:boxing.n.01		nyrkkeily	
@@ -2744,7 +2740,6 @@ PWN:burden.v.01		kuormata
 PWN:burden.v.01		laittaa painoksi	
 PWN:burden.v.01		lastata	
 PWN:burden.v.01		olla painona	
-PWN:bureaucracy.n.02		byrokratia	
 PWN:bureaucracy.n.02		byrokratia	
 PWN:burn.v.01		kärventää	
 PWN:burn.v.01		palaa	
@@ -3095,8 +3090,6 @@ PWN:caterpillar.n.01		hyönteistoukka
 PWN:caterpillar.n.01		perhosentoukka	
 PWN:caterpillar.n.01		toukka	
 PWN:cathode.n.01		katodi	
-PWN:cathode.n.01		katodi	
-PWN:cation.n.01		kationi	
 PWN:cation.n.01		kationi	
 PWN:cattle.n.01		karja	
 PWN:cattle.n.01		nauta	
@@ -3161,7 +3154,6 @@ PWN:cellular_telephone.n.01		kännykkä
 PWN:cellular_telephone.n.01		matkapuhelin	
 PWN:cemetery.n.01		hautausmaa	
 PWN:cemetery.n.01		nekropoli	
-PWN:cemetery.n.01		hautausmaa	
 PWN:center.n.01		keskipiste	
 PWN:center.n.01		keskus	kɛskʊs
 PWN:center.n.01		keskusta	
@@ -4136,9 +4128,9 @@ PWN:construct.v.01		panna kokoon
 PWN:construct.v.01		pystyttää	
 PWN:construct.v.01		rakentaa	rɑkɛntɑː
 PWN:construct.v.01		valmistaa	
-PWN:construction.n.01		rakentaminen	
 PWN:construction.n.01		rakenne	
 PWN:construction.n.01		rakennus	
+PWN:construction.n.01		rakentaminen	
 PWN:consult.v.01		keskustella	
 PWN:consult.v.01		pyytää neuvoa	
 PWN:consume.v.02		juoda	
@@ -4625,7 +4617,6 @@ PWN:dance_step.n.01		askel
 PWN:dance_step.n.01		tanssiaskel	
 PWN:dancing.n.01		tanssi	
 PWN:dancing.n.01		tanssiminen	
-PWN:dancing.n.01		tanssi	
 PWN:dandruff.n.02		hilse	
 PWN:danger.n.01		vaara	
 PWN:danger.n.03		vaara	
@@ -5952,6 +5943,8 @@ PWN:equal.v.03		saattaa samanarvoiseksi
 PWN:equal.v.03		tehdä yhdenvertaiseksi	
 PWN:equal.v.03		yhdenmukaistaa	
 PWN:equal.v.03		yhtäläistää	
+PWN:equality.n.01		tasa-arvoisuus
+PWN:equality.n.01		yhdenmukaisuus
 PWN:equator.n.01		päiväntasaaja	
 PWN:equine.n.01		hevoseläin	
 PWN:equip.v.01		varustaa	
@@ -6561,8 +6554,8 @@ PWN:fire.n.01		tuli
 PWN:fire.n.01		tulipalo	
 PWN:fire.n.02		tuli	
 PWN:fire.n.02		tulitus	
-PWN:fire.n.03		tuli	tʊli
 PWN:fire.n.03		liekki	
+PWN:fire.n.03		tuli	tʊli
 PWN:fire.n.05		tuli	
 PWN:fireplace.n.01		avotakka	
 PWN:fireplace.n.01		takka	
@@ -8373,7 +8366,10 @@ PWN:industry.n.01		teollisuudenhaara
 PWN:industry.n.02		teollisuus	
 PWN:industry.n.02		tuotanto	
 PWN:indwell.v.01		asua sisällä	
+PWN:inequality.n.01		eriarvoisuus
 PWN:infection.n.01		infektio	
+PWN:infinite.a.01		loputon
+PWN:infinite.a.01		rajaton
 PWN:inflammation.n.01		punaisuus	
 PWN:inflammation.n.01		punehtuminen	
 PWN:inflammation.n.01		tulehdus	
@@ -8865,8 +8861,8 @@ PWN:knot.v.02		solmia
 PWN:know-how.n.01		asiantuntemus	
 PWN:know-how.n.01		tietotaito	
 PWN:know.v.01		olla tietoinen	
-PWN:know.v.01		tietää	tiɛ̯tæː
 PWN:know.v.01		tietää	
+PWN:know.v.01		tietää	tiɛ̯tæː
 PWN:know.v.02		osata	
 PWN:know.v.02		taitaa	
 PWN:know.v.04		tietää	
@@ -10299,9 +10295,9 @@ PWN:national.n.01		alamainen
 PWN:national.n.01		kansalainen	
 PWN:nationality.n.02		kansalaisuus	
 PWN:native.a.01		kotoperäinen	
-PWN:native.a.02		syntymä-	
 PWN:native.a.02		luonnollinen	
 PWN:native.a.02		synnynnäinen	
+PWN:native.a.02		syntymä-	
 PWN:native.n.01		alkuasukas	
 PWN:native.n.01		alkuperäisasukas	
 PWN:native.n.01		maakalainen	
@@ -11087,6 +11083,7 @@ PWN:peck.v.01		näykkäistä
 PWN:pedal.n.02		pedaali	
 PWN:pedal.n.02		poljin	
 PWN:peel.n.02		kuori	kuɔ̯ri
+PWN:peer.n.01		vertainen
 PWN:peg.n.01		puunaula	
 PWN:peg.n.01		tappi	
 PWN:peg.n.01		vaarna	
@@ -12113,7 +12110,6 @@ PWN:question.n.01		tutkimus
 PWN:question.n.03		kysely	
 PWN:question.n.03		kysymys	
 PWN:question.n.03		kysymyslause	
-PWN:question.n.03		kysymys	
 PWN:questioning.n.01		kuulustelu	
 PWN:questioning.n.01		kysely	
 PWN:quickly.r.01		joutuin	
@@ -13778,6 +13774,7 @@ PWN:slowly.r.01		hitaasti
 PWN:small.a.01		pieni	piɛ̯ni
 PWN:small_boat.n.01		pikkuvene	
 PWN:small_indefinite_quantity.n.01		vähäinen määrä	
+PWN:smallness.n.01		pienuus
 PWN:smell.n.01		haju	
 PWN:smell.n.01		hajuaistimus	
 PWN:smell.n.01		tuoksu	
@@ -14140,9 +14137,9 @@ PWN:stall.n.01		pilttuu
 PWN:stallion.n.01		ori	
 PWN:stamp.v.02		jättää jälki	
 PWN:stamp.v.02		leima	
-PWN:stamp.v.02		painos	
 PWN:stamp.v.02		leimata	
 PWN:stamp.v.02		painaa	
+PWN:stamp.v.02		painos	
 PWN:stamp.v.03		leimata	
 PWN:stand.v.01		seisoa	sɛi̯sɔɑ
 PWN:stand.v.01		seistä	
@@ -14667,8 +14664,8 @@ PWN:system.n.01		systeemi
 PWN:system.n.02		järjestelmä	
 PWN:system.n.02		komento	
 PWN:system.n.04		järjestelmä	
-PWN:system.n.04		sääntöjärjestelmä	
 PWN:system.n.04		rakenne- ja toimintaohje	
+PWN:system.n.04		sääntöjärjestelmä	
 PWN:system.n.06		elinryhmä	
 PWN:system_of_measurement.n.01		metrijärjestelmä	
 PWN:system_of_measurement.n.01		mittausjärjestelmä	
@@ -15434,6 +15431,7 @@ PWN:undress.v.01		riisua	riːsʊɑ
 PWN:undress.v.01		riisuutua	
 PWN:unemotionality.n.02		epätunteellisuus	
 PWN:unemotionality.n.02		tunteettomuus	
+PWN:unequal.a.01		epätasainen
 PWN:unfold.v.03		levittää	
 PWN:unfold.v.04		avata	
 PWN:unfold.v.04		laskostaa auki	
@@ -16184,7 +16182,6 @@ PWN:ytterbium.n.01		atominumero 70
 PWN:ytterbium.n.01		ytterbium	
 PWN:yttrium.n.01		atominumero 39	
 PWN:yttrium.n.01		yttrium	
-PWN:yurt.n.01		jurtta	
 PWN:yurt.n.01		jurtta	
 PWN:zebra.n.01		seepra	
 PWN:zero.s.01		ei yhtään	

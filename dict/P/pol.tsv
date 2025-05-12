@@ -163,13 +163,13 @@ PWN:account.n.07		konto
 PWN:acculturation.n.02		świadomość społeczna	
 PWN:accurate.s.02		wierny	
 PWN:accuse.v.01		oskarżać	
+PWN:accustomed.s.02		normalny	
 PWN:accustomed.s.02		przyjęty	
+PWN:accustomed.s.02		rutynowy	
 PWN:accustomed.s.02		tradycjonalny	
 PWN:accustomed.s.02		tradycyjny	
-PWN:accustomed.s.02		zwyczajowy	
-PWN:accustomed.s.02		normalny	
-PWN:accustomed.s.02		rutynowy	
 PWN:accustomed.s.02		zwyczajny	
+PWN:accustomed.s.02		zwyczajowy	
 PWN:ace.n.03		wymiatacz	
 PWN:acerate_leaf.n.01		igła	
 PWN:acerate_leaf.n.01		szpilka	
@@ -993,7 +993,6 @@ PWN:boil.v.01		kipieć	kipiɛt͡ɕ
 PWN:boil.v.01		wrzeć	vʐɛt͡ɕ
 PWN:boil.v.03		gotować	ɡɔtɔvat͡ɕ
 PWN:bolshevik.n.02		bolszewik	
-PWN:bolshevik.n.02		bolszewik	
 PWN:bolt.n.03		rygiel	
 PWN:bomb.n.01		bomba	
 PWN:bombing.n.01		zbombardowanie	
@@ -1033,9 +1032,9 @@ PWN:bowed_stringed_instrument.n.01		instrument smyczkowy
 PWN:bowl.n.01		danie	
 PWN:bowl.n.01		miska	
 PWN:box.n.01		pudełko	
-PWN:box.n.01		skrzynia	skʂɨnia
 PWN:box.n.01		pudło	
 PWN:box.n.01		skrzynia	
+PWN:box.n.01		skrzynia	skʂɨnia
 PWN:boxing.n.01		boks	
 PWN:boxing.n.01		pięściarstwo	
 PWN:bracelet.n.02		manela	
@@ -1329,7 +1328,6 @@ PWN:cellular_telephone.n.01		komórka
 PWN:cellular_telephone.n.01		telefon komórkowy	
 PWN:cemetery.n.01		cmentarz	
 PWN:cemetery.n.01		nekropolia	
-PWN:cemetery.n.01		cmentarz	
 PWN:center.n.01		centrum	
 PWN:center.n.01		środek	ɕɾɔdɛk
 PWN:center.n.04		centrum	
@@ -1585,7 +1583,6 @@ PWN:coelenterate.n.01		jamochłon
 PWN:coevals.n.01		formacja	
 PWN:coevals.n.01		generacja	
 PWN:coevals.n.01		pokolenie	
-PWN:coffee.n.01		kawa	
 PWN:coffee.n.01		kawa	
 PWN:cognition.n.01		wiedza	
 PWN:coin.n.01		moneta	
@@ -2011,7 +2008,6 @@ PWN:dance.v.02		tańczyć	taɲʈ͡ʂɨt͡ɕ
 PWN:dance_band.n.01		band	
 PWN:dance_step.n.01		krok taneczny	
 PWN:dancing.n.01		tan	
-PWN:dancing.n.01		taniec	
 PWN:dancing.n.01		taniec	
 PWN:danger.n.01		niebezpieczeństwo	
 PWN:danger.n.01		niebezpieczeństwo	
@@ -2732,6 +2728,7 @@ PWN:equal.a.01		identyczny
 PWN:equal.a.01		równoległy	
 PWN:equal.a.01		równorzędny	
 PWN:equal.a.01		współrzędny	
+PWN:equality.n.01		równość
 PWN:equator.n.01		ekwator	
 PWN:equator.n.01		równik	
 PWN:equine.n.01		koniowate	
@@ -3967,9 +3964,18 @@ PWN:indifference.n.01		niebaczność
 PWN:indifference.n.01		obojętność	
 PWN:indium.n.01		ind	
 PWN:industry.n.01		przemysł	
+PWN:inequality.n.01		nierówność
 PWN:infection.n.01		infekcja	
 PWN:infection.n.01		inwazja	
 PWN:infection.n.01		zakażenie	
+PWN:infinite.a.01		bezbrzeżny
+PWN:infinite.a.01		bezgraniczny
+PWN:infinite.a.01		bezkresny
+PWN:infinite.a.01		bezmierny
+PWN:infinite.a.01		nieograniczony
+PWN:infinite.a.01		nieskończony
+PWN:infinite.a.01		niezmierny
+PWN:infinite.a.01		niezmierzony
 PWN:inflammation.n.01		reakcja zapalna	
 PWN:inflammation.n.01		zapalenie	
 PWN:inflation.n.01		inflacja	
@@ -4204,8 +4210,8 @@ PWN:knock.v.02		stukać	stukat͡ɕ
 PWN:knot.n.02		węzeł	vɛ̃zɛw
 PWN:knot.n.02		zupeł	
 PWN:know-how.n.01		know-how	
-PWN:know.v.01		wiedzieć	viɛd͡ʑɛt͡ɕ
 PWN:know.v.01		wiedzieć	
+PWN:know.v.01		wiedzieć	viɛd͡ʑɛt͡ɕ
 PWN:know.v.01		znać	
 PWN:know.v.04		znać	
 PWN:korea.n.01		Korea	
@@ -6068,7 +6074,6 @@ PWN:question.n.01		zapytanie
 PWN:question.n.01		zapytanie się	
 PWN:question.n.01		zwrócenie się z pytaniem	
 PWN:question.n.03		pytanie	
-PWN:question.n.03		pytanie	
 PWN:questioning.n.01		zadanie sobie pytania	
 PWN:quiet.a.02		cichy	
 PWN:quote.v.01		cytować	
@@ -6807,6 +6812,9 @@ PWN:small.a.01		mały	mawɨ
 PWN:small.a.01		nieduży	
 PWN:small.a.01		niewielki	
 PWN:small_boat.n.01		łódź	
+PWN:smallness.n.01		drobność
+PWN:smallness.n.01		małość
+PWN:smallness.n.01		znikomość
 PWN:smell.n.05		wąchanie	
 PWN:smell.v.01		wąchać	vɔ̃xat͡ɕ
 PWN:smell.v.02		cuchnąć	
@@ -6991,11 +6999,11 @@ PWN:stairs.n.01		schody
 PWN:stalk.n.02		łodyga	
 PWN:stall.n.01		boks	
 PWN:stallion.n.01		ogier	
+PWN:stamp.v.02		naciskać	
 PWN:stamp.v.02		odcisk	
 PWN:stamp.v.02		pieczęć	
-PWN:stamp.v.02		ślad; stempel	
-PWN:stamp.v.02		naciskać	
 PWN:stamp.v.02		zostawiać ślad	
+PWN:stamp.v.02		ślad; stempel	
 PWN:stand.v.01		stać	stat͡ɕ
 PWN:star.n.01		gwiazda	
 PWN:star.n.03		gwiazda	ɡviazda
@@ -8085,7 +8093,6 @@ PWN:young_buck.n.01		kawaler
 PWN:youth.n.05		młodość	
 PWN:ytterbium.n.01		iterb	
 PWN:yttrium.n.01		itr	
-PWN:yurt.n.01		jurta	
 PWN:yurt.n.01		jurta	
 PWN:zebra.n.01		zebra	
 PWN:zero.s.01		nic	

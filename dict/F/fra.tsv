@@ -19,6 +19,7 @@ PLX:3SG.pro		il/elle
 PLX:Pan-European.a		paneuropéen	
 PLX:above.pp		au dessus	
 PLX:after.pp		après	
+PLX:aha.int		aha
 PLX:and.cnj		et	
 PLX:antifascism.n		antifascisme	
 PLX:at.pp		a	
@@ -245,10 +246,9 @@ PWN:accurate.s.02		précis
 PWN:accuse.v.01		accuser	
 PWN:accuse.v.01		plaindre	
 PWN:accustomed.s.02		habituel	
-PWN:accustomed.s.02		usuel	
-PWN:accustomed.s.02		habituel	
 PWN:accustomed.s.02		normal	
 PWN:accustomed.s.02		ordinaire	
+PWN:accustomed.s.02		usuel	
 PWN:ace.n.03		as	
 PWN:ace.n.03		expert	
 PWN:ace.n.03		génie	
@@ -791,7 +791,6 @@ PWN:animal.n.01		faune
 PWN:animal.n.01		être	
 PWN:animation.n.01		vie	
 PWN:anion.n.01		anion	
-PWN:anion.n.01		anion	
 PWN:ankle.n.01		cheville	
 PWN:ankle.n.01		enkel	
 PWN:annex.n.01		aile	
@@ -804,7 +803,6 @@ PWN:announce.v.02		annoncer
 PWN:announce.v.02		déclarer	
 PWN:announce.v.04		annoncer	
 PWN:announce.v.04		prédire	
-PWN:anode.n.01		anode	
 PWN:anode.n.01		anode	
 PWN:anoint.v.02		enduire	
 PWN:anoint.v.02		huile	
@@ -1305,9 +1303,8 @@ PWN:bald.s.02		chauve
 PWN:ball.n.01		bal	
 PWN:ball.n.01		balle	
 PWN:ball.n.01		ballon	
-PWN:ball.n.01		couille	
-PWN:ball.n.01		balle	
 PWN:ball.n.01		boule	
+PWN:ball.n.01		couille	
 PWN:ball.n.01		sphère	
 PWN:ball.n.03		Terre	
 PWN:ball.n.03		bal	
@@ -1321,7 +1318,6 @@ PWN:ball.n.08		boule
 PWN:ball.n.09		bal	
 PWN:ball.n.09		balle	
 PWN:ball.n.09		boule	
-PWN:ball.n.09		bal	
 PWN:ballerina.n.01		ballerine	
 PWN:ballerina.n.01		premier danseur	
 PWN:ballet.n.01		ballet	
@@ -1850,8 +1846,8 @@ PWN:boil.v.03		souder
 PWN:boil_down.v.02		concentrer	
 PWN:boil_down.v.02		souder	
 PWN:boisterous.s.03		agité	
-PWN:bolshevik.n.02		bolchevique	
 PWN:bolshevik.n.02		bolchevik	
+PWN:bolshevik.n.02		bolchevique	
 PWN:bolshevism.n.01		bolchevisme	
 PWN:bolt.n.03		serrure	
 PWN:bolt.n.03		verrou	
@@ -2454,8 +2450,6 @@ PWN:catcher.n.01		receveur
 PWN:category.n.02		catégorie	
 PWN:caterpillar.n.01		chenille	
 PWN:cathode.n.01		cathode	
-PWN:cathode.n.01		cathode	
-PWN:cation.n.01		cation	
 PWN:cation.n.01		cation	
 PWN:cattle.n.01		bos primigenius f. taurus	
 PWN:cattle.n.01		bos primigenius taurus	
@@ -2520,7 +2514,6 @@ PWN:cellular_telephone.n.01		téléphone portable
 PWN:cemetery.n.01		Cimetière	
 PWN:cemetery.n.01		cimetière	
 PWN:cemetery.n.01		nécropole	
-PWN:cemetery.n.01		cimetière	
 PWN:center.n.01		centre	
 PWN:center.n.01		coeur	
 PWN:center.n.01		milieu	
@@ -3386,7 +3379,6 @@ PWN:construct.v.01		construire
 PWN:construction.n.01		bâtiment	
 PWN:construction.n.01		construction	
 PWN:construction.n.01		immeuble	
-PWN:construction.n.01		bâtiment	
 PWN:consult.v.01		consulter	
 PWN:consume.v.02		consommer	
 PWN:consume.v.02		prendre	
@@ -3827,8 +3819,8 @@ PWN:dance.v.01		danser
 PWN:dance.v.02		danse	
 PWN:dance.v.02		danser	
 PWN:dance_step.n.01		pas	
-PWN:dancing.n.01		danse	
 PWN:dancing.n.01		dance	
+PWN:dancing.n.01		danse	
 PWN:dandruff.n.02		pellicule	
 PWN:dandruff.n.02		pellicules	
 PWN:danger.n.01		danger	
@@ -5083,6 +5075,7 @@ PWN:epoch.n.03		époque
 PWN:equal.a.01		égal	
 PWN:equal.v.01		égaler	
 PWN:equal.v.01		être	
+PWN:equality.n.01		égalité
 PWN:equator.n.01		équateur	
 PWN:equine.n.01		équin	
 PWN:equip.v.01		munir	
@@ -5692,7 +5685,6 @@ PWN:fire.n.03		feu
 PWN:fire.n.03		flamme	
 PWN:fire.n.03		incendie	
 PWN:fire.n.03		propagateur	
-PWN:fire.n.03		flamme	
 PWN:fire.n.05		eau	
 PWN:fire.n.05		eau minérale	
 PWN:fire.n.05		nappe	
@@ -7244,7 +7236,10 @@ PWN:induce.v.02		motiver
 PWN:industry.n.01		industrie	
 PWN:industry.n.02		fabrication	
 PWN:industry.n.02		industrie	
+PWN:inequality.n.01		inégalité
+PWN:inequality.n.01		inéquation
 PWN:infection.n.01		infection	
+PWN:infinite.a.01		infini
 PWN:inflammation.n.01		inflammation	
 PWN:inflate.v.02		gonfler	
 PWN:inflation.n.01		inflation	
@@ -7709,8 +7704,6 @@ PWN:knot.n.02		nud
 PWN:knot.n.02		nœud	
 PWN:knot.v.02		nouer	
 PWN:know-how.n.01		savoir-faire	
-PWN:know.v.01		connaître	
-PWN:know.v.01		savoir	
 PWN:know.v.01		connaître	
 PWN:know.v.01		savoir	
 PWN:know.v.02		connaître	
@@ -9801,6 +9794,11 @@ PWN:pedal.n.02		pédaler
 PWN:peel.n.02		peau	
 PWN:peel.n.02		peler	
 PWN:peel.n.02		épiderme	
+PWN:peer.n.01		allumette
+PWN:peer.n.01		pareil
+PWN:peer.n.01		égal
+PWN:peer.n.01		égalitaire
+PWN:peer.n.01		équivalent
 PWN:peg.n.01		sardine	
 PWN:pen.n.01		plume	
 PWN:pen.n.01		stylo	
@@ -10780,7 +10778,6 @@ PWN:queen.n.08		reine
 PWN:question.n.01		question	
 PWN:question.n.03		interrogatif	
 PWN:question.n.03		interrogatoire	
-PWN:question.n.03		question	
 PWN:question.n.03		question	
 PWN:quickly.r.01		diligemment	
 PWN:quickly.r.01		rapidement	
@@ -13772,6 +13769,7 @@ PWN:underwear.n.01		dessous
 PWN:underwear.n.01		sous-vêtement	
 PWN:undress.v.01		déshabiller	
 PWN:undress.v.01		dévêtir	
+PWN:unequal.a.01		inégal
 PWN:unfold.v.03		étendre	
 PWN:unfold.v.04		fermer	
 PWN:unfold.v.04		ouvert	
@@ -14484,7 +14482,6 @@ PWN:young_buck.n.01		young buck
 PWN:youth.n.05		jeunesse	
 PWN:ytterbium.n.01		ytterbium	
 PWN:yttrium.n.01		yttrium	
-PWN:yurt.n.01		yourte	
 PWN:yurt.n.01		yourte	
 PWN:zebra.n.01		zèbre	
 PWN:zero.s.01		zéro	
