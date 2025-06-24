@@ -1,21 +1,22 @@
 id	style	word	morphology	etymology
-PLX:1PL EXCL.pro		damimen	da·mi·men	
-PLX:1PL INCL.pro		tumimen	tu·mi·men	
-PLX:1PL POSS.pro		mimen su	mi·men su	
-PLX:1PL.pro		mimen	mi·men	
-PLX:1SG POSS.pro		mi su	mi su	
+PLX:1PL EXCL.pro		demi	de·mi	
+PLX:1PL INCL.pro		yumi	yu·mi	
+PLX:1PL POSS.pro		vi's	vi's	
+PLX:1PL.pro		vi	vi	
+PLX:1SG POSS.pro		mi's	mi's	
 PLX:1SG.pro		mi	mi	eng:fra:por:me, spa:mi; me, fas: من‎ (man), hin:मैं (mẽ), ben:আমি (ami), ful:mi, swa:mimi
-PLX:2PL POSS.pro		tumen su	tu·men su	
-PLX:2PL.pro		tumen	tu·men	
-PLX:2SG POSS.pro		tu su	tu su	
+PLX:2PL POSS.pro		yu's	yu's	
+PLX:2PL.pro		yu	yu	
+PLX:2SG POSS.pro		tu's	tu's	
 PLX:2SG.pro		tu	tu	deu:du, fra:por:tu, spa:tú, rus:ты (ty), fas: تو‎ (to), hin:तू (tū), ben:তুই (tui)
-PLX:3PL POSS.pro		damen su	da·men su	
-PLX:3PL.pro		damen	da·men	
-PLX:3SG POSS.pro		da su	da su	
-PLX:3SG.pro		da	da	eng:he; her, ara: هُوَ (huwa); هِيَ (hiya), heb: הו (hū); הי (hī)
+PLX:2SG.pro	form.	yu	yu	
+PLX:3PL POSS.pro		de's	de's	
+PLX:3PL.pro		de	de	
+PLX:3SG POSS.pro		hi’s	hi’s	
+PLX:3SG.pro		hi	hi	eng:he; her, ara: هُوَ (huwa); هِيَ (hiya), heb: הו (hū); הי (hī)
 PLX:Asian dragon.n		lung	lung	zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jpn:竜 (ryū), khm:រោង (roong), tha:มะโรง (má-roong)
 PLX:COND.v		vud	vud	eng:would
-PLX:PASS.v		bi	bi	zho:被 (bèi), yue:被 (bei6), wuu:被 (bé), jpn:被 (bi-), kor:피— (pi-), vie:bị + eng:be
+PLX:PASS.v		ben	ben	zho:被 (bèi), yue:被 (bei6), wuu:被 (bé) + eng:be; been
 PLX:Pan-African.a		panafrikan	pan.afrik·an	
 PLX:Pan-American.a		panamerikan	pan.amerika·n	
 PLX:Pan-Asian.a		panasian	pan.as·ia·n	
@@ -28,11 +29,11 @@ PLX:and.cnj		e	e	eng:and, fra:et, por:e, spa:y; e, zho:和 (hé), ful:e
 PLX:antifascism.n		antifashisme	anti.fash·ism'e	
 PLX:anyone.pro		eni von	eni von	
 PLX:anything.pro		eni ting	eni ting	
-PLX:at.pp		na	na	ibo:lin:ktu:na, por:em; na, rus:на (na)
-PLX:because.cnj		ze sabab di	ze sabab di	
+PLX:at.pp		a	a	fra:à, spa:por:a, eng:at; a-, rus:а- (a-), hau:a, ful:haa
+PLX:because.cnj		a sabab of	a sabab of	
 PLX:before.pp		pre	pre	eng:fra:spa:por:pre-, hin:प्र- (pra-), ben:প্র- (prô-), may:pra-
 PLX:beside.pp		para	para	eng:fra:spa:por:para-, fas: پیرا‎ (pīrā-)
-PLX:between.pp		na mide di	na mide di	
+PLX:between.pp		a mid of	a mid of	
 PLX:bon voyage.int		sal safar	sal safar	
 PLX:by means of.pp		be	be	eng:by, fas: به (be), ara: بِـ (bi-)
 PLX:can.v		kan	kan	eng:can, deu:können, zho:可 (kě), jpn:可 (ka), kor:가 (ga), vie:khả
@@ -41,7 +42,7 @@ PLX:conlanger.n		bashkonstruer	bash·konstru·er
 PLX:during.pp		duran	dura·n	
 PLX:everyone.pro		evri von	evri von	
 PLX:everything.pro		evri ting	evri ting	
-PLX:from.pp		ze	ze	fas: از (az), ز (ze), rus:из (iz), hin:से (-se), zho:自 (zì), yue:自 (zi6) + fra:spa:por:de
+PLX:from.pp		of	of	eng:of
 PLX:genderology.n		jenerolojia	jen·er·o·loj·ia	
 PLX:haha.int		haha	haha	eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)
 PLX:hello.int		halo	halo	eng:hello,  zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo
@@ -51,8 +52,8 @@ PLX:hey.int		hei	hei	eng:hey, fra:hé, spa:hey, por:ei, rus:эй (ey), zho:喂 (
 PLX:how many.pro		hau poli	hau poli	
 PLX:how.pro		hau	hau	
 PLX:how.pro		vat vei	vat vei	
-PLX:if.cnj		si	si	fra:spa:si, por:se
-PLX:instead of.pp		na plas di	na plas di	
+PLX:if.cnj		if	if	eng:if
+PLX:instead of.pp		a plas of	a plas of	
 PLX:kendo.n		gemdao	gem·dao	
 PLX:kyudo.n		gung dao	gung dao	
 PLX:may.v		halal	halal	
@@ -71,23 +72,23 @@ PLX:some.a		som	som	eng:some
 PLX:someone.pro		som von	som von	
 PLX:tectonic plate.n		geo plate	geo plat'e	
 PLX:tennessine.n		tenesium	tenes·ium	eng:fra:por:may:tennessine, spa:teneso, rus:теннессин, jpn:テネシン, kor:우눈셉튬
-PLX:than.pp		ka	ka	fra:spa:por:que, ron:ca, rus:как (kak), ara: كَـ (ka-)
+PLX:than.pp		az	az	eng:as, afr:as, deu:als, fas: از (az)
 PLX:thanks.int		danke	dank'e	
-PLX:this.pro		ye	ye	
+PLX:this.pro		da hir	da hir	
 PLX:through.pp		tra	tra	
-PLX:to.pp		do	do	rus:до (do), eng:to, zho:到 (dào), yue:到 (dou3)
+PLX:to.pp		do	do	
 PLX:via.pp		via	via	eng:fra:por:deu:via, spa:vía
 PLX:welcome.int		vel kom	vel kom	
-PLX:what.pro		ke	ke	fra:que, spa:qué, por:o que + ben:কে  (ke), fas: کی (ki)
-PLX:what.pro		ke ting	ke ting	
-PLX:when.pro		ke tem	ke tem	
-PLX:where.pro		ke plas	ke plas	
-PLX:who.pro		ke	ke	
-PLX:who.pro		ke hom	ke hom	
+PLX:what.pro		vat	vat	eng:what, deu:was, ned:wat, sve:vad
+PLX:what.pro		vat ting	vat ting	
+PLX:when.pro		vat tem	vat tem	
+PLX:where.pro		vat plas	vat plas	
+PLX:who.pro		hu	hu	
 PLX:with.pp		kon	kon	eng:con-; common, fra:con-; commun, spa:con-; común, por:con-; comum, rus:кон- (kon-) + zho:共 (gòng), yue:共 (gung), kor:공 (gong), vie:cộng
 PLX:without.pp		no kon	no kon	
 PLX:worldbuilding.n		dunia bination	dun·ia bina·tion	
-PLX:yes.ptcl		ya	ya	eng:yes; yeah, deu:ja, kor:예 (ye), may:ya
+PLX:yes.ptcl		ye	ye	eng:yes; yeah, deu:ja, kor:예 (ye), may:ya
+PLX:yes.ptcl		yes	yes	
 PLX:younger sibling.n		jun sib	jun sib	
 PWN:about.r.07		karib	karib	
 PWN:absorb.v.04		asorbe	a.sorb’e	
