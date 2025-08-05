@@ -28,6 +28,11 @@ sort_and_uniq() {
         # Filename form is 'dict/L/lang.tsv'
         filename="$dir/$firstchar/$line.tsv"
 
+        # Use Unix-style line endings
+        dos2unix $filename
+        # Delete trailing tabs
+        sed 's/\t*$//' -i $filename
+
         sort_and_uniq_one_file $filename
     done
 
