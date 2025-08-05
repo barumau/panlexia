@@ -26,7 +26,7 @@ PLX:Pan-European.a		paneurooppalainen
 PLX:about.pp		-sta	
 PLX:about.pp		aiheesta	
 PLX:after.pp		jälkeen	
-PLX:aha.int		ahaa
+PLX:aha.int		ahaa	
 PLX:and.cnj		ja	jɑ
 PLX:and.cnj		sekä	
 PLX:antifascism.n		antifasismi	
@@ -51,10 +51,13 @@ PLX:bon voyage.int		hyvää matkaa
 PLX:can.v		kyetä	
 PLX:can.v		osata	ɔsɑtɑ
 PLX:can.v		voida	
+PLX:denialism.n		denialismi	
+PLX:denialism.n		epämiellyttävän totuuden kiistäminen	
 PLX:die (from accident).V		kuolla	kuɔ̯lːɑ
 PLX:die (from accident).V		saada surmansa	sɑːdɑ sʊrmɑnsɑ
 PLX:during.pp		aikana	
 PLX:during.pp		kuluessa	
+PLX:eh.ptcl		vai mitä	
 PLX:everyone.pro		jokainen ihminen	
 PLX:everything.pro		jokainen asia	
 PLX:everywhere.pro		kaikkialla	kɑi̯kːiɑlːɑ
@@ -667,11 +670,11 @@ PWN:agency.n.02		agentuuri
 PWN:agency.n.02		edustus	
 PWN:agency.n.03		toiminta	
 PWN:agency.n.03		vaikutus	
-PWN:agenda.n.02		esityslista
-PWN:agenda.n.02		kokousjärjestys
-PWN:agenda.n.02		käsittelyjärjestys
-PWN:agenda.n.02		neuvotteluohjelma
-PWN:agenda.n.02		työjärjestys
+PWN:agenda.n.02		esityslista	
+PWN:agenda.n.02		kokousjärjestys	
+PWN:agenda.n.02		käsittelyjärjestys	
+PWN:agenda.n.02		neuvotteluohjelma	
+PWN:agenda.n.02		työjärjestys	
 PWN:agent.n.02		agentti	
 PWN:agent.n.02		asiamies	
 PWN:agent.n.02		edustaja	
@@ -842,6 +845,7 @@ PWN:alloy.n.01		seos
 PWN:almond.n.01		manteli	
 PWN:almond.n.02		makea manteli	
 PWN:almond.n.02		manteli	
+PWN:alms.n.01		almut
 PWN:alone.r.02		yksin	ʏksin
 PWN:alone.s.02		yksinäinen	
 PWN:along.r.01		eespäin	
@@ -869,22 +873,22 @@ PWN:always.r.01		aina	ɑi̯nɑ
 PWN:always.r.01		koko ajan	
 PWN:amateur.n.01		amatööri	
 PWN:amateur.n.01		harrastaja	
-PWN:amaze.v.01		hämmästyttää
-PWN:amaze.v.01		tyrmistyttää
-PWN:amaze.v.01		yllättää
-PWN:amaze.v.01		ällistyttää
+PWN:amaze.v.01		hämmästyttää	
+PWN:amaze.v.01		tyrmistyttää	
+PWN:amaze.v.01		yllättää	
+PWN:amaze.v.01		ällistyttää	
 PWN:amazed.s.01		hämmästynyt	
 PWN:amazed.s.01		hölmistynyt	
 PWN:amazed.s.01		yllättynyt	
 PWN:amazed.s.01		ällistynyt	
-PWN:amazing.s.02		hirveä
-PWN:amazing.s.02		hirvittävä
-PWN:amazing.s.02		hämmästyttävä
-PWN:amazing.s.02		kamala
-PWN:amazing.s.02		kauhea
-PWN:amazing.s.02		kunnioitusta herättävä
-PWN:amazing.s.02		pelkoa herättävä
-PWN:amazing.s.02		pelottava
+PWN:amazing.s.02		hirveä	
+PWN:amazing.s.02		hirvittävä	
+PWN:amazing.s.02		hämmästyttävä	
+PWN:amazing.s.02		kamala	
+PWN:amazing.s.02		kauhea	
+PWN:amazing.s.02		kunnioitusta herättävä	
+PWN:amazing.s.02		pelkoa herättävä	
+PWN:amazing.s.02		pelottava	
 PWN:amazon.n.03		Amazon	
 PWN:amazon.n.03		Amazon-joki	
 PWN:amazon.n.03		Amazonjoki	
@@ -1033,20 +1037,20 @@ PWN:antibiotic.a.01		antibioottinen
 PWN:antic.n.01		kepponen	
 PWN:antic.n.01		kuje	
 PWN:antichrist.n.01		antikristus	
-PWN:anticipate.v.03		nähdä ennakolta
-PWN:anticipate.v.03		odottaa
-PWN:anticipate.v.03		tietää ennakolta
+PWN:anticipate.v.03		nähdä ennakolta	
+PWN:anticipate.v.03		odottaa	
+PWN:anticipate.v.03		tietää ennakolta	
 PWN:anticipation.n.01		ennakointi	
 PWN:anticipation.n.01		odotus	
 PWN:antimony.n.01		alkuaineen järjestysluku 51	
 PWN:antimony.n.01		antimoni	
-PWN:antique.s.02		antiikkinen
-PWN:antique.s.02		entinen
-PWN:antique.s.02		kulunut
-PWN:antique.s.02		pois muodista jäänyt
-PWN:antique.s.02		pois muodista oleva
-PWN:antique.s.02		poissa muodista oleva
-PWN:antique.s.02		vanhanaikainen
+PWN:antique.s.02		antiikkinen	
+PWN:antique.s.02		entinen	
+PWN:antique.s.02		kulunut	
+PWN:antique.s.02		pois muodista jäänyt	
+PWN:antique.s.02		pois muodista oleva	
+PWN:antique.s.02		poissa muodista oleva	
+PWN:antique.s.02		vanhanaikainen	
 PWN:antithesis.n.01		antiteesi	
 PWN:antithesis.n.01		vastakohta	
 PWN:antithetic.s.01		vasta-	
@@ -2655,9 +2659,9 @@ PWN:bring_around.v.02		tervehdyttää
 PWN:bring_around.v.02		terveyttää	
 PWN:broach.v.01		aloittaa	
 PWN:broach.v.01		ottaa puheeksi	
-PWN:broad.s.06		avara
-PWN:broad.s.06		laaja
-PWN:broad.s.06		tilava
+PWN:broad.s.06		avara	
+PWN:broad.s.06		laaja	
+PWN:broad.s.06		tilava	
 PWN:broad_bean.n.01		härkäpapu	
 PWN:broad_bean.n.01		peltopapu	
 PWN:broadcast.n.02		lähetys	
@@ -2685,13 +2689,13 @@ PWN:brown.s.01		ruskea
 PWN:brown.s.01		ruskeahko	
 PWN:brown.s.01		suklaanruskea	
 PWN:brown.s.01		tummanruskea	
-PWN:browse.v.03		selata
-PWN:browse.v.03		surffata
-PWN:browser.n.01		katselija
-PWN:browser.n.01		kiertelijä
-PWN:browser.n.01		selain
-PWN:browser.n.02		selain
-PWN:browser.n.02		verkkoselain
+PWN:browse.v.03		selata	
+PWN:browse.v.03		surffata	
+PWN:browser.n.01		katselija	
+PWN:browser.n.01		kiertelijä	
+PWN:browser.n.01		selain	
+PWN:browser.n.02		selain	
+PWN:browser.n.02		verkkoselain	
 PWN:bruise.n.01		kontuusio	
 PWN:bruise.n.01		mustelma	
 PWN:bruise.n.01		ruhjevamma	
@@ -2861,9 +2865,9 @@ PWN:cadaver.n.01		tomumaja
 PWN:cadaver.n.01		vainaja	
 PWN:cadmium.n.01		järjestysluku 48	
 PWN:cadmium.n.01		kadmium	
-PWN:cafe.n.01		kahvila
-PWN:cafe.n.01		kahvipaikka
-PWN:cafe.n.01		kuppila
+PWN:cafe.n.01		kahvila	
+PWN:cafe.n.01		kahvipaikka	
+PWN:cafe.n.01		kuppila	
 PWN:caftan.n.02		kaapu	
 PWN:caftan.n.02		kaftaani	
 PWN:caftan.n.02		kauhtana	
@@ -2898,10 +2902,10 @@ PWN:call.n.01		puhelu
 PWN:call.n.09		pyyntö	
 PWN:call.v.03		soittaa	
 PWN:call.v.05		kutsua	kʊt͡sʊɑ
-PWN:call.v.05		kuuluttaa; manata
+PWN:call.v.05		kuuluttaa; manata	
 PWN:call.v.07		kutsua koolle	
-PWN:call_in.v.01		kutsua
-PWN:call_in.v.01		kutsua tykö
+PWN:call_in.v.01		kutsua	
+PWN:call_in.v.01		kutsua tykö	
 PWN:call_on_the_carpet.v.01		haukkua	
 PWN:call_on_the_carpet.v.01		kritisoida	
 PWN:call_on_the_carpet.v.01		läksyttää	
@@ -3270,8 +3274,8 @@ PWN:channel.n.01		siirtokanava
 PWN:chap.n.01		heppu	
 PWN:chap.n.01		kaveri	
 PWN:chap.n.01		mies	
-PWN:chapatti.n.01		chapati
-PWN:chapatti.n.01		chapatti
+PWN:chapatti.n.01		chapati	
+PWN:chapatti.n.01		chapatti	
 PWN:chapter.n.01		jakso	
 PWN:chapter.n.01		luku	
 PWN:chapter.n.01		tarinan osa	
@@ -3298,10 +3302,11 @@ PWN:charcoal.n.01		puuhiili
 PWN:charge.n.03		maksu	
 PWN:charge.n.08		maksu	
 PWN:charge.n.08		rasitus	
-PWN:charge.v.02		syyttää
+PWN:charge.v.02		syyttää	
 PWN:charge.v.03		laskuttaa	
 PWN:charge.v.03		veloittaa	
 PWN:charge.v.08		ahtaa täyteen	
+PWN:charity.n.03		hyväntekeväisyys
 PWN:chart.n.01		kaavio	
 PWN:chase.v.01		ajaa takaa	
 PWN:chase.v.01		jahdata	
@@ -3452,8 +3457,8 @@ PWN:china.n.01		Kiina
 PWN:china.n.01		Manner-Kiina	
 PWN:china.n.01		PRC	
 PWN:china.n.01		kommunistinen Kiina	
-PWN:chinchilla.n.03		chinchilla
-PWN:chinchilla.n.03		sinsilla
+PWN:chinchilla.n.03		chinchilla	
+PWN:chinchilla.n.03		sinsilla	
 PWN:chinese.n.01		kiina	
 PWN:chinese.n.01		kiinankieli	
 PWN:chinese.n.02		kiinalainen	
@@ -3490,15 +3495,15 @@ PWN:christmas.n.01		joulu
 PWN:christmas.n.01		joulunaika	
 PWN:chromium.n.01		järjestysluku 24	
 PWN:chromium.n.01		kromi	
-PWN:chronic.s.02		jatkuva
-PWN:chronic.s.02		pitkällinen
+PWN:chronic.s.02		jatkuva	
+PWN:chronic.s.02		pitkällinen	
 PWN:chronology.n.01		aikajärjestys	
 PWN:chrysanthemum.n.01		päivänkakkara	
 PWN:church.n.01		kirkko	
 PWN:church.n.01		kristillinen kirkko	
 PWN:church.n.02		kirkko	kirkːɔ
 PWN:church.n.02		kirkkorakennus	
-PWN:church.n.04		seurakunta
+PWN:church.n.04		seurakunta	
 PWN:church_service.n.01		jumalanpalvelus	
 PWN:church_service.n.01		kirkonmenot	
 PWN:cigarette.n.01		kessu	
@@ -3943,8 +3948,8 @@ PWN:compare.v.03		verrata
 PWN:comparison.n.01		vertaaminen	
 PWN:comparison.n.01		vertailu	
 PWN:comparison.n.02		vertailu	
-PWN:compass.n.01		kompassi
-PWN:compass.n.04		harppi
+PWN:compass.n.01		kompassi	
+PWN:compass.n.04		harppi	
 PWN:compass_point.n.01		kompassipiiru	
 PWN:compass_point.n.01		piiru	
 PWN:compassion.n.01		kanssakärsimys	
@@ -4234,7 +4239,7 @@ PWN:control.v.02		tasoittaa
 PWN:control.v.02		tyynnyttää	
 PWN:conventicle.n.02		kokoushuone	
 PWN:conventicle.n.02		rukoushuone	
-PWN:conventionalized.s.01		tyylitelty
+PWN:conventionalized.s.01		tyylitelty	
 PWN:convergence.n.01		läheneminen	
 PWN:conversation.n.01		keskustelu	kɛskʊstɛlʊ
 PWN:conversation.n.01		puhelu	pʊhɛlʊ
@@ -4321,7 +4326,7 @@ PWN:corpulent.s.01		painava
 PWN:corpulent.s.01		pullea	
 PWN:correct.a.01		oikea	
 PWN:correct.a.01		oikeellinen; oikein	
-PWN:correct.s.03		oikea
+PWN:correct.s.03		oikea	
 PWN:correct.v.01		korjata	
 PWN:correct.v.01		oikaista	
 PWN:correction.n.01		korjaaminen	
@@ -4340,9 +4345,9 @@ PWN:cosmology.n.01		kosmogonia
 PWN:cosmology.n.01		kosmologia	
 PWN:cosmology.n.02		kosmogonia	
 PWN:cosmology.n.02		kosmologia	
-PWN:cosmopolitan.s.03		maailmalaajuinen
-PWN:cosmopolitan.s.03		maailmanlaajuinen
-PWN:cosmopolitan.s.03		yleismaailmallinen
+PWN:cosmopolitan.s.03		maailmalaajuinen	
+PWN:cosmopolitan.s.03		maailmanlaajuinen	
+PWN:cosmopolitan.s.03		yleismaailmallinen	
 PWN:cost.n.01		kustannus	
 PWN:cost.v.01		maksaa	
 PWN:cost.v.01		olla	
@@ -5270,8 +5275,8 @@ PWN:disorder.v.02		sekoittaa
 PWN:disown.v.02		hylätä	
 PWN:disown.v.02		kieltäytyä tunnustamasta	
 PWN:disown.v.02		kieltää	
-PWN:disparate.s.01		erilainen
-PWN:disparate.s.01		vertailukelvoton
+PWN:disparate.s.01		erilainen	
+PWN:disparate.s.01		vertailukelvoton	
 PWN:dispatch.n.02		lähetys	
 PWN:dispatch.n.02		toimitus	
 PWN:dispatch.v.01		lähettää	
@@ -5414,7 +5419,7 @@ PWN:dominance.n.02		vaikutusvalta
 PWN:dominance.n.02		valta	
 PWN:dominance.n.02		valta-asema	
 PWN:dominance.n.02		ylivalta	
-PWN:dominion.n.01		herruus
+PWN:dominion.n.01		herruus	
 PWN:dominoes.n.01		dominopeli	
 PWN:donate.v.01		antaa	
 PWN:donate.v.01		lahjoittaa	
@@ -5436,8 +5441,8 @@ PWN:dough.n.01		taikina
 PWN:dove.n.01		kyyhkynen	
 PWN:down.r.01		alas	ɑlɑs
 PWN:down.r.01		alaspäin	
-PWN:download.v.01		ladata
-PWN:download.v.01		noutaa
+PWN:download.v.01		ladata	
+PWN:download.v.01		noutaa	
 PWN:drag.v.01		kiskoa	
 PWN:drag.v.01		raahata	rɑːhɑtɑ
 PWN:drag.v.01		vetää	
@@ -5459,8 +5464,8 @@ PWN:dramaturgy.n.01		dramatiikka
 PWN:dramaturgy.n.01		dramaturgia	
 PWN:dramaturgy.n.01		näyttämötaide	
 PWN:dramaturgy.n.01		teatteri	
-PWN:draw.n.04		arpa
-PWN:draw.n.04		arvonta
+PWN:draw.n.04		arpa	
+PWN:draw.n.04		arvonta	
 PWN:draw.v.06		piirtää	
 PWN:draw.v.07		nostaa	
 PWN:draw.v.10		saada aikaan	
@@ -5645,8 +5650,8 @@ PWN:eccentric.n.01		eriskummallinen henkilö
 PWN:eccentric.n.01		kumma tyyppi	
 PWN:eccentric.n.01		nörtti	
 PWN:eccentric.n.01		omalaatuinen tyyppi	
-PWN:ecclesiastical.a.01		hengellinen
-PWN:ecclesiastical.a.01		kirkollinen
+PWN:ecclesiastical.a.01		hengellinen	
+PWN:ecclesiastical.a.01		kirkollinen	
 PWN:echinoderm.n.01		piikkinahkainen	
 PWN:eclipse.n.01		okkultaatio	
 PWN:eclipse.n.01		pimennys	
@@ -5903,8 +5908,8 @@ PWN:engineering.n.02		insinööritiede
 PWN:engineering.n.02		soveltava tiede	
 PWN:engineering.n.02		tekniikka	
 PWN:engineering.n.02		teknillinen tiede	
-PWN:english.a.01		Englannin
-PWN:english.a.01		englantilainen
+PWN:english.a.01		Englannin	
+PWN:english.a.01		englantilainen	
 PWN:enjoy.v.02		nauttia jstk	
 PWN:enjoy.v.04		saada nauttia jstk	
 PWN:enlistment.n.01		armeija-aika	
@@ -5976,8 +5981,8 @@ PWN:equal.v.03		saattaa samanarvoiseksi
 PWN:equal.v.03		tehdä yhdenvertaiseksi	
 PWN:equal.v.03		yhdenmukaistaa	
 PWN:equal.v.03		yhtäläistää	
-PWN:equality.n.01		tasa-arvoisuus
-PWN:equality.n.01		yhdenmukaisuus
+PWN:equality.n.01		tasa-arvoisuus	
+PWN:equality.n.01		yhdenmukaisuus	
 PWN:equator.n.01		päiväntasaaja	
 PWN:equine.n.01		hevoseläin	
 PWN:equip.v.01		varustaa	
@@ -6030,9 +6035,9 @@ PWN:ethical_motive.n.01		siveellisyys
 PWN:ethnic_group.n.01		etninen ryhmä	
 PWN:ethyl.n.01		etyyli	
 PWN:ethyl_alcohol.n.01		etanoli	
-PWN:etymology.n.01		etymologia
-PWN:etymology.n.01		sanan alkuperä
-PWN:etymology.n.02		etymologia
+PWN:etymology.n.01		etymologia	
+PWN:etymology.n.01		sanan alkuperä	
+PWN:etymology.n.02		etymologia	
 PWN:eugenics.n.01		eugeniikka	
 PWN:euphoria.n.01		euforia	
 PWN:euphoria.n.01		huuma	
@@ -6114,8 +6119,8 @@ PWN:exclusive.s.01		eksklusiivinen
 PWN:exclusive.s.01		poissulkeva	
 PWN:excursion.n.01		ekskursio	
 PWN:excursion.n.01		retki	
-PWN:excuse.v.02		sallia poistuminen
-PWN:excuse.v.02		vapauttaa
+PWN:excuse.v.02		sallia poistuminen	
+PWN:excuse.v.02		vapauttaa	
 PWN:execute.v.01		teloittaa	
 PWN:executive.n.01		johtaja	
 PWN:executive.n.01		toimitusjohtaja	
@@ -6201,7 +6206,7 @@ PWN:explosive.n.01		räjähdysaine
 PWN:explosive_device.n.01		pommi	
 PWN:explosive_device.n.01		räjähde	
 PWN:export.n.01		vienti	
-PWN:expose.v.01		saattaa jnk vaikutuksen alaiseksi
+PWN:expose.v.01		saattaa jnk vaikutuksen alaiseksi	
 PWN:expose.v.03		asettaa esille	
 PWN:expose.v.03		asettaa näytteille	
 PWN:expose.v.03		panna näytteille	
@@ -6316,11 +6321,11 @@ PWN:fairytale.n.01		satu	sɑtʊ
 PWN:faith.n.02		luottamus	
 PWN:faith.n.02		usko	
 PWN:faithful.a.01		uskollinen	
-PWN:fake.s.02		jäljitelty
-PWN:fake.s.02		keino-
-PWN:fake.s.02		keinotekoinen
-PWN:fake.s.02		teko-
-PWN:fake.s.02		väärä
+PWN:fake.s.02		jäljitelty	
+PWN:fake.s.02		keino-	
+PWN:fake.s.02		keinotekoinen	
+PWN:fake.s.02		teko-	
+PWN:fake.s.02		väärä	
 PWN:fall.n.01		syksy	sʏksʏ
 PWN:fall.n.03		lankeemus	
 PWN:fall.n.05		lankeaminen	
@@ -6375,7 +6380,7 @@ PWN:fancify.v.01		kaunistella
 PWN:fancify.v.01		koristaa	
 PWN:fancify.v.01		koristella	
 PWN:fancify.v.01		somistaa	
-PWN:fantasy.n.02		fantasia
+PWN:fantasy.n.02		fantasia	
 PWN:far.a.01		kaukainen	
 PWN:far.r.02		kauas	
 PWN:far.r.02		kaukana	
@@ -7317,15 +7322,15 @@ PWN:government.n.01		hallitustapa
 PWN:government.n.01		valtioneuvosto	
 PWN:government.n.01		viranomainen	
 PWN:government.n.01		viranomaiset	
-PWN:government.n.02		hallinto
-PWN:government.n.02		hallintotoimet
-PWN:government.n.02		hallintotoiminta
-PWN:government.n.02		hallitseminen
-PWN:government.n.02		hallitustapa
-PWN:government.n.02		hallitustoimet
-PWN:government.n.02		hoito
-PWN:government.n.02		johtaminen
-PWN:government.n.02		johto
+PWN:government.n.02		hallinto	
+PWN:government.n.02		hallintotoimet	
+PWN:government.n.02		hallintotoiminta	
+PWN:government.n.02		hallitseminen	
+PWN:government.n.02		hallitustapa	
+PWN:government.n.02		hallitustoimet	
+PWN:government.n.02		hoito	
+PWN:government.n.02		johtaminen	
+PWN:government.n.02		johto	
 PWN:grace.n.01		armo	
 PWN:grace.n.01		armon tila	
 PWN:grace.n.01		hyvä puoli	
@@ -7396,9 +7401,9 @@ PWN:gravity.n.01		painovoima
 PWN:gravity.n.01		vetovoima	
 PWN:graze.v.02		raapaista	
 PWN:graze.v.02		raapia	
-PWN:greasy.s.02		niljakas
-PWN:greasy.s.02		rasvainen
-PWN:greasy.s.02		öljyinen
+PWN:greasy.s.02		niljakas	
+PWN:greasy.s.02		rasvainen	
+PWN:greasy.s.02		öljyinen	
 PWN:great_circle.n.01		isoympyrä	
 PWN:greece.n.01		Hellas	
 PWN:greece.n.01		Kreikka	
@@ -7419,8 +7424,8 @@ PWN:greet.v.02		lähettää terveisiä
 PWN:greeting.n.01		tervehdys	
 PWN:grey.s.01		harmaa	hɑrmɑː
 PWN:grey.s.01		harmahtava	
-PWN:grid.n.01		ristikko
-PWN:grid.n.01		ruudukko
+PWN:grid.n.01		ristikko	
+PWN:grid.n.01		ruudukko	
 PWN:griddle.n.01		muurinpohjapannu	
 PWN:griddle.n.01		paistolaatta	
 PWN:griddle.n.01		parila	
@@ -7771,10 +7776,10 @@ PWN:heavy.a.01		vaikea
 PWN:heavy.a.02		ankara	
 PWN:heavy.a.02		kova	
 PWN:heavy.a.02		vilkas	
-PWN:hedonism.n.01		hedonismi
-PWN:hedonist.n.01		hedonisti
-PWN:hedonist.n.01		nautiskelija
-PWN:hedonist.n.01		pakana
+PWN:hedonism.n.01		hedonismi	
+PWN:hedonist.n.01		hedonisti	
+PWN:hedonist.n.01		nautiskelija	
+PWN:hedonist.n.01		pakana	
 PWN:heed.v.01		huomata	
 PWN:heed.v.01		kuunnella	
 PWN:heed.v.01		ottaa huomioon	
@@ -8061,7 +8066,7 @@ PWN:house.n.01		koti
 PWN:house.n.01		talo	tɑlɔ
 PWN:house.n.03		veljeskunta	
 PWN:house.n.05		edustajainhuone	
-PWN:house.n.12		talo
+PWN:house.n.12		talo	
 PWN:house.v.02		antaa yösija	
 PWN:house.v.02		majoittaa	
 PWN:house.v.02		sijoittaa	
@@ -8172,7 +8177,7 @@ PWN:idea.n.01		ajatus	ɑjɑtʊs
 PWN:idea.n.01		idea	
 PWN:idea.n.01		miete	
 PWN:ideal.n.01		ihanne	
-PWN:idealism.n.01		idealismi
+PWN:idealism.n.01		idealismi	
 PWN:identical.s.01		identtinen	
 PWN:identical.s.01		samanlainen	
 PWN:identification.n.02		henkilöllisyystodistus	
@@ -8264,6 +8269,8 @@ PWN:immigrate.v.01		siirtyä
 PWN:immigrate.v.03		tulla siirtolaisena johonkin maahan	
 PWN:impartiality.n.01		puolueettomuus	
 PWN:impartiality.n.01		tasapuolisuus	
+PWN:impassable.a.01		kulkukelvoton
+PWN:impassable.a.01		ylipääsemätön
 PWN:impatient.a.01		kärsimätön	
 PWN:impede.v.01		ehkäistä	
 PWN:impede.v.01		estää	ɛstæː
@@ -8326,10 +8333,10 @@ PWN:inanition.n.01		uupumus
 PWN:inanition.n.01		velttous	
 PWN:incident.n.01		tapaus	
 PWN:incise.v.01		kaivertaa	
-PWN:incitement.n.03		kiihotin
-PWN:incitement.n.03		provokaatio
-PWN:incitement.n.03		yllyke
-PWN:incitement.n.03		ärsyke
+PWN:incitement.n.03		kiihotin	
+PWN:incitement.n.03		provokaatio	
+PWN:incitement.n.03		yllyke	
+PWN:incitement.n.03		ärsyke	
 PWN:inclination.n.01		luonteenlaatu	
 PWN:inclination.n.01		suuntaus	
 PWN:inclination.n.01		taipumus	
@@ -8401,10 +8408,10 @@ PWN:industry.n.01		teollisuudenhaara
 PWN:industry.n.02		teollisuus	
 PWN:industry.n.02		tuotanto	
 PWN:indwell.v.01		asua sisällä	
-PWN:inequality.n.01		eriarvoisuus
+PWN:inequality.n.01		eriarvoisuus	
 PWN:infection.n.01		infektio	
-PWN:infinite.a.01		loputon
-PWN:infinite.a.01		rajaton
+PWN:infinite.a.01		loputon	
+PWN:infinite.a.01		rajaton	
 PWN:inflammation.n.01		punaisuus	
 PWN:inflammation.n.01		punehtuminen	
 PWN:inflammation.n.01		tulehdus	
@@ -8463,7 +8470,7 @@ PWN:inning.n.01		kierros
 PWN:inning.n.01		vuoropari	
 PWN:innocent.a.01		syytön	
 PWN:innocent.a.01		viaton	
-PWN:input.n.04		panos
+PWN:input.n.04		panos	
 PWN:inscription.n.01		kaiverrus	
 PWN:inscription.n.01		kirjoitus	
 PWN:insect.n.01		hyönteinen	
@@ -8539,8 +8546,8 @@ PWN:intentionally.r.01		tarkoituksellisesti
 PWN:intentionally.r.01		tietoisesti	
 PWN:interact.v.01		vuorovaikuttaa	
 PWN:interaction.n.01		vuorovaikutus	
-PWN:interactional.s.01		vuorovaikuttava
-PWN:interactional.s.01		vuorovaikutteinen
+PWN:interactional.s.01		vuorovaikuttava	
+PWN:interactional.s.01		vuorovaikutteinen	
 PWN:interest.n.01		kiinnostus	
 PWN:interest.n.01		kiintymys	
 PWN:interest.n.03		mielenkiinto	
@@ -8925,7 +8932,7 @@ PWN:labor.v.02		rehkiä
 PWN:labor.v.02		uurastaa	
 PWN:lack.n.01		puute	
 PWN:lack.n.01		tarpeet	
-PWN:lacquer.n.02		lakka
+PWN:lacquer.n.02		lakka	
 PWN:lacrimal_secretion.n.01		kyynelneste	
 PWN:ladder.n.01		tikapuut	tikɑpuːt
 PWN:ladder.n.01		tikkaat	tikːɑːt
@@ -8963,9 +8970,9 @@ PWN:language_unit.n.01		kielen yksikkö
 PWN:lanthanum.n.01		atominumero 57	
 PWN:lanthanum.n.01		lantaani	
 PWN:lap.n.01		syli	
-PWN:lapis_lazuli.n.01		lapis lazuli
-PWN:lapis_lazuli.n.01		lapislatsuli
-PWN:lapis_lazuli.n.01		lasuriitti
+PWN:lapis_lazuli.n.01		lapis lazuli	
+PWN:lapis_lazuli.n.01		lapislatsuli	
+PWN:lapis_lazuli.n.01		lasuriitti	
 PWN:larboard.n.01		paapuuri	
 PWN:larceny.n.01		anastus	
 PWN:larceny.n.01		varastaminen	
@@ -8983,8 +8990,8 @@ PWN:last.v.01		kestää
 PWN:last.v.01		viedä aikaa	
 PWN:late.r.01		myöhässä	
 PWN:late.r.01		myöhään	
-PWN:latin.a.01		latinalainen
-PWN:latin.a.01		latinan
+PWN:latin.a.01		latinalainen	
+PWN:latin.a.01		latinan	
 PWN:laud.v.01		julistaa	
 PWN:laud.v.01		kiittää	
 PWN:laud.v.01		ylistää	
@@ -9095,7 +9102,7 @@ PWN:legislation.n.01		lainsäädäntö
 PWN:legislation.n.01		säädännäisoikeus	
 PWN:legislation.n.02		lainsäädäntä	
 PWN:legislature.n.01		lainsäädäntöelin	
-PWN:lemon.n.01		sitruuna
+PWN:lemon.n.01		sitruuna	
 PWN:lend.v.01		antaa	
 PWN:lend.v.01		antaa oma lisänsä	
 PWN:lend.v.01		lahjoittaa	
@@ -9135,7 +9142,7 @@ PWN:lever.n.01		kanki
 PWN:levy.n.01		vero	
 PWN:levy.v.01		panna veroa	
 PWN:levy.v.01		periä veroa	
-PWN:lexeme.n.01		lekseemi
+PWN:lexeme.n.01		lekseemi	
 PWN:liability.n.03		rasite	
 PWN:liability.n.03		vaaratekijä	
 PWN:liaison.n.02		keskinäinen kommunikointi	
@@ -9151,7 +9158,7 @@ PWN:library.n.04		kokoelma
 PWN:library.n.04		ohjelmakirjasto	
 PWN:library.n.05		kirjasto	
 PWN:license.n.01		lupa	
-PWN:license.n.04		lupa
+PWN:license.n.04		lupa	
 PWN:license_plate.n.01		rekisterikilpi	
 PWN:lichen.n.02		jäkälä	
 PWN:lick.v.02		lipittää	
@@ -9252,8 +9259,8 @@ PWN:linear_unit.n.01		lineaarinen yksikkö
 PWN:linen.n.01		pellava	
 PWN:linguist.n.02		kieli-ihminen	
 PWN:linguist.n.02		monikielinen ihminen	
-PWN:linguistic.a.01		kielellinen
-PWN:linguistic.a.01		lingvistinen
+PWN:linguistic.a.01		kielellinen	
+PWN:linguistic.a.01		lingvistinen	
 PWN:linguistic_relation.n.01		kielellinen suhde	
 PWN:linguistics.n.01		kielentutkimus	
 PWN:linguistics.n.01		kielitiede	
@@ -9420,9 +9427,9 @@ PWN:loss.n.04		menetys
 PWN:loss.n.04		puute	
 PWN:loss.n.06		alijäämä	
 PWN:loss.n.06		tappio	
-PWN:lottery.n.02		arpajaiset
-PWN:lottery.n.02		arvonta
-PWN:lottery.n.02		lotto
+PWN:lottery.n.02		arpajaiset	
+PWN:lottery.n.02		arvonta	
+PWN:lottery.n.02		lotto	
 PWN:loud.a.01		voimakas	
 PWN:loud.a.01		äänekäs	
 PWN:loudly.r.01		kovaäänisesti	
@@ -9461,10 +9468,10 @@ PWN:luck.n.02		sattuma
 PWN:luck.n.02		tuuri	
 PWN:luck.n.03		onni	
 PWN:luck.n.03		tuuri	
-PWN:lumbago.n.01		noidannuoli
-PWN:lumbago.n.01		ristiselkäkipu
-PWN:lumen.n.01		lm
-PWN:lumen.n.01		lumen
+PWN:lumbago.n.01		noidannuoli	
+PWN:lumbago.n.01		ristiselkäkipu	
+PWN:lumen.n.01		lm	
+PWN:lumen.n.01		lumen	
 PWN:luminosity.n.01		kirkkaus	
 PWN:luminosity.n.01		kirkkausaste	
 PWN:luminosity.n.01		luminanssi	
@@ -9501,9 +9508,9 @@ PWN:mafia.n.01		Mafia
 PWN:mafia.n.01		mafia	
 PWN:magazine.n.01		aikakausilehti	
 PWN:magazine.n.02		aikakausilehti	
-PWN:magazine.n.05		ammusvarasto
-PWN:magazine.n.05		asevarasto
-PWN:magazine.n.05		ruutivarasto
+PWN:magazine.n.05		ammusvarasto	
+PWN:magazine.n.05		asevarasto	
+PWN:magazine.n.05		ruutivarasto	
 PWN:magic.n.01		magia	
 PWN:magic.n.01		noituus	
 PWN:magic.n.01		taika	
@@ -9568,9 +9575,9 @@ PWN:make_noise.v.01		pitää ääntä
 PWN:make_up.v.09		meikata	
 PWN:maker.n.01		muovaaja	
 PWN:maker.n.01		tekijä	
-PWN:makeup.n.01		ehostus
-PWN:makeup.n.01		meikki
-PWN:makeup.n.01		sotamaalaus
+PWN:makeup.n.01		ehostus	
+PWN:makeup.n.01		meikki	
+PWN:makeup.n.01		sotamaalaus	
 PWN:male.a.01		koiras-	
 PWN:male.a.01		uros-	
 PWN:male.n.01		uros	
@@ -9667,7 +9674,7 @@ PWN:marital_status.n.01		aviosääty
 PWN:mark.n.01		arvosana	
 PWN:mark.n.01		numero	
 PWN:mark.n.01		pistemäärä	
-PWN:mark.n.04		jälki
+PWN:mark.n.04		jälki	
 PWN:mark.n.06		häpeämerkki	
 PWN:mark.n.06		leima	
 PWN:mark.n.06		stigma	
@@ -10019,8 +10026,8 @@ PWN:mind.v.06		ottaa huomioon
 PWN:mind.v.06		pitää mielessä	
 PWN:mine.n.01		kaivos	
 PWN:mine.v.01		kaivaa	
-PWN:miner.n.01		kaivosmies
-PWN:miner.n.01		kaivostyöläinen
+PWN:miner.n.01		kaivosmies	
+PWN:miner.n.01		kaivostyöläinen	
 PWN:mineral.n.01		mineraali	
 PWN:minibike.n.01		minimoto	
 PWN:minimize.v.01		minimoida	
@@ -10049,6 +10056,10 @@ PWN:misdemeanor.n.01		loukkaus
 PWN:misdemeanor.n.01		rikkominen	
 PWN:misdemeanor.n.01		rikkomus	
 PWN:misdemeanor.n.01		väärinkäytös	
+PWN:miserable.s.05		kurja
+PWN:miserable.s.05		viheliäinen
+PWN:misery.n.01		kurjuus
+PWN:misery.n.01		surkeus
 PWN:misfortune.n.01		epäonni	
 PWN:misfortune.n.01		onnettomuus	
 PWN:misfortune.n.02		ahdinko	
@@ -10252,7 +10263,7 @@ PWN:mumble.v.01		mumista
 PWN:mumble.v.01		mussuttaa	
 PWN:mumble.v.01		mutista	
 PWN:mumble.v.01		soperrella	
-PWN:mundane.s.02		maallinen
+PWN:mundane.s.02		maallinen	
 PWN:municipality.n.01		kunta	
 PWN:municipality.n.02		kunta	
 PWN:muntjac.n.01		muntjakki	
@@ -10359,8 +10370,8 @@ PWN:natural_science.n.01		luonnontiede
 PWN:natural_shape.n.01		luonnollinen muoto	
 PWN:naturalism.n.02		naturalismi	
 PWN:naturalism.n.02		realismi	
-PWN:naturalistic.s.01		realistinen
-PWN:naturalistic.s.01		todenmukainen
+PWN:naturalistic.s.01		realistinen	
+PWN:naturalistic.s.01		todenmukainen	
 PWN:nature.n.01		luonne	
 PWN:nature.n.01		olemus	
 PWN:nature.n.03		luonto	
@@ -10371,7 +10382,7 @@ PWN:nautical.a.01		meri-
 PWN:nautical.a.01		purjehdus-	
 PWN:naval_unit.n.01		laivastoyksikkö	
 PWN:navel.n.01		napa	nɑpɑ
-PWN:navigate.v.02		ohjata
+PWN:navigate.v.02		ohjata	
 PWN:navy.n.01		laivasto	
 PWN:navy.n.01		merivoimat	
 PWN:near.a.01		läheinen	
@@ -10570,10 +10581,10 @@ PWN:nothing.n.01		nolla
 PWN:nothing.n.01		tyhjyys	
 PWN:nothingness.n.01		olemattomuus	
 PWN:nothingness.n.01		tyhjyys	
-PWN:notice.v.04		huomata
-PWN:notice.v.04		kiinnittää huomiota
-PWN:notice.v.04		myöntää
-PWN:notice.v.04		tunnustaa
+PWN:notice.v.04		huomata	
+PWN:notice.v.04		kiinnittää huomiota	
+PWN:notice.v.04		myöntää	
+PWN:notice.v.04		tunnustaa	
 PWN:novel.n.01		kertomus	
 PWN:november.n.01		marrask.	
 PWN:november.n.01		marraskuu	mɑrːɑskuː
@@ -10828,7 +10839,7 @@ PWN:organized_crime.n.01		alamaailma
 PWN:organized_crime.n.01		järjestäytynyt rikollisuus	
 PWN:organized_crime.n.01		rikosmaailma	
 PWN:orientation.n.02		suuntautuminen	
-PWN:orientation.n.03		suunnistus
+PWN:orientation.n.03		suunnistus	
 PWN:orifice.n.01		aukko	
 PWN:orifice.n.01		portti	
 PWN:orifice.n.01		suu	
@@ -10983,7 +10994,7 @@ PWN:parabola.n.01		paraabeli
 PWN:parade.n.01		paraati	
 PWN:paradiddle.n.01		rummunpärinä	
 PWN:parallel.a.01		samansuuntainen	
-PWN:parameter.n.01		parametri
+PWN:parameter.n.01		parametri	
 PWN:parasite.n.01		loinen	
 PWN:parasite.n.01		parasiitti	
 PWN:parcel.n.02		osa	
@@ -11066,6 +11077,7 @@ PWN:passage.n.03		kulkureitti
 PWN:passage.n.07		tie	
 PWN:passeridae.n.01		Passeridae-heimo	
 PWN:passeridae.n.01		varpuset	
+PWN:passport.n.02		passi
 PWN:past.n.01		menneet vuodet	
 PWN:past.n.01		menneisyys	
 PWN:past.n.01		mennyt aika	
@@ -11092,6 +11104,7 @@ PWN:patience.n.01		pitkämielisyys
 PWN:patio.n.01		patio	
 PWN:patio.n.01		terassi	
 PWN:patronymic.n.01		patronyymi	
+PWN:pauper.n.01		köyhä
 PWN:pause.n.01		keskeytys	
 PWN:pause.n.01		paussi	
 PWN:pause.n.01		tauko	
@@ -11130,7 +11143,7 @@ PWN:peck.v.01		näykkäistä
 PWN:pedal.n.02		pedaali	
 PWN:pedal.n.02		poljin	
 PWN:peel.n.02		kuori	kuɔ̯ri
-PWN:peer.n.01		vertainen
+PWN:peer.n.01		vertainen	
 PWN:peg.n.01		puunaula	
 PWN:peg.n.01		tappi	
 PWN:peg.n.01		vaarna	
@@ -11193,7 +11206,7 @@ PWN:periphery.n.01		ääri	æːri
 PWN:perjury.n.01		valapattoisuus	
 PWN:perjury.n.01		väärä vala	
 PWN:permanent.a.01		pysyvä	
-PWN:permission.n.01		lupa
+PWN:permission.n.01		lupa	
 PWN:permit.v.01		antaa lupa	
 PWN:permit.v.01		sallia	
 PWN:perpetrate.v.01		panna toimeen	
@@ -11448,8 +11461,8 @@ PWN:please.r.01		ole hyvä
 PWN:please.r.01		olkaa hyvä	
 PWN:pleasure.n.01		mielihyvä	
 PWN:pleasure.n.01		nautinto	
-PWN:pleasure.n.04		huvi
-PWN:pliers.n.01		pihdit
+PWN:pleasure.n.04		huvi	
+PWN:pliers.n.01		pihdit	
 PWN:plot.n.01		juoni	
 PWN:plot.n.01		salajuoni	
 PWN:plot.n.02		maatilkku	
@@ -11470,16 +11483,16 @@ PWN:plum.n.01		luumu
 PWN:plum.n.01		luumupuu	
 PWN:plumb_line.n.01		luotisuora	
 PWN:plumb_line.n.01		luotiviiva	
-PWN:plunder.v.03		anastaa
-PWN:plunder.v.03		rosvota
-PWN:plunder.v.03		ryöstää
-PWN:plunder.v.03		ryövätä
-PWN:plunder.v.03		varastaa
-PWN:plunderer.n.01		roisto
-PWN:plunderer.n.01		rosvo
-PWN:plunderer.n.01		ryöstelijä
-PWN:plunderer.n.01		ryöstäjä
-PWN:plunderer.n.01		ryöväri
+PWN:plunder.v.03		anastaa	
+PWN:plunder.v.03		rosvota	
+PWN:plunder.v.03		ryöstää	
+PWN:plunder.v.03		ryövätä	
+PWN:plunder.v.03		varastaa	
+PWN:plunderer.n.01		roisto	
+PWN:plunderer.n.01		rosvo	
+PWN:plunderer.n.01		ryöstelijä	
+PWN:plunderer.n.01		ryöstäjä	
+PWN:plunderer.n.01		ryöväri	
 PWN:plutonium.n.01		järjestysluku 94	
 PWN:plutonium.n.01		plutonium	
 PWN:pocket.n.01		tasku	
@@ -11525,7 +11538,7 @@ PWN:polish.v.02		viimeistellä
 PWN:polish.v.03		hioa	
 PWN:polish.v.03		tehdä täydelliseksi	
 PWN:polish.v.03		viimeistellä	
-PWN:political.a.03		poliittinen
+PWN:political.a.03		poliittinen	
 PWN:political_campaign.n.01		kampanja	
 PWN:political_campaign.n.01		poliittinen kampanja	
 PWN:political_campaign.n.01		vaalikampanja	
@@ -11539,8 +11552,8 @@ PWN:politician.n.01		hallinnoija
 PWN:politician.n.01		poliitikko	
 PWN:politics.n.01		poliittinen suhde	
 PWN:politics.n.01		politikointi	
-PWN:politics.n.02		valtio-oppi
-PWN:politics.n.02		valtiotiede
+PWN:politics.n.02		valtio-oppi	
+PWN:politics.n.02		valtiotiede	
 PWN:politics.n.03		valtiotiede	
 PWN:politics.n.05		politiikka	
 PWN:polity.n.02		järjestäytynyt yhteisö	
@@ -11643,7 +11656,7 @@ PWN:postpone.v.01		panna hyllylle
 PWN:postpone.v.01		siirtää	
 PWN:postpone.v.01		siirtää jkn käsittelyä	
 PWN:postpone.v.01		siirtää tuonnemmaksi	
-PWN:postpose.v.01		asettaa perään
+PWN:postpose.v.01		asettaa perään	
 PWN:pot.n.01		pata	pɑtɑ
 PWN:pot.n.03		astiallinen	
 PWN:potassium.n.01		järjestysluku 19	
@@ -11731,12 +11744,12 @@ PWN:precipitation.n.03		sade
 PWN:predator.n.02		peto	
 PWN:predator.n.02		petoeläin	
 PWN:predator.n.02		saalistaja	
-PWN:predict.v.01		aavistaa
-PWN:predict.v.01		arvioida
-PWN:predict.v.01		ennustaa
-PWN:predict.v.01		enteillä
-PWN:predict.v.01		olettaa
-PWN:predict.v.01		profetoida
+PWN:predict.v.01		aavistaa	
+PWN:predict.v.01		arvioida	
+PWN:predict.v.01		ennustaa	
+PWN:predict.v.01		enteillä	
+PWN:predict.v.01		olettaa	
+PWN:predict.v.01		profetoida	
 PWN:prefer.v.01		pitää enemmän	
 PWN:prefer.v.01		suosia	
 PWN:pregnancy.n.01		odotusaika	
@@ -11753,7 +11766,7 @@ PWN:preoccupation.n.02		uppoutuminen
 PWN:preparation.n.01		valmistautuminen	
 PWN:preparation.n.01		valmistelu	
 PWN:prepare.v.03		valmistella	
-PWN:prepose.v.01		sijoittaa edelle
+PWN:prepose.v.01		sijoittaa edelle	
 PWN:presence.n.01		läsnäolo	
 PWN:present.a.01		läsnä oleva	
 PWN:present.a.01		nykyinen	
@@ -11790,7 +11803,7 @@ PWN:prevent.v.01		estää
 PWN:prevent.v.01		torjua	
 PWN:prevent.v.02		estää	
 PWN:prevent.v.02		torjua	
-PWN:preview.v.01		nähdä etukäteen
+PWN:preview.v.01		nähdä etukäteen	
 PWN:previous.s.01		edellinen	
 PWN:previous.s.01		edeltävä	
 PWN:prey.n.02		saalis	
@@ -12020,14 +12033,14 @@ PWN:provide.v.02		tyrkyttää
 PWN:provision.n.02		hankinta	
 PWN:provision.n.02		järjestäminen	
 PWN:provision.n.02		toimittaminen	
-PWN:provocative.a.01		provokatiivinen
-PWN:provocative.a.01		provosoiva
-PWN:provoke.v.02		herättää
-PWN:provoke.v.02		houkutella esiin
-PWN:provoke.v.02		kutsua esiin
-PWN:provoke.v.02		nostattaa
-PWN:provoke.v.02		peräänkuuluttaa
-PWN:provoke.v.02		saada aikaan
+PWN:provocative.a.01		provokatiivinen	
+PWN:provocative.a.01		provosoiva	
+PWN:provoke.v.02		herättää	
+PWN:provoke.v.02		houkutella esiin	
+PWN:provoke.v.02		kutsua esiin	
+PWN:provoke.v.02		nostattaa	
+PWN:provoke.v.02		peräänkuuluttaa	
+PWN:provoke.v.02		saada aikaan	
 PWN:pry.v.01		kammeta	
 PWN:pry.v.01		kangeta	
 PWN:pry.v.01		tiirata	
@@ -12047,8 +12060,8 @@ PWN:pubic_hair.n.01		häpykarvat
 PWN:pubic_hair.n.01		puska	
 PWN:public.a.01		julkinen	
 PWN:public.a.01		kansan-	
-PWN:public_domain.n.01		valtion maa
-PWN:public_domain.n.01		yleisomistus
+PWN:public_domain.n.01		valtion maa	
+PWN:public_domain.n.01		yleisomistus	
 PWN:public_opinion.n.01		mielipide	
 PWN:public_opinion.n.01		vox populi	
 PWN:public_opinion.n.01		yleinen mielipide	
@@ -12299,10 +12312,10 @@ PWN:reach.v.01		päästä perille
 PWN:reach.v.01		saapua	
 PWN:reach.v.01		saavuttaa	
 PWN:reach.v.01		tulla	
-PWN:reach.v.04		olla yhteydessä
-PWN:reach.v.04		saada kiinni
-PWN:reach.v.04		saada yhteys
-PWN:reach.v.04		tavoittaa
+PWN:reach.v.04		olla yhteydessä	
+PWN:reach.v.04		saada kiinni	
+PWN:reach.v.04		saada yhteys	
+PWN:reach.v.04		tavoittaa	
 PWN:reach.v.06		koskettaa	
 PWN:reach.v.06		ulottua	
 PWN:reach.v.06		yltää	
@@ -12329,8 +12342,8 @@ PWN:real.a.01		todellinen
 PWN:real.a.01		tosi-	
 PWN:real_property.n.01		kiinteistö	
 PWN:real_property.n.01		kiinteä omaisuus	
-PWN:reality.n.03		realiteetti
-PWN:reality.n.03		tosiasia
+PWN:reality.n.03		realiteetti	
+PWN:reality.n.03		tosiasia	
 PWN:realization.n.02		oivallus	
 PWN:realization.n.02		oivaltaminen	
 PWN:realization.n.02		tajuaminen	
@@ -12366,9 +12379,9 @@ PWN:rebuff.n.01		halveksunta
 PWN:rebuff.n.01		kieltäytyminen	
 PWN:rebuff.n.01		loukkaus	
 PWN:rebuff.n.01		torjunta	
-PWN:recall.v.04		kutsua kotiin
-PWN:recall.v.04		kutsua takaisin
-PWN:receipt.n.02		kuitti
+PWN:recall.v.04		kutsua kotiin	
+PWN:recall.v.04		kutsua takaisin	
+PWN:receipt.n.02		kuitti	
 PWN:receive.v.01		saada	
 PWN:receive.v.01		vastaanottaa	
 PWN:receive.v.02		hankkia	
@@ -12769,7 +12782,7 @@ PWN:rhinal.a.01		nasaali
 PWN:rhinal.a.01		nenä-	
 PWN:rhodium.n.01		järjestysluku 45	
 PWN:rhodium.n.01		rodium	
-PWN:rhumb_line.n.01		loksodromi
+PWN:rhumb_line.n.01		loksodromi	
 PWN:rhythm.n.01		poljento	
 PWN:rhythm.n.01		rytmi	
 PWN:rhythm.n.01		tahti	
@@ -12878,8 +12891,8 @@ PWN:roadrunner.n.01		kalifornianjuoksukäki
 PWN:roar.v.01		karjua	
 PWN:roar.v.01		kohista	kɔhistɑ
 PWN:roar.v.01		ulvoa	
-PWN:rob.v.01		varastaa
-PWN:robber.n.01		varas
+PWN:rob.v.01		varastaa	
+PWN:robber.n.01		varas	
 PWN:rock.n.01		kivi	kiʋi
 PWN:rock.n.02		kallio	
 PWN:rock.n.02		kivi	
@@ -13017,8 +13030,8 @@ PWN:rush.v.04		kiiruhtaa
 PWN:rush.v.04		olla kiireissään	ɔlːɑ kiːrɛi̯sːæːn
 PWN:rush.v.04		pitää kiirettä	
 PWN:rush.v.05		edetä	
-PWN:russian.a.01		Venäjän
-PWN:russian.a.01		venäläinen
+PWN:russian.a.01		Venäjän	
+PWN:russian.a.01		venäläinen	
 PWN:rust.n.01		ruoste	
 PWN:rustle.v.01		kahista	
 PWN:rustle.v.01		kohista	kɔhistɑ
@@ -13312,7 +13325,7 @@ PWN:separate.v.08		katketa
 PWN:separate.v.09		erota	
 PWN:separate.v.12		irrota	
 PWN:separation.n.09		erottaminen	
-PWN:sepia.n.02		seepia
+PWN:sepia.n.02		seepia	
 PWN:september.n.01		syysk.	
 PWN:september.n.01		syyskuu	syːskuː
 PWN:sequence.n.01		sekvenssi	
@@ -13538,7 +13551,7 @@ PWN:ship's_company.n.01		miehistö
 PWN:ship.n.01		alus	
 PWN:ship.n.01		laiva	
 PWN:ship.n.01		vene	
-PWN:shipwreck.n.03		haaksirikko
+PWN:shipwreck.n.03		haaksirikko	
 PWN:shirt.n.01		aluspaita	
 PWN:shirt.n.01		paita	pɑi̯tɑ
 PWN:shirt.n.01		paitapusero	
@@ -13838,7 +13851,7 @@ PWN:slowly.r.01		hitaasti
 PWN:small.a.01		pieni	piɛ̯ni
 PWN:small_boat.n.01		pikkuvene	
 PWN:small_indefinite_quantity.n.01		vähäinen määrä	
-PWN:smallness.n.01		pienuus
+PWN:smallness.n.01		pienuus	
 PWN:smell.n.01		haju	
 PWN:smell.n.01		hajuaistimus	
 PWN:smell.n.01		tuoksu	
@@ -14005,7 +14018,7 @@ PWN:sour.v.01		hapantua
 PWN:sour.v.01		käydä	
 PWN:sour.v.01		pilaantua	
 PWN:source.n.04		lähde	
-PWN:source_code.n.01		lähdekoodi
+PWN:source_code.n.01		lähdekoodi	
 PWN:source_of_illumination.n.01		valaistuslähde	
 PWN:souse.v.03		juopotella	
 PWN:souse.v.03		kännätä	
@@ -14033,8 +14046,8 @@ PWN:spacing.n.02		välistys
 PWN:spade.n.02		lapio	lɑpiɔ
 PWN:spain.n.01		Espana	
 PWN:spain.n.01		Espanja	
-PWN:spanish.a.01		Espanjan
-PWN:spanish.a.01		espanjalainen
+PWN:spanish.a.01		Espanjan	
+PWN:spanish.a.01		espanjalainen	
 PWN:spare.v.03		luopua	
 PWN:spare.v.03		tulla toimeen ilman	
 PWN:spare.v.03		voida luopua	
@@ -14104,10 +14117,10 @@ PWN:spill.v.01		kaataa
 PWN:spill.v.01		läikyttää	
 PWN:spill.v.01		läiskyttää	
 PWN:spill.v.01		roiskuttaa	
-PWN:spin.v.01		kieppua
-PWN:spin.v.01		pyöriä
-PWN:spin.v.01		pyöriä ympäri
-PWN:spin.v.01		pyörähdellä
+PWN:spin.v.01		kieppua	
+PWN:spin.v.01		pyöriä	
+PWN:spin.v.01		pyöriä ympäri	
+PWN:spin.v.01		pyörähdellä	
 PWN:spin.v.06		kehrätä	
 PWN:spinach.n.01		pinaatti	
 PWN:spinal_column.n.01		rachis	
@@ -14359,9 +14372,9 @@ PWN:stop.v.01		pysäyttää
 PWN:stop.v.01		seisahtua	sɛi̯sɑxtʊɑ
 PWN:storage_space.n.01		varastotila	
 PWN:store.n.02		varasto	
-PWN:store.v.02		varastoida
-PWN:storehouse.n.01		makasiini
-PWN:storehouse.n.01		suuri varasto
+PWN:store.v.02		varastoida	
+PWN:storehouse.n.01		makasiini	
+PWN:storehouse.n.01		suuri varasto	
 PWN:storehouse.n.01		varasto	
 PWN:storm.n.01		myrsky	
 PWN:storm.n.01		rajumyrsky	
@@ -14482,8 +14495,8 @@ PWN:stupid.a.01		tyhmä	tʏxmæ
 PWN:stupid.a.01		typerä	tʏpɛræ
 PWN:sty.n.02		lätti	
 PWN:style.n.03		tyyli	
-PWN:stylish.a.01		muodikas
-PWN:stylish.a.01		tyylikäs
+PWN:stylish.a.01		muodikas	
+PWN:stylish.a.01		tyylikäs	
 PWN:stylus.n.01		neula	
 PWN:stylus.n.02		piirrin	
 PWN:stylus.n.02		stylus	
@@ -14505,9 +14518,9 @@ PWN:submission.n.01		kilpailuehdotus
 PWN:submission.n.01		kilpailutyö	
 PWN:submission.n.01		kilpailuvastaus	
 PWN:submission.n.01		tarjokas	
-PWN:submit.v.02		lausua
-PWN:submit.v.02		sanoa
-PWN:submit.v.02		todeta
+PWN:submit.v.02		lausua	
+PWN:submit.v.02		sanoa	
+PWN:submit.v.02		todeta	
 PWN:subsequently.r.01		jälkeen	
 PWN:subsequently.r.01		jälkeenpäin	
 PWN:subsequently.r.01		myöhemmin	
@@ -14708,14 +14721,14 @@ PWN:sympathy.n.02		myötätunto
 PWN:sympathy.n.02		sympatia	
 PWN:symptom.n.01		oire	
 PWN:symptom.n.01		symptomi	
-PWN:synchronize.v.04		esittää samanaikaisina
-PWN:synchronize.v.04		rinnastaa
-PWN:synchronize.v.04		synkronoida
-PWN:synchronize.v.04		tahdistaa samaan aikaan
-PWN:synchronous.a.01		samanaikainen
-PWN:synchronous.a.01		samantahtinen
-PWN:synchronous.a.01		synkroninen
-PWN:synchronous.a.01		tahdistettu
+PWN:synchronize.v.04		esittää samanaikaisina	
+PWN:synchronize.v.04		rinnastaa	
+PWN:synchronize.v.04		synkronoida	
+PWN:synchronize.v.04		tahdistaa samaan aikaan	
+PWN:synchronous.a.01		samanaikainen	
+PWN:synchronous.a.01		samantahtinen	
+PWN:synchronous.a.01		synkroninen	
+PWN:synchronous.a.01		tahdistettu	
 PWN:synonym.n.01		synonyymi	
 PWN:synonym.n.01		vastaava sana	
 PWN:synonymous.a.01		samanmerkityksinen	
@@ -14859,11 +14872,11 @@ PWN:tear.v.01		repiä rikki	rɛpiæ rikːi
 PWN:tear.v.01		revetä	
 PWN:tear.v.01		rikkoutua	
 PWN:tear.v.05		kyynelehtiä	
-PWN:teashop.n.01		kahvila
-PWN:teashop.n.01		lounasbaari
-PWN:teashop.n.01		teehuone
-PWN:teashop.n.01		teekuppila
-PWN:teashop.n.01		teesalonki
+PWN:teashop.n.01		kahvila	
+PWN:teashop.n.01		lounasbaari	
+PWN:teashop.n.01		teehuone	
+PWN:teashop.n.01		teekuppila	
+PWN:teashop.n.01		teesalonki	
 PWN:technetium.n.01		järjestysluku 43	
 PWN:technetium.n.01		teknetium	
 PWN:technetium.n.01		tekniikka	
@@ -14871,9 +14884,9 @@ PWN:technetium.n.01		teknologia
 PWN:technology.n.01		insinööritaito	
 PWN:technology.n.01		teknetium	
 PWN:technology.n.01		teknologia	
-PWN:tectonics.n.02		laattatektoniikka
-PWN:tectonics.n.02		laattatektoniikkateoria
-PWN:tectonics.n.02		tektoniikka
+PWN:tectonics.n.02		laattatektoniikka	
+PWN:tectonics.n.02		laattatektoniikkateoria	
+PWN:tectonics.n.02		tektoniikka	
 PWN:teddy.n.01		nalle	
 PWN:teddy.n.01		nallekarhu	
 PWN:teddy.n.01		teddy	
@@ -14922,7 +14935,7 @@ PWN:temple.n.02		ohimo
 PWN:temple.n.03		pyhäkkö	
 PWN:temple.n.03		pyhättö	
 PWN:temple.n.03		temppeli	
-PWN:temporal.a.02		ajallinen
+PWN:temporal.a.02		ajallinen	
 PWN:temporal_property.n.01		ajallinen ominaisuus	
 PWN:temporal_relation.n.01		ajallinen suhde	
 PWN:tempt.v.01		houkutella	
@@ -14975,7 +14988,7 @@ PWN:tether.v.01		kytkeä	kʏtkɛæ
 PWN:tether.v.01		sitoa liekaan	
 PWN:text.n.01		teksti	
 PWN:text.n.01		tekstin	
-PWN:texture.n.01		kudos
+PWN:texture.n.01		kudos	
 PWN:thallium.n.01		alkuaine 81	
 PWN:thallium.n.01		tallium	
 PWN:thank.v.01		kiittää	
@@ -14990,7 +15003,7 @@ PWN:theism.n.01		teismi
 PWN:theist.n.01		teisti	
 PWN:theme.n.02		motiivi	
 PWN:theme.n.02		teema	
-PWN:theme.n.03		teema
+PWN:theme.n.03		teema	
 PWN:then.r.0		sitten	
 PWN:then.r.01		sitten	sitːɛn
 PWN:then.r.03		siihen aikaan	siːhɛn ɑi̯kɑːn
@@ -15005,12 +15018,12 @@ PWN:there.r.01		siinä	siːnæ
 PWN:there.r.01		tuolla	
 PWN:there.r.03		sinne	sinːɛ
 PWN:there.r.03		tuonne	tuɔ̯nːɛ
-PWN:therefore.r.01		niin muodoin
-PWN:therefore.r.01		siitä
-PWN:therefore.r.01		siksi
-PWN:therefore.r.01		siten
-PWN:therefore.r.01		sitten
-PWN:therefore.r.01		täten
+PWN:therefore.r.01		niin muodoin	
+PWN:therefore.r.01		siitä	
+PWN:therefore.r.01		siksi	
+PWN:therefore.r.01		siten	
+PWN:therefore.r.01		sitten	
+PWN:therefore.r.01		täten	
 PWN:thermometer.n.01		lämpömittari	
 PWN:thesis.n.01		teesi	
 PWN:thesis.n.01		väite	
@@ -15155,11 +15168,11 @@ PWN:time_period.n.01		ajanjakso
 PWN:time_period.n.01		kausi	
 PWN:time_slot.n.01		määräaika	
 PWN:time_unit.n.01		aikayksikkö	
-PWN:timeline.n.01		aikajana
+PWN:timeline.n.01		aikajana	
 PWN:timely.s.01		ennenaikainen	
 PWN:timepiece.n.01		ajastin	
 PWN:timepiece.n.01		kello	
-PWN:timetable.n.01		aikataulu
+PWN:timetable.n.01		aikataulu	
 PWN:tin.n.01		alkuainenumero 50	
 PWN:tin.n.01		säilyketölkki	
 PWN:tin.n.01		tina	
@@ -15392,10 +15405,10 @@ PWN:truck.n.01		kuorma-auto
 PWN:true.a.01		todellinen	
 PWN:true.a.01		todenmukainen	
 PWN:true.a.01		tosi	
-PWN:true.s.10		aito
-PWN:true.s.10		laillinen
-PWN:true.s.10		oikea
-PWN:true.s.10		todellinen
+PWN:true.s.10		aito	
+PWN:true.s.10		laillinen	
+PWN:true.s.10		oikea	
+PWN:true.s.10		todellinen	
 PWN:trunk.n.01		puunrunko	
 PWN:trunk.n.01		runko	rʊŋkɔ
 PWN:trust.n.01		omaisuus	
@@ -15502,7 +15515,7 @@ PWN:undress.v.01		riisua	riːsʊɑ
 PWN:undress.v.01		riisuutua	
 PWN:unemotionality.n.02		epätunteellisuus	
 PWN:unemotionality.n.02		tunteettomuus	
-PWN:unequal.a.01		epätasainen
+PWN:unequal.a.01		epätasainen	
 PWN:unfold.v.03		levittää	
 PWN:unfold.v.04		avata	
 PWN:unfold.v.04		laskostaa auki	
@@ -15603,8 +15616,8 @@ PWN:unwrap.v.02		tuoda julki
 PWN:unwrap.v.02		tuoda päivänvaloon	
 PWN:up.r.01		ylös	ʏlœs
 PWN:up.r.01		ylöspäin	
-PWN:update.v.02		kertoa uutiset
-PWN:upload.v.01		siirtää tietoa
+PWN:update.v.02		kertoa uutiset	
+PWN:upload.v.01		siirtää tietoa	
 PWN:upper_bound.n.01		yläraja	
 PWN:upset.v.02		huolestuttaa	
 PWN:upset.v.02		hämmentää	
@@ -15675,7 +15688,7 @@ PWN:vanadium.n.01		vanadium
 PWN:vapor.n.01		huuru	
 PWN:vapor.n.01		höyry	
 PWN:variation.n.01		vaihtelu	
-PWN:varnish.n.01		lakkaus
+PWN:varnish.n.01		lakkaus	
 PWN:vascular_plant.n.01		putkilokasvi	
 PWN:vascular_plant.n.01		tracheophyte	
 PWN:vascular_structure.n.01		vaskulaarinen rakenne	
@@ -15957,7 +15970,7 @@ PWN:weave.v.04		mutkitella
 PWN:weave.v.04		puikkelehtia	
 PWN:weave.v.04		pujotella	
 PWN:weave.v.04		vaeltaa	
-PWN:web.n.01		verkko
+PWN:web.n.01		verkko	
 PWN:web_log.n.01		blogi	
 PWN:web_log.n.01		nettikolumni	
 PWN:wedding.n.01		häät	
@@ -16092,13 +16105,13 @@ PWN:woman.n.01		aikuinen nainen
 PWN:woman.n.01		nainen	nɑi̯nɛn
 PWN:womanhood.n.02		naiset	
 PWN:womanhood.n.02		naissuku	
-PWN:wonder.n.01		hämmästys
-PWN:wonder.n.01		ihailu
-PWN:wonder.n.01		ihmetys
+PWN:wonder.n.01		hämmästys	
+PWN:wonder.n.01		ihailu	
+PWN:wonder.n.01		ihmetys	
 PWN:wonder.v.02		kummastella	
 PWN:wonder.v.02		kyseenalaistaa	
-PWN:wonder.v.03		ihmetellä
-PWN:wonder.v.03		kummastella
+PWN:wonder.v.03		ihmetellä	
+PWN:wonder.v.03		kummastella	
 PWN:wood.n.01		puu	puː
 PWN:wood.n.01		puuaines	
 PWN:wood_sugar.n.01		ksyloosi	
