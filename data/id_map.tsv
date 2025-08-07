@@ -467,6 +467,7 @@ PWN:ammunition.n.01	02703275-n
 PWN:amorphous_shape.n.01	13867492-n				
 PWN:amortize.v.01	02352263-v				
 PWN:amount.n.02	05107765-n				
+PWN:ampere.n.02	13637376-n				
 PWN:amphibian.n.03	01627424-n				
 PWN:amputate.v.01	01254692-v				
 PWN:amulet.n.01	02706586-n	2804			
@@ -515,6 +516,7 @@ PWN:answer.v.01	00815686-v	1275	18-32		2272
 PWN:answer.v.08	02658570-v				
 PWN:ant.n.01	02219486-n	587	3-817	Ameise::N	910
 PWN:anteater.n.02	02460009-n	181	3-89		
+PWN:antenna.n.01	02715229-n				
 PWN:anteroom.n.01	02715513-n				
 PWN:antibiotic.a.01	02629301-a				
 PWN:antic.n.01	00427580-n				
@@ -922,6 +924,7 @@ PWN:besides.r.02	00047534-r
 PWN:besides.r.02	00047534-r				240
 PWN:besiege.v.01	01127411-v				
 PWN:bespeak.v.01	00921300-v				2219
+PWN:bestow.v.02	02263692-v				
 PWN:bet.v.02	01155687-v				
 PWN:better.a.01	00230335-a		16-99901		
 PWN:better.v.02	00205885-v	2872		verbessern::V	
@@ -1823,6 +1826,7 @@ PWN:continuum.n.01	15123754-n
 PWN:contract.n.01	06520944-n				1778
 PWN:contractile_organ.n.01	05289601-n				
 PWN:contribute.v.02	02308741-v				
+PWN:contribution.n.03	01089778-n				
 PWN:contrivance.n.03	05905802-n				
 PWN:control.n.01	05196375-n				
 PWN:control.n.05	00803617-n				
@@ -3549,6 +3553,8 @@ PWN:heroic.s.03	00251134-a
 PWN:heron.n.02	02008041-n	758	3-583		
 PWN:hertz.n.01	15279104-n				
 PWN:hesitate.v.02	02641035-v				3237
+PWN:heterosexual.a.01	01201100-a				
+PWN:heterosexual.n.01	10173895-n				
 PWN:heuristic.a.01	00092933-a				
 PWN:hevea.n.01	12925836-n		8-99944		
 PWN:hiccup.n.01	14359459-n				
@@ -3608,6 +3614,8 @@ PWN:home.n.01	08559508-n	2406		Heim::N
 PWN:home.n.03	08490199-n				
 PWN:hominid.n.01	02471762-n				
 PWN:homo.n.02	02472293-n				
+PWN:homosexual.a.01	01201422-a				
+PWN:homosexual.n.01	10182913-n				
 PWN:honey.n.01	07858978-n	942	5-84	Honig::N	3451
 PWN:honk.v.01	02183175-v				
 PWN:honor.n.02	14436875-n				
@@ -3754,6 +3762,7 @@ PWN:impute.v.01	00726300-v
 PWN:inability.n.01	05644922-n				
 PWN:inactivate.v.02	00191517-v				
 PWN:inactive.a.04	00043125-a				
+PWN:inactive.a.09	00033574-a				
 PWN:inactive.s.10	01564315-a				
 PWN:inactivity.n.03	01062583-n				
 PWN:inanition.n.01	05042138-n				
@@ -4330,7 +4339,9 @@ PWN:loudly.r.01	00069901-r	377	15-45
 PWN:louse.n.01	02183857-n	1392	3-99924	Laus::N	
 PWN:love.n.01	07543288-n				
 PWN:love.n.02	05813229-n				
+PWN:love.n.04	07488340-n				
 PWN:love.v.01	01775164-v				
+PWN:love.v.02	01828736-v				
 PWN:love.v.03	01775535-v	923	16-27	lieben::V	2067
 PWN:love_affair.n.01	13931436-n				
 PWN:lovely.s.01	00219809-s	2233			
@@ -5081,6 +5092,9 @@ PWN:oxide.n.01	14971519-n
 PWN:oxygen.n.01	14648100-n				3372
 PWN:oyster.n.01	01960459-n	2830			
 PWN:paca.n.01	02366301-n	316	3-9993		
+PWN:pacifism.n.01	05965586-n				
+PWN:pacifist.n.01	10390199-n				
+PWN:pacifist.s.01	01741953-a				
 PWN:pack.n.02	07956426-n				
 PWN:pack.v.01	01482449-v				
 PWN:pack_animal.n.01	01317391-n				
@@ -5116,10 +5130,15 @@ PWN:palm.n.03	12582231-n	1181	8-81
 PWN:pamper.v.01	02570267-v				
 PWN:pan.n.01	03880531-n	31	5-28		1312
 PWN:panama.n.01	08739206-n				
+PWN:pandemic.n.01	07435713-n				
+PWN:pandemic.s.02	01102568-a				
 PWN:pangaea.n.01	09384532-n				
 PWN:panhellenic.a.01	03016027-a				
 PWN:panic.n.01	07520612-n				
+PWN:pansexual.n.01	10396462-n				
 PWN:pant_leg.n.01	03885293-n				
+PWN:pantheism.n.01	06225235-n				
+PWN:pantheon.n.01	08153337-n				
 PWN:paper.n.01	14974264-n	648	18-56		3355
 PWN:parabola.n.01	13886371-n				
 PWN:parade.n.01	08428485-n				
@@ -5157,6 +5176,7 @@ PWN:party.n.03	08264897-n
 PWN:party.n.04	07447641-n				
 PWN:party.n.05	10402824-n				
 PWN:party_to_the_action.n.01	08265469-n				
+PWN:pascal.n.01	13711303-n				
 PWN:pass.n.04	09386842-n				
 PWN:pass.n.05	06691083-n				1614
 PWN:pass.n.08	13936939-n				
@@ -5168,6 +5188,8 @@ PWN:passage.n.03	03895293-n
 PWN:passage.n.07	05248181-n				
 PWN:passeridae.n.01	01539377-n	1854	3-99941		985
 PWN:passion.n.07	14325220-n				
+PWN:passive.a.01	00039592-a				
+PWN:passive.s.02	02513101-a				
 PWN:passport.n.02	06500937-n				
 PWN:past.n.01	15120823-n				3201
 PWN:past.n.02	15141693-n				
@@ -6298,6 +6320,7 @@ PWN:seven.s.01	02186970-a	1704	13-07	sieben::NUM	2507
 PWN:seventy.s.01	02193141-a	1721		siebzig::NUM	
 PWN:severe.s.01	01513050-s	419		schlimm::A	
 PWN:sew.v.01	01329239-v	1457	6-35	nähen::V	1420
+PWN:sex.n.02	07999291-n				
 PWN:sex.n.04	05006898-n				610
 PWN:sexual_activity.n.01	00844254-n				
 PWN:sexual_desire.n.01	07487955-n				
@@ -7325,6 +7348,7 @@ PWN:unconcern.n.02	07505538-n
 PWN:unconnectedness.n.01	13794226-n				
 PWN:unconsciousness.n.01	05678932-n				
 PWN:unconventional.a.02	00608421-a				
+PWN:uncork.v.02	01423793-v				
 PWN:uncover.v.01	02143283-v	1108			814
 PWN:undergo.v.01	02108377-v				
 PWN:underlie.v.01	02664575-v				

@@ -876,6 +876,8 @@ PWN:amorphous_shape.n.01		amorphous shape
 PWN:amortize.v.01		amortise
 PWN:amortize.v.01		amortize
 PWN:amount.n.02		amount
+PWN:ampere.n.02		amp
+PWN:ampere.n.02		ampere
 PWN:amphibian.n.03		amphibian
 PWN:amputate.v.01		amputate
 PWN:amputate.v.01		cut off
@@ -996,6 +998,9 @@ PWN:ant.n.01		ant
 PWN:ant.n.01		emmet
 PWN:ant.n.01		pismire
 PWN:anteater.n.02		anteater
+PWN:antenna.n.01		aerial
+PWN:antenna.n.01		antenna
+PWN:antenna.n.01		transmitting aerial
 PWN:anteroom.n.01		antechamber
 PWN:anteroom.n.01		anteroom
 PWN:anteroom.n.01		entrance hall
@@ -2043,6 +2048,7 @@ PWN:bespeak.v.01		betoken
 PWN:bespeak.v.01		indicate
 PWN:bespeak.v.01		point
 PWN:bespeak.v.01		signal
+PWN:bestow.v.02		bestow
 PWN:bet.v.02		bet
 PWN:bet.v.02		play
 PWN:bet.v.02		wager
@@ -4406,6 +4412,8 @@ PWN:contribute.v.02		chip in
 PWN:contribute.v.02		contribute
 PWN:contribute.v.02		give
 PWN:contribute.v.02		kick in
+PWN:contribution.n.03		contribution
+PWN:contribution.n.03		donation
 PWN:contrivance.n.03		contrivance
 PWN:contrivance.n.03		dodge
 PWN:contrivance.n.03		stratagem
@@ -8684,6 +8692,11 @@ PWN:hertz.n.01		cycles/second
 PWN:hertz.n.01		hertz
 PWN:hesitate.v.02		hesitate
 PWN:hesitate.v.02		pause
+PWN:heterosexual.a.01		heterosexual
+PWN:heterosexual.n.01		heterosexual
+PWN:heterosexual.n.01		heterosexual person
+PWN:heterosexual.n.01		straight
+PWN:heterosexual.n.01		straight person
 PWN:heuristic.a.01		fit for invention
 PWN:heuristic.a.01		heuristic
 PWN:hevea.n.01		Hevea
@@ -8826,6 +8839,11 @@ PWN:homo.n.02		homo
 PWN:homo.n.02		human
 PWN:homo.n.02		human being
 PWN:homo.n.02		man
+PWN:homosexual.a.01		homosexual
+PWN:homosexual.n.01		gay
+PWN:homosexual.n.01		homo
+PWN:homosexual.n.01		homophile
+PWN:homosexual.n.01		homosexual
 PWN:honey.n.01		honey
 PWN:honk.v.01		beep
 PWN:honk.v.01		blare
@@ -9162,6 +9180,7 @@ PWN:inability.n.01		inability
 PWN:inactivate.v.02		deactivate
 PWN:inactivate.v.02		inactivate
 PWN:inactive.a.04		inactive
+PWN:inactive.a.09		inactive
 PWN:inactive.s.10		inactive
 PWN:inactive.s.10		motionless
 PWN:inactive.s.10		static
@@ -10410,7 +10429,12 @@ PWN:louse.n.01		sucking louse
 PWN:love.n.01		love
 PWN:love.n.02		love
 PWN:love.n.02		passion
+PWN:love.n.04		erotic love
+PWN:love.n.04		love
+PWN:love.n.04		sexual love
 PWN:love.v.01		love
+PWN:love.v.02		enjoy
+PWN:love.v.02		love
 PWN:love.v.03		desire
 PWN:love.v.03		love
 PWN:love.v.03		lust
@@ -12099,6 +12123,15 @@ PWN:oxide.n.01		oxide
 PWN:oxygen.n.01		oxygen
 PWN:oyster.n.01		oyster
 PWN:paca.n.01		paca
+PWN:pacifism.n.01		pacificism
+PWN:pacifism.n.01		pacifism
+PWN:pacifism.n.01		passivism
+PWN:pacifist.n.01		disarmer
+PWN:pacifist.n.01		pacificist
+PWN:pacifist.n.01		pacifist
+PWN:pacifist.s.01		dovish
+PWN:pacifist.s.01		pacifist
+PWN:pacifist.s.01		pacifistic
 PWN:pack.n.02		pack
 PWN:pack.v.01		pack
 PWN:pack_animal.n.01		pack animal
@@ -12172,6 +12205,8 @@ PWN:pamper.v.01		spoil
 PWN:pan.n.01		cooking pan
 PWN:pan.n.01		pan		ell:patánē
 PWN:panama.n.01		Panama
+PWN:pandemic.n.01		pandemic
+PWN:pandemic.s.02		pandemic
 PWN:pangaea.n.01		Pangaea
 PWN:pangaea.n.01		Pangea
 PWN:panhellenic.a.01		Pan-Hellenic
@@ -12179,8 +12214,11 @@ PWN:panhellenic.a.01		Panhellenic
 PWN:panic.n.01		affright
 PWN:panic.n.01		panic
 PWN:panic.n.01		terror
+PWN:pansexual.n.01		pansexual
 PWN:pant_leg.n.01		pant leg
 PWN:pant_leg.n.01		trouser leg
+PWN:pantheism.n.01		pantheism
+PWN:pantheon.n.01		pantheon
 PWN:paper.n.01		material
 PWN:paper.n.01		paper		:papir
 PWN:parabola.n.01		parabola
@@ -12263,6 +12301,7 @@ PWN:party.v.01		festival
 PWN:party.v.01		party
 PWN:party_to_the_action.n.01		party to the action
 PWN:party_to_the_action.n.01		party to the transaction
+PWN:pascal.n.01		pascal
 PWN:pass.n.04		mountain pass
 PWN:pass.n.04		notch
 PWN:pass.n.04		pass
@@ -12291,6 +12330,10 @@ PWN:passage.n.07		passageway
 PWN:passeridae.n.01		Passeridae
 PWN:passeridae.n.01		family Passeridae
 PWN:passion.n.07		Passion
+PWN:passive.a.01		inactive
+PWN:passive.a.01		passive
+PWN:passive.s.02		passive
+PWN:passive.s.02		peaceful
 PWN:passport.n.02		passport
 PWN:past.n.01		past
 PWN:past.n.01		past times
@@ -15031,6 +15074,7 @@ PWN:sew.v.01		run up
 PWN:sew.v.01		sew
 PWN:sew.v.01		sew together
 PWN:sew.v.01		stitch
+PWN:sex.n.02		sex
 PWN:sex.n.04		gender
 PWN:sex.n.04		sex
 PWN:sex.n.04		sexuality
@@ -17336,6 +17380,7 @@ PWN:unconcern.n.02		unconcern
 PWN:unconnectedness.n.01		unconnectedness
 PWN:unconsciousness.n.01		unconsciousness
 PWN:unconventional.a.02		unconventional
+PWN:uncork.v.02		uncork
 PWN:uncover.v.01		bring out
 PWN:uncover.v.01		reveal
 PWN:uncover.v.01		uncover

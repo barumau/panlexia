@@ -478,6 +478,7 @@ PWN:ammunition.n.01		เครื่องกระสุน
 PWN:amortize.v.01		ผ่อนคลาย
 PWN:amortize.v.01		ผ่อนชำระ
 PWN:amount.n.02		จำนวน
+PWN:ampere.n.02		เเอมแปร์
 PWN:amphibian.n.03		สัตว์ครึ่งบกครึ่งน้ำ
 PWN:amputate.v.01		ผ่าตัดออก
 PWN:amulet.n.01		ของปลุกเสก
@@ -550,6 +551,7 @@ PWN:answer.v.08		ตรงกับ
 PWN:answer.v.08		สอดคล้องกับ
 PWN:ant.n.01		มด	mót
 PWN:anteater.n.02		ตัวกินมด	tuakinmót
+PWN:antenna.n.01		สายอากาศ
 PWN:anteroom.n.01		ล็อบบี้
 PWN:anteroom.n.01		ห้องรับรอง
 PWN:anteroom.n.01		ห้องโถงใหญ่
@@ -1228,6 +1230,7 @@ PWN:besiege.v.01		รุมล้อม
 PWN:bespeak.v.01		บ่งชี้
 PWN:bespeak.v.01		บ่งบอก
 PWN:bespeak.v.01		แสดง
+PWN:bestow.v.02		ให้ของขวัญ
 PWN:bet.v.02		วางเดิมพัน
 PWN:better.v.02		ทำให้ดีขึ้น
 PWN:better.v.02		ปรับปรุง
@@ -2704,6 +2707,7 @@ PWN:continuity.n.01		การต่อเนื่อง
 PWN:contract.n.01		สัญญา
 PWN:contract.n.01		หนังสือสัญญา
 PWN:contribute.v.02		ให้
+PWN:contribution.n.03		การบริจาค
 PWN:control.n.01		อำนาจควบคุม
 PWN:control.n.05		การควบคุม
 PWN:control.n.05		การคอนโทรล
@@ -5462,6 +5466,9 @@ PWN:hertz.n.01		เฮิร์ตซ์
 PWN:hesitate.v.02		ชะงัก
 PWN:hesitate.v.02		ลังเล
 PWN:hesitate.v.02		หยุดชะงัก
+PWN:heterosexual.a.01		รักต่างเพศ
+PWN:heterosexual.n.01		ผู้รักต่างเพศ
+PWN:heterosexual.n.01		ผู้ใฝ่ต่างเพศ
 PWN:hevea.n.01		สกุลฮีเวีย
 PWN:hiccup.n.01		การสะอึก
 PWN:hiccup.n.01		การสะือึก
@@ -5554,6 +5561,10 @@ PWN:home.n.03		บ้านเกิด
 PWN:hominid.n.01		โฮมินิด
 PWN:homo.n.02		คน
 PWN:homo.n.02		มนุษย์
+PWN:homosexual.a.01		รักร่วมเพศ
+PWN:homosexual.n.01		คนรักร่วมเพศ
+PWN:homosexual.n.01		ชาวรักร่วมเพศ
+PWN:homosexual.n.01		เกย์
 PWN:honey.n.01		น้ำผึ้ง	náamphʉ̂ŋ
 PWN:honey.n.01		มธุ	máthú	san:madhu
 PWN:honk.v.01		ส่งเสียงดัง
@@ -5783,6 +5794,7 @@ PWN:inability.n.01		การไร้ความสามารถ
 PWN:inactivate.v.02		ทำให้ไม่ได้ใช้งาน
 PWN:inactive.a.04		ซึ่งไม่เกิดผล
 PWN:inactive.a.04		ซึ่งไม่เปลี่ยนแปลง
+PWN:inactive.a.09		ซึ่งอยู่เฉยๆ
 PWN:inactive.s.10		ที่ไม่เคลื่อนไหว
 PWN:incise.v.01		ตัด
 PWN:include.v.01		ประกอบด้วย
@@ -6624,7 +6636,12 @@ PWN:louse.n.01		หมัด
 PWN:louse.n.01		เห็บ
 PWN:love.n.01		ความรัก
 PWN:love.n.02		ความรัก
+PWN:love.n.04		ความใคร่
 PWN:love.v.01		ໍชอบ
+PWN:love.v.02		ชอบ
+PWN:love.v.02		รัก
+PWN:love.v.02		สนุก
+PWN:love.v.02		เพลิดเพลิน
 PWN:love.v.03		มัก	mák
 PWN:love.v.03		รัก	rák
 PWN:love_affair.n.01		การมีคู่รัก
@@ -7843,6 +7860,10 @@ PWN:oxygen.n.01		ออกซิเจน
 PWN:oxygen.n.01		เลขอะตอม 8
 PWN:oyster.n.01		หอยนางรม
 PWN:paca.n.01		พาคา
+PWN:pacifism.n.01		ลัทธิสันติภาพนิยม
+PWN:pacifist.n.01		นักสันติวิธี
+PWN:pacifist.n.01		ผู้ยึดถือลัทธิสันติภาพ
+PWN:pacifist.n.01		ผู้เรียกร้องสันติภาพ
 PWN:pack.n.02		แพ็ค
 PWN:pack.v.01		แพ็ค
 PWN:pack_animal.n.01		สัตว์บรรทุก
@@ -7892,6 +7913,8 @@ PWN:pan.n.01		กระทะ	krathá
 PWN:panama.n.01		ประเทศปานามา
 PWN:pangaea.n.01		พันเจีย
 PWN:pant_leg.n.01		ขากางเกงขายาว
+PWN:pantheism.n.01		สรรพเทวนิยม
+PWN:pantheon.n.01		แพนธีออน
 PWN:paper.n.01		กระดาษ	kradàat	zsm:kertas kradah
 PWN:parabola.n.01		พาราโบลา
 PWN:parabola.n.01		พาลาโบลา
@@ -7952,6 +7975,7 @@ PWN:party.n.04		งานกินเลี้ยง
 PWN:party.n.04		งานปาร์ตี้
 PWN:party.n.04		งานเลี้ยง
 PWN:party.n.04		ปาร์ตี้
+PWN:pascal.n.01		ปาสคาล
 PWN:pass.n.04		ช่องเขา
 PWN:pass.n.05		พาสปอร์ต
 PWN:pass.n.05		หนังสือเดินทาง
@@ -7963,6 +7987,8 @@ PWN:passage.n.01		การเปลี่ยนผ่าน
 PWN:passage.n.03		ทางผ่าน
 PWN:passage.n.07		ช่อง
 PWN:passeridae.n.01		วงศ์นกกระจอก
+PWN:passive.a.01		เฉยๆ
+PWN:passive.a.01		เฉื่อยชา
 PWN:passport.n.02		หนังสือเดินทาง
 PWN:past.n.01		วันวาน
 PWN:past.n.01		อดีต
@@ -9564,6 +9590,7 @@ PWN:seventy.s.01		70
 PWN:seventy.s.01		เจ็ดสิบ
 PWN:seventy.s.01		๗๐
 PWN:sew.v.01		เย็บ	yép
+PWN:sex.n.02		เพศ
 PWN:sex.n.04		เพศ
 PWN:sex.n.04		เพศสภาพ
 PWN:sexual_activity.n.01		กิจกรรมทางเพศ
