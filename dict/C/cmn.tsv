@@ -21,6 +21,8 @@ PLX:3SG M.pro		他	ta1
 PLX:3SG POSS.pro		他的
 PLX:3SG.pro		他，她，它	ta1
 PLX:Asian dragon.n		龙
+PLX:God willing.phr		如果上帝愿意的话
+PLX:God willing.phr	dial.	印沙安拉
 PLX:PASS.v		被
 PLX:above.pp		在…上面	zai4 ... shang4mian4
 PLX:after.pp		.......之后	X... zhihou4
@@ -35,6 +37,7 @@ PLX:because.cnj		因为	yin1wei4
 PLX:behind.pp		后面	hou4mian
 PLX:behind.pp		在…之后	(zai ...) zhi1hou4
 PLX:beside.pp		在…旁边	(zai4 ...) pang2bian1
+PLX:by the grace of God.phr		蒙上帝恩典
 PLX:can.v		会
 PLX:can.v		可
 PLX:carry in hand.v		拿	na2
@@ -272,6 +275,8 @@ PWN:achieve.v.01		达到
 PWN:acid.n.01		酸
 PWN:acid.n.01		酸性物质
 PWN:acid.n.01		酸类
+PWN:acknowledge.v.02		告知
+PWN:acknowledge.v.02		确认
 PWN:acknowledge.v.06		承认
 PWN:acknowledge.v.06		认可
 PWN:acknowledgment.n.03		感谢
@@ -707,6 +712,15 @@ PWN:analgesic.n.01		镇痛剂
 PWN:analgesic.n.01		镇痛药
 PWN:analyze.v.01		研究
 PWN:ananas.n.01		凤梨属
+PWN:anarchic.s.01		无政府的
+PWN:anarchic.s.01		无法+的
+PWN:anarchic.s.01		无秩序的
+PWN:anarchism.n.01		无政府主义
+PWN:anarchist.n.01		无政府主义者
+PWN:anarchy.n.01		无政府状态
+PWN:anarchy.n.01		无法无天
+PWN:anarchy.n.01		无秩序
+PWN:anarchy.n.01		混乱
 PWN:ancestor.n.01		祖先	zu3xian1
 PWN:ancestor.n.01		祖宗
 PWN:anchor.n.01		锚	mao2
@@ -715,6 +729,8 @@ PWN:anchor.n.01		锚泊装置
 PWN:anchorite.n.01		隐士
 PWN:anchorite.n.01		隐居者
 PWN:anchorite.n.01		隐者
+PWN:ancient.s.01		古代+的
+PWN:ancient.s.01		古老+的
 PWN:ancient.s.02		古老+的
 PWN:android.n.01		人形的机器人
 PWN:android.n.01		人形自动机
@@ -820,6 +836,8 @@ PWN:anteroom.n.01		前庭
 PWN:anteroom.n.01		大厅
 PWN:anteroom.n.01		接待室
 PWN:anteroom.n.01		门厅
+PWN:anthropocentric.a.01		以人类为中心+的
+PWN:anthropocentric.a.01		以人类为中心的
 PWN:antibiotic.a.01		抗生+的
 PWN:antibiotic.a.01		抗生素+的
 PWN:antibiotic.a.01		抗菌+的
@@ -949,6 +967,8 @@ PWN:archer.n.01		弓射手
 PWN:archer.n.01		弓术家
 PWN:archery.n.01		射箭
 PWN:archery.n.01		箭术
+PWN:ardor.n.03		热心
+PWN:ardor.n.03		热情
 PWN:area.n.01		国家区域
 PWN:area.n.01		地区
 PWN:area.n.01		带
@@ -1745,6 +1765,8 @@ PWN:blockade.n.02		阻碍
 PWN:blockage.n.02		阻塞物
 PWN:blood.n.01		血	xie3/xue4
 PWN:blood.n.01		血液
+PWN:bloom.n.04		玫瑰红
+PWN:bloom.n.04		红色
 PWN:blouse.n.01		女衬衫
 PWN:blouse.n.01		宽松的上衣
 PWN:blouse.n.01		宽松短衫
@@ -3478,6 +3500,12 @@ PWN:cushion.n.03		靠垫
 PWN:custom.n.01		习惯	xi2guan4
 PWN:custom.n.01		惯例
 PWN:custom.n.01		风俗	feng1su2
+PWN:custom.n.02		习俗
+PWN:custom.n.02		习惯
+PWN:custom.n.02		传统
+PWN:custom.n.02		俗例
+PWN:custom.n.02		惯例
+PWN:custom.n.02		风俗
 PWN:cut.n.01		一份利润
 PWN:cut.n.04		度
 PWN:cut.n.04		等级
@@ -3880,7 +3908,11 @@ PWN:devil.n.02		魔鬼	mo2gui3
 PWN:devolve.v.03		恶化
 PWN:dew.n.01		露
 PWN:dew.n.01		露水	lu4shui3
+PWN:diagnosis.n.01		诊断
+PWN:diagnostic.a.01		诊断+的
 PWN:dial.n.01		钟面
+PWN:diamond.n.02		金刚石
+PWN:diamond.n.02		钻石
 PWN:diarrhea.n.01		痢疾
 PWN:diary.n.01		日志
 PWN:diary.n.01		日记
@@ -4185,6 +4217,13 @@ PWN:dollar.n.01		元
 PWN:dollar.n.01		块
 PWN:dolphin.n.02		海豚	hai3tun2
 PWN:dome.n.01		圆顶
+PWN:domestic.a.02		与家务有关+的
+PWN:domestic.a.02		家+的
+PWN:domestic.a.02		家事+的
+PWN:domestic.a.02		家务+的
+PWN:domestic.a.02		家庭+的
+PWN:domestic.a.02		家用+的
+PWN:domestic.a.02		家里+的
 PWN:domestic_ass.n.01		驴
 PWN:domestic_ass.n.01		驴, 驢	lü2
 PWN:domestic_ass.n.01		驴子	lü2zi
@@ -4374,6 +4413,11 @@ PWN:dye.n.01		染料
 PWN:dye.n.01		染液
 PWN:dye.n.01		染色剂
 PWN:dye.v.01		染, 染	ran3
+PWN:dynamic.a.01		动态的
+PWN:dynamic.a.01		有力+的
+PWN:dynamic.a.01		有力量+的
+PWN:dynamic.a.02		动力+的
+PWN:dynamic.a.02		动力学+的
 PWN:dysprosium.n.01		镝
 PWN:each.s.01		每
 PWN:each.s.01		每一个+的
@@ -4722,6 +4766,9 @@ PWN:evening.n.01		薄暮
 PWN:evening.n.01		黄昏
 PWN:event.n.02		情况
 PWN:event.n.02		状况
+PWN:every.s.01		每一+的
+PWN:every.s.01		每一个+的
+PWN:every.s.01		每个+的
 PWN:ewe.n.03		母绵羊	mu3mian2yang2
 PWN:ewe.n.03		母羊	mu3yang2
 PWN:exact.a.01		准确+的
@@ -4762,6 +4809,9 @@ PWN:exclude.v.01		省略
 PWN:execute.v.01		处决
 PWN:execute.v.01		处死
 PWN:execute.v.01		执行死刑
+PWN:exemplar.n.01		典型
+PWN:exemplar.n.01		榜样
+PWN:exemplar.n.01		模范
 PWN:exempt.a.01		免除+的
 PWN:exempt.a.01		被豁免+的
 PWN:exercise.n.01		体育锻炼
@@ -4780,6 +4830,8 @@ PWN:exercise.n.03		行使
 PWN:exercise.n.03		训练
 PWN:exercise.n.03		运用
 PWN:exercise.n.03		锻炼
+PWN:exercise.v.03		使工作
+PWN:exercise.v.03		使运动
 PWN:exhibition.n.02		博览会
 PWN:exhibition.n.02		展览会
 PWN:exist.v.01		存在
@@ -5140,9 +5192,12 @@ PWN:file.n.04		锉刀
 PWN:fill.v.01		填补
 PWN:fill.v.01		装满
 PWN:film.n.04		薄层
+PWN:filter.n.01		过滤器
 PWN:fin.n.06		背鳍	bei4qi2
 PWN:fin.n.06		鱼鳍, 魚鰭	yu2qi2
 PWN:fin.n.06		鳍
+PWN:finance.n.03		财政管理
+PWN:finance.n.03		金融
 PWN:financial_condition.n.01		财务状况
 PWN:financial_gain.n.01		经济获益
 PWN:financial_loss.n.01		亏本
@@ -5191,6 +5246,8 @@ PWN:first.a.01		首
 PWN:first.n.01		头等
 PWN:first.n.01		第一
 PWN:first.s.02		第一+的
+PWN:fiscal.a.01		财政+的
+PWN:fiscal.a.01		金融+的
 PWN:fish.n.01		鱼
 PWN:fish.n.01		鱼, 魚	yu2
 PWN:fish.n.01		鱼类
@@ -5639,6 +5696,8 @@ PWN:get.v.01		取得
 PWN:get.v.01		得到	de2dao4
 PWN:get.v.01		收到	shou1dao4
 PWN:get.v.01		获得	huo4de2
+PWN:get.v.25		受到
+PWN:get.v.25		得到
 PWN:get_down.v.07		动手
 PWN:get_down.v.07		开始
 PWN:get_down.v.07		着手
@@ -6583,6 +6642,13 @@ PWN:indicate.v.02		给X看	gei3 X kan4
 PWN:indicate.v.02		表明
 PWN:indicate.v.02		表示
 PWN:indication.n.01		标志
+PWN:indigo.n.02		小青
+PWN:indigo.n.02		木蓝
+PWN:indigo.n.02		槐蓝
+PWN:indigo.n.02		蓝靛
+PWN:indigo.n.02		野槐树
+PWN:indigo.s.01		靛蓝色+的
+PWN:indigo.s.01		靛青色+的
 PWN:indium.n.01		铟
 PWN:individual.n.02		个人
 PWN:individual.n.02		个体
@@ -6667,6 +6733,12 @@ PWN:instrument.n.02		工具	gong1ju4
 PWN:instrumentality.n.03		仪器
 PWN:instrumentality.n.03		仪表
 PWN:insurance.n.01		保险
+PWN:insurgent.n.01		争取自由的战士
+PWN:insurgent.n.01		反叛分子
+PWN:insurgent.n.01		反叛者
+PWN:insurgent.n.01		叛徒
+PWN:insurgent.n.01		暴徒
+PWN:insurgent.n.01		起义者
 PWN:intelligence.n.01		心智
 PWN:intelligence.n.01		智力
 PWN:intelligence.n.01		理解力
@@ -6747,6 +6819,17 @@ PWN:invite.v.04		请
 PWN:invite.v.04		邀请
 PWN:invite.v.05		招待
 PWN:invite.v.05		邀请
+PWN:involuntary.a.01		不知不觉+的
+PWN:involuntary.a.01		不自觉+的
+PWN:involuntary.a.01		不随意+的
+PWN:involuntary.a.01		无意识+的
+PWN:involuntary.a.01		自然而然+的
+PWN:involuntary.a.01		非出自本意+的
+PWN:involuntary.a.01		非故意+的
+PWN:involuntary.a.01		非自愿+的
+PWN:involuntary.a.02		不自觉+的
+PWN:involuntary.a.02		无意识+的
+PWN:involuntary.a.02		本能+的
 PWN:involve.v.02		使卷入
 PWN:involve.v.02		使牵涉
 PWN:involve.v.02		使陷入
@@ -6768,6 +6851,9 @@ PWN:islam.n.01		回教
 PWN:island.n.01		岛	dao3
 PWN:island.n.01		岛屿
 PWN:island.n.02		孤立体
+PWN:isomorphous.a.01		同形+的
+PWN:isomorphous.a.01		同态+的
+PWN:isotope.n.01		同位素
 PWN:issue.n.01		争议中的事
 PWN:issue.n.01		待解决的事
 PWN:itch.n.03		痒, 癢	yang3
@@ -7103,6 +7189,8 @@ PWN:learn.v.01		学习	xue2xi2
 PWN:learner.n.01		学习者
 PWN:lease.n.01		供出租的财产
 PWN:lease.n.01		租物
+PWN:lease.v.03		出租
+PWN:lease.v.03		租出
 PWN:lease.v.04		出租
 PWN:lease.v.04		租
 PWN:lease.v.04		租借
@@ -7137,6 +7225,10 @@ PWN:leg.n.02		腿	tui3
 PWN:legislation.n.02		制定法律
 PWN:legislation.n.02		立法
 PWN:legislature.n.01		立法机关
+PWN:legitimate.s.02		合乎逻辑+的
+PWN:legitimate.s.02		合理+的
+PWN:legitimate.s.02		有逻辑+的
+PWN:legitimate.s.02		符合逻辑+的
 PWN:lemon.n.01		柠檬
 PWN:lend.v.01		产生
 PWN:lend.v.01		增添
@@ -7794,6 +7886,8 @@ PWN:memory.n.03		记忆力
 PWN:memory_device.n.01		存储设备
 PWN:men's_room.n.01		男厕
 PWN:mendelevium.n.01		钔
+PWN:mental.a.02		心理+的
+PWN:mental.a.02		精神+的
 PWN:mental_health.n.01		心理健康
 PWN:mental_health.n.01		精神卫生
 PWN:mental_illness.n.01		精神病
@@ -7895,6 +7989,7 @@ PWN:minimize.v.01		最小化
 PWN:minister.n.02		大臣	da4chen2
 PWN:minister.n.02		部长	bu4zhang3
 PWN:ministry.n.02		部办公楼
+PWN:ministry.n.03		部门
 PWN:minority.n.02		少数
 PWN:minority.n.02		少数派
 PWN:mint.n.02		薄荷
@@ -8298,6 +8393,7 @@ PWN:noodle.n.01		面条
 PWN:noon.n.01		中午	zhong1wu3
 PWN:noon.n.01		日中
 PWN:noon.n.01		正午
+PWN:norm.n.01		基准
 PWN:normal.a.01		平常+的
 PWN:normal.a.01		标准+的
 PWN:normal.a.01		正常+的
@@ -8409,6 +8505,10 @@ PWN:official.n.01		公务员
 PWN:official.n.01		官
 PWN:official.n.01		官员
 PWN:official.n.01		职员
+PWN:official.s.04		官方的
+PWN:official.s.04		指定的
+PWN:official.s.04		正式的
+PWN:official.s.04		规定+的
 PWN:offspring.n.01		后代
 PWN:offspring.n.01		后嗣
 PWN:offspring.n.01		后裔
@@ -8562,6 +8662,12 @@ PWN:overlord.n.01		主人	zhu3ren2
 PWN:overmuch.r.01		过多+地
 PWN:overmuch.r.01		过度+地
 PWN:overmuch.r.01		过量地
+PWN:oversee.v.01		处理
+PWN:oversee.v.01		指导
+PWN:oversee.v.01		指挥
+PWN:oversee.v.01		监督
+PWN:oversee.v.01		管理
+PWN:oversee.v.01		经营
 PWN:overturn.v.02		打翻
 PWN:overturn.v.02		推翻
 PWN:overturn.v.02		翻倒
@@ -8633,6 +8739,11 @@ PWN:pair.n.01		对	dui4 (1)
 PWN:pair.n.03		一双
 PWN:pair.n.03		一对
 PWN:pair.n.03		夫妇
+PWN:pale.s.04		无生气+的
+PWN:pale.s.04		无血色+的
+PWN:pale.s.04		病态+的
+PWN:pale.s.04		苍白+的
+PWN:pale.s.04		虚弱+的
 PWN:palladium.n.01		钯
 PWN:palm.n.01		手掌	shou3zhang3
 PWN:palm.n.03		棕榈
@@ -8808,6 +8919,7 @@ PWN:peer.n.01		同辈
 PWN:peer.n.01		同龄人
 PWN:peer.n.01		地位相等的人
 PWN:peg.n.01		桩, 樁	zhuang1
+PWN:pellet.n.01		小球
 PWN:pen.n.01		笔, 筆	bi3
 PWN:pen.n.01		羽毛	yu3mao2
 PWN:pen.n.01		钢笔	gang1bi3
@@ -8853,6 +8965,7 @@ PWN:performance.n.03		履行
 PWN:performance.n.03		执行
 PWN:performance.n.03		表现
 PWN:performer.n.01		表演者
+PWN:perfume.n.02		香水
 PWN:periphery.n.01		周界线
 PWN:periphery.n.01		周边
 PWN:periphery.n.01		外围
@@ -9131,6 +9244,8 @@ PWN:polygamy.n.01		多配偶制
 PWN:polygon.n.01		多角形
 PWN:polygon.n.01		多边形
 PWN:polyhedron.n.01		多面体
+PWN:polymer.n.01		聚合体
+PWN:polymer.n.01		聚合物
 PWN:polystyrene.n.01		聚苯乙烯
 PWN:poncho.n.01		披肩	pi1jian1
 PWN:pool.n.06		水池
@@ -9321,6 +9436,10 @@ PWN:prey.n.02		猎物
 PWN:price.n.02		价格	jia4ge2
 PWN:price.n.02		价款
 PWN:price.n.02		价钱	jia4qian
+PWN:price.n.03		代价
+PWN:price.n.03		价值
+PWN:price.n.03		价格
+PWN:price.n.03		成本
 PWN:prick.v.02		刺
 PWN:prick.v.02		刺痛
 PWN:prick.v.02		戳
@@ -9404,6 +9523,8 @@ PWN:proficiency.n.02		技艺
 PWN:profit.v.01		获利
 PWN:profit.v.01		赚钱
 PWN:profit.v.01		赢利
+PWN:prognosis.n.01		趋势预测
+PWN:prognosis.n.01		预测
 PWN:program.n.07		应用程序
 PWN:program.n.07		应用程式
 PWN:program.n.07		程序
@@ -9476,6 +9597,8 @@ PWN:provision.n.02		提供
 PWN:provision.n.02		补给
 PWN:provoke.v.02		挑衅
 PWN:psychological_state.n.01		心理状态
+PWN:psychologist.n.01		心理学家
+PWN:psychologist.n.01		心理学者
 PWN:psychology.n.01		心理学
 PWN:psychosis.n.01		精神不正常
 PWN:psychosis.n.01		精神病
@@ -9721,6 +9844,9 @@ PWN:rear.n.05		背面
 PWN:rear.v.02		养育
 PWN:rear.v.02		培养
 PWN:reasoning.n.01		推论
+PWN:rebel.v.01		反叛
+PWN:rebel.v.01		谋反
+PWN:rebel.v.01		造反
 PWN:rebellion.n.02		反叛
 PWN:rebellion.n.02		反抗
 PWN:rebellion.n.02		叛乱
@@ -9796,6 +9922,8 @@ PWN:reek.v.02		有异味
 PWN:referee.n.01		裁判
 PWN:referee.n.01		裁判员
 PWN:reform.n.01		改革
+PWN:reformation.n.01		改革
+PWN:reformation.n.01		革新
 PWN:refund.v.01		偿
 PWN:refund.v.01		偿还
 PWN:refund.v.01		归还
@@ -9891,6 +10019,16 @@ PWN:remember.v.01		想起	xiang3qi3
 PWN:remember.v.01		记得	ji4de
 PWN:remember.v.01		记忆
 PWN:remember.v.01		追忆
+PWN:rent.n.01		房租
+PWN:rent.n.01		租价
+PWN:rent.n.01		租金
+PWN:rent.v.01		出租
+PWN:rent.v.01		租
+PWN:rent.v.01		租出
+PWN:rent.v.04		出租
+PWN:rent.v.04		租
+PWN:rent.v.04		租出
+PWN:rent.v.04		租用
 PWN:repair.v.01		修复
 PWN:repair.v.01		修理
 PWN:repair.v.01		修补
@@ -10014,6 +10152,13 @@ PWN:return.n.05		返回
 PWN:return.v.05		归还
 PWN:return.v.05		退回
 PWN:return.v.05		送还
+PWN:reunion.n.02		再次会面
+PWN:reunion.n.02		再次见面
+PWN:reunion.n.02		团圆
+PWN:reunion.n.02		团聚
+PWN:reunion.n.02		重新结合
+PWN:reunion.n.02		重新统一
+PWN:reunion.n.02		重聚
 PWN:revel.v.02		作乐
 PWN:revel.v.02		狂欢
 PWN:revel.v.02		狂欢作乐
@@ -10025,6 +10170,13 @@ PWN:reversion.n.04		逆转
 PWN:reversion.n.04		颠倒
 PWN:review.n.09		回顾
 PWN:review.n.09		复习
+PWN:revoke.v.02		取消
+PWN:revoke.v.02		废止
+PWN:revoke.v.02		废除
+PWN:revoke.v.02		撤回
+PWN:revoke.v.02		撤消
+PWN:revoke.v.02		逆转
+PWN:revoke.v.02		颠倒
 PWN:revolve.v.01		公转
 PWN:revolve.v.01		旋转
 PWN:revolve.v.01		绕转
@@ -10285,6 +10437,9 @@ PWN:salmon.n.01		大麻哈鱼
 PWN:salmon.n.01		盐
 PWN:salmon.n.01		鲑
 PWN:salmon.n.01		鲑鱼
+PWN:salon.n.02		沙龙
+PWN:salon.n.02		美容店
+PWN:salon.n.02		美容院
 PWN:salt.n.01		盐
 PWN:salt.n.02		盐	yan2
 PWN:salt.n.02		盐巴	yan2ba1
@@ -11498,6 +11653,10 @@ PWN:sunday.n.01		礼拜日
 PWN:sunflower.n.01		向日葵
 PWN:sunlight.n.01		太阳光
 PWN:sunlight.n.01		阳光
+PWN:sunnah.n.01		伊斯兰教教规
+PWN:sunnah.n.01		回教的传统教规
+PWN:sunnah.n.01		圣训
+PWN:sunnah.n.01		穆罕默德言行录
 PWN:supervisor.n.01		主管
 PWN:supervisor.n.01		监督者
 PWN:supervisor.n.01		管理者
@@ -11999,6 +12158,8 @@ PWN:train.v.01		训练
 PWN:train.v.09		修剪
 PWN:train.v.09		整枝
 PWN:train.v.10		坐火车旅行
+PWN:trainer.n.01		教练员
+PWN:trainer.n.01		驯兽师
 PWN:training.n.01		准备工作
 PWN:trait.n.01		个性
 PWN:trait.n.01		品质
@@ -12268,6 +12429,8 @@ PWN:unit.n.02		单元
 PWN:unit.n.04		单位
 PWN:unit.n.04		单元
 PWN:unit_of_measurement.n.01		单位
+PWN:unitary.a.01		中央集权+的
+PWN:unitary.a.01		统一+的
 PWN:unite.v.01		使一致
 PWN:unite.v.01		使成一体
 PWN:unite.v.01		统一
@@ -12425,6 +12588,10 @@ PWN:volition.n.01		决断力
 PWN:volition.n.01		意志
 PWN:volition.n.01		意志力
 PWN:volt.n.01		伏特
+PWN:voluntary.a.01		自发+的
+PWN:voluntary.a.01		自愿+的
+PWN:voluntary.a.02		自发+的
+PWN:voluntary.a.02		自愿+的
 PWN:volunteer.v.02		自告奋勇
 PWN:volunteer.v.02		自愿
 PWN:vomit.v.01		呕吐, 嘔吐	ou3tu4
@@ -12496,6 +12663,9 @@ PWN:wash.v.02		洗脸
 PWN:wash.v.03		冲洗
 PWN:wash.v.03		洗	xi3
 PWN:wash.v.03		洗涤
+PWN:washbasin.n.01		洗脸盆
+PWN:washbasin.n.01		盥洗室
+PWN:washbasin.n.01		脸盆
 PWN:washup.n.01		洗澡
 PWN:wasp.n.02		胡蜂
 PWN:wasp.n.02		黃蜂	huang2feng1

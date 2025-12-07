@@ -1,23 +1,25 @@
 id	style	word	morphology	etymology
-PLX:1PL EXCL.pro		damimen	da·mi·men
+PLX:1PL EXCL.pro		homimen	ho·mi·men
 PLX:1PL INCL.pro		tumimen	tu·mi·men
-PLX:1PL POSS.pro		mimen su	mi·men su
+PLX:1PL POSS.pro		mimen di	mi·men di
 PLX:1PL.pro		mimen	mi·men
-PLX:1SG POSS.pro		mi su	mi su
+PLX:1SG POSS.pro		mi di	mi di
 PLX:1SG.pro		mi	mi	eng:fra:por:me, spa:mi; me, fas: من‎ (man), hin:मैं (mẽ), ben:আমি (ami), ful:mi, swa:mimi
-PLX:2PL POSS.pro		tumen su	tu·men su
+PLX:2PL POSS.pro		tumen di	tu·men di
 PLX:2PL.pro		tumen	tu·men
-PLX:2SG POSS.pro		tu su	tu su
+PLX:2SG POSS.pro		tu di	tu di
 PLX:2SG.pro		tu	tu	deu:du, fra:por:tu, spa:tú, rus:ты (ty), fas: تو‎ (to), hin:तू (tū), ben:তুই (tui)
-PLX:3PL POSS.pro		damen su	da·men su
-PLX:3PL.pro		damen	da·men
-PLX:3SG POSS.pro		da su	da su
-PLX:3SG.pro		da	da	eng:he; her, ara: هُوَ (huwa); هِيَ (hiya), heb: הו (hū); הי (hī)
+PLX:3PL POSS.pro		homen di	ho·men di
+PLX:3PL.pro		homen	ho·men
+PLX:3SG POSS.pro		ho di	ho di
+PLX:3SG.pro		ho	ho	fas: او (u), hin:वह (voh), ben:ও (o), tur:o, yor:ó; òun, ibo:o, ara: هو (huwa)
 PLX:Asian dragon.n		lung	lung	zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jpn:竜 (ryū), khm:រោង (roong), tha:มะโรง (má-roong)
-PLX:COND.v		vud	vud	eng:would
+PLX:FUT.ptcl		fu	fu
 PLX:God willing.phr		enshalah	enshalah
 PLX:God willing.phr	form.	en asha a lah	en asha a lah
 PLX:PASS.v		bi	bi	zho:被 (bèi), yue:被 (bei6), wuu:被 (bé), jpn:被 (bi-), kor:피— (pi-), vie:bị + eng:be
+PLX:PRS.ptcl		zai	zai
+PLX:PST.ptcl		pas	pas
 PLX:Pan-African.a		panafrikan	pan.afrik·an
 PLX:Pan-American.a		panamerikan	pan.amerika·n
 PLX:Pan-Asian.a		panasian	pan.as·ia·n
@@ -28,26 +30,24 @@ PLX:aha.int		aha	aha	eng:aha; uh-huh, deu:fra:aha, spa:ajá, por:ahá, rus:аг�
 PLX:algorithm.n.01		gorizme	gorizm'e	ara:خَوَارِزْمِيَّة (xawārizmiyya), fas: خوارزمی (xârazmi), eng: algorithm, deu:Algothmus, fra:algorithme, spa:por:algoritmo, rus:алгоритм (algoritm), hin:अल्गोरिद्म, ben:অ্যালগরিদম (êlgōridom), may:algoritme, jpn:アルゴリズム (arugorizumu), kor:알고리즘 (algorijeum), tur:algoritma
 PLX:and.cnj		e	e	eng:and, fra:et, por:e, spa:y; e, zho:和 (hé), ful:e
 PLX:antifascism.n		antifashisme	anti.fash·ism'e
-PLX:anyone.pro		eni von	eni von
-PLX:anything.pro		eni ting	eni ting
 PLX:at.pp		na	na	ibo:lin:ktu:na, por:em; na, rus:на (na)
-PLX:because.cnj		ze sabab di	ze sabab di
+PLX:because.cnj		ze sabab da	ze sabab di
 PLX:before.pp		pre	pre	eng:fra:spa:por:pre-, hin:प्र- (pra-), ben:প্র- (prô-), may:pra-
 PLX:beside.pp		para	para	eng:fra:spa:por:para-, fas: پیرا‎ (pīrā-)
-PLX:between.pp		na mide di	na mide di
+PLX:between.pp		na mide da	na mide da
 PLX:bon voyage.int		sal safar	sal safar
 PLX:boohoo.int		uhu	uhu	eng:boo hoo, zho:呜呼 (wūhū), kor:오호 (oho), vie:hu hu
 PLX:by means of.pp		be	be	eng:by, fas: به (be), ara: بِـ (bi-)
-PLX:by the grace of God.phr		bi barke di lah	bi barke di lah
-PLX:can.v		pote	pot’e	fra:pouvoir, spa:por:poder, eng:deu:potent ∗, may:potensi ∗
-PLX:conlang.n.01		konstru bash	konstru bash
-PLX:conlanger.n		bashkonstruer	bash·konstru·er
+PLX:by the grace of God.phr		bi barke da lah	bi barke da lah
+PLX:can.v		pote	pot'e	fra:pouvoir, spa:por:poder, eng:deu:potent ∗, may:potensi ∗
+PLX:conlang.n.01		konstru bashe	kon.stru bash’e
+PLX:conlanger.n		bashekonstruter	bash·e·kon·stru·ter
 PLX:denialism.n		negationisme	nega·tion·ism'e
 PLX:during.pp		duran	dura·n
 PLX:eh.ptcl		ne	ne	por:né, fas: نه؟ (na?), hin:न (na), zho:呢 (ne), yue:呢 (ne1), jpn:ね (ne), vie:nhỉ; nhé, tha:นะ (ná), ful:ne
 PLX:everyone.pro		har jan	har jan
-PLX:everything.pro		har shi	har shi
-PLX:everywhere.pro 		har jaga	har jaga
+PLX:everything.pro		har she	har she
+PLX:everywhere.pro 		har kan	har kan
 PLX:from.pp		ze	ze	fas: از (az), ز (ze), rus:из (iz), hin:से (-se), zho:自 (zì), yue:自 (zi6) + fra:spa:por:de
 PLX:genderology.n		jenerolojia	jen·er·o·loj·ia
 PLX:haha.int		haha	haha	eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)
@@ -59,32 +59,30 @@ PLX:how many.pro		hau poli	hau poli
 PLX:how.pro		hau	hau
 PLX:how.pro		vat vei	vat vei
 PLX:if.cnj		si	si	fra:spa:si, por:se, ful:si
-PLX:in the name of God.phr		bi nim di lah	bi nim di lah
-PLX:instead of.pp		na plas di	na plas di
+PLX:in the name of God.phr		ba nim da lah	b'a nim d'a lah
+PLX:instead of.pp		na plas da	na plas da
 PLX:kendo.n		giemdao	giem·dao
 PLX:kyudo.n		gung dao	gung dao
 PLX:may.v		halal	halal
-PLX:nothing.pro		no shi	no shi
+PLX:nothing.pro		no she	no she
+PLX:of.pp		da	d'a	fra:spa:por:de, hau:dà, zho:的 (de)
 PLX:oganesson.n		oganeson	oganeson	eng:fra:por:may:oganesson, spa:oganesón, rus:оганесон, jpn:オガネソン, kor:우누녹튬
 PLX:okay.n.01		okei	okei
 PLX:older sibling.n		sen sib	sen sib
-PLX:one.pro		von	von	eng:one, fra:on
 PLX:or.cnj		o	o	eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)
-PLX:other.pro		altre	al·tr'e
+PLX:other.pro		ale	al'e
 PLX:praise be to God.phr		hamed a lah	hamed a lah
 PLX:prepend.v		prepozi	pre.pozi
 PLX:pseudorandom.a		falsozarik	fals·o·zar·ik
 PLX:ramen.n		supa men	supa men
-PLX:should.v		shud	shud	eng:should
-PLX:some.a		som	som	eng:some
-PLX:someone.pro		som von	som von
 PLX:tectonic plate.n		geo plate	geo plat'e
 PLX:tennessine.n		tenesium	tenes·ium	eng:fra:por:may:tennessine, spa:teneso, rus:теннессин, jpn:テネシン, kor:우눈셉튬
 PLX:than.pp		ka	ka	fra:spa:por:que, ron:ca, rus:как (kak), ara: كَـ (ka-)
-PLX:thank God.phr		shukre a lah	shukr’e a lah
+PLX:thank God.phr		shukre lah	shukr'e lah
 PLX:thanks.int		shukre	shukr'e
+PLX:thanks.int		shukria	shukr·ia
 PLX:that.pro		vo	vo	ben:ওই (ōi), hin:वो (vo), tur:o
-PLX:this.pro		ye	ye	kor:이 (i), ben:এই (ei)
+PLX:this.pro		ye	ye
 PLX:through.pp		tra	tra
 PLX:to.pp		do	do	rus:до (do), eng:to, zho:到 (dào), yue:到 (dou3)
 PLX:via.pp		via	via	eng:fra:por:deu:via, spa:vía
@@ -101,11 +99,12 @@ PLX:worldbuilding.n		dunia bination	dun·ia bina·tion
 PLX:wow.int		va	va	eng:wow, fra:ouah, zho:哇 (wā), yue:嘩 (waa1), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah, ful:wai
 PLX:yes.ptcl		ya	ya	eng:yes; yeah, deu:ja, kor:예 (ye), may:ya
 PLX:younger sibling.n		jun sib	jun sib
-PWN:ability.n.01		pote	pot’e
+PWN:ability.n.01		pote	pot'e
 PWN:ability.n.02		potentia	pot·ent·ia
 PWN:able.s.02		poten	pot·en
 PWN:about.r.07		karib	karib
 PWN:absorb.v.04		asorbe	a.sorb'e
+PWN:accept.v.02		acepe	a.cep'e
 PWN:accident.n.01		shigu	shigu	zho:事故 (shìgù), yue:事故 (si6gu3), jpn:事故 (jiko), kor:사고 (sago), vie:sự cố + ara: شِقْوَة (šiqwa)
 PWN:accustomed.s.02		adatik	ada·tik
 PWN:acetylene.n.01		alkin	alk·in
@@ -146,7 +145,7 @@ PWN:alike.a.01		ide	id'e	lat:idem, eng:identical, deu:identisch, fra:identique, 
 PWN:alkaline.a.01		kali	kali
 PWN:alkene.n.01		alken	alk·en
 PWN:alkyl.n.01		alkil	alk·il
-PWN:all.a.01		har	har
+PWN:all.a.01		hol	hol
 PWN:allergy.n.01		alergia	alerg·ia	eng:allergy, deu:fra:allergie, spa:por:alergia, rus:аллергия (allergiia), fas: لرژی‎ (âlerži), hin:एलर्जी (elarjī), ben:এলার্জি (elarji), may:alergi, hau:tur:alerji, jpn:アレルギー (arerugī), kor:알레르기 (allereugi)
 PWN:allophone.n.01		alofone	al·o·fon'e
 PWN:almond.n.01		badam	badam	may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), tam:வாதுமை (vātumai), zho:巴旦木 (bādànmù)
@@ -171,14 +170,14 @@ PWN:anal.a.01		anusik	anus·ik
 PWN:analgesia.n.01		inalgesia	in.alg·es·ia
 PWN:anaphoric.a.01		anaferik	ana.fer·ik
 PWN:anchor.n.01		angar	angar	eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tam:நங்கூரம் (naṅkūram), tel:లంగరు (laṅgaru), swa:nanga, hau:anga
-PWN:ancient.s.01		antian	ant·ian
 PWN:android.n.01		homanoide	hom·an·oid'e
 PWN:anion.n.01		yim ion	yim ion
 PWN:anode.n.01		yang gik	yang gik
 PWN:anoint.v.02		masi	masi	eng:messiah, fra:messie, spa:mesías, por:messias, rus:мессия (messiya), ara: مَسِيح‎ (masīḥ), hin:मसीह (masīh), ben:মসিহ (môśih), may:al-Masih, swa:Masiya, tur:Mesih, hau:Almasihu, zho:弥赛亚 (mísàiyà)
-PWN:anonymous.a.01		anonimik	a·no·nim·ik
+PWN:anonymous.a.01		inonimik	in·o·nim·ik
 PWN:answer.v.01		javab	javab	ara: جَوَاب‎ (jawāb), ben: جواب (jawāb), hin:जवाब (javāb), ben:জবাব (jobab), may:jawab, ful:jaabaade, swa:jibu,jawabu, tur:cevap
 PWN:antenna.n.01		antena	antena
+PWN:anthropocentric.a.01		homocentrik	hom·o.centr·ik
 PWN:antibiotic.a.01		antibiotik	anti·bio·tik
 PWN:antichrist.n.01		antikriste	anti.krist'e
 PWN:anticipate.v.03		previz	pre.viz
@@ -188,10 +187,9 @@ PWN:antithesis.n.01		antites	anti.tes
 PWN:antithetic.s.01		antitesik	anti.tes·ik
 PWN:antonym.n.01		antinim	anti.nim
 PWN:anus.n.01		anus	anus	eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs
-PWN:any.s.01		eni	eni	eng:any
 PWN:appear.v.02		fen	fen
 PWN:appearance.n.01		fen	fen
-PWN:appearance.n.01		sura	sura	ara: صورة (ṣūra), swa:sura, hau:sūr̃ā̀, yor:súúrà, tur:suret, fas: صورت (surat), ben:সুরত (surot), hin:सूरत (sūrat)
+PWN:appearance.n.01		sure	sur'e	ara: صورة (ṣūra), swa:sura, hau:sūr̃ā̀, yor:súúrà, tur:suret, fas: صورت (surat), ben:সুরত (surot), hin:सूरत (sūrat)
 PWN:append.v.01		pospozi	pos.pozi
 PWN:apple.n.01		aple	apl'e	eng:apple, deu:Apfel, rus:яблоко (yabloko), may:apel, ben:আেপল (apôl), hau:aful
 PWN:apprentice.n.01		seng	seng	zho:生 (shēng), yue:生 (saang1), jpn:生 (sei), kor:生 (saeng), vie:sinh + eng:deu:fra:spa:por:may:sensei, rus:сэнсэй (sensey)
@@ -203,10 +201,12 @@ PWN:arch.n.01		arka	arka	eng:arch, spa:por:arco, fra:arc, rus:арка (arka), m
 PWN:archeology.n.01		arkelojia	ark·e.loj·ia
 PWN:archer.n.01		gunger	gung·er
 PWN:archery.n.01		gung sut	gung sut
+PWN:ardor.n.03		rage	rag'e	hin:राग (rāg), ben:রাগ (rag), tam:ராகம் (rāgam) + eng:fra:rage, deu:Rage
 PWN:area.n.01		stan	stan	hin:स्थान (sthān), rus:стан (stan), fas:ـستان (-estān)
 PWN:argon.n.01		argon	argon	eng:argon, fra:argon, spa:argón, por:argon, rus:аргон, jpn:アルゴン, kor:아르곤, vie:agon, hin:ऑर्गन, ben:আর্গন, may:argon, swa:arigoni, ara: أرجون
 PWN:argue.v.01		argu	argu
 PWN:argument.n.01		argu	argu
+PWN:argument.n.03		lon	lon	zho:论 (lùn), yue:論 (leon6), jpn:論 (ron), kor:론 (ron); 논 (non), vie:luận
 PWN:arrange.v.01		taxe	tax'e
 PWN:arrow.n.01		dikater	dika·ter
 PWN:arsenic.n.02		arsenium	arsen·ium	eng:arsenic, fra:arsenic, spa:arsénico, por:arsénic, zho:砷 (shēn), vie:asen, hin:आर्सेनिक, ben:আর্সেনিক, may:arsen, swa:aseniki, ara: زرنيخ
@@ -217,7 +217,7 @@ PWN:asia.n.01		Asia	As·ia	eng:spa:Asia, rus:Азия (Aziya), tur:Asya, ara:آ�
 PWN:asian.a.01		asiatik	as·ia·tik
 PWN:asian.n.01		asian	as·ia·n
 PWN:ask.v.01		sual	sual
-PWN:ask.v.02		ching	ching	zho:請 (qǐng), kor:청 (cheong)
+PWN:ask.v.02		ching	ching	zho:请 (qǐng), yue:請 (ceng2), kor:청 (cheong), jpn:請 (sei)
 PWN:asparagus.n.01		asparge	asparg'e	eng:asparagus, deu:Spargel, fra:asperge, spa:espárrago, por:aspargo, rus:спаржа (sparža), jpn:アスパラガス (asuparagasu), kor:아스파라거스 (aseuparageoseu), swa:asparaga
 PWN:astatine.n.01		astatin	astatin	eng:astatine, fra:astate, spa:ástato, por:astato, rus:астат(ин), zho:砹 (ài), jpn:アスタチン, kor:아스타틴, vie:astatin, hin:एस्टाटिन, ben:অ্যাস্টাটিন, may:astatin, swa:astatini, ara: استاتين
 PWN:astrology.n.01		astrologia	astr·o·log·ia
@@ -237,8 +237,8 @@ PWN:attention.n.01		jan	jan	hin:ध्यान (dhyān), ben:ধ্যান (d
 PWN:attract.v.01		atrakte	a.trakt'e
 PWN:attribute.n.02		ita (-ta)	ita (-ta)	rus:-та (-ta), hin:-ता (-tā) + fra:-ité, spa:-idad, por:-idade, ita:-ità, may:-itas
 PWN:attribute.n.02		sifa	sifa
-PWN:august.n.01		mes eit	mes eit
-PWN:australia.n.01		Australia	Australia
+PWN:august.n.01		mes bat	mes bat
+PWN:australia.n.01		Australia	Austr·al·ia
 PWN:automatic.a.01		autatik	aut·at·ik
 PWN:autonomy.n.01		autonomia	aut·o·nom·ia
 PWN:avaricious.s.01		tama	tama	ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), yue:貪 (taam1), kor:탐욕 (tamyok), vie:tham
@@ -277,7 +277,7 @@ PWN:bare.s.01		nud	nud	eng:nude, spa:desnudo, por:fra:nu + rus:нудизм (nud
 PWN:barium.n.01		barium	bar·ium	eng:barium, fra:baryum, spa:bario, por:bário, rus:барий, zho:钡 (bèi), jpn:バリウム, kor:바륨, vie:bari, hin:बेरियम, ben:বেরিয়াম, may:barium, swa:bari, ara: باريوم
 PWN:barometer.n.01		aeropresometrer	aer·o·pres·o·metr·er
 PWN:barrel.n.01		tong	tong	zho:桶 (tǒng), yue:桶 (tung3), kor:통 (tong), vie:thùng, may:tong, khm:តុង (tong), tha:ถัง (tǎng), fas: تنگ‎ (tong) + fra:tonneau, spa:tonel
-PWN:barricade.v.01	3	bare	bar'e	eng:bar + fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa), tur:baraj, zho:坝 (bà), yue:壩 (baa3)
+PWN:barricade.v.01		bare	bar'e	eng:bar + fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa), tur:baraj, zho:坝 (bà), yue:壩 (baa3)
 PWN:barrier.n.01		barer	bar·er
 PWN:barroom.n.01		bar	bar	eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), yue:酒吧 (zau2baa1), jpn:バー (bā), hin:बार (bār), ben:বার (bar), tam:பார் (pār)
 PWN:barroom.n.01		birkan	bir·kan
@@ -293,13 +293,13 @@ PWN:battlefield.n.01		jang medan	jang medan
 PWN:be.v.01		es	es	eng:is, deu:ist, fra:est, spa:es, rus:есть (yest'), fas: است (ast), scr:अस्ति (asti)
 PWN:be.v.03		sta	sta	eng:stay, deu:stehen; statisch, spa:por:estar; estático, fra:être, kor:싯다 (sitda), fra:statique, rus:стоять (stoyat'); статический (statičeskiy), may:statis
 PWN:bear.n.01		baru	baru	deu:Bär, eng:bear + hin:भालू (bhālū) ben:ভালুক (bhaluk), tam:பல்லுகம் (pallukam) + may:beruang
-PWN:beautiful.a.01		hobsuratik	hob.sura·tik
+PWN:beautiful.a.01		bonsurik	bon·sur·ik
 PWN:beautiful.a.01		mei	mei	zho:美 (měi), yue:美 (mei5), jpn:美 (mi), kor:미 (mi), vie:mĩ, mỹ
 PWN:beer.n.01		bir	bir	eng:beer, deu:Bier, fra:bière, ara: بيرة (bīra), hin:बियर (biyar), ben:বিয়ার (biyar), may:bir, tur:bira, swa:bia, zho:啤(酒) (pí-jiǔ), yue:啤酒 (be2zau1), jpn:ビール (bīru), vie:bia
 PWN:beginning.n.04		asle	asl'e	ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), tam:அசல் (acal), swa:asili, hau:asali, ful:asli
 PWN:being.n.01		esentia	es·ent·ia
 PWN:believe.v.01		kred	kred
-PWN:beloved.s.01		lover	lov·et
+PWN:beloved.s.01		lovet	lov·et
 PWN:bench.n.01		benke	benk'e	fra:banc, deu:Bank, spa:por:banco, may:bangku, ful:baŋ + eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)
 PWN:bend.v.01		flexe	flex'e	eng:flex, fra:fléchir, spa:por:flexionar + deu:Reflex, rus:рефлекс, tur:refleks
 PWN:berkelium.n.01		berkelium	berkel·ium	eng:berkelium, fra:berkélium, spa:berkelio, por:berqueélio, rus:берклий, zho:锫 (péi), jpn:バークリウム, kor:버클륨, vie:beckeli, hin:बर्केलियम, ben:বার্কেলিয়াম, may:berkelium, swa:berkeli, ara: بركليوم
@@ -307,6 +307,8 @@ PWN:berry.n.01		beri	beri	deu:Beere, eng:berry, may:beri, hin:बेरी (ber�
 PWN:beryllium.n.01		berilium	beril·ium	eng:beryllium, fra:béryllium, spa:berilio, por:berílio, rus:бериллий, zho:铍 (pí), jpn:ベリリウム, kor:베릴륨, vie:swa:berili, hin:बेरिलियम, ben:বেরিলিয়াম, may:berilium, ara: بيريليوم
 PWN:besides.r.02		plus	plus	eng:deu:fra:plus, rus:плюс (plyus), jpn:プラス (purasu), kor:플러스 (peulleoseu)
 PWN:bestow.v.02		tribu	tribu
+PWN:better.v.02		haofa	hao·fa
+PWN:beyond.r.02		tras	tras	spa:por:detrás, eng:fra:deu:trans-, san:तिरस् (tiras)
 PWN:bible.n.01		biblia	bibl·ia
 PWN:biblical.a.01		biblik	bibl·ik
 PWN:big_brother.n.02		sen bra	sen bra
@@ -317,7 +319,7 @@ PWN:biotic.a.01		biotik	bio·tik
 PWN:birch.n.02		betula	betula	spa:abedul, por:bétula, fra:bouleau, vie:bu-lô, ara: بَتُولَا‎ (batūlā)
 PWN:bird.n.01		paxi	paxi	hin:mar:पक्षी (pakṣī), ben:পাখী (pakhī), tam:பட்சி (paṭci), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa)
 PWN:birth.n.01		nation	nat·ion
-PWN:birthday.n.02		nate din	nat'e din
+PWN:birthday.n.02		nate dien	nat'e dien
 PWN:birthplace.n.01		nate lok	nat'e lok
 PWN:bismuth.n.01		bismute	bismut'e	eng:bismuth, fra:bismuth, spa:bismuto, por:bismuto, rus:висмут, zho:铋 (bì), jpn:ビスマス, kor:비스무트, vie:bitmut, bismut, hin:बिस्मथ, ben:বিসমাথ, may:bismut, swa:bismuthi, ara: بزموث
 PWN:bison.n.01		bison	bison	eng:fra:may:vie:bison, spa:bisonte, por:bisão, rus:бизон (bizon), jpn:バイソン (baison), kor:바이슨 (baiseun), ara: بِيسُون‎ (bīsūn)
@@ -325,6 +327,7 @@ PWN:black.a.01		kara	kara	tur:kara, tam:கரு (karu), scr:काल (kāla),
 PWN:blend.v.03		mixe	mix'e	deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)
 PWN:bless.v.01		barka	barka	ara:(mubārak), fas: برکت (barekat), ben:বরকত (borkot), may:berkah, tur:tebrik, swa:baraka, hau:ful:(al)barka, yor:alubarika
 PWN:blood.n.01		hemo	hem'o	eng:spa:por:may:vie:tur:hemo-, fra:hémo-, rus:гемо- (gemo-), jpn:ヘモ- (hemo-)
+PWN:bloom.n.04		eritre	eritr'e
 PWN:blow.v.01		fla	fla	eng:inflate, fra:enfler, spa:por:inflar, deu:Inflation, rus:инфляция (infliaciia), may:inflasi, tur:enflasyon, jpn:インフレ (infure), kor:인플레이션 (inpeulleisyeon)
 PWN:blue.s.01		blu	blu	eng:blue, deu:blau, fra:bleu, spa:blao, swa:buluu, ful:bulo, may:belau; biru
 PWN:bluish_green.s.01		cian	cian	eng:fra:cyan, deu:zyan, spa:cian, por:ciano, rus:циан (tsian), ara:سيان (sayan), fas: سیان (siyân), hin:क्यान (kyāna), jpn:シアン (shian), may:sian + zho:青色 (qīngsè), yue:青 (ceng1), kor:청 (cheong), vie:xanh
@@ -359,6 +362,7 @@ PWN:bread_knife.n.01		ban dau	ban dau
 PWN:break_up.v.16		frag	frag
 PWN:breast.n.02		mam	mam	fas: ممه‎ (mame), tur:meme, eng:mamma, spa:por:mama + fra:mammifère, may:mamalia
 PWN:brick.n.01		teg	teg	lat:tegula, ita:tegola, eng:tile, deu:Ziegel, fra:tuile, spa:teja, por:telha, hin:टाइल (ṭāila), ben:টালি (ṭali), jpn:タイル (tairu), kor:타일 (tail), ara: طَجِين‎  (ṭajīn), tur:tuğla; tajine
+PWN:bridge.n.01		gio	gio	zho:桥 (qiáo), yue:橋 (kiu4), jpn:橋 (kyō), kor:-교 (-gyo), vie:cầu
 PWN:bright.a.01		ming	ming	zho:wuu:明 (míng), yue:明 (ming4), vie:minh, kor:명 (myeong)
 PWN:broad.s.06		vas	vas	ara: وَاسِع (wāsiʕ), tur:vasi, fas: واسِع (vâsi') + eng:vast, fra:vaste, spa:por:vasto + hin:विशाल (viśāl), ben:বিশাল (biśal), tam:விசாலம் (visālam), tel:విశాలము (viśālamu)
 PWN:broccoli.n.01		brokol	bro·kol
@@ -395,14 +399,18 @@ PWN:calcium.n.01		kalcium	kalc·ium	eng:calcium (Ca), fra:calcium, spa:calcio, p
 PWN:calculate.v.01		hisab	hisab	ara: حِسَاب‎ (ḥisāb), hin:हिसाब (hisāb), ben:হিসাব (hiśab), tur:hesap, orm:hisaaba, swa:hisabu, hau:lisafi, ful:hiisa
 PWN:calendar_month.n.01		mes	mes	fra:mois, spa:mez, por:mês, rus:месяц (mes'ac), hin:मास (mās), ben:মাস (maś) + swa:mwezi
 PWN:californium.n.01		kalifornium	kaliforn·ium	eng:californium, fra:californium, spa:californio, por:califórnio, rus:калифорний, zho:锎 (kāi), jpn:カリホルニウム, kor:칼리포르늄, vie:califoni, hin:कैलीफोर्नियम, ben:ক্যালিফোর্নিয়াম, may:kalifornium, swa:kalifoni, ara: كاليفورنيوم
+PWN:call.v.05		voka	voka
+PWN:call.v.25		klama	klama
 PWN:camel.n.01		gamel	gamel	ara:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) eng:camel, deu:Kamel, spa:camello, por:camelo, swa:ngamia, orm:gaala, wol:geleem
 PWN:camp.n.03		kampe	kamp'e	eng:camp, spa:campamento, por:acampamento, tur:kamp, swa:kambi, hin:कैंप (kaimp), may:kem, jpn:キャンプ (kyanpu)
 PWN:cancel.v.03		desiste	de.sist'e
 PWN:canoe.n.01		kanu	kanu	eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano
 PWN:cap.n.02		botel tap	botel tap
 PWN:capable.a.01		poten	pot·en
-PWN:car.n.01		auto	aut’o
+PWN:capitulation.n.03		taslam	ta.slam
+PWN:car.n.01		auto	aut'o
 PWN:car.n.01		gar	gar
+PWN:car.n.01		motogar	mot·o·gar
 PWN:carbon.n.01		karbe	karb'e	eng:carbon, fra:carbone, spa:carbón, por:carbono, vie:cacbon, hin:कार्बन, ben:কার্বন, may:karbon, swa:kaboni, ara: كربون
 PWN:cardboard.n.01		karton	kart·on
 PWN:cargo.n.01		karga	karga	eng:cargo, fra:cargaison, por:spa:carga, deu:Cargo, may:kargo
@@ -417,8 +425,10 @@ PWN:cauliflower.n.01		hua kol	hua kol
 PWN:cause.n.01		sabab	sabab	ara: سَبَب‎ (sabab), fas: سبب‎ (sabab), hin:सबब (sabab), may:sebab, tur:sebep, swa:ful:sababu, hau:sababi, yor:sábàbí
 PWN:cave.n.01		gua	gua	ben:গুহা (guha), hin:गुफ़ा (gufā), tam:குகை (kuhai), tel:గుహ (guha), may:gua, tha:คูหา (gūhā)
 PWN:celestial_body.n.01		astre	astr'e	fra:astre, por:astro, eng:spa:tur:astro-, rus:астро- (astro-)
+PWN:cell.n.02		cite	cit'e	eng:cell, deu:Zelle, fra:cellule, spa:célula, may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula
 PWN:cemetery.n.01		gabristan	gabr·istan
 PWN:cemetery.n.01		nekropol	nekr·o·pol
+PWN:center.n.04		centre	centr'e	eng:fra:centre, deu:Zentrum, spa:por:centro, rus:центр (centr), hin:केंद्र (kendra), ben:কেন্দ্র (kendro), tam:கேந்திரம் (kēntiram), may:sentral, swa:senta
 PWN:cerebral.a.02		naotik	nao·tik
 PWN:cerium.n.01		cerium	cer·ium	eng:cerium, fra:cérium, spa:cerio, por:cério, rus:церий, zho:铈 (shì), jpn:セリウム, kor:세륨, vie:xeri, hin:सेरियम, ben:সেরিয়াম, may:serium, swa:seri, ara: سيريوم
 PWN:certain.a.02		amen	amen	heb: אָמֵן‎, (ʾāmēn), ara: أَمِين (ʔamīn), tur:emin, swa:amini, ful:amiini, hau:amince, ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, rus:аминь (amin'), zho:阿门 (āmén), yue:阿門 (aa3mun4), kor:아멘 (amen), jpn:アーメン (āmen), vie:a men
@@ -432,6 +442,7 @@ PWN:chapter.n.01		bab	bab	ara:fas:urd: بَاب‎ (bāb), may:bab, swa:babu, ha
 PWN:charge.v.02		akuza	a.kuza
 PWN:charity.n.03		sadakia	sadak·ia
 PWN:check.n.01		chek	chek	eng:spa:por:cheque, fra:chèque, rus:чек (ček), ara: شِيك‎ (šēk), jpn:チェック (chekku), vie:séc, hin:चेक (cek), ben:চেক (cek), may:cek, ind:cheki
+PWN:checkers.n.01		dama	dama	fra:jeu de dames, spa:por:damas, ara: ضَامَة‎ (ḍāma), vie:cờ đam, may:dam, tur:dama, deu:Damespiel
 PWN:cheer.v.02		hura	hura
 PWN:cheese.n.01		kiz	kiz	eng:cheese, zho:起司 (qǐsī), yue:知士 (zi1si62), jpn:チーズ (chīzu), kor:치즈 (chijeu), hin:चीज़ (cīz), swa:chizi, spa:queso, por:queijo, may:keju, deu:Käse
 PWN:cheetah.n.01		chita	chita	eng:cheetah, spa:por:chita, hin:चीता (cītā), ben:চিতা (cita), may:citah, jpn:チーター (chītā), kor:치타 (chita), ara: شِيتَه‎ (šītah), tur:çita
@@ -481,6 +492,7 @@ PWN:color.n.01		rang	rang	fas: رَنْگ (rang), hin:रंग (raṅg), ben:�
 PWN:come.v.01		lai	lai	zho:来 (lái), yue:嚟 (lai4), vie:lại
 PWN:comedy.n.01		komodia	kom·od·ia
 PWN:commercial_enterprise.n.02	inf.	biz	biz
+PWN:commissioner.n.02		komisioner	ko.mis·ion·er
 PWN:committee.n.01		komisia	ko.mis·ia
 PWN:common.a.01		konhave	kon·hav'e
 PWN:companion.n.01		sahib	sahib	ara: صَاحِب (ṣāḥib), fas: صاحب (sāhib), hin:साहिब (sāhib), ben:সাহেব (śaheb), may:sahabat, swa:sahibu
@@ -489,9 +501,12 @@ PWN:compass.n.01		gik dikator	gik dika·tor
 PWN:compass.n.04		sirke grafor	sirke grafor
 PWN:compassion.n.01		kompatia	kom.pat·ia
 PWN:complex.a.01		komple	kom.pl'e
+PWN:composition.n.09		morfe	morf'e
 PWN:computer.n.01		komputer	kom.put·er
 PWN:concave.a.01		enkurvatik	en.kurva·tik
-PWN:condition.n.01		nes (-es)	nes (-es)	eng:-ness, fra:-esse, por:-eça, spa:-eza
+PWN:concentric.a.01		omocentrik	om·o.centr·ik
+PWN:concept.n.01		koncepe	kon.cep'e
+PWN:condition.n.01		ita (-ta)	ita (-ta)
 PWN:cone.n.01		konu	konu
 PWN:connect.v.01		linke	link'e
 PWN:connection.n.06		ser	ser	eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri + ara:(silsila), fas: سلسله‎ (selsele), hin:सिलसिला (silsilā), tur:silsile, swa:silisili, hau:sasari + zho:系列 (xìliè) + kor:사슬 (saseul)
@@ -500,6 +515,7 @@ PWN:consider.v.04		fikre	fikr'e
 PWN:consist.v.03		konsiste	kon.sist'e
 PWN:consistent.a.01		konsisten	kon.sist'en
 PWN:conspiracy.n.01		komplot	kom.plot
+PWN:constitution.n.04		morfe	morf'e
 PWN:construct.v.01		konstru	kon.stru
 PWN:construction.n.01		bina	bina
 PWN:container.n.01		kontener	kon.ten·er
@@ -525,7 +541,7 @@ PWN:coulomb.n.01		kulombe	kulomb'e
 PWN:count.v.01		num	num
 PWN:countryside.n.01		agristan	agr·istan
 PWN:couple.n.04		duo	du·o
-PWN:course.n.01		darse kurse	dars’e kurs’e
+PWN:course.n.01		darse kurse	dars'e kurs'e
 PWN:course.n.01		kurse	kurs'e
 PWN:cover.v.05		tema	tema
 PWN:cow.n.01		amu	amu	(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö
@@ -536,6 +552,7 @@ PWN:creation.n.02		kreatur	krea·tur
 PWN:crime.n.01		grim	grim	eng:fra:por:crime, spa:crimen, tgl:krimen + ara: جُرْم (jurm), fas: جرم‎ (jorm), hin:जुर्म (jurm)
 PWN:crisis.n.01		kriz	kriz	eng:crisis, deu:Krise, fra:por:crise, spa:crisis, rus:кризис (krizis), tur:kriz, may:krisis
 PWN:crisscross.n.01		krus	krus	eng:cross, por:spa:cruz, deu:Kreuz, fra:croix, jpn:クロス (kurosu), rus:крест (krest), kon:kuluzi, hin:क्रूश (krūś)
+PWN:crocus.n.01		safran	safr·an	ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), hin::ज़ाफ़रान (zāfrān), ben:জাফরান (japhoran), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)
 PWN:cross.n.01		krus	krus
 PWN:crossbow.n.01		krus gung	krus gung
 PWN:cry.v.02		uhu	uhu
@@ -543,13 +560,16 @@ PWN:cube.n.01		kube	kub'e
 PWN:cuckoo.n.02		kuku	kuku	eng:cuckoo, fra:coucou, spa:por:cuco, rus:кукушка (kukushka), fas: کوکو‎ (kuku), jpn:郭公 (kakkō), zho:布谷鸟 (bùgǔniǎo), yue:布谷鳥 (bou3 guk1 niu5), tur:guguk, hau:kukku
 PWN:cumin.n.01		zira	zira	fas: زیره‎ (zire), hin:ज़ीरा (zīrā), ben:জিরা (zīra), tam:சீரகம் (sīrakam), rus:зира (zira), zho:孜然 (zīrán), swa:mjira
 PWN:cupboard.n.01		almari	almari	spa:armario, por:armário, hin:अलमारी (almārī), ben:আলমারি (almari), tam:அலமாரி (alamāri), may:lemari, swa:almari, ful:armoor
-PWN:cupid.n.01		roman kamadeo	roma·n kama·de’o
+PWN:cupid.n.01		roman kamadeo	roma·n kama·de'o
 PWN:curium.n.01		kurium	kur·ium	eng:curium, fra:curium, spa:curio, por:cúrio, rus:кюрий, jpn:キュリウム, kor:퀴륨, vie:curi, hin:क्यूरियम, ben:কুরিয়াম, may:kurium, swa:kuri, ara: كوريوم
 PWN:currency.n.01		valuta	valu·ta
 PWN:curtain.n.01		parda	parda	fas: پرده‎ (parde), ben:পরদা (pôrda), hin:पर्दा (pardā), tur:perde, ara: پرده (parda), tam:பர்தா (partā)
 PWN:curve.n.01		kurva	kurva	eng: curve, spa:curva, por:curva, fra:courbe, deu:Kurve, rus:крива́я
 PWN:curved.a.01		kurva	kurva
+PWN:custom.n.01		suna	suna	ara: سنة (sunna), fas: سنت (sonnat), hin:सुन्नत (sunnat), ben:সুন্নত (śunnot), eng:sunnah, deu:Sunna, por:suna, rus:сунна (sunna), hau:sunnā, jpn:スンナ (sunna), kor:순나 (sunna), tur:sünnet, swa:suna
+PWN:custom.n.02		rasme	rasm'e	ara:fas: رسم (rasm), hin:रस्म (rasma), ben:রসম (rośom), may:resam, tur:resmi, swa:rasmi
 PWN:cut.v.01		kat	kat	eng:cut, hin:काटना (kāṭnā), ben:কাটা (kata); কেতা (keta), tam:கடி (kaṭi), swa:-kata, ara: قَطَعَ (qaṭa'a), fas: قطعه‎ (qet'e), tur:kıta, zho:割 (gē), yue:割 (got3), wuu:割 (ga'), jpn:割 (katsu), vie:cắt, tha:กัด (kat)
+PWN:cytology.n.01		citolojia	cit·o·loj·ia
 PWN:dam.n.01		baraje	bar·aj'e
 PWN:dancing.n.01		danse	dans'e	eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), may:dansa, tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi
 PWN:danger.n.01		hatre	hatr'e	ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, hau:hatsari, tur:muhatara
@@ -559,7 +579,8 @@ PWN:data.n.01		data	data	eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por
 PWN:database.n.01		data banke	data bank'e
 PWN:date.n.01		nen mes din	nen mes din	zho:年月日 (niányuèrì), yue:年月日 (ninyutyat), jpn:年月日 (nengappi), kor:연월일 (yeonworil)
 PWN:daughter.n.01		dot	dot	deu:Tochter, eng:daughter, rus:дочь (dočʹ), fas: دختر (doxtar), hin:दुख़्तर (duxtar), tel:దుహిత (duhita)
-PWN:day.n.05		din	din	eng:day, spa:día, por:dia, rus:день (deń), hin:दिन (din), ben:দিন (din), tam:தினம் (tiṉam), zho:天 (tiān), yue:天 (tin1)
+PWN:day.n.05		dien	dien	eng:day, spa:día, por:dia, rus:день (deń), hin:दिन (din), ben:দিন (din), tam:தினம் (tiṉam), zho:天 (tiān), yue:天 (tin1)
+PWN:debate.v.03		lon	lon
 PWN:debug.v.01		debug	de.bug
 PWN:debugger.n.01		debuger	de.bug·er
 PWN:december.n.01		mes ten du	mes ten du
@@ -579,26 +600,32 @@ PWN:demography.n.01		demografia	dem·o·graf·ia
 PWN:demonic.s.01		diblik	dibl·ik
 PWN:dentist.n.01		dante dokter	dant·e dokt·er
 PWN:deny.v.04		denega	de.nega
-PWN:depicting.n.01		tasura	ta.sura
-PWN:depiction.n.04		tasura	ta.sura
+PWN:depicting.n.01		tasure	ta.sur'e
+PWN:depiction.n.04		tasure	ta.sur'e
 PWN:depopulate.v.01		depopuliza	de.pop·ul·iza
 PWN:deposit.v.02		banke	bank'e	eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki), ful:banke, hau:banki
 PWN:depository_financial_institution.n.01		banke	bank'e
 PWN:desert.n.01		sablustan	sablu·stan
-PWN:desire.v.01		voli	voli	fra:vouloir, deu:willen, eng:volition, spa:volición, por:volição, rus:воля (volya)
+PWN:desire.v.01		voli	voli	deu:wollen, fra:vouloir, eng:volition, spa:volición, por:volição, rus:воля (volya)
 PWN:despair.v.01		dezasha	dez.asha
 PWN:destroy.v.01		destru	de.stru
 PWN:detail.n.02		detal	detal	eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль, tur:detay
 PWN:development.n.02		evolution	e.volu·tion	eng:evolution, por:evolução, spa:evolución, fra:évolution, deu:Evolution, rus:эволю́ция, may:evolusi
 PWN:devil.n.02		dible	dibl'e	eng:devil, fra:diable, spa:diablo, por:diabo, rus:дьявол (dyavol), ara: إِبْلِيس⁩ (ʔiblīs), tur:hau:iblis, swa:ibilisi
+PWN:diagnose.v.01		dianos	dia.nos
+PWN:diagnose.v.02		dianosifa	dia.nos·ifa
+PWN:diagnosis.n.01		dianos	dia.nos
+PWN:diagnostic.a.01		dianosik	dia.nos·ik
 PWN:diagonal.s.01		diagonik	dia.gon-ik
+PWN:diamond.n.02		alman	alman	gre:ἀδάμας (adámas), eng:adamant; diamond, fra:diamant, spa:por:diamante, rus:алмаз (almaz), fas: الماس‎ (almâs), hin:अलमास (almās), ara: أَلْمَاس‎ (ʾalmās), tur:elmas, may:almas, swa:almasi, hau:alman, jpn:ダイヤモンド (daiyamondo), kor:다이아몬드 (daiamondeu)
 PWN:diaspora.n.03		diaspora	dia.spora
 PWN:dichotomy.n.01		dutomia	du.tom·ia
 PWN:dictionary.n.01		lexe buk	lex·e buk
 PWN:die.n.01		zar kub	zar kub
-PWN:dinner.n.01		diner	din·er
-PWN:dinosaur.n.01		dinosaur	dino·saur
+PWN:dinner.n.01		dien yam	dien yam
+PWN:dinosaur.n.01		dinasaur	dina·saur
 PWN:direction.n.01		dika	dika	eng:indicate, fra:indiquer, spa:por:indicar + hin:दिशा (diśā) + ben:দিকে (dike) + zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích
+PWN:director.n.01		menajer	men·aj·er
 PWN:dirty.a.01		insafi	in.safi
 PWN:disapprove.v.02		deprova	de.prova
 PWN:disbelieve.v.01		inkrede	in.kred'e
@@ -615,7 +642,7 @@ PWN:distribute.v.01		distribu	dis.tribu
 PWN:distribute.v.04		disdon	dis·don
 PWN:ditch.n.01		kanal	kan·al	eng:spa:por:fra:canal, rus:канал (kanal), may:kanal + ara: قَنَاة‎ (qanāh) + ben:খাল (khal)
 PWN:divination.n.03		mantia	mant·ia
-PWN:divine.s.01		deik	de·ik
+PWN:divine.s.01		deive	de·iv'e
 PWN:divine.v.01		mante	mant'e
 PWN:doctor.n.01		dokter	dokt·er	eng:spa:doctor, fra:docteur, por:doutor, deu:tur:doktor, rus:доктор (doktor), fas:دکتر‎ (doktor), hin:डॉक्टर (ḍŏkṭar), may:dokter, ara: دُكْتُور‎ (duktūr), ful:doktoor, swa:dokta
 PWN:doctor.n.01		medik dokter	med·ik dokt·er
@@ -626,19 +653,21 @@ PWN:doll.n.01		pup	pup	fra:poupée, deu:Puppe, eng:puppet, rus:пупс (pups), 
 PWN:dollar.n.01		dolar	dolar
 PWN:dolphin.n.02		dolfin	dolfin	ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del'fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)
 PWN:domain.n.02		ya	ya
+PWN:domestic.a.02		domik	dom·ik
 PWN:domestic_ass.n.01		iha	iha	onom. eng:heehaw, fra:hi-han, rus:и-а (i-a), vie:hô hố, tur:aa-i
 PWN:dominion.n.01		kratia	krat·ia	eng:-cracy, fra:-cratie, spa:por:-cracia, rus:-кратия (kratiya), ara:(-qratiya), may:swa:-krasi
 PWN:dominoes.n.01		domino	domino	eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)
 PWN:double.s.03		duple	du·pl'e
 PWN:doubt.n.01		shak	shak	ara: شَكَّ‎ (šakka), fas: شک‎ (šak), hin:शक (śak); शंका (śankā), may:syak; sangka, tur:şek, swa:shaka; -shuku, hau:shakka
 PWN:doubt.v.02		shak	shak
-PWN:download.v.01		dekargo	de.kargo
+PWN:download.v.01		dekarga	de.karga
 PWN:drag.v.01		trakte	trakt'e	spa:traer + eng:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), zho:拖拉機 (tuōlājī), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör
 PWN:dragon.n.01		drak	drak	eng:fra:dragon, spa:dragón, por:dragão, deu:Drache, rus:дракон (drakon), jpn:ドラゴン (doragon), kor:드래곤 (deuraegon), swa:dragoni
 PWN:dramatic.a.01		dramatik	drama·tik
 PWN:draw.n.04		lot	lot	eng:fra:lot, deu:Los, spa:por:loteria, rus:лотерея (lotereia), fas: لاتاری‎ (lâtâri), hin:लॉटरी (lŏṭrī), ben:লটারি (lôṭari), zho:乐透 (lètòu)
 PWN:draw.v.06		grafe	graf'e
 PWN:drawing.n.02		grafe	graf'e	eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)
+PWN:drill.v.03		trena	trena
 PWN:drive.v.01		shofe	shof'e	fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofyor), fas: شوفر‎ (šofer), tur:şoför, may:sopir
 PWN:drive.v.15		pel	pel
 PWN:drug_addict.n.01		narkiste	nark·ist'e
@@ -651,6 +680,11 @@ PWN:duration.n.01		dura	dura	eng:duration, fra:durée, spa:por:durar + ara: دَ
 PWN:durian.n.01		durian	durian	may:eng:deu:fra:tur:durian, spa:durián, ara: دُرْيَان‎ (duryān), fas: دوریان‎ (duriân), jpn:リアン (dorian), kor:두리안 (durian), rus:дуриан (durian), swa:duriani, hin:डुरियन (ḍuriyan), ben:দুরিয়ান (duriẏan)
 PWN:dust.n.01		haki	haki	fas: خاک (xâk), hin:ख़ाक (xāk), ben:খাক (khâk), tur:haki, eng:khaki, fra:kaki, spa:caqui, por:cáqui, rus:хаки (haki), zho:卡其 (kǎqí), yue:卡其色 (kaakeisik), jpn:カーキ色 (kāki-iro), kor:카키색 (kakisaek), vie:màu kaki
 PWN:duty.n.01		den	den	ara: دين m (dain), swa:deni + fas: دین (din), hin:दीन (dīn), ben:দীন (din), tur:may:din, hau:addini, ful:wol:diine + eng:debt, fra:dette
+PWN:dwelling.n.01		dom	dom	rus:дом (dom), eng:fra:domicile, deu:Domizil, spa:por:domicilio, may:domisili
+PWN:dynamic.a.01		dinatik	dina·tik
+PWN:dynamic.a.02		kinetik	kine·tik
+PWN:dynast.n.01		dinaste	din·a·st'e
+PWN:dynasty.n.01		dinastia	din·a·st·ia
 PWN:dysfunction.n.01		dusfunte	dus.funt'e
 PWN:dysprosium.n.01		disprosium	dispros·ium	eng:dysprosium, fra:dysprosium, spa:disprosio, por:disprósio, rus:диспрозий, zho:镝 (dī), jpn:ジスプロシウム, kor:디스프로슘, vie:đysprosi, hin:डिस्प्रोसियम, ben:ডিসপ্রোসিয়াম, may:disprosium, swa:disprosi, ara: ديسبروسيوم
 PWN:dystopia.n.01		dustopia	dus.top·ia
@@ -680,9 +714,9 @@ PWN:elephant.n.01		gaja	gaja	hin:गज (gaj), tam:கசம் (kacam), tel:�
 PWN:eleven.s.01		ten un	ten un
 PWN:elf.n.01		elfe	elf'e	eng:elf, spa:por:elfo, fra:elfe, rus:эльф (el'f), jpn:エルフ (erufu), kor:엘프 (elpeu)
 PWN:emigrant.n.01		emigran	e.migra·n
-PWN:emigrate.v.01		emigra	e.migr'a
+PWN:emigrate.v.01		emigra	e.migra
 PWN:emirate.n.01		amiria	amir·ia
-PWN:emit.v.02		exmise	ex.mis'e
+PWN:emit.v.02		emise	e.mis'e
 PWN:emperor.n.01		imperer	imper·er
 PWN:empire.n.02		imperia	imper·ia	eng:fra:empire, spa:imperio, por:império, rus:империя (imperiya), ara:(ʾimbirāṭūriyya), tur:imparatorluk
 PWN:empty.a.01		hali	hali	ara:خَالٍ‎ (xāliy), hin:ख़ाली (xālī), ben:খালি (khali), tel:ఖాళీ (khāḷī), tam:(kali), fas:خالی (xāli), tur:hali
@@ -700,7 +734,8 @@ PWN:environmental.a.01		ekotik	eko·tik
 PWN:equal.a.01		par	par	eng:peer, fra:pair, spa:por:par, ita:pari, rus:пара (para) + fas: برابر‎ (barâbar), hin:बराबर (barābar), ben:বরাবর (bôrabôr), tur:beraber, swa:barabara
 PWN:equality.n.01		parita	par·ita
 PWN:erbium.n.01		erbium	erb·ium	eng:erbium, fra:erbium, spa:erbio, por:érbio, rus:эрбий, zho:铒 (ěr), jpn:エルビウム, kor:에르븀, vie:eribi, hin:अर्बियम, ben:ইরবিয়াম, may:erbium, swa:erbi, ara: إربيوم
-PWN:eros.n.01		helenik kamadeo	helen·ik kama·de’o
+PWN:eritrea.n.01		Eritria	Eritr·ia
+PWN:eros.n.01		helenik kamadeo	helen·ik kama·de'o
 PWN:erotic.s.01		erotik	ero·tik	eng:erotic, deu:erotisch, fra:érotique, spa:por:erótico, rus:эротический (erotičeskiy), tur:erotik, may:erotis, jpn:エロチック (erochikku), kor:에로 (ero)
 PWN:esperanto.n.01		esperante	esperant'e
 PWN:ethane.n.01		etan	et·an
@@ -717,13 +752,17 @@ PWN:even.r.01		hata	hata	ara: حَتَّى (ḥatta), fas:حَتّی, tur:hau:ha
 PWN:every.s.01		har	har	fas: هر (har), ben:হর (hor), hin:हर (har), pnb:ਹਰ (har), tur:her
 PWN:example.n.01		misal	misal	ara:مِثَال, may:misal, tur:misal, fas:مِثال, hin:मिसाल
 PWN:excellent.s.01		top klasik	top klas·ik
+PWN:exception.n.01		exception	ex.cep·tion
 PWN:excessively.r.01		tai	tai
 PWN:exchange.v.01		yek	yek
+PWN:exclude.v.01		ecepta	e.cept'a
+PWN:exclude.v.01		excepe	ex.cep'e
 PWN:exclude.v.01		exkluze	ex.kluz'e
 PWN:exclusive.s.01		exkluziv	ex.kluz·iv
 PWN:excursion.n.01		exkursion	ex.kurs·ion
 PWN:excuse.v.02		exkuza	ex.kuza
 PWN:exempt.a.01		fri	fri	eng:free, deu:frei
+PWN:exercise.n.01		trena	trena	eng:train, deu:Training, fra:entraîner, spa:entrenar, por:treinar, rus:тренироваться (trenirovat'sya), hin:ट्रेनिंग (trening), tur:antrenman, jpn:トレーニング (torēningu), kor:트레이닝 (teureining)
 PWN:exist.v.01		esiste	e.sist'e
 PWN:exist.v.01		zai	zai	zho:在 (zài), yue:在 (zoi6), jpn:在 (zai), vie:tại
 PWN:existent.a.01		esisten	e.sist'en
@@ -766,7 +805,7 @@ PWN:female.a.01		femin	fem·in	zho:女 (nǚ), yue:女 (neoi), kor:녀 (nyeo), vi
 PWN:female.n.01		fem	fem	eng:female, fra:femme, ita:femmina, spa:por:femenino
 PWN:feminism.n.01		feminisme	fem·in·ism'e
 PWN:feminist.n.01		feministe	fem·in·ist'e
-PWN:fencing.n.03		giemsut	giem·sut
+PWN:fencing.n.03		gem sut	gem·sut
 PWN:fender.n.01		poto fender	poto fend·er
 PWN:fermium.n.01		fermium	ferm·ium	eng:fermium, fra:fermium, spa:fermio, por:férmio, rus:фермий, zho:镄 (fèi), jpn:フェルミウム, kor:페르뮴, vie:fecmi, hin:फर्मियम, ben:ফার্মিয়াম, may:fermium, swa:fermi, ara: فرميوم
 PWN:fiction.n.01		fatkisa	fat·kisa
@@ -774,9 +813,13 @@ PWN:field.n.01		medan	medan	ara: مَيْدَان‎ (maydān), fas:(meydan), hi
 PWN:field_hockey.n.01		hoki	hoki
 PWN:fight.v.03		jihad	jihad
 PWN:filming.n.01		kinografia	kin·o·graf·ia
+PWN:filter.n.01		filter	filt·er
+PWN:finance.n.03		malonomia	mal·o.nom·ia
+PWN:finance.n.03	fig.	malia	mal·ia
 PWN:find.v.03		heure	heur'e
 PWN:fire.n.01		piro	pir'o	eng:deu:fra:pyro-, spa:por:tur:piro-, rus:пиро- (piro-)
 PWN:fire.n.03		flem	flem	eng:flame, fra:flamme, ita:fiamma, spa:inflamable, por:inflamável + zho:炎 (yán), yue:炎 (jim4), kor:염 (yeom), vie:viêm
+PWN:fiscal.a.01		malonomik	mal·o.nom·ik
 PWN:fist.n.01		kuen	kuen	zho:拳 (quán), yue:拳 (kyun4), vie:quyền, jpn:拳 (ken), kor:권 (gwon)
 PWN:five.s.01		pen	pen
 PWN:flag.n.01		bander	band·er	eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, ara: بنديرة‎ (bandēra), swa:bendera, ful:bandeera
@@ -790,6 +833,7 @@ PWN:fluid.s.02		darik	dar·ik
 PWN:fluorine.n.01		flur	flur	eng:fluorine, fra:fluor, spa:flúor, por:flúor, rus:фтор, zho:氟 (fú), jpn:フッ素, kor:플루오르, vie:flo, hin:फ्लोरीन, ben:ফ্লুরিন, may:fluor, swa:florini, ara: فلور
 PWN:foam.n.01		pena	pena	rus:пена (pena), hin:फेन (phena), ben:ফেনা (phena), tam:பேனம் (pēṉam)
 PWN:focus.n.01		fokus	fokus	eng:fra:focus, por:spa:foco, deu:Fokus, rus:фо́кус (fókus)
+PWN:focus.n.01		koncentration	kon.centr·at·ion
 PWN:folk.n.01		pop	pop	eng:people, fra:peuple, spa:pueblo, por:povo + deu:populär, rus:популярный (populyarnïy), may:populer, tur:popüler, zho:波普 (bōpǔ) + jpn:ポピュリズム (popyurizumu), kor:포퓰리즘 (popyullijeum)
 PWN:following.s.02		posik	pos·ik
 PWN:foot.n.01		fut	fut	eng:foot, deu:Pfote
@@ -799,23 +843,25 @@ PWN:forest.n.01		jangle	jangl'e	eng:fra:jungle, spa:jungla, por:jângal, rus:д�
 PWN:forget.v.02		demem	de.mem
 PWN:forgive.v.01		perdon	per.don
 PWN:fork.n.01		forka	forka	eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)
-PWN:form.n.07		sura	sura
+PWN:form.n.07		sure	sur'e
+PWN:formal.a.01		rasmik	rasm·ik
 PWN:fortress.n.01		burge	burg'e	deu:Burg, egy: برج‎ (burg), ara:urd: بُرْج‎ (burj), hin:बुर्ज (burj), may:puri, + hin:दुर्ग (durg), ben:দুর্গ (durg)
 PWN:fountain.n.01		fontin	font·in
 PWN:four.s.01		char	char
 PWN:fox.n.01		huli	huli	zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li
 PWN:fracture.n.01		fragtur	frag·tur
 PWN:fracture.n.03		fragtion	frag·tion
-PWN:francium.n.01		fransium	frans·ium	eng:francium, fra:francium, spa:francio, por:frâncio, rus:франций, zho:钫 (fāng), jpn:フランシウム, kor:프랑슘, vie:franxi, hin:फ्रान्सियम, ben:ফ্রান্সিয়াম, may:fransium, swa:fransi, ara: فرنسيوم
+PWN:francium.n.01		francium	franc·ium	eng:francium, fra:francium, spa:francio, por:frâncio, rus:франций, zho:钫 (fāng), jpn:フランシウム, kor:프랑슘, vie:franxi, hin:फ्रान्सियम, ben:ফ্রান্সিয়াম, may:fransium, swa:fransi, ara: فرنسيوم
 PWN:free.a.01		hur	hur	ara: حر (ḥurr), tur:hür, swa:huru, spa:horro, por:forro
 PWN:freedom.n.01		huria	hur-ia
 PWN:fresh.a.01		taza	taza	fas: تازه (tâze), hin:ताज़ा (tāzā), ben:তাজা (taja), tur:taze, ara: طَازَج (ṭāzaj)
 PWN:friend.n.01		frende	frend'e	eng:friend, deu:Freund, yue:friend (fen1), tha:แฟน (fɛɛn), hin:बॉयफ़्रेंड (bŏyfreṇḍ), rus:бойфре́нд (bojfrɛ́nd), jpn:ボーイフレンド (bōifurendo), kor:보이프렌드 (boipeurendeu)
-PWN:friendship.n.01		frendes	frend·es
+PWN:friendship.n.01		dostia	dost·ia
 PWN:frog.n.01		krokro	krokro	eng:croak, fra:croa croa, spa:por:croac croac, jpn:ケロケロ (kero kero), may:krok krok
 PWN:fruit.n.01		frut	frut	eng:fra:fruit, spa:por:fruta, rus:фрукт (frukt), jpn:フルーツ (furūtsu)
 PWN:function.n.01		funtion	funt·ion
 PWN:function.n.03		rol	rol	eng:role, fra:rôle, deu:Rolle, rus:роль (rol'), tur:rol, kat:როლი (roli), fas:رل‎ (rol)
+PWN:fungus.n.01		fungu	fungu	eng:fungus, fra:fongus, por:fungo, spa:hongo + zho:菇 (gū), yue:菇 (gu1)
 PWN:gadolinium.n.01		gadolinium	gadolin·ium	eng:gadolinium, fra:gadolinium, spa:gadolinio, por:gadolínio, rus:гадолиний, zho:钆 (gá), jpn:ガドリニウム, kor:가돌리늄, vie:gađolini, hin:ग्याडोलिनियम, ben:গ্যাডোলিনিয়াম, may:gadolinium, swa:gadolini, ara: جدولينيوم
 PWN:galaxy.n.03		galaxia	galax·ia	eng:galaxy, spa:galaxia, por:galáxia, fra:galaxie, rus:галактика (galaktika), tur:may:galaksi, hin:गैलेक्सी (gaileksī)
 PWN:gallium.n.01		galium	gal·ium	eng:gallium, fra:gallium, spa:galio, por:gálio, rus:галлий, zho:镓 (jiā), jpn:ガリウム, kor:갈륨, vie:gali, hin:गैलियम, ben:গ্যালিয়াম, may:galium, swa:gali, ara: جاليوم
@@ -833,16 +879,18 @@ PWN:generous.a.01		doniv	don·iv
 PWN:genus.n.02		jenus	jen·us
 PWN:geomancy.n.01		geomantia	ge·o·mant·ia
 PWN:germanium.n.01		germanium	german·ium	eng:germanium, fra:germanium, spa:germanio, por:germânio, rus:германий, jpn:ゲルマニウム, kor:게르마늄, vie:gecmani, hin:जर्मेनियम, ben:জার্মেনিয়াম, may:germanium, swa:gerimani, ara: جرمانيوم
+PWN:gestate.v.01		koncepe	kon.cep'e
 PWN:gesticulate.v.01		ishara	ishara
 PWN:gesture.n.02		ishara	ishara	ara: إِشَارَة (ʔišāra), fas: اشاره‎ (ešâre), hin:इशारा (iśārā), ben:ইশারা (iśara), may:isyarat, tur:işaret, hau:swa:ishara
+PWN:get.v.01		cepe	cep'e
+PWN:get.v.25		recepe	re.cep'e
 PWN:giant_panda.n.01		panda	panda	eng:spa:por:fra:may:panda, rus:панда (panda), hin:पांडा (pāṇḍā), jpn:パンダ (panda)
 PWN:gift.n.01		donaje	don·aj'e
 PWN:gild.v.01		auriza	aur·iza
 PWN:ginger.n.01		ginge	ging'e	eng:ginger, fra:gingembre, spa:gengibre, por:jengibre, zho:姜 (jiāng), yue:薑 (goeng1), vie:gừng, kor:생강 (saenggang), tam:இஞ்சி (inji), ara: زنجبيل‎ (zanjabīl), fas: زنجبیل‎ (zanjebil), tur:zencefil
 PWN:ginseng.n.01		jensen	jensen	zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen'shen'), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)
 PWN:giraffe.n.01		zirafa	zirafa	fas: زرناپا‎ (zornâpâ), ara: زَرَافَة (zarāfa), tur:zürafa, deu:eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:zirafah; jerapah, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)
-PWN:girl.n.01		gal	gal	eng:girl, jpn:ガール (gāru)
-PWN:girl.n.01		yun fem	yun fem
+PWN:girl.n.01		jun fem	jun fem
 PWN:give.v.01		don	don	spa:por:dar, rus:дать (dat'), fas: دادن‎ (dâdan), scr:দদাতি (dadāti), hin:देना (denā); दान (dān), ben:দেওয়া  (deva); দান (dan), tam:தா (tā), zho:檀那 (tánnà), jpn:旦那 (danna), tha:ทาน (taan), khm:ទាន (tiən)
 PWN:give.v.33		jiu	jiu	zho:柔 (róu), jpn:柔 (jū), vie:nhu + kor:유도 (yudo), eng:deu:fra:spa:por:may:tur:swa:judo, rus:дзюдо (dzyudo), ara: جُودُو‎ (jūdū), fas: جودو‎ (judo), hin:जूदो (jūdo)
 PWN:glass.n.01		glas	glas	deu:Glas, eng:glass + fas: گیلاس‎ (gilâs), hin:गिलास (gilās), ben:গ্লাস (glaś), jpn:グラス (gurasu), kor:글라스 (geullaseu), may:gelas, swa:glasi, hau:gilashi + rus:глазурь, spa:glasear
@@ -850,7 +898,7 @@ PWN:global.s.01		duniatik	dun·ia·tik
 PWN:glue.n.01		glu	glu	eng:glue, swa:gluu, may:glu + spa:fra:gluten, por:glúten, rus:глютен (glyuten), ara: غْلُوتِين‎ (ḡlūtīn), jpn:グルテン (guruten)
 PWN:goal.n.01		gol	gol	por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)
 PWN:gold.n.03		aur	aur	ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum, swa:auri
-PWN:good.a.01		hob	hob	fas: خوب (xūb), hin:ख़ूब (xūb), ben:খুব (khub) + zho:好 (hǎo), yue:好 (hou2), jpn:好 (kō), kor:호 (ho), vie:hảo
+PWN:good.a.01		hao	hao	zho:好 (hǎo), yue:好 (hou2), jpn:好 (kō), kor:호 (ho), vie:hảo
 PWN:goose.n.01		gansa	gansa	spa:por:ganso, hin:हंस (hans), ben:হাঁস (hãs), may:angsa eng:goose, rus:гусь (gus'), pol:gęś + yue:雁 (ngaan6), jpn:雁 (gan), tha:ห่าน (han)
 PWN:gospel.n.01		evanjil	ev·anjil
 PWN:govern.v.03		krate	krat'e
@@ -858,14 +906,14 @@ PWN:government.n.02		polite	polit'e	eng:politics, deu:Politik, fra:politique, po
 PWN:grain.n.01		gran	gran	eng:fra:grain, spa:grano, por:grão + rus:гранит (granit), tur:vie:may:granit, ara:جرانيت (jaraniat), hin:ग्रेनाइट (grenait)
 PWN:gram.n.01		gram	gram	eng:gram, deu:Gramm, fra:gramme, spa:gramo, por:grama, rus:грамм (gramm), fas: گرم‎ (geram), hin:ग्राम (grām), ben:গ্রাম (gram), ara: غْرَام‎ (ḡrām), ful:giram, swa:gramu, jpn:グラム (guramu), kor:그램 (geuraem), vie:gam, may:tur:gram
 PWN:gram_molecule.n.01		mol	mol
-PWN:grammar.n.01		bash grama	bash grama
+PWN:grammar.n.01		bashe grama	bash’e grama
 PWN:granule.n.01		granul	gran·ul
 PWN:grass.n.01		gras	gras	eng:grass, deu:Gras, hin:घास (ghās), ben:ঘাস (ghaś)
 PWN:grassland.n.01		grasistan	gras·istan
 PWN:grave.n.02		gabre	gabr'e	ara: قبر (qabr), fas: قبر (qabr), hin:क़ब्र (qabra), ben:কবর (kôbôr), may:kubur, hau:kabari, swa:kaburi, tur:kabir + deu:Grab, pol:grób, rus:гроб (grob)
 PWN:greasy.s.02		lipik	lip·ik
 PWN:greece.n.01		Helen	Helen
-PWN:green.s.01		grin	grin	eng:green, deu:grün
+PWN:green.s.01		sabzi	sabz'i	fas: سبز (sabz), hin:सब्ज़ (sabz), ben: সবুজ (śobuj) + tur:sebze
 PWN:greens.n.01		cai	cai	zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy
 PWN:greet.v.01		salam	sal.am
 PWN:grey.s.01		gris	gris	eng:grey, deu:grau, fra:spa:gris, tur:gri
@@ -876,6 +924,7 @@ PWN:group.n.01		grup	grup	deu:Gruppe, fra:groupe, eng:group, spa:por:grupo, rus:
 PWN:grow.v.03		kres	kres	spa:crecer, por:crescer, fra:croître, eng:increase
 PWN:guarantee.n.01		gardantia	garda·nt·ia
 PWN:guard.n.01		gardan	garda·n	eng:guard, fra:garde, spa:por:guarda, may:garda, jpn:ガード (gādo), kor:가드 (gadeu), ful:garde + deu:Garantie, rus:гарантия (garantiya), fas: گارانتی‎ (gârânti), hin:गारंटी (gāraṇṭī), may:garansi, tur:garanti
+PWN:guest.n.01		hostet	host·et
 PWN:guitar.n.01		gitar	gitar	eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), yue:結他 (git6taa1), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa
 PWN:gunnysack.n.01		sak	sak	deu:eng:sack, fra:sac, spa:por:saco, fas: ساک‎ (sâk), may:saku, ful:saakuuru, jpn:サック (sakku)
 PWN:gunpowder.n.01		barud	barud	ara: بَارُود (bārūd), tur:barut, fas: بارود‎ (bârud), hin:बारूद (bārūd), ben:বারুদ (barud), swa:baruti, ful:barudu
@@ -883,9 +932,12 @@ PWN:guru.n.03		guru	guru	hin:गुरु (guru), ben:গুরু (guru), tam:�
 PWN:habit.n.01		ada	ada	ara: عادة (ʿāda), hin:आदत (ādat), may:adat, tur:adet, swa:ada, hau:al'ada, ful:aada
 PWN:hafnium.n.01		hafnium	hafn·ium	eng:hafnium, fra:hafnium, spa:hafnio, por:háfnio, rus:гафний, zho:铪 (hā), jpn:ハフニウム, kor:하프늄, vie:hafini, hin:हाफ्नियम, ben:হাফনিয়াম, may:hafnium, swa:hafni, ara: هفنيوم
 PWN:hair.n.01		kesh	kesh	jpn:毛 (ke), hin:केश (keś), ben:কেশ (keś), tam:கேசம் (kēcam), tel:కేశము (kēśamu)
+PWN:hall.n.03		sala	sala	fra:salle, spa:salón, por:salão, deu:Saal, rus:зал (zal), hin:साल (sāl); शाला (śālā), ara: صَالَة‎ (ṣāla), tel:శాల (śāla), khm:សាលា (saalaa)
 PWN:hammock.n.02		hamak	hamak	eng:hammock, spa:hamaca, fra:hamac, rus:гамак (gamak), tur:hamak, jpn:ハンモック (hanmokku)
 PWN:hand.n.01		hande	hand'e	eng:hand, deu:Hand + hin:हाथ (hāth), ben:হাত (hat) + hau:hannu
+PWN:hand_over.v.01		slam	slam
 PWN:handle.n.01		handul	hand·ul
+PWN:handover.n.01		slam	slam
 PWN:hang.v.01		pende	pend'e	eng:pendant, fra:pendre, por:pender + spa:péndulo, tur:pandül, fas:پاندول‎ (pândul), ara: بَنْدُول‎ (bandūl), may:bandul
 PWN:hanukkah.n.01		hanuka	hanuka
 PWN:happiness.n.02		hapita	hapi·ta
@@ -895,9 +947,9 @@ PWN:head.n.01		kap	kap	deu:Kopf, spa:cabeza; cabo, por:cabeça; cabo, may:kepala
 PWN:head.n.04		shef	shef	fra:chef, por:chefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu) + ara: شَيْخ‎ (šayx), swa:shehe, ben:শেখ (śekh), tur:şeyh
 PWN:head_covering.n.01		hijab	hijab	ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)
 PWN:health.n.01		salita	sal·ita
-PWN:health.n.01		velnes	vel.nes
 PWN:hear.v.01		audi	audi	eng:spa:fra:audio, por:áudio, deu:Audio, rus:аудио- (audio-), may:audio, jpn:オーディオ (ōdio), kor:오디오 (odio)
 PWN:heart.n.02		shim	shim	zho:心 (xīn), yue:心 (sam1), hak:心 (sîm),  jpn:心 (shin), kor: 심 (shim), vie:tim
+PWN:heat.n.01		terme	term'e	deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)
 PWN:heavy.a.01		bari	bari	hin:भारी (bhārī), ben:ভারী (bharī), may:berat, tam:பாரி (pāri), tel:బరువు (baruvu), fas: بار‎ (bâr), ell: βαρύς (barýs) + kor:바리 (bari)
 PWN:hedonism.n.01		hedonisme	hedon·ism'e
 PWN:hedonist.n.01		hedoniste	hedon·ist'e
@@ -910,13 +962,14 @@ PWN:here.r.01		na ye	na ye
 PWN:hero.n.01		hero	hero	eng:hero, fra:héros, spa:héroe, por:héroi, rus:герой (geroy), hin:हीरो (hīro), jpn:ヒーロー (hīrō), kor:히로 (hiro)
 PWN:heroic.s.03		herotik	hero·tik
 PWN:hertz.n.01		herze	herz'e
+PWN:heterogeneous.a.01		heterojenik	heter·o.jen·ik
 PWN:heterosexual.a.01		heterosexamiv	heter·o.sex·am·iv
-PWN:heterosexual.n.01		heterosexamiste	heter·o.sex·am·ist’e
+PWN:heterosexual.n.01		heterosexamiste	heter·o.sex·am·ist'e
 PWN:heuristic.a.01		heuristik	heur·ist·ik
 PWN:hiccup.n.01		hik	hik	eng:hiccup, rus:икота (ikota), hin:हीक (hīk), jpn:ヒック (hikku)
 PWN:hiccup.v.01		hik	hik
 PWN:hide.v.01		sir	sir
-PWN:high.a.02		hai	hai	eng:high
+PWN:high.a.02		gao	gao
 PWN:hinduism.n.01		hindisme	hind·ism'e
 PWN:hint.n.01		anshi	anshi	zho:暗示 (ànshì), yue:暗示 (am3si6), jpn:暗示 (anji), kor:암시 (amsi)
 PWN:hippopotamus.n.01		gubu	gubu	ful:ngabbu kon:ngubu, sot:tsw:kubu, zul:rwa:imvubu, amh:ጉማሬ (gumare)
@@ -931,25 +984,35 @@ PWN:holmium.n.01		holmium	holm·ium	eng:holmium, fra:holmium, spa:holmio, por:h�
 PWN:holocaust.n.01		holokauste	hol·o·kaust'e
 PWN:hologram.n.01		holografe	hol·o·graf'e
 PWN:holography.n.01		holografia	hol·o·graf·ia
-PWN:holy.a.01		sante	sant'e	por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)
+PWN:holy.a.01		sante	sant'e	eng:fra:saint, por:spa:santo, rus:святой (svyatoy), fas: سپنتا (sepantâ), hin:संत (sant), kon:santu, zho:圣 (shèng), yue:聖 (sing3), jpn:聖 (sei), kor:성 (seong), vie:thánh
 PWN:hominid.n.01		homid	hom·id
 PWN:homo.n.02		hom	hom	fra:homme, spa:hombre, por:homem, eng:human
 PWN:homo.n.02		homan	hom·an
+PWN:homogeneity.n.02		omojenia	om·o.jen·ia
+PWN:homogeneous.a.01		omojenik	om·o.jen·ik
+PWN:homogenize.v.01		omojeniza	om·o.jen·iza
+PWN:homogeny.n.01		omogenia	om·o.gen·ia
+PWN:homonym.n.01		omonim	om·o.nim
+PWN:homonymic.a.01		omonimik	om·o.nim·ik
+PWN:homonymy.n.01		omonimia	om·o.nim·ia
+PWN:homophone.n.01		omofon	om·o.fon
+PWN:homophony.n.01		omofonia	om·o.fon·ia
 PWN:homosexual.a.01		omosexamiv	om·o.sex·am·iv
-PWN:homosexual.n.01		omosexamiste	om·o.sex·am·ist’e
+PWN:homosexual.n.01		omosexamiste	om·o.sex·am·ist'e
 PWN:honey.n.01		medu	medu	rus:мёд (myod), hin:मधु (madhu), ben:মধু (môdhu), may:madu + por:mel, fra:spa:miel + yue:蜜 (mat6)
-PWN:hope.n.02		asha	asha	hin:आस (ās); आशा (āśā), tel:ఆశ (āśa), tam:ஆசை (āsai), may:tgl:asa + ara: شاء (šā’a)
+PWN:hope.n.02		asha	asha	hin:आस (ās); आशा (āśā), tel:ఆశ (āśa), tam:ஆசை (āsai), may:tgl:asa
+PWN:hope.v.01		asha	asha
 PWN:hopeless.a.01		dezashatik	dez.asha·tik
 PWN:horse.n.01		mar	mar	mon:морь (mor'), kor:말 (mal), zho:马 (mǎ), yue:馬 (maa5), jpn:馬 (uma), vie:mã, tha:ม้า (maa), tam:மா (mā), eng:mare, deu:Mähre, isl:mar
 PWN:hotel.n.01		hotel	hotel	eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), tam:ஹோட்டல் (hottal), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel), swa:hoteli, hau:otal
 PWN:hour.n.01		haur	haur	eng:hour, fra:heure, spa:hora, por:hora, hau:ful:awa
-PWN:house.n.01		haus	haus	eng:house, deu:Haus
+PWN:house.n.01		dom	dom
 PWN:house.n.12		kan	kan
 PWN:however.r.01		lakin	lakin	ara:لٰكِن (lākin), swa:lakini, fas: لیکِن (lēkin), hin:लेकिन (lekin), ben:লেকিন (lekin), tur:lakin
 PWN:humane.s.03	fig.	homanik	hom·an·ik
 PWN:humanism.n.02		homanisme	hom·an·ism'e
 PWN:humanist.a.02		homaniste	hom·an·ist'e
-PWN:hundred.s.01		sento	sent'o
+PWN:hundred.s.01		cento	cent'o
 PWN:hurrah.n.01		hura	hura	rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)
 PWN:hydrogen.n.01		hidre	hidr'e	eng:fra:hydro-, spa:por:may:swa:hidro-, vie:hyđrô, ara: هيدروجين
 PWN:hypothesis.n.02		hipotes	hip·o.tes
@@ -959,6 +1022,7 @@ PWN:ice_hockey.n.01		ais hoki	ais hoki
 PWN:idea.n.01		fikre	fikr'e
 PWN:idealism.n.01		idialisme	id·ial·ism'e
 PWN:identical.s.01		identik	id·e·nt·ik
+PWN:identical.s.01		omik	om·ik
 PWN:identify.v.06		identifa	id·e·nt·ifa
 PWN:igloo.n.01		iglu	iglu	eng:igloo, fra:iglou, spa:iglú, por:tur:may:iglu, rus:иглу (iglu), hin:इग्लू (iglū), jpn:イグルー (igurū), kor:이글루 (igeullu)
 PWN:ill.a.01		patik	pat·ik
@@ -973,14 +1037,17 @@ PWN:imperialism.n.01		imperialisme	imper·ia·l·ism'e
 PWN:imperialism.n.01		imperisme	imper·ism'e
 PWN:implicit.a.01		emplik	em.pl·ik
 PWN:important.a.01		ham	ham	ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), swa:muhimu, tur:mühim, fas:(mohemm), hau:muhimmi
-PWN:impotent.a.02		sexe impoten	sex’e im.pot·en
+PWN:impotent.a.02		sexe impoten	sex'e im.pot·en
 PWN:inactivate.v.02		in.agtivifa	in.agt·tiv·ifa
-PWN:inactive.a.04		inagtiv	in.agt·tiv
+PWN:inactive.a.04		inagtiv	in.ag·tiv
 PWN:inactive.a.09		pasiv	pas·iv
 PWN:inactive.s.10		statik	sta·tik
 PWN:incredible.a.01		inkredebil	in.kred·e·bil
 PWN:india.n.01		Bartia	Bart·ia
 PWN:india.n.01		Hindia	Hind·ia
+PWN:indigo.n.02		nil	nil
+PWN:indigo.n.03		nil	nil
+PWN:indigo.s.01		nil	nil	hin:नील (nīl), ben:নীল (nil), fas: نیلی (nīlī), spa:añil, por:anil, ara: نيلي (niliy), may:nila
 PWN:indium.n.01		hindium	hind·ium	eng:indium, fra:indium, spa:indium, por:índio, rus:индий, zho:铟 (yīn), jpn:インジウム, kor:인듐, vie:indi, hin:इण्डियम, ben:ইন্ডিয়াম, may:indium, swa:indi, ara: انديوم
 PWN:indivisible.a.01		intomebil	in.tom·e·bil
 PWN:inequality.n.01		imparita	im.par·ita
@@ -989,6 +1056,7 @@ PWN:inhumane.a.01	fig.	inhomanik	in.hom·an·ik
 PWN:injury.n.01		trauma	trauma	eng:fra:may:trauma, deu:Trauma, spa:por:traumatismo, rus:травма (travma), tur:travma
 PWN:input.n.04		entrat	en·tra·t
 PWN:insult.n.02		dusnim	dus.nim
+PWN:insurgent.n.01		rebeler	re.bel·er
 PWN:intend.v.01		plan	plan
 PWN:intention.n.03		nia	nia	ara: نِيَّة‎ (niyya), hin:नीयत (niyat), may:niat, swa:nia, hau:niyya, ful:anniya, tur:niyet
 PWN:interact.v.01		konage	kon·ag'e
@@ -1002,9 +1070,14 @@ PWN:involuntary.a.01		involitional	in.voli·tion·al
 PWN:iodine.n.01		iode	iod'e	eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:йод, jpn:ヨウ素, kor:요오드, vie:iot, hin:आयोडिन, ben:আয়োডিন, may:yodium, swa:iodini, ara: يود
 PWN:iridium.n.01		iridium	irid·ium	eng:iridium, fra:iridium, spa:iridio, por:irídio, rus:иридий, jpn:イリジウム, kor:이리듐, vie:iriđi, hin:इरिडियम, ben:ইরিডিয়াম, may:iridium, swa:iridi, ara: إريديوم
 PWN:iron.n.01		ferum	fer·um	spa:hierro, por:ferro, fra:fer, may:ferum, swa:feri
-PWN:islam.n.01		islamisme	islam·ism'e
-PWN:islamophobia.n.01		islamofobia	islam·o·fob·ia
+PWN:islam.n.01		slamisme	slam·ism'e
+PWN:islamophobia.n.01		slamofobia	slam·o·fob·ia
 PWN:island.n.01		nes	nes	ell:νήσος (nēsos), eng:spa:may:-nesia, por:-nésia, fra:-nésie, rus:-незия (-nezija), tur:-nezya, zho:-尼西亚 (níxīyà), jpn:ネシア (neshia) + may:nusa, mlg:nosy
+PWN:isomer.n.01		izomer	iz·o.mer
+PWN:isometric.s.03		izometrik	iz·o.metr·ik
+PWN:isomorphism.n.01		izomorfia	iz·o.morf·ia
+PWN:isomorphous.a.01		izomorfik	iz·o.morf·ik
+PWN:isotope.n.01		izotope	iz·o.top'e
 PWN:jacket.n.01		jakit	jak·it	eng:jacket, deu:Jacke, rus:жакет (žaket), por:jaqueta, zho:夹克 (jiākè), jpn:チョッキ (chokki), kor:조끼 (jokki)
 PWN:jade.n.01		yok	yok
 PWN:january.n.01		mes un	mes un
@@ -1026,9 +1099,9 @@ PWN:judge.v.01		jud	jud	eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj
 PWN:judo.n.01		jiudao	jiu·dao
 PWN:juice.n.01		jus	jus	eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)
 PWN:jujutsu.n.01		jiusut	jiu·sut
-PWN:july.n.01		mes seven	mes seven
+PWN:july.n.01		mes set	mes set
 PWN:jump.v.01		jampe	jamp'e	eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)
-PWN:june.n.01		mes sixe	mes six'e
+PWN:june.n.01		mes luk	mes luk
 PWN:just.a.01		adil	adil	ara: عدل ('adl), may:tur:adil, swa:adili, hau:adalci + hin:अदालत (adālat)
 PWN:justice.n.01		adilita	adil·ita
 PWN:kale.n.02		yep kol	yep kol
@@ -1042,9 +1115,9 @@ PWN:kilogram.n.01		kilogram	kilo.gram
 PWN:kind.n.01		jen	jen	eng:genre, fra:genre, spa:género, por:gênero, fas: جنس‎ (jens), ara: جِنْس‎ (jins), ful:hau:swa:jinsi, tur:cins, jpn:ジェンダー (jendā)
 PWN:knife.n.01		dau	dau	zho:刀 (dāo), yue:刀 (dou1), vie:dao, kor:도 (do), jpn:刀 (tō), khm:ដាវ (daaw) + hin:दा (dā); दाव (dāv), ben:দা (da); দাও (daō)
 PWN:knot.n.02		node	nod'e	eng:node, spa:nudo, por:nó, fra:nœud + vie:nút
-PWN:know.v.01		nou	nou	eng:know, ell:νοῦς (noûs), deu:Nous, fra:nous
+PWN:know.v.01		nos	nos	eng:know, ell:νοῦς (noûs), deu:Nous, fra:nous
 PWN:know.v.02		sabi	sabi	spa:por:saber, fra:savoir, eng:savvy, pcm:sabi, may:bisa + tha:ทราบ (sap), kon:kuzaba
-PWN:know.v.04		nou	nou
+PWN:know.v.04		nos	nos
 PWN:korea.n.01		Han gogia	Han gog·ia	kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)
 PWN:krypton.n.01		kriton	kriton	eng:krypton, fra:krypton, spa:criptón (kriptón), por:krípton, rus:криптон, zho:氪 (kè), jpn:クリプトン, kor:크립톤, vie:kripton, hin:क्रिप्टन, ben:ক্রিপ্টন, may:kripton, swa:kriptoni, ara: كربتون
 PWN:kung_fu.n.01		vusut	vu·sut
@@ -1053,7 +1126,7 @@ PWN:lagoon.n.01		lagon	lag·on
 PWN:lake.n.01		lag	lag	eng:lake, spa:por:ita:lago, fra:lac + rus:лагуна (laguna), fas: لگون‎ (lagun), may:lagun, tur:lagün, jpn:ラグーン (ragūn), kor:라군 (ragun)
 PWN:lamp.n.01		lampa	lampa	eng:lamp, deu:fra:lampe, spa:lámpara, por:lâmpada, rus:лампа (lampa), ara: لمبة‎(lamba), jpn:ランプ (ranpu), kor:램프 (raempeu), hin:लैंप (laimp), ben:ল্যাম্প (lyamp), ful:lampa, may:lampu, tur:lamba
 PWN:land.n.04		arde	ard'e	ara: أرض (ʔarḍ), fas: ارض (arz), tur:arz, swa:ardhi + eng:earth, deu:Erde, ned:aarde, may:arde
-PWN:language.n.01		bash	bash	hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa
+PWN:language.n.01		bashe	bash’e	hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa
 PWN:language.n.01		linguaje	lingu·aj·e
 PWN:lanthanum.n.01		lantan	lantan	eng:lanthanum, fra:lanthane, spa:lantano, por:lantâno, rus:лантан, zho:镧 (lán), jpn:ランタン, kor:란탄, vie:lantan, hin:लाञ्थनम, ben:ল্যান্থানাম, may:lantanium, swa:lanthani, ara: لنثانوم
 PWN:lapis_lazuli.n.01		lazurit	lazur·it
@@ -1068,8 +1141,11 @@ PWN:laughter.n.02		haha	haha
 PWN:law.n.01		kanun	kanun	ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)
 PWN:lawrencium.n.01		laurencium	laurenc·ium	eng:lawrencium, fra:lawrencium, spa:laurencio, por:lawrêncio, rus:лоуренсий, zho:铹 (láo), jpn:ローレンシウム, kor:로렌슘, vie:lorenxi, lawrenci, hin:लॉरेंशियम, ben:লরেনসিয়াম, may:lawrensium, swa:lawirensi, ara: لورنسيوم
 PWN:lead.n.02		plumbe	plumb'e	fra:plomb, spa:plomo, por:chumbo, swa:plumbi
+PWN:lead.v.01		arke	ark'e
 PWN:lead.v.01		lide	lid'e	eng:lead, spa:liderar + fra:leader, por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)
+PWN:leader.n.01		arker	ark·er
 PWN:leader.n.01		lider	lid·er
+PWN:leadership.n.03		arkia	ark·ia	eng:-archy, fra:-archie, spa:por:-arquia, rus:-архия (-arkhiya), tur:-arşi, may:-arki
 PWN:leaf.n.01		yep	yep	zho:叶 (yè), yue:葉 (yip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō) + tur:yaprak
 PWN:least.r.01		minim	min·im
 PWN:leave.v.01		chut	chut	zho:出 (chū), yue:出 (ceot1), wuu:出 (ceq4), hak:出 (chut), jpn:出 (shutsu), kor:출 (chul), vie:xuất + hin:छूटना (chūtnā), may:cuti + tur:çıkmak
@@ -1077,9 +1153,9 @@ PWN:left.r.01		leve	lev'e	ltn:laevus, eng:left; levo-, fra:lévo-, spa:por:levo-
 PWN:lemon.n.01		limon	lim·on	fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), yue:檸檬 (ning4mung1), jpn:檸檬 (remon), kor:레몬 (remon), vie:lêmon, swa:ndimu; limau, ful:leemuure, ben:লেবু (lebu)
 PWN:length.n.01		longita	long·ita
 PWN:lens.n.01		lense	lens'e	eng:lens, deu:Linse, fra:lentille, spa:por:lente, rus:линза (linza), hin:लेंस (lens), ben:লেন্স (lenś), may:lensa, jpn:レンズ (renzu), kor:렌즈 (renjeu), swa:lensi
-PWN:less.r.01		les	les	eng:less
 PWN:less.r.01		min	min	eng:minimum, spa:por:menos; mínimo, fra:moins; minimum, rus:менее (meneye); минимум (minimum), eng:minimum + zho:迷你 (mínǐ)
 PWN:lettuce.n.02		letus	letus	eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue
+PWN:leukocyte.n.01		leukocite	leuk·o·cit'e
 PWN:lexeme.n.01		lexem	lex·em
 PWN:library.n.01		kitab kan	kitab kan
 PWN:license.n.01		halaldokumen	halal·dokumen
@@ -1106,14 +1182,14 @@ PWN:little.r.01		kam	kam	deu:kaum + fas: کم‎ (kam), hin:कम (kam), ben:�
 PWN:little_sister.n.01		jun sis	jun sis
 PWN:liver.n.01		gan	gan	zho:肝 (gān), yue:肝 (gon1), wuu:肝 (koe1), kor:간 (gan), jpn:肝臓 (kanzō), vie:gan + swa:ini
 PWN:lizard.n.01		saur	saur	ell:σαύρα (saura), eng:-saur, fra:-saure, spa:-saurio, por:-sauro, rus:-завр (-zavr), hin:ben: may:-saur(us) + hin:सरट (saraṭ)
-PWN:load.v.02		kargo	kargo
-PWN:location.n.01		jaga	jaga	fas: جایگاه (jâygâh), hin:जगह (jagah), ben:জায়গা (jaẏga), pnb:ਜਗ੍ਹਾ (jaghā), tam:சாகை (cākai), tel:జాగా (jāgā), pnb:ਜਗ੍ਹਾ (jaghā)
+PWN:load.v.02		karga	karga
+PWN:location.n.01		lok	lok	eng:fra:place, deu:Platz
 PWN:loin.n.02		lumbe	lumb'e	eng:lumbus, fra:lombes, spa:lomo, por:lombo
 PWN:long.a.01		long duran	long dura·n
 PWN:long.a.02		long	long	eng:fra:long, deu:lang, por:longo
 PWN:lottery.n.02		loteria	lot·er·ia
-PWN:love.n.04		sexame	sex·am’e
-PWN:love.v.02		am’e	am’e	fra:aimer, spa:por:amar, eng:amour
+PWN:love.n.04		sexame	sex·am'e
+PWN:love.v.02		am'e	am'e	fra:aimer, spa:por:amar, eng:amour
 PWN:love.v.03		love	lov'e
 PWN:lover.n.01		lover	lov·er
 PWN:low.a.02		nid	nid	eng:nether, deu:niedrig, rus:низкий (nizkij), hin:नीचा (nīcā), 
@@ -1121,7 +1197,7 @@ PWN:luck.n.02		vun	vun	zho:运 (yùn), yue:運 (wan6), jpn:運 (un), kor:운 (un
 PWN:luck.n.02		zar	zar	ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar, hau:hazari
 PWN:lumbago.n.01		lumbalgia	lumb·alg·ia
 PWN:lumen.n.01		lumen	lumen
-PWN:lunch.n.01		mid dei yam	mid dei yam
+PWN:lunch.n.01		mid dien yam	mid dien yam
 PWN:lutetium.n.01		lutesium	lutes·ium	eng:lutetium, fra:lutécium, spa:lutecio, por:lutécio, rus:лютеций, zho:镥 (lǔ), jpn:ルテニウム, kor:루테튬, vie:lutexi, hin:लुटेटियम, ben:লুটেসিয়াম, may:lutetium, swa:luteti, ara: لوتيتيوم
 PWN:lutheran.a.01		luterik	luter·ik
 PWN:lutheran.n.01		luteriste	luter·ist'e
@@ -1139,8 +1215,7 @@ PWN:mail.n.01		poste	post'e	eng:post, por:postagem, fra:poste, rus:почта (p
 PWN:mail.v.01		poste	post'e
 PWN:make.v.16		fa	fa	fra:faire, por:fazer, ita:fare, eng:feat, deu:Fakt; (per)fekt + ara: فَعَلَ‎ (faʿala) + swa:fanya + yue:化 (faa3), hak:化 (fa), zho:化 (huà), vie:hoá
 PWN:make.v.49		pis	pis
-PWN:male_child.n.01		boi	boi	eng:boy, jpn:ボーイ (bōi)
-PWN:male_child.n.01		jun man	jun man
+PWN:male_child.n.01		jun nam	jun nam
 PWN:mammal.n.01		mamal	mam·al
 PWN:mammalia.n.01		mamalia	mam·al·ia
 PWN:man.n.06		vir	vir
@@ -1179,17 +1254,22 @@ PWN:meitnerium.n.01		meitnerium	meitner·ium	eng:meitnerium, fra:meitnérium, sp
 PWN:melt.v.01		fuze	fuz'e
 PWN:member.n.01		mer	mer	eng:deu:spa:por:mero-, fra:méro-, rus:меро- (mero-)
 PWN:memory.n.01		mem	mem
+PWN:memory.n.01		memur	mem·ur
 PWN:mendelevium.n.01		mendelevium	mendelev·ium	eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم
+PWN:mental.a.02		ruhik	ruh·ik
 PWN:mercenary.n.01		soldat	solda·t	eng:soldier, deu:Soldat, fra:soldat, spa:por:soldado, rus:солдат (soldat), fas: سالْدات (sâldât), may:serdadu
 PWN:mercury.n.01		hidrargente	hidrargente	swa:hidrajiri
 PWN:message.n.01		anjil	anjil	ell:ἀγγελία (angelía), ara: إنجيل (ʾinjīl), swa:injili, may:injil, tur:incil, fas: انجیل (enjil), hin:इंजील (iñjīl), ben:ইঞ্জীল (injīl), tam:இஞ்சீல் (iñcīl), eng:evangel, fra:évangile, por:evangelho, rus:евангелие (evangeliye)
 PWN:message.n.01		misaje	mis·aj'e
 PWN:message.n.02		kontenet	kon.ten·et
 PWN:metallic_element.n.01		metal	metal	eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:металл (metall), tur:metal
+PWN:metallurgy.n.01		metalergia	metal·erg·ia
 PWN:meter.n.01		mitre	mitr'e	eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:hau:mita, ful:meter
 PWN:meter.n.02		metrer	metr·er
+PWN:microbe.n.01		mikrobio	mikr·o·bi'o
 PWN:microbiology.n.01		mikrobiolojia	mikr·o·bio·loj·ia
 PWN:microorganism.n.01		mikrobio	mikr·o·bi'o
+PWN:microorganism.n.01		mikrorganizme	mikr·organ·izm'e
 PWN:microscope.n.01		mikroskope	mikr·o·skop'e
 PWN:middle.n.02		mid	mid	eng:mid; medium, deu:Mitte, spa:medio, por:meio, hin:मध्य (madhya), ben:মধ্য (môddh), tam:மத்தியம் (mattiyam) + fra:médias, rus:медиа (media), zho:媒体 (méitǐ), jpn:メディア (media), kor:미디어 (midieo), tur:medya
 PWN:midnight.n.01		mid noche	mid noch'e
@@ -1198,12 +1278,15 @@ PWN:military.a.01		jangik	jang·ik
 PWN:milk.n.01		milke	milk'e	eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)
 PWN:mill.n.04		mol kan	mol kan
 PWN:million.s.01		mega	mega	eng:fra:spa:por:may:tur:mega-, rus:мега- (mega-), jpn:メガ (mega), kor:메가- (mega-)
+PWN:mind.n.01		ruh	ruh
 PWN:mine.n.01		mineria	min·er·ia
 PWN:mine.v.01		mine	min'e	eng:fra:mine, deu:Mine, por:spa:mina + rus:минерал (mineral), tur:mineral, may:mineral + jpn:ミネラルウォーター (mineraru wōtā), hin:मिनरल वाटर (minral vāṭar)
 PWN:miner.n.01		miner	min·er
 PWN:mineral.n.01		mineral	min·er·al
 PWN:minimize.v.01		minimifa	min·im·ifa
+PWN:minister.n.02		menister	men·ist·er
 PWN:minister.n.02		vazir	vazir	ara: وَزِير‎ (wazīr), fas: وَزیر‎ (vazir), hin:वज़ीर (vazīr), ben:উজির (ujir), tur:vezir, swa:may:wazir + eng:vizier, deu:Wesir, fra:por:vizir, spa:visir, rus:визирь (vizir')
+PWN:ministry.n.03		menisteria	men·ist·er·ia
 PWN:minor.s.10		minik	min·ik
 PWN:minority.n.01		minur	min·ur
 PWN:mint.n.02		minte	mint'e	eng:mint, spa:por:menta, fra:menthe, rus:мята (m'ata), jpn:ミント (minto)
@@ -1213,6 +1296,7 @@ PWN:mirror.n.01		mirer	mir·er
 PWN:miserable.s.05		miskin	miskin	ara:مِسْكِين (miskīn), fas:مسکین‎ (meskin), ben:মিসকিন (miśkin), hin:मिस्कीन (miskīn), tur:may:hau:miskin, ful:miskiino, swa:maskini, fra:miskine, spa:mezquino ∗, por:mesquinho ∗
 PWN:misery.n.01		miskinia	miskin·ia
 PWN:misfortune.n.02		bela	bela	ara: بَلَاء (balāʾ), fas: بلا (balâ), hin:बला (balâ), may:bala, tur:bela, orm:swa:balaa, hau:bala'i + rus:боль (bol'); беда (beda)
+PWN:miss.v.02		noste	nost'e
 PWN:modern.a.01		novostil	nov·o·stil
 PWN:mole.n.06		krot	krot
 PWN:molybdenum.n.01		moliden	moliden	eng:molybdenum, fra:molybdène, spa:molibdeno, por:molibdénio, rus:молибден, zho:钼 (mù), jpn:モリブデン, kor:몰리브덴, vie:molypđen, hin:मोलिब्डेनम, ben:মলিবডেনাম, may:molibden, swa:molibdeni, ara: مولبيدنيوم
@@ -1224,9 +1308,12 @@ PWN:monogamy.n.01		unogamia	un·o.gam·ia
 PWN:monologue.n.03		unolog	un·o·log
 PWN:moon.n.01		lun	lun	fra:lune, spa:luna, eng:lunar, rus:луна (luná)
 PWN:more.a.01		max	max	spa:mas; máximo, por:mais; máximo + eng:fra:maximum, rus:максимум (maksimum), may:maksimum, fas: ماکسیمم‎ (mâksimom)
-PWN:more.a.02		mor	mor	eng:more, deu:mehr
+PWN:more.a.02		max	max
 PWN:morning.n.01		suba	suba	ara: صَبَاح‎ (ṣabāḥ), fas: صبح‎ (sobh), hin:सुबह (subah), tur:sabah, swa:asubuhi, hau:asuba, ful:subaha
-PWN:mosque.n.01		masagid	ma.sagid	ara: مسجد (masǧid), fas: مَسجِد (masjed), hin:मस्जिद (masjid), ben:মসজিদ (mosjid), tam:மஸ்ஜித் (masjit). may:mesjid, tur:mescit, swa:msikiti, ful:misiide, por:mesquita, spa:mezquita, fra:mosquée, eng:mosque, rus:мечеть (mečet’), kor:모스크 (moseukeu), jpn:モスク (mosuku)
+PWN:morphology.n.01		biomorfolojia	bio·morf·o·loj·ia
+PWN:morphology.n.02		lexomorfolojia	lex·o·morf·o·loj·ia
+PWN:morphology.n.04		geomorfolojia	ge·o·morf·o·loj·ia
+PWN:mosque.n.01		masagid	ma.sagid	ara: مسجد (masǧid), fas: مَسجِد (masjed), hin:मस्जिद (masjid), ben:মসজিদ (mosjid), tam:மஸ்ஜித் (masjit). may:mesjid, tur:mescit, swa:msikiti, ful:misiide, por:mesquita, spa:mezquita, fra:mosquée, eng:mosque, rus:мечеть (mečet'), kor:모스크 (moseukeu), jpn:モスク (mosuku)
 PWN:mother.n.01		ma	ma	por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)
 PWN:motley.s.02		polirangik	poli·rang·ik
 PWN:motor.n.01		moter	mot·er
@@ -1237,9 +1324,11 @@ PWN:mule.n.01		ihamar	iha·mar
 PWN:multilingual.a.01		polibashik	poli·bash·ik
 PWN:mundane.s.02		dunial	dun·ial
 PWN:muscle.n.01		muskul	musk·ul	eng:fra:muscle, spa:por:músculo, deu:Muskel, rus:мускул (muskul), swa:msuli
+PWN:mushroom.n.02		fungu frut	fungu frut
 PWN:music.n.01		muzik	muz·ik	eng:music, deu:Musiek, fra:musique, spa:por:música, rus:музика (muzika), fas: موسیقی (musiği), hin:मूसीक़ी (mūsīqī), ara: موسيقى (mūsīqā), swa:muziki, tur:müzik, may:musik
 PWN:musician.n.01		muziker	muz·ik·er
 PWN:muslim.n.01		islamiste	islam·ist'e
+PWN:muslim.n.01		muslam	mu.slam
 PWN:mythology.n.01		mitologia	mit·o·log·ia
 PWN:mythology.n.02		mitolojia	mit·o·loj·ia
 PWN:nail.n.01		nag	nag	deu:Nagel, rus:ноготь (nogot'), fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), tam:நகம் (nakam)
@@ -1255,7 +1344,7 @@ PWN:naturalistic.s.01		hakikik	hak·ik·ik
 PWN:nature.n.01		natur	nat·ur
 PWN:nature.n.01		tabia	tab.ia
 PWN:nautical.a.01		nautik	nau·tik
-PWN:navigate.v.02		veiheure	vei·heur'e
+PWN:navigate.v.02		daoheure	dao·heur'e
 PWN:near.a.01		karib	karib	ara: قَرِيب (qarīb), fas: قریب (qarib), hin:क़रीब (qarīb), swa:karibu, tur:karip
 PWN:necromancy.n.02		nekromantia	nekr·o·mant·ia
 PWN:negative.a.01		negativ	nega·tiv
@@ -1266,8 +1355,7 @@ PWN:neptunium.n.01		neptunium	neptun·ium	eng:neptunium, fra:neptunium, spa:nept
 PWN:nerve.n.01		neuro	neur'o	eng:spa:por:fra:deu:neuro-, rus:невро- (nevro-)
 PWN:nest.n.01		nido	nido	eng:nest, spa:nido, por:ninho, fra:nid, rus:гнездо (gnezdo), hin:नीड़ (nīḍa), ben:নীড় (nīṛa)
 PWN:net.n.06		net	net	eng:net, deu:Netz
-PWN:never.r.01		no tem	no tem
-PWN:new.a.01		nov	nov	eng:nov-, fra:nouveau, spa:nuevo, por:novo, rus:новый (novyy), hin:नव (nav), ben:নয় (nôy); নও- (nôo-), may:nawa
+PWN:new.a.01		nova	nova	eng:nov-, fra:nouveau, spa:nuevo, por:novo, rus:новый (novyy), hin:नव (nav), ben:নয় (nôy); নও- (nôo-), may:nawa
 PWN:news.n.01		habar	habar	ara: خَبَر‎ (xabar), fas: خبر‎ (xabar), hin:ख़बर (xabar), ben:খবর (khôbôr), tam:கபர் (kapar), may:kabar, tur:haber, swa:habari, hau:labari, yor:làbarè, ful:habaru
 PWN:nickel.n.01		nikel	nikel	eng:nickel, fra:nickel, spa:níquel, por:níquel, rus:никель, zho:镍 (niè), jpn:ニッケル, kor:니켈, vie:nikel, hin:निकेल, ben:নিকেল, may:nikel, swa:nikeli, ara: نيكل
 PWN:night.n.01		noche	noch'e	eng:nocturnal, por:noite, spa:noche, fra:noit, deu:Nacht
@@ -1275,41 +1363,48 @@ PWN:nightingale.n.01		bulbul	bulbul	ara: بلبل‎ (bulbul), fas:(bolbol), hin
 PWN:nine.s.01		nau	nau
 PWN:niobium.n.01		niobium	niob·ium	eng:niobium, fra:niobium, spa:niobio, por:nióbio, rus:ниобий, zho:铌 (ní), jpn:ニオブ, kor:나이오븀, vie:niobi, hin:नायोबियम, ben:নাইওবিয়াম, may:niobium, swa:niobi, ara: نيوبيوم
 PWN:nitrogen.n.01		nitre	nitr'e	eng:nitrogen, fra:azote, spa:nitrógeno, por:nitrogénio, rus:азот, vie:nitơ, hin:नाइट्रोजन, ben:নাইট্রোজেন, may:nitrogen, swa:nitrojeni, ara: نيتروجين
-PWN:no.r.03		ne	ne	eng:spa:no, fra:ne...pas, por:não, deu:nein, rus:не (nye), fas: نه (na), ben:না (na), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)
+PWN:no.r.03		no	no	eng:spa:no, fra:ne...pas, por:não, deu:nein, rus:не (nye), fas: نه (na), ben:না (na), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)
 PWN:nobelium.n.01		nobelium	nobel·ium	eng:nobelium, fra:nobélium, spa:nobelio, por:nobélio, rus:нобелий, zho:锘 (nuò), jpn:ノーベリウム, kor:노벨륨, vie:nobeli, hin:नोबेलियम, ben:নোবেলিয়াম, may:nobelium, swa:nobeli, ara: نوبليوم
-PWN:noodle.n.01		mien	mien	zho:面 (miàn), yue:麵 (min6), jpn:麺 (men), kor:면 (myeon), vie:mì; miến, may:mie, tha:หมี่ (mii), khm:មី (mi)
+PWN:noodle.n.01		men	men	zho:面 (miàn), yue:麵 (min6), jpn:麺 (men), kor:면 (myeon), vie:mì; miến, may:mie, tha:หมี่ (mii), khm:មី (mi)
+PWN:norm.n.01		norme	norm'e
 PWN:normal.a.01		normal	norm·al
 PWN:north.n.03		norde	nord'e	eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)
 PWN:nose.n.01		naze	naz'e	eng:nose, spa:por:nariz, deu:Nase, rus:нос (nos), fas:نس‎ (nos), hin:नासिका (nāsikā), ben:নাক (nak), tam:நாசி (nāsi)
 PWN:nostalgia.n.01		nostalgia	nost·alg·ia
-PWN:notice.v.04		anou	a.nou
-PWN:november.n.01		mes ten un	mes ten un
+PWN:notice.v.04		anos	a.nos
+PWN:november.n.01		mes des un	mes des un
 PWN:now.r.04		nun	nun	eng:now, deu:nun, dan:sve:nu, fas: اکنون (aknun), pnb:ਹੁਣ (huṇ)
 PWN:nudism.n.01		nudisme	nud·ism'e
 PWN:nudist.n.01		nudiste	nud·ist'e
 PWN:number.n.02		num	num	eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)
 PWN:oak.n.02		baluta	baluta	ara:بلوط (ballūṭ), fas:بلوط (balut), hin:बलूत (balūta), spa:bellota
 PWN:oath.n.03		vod	vod	fra:vœu, spa:por:voto + ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh), ful:waatoore
-PWN:obligation.n.02		debe	deb’e
-PWN:october.n.01		mes ten	mes ten
+PWN:obligation.n.02		debe	deb'e
+PWN:october.n.01		mes des	mes des
 PWN:office.n.01		burokan	buro·kan	eng:fra:bureau, spa:buro-, por:birô, rus:бюро (byuro), pol:biuro, tur:büro, ful:biró
 PWN:official.a.01		burotik	buro·tik
+PWN:official.s.04		rasmik	rasm·ik
 PWN:okay.n.01		okei	okei	eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)
 PWN:okra.n.01		bamia	bamia	ara: بَامْيَة‎ (bāmya), swa:bamia, amh:ባሚያ (bamiya), tur:bamya, fas: بامیه‎ (bâmiye), rus:бамия (bamiya)
 PWN:old.a.01		lao	lao	zho:老 (lǎo), yue:老 (lau2), wuu:老 (lau3), jpn:老 (rō), vie:lão
-PWN:old_age.n.01		sen nen	sen nen
-PWN:old_age.n.01		senes	sen·es
+PWN:old.a.01		sen	sen
+PWN:old_age.n.01		sen nien	sen nien
+PWN:old_age.n.01		senita	sen·ita
 PWN:olive.n.01		zaitun	zaitun	ara: زَيْتُون‎ (zaitūn), spa:aceituna, may:zaitun, swa:zeituni, tur:zeytin, hau:swa:zaituni, fas: زیتون‎ (zeytun), hin: ज़ैतून (zaitūn), ben:জয়তূন (zôẏtūn), tam:சைதூண் (caitūṇ), zho:齊墩果 (qídūn-guǒ)
 PWN:once.r.01		un tem	un tem
-PWN:one.s.01		ik	ik	fas: یک (yek), hin:एक (ek), এক (ek), pnb:ਇੱਕ (ikk) + zho:一 (yī), yue:一 (yɐt), jpn:一 (ichi), kor:일 (il), tha:เอ็ด (et)
 PWN:one.s.01		un	un	fra:un, spa:uno, por:um,una, eng:one
 PWN:oneness.n.01		unita	un·ita
 PWN:opossum.n.02		oposum	oposum	eng:fra:opossum, rus:опоссум (opossum), zho:奥珀瑟姆 (àopòsèmǔ), jpn:オポッサム (opossamu), vie:ô-pốt-sâm, ara: أُوبُسُوم‎ (ʾubusum)
 PWN:orange.n.03		aranje	aranj'e	eng:fra:orange, spa:naranja, por:laranja, fas: نارنج‎ (nâranj), hin:नारंगी (narangi), tam:ஆரஞ்சு (ārañcu), jpn:(orenji) + rus:оранжевый (oranževiy)
 PWN:orange.s.01		aranje brun	aranj'e brun
+PWN:orange_yellow.n.01		safran safre	safr·an safr'e
 PWN:order.v.01		amir	amir	ara: أَمْر‎ (ʾamr), fas: امر‎ (amr), tur:emir, swa:amiri, hau:umarni, ful:amiiru, eng:spa:por:emir ∗, fra:émir ∗, rus:эмир (emir) ∗
+PWN:organ.n.01		organ	organ
 PWN:organ.n.05		orgen	orgen	eng:may:organ, deu:Orgel, fra:orgue, spa:órgano, por:órgão, rus:орган (organ), fas: ارگ (org), hin:ऑर्गन (ŏrgan), tam:ஓர்கன் (ōrkaṉ), ara: أُرْغُن (ʔurḡun), tur:org, jpn:オルガン (orugan), kor:오르간 (oreugan), vie:oóc-gan
+PWN:organic.a.01		karbonik	karb·on·ik
+PWN:organic.a.03		organik	organ·ik
 PWN:organism.n.01		bioter	bio·ter
+PWN:organism.n.02		organizme	organ·izm'e
 PWN:orientation.n.03		dika	dika
 PWN:original.n.02		arketipe	ark·e.tip'e
 PWN:original.n.02		idia	id·ia	eng:spa:idea, fra:idée, deu:Idee, por:ideia, rus:идея (ideya), may:ide, jpn:アイデア (aidea), kor:아이디어 (aidieo), vie:ý định
@@ -1320,6 +1415,7 @@ PWN:osmium.n.01		osmium	osm·ium	eng:osmium, fra:osmium, spa:osmio, por:ósmio, 
 PWN:other.a.01		ale	al'e	ell:άλλος (állos), ltn:alius, eng:fra:allo-, por:spa:alo-, rus: алло- (allo-)
 PWN:outer.a.01		exik	ex·ik
 PWN:oven.n.01		tanur	tanur	fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr), swa:tanuri, hau:tanda
+PWN:oversee.v.01		menaja	men·aj’a
 PWN:own.v.01		mal	mal
 PWN:oxide.n.01		oxid	ox·id
 PWN:oxygen.n.01		oxe	ox'e	eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين
@@ -1330,18 +1426,19 @@ PWN:pack.v.01		pake	pak'e
 PWN:package.n.01		pakaje	pak·aj'e
 PWN:package.n.01		pake	pak'e	eng:pack, deu:tur:paket, fra:paquet, spa:paquete, por:pacote, rus:пакет (paket), fas: پاکت‎ (pâkat), hin:पैकेट (pækeṭ), ful:pakɛt, hau:fakiti
 PWN:package.n.01		paket	pak·et
-PWN:page.n.01		pagina	pagina	eng:paginate, por:spa:página, fra:page
+PWN:page.n.01		page	pag'e	eng:fra:page, por:spa:página
 PWN:pain.n.03		alge	alg'e	eng:por:spa:-algia, fra:deu:-algie, rus:-альгия (-alʹgiya) + jpn:ノスタルジー (nosutarujī), fas: نوستالژی‎ (nostâlži), tur:nostalji
 PWN:painful.a.01		algik	alg·ik
 PWN:paint.n.01		pente	pent'e
 PWN:paintbrush.n.01		pente brosh	pent·e brosh
+PWN:pale.s.04		leuke	leuk'e
 PWN:palladium.n.01		paladium	palad·ium	eng:palladium, fra:palladium, spa:paladio, por:paládio, rus:палладий, zho:钯 (bǎ), jpn:パラジウム, kor:팔라듐, vie:palađi, hin:पलाडियम, ben:প্যালাডিয়াম, may:paladium, swa:paladi, ara: بلاديوم
 PWN:panama.n.01		Panama	Panama
 PWN:pandemic.n.01		pandemik pate	pan·dem·ik pat'e
 PWN:pandemic.s.02		pandemik	pan·dem·ik
 PWN:pangaea.n.01		pangeia	pan.ge·ia
 PWN:panhellenic.a.01		panhelenik	pan.helen·ik
-PWN:pansexual.n.01		pansexamiste	pan.sex·am·ist’e
+PWN:pansexual.n.01		pansexamiste	pan.sex·am·ist'e
 PWN:pantheism.n.01		pandeisme	pan·de·ism'e
 PWN:pantheon.n.01		pandeia	pan·de·ia
 PWN:paper.n.01		kaguz	kaguz	zho:榖纸 (gǔzhǐ), yue:榖紙 (guk1zi2), jpn:榖紙 (kokushi), + fas:(kâğaz), hin:काग़ज़ (kāġaz), ben:কাগজ (kagôj), tur:kâğıt, ara:(kāḡid), kan:ಕಾಗದ (kāgada), tel:కాగితము (kāgitamu), tam:காகிதம் (kākitam), wol:keyit, uig:(qeghez)
@@ -1355,7 +1452,7 @@ PWN:party.n.01		partia	part·ia
 PWN:party.v.01		feste	fest'e	por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival'), may:pesta
 PWN:pascal.n.01		paskal	paskal
 PWN:pass.v.01		pasa	pasa	eng:pass, fra:passer, spa:por:pasar, deu:Pass, jpn:パス (pasu), ful:paasde; paaspoor + rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, jpn:パスポート (pasupōto), kor:패스포트 (paeseupoteu), swa:paspoti, hau:fasfo
-PWN:passion.n.07		Yesa's pation	Yesa's pat·ion
+PWN:passion.n.07		Yesa su pation	Yesa su pat·ion
 PWN:passive.s.02		paciv	pac·iv
 PWN:passport.n.02		pasaporte	pasa·port'e
 PWN:path.n.02		pata	pata	eng:path, deu:Pfad, rus:путь (putʹ), hin:पथ (path), ben:পথ (pôth), tam:பாதை (pātai), tel:పథము (pathamu), tur:patika
@@ -1366,27 +1463,34 @@ PWN:patient.n.01		paten	pat·en
 PWN:patronymic.n.01		patronim	pa·tr·o·nim
 PWN:pauper.n.01		fakir	fakir
 PWN:pause.n.01		paus	paus	deu:Pause, eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)
-PWN:peace.n.01		pace	pac’e	ita:pace, eng:peace, spa:por:paz, fra:paix, rus:пац- (pac-), may:tur:pas-
+PWN:pay.v.01		fei	fei
+PWN:peace.n.01		pace	pac'e	ita:pace, eng:peace, spa:por:paz, fra:paix, rus:пац- (pac-), may:tur:pas-
 PWN:peafowl.n.01		mayur	mayur	hin:मयूर (mayūr), ben:ময়ূর (môyūr), tam:மயில் (mayil) + may:merak
 PWN:pear.n.01		pera	pera	eng:pear, fra:poire, spa:por:pera, may:pir, swa:pea, yue:啤梨 (be1 lei4-2), kor:배 (bae)
 PWN:pearl.n.01		lulu	lulu	ara: لؤلؤ (luʔluʔ), fas: لؤلؤ (lo'lo'), hau:lu'ulu'u, swa:lulu, amh:ሉል (lul)
 PWN:peat.n.01		turfa	turfa	eng:turf, fra:tourbe, spa:tur:turba, por:turfa, rus:торф (torf)
 PWN:pedal.n.02		pedal	pedal
 PWN:peer.n.01		par	par
+PWN:pellet.n.01		pilet	pil·et
 PWN:pencil.n.01		karbe kalam	karb·e kalam
 PWN:penguin.n.01		pinguin	pinguin	eng:may:penguin, spa:pingüino, por:pinguim, rus:пингвин (pingvin), tur:penguen, hin:पेंगुइन (peṅguin), ben:পেঙ্গুইন (peṅguin), jpn:ペンギン (pingin)
 PWN:penis.n.01		penis	penis	eng:tur:may:penis, spa:pene, por:fra:pénis, rus:пенис (penis)
 PWN:people.n.01		nas	nas	ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)
 PWN:pepper.n.01		pipal	pipal	eng:pepper, deu:Pfeffer, fra:povre, spa:pebre, ita:pepe, ben:পিপুল (pipul), fas: پلپل⁩ (pelpel), tel:పిప్పలి (pippali), tur:biber, ara: فِلْفِل⁩ (filfil), swa:pilipili, zho:荜拔 (bìbá)
 PWN:pepper.n.04		piman	piman	fra:piment, spa:pimiento, por:pimento, jpn:ピーマン (pīman), kor:피망 (pimang)
+PWN:perceive.v.01		percepe	per.cep'e
+PWN:perceive.v.02		percepe	per.cep'e
 PWN:perfect.a.01		perfat	per.fa·t
+PWN:perfume.n.02		perfum	per.fum
 PWN:permission.n.01		halal	halal
+PWN:permit.v.01		per.mise	permis'e
 PWN:persistent.a.03		persisten	per.sist'en
+PWN:person.n.01		hom	hom
 PWN:person.n.01		jan	jan	zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, spa:por:gente
 PWN:pestle.n.03		piste	pist'e	eng:fra:may:tur:piston, spa:pistón, por:pistão, rus:пест (pest), jpn:ピストン (pisuton), kor:피스톤 (piseuton)
 PWN:phenol.n.01		fenol	fen·ol
 PWN:phenomenon.n.01		fenomen	fen·o·men
-PWN:phenotype.n.01		fenotype	fen·o·tip
+PWN:phenotype.n.01		fenotip	fen·o·tip
 PWN:philosopher.n.01		filosofer	fil·o·sof·er
 PWN:philosophic.a.01		filosofik	fil·o·sof·ik
 PWN:philosophy.n.02		filosofia	fil·o·sof·ia	eng:philosophy, fra:philosophie, spa:por:filosofia, rus:философия (filosofiya), ara: فَلْسَفَة (falsafa), hin:फ़लसफ़ा (falsafā), may:filsafat, swa:hau:falsafa, tur:felsefe
@@ -1399,11 +1503,13 @@ PWN:photograph.n.01		fotografe	fot·o·graf'e
 PWN:phycology.n.01		algalojia	alga·loj·ia
 PWN:physicist.n.01		fizolojer	fiz·o·loj·er
 PWN:physics.n.01		fizolojia	fiz·o·loj·ia
-PWN:physiology.n.01		biofizolojia	bio·fiz·loj·ia
+PWN:physiology.n.01		biofizolojia	bio·fiz·o·loj·ia
 PWN:piano.n.01		piano	pian·o	eng:spa:por:fra:swa:may:piano, rus:пианино (pianino), tur:piyano, ara:بيانو‎ (biyānō), hin:पियानो (piyāno), ben:পিয়ানো (piẏano), jpn:ピアノ (piano)
-PWN:picture.v.02		sura	sura
+PWN:picture.v.02		sure	sur'e
 PWN:pidgin.n.01		pijin	pijin	eng:spa:por:fra:pidgin, rus:пиджин (pidzhin), swa:pijini, zho:皮欽語 (píqīnyǔ), jpn:ピジン (pijin)
-PWN:pinch.v.01		pinse	pins'e	eng:pincers, deu:Pinzette, fra:pinces, por:pinça, spa:pinzas, rus:пинцет (pincet), tur:pense, jpn:ペンチ (penchi), kor:펜치 (penchi)
+PWN:pill.n.01		pil	pil	eng:pill, deu:Pille, fra:pilule, spa:píldora, por:pílula, rus:пилюля (pilyula), may:pil, jpn:ピル (piru)
+PWN:pill.n.02		pilul	pil·ul
+PWN:pinch.v.01		pince	pinc'e	eng:pincers, deu:Pinzette, fra:pinces, por:pinça, spa:pinzas, rus:пинцет (pincet), tur:pense, jpn:ペンチ (penchi), kor:펜치 (penchi)
 PWN:pineapple.n.01		ananas	ananas	deu:Ananas, fra:tur:ful:ananas, por:ananás, rus:ананас (ananas), fas: آناناس‎ (ânânâs), hin:अनन्नास (anānnas), tam:அன்னாசிப் பழம் (aṉṉācip paḻam), ara: أَنَانَاس‎ (ʾanānās), may:nanas, swa:nanasi
 PWN:pink.s.01		hong	hong	zho:红 (hóng), yue:紅 (hung4), vie:hồng, kor:홍 (hong), jpn:紅色 (kōshoku)
 PWN:piquant.s.01		chili	chili	eng:chili, deu:Chili, por:spa:chile, rus:чили (čili), jpn:チリ (chiri), kor:칠리 (chilli), may:cili
@@ -1421,6 +1527,7 @@ PWN:play.n.01		drama	drama	eng:spa:por:may:swa:drama, fra:drame, rus:драма 
 PWN:please.r.01		ples	ples
 PWN:pleasure.n.01		hedon	hedon	ell:ἡδονή (hēdonḗ) + eng:tur:hedonist, deu:Hedonist, fra:hédoniste, spa:por:hedonista, rus:гедонист
 PWN:pleasure.n.04		plesur	ples·ur
+PWN:pliers.n.01		pincer	pinc·er
 PWN:plot.n.01		plot	plot	eng:plot, deu:Komplott, fra:spa:complot, por:complô, tur:komplo, may:komplot
 PWN:plug.n.01		tap	tap
 PWN:plug.v.05		tap	tap
@@ -1428,7 +1535,7 @@ PWN:plum.n.01		briko	briko	ara:(barqūq), eng:apricot, fra:abricot, spa:albarico
 PWN:plunder.v.03		lute	lut'e	hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)
 PWN:plunderer.n.01		luter	lut·er
 PWN:plutonium.n.01		plutonium	pluton·ium	eng:plutonium, fra:plutonium, spa:plutonio, por:plutónio, rus:плутоний, zho:钚 (bù), jpn:プルトニウム, kor:플루토늄, vie:plutoni, hin:प्लूटोनियम, ben:প্লুটোনিয়াম, may:plutonium, swa:plutoni, ara: بلوتونيوم
-PWN:pocket.n.01		jeb	jeb	ara: جَيْب‎ (jayb), fas: جیب‎ (jib), hin:जेब (jeb), pnb:ਜੇਬ (jeb), tel:(jēbu), tur:cep, por:algebeira, ful:jeyba, hau:aljihu, ful:jiiba, wol:jiba, amh:ጅብ (ǧəb)
+PWN:pocket.n.01		jeb	jeb	ara: جَيْب‎ (jayb), fas: جیب‎ (jib), hin:जेब (jeb), pnb:ਜੇਬ (jeb), tel:(jēbu), tur:cep, por:algibeira, ful:jeyba, hau:aljihu, ful:jiiba, wol:jiba, amh:ጅብ (ǧəb)
 PWN:pocketknife.n.01		jeb dau	jeb dau
 PWN:poison.n.01		toxe	tox'e	eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik + zho:毒 (dú), yue:毒 (duk6), wuu:毒 (do'), jpn:毒 (doku/toku), kor:독 (dok), vie:độc + ful:tooke
 PWN:poisonous.s.01		toxik	tox·ik
@@ -1441,6 +1548,7 @@ PWN:polonium.n.01		polskium	polsk·ium	eng:polonium, fra:polonium, spa:polonio, 
 PWN:polygamy.n.01		poligamia	poli.gam·ia
 PWN:polygon.n.01		poligon	poli·gon
 PWN:polyhedron.n.01		polihedre	poli·hedr'e
+PWN:polymer.n.01		polimer	poli.mer
 PWN:polysemous.s.01		polisematik	poli.sema·tik
 PWN:polystyrene.n.01		polistiren	poli·stir·en
 PWN:poncho.n.01		poncho	poncho	eng:deu:fra:spa:por:poncho, may:ponco, vie:aó ponsô
@@ -1453,12 +1561,13 @@ PWN:porcelain.n.01		chini	chini	zho:瓷 (cí) + eng:chinaware, hin:चीनी 
 PWN:port.n.01		porte	port'e	eng:port, fra:porte, spa:puerto, por:porto, rus:порт (port), hin:पोर्ट (porṭ), urd:(porṭ), ben:পোর্ট (porṭ), tha:พอร์ต (phot)
 PWN:position.n.04		asan	asan	hin:आसन (āsan), tel:ఆసనము (āsanamu), eng:spa:por:asana, deu:Asana, rus:асана (asana)
 PWN:positive.s.10		yang	yang
+PWN:possession.n.02		mal	mal
 PWN:postpone.v.01		pospozi	pos.pozi
 PWN:postpose.v.01		pospozi	pos.pozi
 PWN:pot.n.01		pot	pot	eng:fra:pot, spa:por:pote, may:poci, jpn:ポット (potto), kor:포트 (poteu), ful:pooti; fotiire
 PWN:potassium.n.01		kalium	kal·ium	rus:калий, jpn:カリウム, vie:kali, may:kalium, swa:kali
 PWN:potato.n.01		papata	papata	spa:papa; patata, fra:patate, por:batata, eng:potato, tur:patates, ara: بَطَاطِس (baṭāṭis), swa:mbatata
-PWN:potent.a.04		sexe poten	sex’e pot·en
+PWN:potent.a.04		sexe poten	sex'e pot·en
 PWN:potter.n.01		poter	pot·er
 PWN:poverty.n.01		fakiria	fakir·ia
 PWN:powder.n.01		fun	fun	zho:粉 (fěn), yue:粉 (fan2), jpn:粉 (fun/pun), kor:분 (bun), vie:phấn, hak:粉 (fun), tha:ฝุ่น (fùn), mya:ဖုန် (hpun)
@@ -1468,6 +1577,7 @@ PWN:praise.v.01		eulogiza	eu.log·iza
 PWN:praseodymium.n.01		prazedimium	prazedim·ium	eng:praseodymium, fra:praséodyme, spa:praseodimio, por:praseodímio, rus:празеодим, jpn:プラセオジム, kor:프라세오디뮴, vie:prazeođim, hin:प्रासियोडाइमियम, ben:প্র্যাসেওডিমিয়াম, may:praseodinium, swa:praseodimi, ara: براسوديميوم
 PWN:pray.v.01		dua	dua
 PWN:prayer.n.01		dua	dua	ara: دُعَاء‏  (duʿāʾ), fas: دعا (do'â), hin:दुआ (duā), ben:দুয়া (dua), may:doa, swa:tur:dua, hau:àddu'ā̀, ful:du'aade, yor:àdúrà + zho:祷 (dǎo), jpn:禱 (tō), kor:도 (do)
+PWN:preach.v.02		avoka	a.voka
 PWN:predict.v.01		predit	pre.dit
 PWN:prepose.v.01		prepozi	pre.pozi
 PWN:present.a.01		zaitik	zai·tik
@@ -1476,23 +1586,31 @@ PWN:press.v.01		pres	pres
 PWN:prevail.v.03		persiste	per.sist'e
 PWN:preview.v.01		previz	pre.viz
 PWN:previous.s.01		pretik	pre·tik
+PWN:price.n.03		fei	fei	eng:fee, hin:फ़ीस (fīs), zho费 (zèi), yue:費 (fai3), vie:phí, jpn:費 (-hi), tur:fiyat, fas: فی (fi)
 PWN:print.v.04		impres	im.pres
 PWN:printer.n.02		impreser	im.pres·er
-PWN:procedure.n.01		proses	proses	eng:process, por:processo, spa:proceso, rus:проце́сс (procéss), tur:may:proses, jpn:プロセス (purosesu)
+PWN:procedure.n.01		proces	pro.ces	eng:process, por:processo, spa:proceso, rus:проце́сс (procéss), tur:may:proses, jpn:プロセス (purosesu)
 PWN:proceed.v.04		kurse	kurs'e
 PWN:proceed.v.04		kurse	kurs'e	eng:course, fra:cours, spa:por:curso, rus:курс (kurs), hin:कोर्स (kors) ∗, may:kursus ∗, kor:코스 (koseu) ∗, jpn:コース (kōsu) ∗
 PWN:produce.v.02		bina	bina	ara: بِنَاء‎ (bināʾ), hin: बनाना (banānā), fas:(banā), tur:may:bina + spa:albañil, por:alvenel + jpn:ビル (biru)
+PWN:prognosis.n.01		pronos	pro.nos
+PWN:prognosis.n.02		pronos	pro.nos
 PWN:program.n.07		programa	pro.grama
+PWN:progressive.s.02		riformiste	ri.form·ist'e
 PWN:promethium.n.01		prometium	promet·ium	eng:promethium, fra:prométhium, spa:prometio, por:promécio, rus:прометий, zho:钷 (pǒ), jpn:プロメチウム, kor:프로메튬, vie:prometi, hin:प्रोमेथियम, ben:প্রমিথিয়াম, may:prometium, swa:promethi, ara: بروميثيوم
 PWN:promise.n.01		vod	vod	fra:vœu, spa:por:voto + ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)
 PWN:promise.v.01		vod	vod
 PWN:pronounce.v.01		fone	fon'e
 PWN:proof.n.01		prova	prova
+PWN:property.n.01		mal	mal
 PWN:prophecy.n.02		deomantia	de·o·mant·ia
 PWN:propose.v.01		propozi	pro.pozi
 PWN:prostrate.v.01		sagid	sagid
 PWN:protactinium.n.01		protatinium	protatin·ium	eng:protactinium, fra:protactinium, spa:proactinio, por:protacnídio, rus:протактиний, zho:镤 (pú), jpn:プロトアクチニウム, kor:프로트악티늄, vie:protactini, hin:प्रोटैक्टीनियम, ben:প্রোটেক্টিনিয়াম, may:protaktinium, swa:protaktini, ara: بروتكتنيوم
 PWN:prototype.n.01		prototip	proto.tip
+PWN:provoke.v.02		provoka	pro.voka
+PWN:psychologist.n.01		ruholojer	ruh·o.loj·er
+PWN:psychology.n.01		ruholojia	ruh·o.loj·ia
 PWN:public.a.01		demik	dem·ik
 PWN:public_domain.n.01		demik malia	dem·ik mal·ia
 PWN:pulp.n.01		fufu	fufu	eng:spa:por:may:swa:fufu, fra:foufou, rus:фуфу (fufu), zho:富富 (fùfù), lin:kon:fufú
@@ -1504,7 +1622,7 @@ PWN:put.v.01		pozi	pozi	eng:pose, por:posição, spa:posición, deu:Position, ru
 PWN:pyramid.n.01		piram	piram	eng:pyramid, fra:pyramide, spa:por:pirámide, rus:пирамида (piramida), hin:पिरमिड (pirmiḍ),अहराम (ahrām), ben:পিরামিড (piramiḍ), may:piramida, jpn:ピラミッド (piramiddo), kor:피라미드 (piramideu) + ara:(haram), swa:haram
 PWN:quartz_glass.n.01		kuarze	kuarz'e	deu:Quarz, eng:fra:quartz, spa:cuarzo, rus:кварц (kvarc), tur:kuvars, hin:क्वार्ट्ज (kvārtj), jpn:クオーツ (kuōtsu), may:kuarza
 PWN:question.n.03		sual	sual	ara: سؤال (su'āl), fas: سؤال‎ (so'âl), hin:सवाल (savāl), ben:সওয়াল (śôwal), may:soal, swa:swali, tur:sual + khm:សួរ (suə)
-PWN:quote.v.01		sita	sita	eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat')
+PWN:quote.v.01		cita	cita	eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat')
 PWN:rabbit.n.01		tuzi	tuzi	zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)
 PWN:raccoon.n.02		rakun	rakun
 PWN:race.n.03		rase	ras'e	eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras
@@ -1514,6 +1632,7 @@ PWN:radish.n.04		lobak	lobak	zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak
 PWN:radium.n.01		radium	rad·ium	eng:radium, fra:radium, spa:radio, por:rádio, rus:радий, zho:镭 (léi), jpn:ラジウム, kor:라듐, vie:rađi, hin:रेडियम, ben:রেডিয়াম, may:radium, swa:radi, ara: راديوم
 PWN:radon.n.01		radon	radon	eng:radon, fra:radon, spa:radón, por:rádon, rus:радон, zho:氡 (dōng), jpn:ラドン, kor:라돈, vie:rađơn, hin:रेडन, ben:রেডন, may:radon, swa:radoni, ara: رادون
 PWN:railroad_track.n.01		tren dao	tren·dao
+PWN:raise.v.07		envoka	en.voka
 PWN:random.a.01		zarik	zar·ik
 PWN:rank.n.02		dang	dang	zho:等 (děng),  yue:等 (dang2), kor:등 (dang), vie:đẳng, jpn:段 (dan) + fra:rang, spa:rango
 PWN:rapid.s.02		rapid	rap·id	eng:rapid, fra:rapide, spa:por:rápido, ned:rap
@@ -1524,17 +1643,33 @@ PWN:reach.v.04		kontakte	kon.takt'e
 PWN:real.a.01		hakik	hak·ik
 PWN:reality.n.03		hakikia	hak·ik·ia
 PWN:reasoning.n.01		ration	rat·ion
+PWN:rebel.v.01		rebele	re.bel’e	eng:rebel, spa:por:rebelde fra:rebelle
+PWN:rebellion.n.02		rebelion	re.bel·ion
+PWN:receipt.n.02		feitaref	fei·ta.ref
+PWN:receipt.n.02		recepe	re.cep'e
+PWN:receipt.n.02		taref	ta.ref
+PWN:receive.v.01		cepe	cep'e	eng:reception, deu:Rezeption, fra:réception, spa:recepción, por:recepção, rus:рецепция (recepciya), jpn:レセプション (resepushon), kor:리셉션 (risepsyeon)
+PWN:recipient.n.01		receper	re.cep·er
+PWN:reclamation.n.02		reformation	re.form·a·tion
 PWN:rectangle.n.01		retogon	ret·o·gon
 PWN:red.s.01		rod	rod	eng:red, deu:rot, fra:rouge, spa:rojo, ita:rosso
+PWN:red_blood_cell.n.01		eritrocite	eritr·o·cit'e
 PWN:reflector.n.01		reflexer	re.flex·er
+PWN:reformation.n.01		riformation	ri.form·a·tion
+PWN:reformer.n.01		riformer	fi.form·er
 PWN:regulate.v.02		nome	nom'e
 PWN:regulation.n.06		nomia	nom·ia	eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi
 PWN:relax.v.01		relaxa	re.laxa
+PWN:release.v.08		slam	slam
 PWN:religion.n.02		din	din
-PWN:religion.n.02	fig.	den	den
 PWN:remainder.n.01		baki	baki	ara: بَقِيَّة‎ (baqiyya), fas: بقیه‎ (baqiye), hin:बाक़ी (bāqī), may:baki, tur:bakıye, swa:-baki, ful:bakke
 PWN:remedy.n.02		remed	re.med
+PWN:rent.n.01		kira	kira	ara: كراء (kirāʾ), tur:kira, fas: کرایه (kerâye), hin:किराया (kirāyā), spa:alquiler
+PWN:rent.v.01		dekira	de.kira
+PWN:rent.v.04		akira	a.kira
+PWN:repair.v.01		repar	re.par
 PWN:repair.v.01		shuli	shuli	zho:修理 (xiūlǐ), jpn:修理 (shūri), kor:수리 (suri)
+PWN:repeat.v.01		rifa	ri·fa
 PWN:repel.v.01		repel	re.pel
 PWN:repent.v.02		sori	sori
 PWN:represent.v.01		vakil	vakil	ara: وكيل‎ (wakīl), fas: وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil), tam:வக்கீல் (vakkīl), may:wakil, tur:vekil, swa:hau:wakili, amh:ወኪል (wäkil)
@@ -1546,16 +1681,19 @@ PWN:resist.v.02		resiste	re.sist'e
 PWN:resistance.n.01		resistion	re.sist·ion
 PWN:resistor.n.01		resistor	re.sist·or
 PWN:restaurant.n.01		restauran	re.staura·n
+PWN:revoke.v.02		revoka	re.voka
 PWN:revolution.n.01		revolution	re.volu·tion
 PWN:revolve.v.01		rota	rota	eng:rotate, por:spa:rotar, rus:ро́тор (rótor)
 PWN:rhenium.n.01		renium	ren·ium	eng:rhenium, fra:rhénium, spa:renio, por:rénio, rus:рений, zho:铼 (lái), jpn:レニウム, kor:레늄, vie:reni, hin:रेनियम, ben:রেনিয়াম, may:renium, swa:reni, ara: رنيوم
 PWN:rhinal.a.01		nazal	naz·al
 PWN:rhodium.n.01		rodium	rod·ium	eng:rhodium, fra:rhodium, spa:rodio, por:ródio, rus:родий, jpn:ロジウム, kor:로듐, vie:rođi, hin:रोडियम, ben:রোডিয়াম, may:rodium, swa:rodi, ara: روديوم
-PWN:rhumb_line.n.01		simgon line	sim·gon lin'e
+PWN:rhumb_line.n.01		singon line	sin·gon lin'e
 PWN:right.a.01		dexe	dex'e
 PWN:right.n.01		hak	hak	ara: حَقّ‎ (ḥaqq), hin:हक़ (haq), ben:হক (hôk), pnb:ਹੱਕ (hakka), tel:హక్కు (hakku), tur:may:hak, swa:haki, hau:hakki, ful:haƙƙe
 PWN:ring.n.08		ring	ring
+PWN:risk.n.02		riske	risk'e	fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (risuku), deu:may:risiko
 PWN:river.n.01		riv	riv	eng:river, fra:rivière, spa:por:rio
+PWN:river.n.01		river	riv·er
 PWN:road.n.01		dao	dao	zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo
 PWN:rock.n.02		petre	petr'e	hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre
 PWN:rocket.n.01		roket	roket	eng:rocket, deu:Rokete, rus:ракета (raketa), tur:may:roket, swa:roketi, fas:راکت‎ (râket), hin:राकेट (rākeṭ), ben:রকেট (rôkeṭ), jpn:ロケット (roketto), kor:로켓 (roket)
@@ -1568,16 +1706,21 @@ PWN:rotten.s.03		futre	futr'e	eng:putrid, fra:pourri; putride, spa:por:podre + m
 PWN:rubber.n.01		gom	gom	fra:gomme, spa:tgl:goma, jpn:ゴム (gomu), kor:고무 (gomu) + eng:gum, deu:Gummi + hin:गम (gam), ben:গাম (gam)
 PWN:rubidium.n.01		rubium	rub·ium	eng:rubidium, fra:rubidium, spa:rubidio, por:rubídio, rus:рубидий, zho:铷 (rú), jpn:ルビジウム, kor:루비듐, vie:rubiđi, hin:रुबिडियम, ben:রুবিডিয়াম, may:rubidium, swa:rubidi, ara: روبيديوم
 PWN:rule.n.01		norme	norm'e
+PWN:rule.n.01		regul	reg·ul
 PWN:run.v.01		ren	ren	eng:run, deu:rennen, hin:रनर (ranar), jpn:ランニング (ranningu)
 PWN:rural.a.01		agristanik	agr·istan·ik
 PWN:russian.a.01		rus	rus
 PWN:ruthenium.n.01		rusium	rus·ium
 PWN:rutherfordium.n.01		ruterfordium	ruterford·ium	eng:rutherfordium, fra:rutherfordium, spa:rutherfordio, por:rutherfórdio, rus:резерфордий, ²курчатовий, zho: (lú), jpn:ラザホージウム, kor:러더포듐, vie:rutherfordi, hin:रुथरफोर्डियम, ben:রাদারফোর্ডিয়াম, may:rutherfordium, swa:rutherfordi, ara: رذرفورديوم
 PWN:sabbath.n.01		sabat	sabat
+PWN:saffron.n.01		masala safran	masala safr·an
+PWN:saffron.n.02		safran masala	safr·an masala
 PWN:saga.n.01		hero mit	hero mit
 PWN:sago.n.01		sagu fun	sagu fun
 PWN:salad.n.01		salad	salad	fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), ful:salati
 PWN:salmon.n.01		salmon	salmon	eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)
+PWN:salon.n.02		meita sala	mei·ta sala
+PWN:salon.n.03		hoste sala	host'e sala
 PWN:salt.n.02		yem	yem	zho:盐 (yán), yue:鹽 (yim4), jpn:塩 (en), kor:염 (yeom), vie:diêm
 PWN:samarium.n.01		samarium	samar·ium	eng:samarium, fra:samarium, spa:samario, por:samário, rus:самарий, zho:钐 (shān), jpn:サマリウム, kor:사마륨, vie:samari, hin:सैमरियम, ben:সামারিয়াম, may:samarium, swa:hau:samari, ara: ساماريوم
 PWN:same.a.01		sim	sim	eng:same, fra:similaire, spa:por:similar, rus:самый (samyy), fas:هم‎ (ham), hin:सम (sam), may:sama
@@ -1589,7 +1732,7 @@ PWN:sausage.n.01		sosis	sosis	fra:saucisse, tur:may:sosis, fas:(sosis), rus:со
 PWN:save.v.02		hazin	hazin
 PWN:saw.n.02		shara	shara	alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)
 PWN:scandium.n.01		skandium	skand·ium	eng:scandium, fra:scandium, spa:escandio, por:escândio, rus:скандий, zho:钪 (kàng), jpn:スカンジウム, kor:스칸듐, vie:scandi, hin:स्काण्डियम, ben:স্ক্যান্ডিয়াম, may:skandium, swa:skandi, ara: سكانديوم
-PWN:scarf.n.01		shol	shol	eng:shawl, deu:Schal, fra:châle, por:xaile, spa:chal, rus:шаль (šal), fas: شال (šâl), hin:शाल (śāl), ben:শাল (śal), ara: شَال‎ (šāl), may:syal, tur:şal, jpn:ショール (shōru), kor:숄 (syol)
+PWN:scarf.n.01		shal	shal	eng:shawl, deu:Schal, fra:châle, por:xaile, spa:chal, rus:шаль (šal), fas: شال (šâl), hin:शाल (śāl), ben:শাল (śal), ara: شَال‎ (šāl), may:syal, tur:şal, jpn:ショール (shōru), kor:숄 (syol)
 PWN:scatter.v.03		dispar	dis.par
 PWN:scientific.a.01		lojiatik	loj·ia·tik
 PWN:scissors.n.01		makas	makas	ara: مَقَص‎ (maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí, ful:almakaci
@@ -1607,8 +1750,10 @@ PWN:seed.n.02		sem	sem	fra:semence, por:semente, spa:semilla, rus:семя (semy
 PWN:selenium.n.01		selenium	selen·ium	eng:selenium, fra:sélénium, spa:selenio, por:selénio, rus:селен, zho:硒 (xī), jpn:セレン, kor:셀렌, vie:selen, hin:सेलेनियम, ben:সেলেনিয়াম, may:selenium, swa:seleni, ara: سيلينيوم
 PWN:semaphore.n.01		semafer	sema·fer
 PWN:send.v.01		mis	mis	eng:emit, fra:émettre, spa:por:remitir, may:emisi, deu:Mission, rus:миссия (missiya), tur:misyon + hin:कमीशन (kamīśan), ben:কমিশন (kômiśôn)
+PWN:separate.v.02		dezunifa	dez.un·ifa
+PWN:separate.v.02		farke	fark’e	ara: فَرْق‎ (farq), fas: فرق (farq), hin:फ़र्क़ (farq), ben:ফারাক (pharak), swa:faraka, tur:fark
 PWN:sepia.n.02		sepia	sepia	eng:spa:map:sepia, por:sépia, rus:се́пия (sépija), tur:sepya, hin:सीपिया (sīpiya), jpn:セピア (sepia)
-PWN:september.n.01		mes nain	mes nain
+PWN:september.n.01		mes nau	mes nau
 PWN:series.n.01		seria	ser·ia
 PWN:servant.n.01		server	serv·er
 PWN:serve.v.01		funte	funt'e
@@ -1616,9 +1761,9 @@ PWN:serve.v.05		serve	serv'e
 PWN:serve.v.10		serve	serv'e	eng:fra:service, deu:Service, por:serviço, rus:сервис (servis), fas: سرویس‎ (servis), tur:servis, kor:서비스 (seobiseu), ful:sarwiis + hin:सेवा (sevâ), ben:সেবা  (seba), khm:សេវា (seevaa)
 PWN:sesame.n.01		sesam	sesam	eng:sesame, deu:Sesam, fra:sésame, spa:por:sésamo, rus:сезам (sezam), ara: سمسم (simsim), swa:simsim, tur:susam, may:sesam
 PWN:set.n.05		banda	banda	zho:班 (bān), yue:班 (baan1), vie:ban, kor:반 (ban) + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)
-PWN:seven.s.01		chet	chet	fra:sept, spa:siete, por:sete, hin:सात (sāt), ben:সাত (sat)
+PWN:seven.s.01		cet	cet	eng:seven, deu:sieben, fra:sept, spa:siete, por:sete, hin:सात (sāt), ben:সাত (sat)
 PWN:sex.n.02		sexal jen	sex·al jen
-PWN:sexual_activity.n.01		sexe	sex’e	eng:sex, deu:Sex, fra:sexe, spa:por:sexo, rus:секс (seks), fas: سکس (seks), hin:सेक्स (seks), সেক্স (bn) (śekśo), may:tur:seks, ara: سكس (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)
+PWN:sexual_activity.n.01		sexe	sex'e	eng:sex, deu:Sex, fra:sexe, spa:por:sexo, rus:секс (seks), fas: سکس (seks), hin:सेक्स (seks), সেক্স (bn) (śekśo), may:tur:seks, ara: سكس (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)
 PWN:sexual_desire.n.01		kama	kama
 PWN:shadow.n.01		saya	saya	fas: سایه‎ (sāye), hin:साया (sāyā); छाया (chāyā), ben:ছায়া (chaya), tur:saye, tha:ฉายา (chāyā), mya:ဆာယာ (sʰaya)
 PWN:shaman.n.01		shaman	shaman	eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)
@@ -1642,18 +1787,19 @@ PWN:shrink.v.03		dekres	de.kres
 PWN:shrub.n.01		arbul	arb·ul
 PWN:shudder.v.02		hor	hor	eng:spa:por:horror, fra:horreur, jpn:ホラー (horā), kor:호러 (horeo)
 PWN:sibling.n.01		sib	sib	eng:sibling, rus:сиблинг (sibling)
+PWN:sift.v.02		filte	filt’e	eng:filter, deu:Filter, spa:por:filtro, fra:tur:filtre, rus:фильтр (filʹtr), fas: فیلتر (’filter), hin:फ़िल्टर (filṭar), ben:ফিল্টার (philṭar), jpn:フィルター (firutā), kor:필터 (pilteo)
 PWN:sign.v.01		kitab nim	kitab nim
-PWN:sign_language.n.01		ishara bash	ishara bash
+PWN:sign_language.n.01		ishara bashe	ishara bash’e
 PWN:signature.n.01		nim kitab	nim kitab
 PWN:silicon.n.01		silike	silik'e	eng:silicon, fra:silicium, spa:silicio, por:silício, vie:silic, hin:सिलिकॉन, ben:সিলিকন, may:silikon, swa:silikoni, hau:siliki, ara: سيلكون (silikōn)
-PWN:silk.n.01		sir	sir	zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), kor:사 (sa), eng:silk, spa:por:sirgo, rus:шёлк (sholk)
+PWN:silk.n.01		sil	sil	zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), kor:사 (sa) + eng:silk, spa:por:sérico, rus:шёлк (sholk)
 PWN:silver.n.01		argente	argent'e	por:ita:argento, fra:argent, may:argentum, swa:agenti
 PWN:similar.a.01		simik	sim·ik
 PWN:simple.a.01		simple	sim·pl'e
 PWN:sing.v.02		gante	gant'e	spa:por:cantar, ara: غَنَّى‎ (ḡannā), hin:गाना (gānā), ben:গান (gan), zho:歌 (gē), yue:歌 (go1), jpn:歌 (ka), kor:가 (ga), vie:ca
 PWN:sister.n.01		sis	sis	eng:sister, deu:Schwester, rus:сестра (sestra)
-PWN:sit.v.01		side	sid’e
-PWN:six.s.01		luk	luk
+PWN:sit.v.01		side	sid'e
+PWN:six.s.01		sixe	six'e	eng:fra:six, deu:sechs, spa:por:seis + ara: سِتَّة‎ (sitta), hau:shida, swa:sita
 PWN:size.n.01		daita	dai·ta
 PWN:ski.n.01		ski	ski	eng:fra:ski, deu:Ski, spa:esquí, por:esqui, hin:स्की (skī), ben:স্কী (ski), jpn:スキー (sukī), kor:스키 (seuki)
 PWN:skill.n.01		sut	sut	zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul), vie:thuật
@@ -1681,7 +1827,6 @@ PWN:sofa.n.01		sofa	sofa	eng:deu:fra:sofa, spa:por:sofá, rus:софа (sofa), z
 PWN:soil.n.02		darte	dart'e	eng:dirt, hin:धरती (dhartī), urd: دھرتی‎ (dhartī), may:darat, vie:đất
 PWN:solar_energy.n.01		sor energia	sor energ·ia
 PWN:solar_system.n.01		sor sistem	sor sistem
-PWN:some.a.01		som monta	som monta
 PWN:song.n.01		gante	gant'e
 PWN:sonic.s.02		sonik	son·ik
 PWN:sound.n.01		son	son	zho:声 (shēng), yue:聲 (seng1), wuu:声 (sən), jpn:声 (sei), kor:성 (seong) + fra:son, spa:son; sonido, por:som
@@ -1712,7 +1857,7 @@ PWN:starship.n.01		kosmonau	kosm·o·nau
 PWN:state.n.02		hal	hal	ara:حال (ḥāl), hin:हालत (hālat), swa:hau:hali, ful:haala; alhaali, tur:hâl
 PWN:state.n.04		gogia	gog·ia	zho:国家 (guójiā), yue:國家 (gwok3 gaa1), jpn:国 (koku); 国家 (kokka), kor:국가 (gukga), vie:quốc gia
 PWN:state.v.01		dit	dit	eng:diction, fra:dire, por:dizer, spa:decir
-PWN:state.v.01		log	log	ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log) + ara: لُغَة‎ (luğa), fas: لغت‎ (loğat), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat
+PWN:state.v.01		loge	log’e	ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log) + ara: لُغَة‎ (luğa), fas: لغت‎ (loğat), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat
 PWN:static.s.03		statik	sta·tik
 PWN:steam.n.01		vapur	vap·ur	eng:vapor, fra:vapeur, spa:por:vapor + (vaper) tur:vapur, ara: بابور‎ (bābōr), hau:babur
 PWN:stereophonic.s.01		dufonik	du·fon·ik
@@ -1751,13 +1896,15 @@ PWN:sum.n.02		suma	suma
 PWN:sun.n.01		sor	sor	fra:soleil, spa:por:sol, fas: خورشید (xor-šid), hin:सूर्य (sūrya), ben:সূর্য (śurjo), tam:சூரியன் (sūriyaṉ), may:suria, khm:សុរិយ (suriya)
 PWN:sun.n.01	fig.	taiyang	tai·yang
 PWN:sunflower.n.01		sor hua	sor hua
+PWN:sunnah.n.01		slamistik suna	slam·ist·ik suna
 PWN:surname.n.01		famil nim	famil nim
+PWN:surrender.v.01		taslam	ta.slam
 PWN:sushi.n.01		sushi	sushi	jpn:寿司 (sushi), zho:寿司 (shòusī), yue:壽司 (sau6si1), kor:스시 (seusi), deu:eng:fra:spa:por:sushi, rus:суши (sushi), fas: سوشی‎ (suši), hin:सुशी (suśī), ben:সুশি (śuśi), tur:suşi, ara: سُوشِي‎ (sūšī)
 PWN:sustain.v.04		subtene	sub.ten'e
 PWN:swear.v.03		vod	vod
 PWN:sweet.n.03		halva	halva	ara: حَلْوَى (ḥalwā), hau:alawa, swa:halua, may:halwa, fas: حلوا‎ (halvâ), hin:हलवा (halvā), ben:হালুয়া (halua), tur:helva, eng:fra:spa:por:halva, deu:Halwa, rus:халва (halva), jpn:ハルヴァ (haruva), kor:할와 (harwa), zho:哈尔瓦 (hā'ěrwǎ)
 PWN:sweet_potato.n.02		batata	batata	spa:por:eng:batata, fra:patate, deu:Batate, rus:батат (batat), ara: بَطَاطَا (baṭāṭā)
-PWN:sword.n.01		giem	giem	zho:剑 (jiàn), yue:劍 (gim3), jpn:剣 (ken), kor:검 (geom), vie:gươm; kiếm
+PWN:sword.n.01		gem	gem	zho:剑 (jiàn), yue:劍 (gim3), jpn:剣 (ken), kor:검 (geom), vie:gươm; kiếm
 PWN:symmetry.n.01		simmetria	sim.metr·ia
 PWN:sympathy.n.02		simpatia	sim.pat·ia
 PWN:synonym.n.01		sinonim	sin·o·nim
@@ -1769,9 +1916,7 @@ PWN:t'ai_chi.n.01		tai gik kuen	tai·gik·kuen
 PWN:table.n.02		meza	meza	por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa
 PWN:table_knife.n.01		can dau	can dau
 PWN:tae_kwon_do.n.01		taikuendao	tai·kuen·dao
-PWN:take.v.04		tek	tek	eng:take
-PWN:talk.v.01		tok	tok	eng:talk, pcm:tok
-PWN:tall.a.01		gau	gau	zho:高 (gāo), yue:高 (gou1), wuu:高 (kau1), jpn:高 (kō), kor:고 (go), vie:cao
+PWN:tall.a.01		gao	gao	zho:高 (gāo), yue:高 (gou1), wuu:高 (kau1), jpn:高 (kō), kor:고 (go), vie:cao
 PWN:tampon.n.01		tapon	tap·on
 PWN:tank.n.01		tanke	tank'e	eng:tank, spa:por:tanque, rus:танк (tank), fas: تانْک (tânk), hin:टैंक (ṭaiṅk), ben:ট্যাংক (ṭêṅko), zho:坦克车 (tǎnkèchē), kor:탱크 (taengkeu), tur:may:tank
 PWN:tantalum.n.01		tantalium	tantal·ium	eng:tantalum, fra:tantale, spa:tántalo, por:tântalo, rus:тантал, zho:钽 (tǎn), jpn:タンタル, kor:탄탈, vie:tantali, hin:टाण्टलम, ben:ট্যান্টালাম, may:tantalum, swa:tantali, ara: تنتالم
@@ -1820,7 +1965,7 @@ PWN:therefore.r.01		ze sabab di da	ze sabab di da
 PWN:thermometer.n.01		termometrer	term·o·metr·er
 PWN:thesis.n.01		tes	tes	eng:thesis, deu:These, fra:thèse, spa:tesis, por:tese, rus:тезис (tezis), fas: تز‎ (tez), tur:tez, jpn:テーゼ (tēze), kor:테제 (teje)
 PWN:thin.a.01		tenu	tenu	eng:tenuous, fra:ténu, por:tênue, spa:tenue, deu:dünn, rus:тонкий (tonkii), fas: تنک (tonok), san:तनु (tanu)
-PWN:thing.n.09		shi	shi	ara: شَيْء‎ (šayʾ), fas: شیء • (šey'), tur:şey + zho:事 (shì), yue:事 (si6), vie:sự
+PWN:thing.n.09		she	she
 PWN:think.v.11		fikre	fikr'e	ara: فِكْر (fikr), swa:fikiri, tur:fikir, fas: فکر‎ (fekr), hin:फ़िक्र (fikr), ben:ফিকির (fikir), may:pikir
 PWN:thorium.n.01		torium	tor·ium	eng:thorium, fra:thorium, spa:torio, por:tório, rus:торий, zho:钍 (tǔ), jpn:トリウム, kor:토륨, vie:thori, hin:थोरियम, ben:থোরিয়াম, may:torium, swa:thori, ara: ثوريوم
 PWN:thousand.s.01		kilo	kilo	eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)
@@ -1839,8 +1984,8 @@ PWN:timeline.n.01		kronline	kron·lin'e
 PWN:tin.n.01		stanium	stan·ium	spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin, swa:stani
 PWN:titanium.n.01		titanium	titan·ium	eng:titanium, fra:titane, spa:titanio, por:titânio, rus:титан, zho:钛 (tài), jpn:チタン, kor:타이타늄, vie:titan, hin:टाइटानियम, ben:টাইটেনিয়াম, may:titanium, swa:titani, ara: تيتانيوم
 PWN:tobacco.n.01		tabak	tabak	deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, ara:تَبْغ‎ (tabḡ), fas:تنباکو‎ (tanbâku), tur:tömbeki, hin:तंबाकू (tambākū), ben:তামাকু (tāmāku), may:tembakau, swa:mtubaku, hau:taba
-PWN:today.r.02		nundin	nun·din
-PWN:together.r.01		en sim	en sim
+PWN:today.r.02		nundien	nun·dien
+PWN:together.r.01		a sim	a sim
 PWN:tomato.n.01		tomat	tomat	eng:tomato, por:spa:tomate, deu:Tomate, rus:томат (tomat), tur:domates, ful:tamatere, hau:tumatiri, may:tomat, hin:टमाटर (ṭamāṭar), ben:টম্যাটো (ṭamyāṭo), jpn:トマト (tomato), kor:토마토 (tomato)
 PWN:tomograph.n.01		tomografe	tom·o·graf'e
 PWN:tomorrow.r.01		posdin	pos.din
@@ -1856,10 +2001,12 @@ PWN:touch.v.05		kontakte	kon.takt'e
 PWN:towel.n.01		tual	tual	eng:towel, fra:touaille, spa:toalla, por:toalha, jpn:タオル (taoru), kor:타월 (tawol), hin:तौलिया (tauliyā), ben:তোয়ালে (toẏale), tam:துவாலை (tuvālai), may:tuala + deu:Toilette, rus:туалет (tualet), ara: تْوَالِيتّ‎ (twālitt), fas: توالت‎ (tuâlet), vie:toa-lét, tur:tuvalet
 PWN:town.n.01		pol	pol	eng:spa:-polis, deu:fra:por:-pole, rus:-поль (-pol'), may:tur:-pol
 PWN:toxin.n.01		biotoxe	bio·tox'e
+PWN:track.n.09		rel	rel	eng:fra:rail, spa:raíl, fas: ریل (reyl), hin:रेल (rel), ben:রেল (rel), tam:இரயில் (irayil),  jpn:レール (rēru), kor:레일 (reil), vie:đường ray, swa:reli, hau:reluwe
 PWN:tractor.n.01		traktor	trakt·or
 PWN:tragic.s.01		tragik	trag·ik	eng:tragic, fra:tragique, spa:por:trágico, rus:трагический (tragičeskij)
+PWN:train.n.01		relgar	rel·gar
 PWN:train.n.01		tren	tren	eng:fra:train, spa:tur:tren, por:trem, fas: ترن‎ (tran), hin:ट्रेन (ṭren), ben:ট্রেন (ṭren), swa:treni
-PWN:translate.v.01		trabash	tra.bash
+PWN:translate.v.01		trabashe	tra.bash’e
 PWN:transport.v.02		porta	porta	fra:porter, spa:por:portar, eng:(trans)port, deu:-portieren, rus:-портация (-portaciya) + hin:रिपोर्ट (riporṭ), hau:rahoto, swa:ripoti, tur:rapor, jpn:レポート (repōto)
 PWN:transport.v.02		traporta	tra.porta
 PWN:traumatic.a.01		traumatik	trauma·tik
@@ -1883,15 +2030,20 @@ PWN:twice.r.01		du tem	du tem
 PWN:twirl.v.01		turbe	turb'e	eng:disturb, fra:perturber, spa:por:perturbar + rus:турбина (turbina), jpn:タービン (tābin), kor:터빈 (teobin)
 PWN:two.s.01		du	du	fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui), may:dua, kor:둘 (dul), zho:對 (duì) ∗, yue:對 (deoi3) ∗, vie:đôi ∗
 PWN:type.n.01		tip	tip	eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)
-PWN:ugly.a.01		dussuratik 	dus.sura·tik 
+PWN:typology.n.01		tipolojia	tip·o·loj·ia
+PWN:ugly.a.01		dusfenik	dus.fen·ik
 PWN:unable.a.01		impoten	im.pot·en
 PWN:unable.s.02		impoten	im.pot·en
 PWN:uncork.v.02		detape	de.tap'e
 PWN:undergo.v.01		ben	ben
 PWN:understand.v.02		aha	aha
 PWN:unequal.a.01		impar	im.par
+PWN:uniformity.n.02		uneformita	un·e.form·ita
 PWN:union.n.04		unia	un·ia
 PWN:unit.n.02		unaje	un·aj'e
+PWN:unitarianism.n.01		unitalisme	un·ita·l·ism'e
+PWN:unitary.a.01		unital	un·ita·l
+PWN:unite.v.06		unifa	un·ifa
 PWN:universe.n.01		uneversia	un·e·vers·ia
 PWN:unpack.v.01		depake	de.pak'e
 PWN:unpopular.a.01		impopulik	impop·ul·ik
@@ -1903,7 +2055,7 @@ PWN:ununquadium.n.01		flerovium	flerov·ium	eng:may:flerovium, fra:flérovium, s
 PWN:ununtrium.n.01		niponium	nipon·ium	eng:fra:may:nihonium, spa:nihonio, por:nihonium, rus:нихоний, jpn:ニホニウム, kor:우눈트륨, vie:swa:nihoni
 PWN:unwind.v.01		devolu	de.volu
 PWN:update.v.02		novifa	nov·ifa
-PWN:upload.v.01		kargo	kargo
+PWN:upload.v.01		akarga	a.karga
 PWN:uranium.n.01		uranium	uran·ium	eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم
 PWN:urban.a.01		polik	pol·ik
 PWN:urine.n.01		pisha	pisha	eng:piss, deu:Pisse, fra:pisse, fas:پیشاب (pišâb), hin:पेशाब (pešāb), ben:পেশাব (peśab), may:pipis
@@ -1934,7 +2086,7 @@ PWN:washup.n.01		hamam	hamam	ara: حمام (ḥammām), tur:hamam, fas: حمام
 PWN:water.n.06		sui	sui	zho:水 (shuǐ), yue:水 (seoi2), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su
 PWN:watermelon.n.01		arbuz	arbuz	rus:арбуз (arbuz), pol:arbuz, tur:karpuz, fas: تربز (tarboz), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj), tam:தர்பூசணி (tarpūcaṇi)
 PWN:wax.n.01		mum	mum	hin:मोम (mom), ben:মোম (mom), fas: موم‎ (mum), tur:mum + ara: مومياء (mumiya), eng:mummy, fra:momie, spa:momia, por:múmia, rus:мумия (mumiya), zho:木乃伊 (mùnǎiyī), may:mumia
-PWN:way.n.06		vei	vei
+PWN:way.n.06		dao	dao
 PWN:web.n.01		net	net
 PWN:web_log.n.01		blog	blog	eng:fra:spa:por:tur:may:blog, rus:блог (blog), ara:بلوغ‎ (blūḡ), hin:ब्लॉग (blŏg), zho:博客 (bókè), jpn:ブログ (burogu)
 PWN:west.n.02		veste	vest'e	eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)
@@ -1943,9 +2095,11 @@ PWN:whale.n.02		valen	valen	eng:whale, deu:Wal, fas: وال‎ (vâl), hin:व�
 PWN:wheat.n.01		gandum	gandum	fas:گندم‎(gandom), hin:गोधूम (godhūm), ben:গম (gom), tam:கோதுமை (kōtumai), tel:గోధుమ (gōdhuma), may:gandum, swa:ngano
 PWN:whiskey.n.01		viski	viski
 PWN:white.a.01		vait	vait	eng:white, deu:weiß
-PWN:whole.a.01		hol	hol	eng:whole; all; holo-, deu:fra:spa:por:holo-, rus:голо- (golo-); хол- (hol-), jpn:ホログ- (holo-), kor:홀로- (hollo-) + ara: كُلّ‎ (kull), fas: کل (koll), ben: কুল (kul)
+PWN:whole.a.01		hol	hol	eng:whole; all; holo-, deu:fra:spa:por:holo-, rus:голо- (golo-); хол- (hol-), jpn:ホログ- (holo-), kor:홀로- (hollo-) + ara: كُلّ‎ (kull), fas: کل (koll)
 PWN:wide.a.01		chaure	chaur'e	hin:चौड़ा  (cauṛā), ben:, pan:চওড়া (coōṛa), ਚੌੜਾ (cauṛā)
 PWN:width.n.01		chaurita	chaur·ita
+PWN:will.n.02		icha	icha	hin:इच्छा (icchā), ben:ইচ্ছা (iccha), tam:இச்சை (iccai) + zho:意志 (yìzhì), jpn:意志 (ishi), kor:의지 (uiji), vie:ý chí
+PWN:will.v.02		icha	icha
 PWN:wind.n.01		vante	vant'e	eng:wind, deu:Wind, fra:vent, spa:viento, por:vento, rus:ветер (veter), fas: باد (bâd), hin:वात (vāt), ben:বাতাস (bataś), tam:(vāṭai), tel:వాతము (vātamu), may:badai✱
 PWN:wind.v.03		volu	volu
 PWN:wine.n.01		vain	vain	fra:vin, spa:vino, por:vinho, rus:вино (vino), eng:wine, deu:Wein, hin:वाइन (vāin), tam:வைன் (vaiṉ), may:wain, swa:divai, jpn:ワイン (wain), kor:와인 (wain), vie:vang
@@ -1973,13 +2127,13 @@ PWN:yak.n.02		yak	yak	tib:གཡག (g-yag), eng:deu:fra:spa:tur:yak, por:iaque,
 PWN:yang.n.01		yang	yang	zho:阳 (yáng), yue:陽 (joeng4), jpn:陽 (yō), kor:양 (yang), vie:dương, eng:deu:fra:spa:por:yang, rus:ян (yan)
 PWN:year.n.01		nen	nen	zho:年 (nián), yue:年 (nin4), jpn:年 (nen), kor:년 (nyeon), vie:năm; niên
 PWN:yeast.n.01		hamir	hamir	ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, swa:hamira, fas:(moxammer), + kor:효모 (hyomo)
-PWN:yellow.s.01		yel	yel	eng:yellow, deu:gelb, rus:желтый (želtyy)
+PWN:yellow.s.01		safre	safr'e	araأصفر (aṣfar) + tur:sarı + eng:saffron, fra:safran, spa:azafrán, por:açafrão, rus:шафра́ный (šafrannyi)
 PWN:yesterday.r.01		predin	pre.din
 PWN:yin.n.01		yim	yim	zho:阴 (yīn), yue:陰 (jam1), jpn:陰 (in), kor:음 (eum), vie:âm, eng:deu:fra:spa:por:yin, rus:инь (in')
 PWN:yoga.n.02		yoga	yoga	hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:fra:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)
 PWN:yogurt.n.01		yogurte	yogurt'e
 PWN:young.a.01		jun	jun	eng:fra:may:junior + spa:joven, por:jovem, fas: جوان‎ (javân), hin:जवान (javān) + kor:젊다 (jeomda)
-PWN:youth.n.05		jun nen	jun nen
+PWN:youth.n.05		jun nien	jun nien
 PWN:youth.n.05		junes	jun·es
 PWN:ytterbium.n.01		yuterbium	yuterb·ium	eng:ytterbium, fra:ytterbium, spa:iterbio, por:itérbio, rus:иттербий, zho:镱 (yì), jpn:イッテルビウム, kor:이테르븀, vie:ytecbi, hin:यिट्टरबियम, ben:ইটারবিয়াম, may:iterbium, swa:yitebi, ara: يتربيوم
 PWN:yttrium.n.01		yutrium	yutr·ium	eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم

@@ -9,6 +9,7 @@ PLX:2SG.pro		أنت	anti
 PLX:3PL.pro		هم	hum
 PLX:3PL.pro		هن	hunːa
 PLX:3SG M.pro		هو	huwa
+PLX:God willing.phr		إِنْ شَاءَ ٱللّٰهُ
 PLX:after.pp		بعد
 PLX:and.cnj		و	wa
 PLX:because of.pp		بسبب	bisabab
@@ -30,8 +31,11 @@ PLX:how many.pro		كم	kam
 PLX:how.pro		كيف	kaifa
 PLX:if.cnj		إن
 PLX:in front of.pp		أمام	amaːma
+PLX:in the name of God.phr		بِسْمِ ٱللّٰهِ
 PLX:or.cnj		أو	aw
+PLX:praise be to God.phr		اَلْحَمْدُ لِلّٰهِ
 PLX:tennessine.n		ٲنون سيبتيوم
+PLX:thank God.phr		الشُّكْرُ لِلّٰهِ
 PLX:thanks.int		شُكْرًا
 PLX:that.pro		ذلك	ðaːlika
 PLX:this.pro		هذا	haːðaː
@@ -1225,6 +1229,14 @@ PWN:analyze.v.01		فحص
 PWN:analyze.v.01		فحص بدقة
 PWN:analyze.v.01		ناقش
 PWN:ananas.n.01		أناناس
+PWN:anarchist.n.01		ثائِر على السُلْطة
+PWN:anarchist.n.01		فوْضوِيّ
+PWN:anarchist.n.01		نصِير الفوْضى
+PWN:anarchy.n.01		جُمُوح
+PWN:anarchy.n.01		عدم شرْعِيّة
+PWN:anarchy.n.01		فوْضوِيّة
+PWN:anarchy.n.01		فوْضى
+PWN:anarchy.n.01		فَوْضَوِيَّة
 PWN:ancestor.n.01		أسْلاف
 PWN:ancestor.n.01		جدّ
 PWN:ancestor.n.01		سلف
@@ -3371,6 +3383,9 @@ PWN:call.v.05		طلب لِلْحُضُور
 PWN:call.v.05		نادى	naːdaː
 PWN:call.v.07		اِسْتدْعى
 PWN:call.v.07		دعا
+PWN:call.v.25		دعا
+PWN:call.v.25		صاح
+PWN:call.v.25		نادى
 PWN:caller.n.01		زَائِر
 PWN:caller.n.01		ضيْف
 PWN:caller.n.01		منْدُوب
@@ -3620,6 +3635,7 @@ PWN:catch.v.14		أَلْقَى السَّمْع
 PWN:catch.v.14		اِسْترق السّمْع
 PWN:catch.v.14		اِسْتَرَقَ السَّمْع
 PWN:catch.v.14		سمع مصادفة
+PWN:catch.v.18		أدْرك
 PWN:catch.v.27		أمْسك
 PWN:catch.v.27		مسك
 PWN:catcher.n.01		الماسِك
@@ -6247,6 +6263,9 @@ PWN:custom.n.01		تقليد
 PWN:custom.n.01		تقْلِيد
 PWN:custom.n.01		عادة
 PWN:custom.n.01		عُرْف
+PWN:custom.n.02		تقْلِيد
+PWN:custom.n.02		عادة
+PWN:custom.n.02		عُرْف
 PWN:cut.n.01		حِصّة
 PWN:cut.n.01		قِطْعة
 PWN:cut.n.06		لحْمة
@@ -7078,6 +7097,8 @@ PWN:devolve.v.03		نحل
 PWN:devolve.v.03		نزل
 PWN:devolve.v.03		هبط النهر
 PWN:devolve.v.03		وقع
+PWN:diagnostic.a.01		تشْخِيْصِي
+PWN:diamond.n.02		الْماس
 PWN:dictate.v.02		أمْلى على
 PWN:die.n.01		زَهْر اَلطَّاوِلَة
 PWN:die.n.01		نرْد
@@ -8044,6 +8065,31 @@ PWN:dress.v.01		لبِس
 PWN:dress.v.01		مشط
 PWN:dress.v.01		هيأ
 PWN:drill.n.01		مِثْقاب
+PWN:drill.v.03		أبدى
+PWN:drill.v.03		أدى الشعائر الدينية
+PWN:drill.v.03		أدى تمارين
+PWN:drill.v.03		إستغل كذا
+PWN:drill.v.03		استخدم
+PWN:drill.v.03		تدرب
+PWN:drill.v.03		تعاطى
+PWN:drill.v.03		تمرن
+PWN:drill.v.03		تمرّن
+PWN:drill.v.03		ثقب
+PWN:drill.v.03		حفر
+PWN:drill.v.03		درب
+PWN:drill.v.03		رياضة
+PWN:drill.v.03		زاول
+PWN:drill.v.03		زرع في ثلم
+PWN:drill.v.03		طبق
+PWN:drill.v.03		طبق عمليا
+PWN:drill.v.03		ظهر
+PWN:drill.v.03		علم
+PWN:drill.v.03		مارس
+PWN:drill.v.03		مارس المهنة
+PWN:drill.v.03		نثر
+PWN:drill.v.03		نغب
+PWN:drill.v.03		نفذ
+PWN:drill.v.03		نقل المعارف
 PWN:drink.n.01		مشْرُوب
 PWN:drink.v.01		أنفق على الشراب
 PWN:drink.v.01		استوعب
@@ -9064,6 +9110,9 @@ PWN:excavate.v.04		حفر
 PWN:excavate.v.04		نقّب
 PWN:excavation.n.03		حفْر
 PWN:excavation.n.03		حُفْرة في الأرْض
+PWN:exception.n.01		اِستِثْناء
+PWN:exception.n.01		اِسْتِبْعاد
+PWN:exception.n.01		حذْف
 PWN:exception.n.02		اِسْتِثْناء
 PWN:exchange.n.03		تبادُل
 PWN:exchange.n.06		بُورصة
@@ -9092,6 +9141,8 @@ PWN:exercise.n.01		تمْرِيْن
 PWN:exercise.n.01		تمْرِيْن رِياضِي
 PWN:exercise.n.03		تدْرِيْب
 PWN:exercise.n.03		تمْرِيْن
+PWN:exercise.v.03		درّب
+PWN:exercise.v.03		شغّل
 PWN:exercise.v.04		تدرّب
 PWN:exercise.v.04		تريّض
 PWN:exercise.v.04		تمرّن
@@ -9909,6 +9960,7 @@ PWN:first.n.01		أوّل
 PWN:first.n.01		الأوّل
 PWN:first.n.01		رقْم واحِد
 PWN:first.r.02		أولا	awalaan
+PWN:fiscal.a.01		مالِيّ
 PWN:fish.n.01		سمك	samak
 PWN:fish.n.01		سمكة
 PWN:fish.v.02		اصطاد	isˤtˤaːda
@@ -10301,6 +10353,7 @@ PWN:form.v.02		ألّف
 PWN:form.v.02		شكل
 PWN:form.v.02		شكّل
 PWN:form.v.02		عين
+PWN:formal.a.01		رسْمِي
 PWN:formation.n.01		تَشْكِيل
 PWN:formation.n.01		تَشْكِيلَة
 PWN:formulation.n.01		صِيغة
@@ -12620,6 +12673,8 @@ PWN:instrumentality.n.03		أَدَوَات مَصْنُوعَة
 PWN:instrumentality.n.03		مصْنُوعات
 PWN:insult.n.02		اِهانة
 PWN:insult.n.02		تحْقِير
+PWN:insurgent.n.01		ثَائِر
+PWN:insurgent.n.01		مُتَمَرِّد
 PWN:intellectual.n.01		ألْمعِي
 PWN:intellectual.n.01		مُثقّف
 PWN:intellectual.n.01		مُفكِّر
@@ -12871,6 +12926,7 @@ PWN:island.n.01		جزيرة	d͡ʒaziːra
 PWN:island.n.01		جزِيرة
 PWN:island.n.01		جَزِيرَة‎
 PWN:island.n.02		جزِيرة
+PWN:isotope.n.01		نظِير
 PWN:issue.n.01		شأن
 PWN:issue.n.01		قضِيّة
 PWN:issue.n.01		مسْألة
@@ -14854,6 +14910,8 @@ PWN:mend.v.02		شُفِي
 PWN:mend.v.02		عالج
 PWN:mend.v.02		ندِب
 PWN:mendelevium.n.01		مندلفيوم
+PWN:mental.a.02		ذِهْنِيّ
+PWN:mental.a.02		عقْلِيّ
 PWN:mental_health.n.01		صِحّة عقْلِيّة
 PWN:mental_illness.n.01		مرض عقْلِي
 PWN:mentality.n.01		عقْلِيّة
@@ -14962,6 +15020,7 @@ PWN:minister.n.02		قس
 PWN:minister.n.02		وَزِير
 PWN:ministry.n.02		وَزَارَة
 PWN:ministry.n.02		وِزَارَة
+PWN:ministry.n.03		وَزَارَة
 PWN:mint.n.02		نَعْنَاع‎
 PWN:minute.n.01		دقِيقة
 PWN:miracle.n.01		مُعْجِزة
@@ -15879,6 +15938,7 @@ PWN:orderliness.n.02		نِظام
 PWN:organ.n.01		عُضْو
 PWN:organ.n.02		جِهاز
 PWN:organ.n.02		عُضْو
+PWN:organic.a.01		عُضْوِي
 PWN:organic.n.01		سماد عُضْوِيّ
 PWN:organic_compound.n.01		مُركّب عُضْوِيّ
 PWN:organic_phenomenon.n.01		ظاهِرة عُضْوِيّة
@@ -16709,6 +16769,13 @@ PWN:picture.n.01		صُورة
 PWN:picture.n.01		لوْحة فنِّيّة
 PWN:picture.n.04		صُورة
 PWN:picture.n.04		مشْهد
+PWN:picture.v.02		أظْهر
+PWN:picture.v.02		رسم
+PWN:picture.v.02		صور
+PWN:picture.v.02		صوّر
+PWN:picture.v.02		عرض
+PWN:picture.v.02		مثل
+PWN:picture.v.02		مثّل
 PWN:piece.n.01		قِطْعَة
 PWN:piece.n.08		شرِيحة
 PWN:piece.n.08		قِطْعة
@@ -17035,6 +17102,7 @@ PWN:polonium.n.01		بولونيوم
 PWN:polygon.n.01		شكْل مُضلّع
 PWN:polygon.n.01		مُضلّع
 PWN:polyhedron.n.01		مُتعدِّد السُّطُوح
+PWN:polymer.n.01		بَلْمَرٌ
 PWN:pool.n.01		بِرْكة
 PWN:pool.n.01		حوْض
 PWN:pool.n.06		بركة
@@ -17996,6 +18064,9 @@ PWN:psychological_feature.n.01		عَلامَة نَفْسِيَة
 PWN:psychological_feature.n.01		مِيْزة نفْسِيّة
 PWN:psychological_state.n.01		حالة عقْلِيّة
 PWN:psychological_state.n.01		حالة نفْسِيّة
+PWN:psychologist.n.01		عالِم نفْس
+PWN:psychologist.n.01		عالِم نفْسِي
+PWN:psychologist.n.01		عالِِم نفْسانِي
 PWN:psychology.n.01		عِلْم النفْس
 PWN:psychosis.n.01		اِخْتِلال عقْلِيّ
 PWN:psychosis.n.01		ذُهان
@@ -18358,6 +18429,50 @@ PWN:raise.v.02		نشط
 PWN:raise.v.02		نقل من
 PWN:raise.v.02		نهض
 PWN:raise.v.02		هذب
+PWN:raise.v.07		أثار
+PWN:raise.v.07		أثار الشفقة
+PWN:raise.v.07		أثار قضية
+PWN:raise.v.07		أضرم
+PWN:raise.v.07		أنهض
+PWN:raise.v.07		أيقظ
+PWN:raise.v.07		أيْقظ
+PWN:raise.v.07		إستحضر الأرواح
+PWN:raise.v.07		استحث
+PWN:raise.v.07		استيقظ
+PWN:raise.v.07		اِسْتحْضر
+PWN:raise.v.07		برز
+PWN:raise.v.07		تحرك
+PWN:raise.v.07		جمع
+PWN:raise.v.07		جمع تبرعات
+PWN:raise.v.07		حث
+PWN:raise.v.07		حرض
+PWN:raise.v.07		حرك
+PWN:raise.v.07		حرك الشعور
+PWN:raise.v.07		حرّك
+PWN:raise.v.07		خمر
+PWN:raise.v.07		رب
+PWN:raise.v.07		ربى
+PWN:raise.v.07		ربى الماشية
+PWN:raise.v.07		رفع
+PWN:raise.v.07		رفع الستارة
+PWN:raise.v.07		رفع الكأس لإحد
+PWN:raise.v.07		رفع لأعلى
+PWN:raise.v.07		رفع معنوياته
+PWN:raise.v.07		رقى
+PWN:raise.v.07		زاد المبلغ المراهن عليه
+PWN:raise.v.07		زور شيكا
+PWN:raise.v.07		سحر
+PWN:raise.v.07		سعل مخرجا البلغم
+PWN:raise.v.07		شال
+PWN:raise.v.07		شعوذ
+PWN:raise.v.07		شيد
+PWN:raise.v.07		ضحك
+PWN:raise.v.07		مارس السحر
+PWN:raise.v.07		مزج بالتحريك
+PWN:raise.v.07		ناشد
+PWN:raise.v.07		نهض
+PWN:raise.v.07		هز
+PWN:raise.v.07		هيّج
 PWN:raise.v.19		جلب
 PWN:raise.v.19		طرح
 PWN:raise.v.19		عرض
@@ -18639,6 +18754,10 @@ PWN:reception.n.04		تسلُّم
 PWN:recess.n.04		فجْوة
 PWN:recess.n.04		كُوّة
 PWN:recess.n.04		مِشْكاة
+PWN:recipient.n.01		مُتَلَقِّي
+PWN:recipient.n.01		مُسْتَفِيد
+PWN:recipient.n.01		مُسْتَقْبِل
+PWN:recipient.n.01		مُسْتَلِم
 PWN:reciprocality.n.01		التبادُلِيّة
 PWN:reciprocality.n.01		العلاقة المُتبادلة
 PWN:reciprocality.n.01		تبادُل
@@ -18914,6 +19033,7 @@ PWN:reference_book.n.01		كِتاب مَرْجِعِيّ
 PWN:reference_book.n.01		مَرْجِع
 PWN:reflector.n.01		عاكِس
 PWN:reform.n.01		إِصْلاح
+PWN:reformer.n.01		مُصْلِح
 PWN:refund.v.01		أعاد
 PWN:refund.v.01		أعاد المال
 PWN:refund.v.01		أعاد دفْع
@@ -19181,6 +19301,7 @@ PWN:render.v.01		قدم الحساب
 PWN:render.v.01		قدم خدمة
 PWN:render.v.01		قدم مساعدة
 PWN:render.v.01		ملط الطين
+PWN:rent.n.01		إِيجار
 PWN:repair.n.01		إِصْلاح
 PWN:repair.n.01		تصْلِيْح
 PWN:repair.v.01		أحيا
@@ -19302,6 +19423,21 @@ PWN:repositing.n.01		تخْزِين
 PWN:repositing.n.01		خَزْن
 PWN:represent.v.05		مثّل
 PWN:represent.v.05		ناب عن
+PWN:represent.v.09		أعلن
+PWN:represent.v.09		أول الأحلام
+PWN:represent.v.09		احتج
+PWN:represent.v.09		استعرض
+PWN:represent.v.09		ترجم
+PWN:represent.v.09		شرح
+PWN:represent.v.09		صرح
+PWN:represent.v.09		صوّر
+PWN:represent.v.09		فسر
+PWN:represent.v.09		قام بدور المترجم
+PWN:represent.v.09		مثل
+PWN:represent.v.09		مثّل
+PWN:represent.v.09		ناب
+PWN:represent.v.09		نظم مسيرة إحتجاج
+PWN:represent.v.09		وضح
 PWN:representation.n.01		تصوُّر
 PWN:representation.n.02		تصْوِير
 PWN:representation.n.02		تمْثِيل
@@ -22279,6 +22415,8 @@ PWN:solve.v.01		مص
 PWN:solve.v.01		هزم
 PWN:solve.v.01		وجد حلا
 PWN:sometimes.r.01		أحيانا	aħjaːnaan
+PWN:somewhere.n.01		مكان
+PWN:somewhere.r.01		مكان ما
 PWN:son.n.01		إبن	ibn
 PWN:son.n.01		إِبْن
 PWN:son.n.01		وَلَد
@@ -23123,6 +23261,14 @@ PWN:subject.n.01		موْضُوع
 PWN:subject.n.02		موْضُوع
 PWN:subjugation.n.01		إخْضاع
 PWN:subjugation.n.01		خُضُوْع
+PWN:submit.v.03		أذْعن
+PWN:submit.v.03		خاتل
+PWN:submit.v.03		خدع
+PWN:submit.v.03		خَضَعَ
+PWN:submit.v.03		سلّم
+PWN:submit.v.03		ضلل
+PWN:submit.v.03		غش
+PWN:submit.v.03		كذب
 PWN:subsequently.r.01		بعد ذلك	baʕda ðalika
 PWN:subsequently.r.01		ثم	θuma
 PWN:substance.n.01		جوْهر
@@ -24441,6 +24587,9 @@ PWN:train.v.09		روض
 PWN:train.v.09		سافر بالقطار
 PWN:train.v.09		سحب
 PWN:train.v.09		وَجَّه النَبَات
+PWN:trainer.n.01		مُدرِّب
+PWN:trainer.n.01		مُروِّض
+PWN:trainer.n.01		مُمرِّن
 PWN:training.n.01		إِعْداد
 PWN:training.n.01		تأهِيل
 PWN:training.n.01		تدْرِيب
@@ -25192,6 +25341,17 @@ PWN:unite.v.01		ربط
 PWN:unite.v.01		لصق
 PWN:unite.v.01		وحد
 PWN:unite.v.01		وَحَّدَ
+PWN:unite.v.06		التأم
+PWN:unite.v.06		التحم
+PWN:unite.v.06		تألف
+PWN:unite.v.06		تضافر
+PWN:unite.v.06		تعاون
+PWN:unite.v.06		توحد
+PWN:unite.v.06		جمع
+PWN:unite.v.06		ربط
+PWN:unite.v.06		لصق
+PWN:unite.v.06		وحد
+PWN:unite.v.06		وَحَّدَ
 PWN:universe.n.01		الخلْق
 PWN:universe.n.01		الدُنْيا
 PWN:universe.n.01		العالم
@@ -25589,6 +25749,9 @@ PWN:voice.n.02		صوت	sˤɑut
 PWN:voice.n.02		صَوْت
 PWN:volt.n.01		الفُولْت
 PWN:volt.n.01		الفُولْط
+PWN:voluntary.a.01		اِخْتِيارِي
+PWN:voluntary.a.01		تطوُّعِي
+PWN:voluntary.a.01		طوْعِي
 PWN:volunteer.v.02		تطوّع
 PWN:volunteer.v.02		عرض
 PWN:vomit.v.01		يتقيأ
@@ -26016,6 +26179,7 @@ PWN:wife.n.01		زَوْجَة
 PWN:wild.n.01		حالة برِّية
 PWN:wild.n.01		حالة طبِيْعِيّة
 PWN:wild.n.01		حالة وحْشِيّة
+PWN:will.v.02		أراد
 PWN:willow.n.01		صفصاف	sˤɑfsˤɑːf
 PWN:willow.n.01		صَفْصَاف
 PWN:win.v.01		انتصر	intasˤara
