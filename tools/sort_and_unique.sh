@@ -44,3 +44,7 @@ sort_and_uniq() {
 sort_and_uniq dict
 sort_and_uniq concepts
 sort_and_uniq_one_file data/id_map.tsv
+
+sed "s/’/'/g" -i dict/P/pandunia.tsv
+sed "s/’/'/g" -i dict/P/panglo.tsv
+sed "s/’/'/g" -i dict/P/panlingue.tsv
