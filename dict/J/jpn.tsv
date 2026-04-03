@@ -1721,6 +1721,7 @@ PWN:allocate.v.01		宛行う
 PWN:allocate.v.01		振りわける
 PWN:allocate.v.01		振り分ける
 PWN:allocate.v.01		振分ける
+PWN:allopatric.a.01		異所性
 PWN:allotment.n.02		アロケーション
 PWN:allotment.n.02		割り当て
 PWN:allotment.n.02		割り振り
@@ -4450,6 +4451,7 @@ PWN:beloved.s.01		かわいい
 PWN:beloved.s.01		可愛い
 PWN:beloved.s.01		大切
 PWN:beloved.s.01		愛しい
+PWN:belt.n.01		ベルト
 PWN:belt.n.02		サンチュール
 PWN:belt.n.02		バンド
 PWN:belt.n.02		ベルト	beruto	:balteus
@@ -5078,6 +5080,7 @@ PWN:bobbin.n.01		スプール
 PWN:bobbin.n.01		ボビン
 PWN:bobbin.n.01		リール
 PWN:bobbin.n.01		木管
+PWN:bode.v.01		予示+する
 PWN:bodily_process.n.01		ボディプロセス
 PWN:bodily_process.n.01		ボディリィプロセス
 PWN:bodily_process.n.01		生体機能
@@ -14041,6 +14044,12 @@ PWN:document.n.02		書札
 PWN:document.n.02		書案
 PWN:document.n.02		記
 PWN:document.n.02		記文
+PWN:document.v.01		記録+する
+PWN:documentary.n.01		ドキュメンタリ
+PWN:documentary.n.01		ドキュメンタリー
+PWN:documentary.n.01		ドキュメンタリードラマ
+PWN:documentary.n.01		ドキュメンタリー映画
+PWN:documentary.n.01		記録映画
 PWN:dog.n.01		イヌ
 PWN:dog.n.01		ドッグ
 PWN:dog.n.01		洋犬
@@ -15804,6 +15813,10 @@ PWN:euphoria.n.01		ユーフォリア
 PWN:euphoria.n.01		多幸感
 PWN:european.n.01		ヨーロッパ人
 PWN:europium.n.01		ユウロピウム
+PWN:euthanasia.n.01		オイタナシー
+PWN:euthanasia.n.01		ユーサネイジア
+PWN:euthanasia.n.01		ユータナージー
+PWN:euthanasia.n.01		安楽死
 PWN:evaluate.v.02		ジャッジ+する
 PWN:evaluate.v.02		価値づける
 PWN:evaluate.v.02		価値判断+する
@@ -18352,6 +18365,10 @@ PWN:force.n.04		職員
 PWN:forebear.n.01		先祖
 PWN:forebear.n.01		寛恕
 PWN:forebear.n.01		祖
+PWN:foreboding.n.01		胸さわぎ
+PWN:foreboding.n.01		胸騒
+PWN:foreboding.n.01		胸騒ぎ
+PWN:foreboding.n.01		虫の知らせ
 PWN:foreigner.n.01		よそ人
 PWN:foreigner.n.01		他国人
 PWN:foreigner.n.01		他国者
@@ -19268,6 +19285,7 @@ PWN:generous.a.01		太っ腹
 PWN:generous.a.01		太腹
 PWN:generous.a.01		惜しみ無い
 PWN:genitor.n.01		宗家
+PWN:genocide.n.01		ジェノサイド
 PWN:gentle.s.01		軽い
 PWN:gentleman.n.01		お方
 PWN:gentleman.n.01		ジェントルマン
@@ -19477,6 +19495,7 @@ PWN:gift.n.01		贈品
 PWN:gift.n.01		贈物
 PWN:gift.n.01		頂き物
 PWN:gift.n.01		頂戴物
+PWN:giggle.v.01		忍び笑い+する
 PWN:gild.v.01		焼き付ける
 PWN:gill.n.04		エラ
 PWN:gill.n.04		ジル
@@ -20379,6 +20398,7 @@ PWN:guest.n.01		訪客
 PWN:guest.n.01		賓客
 PWN:guest.n.01		過客
 PWN:guest.n.03		客
+PWN:guffaw.n.01		げらげら
 PWN:guide.v.05		走らせる
 PWN:guide.v.05		這わす
 PWN:guilt.n.01		罪を犯していること
@@ -22176,6 +22196,7 @@ PWN:ill.a.01		不健全
 PWN:ill.a.01		不健康
 PWN:ill.a.01		病弱
 PWN:ill.a.01		病気	byōki	cmn:bìngqì
+PWN:illegible.a.01		読みにくい
 PWN:illness.n.01		もの病み
 PWN:illness.n.01		二豎
 PWN:illness.n.01		患
@@ -23155,6 +23176,18 @@ PWN:interpret.v.01		解釈+する
 PWN:interpret.v.01		評釈+する
 PWN:interpret.v.01		通釈+する
 PWN:interpret.v.01		釈する
+PWN:interpreter.n.01		インタプリタ
+PWN:interpreter.n.01		インタープリタ
+PWN:interpreter.n.01		インタープリター
+PWN:interpreter.n.01		舌人
+PWN:interpreter.n.01		通事
+PWN:interpreter.n.01		通弁
+PWN:interpreter.n.01		通訳
+PWN:interpreter.n.01		通訳人
+PWN:interpreter.n.01		通訳者
+PWN:interpreter.n.01		通詞
+PWN:interpreter.n.01		通辞
+PWN:interpreter.n.01		通辯
 PWN:interrogation.n.03		審問
 PWN:interrogation.n.03		尋問
 PWN:interrogation.n.03		尋問調書
@@ -23879,6 +23912,11 @@ PWN:kill.v.01		討取る
 PWN:kill.v.01		討果す
 PWN:kill.v.01		討止める
 PWN:kill.v.10		殺す	korosu
+PWN:killing.n.01		人殺し
+PWN:killing.n.01		変死
+PWN:killing.n.01		殺し
+PWN:killing.n.01		殺人
+PWN:killing.n.01		殺害
 PWN:killing.n.02		せっ生
 PWN:killing.n.02		人殺し
 PWN:killing.n.02		死に至らしめること
@@ -24482,6 +24520,18 @@ PWN:leaf.n.01		葉	ha (2)
 PWN:leaf.n.01		葉っぱ
 PWN:leaf.n.02		一葉
 PWN:leaf.n.02		葉
+PWN:league.n.02		ソサエティ
+PWN:league.n.02		ソサエティー
+PWN:league.n.02		ユニオン
+PWN:league.n.02		リーグ
+PWN:league.n.02		党
+PWN:league.n.02		協会
+PWN:league.n.02		同盟
+PWN:league.n.02		結盟
+PWN:league.n.02		聯合
+PWN:league.n.02		聯盟
+PWN:league.n.02		連合
+PWN:league.n.02		連盟
 PWN:lean.v.01		曲げる
 PWN:leap.n.02		一足飛
 PWN:leap.n.02		一足飛び
@@ -24602,6 +24652,9 @@ PWN:legal_document.n.01		法的文書
 PWN:legality.n.01		合法
 PWN:legality.n.01		合法性
 PWN:legality.n.01		適法
+PWN:legibility.n.02		リードビリティー
+PWN:legibility.n.02		可読性
+PWN:legible.a.01		読みやすい
 PWN:legislation.n.01		制定法
 PWN:legislation.n.01		制法
 PWN:legislation.n.01		成文法
@@ -26556,6 +26609,7 @@ PWN:material.n.04		マテリアル
 PWN:material.n.04		材
 PWN:material.n.04		材料
 PWN:material.n.04		用具
+PWN:maternal.a.01		母性的
 PWN:mathematical_process.n.01		オペ
 PWN:mathematical_process.n.01		オペレーション
 PWN:mathematical_process.n.01		作業
@@ -26571,6 +26625,8 @@ PWN:mathematical_process.n.01		運転
 PWN:mathematical_space.n.01		位相空間
 PWN:mathematical_space.n.01		空間
 PWN:mathematics.n.01		数学
+PWN:matriarchy.n.01		母系制
+PWN:matricide.n.01		尊属殺人
 PWN:matter.n.01		こと
 PWN:matter.n.01		その儀
 PWN:matter.n.01		でき事
@@ -27701,6 +27757,7 @@ PWN:money.n.02		銭金
 PWN:money.n.03		貨幣
 PWN:money.n.03		通貨
 PWN:monism.n.01		一元論
+PWN:monitor.n.06		モニター
 PWN:monkey.n.01		エテ公
 PWN:monkey.n.01		サル
 PWN:monkey.n.01		マンキー
@@ -27770,6 +27827,10 @@ PWN:moonlight.n.01		月色
 PWN:moor.n.02		原野
 PWN:moor.n.02		平原
 PWN:moped.n.01		モーペッド
+PWN:moral.a.01		倫理的
+PWN:moral.a.01		善い
+PWN:moral.a.01		道徳的
+PWN:moral.a.01		順義
 PWN:morality.n.01		モラリティー
 PWN:morality.n.01		モラル
 PWN:morality.n.01		人倫
@@ -27783,6 +27844,8 @@ PWN:morality.n.01		道徳
 PWN:morality.n.01		道徳性
 PWN:morality.n.01		道義
 PWN:more.a.02		もっと	motto
+PWN:mores.n.01		モーレス
+PWN:mores.n.01		習律
 PWN:morning.n.01		モーニング
 PWN:morning.n.01		午前
 PWN:morning.n.01		午前中	gozenchū	cmn:wuqiánzhong
@@ -27833,6 +27896,7 @@ PWN:mosquito_net.n.01		蚊帳
 PWN:most.r.01		最も
 PWN:most.r.01		極
 PWN:most.r.01		極く
+PWN:mosul.n.01		モースル
 PWN:mother-in-law.n.01		姑
 PWN:mother-in-law.n.01		義母
 PWN:mother.n.01		おっ母
@@ -27862,6 +27926,7 @@ PWN:mother.n.01		母様
 PWN:mother.n.01		母者人
 PWN:mother.n.01		母親
 PWN:mother.v.01		オーバーケア+する
+PWN:motherhood.n.01		母性
 PWN:motion.n.03		モーション
 PWN:motion.n.03		動き
 PWN:motion.n.03		運動
@@ -28118,6 +28183,8 @@ PWN:musician.n.02		ミュージッシャン
 PWN:musician.n.02		音楽家
 PWN:muslim.n.01		イスラム教徒
 PWN:muslim.n.01		回教徒
+PWN:muslin.n.01		メリンス
+PWN:muslin.n.01		モスリン
 PWN:mussel.n.01		ムール貝
 PWN:mustache.n.01		ひげ
 PWN:mustache.n.01		上髭
@@ -28654,6 +28721,7 @@ PWN:nine.s.01		9個の
 PWN:nine.s.01		九	kyū (2)	cmn:jiŭ
 PWN:nine.s.01		九つ	kokonotsu
 PWN:nine.s.01		九の
+PWN:nineveh.n.01		ニネベ
 PWN:niobium.n.01		ニオブ
 PWN:nipple.n.01		乳頭
 PWN:nipple.n.01		乳首	chichikubi
@@ -30170,6 +30238,7 @@ PWN:passive.a.01		受動的
 PWN:passive.a.01		消極的
 PWN:passive.s.02		平和的
 PWN:passive.s.02		消極的
+PWN:passive_resistance.n.01		非暴力
 PWN:passport.n.02		パスポート
 PWN:passport.n.02		旅券
 PWN:passport.n.02		旅行免状
@@ -30235,6 +30304,8 @@ PWN:patch.v.03		継ぐ
 PWN:patch.v.03		継当+する
 PWN:patch.v.03		継当て+する
 PWN:patch.v.03		繕う
+PWN:paternalism.n.01		温情主義
+PWN:paternity.n.01		父性
 PWN:path.n.02		路地/露地	roji
 PWN:path.n.02		通り路
 PWN:path.n.02		通り道
@@ -30323,6 +30394,8 @@ PWN:patient.n.01		患者
 PWN:patio.n.01		テラス
 PWN:patio.n.01		パティオ
 PWN:patio.n.01		中庭
+PWN:patriarchy.n.01		家父長制
+PWN:patricide.n.01		尊属殺人
 PWN:pause.n.01		お休み
 PWN:pause.n.01		たえ間
 PWN:pause.n.01		と切れ
@@ -30889,6 +30962,8 @@ PWN:perturb.v.01		心配させる
 PWN:perturb.v.01		揺さぶる
 PWN:peru.n.01		ペルー
 PWN:peru.n.01		ペルー共和国
+PWN:pesticide.n.01		殺虫剤
+PWN:pesticide.n.01		防虫
 PWN:pestle.n.03		乳棒	nyūbō	cmn:rǔbàng
 PWN:pestle.n.03		擂り粉木	surikogi
 PWN:pestle.n.03		杵	kine
@@ -32593,6 +32668,9 @@ PWN:process.n.06		経過
 PWN:process.n.06		逕路
 PWN:process.n.06		過程
 PWN:processing.n.01		処理
+PWN:proctor.n.01		ミニター
+PWN:proctor.n.01		モニタ
+PWN:proctor.n.01		モニター
 PWN:produce.n.01		作物
 PWN:produce.n.01		青果
 PWN:produce.v.02		作りだす
@@ -36384,6 +36462,7 @@ PWN:sample.v.01		試みる
 PWN:sample.v.01		試味+する
 PWN:sample.v.01		試食+する
 PWN:sample.v.01		試飲+する
+PWN:san_marino.n.02		サンマリノ
 PWN:sanctification.n.01		神聖化
 PWN:sand.n.01		サンド
 PWN:sand.n.01		沙
@@ -40830,6 +40909,10 @@ PWN:sugar.n.01		雪白
 PWN:sugar_beet.n.02		サトウダイコン
 PWN:sugarcane.n.01		サトウキビ
 PWN:sugarcane.n.01		サトウキビ・砂糖黍	satōkibi
+PWN:suicide.n.01		自害
+PWN:suicide.n.01		自尽
+PWN:suicide.n.01		自殺
+PWN:suicide.n.01		自決
 PWN:suit.n.01		スーツ
 PWN:suit.n.01		背広
 PWN:suit.v.01		かなう
@@ -41404,6 +41487,8 @@ PWN:sympathy.n.02		共感
 PWN:sympathy.n.02		共鳴
 PWN:sympathy.n.02		共鳴り
 PWN:sympathy.n.02		同感
+PWN:sympatric.a.01		同所性
+PWN:sympatry.n.01		同所性
 PWN:symptom.n.01		症候
 PWN:symptom.n.01		症状
 PWN:synchronize.v.04		同期+する
@@ -42668,6 +42753,10 @@ PWN:tongue.n.01		ベロ
 PWN:tongue.n.01		舌	shita (1)
 PWN:tonicity.n.01		緊張
 PWN:tonicity.n.01		調子
+PWN:tons.n.01		多く
+PWN:tons.n.01		多数
+PWN:tons.n.01		多量
+PWN:tons.n.01		数十
 PWN:tool.n.01		職業上の必要具
 PWN:tooth.n.01		乳歯
 PWN:tooth.n.01		歯	ha (1)
@@ -44097,6 +44186,7 @@ PWN:vent.n.03		噴火口
 PWN:vent.n.03		火口
 PWN:ventilator.n.01		ベンチレーター
 PWN:ventilator.n.01		換気扇
+PWN:venus.n.01		金星
 PWN:verdict.n.01		事実認定
 PWN:version.n.02		バリアシオン
 PWN:version.n.02		バリエーション
@@ -44664,6 +44754,18 @@ PWN:warn.v.01		訓告+する
 PWN:warn.v.01		誡める
 PWN:warn.v.01		警告+する
 PWN:warn.v.01		警醒+する
+PWN:warn.v.02		戒める
+PWN:warn.v.02		戒飭+する
+PWN:warn.v.02		言いきかす
+PWN:warn.v.02		言いきかせる
+PWN:warn.v.02		言い聞かす
+PWN:warn.v.02		言い聞かせる
+PWN:warn.v.02		誡める
+PWN:warn.v.02		諌める
+PWN:warn.v.02		諫める
+PWN:warn.v.02		諭す
+PWN:warn.v.02		警める
+PWN:warn.v.02		警告+する
 PWN:warship.n.01		兵船
 PWN:warship.n.01		艨艟
 PWN:warship.n.01		軍船
@@ -45918,6 +46020,8 @@ PWN:zimbabwe.n.01		ローデシア
 PWN:zinc.n.01		ジンク
 PWN:zinc.n.01		亜鉛
 PWN:zirconium.n.01		ジルコニウム
+PWN:zombi.n.03		ゾンビ
+PWN:zombi.n.03		ゾンビー
 PWN:zone.n.01		ゾーン
 PWN:zone.n.01		区域
 PWN:zone.n.01		地区
