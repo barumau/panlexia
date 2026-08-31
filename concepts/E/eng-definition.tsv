@@ -39,6 +39,7 @@ PLX:COND.v	an auxiliary verb that marks grammatical mood used to express a propo
 PLX:Ceiba pentandra.n	A tree of the tropical Americas and west-central Africa, with white flowers, cultivated in south-east Asia for its seed fibre.
 PLX:Chinese New Year.n
 PLX:DEF.det	The definite article, like ”de” in English.
+PLX:DO.pp	marker for the direct grammatical object in the clause
 PLX:FUT.ptcl	The particle indicating the future tense.
 PLX:God willing.phr	a phrase used to express hope (while generally also indicating acceptance of God's will)
 PLX:IRR.ptcl	Particle for the irrealis mood.
@@ -57,15 +58,19 @@ PLX:Pan-European.a	concerning all parts of Europe
 PLX:Q.ptcl	The word that is used in the interrogation and indicates doubt
 PLX:REAL.ptcl	Particle for the realis mood.
 PLX:REFL.pro	The reflexive pronoun that refers to a previous noun or pronoun within the same sentence. 
+PLX:S.pp	marker for the grammatical subject in the clause
 PLX:Solanum oblongifolium.n	An Andean weed that grows in dry parts of forest and has white flowers and produces berries.
+PLX:VOC.pp	vocative marker for addressing a person
 PLX:Vaccinium mortinia.n	Vaccinium mortinia, a dark red berry.
 PLX:about.pp	on the topic of the specified thing
 PLX:above.pp	in a place that is higher than the specified location
 PLX:across.pp	at or to the opposite side of the specified thing
 PLX:after.pp	later than the specified time
 PLX:agbada.n	A flowing wide sleeved robe worn by men in much of West Africa, and to a lesser extent in North Africa.
+PLX:ah.int	an exclamation of relief, relaxation, comfort, confusion, understanding, wonder, awe, etc.
 PLX:aha.int	an exclamation of understanding, realization, invention, or recognition
 PLX:algorithm.n.01	a collection of ordered steps that solve a mathematical problem
+PLX:amen.int	an expression said at the end of religious prayers
 PLX:and or but.cnj
 PLX:and.cnj	Used to connect two homogeneous words or phrases.
 PLX:antifascism.n	opposition to fascism
@@ -169,6 +174,7 @@ PLX:may.v	have permission to do something
 PLX:men's house.n	A separate building for male persons.
 PLX:mochi.n	a small Japanese rice cake made from glutinous rice
 PLX:moksha.n	a Finnic language spoken primarily in the western part of Mordovia
+PLX:moo.int	onomatopoeic exclamation imitating the sound that cows make
 PLX:mother's brother.n	The brother of one's mother.
 PLX:mother's sister.n	The sister of one's mother.
 PLX:mother-in-law (of man).n	The mother-in-law of a man.
@@ -181,6 +187,7 @@ PLX:next_to.pp	To be positioned adjacent to.
 PLX:no-one.pro	A pronoun that refers to no-one.
 PLX:nor.cnj	The second word in neither... nor.
 PLX:nothing.pro	Not anything.
+PLX:of.cnj	modifier phrase marker
 PLX:of.pp	belonging to the specified person or thing
 PLX:oganesson.n	Oganesson, the chemical element with atomic number 118 and symbol Og.
 PLX:okay.n.01	an endorsement
@@ -887,7 +894,7 @@ PWN:battlefront.n.01	the line along which opposing armies face each other
 PWN:bay.n.01	An open, curving indentation made by the sea or a lake into a coastline.
 PWN:bay.n.01	an indentation of a shoreline larger than a cove but smaller than a gulf
 PWN:be.v.01	have the quality of being; (copula, used with an adjective or a predicate noun)
-PWN:be.v.03	To have existence.
+PWN:be.v.03	occupy a certain position or area; be somewhere
 PWN:be.v.11	To be alive; to have a life.
 PWN:be_active.v.01	be in a state of action
 PWN:be_born.v.01	To start living.
